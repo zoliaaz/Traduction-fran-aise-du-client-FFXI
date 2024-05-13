@@ -263,17 +263,17 @@ entries:
   161: |-
     ${color-alt: 161}La force de l’ancienne magie moogle s’est affaiblie et les tablettes ont de nouveau été dispersées aux vents.
     Vous pouvez sentir vos Super Kupowers commencer à disparaître...
-  162: '${color-alt: 161}This area is currently affected by the Super Kupower: “Thrifty Transit”!'
-  163: '${color-alt: 161}This area is currently affected by the Super Kupower: “Martial Master”!'
-  164: '${color-alt: 161}This area is currently affected by the Super Kupower: “Blood of the Vampyr”!'
-  165: '${color-alt: 161}This area is currently affected by the Super Kupower: “Treasure Hound”!'
-  166: '${color-alt: 161}This area is currently affected by the Super Kupower: “Artisan''s Advantage”!'
-  167: '${color-alt: 161}This area is currently affected by the Super Kupower: “Myriad Mystery Boxes”!'
-  168: '${color-alt: 161}This area is currently affected by the Super Kupower: “Dilatory Digestion”!'
-  169: '${color-alt: 161}This area is currently affected by the Super Kupower: “Boundary Buster”!'
-  170: '${color-alt: 161}This area is currently affected by the Super Kupower: “Bountiful Bazaar”!'
-  171: '${color-alt: 161}This area is currently affected by the Super Kupower: “Swift Shoes”!'
-  172: '${color-alt: 161}This area is currently affected by the Super Kupower: “Crystal Caboodle”!'
+  162: '${color-alt : 161}Cette zone est actuellement affectée par le Super Kupower : « Transit économe »!'
+  163: '${color-alt : 161}Cette zone est actuellement affectée par le Super Kupower : « Martial Master »!'
+  164: '${color-alt : 161}Cette zone est actuellement affectée par le Super Kupower : « Sang du Vampyr »!'
+  165: '${color-alt : 161}Cette zone est actuellement affectée par le Super Kupower : « Chasseur de Trésors »!'
+  166: '${color-alt : 161}Cette zone est actuellement affectée par le Super Kupower : « Avantage de l'Artisan » !'
+  167: '${color-alt : 161}Cette zone est actuellement affectée par le Super Kupower : « Myriad Mystery Boxes »!'
+  168: '${color-alt : 161}Cette zone est actuellement affectée par le Super Kupower : « Digestion Dilatoire »!'
+  169: '${color-alt : 161}Cette zone est actuellement affectée par le Super Kupower : « Boundary Buster »!'
+  170: '${color-alt : 161}Cette zone est actuellement affectée par le Super Kupower : « Bountiful Bazaar »!'
+  171: '${color-alt : 161}Cette zone est actuellement affectée par le Super Kupower : « Swift Shoes »!'
+  172: '${color-alt : 161}Cette zone est actuellement affectée par le Super Kupower : « Crystal Caboodle »!'
   173: |-
     ${color-alt: 161}L'ancienne magie du roi Kupofried remplit l'air, ses glorieux Super Kupowers apportant bonheur et joie au royaume !
     Visitez l'Explorateur Moogle dans les jardins Ru'Lude pour en savoir plus.
@@ -281,58 +281,58 @@ entries:
     ${color-alt: 161}Cette zone est actuellement concernée par le Super Kupower: “${choice: 0}[/Thrifty Transit/Martial Master/Blood of the Vampyr/Treasure Hound/Artisan's Advantage/Myriad Mystery Boxes/Dilatory Digestion/Boundary Buster/Bountiful Bazaar/Swift Shoes/Crystal Caboodle]”!
     Cette zone est actuellement concernée par le Super Kupower: “${choice: 1}[/Thrifty Transit/Martial Master/Blood of the Vampyr/Treasure Hound/Artisan's Advantage/Myriad Mystery Boxes/Dilatory Digestion/Boundary Buster/Bountiful Bazaar/Swift Shoes/Crystal Caboodle]”!
     Cette zone est actuellement affectée par le Super Kupower: “${choice: 2}[/Thrifty Transit/Martial Master/Blood of the Vampyr/Treasure Hound/Artisan's Advantage/Myriad Mystery Boxes/Dilatory Digestion/Boundary Buster/Bountiful Bazaar/Swift Shoes/Crystal Caboodle]”!
-  175: The synergy furnace is currently claimed.${prompt}
+  175: Le four à synergie est actuellement revendiqué.${prompt}
   176: |-
-    Claim usage of the furnace?
+    Réclamer l'utilisation du four ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  177: Your claim over the synergy furnace will expire in ten seconds.
+    Oui.
+    Non. ${prompt}
+  177: Votre revendication sur le four à synergie expirera dans dix secondes.
   178: |-
-    ${lettercase: 1}${keyitem-singular: 0[2]} set. You now have claim over the synergy furnace.
-    Please deposit your ingredients inside the furnace and initiate the synergy process within ${number: 1} minute${choice-plurality: 1}[/s].${prompt}
-  179: Please be aware that certain items are not suitable for use as synergy ingredients.${prompt}
+    ${lettercase : 1}${keyitem-singular : 0[2]} set. Vous avez désormais un droit sur le four à synergie.
+    Veuillez déposer vos ingrédients dans le four et lancer le processus de synergie dans ${nombre : 1} minute${choix-pluralité : 1}[/s].${prompt}
+  179: Veuillez noter que certains objets ne peuvent pas être utilisés comme ingrédients de synergie.${prompt}
   180: |-
-    You currently have claim over the synergy furnace.
-    Please deposit your ingredients inside the furnace and initiate the synergy process.${prompt}
-  181: 'The synergy furnace is currently in use by ${player: 1}.${prompt}'
-  182: 'The synergy furnace is currently in use by ${player: 2}.${prompt}'
-  183: 'The synergy furnace is currently in use by ${player: 3}.${prompt}'
-  184: 'The synergy furnace is currently in use by ${player: 4}.${prompt}'
-  185: 'The synergy furnace is currently in use by ${player: 5}.${prompt}'
+    Vous avez actuellement un droit sur le four à synergie.
+    Veuillez déposer vos ingrédients dans le four et lancer le processus de synergie.${prompt}
+  181: 'Le four à synergie est actuellement utilisé par ${player : 1}.${prompt}'
+  182: 'Le four à synergie est actuellement utilisé par ${player : 2}.${prompt}'
+  183: 'Le four à synergie est actuellement utilisé par ${player : 3}.${prompt}'
+  184: 'Le four à synergie est actuellement utilisé par ${player : 4}.${prompt}'
+  185: 'Le four à synergie est actuellement utilisé par ${player : 5}.${prompt}'
   186: |-
-    ${number: 0} ${choice-plurality: 1}[minute has/minutes have] elapsed.
-    Your claim over the synergy furnace has expired.${prompt}
-  187: A member of your party already has claim over the synergy furnace.
-  188: 'Possession of ${keyitem-article: 0[2]} is required to use a synergy furnace.${prompt}'
+    ${number : 0} ${choix-pluralité : 1}[la minute s'est/minute s'est] écoulée.
+    Votre droit sur le four à synergie a expiré.${prompt}'.
+  187: Un membre de votre groupe a déjà un droit sur le four à synergie.
+  188: 'La possession de ${keyitem-article : 0[2]} est nécessaire pour utiliser un four à synergie.${prompt}'
   189: |-
-    Unable to claim usage.
-    The synergy furnace is currently in use by ${player: 1}.
+    Impossible de revendiquer l'utilisation.
+    Le four à synergie est actuellement utilisé par ${player : 1}.
   190: |-
-    Unable to claim usage.
-    The synergy furnace is currently in use by ${player: 2}.
+    Impossible de revendiquer l'utilisation.
+    Le four à synergie est actuellement utilisé par ${player : 2}.
   191: |-
-    Unable to claim usage.
-    The synergy furnace is currently in use by ${player: 3}.
+    Impossible de revendiquer l'utilisation.
+    Le four à synergie est actuellement utilisé par ${player : 3}.
   192: |-
-    Unable to claim usage.
-    The synergy furnace is currently in use by ${player: 4}.
+    Impossible de revendiquer l'utilisation.
+    Le four à synergie est actuellement utilisé par ${player : 4}.
   193: |-
-    Unable to claim usage.
-    The synergy furnace is currently in use by ${player: 5}.
+    Impossible de revendiquer l'utilisation.
+    Le four à synergie est actuellement utilisé par ${player : 5}.
   194: |-
-    You have lost your eligibility to use the synergy furnace.
-    The claim holding party member has left the party or the area.${prompt}
-  195: You have regained your eligibility to use the synergy furnace.${prompt}
+    Vous n'avez plus le droit d'utiliser le four à synergie.
+    Le membre du groupe détenant la revendication a quitté le groupe ou la zone.${prompt}
+  195: Vous avez retrouvé le droit d'utiliser le four à synergie.${prompt}
   196: |-
-    Unable to proceed.
-    Possession of ${keyitem-article: 0[2]} is required to commence synergy.${prompt}
-  197: |-
-    Unable to proceed.
-    ${lettercase: 1}${item-plural: 0[2]} are not suitable for use as synergy ingredients.${prompt}
-  198: A synergy recipe does not exist for that combination of materials.${prompt}
-  199: That recipe is impossible at your synergy skill level.${prompt}
-  200: 'That recipe is impossible at your ${choice: 0}[fishing/woodworking/smithing/goldsmithing/clothcraft/leathercraft/bonecraft/alchemy/cooking] skill level.${prompt}'
+    Impossible de poursuivre.
+    La possession de ${keyitem-article : 0[2]} est nécessaire pour commencer la synergie.${prompt}
+  197 : |-
+    Impossible de poursuivre.
+    ${lettercase : 1}${item-plural : 0[2]} ne peuvent pas être utilisés comme ingrédients de synergie.${prompt}
+  198: Il n'existe pas de recette de synergie pour cette combinaison de matériaux.${prompt}
+  199: Cette recette est impossible à votre niveau de compétence en synergie.${prompt}
+  200: 'Cette recette est impossible à votre niveau de compétence ${choice: 0}[fishing/woodworking/smithing/goldsmithing/clothcraft/leathercraft/bonecraft/alchemy/cooking].${prompt}'
   201: |-
     Element and target value:
     ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 1}
@@ -21444,77 +21444,77 @@ entries:
   10056: Merci beaucoup d'avoir bravé les dangers et de m'avoir trouvé. Vous avez mes remerciements. Maintenant, assez de formalités...${prompt}
   10057: Merci beaucoup d'avoir bravé les dangers et de m'avoir trouvé. Je suis très reconnaissant. Maintenant, passons aux choses sérieuses...${prompt}
   10058: Merci beaucoup d'avoir bravé les dangers et de m'avoir trouvé. Vous avez mes remerciements. Maintenant, alors...${prompt}
-  10059: I hereby assign you, ${name-player}, to the post of attaché of the Embassy to Jeuno.${prompt}
-  10060: I hereby assign you, ${name-player}, to the post of attaché of the Embassy to Jeuno.${prompt}
-  10061: I hereby assign you, ${name-player}, to the post of attaché of the Embassy to Jeuno.${prompt}
-  10062: May you apply all your powers for the sake of the motherland and her friendship with Jeuno.${prompt}
-  10063: Do all you can for your country and her friendship with Jeuno.${prompt}
-  10064: May you prove yourself useful to our homeland and her friendship with Jeuno.${prompt}
-  10065: For the time being, devote your efforts to our righteous conquest of Jeuno's outlying regions.${prompt}
-  10066: For now, the administration needs your help in the conquest and security of Jeuno's outlying regions.${prompt}
-  10067: For now, we need your help in the conquest. We want to bring all of Jeuno's outlying regions under Windurst's umbrella.${prompt}
-  10068: Prove yourself, and I might have need of you later. When the time comes, I hope you can help me as you did before.${prompt}
-  10069: You know, there's a certain special task you may be interested in later. Now is not the time, but I'll keep you in mind.${prompt}
-  10070: Do not stray far, as I may have need of you later. When that time comes, I hope you'll be just as helpful as you were before.${prompt}
-  10071: For the time being, apply your efforts to our righteous conquest of the regions adjacent to Jeuno.${prompt}
-  10072: For now, the administration needs your help in the conquest and security of the regions bordering Jeuno.${prompt}
-  10073: For now, we need your help in the conquest. We want to bring all of Jeuno's outlying regions under Windurst's umbrella.${prompt}
-  10074: Well met, ${name-player}. Her Excellency requires your service. Once you have completed your current mission, return and seek an audience with her.${prompt}
-  10075: At ease, soldier. The ambassador wants a word with you. Once you're done with your current mission, report back on the double!${prompt}
-  10076: Good day, ${name-player}. His Excellency needs your help. Do us a favor and come back once you've completed your current mission, okay?${prompt}
-  10077: Her Excellency requires help in an important matter. Proceed, and listen well.${prompt}
-  10078: The ambassador wants you for a special operation. Get to the briefing, pronto!${prompt}
-  10079: His Excellency seeks your help in something important. Best head into the rear chamber.${prompt}
-  10080: Thank you for coming, ${name-player}.${prompt}
-  10081: Thanks for volunteering, ${name-player}.${prompt}
-  10082: Thanks for coming, ${name-player}.${prompt}
-  10083: This embassy has received a request from the Archduke of Jeuno to send someone for a special mission.${prompt}
-  10084: According to a message we received from the Court of Jeuno, they want someone for a special mission.${prompt}
-  10085: We received a request from the Archduke of Jeuno to send someone for a special mission.${prompt}
-  10086: Due to your exemplary service at Delkfutt's Tower, I believe you to be the foremost candidate.${prompt}
-  10087: At Delkfutt's Tower, you demonstrated bravery above and beyond the call of duty. That's why I want you to spearhead this mission.${prompt}
-  10088: Because of your selfless courage at Delkfutt's Tower, I want to recommend you for this mission.${prompt}
-  10089: Will you serve?${prompt}
-  10090: Well, what do you say?${prompt}
-  10091: Do you accept?${prompt}
-  10092: Succeed, and you will honor us all, ${name-player}. I am optimistic that you will gain the archduke's countenance.${prompt}
-  10093: This kind of thing is a great honor, ${name-player}. I'm sure you'll gain the archduke's trust.${prompt}
-  10094: Your deeds will shine upon us all, ${name-player}. I'm sure you'll be able to put the archduke's worries to rest.${prompt}
+  10059: Je vous affecte, ${name-player}, au poste d'attaché de l'ambassade à Jeuno.${prompt}
+  10060: Je vous affecte, ${name-player}, au poste d'attaché de l'Ambassade à Jeuno.${prompt}
+  10061: Je vous nomme, ${name-player}, au poste d'attaché de l'Ambassade auprès de Jeuno.${prompt}
+  10062: Puissiez-vous mettre tous vos pouvoirs au service de la patrie et de son amitié avec Jeuno.${prompt}
+  10063: Faites tout ce que vous pouvez pour votre pays et son amitié avec Jeuno.${prompt}
+  10064: Puissiez-vous vous montrer utile à notre patrie et à son amitié avec Jeuno.${prompt}
+  10065: Pour l'instant, consacrez vos efforts à notre juste conquête des régions périphériques de Jeuno.${prompt}
+  10066: Pour l'instant, l'administration a besoin de votre aide pour conquérir et sécuriser les régions périphériques de Jeuno.${prompt}
+  10067: Pour l'instant, nous avons besoin de votre aide pour la conquête. Nous voulons placer toutes les régions périphériques de Jeuno sous l'égide de Windurst.${prompt}
+  10068: Faites vos preuves, et je pourrais avoir besoin de vous plus tard. Le moment venu, j'espère que vous pourrez m'aider comme vous l'avez fait auparavant.${prompt}
+  10069: Vous savez, il y a une tâche spéciale qui pourrait vous intéresser plus tard. Ce n'est pas le moment, mais je ne vous oublierai pas.${prompt}
+  10070: Ne vous éloignez pas, car je pourrais avoir besoin de vous plus tard. Le moment venu, j'espère que vous serez aussi utile que vous l'étiez auparavant. ${prompt}
+  10071: Pour l'instant, consacrez vos efforts à la conquête des régions adjacentes à Jeuno.${prompt}
+  10072: Pour l'instant, l'administration a besoin de votre aide pour conquérir et sécuriser les régions limitrophes de Jeuno.${prompt}
+  10073: Pour l'instant, nous avons besoin de votre aide pour la conquête. Nous voulons placer toutes les régions périphériques de Jeuno sous l'égide de Windurst.${prompt}
+  10074: Bien reçu, ${name-player}. Son Excellence a besoin de vous. Une fois votre mission accomplie, revenez la voir et demandez-lui une audience.${prompt}
+  10075: Repos, soldat. L'ambassadeur veut vous parler. Une fois votre mission terminée, faites un rapport sur le double!${prompt}
+  10076: Bonjour, ${name-player}. Son Excellence a besoin de votre aide. Rendez-nous service et revenez dès que vous aurez terminé votre mission, d'accord ?
+  10077: Son Excellence a besoin d'aide pour une affaire importante. Procédez, et écoutez bien.${prompt}
+  10078: L'ambassadeur vous demande pour une opération spéciale. Rendez-vous au briefing, pronto!${prompt}
+  10079: Son Excellence vous demande de l'aide pour quelque chose d'important. Dirigez-vous vers la chambre arrière.${prompt}
+  10080: Merci d'être venu, ${name-player}.${prompt}
+  10081: Merci de vous être porté volontaire, ${name-player}.${prompt}
+  10082: Merci d'être venu, ${name-player}.${prompt}
+  10083: Cette ambassade a reçu une demande de l'Archiduc de Jeuno d'envoyer quelqu'un pour une mission spéciale.${prompt}
+  10084: Selon un message que nous avons reçu de la Cour de Jeuno, ils veulent quelqu'un pour une mission spéciale.${prompt}
+  10085: L'archiduc de Jeuno nous a demandé d'envoyer quelqu'un pour une mission spéciale.${prompt}
+  10086: En raison de votre service exemplaire à la Tour Delkfutt, je pense que vous êtes le meilleur candidat.${prompt}
+  10087: A la Tour Delkfutt, vous avez fait preuve d'une bravoure hors du commun. C'est pourquoi je veux que vous soyez le fer de lance de cette mission.${prompt}
+  10088: En raison de votre courage désintéressé à la Tour Delkfutt, je veux vous recommander pour cette mission.${prompt}
+  10089: Voulez-vous servir ? ${prompt}
+  10090: Alors, qu'en dites-vous ? ${prompt}
+  10091: Acceptez-vous ? ${prompt}
+  10092: Réussissez, et vous nous honorerez tous, ${name-player}. J'ai bon espoir que vous gagniez l'approbation de l'archiduc.${prompt}
+  10093: Ce genre de chose est un grand honneur, ${name-player}. Je suis sûr que vous gagnerez la confiance de l'archiduc.${prompt}
+  10094: Vos exploits rayonneront sur nous tous, ${name-player}. Je suis sûr que vous saurez apaiser les inquiétudes de l'archiduc.${prompt}
   10095: |-
-    Proceed to the archduke's palace?
+    Vous vous rendez au palais de l'archiduc ?
     ${selection-lines}
-    Right away.
-    Let me think about it.${prompt}
-  10096: Your deeds will shine upon us all!${prompt}
-  10097: That's the spirit!${prompt}
-  10098: Spoken like a true Windurstian!${prompt}
-  10099: Either way, you must present yourself to the archduke as a new member of the San d'Orian diplomatic mission. It is always darkest before dawn, as they say.${prompt}
-  10100: Don't stress over it. All new diplomatic personnel have to report to the archduke anyway. It's always darkest before the dawn, as they say.${prompt}
-  10101: Hey, don't worry! All new diplomatic staff have to present themselves to the archduke anyway. It's always darkest before the dawn, say the wise men.${prompt}
-  10102: 'This is your ${keyitem-singular: 7[2]}.${prompt}'
-  10103: 'You already have ${keyitem-article: 7[2]}? Well, I guess there is no need to issue a new one.${prompt}'
-  10104: 'Here''s ${keyitem-article: 7[2]}.${prompt}'
-  10105: 'You already have ${keyitem-article: 7[2]}? Well, I guess we don''t have to issue you a new one, then.${prompt}'
-  10106: 'Here is your ${keyitem-singular: 7[2]}.${prompt}'
-  10107: 'You already have ${keyitem-article: 7[2]}? Well, I guess there is no need to issue you a new one.${prompt}'
-  10108: Our friendship with the Jeunoans rests upon your shoulders. Luck be with you!${prompt}
-  10109: Our reputation with Jeuno depends on you. Don't let us down.${prompt}
-  10110: This mission is critical to our friendship with the Jeunoans. May the stars watch over you!${prompt}
-  10111: Our prayers are with you. Now, make haste to the archduke's palace!${prompt}
-  10112: We believe in you, ${name-player}. Now, seek audience with the archduke!${prompt}
-  10113: Go, and the winds of fortune will follow you. You mustn't keep the archduke waiting!${prompt}
-  10114: It reads, “Restricted Area.”${prompt}
-  10115: You have no letter of introduction.${prompt}
-  10116: The consulate is away.${prompt}
-  10117: You do not have a permit to see the archduke.${prompt}
-  10118: So, you're the new attaché.${prompt}
-  10119: I am Kam'lanaut, Archduke of Jeuno. I'd like your nation's help with a certain matter.${prompt}
-  10120: Oh, a visitor?${prompt}
-  10121: Hello there. My name's Eald'narche. Pleased to meet ya.${prompt}
-  10122: This is my brother. Don't let him bother you.${prompt}
-  10123: Now, let us get down to business. I summoned you here for a certain mission. Have you heard word of the Shadow Lord?${prompt}
-  10124: My sources tell me that beastmen in Davoi, Beadeaux, and Castle Oztroja are conspiring to return him to Vana'diel.${prompt}
-  10125: They seek to do so by harnessing the power of mysterious stones called magicite.${prompt}
+    Tout de suite.
+    Laissez-moi y réfléchir.
+  10096: Vos actes nous éclaireront tous!${prompt}
+  10097: C'est l'esprit!${prompt}
+  10098: Vous parlez comme un vrai Windurstian!${prompt}
+  10099: Quoi qu'il en soit, vous devez vous présenter à l'archiduc en tant que nouveau membre de la mission diplomatique de San d'Orian. C'est toujours avant l'aube qu'il fait le plus sombre, comme on dit.${prompt}
+  10100: Ne vous inquiétez pas. Tous les nouveaux membres du personnel diplomatique doivent se présenter à l'archiduc de toute façon. C'est toujours le plus sombre avant l'aube, comme on dit.${prompt}
+  10101: Ne vous inquiétez pas ! Tous les nouveaux membres du personnel diplomatique doivent de toute façon se présenter à l'archiduc. C'est toujours plus sombre avant l'aube, disent les sages.${prompt}
+  10102: 'Ceci est votre ${keyitem-singular : 7[2]}.${prompt}'
+  10103: 'Vous avez déjà ${keyitem-article : 7[2]} ? Eh bien, je suppose qu'il n'est pas nécessaire d'en émettre un nouveau.${prompt}'
+  10104: 'Voici ${keyitem-article : 7[2]}.${prompt}'
+  10105: 'Vous avez déjà ${keyitem-article : 7[2]} ? Eh bien, je suppose que nous n'avons pas besoin de vous en délivrer un nouveau, alors.${prompt}''
+  10106: 'Voici votre ${keyitem-singular : 7[2]}.${prompt}'
+  10107: 'Vous avez déjà ${keyitem-article : 7[2]} ? Eh bien, je suppose qu'il n'est pas nécessaire de vous en délivrer un nouveau.${prompt}'
+  10108: Notre amitié avec les Jeunoans repose sur vos épaules. Que la chance soit avec vous!${prompt}
+  10109: Notre réputation auprès de Jeuno dépend de vous. Ne nous décevez pas.${prompt}
+  10110: Cette mission est cruciale pour notre amitié avec les Jeunoans. Que les étoiles veillent sur vous!${prompt}
+  10111: Nos prières vous accompagnent. Hâtez-vous de rejoindre le palais de l'archiduc !${prompt}
+  10112: Nous croyons en vous, ${nom-joueur}. Demandez audience à l'archiduc!${prompt}
+  10113: Partez, et le vent de la fortune vous suivra. Ne faites pas attendre l'archiduc!${prompt}
+  10114: Il est écrit « Zone interdite ».
+  10115: Vous n'avez pas de lettre d'introduction.
+  10116: Le consulat est absent.${prompt}
+  10117: Vous n'avez pas de permis pour voir l'archiduc.${prompt}
+  10118: Vous êtes donc le nouvel attaché.${prompt}
+  10119: Je suis Kam'lanaut, archiduc de Jeuno. J'aimerais que votre nation m'aide dans une certaine affaire. ${prompt}
+  10120: Oh, un visiteur ? ${prompt}
+  10121: Bonjour. Je m'appelle Eald'narche. Enchanté.
+  10122: Voici mon frère. Ne le laissez pas vous déranger.${prompt}
+  10123: Passons aux choses sérieuses. Je vous ai convoqué pour une certaine mission. Avez-vous entendu parler du Seigneur des Ombres ? ${prompt}
+  10124: Mes sources me disent que les hommes-bêtes de Davoi, de Beadeaux et du château d'Oztroja conspirent pour le ramener à Vana'diel.${prompt}
+  10125: Ils cherchent à le faire en exploitant le pouvoir de pierres mystérieuses appelées magicite.${prompt}
   10126: To stop their nefarious plan, I want you to go to those three places and seize that magicite.${prompt}
   10127: 'Of course, I intend to reward you for a task of this magnitude. I will issue ${keyitem-article: 7[2]} upon receipt of the three magicite.${prompt}'
   10128: With it, you can swiftly travel home, or to any civilized land, for that matter.${prompt}
@@ -21874,29 +21874,19 @@ entries:
     How do you remove an item?
     My “Sales Status” list is full!
     Nothing right now.${prompt}
-  10313: Auction houses can be found in all of Vana'diel's Majorité cities. Here adventurers gather to bid on battle spoils, unwanted items, old armor...almost anything.${prompt}
-  10314: Currently, the auction houses in Bastok, San d'Oria, Windurst, and Jeuno all work independently. Therefore, prices differ from city to city.${prompt}
-  10315: Adventurers may use any auction house regardless of nationality.${prompt}
-  10316: The first adventurer to bid at or above the asking price will automatically purchase the product.${prompt}
-  10317: Once put up for auction, merchandise will remain there for a maximum of thirty weeks Vana'diel time (nine-and-a-half days Earth time).${prompt}
-  10318: If merchandise does not sell within this time limit, it will be returned to the seller's current residence.${prompt}
-  10319: Transaction fees are proportional to the amount for which an item is put up on auction. The method of calculating this fee is different for single items and stackable items.${prompt}
-  10320: A transaction fee is collected when any merchandise is put up for auction. This fee is nonrefundable.${prompt}
-  10321: The International Auction House Committee, or IAHC, has declared that a maximum of seven items may be put up for auction at one time.${prompt}
-  10322: However, the IAHC has recently removed the limit to how many items one may purchase.${prompt}
-  10323: A small amount of time is required before new merchandise appears on our bid list.${prompt}
-  10324: Once an item appears on your “Sales Status” list, it may not immediately appear on the bid list. If you do not see your item on the bid list, try looking again at a later time.${prompt}
-  10325: If you would like to withdraw an item from an auction, you must travel to the auction house, and select “Stop Sale” from the “Sales Status” menu.${prompt}
-  10326: To remove an item from your “Sales Status” list, you must visit an auction counter to acknowledge the sale or return of your merchandise.${prompt}
-  10327: Otherwise, previously sold or returned items will fill up your list and prevent you from selling any more merchandise.${prompt}
-  10328: At any auction counter, open the “Sales Status” menu and acknowledge the transaction to clear it from the list.${prompt}
-  10329: Press the confirm button to remove any transaction colored yellow (sold) or red (returned).${prompt}
-  10330: Is there anything else you would like to know?${prompt}
-  10331: In the past, many have amassed great wealth through the auction house. I hope you find fortune, too!${prompt}
-  10332: You receive nothing from the moon rabbit...${prompt}
-  10333: The moon rabbit has brought along a monster!${prompt}
-  10334: You have to do something about those crazy trees, kupo!${prompt}
-  10335: You're done fighting trees, kupo?${prompt}
+  On trouve des salles des ventes dans toutes les villes de la Majorité de Vana'diel. Les aventuriers s'y retrouvent pour enchérir sur des butins de guerre, des objets indésirables, de vieilles armures... presque tout.${prompt}
+  10314: Actuellement, les hôtels des ventes de Bastok, San d'Oria, Windurst et Jeuno fonctionnent indépendamment les uns des autres. Les prix varient donc d'une ville à l'autre.${prompt}
+  10315: Les aventuriers peuvent utiliser n'importe quel hôtel des ventes, quelle que soit leur nationalité.${prompt}
+  10316: Le premier aventurier à enchérir à un prix égal ou supérieur au prix demandé achètera automatiquement le produit.${prompt}
+  10317: Une fois mise aux enchères, la marchandise y restera pendant un maximum de trente semaines en temps Vana'diel (neuf jours et demi en temps terrestre).${prompt}
+  10318: Si la marchandise n'est pas vendue dans ce délai, elle sera renvoyée à la résidence actuelle du vendeur.${prompt}
+  10319: Les frais de transaction sont proportionnels au montant de la mise aux enchères. La méthode de calcul de ces frais est différente selon qu'il s'agit d'un objet unique ou d'un objet cumulable.${prompt}
+  10320: Des frais de transaction sont perçus lors de la mise aux enchères de toute marchandise. Ces frais ne sont pas remboursables.${prompt}
+  10321: Le Comité international des maisons de vente aux enchères, ou IAHC, a déclaré qu'un maximum de sept articles peuvent être mis aux enchères en même temps.${prompt}
+  10322: Toutefois, l'IAHC a récemment supprimé la limite du nombre d'objets que l'on peut acheter.${prompt}
+  10323: Un petit délai est nécessaire avant que de nouvelles marchandises apparaissent sur notre liste d'enchères.${prompt}
+  10334: Il faut faire quelque chose pour ces arbres fous, kupo!${prompt}
+  10335: Vous avez fini de vous battre contre les arbres, kupo?${prompt}
   10336: ${prompt}
   10337: ${prompt}
   10338: ${prompt}
