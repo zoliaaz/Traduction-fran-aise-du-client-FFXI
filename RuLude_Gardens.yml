@@ -22496,57 +22496,57 @@ entries:
     Retour.${prompt}
   10618: 'ENDPARA：${number: 0}${prompt}'
   10619: |-
-    Which service do you request?
+    Quel service demandez-vous ?
     ${selection-lines}
-    Buy/Sell items.
-    Teleportation.
-    Nothing.${prompt}
+    Achat/Vente d'objets.
+    Téléportation.
+    Rien.${prompt}
   10620: |-
-    Do you really wish to be teleported?
+    Souhaitez-vous vraiment être téléporté ?
     ${selection-lines}
-    Yes.
-    Teleport with gil.
-    Teleport with conquest points.
-    No.${prompt}
-  10621: Welcome to the border shop! If you trade me unused equipment, I'll add their value to your country's region points!${prompt}
+    Oui.
+    Téléportation avec de l'argent.
+    Téléportation avec des points de conquête.
+    Non.${prompt}
+  10621: Bienvenue dans la boutique de la frontière ! Si vous m'échangez des équipements inutilisés, j'ajouterai leur valeur aux points de région de votre pays!${prompt}
   10622: |-
-    It should please you to know that I now also deal in ${item-plural: 0[2]}.
-    Bigger pieces will earn you more points for your nation, and I'll even toss some gil into the equation!${prompt}
-  10623: I see that your home country has control of this region. Feel free to browse through my wares.${prompt}
-  10624: I see that your home country is allies with the country in control of this region. Feel free to browse through my wares.${prompt}
-  10625: 'I can teleport you to your home country for ${number: 1} gil or ${number: 3} conquest ${choice-plurality: 3}[point/points].${prompt}'
-  10626: "Word has it that the entire set of mog tablets has been recovered. \nOh, happy day! In honor of the occasion, I can teleport you to your home country free of charge.${prompt}"
-  10627: I am terribly sorry, but it seems as if you do not have enough gil.${prompt}
-  10628: I am terribly sorry, but it seems as if you do not have enough conquest points.${prompt}
-  10629: However, due to your home country's lack of influence in the region, this is the only transaction I am authorized to perform with you at the moment.${prompt}
-  10630: I am looking forward to doing business with you again in the future!${prompt}
-  10631: Thank you. This will increase your nation's region points by a small amount. If you have anything else, by all means, trade them to me.${prompt}
-  10632: Thank you. This will increase your nation's region points moderately. If you have anything else, by all means, trade them to me.${prompt}
-  10633: Thank you. This will increase your nation's region points greatly. If you have anything else, by all means, trade them to me.${prompt}
-  10634: I could not accept one or more items you tried to trade me. Please remove those items and try again.${prompt}
-  10635: Sorry. I can only take certain types of weapons, shields, or armor.${prompt}
+    Sachez que je propose désormais également des ${item-plural: 0[2]}.
+    Les plus grosses pièces vous rapporteront plus de points pour votre nation, et j'ajouterai même un peu de gil dans l'équation!${prompt}
+  10623: Je vois que votre pays contrôle cette région. N'hésitez pas à faire le tour de mes marchandises.${prompt}
+  10624: Je vois que votre pays est allié au pays qui contrôle cette région. N'hésitez pas à consulter mes marchandises.${prompt}
+  10625: 'Je peux vous téléporter dans votre pays d’origine pour ${number: 1} gil ou ${number: 3} conquête ${choice-plurality: 3}[point/points].${prompt}'
+  10626: "Il semblerait que l'ensemble des tablettes mog ait été récupéré. \nOh, joyeux jour ! En l'honneur de cette occasion, je peux vous téléporter gratuitement dans votre pays d'origine.${prompt}"
+  10627: Je suis terriblement désolé, mais il semble que vous n'ayez pas assez de gil.${prompt}
+  10628: Je suis terriblement désolé, mais il semble que vous n'ayez pas assez de points de conquête.${prompt}
+  10629: Cependant, en raison du manque d'influence de votre pays dans la région, c'est la seule transaction que je suis autorisé à effectuer avec vous pour le moment.${prompt}
+  10630: Je me réjouis de faire de nouveau affaire avec vous à l'avenir!${prompt}
+  10631: Merci. Ceci augmentera les points de région de votre nation d'une petite quantité. Si vous avez d'autres objets, n'hésitez pas à me les échanger.${prompt}
+  10632: Merci. Ceci augmentera modérément les points de région de votre nation. Si vous avez autre chose, n'hésitez pas à me l'échanger.${prompt}
+  10633: Merci. Ceci augmentera considérablement les points de région de votre nation. Si vous avez autre chose, n'hésitez pas à me l'échanger.${prompt}
+  10634: Je n'ai pas pu accepter un ou plusieurs objets que vous avez essayé de m'échanger. Veuillez retirer ces objets et réessayer.${prompt}
+  10635: Désolé. Je ne peux accepter que certains types d'armes, de boucliers ou d'armures.${prompt}
   10636: |-
-    Thank you. This will increase your nation's region points ${choice: 1}[by a small amount/moderately/greatly].
-    For this transaction I will also furnish you with ${number: 0} gil.${prompt}
-  10637: My apologies, but this type of item needs to be individually appraised. Please trade them to me one at a time.${prompt}
+    Merci. Ceci augmentera les points de région de votre nation ${choice: 1}[de peu/moyennement/grandement].
+    Pour cette transaction, je vous fournirai également ${number: 0} gil.${prompt}
+  10637: Je vous prie de m'excuser, mais ce type d'objet doit faire l'objet d'une évaluation individuelle. Veuillez me les remettre un par un.${prompt}
   10638: (DEBUG) Back to hometown!${prompt}
   10639: |-
-    What do you want?
+    Que voulez-vous ?
     ${selection-lines}
-    Would you cast Signet on me?
-    I'd like to set my home point here.
-    Nothing.${prompt}
+    Pourriez-vous me lancer un Signet ?
+    J'aimerais placer mon point d'attache ici.
+    Rien. ${prompt}
   10640: |-
-    What do you want?
+    Que voulez-vous ?
     ${selection-lines}
-    Pay ${number: 7} gil and set my home point here.
-    Nothing.${prompt}
-  10641: Your home point has been set.${prompt}
-  10642: You do not have enough gil to set your home point here.${prompt}
-  10643: 'I will set your home point here.${wait-animation: 0}${prompt}'
+    Payer${number: 7} gil et placer mon point de retour ici.
+    Rien.${prompt}
+  10641: Votre point de retour a été fixé.${prompt}
+  10642: Vous n'avez pas assez de gils pour définir votre point de retour ici.${prompt}
+  10643: 'Je vais fixer votre point de retour ici.${wait-animation: 0}${prompt}'
   10644: |-
-    We are currently on a beastman-purging campaign. We support adventurers from all nations.
-    Do your best to rid the world of those vile creatures.${prompt}
+    Nous menons actuellement une campagne de purge des hommes-bêtes. Nous soutenons les aventuriers de toutes les nations.
+    Faites de votre mieux pour débarrasser le monde de ces viles créatures.${prompt}
   10645: |-
     We are currently conducting an international exchange campaign.
     You may spend your conquest points to purchase items from foreign guards.${prompt}
