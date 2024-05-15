@@ -22548,15 +22548,15 @@ entries:
     Nous menons actuellement une campagne de purge des hommes-bêtes. Nous soutenons les aventuriers de toutes les nations.
     Faites de votre mieux pour débarrasser le monde de ces viles créatures.${prompt}
   10645: |-
-    We are currently conducting an international exchange campaign.
-    You may spend your conquest points to purchase items from foreign guards.${prompt}
+    Nous menons actuellement une campagne d'échange international.
+    Vous pouvez dépenser vos points de conquête pour acheter des objets aux gardes étrangers.${prompt}
   10646: |-
-    Thanks to you, our nation is now first in the conquest race!
-    Here is a small token of our appreciation.${prompt}
-  10647: Adventurers from nations that are ranked higher than ours in the conquest race may purchase items from us, but at a higher rate.${prompt}
+    Grâce à vous, notre nation est désormais première dans la course à la conquête !
+    Voici un petit témoignage de notre reconnaissance.${prompt}
+  10647: Les aventuriers des nations mieux classées que la nôtre dans la course à la conquête peuvent nous acheter des objets, mais à un tarif plus élevé.${prompt}
   10648: |-
-    You cannot currently purchase this item.
-    Please choose another.${prompt}
+    Vous ne pouvez pas acheter cet article pour le moment.
+    Veuillez en choisir un autre.${prompt}
   10649: Currently our nation is dispatching Expeditionary Forces across Vana'diel, and requests the participation of brave adventurers such as yourself.${prompt}
   10650: 'Requirements for participating in an E.F. are simple. Your party must consist of ${number: 5} members. Each member must be from this country, rank 3 or higher, and have reached a sufficient level.${prompt}'
   10651: Once your party is ready, come to me and I will teleport you to the nearest outpost.${prompt}
@@ -22812,169 +22812,169 @@ entries:
   10878: PAUSE${prompt}
   10879: '${number: 1}${prompt}'
   10880: |-
-    The minstrel of melodies is my name,
-    For a mere ${number: 6} gil I'll recall your past.
-    Your stories of love, anger, triumph, and shame,
-    The river of memories runs deep and vast.${prompt}
+    Je m'appelle le ménestrel des mélodies,
+    Pour un simple ${number: 6} gil, je rappellerai votre passé.
+    Vos histoires d'amour, de colère, de triomphe et de honte,
+    La rivière des souvenirs est profonde et vaste.${prompt}
   10881: |-
-    The minstrel of melodies is my name,
-    For a mere ${number: 6} gil I'd recall your past.
-    But I find that you're lacking in cash or in fame,
-    So until that time, my kind offer will last.${prompt}
-  10882: Now close your eyes...${prompt}
-  10883: I'm just starrrting out, so I don't have much...${prompt}
-  10884: Hello therrre. I worrrk for the M&P Market. I'm still new, so I don't know much about selling stuff...
-  10885: Hello therrre, ${choice-player-gender}[handsome/cutie]! The M&P Market has a lot of useful items, just for you!
-  10886: Hello therrre, ${choice-player-gender}[sir/ma'am]! Business is booming! The M&P Market even made me managerrr of this local shop!
-  10887: My new shipment has finally come in. Talk to me, and I can show you what we have!
+    Je m'appelle le ménestrel des mélodies,
+    Pour un simple ${number: 6} gil, je rappellerai votre passé.
+    Mais je constate que vous manquez d'argent ou de renommée,
+    En attendant, mon offre est la bienvenue.${prompt}
+  10882: Fermez les yeux... ${prompt}
+  10883: Je commence à peine, je n'ai pas grand-chose à dire... ${prompt}
+  10884: Bonjour à tous. Je travaille pour le marché M&P. Je suis encore nouveau, donc je ne connais pas grand chose à la vente...
+  10885: Bonjour à tous, ${choice-player-gender}[beau/beauté]! Le M&P Market propose de nombreux articles utiles, rien que pour vous !
+  10886: Bonjour à tous, ${choice-player-gender}[monsieur/madame]! Les affaires vont bon train ! Le M&P Market m'a même permis de devenir manager de ce magasin local!
+  10887: Ma nouvelle livraison est enfin arrivée. Parlez-moi, et je vous montrerai ce que nous avons!
   10888: |-
-    Thanks to you, I've made over ${number: 0} gil!
-    Wait time is ${number: 1}!
-  10889: Welcome!
-  10890: Hello therrre. I work for the Buffalo Bonanza Ranch. I'm still new, so I don't know much about selling stuff...
-  10891: Hello therrre, ${choice-player-gender}[handsome/cutie]! The Buffalo Bonanza Ranch has a lot of useful items, just for you!
-  10892: Hello therrre, ${choice-player-gender}[sir/ma'am]! Business is booming! The Buffalo Bonanza Ranch even made me managerrr of this local shop!
-  10893: My new shipment has finally come in. Talk to me, and I can show you what we have!
+    Grâce à vous, j'ai fait plus de ${number: 0} gil!
+    Le temps d'attente est de ${number: 1}!
+  10889: Bienvenue!
+  10890: Bonjour à tous. Je travaille pour le Buffalo Bonanza Ranch. Je suis encore nouveau, donc je ne sais pas trop comment vendre des choses...
+  10891: Bonjour à tous, ${choice-player-gender}[beau/beauté]! Le Buffalo Bonanza Ranch a beaucoup d'objets utiles, juste pour vous!
+  10892: Bonjour à tous, ${choice-player-gender}[monsieur/madame]! Les affaires vont bon train ! Le Buffalo Bonanza Ranch a même fait de moi le gérant de cette boutique locale!
+  10893: Ma nouvelle livraison est enfin arrivée. Parlez-moi, et je vous montrerai ce que nous avons!
   10894: |-
-    Thanks to you, I've made over ${number: 0} gil!
-    Wait time is ${number: 1}!
-  10895: Here's a little something for you!
-  10896: Welcome! If you have a cowbell, you can receive all of our wares at once!
-  10897: So that's what magicite looks like.${prompt}
-  10898: What could they possibly want with it?${prompt}
-  10899: What the...?${prompt}
+    Grâce à vous, j'ai fait plus de ${number: 0} gil!
+    Le temps d'attente est de ${number: 1}!
+  10895: Voici un petit quelque chose pour vous !
+  10896: Bienvenue ! Si vous avez une cloche à vache, vous pouvez recevoir toutes nos marchandises en même temps!
+  10897: Voilà à quoi ressemble la magicite. ${prompt}
+  10898: Qu'est-ce qu'ils pourraient bien vouloir en faire?${prompt}
+  10899: Qu'est-ce que...? ${prompt}
   10900: |-
-    You are too late.
-    I have awoken.${prompt}
-  10901: Your rage, cowardice, envy, arrogance, and apathy... From these I will spread the bane of Vana'diel.${prompt}
-  10902: Who are you!?${prompt}
-  10903: Your kind has awoken me...and this time, you will be destroyed!${prompt}
-  10904: You cannot stop me. Vana'diel will be a grave for you and all your kind!${prompt}
-  10905: The Shadow Lord? It can't be! His powers have returned!${prompt}
-  10906: Then it is true! The beastmen are trying to resurrect the Shadow Lord.${prompt}
-  10907: Those “explosives”--pretty amazing, aren't they?${prompt}
+    Vous arrivez trop tard.
+    Je me suis réveillé. ${prompt}
+  10901: Votre rage, votre lâcheté, votre envie, votre arrogance et votre apathie... C'est à partir d'elles que je répandrai le fléau de Vana'diel.${prompt}
+  10902: Qui êtes-vous?${prompt}
+  10903: Votre espèce m'a réveillé... et cette fois, vous serez détruits !${prompt}
+  10904: Vous ne pouvez pas m'arrêter. Vana'diel sera une tombe pour toi et tous les tiens !${prompt}
+  10905: Le Seigneur de l'Ombre ? Ce n'est pas possible ! Ses pouvoirs sont revenus!${prompt}
+  10906: Alors c'est vrai ! Les hommes-bêtes essaient de ressusciter le Seigneur de l'Ombre.${prompt}
+  10907: Ces « explosifs » sont plutôt étonnants, n'est-ce pas?${prompt}
   10908: |-
-    Indeed. Without them, we would not have been able to dig that mine.
-    Now, finally, we can compete with San d'Oria for power.${prompt}
-  10909: Heh, Quadav aren't good enough to live in there! One blast should take care of them...${prompt}
+    En effet. Sans eux, nous n'aurions pas pu creuser cette mine.
+    Maintenant, nous pouvons enfin rivaliser avec San d'Oria pour le pouvoir.${prompt}
+  10909: Heh, les Quadav ne sont pas assez bons pour vivre là-dedans ! Une seule explosion devrait suffire... ${prompt}
   10910: '...${prompt}'
-  10911: What is the matter, Babenn?${prompt}
+  10911: Qu'y a-t-il, Babenn ? ${prompt}
   10912: |-
-    Lord Raogrimm... We've found the Quadav temple in the mines, as you suspected.
-    I-I could not stop them.${prompt}
-  10913: That is unfortunate... As always, they don't even try to understand.${prompt}
-  10914: |-
-    Huh. Nothing.
-    With all the Quadav guarding the place, you think we'd find a treasure or two!${prompt}
-  10915: C'mon, let's move! Let's just finish this job and go.${prompt}
-  10916: Ulrich, wait!${prompt}
-  10917: As I thought...they were trying to protect their eggs...${prompt}
-  10918: But they don't even try to understand...${prompt}
-  10919: Is that all you've got, Raogrimm!?${prompt}
-  10920: Ulrich, why!?${prompt}
-  10921: Why? Because I never liked you, that's why!${prompt}
-  10922: You will never get away with this, Ulrich!${prompt}
-  10923: Watch me!
+    Seigneur Raogrimm... Nous avons trouvé le temple Quadav dans les mines, comme vous le pensiez.
+    Je n'ai pas pu les arrêter.${prompt}
+  10913 : C'est regrettable... Comme toujours, ils n'essaient même pas de comprendre. ${prompt}
+  10914 : |-
+    Huh. Rien.
+    Avec tous les Quadav qui gardent l'endroit, on aurait pu trouver un ou deux trésors !${prompt}
+  10915: Allez, on se bouge ! Finissons-en avec ce travail et partons. ${prompt}
+  10916: Ulrich, attendez!${prompt}
+  10917: Comme je le pensais... ils essayaient de protéger leurs oeufs... ${prompt}
+  10918: Mais ils n'essaient même pas de comprendre... ${prompt}
+  10919: C'est tout ce que vous avez, Raogrimm ?${prompt}
+  10920: Ulrich, pourquoi ?${prompt}
+  10921: Pourquoi ? Parce que je vous ai jamais aimé, voilà pourquoi !${prompt}
+  10922: Vous vous ne en tirerez jamais comme ça, Ulrich !${prompt}
+  10923: Regardez-moi !
   10924: '...Cornelia!?${prompt}'
-  10925: Wh-what have I done!?${prompt}
-  10926: Why...!?${prompt}
-  10927: I...couldn't let you die here, Raogrimm... There are people who need you...${prompt}
+  10925: Qu'est-ce que j'ai fait ? ${prompt}
+  10926: Pourquoi...!${prompt}
+  10927: Je ne pouvais pas te laisser mourir ici, Raogrimm... Il y a des gens qui ont besoin de vous... ${prompt}
   10928: Cornelia!!!${prompt}
-  10929: No... NOOOOO!${prompt}
-  10930: Wait for load.${prompt}
-  10931: So, that's what magicite looks like.${prompt}
-  10932: What are they trying to do with it, though?${prompt}
-  10933: '!!!${prompt}'
+  10929: Non... NOOOOON!${prompt}
+  10930: Attendez le chargement.${prompt}
+  10931: Voilà à quoi ressemble la magicite. ${prompt}
+  10932: Mais qu'est-ce qu'ils essaient d'en faire ? ${prompt}
+  10933: '!!${prompt}'
   10934: |-
-    You are too late...
-    I have already awakened.${prompt}
-  10935: Your rage, cowardice, envy, arrogance, and apathy...from these I will spread the bane that will destroy Vana'diel.${prompt}
-  10936: Who are you!?${prompt}
-  10937: Your kind awakened me...and this time, you will be destroyed!${prompt}
+    Il est trop tard...
+    Je me suis déjà réveillé.${prompt}
+  10935: Votre rage, votre lâcheté, votre envie, votre arrogance et votre apathie... c'est à partir d'eux que je répandrai le fléau qui détruira Vana'diel.${prompt}
+  10936: Qui êtes-vous ?${prompt}
+  10937: Vos semblables m'ont réveillé... et cette fois, vous serez détruits !${prompt}
   10938: |-
-    You cannot stop me.
-    Vana'diel will be the grave for you and all your kind!${prompt}
+    Vous ne pouvez pas m'arrêter.
+    Vana'diel sera votre tombeau et celui de tous les vôtres !${prompt}
   10939: |-
-    The Shadow Lord!? It can't be!
-    His powers couldn't have returned!?${prompt}
+    Le Seigneur des Ombres ! ? Ce n'est pas possible !
+    Ses pouvoirs n'ont pas pu revenir!?${prompt}
   10940: |-
-    Then it is true.
-    The beastmen are trying to bring back the Shadow Lord.${prompt}
-  10941: '...Be careful.${prompt}'
+    Alors c'est vrai.
+    Les hommes-bêtes essaient de ramener le Seigneur des Ombres. ${prompt}
+  10941: '...Soyez prudents.${prompt}'
   10942: |-
-    What now?
+    Et maintenant ?
     ${selection-lines}
     (Empty)
-    Event
+    Événement
     (Empty)
-    Warp
-    Went out of Zone
-    Flag Reset${prompt}
+    Déformation 
+    Sorti de la zone
+    Réinitialisation du drapeau${prompt}
   10943: |-
-    Which event?
+    Quel événement ?
     ${selection-lines}
     fs001:
-    Been out of zone at least once.
-    Reset quest flags only.${prompt}
+    Il a été hors zone au moins une fois.
+    Réinitialisation des drapeaux de quête uniquement.${prompt}
   10944: |-
-    Well, then.
+    Eh bien, dans ce cas.
     ${selection-lines}
     OK
-    Reset quest flags only.${prompt}
+    Réinitialisation des drapeaux de quête uniquement.${prompt}
   10945: |-
-    Warp where?
+    Déformation où?
     ${selection-lines}
     Magicite
     ???${prompt}
-  10946: Summoning, you say?${prompt}
-  10947: Yes, I would like to name this magic “summoning.”${prompt}
-  10948: The divine texts depict it in the form of the Star Sibyl commanding a great beast.${prompt}
-  10949: At any rate, we are very close. Soon, the magic of summoning will be complete.${prompt}
-  10950: Hmm...${prompt}
-  10951: Are you uneasy, Your Holiness?${prompt}
-  10952: Yes... Very.${prompt}
+  10946: Invocation, dites-vous?${prompt}
+  10947: Oui, j'aimerais nommer cette magie « invocation ».${prompt}
+  10948: Les textes divins la décrivent sous la forme d'une sibylle étoilée commandant une grande bête.${prompt}
+  10949: En tout cas, nous sommes très proches. Bientôt, la magie de l'invocation sera complète.${prompt}
+  10950: Hmm... ${prompt}
+  10951: Êtes-vous mal à l'aise, Votre Sainteté?${prompt}
+  10952: Oui... Très.${prompt}
   10953: |-
-    Time is of the essence.
-    The lines of battle are at Tahrongi Canyon, and draw close to Sarutabaruta.${prompt}
-  10954: The attack on Oztroja shall fail, and many flames of life will be extinguished...like the Star Reading, long ago.${prompt}
-  10955: Place your trust in me, Your Holiness. Windurst shall escape its fate of ruin.${prompt}
-  10956: The Book of the Gods has taught me everything.${prompt}
-  10957: It told me the meaning of the tower and the fountain. And it has taught me how to command the greatest of beasts.${prompt}
-  10958: Stars of the heavens, tell me what to do!${prompt}
-  10959: Tell me, Karaha-Baruha! Help me!${prompt}
-  10960: What happened? Are you all right?${prompt}
-  10961: So, that's what magicite looks like.${prompt}
-  10962: What could they possibly want with it?${prompt}
-  10963: What the...!?
+    Le temps presse.
+    Les lignes de combat se situent au canyon de Tahrongi et se rapprochent de Sarutabaruta.${prompt}
+  10954: L'attaque sur Oztroja échouera, et de nombreuses flammes de vie s'éteindront... comme la lecture des étoiles, il y a bien longtemps.${prompt}
+  10955: Faites-moi confiance, Votre Sainteté. Windurst échappera à son destin de ruine.${prompt}
+  10956: Le Livre des Dieux m'a tout appris.${prompt}
+  10957: Il m'a révélé la signification de la tour et de la fontaine. Et il m'a appris à commander les plus grands animaux.${prompt}
+  10958: Etoiles des cieux, dites-moi ce qu'il faut faire!${prompt}
+  10959: Dites-moi, Karaha-Baruha ! Aidez-moi!${prompt}
+  10960: Que s'est-il passé ? Vous allez bien?${prompt}
+  10961: Voilà à quoi ressemble la magicite.${prompt}
+  10962: Qu'est-ce qu'ils pourraient bien en faire?${prompt}
+  10963: Qu'est-ce que...?${prompt}
   10964: |-
-    You are too late...
-    I have already awakened.${prompt}
-  10965: Your anger, cowardice, envy, arrogance, and apathy...from these I will spread the bane that will destroy Vana'diel.${prompt}
-  10966: Who are you!?${prompt}
-  10967: Your kind has awakened me...and this time, you will be destroyed!${prompt}
+    Vous arrivez trop tard...
+    Je me suis déjà réveillé.${prompt}
+  10965: Votre colère, votre lâcheté, votre envie, votre arrogance et votre apathie... c'est à partir d'eux que je répandrai le fléau qui détruira Vana'diel.${prompt}
+  10966: Qui êtes-vous ?
+  10967: Votre espèce m'a réveillé... et cette fois, vous serez détruits !${prompt}
   10968: |-
-    You cannot stop me.
-    Vana'diel will be the grave for you and all your kind!${wait-animation: 1}
+    Vous ne pouvez pas m'arrêter.
+    Vana'diel sera votre tombeau et celui de tous les vôtres.!${wait-animation: 1}
   10969: |-
-    Was that a phantom?
-    An image...of the Shadow Lord?${prompt}
+    Était-ce un fantôme ?
+    Une image... du Seigneur de l'Ombre ? ${prompt}
   10970: |-
-    The Shadow Lord? It can't be!
-    His powers can't have returned!${prompt}
+    Le Seigneur des Ombres ? Ce n'est pas possible !
+    Ses pouvoirs ne peuvent pas être revenus!${prompt}
   10971: |-
-    Then it is true.
-    The beastmen are trying to bring the Shadow Lord back.${prompt}
-  10972: You be careful, too.${prompt}
-  10973: Shoo! Shoo! Keep your grimy claws off of Windurst Orastery minister, Ajido-Marujido!
-  10974: You are a fool for coming here to the throne room...alone.${prompt}
-  10975: You say you are the Windurst Orastery minister, Ajido-Marujido?${prompt}
+    Alors c'est vrai.
+    Les hommes-bêtes essaient de ramener le Seigneur de l'Ombre. ${prompt}
+  10972: Fais attention vous aussi.${prompt}
+  10973: Chut ! Ouste ! N'approchez pas vos griffes crasseuses du ministre de l'Orastère de Windurst, Ajido-Marujido!
+  10974: Vous êtes un imbécile de venir ici dans la salle du trône... seul.${prompt}
+  10975: Vous dites être le ministre de l'Orastère de Windurst, Ajido-Marujido?${prompt}
   10976: |-
-    Gawk! Orastery minister? And I am Aviatory minister!
-    How do we know what you speak is not lies? Gawk!${prompt}
-  10977: I should cut you up and send you to Heavens Tower! Gawk! Gawk!${prompt}
+    Gawk ! Ministre de l'Orastère ? Et je suis le ministre de l'aviation!
+    Comment savoir si ce que vous dites n'est pas un mensonge ? Gawk!${prompt}
+  10977: Je devrais vous découper et vous envoyer à la Tour des Cieux! Gawk! Gawk!${prompt}
   10978: |-
-    Kahk! Silence...
-    Our little friend came all the way from Windurst to greet us. Let us hear what he has to say.${prompt}
+    Kahk ! Silence...
+    Notre petit ami a fait tout ce chemin depuis Windurst pour nous saluer. Écoutons ce qu'il a à nous dire.${prompt}
   10979: Kahk-ka-ka! You came all this way to ask about the Full Moon Fountain?${prompt}
   10980: Well, you Tartutaru have probably already realized why the Horutoto Ruins were built and why the Full Moon Fountain exists underneath them.${prompt}
   10981: Those ruins are evil.${prompt}
