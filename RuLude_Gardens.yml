@@ -22388,13 +22388,13 @@ entries:
     Vous ne pouvez entreprendre qu'une seule mission de ravitaillement par jour.
     Revenez plus tard.${prompt}
   10589: Je suis désolée. Il semble que nous ayons un problème. Laissez-moi l'annuler.${prompt}
-  10590 : |-
+  10590: |-
     Vous n'avez plus besoin de donner de cristaux à votre rang actuel.
     Parlez au garde de la porte pour plus d'instructions.${prompt}
-  10591 : |-
+  10591: |-
     Vos points de rang sont pleins. Nous avons ajouté le surplus à vos points de conquête.
     Vous n'avez plus besoin de donner de cristaux. Allez à la maison de la porte pour de plus amples instructions.${prompt}
-  10592 : |-
+  10592: |-
     Bon travail, citoyen.
     Nous vous avons attribué des points de rang pour les cristaux que vous avez donnés.${prompt}
   10593: |-
@@ -22862,8 +22862,8 @@ entries:
   10912: |-
     Seigneur Raogrimm... Nous avons trouvé le temple Quadav dans les mines, comme vous le pensiez.
     Je n'ai pas pu les arrêter.${prompt}
-  10913 : C'est regrettable... Comme toujours, ils n'essaient même pas de comprendre. ${prompt}
-  10914 : |-
+  10913: C'est regrettable... Comme toujours, ils n'essaient même pas de comprendre. ${prompt}
+  10914: |-
     Huh. Rien.
     Avec tous les Quadav qui gardent l'endroit, on aurait pu trouver un ou deux trésors !${prompt}
   10915: Allez, on se bouge ! Finissons-en avec ce travail et partons. ${prompt}
@@ -22901,15 +22901,7 @@ entries:
     Alors c'est vrai.
     Les hommes-bêtes essaient de ramener le Seigneur des Ombres. ${prompt}
   10941: '...Soyez prudents.${prompt}'
-  10942: |-
-    Et maintenant ?
-    ${selection-lines}
-    (Empty)
-    Événement
-    (Empty)
-    Déformation 
-    Sorti de la zone
-    Réinitialisation du drapeau${prompt}
+  10942: "Et maintenant ?\n${selection-lines}\n(Empty)\nÉvénement\n(Empty)\nDéformation \nSorti de la zone\nRéinitialisation du drapeau${prompt}"
   10943: |-
     Quel événement ?
     ${selection-lines}
@@ -22999,31 +22991,31 @@ entries:
   10996: |-
     Il était tellement content qu'il ne m'a pas laissé voir la ${item-singular: 0[2]}, il m'a laissé l'essayer !
     Je pouvais sentir le poids des âmes de tous les bushin qui l'avaient porté avant moi.${prompt}
-  10997: But that weight was too great for me, and ever since that day, I've been striving to improve my skills.${prompt}
-  10998: But even now I don't think I could even grasp that belt with my own hands, let alone tie it around my waist. I still have much to learn...${prompt}
+  10997: Mais ce poids était trop lourd pour moi, et depuis ce jour, je m'efforce d'améliorer mes compétences.${prompt}
+  10998: Mais même aujourd'hui, je ne pense pas être capable de saisir cette ceinture de mes propres mains, et encore moins de la nouer autour de ma taille. J'ai encore beaucoup à apprendre... ${prompt}
   10999: |-
     ...
-    How many rounds have we gone now, ${name-player}...?${prompt}
+    Combien de rounds avons-nous fait maintenant, ${name-player}...?${prompt}
   11000: |-
-    I remember every single blow, every tiny shift of your stance.
-    I can't tell you how much I look forward to our little matches, heh heh heh.${prompt}
-  11001: But you know, I never imagined anyone would conquer all the challenges I set before ${choice-player-gender}[him/her]. Goes to show that even old Maat can be taught a thing or two!${prompt}
+    Je me souviens de chaque coup, de chaque petit changement de position.
+    Je ne saurais vous dire à quel point j'attends avec impatience nos petits matchs, heh heh heh.${prompt}
+  11001: Mais vous savez, je n'ai jamais imaginé que quelqu'un pourrait relever tous les défis que j'ai lancés... ${choice-player-gender}[lui/elle]. Cela prouve que même la vieille Maat peut apprendre une chose ou deux!${prompt}
   11002: |-
-    Now, I can't let such a great hero go home empty-handed.
-    I've decided to grant you any one wish you ask of me.
-    Don't get too exotic, though. I'm just an old man, not some Far Eastern genie!${prompt}
+    Je ne peux pas laisser un si grand héros rentrer chez lui les mains vides.
+    J'ai décidé d'exaucer tous les souhaits que vous me demanderez.
+    Mais ne soyez pas trop exotique, je ne suis qu'un vieil homme, pas un génie de l'Extrême-Orient!${prompt}
   11003: |-
-    Come on, then. No need to be shy.
-    What's it to be?${prompt}
+    Allez, venez. Pas besoin d'être timide.
+    Qu'est-ce qu'on fait ?${prompt}
   11004: |-
     ...!
-    Take off my hat!?
-    Are you sure that's want you want? Not much exciting going on under an old man's cap!${prompt}
-  11005: It's not too late to change your mind, you know.${prompt}
-  11006: 'There must be something else you want. A lifetime supply of Goblin chocolate? Afternoon tea with Princess Claidie? ${lettercase: 1}${article} ${item-article: 0[2]}, perhaps? Or maybe ${article} ${item-article: 1[2]}?${prompt}'
+    Enlevez mon chapeau !?
+    Vous êtes sûr que c'est ce que vous voulez ? Il n'y a pas grand-chose d'excitant sous la casquette d'un vieil homme!${prompt}
+  11005: Il n'est pas trop tard pour changer d'avis, vous savez.${prompt}
+  11006: 'Il doit y avoir quelque chose d’autre que vous voulez. Un approvisionnement à vie en chocolat Gobelin? Un thé l’après-midi avec la princesse Claidie? ${lettercase: 1}${article} ${item-article: 0[2]}, peut-être? Ou peut-être ${article} ${item-article: 1[2]}?${prompt}'
   11007: |-
-    No? You've made up your mind, it seems.
-    Young people these days--no imagination.${prompt}
+    Non ? Vous vous êtes fait une raison, semble-t-il.
+    Les jeunes de nos jours n'ont pas d'imagination.${prompt}
   11008: |-
     But if that's what you really want, it makes things easy for me, I suppose.
     I'll give you one last chance to change your wish...${prompt}
