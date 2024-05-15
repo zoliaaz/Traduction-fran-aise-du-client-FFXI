@@ -22038,78 +22038,78 @@ entries:
   10441: |-
     Oui, monsieur...
     Maintenant, nous devons partir. Je vous retrouverai à la porte à votre arrivée.${prompt}
-  10442: 'I''m sorry about the interruption. Anyway, you go get me that ${item-singular: 1[2]}. While you''re doing that, I''ll finish my business with Wolfgang.${prompt}'
-  10443: 'Find me ${article} ${item-article: 1[2]} and bring it back here. Then we can see what the final chapter holds for you.${prompt}'
-  10444: That wasn't so hard now, was it?${prompt}
-  10445: I bet you're wondering why I keep having you travel around the globe, collecting all these rare and obscure items for me.${prompt}
-  10446: Heh heh heh. I know what you're thinking. You're sick and tired of playing fetch for old Maat. You want a chance to show me what you're really made of.${prompt}
-  10447: Well, now that you mention it, I think I'd be delighted to test your might with my own hands.${prompt}
-  10448: I may look old, but I still have a lot of spunk in me. I can take anything and everything you've got.${prompt}
-  10449: What do you say? You'll get your chance to get back at me for all the trouble I've put you through, and I'll get some good exercise.${prompt}
+  10442: 'Désolé pour l’interruption. Quoi qu’il en soit, allez me chercher ce ${item-singular: 1[2]}. Pendant ce temps, je finirai mon affaire avec Wolfgang.${prompt}'
+  10443: 'Trouvez-moi ${article} ${item-article: 1[2]} et ramenez-le ici. Nous verrons alors ce que le dernier chapitre vous réserve.${prompt}'
+  10444: Ce n’était pas si difficile, n’est-ce pas? ${prompt}
+  10445: Je parie que vous vous demandez pourquoi je vous fais voyager autour du globe pour collecter tous ces objets rares et obscurs pour moi.${prompt}
+  10446: Heh heh heh. Je sais ce que vous pensez. Vous n’en pouvez plus de jouer les potiches pour le vieux Maat. Vous voulez avoir l’occasion de me montrer ce que vous valez vraiment.${prompt}
+  10447: Maintenant que vous le dites, je pense que je serais ravi de tester votre puissance de mes propres mains.${prompt}
+  10448: J’ai l'air vieux, mais j’ai encore du cran. Je peux prendre tout ce que vous avez.${prompt}
+  10449: Qu’en dites-vous ? Vous aurez l’occasion de vous venger de tous les ennuis que je vous ai causés, et je ferai un peu d’exercice.${prompt}
   10450: |-
-    Challenge Maat?
+    Combattre Maat ?
     ${selection-lines}
-    You bet!
-    I'm not ready to hit the mat.${prompt}
+    Et comment !
+    Je ne suis pas prêt à me mettre au tapis. ${prompt}
   10451: |-
-    Heh heh heh! That's the spirit!
-    Now take that ${item-singular: 1[2]} to the burning circle and throw it in. I'll be waiting for you inside.${prompt}
-  10452: Huh? You're not afraid of an old man now, are you? Well, I guess I can give you a little more time to prepare. You can call it a handicap. Heh heh heh.${prompt}
-  10453: So, are you ready to take me on?${prompt}
-  10454: 'Hey, that ${item-singular: 1[2]} you''ve got there is a piece of junk. You''ll need a new one if you want to fight me.${prompt}'
+    Heh heh heh ! C'est ça l'esprit !
+    Maintenant, apportez ce ${item-singular: 1[2]} dans le cercle brûlant et jetez-le dedans. Je t'attendrai à l'intérieur.${prompt}
+  10452: Hein ? Vous n’avez pas peur d’un vieil homme maintenant, n’est-ce pas ? Eh bien, je suppose que je peux vous donner un peu plus de temps pour vous préparer. Vous pouvez appeler ça un handicap. Heh heh heh.${prompt}
+  10453: Alors, êtes-vous prêt à m’affronter ?${prompt}
+  10454: 'Hé, ce ${item-singular: 1[2]} que vous avez là est un tas de ferraille. Vous en aurez besoin d’un nouveau si vous voulez vous battre avec moi.${prompt}'
   10455: |-
-    Let's see...
-    How about we duel it out ${choice: 0}[ /at Horlais Peak/at Balga's Dais/at Balga's Dais/at Horlais Peak/in the Waughroon Shrine/in the Waughroon Shrine/at the Qu'Bia Arena/at the Qu'Bia Arena/in the Waughroon Shrine/at the Qu'Bia Arena/at Horlais Peak/in the Chamber of Oracles/in the Chamber of Oracles/in the Chamber of Oracles/at Balga's Dais]? You know what to do with the ${item-singular: 1[2]} when you get there, right?${prompt}
+    Voyons voir...
+    Et si on se battait en duel ${choice: 0}[ /at Horlais Peak/at Balga's Dais/at Balga's Dais/at Horlais Peak/in the Waughroon Shrine/in the Waughroon Shrine/at the Qu'Bia Arena/at the Qu'Bia Arena/in the Waughroon Shrine/at the Qu'Bia Arena/at Horlais Peak/in the Chamber of Oracles/in the Chamber of Oracles/in the Chamber of Oracles/at Balga's Dais]? Vous savez quoi faire avec les ${item-singular: 1[2]} une fois sur place, n'est-ce pas ?${prompt}
   10456: |-
-    Now if you show me that ${item-singular: 1[2]}, I'll even teleport you to the battlefield.
-    Boy, are we going to have some fun!${prompt}
-  10457: I have to admit, that was one fine display of fighting, ${name-player}.${prompt}
-  10458: It's kind of hard to believe, but did you know that Jeuno was once a run-down, tiny little fishing village?${prompt}
+    Si vous me montrez ce ${item-singular: 1[2]}, je vous téléporterai même sur le champ de bataille.
+    On va bien s'amuser!${prompt}
+  10457: Je dois admettre que c'était une belle démonstration de combat, ${name-player}.${prompt}
+  10458: C'est difficile à croire, mais saviez-vous que Jeuno était autrefois un petit village de pêcheurs délabré ? ${prompt}
   10459: |-
-    Now look at her... There isn't a soul in Vana'diel who doesn't know her beauty.
-    Let me tell you a story...${prompt}
-  10460: Long ago, there was a young man--captain of a fishing boat, he was--who lived a modest life in the peaceful harbors of Jeuno. It was often hard for him to make ends meet, but he and his fishing buddies had no complaints. They loved their tiny village...${prompt}
-  10461: However, one stormy night, fate came knocking at his door when he rescued two strange lads from the nearby waters. From that day on, the wheels of change began to turn.${prompt}
-  10462: There was something different--something special--about those two. They possessed a great deal of knowledge and leadership, and in just a short period of time, they transformed Jeuno from an insignificant dot on the map into a giant metropolis.${prompt}
-  10463: At first, the captain welcomed these changes with open arms. However, later he began to ask himself if all this was truly for the good of Jeuno, or if the city was just being used as a piece of some bigger plan put into motion by the two mysterious men...${prompt}
-  10464: But by then it was too late... Jeuno and the people living within her walls had changed... There was no turning back.${prompt}
-  10465: 'And so the captain decided: While he still had life inside his bones, he would make it his mission to remain and watch over his hometown.${prompt}'
-  10466: Good day, Maat.${prompt}
-  10467: Oh, if it isn't Doctor Monberaux.${prompt}
-  10468: You are looking quite healthy these days, old chap.${prompt}
-  10469: As healthy as a Hobgoblin, thanks to your treatment. You sure know how to keep your patients happy, heh heh heh.${prompt}
-  10470: Ha ha. I'm just doing my job.${prompt}
-  10471: By the way...${prompt}
-  10472: Hm?${prompt}
-  10473: You mentioned this “captain” watching over Jeuno. What exactly was he making sure of?${prompt}
+    Maintenant, regardez-la... Il n'y a pas une âme à Vana'diel qui ne connaisse pas sa beauté.
+    Laissez-moi vous raconter une histoire... ${prompt}
+  10460: Il y a bien longtemps, un jeune homme, capitaine d'un bateau de pêche, menait une vie modeste dans les ports paisibles de Jeuno. Il avait souvent du mal à joindre les deux bouts, mais lui et ses compagnons de pêche ne se plaignaient pas. Ils aimaient leur petit village...${prompt}
+  10461: Cependant, par une nuit de tempête, le destin frappa à sa porte lorsqu'il sauva deux étranges garçons des eaux voisines. À partir de ce jour, la roue du changement s'est mise à tourner.${prompt}
+  10462: Il y avait quelque chose de différent, de spécial, chez ces deux-là. En peu de temps, ils ont transformé Jeuno, un point insignifiant sur la carte, en une gigantesque métropole.${prompt}
+  10463: Au début, le capitaine a accueilli ces changements à bras ouverts. Mais plus tard, il se demanda si tout cela était vraiment pour le bien de Jeuno, ou si la ville n'était pas simplement utilisée comme une pièce d'un plan plus vaste mis en place par les deux mystérieux hommes...${prompt}
+  10464: Mais il était déjà trop tard... Jeuno et ses habitants avaient changé... Il n'y avait plus de retour possible. ${prompt}
+  10465: 'C’est ainsi que le capitaine décida : Tant qu’il avait encore de la vie dans ses os, il se donnait pour mission de rester et de veiller sur sa ville natale.${prompt}'
+  10466: Bonjour, Maat.${prompt}
+  10467: Oh, si ce n'est pas le docteur Monberaux.${prompt}
+  10468: Vous avez l'air en bonne santé ces jours-ci, mon vieux.${prompt}
+  10469: Aussi sain qu'un hobgobelin, grâce à votre traitement. Vous savez vraiment comment rendre vos patients heureux, heh heh heh.${prompt}
+  10470: Ha ha. Je ne fais que mon travail.${prompt}
+  10471: Au fait...${prompt}
+  10472: Hm ?${prompt}
+  10473: Vous avez parlé de ce « capitaine » qui surveillait Jeuno. De quoi s'assurait-il exactement?${prompt}
   10474: |-
     Hmmm...
-    Well, he was probably just making sure that everybody was happy.${prompt}
-  10475: You know, I think you are probably right.${prompt}
-  10476: There are many things out there that threaten the happiness of all Jeunoans, and he couldn't stand to sit back and watch that happiness be snatched away from them.${prompt}
-  10477: Maat...${prompt}
+    Eh bien, il s'assurait probablement que tout le monde était heureux.${prompt}
+  10475: Vous savez, je pense que vous avez probablement raison.${prompt}
+  10476: Il y a beaucoup de choses qui menacent le bonheur de tous les Jeunois, et il ne peut pas rester les bras croisés et regarder ce bonheur leur être arraché.${prompt}
+  10477: Maat... ${prompt}
   10478: |-
-    Ahem. Ah, will you look at the time.
-    I must be getting back to the infirmary. Take care, my friend.${prompt}
+    Ahem. Ah, regardez l'heure.
+    Je dois retourner à l'infirmerie. Prenez soin de vous, mon ami.${prompt}
   10479: |-
-    Don't you worry, doctor. I always do.
-    Oh, and you keep working on Wolfgang. Once he sees what's really going on in this place, he'll start to change. I know it...${prompt}
-  10480: As do I...${prompt}
-  10481: Now, where was I...${prompt}
-  10482: As much as I long to see it, it's likely I won't be around when the truth finally comes out. But young adventurers like you will. That's why I want you to be all that you can be.${prompt}
-  10483: Do not forget the hardships you have endured to make it this far, and maybe one day you, too, will find something worth giving your life to protect.${prompt}
-  10484: They say that where there is a beginning, there is an end. However, I believe that some things, like memories, don't have to end. That is where you young folk come in...${prompt}
-  10485: And that is all this simple old man can ask for...${prompt}
-  10486: Your level limit is now 75.${prompt}
+    Ne vous inquiétez pas, docteur. Je le fais toujours.
+    Oh, et continuez à travailler sur Wolfgang. Quand il verra ce qui se passe vraiment ici, il commencera à changer. Je le sais... ${prompt}
+  10480: Moi aussi... ${prompt}
+  10481: Où en étais-je...${prompt}
+  10482: Même si j'ai hâte de la voir, je ne serai probablement plus là quand la vérité éclatera enfin. Mais de jeunes aventuriers comme vous le seront. C'est pourquoi je veux que vous soyez tout ce que vous pouvez être.${prompt}
+  10483: N'oubliez pas les épreuves que vous avez endurées pour arriver jusqu'ici, et peut-être qu'un jour, vous aussi, vous trouverez quelque chose qui mérite que vous donniez votre vie pour le protéger.${prompt}
+  10484: On dit que là où il y a un début, il y a une fin. Mais je crois que certaines choses, comme les souvenirs, n'ont pas de fin. C'est là que vous, les jeunes, entrez en jeu... ${prompt}
+  10485: Et c'est tout ce que ce vieil homme peut demander...${prompt}
+  10486: Votre limite de niveau est maintenant de 75.${prompt}
   10487: |-
-    Now that you've reached the stars, there's nothing left that I can do for you.
-    Unless you'd like to go another round with a frail old man. If you're up to it, that is...${prompt}
-  10488: 'When you''re ready, I''ll be waiting for you ${choice: 0}[ /at Horlais Peak/at Balga''s Dais/at Balga''s Dais/at Horlais Peak/in the Waughroon Shrine/in the Waughroon Shrine/at the Qu''Bia Arena/at the Qu''Bia Arena/in the Waughroon Shrine/at the Qu''Bia Arena/at Horlais Peak/in the Chamber of Oracles/in the Chamber of Oracles/in the Chamber of Oracles/at Balga''s Dais]. Oh, and don''t forget to bring along ${article} ${item-article: 1[2]}.${prompt}'
-  10489: But just because I'm old doesn't mean I'm not a busy man. I don't need any half-hearted whippersnappers banging on my door, just to run off with their tails between their legs. If you want some thrill in your life, you had better be ready for the consequences! Heh heh heh!${prompt}
+    Maintenant que vous avez atteint les étoiles, je ne peux plus rien faire pour vous.
+    A moins que vous ne vouliez refaire un tour avec un vieil homme fragile. Si vous en êtes capable, c'est-à-dire...${prompt}
+  10488: 'Quand vous serez prêt, je vous attendrai ${choice: 0}[ /at Horlais Peak/at Balga''s Dais/at Balga''s Dais/at Horlais Peak/in the Waughroon Shrine/in the Waughroon Shrine/at the Qu''Bia Arena/at the Qu''Bia Arena/in the Waughroon Shrine/at the Qu''Bia Arena/at Horlais Peak/in the Chamber of Oracles/in the Chamber of Oracles/in the Chamber of Oracles/at Balga''s Dais]. Oh, et n’oubliez pas d’apporter ${article} ${item-article: 1[2]}.${prompt}'
+  10489: Mais ce n'est pas parce que je suis vieux que je ne suis pas occupé. Je n'ai pas besoin que des jeunes gens sans enthousiasme viennent frapper à ma porte pour s'enfuir la queue entre les jambes. Si vous voulez des sensations fortes dans votre vie, vous feriez mieux d'être prêt à en assumer les conséquences ! Heh heh heh!${prompt}
   10490: |-
-    Heh heh heh. I see, I see...
-    That just might work, kupo...${prompt}
-  10491: Ahem! Too much time around these crazy moogles and I just might turn into one!${prompt}
+    Heh heh heh. Je vois, je vois...
+    Ça pourrait marcher, kupo... ${prompt}
+  10491: Ahem ! Trop de temps passé avec ces fous et je risque d'en devenir un !${prompt}
   10492: The WES (World Emigration Service) is currently taking applications for those who wish to immigrate to another World.${prompt}
   10493: When applying, please note the following:${prompt}
   10494: You can always cancel your emigration during the application period by talking to any of the WES agents located conveniently about Vana'diel. However, once the period is over, you will no longer be able to cancel.${prompt}
@@ -22183,134 +22183,134 @@ entries:
     Previous page.${prompt}
   10513: 'You have already submitted an application for emigration to ${choice: 1}[Bahamut/Shiva/Titan/Ramuh/Phoenix/Carbuncle/Fenrir/Sylph/Valefor/Alexander/Leviathan/Odin/Ifrit/Diabolos/Caitsith/Quetzalcoatl/Siren/Unicorn/Gilgamesh/Ragnarok/Pandemonium/Garuda/Cerberus/Kujata/Bismarck/Seraph/Lakshmi/Asura/Midgardsormr/Fairy/Remora/Hades].${prompt}'
   10514: 'Your application for emigration to ${choice: 0}[Bahamut/Shiva/Titan/Ramuh/Phoenix/Carbuncle/Fenrir/Sylph/Valefor/Alexander/Leviathan/Odin/Ifrit/Diabolos/Caitsith/Quetzalcoatl/Siren/Unicorn/Gilgamesh/Ragnarok/Pandemonium/Garuda/Cerberus/Kujata/Bismarck/Seraph/Lakshmi/Asura/Midgardsormr/Fairy/Remora/Hades] has been accepted!${prompt}'
-  10515: Ah, standing here in Jeuno brings back memories...${prompt}
-  10516: Twenty years ago, I worked in this very town with scientists from all over the world. We were trying to solve the hunger problem that plagued Vana'diel.${prompt}
-  10517: What? You want to hear about what happened twenty years ago?${prompt}
-  10518: Twenty years ago, I worked in this very town with scientists from all over the world. We were trying to solve the hunger problem that plagued Vana'diel.${prompt}
-  10519: Koru-Moru! Now that's a name that brings back memories.${prompt}
-  10520: People say that we scientists are a strange bunch, but Koru-Moru...now he was a crazy one.${prompt}
-  10521: But even a weird one like him had a girl he loved. I'll never forget seeing him and Rasusu...${prompt}
-  10522: You say you're looking for Rasusu? Now why would a young ${choice-player-gender}[lad/lass] like yourself want to do that?${prompt}
-  10523: I see. Koru-Moru's finally started to remember... Well, that's one box of memories that should remain shut.${prompt}
-  10524: If you promise to keep quiet on the subject, I'll tell you what I know.${prompt}
-  10525: Twenty years ago, the Rolanberry Fields were rampaged by those dreadful Crawlers. The problem escalated to the point where the people of Jeuno had nothing to put on their dinner tables.${prompt}
-  10526: One adventurer saw the problem that lay before Jeuno and began calling for volunteers to travel to the Crawlers' Nest and exterminate the queen.${prompt}
-  10527: Seeing that her research was going nowhere, Rasusu decided to take her chances and go along with the adventurer.${prompt}
-  10528: I tried to contact Koru-Moru, in hopes that I could get him to persuade Rasusu to stay in Jeuno. But at the same time, Windurst had its own problems, and I couldn't get ahold of him.${prompt}
-  10529: And then she went...and no one ever saw her again.${prompt}
-  10530: After the war ended, I tried writing Koru-Moru many times, but I could never bring myself to tell him the truth about his beloved Rasusu.${prompt}
-  10531: Windurst had been devastated by the Great War, and Koru-Moru had seen the devastation with his own eyes. I could not bear to be the bringer of any more tragic news.${prompt}
-  10532: Knowing Koru-Moru, the memories of Rasusu probably got lost in the back of his tiny little head...${prompt}
-  10533: You know Koru-Moru, so you can understand why I ask you to keep the truth from him--for his sake.${prompt}
-  10534: Twenty years ago, Koru-Moru and Rasusu worked side by side for the good of Vana'diel.${prompt}
-  10535: However, the terrible Crawlers pulled the young lovers apart. A sad, sad story, it is.${prompt}
-  10536: 'What is this you have found? ${lettercase: 1}${article} ${item-article: 1[2]}? Where did you get that?${prompt}'
+  10515: Ah, être ici à Jeuno me rappelle des souvenirs...${prompt}
+  10516: Il y a vingt ans, je travaillais dans cette même ville avec des scientifiques du monde entier. Nous essayions de résoudre le problème de la faim qui sévissait à Vana'diel.${prompt}
+  10517: Quoi ? Vous voulez savoir ce qui s'est passé il y a vingt ans?${prompt}
+  10518: Il y a vingt ans, je travaillais dans cette même ville avec des scientifiques du monde entier. Nous essayions de résoudre le problème de la faim qui sévissait à Vana'diel.${prompt}
+  10519: Koru-Moru ! Voilà un nom qui me rappelle des souvenirs.${prompt}
+  10520: On dit que les scientifiques sont des gens étranges, mais Koru-Moru... c'était un fou.${prompt}
+  10521: Mais même un type aussi bizarre que lui avait une fille qu'il aimait. Je n'oublierai jamais l'avoir vu avec Rasusu...${prompt}
+  10522: Vous dites que vous cherchez Rasusu ? Pourquoi un jeune ${choice-player-gender}[lad/lass] comme vous voudrait-il faire ça?${prompt}
+  10523: Je vois. Koru-Moru commence enfin à se souvenir... Eh bien, c'est une boîte à souvenirs qui doit rester fermée.${prompt}
+  10524: Si vous me promettez de ne rien dire à ce sujet, je vous dirai ce que je sais.${prompt}
+  10525: Il y a vingt ans, les Rolanberry Fields ont été ravagés par ces terribles Crawlers. Le problème s'est aggravé au point que les habitants de Jeuno n'avaient plus rien à se mettre sous la dent.${prompt}
+  10526: Un aventurier, conscient du problème qui se posait à Jeuno, a lancé un appel aux volontaires pour se rendre au nid des chenilles et exterminer la reine.${prompt}
+  10527: Voyant que ses recherches ne menaient nulle part, Rasusu décida de tenter sa chance et de suivre l'aventurier.${prompt}
+  10528: J'ai essayé de contacter Koru-Moru, dans l'espoir qu'il persuade Rasusu de rester à Jeuno. Mais Windurst avait ses propres problèmes, et je n'ai pas pu le joindre.${prompt}
+  10529: Et puis elle est partie... et personne ne l'a jamais revue.${prompt}
+  10530: Après la fin de la guerre, j'ai essayé d'écrire à Koru-Moru à plusieurs reprises, mais je n'ai jamais pu me résoudre à lui dire la vérité sur sa Rasusu bien-aimée.${prompt}
+  10531: Windurst avait été dévastée par la Grande Guerre, et Koru-Moru avait vu cette dévastation de ses propres yeux. Je ne pouvais pas supporter d'être le porteur d'une nouvelle plus tragique.${prompt}
+  10532: Connaissant Koru-Moru, les souvenirs de Rasusu se sont probablement perdus au fond de sa petite tête... ${prompt}
+  10533: Vous connaissez Koru-Moru, vous pouvez donc comprendre pourquoi je te demande de lui cacher la vérité... pour son bien.${prompt}
+  10534: Il y a vingt ans, Koru-Moru et Rasusu travaillaient côte à côte pour le bien de Vana'diel.${prompt}
+  10535: Cependant, les terribles Crawlers ont séparé les jeunes amoureux. C'est une bien triste histoire.${prompt}
+  10536: 'Qu’est-ce que vous avez trouvé? ${lettercase: 1}${article} ${item-article: 1[2]}? Où avez-vous trouvé cela?${prompt}'
   10537: |-
-    You say that this belonged to Rasusu?
-    Then it is true. The poor soul perished in that infernal place...${prompt}
-  10538: 'Good luck, ${choice: 0}[citizen/comrade]. I will bestow upon you your nation''s Signet.${wait-animation: 0}${prompt}'
-  10539: I cannot help you. You should go find a guard from your own country.${prompt}
+    Vous dites que cela appartenait à Rasusu ?
+    Alors c'est vrai. La pauvre âme a péri dans cet endroit infernal...${prompt}
+  10538: 'Bonne chance, ${choice: 0}[citoyen/camarade]. Je vais vous remettre le Sceau de votre nation.${wait-animation: 0}${prompt}'
+  10539: Je ne peux pas vous aider. Vous devriez trouver un garde de votre pays.${prompt}
   10540: |-
-    I cannot accept crystals from someone whose rank is still 1.
-    I advise you to either keep them until your reach rank 2, or to use them in craftwork.${prompt}
-  10541: 'Since we are allied with San d''Oria...${wait-animation: 0}${prompt}'
-  10542: 'Since we are allied with Bastok...${wait-animation: 0}${prompt}'
-  10543: 'Since we are allied with Windurst...${wait-animation: 0}${prompt}'
+    Je ne peux pas accepter les cristaux d'une personne dont le rang est encore 1.
+    Je vous conseille de les garder jusqu'à ce que vous atteigniez le rang 2, ou de les utiliser dans l'artisanat.${prompt}
+  10541: 'Puisque nous sommes alliés avec San d’Oria...${wait-animation: 0}${prompt}'
+  10542: 'Puisque nous sommes alliés avec Bastok...${wait-animation: 0}${prompt}'
+  10543: 'Puisque nous sommes alliés avec Windurst...${wait-animation: 0}${prompt}'
   10544: |-
-    I am sorry.
-    I am too busy with other matters to be speaking with you.${wait-animation: 0}${prompt}
-  10545: Ah, you have brought us supplies. These will help us indeed. I thank you.${prompt}
+    Je suis désolée.
+    Je suis trop occupé par d'autres questions pour vous parler.${wait-animation: 0}${prompt}
+  10545: Ah, vous nous avez apporté des provisions. Elles nous aideront en effet. Je vous remercie.${prompt}
   10546: |-
-    Hmm... These supplies you have brought us are too old to be of any use. We will dispose of them promptly.
-    I do commend you for your effort. May you succeed next time.${prompt}
-  10547: You've earned conquest points!${prompt}
+    Hmm... Les fournitures que vous nous avez apportées sont trop vieilles pour être utiles. Nous nous en débarrasserons rapidement.
+    Je vous félicite pour vos efforts. J'espère que vous réussirez la prochaine fois.${prompt}
+  10547: Vous avez gagné des points de conquête !${prompt}
   10548: |-
-    You've received your nation's Signet.
-    You are now taking part in your nation's conquest campaign!${prompt}
+    Vous avez reçu le Sceau de votre nation.
+    Vous participez maintenant à la campagne de conquête de votre nation !${prompt}
   10549: |-
-    I am ${name-npc}, a Temple Knight.
-    I am one of the guards charged with overseeing San d'Oria's conquest campaign.${prompt}
+    Je suis ${name-npc}, un Chevalier du Temple.
+    Je suis l'un des gardes chargés de superviser la campagne de conquête de San d'Oria.${prompt}
   10550: |-
-    I am ${name-npc}, an Iron Musketeer.
-    I am one of the guards charged with overseeing Bastok's conquest campaign.${prompt}
+    Je suis ${name-npc}, un mousquetaire de fer.
+    Je suis l'un des gardes chargés de superviser la campagne de conquête de Bastok.${prompt}
   10551: |-
-    I am ${name-npc}, a War Warlock.
-    I am one of the guards charged with overseeing Windurst's conquest campaign.${prompt}
+    Je suis ${name-npc}, un sorcier de guerre.
+    Je suis l'un des gardes chargés de superviser la campagne de conquête de Windurst.${prompt}
   10552: |-
-    What is your business?
+    Quelle est votre activité ?
     ${selection-lines}
-    Would you cast Signet on me?
-    I want to spend my conquest points.
-    ${choice: 0}[I want to join the Expeditionary Force./Teleport me to the E.F. area.]
-    I want to quit the E.F./change my E.F.
-    I want to go on a supplies quest.
-    I have some questions...
-    Nothing, sorry to bother you.${prompt}
+    Voulez-vous lancer le Signet sur moi ?
+    Je veux dépenser mes points de conquête.
+    ${choice: 0}[Je veux rejoindre le C.E / Téléportez-moi dans la zone du C.E.]
+    Je veux quitter le C.E./changer mon C.E.
+    Je veux partir en quête de fournitures.
+    J'ai quelques questions...
+    Rien, désolé de vous déranger.${prompt}
   10553: |-
-    What do you wish to know about?
+    Que souhaitez-vous savoir ?
     ${selection-lines}
-    Nothing.
-    Conquests.
-    Conquest results.
-    Donating crystals.
-    Conquest points.
-    The effects of controlling regions.
-    Regions controlled by other nations.
-    Regions under beastman control.${prompt}
-  10554: All three nations are striving daily to put more regions under their control. This is what we call “conquests.” You can take part in it and serve your country by defeating enemies while you have Signet cast on you.${prompt}
-  10555: Each region comprises several areas, and the nation that rids those areas of the most monsters gains control of the region.${prompt}
-  10556: Nations receive goods and resources from regions under their control.${prompt}
-  10557: So, the more regions we control, the richer our nation becomes.${prompt}
+    Rien.
+    Conquêtes.
+    Les résultats des conquêtes.
+    Don de cristaux.
+    Points de conquête.
+    Les effets du contrôle des régions.
+    Régions contrôlées par d'autres nations.
+    Les régions contrôlées par les hommes-bêtes.${prompt}
+  10554: Ces trois nations s'efforcent quotidiennement de placer de nouvelles régions sous leur contrôle. C'est ce qu'on appelle les « conquêtes ». Vous pouvez y participer et servir votre pays en battant ses ennemis alors que vous avez le Signe sur vous.${prompt}
+  10555: Chaque région comprend plusieurs zones, et la nation qui débarrasse ces zones du plus grand nombre de monstres prend le contrôle de la région.${prompt}
+  10556: Les nations reçoivent des biens et des ressources des régions qu'elles contrôlent.${prompt}
+  10557: Ainsi, plus nous contrôlons de régions, plus notre nation s'enrichit.${prompt}
   10558: |-
-    Border guards are also placed in outposts within regions under our control.
-    They are there to cast Signet on adventurers like yourself.${prompt}
-  10559: Once you have your nation's Signet, you will be able to acquire crystals from enemies you defeat.${prompt}
-  10560: Not only that, but you will also receive conquest points. You get more conquest points if you defeat enemies in regions that are not under your nation's control. These points can be used to purchase items from guards like myself.${prompt}
+    Des gardes-frontières sont également placés dans les avant-postes des régions sous notre contrôle.
+    Ils sont là pour lancer le Signet sur les aventuriers comme vous.${prompt}
+  10559: Une fois que vous aurez obtenu le Signet de votre nation, vous pourrez acquérir des cristaux sur les ennemis que vous aurez vaincus.${prompt}
+  10560: De plus, vous recevrez des points de conquête. Vous obtiendrez plus de points de conquête si vous battez des ennemis dans des régions qui ne sont pas sous le contrôle de votre nation. Ces points peuvent être utilisés pour acheter des objets à des gardes comme moi.${prompt}
   10561: |-
-    So you see...conquests benefit nations and adventurers alike.
-    We expect you to do your best to serve your country.${prompt}
+    Vous voyez... les conquêtes profitent aux nations comme aux aventuriers.
+    Nous attendons de vous que vous fassiez de votre mieux pour servir votre pays.${prompt}
   10562: |-
-    You can see the current state of conquests by selecting “Region Info” from the main menu.
-    Conquest results in all regions are regularly recalculated, so you may want to check them from time to time.${prompt}
+    Vous pouvez consulter l'état actuel des conquêtes en sélectionnant « Info région » dans le menu principal.
+    Les résultats des conquêtes dans toutes les régions sont régulièrement recalculés, vous pouvez donc les consulter de temps en temps.${prompt}
   10563: |-
-    Shops in our city will be selling different items according to our conquest rank.
-    The Troupe Valeriano will also visit the nation that finishes first and bring a little joy to its citizens.${prompt}
+    Les magasins de notre ville vendront différents articles en fonction de notre rang de conquête.
+    La troupe Valeriano se rendra également dans la nation qui arrivera en tête et apportera un peu de joie à ses citoyens.${prompt}
   10564: |-
-    You can donate crystals to your nation once you achieve rank 2.
-    Just trade them to guards like myself, and we will ensure they are sent to the proper place.${prompt}
+    Vous pouvez faire don de cristaux à votre nation une fois que vous aurez atteint le rang 2.
+    Il suffit de les échanger avec des gardes comme moi, et nous veillerons à ce qu'ils soient envoyés au bon endroit.${prompt}
   10565: |-
-    We would like you to donate crystals to your nation from now on.
-    Just trade them to guards like myself, and we will ensure they are sent to the proper place.${prompt}
+    Nous aimerions que vous fassiez don de cristaux à votre nation à partir de maintenant.
+    Il suffit de les échanger avec des gardes comme moi, et nous veillerons à ce qu'ils soient envoyés au bon endroit.${prompt}
   10566: |-
-    You can acquire crystals by defeating enemies while you have your nation's Signet.
-    Having Signet cast on you is also the only way of taking part in conquests.${prompt}
-  10567: Rank points will be awarded to you for each crystal you donate, and you may be offered new missions as your rank goes up.${prompt}
+    Vous pouvez obtenir des cristaux en battant des ennemis lorsque vous avez le Signe de votre nation.
+    C'est aussi le seul moyen de participer à des conquêtes. ${prompt}
+  10567: Des points de rang vous seront attribués pour chaque cristal donné, et de nouvelles missions pourront vous être proposées au fur et à mesure que vous monterez en grade.${prompt}
   10568: |-
-    You also receive rank points for completing missions.
-    Complete missions and take part in conquests to raise your rank and serve your country.${prompt}
+    Vous recevez également des points de rang en accomplissant des missions.
+    Terminez des missions et participez à des conquêtes pour augmenter votre rang et servir votre pays.${prompt}
   10569: |-
-    You are awarded conquest points when you defeat monsters while you are taking part in conquests.
-    Select "Region Info" from the menu to check your current number of conquest points.${prompt}
-  10570: You can purchase items from guards like myself with your conquest points, but be warned that the number of points you spend will be subtracted from your current total.${prompt}
-  10571: When conquest results are announced, you will be told which country controls the region you are in at that time. Sometimes regions may become neutral, or beastmen may even gain control of regions.${prompt}
-  10572: If we gain control of a region, border guards will be placed at its outposts to help adventurers like you.${prompt}
-  10573: Merchants will also be placed there, and goods from that region will find their way to the local shops here.${prompt}
-  10574: Gaining control of regions is the basic principle behind conquests. We need each of you to do your best, and bring our nation to the top of the ranks.${prompt}
-  10575: Of course, sometimes we lose regions to other nations...so we must try to take them back before the next conquest results are announced.${prompt}
-  10576: As an incentive, we will award you with more conquest points for defeating monsters in those regions.${prompt}
-  10577: But if we are allied with another nation, you will only be awarded the regular rate for defeating monsters in our allies' regions. On the other hand, we will award you with more points for fighting in the top-ranked nation's regions.${prompt}
+    Vous obtenez des points de conquête lorsque vous battez des monstres pendant que vous participez à des conquêtes.
+    Sélectionnez « Info région » dans le menu pour vérifier votre nombre actuel de points de conquête.${prompt}
+  10570: Vous pouvez acheter des objets à des gardes comme moi avec vos points de conquête, mais sachez que le nombre de points que vous dépensez sera soustrait de votre total actuel.${prompt}
+  10571: Lorsque les résultats de la conquête seront annoncés, vous saurez quel pays contrôle la région dans laquelle vous vous trouvez à ce moment-là. Il arrive que des régions deviennent neutres ou que des hommes-bêtes en prennent le contrôle.${prompt}
+  10572: Si nous prenons le contrôle d'une région, des gardes-frontières seront placés à ses avant-postes pour aider les aventuriers comme vous.${prompt}
+  10573: Des marchands y seront également installés, et les marchandises de cette région trouveront leur chemin vers les boutiques locales.${prompt}
+  10574: Le contrôle des régions est le principe de base des conquêtes. Nous avons besoin de chacun d'entre vous pour faire de son mieux et amener notre nation au sommet de la hiérarchie.${prompt}
+  10575: Bien sûr, il arrive que nous perdions des régions au profit d'autres nations... nous devons donc essayer de les reprendre avant que les résultats de la prochaine conquête ne soient annoncés.${prompt}
+  10576: Pour vous encourager, nous vous accorderons plus de points de conquête si vous battez des monstres dans ces régions.${prompt}
+  10577: Mais si nous sommes alliés à une autre nation, vous n'obtiendrez que le taux normal pour vaincre les monstres dans les régions de nos alliés. En revanche, nous vous accorderons plus de points si vous combattez dans les régions de la nation la mieux classée.${prompt}
   10578: |-
-    Our paramount concern lies in the beastmen gaining control of our regions.
-    If too many of us are defeated in a region, the beastmen will gain control of it.${prompt}
-  10579: If this happens, not only is it a great blow to our pride, but you will be unable to acquire any crystals in that region.${prompt}
-  10580: The beastmen are a menace to all nations. If they rise to power, we must all unite and drive those vile creatures from that region.${prompt}
-  10581: We need you to bring supplies to the outpost border guards who are placed in regions under our control.${prompt}
-  10582: There is one outpost in each region. Select “Region Info” from the menu, and look for the areas with a small flag mark on the map. That is where they are.${prompt}
+    Notre principale préoccupation est que les hommes-bêtes prennent le contrôle de nos régions.
+    Si nous sommes trop nombreux à être vaincus dans une région, les hommes-bêtes en prendront le contrôle.${prompt}
+  10579: Si cela se produit, non seulement notre fierté en prendra un coup, mais vous ne pourrez plus acquérir de cristaux dans cette région.${prompt}
+  10580: Les hommes-bêtes sont une menace pour toutes les nations. S'ils montent en puissance, nous devons tous nous unir et chasser ces viles créatures de cette région.${prompt}
+  10581: Nous avons besoin de vous pour approvisionner les gardes-frontières des avant-postes qui sont placés dans les régions sous notre contrôle.${prompt}
+  10582: Il y a un avant-poste dans chaque région. Sélectionnez « Region Info » dans le menu et repérez les zones marquées d'un petit drapeau sur la carte. C'est là qu'ils se trouvent. ${prompt}
   10583: |-
-    Here are the supplies. Just give them to the guard at the outpost and your mission will be complete.
-    Now, choose which outpost you want to go to. We give different rewards for each region, so choose carefully.${prompt}
+    Voici les fournitures. Donne-les au garde de l'avant-poste et ta mission sera terminée.
+    Maintenant, choisissez l'avant-poste où vous voulez aller. Nous donnons des récompenses différentes pour chaque région, alors choisissez avec soin.${prompt}
   10584: |-
-    Where do you wish to take the supplies?
+    Où voulez-vous emmener les provisions ?
     ${selection-lines}
     　
     　
@@ -22343,9 +22343,9 @@ entries:
     　
     　
     　
-    Cancel.${prompt}
+    Annuler.${prompt}
   10585: |-
-    Which E.F. would you like to join?
+    A quelle C.E. souhaitez-vous adhérer ?
     ${selection-lines}
     .
     .
@@ -22378,96 +22378,96 @@ entries:
     .
     .
     .
-    None.${prompt}
+    Aucune.${prompt}
   10586: |-
-    So be it.
-    You have until the next conquest results announcement to complete this mission.
-    Good luck.${prompt}
-  10587: We will dispose of those unusable supplies.${prompt}
+    Qu'il en soit ainsi.
+    Vous avez jusqu'à la prochaine annonce des résultats de la conquête pour accomplir cette mission.
+    Nous vous souhaitons bonne chance.${prompt}
+  10587: Nous nous débarrasserons des fournitures inutilisables.${prompt}
   10588: |-
-    You can only undertake one supply mission per day.
-    Come back later.${prompt}
-  10589: I am sorry. We seem to have a problem. Let me cancel it.${prompt}
-  10590: |-
-    You do not need to donate any more crystals at your current rank.
-    Speak to the guard at the gatehouse for further instructions.${prompt}
-  10591: |-
-    Your rank points are full. We've added the excess to your conquest points.
-    You do not need to donate any more crystals. Go to the gatehouse for further instructions.${prompt}
-  10592: |-
-    Good work, citizen.
-    We've awarded you rank points for the crystals you've donated.${prompt}
+    Vous ne pouvez entreprendre qu'une seule mission de ravitaillement par jour.
+    Revenez plus tard.${prompt}
+  10589: Je suis désolée. Il semble que nous ayons un problème. Laissez-moi l'annuler.${prompt}
+  10590 : |-
+    Vous n'avez plus besoin de donner de cristaux à votre rang actuel.
+    Parlez au garde de la porte pour plus d'instructions.${prompt}
+  10591 : |-
+    Vos points de rang sont pleins. Nous avons ajouté le surplus à vos points de conquête.
+    Vous n'avez plus besoin de donner de cristaux. Allez à la maison de la porte pour de plus amples instructions.${prompt}
+  10592 : |-
+    Bon travail, citoyen.
+    Nous vous avons attribué des points de rang pour les cristaux que vous avez donnés.${prompt}
   10593: |-
-    You currently have ${number: 0} conquest points.
-    Would you like to use them to purchase items?${prompt}
+    Vous avez actuellement ${number: 0} points de conquête.
+    Souhaitez-vous les utiliser pour acheter des articles?${prompt}
   10594: |-
-    Which item do you wish to purchase?
+    Quel article souhaitez-vous acheter?
     ${selection-lines}
-    Common items (all ranks).
-    1000-pt. items (rank 1 required).
-    2000-pt. items (rank 2 required).
-    4000-pt. items (rank 3 required).
-    8000-pt. items (rank 4 required).
-    16000-pt. items (rank 5 required).
-    24000-pt. items (rank 6 required).
-    32000-pt. items (rank 7 required).
-    40000-pt. items (rank 8 required).
-    48000-pt. items (rank 9 required).
-    56000-pt. items (rank 10 required).
-    Cancel.${prompt}
+    Articles courants (tous rangs confondus).
+    1000-pt. articles (rang 1 requis).
+    2000-pt. articles (rang 2 requis).
+    4000-pt. articles (rang 3 requis).
+    8000-pt. articles (rang 4 requis).
+    16000-pt. articles (rang 5 requis).
+    24000-pt. articles (rang 6 requis).
+    32000-pt. articles (rang 7 requis).
+    40000-pt. articles (rang 8 requis).
+    48000-pt. articles (rang 9 requis).
+    56000-pt. articles (rang 10 requis).
+    Annuler.${prompt}
   10595: |-
-    Which item do you wish to purchase?
+    Quel article souhaitez-vous acheter ?
     ${selection-lines}
-    Common items (all ranks).
-    2000-pt. items (rank 1 required).
-    4000-pt. items (rank 2 required).
-    8000-pt. items (rank 3 required).
-    16000-pt. items (rank 4 required).
-    24000-pt. items (rank 5 required).
-    32000-pt. items (rank 6 required).
-    40000-pt. items (rank 7 required).
-    48000-pt. items (rank 8 required).
-    56000-pt. items (rank 9 required).
+    Articles courants (tous rangs confondus).
+    2000-pt. articles (rang 1 requis).
+    4000-pt. articles (rang 2 requis).
+    8000-pt. articles (rang 3 requis).
+    16000-pt. articles (rang 4 requis).
+    24000-pt. articles (rang 5 requis).
+    32000-pt. articles (rang 6 requis).
+    40000-pt. articles (rang 7 requis).
+    48000-pt. articles (rang 8 requis).
+    56000-pt. articles (rang 9 requis).
     .
-    Cancel.${prompt}
-  10596: Currently there are no items available for that rank.${prompt}
+    Annuler.${prompt}
+  10596: Actuellement, il n'y a pas d'articles disponibles pour ce rang.${prompt}
   10597: |-
-    Due to its special nature, you can only purchase or recharge ${article} ${item-article: 2[2]} once until the conquest results tally is performed.
-    Also, you cannot purchase this item if a similar item is already in your possession.${prompt}
-  10598: 'It is possible to fully recharge ${article} ${item-article: 2[2]} by trading it to one of your nation''s guards, including outpost guards. One charge requires 50 conquest points.${prompt}'
-  10599: 'It is possible to fully recharge ${article} ${item-article: 2[2]} by trading it to one of your nation''s guards, including outpost guards. One charge requires 100 conquest points.${prompt}'
-  10600: 'It is possible to fully recharge ${article} ${item-article: 2[2]} by trading it to one of your nation''s guards, including outpost guards. One charge requires 200 conquest points.${prompt}'
-  10601: During the time of the Great War, it was possible to have this item recharged in exchange for Allied Notes. From my understanding, that practice has recently become commonplace in the Near East. Though you'll be needing Imperial Standing credits if you wish to use the service there.${prompt}
-  10602: 'You do not possess the ${number: 1} ${choice-plurality: 1}[conquest point/conquest points] required to fully recharge the ${item-singular: 0[2]}.${prompt}'
-  10603: 'Please be aware that you can only purchase or recharge ${article} ${item-article: 0[2]} once during the period between each conquest results tally.${prompt}'
-  10604: 'The ${item-singular: 0[2]} is already fully charged.${prompt}'
-  10605: 'Your ${item-singular: 0[2]} has received ${number: 2} ${choice-plurality: 2}[charge/charges] in exchange for ${number: 1} ${choice-plurality: 1}[conquest point/conquest points]. It is now fully recharged.${prompt}'
-  10606: 'I will trade you ${article} ${item-article: 0[2]} for your ${item-singular: 1[2]}. May it serve you well.${prompt}'
-  10607: 'You do not meet the requirements to purchase the ${item-singular: 2[2]}.${prompt}'
-  10608: 'Your rank is too low to purchase the ${item-singular: 2[2]}.${prompt}'
-  10609: 'You do not have enough conquest points to purchase the ${item-singular: 2[2]}.${prompt}'
+    En raison de sa nature particulière, vous ne pouvez acheter ou recharger que ${article} ${item-article: 2[2]} qu'une seule fois jusqu'à ce que le décompte des résultats de la conquête soit effectué.
+    En outre, vous ne pouvez pas acheter cet article si vous possédez déjà un article similaire.${prompt}
+  10598: 'Il est possible de recharger complètement ${article} ${item-article: 2[2]} en l’échangeant avec l’un des gardes de votre nation, y compris les gardes des avant-postes. Une recharge nécessite 50 points de conquête.${prompt}'
+  10599: 'Il est possible de recharger complètement ${article} ${item-article: 2[2]} en l’échangeant avec l’un des gardes de votre nation, y compris les gardes des avant-postes. Une recharge nécessite 100 points de conquête.${prompt}'
+  10600: 'Il est possible de recharger complètement ${article} ${item-article: 2[2]} en l’échangeant avec l’un des gardes de votre nation, y compris les gardes des avant-postes. Une recharge nécessite 200 points de conquête.${prompt}'
+  10601: À l'époque de la Grande Guerre, il était possible de faire recharger cet objet en échange de billets alliés. D'après ce que j'ai compris, cette pratique est récemment devenue courante au Proche-Orient. Cependant, vous aurez besoin de crédits impériaux si vous souhaitez utiliser ce service dans cette région.${prompt}
+  10602: 'Vous ne possédez pas le ${number: 1} ${choice-plurality: 1}[point de conquête / points de conquête] nécessaire pour recharger complètement le ${item-singular: 0[2]}.${prompt}'
+  10603: 'Sachez que vous ne pouvez acheter ou recharger que des ${article} ${item-article: 0[2]} une fois pendant la période entre chaque décompte des résultats de la conquête.${prompt}'
+  10604: 'Le ${item-singular: 0[2]} est déjà complètement chargé.${prompt}'
+  10605: 'Votre ${item-singular: 0[2]} a reçu ${number: 2} ${choice-plurality: 2}[charge/charges] en échange de ${number: 1} ${choice-plurality: 1}[point de conquête / points de conquête]. Il est maintenant entièrement rechargé.${prompt}'
+  10606: 'J’échangerai avec vous ${article} ${item-article: 0[2]} pour votre ${item-singular: 1[2]}. Qu’il vous serve bien.${prompt}'
+  10607: 'Vous ne remplissez pas les conditions pour acheter le ${item-singular: 2[2]}.${prompt}'
+  10608: 'Votre rang est trop bas pour acheter le ${item-singular: 2[2]}.${prompt}'
+  10609: 'Vous n’avez pas assez de points de conquête pour acheter la ${item-singular: 2[2]}.${prompt}'
   10610: |-
-    You cannot equip the ${item-singular: 2[2]}.
-    Do you still wish to proceed?${prompt}
+    Vous ne pouvez pas équiper le ${item-singular: 2[2]}.
+    Souhaitez-vous toujours poursuivre?${prompt}
   10611: |-
-    Your level is too low to equip the ${item-singular: 2[2]}.
-    Do you still wish to proceed?${prompt}
+    Votre niveau est trop bas pour équiper le ${item-singular: 2[2]}.
+    Souhaitez-vous toujours poursuivre?${prompt}
   10612: |-
-    You seem to be able to equip the ${item-singular: 2[2]}.
-    Do you wish to proceed?${prompt}
-  10613: 'Are you sure you want to purchase the ${item-singular: 2[2]}?${prompt}'
+    Vous semblez être en mesure d'équiper le ${item-singular: 2[2]}.
+    Souhaitez-vous poursuivre?${prompt}
+  10613: 'Êtes-vous sûr de vouloir acheter le ${item-singular: 2[2]}?${prompt}'
   10614: |-
-    Proceed?
+    Poursuivre ?
     ${selection-lines}
-    Yes, purchase item.
-    Cancel purchase.${prompt}
+    Oui, acheter l'article.
+    Annuler l'achat.${prompt}
   10615: |-
-    Proceed?
+    Poursuivre ?
     ${selection-lines}
-    Yes, even though I can't equip it.
-    Cancel purchase.${prompt}
+    Oui, même si je ne peux pas l'équiper.
+    Annuler l'achat.${prompt}
   10616: |-
-    Which item do you wish to purchase?
+    Quel article souhaitez-vous acheter ?
     ${selection-lines}
     ${lettercase: 1}${item-singular: 0[2]}.
     ${lettercase: 1}${item-singular: 1[2]}.
@@ -22477,11 +22477,11 @@ entries:
     ${lettercase: 1}${item-singular: 5[2]}.
     ${lettercase: 1}${item-singular: 6[2]}.
     ${lettercase: 1}${item-singular: 7[2]}.
-    Next page.
-    Previous page.
-    Back.${prompt}
+    Page suivante.
+    Page précédente.
+    Retour.${prompt}
   10617: |-
-    Which item do you wish to purchase?
+    Quel article souhaitez-vous acheter ?
     ${selection-lines}
     ${lettercase: 1}${item-singular: 0[2]}...${number: 8} pts.
     ${lettercase: 1}${item-singular: 1[2]}...${number: 9} pts.
@@ -22491,9 +22491,9 @@ entries:
     ${lettercase: 1}${item-singular: 5[2]}...${number: 13} pts.
     ${lettercase: 1}${item-singular: 6[2]}...${number: 14} pts.
     ${lettercase: 1}${item-singular: 7[2]}...${number: 15} pts.
-    Next page.
-    Previous page.
-    Back.${prompt}
+    Page suivante.
+    Page précédente.
+    Retour.${prompt}
   10618: 'ENDPARA：${number: 0}${prompt}'
   10619: |-
     Which service do you request?
