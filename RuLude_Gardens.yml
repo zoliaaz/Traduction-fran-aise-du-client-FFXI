@@ -25558,7 +25558,7 @@ entries:
     (C'est curieux. Plus la douleur est atroce, plus ces aventuriers deviennent forts.
     Peut-être que mes épreuves ne sont pas aussi tortueuses qu'elles devraient l'être...?)${prompt}
   12250: |-
-    Ahem...er, rien. Rien du tout !
+    Ahem...er, rien. Rien du tout!
     Vous avez l'air en pleine forme, mon ami aventurier.
     Allez les chercher ! Adieu, kupo!${prompt}
   12251: |-
@@ -25568,454 +25568,454 @@ entries:
   12253: |-
     De nouveaux horizons vous attendent, et je soupçonne que vous êtes affamés.
     Allez-y et régalez-vous à votre guise!${prompt}
-  12254: Votre limite de niveau est maintenant de 85 !
+  12254: Votre limite de niveau est maintenant de 85!
   12255: |-
-    Great King Kupofried's ghost! Look who's back, and right on schedule.
-    However do you always know when to come here, kupo?${prompt}
+    Le fantôme du grand roi Kupofried! Regardez qui est de retour, et juste à temps.
+    Mais vous savez toujours quand venir ici, Kupo?${prompt}
   12256: |-
-    We inflict upon you progressively more profound pain each time, and still you come back for more.
-    Are you perhaps a practitioner of a certain Far Eastern religious discipline?${prompt}
+    Nous vous infligeons une douleur de plus en plus profonde à chaque fois, et vous en redemandez.
+    Êtes-vous peut-être un adepte d'une certaine discipline religieuse d'Extrême-Orient?${prompt}
   12257: |-
-    Or perhaps you were simply dropped on your head as a child.
-    Yes, that seems the more likely answer.${prompt}
-  12258: But hey, it's your bruised and battered body, not mine, kupo.${prompt}
-  12259: Either way, you'll be pleased to know that the previous two experiments are going to feel like child's play compared to what we have in store for you this time.${prompt}
+    Ou peut-être vous a-t-on simplement fait tomber sur la tête lorsque vous étiez enfant.
+    Oui, c'est la réponse la plus probable.${prompt}
+  12258: Mais bon, c'est votre corps meurtri, pas le mien, kupo.${prompt}
+  12259: Quoi qu'il en soit, vous serez heureux d'apprendre que les deux expériences précédentes ne seront qu'un jeu d'enfant comparé à ce que nous vous réservons cette fois-ci. ${prompt}
   12260: |-
-    And though you'll indubitably ignore me, it's my duty to warn you.
-    There's no guarantee things will go as smoothly as last time, kupo.${prompt}
+    Et bien que vous m'ignoriez indubitablement, il est de mon devoir de vous avertir.
+    Rien ne garantit que les choses se passeront aussi bien que la dernière fois, kupo. ${prompt}
   12261: |-
-    If you ask me, you're lucky that crazy moogle magic ever worked.
-    I'd think twice about this if I were you...${prompt}
-  12262: So how about it, kupo?${prompt}
+    Si vous voulez mon avis, vous avez de la chance que la magie de Moogle ait fonctionné.
+    J'y réfléchirais à deux fois si j'étais vous... ${prompt}
+  12262: Alors, qu'en pensez-vous, kupo ? ${prompt}
   12263: |-
-    Test your limits?
+    Vous testez vos limites ?
     ${selection-lines}
-    Of course!
-    On second thought...${prompt}
-  12264: "How did I know you'd say that? \nVery well. To power the process this time, we'll be needing ${number: 1} ${item-given-plurality: 1[2], 0[2]}.${prompt}"
+    Bien sûr !
+    En y réfléchissant bien...${prompt}
+  12264: "Comment savais-je que vous direz cela ? \nTrès bien. Pour alimenter le processus cette fois-ci, nous aurons besoin de ${number: 1} ${item-given-plurality: 1[2], 0[2]}.${prompt}"
   12265: |-
-    And you'll need to prime your own physical energies by storing up ${number: 0} merit point${choice-plurality: 0}[/s].
-    No exceptions, kupo.${prompt}
-  12266: I've got a bad feeling about this...${prompt}
+    Et vous devrez amorcer vos propres énergies physiques en accumulant ${number: 0} point de mérite ${choix-pluralité: 0}[/s].
+    Pas d'exception, kupo.${prompt}
+  12266: J'ai un mauvais pressentiment... ${prompt}
   12267: |-
-    Taking a pass today, are we?
-    Fine with me. No fur off my back, kupo.${prompt}
-  12268: Phew... That's a relief.${prompt}
+    On passe notre tour aujourd'hui, n'est-ce pas ?
+    Ça me va. Pas de fourrure dans mon dos, kupo. ${prompt}
+  12268: Ouf... C'est un soulagement.
   12269: |-
-    ${choice-player-gender}[He/She]'s back!
-    Are you ready with the ${number: 1} ${item-given-plurality: 1[2], 0[2]} and ${number: 2} merit point${choice-plurality: 2}[/s] that we need?${prompt}
-  12270: 'If so, trade the ${number: 1} ${item-given-plurality: 1[2], 0[2]} to me and we''ll get this show on the road, kupo.${prompt}'
+    ${choice-player-gender}[Il/Elle]est de retour!
+    Êtes-vous prêt avec le ${number: 1} ${item-given-plurality: 1[2], 0[2]} et ${number: 2} point de mérite${choice-plurality: 2}[/s] dont nous avons besoin?${prompt}
+  12270: 'Si c’est le cas, échanger le ${number: 1} ${item-given-plurality: 1[2], 0[2]} et nous mettrons ce projet sur les rails, kupo.${prompt}'
   12271: |-
-    Or did you come to hear me talk about merit points?
-    Because I can do that too, kupo.${prompt}
+    Ou êtes-vous venu m'écouter parler des points de mérite?
+    Parce que je peux le faire aussi, kupo.${prompt}
   12272: |-
-    I'm afraid your physical energies are not sufficiently primed.
-    Remember, you need ${number: 1} ${item-given-plurality: 1[2], 0[2]} and ${number: 2} merit point${choice-plurality: 2}[/s] if you want to test your limits.${prompt}
+    Je crains que vos énergies physiques ne soient pas suffisamment préparées.
+    Rappelez-vous, vous avez besoin ${number: 1} ${item-given-plurality: 1[2], 0[2]} et ${number: 2} point de mérite${choice-plurality: 2}[/s] si vous voulez tester vos limites.${prompt}
   12273: |-
-    Well, it looks like you're all ready.
-    And if you're ready, why, I'm more than ready.
+    On dirait que vous êtes tous prêts.
+    Et si vous êtes prêts, je suis plus que prêt.
     <Ahem>... Yoo-hoooooo, kupoooooo!${prompt}
   12274: |-
-    What's this? Has our guest of honor stood us up?
-    For shame, kupo!${prompt}
+    Qu'est-ce que c'est? Notre invité d'honneur nous a posé un lapin?
+    Quelle honte, kupo!${prompt}
   12275: |-
-    Ah, well. We still have plenty of firepower at our disposal here.
-    Let's get the ritual rolling...${prompt}
+    Ah, bien. Nous avons encore beaucoup de puissance de feu à notre disposition.
+    Commençons le rituel...${prompt}
   12276: |-
-    ...Oh, how I've waited for this day!
-    Hah! Yah!${prompt}
+    ...Oh, comme j'ai attendu ce jour!
+    Hah ! Yah!${prompt}
   12277: '!?'
   12278: |-
-    Ten years. Ten long years I walked through fire and ice, subjected my body and mind to the harshest of trainin'.
-    All for the day--the glorious day--when I could settle the score with you. Maat...prepare yourself!${prompt}
-  12279: What!? M-me?${prompt}
+    Dix ans. Dix longues années où j'ai traversé le feu et la glace, où j'ai soumis mon corps et mon esprit aux entraînements les plus durs.
+    Tout ça pour le jour - le jour glorieux - où je pourrais te régler ton compte. Maat...prépare-toi!${prompt}
+  12279: Quoi!? M-moi?${prompt}
   12280: |-
-    Oh, do forgive me, Mister Degenhard.
-    I neglected to notify you that ${name-player} here would be your opponent today.${prompt}
-  12281: Maat... I face my battles with honor. The battle garb I wear is proof enough of that.${prompt}
+    Oh, pardonnez-moi, Monsieur Degenhard.
+    J'ai omis de vous signaler que ${name-player} serait votre adversaire aujourd'hui.${prompt}
+  12281: Maat... J'affronte mes batailles avec honneur. La tenue de combat que je porte en est la preuve.${prompt}
   12282: |-
-    I thought you a worthy opponent, and yet you summon me all the way to Jeuno on some cruel jest?
-    In all my long years, I have never suffered such dishonor!${prompt}
+    Je pensais que vous étiez un adversaire de taille, et pourtant vous m'avez convoqué jusqu'à Jeuno pour une cruelle plaisanterie?
+    De toutes mes années, je n'ai jamais subi un tel déshonneur!${prompt}
   12283: |-
-    For this, you will get no mercy from me!
-    No mercy!!!${prompt}
+    Pour cela, vous n'aurez aucune pitié de ma part !
+    Aucune pitié!!!${prompt}
   12284: |-
-    Wait a minute, old friend!
-    What is this talk of settling scores? Why, I never--${prompt}
+    Attends une minute, mon vieil ami !
+    Qu'est-ce que c'est que cette histoire de règlement de comptes ? Je n'ai jamais---${prompt}
   12285: |-
-    Hah! Do not play the fool, Maat!
-    It was written plain as day on your letter of challenge.
-    “If you think yourself worthy of wearing ${article} ${item-article: 0[2]}, you must defeat me in single combat!”${prompt}
+    Hah ! Ne fais pas l'imbécile, Maat !
+    C'était écrit en toutes lettres sur votre lettre de défi.
+    “Si vous vous estimez digne de porter ${article} ${item-article: 0[2]}, vous devez me vaincre en combat singulier!”${prompt}
   12286: |-
-    (Whoever could have penned such a preposterous missive?
-    Oh, that's right...it was me, kupo!)${prompt}
+    (Qui aurait pu écrire une telle missive ?
+    Oh, c'est vrai...c'est moi, kupo!)${prompt}
   12287: |-
-    You break your promise, now I break you! Like you break your promise.
+    vous rompu votre promesse, maintenant je te romps ! Comme vous rompez votre promesse.
     Hieeeeee-yah!${prompt}
-  12288: W-wait, Degenhard. This...this is madness!${prompt}
+  12288: A..attendez, Degenhard. C'est...c'est de la folie!${prompt}
   12289: |-
-    Oh, good gracious me, ${name-player}!
-    He's preparing to come at Maat with every technique both in and out of the book, kupo!${prompt}
+    Oh, mon Dieu,, ${name-player}!
+    Il se prépare à attaquer Maat avec toutes les techniques possibles et imaginables, kupo!${prompt}
   12290: |-
-    If Maat doesn't unleash his own ultimate moves, he's as good as done for!
-    We must help him, ${name-player}!${prompt}
+    Si Maat ne déclenche pas ses propres mouvements ultimes, c'en est fait de lui !
+    Nous devons l'aider, ${name-player}!${prompt}
   12291: |-
-    Look closely at the two masters, kupo.
-    See how they each emit an aura? That's a sign that a no-holds-barred showdown between techniques of inconceivable power is on the way!${prompt}
+    Regardez bien les deux maîtres, kupo.
+    Vous voyez comme ils émettent chacun une aura ? C'est le signe qu'un affrontement sans merci entre des techniques d'une puissance inconcevable se prépare!${prompt}
   12292: |-
-    There are three types of auras, indicating three of the most advanced, awe-inspiring bushin techniques.
-    But here's the key, kupo: though they are equal in power, each technique is ascendant over another.${prompt}
-  12293: The “Raging Beast” devours the “Silent Wind,” but is quelled by the “Soaring Dragon,” kupo.${prompt}
-  12294: The “Silent Wind” swallows up the “Soaring Dragon,” but is quelled by the “Raging Beast,” kupo.${prompt}
-  12295: The “Soaring Dragon” devours the “Raging Beast,” but is swallowed up by the “Silent Wind,” kupo.${prompt}
+    Il existe trois types d'auras, indiquant trois des techniques de bushin les plus avancées et les plus impressionnantes.
+    Mais voici la clé, kupo : bien qu'elles soient de puissance égale, chaque technique est supérieure à une autre.${prompt}
+  12293: La « Bête enragée » dévore le « Vent silencieux », mais elle est maîtrisée par le « Dragon fulgurant », kupo.${prompt}
+  12294: Le « Vent silencieux » engloutit le « Dragon fulgurant », mais il est maîtrisé par la « Bête enragée », kupo.${prompt}
+  12295: Le « Dragon fulgurant » dévore la « Bête furieuse », mais est englouti par le « Vent silencieux », kupo.${prompt}
   12296: |-
-    We are dealing with two martial arts masters here, kupo.
-    An attack from an equal or inferior position will be easily deflected by the opponent.${prompt}
-  12297: Only by assuming a position of advantage will the attacker be able to break his opponent's defenses!${prompt}
-  12298: Now, are you ready, kupo!?${prompt}
+    Nous avons affaire à deux maîtres d'arts martiaux, kupo.
+    Une attaque provenant d'une position égale ou inférieure sera facilement déviée par l'adversaire.${prompt}
+  12297: Ce n'est qu'en prenant une position avantageuse que l'attaquant pourra briser les défenses de son adversaire!${prompt}
+  12298: Vous êtes prêt, kupo? ${prompt}
   12299: |-
-    Ready, kupo!?
+    Prêt, Kupo!?
     ${selection-lines}
     Heeeeee-yah!!!
-    W-wait a minute...!${prompt}
+    Attendez une minute...!${prompt}
   12300: |-
-    I don't know how long I can hold them...
-    Hurry back soon, kupo!${prompt}
+    Je ne sais pas combien de temps je vais pouvoir les retenir...
+    Reviens vite, kupo!${prompt}
   12301: |-
-    Are you two done yappin'?
-    Then prepare to die, coward! Hah! Eeeeee-yaaaaaah!${prompt}
+    Vous avez fini de jacasser?
+    Alors prépare-toi à mourir, lâche! Hah! Eeeeee-yaaaaaah!${prompt}
   12302: |-
-    Help Maat, kupo!
+    Aide Maat, kupo!
     ${selection-lines}
-    Assess the situation.
-    Attack with the Raging Beast!
-    Attack with the Silent Wind!
-    Attack with the Soaring Dragon!
-    Review techniques.
+    Évaluez la situation.
+    Attaquez avec la Bête enragée!
+    Attaquez avec le Vent silencieux!
+    Attaquez avec le dragon qui s'envole!
+    Réviser les techniques.
     ----
-    Auto-hit with Raging Beast
-    Auto-hit with Silent Wind
-    Auto-hit with Soaring Dragon
-    Auto-fail with Raging Beast
-    Auto-fail with Silent Wind
-    Auto-fail with Soaring Dragon
-    Draw with Raging Beast
-    Draw with Silent Wind
-    Draw with Soaring Dragon${prompt}
+    Auto-hit avec Bête furieuse
+    Auto-hit avec Vent silencieux
+    Réussite automatique avec Dragon fulgurant
+    Échec automatique avec Raging Beast
+    Échec automatique avec Vent silencieux
+    Échec automatique avec Dragon fulgurant
+    Tirer avec Bête furieuse
+    Tirer avec Vent silencieux
+    Dessin avec Dragon fulgurant${prompt}
   12303: |-
-    ${choice: 0}[Maat/Degenhard] unleashes the ${choice: 1}[Raging Beast/Silent Wind/Soaring Dragon]!
-    →${choice: 0}[Maat/Degenhard]'s fist glows ${choice: 1}[red/blue/green] with power...
-  12304: '${choice: 0}[Was this it!?/Hee-yah!/Take that!]'
+    ${choice: 0}[Maat/Degenhard] libère le ${choice: 1}[Bête enragée/Vent silencieux/Dragon fulgurant]!
+    →${choice: 0}Le poing de [Maat/Degenhard] brille ${choice: 1}[rouge/bleu/vert] de puissance...
+  12304: '${choice: 0}[Est-ce que c’est ça ??/Hee-yah!/Prenez ca!]'
   12305: '${choice: 0}[Grrr...!/Yah!/Ungh!]'
-  12306: '${choice: 0}[Die, coward!/Hieeee-hah!/Yieeeeee!]'
+  12306: '${choice: 0}[Meurs, lâche !/Hieeee-hah!/Yieeeeee!]'
   12307: '${choice: 0}[Owowowow!/Yaaaaaah!/Hurk...!]'
-  12308: '${choice: 0}[Maat/Degenhard]''s eyes flicker with a murderous gleam!'
-  12309: '${choice: 1}[How about this!?/Can you withstand this?/There''s no holding back this time!/Say your prayers!/Now you will see...I am still the master!]${prompt}'
-  12310: '${choice: 1}[Take this!/You''re no match for me!/I''m just getting warmed up!/Die in dishonor!/This is the end for you...old friend.]${prompt}'
-  12311: 'Maat uses ${choice: 1}[Combo/One Inch Punch/Howling Fist/Asuran Fists/Bear Killer]!'
-  12312: 'Degenhard uses ${choice: 1}[Combo/One Inch Punch/Howling Fist/Asuran Fists/Meteoric Kick]!'
+  12308: '${choice: 0}Les yeux de [Maat/Degenhard] brillent d’une lueur meurtrière!'
+  12309: '${choice: 1}[Que diriez-vous de cela?/Pouvez-vous supporter cela?/Il n’y a pas de retenue cette fois-ci!/Dites vos prières!/Maintenant vous verrez... je suis toujours le maître!].${prompt}'
+  12310: '${choice: 1}[Prends ça!/Tu n’es pas de taille contre moi!/Je ne fais que m’échauffer!/Mort dans le déshonneur!/C’est la fin pour toi...mon vieil ami].${prompt}'
+  12311: 'Maat utilise ${choice: 1}[Combo/Punch d’un pouce/Poing de la houlette/Poing de l’Assuran/Tueur d’ours]!'
+  12312: 'Degenhard utilise ${choice: 1}[Combo/Punch d’un pouce/Poing hurlant/Poing asuran/Coup de pied météorique]!'
   12313: |-
     Urk...!
-    Bah...this battle's just begun.${prompt}
+    Bah... la bataille ne fait que commencer.${prompt}
   12314: |-
-    Unghhh...I'll never fall to a coward like you!
-    Hah! Yah! Eeeeee-yah!${prompt}
+    Unghhh... Je ne tomberai jamais sous les coups d'un lâche comme toi !
+    Hah ! Yah ! Eeeeee-yah!${prompt}
   12315: |-
-    Ow! Owowowowow!
-    What's the big idea!?${prompt}
+    Ow ! Owowowowow !
+    C'est quoi l'idée de base!?${prompt}
   12316: |-
-    Ungh...you've learned a trick or two.
-    But as long as you give yourself over to petty rage...you'll never defeat me!${prompt}
+    Ungh... tu as appris un ou deux trucs.
+    Mais tant que tu te laisseras aller à une rage mesquine... tu ne me vaincras jamais!${prompt}
   12317: |-
-    Hah! Why do you still hold back?
-    Show me the full extent of your strength!${prompt}
+    Hah! Pourquoi te retiens-tu encore?
+    Montre-moi toute l'étendue de ta force!${prompt}
   12318: |-
-    You have learned...well...
-    But this isn't...over...yet...!${prompt}
-  12319: '${choice: 0}[Maat/Degenhard] has barely broken a sweat.${prompt}'
-  12320: '${choice: 0}[Maat/Degenhard] is bearing down for the fight.${prompt}'
-  12321: '${choice: 0}[Maat/Degenhard] is beginning to breathe heavily.${prompt}'
-  12322: '${choice: 0}[Maat/Degenhard]''s breathing is badly labored.${prompt}'
-  12323: '${choice: 0}[Maat/Degenhard] is on his last legs...${prompt}'
+    Tu as appris... bien...
+    Mais ce n'est pas...fini...encore...!${prompt}
+  12319: '${choice: 0}[Maat/Degenhard] a à peine transpiré.${prompt}'
+  12320: '${choice: 0}[Maat/Degenhard] se prépare au combat.${prompt}'
+  12321: '${choice: 0}[Maat/Degenhard] commence à respirer difficilement.${prompt}'
+  12322: '${choice: 0}La respiration de [Maat/Degenhard] est très difficile.${prompt}'
+  12323: '${choice: 0}[Maat/Degenhard] est à bout de souffle...${prompt}'
   12324: |-
-    You've given me the first good fight I've had in years.
-    I'm impressed, old friend.${prompt}
+    Tu m'as donné le premier bon combat que j'ai eu depuis des années.
+    Je suis impressionné, mon vieil ami.
   12325: |-
-    Hahaha! Is it such a surprise?
-    I've trained years for this day!${prompt}
+    Hahaha! Est-ce une telle surprise?
+    Je me suis entraîné pendant des années pour ce jour!${prompt}
   12326: |-
-    That's the spirit!
-    Well...now that I've gotten warmed up, what say we go another round?${prompt}
+    C'est ça l'esprit !
+    Eh bien... maintenant que je me suis échauffé, que dirais-tu d'un autre tour?${prompt}
   12327: |-
-    Ahahaha! Taken a few too many blows to the head, I see!
-    Hah! If you're so eager to meet your maker, how can I refuse!?
+    Ahahaha! Vous avez pris quelques coups de trop sur la tête, je vois!
+    Hah! Si tu es si impatient de rencontrer ton créateur, comment pourrais-je refuser?
     Heeeeee-yah!${prompt}
   12328: |-
-    What's this? They're not done yet, kupo!?
-    Oh, ${name-player}, what shall we do!?${prompt}
+    Qu'est-ce que c'est que ça ? Ils n'ont pas encore fini, kupo!?
+    Oh, ${name-player}, qu'est-ce qu'on fait!?${prompt}
   12329: '...Urrrgggh.${prompt}'
   12330: |-
-    You haven't changed a bit, friend.
-    All passion, no discipline.${prompt}
+    Tu n'as pas changé, mon ami.
+    Toute la passion, aucune discipline.${prompt}
   12331: |-
-    Now settle down and listen for once.
-    Your opponent today isn't me, but this adventurer here.${prompt}
-  12332: Preposterous! This rank amateur--?${prompt}
+    Maintenant, calmez-vous et écoutez pour une fois.
+    Votre adversaire aujourd'hui n'est pas moi, mais cet aventurier.${prompt}
+  12332: C'est absurde! Cet amateur...?${prompt}
   12333: |-
-    This “amateur” seeks to take ${choice-player-gender}[his/her] powers to a new level.
-    And for that, ${choice-player-gender}[he/she] and our purple-winged friend here have need of your strength.${prompt}
+    Cet « amateur » cherche à prendre ${choice-player-gender}[his/her] pouvoirs à un niveau supérieur.
+    Et pour cela, ${choice-player-gender}[il/elle] et notre ami aux ailes violettes ont besoin de votre force.${prompt}
   12334: |-
-    R-ridiculous... So the challenge letter...and the ${item-singular: 0[2]}!
-    It was all some moogle farce?${prompt}
-  12335: Hee hee, kupo.${prompt}
-  12336: (It would seem that this nomad fellow is shrewder than he lets on, kupo.)${prompt}
+    R-ridicule... La lettre d'interpellation... et le ${item-singular: 0[2]}!
+    Ce n'était qu'une farce de Moogle?${prompt}
+  12335: ee hee, kupo.${prompt}
+  12336: (Il semblerait que ce nomade soit plus rusé qu'il ne le laisse paraître, kupo).${prompt}
   12337: |-
-    <Ahem> Sorry to keep you waiting, ${name-player}.
-    Now that all of our participants are properly warmed up, what say we get things started, kupo?${prompt}
-  12338: Everyone! To your positions, kupo!${prompt}
-  12339: Now this is the momentaru I've been waiting for!${prompt}
+    <Ahem> Désolé de vous avoir fait attendre, ${name-player}.
+    Maintenant que tous nos participants sont bien échauffés, que diriez-vous de commencer, kupo ? ${prompt}
+  12338: Tout le monde ! A vos postes, kupo!${prompt}
+  12339: Voilà le momentaru que j'attendais!${prompt}
   12340: '...${prompt}'
-  12341: Hm?${prompt}
-  12342: Oh dear... Has my moogle magic failed me, kupo?${prompt}
+  12341: Hm ? ${prompt}
+  12342: Oh là là... Ma magie de moogle m'a fait défaut, kupo ? ${prompt}
   12343: Oh...!${prompt}
-  12344: ${choice-player-gender}[He's/She's]...${prompt}
-  12345: What indomitable, indefatigable spirit, kupo!${prompt}
+  12344: ${choice-player-gender}[Il est/Elle est]...${prompt}
+  12345: Quel esprit indomptable, infatigable, kupo!${prompt}
   12346: Hm!?${prompt}
-  12347: '${color-alt: 15}${name-player} feels a vast wellspring of life energy gush forth from deep within!'
+  12347: '${color-alt: 15}${name-player} sent une vaste source d’énergie vitale jaillir du plus profond de son être! ${prompt}'
   12348: |-
-    Incredible! These adventurers can endure even more punishment than we predicted.
-    The Mooglehood will be positively ecstatic to hear of this, kupo!${prompt}
-  12349: Hmph. I prefer trainin' the old-fashioned way.${prompt}
+    Incroyable ! Ces aventuriers sont capables d'endurer encore plus de punitions que nous l'avions prédit.
+    Le Mooglehood sera ravi d'apprendre cela, kupo!${prompt}
+  12349: Hmph. Je préfère m’entraîner à l’ancienne.${prompt}
   12350: |-
-    Simply-wimply stupendous!
-    I must reportaru my findings at once!${prompt}
+    Tout simplement stupéfiant!
+    Je dois faire part de mes découvertes immédiatement!${prompt}
   12351: |-
-    ${name-player}. That was close. Too close, kupo.
-    My moogle magic may have finally reached its limits.
-    I can make no promises that next time will go as smoothly...${prompt}
+    ${name-player}. Il s'en est fallu de peu. Trop près, kupo.
+    Ma magie moogle a peut-être enfin atteint ses limites.
+    Je ne peux pas promettre que la prochaine fois se passera aussi bien...${prompt}
   12352: |-
-    But that is a worry for another day.
-    Now go forth! A veritable universe of unbounded possibilities awaits you, kupo!${prompt}
-  12353: Your level limit is now 90!
+    Mais c'est un souci pour un autre jour.
+    Maintenant, allez-y ! Un véritable univers de possibilités illimitées vous attend, kupo!${prompt}
+  12353: Votre limite de niveau est maintenant de 90!
   12354: 'Debug: Battle preparations.${prompt}'
   12355: 'Debug: Battle part.${prompt}'
   12356: |-
-    Battle part:
+    Partie bataille :
     ${selection-lines}
-    Success part.
-    Failure part.${prompt}
-  12357: Battle clear part.${prompt}
-  12358: Battle failure part.${prompt}
-  12359: Drat! Drat and darnation, kupo!${prompt}
+    Partie succès.
+    Partie échec.${prompt}
+  12357: Bataille terminée partie.${prompt}
+  12358: Échec de la bataille.${prompt}
+  12359: Drat ! Drat et darnation, kupo!${prompt}
   12360: |-
-    Seems our friend's been held up.
+    Il semblerait que notre ami ait été retenu.
     Heh heh heh...${prompt}
   12361: |-
-    ${name-player}. I applaud your ardent ambition, but I fear our preparations have been prolonged.
-    We await the arrival of a very important visitor from a certain super-secret syndicate, you see...${prompt}
+    ${name-player}. J'applaudis votre ardente ambition, mais je crains que nos préparatifs n'aient été prolongés.
+    Nous attendons l'arrivée d'un visiteur très important d'un certain syndicat super-secret, voyez-vous...${prompt}
   12362: |-
-    Howdy-wowdy-ho! I hear some scruffy moogle was just begging-wegging for me to come by?
-    We need to make this quick--a bevy of busty beauties just checked in to Neptune's Spire, and they're desperataruly in need of my services.${prompt}
+    Howdy-wowdy-ho ! J'ai entendu dire qu'un moogle débraillé m'avait supplié de passer ?
+    Il faut qu'on fasse vite : une ribambelle de beautés plantureuses vient d'arriver au Neptune's Spire, et elles ont désespérément besoin de mes services.${prompt}
   12363: '!?${prompt}'
-  12364: '${color-alt: 15}Atori-Tutori winks knowingly in Maat''s direction.'
+  12364: '${color-alt: 15}Atori-Tutori fait un clin d’œil complice à Maat.'
   12365: |-
-    Ahem! I am the “scruffy” moogle who sent for you!
-    They say you possess a secret Far Eastern technique that allows adventurers to--how shall we say it?--relieve themselves of their corporeal confines, kupo.${prompt}
+    Ahem ! Je suis le moogle « débraillé » qui vous a fait venir !
+    On dit que vous possédez une technique secrète d'Extrême-Orient qui permet aux aventuriers de... comment dire... de se libérer de leurs entraves corporelles, kupo.${prompt}
   12366: |-
-    Yeppers, that's me alrightaru.
-    So where's my victim--I mean, trainee--for today?${prompt}
+    Ouais, c'est moi alrightaru.
+    Alors, où est ma victime - je veux dire, mon stagiaire - pour aujourd'hui?${prompt}
   12367: |-
-    Why, this strapping adventurer right here.
-    (That's your cue, ${name-player}!)${prompt}
-  12368: '${color-alt: 15}Atori-Tutori squints his eyes and looks ${name-player} up and down.'
+    Pourquoi, cet aventurier costaud juste ici.
+    (C'est votre signal, ${name-player}!)${prompt}
+  12368: '${color-alt: 15}Atori-Tutori plisse les yeux et regarde ${name-player} de haut en bas.'
   12369: |-
-    Hmm, not bad. Not bad at all!
-    You must work outaru!${prompt}
+    Hmm, pas mal. Pas mal du tout !
+    Tu dois travailler outaru !${prompt}
   12370: |-
-    ...But wait a minute. Of course!
-    You've grown so strong I scarcely-warcely recognized you!
-    Why, I knew greataru things would come of you!${prompt}
+    ...Mais attendez un peu. Mais attendez une minute.
+    Vous êtes devenu si fort que je vous ai à peine reconnu !
+    Je savais que vous feriez de grandes choses!${prompt}
   12371: |-
-    Very well!
-    You're as good a subject as any for my chic, unique technique.${prompt}
+    Très bien !
+    Vous êtes un bon sujet pour ma technique chic et unique.${prompt}
   12372: |-
-    But first, a matter of procedure.
-    As there may be a few minor risks involved, I'll have to ask you to sign a simple contractaru.
-    Do that, and I'll pump up your powers with a minimum of fussy-wuss.${prompt}
+    Mais d'abord, une question de procédure.
+    Comme il peut y avoir quelques risques mineurs, je vais devoir vous demander de signer un simple contrat.
+    Faites-le et j'augmenterai vos pouvoirs avec un minimum d'agitation.${prompt}
   12373: |-
-    A contract?
-    It couldn't be...${prompt}
+    Un contrat ?
+    Ce n'est pas possible...${prompt}
   12374: |-
-    So what's the good word, ${name-player}?
-    Are you ready to sign a contractaru with me and become a magical g--er, a mightier, more majestic adventurer?${prompt}
+    Alors, quelle est la bonne nouvelle, ${name-player}?
+    AÊtes-vous prêt à signer un contrat avec moi et à devenir un g--er magique, un aventurier plus puissant, plus majestueux?${prompt}
   12375: |-
-    How aboutaru it?
+    Qu'en est-il dearu ?
     ${selection-lines}
-    Sign me up!
-    Maybe lataru.${prompt}
+    Inscrivez-moi !
+    Peut-être lataru.${prompt}
   12376: |-
-    Got butterflies in your belly, kupo?
-    I'll be hanging out here should you ever have a change of heart.${prompt}
-  12377: Oh, ${choice-player-gender}[he'll/she'll] be back. You can countaru on it.${prompt}
+    Vous avez des papillons dans le ventre, kupo ?
+    Je resterai ici si vous changez d'avis.${prompt}
+  12377: Oh, ${choice-player-gender}[il/elle] sera de retour. Vous pouvez compter dessus.${prompt}
   12378: |-
-    Look who's back!
-    Well, kupo? Have you decided to take our Tarutaru friend up on his offer?${prompt}
+    Regardez qui est de retour !
+    Alors, Kupo ? Avez-vous décidé d'accepter l'offre de notre ami Tarutaru?${prompt}
   12379: |-
-    What say you, kupo?
+    Qu'en dites-vous, Kupo ?
     ${selection-lines}
-    Sign me up!
-    About merit points...
-    Goodbye.${prompt}
+    Je m'inscris !
+    A propos des points de mérite...
+    Au revoir.${prompt}
   12380: |-
-    Now that's the answer I was looking for!
-    Very well, then! I'll just be needing a few things from you.
-    ${lettercase: 1}${article} ${item-article: 0[2]} and ${article} ${item-article: 1[2]}, to startaru. Ah yes, and a healthy-wealthy dose of intestinal fortitude.${prompt}
+    Voilà la réponse que je cherchais !
+    Très bien, alors ! J'aurai juste besoin de quelques petites choses de votre part.
+    ${lettercase: 1}${article} ${item-article: 0[2]} et ${article} ${item-article: 1[2]}, à startaru. Ah oui, et une bonne dose de force intestinale.${prompt}
   12381: |-
-    “Intestinal fortitude,” kupo...?
-    That's an awfully ambiguous order, my diminutive friend.${prompt}
+    « Force intestinale », kupo... ?
+    C'est un ordre terriblement ambigu, mon petit ami.${prompt}
   12382: |-
-    One would think you'd have a bit more imagination in that swollen-wollen head of yours.
-    I speak, of course, of the “marinara points” you always requestaru of these adventurers.${prompt}
+    On aurait pu penser que vous auriez un peu plus d'imagination dans votre tête gonflée.
+    Je parle, bien sûr, des « points de marinade » que vous demandez toujours à ces aventuriers.${prompt}
   12383: |-
-    Ah, mouthwatering morsels of select seafood and pasta boiled to perfection...!
-    ...Ahem. Do you perhaps speak of “merit” points?${prompt}
+    Ah, d'appétissantes bouchées de fruits de mer et de pâtes cuites à la perfection...!
+    ...Ahem. Parlez-vous de points de « mérite »?${prompt}
   12384: |-
-    Hmm? As I was saying, ${number: 0} of those whatchama-pointarus along with the items of which I just spoke.
-    Round these up, and our contract is as good as signed--and I won't even need to take your soul.
-    Ahem, I mean, we'll be ready to roll.${prompt}
+    Hmm ? Comme je le disais, ${number: 0} de ces whatchama-pointarus ainsi que les objets dont je viens de parler.
+    Rassemblez-les, et notre contrat est comme signé... et je n'aurai même pas besoin de prendre votre âme.
+    Je veux dire, nous serons prêts à partir.${prompt}
   12385: |-
-    And with that, I'm going back to the inn before the vixens vacate!
-    Drop a linkshell line to my assistantaru when this ${choice-player-gender}[fellow/lady] is ready, mister moogle man.${prompt}
-  12386: Far be it from me to keep you from your destiny, ${name-player}, but this technique the Tarutaru speaks of...${prompt}
+    Et sur ce, je retourne à l'auberge avant que les mégères ne partent !
+    Envoyez une ligne à mon assistantaru quand ceci se produira ${choice-player-gender}[fellow/lady] est prêt, monsieur moogle.${prompt}
+  12386: Loin de moi l'idée de vous éloigner de votre destin, ${name-player}, mais cette technique dont parle le Tarutaru...${prompt}
   12387: |-
-    Ah, but never ye mind...just an old man's worries.
-    Trust your heart and follow your own path. It won't lead you astray.${prompt}
-  12388: 'To recap, you''ll be needing ${article} ${item-article: 0[2]}, ${article} ${item-article: 1[2]}, and ${number: 2} marinara--I mean merit ${choice-plurality: 2}[point/points].${prompt}'
+    Ah, mais ne vous en faites pas... ce ne sont que les inquiétudes d'un vieil homme.
+    Faites confiance à votre cœur et suivez votre propre chemin. Il ne vous égarera pas.${prompt}
+  12388: 'Pour résumer, vous aurez besoin de ${article} ${item-article: 0[2]}, ${article} ${item-article: 1[2]}, et ${number: 2} marinara--Je veux dire mérite ${choice-plurality: 2}[point/points].${prompt}'
   12389: |-
-    Bring these to me, and I'll contact the miniature master.
-    Understood, kupo?${prompt}
+    Apportez-les moi, et je contacterai le maître des miniatures.
+    Compris, kupo?${prompt}
   12390: |-
-    Why yes, that should be everything.
-    Now where did I put my linkshell, kupo...?${prompt}
+    Oui, c'est tout ce qu'il faut.
+    Maintenant, où ai-je mis mon linkshell, kupo...?${prompt}
   12391: '...${prompt}'
   12392: |-
-    Curses and criminy, late again!
-    Does that Taru's disregard for decorum know no bounds!?${prompt}
+    Malédiction et criminalité, encore en retard !
+    Le mépris de Taru pour la bienséance n'a pas de limite!?${prompt}
   12393: |-
-    Heh, speak o' the devil.
-    And don't look now, but he's brought a friend...${prompt}
-  12394: 'Hmph! And give me justaru one good reason why your associates won''t help sell my scrumptious ${item-plural: 0[2]}!${prompt}'
+    Heh, en parlant du diable.
+    Et ne regardez pas maintenant, mais il a amené un ami...${prompt}
+  12394: 'Hmph! Et donnez-moi une seule bonne raison pour laquelle vos associés ne vous aideront pas à vendre mes succulentes ${item-plural: 0[2]}!${prompt}'
   12395: |-
-    I could give you a thousand-wousand reasons, my dear, but what would be the pointaru?
-    The higher-ups would never listen to a second-string flunky like me!${prompt}
+    Je pourrais vous donner mille et une raisons, ma chère, mais quel serait le pointaru?
+    Les supérieurs n'écouteraient jamais un larbin de seconde zone comme moi!${prompt}
   12396: |-
-    And would it kill you to try to negotiataru!?
-    After all the time you've spent there, surely you know how to deal with those costive-wostive easterners!${prompt}
+    Et cela vous tuerait-il d'essayer de négocier ?
+    Après tout le temps que vous avez passé là-bas, vous savez sûrement comment vous y prendre avec ces gens de l'Est qui sont très hostiles!${prompt}
   12397: |-
-    And what's in it for me? Hmmm?
-    Why, I don't even like pickles! Yeech!${prompt}
+    Et qu'est-ce que j'y gagne? Hmmm?
+    Je n'aime même pas les cornichons! Yeech!${prompt}
   12398: |-
-    Ah, the tragedy of it all!
-    It's common knowledge that the pickle-hater misses out on at least eighty percentaru of life's pleasures!${prompt}
-  12399: Ah, but the remaining twenty percent tastes infinitely as sweetaru, untainted by the sour, unsavory flavor of those foul foodstuffs!${prompt}
+    Ah, la tragédie de tout ça!
+    Il est de notoriété publique que l'amateur de cornichons passe à côté d'au moins quatre-vingt pour cent des plaisirs de la vie!${prompt}
+  12399: Ah, mais les vingt pour cent restants ont un goût infiniment plus doux, non altéré par la saveur aigre et désagréable de ces aliments immondes!${prompt}
   12400: |-
-    I, for one, am developing an exceedingly unpleasant taste in my mouth just listening to this pointless palaver.
-    Is this young lady your assistant, kupo?${prompt}
+    Pour ma part, je commence à avoir un goût extrêmement désagréable dans la bouche rien qu'en écoutant ces palabres inutiles.
+    Cette jeune femme est-elle votre assistante, kupo?${prompt}
   12401: |-
-    Ah, forgive me.
-    This is Chumbawumba, a purveyor of pickle-wickles who--as you can see--is most desperataru to distribute her wares.${prompt}
+    Ah, pardonnez-moi.
+    Voici Chumbawumba, une fournisseuse de cornichons qui, comme vous pouvez le constater, est des plus désespérées pour distribuer sa marchandise.${prompt}
   12402: |-
-    That's Chamama!
-    And I'll have you know that I run a perfectly reputable restaurantaru!${prompt}
+    C'est Chamama !
+    Et je vous signale que je dirige un restaurant parfaitement réputé!${prompt}
   12403: |-
-    But my assistant...yes, of course!
-    How's this, Ms. Chulapalooza? You lend me a hand, and I'll see if I can't talky-walky the boss into selling your rancid rations.${prompt}
+    Mais mon assistante... oui, bien sûr !
+    Que dites-vous de ça, Mlle Chulapalooza ? Vous me donnez un coup de main, et je vais voir si je ne peux pas convaincre le patron de vendre vos rations rances.${prompt}
   12404: |-
-    That's Chamama! And “rancid”...!
-    ...W-wait. You'd do that for me?${prompt}
+    C'est du Chamama ! Et « rance »... !
+    ... Attendez. Vous feriez ça pour moi? ${prompt}
   12405: |-
-    Of course, my dear assistant!
-    Now step rightaru this way, won't you?${prompt}
-  12406: Something about this is tying my sensitive stomach in knots, kupo...${prompt}
+    Bien sûr, mon cher assistant !
+    Maintenant, venez à droitearu par ici, voulez-vous ? ${prompt}
+  12406: Il y a quelque chose qui fait des noeuds à mon estomac sensible, kupo...${prompt}
   12407: |-
-    ${name-player}, listen well. My ancient Eastern technique will trigger a miracu-waculous process inside your body.
-    You might feel a bit odd at first, but pay it no mind.${prompt}
+    ${name-player}, écoutez bien. Ma technique orientale ancestrale va déclencher un processus miraculeux à l'intérieur de votre corps.
+    Vous vous sentirez peut-être un peu bizarre au début, mais n'y prêtez pas attention.${prompt}
   12408: |-
-    Incubate it carefully, and then, when the urge calls, I want you to squeeze with all your mightaru!
-    Succeed and you will expel the physical embodiment of the profound life energies that lie dormantaru within you.${prompt}
+    Incubez-le soigneusement, puis, quand l'envie vous prendra, je veux que vous le pressiez de toutes vos forces !
+    Réussissez et vous expulserez l'incarnation physique des profondes énergies vitales qui sommeillentaru en vous.${prompt}
   12409: |-
-    It's all in the timing. Ten beats of your heart--ten seconds--should do the trick.
-    Discharge it too early and it will disintegrate into dustaru. Wait too long and we'll have a foul mass as rotten-wotten as Chupawupa's pickled rodent tails.${prompt}
+    Tout est dans le timing. Dix battements de coeur - dix secondes - devraient suffire.
+    Déchargez-le trop tôt et il se désintégrera en dustaru. Attendez trop longtemps et nous aurons une masse fétide aussi pourrie que les queues de rongeurs marinés de Chupawupa.${prompt}
   12410: |-
-    Hmm? Discharge what? No need to sweataru the details, friend!
-    Anyhoodles, as a final step, my lovely-wovely assistant will weigh your, er, evacuated matter.
-    I daresay three pickling stones' weight would do just perfectly.${prompt}
+    Hmm ? Décharger quoi ? Pas besoin d'entrer dans les détails, mon ami !
+    Quoi qu'il en soit, en guise de dernière étape, ma charmante assistante pèsera votre, euh, matière évacuée.
+    J'ose dire que le poids de trois pierres de décapage fera parfaitement l'affaire.${prompt}
   12411: |-
-    Well, aren't you in luck!
-    I have a supply of ${item-plural: 0[2]} right here.${prompt}
+    Eh bien, vous avez de la chance !
+    J'ai un stock de ${item-plural: 0[2]} ici même.${prompt}
   12412: |-
-    Perfect! Now remember, ${name-player}. It's all in the mind.
-    When you make that all-important push, envision something...cutesy-wutesy.
-    ${lettercase: 1}${article} ${item-article: 0[2]}, for example.${prompt}
+    C'est parfait ! N'oublie pas, ${name-player}. Tout est dans la tête.
+    Au moment de donner cette impulsion décisive, imaginez quelque chose de... mignon... mignon.
+    ${lettercase: 1}${article} ${item-article: 0[2]}, par exemple.${prompt}
   12413: Cutesy-wutesy...?${prompt}
   12414: |-
-    I recommend you take a momentaru to catch your breath, ${name-player}.
-    When you're ready, just speak to our frizzy-furred friend here, okay?${prompt}
+    e vous recommande de prendre un moment pour reprendre votre souffle, ${name-player}.
+    Quand vous serez prêts, adressez-vous à notre ami à la fourrure frisée, d'accord?${prompt}
   12415: |-
-    Ready?
+    Prêt ?
     ${selection-lines}
-    Come again?
-    Ready!
-    Maybe another time.${prompt}
+    Revenir ?
+    Prêt !
+    Peut-être une autre fois.${prompt}
   12416: |-
-    Well, look who's back.
-    Ready to give my technique a shot, ${name-player}?${prompt}
+    Eh bien, regardez qui est de retour.
+    Prêt à essayer ma technique, ${name-player}?${prompt}
   12417: |-
-    Splendid!
-    I shall signal the start of the procedure, kupo.${prompt}
-  12418: |-
-    All rightaru, ${name-player}!
-    On our moogle friend's mark...!${prompt}
-  12419: Here we go, kupo!
-  12420: |-
-    When you get the urge...
+    C'est très bien !
+    Je vais signaler le début de la procédure, kupo.${prompt}
+  12418 : |-
+    Très bienaru, ${name-player} !
+    A la marque de notre ami moogle...!${prompt}
+  12419 : C'est parti, kupo !
+  12420 : |-
+    Quand l'envie vous prend...
     ${selection-lines}
     Push!${prompt}
   12421: '...'
   12422: '...?'
   12423: |-
-    ${color-alt: 15}A discolored mass is released from ${name-player}'s body.
-    It quickly decomposes and dribbles off....
+    ${color-alt: 15}Une masse décolorée est libérée du corps de ${name-player}.
+    Il se décompose rapidement et s'égoutte sur ....
   12424: |-
-    Eew! Stinky-winky, ${name-player}.
-    I told you what would happen if you waited too long.${prompt}
-  12425: |-
-    ${color-alt: 15}Something begins to poke out from ${name-player}'s body.
-    It quickly crumbles and dissipates into the air...
-  12426: |-
-    No, no, ${name-player}! Weren't you listening-wistening?
-    You must hold it in longer!${prompt}
-  12427: '${color-alt: 15}A curious mass is released from ${name-player}''s body...'
-  12428: |-
-    Well, well...this looks most promising indeed!
-    Ms. Picklemonger, the weigh-in!${prompt}
-  12429: That's Cha... Oh, just let me see that already!${prompt}
+    Beurk ! Puant-puant, ${name-player}.
+    Je t'ai dit ce qui se passerait si tu attendais trop longtemps.${prompt}
+  12396: |-
+    ${color-alt: 15}Quelque chose commence à sortir du corps de ${name-player}.
+    Il s'effrite rapidement et se dissipe dans l'air...
+  12397: |-
+    Non, non, ${name-player}! Vous n'avez pas écouté ?
+    Vous devez vous retenir plus longtemps!${prompt}
+  12398: '${color-alt: 15}Une curieuse masse est libérée du corps de ${name-player}...'
+  12399: |-
+    Eh bien, eh bien... cela semble très prometteur en effet !
+    Mme Picklemonger, la pesée!${prompt}
+  12400: C'est Cha... Oh, laissez-moi voir ça!${prompt}
   12430: |-
-    One stone, two.
-    Yes, it looks like we have...${prompt}
+    Une pierre, deux.
+    Oui, il semble que nous ayons...${prompt}
   12431: |-
-    Oh dearie-wearie me.
-    I'm afraid it's just a trifle-wifle too light.${prompt}
+    Oh, ma chère, ma chère.
+    Je crains que ce ne soit un peu trop léger.${prompt}
   12432: |-
-    Let's see, now.
+    Voyons voir.
     Heave...ho!${prompt}
   12433: |-
-    Oh, heavens no.
-    This is simply-wimply too heavy for an exquisitaru lady like myself to carry.${prompt}
+    Oh, mon Dieu, non.
+    C'est tout simplement trop lourd à porter pour une dame exquise comme moi.${prompt}
   12434: |-
-    No, this won't do at all.
-    Once more from the beginning!${prompt}
-  12435: '${color-alt: 15}The unidentified mass vanishes.'
+    Non, ça ne va pas du tout.
+    Reprenons depuis le début!${prompt}
+  12435: '${color-alt: 15}La masse non identifiée disparaît.'
   12436: Just what was that strange stone, kupo...?${prompt}
   12437: Ugh! I thought this was difficult to do, but it's even more difficult to watch!${prompt}
   12438: |-
