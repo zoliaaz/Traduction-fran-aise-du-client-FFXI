@@ -16491,61 +16491,61 @@ entries:
     Come, Master, we're off to Jeuno!${prompt}
   6745: "     \n     Little did anyone suspect that this\n     would prove to be only the beginning\n     of a harrowing nightmare unheard of\n     in the annals of mooglekind...${prompt}"
   6746: |-
-    Do something?
+    Faire quelque chose ?
     ${selection-lines}
-    Read instructions.
-    Change parameters.
-    Teleport to key locations.
-    Warp to home point.
-    Receive items.
-    Obtain 100,000,000 gil.
-    Do nothing.${prompt}
+    Lire les instructions.
+    Modifier les paramètres.
+    Se téléporter à des endroits clés.
+    Se téléporter au point d'origine.
+    Recevoir des objets.
+    Obtenir 100 000 000 gils.
+    Ne rien faire.${prompt}
   6747: |-
-    Hail, adventurer!
-    I am the most mighty of moogles, my miraculous magicks able to alter all manner of arcane attributes!${prompt}
+    Salut, aventurier !
+    Je suis le plus puissant des moogles, mes magies miraculeuses pouvant altérer toutes sortes d'attributs arcaniques!${prompt}
   6748: |-
-    But be forewarned, kupo!
-    Once modified by moogle magick, your parameters cannot be restored to their prior state!${prompt}
+    Mais attention, kupo !
+    Une fois modifiés par la magie moogle, vos paramètres ne peuvent pas être restaurés à leur état antérieur!${prompt}
   6749: |-
-    Furthermore, you may trade a moogle storage slip to me to wipe it clean, or mystically entrust its entire contents to me.
-    Quite convenient, wouldn't you say?${prompt}
+    De plus, vous pouvez m'échanger une fiche de stockage moogle pour la nettoyer, ou me confier mystiquement l'intégralité de son contenu.
+    C'est très pratique, n'est-ce pas?${prompt}
   6750: |-
-    Adjust parameters?
+    Ajuster les paramètres ?
     ${selection-lines}
-    Edit main job level.
-    Reset ability recast timer.
-    Obtain merit points.
-    Receive all spells/rolls/attachments.
-    Unlock all jobs and support jobs.
-    Cancel.${prompt}
+    Modifier le niveau de travail principal.
+    Réinitialiser le délai de refonte des compétences.
+    Obtenir des points de mérite.
+    Recevoir tous les sorts/rouleaux/attachements.
+    Déverrouiller tous les jobs et les jobs de soutien.
+    Annuler.${prompt}
   6751: |-
     Choose a level between ${number: 0} and ${number: 1}.
     All combat skills will be set to the maximum values for that level.
     (Entering an invalid figure will abort the process.)
-  6752: 'Your job level has been set to ${number: 0}!${prompt}'
-  6753: Recast timers will be reset, allowing you to use all abilities.${prompt}
-  6754: '${color-alt: 121}Recast timers for all abilities reset!'
-  6755: All merit point categories will be increased to their maximum values.${prompt}
-  6756: '${color-alt: 121}Maximum available merit points obtained!'
-  6757: You will obtain all magic spells, attachments, and rolls.${prompt}
-  6758: '${color-alt: 121}All magic spells, attachments, and rolls obtained!'
+  6752: 'Votre niveau de job a été fixé à ${number: 0}!${prompt}'
+  6753: Les délais de refonte seront réinitialisés, ce qui vous permettra d'utiliser toutes les capacités.${prompt}
+  6754: '${color-alt: 121}Remise à zéro des délais de refonte pour toutes les capacités!'
+  6755: Toutes les catégories de points de mérite seront portées à leur valeur maximale.${prompt}
+  6756: '${color-alt: 121}All merit point categories will be increased to their maximum value!'
+  6757: Vous obtiendrez tous les sorts magiques, les accessoires et les jets.${prompt}
+  6758: '${color-alt: 121}Tous les sorts, attachements et jets magiques obtenus!'
   6759: |-
-    You will gain access to all jobs.
-    All support jobs will also be unlocked.${prompt}
-  6760: '${color-alt: 121}Unlocked all jobs and support jobs!'
-  6761: Choose your destination.
+    Vous aurez accès à tous les jobs.
+    Tous les jobs de soutien seront également débloqués.${prompt}
+  6760: '${color-alt: 121}Tous les jobs et les jobs de soutien ont été débloqués!'
+  6761: Choisissez votre destination.
   6762: |-
-    Select a category:
+    Sélectionnez une catégorie :
     ${selection-lines}
-    Towns.
-    Outposts.
-    Staging Points.
-    Cancel.${prompt}
+    Villes.
+    Avant-postes.
+    Points d'appui.
+    Annuler.${prompt}
   6763: |-
-    Where would you like to teleport to?
+    Où voulez-vous vous téléporter ?
     ${selection-lines}
-    Northern San d'Oria.
-    Bastok Mines.
+    Nord de San d'Oria.
+    Mines de Bastok.
     Port Windurst.
     Port Jeuno.
     Selbina.
@@ -16553,37 +16553,37 @@ entries:
     Kazham.
     Norg.
     Rabao.
-    Tavnazian Safehold.
+    Garde-fou tavnazien.
     Aht Urhgan Whitegate.
     Nashmau.
-    Chocobo Circuit.
-    Past Southern San d'Oria.
-    Past Bastok Markets.
-    Past Windurst Waters.
-    Cancel.${prompt}
-  6764: 'Teleporting to ${choice: 0}[Northern San d''Oria/Bastok Mines/Port Windurst/Port Jeuno/Selbina/Mhaura/Kazham/Norg/Rabao/the Tavnazian Safehold/Aht Urhgan Whitegate/Nashmau/the Chocobo Circuit/Past Southern San d''Oria/Past Bastok Markets/Past Windurst Waters]!${prompt}'
+    Circuit des Chocobos.
+    Passé le sud de San d'Oria.
+    Passé Marchés de Bastok.
+    Passé Windurst Waters.
+    Annuler.${prompt}
+  6764: 'Téléportation vers ${choice: 0}[Northern San d''Oria/Bastok Mines/Port Windurst/Port Jeuno/Selbina/Mhaura/Kazham/Norg/Rabao/the Tavnazian Safehold/Aht Urhgan Whitegate/Nashmau/the Chocobo Circuit/Past Southern San d''Oria/Past Bastok Markets/Past Windurst Waters]!${prompt}'
   6765: |-
-    Where would you like to teleport to?
+    Où voulez-vous vous téléporter ?
     ${selection-lines}
-    The Ronfaure Region.
-    The Zulkheim Region.
-    The Norvallen Region.
-    The Gustaberg Region.
-    The Derfland Region.
-    The Sarutabaruta Region.
-    The Kolshushu Region.
-    The Aragoneu Region.
-    The Fauregandi Region.
-    The Valdeaunia Region.
-    Qufim Island.
-    The Li'Telor Region.
-    The Kuzotz Region.
-    The Vollbow Region.
-    The Elshimo Lowlands Region.
-    The Elshimo Uplands Region.
+    La région de Ronfaure.
+    La région de Zulkheim.
+    La région de Norvallen.
+    La région de Gustaberg.
+    La région du Derfland.
+    La région de Sarutabaruta.
+    Région de Kolshushu.
+    La région d'Aragoneu.
+    Région de Fauregandi.
+    Région de Valdeaunia.
+    L'île de Qufim.
+    Région de Li'Telor.
+    Région de Kuzotz.
+    Région de Vollbow.
+    Région des basses terres d'Elshimo.
+    La région des hautes terres d'Elshimo.
     Tu'Lia.
-    The Tavnazian Archipelago.
-    Cancel.${prompt}
+    L'archipel de Tavnazian.
+    Annuler.${prompt}
   6766: 'Teleporting to ${choice: 0}[Ronfaure/Zulkheim/Norvallen/Gustaberg/Derfland/Sarutabaruta/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li''Telor/Kuzotz/Vollbow/the Elshimo Lowlands/the Elshimo Uplands/Tu''Lia/the Tavnazian Archipelago]!${prompt}'
   6767: |-
     Teleport to which staging point?
@@ -16598,19 +16598,19 @@ entries:
   6768: 'Teleporting to the ${choice: 0}[Azouph Isle/Mamool Ja/Halvung/Dvucca Isle/Ilrusi Atoll/Nyzul Isle] staging point!${prompt}'
   6769: '${color-alt: 121}Congratulations, you are now a gillionaire!'
   6770: |-
-    Select an item category.
+    Sélectionnez une catégorie d'articles.
     ${selection-lines}
-    Weapons.
-    Armor.
-    Expendable items.
-    Medicine or food.
-    Instant magic scrolls.
-    Storage slips.
-    Cancel.${prompt}
+    Armes.
+    Armures.
+    Objets à usage unique.
+    Médicaments ou nourriture.
+    Parchemins de magie instantanée.
+    Bordereaux d'entreposage.
+    Annuler.${prompt}
   6771: |-
-    Which item do you wish to obtain?
+    Quel article souhaitez-vous obtenir ?
     ${selection-lines}
-    Previous page.
+    Page précédente.
     ${lettercase: 1}${article} ${item-article: 0[2]}.
     ${lettercase: 1}${article} ${item-article: 1[2]}.
     ${lettercase: 1}${article} ${item-article: 2[2]}.
@@ -16631,29 +16631,29 @@ entries:
     ${lettercase: 1}${article} ${item-article: 17[2]}.
     ${lettercase: 1}${article} ${item-article: 18[2]}.
     ${lettercase: 1}${article} ${item-article: 19[2]}.
-    Next page.
-    Cancel.${prompt}
-  6772: You selected the item displayed.${prompt}
+    Page suivante.
+    Annuler.${prompt}
+  6772: Vous avez sélectionné l'élément affiché.${prompt}
   6773: |-
-    Obtain ${article} ${item-article: 0[2]}?
+    Obtenir ${article} ${item-article: 0[2]}?
     ${selection-lines}
-    Yes.
-    No.${prompt}
+    Oui.
+    Non.${prompt}
   6774: |-
-    Enter the quantity you wish to obtain.
-    (Entering an invalid figure will abort the process.)
-  6775: 'Adjust the properties of this ${item-singular: 0[2]}?${prompt}'
+    Saisissez la quantité que vous souhaitez obtenir.
+    (La saisie d'un chiffre non valide interrompt le processus).
+  6775: 'Ajuster les propriétés de ce ${item-singular: 0[2]}?${prompt}'
   6776: |-
-    Adjust the storage slip?
+    Ajuster le bordereau de stockage ?
     ${selection-lines}
-    Cancel.
-    Entrust all items.
-    Clear contents.${prompt}
-  6777: '${color-alt: 121}All items on the ${item-singular: 0[2]} have been entrusted!'
-  6778: '${color-alt: 121}The contents of the ${item-singular: 0[2]} have been wiped clean!'
+    Annuler.
+    Confier tous les articles.
+    Effacer le contenu.${prompt}
+  6777: '${color-alt: 121}Tous les éléments de ${item-singular: 0[2]} ont été confiés!'
+  6778: '${color-alt: 121}Le contenu de la rubrique ${item-singular: 0[2]} ont été nettoyés!'
   6779: |-
     ${color-alt: 141}*Note:*
-    Unlocked jobs will be reflected upon leaving the Mog House.
+    Les jobs débloqués seront pris en compte lorsque vous quitterez la maison Mog.
   6780: You may use one of the instruments in your Mog House to play a different tune.${prompt}
   6781: Play music from which instrument?
   6782: |-
@@ -25309,7 +25309,7 @@ entries:
     Hé, vous avez l'air plutôt costaud. Que diriez-vous d'être ma guinée... errr, mon assistant? ${prompt}
   12129: |-
     Attendez un peu ! Je me souviens de vous !
-    Je t'ai déjà expliqué les secrets du système de gestion du mérite moogle, Kupo ! Arrête de perdre ton temps ici ; va te battre, kupo!${prompt}
+    Je t'ai déjà expliqué les secrets du système de gestion du mérite moogle, Kupo! Arrête de perdre ton temps ici ; va te battre, kupo!${prompt}
   12130: |-
     Devenir son «assistant»?
     ${selection-lines}
@@ -26448,64 +26448,64 @@ entries:
   12635: Waaah! <snuffle>
   12636: Waaah! <gurgle>
   12637: |-
-    What a racket.
-    Those Tarutaru were punished for their crimes of stealing a warship and flying out of Jeuno.${prompt}
-  12638: 'They claim they were just following orders, but Lord Nag''molada is also awaiting disciplinary action to be decided by the ${choice: 0}[Armathrwn Society/archduke].${prompt}'
-  12639: No matter your position, if you break the law...${prompt}
-  12640: Hm? Isn't that lady a friend of yours?${prompt}
-  12641: Oh, you three!
-  12642: Whatever is the matter?${prompt}
+    Quel racket!
+    Ces Tarutaru ont été punis pour avoir volé un navire de guerre et s'être envolés de Jeuno.${prompt}
+  12638: 'Ils affirment qu’ils n’ont fait qu’obéir aux ordres, mais Seigneur Nag’molada est également en attente d’une action disciplinaire qui sera décidée par le ${choice: 0}[Société Armathrwn/archiduc].${prompt}'
+  12639: Quelle que soit votre position, si vous enfreignez la loi...${prompt}
+  12640: Hm ? Cette dame n'est-elle pas une de vos amies?${prompt}
+  12641: Oh, vous trois!${prompt}
+  12642: Quel est le problème?${prompt}
   12643: |-
-    Come now, no more tears.
-    Surely things are not that bad?${prompt}
-  12644: We're done for.${prompt}
-  12645: Our necks are on the chopping block.${prompt}
-  12646: We've gotta get out of here!${prompt}
+    Allons, plus de larmes.
+    Les choses ne vont pas si mal ? ${prompt}
+  12644: Nous sommes foutus. ${prompt}
+  12645: Notre cou est sur le billot.${prompt}
+  12646: Il faut sortir d'ici!${prompt}
   12647: |-
-    Whatever for?
-    There are rumors all over town about the brave Tarutaru who saved an important official.${prompt}
-  12648: Is there some other terrible failure that you are regretting?${prompt}
+    Pourquoi ?
+    Des rumeurs courent dans toute la ville sur le courageux Tarutaru qui a sauvé un important fonctionnaire.${prompt}
+  12648: Y a-t-il un autre échec terrible que vous regrettez?${prompt}
   12649: |-
-    No, we've done everything right.
-    We used the right blend of deceit and betrayal, honey and vinegar...${prompt}
-  12650: We bribed the townsfolk, and avoided the authorities...${prompt}
-  12651: We've groomed ourselves into the perfect candidates to become bureaucrats of the future...${prompt}
-  12652: They have to run off because I showed up.${prompt}
-  12653: Prishe!?${prompt}
+    Non, nous avons tout fait correctement.
+    Nous avons utilisé le bon mélange de tromperie et de trahison, de miel et de vinaigre...${prompt}
+  12650: Nous avons soudoyé les habitants et évité les autorités...${prompt}
+  12651: Nous sommes devenus les candidats parfaits pour devenir les bureaucrates du futur...${prompt}
+  12652: Ils ont dû s'enfuir parce que je me suis montré.${prompt}
+  12653: Prishe!${prompt}
   12654: |-
-    What the hell is wrong with you!?
-    If you keep this up, I'm gonna start rethinking my plan to put you in charge of Tavnazia.${prompt}
+    Qu'est-ce qui ne va pas chez vous?
+    Si tu continues comme ça, je vais commencer à repenser mon plan de te mettre à la tête de Tavnazia.${prompt}
   12655: |-
-    Get yourselves together, or I'm gonna kick you into next Watersday!
-    You have a responsibility to look out for Ulmia and everyone else in the Marquisate!${prompt}
-  12656: Wh-what?${prompt}
-  12657: Sorry to fly off without an explanation, Ulmia.${prompt}
+    Reprenez-vous, ou je vous envoie au prochain Jour de l'Eau !
+    Vous avez la responsabilité de veiller sur Ulmia et sur tous les autres membres du Marquisat!${prompt}
+  12656: Qu-Quoi ? ${prompt}
+  12657: Désolé de m'envoler sans explication, Ulmia.${prompt}
   12658: |-
-    And you, ${name-player}.
-    Thanks for worrying about me.${prompt}
+    Et vous, ${name-player}.
+    Merci de vous inquiéter pour moi.${prompt}
   12659: |-
-    There's not much time, but I'll tell you what I know.
-    Get yourselves to the audience chamber.${prompt}
+    Nous n'avons pas beaucoup de temps, mais je vais vous dire ce que je sais.
+    Allez dans la salle d'audience.${prompt}
   12660: Prishe...?${prompt}
   12661: |-
-    Ah, that energetic young Elvaan girl just entered the audience chamber.
-    Hmmm... I thought she had been taken into custody...${prompt}
-  12662: With all the preparations for the launch of the armada, there are currently few people remaining in the Grand Palace. I wonder who gave the girl permission to enter...${prompt}
+    Ah, cette jeune fille énergique d'Elvaan vient d'entrer dans la salle d'audience.
+    Hmmm... Je pensais qu'elle avait été placée en détention...${prompt}
+  12662: Avec tous les préparatifs pour le lancement de l'armada, il ne reste plus grand monde dans le Grand Palais. Je me demande qui a autorisé la jeune fille à entrer... ${prompt}
   12663: |-
-    Hello, Ulmia.
-    You've been through quite an ordeal.${prompt}
-  12664: C-Cardinal Mildaurion...!?${prompt}
-  12665: What is going on...?${prompt}
+    Bonjour, Ulmia.
+    Vous avez traversé une sacrée épreuve. ${prompt}
+  12664: C-Cardinal Mildaurion...!${prompt}
+  12665: Que se passe-t-il... ? ${prompt}
   12666: |-
-    I am sorry, Ulmia.
-    We don't have time for lengthy explanations.${prompt}
-  12667: However, there is one thing that I must tell you.${prompt}
-  12668: My true name is Esha'ntarl.${prompt}
-  12669: Ten thousand years ago I was born in Al'Taieu, the city that enfolds the fifth mothercrystal.${prompt}
-  12670: Nag'molada, and the other members of the Armathrwn Society that now govern Jeuno, are also of an ancient race of people--a race recently awoken from a centuries-long sleep.${prompt}
+    Je suis désolé, Ulmia.
+    Nous n'avons pas le temps pour de longues explications. ${prompt}
+  12667: Cependant, il y a une chose que je dois vous dire.${prompt}
+  12668: Mon vrai nom est Esha'ntarl.${prompt}
+  12669: Il y a dix mille ans, je suis née à Al'Taieu, la cité qui renferme le cinquième cristal-mère.${prompt}
+  12670: Nag'molada, et les autres membres de la Société Armathrwn qui gouvernent aujourd'hui Jeuno, appartiennent eux aussi à une race ancienne, une race qui s'est récemment réveillée d'un sommeil séculaire.${prompt}
   12671: |-
-    But I am different from the others.
-    Through an unusual twist of fate, I was granted immortality.${prompt}
+    Mais je suis différent des autres.
+    Par un coup du sort, l'immortalité m'a été accordée.${prompt}
   12672: '!?${prompt}'
   12673: I pledged to use this unending life to bring to fruition the pact made between Selh'teus and the terrestrial avatars.${prompt}
   12674: |-
@@ -32629,9 +32629,9 @@ entries:
   15084: |-
     Stand tall and proud...er, if you can still stand.
     The legendary power of the bushin is yours.${prompt}
-  15085: Kupo!? That's how you pass along the power of the bushin!?${prompt}
-  15086: It looked like you were just trying to blast poor ${name-player} into smithereens!${prompt}
-  15087: More or less. It's the shock of the blastaru combined with the amassed power of ${name-player}'s merit points that triggers the reaction.${prompt}
+  15085: Kupo!? C'est comme ça qu'on transmet le pouvoir du bushin!?${prompt}
+  15086: On dirait que vous essayez juste de faire exploser les pauvres ${name-player} en miettes!${prompt}
+  15087: Plus ou moins. C'est le choc du blastaru combiné à la puissance accumulée des points de mérite de ${name-player} qui déclenche la réaction.${prompt}
   15088: By focusing all of those energies into one pulsating mass and ripping it out from within, we've opened up a veritable font of chakra inside ${name-player}'s body.${prompt}
   15089: A font...of chakra, kupo?${prompt}
   15090: They say such stores of power exist inside us all, yet most will train a lifetime without ever learnin' how to tap into 'em...${prompt}
@@ -33712,11 +33712,11 @@ entries:
     Previous page.
     Next page.
     Nothing for the nonce.${prompt}
-  15627: The A.M.A.N. is pleased to announce a new service in which we purchase any equipment you no longer need--new or used.${prompt}
-  15628: Just trade me any piece of equipment you desire. I will quickly assess its value and award you with an appropriate number of reclamation marks.${prompt}
-  15629: 'Once you accumulate ${number: 0} of these marks, they will be automatically converted to one ${item-singular: 1[2]} and added to the total number held.${prompt}'
-  15630: Though I am only authorized to accept a limited selection of equipment at present, the A.M.A.N. is considering making further additions to this list, so please check back regularly.${prompt}
-  15631: 'Would you like ${number: 0} reclamation mark${choice-plurality: 0}[/s] in exchange for one ${item-singular: 1[2]}? You currently have ${number: 5} mark${choice-plurality: 5}[/s].${prompt}'
+  15627: L'A.M.A.N. a le plaisir d'annoncer un nouveau service dans lequel nous achetons tout équipement dont vous n'avez plus besoin, qu'il soit neuf ou usagé.${prompt}
+  15628: Il vous suffit de m'échanger l'équipement que vous désirez. J'évaluerai rapidement sa valeur et vous attribuerai un nombre approprié de points de récupération.${prompt}
+  15629: 'Une fois que vous avez accumulé ${number: 0} de ces marques, elles seront automatiquement converties en une ${item-singular: 1[2]} et ajoutés au nombre total de détenus.${prompt}'
+  15630: Bien que je ne sois autorisé à accepter qu'une sélection limitée d'équipements pour le moment, l'A.M.A.N. envisage d'ajouter d'autres éléments à cette liste, alors n'hésitez pas à la consulter régulièrement.${prompt}
+  15631: 'Souhaitez-vous ${number: 0} marque de récupération${choice-plurality: 0}[/s] en échange d’un ${item-singular: 1[2]}? Vous avez actuellement ${number: 5} marque${choice-plurality: 5}[/s].${prompt}'
   15632: |-
     Proceed with the exchange?
     ${selection-lines}
