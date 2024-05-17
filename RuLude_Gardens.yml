@@ -25301,67 +25301,67 @@ entries:
     Match begins:
     Vana'diel: ${vanatime: 0}
     Earth: ${earthtime: 0}${prompt}
-  12125: I'm a traveling Moogle, always on the road... In search of the secrets of true strength, kupo.${prompt}
-  12126: And this time I think I might have found one. That's why I'm visiting Maat to see what he thinks, kupo.${prompt}
-  12127: I could fill you in on the details, but you don't look like you'd understand what I have to say. Come back when you think you've got some more seasoning under your belt, kupo...${prompt}
+  12125: Je suis un Moogle voyageur, toujours sur la route... A la recherche des secrets de la vraie force, kupo.${prompt}
+  12126: Et cette fois, je pense en avoir trouvé un. C'est pourquoi je rends visite à Maat pour voir ce qu'il en pense, kupo.${prompt}
+  12127: Je pourrais vous donner des détails, mais vous n'avez pas l'air de comprendre ce que j'ai à dire. Revenez quand vous penserez avoir un peu plus d'expérience, kupo...${prompt}
   12128: |-
-    I've discovered a way to increase the potential of those who have reached their “limits.” However, I haven't found anyone to pass that method on to, kupo.
-    Hey, you look pretty tough. How would you like to be my guinea...errr, assistant?${prompt}
+    J'ai découvert un moyen d'augmenter le potentiel de ceux qui ont atteint leurs « limites ». Mais je n'ai trouvé personne à qui transmettre cette méthode, Kupo.
+    Hé, vous avez l'air plutôt costaud. Que diriez-vous d'être ma guinée... errr, mon assistant? ${prompt}
   12129: |-
-    Wait a minute! I remember you!
-    I already filled you in on the secrets of the Moogle Merit Management system, kupo! Stop wasting your time here; get fighting, kupo!${prompt}
+    Attendez un peu ! Je me souviens de vous !
+    Je t'ai déjà expliqué les secrets du système de gestion du mérite moogle, Kupo ! Arrête de perdre ton temps ici ; va te battre, kupo!${prompt}
   12130: |-
-    Become his “assistant”?
+    Devenir son «assistant»?
     ${selection-lines}
-    Let's do it!
-    No way!
-    Tell me more...${prompt}
+    Allons-y !
+    Pas question !
+    Dites-m'en plus... ${prompt}
   12131: |-
     Excellent, kupo...
-    Ahem! I shall now pass on to you the secrets of the “Moogle Merit Management” system. Use this legendary method to extend your limits. Watch as your strength soars beyond the stars, kupo!${prompt}
-  12132: Now, when the level of your main job has reached 75 or higher, a new button, “Merit Points,” will appear under “Status” in the main menu.${prompt}
-  12133: Press this button to change experience accumulation modes as well as adjust skills and attributes. Just remember, you can only adjust your attributes while in your Mog House or Mog Garden, kupo!${prompt}
-  12134: ${name-npc} casts a strange spell on you...${prompt}
+    Ahem ! Je vais maintenant vous transmettre les secrets du système de « Gestion du mérite mooglé ». Utilisez cette méthode légendaire pour repousser vos limites. Regarde ta force dépasser les étoiles, kupo!${prompt}
+  12132: Désormais, lorsque le niveau de votre travail principal atteindra 75 ou plus, un nouveau bouton, « Points de mérite », apparaîtra sous « Statut » dans le menu principal.${prompt}
+  12133: Appuyez sur ce bouton pour modifier les modes d'accumulation d'expérience ainsi que pour ajuster les compétences et les attributs. N'oubliez pas que vous ne pouvez modifier vos attributs que lorsque vous êtes dans votre Maison Mog ou votre Jardin Mog, kupo!${prompt}
+  12134: ${name-npc} vous jette un sort étrange...${prompt}
   12135: |-
-    Hmmm... That didn't work, kupo...
-    I guess I still have some research to do. We'll have to put the experiment on hold for a while.${prompt}
+    Hmmm... Cela n'a pas fonctionné, kupo...
+    Je crois que j'ai encore des recherches à faire. Nous allons devoir mettre l'expérience en attente pour un moment.${prompt}
   12136: |-
-    Huh? What good is an adventurer that's not willing to take on a little adventure?
-    Well, come back to me if you ever change your mind, kupo...${prompt}
+    Hein ? A quoi sert un aventurier qui n'est pas prêt à se lancer dans une petite aventure?
+    Revenez me voir si vous changez d'avis, kupo...${prompt}
   12137: |-
-    Been working hard, or hardly working, kupo?
-    Remember that by pressing the “Merit Points” button in the “Status” menu, you can check merit point totals, change experience accumulation modes, and adjust skills and attributes.${prompt}
+    Vous avez travaillé dur, ou à peine, kupo?
+    N'oubliez pas qu'en appuyant sur le bouton « Points de mérite » dans le menu « Statut », vous pouvez vérifier les totaux de points de mérite, changer les modes d'accumulation d'expérience, et ajuster les compétences et les attributs.${prompt}
   12138: |-
-    Oho, kupo! Or perhaps you're looking to transcend your limits?
-    Because that could also be arranged...${prompt}
+    Oho, kupo ! Ou peut-être cherchez-vous à dépasser vos limites ?
+    Car cela peut aussi s'arranger...${prompt}
   12139: |-
-    Ask about merit points?
+    Des questions sur les points de mérite?
     ${selection-lines}
-    Yes.
-    No.${prompt}
+    Oui.
+    Non.${prompt}
   12140: |-
-    What will you ask about?
+    Sur quoi allez-vous poser des questions?
     ${selection-lines}
-    Exceeding your limits.
-    Merit points.
-    Nothing.${prompt}
-  12141: Well, if you ever need a refresher, you know where I'll be, kupo!${prompt}
-  12142: Or perhaps you've finally mustered the courage to conquer your inner limits, kupo?${prompt}
+    Le dépassement de vos limites.
+    Points de mérite.
+    Rien.${prompt}
+  12141: Si vous avez besoin d'un rappel, vous savez où je serai, kupo!${prompt}
+  12142: Ou peut-être avez-vous enfin trouvé le courage de conquérir vos limites intérieures, kupo?${prompt}
   12143: |-
-    Before you rush into anything, let me inform you of the disclaim...errr, the details of the method, kupo.
-    Have you ever stopped to wonder what happens to all the experience you accumulate after maxing out your level?${prompt}
-  12144: 'In recent months, I have discovered that this type of experience builds up in your body in a completely different form--a type of super experience, if you will. I have given this phenomenon the name ${color: 5}limit points${color: 1}, kupo!${prompt}'
-  12145: When you accumulate ten thousand of these points, they are magically transformed into an even more super type of experience--super-duper experience, if you will. I call these ultra-special points “merit points,” kupo!${prompt}
-  12146: But that is not all I have discovered. I think I have also come across a method to manage those points and use them to boost the levels of your body and mind beyond their current limits! I call it “Moogle Merit Management,” kupo!${prompt}
+    Avant que vous ne vous précipitiez, laissez-moi vous informer de la clause de non-responsabilité... euh, des détails de la méthode, kupo.
+    Vous êtes-vous déjà demandé ce qu'il advenait de toute l'expérience accumulée après avoir atteint le niveau maximum?${prompt}
+  12144: 'Ces derniers mois, j’ai découvert que ce type d’expérience s’accumule dans votre corps sous une forme complètement différente - une sorte de super expérience, si vous voulez. J’ai donné à ce phénomène le nom de ${color: 5}points limite${color: 1}, kupo!${prompt}'
+  12145: Lorsque vous accumulez dix mille de ces points, ils se transforment comme par magie en un type d'expérience encore plus super - une expérience super-duper, si vous voulez. J'appelle ces points ultra-spéciaux “points de mérite,” kupo!${prompt}
+  12146: Mais ce n'est pas tout ce que j'ai découvert. Je crois que j'ai aussi trouvé une méthode pour gérer ces points et les utiliser pour augmenter les niveaux de votre corps et de votre esprit au-delà de leurs limites actuelles! C'est ce que j'appelle le « Gestion du mérite des Moogle », kupo!${prompt}
   12147: |-
-    I can tell by the look on your face that you're pretty interested, kupo.
-    So, what would you like to know?${prompt}
+    Je peux lire sur votre visage que vous êtes très intéressé, kupo.
+    Alors, qu'aimeriez-vous savoir?${prompt}
   12148: |-
-    Ask about...
+    Renseignez-vous sur...
     ${selection-lines}
-    How to accumulate merit points.
-    How to adjust attributes.
-    Nothing at this time.${prompt}
+    Comment accumuler des points de mérite.
+    Comment ajuster les attributs.
+    Rien pour le moment.${prompt}
   12149: Vous savez déjà qu'en atteignant le niveau 75, vous pouvez commencer à accumuler des points de limite, n'est-ce pas, kupo ? ${prompt}
   12150: Avant de commencer, n'oubliez pas que vous devez appuyer sur le bouton « Points de mérite » dans le menu « Statut ».${prompt}
   12151: Il n'apparaît que lorsque votre travail principal est de niveau 75 ou plus, kupo.${prompt}
@@ -26331,119 +26331,119 @@ entries:
   12579: |-
     Je dois m'excuser pour mon comportement puéril.
     Je n'aurais jamais dû m'enfuir dans un tel état d'agitation.${prompt}
-  12580: I do understand what everyone is saying.${prompt}
-  12581: I understand that the Wyrmking, Bahamut, plans to obliterate all the peoples of Vana'diel.${prompt}
-  12582: Even with the might of the Jeuno Armada, many more innocent lives will be lost in this conflict if something is not done.${prompt}
-  12583: And I do understand that everyone truly wishes to rescue Prishe from her destiny...${prompt}
+  12580: Je comprends ce que tout le monde dit.${prompt}
+  12581: Je comprends que le Wyrmking, Bahamut, projette d'anéantir tous les peuples de Vana'diel.${prompt}
+  12582: Même avec la puissance de l'Armada de Jeuno, beaucoup plus de vies innocentes seront perdues dans ce conflit si rien n'est fait.${prompt}
+  12583: Et je comprends que tout le monde souhaite vraiment sauver Prishe de son destin...${prompt}
   12584: |-
-    However, it is as Lord Diabolos has said.
-    We cannot save both the world and all of her people.${prompt}
+    Cependant, comme l'a dit Lord Diabolos.
+    Nous ne pouvons pas sauver à la fois le monde et tout son peuple.${prompt}
   12585: |-
-    Lord Diabolos...
-    I wonder if he called Prishe into his dreamworld because he knew the truth of her identity--that she is the Keeper of the Apocalypse.${prompt}
+    Le seigneur Diabolos...
+    Je me demande s'il a appelé Prishe dans son monde des rêves parce qu'il connaissait la vérité sur son identité, à savoir qu'elle est la gardienne de l'Apocalypse.${prompt}
   12586: |-
-    Was Cardinal Mildaurion also aware of this truth?
-    Is that why she gave Prishe that amulet?
-    But I still...${prompt}
-  12587: ${name-player}, it may be too late at this point, but there is something I must tell you.${prompt}
-  12588: When Prishe had collapsed, and her amulet was stolen...${prompt}
-  12589: It was only for a second, but I'm pretty damn sure.${prompt}
+    Le Cardinal Mildaurion était-il également conscient de cette vérité?
+    Est-ce pour cela qu'elle a donné cette amulette à Prishe?
+    Mais je...${prompt}
+  12587: ${name-player}, il est peut-être trop tard, mais je dois vous dire quelque chose.${prompt}
+  12588: Lorsque Prishe s'est effondrée et que son amulette a été volée...${prompt}
+  12589: Cela n'a duré qu'une seconde, mais je suis presque sûr qu'il n'y a pas de problème.${prompt}
   12590: |-
-    The presence I felt when the amulet was stolen...
-    It was definitely Miss Mildaurion!${prompt}
-  12591: You're saying that Cardinal Mildaurion took the amulet from you?${prompt}
+    La présence que j'ai ressentie quand l'amulette a été volée...
+    C'était bien Mlle Mildaurion!${prompt}
+  12591: Vous dites que le Cardinal Mildaurion vous a pris l'amulette?${prompt}
   12592: |-
-    Why would she act in such a manner?
-    Did not the cardinal give the amulet to you as a gift?${prompt}
+    Pourquoi aurait-elle agi de la sorte ?
+    Le cardinal ne vous a-t-il pas offert l'amulette en cadeau ? ${prompt}
   12593: |-
-    Yeah, she did.
-    Miss Mildaurion was always watching over me through the amulet.${prompt}
-  12594: She was always making sure I wasn't thinking of doing something stupid or getting myself into trouble.${prompt}
-  12595: But she needed to take the amulet back.${prompt}
-  12596: An old, old friend she'd waited a long, long time for had finally returned...${prompt}
+    Oui, c'est vrai.
+    Mlle Mildaurion veillait toujours sur moi grâce à l'amulette.${prompt}
+  12594: Elle s'assurait toujours que je ne pensais pas à faire quelque chose de stupide ou à me mettre dans le pétrin.${prompt}
+  12595: Mais elle devait reprendre l'amulette.${prompt}
+  12596: Un vieil ami qu'elle avait attendu très longtemps était enfin revenu...${prompt}
   12597: |-
-    She apologized to me in her thoughts.
-    Said that I would be safe while I was in Jeuno...${prompt}
-  12598: But then...${prompt}
-  12599: Cardinal Mildaurion would have known that we, the survivors of the Great War, were unable to leave the island...${prompt}
+    Elle s'est excusée auprès de moi dans ses pensées.
+    Elle m'a dit que je serais en sécurité pendant mon séjour à Jeuno...${prompt}
+  12598: Mais ensuite...${prompt}
+  12599: Le cardinal Mildaurion aurait su que nous, les survivants de la Grande Guerre, ne pouvions pas quitter l'île...${prompt}
   12600: |-
-    She knew, but she did not come to help us.
-    She abandoned us to our fate...?${prompt}
+    Elle savait, mais elle n'est pas venue nous aider.
+    Elle nous a abandonnés à notre sort...?${prompt}
   12601: |-
-    No, I don't think so.
-    Miss Mildaurion left it to me.${prompt}
-  12602: Left what to you...?${prompt}
-  12603: What was Prishe about to say, I wonder.${prompt}
+    Non, je ne crois pas.
+    Mlle Mildaurion me l'a laissé.${prompt}
+  12602: Vous a laissé quoi...?${prompt}
+  12603: Qu'allait dire Prishe, je me le demande.${prompt}
   12604: |-
-    What could Cardinal Mildaurion have entrusted to us?
-    Surely not the resurrection of the Twilight God...?${prompt}
-  12605: It might be naive of me to believe that you are on my side.${prompt}
-  12606: However, I am not willing to give up.${prompt}
-  12607: I want to sing of a world where both Vana'diel and all of her people are saved.${prompt}
-  12608: Will you dream of such a world alongside me?${prompt}
+    Qu'est-ce que le Cardinal Mildaurion a bien pu nous confier ?
+    Sûrement pas la résurrection du Dieu du Crépuscule...?${prompt}
+  12605: Il est peut-être naïf de ma part de croire que vous êtes de mon côté.${prompt}
+  12606: Cependant, je ne suis pas prêt à abandonner.${prompt}
+  12607: Je veux chanter un monde où Vana'diel et son peuple seront sauvés.${prompt}
+  12608: Voulez-vous rêver d'un tel monde avec moi?${prompt}
   12609: |-
-    Do you dare to dream?
+    Osez-vous rêver ?
     ${selection-lines}
-    Yes, I'll fight to the end!
-    Reality is not that kind...${prompt}
-  12610: Thank you, ${name-player}!${prompt}
+    Oui, je me battrai jusqu'au bout!
+    La réalité n'est pas de ce genre...${prompt}
+  12610: Merci, ${name-player}!${prompt}
   12611: |-
-    I am sorry.
-    I have asked too much without considering your feelings.${prompt}
+    Je suis désolée.
+    J'ai trop demandé sans tenir compte de vos sentiments.${prompt}
   12612: |-
-    I will once again go to the Grand Duke Palace.
-    I've not found anyone in town who has information, but Makki-Chebukki and the others have probably tracked down some rumors.${prompt}
+    Je vais de nouveau me rendre au Palais du Grand-Duc.
+    Je n'ai trouvé personne en ville qui ait des informations, mais Makki-Chebukki et les autres ont probablement suivi quelques rumeurs.${prompt}
   12613: |-
-    There must be something we can do to save Prishe...
-    There must be someone who knows of the cardinal...${prompt}
+    Il doit y avoir quelque chose à faire pour sauver Prishe...
+    Il doit bien y avoir quelqu'un qui connaît le cardinal...${prompt}
   12614: |-
     ${name-player}!
-    What are you doing here!?${prompt}
-  12615: Have you found some means to stop the Wyrmking, Bahamut?${prompt}
+    Que faites-vous ici ?!?${prompt}
+  12615: Avez-vous trouvé un moyen d'arrêter le Wyrmking, Bahamut?${prompt}
   12616: |-
-    The battle will soon begin.
-    An airship carrying a group of adventurers was downed in an attack by the wyrms.${prompt}
-  12617: We have completed preparations on the warships, and nothing remains to be done.${prompt}
+    La bataille va bientôt commencer.
+    Un dirigeable transportant un groupe d'aventuriers a été abattu lors d'une attaque des wyrms..${prompt}
+  12617: Nous avons terminé les préparatifs sur les navires de guerre, et il ne reste plus rien à faire.${prompt}
   12618: |-
-    Only...
-    I don't know if this is good news or bad news to you, but the commander of the Jeunoan Armada, Lady Esha'ntarl, is nowhere to be found!${prompt}
+    Seulement...
+    Je ne sais pas si c'est une bonne ou une mauvaise nouvelle pour vous, mais la commandante de l'armada jeunoise, Lady Esha'ntarl, est introuvable!${prompt}
   12619: |-
-    Lord Nag'molada has also disappeared without so much as an escort...
-    Dammit! This wouldn't be your doing, would it!?${prompt}
+    Le Seigneur Nag'molada a également disparu sans la moindre escorte...
+    Bon sang ! Ce n'est pas de votre fait, n'est-ce pas?${prompt}
   12620: |-
-    Is this your doing?
+    C'est vous qui l'avez fait?
     ${selection-lines}
-    All part of my plan.
-    Of course not!${prompt}
+    Cela fait partie de mon plan.
+    Bien sûr que non!${prompt}
   12621: |-
-    Please, ${name-player}, this is no time for sarcasm.
-    Forgive my wild accusations.${prompt}
+    S'il vous plait, ${name-player}, Ce n'est pas le moment de faire des sarcasmes.
+    Pardonnez mes accusations sauvages.${prompt}
   12622: |-
-    My apologies.
-    You must forgive my wild accusations.${prompt}
-  12623: No matter how much one despises senseless bloodshed, there are few who can stand by while their home is burned to the ground.${prompt}
-  12624: And so, if it means saving Jeuno from the wyrms, I have no choice but to cooperate with this race of ancients.${prompt}
+    Je vous prie de m'excuser.
+    Vous devez pardonner mes accusations sauvages.${prompt}
+  12623: Peu importe à quel point on méprise les effusions de sang, il y a peu de gens qui peuvent rester là alors que leur maison est réduite en cendres.${prompt}
+  12624: Si je dois sauver Jeuno des wyrms, je n'ai d'autre choix que de coopérer avec cette race d'anciens.${prompt}
   12625: |-
-    Captain Wolfgang!
-    The criminals who escaped with warship zero-three have been identified!${prompt}
+    Capitaine Wolfgang !
+    Les criminels qui se sont échappés avec le vaisseau de guerre zéro-trois ont été identifiés!${prompt}
   12626: |-
-    It appears to be the work of those three Tarutaru!
-    We have a witness who overheard them talking about heading to a place they referred to as the “fated land.”${prompt}
+    Il semble que ce soit l'œuvre de ces trois Tarutaru !
+    Nous avons un témoin qui les a entendus parler de se diriger vers un endroit qu'ils appelaient la « terre fatale ».${prompt}
   12627: |-
-    They took a warship!?
-    Is it possible they know where our missing officials have disappeared to!?${prompt}
+    Ils ont pris un navire de guerre ?
+    Est-il possible qu'ils sachent où se trouvent nos fonctionnaires disparus!?${prompt}
   12628: |-
-    And where is this “fated land” they spoke of!?
-    Split up and find some answers!${prompt}
-  12629: Where could this “fated land” be? I wouldn't even know where to start looking.${prompt}
-  12630: But now that I think of it, I could have sworn I heard that name somewhere before... Where was it...?${prompt}
+    Et où se trouve cette « terre de destin » dont ils ont parlé ?
+    Séparons-nous et trouvons des réponses!${prompt}
+  12629: Où peut bien se trouver cette « terre de destin » ? Je ne saurais même pas où commencer à chercher. ${prompt}
+  12630: Maintenant que j'y pense, j'aurais juré avoir déjà entendu ce nom quelque part... Où était-ce... ? ${prompt}
   12631: |-
-    You adventurers are quick to hear the news!
-    Lady Esha'ntarl has returned to us!${prompt}
-  12632: The Jeunoan Armada has been authorized to begin an assault on the wyrms!${prompt}
+    Vous, les aventuriers, êtes prompts à entendre les nouvelles !
+    Dame Esha'ntarl nous est revenue !${prompt}
+  12632: L'armada Jeunoan a été autorisée à lancer l'assaut contre les wyrms!${prompt}
   12633: |-
-    We are conducting final flight inspections on all vessels.
-    Please keep out of the way and allow the engineers to do their job.${prompt}
+    Nous procédons aux dernières inspections en vol de tous les vaisseaux.
+    Veuillez rester à l'écart et permettre aux ingénieurs de faire leur travail.${prompt}
   12634: Waaah! <sniff>
   12635: Waaah! <snuffle>
   12636: Waaah! <gurgle>
@@ -30402,26 +30402,26 @@ entries:
     The history of mog tablets.
     Nothing.${prompt}
   14322: |-
-    What's a mog tablet!? What's a mog tablet, you say!?
-    Why, only the most awesome, amazing artifact in the annals of moogle history, that's what, kupo!${prompt}
-  14323: There's eleven of them in all, to be exact, scattered to the far reaches of Vana'diel and just waiting to be discovered by brave adventurers like you!${prompt}
+    Qu'est-ce qu'une tablette mog ? Qu'est-ce qu'une tablette mog ?
+    C'est l'artefact le plus impressionnant de l'histoire des moogles, voilà ce que c'est, kupo!${prompt}
+  14323: Il y en a onze en tout, pour être exact, éparpillées aux confins de Vana'diel et qui n'attendent que d'être découvertes par de courageux aventuriers comme vous!${prompt}
   14324: |-
-    What happens if you find them? I thought you'd never ask, kupo!
-    Each tablet is inscribed with an ancient moogle poem of joy, and legend has it that if all are found, the ancient moogle magic of King Kupofried the Great will be released once more, spreading joy and happiness through all the land!${prompt}
+    Que se passe-t-il si vous les trouvez ? Je pensais que tu ne le demanderais jamais, kupo !
+    Chaque tablette est gravée d'un ancien poème de joie moogle, et la légende dit que si toutes sont trouvées, l'ancienne magie moogle du roi Kupofried le Grand sera libérée une fois de plus, répandant la joie et le bonheur à travers tout le pays !${prompt}
   14325: |-
-    We explorer moogles have made it our life's work to recover the tablets and unlock their powers.
-    But with these short legs and little-bitty wings, we can't do it alone, kupo!${prompt}
+    Nous, les moogles explorateurs, avons fait de la récupération des tablettes et de la libération de leurs pouvoirs le travail de notre vie.
+    Mais avec nos petites jambes et nos petites ailes, nous ne pouvons pas le faire seuls, kupo !${prompt}
   14326: |-
-    There! I've whipped up a spell that will instantly transport any tablets you find back here to me.
-    Come back if you find anything, and happy exploring, kupo!${prompt}
+    Voilà ! J'ai préparé un sort qui transportera instantanément toutes les tablettes que vous trouverez jusqu'à moi.
+    Revenez si vous trouvez quelque chose, et bonne exploration, kupo!${prompt}
   14327: |-
-    Just sit right back and I'll tell you the tale, kupo.
-    Many, many ages past, we moogles had our own glorious kingdom.
-    It was truly the peak of moogle civilization, a veritable golden age for all mooglekind!${prompt}
-  14328: The seventh king of this great nation was the wise and kindly King Kupofried, a masterful magician famed as the father of the fantastic moogle magic that survives to this very day, kupo!${prompt}
+    Assieds-toi bien et je vais te raconter l'histoire, kupo.
+    Il y a bien longtemps, nous, les moogles, avions notre propre royaume glorieux.
+    C'était l'apogée de la civilisation moogle, un véritable âge d'or pour toute l'humanité moogle!${prompt}
+  14328: Le septième roi de cette grande nation était le sage et bienveillant roi Kupofried, un magistral magicien célèbre pour être le père de la fantastique magie moogle qui survit encore aujourd'hui, kupo !${prompt}
   14329: |-
-    In his later years, King Kupofried embarked on what would become the greatest work of his illustrious reign.
-    Seeking to pass down the prosperity of his kingdom to future generations, he inscribed eleven incantations of moogle joy and happiness onto eleven stone tablets.${prompt}
+    À la fin de sa vie, le roi Kupofried entreprit ce qui allait devenir la plus grande œuvre de son illustre règne.
+    Soucieux de transmettre la prospérité de son royaume aux générations futures, il inscrivit onze incantations à la joie et au bonheur des moogle sur onze tablettes de pierre.${prompt}
   14330: Sadly, the kindly king's intentions went unappreciated by his selfish sons and daughters, and many a fierce feud broke out over who would inherit these relics, kupo...${prompt}
   14331: |-
     King Kupofried was greatly dismayed.
