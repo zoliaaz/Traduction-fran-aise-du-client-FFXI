@@ -26674,7 +26674,7 @@ entries:
     ${choice: 0}[ /Anyone can attend/Anyone can participate/Anyone can attend or participate].${prompt}
   12778: |-
     Sélectionnez une ligne...
-    ${sélection-lines}
+    ${selection-lines}
     Quitter.
     Réserver le Diorama (dans 2 jours).
     Réserver le Diorama (maintenant).
@@ -26684,8 +26684,8 @@ entries:
     Voir un match.
     Participer à un match.
     Entrer dans le Diorama.
-    FAQ : Qu'est-ce que le Diorama ?
-    FAQ : Réserver le Diorama.${prompt}
+    FAQ: Qu'est-ce que le Diorama ?
+    FAQ: Réserver le Diorama.${prompt}
   12779: |-
     Je vois que vous avez récemment utilisé nos services de diorama.
     Je vous prie de m'excuser, mais je dois vous demander d'attendre encore quelques instants avant d'effectuer d'autres transactions.{prompt}
