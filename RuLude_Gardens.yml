@@ -26558,119 +26558,119 @@ entries:
     L'attaque contre Bahamut a échoué, mais nous lui avons porté un coup critique.${prompt}
   12723: Dame Esha'ntarl doit rejoindre la flotte principale et mener nos forces dans un assaut massif.${prompt}
   12724: |-
-    She mentioned that she would like to meet with you all before the attack commences.
-    You are to meet her for a confidential briefing in the tavern in Upper Jeuno.${prompt}
-  12725: |-
-    Do not keep Lady Esha'ntarl waiting.
-    May victory in battle be yours.${prompt}
-  12726: Captain Wolfgang has asked me to remind you that you are to hurry to the Marble Bridge in Upper Jeuno.${prompt}
-  12727: It sounded as if it was urgent. You had best be on your way!${prompt}
-  12728: Recently, there have been no signs of Nag'molada or those annoying Tarutaru entering the Grand Duke Palace.${prompt}
-  12729: I heard from one of the guards that the Tarutaru were seen riding an airship to Bastok, but as for Nag'molada...${prompt}
+    Elle a mentionné qu'elle aimerait vous rencontrer tous avant le début de l'attaque.
+    Vous devez la rencontrer pour un briefing confidentiel dans la taverne de Upper Jeuno.${prompt}
+  12725 : |-
+    Ne faites pas attendre Dame Esha'ntarl.
+    Que la victoire au combat soit vôtre.${prompt}
+  12726: Le Capitaine Wolfgang m'a demandé de vous rappeler que vous devez vous rendre rapidement au Pont de Marbre dans le Haut Jeuno.${prompt}
+  12727: On aurait dit que c'était urgent. Vous feriez mieux de vous mettre en route!${prompt}
+  12728: Ces derniers temps, aucun signe de Nag'molada ou de ces ennuyeux Tarutaru n'a pénétré dans le palais du Grand-Duc.${prompt}
+  12729: L'un des gardes m'a dit que les Tarutaru avaient été vus à bord d'un dirigeable à destination de Bastok, mais pour ce qui est de Nag'molada... ${prompt}
   12730: |-
-    The palace is often the site for grand banquets that are attended by dignitaries from every nation.
-    In times like these, we do our utmost to see that the needs of our important visitors are met.${prompt}
-  12731: 'Recently, ${choice: 0}[Lord Nag''molada/Lady Esha''ntarl] has been requesting the oddest things from the palace staff.${prompt}'
-  12732: These requests appear to be for objects desired by guests of the Duchy.${prompt}
-  12733: These requests appear to be for objects desired by guests of our eminent official.${prompt}
-  12734: If the requested items could be found in Jeuno, nay, in the markets of any country, we would endeavor to procure them.${prompt}
+    Le palais est souvent le théâtre de grands banquets auxquels assistent des dignitaires de toutes les nations.
+    Dans ces moments-là, nous faisons tout notre possible pour répondre aux besoins de nos visiteurs importants.${prompt}
+  12731: 'Récemment, ${choice: 0}[Lord Nag’molada/Lady Esha’ntarl] a demandé au personnel du palais les choses les plus étranges.${prompt}'
+  12732: Ces demandes semblent concerner des objets désirés par les invités du Duché.${prompt}
+  12733: Ces demandes semblent concerner des objets désirés par les invités de notre éminent fonctionnaire.${prompt}
+  12734: Si les objets demandés pouvaient être trouvés à Jeuno, voire sur les marchés de n'importe quel pays, nous nous efforcerions de nous les procurer.${prompt}
   12735: |-
-    However, many of these objects are not available for purchase.
-    I am in quite a quandary, as you can see.${prompt}
-  12736: Perhaps if I were to offer a reward, you would be so kind as to locate these items on my behalf?${prompt}
+    Cependant, beaucoup de ces objets ne sont pas disponibles à l'achat.
+    Je suis dans l'embarras, comme vous pouvez le constater.${prompt}
+  12736: Peut-être que si j'offrais une récompense, vous auriez l'amabilité de localiser ces objets en mon nom...${prompt}
   12737: |-
-    Would you be so kind?
+    Auriez-vous l'amabilité de le faire ?
     ${selection-lines}
-    Certainly.
-    I am afraid not.${prompt}
+    Certainement.
+    Je crains que non.${prompt}
   12738: |-
-    The following items have been requested:
-    ${article} ${item-article: 1[2]}, ${article} ${item-article: 2[2]}, and ${article} ${item-article: 3[2]}.
-    My future employment rests in your hands.${prompt}
+    Les éléments suivants ont été demandés:
+    ${article} ${item-article: 1[2]}, ${article} ${article-article: 2[2]}, et ${article} ${item-article: 3[2]}.
+    Mon avenir professionnel repose entre vos mains.${prompt}
   12739: |-
-    The following items have been requested:
-    ${article} ${item-article: 1[2]}, ${article} ${item-article: 2[2]}, ${article} ${item-article: 3[2]}, and ${article} ${item-article: 4[2]}.
-    My future employment rests in your hands.${prompt}
+    Les éléments suivants ont été demandés:
+    ${article} ${item-article: 1[2]}, ${article} ${item-article: 2[2]}, ${article} ${item-article: 3[2]}, et ${article} ${item-article: 4[2]}.
+    Mon avenir professionnel est entre vos mains.${prompt}
   12740: |-
-    The following items have been requested:
-    ${article} ${item-article: 1[2]}, ${article} ${item-article: 2[2]}, ${article} ${item-article: 3[2]}, ${article} ${item-article: 4[2]}, and ${article} ${item-article: 5[2]}.
-    My future employment rests in your hands.${prompt}
-  12741: Lord Nag'molada often receives guests of all kinds, but I have never before been besieged with such bizarre requests.${prompt}
-  12742: This is the first time Lady Esha'ntarl has ever made such a request of the palace staff. Furthermore, I do believe this is the first time she has personally received guests...${prompt}
-  12743: While I am curious to know what kind of guests we are entertaining, a good servant does not intrude on the business of his employer.${prompt}
+    Les éléments suivants ont été demandés:
+    ${article} ${item-article: 1[2]}, ${article} ${item-article: 2[2]}, ${article} ${item-article: 3[2]}, ${article} ${item-article: 4[2]}, et ${article} ${item-article: 5[2]}.
+    Mon avenir professionnel est entre vos mains.${prompt}
+  12741: Le seigneur Nag'molada reçoit souvent des invités de toutes sortes, mais je n'ai jamais été assailli de demandes aussi bizarres.${prompt}
+  12742: C'est la première fois que Dame Esha'ntarl fait une telle demande au personnel du palais. De plus, je crois que c'est la première fois qu'elle reçoit personnellement des invités...${prompt}
+  12743: Bien que je sois curieux de savoir quel genre d'invités nous recevons, un bon serviteur ne s'immisce pas dans les affaires de son employeur.${prompt}
   12744: |-
-    Ah, splendid. It appears you have been successful.
-    You have my most heartfelt gratitude.${prompt}
-  12745: 'Why would the guests of ${choice: 0}[Lord Nag''molada/Lady Esha''ntarl] be so enchanted with these barbaric objects?${prompt}'
+    Ah, magnifique. Il semble que vous ayez réussi.
+    Je vous remercie de tout cœur.${prompt}
+  12745: 'Pourquoi les invités de ${choice: 0}[Seigneur Nag’molada/Dame Esha’ntarl] être si enchantés par ces objets barbares?${prompt}'
   12746: |-
-    Oh dear, but I must watch my manners. Please forgive my indiscretion.
-    Here is your reward.${prompt}
+    Oh là là, mais je dois faire attention à mes manières. Pardonnez mon indiscrétion.
+    Voici votre récompense.${prompt}
   12747: |-
-    These items were available at the air travel agency?
-    Well, one learns something new every day.
-    Your reward, as promised.${prompt}
+    Ces articles étaient disponibles à l'agence de voyages aériens?
+    Eh bien, on en apprend tous les jours.
+    Votre récompense, comme promis.${prompt}
   12748: |-
-    To see an array of such objects rekindles my desire to visit the Far East.
-    How aromas of the unknown inspire our imagination!
-    Here is your reward.${prompt}
-  12749: I am sure any child's eyes would light up at a collection of toys such as this.${prompt}
+    Voir une telle panoplie d'objets ravive mon envie de visiter l'Extrême-Orient.
+    Comme les arômes de l'inconnu inspirent notre imagination !
+    Voici votre récompense.${prompt}
+  12749: Je suis sûre que les yeux de n'importe quel enfant s'illumineraient devant une telle collection de jouets.${prompt}
   12750: |-
-    I must admit to being quite interested in these myself.
-    One never forgets the joy of one's youth.
-    Your reward, ${choice-player-gender}[sir/madame].${prompt}
+    Je dois avouer que cela m'intéresse beaucoup.
+    On n'oublie jamais les joies de la jeunesse.
+    Votre récompense, ${choice-player-gender}[monsieur/madame].${prompt}
   12751: |-
-    Perhaps this is a gift for the lady of the house?
-    These items are not of the highest quality...${prompt}
+    Il s'agit peut-être d'un cadeau pour la maîtresse de maison?
+    Ces articles ne sont pas de la plus haute qualité...${prompt}
   12752: |-
-    But I must not presume to judge the guests of ${choice: 0}[Lord Nag'molada/Lady Esha'ntarl].
-    Please accept your reward.${prompt}
+    Mais je ne dois pas me permettre de juger les invités de ${choice: 0}[Seigneur Nag'molada/Dame Esha'ntarl].
+    Veuillez accepter votre récompense.${prompt}
   12753: |-
-    Your assistance is greatly appreciated.
-    I am certain ${choice: 0}[Lord Nag'molada/Lady Esha'ntarl]'s guests will be most satisfied with your efforts.${prompt}
+    Votre aide est très appréciée.
+    Je suis certain ${choice: 0}les invités du [Seigneur Nag'molada/Dame Esha'ntarl] seront très satisfaits de vos efforts.${prompt}
   12754: |-
-    ...Emptiness......
-    ......Possible weaknesses...
+    ...Vide......
+    ......Les faiblesses possibles...
     Hmmm......${prompt}
-  12755: Greetings, adventurer. I am Harith, alchemist and member of a certain prestigious society here in Jeuno.${prompt}
-  12756: Perchance you have heard of creatures known as the Empty? Currently, other alchemists in the society are working feverishly on methods to manipulate these mysterious beasts.${prompt}
-  12757: Would you like me to continue?${prompt}
+  12755: Bonjour, aventurier. Je suis Harith, alchimiste et membre d'une société prestigieuse de Jeuno.${prompt}
+  12756: Peut-être avez-vous entendu parler des créatures connues sous le nom de Vide ? Actuellement, d'autres alchimistes de la société travaillent fébrilement sur des méthodes permettant de manipuler ces mystérieuses bêtes.${prompt}
+  12757: Voulez-vous que je continue?${prompt}
   12758: |-
-    Well...?
+    Eh bien... ?
     ${selection-lines}
-    Please, go on.
-    I'm busy at the moment.${prompt}
-  12759: |-
-    I apologize for taking up your valuable time.
-    May fortune smile upon you in your journey.${prompt}
+    Continuez, s'il vous plaît.
+    Je suis occupé pour le moment.${prompt}
+  12759 : |-
+    Je vous prie de m'excuser de vous avoir fait perdre votre temps.
+    Que la chance vous sourit dans votre voyage.${prompt}
   12760: |-
-    The Empty are a cold and hollow species--their very existence a void of nothingness.
-    They possess no feeling, no will, no purpose... It is this lack of characteristics that makes them powerful, as they have no known weaknesses.${prompt}
-  12761: However, deep within their dark shells we have discovered that something does exist--that “something” being a fragment of a memory lost in the pages of time.${prompt}
-  12762: If you happen to have the fortune of coming across one of these incomplete memories on your journeys, bring it to me and I shall purify it into a form known as “anima” using the methods discovered by the society.${prompt}
-  12763: By studying the various types of memories left by the Empty, we may be able to discover their strengths and weaknesses.${prompt}
-  12764: If you happen to have the fortune of coming across one of these incomplete memories on your journeys, bring it to me and I shall purify it into a form known as “anima” using the methods discovered by the society.${prompt}
+    Les Empty sont une espèce froide et creuse - leur existence même est un vide de néant.
+    Ils ne possèdent aucun sentiment, aucune volonté, aucun but... C'est cette absence de caractéristiques qui les rend puissants, car ils n'ont aucune faiblesse connue.${prompt}
+  12761: Cependant, au plus profond de leur sombre carapace, nous avons découvert que quelque chose existe - ce « quelque chose » étant un fragment de mémoire perdu dans les pages du temps.${prompt}
+  12762: Si vous avez la chance de rencontrer l'un de ces souvenirs incomplets au cours de vos voyages, amenez-le moi et je le purifierai sous une forme appelée « anima » en utilisant les méthodes découvertes par la société.${prompt}
+  12763: En étudiant les différents types de souvenirs laissés par l'Empty, nous pourrons peut-être découvrir leurs forces et leurs faiblesses.${prompt}
+  12764: Si vous avez la chance de rencontrer l'une de ces mémoires incomplètes au cours de vos voyages, apportez-la moi et je la purifierai sous une forme appelée « anima » en utilisant les méthodes découvertes par la société.${prompt}
   12765: |-
-    In addition to these memory fragments, we are also collecting ${item-plural: 0[2]}, ${item-plural: 1[2]}, and ${item-plural: 2[2]} to help us better understand how these creatures evolved.
-    Worry not, as you will be duly rewarded for any and all contributions.${prompt}
+    Outre ces fragments de mémoire, nous collectons également ${item-plural: 0[2]}, ${item-plural: 1[2]}, et ${item-plural: 2[2]} pour nous aider à mieux comprendre l'évolution de ces créatures.
+    Ne vous inquiétez pas, car vous serez dûment récompensés pour toutes vos contributions.${prompt}
   12766: |-
-    Yes...
-    This is definitely the memory of one of the Empty--and in quite excellent condition, I must say.${prompt}
-  12767: 'I can synthesize it into a concentrated form of anima; however, I will require a small fee of ${number: 0} gil.${prompt}'
-  12768: 'You hand Harith the ${item-singular: 0[2]} and ${number: 1} gil.${prompt}'
+    Oui...
+    Il s'agit bien du souvenir de l'un des vides - et en très bon état, je dois le dire.${prompt}
+  12767: 'Je peux le synthétiser en une forme concentrée d’anima; cependant, je demanderai une petite somme d’argent. ${number: 0} gil.${prompt}'
+  12768: 'Vous remettez à Harith le ${item-singular: 0[2]} et ${number: 1} gil.${prompt}'
   12769: |-
-    What a remarkable specimen!
-    This ${item-singular: 0[2]} may be the key to unlocking the secrets of the Empty!${prompt}
-  12770: Here, please accept this as a token of my gratitude.${prompt}
+    Quel spécimen remarquable !
+    Cette ${item-singular: 0[2]} peut être la clé pour percer les secrets du Vide !${prompt}
+  12770: Je vous prie de bien vouloir accepter ce document en témoignage de ma gratitude.${prompt}
   12771: |-
-    I will begin the synthesis right away.
-    Please wait a few moments.${prompt}
-  12772: Ah, what a heavenly glow!${prompt}
-  12773: By throwing this anima back at the Empty, they will temporarily regain a splinter of consciousness. It is during this time that you may be able to find their weaknesses.${prompt}
-  12774: 'Greetings, adventurer! My name is Tillecoe, pupil of the great and powerful mage Abdhaljs, and I have been assigned with the management of my master''s greatest creation--${color: 5}Diorama Abdhaljs-Ghelsba${color: 1}.${prompt}'
-  12775: 'Diorama access for the period of ${earthtime: 0} to ${earthtime: 1} is no longer available.${prompt}'
-  12776: 'Since you are a candidate for ${color: 5}Master of Ceremonies${color: 1} (MC), you are authorized to make certain rule changes concerning participation.${prompt}'
+    Je vais commencer la synthèse tout de suite.
+    Veuillez patienter quelques instants.${prompt}
+  12772: Ah, quelle lueur céleste!${prompt}
+  12773: En projetant cet anima sur les Vides, ils retrouveront temporairement une parcelle de conscience. C'est à ce moment-là que vous pourrez peut-être trouver leurs faiblesses.${prompt}
+  12774: 'Salutations, aventurier! Je m’appelle Tillecoe, élève du grand et puissant mage Abdhaljs, et on m’a confié la gestion de la plus grande création de mon maître--${color: 5}Diorama Abdhaljs-Ghelsba${color: 1}.${prompt}'
+  12775: 'Accès aux dioramas pour la période du ${earthtime: 0} a ${earthtime: 1} n’est plus disponible.${prompt}'
+  12776: 'Puisque vous êtes candidat à ${color: 5}Maître de cérémonie${color: 1} (MC), vous êtes autorisé à apporter certaines modifications aux règles de participation.${prompt}'
   12777: |-
-    The current Diorama Ballista participation rules set by the ${color: 5}Master of Ceremonies${color: 1} are as follows:
+    Les règles actuelles de participation à Diorama Ballista fixées par la ${color: 5}Maître de cérémonie${color: 1} sont les suivants:
     ${choice: 0}[ /Anyone can attend/Anyone can participate/Anyone can attend or participate].${prompt}
   12778: |-
     Select one...
@@ -27128,106 +27128,106 @@ entries:
   12920: |-
     Yes...
     You may be of some use to me after all.${prompt}
-  12921: My name is Venessa. I have traveled from my homeland far to the west to hone my skills under the supervision of the ducal alchemists.${prompt}
-  12922: I am currently studying the phenomenon known as the “Emptiness” and how its byproducts can be better utilized in my field.${prompt}
-  12923: My recent research has shown that in addition to the variety of creatures that roam the plains of Promyvion, there are a handful of even stronger manifests that dwell deep within towers that loom above the vast expanses of darkness.${prompt}
+  12921: Je m'appelle Venessa. J'ai quitté ma terre natale à l'ouest pour perfectionner mes compétences sous la supervision des alchimistes ducaux.${prompt}
+  12922: J'étudie actuellement le phénomène connu sous le nom de « vide » et la manière dont ses sous-produits peuvent être mieux utilisés dans mon domaine.${prompt}
+  12923: Mes récentes recherches ont montré qu'en plus de la variété de créatures qui parcourent les plaines de Promyvion, il existe une poignée de manifestes encore plus puissants qui habitent au plus profond des tours qui se dressent au-dessus des vastes étendues de ténèbres.${prompt}
   12924: |-
-    To continue my work, I require fresh remnants of these rare beasts.
-    Of course, your efforts will not go unrewarded.${prompt}
+    Pour poursuivre mon travail, j'ai besoin de nouveaux restes de ces bêtes rares.
+    Bien entendu, vos efforts ne resteront pas sans récompense.${prompt}
   12925: |-
-    Will you accept my offer?
+    Acceptez-vous mon offre ?
     ${selection-lines}
-    Of course.
-    Not today.
-    Tell me more.
-    You've lost me.${prompt}
-  12926: Then you are wasting my time.${prompt}
-  12927: I have told you enough!${prompt}
-  12928: Then you are of no use to me. Begone!${prompt}
+    Bien sûr.
+    Pas aujourd'hui.
+    Dites-m'en plus.
+    Vous m'avez perdue.${prompt}
+  12926: Alors vous me faites perdre mon temps.${prompt}
+  12927: Je vous en ai assez dit!${prompt}
+  12928: Alors vous ne m'êtes d'aucune utilité. Partez!${prompt}
   12929: Excellent.${prompt}
-  12930: According to data collected by the Duchy, there are several different locations around Vana'diel where the Empty thrive. Adventurers have given these realms the name “Promyvion.”${prompt}
-  12931: If my hypothesis is correct, I believe there are four types of special remnants--one to coincide with each area. Which area do you wish to investigate?${prompt}
+  12930: D'après les données recueillies par le Duché, il y a plusieurs endroits autour de Vana'diel où l'Empty prospère. Les aventuriers ont donné à ces royaumes le nom de « Promyvion. »${prompt}
+  12931: Si mon hypothèse est correcte, je crois qu'il y a quatre types de vestiges spéciaux, un pour chaque zone. Quel domaine voulez-vous étudier?${prompt}
   12932: |-
-    Travel to...
+    Voyage vers...
     ${selection-lines}
-    Nowhere at this time.
-    The Spire of Holla.
-    The Spire of Dem.
-    The Spire of Mea.
-    The Spire of Vahzl.${prompt}
-  12933: If you have no intentions of assisting me, then stop wasting my time!${prompt}
+    Nulle part pour le moment.
+    La flèche de Holla.
+    La flèche de Dem.
+    La flèche de Mea.
+    La flèche de Vahzl.${prompt}
+  12933: Si vous n'avez pas l'intention de m'aider, arrêtez de me faire perdre mon temps!${prompt}
   12934: |-
-    ${choice: 1}[Holla/Dem/Mea/Vahzl], you say?
-    Then you will need this ${keyitem-singular: 2[2]}.${prompt}
-  12935: Wait just a moment... I remember you.${prompt}
-  12936: While I appreciate your assistance, I do not have any more censers to aid you on your travels into Promyvion. I must ask you to return at a later date.${prompt}
-  12937: 'Yes, I may be able to provide you with another ${keyitem-singular: 2[2]} on ${vanatime: 4} (${earthtime: 4} Earth time) and not a day sooner.${prompt}'
-  12938: Here, you may have this one, but take care not to lose it. These artifacts are extremely difficult to come by, and I have only a limited supply.${prompt}
-  12939: And if you happen to come across one of the rare remnants that I seek, bring it directly to me. Only then will you receive your reward.${prompt}
-  12940: What is this? You say you found something that may be of interest?${prompt}
+    ${choice: 1}[Holla/Dem/Mea/Vahzl], vous dites?
+    Vous aurez alors besoin de ceci ${keyitem-singular: 2[2]}.${prompt}
+  12935: Attendez un instant... Je me souviens de vous.
+  12936: Bien que j'apprécie votre aide, je n'ai plus de censeurs pour vous aider dans votre voyage à Promyvion. Je dois vous demander de revenir plus tard.${prompt}
+  12937: 'Oui, je peux peut-être vous fournir un autre ${keyitem-singular: 2[2]} sur ${vanatime: 4} (${earthtime: 4} Earth time) et pas un jour plus tôt.${prompt}'
+  12938: Tenez, vous pouvez avoir celui-ci, mais faites attention à ne pas le perdre. Ces artefacts sont extrêmement difficiles à trouver, et je n'en ai qu'une quantité limitée. ${prompt}
+  12939: Et si vous tombez sur l'un des rares vestiges que je recherche, apportez-le moi directement. Ce n'est qu'alors que vous recevrez votre récompense.${prompt}
+  12940: Qu'est-ce que c'est ? Vous dites avoir trouvé quelque chose d'intéressant?${prompt}
   12941: |-
-    Yes... Yes!
-    With this I can prove my ability to the society! I am guaranteed a position within their ranks for sure!${prompt}
+    Oui... Oui !
+    Avec ça, je peux prouver mes capacités à la société ! Je suis assuré d'avoir une place dans leurs rangs!${prompt}
   12942: |-
-    Hm? Your reward? Oh, I do remember promising you something if you succeeded at your mission.
-    How about this ${item-singular: 0[2]}? I don't think the society will be missing it.${prompt}
+    Hm ? Votre récompense ? Oh, je me souviens vous avoir promis quelque chose si vous réussissiez votre mission.
+    Que diriez-vous de ceci ${item-singular: 0[2]}? Je ne pense pas qu'il manquera à la société.${prompt}
   12943: |-
-    Out of my...
-    Wait just a moment. You wouldn't happen to have returned because you wish to delve into the depths of Promyvion once more, would you?${prompt}
+    Hors de mon...
+    Attendez un instant. Vous ne seriez pas revenu parce que vous souhaitez plonger dans les profondeurs de Promyvion une fois de plus, n'est-ce pas?${prompt}
   12944: |-
-    Well?
+    Et alors ?
     ${selection-lines}
-    That's why I'm here.
-    I was just passing by.${prompt}
-  12945: I have neither the time nor patience to be bothered by every ignorant cretin that happens to wander by. Begone!${prompt}
+    C'est pour ça que je suis là.
+    Je ne faisais que passer.${prompt}
+  12945: Je n'ai ni le temps ni la patience d'être dérangé par chaque crétin ignorant qui passe par là. Qu'ils s'en aillent!${prompt}
   12946: |-
     ${name-player}!
-    Lady Esha'ntarl's ship has returned.${prompt}
+    Le navire de Dame Esha'ntarl est de retour.${prompt}
   12947: |-
-    This is excellent timing.
-    I was ordered to find you and ask that you proceed to the Marble Bridge--the tavern in Upper Jeuno.${prompt}
+    C'est un excellent timing.
+    J'ai reçu l'ordre de vous trouver et de vous demander de vous rendre au Pont de Marbre, la taverne du Haut-Jeuno.${prompt}
   12948: |-
-    My duty here is done.
-    I must now journey to each nation and report that the Wyrmking Bahamut no longer poses a threat.${prompt}
+    Mon devoir ici est accompli.
+    Je dois maintenant me rendre dans chaque nation et signaler que le Wyrmking Bahamut ne représente plus une menace.${prompt}
   12949: |-
-    I hear that this development is all thanks to you and your companions.
-    You have the gratitude of all Jeunoans.${prompt}
+    J'ai entendu dire que cette évolution était due à vous et à vos compagnons.
+    Vous avez la gratitude de tous les Jeunois.${prompt}
   12950: |-
-    I have awaited your return, ${name-player}.
-    You must tell me all that has happened.${prompt}
-  12951: After clashing with our army several times, the dragons suddenly broke off their attack and disappeared into the distant clouds.${prompt}
-  12952: There were voices raised in support of hunting the wyrms into extinction, but for the moment we have returned to resupply and reconsider our position.${prompt}
-  12953: Now that you are here, I can finally be certain.${prompt}
-  12954: Am I to assume from your jubilant features that the Keeper of the Apocalypse has been defeated?${prompt}
+    J'attendais votre retour, ${name-player}.
+    Vous devez me raconter tout ce qui s'est passé.${prompt}
+  12951: Après avoir affronté notre armée à plusieurs reprises, les dragons ont soudainement interrompu leur attaque et ont disparu dans les nuages lointains.${prompt}
+  12952: Des voix se sont élevées pour soutenir l'idée de chasser les wyrms jusqu'à l'extinction, mais pour l'instant nous sommes revenus pour nous réapprovisionner et reconsidérer notre position.${prompt}
+  12953: Maintenant que vous êtes là, je peux enfin en être certain.${prompt}
+  12954: Dois-je déduire de vos traits jubilatoires que le Gardien de l'Apocalypse a été vaincu?${prompt}
   12955: |-
-    Has the keeper been defeated?
+    Le gardien a-t-il été vaincu ?
     ${selection-lines}
-    Completely.
-    Who can say?${prompt}
+    Tout à fait.
+    Qui peut le dire?${prompt}
   12956: |-
-    I knew it!
-    Bahamut sensed the keeper's downfall and pulled his forces out of battle...${prompt}
+    Je le savais !
+    Bahamut a senti la chute du gardien et a retiré ses forces de la bataille...${prompt}
   12957: |-
-    Tell me.
-    What momentous events transpired in the Celestial Capital?${prompt}
-  12958: On Cape Riverne, the images that flowed into me from Selh'teus...${prompt}
-  12959: They were of the incomplete Paradise, Al'Taieu...${prompt}
+    Racontez-moi.
+    Quels événements importants se sont déroulés dans la capitale céleste ?${prompt}
+  12958: Au Cap Riverne, les images qui m'ont été transmises par Selh'teus...${prompt}
+  12959: Ils étaient du Paradis incomplet, Al'Taieu...${prompt}
   12960: |-
-    The people of Al'Taieu returned to their deity ten thousand years ago.
-    Returned to Promathia...${prompt}
+    Le peuple d'Al'Taieu est retourné à sa divinité il y a dix mille ans.
+    Ils sont retournés à Promathia...${prompt}
   12961: |-
-    “Opening the Gates of Paradise” is a metaphor for restoring the shattered mothercrystal.
-    A way to return the world to its original state.${prompt}
+    “Ouvrir les portes du paradis” est une métaphore de la restauration du cristal-mère brisé..
+    Un moyen de ramener le monde à son état d'origine.${prompt}
   12962: |-
-    The world becomes a paradise, and its people ascend to godhood.
-    The Dawnmaiden Yve'noile has memories of witnessing the true form of the great goddess Altana.${prompt}
-  12963: Yve'noile spoke to me before we parted ways.${prompt}
-  12964: She said, “As I gazed upon her perfection, I realized I could not be a part of her. I wondered who I could possibly be.”${prompt}
-  12965: That was when she began her research into the race of people.${prompt}
-  12966: After shifting her focus to the inexplicable appearance of the Kuluu phenomenon, Yve'noile became aware of the darkness that resided within us all.${prompt}
-  12967: Her realization led her to betray the king and his son, and adamantly oppose any plan to open the Gates of Paradise.${prompt}
-  12968: She had discovered our origins as the children of Promathia...${prompt}
-  12969: But all has not been resolved.${prompt}
+    Le monde devient un paradis et ses habitants accèdent à la divinité.
+    La jeune fille de l'aube Yve'noile se souvient avoir été témoin de la véritable forme de la grande déesse Altana.${prompt}
+  12963: Yve'noile m'a parlé avant que nous nous séparions.${prompt}
+  12964: Elle a dit :"En contemplant sa perfection, j’ai réalisé que je ne pouvais pas faire partie d’elle. Je me suis demandé qui je pouvais bien être."${prompt}
+  12965: C'est à ce moment-là qu'elle a commencé ses recherches sur la race des gens.${prompt}
+  12966: Après s'être intéressée à l'apparition inexplicable du phénomène Kuluu, Yve'noile a pris conscience de la noirceur qui sommeillait en chacun de nous.${prompt}
+  12967: Sa prise de conscience l'amena à trahir le roi et son fils, et à s'opposer catégoriquement à tout projet d'ouverture des Portes du Paradis.${prompt}
+  12968: Elle avait découvert nos origines en tant qu'enfants de Promathia...${prompt}
+  12969: Mais tout n'a pas été résolu.${prompt}
   12970: The Emptiness still seethes within the mothercrystals.${prompt}
   12971: And the surviving Zilart yet cling desperately to their shadowy plan of returning to Paradise.${prompt}
   12972: I gave up my life in Tavnazia almost thirty years ago to infiltrate the organization of the newly awakened Zilart.${prompt}
