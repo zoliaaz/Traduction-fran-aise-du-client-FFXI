@@ -588,144 +588,155 @@ entries:
     Observer attentivement le flux des éléments pour éviter les explosions à base de ${icon: light}.
     Coût: ${number: 1} ${choice-plurality: 1}[portion/portions] de ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fourneau (${number: 2} ${choice-plurality: 2}[portion/portions] restantes).
   272: |-
-    Gradually purge the furnace of impurities.
-    Cost: ${number: 1} ${choice-plurality: 1}[portion/portions] of ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fourneau (${number: 2} ${choice-plurality: 2}[portion/portions] remaining).
+    Purger progressivement le fourneau des impuretés.
+    Coût: ${number: 1} ${choice-plurality: 1}[portion/portions] de ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fourneau (${number: 2} ${choice-plurality: 2}[portion/portions] restantes).
   273: |-
-    Keenly observe the flow of elements to prevent ${icon: water}-based explosions.
-    Cost: ${number: 1} ${choice-plurality: 1}[portion/portions] of ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fourneau (${number: 2} ${choice-plurality: 2}[portion/portions] remaining).
+    Observer attentivement le flux des éléments pour éviter les explosions à base de ${icon: water}.
+    Coût: ${number: 1} ${choice-plurality: 1}[portion/portions] de ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fourneau (${number: 2} ${choice-plurality: 2}[portion/portions] restantes).
   274: |-
-    Perform action?
+    Effectuer l'action ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  275: The synergy furnace seems to have taken on a straighter silhouette!
-  276: You give the synergy furnace a measured thwack!
-  277: '${color-alt: 141}You successfully prevent an explosion!'
-  278: Nothing happens...
-  279: '${color-alt: 141}The synergy furnace regains its durability!'
-  280: The attempt to repair the synergy furnace has failed.
-  281: 'Internal pressure has fallen to ${number: 0} Pz/Im.'
-  282: Internal pressure remains unchanged.
+    Oui.
+    Non.${prompt}
+  275: |-
+    Le fourneau de synergie semble avoir pris une silhouette plus droite !
+  276: |-
+    Vous donnez un coup mesuré au fourneau de synergie !
+  277: |-
+    '${color-alt: 141}Vous avez réussi à prévenir une explosion !'
+  278: |-
+    Rien ne se passe...
+  279: |-
+    '${color-alt: 141}Le fourneau de synergie retrouve sa durabilité !'
+  280: |-
+    La tentative de réparation du fourneau de synergie a échoué.
+  281: |-
+    'La pression interne est tombée à ${number: 0} Pz/Im.'
+  282: |-
+    La pression interne reste inchangée.
   283: |-
-    You successfully purge impurities from the synergy furnace.
-    Current impurity ratio: ${number: 0}%.
+    Vous avez réussi à purger les impuretés du fourneau de synergie.
+    Taux d'impureté actuel : ${number: 0}%.
   284: |-
-    Your attempt to purge impurities from the synergy furnace has failed.
-    An unsettling noise can be heard from within...
+    Votre tentative de purger les impuretés du fourneau de synergie a échoué.
+    Un bruit inquiétant peut être entendu de l'intérieur...
   285: |-
-    You successfully gather the strewn fourneau fragments and feed them to the synergy furnace.
-    The quantity of obtainable cinder increases to ${number: 0}%.
-  286: The strewn fourneau fragments you fed to the furnace did not seem to have any effect...
-  287: The floor about the furnace is free of fourneau fragments.
-  288: You observe no changes.
-  289: '${color-alt: 141}Lunar Smarts have taken effect!'
-  290: '${color-alt: 141}Carbonization Smarts have taken effect!'
-  291: '${color-alt: 141}The likelihood of an elemental surge has increased.'
-  292: '${color-alt: 141}The effect of Lunar Smarts wears off.'
-  293: '${color-alt: 141}The effect of Carbonization Smarts wears off.'
-  294: '${color-alt: 141}Cyclical Smarts have taken effect!'
-  295: '${color-alt: 141}The synergy furnace is incurring less damage over time.'
-  296: '${color-alt: 141}The effect of Cyclical Smarts wears off.'
-  297: '${color-alt: 141}Combustive Smarts have taken effect!'
-  298: '${color-alt: 141}The fourneau combustion rate has improved.'
-  299: '${color-alt: 141}The effect of Combustive Smarts wears off.'
-  300: '${color-alt: 141}Engraver''s Touch has taken effect!'
-  301: '${color-alt: 141}The synergy furnace has become less prone to explode.'
-  302: '${color-alt: 141}The effect of Engraver''s Touch wears off.'
-  303: '${color-alt: 141}Pressurization Smarts have taken effect!'
-  304: '${color-alt: 141}The fluctuation in internal pressure is being suppressed.'
-  305: '${color-alt: 141}The effect of Pressurization Smarts wears off.'
-  306: '${color-alt: 141}Alchemical Smarts have taken effect!'
-  307: '${color-alt: 141}The force of explosions is being suppressed.'
-  308: '${color-alt: 141}The effect of Alchemical Smarts wears off.'
-  309: '${color-alt: 141}Heating Smarts have taken effect.'
-  310: '${color-alt: 141}The amount of impurities inside the furnace is gradually decreasing.'
-  311: '${color-alt: 141}The effect of Heating Smarts wears off.'
-  312: '${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fourneau fed.'
-  313: '${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] elemental power has begun leaking from the furnace.'
-  314: '${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] elemental power is no longer leaking.'
+    Vous avez réussi à rassembler les fragments de fourneau éparpillés et à les nourrir au fourneau de synergie.
+    La quantité de cendres récupérable augmente à ${number: 0}%.
+  286: |-
+    Les fragments de fourneau éparpillés que vous avez nourris au fourneau ne semblent pas avoir eu d'effet...
+  287: |-
+    Le sol autour du fourneau est dépourvu de fragments de fourneau.
+  288: |-
+    Vous n'observez aucun changement.
+  289: '${color-alt: 141}Les connaissances lunaires ont pris effet !'
+  290: '${color-alt: 141}Les connaissances en carbonisation ont pris effet !'
+  291: '${color-alt: 141}La probabilité d’une vague élémentaire a augmenté.'
+  292: '${color-alt: 141}L’effet des connaissances lunaires s’est dissipé.'
+  293: '${color-alt: 141}L’effet des connaissances en carbonisation s’est dissipé.'
+  294: '${color-alt: 141}Les connaissances cycliques ont pris effet!'
+  295: '${color-alt: 141}Le fourneau de synergie subit moins de dommages avec le temps.'
+  296: '${color-alt: 141}L’effet des connaissances cycliques s’est dissipé.'
+  297: '${color-alt: 141}Les connaissances combustives ont pris effet!' 
+  298: '${color-alt: 141}Le taux de combustion du fourneau s’est amélioré.'
+  299: '${color-alt: 141}L’effet des connaissances combustives s’est dissipé.'
+  300: '${color-alt: 141}La touche de l’enchanteur a pris effet!'
+  301: '${color-alt: 141}Le fourneau de synergie est devenu moins susceptible d’exploser.'
+  302: '${color-alt: 141}L’effet de la touche de l’enchanteur s’est dissipé.' 
+  303: '${color-alt: 141}Les connaissances en pressurisation ont pris effet!'
+  304: '${color-alt: 141}La fluctuation de la pression interne est supprimée.'
+  305: '${color-alt: 141}L’effet des connaissances en pressurisation s’est dissipé.'
+  306: '${color-alt: 141}Les connaissances alchimiques ont pris effet!'
+  307: '${color-alt: 141}La force des explosions est supprimée.'
+  308: '${color-alt: 141}L’effet des connaissances alchimiques s’est dissipé.'
+  309: '${color-alt: 141}Les connaissances en chauffage ont pris effet.'
+  310: '${color-alt: 141}La quantité d’impuretés à l’intérieur du fourneau diminue progressivement.'
+  311: '${color-alt: 141}L’effet des connaissances en chauffage s’est dissipé.'
+  312: '${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fourneau nourri.'
+  313: '${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] la puissance élémentaire s’est mise à fuir du fourneau.'
+  314: '${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] la puissance élémentaire ne fuit plus.'
   315: |-
-    Total fourneau fed:
+    Total de fourneau alimenté :
     ${icon: fire}${number: 0} ${icon: ice}${number: 1} ${icon: wind}${number: 2} ${icon: earth}${number: 3} ${icon: lightning}${number: 4} ${icon: water}${number: 5} ${icon: light}${number: 6} ${icon: dark}${number: 7}
-  316: You do not have enough fourneau.
-  317: 'The furnace cannot be fed any more ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fourneau at this moment.'
-  318: 'The combustion rate for ${choice: 0}[ /${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fourneau has improved${choice: 1}[ very slightly/ slightly/ moderately// significantly/ greatly/ tremendously].'
-  319: 'The combustion rate for ${choice: 0}[ /${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fourneau has returned to normal.'
-  320: Synergy complete!
-  321: You failed to produce the intended item...
-  322: '${color-alt: 121}${lettercase: 1}${article} ${item-article: 0[2]} has been successfully synergized!'
+  316: Vous n’avez pas suffisamment de fourneau.
+  317: 'Le fourneau ne peut plus être alimenté avec ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fourneau pour le moment.'
+  318: 'Le taux de combustion pour ${choice: 0}[ /${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fourneau a augmenté${choice: 1}[ très légèrement/ légèrement/ modérément// significativement/ considérablement/ énormément].'
+  319: 'Le taux de combustion pour ${choice: 0}[ /${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fourneau est revenu à la normale.'
+  320: Synergie complète !
+  321: Vous avez échoué à produire l’objet prévu...
+  322: '${color-alt: 121}${lettercase: 1}${article} ${item-article: 0[2]} a été synergisé avec succès!'
   323: |-
-    ${color-alt: 121}Smooth synergizing!
-    ${lettercase: 1}${article} ${item-article: 0[2]} has been successfully synergized!
-  324: '${color-alt: 121}${number: 1} ${item-plural: 0[2]} have been successfully synergized!'
+    ${color-alt: 121}Synergie fluide !
+    ${lettercase: 1}${article} ${item-article: 0[2]} a été synergisé avec succès!
+  324: '${color-alt: 121}${number: 1} ${item-plural: 0[2]} ont été synergisés avec succès!'
   325: |-
-    ${color-alt: 121}Smooth synergizing!
-    ${number: 1} ${item-plural: 0[2]} have been successfully synergized!
+    ${color-alt: 121}Synergie fluide!
+    ${number: 1} ${item-plural: 0[2]} ont été synergisés avec succès!
   326: |-
-    ${color-alt: 121}${name-player} obtains ${number: 0} ${choice-plurality: 0}[ponze/ponzes] of cinder.
+    ${color-alt: 121}${name-player} obtient ${number: 0} ${choice-plurality: 0}[ponze/ponzes] de cendre.
     Total: ${number: 1} Pz.
-  327: The operation failed to produce a significant quantity of cinder.
-  328: 'You remove ${article} ${item-article: 0[2]} from the furnace.'
-  329: 'You remove ${number: 1} ${item-given-plurality: 1[2], 0[2]} from the furnace.'
-  330: You remove the ingredients from the furnace.
-  331: The synergy furnace has ceased to function.
-  332: Relinquish your claim to the synergy furnace?
+  327: L’opération n’a pas réussi à produire une quantité significative de cendre.
+  328: 'Vous retirez ${article} ${item-article: 0[2]} du fourneau.'
+  329: 'Vous retirez ${number: 1} ${item-given-plurality: 1[2], 0[2]} du fourneau.'
+  330: Vous retirez les ingrédients du fourneau.
+  331: Le fourneau de synergie a cessé de fonctionner.
+  332: Renoncer à votre réclamation sur le fourneau de synergie ?
   333: |-
-    Relinquish claim?
+    Renoncer à la réclamation ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  334: 'Your ${keyitem-singular: 0[2]} will be removed, and your claim to the synergy furnace, relinquished.'
-  335: '${color-alt: 121}Your claim to the synergy furnace has been relinquished.'
-  336: '${color-alt: 141}You are too far away to operate the synergy furnace.'
-  337: '${color-alt: 141}Warning! Your claim over the synergy furnace will be nullified if you venture any further away.'
+    Oui.
+    Non.${prompt}
+  334: 'Votre ${keyitem-singular: 0[2]} sera retiré, et votre réclamation sur le fourneau de synergie, abandonnée.'
+  335: '${color-alt: 121}Votre réclamation sur le fourneau de synergie a été abandonnée.'
+  336: '${color-alt: 141}Vous êtes trop loin pour utiliser le fourneau de synergie.'
+  337: '${color-alt: 141}Attention ! Votre réclamation sur le fourneau de synergie sera annulée si vous vous éloignez davantage.'
   338: |-
-    Unable to operate the furnace.
-    The claim holder's control over the synergy furnace has been compromised.
-  339: The synergy furnace has not been readied for use and cannot be operated.
-  340: '${color-alt: 141}${name-player} is paralyzed and cannot operate the furnace.'
-  341: '${color-alt: 141}${name-player} is immobilized and cannot operate the furnace.'
-  342: '${color-alt: 141}${name-player} is afflicted by the effect of slow and cannot operate the furnace.'
+    Impossible d'opérer le fourneau.
+    Le contrôle du titulaire de la réclamation sur le fourneau de synergie a été compromis.
+  339: Le fourneau de synergie n'a pas été préparé pour être utilisé et ne peut pas être opéré.
+  340: '${color-alt: 141}${name-player} est paralysé et ne peut pas opérer le fourneau.'
+  341: '${color-alt: 141}${name-player} est immobilisé et ne peut pas opérer le fourneau.'
+  342: '${color-alt: 141}${name-player} est affecté par l’effet de ralentissement et ne peut pas opérer le fourneau.'
   343: |-
-    ${color-alt: 141}${name-player} is diseased and cannot operate the furnace.
-    Fewell has gone to waste.
+    ${color-alt: 141}${name-player} est malade et ne peut pas opérer le fourneau.
+    Un fourneau a été gaspillé.
   344: |-
-    ${color-alt: 141}${name-player} is poisoned and cannot operate the furnace.
-    Furnace durability has decreased.
-  345: 'Mode-${number: 0}: ${choice: 0}[Unclaimed/Claimed/Awaiting ingredients/Synergizing/Synergy complete/Claim relinquished/Receive/Auto-fail].'
-  346: 'DEBUG: ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] combustion value: ${number: 4} (combustion rate: ${number: 5})'
-  347: 'DEBUG: Overall combustion value ＝ Base(${number: 1}) + Fluctuation (${number: 2}) + Crit. (${number: 3}).'
-  348: 'DEBUG: ${number: 0} ${number: 1} ${number: 2} ${number: 3}'
-  349: 'master(${number: 0}):Mem#0(${number: 1}) Mem#1(${number: 2}) Mem#2(${number: 3})'
+    ${color-alt: 141}${name-player} est empoisonné et ne peut pas opérer le fourneau.
+    La durabilité du fourneau a diminué.
+  345: 'Mode-${number: 0}: ${choice: 0}[Non réclamé/Réclamé/En attente d’ingrédients/Synergisation/Synergie terminée/Réclamation abandonnée/Recevoir/Echec automatique].'
+  346: 'DEBUG : ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] valeur de combustion : ${number: 4} (taux de combustion : ${number: 5})'
+  347: 'DEBUG : Valeur de combustion globale ＝ Base(${number: 1}) + Fluctuation (${number: 2}) + Critique (${number: 3}).'
+  348: 'DEBUG : ${number: 0} ${number: 1} ${number: 2} ${number: 3}'
+  349: 'maître(${number: 0}): Mem#0(${number: 1}) Mem#1(${number: 2}) Mem#2(${number: 3})'
   350: 'Mem#3(${number: 0}) Mem#4(${number: 1}) Mem#5(${number: 2})'
   351: 'MUTCH：Mem#${number: 0}(${number: 1})'
-  352: NO-MUTCH！
-  353: '${choice: 1}[Thwack/Fewell Combustion/Pressure Handle Operation/Safety Lever Operation/Furnace Repair/Fewell Clean-up]: Lv.${number: 0}'
-  354: '${name-player}''s ${sys-msg-3: 0} has been checked.${prompt}'
+  352: PAS DE MUTCH !
+  353: '${choice: 1}[Coup/Fewell Combustion/Opération de gestion de la pression/Opération du levier de sécurité/Réparation du fourneau/Nettoyage du fourneau] : Nv.${number: 0}'
+  354: 'La ${sys-msg-3: 0} de ${name-player} a été vérifiée.${prompt}'
   355: '${number: 0}/${number: 1}'
-  356: 'Check-No.${number: 0} (${choice: 0}[Fail/Normal/High/Ultra/Miracle])'
-  357: 'Check-QualityTable：No.${number: 0} Role：${number: 1}'
-  358: 'Check-Exp.damage：${number: 0}>>>${number: 1}'
-  359: 'Check-Crit.Role：${number: 0}/${number: 1}……${choice: 2}[Normal/Critical]'
-  360: 'Check-ActivityPts.：＋${number: 0}/Total ${number: 1}Pts.(${name-player})'
-  361: 'Last-ActivityPts.：${number: 0}Pts.(ID:${number: 1})'
-  362: Skill-Check!
-  363: '${color-alt: 121}The signature engraved on your ${item-singular: 0[2]} will be lost.'
-  364: '${color-alt: 121}Existing size data for your ${item-singular: 0[2]} will be lost.'
-  365: New augments will not take effect until the item is removed from the synergy furnace.${prompt}
+  356: 'Vérification n°${number: 0} (${choice: 0}[Echec/Normal/Élevé/Extrême/Miracle])'
+  357: 'Tableau de qualité de vérification : n°${number: 0} Rôle : ${number: 1}'
+  358: 'Dommage d’explosion vérifié : ${number: 0}>>>${number: 1}'
+  359: 'Rôle critique : ${number: 0}/${number: 1}…${choice: 2}[Normal/Critique]'
+  360: 'Pts. d’activité vérifiés : ＋${number: 0}/Total ${number: 1}Pts.(${name-player})'
+  361: 'Derniers pts. d’activité : ${number: 0}Pts.(ID : ${number: 1})'
+  362: Vérification de compétence !
+  363: '${color-alt: 121}La signature gravée sur votre ${item-singular: 0[2]} sera perdue.'
+  364: '${color-alt: 121}Les données de taille existantes pour votre ${item-singular: 0[2]} seront perdues.'
+  365: Les nouveaux ajouts ne prendront effet qu’après que l’objet aura été retiré du fourneau de synergie.${prompt}
   366: |-
-    Remove the item?
+    Retirer l'objet?
     ${selection-lines}
-    Yes, with new augment(s).
-    Yes, with existing augment(s).
-    No.${prompt}
-  367: 'Your item''s attributes ${choice: 8}[will be/are] as follows with its ${choice: 8}[new/current] set of augments:${prompt}'
+    Oui, avec nouveau(x) ajout(s).
+    Oui, avec ajout(s) existant(s).
+    Non.${prompt}
+  367: 'Les attributs de votre objet ${choice: 8}[seront/sont] les suivants avec son ${choice: 8}[nouveau/actuel] ensemble d’ajouts :${prompt}'
   368: |-
-    Proceed with these attributes?
+    Procéder avec ces attributs?
     ${selection-lines}
-    Yes.
-    On second thought...${prompt}
-  369: 'You remove a newly augmented ${item-singular: 0[2]} from the synergy furnace!'
+    Oui.
+    En y réfléchissant...${prompt}
+  369: 'Vous retirez un ${item-singular: 0[2]} nouvellement augmenté du fourneau de synergie!'
   370: うさぎとび百周！${prompt}
   371: 'Trial: Defeat a set number of ${choice: 4}[experience-yielding monsters/monsters] under the prescribed conditions.${prompt}'
   372: 'Trial: Defeat a set number of ${choice: 4}[experience-yielding monsters/monsters] under the prescribed conditions.${prompt}'
