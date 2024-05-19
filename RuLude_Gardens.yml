@@ -24051,136 +24051,136 @@ entries:
   11591: Réduit au silence depuis trop longtemps dans la prison de Dynamis, je peux à nouveau faire résonner mon appel effronté sur cette terre!${prompt}
   11592: Encore quelques instants, s'il vous plaît...${prompt}
   11593: |-
-    Hello there.
-    I am Terounalivet, a military musician of the Hydra Corps.${prompt}
+    Bonjour.
+    Je suis Terounalivet, musicien militaire du Corps de l'Hydre.${prompt}
   11594: |-
-    You've never heard of me?
-    Before joining the army I was quite the famous bard, mobbed by fans in every town I passed through.${prompt}
-  11595: 'To be completely truthful, I am heartbroken to be giving up the ${item-singular: 0[2]}, the most famous of instruments, even to a fellow bard.${prompt}'
-  11596: But an instrument only shows its true worth when being played. This horn should be delighted to be passed on to such a talent as yourself.${prompt}
-  11597: She has a capricious soul, but do treat her well. And do not forget that even without a raging battle, you can still play a tune for the simple enjoyment of those around you...${prompt}
+    Vous n'avez jamais entendu parler de moi ?
+    Avant de rejoindre l'armée, j'étais un barde très célèbre, assailli par les fans dans chaque ville où je passais.${prompt}
+  11595: 'Pour être totalement honnête, c’est le cœur brisé que je me sépare du ${item-singular: 0[2]}, l’instrument le plus célèbre, même à un autre barde.${prompt}'
+  11596: Mais un instrument ne montre sa véritable valeur que lorsqu’il est joué. Cette corne devrait être ravie d’être transmise à un talent tel que le vôtre.${prompt}
+  11597: Elle a une âme capricieuse, mais veillez bien sur elle. Et n’oubliez pas que même sans bataille rageuse, vous pouvez jouer un air pour le simple plaisir de ceux qui vous entourent...${prompt}
   11598: '...${prompt}'
-  11599: He was a wonderful performer.${prompt}
+  11599: C’était un merveilleux artiste.${prompt}
   11600: |-
-    Let us be on our way.
-    Our tour of the world has only just begun...${prompt}
-  11601: The IRNC has dispatched me to help support all those who wish to participate in Conflict.${prompt}
-  11602: 'Before you can take part in this Conflict event, you must first possess ${keyitem-article: 0[2]}. You can obtain one from your nation''s Conflict Commander, ${choice: 1}[Excenmille, stationed in Northern San d''Oria./Invincible Shield, stationed in the Metalworks in Bastok./Mhabi Molkot, stationed in Heavens Tower in Windurst.]${prompt}'
-  11603: Only adventurers who have achieved rank 3 or higher may take part in official Ballista matches. Please return when you have proven your loyalty to your home nation.${prompt}
-  11604: However, if you still wish to take part in Ballista, participation in matches held within Diorama Abdhaljs-Ghelsba is open to all citizens of Vana'diel.${prompt}
-  11605: What services do you require?${prompt}
+    Partons.
+    Notre tour du monde ne fait que commencer...${prompt}
+  11601: L’IRNC m'a dépêché pour aider à soutenir tous ceux qui souhaitent participer à Conflict.${prompt}
+  11602: 'Avant de pouvoir participer à cet événement Conflict, vous devez d’abord posséder ${keyitem-article: 0[2]}. Vous pouvez en obtenir un auprès du Commandant de Conflit de votre nation, ${choice: 1}[Excenmille, stationné au nord de San d’Oria./Invincible Shield, stationné dans les Ateliers dans Bastok./Mhabi Molkot, stationné dans la Tour des Cieux à Windurst.]${prompt}'
+  11603: Seuls les aventuriers ayant atteint le rang 3 ou plus peuvent participer aux matchs officiels de Ballista. Revenez lorsque vous aurez prouvé votre loyauté envers votre nation d’origine.${prompt}
+  11604: Cependant, si vous souhaitez toujours participer à Ballista, les matchs tenus dans le Diorama Abdhaljs-Ghelsba sont ouverts à tous les citoyens de Vana’diel.${prompt}
+  11605: De quels services avez-vous besoin ?${prompt}
   11606: |-
-    What can I help you with?
+    En quoi puis-je vous aider ?
     ${selection-lines}
-    Nothing.
-    The upcoming Ballista matches.
-    The Ballista schedule.
-    A teleport to the Ballista match.
-    The rules of Ballista.
-    Borrow/Return ${keyitem-article: 0[2]}.
-    Borrow/Return ${keyitem-article: 1[2]}.
-    Borrow/Return ${keyitem-article: 2[2]}.
-    The upcoming Brenner matches.
-    A teleport to the Brenner match (Lv ${number: 7}).
-    The rules of Brenner.
-    Borrow/Return ${keyitem-article: 3[2]}.
-    Borrow/Return ${keyitem-article: 4[2]}.${prompt}
-  11607: 'I am allowed to teleport Ballista participants to the site of the next match in exchange for ${keyitem-article: 0[2]} or ${number: 1} Ballista ${choice-plurality: 1}[Point/Points]. This service is available from twenty-four hours before the start of the match, up until the end of the match.${prompt}'
-  11608: '${lettercase: 1}${keyitem-article: 0[2]} can be received after participating in Ballista, or in the event one is not able to participate due to an influx (or lack) of entries.${prompt}'
-  11609: I'm sorry, but I am not authorized to teleport persons who do not meet the level requirement for the match.${prompt}
-  11610: The following information regards the match I am currently authorized to teleport you to...${prompt}
+    Rien.
+    Les prochains matchs de Ballista.
+    Le programme de Ballista.
+    Un téléport vers le match de Ballista.
+    Les règles de Ballista.
+    Emprunter/Retourner ${keyitem-article: 0[2]}.
+    Emprunter/Retourner ${keyitem-article: 1[2]}.
+    Emprunter/Retourner ${keyitem-article: 2[2]}.
+    Les prochains matchs de Brenner.
+    Un téléport vers le match de Brenner (Nv ${number: 7}).
+    Les règles de Brenner.
+    Emprunter/Retourner ${keyitem-article: 3[2]}.
+    Emprunter/Retourner ${keyitem-article: 4[2]}.${prompt}
+  11607: 'Je suis autorisé à téléporter les participants de Ballista sur le site du prochain match en échange de ${keyitem-article: 0[2]} ou ${number: 1} ${choice-plurality: 1}[Point/Points] Ballista. Ce service est disponible vingt-quatre heures avant le début du match, jusqu’à la fin du match.${prompt}'
+  11608: '${lettercase: 1}${keyitem-article: 0[2]} peut être obtenu après avoir participé à Ballista, ou dans le cas où l’on ne peut pas participer en raison d’un afflux (ou d’une absence) d’inscriptions.${prompt}'
+  11609: Je suis désolé, mais je ne suis pas autorisé à téléporter les personnes qui ne répondent pas à l’exigence de niveau pour le match.${prompt}
+  11610: Les informations suivantes concernent le match pour lequel je suis actuellement autorisé à vous téléporter...${prompt}
   11611: |-
-    Teleport?
+    Téléporter ?
     ${selection-lines}
-    Right away.
-    Not yet.${prompt}
-  11612: I am sorry, but I cannot teleport you at this time.${prompt}
-  11613: I am sorry, but I cannot teleport you at this time. Please return when there are less than twenty-four hours remaining until the next match.${prompt}
-  11614: Currently, the following special rules are being implemented...${prompt}
-  11615: Currently, there are no special rules being implemented.${prompt}
+    Immédiatement.
+    Pas encore.${prompt}
+  11612: Désolé, mais je ne peux pas vous téléporter pour le moment.${prompt}
+  11613: Désolé, mais je ne peux pas vous téléporter pour le moment. Veuillez revenir quand il restera moins de vingt-quatre heures avant le prochain match.${prompt}
+  11614: Actuellement, les règles spéciales suivantes sont en vigueur...${prompt}
+  11615: Actuellement, aucune règle spéciale n'est en vigueur.${prompt}
   11616: |-
-    The next scheduled Ballista match is:
-    Area: ${choice: 3}[Jugner Forest/Pashhow Marshlands/Meriphataud Mountains]
-    Matchup: ${choice: 0}[San d'Oria vs Bastok/Bastok vs Windurst/Windurst vs San d'Oria]
-    Level Restriction: ${choice: 1}[None/　/　/30/40/50/60/]
-    Participation Fee: ${number: 2} gil
-    Match Format: ${choice: 3}[All or Nothing * Normal Items Allowed/All or Nothing * Normal Items Restricted/Best of Three * Normal Items Allowed]${prompt}
-  11617: Entries are now being accepted.${prompt}
+    Le prochain match de Ballista programmé est :
+    Zone : ${choice: 3}[Forêt de Jugner/Marais de Pashhow/Montagnes de Meriphataud]
+    Affrontement : ${choice: 0}[San d'Oria contre Bastok/Bastok contre Windurst/Windurst contre San d'Oria]
+    Restriction de niveau : ${choice: 1}[Aucune/　/　/30/40/50/60/]
+    Frais de participation : ${number: 2} gils
+    Format du match : ${choice: 3}[Tout ou rien * Objets normaux autorisés/Tout ou rien * Objets normaux restreints/Meilleur de trois * Objets normaux autorisés]${prompt}
+  11617: Les inscriptions sont maintenant ouvertes.${prompt}
   11618: |-
-    Entry period begins:
-    Vana'diel: ${vanatime: 3}
-    Earth: ${earthtime: 3}${prompt}
+    La période d'inscription commence :
+    Vana'diel : ${vanatime: 3}
+    Terre : ${earthtime: 3}${prompt}
   11619: |-
-    Match begins:
-    Vana'diel: ${vanatime: 3}
-    Earth: ${earthtime: 3}${prompt}
-  11620: 'While wearing ${keyitem-article: 0[2]} during a match, you will be able to hear the orders of your nation''s Pursuivant. His advice will aid you in battle.${prompt}'
-  11621: Also, you will be informed of all the latest match information when entering select cities.${prompt}
+    Le match commence :
+    Vana'diel : ${vanatime: 3}
+    Terre : ${earthtime: 3}${prompt}
+  11620: 'En portant ${keyitem-article: 0[2]} pendant un match, vous pourrez entendre les ordres de votre Herald national. Ses conseils vous aideront au combat.${prompt}'
+  11621: De plus, vous serez informé de toutes les dernières informations sur les matchs en entrant dans certaines villes.${prompt}
   11622: |-
-    Would you like ${keyitem-article: 0[2]}?
+    Souhaitez-vous ${keyitem-article: 0[2]}?
     ${selection-lines}
-    Yes.
-    No.${prompt}
+    Oui.
+    Non.${prompt}
   11623: |-
-    Return your ${keyitem-singular: 0[2]}?
+    Rendre votre ${keyitem-singular: 0[2]}?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  11624: 'Obtained: ${keyitem-singular: 0[2]}.${prompt}'
-  11625: 'By carrying ${keyitem-article: 0[2]} with you during a Ballista match, any temporary item you quarry will be automatically placed in your bag without you having to select whether you wish to keep it, use it, or throw it away.${prompt}'
+    Oui.
+    Non.${prompt}
+  11624: 'Obtenu : ${keyitem-singular: 0[2]}.${prompt}'
+  11625: 'En portant ${keyitem-article: 0[2]} avec vous lors d’un match de Ballista, tout objet temporaire que vous extrayez sera automatiquement placé dans votre sac sans que vous ayez à choisir si vous souhaitez le conserver, l’utiliser ou le jeter.${prompt}'
   11626: |-
-    When your inventory is full, or you cannot carry any more of a certain item, the newly quarried item will be automatically discarded.
-    If you wish, I can lend you one of these shovels, free of charge.${prompt}
+    Lorsque votre inventaire est plein, ou si vous ne pouvez pas transporter plus d'un certain objet, le nouvel objet extrait sera automatiquement jeté.
+    Si vous le souhaitez, je peux vous prêter une de ces pelles, gratuitement.${prompt}
   11627: |-
-    Borrow ${keyitem-article: 0[2]}?
+    Emprunter ${keyitem-article: 0[2]} ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  11628: 'You borrow ${keyitem-article: 0[2]}!${prompt}'
+    Oui.
+    Non.${prompt}
+  11628: 'Vous empruntez ${keyitem-article: 0[2]} !${prompt}'
   11629: |-
-    Return the ${keyitem-singular: 0[2]}?
+    Rendre le ${keyitem-singular: 0[2]} ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  11630: 'You return the ${keyitem-singular: 0[2]}!${prompt}'
-  11631: 'When carrying ${keyitem-article: 0[2]} with you while participating in a Ballista match, you will have the option to keep or throw away the first ${color: 5}Petra${color: 1} you find. This is useful when you want to continue /sprinting.${prompt}'
-  11632: If you wish, I can loan you one, free of charge.${prompt}
+    Oui.
+    Non.${prompt}
+  11630: 'Vous retournez le ${keyitem-singular: 0[2]} !${prompt}'
+  11631: 'En transportant ${keyitem-article: 0[2]} avec vous pendant un match de Ballista, vous aurez l’option de garder ou de jeter le premier ${color: 5}Petra${color: 1} que vous trouvez. Cela est utile lorsque vous souhaitez continuer à /sprinter.${prompt}'
+  11632: Si vous le souhaitez, je peux vous en prêter un gratuitement.${prompt}
   11633: |-
-    Borrow ${keyitem-article: 0[2]}?
+    Emprunter ${keyitem-article: 0[2]} ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
+    Oui.
+    Non.${prompt}
   11634: |-
-    Return the ${keyitem-singular: 0[2]}?
+    Retourner le ${keyitem-singular: 0[2]} ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  11635: 'When in possession of the key item ${keyitem-singular: 0[2]}, temporary items will be automatically added to the player''s inventory when quarried.${prompt}'
+    Oui.
+    Non.${prompt}
+  11635: 'Lorsque vous possédez l’objet clé ${keyitem-singular: 0[2]}, les objets temporaires seront automatiquement ajoutés à l’inventaire du joueur lorsqu’ils sont extraits.${prompt}'
   11636: |-
-    When a player's inventory exceeds the maximum capacity, any temporary item found will simply be discarded.
-    You can speak to me to borrow or return the shovel at any time.${prompt}
+    Lorsque l'inventaire d'un joueur dépasse la capacité maximale, tout objet temporaire trouvé sera simplement jeté.
+    Vous pouvez me parler pour emprunter ou retourner la pelle à tout moment.${prompt}
   11637: |-
-    Borrow the ${keyitem-singular: 0[2]}?
+    Emprunter le ${keyitem-singular: 0[2]} ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
+    Oui.
+    Non.${prompt}
   11638: |-
-    Return the ${keyitem-singular: 0[2]}?
+    Retourner le ${keyitem-singular: 0[2]} ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  11639: 'When in possession of the key item ${keyitem-singular: 0[2]}, you will have the choice of keeping or throwing away the first Petra you quarry. You will also retain the ability to ${color: 5}sprint${color: 1}.${prompt}'
-  11640: You can speak to me to borrow or return the band at any time.${prompt}
+    Oui.
+    Non.${prompt}
+  11639: 'Lorsque vous possédez l’objet clé ${keyitem-singular: 0[2]}, vous aurez le choix de garder ou de jeter le premier Petra que vous extrayez. Vous conserverez également la possibilité de ${color: 5}sprinter${color: 1}.${prompt}'
+  11640: Vous pouvez me parler pour emprunter ou retourner le bandeau à tout moment.${prompt}
   11641: |-
-    Select a match level...
+    Sélectionnez un niveau de match...
     ${selection-lines}
-    View all levels.
-    No restriction (${number: 0} gil per match).
-    Level 60 (${number: 1} gil per match).
-    Level 50 (${number: 2} gil per match).
-    Level 40 (${number: 3} gil per match).
-    Level 30 (${number: 4} gil per match).
-    Return.${prompt}
+    Voir tous les niveaux.
+    Aucune restriction (${number: 0} gil par match).
+    Niveau 60 (${number: 1} gil par match).
+    Niveau 50 (${number: 2} gil par match).
+    Niveau 40 (${number: 3} gil par match).
+    Niveau 30 (${number: 4} gil par match).
+    Retour.${prompt}
   11642: |-
     Select for more information...
     ${selection-lines}
