@@ -26585,7 +26585,7 @@ entries:
     Je crains que non.${prompt}
   12738: |-
     Les éléments suivants ont été demandés:
-    ${article} ${item-article: 1[2]}, ${article} ${article-article: 2[2]}, et ${article} ${item-article: 3[2]}.
+    ${article} ${item-article: 1[2]}, ${article} ${item-article: 2[2]}, et ${article} ${item-article: 3[2]}.
     Mon avenir professionnel repose entre vos mains.${prompt}
   12739: |-
     Les éléments suivants ont été demandés:
@@ -26673,22 +26673,22 @@ entries:
     Les règles actuelles de participation à Diorama Ballista fixées par la ${color: 5}Maître de cérémonie${color: 1} sont les suivants:
     ${choice: 0}[ /Anyone can attend/Anyone can participate/Anyone can attend or participate].${prompt}
   12778: |-
-    Select one...
+    Sélectionnez une ligne...
     ${selection-lines}
-    Quit.
-    Reserve the Diorama (2 days from now).
-    Reserve the Diorama (now).
-    View the reservation list.
-    ${choice: 0}[Allow/Restrict] gallery.
-    ${choice: 1}[Allow/Restrict] participation.
-    View a match.
-    Participate in a match.
-    Enter the Diorama.
-    FAQ: What is the Diorama?
-    FAQ: Reserving the Diorama.${prompt}
+    Quitter.
+    Réserver le Diorama (dans 2 jours).
+    Réserver le Diorama (maintenant).
+    Voir la liste des réservations.
+    ${choice: 0}[Autoriser/Restreindre] galerie.
+    ${choice: 1}[Autoriser/Restreindre] participation.
+    Voir un match.
+    Participer à un match.
+    Entrer dans le Diorama.
+    FAQ: Qu'est-ce que le Diorama ?
+    FAQ: Réserver le Diorama.${prompt}
   12779: |-
-    I see that you have recently utilized our Diorama services.
-    I apologize, but I must ask that you wait a few more moments before attempting any further transactions.${prompt}
+    Je vois que vous avez récemment utilisé nos services de diorama.
+    Je vous prie de m'excuser, mais je dois vous demander d'attendre encore quelques instants avant d'effectuer d'autres transactions.{prompt}
   12780: 'Currently, the Diorama can be reserved from ${earthtime: 0} to ${earthtime: 1}.${prompt}'
   12781: 'The ${item-singular: 2[2]} necessary for access to the Diorama from ${earthtime: 0} to ${earthtime: 1} has already been distributed.${prompt}'
   12782: 'The next printing of the ${item-singular: 2[2]} will begin on ${earthtime: 3}, allowing Diorama access for the period of ${earthtime: 0} to ${earthtime: 1}.${prompt}'
@@ -27228,45 +27228,45 @@ entries:
   12967: Sa prise de conscience l'amena à trahir le roi et son fils, et à s'opposer catégoriquement à tout projet d'ouverture des Portes du Paradis.${prompt}
   12968: Elle avait découvert nos origines en tant qu'enfants de Promathia...${prompt}
   12969: Mais tout n'a pas été résolu.${prompt}
-  12970: The Emptiness still seethes within the mothercrystals.${prompt}
-  12971: And the surviving Zilart yet cling desperately to their shadowy plan of returning to Paradise.${prompt}
-  12972: I gave up my life in Tavnazia almost thirty years ago to infiltrate the organization of the newly awakened Zilart.${prompt}
-  12973: But I have been unable to stem their vast power on my own.${prompt}
-  12974: However, we now have a common enemy in the Emptiness. For a time, the people of this age will require the aid of the ancients.${prompt}
-  12975: The ancients, too, will need your continuing help.${prompt}
-  12976: Surely the Dawn Maiden has bequeathed something of value to her younger kin.${prompt}
-  12977: I will find out what this may be, and speak with Archduke Kam'lanaut. He will heed my words.${prompt}
-  12978: I shall continue to watch over the world that you and your companions have fought so valiantly to protect.${prompt}
-  12979: Now that Nag'molada is gone and the wyrms have ceased their attacks, it is time to remind the Zilart of their true responsibility:${prompt}
-  12980: The safety of the mothercrystals and the battle against the Emptiness.${prompt}
-  12981: I will continue to monitor their actions as I watch over the world that you and your companions have fought so valiantly to protect.${prompt}
-  12982: There is one thing I'd like you to keep in mind, ${name-player}.${prompt}
-  12983: You were able to save the world and her people without sacrificing one or the other.${prompt}
-  12984: But do not misunderstand.${prompt}
-  12985: This possibility did not always exist.${prompt}
-  12986: It was only with the strength and faith of many people that such a path could open before you.${prompt}
+  12970: Le vide continue de sédimenter dans les cristaux-mères.${prompt}
+  12971: Et les Zilart survivants s'accrochent désespérément à leur plan obscur de retour au Paradis.${prompt}
+  12972: J'ai abandonné ma vie en Tavnazia il y a près de trente ans pour infiltrer l'organisation des Zilart nouvellement éveillés.${prompt}
+  12973: Mais je n'ai pas réussi à endiguer leur immense pouvoir. ${prompt}
+  12974: Cependant, nous avons maintenant un ennemi commun dans le Vide. Pour un temps, le peuple de cet âge aura besoin de l'aide des anciens.${prompt}
+  12975: Les anciens, eux aussi, auront besoin de votre aide continue.${prompt}
+  12976: La Vierge de l'Aube a sûrement légué quelque chose de précieux à sa jeune famille. ${prompt}
+  12977: Je vais découvrir de quoi il s'agit et m'entretenir avec l'archiduc Kam'lanaut. Il écoutera mes paroles.${prompt}
+  12978: Je continuerai à veiller sur le monde que vous et vos compagnons avez si vaillamment protégé.${prompt}
+  12979: Maintenant que Nag'molada est parti et que les wyrms ont cessé leurs attaques, il est temps de rappeler aux Zilart leur véritable responsabilité :${prompt}
+  12980: La sécurité des cristaux-mères et la lutte contre le Vide.${prompt}
+  12981: Je continuerai à surveiller leurs actions tout en veillant sur le monde que vous et vos compagnons avez si vaillamment protégé.${prompt}
+  12982: Il y a une chose que je voudrais que vous gardiez à l'esprit, ${name-player}.${prompt}
+  12983: Vous avez pu sauver le monde et son peuple sans sacrifier l'un ou l'autre.${prompt}
+  12984: Mais ne vous méprenez pas.${prompt}
+  12985: Cette possibilité n'a pas toujours existé.${prompt}
+  12986: Ce n'est qu'avec la force et la foi de nombreuses personnes qu'un tel chemin a pu s'ouvrir devant vous.${prompt}
   12987: |-
-    I have left with the owner of this tavern three rewards that may help you on your adventures.
-    Feel free to choose one.${prompt}
-  12988: Until our paths cross once more, ${name-player}.${prompt}
-  12989: Thank you, and farewell.${prompt}
-  12990: Looking for someone, are we?${prompt}
+    J'ai laissé au propriétaire de cette taverne trois récompenses qui pourraient vous aider dans vos aventures.
+    N'hésitez pas à en choisir une.${prompt}
+  12988: En attendant que nos chemins se croisent à nouveau, ${name-player}.${prompt}
+  12989: Merci et adieu.${prompt}
+  12990: On cherche quelqu'un, n'est-ce pas?${prompt}
   12991: |-
-    Gentleman by the name of ${choice: 0}[Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji]?
-    Now, where have I...
-    Ah, now I remember. Has a beard, if I'm not mistaken?${prompt}
+    Monsieur du nom de${choice: 0}[Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji]?
+    Maintenant, où ai-je...
+    Ah, maintenant je me souviens. Il porte la barbe, si je ne me trompe pas?${prompt}
   12992: |-
-    Lady by the name of ${choice: 0}[Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde]?
-    Now, where have I...
-    Ah, now I remember. Has bangs down to her eyes, if I'm not mistaken?${prompt}
+    Dame du nom de${choice: 0}[Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde]?
+    Maintenant, où ai-je...
+    Ah, maintenant je me souviens. Elle a une frange qui lui descend jusqu'aux yeux, si je ne me trompe pas?${prompt}
   12993: |-
-    Gentleman by the name of ${choice: 0}[Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant]?
-    Now, where have I...
-    Ah, now I remember. Has long sideburns, if I'm not mistaken?${prompt}
+    Monsieur au nom de${choice: 0}[Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant]?
+    Maintenant, où ai-je...
+    Ah, maintenant je me souviens. Il a de longues pattes, si je ne me trompe pas?${prompt}
   12994: |-
-    Lady by the name of ${choice: 0}[Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue]?
-    Now, where have I...
-    Ah, now I remember. Has her hair parted in the middle, one side longer than the other, if I'm not mistaken?${prompt}
+    Dame au nom de${choice: 0}[Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue]?
+    Maintenant, où ai-je...
+    Ah, maintenant je me souviens. Ses cheveux sont séparés au milieu, un côté plus long que l'autre, si je ne me trompe pas?${prompt}
   12995: |-
     Gentleman by the name of ${choice: 0}[Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga]?
     Now, where have I...
