@@ -256,140 +256,140 @@ entries:
   158: |-
     増えたポイント　${number: 0}
     増えたカウント　${number: 1}${prompt}
-  159: '${color-alt: 161}A mog tablet has been discovered in ${choice: 0}[West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth''s Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi''Tah/Ro''Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!'
+  159: '${color-alt: 161}Une tablette mog a été découverte à ${choice: 0}[West Ronfaure/East Ronfaure/le Plateau de La Theine/les Dunes de Valkurm/la Forêt de Jugner/les Plaines de Batallia/North Gustaberg/South Gustaberg/les Hautes Terres de Konschtat/les Marécages de Pashhow/les Champs de Rolanberry/Glacier de Beaucedine/Xarcabard/West Sarutabaruta/East Sarutabaruta/le Canyon de Tahrongi/la Péninsule de Buburimu/les Montagnes de Meriphataud/la Campagne de Sauromugue/Ile de Qufim/Dominion de Behemoth/Cape Teriggan/le Désert d’Altepa Est/le Sanctuaire de Zi’Tah/Ro’Maeve/la Jungle de Yuhtunga/la Jungle de Yhoator/le Désert d’Altepa Ouest/la Vallée des Souffrances]!'
   160: |-
-    ${color-alt: 161}The complete set of mog tablets has been restored to Ru'Lude Gardens!
-    The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
+    ${color-alt: 161}L'ensemble complet des tablettes mog a été restauré aux Jardins de Ru'Lude!
+    La magie ancienne du Roi Kupofried imprègne l'air pour infuser les aventuriers de cette région avec ses Super Kupouvoirs!
   161: |-
-    ${color-alt: 161}The strength of the ancient moogle magic has weakened, and the tablets have been scattered to the winds once more.
-    You can feel your Super Kupowers begin to fade away...
-  162: '${color-alt: 161}This area is currently affected by the Super Kupower: “Thrifty Transit”!'
-  163: '${color-alt: 161}This area is currently affected by the Super Kupower: “Martial Master”!'
-  164: '${color-alt: 161}This area is currently affected by the Super Kupower: “Blood of the Vampyr”!'
-  165: '${color-alt: 161}This area is currently affected by the Super Kupower: “Treasure Hound”!'
-  166: '${color-alt: 161}This area is currently affected by the Super Kupower: “Artisan''s Advantage”!'
-  167: '${color-alt: 161}This area is currently affected by the Super Kupower: “Myriad Mystery Boxes”!'
-  168: '${color-alt: 161}This area is currently affected by the Super Kupower: “Dilatory Digestion”!'
-  169: '${color-alt: 161}This area is currently affected by the Super Kupower: “Boundary Buster”!'
-  170: '${color-alt: 161}This area is currently affected by the Super Kupower: “Bountiful Bazaar”!'
-  171: '${color-alt: 161}This area is currently affected by the Super Kupower: “Swift Shoes”!'
-  172: '${color-alt: 161}This area is currently affected by the Super Kupower: “Crystal Caboodle”!'
+    ${color-alt: 161}La force de la magie ancienne des moogles s'est affaiblie, et les tablettes ont de nouveau été dispersées par les vents.
+    Vous pouvez sentir vos Super Kupouvoirs commencer à s'estomper...
+  162: '${color-alt: 161}Cette zone est actuellement affectée par le Super Kupouvoir : “Transit Économique”!'
+  163: '${color-alt: 161}Cette zone est actuellement affectée par le Super Kupouvoir : “Maître Martial”!'
+  164: '${color-alt: 161}Cette zone est actuellement affectée par le Super Kupouvoir : “Sang de Vampyr”!'
+  165: '${color-alt: 161}Cette zone est actuellement affectée par le Super Kupouvoir : “Chien de Trésor”!'
+  166: '${color-alt: 161}Cette zone est actuellement affectée par le Super Kupouvoir : “Avantage de l’Artisan”!'
+  167: '${color-alt: 161}Cette zone est actuellement affectée par le Super Kupouvoir : “Mystères Innombrables”!'
+  168: '${color-alt: 161}Cette zone est actuellement affectée par le Super Kupouvoir : “Digestion Retardée”!'
+  169: '${color-alt: 161}Cette zone est actuellement affectée par le Super Kupouvoir : “Briseur de Limites”!'
+  170: '${color-alt: 161}Cette zone est actuellement affectée par le Super Kupouvoir : “Bazaar Abondant”!'
+  171: '${color-alt: 161}Cette zone est actuellement affectée par le Super Kupouvoir : “Chaussures Rapides”!'
+  172: '${color-alt: 161}Cette zone est actuellement affectée par le Super Kupouvoir : “Cristaux à Profusion”!'
   173: |-
-    ${color-alt: 161}The ancient magic of King Kupofried fills the air, its glorious Super Kupowers bringing happiness and joy to the realm!
-    Visit the Explorer Moogle in Ru'Lude Gardens to find out more.
+    ${color-alt: 161}La magie ancienne du Roi Kupofried remplit l'air, ses glorieux Super Kupouvoirs apportant bonheur et joie au royaume !
+    Visitez l'Explorateur Moogle aux Jardins de Ru'Lude pour en savoir plus.
   174: |-
-    ${color-alt: 161}This area is currently affected by the Super Kupower: “${choice: 0}[/Thrifty Transit/Martial Master/Blood of the Vampyr/Treasure Hound/Artisan's Advantage/Myriad Mystery Boxes/Dilatory Digestion/Boundary Buster/Bountiful Bazaar/Swift Shoes/Crystal Caboodle]”!
-    This area is currently affected by the Super Kupower: “${choice: 1}[/Thrifty Transit/Martial Master/Blood of the Vampyr/Treasure Hound/Artisan's Advantage/Myriad Mystery Boxes/Dilatory Digestion/Boundary Buster/Bountiful Bazaar/Swift Shoes/Crystal Caboodle]”!
-    This area is currently affected by the Super Kupower: “${choice: 2}[/Thrifty Transit/Martial Master/Blood of the Vampyr/Treasure Hound/Artisan's Advantage/Myriad Mystery Boxes/Dilatory Digestion/Boundary Buster/Bountiful Bazaar/Swift Shoes/Crystal Caboodle]”!
-  175: The synergy furnace is currently claimed.${prompt}
+    ${color-alt: 161}Cette zone est actuellement affectée par le Super Kupouvoir : “${choice: 0}[/Transit Économique/Maître Martial/Sang de Vampyr/Chien de Trésor/Avantage de l'Artisan/Mystères Innombrables/Digestion Retardée/Briseur de Limites/Bazaar Abondant/Chaussures Rapides/Cristaux à Profusion]” !
+    Cette zone est actuellement affectée par le Super Kupouvoir : “${choice: 1}[/Transit Économique/Maître Martial/Sang de Vampyr/Chien de Trésor/Avantage de l'Artisan/Mystères Innombrables/Digestion Retardée/Briseur de Limites/Bazaar Abondant/Chaussures Rapides/Cristaux à Profusion]” !
+    Cette zone est actuellement affectée par le Super Kupouvoir : “${choice: 2}[/Transit Économique/Maître Martial/Sang de Vampyr/Chien de Trésor/Avantage de l'Artisan/Mystères Innombrables/Digestion Retardée/Briseur de Limites/Bazaar Abondant/Chaussures Rapides/Cristaux à Profusion]” !
+  175: Le fourneau de synergie est actuellement revendiqué.${prompt}
   176: |-
-    Claim usage of the furnace?
+    Revendiquer l'utilisation du fourneau ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  177: Your claim over the synergy furnace will expire in ten seconds.
+    Oui.
+    Non.${prompt}
+  177: Votre revendication sur le fourneau de synergie expirera dans dix secondes.
   178: |-
-    ${lettercase: 1}${keyitem-singular: 0[2]} set. You now have claim over the synergy furnace.
-    Please deposit your ingredients inside the furnace and initiate the synergy process within ${number: 1} minute${choice-plurality: 1}[/s].${prompt}
-  179: Please be aware that certain items are not suitable for use as synergy ingredients.${prompt}
+    ${lettercase: 1}${keyitem-singular: 0[2]} ensemble. Vous avez maintenant la revendication sur le fourneau de synergie.
+    Veuillez déposer vos ingrédients dans le fourneau et initier le processus de synergie dans un délai de ${number: 1} minute${choice-plurality: 1}[/s].${prompt}
+  179: Veuillez noter que certains objets ne conviennent pas comme ingrédients de synergie.${prompt}
   180: |-
-    You currently have claim over the synergy furnace.
-    Please deposit your ingredients inside the furnace and initiate the synergy process.${prompt}
-  181: 'The synergy furnace is currently in use by ${player: 1}.${prompt}'
-  182: 'The synergy furnace is currently in use by ${player: 2}.${prompt}'
-  183: 'The synergy furnace is currently in use by ${player: 3}.${prompt}'
-  184: 'The synergy furnace is currently in use by ${player: 4}.${prompt}'
-  185: 'The synergy furnace is currently in use by ${player: 5}.${prompt}'
+    Vous avez actuellement la revendication sur le fourneau de synergie.
+    Veuillez déposer vos ingrédients dans le fourneau et initier le processus de synergie.${prompt}
+  181: 'Le fourneau de synergie est actuellement utilisé par ${player: 1}.${prompt}'
+  182: 'Le fourneau de synergie est actuellement utilisé par ${player: 2}.${prompt}'
+  183: 'Le fourneau de synergie est actuellement utilisé par ${player: 3}.${prompt}'
+  184: 'Le fourneau de synergie est actuellement utilisé par ${player: 4}.${prompt}'
+  185: 'Le fourneau de synergie est actuellement utilisé par ${player: 5}.${prompt}'
   186: |-
-    ${number: 0} ${choice-plurality: 1}[minute has/minutes have] elapsed.
-    Your claim over the synergy furnace has expired.${prompt}
-  187: A member of your party already has claim over the synergy furnace.
-  188: 'Possession of ${keyitem-article: 0[2]} is required to use a synergy furnace.${prompt}'
+    ${number: 0} ${choice-plurality: 1}[minute est/minutes sont] écoulée${choice-plurality: 1}[e/es].
+    Votre revendication sur le fourneau de synergie a expiré.${prompt}
+  187: Un membre de votre groupe a déjà la revendication sur le fourneau de synergie.
+  188: 'Possession de ${keyitem-article: 0[2]} est requise pour utiliser un fourneau de synergie.${prompt}'
   189: |-
-    Unable to claim usage.
-    The synergy furnace is currently in use by ${player: 1}.
+    Impossible de revendiquer l'utilisation.
+    Le fourneau de synergie est actuellement utilisé par ${player: 1}.
   190: |-
-    Unable to claim usage.
-    The synergy furnace is currently in use by ${player: 2}.
+    Impossible de revendiquer l'utilisation.
+    Le fourneau de synergie est actuellement utilisé par ${player: 2}.
   191: |-
-    Unable to claim usage.
-    The synergy furnace is currently in use by ${player: 3}.
+    Impossible de revendiquer l'utilisation.
+    Le fourneau de synergie est actuellement utilisé par ${player: 3}.
   192: |-
-    Unable to claim usage.
-    The synergy furnace is currently in use by ${player: 4}.
+    Impossible de revendiquer l'utilisation.
+    Le fourneau de synergie est actuellement utilisé par ${player: 4}.
   193: |-
-    Unable to claim usage.
-    The synergy furnace is currently in use by ${player: 5}.
+    Impossible de revendiquer l'utilisation.
+    Le fourneau de synergie est actuellement utilisé par ${player: 5}.
   194: |-
-    You have lost your eligibility to use the synergy furnace.
-    The claim holding party member has left the party or the area.${prompt}
-  195: You have regained your eligibility to use the synergy furnace.${prompt}
+    Vous avez perdu votre éligibilité pour utiliser le fourneau de synergie.
+    Le membre du groupe ayant la revendication a quitté le groupe ou la zone.${prompt}
+  195: Vous avez retrouvé votre éligibilité pour utiliser le fourneau de synergie.${prompt}
   196: |-
-    Unable to proceed.
-    Possession of ${keyitem-article: 0[2]} is required to commence synergy.${prompt}
+    Impossible de procéder.
+    Possession de ${keyitem-article: 0[2]} est requise pour commencer la synergie.${prompt}
   197: |-
-    Unable to proceed.
-    ${lettercase: 1}${item-plural: 0[2]} are not suitable for use as synergy ingredients.${prompt}
-  198: A synergy recipe does not exist for that combination of materials.${prompt}
-  199: That recipe is impossible at your synergy skill level.${prompt}
-  200: 'That recipe is impossible at your ${choice: 0}[fishing/woodworking/smithing/goldsmithing/clothcraft/leathercraft/bonecraft/alchemy/cooking] skill level.${prompt}'
+    Impossible de procéder.
+    ${lettercase: 1}${item-plural: 0[2]} ne conviennent pas comme ingrédients de synergie.${prompt}
+  198: Une recette de synergie n'existe pas pour cette combinaison de matériaux.${prompt}
+  199: Cette recette est impossible à votre niveau de compétence en synergie.${prompt}
+  200: 'Cette recette est impossible à votre niveau de compétence en ${choice: 0}[pêche/menuiserie/forgeron/orfèvrerie/tissage/travail du cuir/artisanat des os/alchimie/cuisine].${prompt}'
   201: |-
-    Element and target value:
+    Élément et valeur cible :
     ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 1}
   202: |-
-    Elements and target values:
+    Éléments et valeurs cibles :
     ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 1}
     ${choice: 2}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 3}
   203: |-
-    Elements and target values:
+    Éléments et valeurs cibles :
     ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 1}
     ${choice: 2}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 3}
   204: |-
     ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 1}
     ${choice: 2}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 3}
   205: |-
-    Synergy rank: ${choice: 29}[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]
-    Objective: ${number: 1} ${item-given-plurality: 1[2], 0[2]}
-    Difficulty: N/A${prompt}
+    Rang de synergie : ${choice: 29}[Amateur/Recrue/Initié/Novice/Apprenti/Compagnon/Artisan/Expert/Maître/Grand Maître/Légende]
+    Objectif : ${number: 1} ${item-given-plurality: 1[2], 0[2]}
+    Difficulté : N/A${prompt}
   206: |-
-    Synergy rank: ${choice: 29}[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]
-    Objective: ${number: 1} ${item-given-plurality: 1[2], 0[2]}
-    Difficulty: ${choice: 2}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 3}${prompt}
+    Rang de synergie : ${choice: 29}[Amateur/Recrue/Initié/Novice/Apprenti/Compagnon/Artisan/Expert/Maître/Grand Maître/Légende]
+    Objectif : ${number: 1} ${item-given-plurality: 1[2], 0[2]}
+    Difficulté : ${choice: 2}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 3}${prompt}
   207: |-
-    Synergy rank: ${choice: 29}[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]
-    Objective: ${number: 1} ${item-given-plurality: 1[2], 0[2]}
-    Difficulty: ${choice: 2}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 3} ${choice: 4}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 5}${prompt}
+    Rang de synergie : ${choice: 29}[Amateur/Recrue/Initié/Novice/Apprenti/Compagnon/Artisan/Expert/Maître/Vétéran/Expert/Autorité/Luminaires/Maître/Grand Maître/Légende]
+    Objectif : ${number: 1} ${item-given-plurality: 1[2], 0[2]}
+    Difficulté : ${choice: 2}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 3} ${choice: 4}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 5}${prompt}
   208: |-
-    Synergy rank: ${choice: 29}[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]
-    Objective: ${number: 1} ${item-given-plurality: 1[2], 0[2]}
-    Difficulty: ${choice: 2}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 3} ${choice: 4}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 5} ${choice: 6}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 7}${prompt}
+    Rang de synergie : ${choice: 29}[Amateur/Recrue/Initié/Novice/Apprenti/Compagnon/Artisan/Expert/Maître/Vétéran/Expert/Autorité/Luminaires/Maître/Grand Maître/Légende]
+    Objectif : ${number: 1} ${item-given-plurality: 1[2], 0[2]}
+    Difficulté : ${choice: 2}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 3} ${choice: 4}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 5} ${choice: 6}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 7}${prompt}
   209: |-
-    Synergy rank: ${choice: 29}[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]
-    Objective: ${number: 1} ${item-given-plurality: 1[2], 0[2]}
-    Difficulty: ${choice: 2}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 3} ${choice: 4}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 5} ${choice: 6}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 7} ${choice: 8}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 9}${prompt}
+    Rang de synergie : ${choice: 29}[Amateur/Recrue/Initié/Novice/Apprenti/Compagnon/Artisan/Expert/Maître/Vétéran/Expert/Autorité/Luminaires/Maître/Grand Maître/Légende]
+    Objectif : ${number: 1} ${item-given-plurality: 1[2], 0[2]}
+    Difficulté : ${choice: 2}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 3} ${choice: 4}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 5} ${choice: 6}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 7} ${choice: 8}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 9}${prompt}
   210: |-
-    Synergy rank: ${choice: 29}[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]
-    Objective: ${number: 1} ${item-given-plurality: 1[2], 0[2]}
-    Difficulty: ${choice: 2}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 3} ${choice: 4}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 5} ${choice: 6}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 7} ${choice: 8}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 9}
+    Rang de synergie : ${choice: 29}[Amateur/Recrue/Initié/Novice/Apprenti/Compagnon/Artisan/Expert/Maître/Vétéran/Expert/Autorité/Luminaires/Maître/Grand Maître/Légende]
+    Objectif : ${number: 1} ${item-given-plurality: 1[2], 0[2]}
+    Difficulté : ${choice: 2}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 3} ${choice: 4}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 5} ${choice: 6}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 7} ${choice: 8}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 9}
                 ${choice: 10}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 11}${prompt}
   211: |-
-    Synergy rank: ${choice: 29}[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]
-    Objective: ${number: 1} ${item-given-plurality: 1[2], 0[2]}
-    Difficulty: ${choice: 2}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] ${number: 3} ${choice: 4}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 5} ${choice: 6}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] ${number: 7} ${choice: 8}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 9}
+    Rang de synergie : ${choice: 29}[Amateur/Recrue/Initié/Novice/Apprenti/Compagnon/Artisan/Expert/Maître/Vétéran/Expert/Autorité/Luminaires/Maître/Grand Maître/Légende]
+    Objectif : ${number: 1} ${item-given-plurality: 1[2], 0[2]}
+    Difficulté : ${choice: 2}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] ${number: 3} ${choice: 4}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 5} ${choice: 6}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] ${number: 7} ${choice: 8}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 9}
                 ${choice: 10}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] ${number: 11} ${choice: 12}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 13}${prompt}
   212: |-
-    Synergy rank: ${choice: 29}[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]
-    Objective: ${number: 1} ${item-given-plurality: 1[2], 0[2]}
-    Difficulty: ${choice: 2}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 3} ${choice: 4}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 5} ${choice: 6}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 7} ${choice: 8}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 9}
+    Rang de synergie : ${choice: 29}[Amateur/Recrue/Initié/Novice/Apprenti/Compagnon/Artisan/Expert/Maître/Vétéran/Expert/Autorité/Luminaires/Maître/Grand Maître/Légende]
+    Objectif : ${number: 1} ${item-given-plurality: 1[2], 0[2]}
+    Difficulté : ${choice: 2}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 3} ${choice: 4}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 5} ${choice: 6}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 7} ${choice: 8}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 9}
                 ${choice: 10}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 11} ${choice: 12}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 13} ${choice: 14}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 15}${prompt}
   213: |-
-    Synergy rank: ${choice: 29}[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]
-    Objective: ${number: 1} ${item-given-plurality: 1[2], 0[2]}
-    Difficulty: ${icon: fire}${number: 3} ${icon: ice}${number: 5} ${icon: wind}${number: 7} ${icon: earth}${number: 9}
+    Rang de synergie : ${choice: 29}[Amateur/Recrue/Initié/Novice/Apprenti/Compagnon/Artisan/Expert/Maître/Vétéran/Expert/Autorité/Luminaires/Maître/Grand Maître/Légende]
+    Objectif : ${number: 1} ${item-given-plurality: 1[2], 0[2]}
+    Difficulté : ${icon: fire}${number: 3} ${icon: ice}${number: 5} ${icon: wind}${number: 7} ${icon: earth}${number: 9}
                 ${icon: lightning}${number: 11} ${icon: water}${number: 13} ${icon: light}${number: 15} ${icon: dark}${number: 17}${prompt}
-  214: '${lettercase: 1}${article} ${item-article: 8[2]} will be used to etch an aperture on the ${item-singular: 3[2]}.${prompt}'
+  214: '${lettercase: 1}${article} ${item-article: 8[2]} sera utilisé pour graver une ouverture sur le ${item-singular: 3[2]}.${prompt}'
   215: |-
-    Select elemental alignment.
+    Sélectionnez l'alignement élémentaire.
     ${selection-lines}
     ${icon: fire}
     ${icon: ice}
@@ -399,200 +399,200 @@ entries:
     ${icon: water}
     ${icon: light}
     ${icon: dark}
-    Cancel.${prompt}
+    Annuler.${prompt}
   216: |-
-    Confirm: ${lettercase: 1}${item-singular: 8[2]}${choice: 9}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]
+    Confirmer : ${lettercase: 1}${item-singular: 8[2]}${choice: 9}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]
     ${selection-lines}
-    Yes.
-    Redo.${prompt}
-  217: This item cannot house any more apertures.${prompt}
-  218: 'The ${item-singular: 8[2]} will be embedded in the ${item-singular: 3[2]}.${prompt}'
+    Oui.
+    Recommencer.${prompt}
+  217: Cet objet ne peut pas contenir d'autres ouvertures.${prompt}
+  218: 'Le ${item-singular: 8[2]} sera intégré dans le ${item-singular: 3[2]}.${prompt}'
   219: |-
-    Select target aperture.
+    Sélectionnez l'ouverture cible.
     ${selection-lines}
-    ${lettercase: 1}${item-singular: 8[2]}${choice: 9}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] ${choice: 12}[(Unused)/(Used)].
-    ${lettercase: 1}${item-singular: 8[2]}${choice: 10}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] ${choice: 13}[(Unused)/(Used)].
-    ${lettercase: 1}${item-singular: 8[2]}${choice: 11}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] ${choice: 14}[(Unused)/(Used)].
-    Cancel.${prompt}
+    ${lettercase: 1}${item-singular: 8[2]}${choice: 9}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] ${choice: 12}[(Non utilisée)/(Utilisée)].
+    ${lettercase: 1}${item-singular: 8[2]}${choice: 10}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] ${choice: 13}[(Non utilisée)/(Utilisée)].
+    ${lettercase: 1}${item-singular: 8[2]}${choice: 11}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] ${choice: 14}[(Non utilisée)/(Utilisée)].
+    Annuler.${prompt}
   220: |-
-    An evolith is already embedded in this aperture.
-    Remove and replace?${prompt}
+    Une évolithe est déjà intégrée dans cette ouverture.
+    Retirer et remplacer ?${prompt}
   221: |-
-    Embed in the following aperture?
-    ${lettercase: 1}${item-singular: 8[2]}${choice: 9}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] ${choice: 12}[(Unused)/(Used)]
+    Intégrer dans l'ouverture suivante ?
+    ${lettercase: 1}${item-singular: 8[2]}${choice: 9}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] ${choice: 12}[(Non utilisée)/(Utilisée)]
     ${selection-lines}
-    Yes.
-    Redo.${prompt}
-  222: There are no compatible apertures on this item.${prompt}
-  223: '${lettercase: 1}${article} ${item-article: 3[2]} will be used to remove all apertures from the ${item-singular: 8[2]}.${prompt}'
+    Oui.
+    Recommencer.${prompt}
+  222: Il n'y a aucune ouverture compatible sur cet objet.${prompt}
+  223: '${lettercase: 1}${article} ${item-article: 3[2]} sera utilisé pour retirer toutes les ouvertures du ${item-singular: 8[2]}.${prompt}'
   224: |-
-    Remove all apertures?
+    Retirer toutes les ouvertures ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  225: There are no removable apertures on this item.
-  226: '${lettercase: 1}${article} ${item-article: 3[2]} will be used to remove the most recently etched aperture from the ${item-singular: 8[2]}.${prompt}'
+    Oui.
+    Non.${prompt}
+  225: Il n'y a aucune ouverture amovible sur cet objet.
+  226: '${lettercase: 1}${article} ${item-article: 3[2]} sera utilisé pour retirer la plus récente ouverture gravée du ${item-singular: 8[2]}.${prompt}'
   227: |-
-    Commence synergy?
+    Commencer la synergie ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  228: Commencing synergy process.${prompt}
+    Oui.
+    Non.${prompt}
+  228: Commencement du processus de synergie.${prompt}
   229: |-
-    Internal elemental balance:
+    Équilibre élémentaire interne :
     ${icon: fire}${number-2-digits: 0} ${icon: ice}${number-2-digits: 1} ${icon: wind}${number-2-digits: 2} ${icon: earth}${number-2-digits: 3} ${icon: lightning}${number-2-digits: 4} ${icon: water}${number-2-digits: 5} ${icon: light}${number-2-digits: 6} ${icon: dark}${number-2-digits: 7}
   230: '${color-alt: 141}${icon: fire}${number-2-digits: 0} ${icon: ice}${number-2-digits: 1} ${icon: wind}${number-2-digits: 2} ${icon: earth}${number-2-digits: 3} ${icon: lightning}${number-2-digits: 4} ${icon: water}${number-2-digits: 5} ${icon: light}${number-2-digits: 6} ${icon: dark}${number-2-digits: 7}'
-  231: '${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] elemental power ${choice: 1}[is far off/is moving towards/has nearly reached/has reached/has precisely reached/is perfectly aligned with] the target value.'
-  232: 'The synergy image ${choice: 0}[eludes you/is taking form/is nearly formed/has been formed/has been accurately formed/has been perfectly formed].'
+  231: '${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] la puissance élémentaire ${choice: 1}[est très éloignée/se rapproche/a presque atteint/a atteint/a atteint précisément/est parfaitement alignée avec] la valeur cible.'
+  232: 'L’image de synergie ${choice: 0}[vous échappe/prend forme/est presque formée/a été formée/a été formée avec précision/a été formée parfaitement].'
   233: |-
-    Internal pressure: ${number: 1} Pz/Im
-    Impurity ratio: ${number: 0}%
-  234: '${color-alt: 141}Anomaly detected in ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] elemental power. Explosion imminent!'
+    Pression interne : ${number: 1} Pz/Im
+    Taux d'impuretés : ${number: 0}%
+  234: '${color-alt: 141}Anomalie détectée dans la puissance élémentaire ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]. Explosion imminente !'
   235: |-
-    ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] elemental power has overloaded!
-    ${choice: 1}[A minimal amount of/A small amount of/A moderate amount of/A significant amount of/A large amount of/All] ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] elemental power has been lost.
-  236: 'Some ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fewell has been lost.'
-  237: 'Some ${icon: fire}, ${icon: wind}, ${icon: lightning}, and ${icon: light} fewell have been lost.'
-  238: 'Some ${icon: ice}, ${icon: earth}, ${icon: water}, and ${icon: dark} fewell have been lost.'
-  239: The synergy image has taken form!
+    La puissance élémentaire ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] a surchargé !
+    ${choice: 1}[Une quantité minimale/Une petite quantité/Une quantité modérée/Une quantité significative/Une grande quantité/Toute] de puissance élémentaire ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] a été perdue.
+  236: 'Une partie du fewell ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] a été perdue.'
+  237: 'Une partie des fewells ${icon: fire}, ${icon: wind}, ${icon: lightning}, et ${icon: light} a été perdue.'
+  238: 'Une partie des fewells ${icon: ice}, ${icon: earth}, ${icon: water}, et ${icon: dark} a été perdue.'
+  239: L'image de synergie a pris forme !
   240: |-
-    The finished product has taken form!
-    Select “End synergy” now to retrieve it!
-  241: The synergy image has grown blurry...
+    Le produit fini a pris forme !
+    Sélectionnez « Terminer la synergie » maintenant pour le récupérer !
+  241: L'image de synergie est devenue floue...
   242: |-
-    Select an action.
+    Sélectionnez une action.
     ${selection-lines}
-    Lv.${number: 0}: Feed fewell.
-    Operate furnace.
-    View furnace readings.
-    End synergy.
-    Review objective.
-    Toggle command confirmation ${choice: 1}[off/on].
-    Close menu.${prompt}
+    Lv.${number: 0} : Nourrir avec du fewell.
+    Utiliser le fourneau.
+    Voir les relevés du fourneau.
+    Terminer la synergie.
+    Réviser l'objectif.
+    Basculer la confirmation de commande ${choice: 1}[désactivée/activée].
+    Fermer le menu.${prompt}
   243: |-
-    Examine the synergy furnace to access the operating menu.
-    Fewell can be fed by trading it directly to the furnace.${prompt}
+    Examinez le fourneau de synergie pour accéder au menu de fonctionnement.
+    Le fewell peut être nourri en le donnant directement au fourneau.${prompt} 
   244: |-
-    Select an action/skill.
+    Sélectionnez une action/compétence.
     ${selection-lines}
-    Lv.${number: 0}: Thwack furnace.
-    Lv.${number: 1}: Operate pressure handle.
-    Lv.${number: 2}: Operate safety lever.
-    Lv.${number: 3}: Repair furnace.
-    Lv.${number: 4}: Recycle strewn fewell.
-    Fishing: Lunar Smarts.
-    Fishing: Precision Thwack.
-    Woodworking: Cyclical Smarts.
-    Woodworking: Earth Affinity.
-    Smithing: Combustive Smarts.
-    Smithing: Fire Affinity.
-    Goldsmithing: Engraver's Touch.
-    Goldsmithing: Wind Affinity.
-    Clothcraft: Restorer's Touch.
-    Clothcraft: Lightning Affinity.
-    Leathercraft: Pressurization Smarts.
-    Leathercraft: Ice Affinity.
-    Bonecraft: Carbonization Smarts.
-    Bonecraft: Dark Affinity.
-    Alchemy: Alchemical Smarts.
-    Alchemy: Light Affinity.
-    Cooking: Heating Smarts.
-    Cooking: Water Affinity.
-    DEBUG：Forced perfection.
-    DEBUG：Set level (Requires ${article} ${item-article: 39[2]}).
-    DEBUG: Set pressure/impurities.
-    DEBUG: Something good.
-    Cancel.${prompt}
+    Lv.${number: 0} : Cogner le fourneau.
+    Lv.${number: 1} : Utiliser la poignée de pression.
+    Lv.${number: 2} : Utiliser le levier de sécurité.
+    Lv.${number: 3} : Réparer le fourneau.
+    Lv.${number: 4} : Recycler le fewell éparpillé.
+    Pêche : Astuces lunaires.
+    Pêche : Coup précis.
+    Menuiserie : Astuces cycliques.
+    Menuiserie : Affinité avec la terre.
+    Forge : Astuces combustives.
+    Forge : Affinité avec le feu.
+    Orfèvrerie : Toucher de l'graveur.
+    Orfèvrerie : Affinité avec le vent.
+    Couture : Toucher du restaurateur.
+    Couture : Affinité avec la foudre.
+    Travail du cuir : Astuces de pressurisation.
+    Travail du cuir : Affinité avec la glace.
+    Travail des os : Astuces de carbonisation.
+    Travail des os : Affinité avec les ténèbres.
+    Alchimie : Astuces alchimiques.
+    Alchimie : Affinité avec la lumière.
+    Cuisine : Astuces de chauffage.
+    Cuisine : Affinité avec l'eau.
+    DEBUG：Perfection forcée.
+    DEBUG：Définir le niveau (Nécessite ${article} ${item-article: 39[2]}).
+    DEBUG : Définir pression/impuretés.
+    DEBUG : Quelque chose de bien.
+    Annuler.${prompt}
   245: |-
-    Feed which fewell? (current stock)
+    Alimenter quel fourneau ? (Stock actuel)
     ${selection-lines}
-    ${icon: fire} fewell (${number: 0}).
-    ${icon: ice} fewell (${number: 1}).
-    ${icon: wind} fewell (${number: 2}).
-    ${icon: earth} fewell (${number: 3}).
-    ${icon: lightning} fewell (${number: 4}).
-    ${icon: water} fewell (${number: 5}).
-    ${icon: light} fewell (${number: 6}).
-    ${icon: dark} fewell (${number: 7}).
-    Cancel.${prompt}
+    Fewell ${icon: fire} (${number: 0}).
+    Fewell ${icon: ice} (${number: 1}).
+    Fewell ${icon: wind} (${number: 2}).
+    Fewell ${icon: earth} (${number: 3}).
+    Fewell ${icon: lightning} (${number: 4}).
+    Fewell ${icon: water} (${number: 5}).
+    Fewell ${icon: light} (${number: 6}).
+    Fewell ${icon: dark} (${number: 7}).
+    Annuler.${prompt}
   246: |-
-    You feed the furnace ${number: 1} ${choice-plurality: 1}[portion/portions] of ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fewell.
-    ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] elemental power climbs to ${number: 2}.
+    Vous alimentez le fourneau avec ${number: 1} ${choice-plurality: 1}[portion/portions] de fourneau ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}].
+    La puissance élémentaire ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] grimpe à ${number: 2}.
   247: |-
-    An elemental surge occurs!
-    The ${number: 1} ${choice-plurality: 1}[portion/portions] of ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fewell fed ${choice-plurality: 1}[causes/cause] ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] elemental power to rise to ${number: 2}!
-  248: 'You expended ${number: 1} ${choice-plurality: 1}[portion/portions] of ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fewell (${number: 2} ${choice-plurality: 2}[portion/portions] remaining).'
-  249: Your furnace lost a small amount of durability.
-  250: There was no impact on fewell reserves or furnace durability.
+    Une poussée élémentaire se produit !
+    La ${number: 1} ${choice-plurality: 1}[portion/portions] de fourneau ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] nourrie ${choice-plurality: 1}[cause/cause] l'élévation de la puissance élémentaire ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] à ${number: 2} !
+  248: 'Vous avez dépensé ${number: 1} ${choice-plurality: 1}[portion/portions] de fourneau ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] (${number: 2} ${choice-plurality: 2}[portion/portions] restante(s)).'
+  249: Votre fourneau a perdu une petite quantité de durabilité.
+  250: Il n'y a eu aucun impact sur les réserves de fourneau ou la durabilité du fourneau.
   251: |-
-    Apply a measured thwack to the furnace to prevent explosion.
-    Cost: Reduction in furnace durability.
+    Appliquez un coup de marteau mesuré sur le fourneau pour éviter une explosion.
+    Coût : Réduction de la durabilité du fourneau.
   252: |-
-    Operate the pressure handle to lower internal pressure and reduce the likelihood of an explosion.
-    Cost: ${number: 1} ${choice-plurality: 1}[portion/portions] of ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fewell (${number: 2} ${choice-plurality: 2}[portion/portions] remaining).
+    Actionnez la poignée de pression pour abaisser la pression interne et réduire le risque d'explosion.
+    Coût : ${number: 1} ${choice-plurality: 1}[portion/portion] de fourneau ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] (${number: 2} ${choice-plurality: 2}[portion/portions] restante(s)).
   253: |-
-    Operate the safety lever to purge impurities from inside the furnace and reduce the likelihood of an explosion.
-    Cost: ${number: 1} ${choice-plurality: 1}[portion/portions] of ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fewell (${number: 2} ${choice-plurality: 2}[portion/portions] remaining).
+    Actionnez le levier de sécurité pour purger les impuretés de l'intérieur du fourneau et réduire le risque d'explosion.
+    Coût : ${number: 1} ${choice-plurality: 1}[portion/portion] de fourneau ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] (${number: 2} ${choice-plurality: 2}[portion/portions] restante(s)).
   254: |-
-    Restore the furnace's durability.
-    Cost: ${number: 1} ${choice-plurality: 1}[portion/portions] of ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fewell (${number: 2} ${choice-plurality: 2}[portion/portions] remaining).
+    Restaurez la durabilité du fourneau.
+    Coût : ${number: 1} ${choice-plurality: 1}[portion/portion] de fourneau ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] (${number: 2} ${choice-plurality: 2}[portion/portions] restante(s)).
   255: |-
-    Gather and feed explosion-strewn fewell fragments to the furnace. Increases the quantity of cinder obtained as a by-product.
-    Cost: Nothing.
+    Rassemblez et nourrissez les fragments de fourneau éparpillés par l'explosion au fourneau. Augmente la quantité de cendre obtenue comme sous-produit.
+    Coût : Rien.
   256: |-
-    Temporarily increase the likelihood of an elemental surge. Effect varies depending on the moon phase and day of the week.
-    Cost: ${number: 1} ${choice-plurality: 1}[portion/portions] of ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fewell (${number: 2} ${choice-plurality: 2}[portion/portions] remaining).
+    Augmentez temporairement la probabilité d'une poussée élémentaire. L'effet varie en fonction de la phase lunaire et du jour de la semaine.
+    Coût : ${number: 1} ${choice-plurality: 1}[portion/portion] de fourneau ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] (${number: 2} ${choice-plurality: 2}[portion/portions] restante(s)).
   257: |-
-    Apply a precisely aimed blow to the furnace to prevent an explosion, with results superior to the standard thwack.
-    Cost: Slight reduction in furnace durability.
+    Appliquez un coup précis sur le fourneau pour éviter une explosion, avec des résultats supérieurs au simple coup de marteau standard.
+    Coût : Légère réduction de la durabilité du fourneau.
   258: |-
-    Deftly manipulate the furnace's internal elemental balance to temporarily mitigate the rate of wear.
-    Cost: ${number: 1} ${choice-plurality: 1}[portion/portions] of ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fewell (${number: 2} ${choice-plurality: 2}[portion/portions] remaining).
+    Manipulez habilement l'équilibre élémentaire interne du fourneau pour atténuer temporairement le taux d'usure.
+    Coût : ${number: 1} ${choice-plurality: 1}[portion/portion] de fourneau ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] (${number: 2} ${choice-plurality: 2}[portion/portions] restante(s)).
   259: |-
-    Keenly observe the flow of elements to prevent ${icon: earth}-based explosions.
-    Cost: ${number: 1} ${choice-plurality: 1}[portion/portions] of ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fewell (${number: 2} ${choice-plurality: 2}[portion/portions] remaining).
+    Observer attentivement le flux des éléments pour éviter les explosions à base de ${icon: earth}.
+    Coût : ${number: 1} ${choice-plurality: 1}[portion/portions] de ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fourneau (${number: 2} ${choice-plurality: 2}[portion/portions] restantes).
   260: |-
-    Temporarily improve fewell combustion rate.
-    Cost: ${number: 1} ${choice-plurality: 1}[portion/portions] of ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fewell (${number: 2} ${choice-plurality: 2}[portion/portions] remaining).
+    Améliorer temporairement le taux de combustion du fourneau.
+    Coût : ${number: 1} ${choice-plurality: 1}[portion/portions] de ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fourneau (${number: 2} ${choice-plurality: 2}[portion/portions] restantes).
   261: |-
-    Keenly observe the flow of elements to prevent ${icon: fire}-based explosions.
-    Cost: ${number: 1} ${choice-plurality: 1}[portion/portions] of ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fewell (${number: 2} ${choice-plurality: 2}[portion/portions] remaining).
+    Observer attentivement le flux des éléments pour éviter les explosions à base de ${icon: fire}.
+    Coût: ${number: 1} ${choice-plurality: 1}[portion/portions] de ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fourneau (${number: 2} ${choice-plurality: 2}[portion/portions] restantes).
   262: |-
-    Evenly disperse the furnace's internal stress to delay a looming explosion.
-    Cost: ${number: 1} ${choice-plurality: 1}[portion/portions] of ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fewell (${number: 2} ${choice-plurality: 2}[portion/portions] remaining).
+    Répartir uniformément le stress interne du fourneau pour retarder une explosion imminente.
+    Coût: ${number: 1} ${choice-plurality: 1}[portion/portions] de ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fourneau (${number: 2} ${choice-plurality: 2}[portion/portions] restantes).
   263: |-
-    Keenly observe the flow of elements to prevent ${icon: wind}-based explosions.
-    Cost: ${number: 1} ${choice-plurality: 1}[portion/portions] of ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fewell (${number: 2} ${choice-plurality: 2}[portion/portions] remaining).
+    Observer attentivement le flux des éléments pour éviter les explosions à base de ${icon: wind}.
+    Coût: ${number: 1} ${choice-plurality: 1}[portion/portions] de ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fourneau (${number: 2} ${choice-plurality: 2}[portion/portions] restantes).
   264: |-
-    Temporarily suppress fluctuations in internal pressure.
-    Cost: ${number: 1} ${choice-plurality: 1}[portion/portions] of ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fewell (${number: 2} ${choice-plurality: 2}[portion/portions] remaining).
+    Supprimer temporairement les fluctuations de pression interne.
+    Coût: ${number: 1} ${choice-plurality: 1}[portion/portions] de ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fourneau (${number: 2} ${choice-plurality: 2}[portion/portions] restantes).
   265: |-
-    Keenly observe the flow of elements to prevent ${icon: ice}-based explosions.
-    Cost: ${number: 1} ${choice-plurality: 1}[portion/portions] of ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fewell (${number: 2} ${choice-plurality: 2}[portion/portions] remaining).
+    Observer attentivement le flux des éléments pour éviter les explosions à base de ${icon: ice}.
+    Coût: ${number: 1} ${choice-plurality: 1}[portion/portions] de ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fourneau (${number: 2} ${choice-plurality: 2}[portion/portions] restantes).
   266: |-
-    Temporarily increase the likelihood of an elemental surge.
-    Cost: ${number: 1} ${choice-plurality: 1}[portion/portions] of ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fewell (${number: 2} ${choice-plurality: 2}[portion/portions] remaining).
+    Augmenter temporairement la probabilité d'une vague élémentaire.
+    Coût: ${number: 1} ${choice-plurality: 1}[portion/portions] de ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fourneau (${number: 2} ${choice-plurality: 2}[portion/portions] restantes).
   267: |-
-    Keenly observe the flow of elements to prevent ${icon: dark}-based explosions.
-    Cost: ${number: 1} ${choice-plurality: 1}[portion/portions] of ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fewell (${number: 2} ${choice-plurality: 2}[portion/portions] remaining).
+    Observer attentivement le flux des éléments pour éviter les explosions à base de ${icon: dark}.
+    Coût: ${number: 1} ${choice-plurality: 1}[portion/portions] de ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fourneau (${number: 2} ${choice-plurality: 2}[portion/portions] restantes).
   268: |-
-    Restore furnace durability by a significant amount.
-    Cost: ${number: 1} ${choice-plurality: 1}[portion/portions] of ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fewell (${number: 2} ${choice-plurality: 2}[portion/portions] remaining).
+    Restaurer la durabilité du fourneau de manière significative.
+    Coût: ${number: 1} ${choice-plurality: 1}[portion/portions] de ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fourneau (${number: 2} ${choice-plurality: 2}[portion/portions] restantes).
   269: |-
-    Keenly observe the flow of elements to prevent ${icon: lightning}-based explosions.
-    Cost: ${number: 1} ${choice-plurality: 1}[portion/portions] of ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fewell (${number: 2} ${choice-plurality: 2}[portion/portions] remaining).
+    Observer attentivement le flux des éléments pour éviter les explosions à base de ${icon: lightning}.
+    Coût: ${number: 1} ${choice-plurality: 1}[portion/portions] de ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fourneau (${number: 2} ${choice-plurality: 2}[portion/portions] restantes).
   270: |-
-    Temporarily suppress the force of explosions.
-    Cost: ${number: 1} ${choice-plurality: 1}[portion/portions] of ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fewell (${number: 2} ${choice-plurality: 2}[portion/portions] remaining).
+    Supprimer temporairement la force des explosions.
+    Coût: ${number: 1} ${choice-plurality: 1}[portion/portions] de ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fourneau (${number: 2} ${choice-plurality: 2}[portion/portions] restantes).
   271: |-
-    Keenly observe the flow of elements to prevent ${icon: light}-based explosions.
-    Cost: ${number: 1} ${choice-plurality: 1}[portion/portions] of ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fewell (${number: 2} ${choice-plurality: 2}[portion/portions] remaining).
+    Observer attentivement le flux des éléments pour éviter les explosions à base de ${icon: light}.
+    Coût: ${number: 1} ${choice-plurality: 1}[portion/portions] de ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fourneau (${number: 2} ${choice-plurality: 2}[portion/portions] restantes).
   272: |-
     Gradually purge the furnace of impurities.
-    Cost: ${number: 1} ${choice-plurality: 1}[portion/portions] of ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fewell (${number: 2} ${choice-plurality: 2}[portion/portions] remaining).
+    Cost: ${number: 1} ${choice-plurality: 1}[portion/portions] of ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fourneau (${number: 2} ${choice-plurality: 2}[portion/portions] remaining).
   273: |-
     Keenly observe the flow of elements to prevent ${icon: water}-based explosions.
-    Cost: ${number: 1} ${choice-plurality: 1}[portion/portions] of ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fewell (${number: 2} ${choice-plurality: 2}[portion/portions] remaining).
+    Cost: ${number: 1} ${choice-plurality: 1}[portion/portions] of ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fourneau (${number: 2} ${choice-plurality: 2}[portion/portions] remaining).
   274: |-
     Perform action?
     ${selection-lines}
@@ -613,10 +613,10 @@ entries:
     Your attempt to purge impurities from the synergy furnace has failed.
     An unsettling noise can be heard from within...
   285: |-
-    You successfully gather the strewn fewell fragments and feed them to the synergy furnace.
+    You successfully gather the strewn fourneau fragments and feed them to the synergy furnace.
     The quantity of obtainable cinder increases to ${number: 0}%.
-  286: The strewn fewell fragments you fed to the furnace did not seem to have any effect...
-  287: The floor about the furnace is free of fewell fragments.
+  286: The strewn fourneau fragments you fed to the furnace did not seem to have any effect...
+  287: The floor about the furnace is free of fourneau fragments.
   288: You observe no changes.
   289: '${color-alt: 141}Lunar Smarts have taken effect!'
   290: '${color-alt: 141}Carbonization Smarts have taken effect!'
@@ -627,7 +627,7 @@ entries:
   295: '${color-alt: 141}The synergy furnace is incurring less damage over time.'
   296: '${color-alt: 141}The effect of Cyclical Smarts wears off.'
   297: '${color-alt: 141}Combustive Smarts have taken effect!'
-  298: '${color-alt: 141}The fewell combustion rate has improved.'
+  298: '${color-alt: 141}The fourneau combustion rate has improved.'
   299: '${color-alt: 141}The effect of Combustive Smarts wears off.'
   300: '${color-alt: 141}Engraver''s Touch has taken effect!'
   301: '${color-alt: 141}The synergy furnace has become less prone to explode.'
@@ -641,16 +641,16 @@ entries:
   309: '${color-alt: 141}Heating Smarts have taken effect.'
   310: '${color-alt: 141}The amount of impurities inside the furnace is gradually decreasing.'
   311: '${color-alt: 141}The effect of Heating Smarts wears off.'
-  312: '${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fewell fed.'
+  312: '${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fourneau fed.'
   313: '${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] elemental power has begun leaking from the furnace.'
   314: '${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] elemental power is no longer leaking.'
   315: |-
-    Total fewell fed:
+    Total fourneau fed:
     ${icon: fire}${number: 0} ${icon: ice}${number: 1} ${icon: wind}${number: 2} ${icon: earth}${number: 3} ${icon: lightning}${number: 4} ${icon: water}${number: 5} ${icon: light}${number: 6} ${icon: dark}${number: 7}
-  316: You do not have enough fewell.
-  317: 'The furnace cannot be fed any more ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fewell at this moment.'
-  318: 'The combustion rate for ${choice: 0}[ /${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fewell has improved${choice: 1}[ very slightly/ slightly/ moderately// significantly/ greatly/ tremendously].'
-  319: 'The combustion rate for ${choice: 0}[ /${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fewell has returned to normal.'
+  316: You do not have enough fourneau.
+  317: 'The furnace cannot be fed any more ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fourneau at this moment.'
+  318: 'The combustion rate for ${choice: 0}[ /${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fourneau has improved${choice: 1}[ very slightly/ slightly/ moderately// significantly/ greatly/ tremendously].'
+  319: 'The combustion rate for ${choice: 0}[ /${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fourneau has returned to normal.'
   320: Synergy complete!
   321: You failed to produce the intended item...
   322: '${color-alt: 121}${lettercase: 1}${article} ${item-article: 0[2]} has been successfully synergized!'
