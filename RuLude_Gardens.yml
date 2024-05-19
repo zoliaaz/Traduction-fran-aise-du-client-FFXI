@@ -22345,32 +22345,32 @@ entries:
     Voici les fournitures. Donne-les au garde de l'avant-poste et ta mission sera terminée.
     Maintenant, choisissez l'avant-poste où vous voulez aller. Nous donnons des récompenses différentes pour chaque région, alors choisissez avec soin.${prompt}
   10612: |-
-    Où voulez-vous emmener les provisions ?
+    "Où voulez-vous emmener les provisions ?
     ${selection-lines}
     　
     　
     　
     　
     　
-    The Ronfaure Region.${choice: 5}[/ (Done)]
-    The Zulkheim Region.${choice: 6}[/ (Done)]
-    The Norvallen Region.${choice: 7}[/ (Done)]
-    The Gustaberg Region.${choice: 8}[/ (Done)]
-    The Derfland Region.${choice: 9}[/ (Done)]
-    The Sarutabaruta Region.${choice: 10}[/ (Done)]
-    The Kolshushu Region.${choice: 11}[/ (Done)]
-    The Aragoneu Region.${choice: 12}[/ (Done)]
-    The Fauregandi Region.${choice: 13}[/ (Done)]
-    The Valdeaunia Region.${choice: 14}[/ (Done)]
-    Qufim Island.${choice: 15}[/ (Done)]
-    The Li'Telor Region.${choice: 16}[/ (Done)]
-    The Kuzotz Region.${choice: 17}[/ (Done)]
-    The Vollbow Region.${choice: 18}[/ (Done)]
-    The Elshimo Lowlands Region.${choice: 19}[/ (Done)]
-    The Elshimo Uplands Region.${choice: 20}[/ (Done)]
+    La région de Ronfaure.${choice: 5}[/ (Done)]
+    La région de Zulkheim.${choice: 6}[/ (Done)]
+    La région de Norvallen.${choice: 7}[/ (Done)]
+    La région de Gustaberg.${choice: 8}[/ (Done)]
+    La région de Derfland.${choice: 9}[/ (Done)]
+    La région de Sarutabaruta.${choice: 10}[/ (Done)]
+    La région de Kolshushu.${choice: 11}[/ (Done)]
+    La région d'Aragoneu.${choice: 12}[/ (Done)]
+    La région de Fauregandi.${choice: 13}[/ (Done)]
+    La région de Valdeaunia.${choice: 14}[/ (Done)]
+    L'île de Qufim.${choice: 15}[/ (Done)]
+    La région de Li'Telor.${choice: 16}[/ (Done)]
+    La région de Kuzotz.${choice: 17}[/ (Done)]
+    La région de Vollbow.${choice: 18}[/ (Done)]
+    Les basses terres d'Elshimo.${choice: 19}[/ (Done)]
+    Les hautes terres d'Elshimo.${choice: 20}[/ (Done)]
     Tu'Lia.${choice: 21}[/ (Done)]
     　
-    The Tavnazian Archipelago.${choice: 23}[/ (Done)]
+    L'archipel de Tavnazia.${choice: 23}[/ (Done)]"
     　
     　
     　
@@ -22388,22 +22388,21 @@ entries:
     .
     .
     .
-    The Zulkheim Region (Lv.20～).
-    The Norvallen Region (Lv.25～).
+    La région de Zulkheim (Niv. 20~).
+    La région de Norvallen (Niv. 25~).
     .
-    The Derfland Region (Lv.25～).
+    La région de Derfland (Niv. 25~).
     .
-    The Kolshushu Region (Lv.20～).
-    The Aragoneu Region (Lv.25～).
-    The Fauregandi Region (Lv.35～).
-    The Valdeaunia Region (Lv.40～).
-    The Qufim Region (Lv.25～).
-    The Li'Telor Region (Lv.35～).
-    The Kuzotz Region (Lv.40～).
-    The Vollbow Region (Lv.65～).
-    The Elshimo Lowlands Region (Lv.35～).
-    The Elshimo Uplands Region (Lv.45～).
-    .
+    La région de Kolshushu (Niv. 20~).
+    La région d'Aragoneu (Niv. 25~).
+    La région de Fauregandi (Niv. 35~).
+    La région de Valdeaunia (Niv. 40~).
+    La région de Qufim (Niv. 25~).
+    La région de Li'Telor (Niv. 35~).
+    La région de Kuzotz (Niv. 40~).
+    La région de Vollbow (Niv. 65~).
+    Les basses terres d'Elshimo (Niv. 35~).
+    Les hautes terres d'Elshimo (Niv. 45~).
     .
     .
     .
@@ -22591,68 +22590,68 @@ entries:
   10675: |-
     Vous ne pouvez pas acheter cet article pour le moment.
     Veuillez en choisir un autre.${prompt}
-  10676: Currently our nation is dispatching Expeditionary Forces across Vana'diel, and requests the participation of brave adventurers such as yourself.${prompt}
-  10677: 'Requirements for participating in an E.F. are simple. Your party must consist of ${number: 5} members. Each member must be from this country, rank 3 or higher, and have reached a sufficient level.${prompt}'
-  10678: Once your party is ready, come to me and I will teleport you to the nearest outpost.${prompt}
-  10679: There, you will receive an insignia of the Expeditionary Force. When you succeed in taking control of the area, you can exchange the insignia for your reward.${prompt}
+  10676: Actuellement, notre nation déploie des Forces Expéditionnaires à travers Vana'diel et demande la participation de braves aventuriers comme vous.${prompt}
+  10677: 'Les exigences pour participer à une F.E. sont simples. Votre groupe doit être composé de ${number: 5} membres. Chaque membre doit être de ce pays, avoir un rang 3 ou supérieur, et avoir atteint un niveau suffisant.${prompt}'
+  10678: Une fois votre groupe prêt, venez me voir et je vous téléporterai jusqu'au poste avancé le plus proche.${prompt}
+  10679: Là-bas, vous recevrez une insigne de la Force Expéditionnaire. Lorsque vous réussirez à prendre le contrôle de la région, vous pourrez échanger l'insigne contre votre récompense.${prompt}
   10680: |-
-    Join the E.F. in ${choice: 7}[Ronfaure/Zulkheim/Norvallen/Gustaberg/Derfland/Sarutabaruta/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/The Elshimo Lowlands/The Elshimo Uplands]?
+    Rejoignez la F.E. à ${choice: 7}[Ronfaure/Zulkheim/Norvallen/Gustaberg/Derfland/Sarutabaruta/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/The Elshimo Lowlands/The Elshimo Uplands] ?
     ${selection-lines}
-    Join the E.F.
-    Not this time.${prompt}
-  10681: Your party doesn't have enough members, or some of the members are not in this area. Gather all those who are participating and return here.${prompt}
-  10682: One of your party members is not a citizen of this country. We do not allow any foreign participants in the E.F.${prompt}
-  10683: One of your party members has not achieved rank level 3. We cannot reveal any of our tactical strategies to those who have not shown their loyalty to our country.${prompt}
-  10684: 'One of your party members is below level ${number: 6}. For the safety of the adventurer and those accompanying him or her, we cannot allow anyone below the limit to participate in the E.F.${prompt}'
+    Rejoindre la F.E.
+    Pas cette fois.${prompt}
+  10681: Votre groupe n'a pas suffisamment de membres, ou certains membres ne sont pas dans cette région. Rassemblez tous ceux qui participent et revenez ici.${prompt}
+  10682: Un des membres de votre groupe n'est pas citoyen de ce pays. Nous n'acceptons aucune participation étrangère dans la F.E.${prompt}
+  10683: Un des membres de votre groupe n'a pas atteint le rang 3. Nous ne pouvons pas révéler nos stratégies tactiques à ceux qui n'ont pas montré leur loyauté envers notre pays.${prompt}
+  10684: 'Un des membres de votre groupe est en dessous du niveau ${number: 6}. Pour la sécurité de l’aventurier et de ceux qui l’accompagnent, nous ne pouvons pas permettre à quiconque en dessous de la limite de participer à la F.E.${prompt}'
   10685: |-
-    I see that you are ready.
-    I grant you permission to join the current Expeditionary Force. When you are ready to teleport to the outpost, talk to me once more.${prompt}
-  10686: 'Are you ready to be teleported to ${choice: 7}[Ronfaure/Zulkheim/Norvallen/Gustaberg/Derfland/Sarutabaruta/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li''Telor/Kuzotz/Vollbow/The Elshimo Lowlands/The Elshimo Uplands]? Remember that party members who have not been granted permission to attend the E.F. will be left behind.${prompt}'
+    Je vois que vous êtes prêt.
+    Je vous accorde la permission de rejoindre la Force Expéditionnaire actuelle. Lorsque vous serez prêt à vous téléporter jusqu'au poste avancé, reparlez-moi une fois de plus.${prompt}
+  10686: 'Êtes-vous prêt à être téléporté vers ${choice: 7}[Ronfaure/Zulkheim/Norvallen/Gustaberg/Derfland/Sarutabaruta/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li''Telor/Kuzotz/Vollbow/The Elshimo Lowlands/The Elshimo Uplands]? N’oubliez pas que les membres du groupe qui n’ont pas été autorisés à participer à la F.E. seront laissés en arrière.${prompt}'
   10687: |-
-    Teleport to ${choice: 7}[Ronfaure/Zulkheim/Norvallen/Gustaberg/Derfland/Sarutabaruta/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/The Elshimo Lowlands/The Elshimo Uplands]?
+    Téléportez-vous vers ${choice: 7}[Ronfaure/Zulkheim/Norvallen/Gustaberg/Derfland/Sarutabaruta/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/The Elshimo Lowlands/The Elshimo Uplands]?
     ${selection-lines}
-    Ready!
-    Wait just a minute...${prompt}
-  10688: 'Cancel your participation in the E.F. to ${choice: 7}[Ronfaure/Zulkheim/Norvallen/Gustaberg/Derfland/Sarutabaruta/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li''Telor/Kuzotz/Vollbow/The Elshimo Lowlands/The Elshimo Uplands]?${prompt}'
+    Prêt !
+    Attendez une minute...${prompt}
+  10688: 'Annuler votre participation à la F.E. vers ${choice: 7}[Ronfaure/Zulkheim/Norvallen/Gustaberg/Derfland/Sarutabaruta/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li''Telor/Kuzotz/Vollbow/The Elshimo Lowlands/The Elshimo Uplands]?${prompt}'
   10689: |-
-    Quit the E.F.?
+    Quitter la F.E. ?
     ${selection-lines}
-    Yes.
-    Change locations.
-    No.${prompt}
-  10690: Are you sure?${prompt}
+    Oui.
+    Changer de lieu.
+    Non.${prompt}
+  10690: Êtes-vous sûr ?${prompt}
   10691: |-
-    Really quit the E.F.?
+    Vraiment quitter la F.E. ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
+    Oui.
+    Non.${prompt}
   10692: |-
-    I see.
-    If you ever wish to participate in the future, I will be waiting here to take your application.${prompt}
-  10693: 'Your ${color: 5}EF Badge${color: 1} vanishes!${prompt}'
-  10694: 'Katsu-yaku pointos : ${number: 0}!${prompt}'
-  10695: 'This ${keyitem-singular: 0[2]} is no longer valid. We will dispose of it here.${prompt}'
-  10696: Your invalid ensignias have been disposed of.${prompt}
-  10697: Welcome back from the expedition. Our nation was successful in its campaign. Let me give you your reward.${prompt}
-  10698: 'You received ${number: 1} conquest points!${prompt}'
-  10699: When participating in an Expeditionary Force, concentrate your efforts on fighting foes that give you the most experience points. And don't forget to confiscate the contents of any beastman treasure chest you happen to come upon.${prompt}
+    Je vois.
+    Si jamais vous souhaitez participer à l'avenir, je serai ici pour recevoir votre candidature.${prompt}
+  10693: 'Votre ${color: 5}Insigne de la F.E.${color: 1} disparaît !${prompt}'
+  10694: 'Points de succès : ${number: 0}!${prompt}'
+  10695: 'Cet ${keyitem-singular: 0[2]} n’est plus valide. Nous allons le jeter ici.${prompt}'
+  10696: Vos insignes invalides ont été jetés.${prompt}
+  10697: Bienvenue de retour de l’expédition. Notre nation a réussi dans sa campagne. Permettez-moi de vous donner votre récompense.${prompt}
+  10698: 'Vous avez reçu ${number: 1} points de conquête!${prompt}'
+  10699: Lorsque vous participez à une Force d'Expédition, concentrez vos efforts sur la lutte contre les ennemis qui vous rapportent le plus de points d'expérience. Et n’oubliez pas de confisquer le contenu de tout coffre au trésor de bêtes que vous trouvez.${prompt}
   10700: |-
-    I will now hand you your insignia. Be sure to read the inscription on the back before you begin your duties.
-    Once Signet has been bestowed upon you, prepare to be teleported.${prompt}
-  10701: You could not be teleported. Ask me again, please.${prompt}
-  10702: The conquest results are currently being tallied. Come back later.${prompt}
-  10703: You have received permission to join the Expeditionary Forces!${prompt}
-  10704: Currently we rank first in Vana'diel's conquest, but that must not be taken for granted. We must continue our fight to remain on top.${prompt}
-  10705: We had first place in our hands, but we let it slip away. If we want to be ranked first in Vana'diel, each and every one of us must do their part. I look forward to hearing of your achievements.${prompt}
-  10706: Our country has fallen to third in the conquest of Vana'diel. We must step up our efforts to improve the situation.${prompt}
-  10707: You must fight in battles that gain high levels of experience. This is the only way we can bring areas under our country's control.${prompt}
-  10708: Currently, our country is the dominant force in this region. If we can maintain this level, control of this area will be ours.${prompt}
-  10709: Currently, our country is a major force in this region. However, we cannot take this for granted. If we let down our guard, we will surely lose control of the area!${prompt}
-  10710: Currently, our country has only minor influence in this region. We're counting on you to get us out of this hole we've dug ourselves into.${prompt}
-  10711: Currently, our country's influence in this area is minimal. If we do not act quickly, control of this region will certainly be taken by a rival country.${prompt}
-  10712: Take care when passing through, as this area is currently overrun with beastmen! Something must be done, or the enemy will have control of the entire region.${prompt}
-  10713: 'Your inventory is full. You could not accept the ${item-singular: 0[2]}.${prompt}'
-  10714: You already possess a gate glyph. You cannot hold any more.${prompt}
+    Je vais maintenant vous remettre votre insigne. Assurez-vous de lire l'inscription au dos avant de commencer vos devoirs.
+    Une fois que le Sceau a été apposé sur vous, préparez-vous à être téléporté.${prompt}
+  10701: Vous n’avez pas pu être téléporté. Veuillez me redemander, s’il vous plaît.${prompt}
+  10702: Les résultats de la conquête sont en cours de compilation. Revenez plus tard.${prompt}
+  10703: Vous avez reçu l'autorisation de rejoindre les Forces d'Expédition !${prompt}
+  10704: Actuellement, nous sommes en première position dans la conquête de Vana'diel, mais cela ne doit pas être pris pour acquis. Nous devons poursuivre notre combat pour rester en tête.${prompt}
+  10705: Nous avions la première place entre nos mains, mais nous l'avons laissée filer. Si nous voulons être classés premiers à Vana'diel, chacun de nous doit faire sa part. J'attends avec impatience d'entendre parler de vos exploits.${prompt}
+  10706: Notre pays est tombé à la troisième place dans la conquête de Vana'diel. Nous devons redoubler d'efforts pour améliorer la situation.${prompt}
+  10707: Vous devez combattre dans des batailles qui rapportent beaucoup d'expérience. C'est la seule façon de ramener des zones sous le contrôle de notre pays.${prompt}
+  10708: Actuellement, notre pays est la force dominante dans cette région. Si nous maintenons ce niveau, le contrôle de cette zone sera à nous.${prompt}
+  10709: Actuellement, notre pays est une force majeure dans cette région. Cependant, nous ne pouvons pas le tenir pour acquis. Si nous baissions notre garde, nous perdrons certainement le contrôle de la région !${prompt}
+  10710: Actuellement, notre pays n'a qu'une influence mineure dans cette région. Nous comptons sur vous pour nous sortir de ce trou que nous avons creusé.${prompt}
+  10711: Actuellement, l'influence de notre pays dans cette région est minimale. Si nous n'agissons pas rapidement, le contrôle de cette région sera certainement pris par un pays rival.${prompt}
+  10712: Faites attention en traversant, car cette zone est actuellement envahie par les bêtes ! Quelque chose doit être fait, sinon l'ennemi aura le contrôle de toute la région.${prompt}
+  10713: 'Votre inventaire est plein. Vous ne pouvez pas accepter le ${item-singular: 0[2]}.${prompt}'
+  10714: Vous possédez déjà un glyphe de porte. Vous ne pouvez pas en posséder plus.${prompt}
   10715: Je suis le Garde Ducal Jeunois, ${name-npc}. Mon devoir est de soutenir les efforts de conquête de Windurst, San d'Oria et Bastok.${prompt}
   10716: 　${prompt}
   10717: 　${prompt}
@@ -23686,25 +23685,25 @@ entries:
     Aurait-il été transféré à une autre fille... ? ${prompt}
   11395: Vous connaissez bien cette fille. Je pourrais m'occuper d'elle facilement, mais si vous voulez que je l'épargne, vous me prêterez votre pouvoir.${prompt}
   11396: '« Echanger » les ${item-singular: 6[2]} aux « Hiéroglyphes » trouvés dans chaque zone. Les ${item-singular: 6[2]} sera transformé en ${article} ${item-article: 7[2]}.${prompt}'
-  11397: 'From that point on, one of the areas of Dynamis will be reserved by the bearer of the ${item-singular: 7[2]}. The destination and time to be spent in Dynamis will be recorded in the help text of the ${item-singular: 7[2]}.${prompt}'
-  11398: 'By defeating certain enemies, a group can extend the amount of time they are allowed in Dynamis - ${choice: 0}[Dummy/San d''Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia]. Any time extensions will be reflected in the ${item-singular: 7[2]}''s help text.${prompt}'
-  11399: 'Using the ${item-singular: 7[2]} creates a copy. By handing these copies out to other characters, it is possible to enter Dynamis - ${choice: 0}[Dummy/San d''Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] in large groups.${prompt}'
-  11400: 'The number of characters that can enter Dynamis - ${choice: 0}[Dummy/San d''Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] at one time is limited to ${number: 4} people.${prompt}'
-  11401: 'The ${item-singular: 7[2]} can be duplicated further by those who have received a copy, essentially allowing for an unlimited number of ${item-plural: 7[2]} to be made. However, the moment the maximum allowable number of players have entered Dynamis, all extra hourglasses will become void. Please take this into consideration when deciding to whom, and how many, copies are to be handed out.${prompt}'
-  11402: 'To warp to Dynamis - ${choice: 0}[Dummy/San d''Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], “Trade” the ${item-singular: 7[2]} to the “Hieroglyphics” where you originally received it.${prompt}'
-  11403: 'Please note that it is not possible to enter Dynamis - ${choice: 0}[Dummy/San d''Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] without ${keyitem-article: 5[2]}, even if you trade the required ${item-singular: 7[2]}.${prompt}'
-  11404: In addition, only players above level 64 can travel to the Shrouded Land.${prompt}
-  11405: 'Ensuring that you have ${keyitem-article: 2[2]} in your possession, seek out the “Trail Markings” or “Hieroglyphics” found in each area.${prompt}'
-  11406: Examine them and you will be granted entrance to the corresponding Dynamis area.${prompt}
-  11407: 'Dynamis - ${choice: 0}[Dummy/San d''Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] will not be reserved to anyone. It will be accessible to any and all who meet the entry requirements.${prompt}'
-  11408: 'Your stay in Dynamis - ${choice: 0}[Dummy/San d''Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] will be subject to a time restriction. Parties will automatically be expelled from the area when this time elapses.${prompt}'
-  11409: Parties and alliances can extend their duration of stay by defeating certain enemies.${prompt}
-  11410: 'Please note that it is not possible to enter Dynamis - ${choice: 0}[Dummy/San d''Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] without ${keyitem-article: 5[2]}, even if you trade the required ${keyitem-singular: 2[2]}.${prompt}'
-  11411: Remember that only players level 65 or above can travel to the Shrouded Land.${prompt}
-  11412: 'Furthermore, it is not possible to reserve Dynamis - ${choice: 0}[Dummy/San d''Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] using ${article} ${item-article: 6[2]} or ${article} ${item-article: 7[2]}.${prompt}'
-  11413: 'Even if you leave Dynamis - ${choice: 0}[Dummy/San d''Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] through magic or being KO''d, you can reenter the same area without restriction as long as it is within the designated time of the ${item-singular: 7[2]}.${prompt}'
-  11414: 'However, you will be in a weakened state for some time upon returning to Dynamis - ${choice: 0}[Dummy/San d''Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia].${prompt}'
-  11415: This weakened state will last for longer than the usual period experienced after being raised from KO status.${prompt}
+  11397: 'À partir de ce moment, l’une des zones de Dynamis sera réservée par le porteur du ${item-singular: 7[2]}. La destination et le temps à passer dans Dynamis seront enregistrés dans le texte d’aide du ${item-singular: 7[2]}.${prompt}'
+  11398: 'En vainquant certains ennemis, un groupe peut prolonger la durée pendant laquelle il est autorisé à rester dans Dynamis - ${choice: 0}[Dummy/San d’Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia]. Toute extension de temps sera reflétée dans le texte d’aide du ${item-singular: 7[2]}.${prompt}'
+  11399: 'L’utilisation du ${item-singular: 7[2]} crée une copie. En distribuant ces copies à d’autres personnages, il est possible d’entrer dans Dynamis - ${choice: 0}[Dummy/San d’Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] en grands groupes.${prompt}'
+  11400: 'Le nombre de personnages pouvant entrer dans Dynamis - ${choice: 0}[Dummy/San d’Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] en une seule fois est limité à ${number: 4} personnes.${prompt}'
+  11401: 'Le ${item-singular: 7[2]} peut être dupliqué davantage par ceux qui ont reçu une copie, permettant essentiellement un nombre illimité de ${item-plural: 7[2]} à être fabriquées. Cependant, dès que le nombre maximal de joueurs autorisés est entré dans Dynamis, toutes les sabliers supplémentaires deviendront nulles. Veuillez en tenir compte lors de la décision de qui, et combien, de copies doivent être distribuées.${prompt}'
+  11402: 'Pour vous téléporter à Dynamis - ${choice: 0}[Dummy/San d’Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], "Échangez" le ${item-singular: 7[2]} aux "Hiéroglyphes" où vous l’avez initialement reçu.${prompt}'
+  11403: 'Veuillez noter qu’il n’est pas possible d’entrer dans Dynamis - ${choice: 0}[Dummy/San d’Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] sans ${keyitem-article: 5[2]}, même si vous échangez le ${item-singular: 7[2]} requis.${prompt}'
+  11404: En outre, seuls les joueurs de niveau 64 ou plus peuvent se rendre sur la Terre Voilée.${prompt}
+  11405: 'Assurez-vous d’avoir ${keyitem-article: 2[2]} en votre possession, recherchez les "Marques de Piste" ou "Hiéroglyphes" trouvés dans chaque zone.${prompt}'
+  11406: Examinez-les et vous obtiendrez l’entrée dans la zone Dynamis correspondante.${prompt}
+  11407: 'Dynamis - ${choice: 0}[Dummy/San d’Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] ne sera réservé à personne. Il sera accessible à tous ceux qui remplissent les conditions d’entrée.${prompt}'
+  11408: 'Votre séjour dans Dynamis - ${choice: 0}[Dummy/San d’Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] sera soumis à une restriction de temps. Les groupes seront automatiquement expulsés de la zone lorsque ce temps expire.${prompt}'
+  11409: Les parties et les alliances peuvent prolonger leur durée de séjour en vainquant certains ennemis.${prompt}
+  11410: 'Veuillez noter qu’il n’est pas possible d’entrer dans Dynamis - ${choice: 0}[Dummy/San d’Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] sans ${keyitem-article: 5[2]}, même si vous échangez le ${keyitem-singular: 2[2]} requis.${prompt}'
+  11411: Rappelez-vous que seuls les joueurs de niveau 65 ou plus peuvent se rendre sur la Terre Voilée.${prompt}
+  11412: 'De plus, il n’est pas possible de réserver Dynamis - ${choice: 0}[Dummy/San d''Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] en utilisant ${article} ${item-article: 6[2]} ou ${article} ${item-article: 7[2]}.${prompt}'
+  11413: 'Même si vous quittez Dynamis - ${choice: 0}[Dummy/San d’Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] par magie ou si vous êtes KO, vous pouvez réentrer dans la même zone sans restriction tant que cela se fait dans le temps désigné du ${item-singular: 7[2]}.${prompt}'
+  11414: 'Cependant, vous serez dans un état affaibli pendant un certain temps après être revenu à Dynamis - ${choice: 0}[Dummy/San d''Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia].${prompt}'
+  11415: Cet état affaibli durera plus longtemps que la période habituelle après avoir été ressuscité après avoir été KO.${prompt}
   11416: 'Upon entering Dynamis - ${choice: 0}[Dummy/San d''Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], you will be unable to reenter using a different ${item-singular: 7[2]} for ${number: 3} ${choice-plurality: 3}[day/days] (Earth time).${prompt}'
   11417: 'In addition to Dynamis - ${choice: 0}[Dummy/San d''Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], this restriction will also apply to the following Dynamis areas:${prompt}'
   11418: |-
@@ -26585,7 +26584,7 @@ entries:
     Je crains que non.${prompt}
   12738: |-
     Les éléments suivants ont été demandés:
-    ${article} ${item-article: 1[2]}, ${article} ${item-article: 2[2]}, et ${article} ${item-article: 3[2]}.
+    ${article} ${item-article: 1[2]}, ${article} ${article-article: 2[2]}, et ${article} ${item-article: 3[2]}.
     Mon avenir professionnel repose entre vos mains.${prompt}
   12739: |-
     Les éléments suivants ont été demandés:
@@ -26673,22 +26672,22 @@ entries:
     Les règles actuelles de participation à Diorama Ballista fixées par la ${color: 5}Maître de cérémonie${color: 1} sont les suivants:
     ${choice: 0}[ /Anyone can attend/Anyone can participate/Anyone can attend or participate].${prompt}
   12778: |-
-    Sélectionnez une ligne...
+    Select one...
     ${selection-lines}
-    Quitter.
-    Réserver le Diorama (dans 2 jours).
-    Réserver le Diorama (maintenant).
-    Voir la liste des réservations.
-    ${choice: 0}[Autoriser/Restreindre] galerie.
-    ${choice: 1}[Autoriser/Restreindre] participation.
-    Voir un match.
-    Participer à un match.
-    Entrer dans le Diorama.
-    FAQ: Qu'est-ce que le Diorama ?
-    FAQ: Réserver le Diorama.${prompt}
+    Quit.
+    Reserve the Diorama (2 days from now).
+    Reserve the Diorama (now).
+    View the reservation list.
+    ${choice: 0}[Allow/Restrict] gallery.
+    ${choice: 1}[Allow/Restrict] participation.
+    View a match.
+    Participate in a match.
+    Enter the Diorama.
+    FAQ: What is the Diorama?
+    FAQ: Reserving the Diorama.${prompt}
   12779: |-
-    Je vois que vous avez récemment utilisé nos services de diorama.
-    Je vous prie de m'excuser, mais je dois vous demander d'attendre encore quelques instants avant d'effectuer d'autres transactions.{prompt}
+    I see that you have recently utilized our Diorama services.
+    I apologize, but I must ask that you wait a few more moments before attempting any further transactions.${prompt}
   12780: 'Currently, the Diorama can be reserved from ${earthtime: 0} to ${earthtime: 1}.${prompt}'
   12781: 'The ${item-singular: 2[2]} necessary for access to the Diorama from ${earthtime: 0} to ${earthtime: 1} has already been distributed.${prompt}'
   12782: 'The next printing of the ${item-singular: 2[2]} will begin on ${earthtime: 3}, allowing Diorama access for the period of ${earthtime: 0} to ${earthtime: 1}.${prompt}'
@@ -27228,45 +27227,45 @@ entries:
   12967: Sa prise de conscience l'amena à trahir le roi et son fils, et à s'opposer catégoriquement à tout projet d'ouverture des Portes du Paradis.${prompt}
   12968: Elle avait découvert nos origines en tant qu'enfants de Promathia...${prompt}
   12969: Mais tout n'a pas été résolu.${prompt}
-  12970: Le vide continue de sédimenter dans les cristaux-mères.${prompt}
-  12971: Et les Zilart survivants s'accrochent désespérément à leur plan obscur de retour au Paradis.${prompt}
-  12972: J'ai abandonné ma vie en Tavnazia il y a près de trente ans pour infiltrer l'organisation des Zilart nouvellement éveillés.${prompt}
-  12973: Mais je n'ai pas réussi à endiguer leur immense pouvoir. ${prompt}
-  12974: Cependant, nous avons maintenant un ennemi commun dans le Vide. Pour un temps, le peuple de cet âge aura besoin de l'aide des anciens.${prompt}
-  12975: Les anciens, eux aussi, auront besoin de votre aide continue.${prompt}
-  12976: La Vierge de l'Aube a sûrement légué quelque chose de précieux à sa jeune famille. ${prompt}
-  12977: Je vais découvrir de quoi il s'agit et m'entretenir avec l'archiduc Kam'lanaut. Il écoutera mes paroles.${prompt}
-  12978: Je continuerai à veiller sur le monde que vous et vos compagnons avez si vaillamment protégé.${prompt}
-  12979: Maintenant que Nag'molada est parti et que les wyrms ont cessé leurs attaques, il est temps de rappeler aux Zilart leur véritable responsabilité :${prompt}
-  12980: La sécurité des cristaux-mères et la lutte contre le Vide.${prompt}
-  12981: Je continuerai à surveiller leurs actions tout en veillant sur le monde que vous et vos compagnons avez si vaillamment protégé.${prompt}
-  12982: Il y a une chose que je voudrais que vous gardiez à l'esprit, ${name-player}.${prompt}
-  12983: Vous avez pu sauver le monde et son peuple sans sacrifier l'un ou l'autre.${prompt}
-  12984: Mais ne vous méprenez pas.${prompt}
-  12985: Cette possibilité n'a pas toujours existé.${prompt}
-  12986: Ce n'est qu'avec la force et la foi de nombreuses personnes qu'un tel chemin a pu s'ouvrir devant vous.${prompt}
+  12970: The Emptiness still seethes within the mothercrystals.${prompt}
+  12971: And the surviving Zilart yet cling desperately to their shadowy plan of returning to Paradise.${prompt}
+  12972: I gave up my life in Tavnazia almost thirty years ago to infiltrate the organization of the newly awakened Zilart.${prompt}
+  12973: But I have been unable to stem their vast power on my own.${prompt}
+  12974: However, we now have a common enemy in the Emptiness. For a time, the people of this age will require the aid of the ancients.${prompt}
+  12975: The ancients, too, will need your continuing help.${prompt}
+  12976: Surely the Dawn Maiden has bequeathed something of value to her younger kin.${prompt}
+  12977: I will find out what this may be, and speak with Archduke Kam'lanaut. He will heed my words.${prompt}
+  12978: I shall continue to watch over the world that you and your companions have fought so valiantly to protect.${prompt}
+  12979: Now that Nag'molada is gone and the wyrms have ceased their attacks, it is time to remind the Zilart of their true responsibility:${prompt}
+  12980: The safety of the mothercrystals and the battle against the Emptiness.${prompt}
+  12981: I will continue to monitor their actions as I watch over the world that you and your companions have fought so valiantly to protect.${prompt}
+  12982: There is one thing I'd like you to keep in mind, ${name-player}.${prompt}
+  12983: You were able to save the world and her people without sacrificing one or the other.${prompt}
+  12984: But do not misunderstand.${prompt}
+  12985: This possibility did not always exist.${prompt}
+  12986: It was only with the strength and faith of many people that such a path could open before you.${prompt}
   12987: |-
-    J'ai laissé au propriétaire de cette taverne trois récompenses qui pourraient vous aider dans vos aventures.
-    N'hésitez pas à en choisir une.${prompt}
-  12988: En attendant que nos chemins se croisent à nouveau, ${name-player}.${prompt}
-  12989: Merci et adieu.${prompt}
-  12990: On cherche quelqu'un, n'est-ce pas?${prompt}
+    I have left with the owner of this tavern three rewards that may help you on your adventures.
+    Feel free to choose one.${prompt}
+  12988: Until our paths cross once more, ${name-player}.${prompt}
+  12989: Thank you, and farewell.${prompt}
+  12990: Looking for someone, are we?${prompt}
   12991: |-
-    Monsieur du nom de${choice: 0}[Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji]?
-    Maintenant, où ai-je...
-    Ah, maintenant je me souviens. Il porte la barbe, si je ne me trompe pas?${prompt}
+    Gentleman by the name of ${choice: 0}[Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji]?
+    Now, where have I...
+    Ah, now I remember. Has a beard, if I'm not mistaken?${prompt}
   12992: |-
-    Dame du nom de${choice: 0}[Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde]?
-    Maintenant, où ai-je...
-    Ah, maintenant je me souviens. Elle a une frange qui lui descend jusqu'aux yeux, si je ne me trompe pas?${prompt}
+    Lady by the name of ${choice: 0}[Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde]?
+    Now, where have I...
+    Ah, now I remember. Has bangs down to her eyes, if I'm not mistaken?${prompt}
   12993: |-
-    Monsieur au nom de${choice: 0}[Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant]?
-    Maintenant, où ai-je...
-    Ah, maintenant je me souviens. Il a de longues pattes, si je ne me trompe pas?${prompt}
+    Gentleman by the name of ${choice: 0}[Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant]?
+    Now, where have I...
+    Ah, now I remember. Has long sideburns, if I'm not mistaken?${prompt}
   12994: |-
-    Dame au nom de${choice: 0}[Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue]?
-    Maintenant, où ai-je...
-    Ah, maintenant je me souviens. Ses cheveux sont séparés au milieu, un côté plus long que l'autre, si je ne me trompe pas?${prompt}
+    Lady by the name of ${choice: 0}[Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue]?
+    Now, where have I...
+    Ah, now I remember. Has her hair parted in the middle, one side longer than the other, if I'm not mistaken?${prompt}
   12995: |-
     Gentleman by the name of ${choice: 0}[Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga]?
     Now, where have I...
