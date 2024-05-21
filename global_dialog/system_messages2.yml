@@ -1,367 +1,389 @@
 entries:
-  0: '${color-alt: 123}Vous ne pouviez pas accéder à la zone suivante.${prompt}'
-  1: '${color-alt: 123}Vous ne pouviez pas accéder à la zone suivante.${prompt}'
-  2: '${color-alt: 123}Vous ne pouviez pas accéder à la zone suivante.${prompt}'
-  3: '${color-alt: 123}Vous ne pouviez pas accéder à la zone suivante.${prompt}'
-  4: '${color-alt: 123}Vous ne pouviez pas accéder à la zone suivante.${prompt}'
-  5: Vous ne pouviez pas entrer dans votre chambre.${prompt}
-  6: '${color-alt: 121}Les citoyens d''autres pays doivent se voir attribuer une chambre de location pour pouvoir utiliser les installations de la zone résidentielle.${prompt}'
+  0: '${color-alt: 123}Vous n’avez pas pu entrer dans la zone suivante.${prompt}'
+  1: '${color-alt: 123}Vous n’avez pas pu entrer dans la zone suivante.${prompt}'
+  2: '${color-alt: 123}Vous n’avez pas pu entrer dans la zone suivante.${prompt}'
+  3: '${color-alt: 123}Vous n’avez pas pu entrer dans la zone suivante.${prompt}'
+  4: '${color-alt: 123}Vous n’avez pas pu entrer dans la zone suivante.${prompt}'
+  5: Vous n’avez pas pu entrer dans votre chambre.${prompt}
+  6: '${color-alt: 121}Les citoyens d’autres nations doivent avoir une chambre à louer qui leur est attribuée pour utiliser les installations de la zone résidentielle.${prompt}'
   7: |-
-    ${color-alt: 136}Exécution de la déconnexion dans ${number-alt: 0} seconds.
+    ${color-alt: 136}Déconnexion automatique dans ${number-alt: 0} secondes.
     Annuler la guérison pour rester connecté.${prompt}
   8: |-
-    ${color-alt: 136}Exécution d'une déconnexion temporaire dans ${number-alt: 0} seconds.
-    Annulez la guérison pour rester connecté.${prompt}
+    ${color-alt: 136}Déconnexion temporaire automatique dans ${number-alt: 0} secondes.
+    Annuler la guérison pour rester connecté.${prompt}
   9: '${color-alt: 121}Cible hors de portée.${prompt}'
-  10: '${color-alt: 121}${number-alt: 0} ${choice-plurality-number: 0}[second/seconds] jusqu''à la réinitialisation de la position.${prompt}'
-  11: '${color-alt: 121}Votre invitation a été refusée.${prompt}'
-  12: '${color-alt: 123}Cette personne est membre du parti.${prompt}'
-  13: '${color-alt: 123}Vous ne pouvez pas effectuer cette emote de travail.${prompt}'
-  14: '${color-alt: 123}Cette demande ne peut pas être traitée.${prompt}'
+  10: '${color-alt: 121}${number-alt: 0} ${choice-plurality-number: 0}[seconde/secondes] avant réinitialisation de la position.${prompt}'
+  11: '${color-alt: 121}Votre invitation a été déclinée.${prompt}'
+  12: '${color-alt: 123}Cette personne est membre de votre groupe.${prompt}'
+  13: '${color-alt: 123}Vous ne pouvez pas effectuer cette émoticône de travail.${prompt}'
+  14: '${color-alt: 123}Cette demande ne peut être traitée.${prompt}'
   15: |-
-    ${color-alt: 123}${entity: 2} ne répond pas aux exigences nécessaires pour obtenir le ${item-singular-alt: 0[2]}.
-    ${lettercase: 1}${item-singular-alt: 0[2]} perdu.${prompt}
-  16: '${color-alt: 121}Vous trouvez ${article} ${item-article-alt: 0[2]} sur ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
-  17: '${color-alt: 121}${entity: 3}''s beaucoup pour le ${item-singular-alt: 0[2]}: ${entity: 2} points.${prompt}'
+    ${color-alt: 123}${entity: 2} ne remplit pas les conditions nécessaires pour obtenir ${item-singular-alt: 0[2]}.
+    ${lettercase: 1}${item-singular-alt: 0[2]} perdu.${prompt} 
+  16: '${color-alt: 121}Vous trouvez ${article} ${item-article-alt: 0[2]} sur ${choice-definite-entity: 1}[le /]${entity-target}.${prompt}'
+  17: '${color-alt: 121}Lot de ${entity: 3} pour ${item-singular-alt: 0[2]} : ${entity: 2} points.${prompt}'
   18: '${color-alt: 127}${entity: 2} obtient ${article} ${item-article-alt: 0[2]}.${prompt}'
   19: '${color-alt: 127}${entity: 0} obtient ${gil: 0}.${prompt}'
-  20: '${color-alt: 121}Votre appel a été placé dans la file d''attente.${prompt}'
-  21: '${color-alt: 123}Vous n''êtes pas le chef du groupe.${prompt}'
-  22: '${color-alt: 123}Attention : tous les trésors non réclamés seront perdus si vous rejoignez un groupe.${prompt}'
+  20: '${color-alt: 121}Votre appel a été placé dans la file d’attente.${prompt}'
+  21: '${color-alt: 123}Vous n’êtes pas le chef du groupe.${prompt}'
+  22: '${color-alt: 123}Attention : Tout trésor non réclamé sera perdu si vous rejoignez un groupe.${prompt}'
   23: '${color-alt: 123}Vous ne pouvez pas inviter cette personne pour le moment.${prompt}'
-  24: '${color-alt: 138}${entity: 0} souhaite échanger avec vous.${prompt}'
-  25: '${color-alt: 123}Vous avez déjà envoyé une demande d''échange à ${entity: 0}.${prompt}'
-  26: '${color-alt: 123}Vous ne pouvez pas échanger avec ${entity: 0} en ce moment.${prompt}'
-  27: '${color-alt: 123}Vous ne pouvez pas échanger le ${item-singular-alt: 0[2]} à ${entity: 2}.${prompt}'
+  24: '${color-alt: 138}${entity: 0} souhaite faire un échange avec vous.${prompt}'
+  25: '${color-alt: 123}Vous avez déjà envoyé une demande d’échange à ${entity: 0}.${prompt}'
+  26: '${color-alt: 123}Vous ne pouvez pas échanger avec ${entity: 0} pour le moment.${prompt}'
+  27: '${color-alt: 123}Vous ne pouvez pas échanger ${item-singular-alt: 0[2]} avec ${entity: 2}.${prompt}'
   28: '${color-alt: 123}Vous ne pouvez pas échanger avec cette cible.${prompt}'
-  29: '${color-alt: 121}Sélectionnez une cible avec laquelle échanger.${prompt}'
+  29: '${color-alt: 121}Sélectionnez une cible pour effectuer un échange.${prompt}'
   30: '${color-alt: 138}Échange terminé.${prompt}'
   31: |-
-    ${color-alt: 121}Vous ne remplissez pas les conditions pour obtenir le ${item-singular-alt: 0[2]}.
+    ${color-alt: 121}Vous ne remplissez pas les conditions nécessaires pour obtenir ${item-singular-alt: 0[2]}.
     ${lettercase: 1}${item-singular-alt: 0[2]} perdu.${prompt}
-  32: '${color-alt: 123}Impossible d''effectuer une action dans Maison Mog.${prompt}'
+  32: '${color-alt: 123}Impossible de réaliser l’action dans la Maison Mog.${prompt}'
   33: '${color-alt: 121}Cette personne est actuellement absente et ne peut pas répondre.${prompt}'
-  34: '${color-alt: 121}Cette personne utilise actuellement PlayOnline Viewer et ne peut être contactée qu''en envoyant un "knock message" dans le menu Recherche.${prompt}'
+  34: '${color-alt: 121}Cette personne utilise actuellement le PlayOnline Viewer et ne peut être contactée que par l’envoi d’un "message de demande de communication" depuis le menu Recherche.${prompt}'
   35: |-
-    ${color-alt: 136}Exécution de l'arrêt dans ${number-alt: 0} seconds.
-    Annuler la guérison pour rester connecté.${prompt}
-  36: '${color-alt: 123}Il n''y a aucun membre du groupe.${prompt}'
-  37: '${color-alt: 123}Vous n''avez pas d''élément LinkShell équipé.${prompt}'
+    ${color-alt: 136}Exécution de l'arrêt dans ${number-alt: 0} secondes.
+    Annulez la guérison pour rester connecté.${prompt}
+  36: '${color-alt: 123}Il n’y a aucun membre dans le groupe.${prompt}'
+  37: '${color-alt: 123}Vous n’avez pas d’objet linkshell équipé.${prompt}'
   38: '${color-alt: 123}Vous devez attendre plus longtemps pour effectuer cette action.${prompt}'
-  39: '${color-alt: 123}Vous n''en avez pas ${item-plural-alt: 0[2]}.${prompt}'
+  39: '${color-alt: 123}Vous n’avez pas de ${item-plural-alt: 0[2]}.${prompt}'
   40: '${color-alt: 121}mes40'
-  41: '${color-alt: 200}DEBUG: Titre modifié. (${number-alt: 0})${prompt}'
-  42: '${color-alt: 200}DEBUG: San d''Oria normal fame (${number-alt: 0}) Result=${number-alt: 1}${prompt}'
-  43: '${color-alt: 200}DEBUG: Bastok normal fame (${number-alt: 0}) Result=${number-alt: 1}${prompt}'
-  44: '${color-alt: 200}DEBUG: Windurst normal fame (${number-alt: 0}) Result=${number-alt: 1}${prompt}'
-  45: '${color-alt: 200}DEBUG: Tenshodo fame (${number-alt: 0}) Result=${number-alt: 1}${prompt}'
-  46: '${color-alt: 141}${animation: 0}Je m''occupe de vos objets, kupo !${prompt}'
-  47: '${color-alt: 141}${animation: 8}Vous avez de nouvelles livraisons, kupo !${prompt}'
-  48: '${color-alt: 141}${animation: 1}Vous devriez sortir les objets de votre boîte de livraison, kupo !${prompt}'
-  49: '${color-alt: 141}${animation: 0}La boîte de livraison est l''endroit où arrivent les objets envoyés par les maisons de ventes, kupo!${prompt}'
-  50: '${color-alt: 141}${animation: 4}Chaaanger...métier! Kupopopooo!${prompt}'
+  41: '${color-alt: 200}DEBUG: Le titre a été modifié. (${number-alt: 0})${prompt}'
+  42: '${color-alt: 200}DEBUG: Renommée normale de San d’Oria (${number-alt: 0}) Résultat=${number-alt: 1}${prompt}'
+  43: '${color-alt: 200}DEBUG: Renommée normale de Bastok (${number-alt: 0}) Résultat=${number-alt: 1}${prompt}'
+  44: '${color-alt: 200}DEBUG: Renommée normale de Windurst (${number-alt: 0}) Résultat=${number-alt: 1}${prompt}'
+  45: '${color-alt: 200}DEBUG: Renommée de Tenshodo (${number-alt: 0}) Résultat=${number-alt: 1}${prompt}'
+  46: '${color-alt: 141}${animation: 0}Je vais m’occuper de vos objets, kupo !${prompt}'
+  47: '${color-alt: 141}${animation: 8}Vous avez de nouveaux colis, kupo !${prompt}'
+  48: '${color-alt: 141}${animation: 1}Vous devriez retirer les objets de votre boîte de livraison, kupo !${prompt}'
+  49: '${color-alt: 141}${animation: 0}La boîte de livraison est l’endroit où arrivent les objets envoyés depuis les maisons de vente aux enchères, kupo !${prompt}'
+  50: '${color-alt: 141}${animation: 4}Chaaange... de travail ! Kupopopooo !${prompt}'
   51: '${color-alt: 141}${animation: 0}Choisissez un pot de fleurs, kupo !${prompt}'
-  52: '${color-alt: 141}Cette plante pousse bien, kupo!${prompt}'
-  53: '${color-alt: 141}${animation: 6}Cette plante porte des fruits, kupo!${prompt}'
-  54: '${color-alt: 141}${animation: 6}Vous pouvez placer de nouveaux meubles en sélectionnant "Mise en page", kupo!${prompt}'
-  55: '${color-alt: 141}${animation: 10}Soyez prudent, maître ! Vous ne pouvez pas entendre les autres parler quand vous regardez votre journal, kupo!${prompt}'
-  56: '${color-alt: 141}${animation: 10}Soyez prudent, maître ! Vous ne pouvez pas entendre les autres parler quand vous regardez votre album, kupo!${prompt}'
-  57: '${color-alt: 141}${animation: 18}C''est dangereux d''empiler des choses aussi haut, kupo!${prompt}'
-  58: '${color-alt: 123}Des magies puissantes vous empêchent d’utiliser cette capacité.${prompt}'
-  59: '${color-alt: 141}Je ne peux pas faire pousser de plantes sans pot de fleurs, kupo...${prompt}'
-  60: '${color-alt: 141}Vous devez sélectionner "Mise en page" dans le menu et placer un pot de fleurs dans la pièce, kupo. Je ne peux pas cultiver de plantes sans, kupo.${prompt}'
+  52: '${color-alt: 141}Cette plante pousse bien, kupo !${prompt}'
+  53: '${color-alt: 141}${animation: 6}Cette plante donne des fruits, kupo !${prompt}'
+  54: '${color-alt: 141}${animation: 6}Vous pouvez placer de nouveaux meubles en sélectionnant "Disposition", kupo !${prompt}'
+  55: '${color-alt: 141}${animation: 10}Attention, maître ! Vous ne pouvez pas entendre les autres parler lorsque vous regardez votre journal, kupo !${prompt}'
+  56: '${color-alt: 141}${animation: 10}Attention, maître ! Vous ne pouvez pas entendre les autres parler lorsque vous regardez votre album, kupo !${prompt}'
+  57: '${color-alt: 141}${animation: 18}C’est dangereux de superposer les choses si haut, kupo !${prompt}'
+  58: '${color-alt: 123}De puissantes magies vous empêchent d’utiliser cette capacité.${prompt}'
+  59: '${color-alt: 141}Je ne peux pas faire pousser des plantes sans pot de fleurs, kupo...${prompt}'
+  60: '${color-alt: 141}Vous devez sélectionner "Disposition" dans le menu et placer un pot de fleurs dans la pièce, kupo. Je ne peux pas faire pousser des plantes sans cela, kupo.${prompt}'
   61: '${color-alt: 141}Choisissez un pot de fleurs, kupo.${prompt}'
-  62: '${color-alt: 141}Il n''y a aucune plante dans ce pot de fleurs, kupo.${prompt}'
-  63: '${color-alt: 141}Il y a des graines plantées dans ce pot de fleurs, kupo.${prompt}'
+  62: '${color-alt: 141}Il n’y a pas de plante dans ce pot de fleurs, kupo.${prompt}'
+  63: '${color-alt: 141}Des graines sont plantées dans ce pot de fleurs, kupo.${prompt}'
   64: '${color-alt: 141}Il y a des graines dans ce pot, kupo.${prompt}'
   65: '${color-alt: 141}Cette plante pousse bien, kupo.♪${prompt}'
-  66: '${color-alt: 141}Ça va bien, Kupo.♪${prompt}'
-  67: '${color-alt: 141}Cette plante ne va pas bien, kupo... Mais je suis sûr qu''elle ira mieux maintenant que vous l''avez regardée, kupo!${prompt}'
-  68: '${color-alt: 141}Cette plante ne se porte pas bien, kupo... Mais je suis sûr qu''elle ira mieux maintenant que vous l''avez regardée, kupo!${prompt}'
-  69: '${color-alt: 141}Les fleurs s''épanouissent, kupo!${prompt}'
-  70: '${color-alt: 141}De belles fleurs s''épanouissent, kupo ! Ils sont si jolis, kupo !${prompt}'
-  71: '${color-alt: 141}Kupo! Cette plante est prête à être cueillie, kupo !${prompt}'
-  72: '${color-alt: 141}Il est devenu tellement gros, kupo～. Il est prêt à être cueilli maintenant, kupo～.${prompt}'
-  73: '${color-alt: 141}Oh, non... Cette plante est entièrement fanée, kupo...${prompt}'
-  74: '${color-alt: 141}C''est tellement sec et flétri... Je suis désolé, kupo...${prompt}'
-  75: '${color-alt: 141}Choisissez quel type de graines planter, kupo.${prompt}'
+  66: '${color-alt: 141}Elle se porte bien, kupo.♪${prompt}'
+  67: '${color-alt: 141}Cette plante ne va pas bien, kupo... Mais je suis sûr qu’elle ira mieux maintenant que vous l’avez regardée, kupo !${prompt}'
+  68: '${color-alt: 141}Cette plante ne va pas bien, kupo... Mais je suis sûr qu’elle ira mieux maintenant que vous l’avez regardée, kupo !${prompt}'
+  69: '${color-alt: 141}Les fleurs sont en train de fleurir, kupo !${prompt}'
+  70: '${color-alt: 141}De belles fleurs sont en train de fleurir, kupo ! Elles sont si jolies, kupo !${prompt}'
+  71: '${color-alt: 141}Kupo ! Cette plante est prête à être cueillie, kupo !${prompt}'
+  72: '${color-alt: 141}Elle a tellement grandi, kupo～. Elle est prête à être cueillie maintenant, kupo～.${prompt}'
+  73: '${color-alt: 141}Oh, non... Cette plante est complètement flétrie, kupo...${prompt}'
+  74: '${color-alt: 141}Elle est tellement sèche et flétrie... Je suis désolé, kupo...${prompt}'
+  75: '${color-alt: 141}Choisissez le type de graines à planter, kupo.${prompt}'
   76: '${color-alt: 141}Choisissez un cristal à utiliser comme engrais, kupo.${prompt}'
-  77: '${color-alt: 141}J''en ferai une fleur séchée grâce à mes pouvoirs secrets de Moogle, kupo ! Il gardera sa forme pour toujours, kupo !${prompt}'
-  78: '${color-alt: 141}Je peux cueillir ses fruits, mais cela videra le pot de fleurs, kupo.${prompt}'
-  79: '${color-alt: 141}Cette plante disparaîtra à jamais si je la jette, kupo.${prompt}'
-  80: '${color-alt: 141}Très bien, je vais aller à la Maison Mog, kupo ! Je serai là en un rien de temps, kupo～～♪${prompt}'
-  81: '${color-alt: 141}Je suis à la maison, Kupo. Que voulez-vous que je fasse, Kupo... ?${prompt}'
+  77: '${color-alt: 141}Je vais la transformer en fleur séchée avec mes pouvoirs secrets de moogle, kupo ! Elle gardera sa forme pour toujours, kupo !${prompt}'
+  78: '${color-alt: 141}Je peux récolter ses fruits, mais cela videra le pot de fleurs, kupo.${prompt}'
+  79: '${color-alt: 141}Cette plante disparaîtra à jamais si je la jette, kupo.${prompt}' 
+  80: '${color-alt: 141}D’accord, je vais aller à la Maison Mog, kupo ! Je serai là-bas en un rien de temps, kupo～～♪${prompt}'
+  81: '${color-alt: 141}Je suis rentré à la maison, kupo. Que veux-tu que je fasse, kupo...?${prompt}'
   82: '${color-alt: 141}Je suis de retour, kupo～～～.${prompt}'
-  83: '${color-alt: 141}Plantez ces graines, kupo?${prompt}'
-  84: '${color-alt: 141}Utilisez ce cristal, kupo?${prompt}'
-  85: '${color-alt: 141}Choisissez ceci, kupo?${prompt}'
-  86: '${color-alt: 141}En faire une fleur séchée, kupo ?${prompt}'
-  87: '${color-alt: 141}Jetez-le, kupo !?${prompt}'
-  88: '${color-alt: 121}Lancement de dés! ${entity: 2} rolls ${entity: 3}!${prompt}'
+  83: '${color-alt: 141}Planter ces graines, kupo ?${prompt}'
+  84: '${color-alt: 141}Utiliser ce cristal, kupo ?${prompt}'
+  85: '${color-alt: 141}Cueillir cela, kupo ?${prompt}'
+  86: '${color-alt: 141}Le transformer en fleur séchée, kupo ?${prompt}'
+  87: '${color-alt: 141}Le jeter, kupo !?${prompt}'
+  88: '${color-alt: 121}Lancer de dés ! ${entity: 2} fait ${entity: 3} !${prompt}'
   89: '${color-alt: 208}${entity-wrap-start}${entity: 2}${entity-wrap-end} vous examine.${prompt}'
-  90: '${color-alt: 121}${entity: 2} regarde les articles dans votre bazar.${prompt}'
-  91: '${color-alt: 121}En regardant les éléments dans ${entity: 2}''s bazar...${prompt}'
-  92: '${color-alt: 138}${entity: 2} acheté ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]}.${prompt}'
-  93: '${color-alt: 138}${entity: 2} acheté ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]}.${prompt}'
-  94: '${color-alt: 138}Achat ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]} pour ${gil: 2}?${prompt}'
-  95: '${color-alt: 123}Bazar fermé à cause de ${entity: 2}''s changement de paramètres.${prompt}'
-  96: '${color-alt: 123}${entity: 2} disparu.${prompt}'
+  90: '${color-alt: 121}${entity: 2} regarde les objets dans votre bazar.${prompt}'
+  91: '${color-alt: 121}Regarder les objets dans le bazar de ${entity: 2}...${prompt}'
+  92: '${color-alt: 138}${entity: 2} a acheté ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]}.${prompt}'
+  93: '${color-alt: 138}${entity: 2} a acheté ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]}.${prompt}'
+  94: '${color-alt: 138}Achat de ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]} pour ${gil: 2} ?${prompt}'
+  95: '${color-alt: 123}Le bazar est fermé en raison du changement de paramètres de ${entity: 2}.${prompt}'
+  96: '${color-alt: 123}${entity: 2} a disparu.${prompt}'
   97: '${color-alt: 123}${entity: 2} ne vend rien.${prompt}'
-  98: '${color-alt: 141}Je ne peux plus m''occuper de pots de fleurs, kupo...'
-  99: '${color-alt: 141}S''il vous plaît, maître. Ne ramenez plus de mannequins à la maison. Ces choses me donnent la chair de poule, kupo...'
-  100: '${color-alt: 10}${entity-wrap-start}${entity: 2}${entity-wrap-end}''s proposition à tous (cast vote with command: "/vote ?"): '
-  101: '${color-alt: 13}${entity-wrap-start}${entity: 2}${entity-wrap-end}''s proposition au groupe (cast vote with command: "/vote ?"):'
-  102: '${color-alt: 14}${entity-wrap-start}${entity: 2}${entity-wrap-end}''s proposition au groupe Linkshell (cast vote with command: "/vote ?"):'
-  103: '${color-alt: 121}${entity-wrap-start}${entity: 2}${entity-wrap-end}''s proposition à tout le monde (cast vote with command: "/vote ?"):'
-  104: '${color-alt: 123}Cet objet est déjà placé dans la fenêtre d''échange.'
+  98: '${color-alt: 141}Je ne peux plus m’occuper de plus de pots de fleurs, kupo...'
+  99: '${color-alt: 141}S’il te plaît, maître. Ne ramène plus de mannequins à la maison. Ces choses me donnent des frissons, kupo...'
+  100: '${color-alt: 10}${entity-wrap-start}${entity: 2}${entity-wrap-end} propose à tous (votez avec la commande : "/vote ?") :'
+  101: '${color-alt: 13}${entity-wrap-start}${entity: 2}${entity-wrap-end} propose au groupe (votez avec la commande : "/vote ?") :'
+  102: '${color-alt: 14}${entity-wrap-start}${entity: 2}${entity-wrap-end} propose au groupe de linkshell (votez avec la commande : "/vote ?") :'
+  103: '${color-alt: 121}${entity-wrap-start}${entity: 2}${entity-wrap-end} propose à tout le monde (votez avec la commande : "/vote ?") :'
+  104: '${color-alt: 123}Cet objet est déjà placé dans la fenêtre d’échange.'
   105: '${color-alt: 123}Vous ne pouvez pas utiliser cette commande dans le mode de discussion spécifié.'
   106: '${color-alt: 123}Vous avez déjà voté.'
-  107: '${color-alt: 123}Commerce annulé. Soit votre inventaire ou celui de votre cible est plein, soit une erreur s''est produite lors de la transaction.'
-  108: '${color-alt: 123}Équipez-vous d''un linkshell, d''un Pearlsack ou d''un Linkpearl avant d''utiliser cette commande.'
-  109: '${color-alt: 121}Vous avez été expulsé du groupe Linkshell.'
+  107: '${color-alt: 123}Échange annulé. Soit votre inventaire, soit celui de votre cible est plein, ou une erreur est survenue lors de la transaction.'
+  108: '${color-alt: 123}Équipez une linkshell, une poche de perles ou une perle de linkshell avant d’utiliser cette commande.'
+  109: '${color-alt: 121}Vous avez été expulsé du groupe de linkshell.'
   110: |-
-    ${color-alt: 123}Ce groupe LinkShell n'existe plus.
-    Cet article est inutilisable.
+    ${color-alt: 123}Ce groupe de linkshell n'existe plus.
+    Cet objet est inutilisable.
   111: |-
-    ${color-alt: 123}Ce groupe LinkShell a été supprimé par le système.
+    ${color-alt: 123}Ce groupe de linkshell a été résilié par le système.
     Vous ne pouvez plus équiper cet objet.
   112: |-
-    ${color-alt: 123}Le nom LinkShell que vous avez entré est déjà utilisé ou indisponible.
+    ${color-alt: 123}Le nom de linkshell que vous avez saisi est déjà utilisé ou n'est pas disponible.
     Veuillez choisir un autre nom.
   113: |-
-    ${color-alt: 123}Le nom LinkShell que vous avez entré est déjà utilisé ou indisponible.
+    ${color-alt: 123}Le nom de linkshell que vous avez saisi est déjà utilisé ou n'est pas disponible.
     Veuillez choisir un autre nom.
   114: |-
-    ${color-alt: 123}La limite du nombre de linkshells dans ce monde a été atteinte.
-    Vous ne pouvez pas créer un nouveau linkshell.
-  115: '${color-alt: 123}L''intendant du groupe a déjà ${article} ${item-article-alt: 0[2]}. Le ${item-singular-alt: 0[2]} sera mis dans le pool du groupe.'
-  116: '${color-alt: 123}L''intendant du groupe ne peut plus détenir d''objets. Le ${item-singular-alt: 0[2]} sera ajouté au pool d''objets du groupe.'
+    ${color-alt: 123}La limite de numéros de linkshell dans ce monde a été atteinte.
+    Vous ne pouvez pas créer une nouvelle linkshell.
+  115: '${color-alt: 123}Le quartier-maître du groupe a déjà ${article} ${item-article-alt: 0[2]}. Le ${item-singular-alt: 0[2]} sera ajouté au stock du groupe.'
+  116: '${color-alt: 123}Le quartier-maître du groupe ne peut pas contenir plus d’objets. Le ${item-singular-alt: 0[2]} sera ajouté au stock d’objets du groupe.'
   117: '${color-alt: 123}Événement ignoré.${prompt}'
-  118: '${color-alt: 121}L''état en ligne de votre liste d''amis a été modifié en « En ligne ».${prompt}'
-  119: '${color-alt: 121}Le statut en ligne de votre liste d''amis a été modifié en "Absent".${prompt}'
-  120: '${color-alt: 121}L''état en ligne de votre liste d''amis a été modifié en « Occupé ».${prompt}'
-  121: '${color-alt: 121}Le statut en ligne de votre liste d''amis a été modifié en « Invisible ».${prompt}'
-  122: '${color-alt: 123}Une erreur s''est produite lors de la modification du statut en ligne de votre liste d''amis. Votre statut en ligne n''a pas été modifié.${prompt}'
-  123: '${color-alt: 123}Le destinataire est temporairement déconnecté de PlayOnline et n''est pas joignable.'
-  124: '${color-alt: 123}Votre message n''a pas été reçu.'
-  125: '${color-alt: 123}Votre message n''a pas été reçu. Le destinataire est soit hors ligne, soit en train de changer de zone.${prompt}'
-  126: '${color-alt: 123}Erreur de communication. Votre message n''a pas été reçu.${prompt}'
-  127: '${color-alt: 121}Ciblage automatique : activé. '
-  128: '${color-alt: 121}Ciblage automatique : désactivé. '
-  129: '${color-alt: 138}Article vendu.'
-  130: '${color-alt: 121}Vous avez tiré au sort pour ${item-singular-alt: 0[2]}.${prompt}'
+  118: '${color-alt: 121}Votre statut en ligne sur la liste d’amis a été changé en "En ligne."${prompt}'
+  119: '${color-alt: 121}Votre statut en ligne sur la liste d’amis a été changé en "Absent."${prompt}'
+  120: '${color-alt: 121}Votre statut en ligne sur la liste d’amis a été changé en "Occupé."${prompt}'
+  121: '${color-alt: 121}Votre statut en ligne sur la liste d’amis a été changé en "Invisible."${prompt}'
+  122: '${color-alt: 123}Une erreur s’est produite lors du changement de votre statut en ligne sur la liste d’amis. Votre statut en ligne n’a pas été modifié.${prompt}'
+  123: '${color-alt: 123}Le destinataire est temporairement déconnecté de PlayOnline et ne peut être contacté.'
+  124: '${color-alt: 123}Votre message n’a pas été reçu.'
+  125: '${color-alt: 123}Votre chuchotement n’a pas été reçu. Le destinataire est soit hors ligne soit en train de changer de zone.${prompt}'
+  126: '${color-alt: 123}Erreur de communication. Votre chuchotement n’a pas été reçu.${prompt}'
+  127: '${color-alt: 121}Ciblage automatique: ACTIVÉ. '
+  128: '${color-alt: 121}Ciblage automatique: DÉSACTIVÉ. '
+  129: '${color-alt: 138}Objet vendu.'
+  130: '${color-alt: 121}Vous lancez les dés pour l’obtention de ${item-singular-alt: 0[2]}.${prompt}'
   131: '${color-alt: 127}Vous obtenez ${article} ${item-article-alt: 0[2]}.${prompt}'
-  132: '${color-alt: 121}Votre Moogle plante le ${item-singular-alt: 0[2]} dans le pot de fleurs.${prompt}'
-  133: '${color-alt: 121}Votre moogle sèche la plante dans le ${item-singular-alt: 0[2]}.${prompt}'
-  134: '${color-alt: 127}Votre Moogle a choisi ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]} de la plante!${prompt}'
-  135: '${color-alt: 127}Votre Moogle récupère ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]}.${prompt}'
-  136: '${color-alt: 121}Votre Moogle utilise le ${item-singular-alt: 0[2]} de la plante.${prompt}'
-  137: '${color-alt: 141}Kupo... Je ne peux rien choisir pour le moment, Kupo.${prompt}'
-  138: '${color-alt: 123}Vous ne pouvez pas entrer dans la zone suivante lorsque vous êtes monté.'
+  132: '${color-alt: 121}Votre mog récolte le ${item-singular-alt: 0[2]} dans le pot de fleurs.${prompt}'
+  133: '${color-alt: 121}Votre mog sèche la plante dans le ${item-singular-alt: 0[2]}.${prompt}'
+  134: '${color-alt: 127}Votre mog récolte ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]} de la plante !${prompt}'
+  135: '${color-alt: 127}Votre mog récupère ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]}.${prompt}'
+  136: '${color-alt: 121}Votre mog utilise le ${item-singular-alt: 0[2]} sur la plante.${prompt}'
+  137: '${color-alt: 141}Kupo... Je ne peux rien cueillir pour le moment, kupo.${prompt}'
+  138: '${color-alt: 123}Vous ne pouvez pas entrer dans la prochaine zone lorsque vous êtes monté(e).'
   139: '${color-alt: 141}Cette plante a été séchée, kupo.${prompt}'
-  140: '${color-alt: 121}${entity-wrap-start}${entity: 2}${entity-wrap-end}''s proposition - Résultats du sondage actuel:'
-  141: '${color-alt: 121}${entity-wrap-start}${entity: 2}${entity-wrap-end}''s proposition - Résultats finaux du sondage:'
+  140: '${color-alt: 121}${entity-wrap-start}${entity: 2}${entity-wrap-end}''s proposition - Résultats actuels du vote :'
+  141: '${color-alt: 121}${entity-wrap-start}${entity: 2}${entity-wrap-end}''s proposition - Résultats finaux du vote :'
   142: |-
     ${color-alt: 123}Vous ne pouvez pas utiliser cette commande pour le moment.
     Veuillez réessayer plus tard.
-  143: '${color-alt: 123}${entity: 2} n''a rien proposé.'
-  144: '${color-alt: 123}Vous ne pouvez choisir que parmi ${entity: 2} choix donnés.'
-  145: '${color-alt: 123}Vous avez déjà voté ${entity: 2}''s proposition.'
-  146: '${color-alt: 9}${entity-wrap-start}${entity: 2}${entity-wrap-end}''s proposition à tous (cast vote with command: "/vote ?"): '
-  147: '${color-alt: 9}${entity-wrap-start}${entity: 2}${entity-wrap-end}''s proposition - Résultats du sondage actuel:'
-  148: '${color-alt: 9}${entity-wrap-start}${entity: 2}${entity-wrap-end}''s proposition - Résultats finaux du sondage :'
-  149: '${color-alt: 10}${entity-wrap-start}${entity: 2}${entity-wrap-end}''s proposition - Résultats du sondage actuel :'
-  150: '${color-alt: 10}${entity-wrap-start}${entity: 2}${entity-wrap-end}''s proposition - Résultats finaux du sondage :'
-  151: '${color-alt: 13}${entity-wrap-start}${entity: 2}${entity-wrap-end}''s proposition - Résultats du sondage actuel :'
-  152: '${color-alt: 13}${entity-wrap-start}${entity: 2}${entity-wrap-end}''s proposition - Résultats finaux du sondage :'
-  153: '${color-alt: 14}${entity-wrap-start}${entity: 2}${entity-wrap-end}''s proposition - Résultats du sondage actuel :'
-  154: '${color-alt: 14}${entity-wrap-start}${entity: 2}${entity-wrap-end}''s proposition - Résultats finaux du sondage :'
-  155: '${color-alt: 123}Cette demande ne peut pas être traitée.'
-  156: '${color-alt: 123}La ligne de communication est actuellement occupée. Veuillez réessayer plus tard.'
-  157: '${color-alt: 121}Il y a actuellement trop de personnes qui accèdent à ce groupe LinkShell. Vous ne pouvez pas accéder à ce linkshell.'
-  158: '${color-alt: 121}Vous n''avez pas accès à ces commandes LinkShell.'
-  159: '${color-alt: 121}Vous ne pouvez pas mettre en vente un article Linkshell.'
-  160: '${color-alt: 121}Vous synthétisez ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]}.'
-  161: '${color-alt: 121}Vous synthétisez ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]}.'
-  162: '${color-alt: 121}Vous synthétisez ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]}.'
-  163: '${color-alt: 121}Vous synthétisez ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]}.'
-  164: '${color-alt: 121}${lettercase: 1}${article} ${item-article-alt: 0[2]} was lost.'
-  165: '${color-alt: 121}Vous achetez ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]} de la guilde.'
-  166: '${color-alt: 121}Vous achetez ${article} ${item-article-alt: 0[2]} de la guilde.'
+  143: '${color-alt: 123}${entity: 2} n’a proposé rien.'
+  144: '${color-alt: 123}Vous ne pouvez choisir que parmi les propositions de ${entity: 2}.'
+  145: '${color-alt: 123}Vous avez déjà voté sur la proposition de ${entity: 2}.'
+  146: '${color-alt: 9}${entity-wrap-start}${entity: 2}${entity-wrap-end}''s proposition à tous (votez avec la commande : "/vote ?") :'
+  147: '${color-alt: 9}${entity-wrap-start}${entity: 2}${entity-wrap-end}''s proposition - Résultats actuels du vote :'
+  148: '${color-alt: 9}${entity-wrap-start}${entity: 2}${entity-wrap-end}''s proposition - Résultats finaux du vote :'
+  149: '${color-alt: 10}${entity-wrap-start}${entity: 2}${entity-wrap-end}''s proposition - Résultats actuels du vote :'
+  150: '${color-alt: 10}${entity-wrap-start}${entity: 2}${entity-wrap-end}''s proposition - Résultats finaux du vote :'
+  151: '${color-alt: 13}${entity-wrap-start}${entity: 2}${entity-wrap-end}''s proposition - Résultats actuels du vote :'
+  152: '${color-alt: 13}${entity-wrap-start}${entity: 2}${entity-wrap-end}''s proposition - Résultats finaux du vote :'
+  153: '${color-alt: 14}${entity-wrap-start}${entity: 2}${entity-wrap-end}''s proposition - Résultats actuels du vote :'
+  154: '${color-alt: 14}${entity-wrap-start}${entity: 2}${entity-wrap-end}''s proposition - Résultats finaux du vote :'
+  155: '${color-alt: 123}Cette requête ne peut pas être traitée.'
+  156: '${color-alt: 123}La ligne de communication est occupée pour le moment. Veuillez réessayer plus tard.'
+  157: '${color-alt: 121}Il y a actuellement trop de personnes accédant à ce groupe de linkshell. Vous ne pouvez pas accéder à cette linkshell.'
+  158: '${color-alt: 121}Vous n’avez pas accès à ces commandes de linkshell.'
+  159: '${color-alt: 121}Vous ne pouvez pas mettre un objet de linkshell en vente.'
+  160: '${color-alt: 121}Vous avez synthétisé ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]}.'
+  161: '${color-alt: 121}Vous avez synthétisé ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]}.'
+  162: '${color-alt: 121}Vous avez synthétisé ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]}.'
+  163: '${color-alt: 121}Vous avez synthétisé ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]}.'
+  164: '${color-alt: 121}${lettercase: 1}${article} ${item-article-alt: 0[2]} a été perdu.'
+  165: '${color-alt: 121}Vous achetez ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]} à la guilde.'
+  166: '${color-alt: 121}Vous achetez ${article} ${item-article-alt: 0[2]} à la guilde.'
   167: '${color-alt: 121}Vous vendez ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]} à la guilde.'
   168: '${color-alt: 121}Vous vendez ${article} ${item-article-alt: 0[2]} à la guilde.'
-  169: '${color-alt: 121}Vous avez obtenu ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]}.'
+  169: '${color-alt: 121}Vous obtenez ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]}.'
   170: |-
-    ${color-alt: 121}fente ${number-alt: 0}:
-    ${gil: 1}, vous a été envoyé par ${entity: 2}.
+    ${color-alt: 121}Emplacement ${number-alt: 0} :
+    ${gil: 1}, envoyé par ${entity: 2}.
   171: |-
-    ${color-alt: 121}fente ${number-alt: 0}:
-    L'argent que l'acheteur a payé pour le ${item-singular-alt: 2[2]} vous avez mis aux enchères, ${gil: 1}.
+    ${color-alt: 121}Emplacement ${number-alt: 0} :
+    L'argent que l'acheteur a payé pour le ${item-singular-alt: 2[2]} que vous avez mis en vente aux enchères, ${gil: 1}.
   172: '${color-alt: 121}Vous ne pouvez pas utiliser cette commande lorsque vous êtes invisible.'
-  173: '${color-alt: 121}Votre ${item-singular-alt: 0[2]} vendu.'
+  173: '${color-alt: 121}Votre ${item-singular-alt: 0[2]} a été vendu.'
   174: |-
-    ${color-alt: 121}Votre ${item-singular-alt: 0[2]} n'a pas vendu.
-    Les objets qui ne sont pas vendus sont envoyés à votre Maison Mog.
-  175: '${color-alt: 121}Les informations sur votre personnage sont désormais masquées.'
-  176: '${color-alt: 121}Les informations sur votre personnage sont maintenant affichées.'
+    ${color-alt: 121}Votre ${item-singular-alt: 0[2]} n'a pas été vendu.
+    Les objets invendus sont envoyés dans votre Mog House.
+  175: '${color-alt: 121}Les informations de votre personnage sont maintenant cachées.'
+  176: '${color-alt: 121}Les informations de votre personnage sont maintenant affichées.'
   177: '${color-alt: 121}Vous achetez le ${item-singular-alt: 0[2]} pour ${gil: 2}.'
-  178: '${color-alt: 121}Vous n''avez pas pu acheter le ${item-singular-alt: 0[2]} pour ${gil: 2}.'
-  179: 'Élément clé obtenu : ${lettercase: 1}${keyitem-singular: 0[2]}.'
-  180: '${color-alt: 121}Vous jettez${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]}.'
-  181: '${color-alt: 123}Votre message n''a pas été reçu. Le destinataire est actuellement absent.${prompt}'
-  182: '${color-alt: 123}Cette personne fait déjà partie d’une alliance.${prompt}'
-  183: '${color-alt: 123}Impossible de traiter la demande.'
-  184: '${color-alt: 123}Impossible d''accéder à la zone suivante. Pack d''extension non enregistré.${prompt}'
-  185: '${color-alt: 123}Impossible d''accéder à la zone suivante. Pack d''extension non enregistré.${prompt}'
-  186: '${color-alt: 121}Votre ${number-alt: 1} ${item-given-plurality-alt: 1[2], 0[2]} vendu.'
+  178: '${color-alt: 121}Vous n’avez pas pu acheter le ${item-singular-alt: 0[2]} pour ${gil: 2}.'
+  179: 'Objet-clé obtenu: ${lettercase: 1}${keyitem-singular: 0[2]}.'
+  180: '${color-alt: 121}Vous jetez ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]}.'
+  181: '${color-alt: 123}Votre chuchotement n’a pas été reçu. Le destinataire est actuellement absent.${prompt}'
+  182: '${color-alt: 123}Cette personne est déjà dans une alliance.${prompt}'
+  183: '${color-alt: 123}Impossible de traiter la requête.' 
+  184: '${color-alt: 123}Impossible d’entrer dans la zone suivante. Extension non enregistrée.${prompt}'
+  185: '${color-alt: 123}Impossible d’entrer dans la zone suivante. Extension non installée.${prompt}'
+  186: '${color-alt: 121}Votre ${number-alt: 1} ${item-given-plurality-alt: 1[2], 0[2]} a été vendu.'
   187: |-
-    ${color-alt: 121}Votre ${number-alt: 1} ${item-given-plurality-alt: 1[2], 0[2]} n'est pas vendu.
-    Les objets qui ne sont pas vendus sont envoyés à votre Maison Mog.
-  188: '${color-alt: 121}Vous achetez le ${number-alt: 1} ${item-given-plurality-alt: 1[2], 0[2]} pour ${gil: 2}.'
-  189: '${color-alt: 121}Vous n''avez pas pu acheter le ${number-alt: 1} ${item-given-plurality-alt: 1[2], 0[2]} pour ${gil: 2}.'
-  190: '${color-alt: 121}Vous prenez le ${gil: 2} hors de ${entity: 2} fente ${number-alt: 0}.'
-  191: '${color-alt: 121}Vous disposez du ${gil: 2} dans ${entity: 2} fente ${number-alt: 0}.'
-  192: '${color-alt: 121}Vous retournez le ${gil: 2} dans ${entity: 2} fente ${number-alt: 0} à son expéditeur.'
-  193: '${color-alt: 121}Vous prenez le ${item-singular-alt: 1[2]} hors de ${entity: 2} fente ${number-alt: 0}.'
-  194: '${color-alt: 121}Vous prenez le ${number-alt: 2} ${item-given-plurality-alt: 2[2], 1[2]} hors de ${entity: 2} fente ${number-alt: 0}.'
-  195: '${color-alt: 121}Vous disposez du ${item-singular-alt: 1[2]} dans ${entity: 2} fente ${number-alt: 0}.'
-  196: '${color-alt: 121}Vous disposez du ${number-alt: 2} ${item-given-plurality-alt: 2[2], 1[2]} dans ${entity: 2} fente ${number-alt: 0}.'
-  197: '${color-alt: 121}Vous retournez le ${item-singular-alt: 1[2]} dans ${entity: 2} fente ${number-alt: 0} à son expéditeur.'
-  198: '${color-alt: 121}Vous retournez le ${number-alt: 2} ${item-given-plurality-alt: 2[2], 1[2]} dans ${entity: 2} fente ${number-alt: 0} à leur expéditeur.'
+    ${color-alt: 121}Vos ${number-alt: 1} ${item-given-plurality-alt: 1[2], 0[2]} n'ont pas été vendus.
+    Les articles non vendus sont envoyés dans votre Mog House.
+  188: '${color-alt: 121}Vous achetez les ${number-alt: 1} ${item-given-plurality-alt: 1[2], 0[2]} pour ${gil: 2}.'
+  189: '${color-alt: 121}Vous n’avez pas pu acheter les ${number-alt: 1} ${item-given-plurality-alt: 1[2], 0[2]} pour ${gil: 2}.'
+  190: '${color-alt: 121}Vous récupérez les ${gil: 2} de l’emplacement ${number-alt: 0} de ${entity: 2}.'
+  191: '${color-alt: 121}Vous vous débarrassez des ${gil: 2} dans l’emplacement ${number-alt: 0} de ${entity: 2}.'
+  192: '${color-alt: 121}Vous retournez les ${gil: 2} de l’emplacement ${number-alt: 0} de ${entity: 2} à leur expéditeur.'
+  193: '${color-alt: 121}Vous retirez le ${item-singular-alt: 1[2]} de l’emplacement ${number-alt: 0} de ${entity: 2}.'
+  194: '${color-alt: 121}Vous retirez les ${number-alt: 2} ${item-given-plurality-alt: 2[2], 1[2]} de l’emplacement ${number-alt: 0} de ${entity: 2}.'
+  195: '${color-alt: 121}Vous vous débarrassez du ${item-singular-alt: 1[2]} dans l’emplacement ${number-alt: 0} de ${entity: 2}.'
+  196: '${color-alt: 121}Vous vous débarrassez des ${number-alt: 2} ${item-given-plurality-alt: 2[2], 1[2]} dans l’emplacement ${number-alt: 0} de ${entity: 2}.'
+  197: '${color-alt: 121}Vous retournez le ${item-singular-alt: 1[2]} de l’emplacement ${number-alt: 0} de ${entity: 2} à son expéditeur.'
+  198: '${color-alt: 121}Vous retournez les ${number-alt: 2} ${item-given-plurality-alt: 2[2], 1[2]} de l’emplacement ${number-alt: 0} de ${entity: 2} à leurs expéditeurs.'
   199: |-
-    ${color-alt: 121}fente ${number-alt: 0}:
-    L'argent que l'acheteur a payé pour le ${number-alt: 3} ${item-given-plurality-alt: 3[2], 2[2]} vous mettez aux enchères, ${gil: 1}.
-  200: '${color-alt: 121}${entity: 2} synthétisé ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]}.'
-  201: '${color-alt: 121}${entity: 2} synthétisé ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]}.'
-  202: '${color-alt: 121}${entity: 2} synthétisé ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]}.'
-  203: '${color-alt: 121}${entity: 2} synthétisé ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]}.'
-  204: '${color-alt: 121}${entity: 2} perdu ${article} ${item-article-alt: 0[2]}.'
-  205: '${color-alt: 121}${entity: 2} obtenu ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]}.'
-  206: '${color-alt: 121}Vous avez déposé une demande d''émigration mondiale.'
-  207: '${color-alt: 121}Vous n''avez pas soumis de demande d''émigration mondiale.'
-  208: '${color-alt: 121}Vous n''avez pas pu obtenir le ${item-singular-alt: 0[2]}. Soit votre inventaire est plein, soit vous ne pouvez détenir qu''un seul objet de ce type.'
-  209: '${color-alt: 121}Vous ne pouvez pas effectuer cette action en tenant un Petra.'
-  210: '${color-alt: 121}Vous ne pouvez pas effectuer cette action sans Petra.'
-  211: '${color-alt: 121}Vous avez perdu votre Petras.'
-  212: '${color-alt: 121}Le statut Gate Breach a été désactivé.'
-  213: '${color-alt: 121}Récupération dans ${number-alt: 0} ${choice-plurality-number: 0}[second/seconds].'
+    ${color-alt: 121}Emplacement ${number-alt: 0} :
+    L'argent que l'acheteur a payé pour les ${number-alt: 3} ${item-given-plurality-alt: 3[2], 2[2]} que vous avez mis en vente aux enchères, ${gil: 1}.
+  200: '${color-alt: 121}${entity: 2} a synthétisé ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]}.'
+  201: '${color-alt: 121}${entity: 2} a synthétisé ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]}.' 
+  202: '${color-alt: 121}${entity: 2} a synthétisé ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]}.'  
+  203: '${color-alt: 121}${entity: 2} a synthétisé ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]}.'
+  204: '${color-alt: 121}${entity: 2} a perdu ${article} ${item-article-alt: 0[2]}.'
+  205: '${color-alt: 121}${entity: 2} a obtenu ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]}.'
+  206: '${color-alt: 121}Vous avez soumis une demande d’émigration mondiale.'
+  207: '${color-alt: 121}Vous n’avez pas soumis de demande d’émigration mondiale.'
+  208: '${color-alt: 121}Vous n’avez pas pu obtenir le ${item-singular-alt: 0[2]}. Soit votre inventaire est plein, soit vous ne pouvez détenir qu’un seul objet de ce type.'
+  209: '${color-alt: 121}Vous ne pouvez pas effectuer cette action en tenant une Petra.'
+  210: '${color-alt: 121}Vous ne pouvez pas effectuer cette action sans une Petra.'
+  211: '${color-alt: 121}Vous avez perdu vos Petras.'
+  212: '${color-alt: 121}Le statut de Faille de porte a été désactivé.'
+  213: '${color-alt: 121}Récupération dans ${number-alt: 0} ${choice-plurality-number: 0}[seconde/secondes].'
   214: '${color-alt: 121}Retour au combat.'
   215: '${color-alt: 121}Retour au camp.'
-  216: '${color-alt: 123}Cette action ne peut pas être effectuée en participant à un conflit..${prompt}'
+  216: '${color-alt: 123}Cette action ne peut pas être effectuée pendant la participation à un Conflit.${prompt}'
   217: '${color-alt: 123}Cette action ne peut pas être effectuée pendant la préparation au combat.${prompt}'
   218: '${color-alt: 121}Vous trouvez ${article} ${item-article-alt: 0[2]} dans le ${entity: 1}.${prompt}'
   219: |-
-    ${color-alt: 121}※※Chevrons gagnés※※
-    Or: ${number: 0} Mythril: ${number: 1} Argent: ${number: 2} Bronze: ${number: 3} Métier: ${number: 4}${prompt}
-  220: '${color-alt: 121}Vous ne pouvez pas posséder plus d’un de cet objet.'
+    ${color-alt: 121}※※Chevrons obtenus※※
+    Or: ${number: 0} Mythril: ${number: 1} Argent: ${number: 2} Bronze: ${number: 3} Travail: ${number: 4}${prompt}
+  220: '${color-alt: 121}Vous ne pouvez pas posséder plus d’un exemplaire de cet objet.'
   221: |-
-    ${color-alt: 123}Blockaid activé.
-    L'assistance magique, les échanges, les invitations à des groupes, etc. provenant de personnages n'appartenant pas à un parti ou à une alliance seront bloqués.
-    Cet effet continuera jusqu'au changement de zone ou à l'exécution de la commande "/blockaid off".${prompt}
+    ${color-alt: 123}Blocage activé.
+    Les aides magiques, les échanges, les invitations en groupe, etc. provenant de personnages extérieurs au groupe ou à l'alliance seront bloqués.
+    Cet effet se poursuivra jusqu'au changement de zone ou jusqu'à l'exécution de la commande "/blockaid off".${prompt}
   222: |-
-    ${color-alt: 121}Blocage de l'aide annulé.
-    L'assistance magique, les échanges, les invitations à des groupes, etc. de la part de personnages n'appartenant pas à un parti ou à une alliance seront autorisés.${prompt}
+    ${color-alt: 121}Blocage annulé.
+    Les aides magiques, les échanges, les invitations en groupe, etc. provenant de personnages extérieurs au groupe ou à l'alliance seront autorisés.${prompt}
   223: |-
-    ${color-alt: 121}Blockaid est actuellement actif.
-    ("/blockaid off" annuler.)${prompt}
-  224: '${color-alt: 121}Blockaid est actuellement inactif.${prompt}'
-  225: '${color-alt: 121}La cible bloque actuellement l’assistance magique extérieure, les échanges et les invitations à des fêtes.${prompt}'
-  226: '${color-alt: 121}L''interaction d''un personnage n''appartenant pas au groupe a été bloquée par /blockaid.${prompt}'
-  227: '${color-alt: 208}${entity-wrap-start}${entity: 2}${entity-wrap-end} vérifie vos données Ballista.${prompt}'
-  228: '${color-alt: 121}Récupération dans ${number-alt: 0} ${choice-plurality-number: 0}[second/seconds].'
+    ${color-alt: 121}Le blocage est actuellement actif.
+    ("/blockaid off" pour annuler.)${prompt}
+  224: '${color-alt: 121}Le blocage est actuellement inactif.${prompt}'
+  225: '${color-alt: 121}La cible bloque actuellement les aides magiques extérieures, les échanges et les invitations en groupe.${prompt}'
+  226: '${color-alt: 121}L’interaction d’un personnage extérieur au groupe a été bloquée par /blockaid.${prompt}'
+  227: '${color-alt: 208}${entity-wrap-start}${entity: 2}${entity-wrap-end} vérifie vos données de Ballista.${prompt}'
+  228: '${color-alt: 121}Récupération dans ${number-alt: 0} ${choice-plurality-number: 0}[seconde/secondes].'
   229: '${color-alt: 121}Vous ne pouvez pas effectuer cette action en tenant une Flamme.'
-  230: '${color-alt: 121}Vous achetez ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]} du magasin.'
-  231: '${color-alt: 121}Vous achetez ${article} ${item-article-alt: 0[2]} du magasin.'
-  232: '${color-alt: 121}Vous vendez ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]} du magasin.'
-  233: '${color-alt: 121}Vous vendez ${article} ${item-article-alt: 0[2]} du magasin.'
-  234: '${color-alt: 123}Impossible d''équiper les objets Linkshell.${prompt}'
+  230: '${color-alt: 121}Vous achetez ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]} dans la boutique.'
+  231: '${color-alt: 121}Vous achetez ${article} ${item-article-alt: 0[2]} dans la boutique.'
+  232: '${color-alt: 121}Vous vendez ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]} à la boutique.'
+  233: '${color-alt: 121}Vous vendez ${article} ${item-article-alt: 0[2]} à la boutique.'
+  234: '${color-alt: 123}Impossible d’équiper les objets de linkshell.${prompt}'
   235: |-
-    ${color-alt: 123}Avertissement! Il s'agit d'une soirée Level Sync. L'adhésion entraînera une restriction de votre niveau.
-    Si vous vous trouvez dans une autre zone, la restriction s’appliquera dès que vous entrerez dans la même zone.
+    ${color-alt: 123}Avertissement ! Il s'agit d'un groupe avec synchronisation des niveaux. Rejoindre ce groupe limitera votre niveau.
+    Si vous vous trouvez dans une zone différente, la restriction s'appliquera dès que vous entrerez dans la même zone.
   236: |-
     ${color-alt: 123}Vous ne pouvez pas inviter cette personne pour le moment.
-    Ce joueur est soit en cours de désactivation de Level Sync, soit sous l'effet d'un statut qui empêche la synchronisation.
+    Ce joueur est soit en train de désactiver la synchronisation des niveaux, soit sous l'effet d'un statut qui empêche la synchronisation.
   237: |-
     ${color-alt: 123}Vous ne pouvez pas rejoindre ce groupe.
-    Soit vous êtes en cours de désactivation de Level Sync, soit vous êtes sous l'effet d'un statut qui empêche la synchronisation.
+    Vous êtes soit en train de désactiver la synchronisation des niveaux, soit sous l'effet d'un statut qui empêche la synchronisation.
   238: |-
     ${color-alt: 121}Le niveau du groupe a été limité à ${number: 0}.
-    S'éloigner trop du responsable de Level Sync entraînera l'incapacité de recevoir des points d'expérience.
+    S'éloigner trop du désigné de synchronisation des niveaux empêchera de recevoir des points d'expérience.
     L'équipement affecté par la restriction de niveau sera ajusté en conséquence.
   239: '${color-alt: 121}La boussole indique : X:${number-alt: 0} Y:${number-alt: 1} Z:${number-alt: 2} (${number-alt: 3}).'
   240: '${color-alt: 121}Votre message a été bloqué par le filtre anti-spam.'
-  241: '${color-alt: 9}Volker : Je n''ai pas caché mes ennuis !'
-  242: '${color-alt: 9}Volker : Ressentez mes vingt années de douleur !'
-  243: '${color-alt: 9}Volker : Est-ce votre réponse !?'
-  244: '${color-alt: 9}Volker : Retournez avec ton âme dans les ténèbres d''où vous venez!'
-  245: '${color-alt: 9}Volker : Vous, un homme qui n''avez jamais vécu lié par les chaînes de son pays, comment pouvez-vous comprendre ma douleur !?'
-  246: '${color-alt: 9}Volker : Que ma lame soit la réponse!'
-  247: '${color-alt: 9}Trion : Je m''appelle Trion, de San d''Oria!'
-  248: '${color-alt: 9}Trion : Ressentez le feu de mes ancêtres!'
-  249: '${color-alt: 9}Trion : Les ténèbres devant moi qui enveloppent la lumière du bien…'
-  250: '${color-alt: 9}Trion : ... Retournez à l''enfer d''où vous êtes sorti!'
-  251: '${color-alt: 9}Trion : La colère, la douleur et la volonté de survivre... Que l''esprit de San d''Oria converge dans cette lame.'
-  252: '${color-alt: 9}Trion : Et avec cette lame, je rendrai la gloire au peuple de mon royaume!'
+  241: '${color-alt: 9}Volker: Je n’ai pas fui mes problèmes !'
+  242: '${color-alt: 9}Volker: Ressens mes vingt années de douleur !'
+  243: '${color-alt: 9}Volker: Est-ce là ta réponse ?!'
+  244: '${color-alt: 9}Volker: Retourne avec ton âme dans les ténèbres d’où tu viens !'
+  245: '${color-alt: 9}Volker: Toi, un homme qui n’a jamais vécu enchaîné par les chaînes de son pays, comment peux-tu comprendre ma douleur ?!'
+  246: '${color-alt: 9}Volker: Que ma lame soit la réponse !'
+  247: '${color-alt: 9}Trion: Je suis Trion, de San d’Oria !'
+  248: '${color-alt: 9}Trion: Ressens le feu de mes ancêtres !'
+  249: '${color-alt: 9}Trion: Les ténèbres qui se dressent devant moi, obscurcissant la lumière du bien...'
+  250: '${color-alt: 9}Trion: ...Retournez à l’enfer d’où vous venez !'
+  251: '${color-alt: 9}Trion: La colère, la douleur et la volonté de survivre... Que l’esprit de San d’Oria converge dans cette lame.'
+  252: '${color-alt: 9}Trion: Et avec cette lame, je rendrai la gloire au peuple de mon royaume !'
   253: |-
-    ${color-alt: 9}Ajido-Marujido : Le temps de jeu est terminé !
-    Pouvoirs du mana noir, répondez à mon appel !
+    ${color-alt: 9}Ajido-Marujido : Le moment de jouer est terminé !
+    Pouvoirs de la mana sombre, répondez à mon appel !
   254: |-
     ${color-alt: 9}Ajido-Marujido : Vous devriez être reconnaissant.
-    Je vais vous faire un petit voyage dans l'enfer d'où vous venez !
+    Je vous renverrai rapidement en enfer, d'où vous venez !
   255: |-
-    ${color-alt: 9}Ajido-Marujido : N'abandonnez pas, aventurier !
-    Vous êtes l'étoile directrice de Windurst, notre lueur d'espoir !
+    ${color-alt: 9}Ajido-Marujido : Ne baissez pas les bras, aventurier !
+    Vous êtes l'étoile directrice de Windurst, notre phare d'espoir !
   256: '${color-alt: 123}Vous ne pouvez pas utiliser cette commande dans cette zone.${prompt}'
-  257: '${color-alt: 123}Cette commande n''est pas prise en charge par la version d''essai gratuite.'
+  257: '${color-alt: 123}Cette commande n’est pas prise en charge par la version d’essai gratuite.'
   258: |-
-    ${color-alt: 123}Toutes nos félicitations! Vous avez atteint le niveau maximum atteignable dans la version d'essai gratuite.
+    ${color-alt: 123}Félicitations ! Vous avez atteint le niveau maximal possible dans la version d'essai gratuite.
     Achetez la version complète du jeu pour continuer vos aventures !
   259: |-
-    ${color-alt: 123}Le lancement de tell n'est pas pris en charge par la version d'essai gratuite.
-    Pour répondre à un message qui vous a été envoyé, appuyez sur Ctrl+R pour sélectionner le nom du joueur.
-  260: '${color-alt: 121}Votre couvre-chef est désormais visible.'
-  261: '${color-alt: 121}Votre couvre-chef est désormais caché.'
+    ${color-alt: 123}L'envoi de messages privés n'est pas pris en charge par la version d'essai gratuite.
+    Pour répondre à un message privé qui vous a été envoyé, appuyez sur Ctrl+R pour sélectionner le nom du joueur.
+  260: '${color-alt: 121}Votre couvre-chef est maintenant visible.'
+  261: '${color-alt: 121}Votre couvre-chef est maintenant caché.'
   262: '${color-alt: 123}sysmes262'
-  263: '${color-alt: 121}Ce monstre est actuellement possédé par ${entity: 2}!'
-  264: '${color-alt: 208}${entity-wrap-start}${entity: 2}${entity-wrap-end} vous regarde attentivement, visiblement conscient que vous avez découvert sa véritable forme.'
-  265: '${color-alt: 123}Vous ne pouvez pas rejoindre un groupe dont le chef a actuellement un alter ego.'
+  263: '${color-alt: 121}Ce monstre est actuellement possédé par ${entity: 2} !'
+  264: '${color-alt: 208}${entity-wrap-start}${entity: 2}${entity-wrap-end} vous fixe intensément, visiblement conscient que vous avez découvert sa véritable forme.'
+  265: '${color-alt: 123}Vous ne pouvez pas rejoindre un groupe dont le chef a actuellement un alter ego présent.'
   266: '${color-alt: 123}Vous ne pouvez pas rejoindre une alliance dont le chef a actuellement un alter ego présent.'
-  267: '${color-alt: 121}Mode de verrouillage de style activé.'
-  268: '${color-alt: 121}Mode de verrouillage du style désactivé.'
-  269: '${color-alt: 121}Le mode de verrouillage du style est activé.'
-  270: '${color-alt: 121}Le mode de verrouillage du style est désactivé.'
-  271: '${color-alt: 9}Dernier article réalisé: ${item-singular: 0[2]}.'
+  267: '${color-alt: 121}Mode verrouillage de style activé.'
+  268: '${color-alt: 121}Mode verrouillage de style désactivé.'
+  269: '${color-alt: 121}Le mode verrouillage de style est activé.'
+  270: '${color-alt: 121}Le mode verrouillage de style est désactivé.'
+  271: '${color-alt: 9}Dernier objet fabriqué : ${item-singular: 0[2]}.'
   272: '${color-alt: 9}${lettercase: 1}${item-singular: 0[2]}.'
   273: '${color-alt: 9}${number: 1} ${item-given-plurality: 1[2], 0[2]}.'
-  274: '${color-alt: 123}Impossible d''équiper le ${item-singular: 0[2]}.'
+  274: '${color-alt: 123}Échec de l’équipement du ${item-singular: 0[2]}.'
   275: '${color-alt: 123}Impossible de trouver le ${item-singular: 0[2]}.'
   276: '${color-alt: 121}Inventaire'
-  277: '${color-alt: 121}Casier Mog'
+  277: '${color-alt: 121}Coffre de Mog'
   278: '${color-alt: 121}Stockage'
-  279: '${color-alt: 121}Casier Mog'
-  280: '${color-alt: 121}Sacoche Mog'
-  281: '${color-alt: 121}Sac Mog'
-  282: '${color-alt: 121}Affaire Mog'
-  283: '${color-alt: 121}Armoire Mog'
-  284: 'Instances of ${item-plural: 0[2]} ont été trouvés dans les systèmes suivants:'
-  285: '${color-alt: 123}Aucune instance de cet élément n''a été trouvée.'
-  286: '${color-alt: 123}Vous ne participez pas au chat Unité.'
-  287: '${color-alt: 121}Le nombre maximum de personnes participent déjà au chat Unité. Veuillez réessayer plus tard.'
-  288: '${color-alt: 123}Il n''y a aucun caractère applicable à portée.'
-  289: '${color-alt: 214}${entity-wrap-start}${entity: 2}${entity-wrap-end}''s proposition au groupe Linkshell (cast vote with command: "/vote ?"):'
-  290: '${color-alt: 214}${entity-wrap-start}${entity: 2}${entity-wrap-end}''s proposition - Résultats du sondage actuel:'
-  291: '${color-alt: 214}${entity-wrap-start}${entity: 2}${entity-wrap-end}''s proposition - Résultats finaux du sondage:'
-  292: '${color-alt: 121}Mog Coffre-fort 2.'
-  293: Votre deuxième étage a été rénové avec succès.
-  294: '${color-alt: 123}L''apparence de votre ${item-singular: 0[2]} n''a pas pu être verrouillé.'
-  295: '${color-alt: 121}Vos paramètres d''apparence ont été mis à jour.'
-  296: '${color-alt: 123}Vous ne pouvez pas utiliser la magie Trust lorsque vous recherchez un groupe.'
-  297: '${color-alt: 123}Lorsque vous invitez un membre du groupe, vous devez attendre un moment avant d''utiliser la magie Trust.'
-  298: '${color-alt: 123}Vous avez fait appel à votre nombre maximum d’alter ego.'
-  299: '${color-alt: 123}Cet alter ego a déjà été évoqué.'
-  300: '${color-alt: 123}Vous ne pouvez pas utiliser la magie Trust tout en ayant acquis de l''inimitié.'
-  301: '${color-alt: 123}Vous ne pouvez pas utiliser la magie Trust à moins d''être solo ou chef de groupe.'
-  302: '${color-alt: 123}Votre demande n''a pas abouti.'
-  303: '${color-alt: 121}Armoire Mog 2'
-  304: '${color-alt: 121}Armoire Mog 3'
-  305: '${color-alt: 121}Armoire Mog 4'
+  279: '${color-alt: 121}Casier de Mog'
+  280: '${color-alt: 121}Bourse de Mog'
+  281: '${color-alt: 121}Sac de Mog'
+  282: '${color-alt: 121}Valise de Mog'
+  283: '${color-alt: 121}Garde-robe de Mog'
+  284: 'Des exemplaires de ${item-plural: 0[2]} ont été trouvés dans les systèmes suivants:'
+  285: '${color-alt: 123}Aucun exemplaire de cet objet n’a été trouvé.'
+  286: '${color-alt: 123}Vous ne participez pas au chat Unity.'
+  287: '${color-alt: 121}Le nombre maximal de personnes participe déjà au chat Unity. Veuillez réessayer plus tard.'
+  288: '${color-alt: 123}Aucun personnage applicable n’est dans la zone de portée.'
+  289: '${color-alt: 214}${entity-wrap-start}${entity: 2}${entity-wrap-end} propose au groupe de linkshell (votez avec la commande: "/vote ?"):'
+  290: '${color-alt: 214}${entity-wrap-start}${entity: 2}${entity-wrap-end} - Résultats actuels du vote:'
+  291: '${color-alt: 214}${entity-wrap-start}${entity: 2}${entity-wrap-end} - Résultats finaux du vote:'
+  292: '${color-alt: 121}Coffre de Mog 2.'
+  293: Votre deuxième étage a été réaménagé avec succès.
+  294: '${color-alt: 123}L’apparence de votre ${item-singular: 0[2]} n’a pas pu être verrouillée.'
+  295: '${color-alt: 121}Vos paramètres d’apparence ont été mis à jour.'
+  296: '${color-alt: 123}Vous ne pouvez pas utiliser la magie de Confiance (Trust) tout en cherchant un groupe.'
+  297: '${color-alt: 123}Lorsque vous invitez un membre de groupe, vous devez attendre un moment avant d’utiliser la magie de Confiance (Trust).'
+  298: '${color-alt: 123}Vous avez invoqué votre nombre maximum d’alter egos.'
+  299: '${color-alt: 123}Cet alter ego a déjà été invoqué.'
+  300: '${color-alt: 123}Vous ne pouvez pas utiliser la magie de Confiance (Trust) si vous avez attiré l’hostilité.'
+  301: '${color-alt: 123}Vous ne pouvez pas utiliser la magie de Confiance (Trust) sauf si vous êtes seul ou le chef du groupe.'
+  302: '${color-alt: 123}Votre demande n’a pas abouti.'
+  303: '${color-alt: 121}Garde-robe de Mog 2'
+  304: '${color-alt: 121}Garde-robe de Mog 3'
+  305: '${color-alt: 121}Garde-robe de Mog 4'
+  306: '${color-alt: 121}Vous avez donné un pouce levé au message de ${entity-wrap-start}${entity: 2}${entity-wrap-end}.'
+  307: '${color-alt: 121}Vous avez donné un avertissement au message de ${entity-wrap-start}${entity: 2}${entity-wrap-end}.'
+  308: '${color-alt: 123}Une erreur est survenue.'
+  309: '${color-alt: 123}Vous avez atteint le nombre maximum de pouces levés pouvant être attribués.'
+  310: '${color-alt: 123}Vous avez atteint le nombre maximum d’avertissements pouvant être attribués.'
+  311: '${color-alt: 121}${entity-wrap-start}${entity: 3}${entity-wrap-end} a ajouté ${entity-wrap-start}${entity: 2}${entity-wrap-end} à la liste de silence.'
+  312: '${color-alt: 121}Cet individu est déjà sur la liste de silence.'
+  313: '${color-alt: 121}${entity-wrap-start}${entity: 3}${entity-wrap-end} a retiré ${entity-wrap-start}${entity: 2}${entity-wrap-end} de la liste de silence.'
+  314: '${color-alt: 121}Vous avez reçu un pouce levé pour votre message.'
+  315: '${color-alt: 121}Quelqu’un vous a donné un avertissement pour votre message.'
+  316: '${color-alt: 123}Seuls les mentors peuvent discuter dans ce canal.'
+  317: '${color-alt: 121}Vous ne pourrez plus discuter dans ce canal dans ${number: 0} ${choice: 1}[heure/minute]${choice-plurality: 0}[/s].'
+  318: "${color-alt: 121}Vous ne pouvez plus discuter dans le canal d'Assistance. Nous vous recommandons de consulter un concierge de linkshell pour trouver plus d'amis avec qui partir à l'aventure. Les concierges de linkshell se trouvent dans les zones suivantes : \n${unknown: 0x01053782E78180}, ${unknown: 0x01053782EA8180}, et ${unknown: 0x01053782EF8180}."
+  319: '${color-alt: 121}Garde-robe de Mog 5'
+  320: '${color-alt: 121}Garde-robe de Mog 6'
+  321: '${color-alt: 121}Garde-robe de Mog 7'
+  322: '${color-alt: 121}Garde-robe de Mog 8'
+  323: '${color-alt: 121}Corbeille'
+  324: |-
+    ${color-alt: 121}Le niveau maître du groupe a été restreint à ${number-alt: 0}.
+    S'éloigner trop du désigné pour la synchronisation des niveaux entraînera une incapacité à recevoir des points d'expérience.${prompt}
+  325: '${color-alt: 123}Vous ne pouvez pas jeter ${item-singular: 0[2]}.' 
