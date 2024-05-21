@@ -1,294 +1,292 @@
 entries:
   0: dummy${prompt}
-  1: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[frappe/frappe] ${choice-definite-entity: 1}[le /]${entity-target} pour ${number-alt: 1} points de dégats.${prompt}'
+  1: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[frappe/frappent] ${choice-definite-entity: 1}[le /]${entity-target} pour ${number-alt: 1} point${choice-plurality-number: 1}[/s] de dégâts.${prompt}'
   2: |-
-    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[lance/lance] ${spell-alt: 0}.
-    ${unknown-84: 0}${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[prend/prend] ${number-alt: 1} points de dégats.${prompt}
-  3: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[démarre/démarre] le sort ${spell-alt: 1}.${prompt}'
-  4: '${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[est/est] hors de portée.${prompt}'
-  5: 'Ne peut pas voir ${choice-definite-entity: 1}[le /]${entity-target}.${prompt}'
-  6: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[a vaincu/a vaincu] ${choice-definite-entity: 1}[le /]${entity-target}.${prompt}'
+    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[lance/lancent] ${spell-alt: 0}.
+    ${unknown-84: 0}${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[subit/subissent] ${number-alt: 1} point${choice-plurality-number: 1}[/s] de dégâts.${prompt}
+  3: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[commence/commencent] à lancer ${spell-alt: 1}.${prompt}'
+  4: '${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[est/sont] hors de portée.${prompt}'
+  5: 'Impossible de voir ${choice-definite-entity: 1}[le /]${entity-target}.${prompt}'
+  6: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[vainc/vainquent] ${choice-definite-entity: 1}[le /]${entity-target}.${prompt}'
   7: |-
-    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[lance/lance] ${spell-alt: 0}.
-    ${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[récupère/récupère] ${number-alt: 1} HP.${prompt}
-  8: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[gagne/gagne] ${number-alt: 0} points d''experiences.${prompt}'
-  9: '${color-alt: 121}${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[atteint/atteint] le niveau ${number-alt: 0}!${prompt}'
-  10: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[perd/perd] ${number-alt: 0} des points d''expériences ${choice-plurality-number: 0}[/s].${prompt}'
-  11: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[chute/chute] de niveau ${number-alt: 0}.${prompt}'
+    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[lance/lancent] ${spell-alt: 0}.
+    ${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[récupère/récupèrent] ${number-alt: 1} PV.${prompt}
+  8: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[gagne/gagnent] ${number-alt: 0} point${choice-plurality-number: 0}[/s] d’expérience.${prompt}'
+  9: '${color-alt: 121}${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[atteint/atteignent] le niveau ${number-alt: 0} !${prompt}'
+  10: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[perd/perdent] ${number-alt: 0} point${choice-plurality-number: 0}[/s] d’expérience.${prompt}'
+  11: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[descend/descendent] au niveau ${number-alt: 0}.${prompt}'
   12: |-
-    Impossible d'attaquer.
-    Votre cible est déjà revendiquée.${prompt}
   13: |-
-    Debug Message:
-    　${entity-source}: ${entity-target} est désormais invincible.${prompt}
-  14: '${choice-definite-entity: 0}[Le /]${entity-source}${choice-plurality-entity: 0}[''s/''] l''attaque est contrée par ${choice-definite-entity: 1}[le /]${entity-target}. ${number-alt: 3} de ${choice-definite-entity: 1}[le /]${entity-source}${choice-plurality-entity: 1}[''s/''] ombres ${choice-plurality-number: 3}[absorbent/absorbent] les dégats et ${choice-plurality-number: 3}[disparaîent/disparaîent].${prompt}'
-  15: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[manque/manque] ${choice-definite-entity: 1}[le /]${entity-target}.${prompt}'
-  16: '${choice-definite-entity: 0}[Le /]${entity-source}${choice-plurality-entity: 0}[''s/''] l''incantation est interrompue ${prompt}'
+    Message de débogage:
+    　${entity-source}: ${entity-target} est maintenant invincible.${prompt}
+  14: '${choice-definite-entity: 0}[Le /]${entity-source}${choice-plurality-entity: 0}[''s/''] attaque est contrée par ${choice-definite-entity: 1}[le /]${entity-target}. ${number-alt: 3} des ombres de ${choice-definite-entity: 1}[le /]${entity-source}${choice-plurality-entity: 1}[''s/''] ${choice-plurality-number: 3}[absorbe/absorbent] les dégâts et ${choice-plurality-number: 3}[disparaît/disparaissent].${prompt}'
+  15: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[rate/ratent] ${choice-definite-entity: 1}[le /]${entity-target}.${prompt}'
+  16: '${choice-definite-entity: 0}[Le /]${entity-source}${choice-plurality-entity: 0}[''s/''] incantation est interrompue.${prompt}'
   17: Impossible de lancer des sorts pour le moment.${prompt}
   18: Impossible de lancer des sorts pour le moment.${prompt}
-  19: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[appel/appel] pour aider!${prompt}'
-  20: '${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[tombe/tombe] sur le sol.${prompt}'
-  21: Aucun points d'expériences obtenus.${prompt}
-  22: Vous ne pouvez pas demander d'aide en ce moment.${prompt}
-  23: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[apprend/apprend] un nouveau sort!${prompt}'
-  24: '${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[récupère/récupère] ${number-alt: 1} HP.${prompt}'
-  25: '${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[récupère/récupère] ${number-alt: 1} MP.${prompt}'
-  26: '${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[récupère/récupère] HP et MP.${prompt}'
+  19: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[appelle/appellent] à l’aide !${prompt}'
+  20: '${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[tombe/tombent] au sol.${prompt}'
+  21: Aucun point d'expérience gagné.${prompt}
+  22: Vous ne pouvez pas appeler à l'aide pour le moment.${prompt}
+  23: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[apprend/apprennent] un nouveau sort !${prompt}'
+  24: '${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[récupère/récupèrent] ${number-alt: 1} PV.${prompt}'
+  25: '${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[récupère/récupèrent] ${number-alt: 1} PM.${prompt}'
+  26: '${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[récupère/récupèrent] PV et PM.${prompt}'
   27: |-
-    Debug Message:
-    Cannot execute command.
-    No (BTCALC) command in ATEL source.${prompt}
-  28: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilise] ${article} ${item-article-alt: 1[2]}.${prompt}'
-  29: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[est/est] paralysé.${prompt}'
-  30: '${choice-definite-entity: 1}[Le /]${entity-target} anticipe l''attaque.${prompt}'
-  31: '${number-alt: 1} de ${choice-definite-entity: 1}[le /]${entity-target}${choice-plurality-entity: 1}[''s/''] ombres ${choice-plurality-number: 1}[absorbe/absorbe] les dégats et ${choice-plurality-number: 1}[disparait/disparait].${prompt}'
-  32: '${choice-definite-entity: 1}[Le /]${entity-target} esquive l''attaque.${prompt}'
-  33: '${choice-definite-entity: 0}[Le /]${entity-source}${choice-plurality-entity: 0}[''s/''] l''attaque est contré par ${choice-definite-entity: 1}[le /]${entity-target}. ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[prend/prend] ${number-alt: 3} points de dégats.${prompt}'
-  34: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[n''a/n''a] pas assez de MP pour lancer ${spell-alt: 0}.${prompt}'
-  35: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[manque/manque] l''outils ninja pour lancer ${spell-alt: 0}.${prompt}'
+    Message de débogage :
+    Impossible d'exécuter la commande.
+    Aucune commande (BTCALC) dans la source ATEL.${prompt}
+  28: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${article} ${item-article-alt: 1[2]}.${prompt}'
+  29: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[est/sont] paralysé(s).${prompt}'
+  30: '${choice-definite-entity: 1}[Le /]${entity-target} anticipe(nt) l’attaque.${prompt}'
+  31: '${number-alt: 1} des ombres de ${choice-definite-entity: 1}[le /]${entity-target}${choice-plurality-entity: 1}[''s/''] ${choice-plurality-number: 1}[absorbe/absorbent] les dégâts et ${choice-plurality-number: 1}[disparaît/disparaissent].${prompt}'
+  32: '${choice-definite-entity: 1}[Le /]${entity-target} esquive(nt) l’attaque.${prompt}'
+  33: '${choice-definite-entity: 0}[Le /]${entity-source}${choice-plurality-entity: 0}[''s/''] attaque est contrée par ${choice-definite-entity: 1}[le /]${entity-target}. ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[prend/prennent] ${number-alt: 3} points de dégâts.${prompt}'
+  34: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[n’a/n’ont] pas assez de PM pour lancer ${spell-alt: 0}.${prompt}'
+  35: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[manque/manquent] d’outils ninja pour lancer ${spell-alt: 0}.${prompt}'
   36: 'Vous perdez de vue ${choice-definite-entity: 1}[le /]${entity-target}.${prompt}'
-  37: Vous êtes trop loin de la bataille pour acquérir de l''expérience.${prompt}
-  38: '${choice-definite-entity: 1}[Le /]${entity-target}${choice-plurality-entity: 1}[''s/''] ${sys-msg-3: 0} habiletés augmentent 0.${number-alt: 1} points.${prompt}'
-  39: 'Voua avez besoin de l''aptitude « arme à deux mains » pour équiper le ${item-singular-alt: 0[2]} comme arme secondaire.${prompt}'
+  37: Vous êtes trop loin de la bataille pour gagner de l'expérience.${prompt}
+  38: '${choice-definite-entity: 1}[Le /]${entity-target}${choice-plurality-entity: 1}[''s/''] compétence ${sys-msg-3: 0} augmente de 0.${number-alt: 1} point(s).${prompt}'
+  39: 'Vous avez besoin de l’aptitude Double Arme pour équiper le ${item-singular-alt: 0[2]} en tant que sous-arme.${prompt}'
   40: 'Vous ne pouvez pas utiliser ${spell-alt: 0} dans cette zone.${prompt}'
-  41: '${entity-source}: Vérification de l''état de santé (${number-alt: 0}）Vous ne pouvez pas vous reposer en ce moment.${prompt}'
-  42: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[lance/lance] ${spell-alt: 0} sur ${choice-definite-entity: 1}[le /]${entity-target}.${prompt}'
-  43: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[prépare/prépare] ${skill-alt: 1}.${prompt}'
-  44: '${choice-definite-entity: 1}[Le /]${entity-target}${choice-plurality-entity: 1}[''s/''] affaire de pointes ${number-alt: 3} points de dégats à ${choice-definite-entity: 0}[le /]${entity-source}.${prompt}'
-  45: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[apprend/apprend] "${skill-alt: 0}"!${prompt}'
+  41: '${entity-source}: Vérification des affections (${number-alt: 0}) Impossible de se reposer pour le moment.${prompt}'
+  42: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[lance/lancent] ${spell-alt: 0} sur ${choice-definite-entity: 1}[le /]${entity-target}.${prompt}'
+  43: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[se prépare/se préparent] à utiliser ${skill-alt: 1}.${prompt}'
+  44: '${choice-definite-entity: 1}[Le /]${entity-target}${choice-plurality-entity: 1}[''s/''] pointes infligent ${number-alt: 3} point${choice-plurality-number: 3}[/s] de dégâts à ${choice-definite-entity: 0}[le /]${entity-source}.${prompt}'
+  45: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[apprend/apprennent] "${skill-alt: 0}"!${prompt}'
   46: |-
-    Debug Message:
-    Current POP number: (${number-alt: 0})${prompt}
-  47: '${choice-definite-entity: 0}[Le /]${entity-source} ne peut lancer ${spell-alt: 0}.${prompt}'
-  48: '${spell-alt: 0} ne peut être lancé sur ${choice-definite-entity: 1}[le /]${entity-target}.${prompt}'
-  49: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[est/est] incapable de lancer les sorts.${prompt}'
-  50: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[gagne/gagne] un point de mérite! (Total: ${number-alt: 0})${prompt}'
+    Message de débogage :
+    Nombre actuel de POP : (${number-alt: 0})${prompt}
+  47: '${choice-definite-entity: 0}[Le /]${entity-source} ne peut pas lancer ${spell-alt: 0}.${prompt}'
+  48: '${spell-alt: 0} ne peut pas être lancé sur ${choice-definite-entity: 1}[le /]${entity-target}.${prompt}'
+  49: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[est/sont] incapable(s) de lancer des sorts.${prompt}'
+  50: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[gagne/gagnent] un point de mérite ! (Total : ${number-alt: 0})${prompt}'
   51: --Hors de vue--${prompt}
   52: |-
-    ${entity-target} abandonne la poursuite ${entity-source}.
-    ---Rechercher une Erreur de Chemin---${prompt}
-  53: '${choice-definite-entity: 1}[Le /]${entity-target}${choice-plurality-entity: 1}[''s/''] ${sys-msg-3: 0} l''aptitude atteint le niveau ${number-alt: 1}.${prompt}'
-  54: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[gagne/gagne] ${number-alt: 0} point de siège ${choice-plurality-number: 1}[/s].${prompt}'
-  55: Impossible d'utiliser l'article.${prompt}
-  56: Impossible d'utiliser l'article.${prompt}
-  57: Job modifié.${prompt}
-  58: Numéro de job invalide.${prompt}
-  59: Vous n'avez pas encore accès au job spécifié.${prompt}
-  60: Vous n'avez pas encore accès aux jobs de soutien.${prompt}
-  61: Vous ne pouvez pas avoir le même job principal et celui du support.${prompt}
-  62: 'Le ${item-singular-alt: 0[2]} ne parvient pas à s''activer.${prompt}'
-  63: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[manque/manque] ${choice-definite-entity: 1}[le /]${entity-target}.${prompt}'
-  64: '${unknown-84: 0}${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[est/est] plus maintenant ${status-effect-adjective: 1[2]}.${prompt}'
-  65: 'Vous ne transportez aucun animal de compagnie. Vous ne pouvez plus utiliser le ${item-singular-alt: 0[2]}.${prompt}'
-  66: 'Debug: Résiste au sort!${prompt}'
+    ${entity-target} abandonne la poursuite de ${entity-source}.
+    ---Erreur de recherche de chemin---${prompt}
+  53: '${choice-definite-entity: 1}[Le /]${entity-target}${choice-plurality-entity: 1}[''s/''] compétence ${sys-msg-3: 0} atteint le niveau ${number-alt: 1}.${prompt}'
+  54: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[gagne/gagnent] ${number-alt: 0} point${choice-plurality-number: 1} de Siège.(${number-alt: 0})${prompt}'
+  55: Impossible d'utiliser l'objet.${prompt}
+  56: Impossible d'utiliser l'objet.${prompt}
+  57: Changement de métier.${prompt}
+  58: Numéro de métier invalide.${prompt}
+  59: Vous n'avez pas encore accès au métier spécifié.${prompt}
+  60: Vous n'avez pas encore accès aux métiers de soutien.${prompt}
+  61: Vous ne pouvez pas avoir le même métier à la fois comme métier principal et métier de soutien.${prompt}
+  62: 'Le ${item-singular-alt: 0[2]} ne parvient pas à s’activer.${prompt}'
+  63: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[rate/ratent] ${choice-definite-entity: 1}[le /]${entity-target}.${prompt}'
+  64: '${unknown-84: 0}${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[n’est/sont] plus ${status-effect-adjective: 1[2]}.${prompt}'
+  65: 'Vous ne transportez pas de Petra. Vous ne pouvez pas utiliser le ${item-singular-alt: 0[2]}.${prompt}'
+  66: 'Débogage : Sort résisté !${prompt}'
   67: |-
-    ${choice-definite-entity: 0}[le /]${entity-source} ${choice-plurality-entity: 0}[émet/émet] un coup critique!
-    ${unknown-84: 0}${choice-definite-entity: 1}[le /]${entity-target} ${choice-plurality-entity: 1}[prend/prend] ${number-alt: 1} points de dégats.${prompt}
-  68: 'Debug: Incantation interrompu!${prompt}'
-  69: '${unknown-84: 0}${choice-definite-entity: 1}[le /]${entity-target} bloque ${choice-definite-entity: 0}[le /]${entity-source}${choice-plurality-entity: 0}[''s/''] attaque avec ${choice-target-gender}[son/son] bouclier.${prompt}'
-  70: '${unknown-84: 0}${choice-definite-entity: 1}[le /]${entity-target} esquive ${choice-definite-entity: 0}[le /]${entity-source}${choice-plurality-entity: 0}[''s/''] attaque avec ${choice-target-gender}[son/son] arme.${prompt}'
+    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[réussit/réussissent] un coup critique !
+    ${unknown-84: 0}${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[subit/subissent] ${number-alt: 1} point${choice-plurality-number: 1}[/s] de dégâts.${prompt}
+  68: 'Débogage : Incantation interrompue !${prompt}'
+  69: '${unknown-84: 0}${choice-definite-entity: 1}[Le /]${entity-target} bloque ${choice-definite-entity: 0}[la /]${entity-source}${choice-plurality-entity: 0}[''s/''] attaque avec ${choice-target-gender}[son / sa] bouclier.${prompt}'
+  70: '${unknown-84: 0}${choice-definite-entity: 1}[Le /]${entity-target} pare ${choice-definite-entity: 0}[la /]${entity-source}${choice-plurality-entity: 0}[''s/''] attaque avec ${choice-target-gender}[son / sa] arme.${prompt}'
   71: '${choice-definite-entity: 0}[Le /]${entity-source} ne peut pas effectuer cette action.${prompt}'
-  72: 'Cette action ne peut pas être effectué sur ${choice-definite-entity: 1}[le /]${entity-target}.${prompt}'
-  73: 'Debug: ${entity-target}''s le statut est maintenant ${status-effect-adjective: 0[2]}.${prompt}'
-  74: 'Debug: ${entity-target} ${choice-plurality-entity: 1}[récupère/récupère] de ${status-effect-noun: 0[2]}.${prompt}'
-  75: '${choice-definite-entity: 0}[Le /]${entity-source}${choice-plurality-entity: 0}[''s/''] ${spell-alt: 0} n''a aucun effet sur ${choice-definite-entity: 1}[le /]${entity-target}.${prompt}'
+  72: 'Cette action ne peut pas être effectuée sur ${choice-definite-entity: 1}[le /]${entity-target}.${prompt}'
+  73: 'Débogage : L’état de ${entity-target} est maintenant ${status-effect-adjective: 0[2]}.${prompt}'
+  74: 'Débogage : ${entity-target} ${choice-plurality-entity: 1}[se remet/se remettent] de ${status-effect-noun: 0[2]}.${prompt}'
+  75: '${choice-definite-entity: 0}[Le /]${entity-source}${choice-plurality-entity: 0}[''s/''] ${spell-alt: 0} n’a aucun effet sur ${choice-definite-entity: 1}[le /]${entity-target}.${prompt}'
   76: Aucune cible valide dans la zone d'effet.${prompt}
   77: |-
-    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilise] Sange.
-    ${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[prend/prend] ${number-alt: 1} point de dégats.${prompt}
-  78: '${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[est/est] trop loin.${prompt}'
-  79: 'Debug: ${entity-target} ${choice-plurality-entity: 1}[utilise/utilise] Double Attaque(${number-alt: 0}％).${prompt}'
-  80: 'Debug: ${entity-target} ${choice-plurality-entity: 1}[utilise/utilise] Triple Attaque(${number-alt: 0}％).${prompt}'
-  81: 'Debug: Battle Debug No. (${number-alt: 0}) utilisé sur ${entity-target}.${prompt}'
+    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] Sange.
+    ${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[subit/subissent] ${number-alt: 1} point${choice-plurality-number: 1}[/s] de dégâts.${prompt}
+  78: '${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[est/sont] trop loin.${prompt}'
+  79: 'Débogage : ${entity-target} ${choice-plurality-entity: 1}[utilise/utilisent] Attaque Double (${number-alt: 0}%).${prompt}'
+  80: 'Débogage : ${entity-target} ${choice-plurality-entity: 1}[utilise/utilisent] Attaque Triple (${number-alt: 0}%).${prompt}'
+  81: 'Débogage : Débogage de combat n° (${number-alt: 0}) utilisé sur ${entity-target}.${prompt}'
   82: |-
-    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[lance/lance] ${spell-alt: 0}.
-    ${unknown-84: 0}${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[est/est] ${status-effect-adjective: 1[2]}!${prompt}
+    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[lance/lancent] ${spell-alt: 0}.
+    ${unknown-84: 0}${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[est/sont] ${status-effect-adjective: 1[2]} !${prompt}
   83: |-
-    ${unknown-84: 0}${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[lance/lance] ${spell-alt: 0}.
-    ${choice-definite-entity: 0}[Le /]${entity-source} avec succès ${choice-plurality-entity: 0}[supprime/supprime] ${choice-definite-entity: 1}[le /]${entity-target}${choice-plurality-entity: 1}['s/'] ${status-effect-noun: 1[2]}.${prompt}
-  84: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[est/est] paralysé.${prompt}'
+    ${unknown-84: 0}${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[lance/lancent] ${spell-alt: 0}.
+    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[supprime/suppriment] avec succès ${choice-definite-entity: 1}[le /]${entity-target}${choice-plurality-entity: 1}[''s/''] ${status-effect-noun: 1[2]}.${prompt}
+  84: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[est/sont] paralysé(s).${prompt}'
   85: |-
-    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[lance/lance] ${spell-alt: 0}.
-    ${unknown-84: 0}${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[résiste/résiste] au sort.${prompt}
-  86: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[lance/lance] ${spell-alt: 0}, mais ${choice-definite-entity: 1}[le /]${entity-target} ${choice-plurality-entity: 1}[est/est] en dehors de la zone d''effet.${prompt}'
-  87: Incapable d'utiliser ses aptitudes professionnelles.${prompt}
-  88: Incapable d'utiliser ses aptitudes professionnelles.${prompt}
-  89: Incapable d'utiliser la compétence d''arme.${prompt}
-  90: Incapable d'utiliser la compétence d''arme.${prompt}
-  91: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[n''a/n''a] pas ${item-plural-alt: 0[2]}.${prompt}'
-  92: 'Impossible d''utiliser le ${item-singular-alt: 0[2]} sur ${choice-definite-entity: 1}[le /]${entity-target}.${prompt}'
+    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[lance/lancent] ${spell-alt: 0}.
+    ${unknown-84: 0}${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[résiste/résistent] au sort.${prompt}
+  86: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[lance/lancent] ${spell-alt: 0}, mais ${choice-definite-entity: 1}[le /]${entity-target} ${choice-plurality-entity: 1}[est/sont] en dehors de la zone d’effet.${prompt}'
+  87: Impossible d’utiliser une capacité de métier.${prompt}
+  88: Impossible d’utiliser une capacité de métier.${prompt}
+  89: Impossible d’utiliser une compétence d’arme.${prompt}
+  90: Impossible d’utiliser une compétence d’arme.${prompt}
+  91: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[ne possède/possèdent] aucun ${item-plural-alt: 0[2]}.${prompt}'
+  92: 'Impossible d’utiliser ${item-singular-alt: 0[2]} sur ${choice-definite-entity: 1}[le /]${entity-target}.${prompt}'
   93: |-
-    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[lance/lance] ${spell-alt: 0}.
-    ${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[disparait/disparait].${prompt}
-  94: '${color-alt: 123} Vous devez attendre plus longtemps pour effectuer cette action.${prompt}'
-  95: 'Vous ne pouvez pas apprendre ${spell-alt: 0}. Vous ne répondez pas aux exigences du job ou du niveau.${prompt}'
-  96: 'Vous savez déjà ${spell-alt: 0}.${prompt}'
+    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[lance/lancent] ${spell-alt: 0}.
+    ${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[disparaît/disparaissent].${prompt}
+  94: '${color-alt: 123}Vous devez attendre plus longtemps pour effectuer cette action.${prompt}'
+  95: 'Vous ne pouvez pas apprendre ${spell-alt: 0}. Vous ne répondez pas aux exigences de métier ou de niveau.${prompt}'
+  96: 'Vous connaissez déjà ${spell-alt: 0}.${prompt}'
   97: '${choice-definite-entity: 1}[Le /]${entity-target} a été vaincu par ${choice-definite-entity: 0}[le /]${entity-source}.${prompt}'
-  98: 'Vous obtenez ${article} ${item-article-alt: 0[2]} depuis ${choice-definite-entity: 1}[le /]${entity-target}.${prompt}'
+  98: 'Vous obtenez ${article} ${item-article-alt: 0[2]} de ${choice-definite-entity: 1}[le /]${entity-target}.${prompt}'
   99: '${entity-source}>${entity-target}: ${number-alt: 0}, ${number-alt: 1}${prompt}'
-  100: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilise] ${ability: 0}.${prompt}'
-  101: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilise] ${skill-alt: 0}.${prompt}'
+  100: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${ability: 0}.${prompt}'
+  101: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${skill-alt: 0}.${prompt}'
   102: |-
-    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilise] ${ability: 0}.
-    ${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[récupère/récupère] ${number-alt: 1} HP.${prompt}
+    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${ability: 0}.
+    ${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[récupère/récupèrent] ${number-alt: 1} PV.${prompt}
   103: |-
-    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilise] ${skill-alt: 0}.
-    ${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[récupère/récupère] ${number-alt: 1} HP.${prompt}
-  104: Impossible d'utiliser l'article. Vous ne répondez pas aux exigences du niveau .${prompt}
-  105: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[gagne/gagne] ${number-alt: 1} points d''expériences.${prompt}'
-  106: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[est/est] intimidé par ${choice-definite-entity: 1}[lee /]${entity-target}${choice-plurality-entity: 1}[''s/''] présence.${prompt}'
-  107: '${color-alt: 123}${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[est/est] temporairement incapable d''accéder à des aptitudes de job de soutien.${prompt}'
+    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${skill-alt: 0}.
+    ${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[récupère/récupèrent] ${number-alt: 1} PV.${prompt}
+  104: Impossible d’utiliser l’objet. Vous ne répondez pas aux exigences de niveau.${prompt}
+  105: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[gagne/gagnent] ${number-alt: 1} point${choice-plurality-number: 1} d’expérience.${prompt}'
+  106: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[est/sont] intimidé(s) par la présence de ${choice-definite-entity: 1}[le /]${entity-target}${choice-plurality-entity: 1}.${prompt}'
+  107: '${color-alt: 123}${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[est/sont] temporairement incapable(s) d’accéder aux capacités de métier de soutien.${prompt}'
   108: |-
-    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilise] ${ability: 0}.
-    Les pouvoirs de l'animal augmentent!${prompt}
+    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${ability: 0}.
+    Les pouvoirs de l'animal augmentent !${prompt}
   109: |-
-    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilise] ${skill-alt: 0}.
-    Les pouvoirs de l'animal augmentent!${prompt}
+    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${skill-alt: 0}.
+    Les pouvoirs de l'animal augmentent !${prompt}
   110: |-
-    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilise] ${ability: 0}.
-    ${unknown-84: 0}${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[prend/prend] ${number-alt: 1} points de dégats.${prompt}
-  111: 'Vous ne pouvez pas l''utiliser ${item-plural-alt: 0[2]} pendant que vous êtes médicamenté.${prompt}'
-  112: '${choice-definite-entity: 1}[Le /]${entity-target}${choice-plurality-entity: 1}[''s/''] compteur de malheur est maintenant tombé à ${number-alt: 0}.${prompt}'
+    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${ability: 0}.
+    ${unknown-84: 0}${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[subit/subissent] ${number-alt: 1} point${choice-plurality-number: 1} de dégâts.${prompt}
+  111: 'Vous ne pouvez pas utiliser ${item-plural-alt: 0[2]} lors d’un traitement médical.${prompt}'
+  112: '${choice-definite-entity: 1}[Le /]${entity-target}${choice-plurality-entity: 1}[''s/''] compteur de condamnation est maintenant réduit à ${number-alt: 0}.${prompt}'
   113: |-
-    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[lance/lance] ${spell-alt: 0}.
-    ${unknown-84: 0}${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[tombe/tombe] sur le sol.${prompt}
-  114: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[lance/lance] ${spell-alt: 0} sur ${choice-definite-entity: 1}[le /]${entity-target}, mais le sort ne fait aucun effet.${prompt}'
+    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[lance/lancent] ${spell-alt: 0}.
+    ${unknown-84: 0}${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[tombe/tombent] au sol.${prompt}
+  114: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[lance/lancent] ${spell-alt: 0} sur ${choice-definite-entity: 1}[le /]${entity-target}, mais le sort échoue à produire un effet.${prompt}'
   115: |-
-    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilise] ${ability: 0}.
-    Les attaques sont esquivées mais la défense s'affaiblit.${prompt}
+    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${ability: 0}.
+    Les attaques sont renforcées mais la défense s'affaiblit.${prompt}
   116: |-
-    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilise] ${ability: 0}.
-    ${choice-definite-entity: 1}[Le /]${entity-target}${choice-plurality-entity: 1}['s/'] les attaques sont améliorées.${prompt}
+    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${ability: 0}.
+    Les attaques de ${choice-definite-entity: 1}[le /]${entity-target}${choice-plurality-entity: 1}[s/'] sont renforcées.${prompt}
   117: |-
-    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilise] ${ability: 0}.
-    La défense est améliorées mais les attaques s'affaiblissent.${prompt}
+    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${ability: 0}.
+    La défense est renforcée mais les attaques s'affaiblissent.${prompt}
   118: |-
-    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilise] ${ability: 0}.
-    La précision est améliorées mais l'esquive est altérée.${prompt}
-  119: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilise] ${ability: 0} sur ${choice-definite-entity: 1}[le /]${entity-target}.${prompt}'
+    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${ability: 0}.
+    La précision est renforcée mais l'évasion est altérée.${prompt}
+  119: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${ability: 0} sur ${choice-definite-entity: 1}[le /]${entity-target}.${prompt}'
   120: |-
-    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilise] ${ability: 0}.
-    ${choice-definite-entity: 1}[Le /]${entity-target}${choice-plurality-entity: 1}['s/'] la précision est améliorée.${prompt}
+    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${ability: 0}.
+    La précision de ${choice-definite-entity: 1}[le /]${entity-target}${choice-plurality-entity: 1}[s/'] est renforcée.${prompt}
   121: |-
-    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilise] ${ability: 0}.
-    ${choice-definite-entity: 1}[Le /]${entity-target}${choice-plurality-entity: 1}['s/'] l'esquive est améliorée.${prompt}
+    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${ability: 0}.
+    L'évasion de ${choice-definite-entity: 1}[le /]${entity-target}${choice-plurality-entity: 1}[s/'] est renforcée.${prompt}
   122: |-
-    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilise] ${ability: 0}.
-    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[récupère/récupère] ${number-alt: 1} HP.${prompt}
+    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${ability: 0}.
+    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[récupère/récupèrent] ${number-alt: 1} PV.${prompt}
   123: |-
-    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilise] ${ability: 0}.
-    ${unknown-84: 0}${choice-definite-entity: 0}[Le /]${entity-source} avec succès ${choice-plurality-entity: 0}[supprime/supprime] ${choice-definite-entity: 1}[le /]${entity-target}${choice-plurality-entity: 1}['s/'] ${status-effect-noun: 1[2]}.${prompt}
-  124: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[accomplie/accomplie] le statut de Brèche de Porte!${prompt}'
+    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${ability: 0}.
+    ${unknown-84: 0}${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[supprime/suppriment] avec succès ${choice-definite-entity: 1}[le /]${entity-target}${choice-plurality-entity: 1}[s/'] ${status-effect-noun: 1[2]}.${prompt}
+  124: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[atteint/atteignent] le statut de Fracture de Porte !${prompt}'
   125: |-
-    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilise] ${ability: 0}.
-    ${choice-definite-entity: 0}[Le /]${entity-source} vole ${article} ${item-article-alt: 1[2]} depuis ${choice-definite-entity: 1}[le /]${entity-target}.${prompt}
+    ${choice-definite-entity: 0}[Le/La/L']${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${ability: 0}.
+    ${choice-definite-entity: 0}[Le/La/L']${entity-source} dérobe ${article} ${item-article-alt: 1[2]} à ${choice-definite-entity: 1}[le/la/l']${entity-target}.${prompt}
   126: |-
-    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilise] ${ability: 0}.
-    ${choice-definite-entity: 1}[Le /]${entity-target}${choice-plurality-entity: 1}['s/'] la vitesse de déplacement augmente.${prompt}
+    ${choice-definite-entity: 0}[Le/La/L']${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${ability: 0}.
+    ${choice-definite-entity: 1}[Le/La/L']${entity-target}${choice-plurality-entity: 1} voit/voient sa/ses vitesse(s) de déplacement augmenter.${prompt}
   127: |-
-    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilise] ${ability: 0}.
-    ${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[est/est] ${status-effect-adjective: 1[2]}.${prompt}
-  128: '${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[est/est] ${status-effect-adjective: 0[2]} et ne peut pas effectuer cette action.${prompt}'
+    ${choice-definite-entity: 0}[Le/La/L']${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${ability: 0}.
+    ${choice-definite-entity: 1}[Le/La/L']${entity-target} ${choice-plurality-entity: 1}est/sont ${status-effect-adjective: 1[2]}.${prompt}
+  128: '${choice-definite-entity: 1}[Le/La/L’]${entity-target} ${choice-plurality-entity: 1}est/sont ${status-effect-adjective: 0[2]} et ne peut/peuvent pas effectuer cette action.${prompt}'
   129: |-
-    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilise] ${ability: 0}.
-    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[tasse/tasse] ${gil: 1} depuis ${choice-definite-entity: 1}[le /]${entity-target}.${prompt}
-  130: '${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[est/est] ${status-effect-adjective: 0[2]} pour effectuer un changement d''equipement.${prompt}'
+    ${choice-definite-entity: 0}[Le/La/L’]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${ability: 0}.
+    ${choice-definite-entity: 0}[Le/La/L’]${entity-source} détrousse ${gil: 1} à ${choice-definite-entity: 1}[le/la/l']${entity-target}.${prompt}
+  130: '${choice-definite-entity: 1}[Le/La/L’]${entity-target} ${choice-plurality-entity: 1}est/sont ${status-effect-adjective: 0[2]} pour avoir changé d’équipement.${prompt}'
   131: |-
-    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilise] ${ability: 0}.
-    ${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[est/est] renforcé contre les morts-vivants.${prompt}
-  132: '${choice-definite-entity: 1}[Le /]${entity-target}${choice-plurality-entity: 1}[''s/''] spikes drain ${number-alt: 3} HP depuis ${choice-definite-entity: 0}[le /]${entity-source}.${prompt}'
+    ${choice-definite-entity: 0}[Le/La/L’]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${ability: 0}.
+    ${choice-definite-entity: 1}[Le/La/L’]${entity-target} ${choice-plurality-entity: 1}est/sont fortifié(s) contre les morts-vivants.${prompt}
+  132: '${choice-definite-entity: 1}[Le/La/L’]${entity-target}${choice-plurality-entity: 1} se/sees voit/voient drainé(s) ${number-alt: 3} PV par les pointes de ${choice-definite-entity: 0}[le/la/l’]${entity-source}.${prompt}'
   133: |-
-    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilise] ${ability: 0}.
-    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[vole/vole] ${number-alt: 1} ${choice-plurality-number: 1}[Petra/Petras] depuis ${choice-definite-entity: 1}[le /]${entity-target}.${prompt}
+    ${choice-definite-entity: 0}[Le/La/L’]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${ability: 0}.
+    ${choice-definite-entity: 0}[Le/La/L’]${entity-source} dérobe/dérobent ${number-alt: 1} ${choice-plurality-number: 1}Petra/Petras à ${choice-definite-entity: 1}[le/la/l']${entity-target}.${prompt}
   134: |-
-    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilise] ${ability: 0}.
-    ${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[est/est] renforcé contre les arcanes.${prompt}
-  135: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilise] ${skill-alt: 0} sur ${choice-definite-entity: 1}[le /]${entity-target}.${prompt}'
+    ${choice-definite-entity: 0}[Le/La/L’]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${ability: 0}.
+    ${choice-definite-entity: 1}[Le/La/L’]${entity-target} ${choice-plurality-entity: 1}est/sont fortifié(s) contre l'arcane.${prompt}
+  135: '${choice-definite-entity: 0}[Le/La/L’]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${skill-alt: 0} sur ${choice-definite-entity: 1}[le/la/l’]${entity-target}.${prompt}'
   136: |-
-    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilise] ${ability: 0}.
-    ${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[est/est] maintenant sous ${choice-definite-entity: 0}[le /]${entity-source}${choice-plurality-entity: 0}['s/'] emprise.${prompt}
+    ${choice-definite-entity: 0}[Le/La/L’]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${ability: 0}.
+    ${choice-definite-entity: 1}[Le/La/L’]${entity-target} ${choice-plurality-entity: 1}est/sont désormais sous le contrôle de ${choice-definite-entity: 0}[le/la/l’]${entity-source}.${prompt}
   137: |-
-    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilise] ${ability: 0}.
-    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[tombe/tombe] sous le charme ${choice-definite-entity: 1}[le /]${entity-target}.${prompt}
+    ${choice-definite-entity: 0}[Le/La/L’]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${ability: 0}.
+    ${choice-definite-entity: 0}[Le/La/L’]${entity-source} ${choice-plurality-entity: 0}[échoue/échouent] à charmer ${choice-definite-entity: 1}[le/la/l']${entity-target}.${prompt}
   138: |-
-    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilise] ${ability: 0}.
-    ${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[semble/semble] plus amical.${prompt}
-  139: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilise] ${ability: 0}, mais ${choice-plurality-entity: 0}[ne trouve/ne trouve] rien.${prompt}'
-  140: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilise] ${ability: 0}, et ${choice-plurality-entity: 0}[trouve/trouve] ${article} ${item-article-alt: 1[2]}.${prompt}'
+    ${choice-definite-entity: 0}[Le/La/L’]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${ability: 0}.
+    ${choice-definite-entity: 1}[Le/La/L’]${entity-target} ${choice-plurality-entity: 1}semble/semblent plus amical/amicaux.${prompt}
+  139: '${choice-definite-entity: 0}[Le/La/L’]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${ability: 0}, mais ${choice-plurality-entity: 0}[ne trouve/ne trouvent] rien.${prompt}'
+  140: '${choice-definite-entity: 0}[Le/La/L’]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${ability: 0}, et ${choice-plurality-entity: 0}[trouve/trouvent] ${article} ${item-article-alt: 1[2]}.${prompt}'
   141: |-
-    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilise] ${ability: 0}.
-    ${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[est/est] ${status-effect-adjective: 1[2]}.${prompt}
+    ${choice-definite-entity: 0}[Le/La/L’]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${ability: 0}.
+    ${choice-definite-entity: 1}[Le/La/L’]${entity-target} ${choice-plurality-entity: 1}est/sont ${status-effect-adjective: 1[2]}.${prompt}
   142: |-
-    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilise] ${skill-alt: 0}.
-    ${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[reçoit/reçoit] l''effet de la précision diminue et l''esquive est diminuée.${prompt}
+    ${choice-definite-entity: 0}[Le / La / L’]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${skill-alt: 0}.
+    ${choice-definite-entity: 1}[Le / La / L’]${entity-target} ${choice-plurality-entity: 1}[reçoit/reçoivent] l'effet de Diminution de Précision et de Diminution d'Évasion.${prompt}
   143: |-
-    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilise] ${ability: 0}.
-    Les attaques a distances deviennent plus précises.${prompt}
+    ${choice-definite-entity: 0}[Le / La / L’]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${ability: 0}.
+    Les attaques à distance deviennent plus précises.${prompt}
   144: |-
-    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilise] ${ability: 0}.
-    ${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[reçoit/reçoit] l''effet de la précision diminue et l'esquive est diminuée.${prompt}
-  145: '${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[reçoit/reçoit] l''effet de la précision diminue et l''esquive est diminuée.${prompt}'
+    ${choice-definite-entity: 0}[Le / La / L’]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${ability: 0}.
+    ${choice-definite-entity: 1}[Le / La / L’]${entity-target} ${choice-plurality-entity: 1}[reçoit/reçoivent] l'effet de Diminution de Précision et de Diminution d'Évasion.${prompt}
+  145: '${choice-definite-entity: 1}[Le / La / L’]${entity-target} ${choice-plurality-entity: 1}[reçoit/reçoivent] l’effet de Diminution de Précision et de Diminution d’Évasion.${prompt}'
   146: |-
-    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilise] ${ability: 0}.
-    ${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[reçoit/reçoit] l''effet de la précision augmente et l'esquive est augmentée.${prompt}
-  147: '${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[reçoit/reçoit] l''effet de la précision augmente et l''esquive est augmentée.${prompt}'
+    ${choice-definite-entity: 0}[Le / La / L’]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${ability: 0}.
+    ${choice-definite-entity: 1}[Le / La / L’]${entity-target} ${choice-plurality-entity: 1}[reçoit/reçoivent] l'effet d'Augmentation de Précision et d’Augmentation d’Évasion.${prompt}
+  147: '${choice-definite-entity: 1}[Le / La / L’]${entity-target} ${choice-plurality-entity: 1}[reçoit/reçoivent] l’effet d’Augmentation de Précision et d’Augmentation d’Évasion.${prompt}'
   148: |-
-    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilise] ${ability: 0}.
-    ${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[est/est] renforcé contre les démons.${prompt}
-  149: '${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[est/est] renforcé contre les démons.${prompt}'
+    ${choice-definite-entity: 0}[Le / La / L’]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${ability: 0}.
+    ${choice-definite-entity: 1}[Le / La / L’]${entity-target} ${choice-plurality-entity: 1}[est/sont] renforcé(s) contre les démons.${prompt}
+  149: '${choice-definite-entity: 1}[Le / La / L’]${entity-target} ${choice-plurality-entity: 1}[est/sont] renforcé(s) contre les démons.${prompt}'
   150: |-
-    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilise] ${ability: 0}.
-    ${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[est/est] renforcé contre les dragons.${prompt}
-  151: '${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[est/est] renforcé contre les dragons.${prompt}'
-  152: 'Effet additionnel: ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[récupère/récupère] ${number-alt: 2} MP.${prompt}'
+    ${choice-definite-entity: 0}[Le / La / L’]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${ability: 0}.
+    ${choice-definite-entity: 1}[Le / La / L’]${entity-target} ${choice-plurality-entity: 1}[est/sont] renforcé(s) contre les dragons.${prompt}
+  151: '${choice-definite-entity: 1}[Le / La / L’]${entity-target} ${choice-plurality-entity: 1}[est/sont] renforcé(s) contre les dragons.${prompt}'
+  152: 'Effet supplémentaire : ${choice-definite-entity: 0}[Le / La / L’]${entity-source} ${choice-plurality-entity: 0}[récupère/récupèrent] ${number-alt: 2} PM.${prompt}'
   153: |-
-    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilise] ${ability: 0}.
-    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[échoue/échoue] de voler ${choice-definite-entity: 1}[le /]${entity-target}.${prompt}
-  154: '${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[est/est] hors de portée.${prompt}'
-  155: Vous ne pouvez pas effectuer cette action sur la cible spécifié.${prompt}
-  156: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilise] ${ability: 0}. Aucun effet sur ${choice-definite-entity: 1}[le /]${entity-target}.${prompt}'
+    ${choice-definite-entity: 0}[Le / La / L’]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${ability: 0}.
+    ${choice-definite-entity: 0}[Le / La / L’]${entity-source} ${choice-plurality-entity: 0}[échoue/échouent] à voler à ${choice-definite-entity: 1}[le / la / l’]${entity-target}.${prompt}
+  154: '${choice-definite-entity: 1}[Le / La / L’]${entity-target} ${choice-plurality-entity: 1}[est/sont] hors de portée.${prompt}'
+  155: Vous ne pouvez pas effectuer cette action sur la cible spécifiée.${prompt}
+  156: '${choice-definite-entity: 0}[Le / La / L’]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${ability: 0}. Aucun effet sur ${choice-definite-entity: 1}[le / la / l’]${entity-target}.${prompt}'
   157: |-
-    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilise] Barrage.
-    ${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[prend/prend] ${number-alt: 1} points de dégats.${prompt}
-  158: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilise] ${ability: 0}, mais ${choice-plurality-entity: 0}[manque/manque].${prompt}'
+    ${choice-definite-entity: 0}[Le/La/L’]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] Barrage.
+    ${choice-definite-entity: 1}[Le/La/L’]${entity-target} ${choice-plurality-entity: 1}[subit/subissent] ${number-alt: 1} point${choice-plurality-number: 1}[/s] de dégâts.${prompt}
+  158: '${choice-definite-entity: 0}[Le/La/L’]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${ability: 0}, mais ${choice-plurality-entity: 0}[rate/ratent].${prompt}'
   159: |-
-    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilise] ${skill-alt: 0}.
-    ${unknown-84: 0}${choice-definite-entity: 1}[Le /]${entity-target}${choice-plurality-entity: 1}['s/'] ${status-effect-noun: 1[2]} effet disparaît!${prompt}
-  160: 'Effet additionnel: ${status-effect-noun: 2[2]}.${prompt}'
-  161: 'Effet additionnel: ${number-alt: 2} HP absorbé depuis ${choice-definite-entity: 1}[le /]${entity-target}.${prompt}'
-  162: 'Effet additionnel: ${number-alt: 2} MP absorbé depuis ${choice-definite-entity: 1}[le /]${entity-target}.${prompt}'
-  163: 'Effet additionnel: ${number-alt: 2} points de dégats.${prompt}'
-  164: 'Effet additionnel: ${status-effect-noun: 2[2]}.${prompt}'
-  165: 'Effet additionnel: ${number-alt: 2} TP absorbé depuis ${choice-definite-entity: 1}[le /]${entity-target}.${prompt}'
-  166: 'Effet additionnel: ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[gagne/gagne] l''effet de ${status-effect-noun: 2[2]}.${prompt}'
-  167: 'Effet additionnel: ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[récupère/récupère] ${number-alt: 2} HP.${prompt}'
-  168: 'Effet additionnel: ${choice-definite-entity: 1}[Le /]${entity-target}${choice-plurality-entity: 1}[''s/''] ${status-effect-noun: 2[2]} effect disparaît!${prompt}'
-  169: 'Effet additionnel: Warp!${prompt}'
+    ${choice-definite-entity: 0}[Le/La/L’]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${skill-alt: 0}.
+    ${unknown-84: 0}${choice-definite-entity: 1}[Le/La/L’]${entity-target}${choice-plurality-entity: 1} ${status-effect-noun: 1[2]} disparaît/disparaissent !${prompt}
+  160: 'Effet supplémentaire : ${status-effect-noun: 2[2]}.${prompt}'
+  161: 'Effet supplémentaire : ${number-alt: 2} PV drainé(s) de ${choice-definite-entity: 1}[le/la/l’]${entity-target}.${prompt}'
+  162: 'Effet supplémentaire : ${number-alt: 2} PM drainé(s) de ${choice-definite-entity: 1}[le/la/l’]${entity-target}.${prompt}'
+  163: 'Effet supplémentaire : ${number-alt: 2} point${choice-plurality-number: 2}[/s] de dégâts.${prompt}'
+  164: 'Effet supplémentaire : ${status-effect-noun: 2[2]}.${prompt}'
+  165: 'Effet supplémentaire : ${number-alt: 2} TP drainé(s) de ${choice-definite-entity: 1}[le/la/l’]${entity-target}.${prompt}'
+  166: 'Effet supplémentaire : ${choice-definite-entity: 0}[Le/La/L’]${entity-source} ${choice-plurality-entity: 0}[obtient/obtiennent] l’effet de ${status-effect-noun: 2[2]}.${prompt}'
+  167: 'Effet supplémentaire : ${choice-definite-entity: 0}[Le/La/L’]${entity-source} ${choice-plurality-entity: 0}[récupère/récupèrent] ${number-alt: 2} PV.${prompt}'
+  168: 'Effet supplémentaire : ${choice-definite-entity: 1}[Le/La/L’]${entity-target}${choice-plurality-entity: 1} ${status-effect-noun: 2[2]} disparaît/disparaissent !${prompt}'
+  169: 'Effet supplémentaire : Téléportation !${prompt}'
   170: |-
-    ${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[semble/semble] ${sys-msg-3: 1}.
-    ${choice-plurality-entity: 1}[Il/Il] ${choice-plurality-entity: 1}[semble/semble] avoir une esquive et une défense élevée.${prompt}
+    ${choice-definite-entity: 1}[Le/La/L’]${entity-target} ${choice-plurality-entity: 1}[semble/semblent] ${sys-msg-3: 1}.
+    ${choice-plurality-entity: 1}[Il/Elle/Ils/Elles] ${choice-plurality-entity: 1}[semble/semblent] avoir une haute évitation et une forte défense.${prompt}
   171: |-
-    ${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[semble/semble] ${sys-msg-3: 1}.
-    ${choice-plurality-entity: 1}[Il/Il] ${choice-plurality-entity: 1}[semble/semble] avoir une grande esquive.${prompt}
+    ${choice-definite-entity: 1}[Le/La/L’]${entity-target} ${choice-plurality-entity: 1}[semble/semblent] ${sys-msg-3: 1}.
+    ${choice-plurality-entity: 1}[Il/Elle/Ils/Elles] ${choice-plurality-entity: 1}[semble/semblent] avoir une haute évitation.${prompt}
   172: |-
-    ${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[semble/semble] ${sys-msg-3: 1}.
-    ${choice-plurality-entity: 1}[Il/Il] ${choice-plurality-entity: 1}[semble/semble] avoir une esquive élevée mais une faible défense.${prompt}
+    ${choice-definite-entity: 1}[Le/La/L’]${entity-target} ${choice-plurality-entity: 1}[semble/semblent] ${sys-msg-3: 1}.
+    ${choice-plurality-entity: 1}[Il/Elle/Ils/Elles] ${choice-plurality-entity: 1}[semble/semblent] avoir une haute évitation mais une faible défense.${prompt}
   173: |-
-    ${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[semble/semble] ${sys-msg-3: 1}.
-    ${choice-plurality-entity: 1}[Il/Il] ${choice-plurality-entity: 1}[semble/semble] avoir une haute défense.${prompt}
-  174: '${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[semble/semble] ${sys-msg-3: 1}.${prompt}'
+    ${choice-definite-entity: 1}[Le/La/L’]${entity-target} ${choice-plurality-entity: 1}[semble/semblent] ${sys-msg-3: 1}.
+    ${choice-plurality-entity: 1}[Il/Elle/Ils/Elles] ${choice-plurality-entity: 1}[semble/semblent] avoir une haute défense.${prompt}
+  174: '${choice-definite-entity: 1}[Le/La/L’]${entity-target} ${choice-plurality-entity: 1}[semble/semblent] ${sys-msg-3: 1}.${prompt}'
   175: |-
-    ${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[semble/semble] ${sys-msg-3: 1}.
-    ${choice-plurality-entity: 1}[Il/Il] ${choice-plurality-entity: 1}[semble/semble] avoir une faible défense.${prompt}
+    ${choice-definite-entity: 1}[Le/La/L’]${entity-target} ${choice-plurality-entity: 1}[semble/semblent] ${sys-msg-3: 1}.
+    ${choice-plurality-entity: 1}[Il/Elle/Ils/Elles] ${choice-plurality-entity: 1}[semble/semblent] avoir une faible défense.${prompt}
   176: |-
-    ${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[semble/semble] ${sys-msg-3: 1}.
-    ${choice-plurality-entity: 1}[Il/Il] ${choice-plurality-entity: 1}[semble/semble] avoir une esquive faible mais une forte défense.${prompt}
+    ${choice-definite-entity: 1}[Le/La/L’]${entity-target} ${choice-plurality-entity: 1}[semble/semblent] ${sys-msg-3: 1}.
+    ${choice-plurality-entity: 1}[Il/Elle/Ils/Elles] ${choice-plurality-entity: 1}[semble/semblent] avoir une faible évitation mais une forte défense.${prompt}
   177: |-
-    ${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[semble/semble] ${sys-msg-3: 1}.
-    ${choice-plurality-entity: 1}[Il/Il] ${choice-plurality-entity: 1}[semble/semble] avoir une faible défense.${prompt}
+    ${choice-definite-entity: 1}[Le/La/L’]${entity-target} ${choice-plurality-entity: 1}[semble/semblent] ${sys-msg-3: 1}.
+    ${choice-plurality-entity: 1}[Il/Elle/Ils/Elles] ${choice-plurality-entity: 1}[semble/semblent] avoir une faible évitation.${prompt}
   178: |-
-    ${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[semble/semble] ${sys-msg-3: 1}.
-    ${choice-plurality-entity: 1}[Il/Il] ${choice-plurality-entity: 1}[semble/semble] avoir une basse esquive et defense .${prompt}
+    ${choice-definite-entity: 1}[Le/La/L’]${entity-target} ${choice-plurality-entity: 1}[semble/semblent] ${sys-msg-3: 1}.
+    ${choice-plurality-entity: 1}[Il/Elle/Ils/Elles] ${choice-plurality-entity: 1}[semble/semblent] avoir une faible évitation et une faible défense.${prompt}
   179: |-
     ${entity-target}:
     　hit-eva(${number-alt: 0}) => ${number-alt: 1}%${prompt}
@@ -302,94 +300,96 @@ entries:
     　ATK-DEF(${number-alt: 1})${prompt}
   184: '  ${entity-source}:ALLIANCE SUM=${number-alt: 0}/LEV=${number-alt: 1}${prompt}'
   185: |-
-    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilise] ${skill-alt: 0}.
-    ${unknown-84: 0}${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[prend/prend] ${number-alt: 1} points de dégats.${prompt}
+    ${choice-definite-entity: 0}[Le/La/L’]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${skill-alt: 0}.
+    ${unknown-84: 0}${choice-definite-entity: 1}[Le/La/L’]${entity-target} ${choice-plurality-entity: 1}[subit/subissent] ${number-alt: 1} point${choice-plurality-number: 1}[/s] de dégâts.${prompt}
   186: |-
-    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilise] ${skill-alt: 0}.
-    ${unknown-84: 0}${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[gagne/gagnes] l'effet de ${status-effect-noun: 1[2]}.${prompt}
+    ${choice-definite-entity: 0}[Le/La/L’]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${skill-alt: 0}.
+    ${unknown-84: 0}${choice-definite-entity: 1}[Le/La/L’]${entity-target} ${choice-plurality-entity: 1}[obtient/obtiennent] l'effet de ${status-effect-noun: 1[2]}.${prompt}
   187: |-
-    ${unknown-84: 0}${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilise] ${skill-alt: 0}.
-    ${number-alt: 1} HP absorbé depuis ${choice-definite-entity: 1}[le /]${entity-target}.${prompt}
-  188: '${unknown-84: 0}${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilise] ${skill-alt: 0}, mais ${choice-plurality-entity: 0}[manque/manque] ${choice-definite-entity: 1}[le /]${entity-target}.${prompt}'
+    ${unknown-84: 0}${choice-definite-entity: 0}[Le/La/L’]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${skill-alt: 0}.
+    ${number-alt: 1} PV sont drainés de ${choice-definite-entity: 1}[la /]${entity-target}.${prompt}
+  188: '${unknown-84: 0}${choice-definite-entity: 0}[Le/La/L’]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${skill-alt: 0}, mais ${choice-plurality-entity: 0}[rate/ratent] ${choice-definite-entity: 1}[la /]${entity-target}.${prompt}'
   189: |-
-    ${unknown-84: 0}${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilise] ${skill-alt: 0}.
-    Aucun effet sur ${choice-definite-entity: 1}[le /]${entity-target}.${prompt}
-  190: '${choice-definite-entity: 0}[Le /]${entity-source} ne peut utiliser cette aptitude d''arme.${prompt}'
-  191: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[est/est] incapable d''utiliser les aptitudes d''armes.${prompt}'
-  192: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[n''a/n''a] pas assez de TP.${prompt}'
+    ${unknown-84: 0}${choice-definite-entity: 0}[Le/La/L’]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${skill-alt: 0}.
+    Aucun effet sur ${choice-definite-entity: 1}[la /]${entity-target}.${prompt}
+  190: '${choice-definite-entity: 0}[Le/La/L’]${entity-source} ne peut pas utiliser cette compétence d’arme.${prompt}'
+  191: '${choice-definite-entity: 0}[Le/La/L’]${entity-source} ${choice-plurality-entity: 0}[est/sont] incapable${choice-plurality-entity: 0}[s] d’utiliser des compétences d’arme.${prompt}'
+  192: '${choice-definite-entity: 0}[Le/La/L’]${entity-source} ${choice-plurality-entity: 0}[n’a/n’ont] pas assez de TP.${prompt}'
   193: '${skill-alt: 0} ne peut pas être utilisé contre cette cible.${prompt}'
   194: |-
-    ${unknown-84: 0}${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilise] ${skill-alt: 0}.
-    ${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[gagne/gagne] l'effet de ${status-effect-noun: 1[2]}.${prompt}
+    ${unknown-84: 0}${choice-definite-entity: 0}[Le/La/L’]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${skill-alt: 0}.
+    ${choice-definite-entity: 1}[Le/La/L’]${entity-target} ${choice-plurality-entity: 1}[obtient/obtiennent] l'effet de ${status-effect-noun: 1[2]}.${prompt}
   195: |2-
-      ${entity-target}:
-        TOTAL ALLIANCE SUM=${number-alt: 0}/LEV=${number-alt: 1}${prompt}
-  196: 'Chaîne de compétences! ${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[prend/prend] ${number-alt: 2} points de dégats.${prompt}'
-  197: '${unknown-84: 0}${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilise] ${skill-alt: 0}, mais ${choice-definite-entity: 1}[le /]${entity-target} ${choice-plurality-entity: 1}[résiste/résiste].${prompt}'
-  198: '${color-alt: 123}${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[est/est] trop loin.${prompt}'
+    ${entity-target}:
+      TOTAL ALLIANCE SOMME=${number-alt: 0}/NIV=${number-alt: 1}${prompt}
+  196: 'Chaîne de compétences ! ${choice-definite-entity: 1}[Le/La/L’]${entity-target} ${choice-plurality-entity: 1}[subit/subissent] ${number-alt: 2} point${choice-plurality-number: 2}[/s] de dégâts.${prompt}'
+  197: |-
+    ${unknown-84: 0}${choice-definite-entity: 0}[Le/La/L’]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${skill-alt: 0}, mais ${choice-definite-entity: 1}[la /]${entity-target} ${choice-plurality-entity: 1}[résiste/résistent].
+    ${choice-definite-entity: 1}[Le/La/L’]${entity-target} ${choice-plurality-entity: 1}[subit/subissent] ${number-alt: 1} point${choice-plurality-number: 1}[/s] de dégâts.${prompt}
+  198: '${color-alt: 123}${choice-definite-entity: 1}[Le/La/L’]${entity-target} ${choice-plurality-entity: 1}[est/sont] trop loin.${prompt}'
   199: Cette action nécessite un bouclier.${prompt}
-  200: 'Temps restant jusqu''à la prochaine utilisation: (${countdown-seconds: 0})${prompt}'
-  201: 'Heure actuelle: (${countdown-seconds: 0})${prompt}'
-  202: 'Temps restant: (${countdown-seconds: 0})${prompt}'
-  203: '${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[est/est] ${status-effect-adjective: 0[2]}.${prompt}'
-  204: '${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[est/est] plus maintenant ${status-effect-adjective: 0[2]}.${prompt}'
-  205: '${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[gagne/gagne] l''effet de ${status-effect-noun: 0[2]}.${prompt}'
-  206: '${choice-definite-entity: 1}[Le /]${entity-target}${choice-plurality-entity: 1}[''s/''] ${status-effect-noun: 0[2]} l''effet s''estompe.${prompt}'
-  207: '　HP / HPMax:${number-alt: 0}/${number-alt: 1}${prompt}'
-  208: '　MP / MPMax:${number-alt: 0}/${number-alt: 1}${prompt}'
-  209: '　TP:${number-alt: 0}%${prompt}'
-  210: '${choice-definite-entity: 0}[Le /]${entity-source} ne peut pas charmer ${choice-definite-entity: 1}[lee /]${entity-target}!${prompt}'
-  211: 'Ce serait très difficile pour ${choice-definite-entity: 0}[le /]${entity-source} charmer ${choice-definite-entity: 1}[le /]${entity-target}.${prompt}'
-  212: 'Ce serait difficile pour ${choice-definite-entity: 0}[le /]${entity-source} charmer ${choice-definite-entity: 1}[le /]${entity-target}.${prompt}'
-  213: '${choice-definite-entity: 0}[Le /]${entity-source} pourrait peut-être charmer ${choice-definite-entity: 1}[le /]${entity-target}.${prompt}'
-  214: '${choice-definite-entity: 0}[Le /]${entity-source} devrait pouvoir charmer ${choice-definite-entity: 1}[le /]${entity-target}.${prompt}'
-  215: Cette action nécessite un animal de compagnie.${prompt}
-  216: Vous n'êtes pas équipé d'une arme à distance appropriée.${prompt}
-  217: 'Vous ne pouvez pas voir ${choice-definite-entity: 1}[le /]${entity-target}.${prompt}'
-  218: Vous bougez et interrompez votre visée.${prompt}
-  219: 'Vous ne pouvez pas voir ${choice-definite-entity: 1}[le /]${entity-target}.${prompt}'
-  220: Vous bougez et interrompez votre visée.${prompt}
+  200: 'Temps restant avant prochaine utilisation : (${countdown-seconds: 0})${prompt}'
+  201: 'Temps actuel : (${countdown-seconds: 0})${prompt}'
+  202: 'Temps restant : (${countdown-seconds: 0})${prompt}'
+  203: '${choice-definite-entity: 1}[Le/La/L’]${entity-target} ${choice-plurality-entity: 1}[est/sont] ${status-effect-adjective: 0[2]}.${prompt}'
+  204: '${choice-definite-entity: 1}[Le/La/L’]${entity-target} ${choice-plurality-entity: 1}[n’est/ne sont] plus ${status-effect-adjective: 0[2]}.${prompt}'
+  205: '${choice-definite-entity: 1}[Le/La/L’]${entity-target} ${choice-plurality-entity: 1}[obtient/obtiennent] l’effet de ${status-effect-noun: 0[2]}.${prompt}'
+  206: '${choice-definite-entity: 1}[Le/La/L’]${entity-target}${choice-plurality-entity: 1}[''s/''] l’effet ${status-effect-noun: 0[2]} s’estompe.${prompt}'
+  207: '　PV / PVMax : ${number-alt: 0}/${number-alt: 1}${prompt}'
+  208: '　PM / PMMax : ${number-alt: 0}/${number-alt: 1}${prompt}'
+  209: '　PT : ${number-alt: 0}%${prompt}'
+  210: '${choice-definite-entity: 0}[Le/La/L’]${entity-source} ne peut pas charmer ${choice-definite-entity: 1}[le / la / les]${entity-target}!${prompt}'
+  211: 'Il serait très difficile pour ${choice-definite-entity: 0}[le / la / les]${entity-source} de charmer ${choice-definite-entity: 1}[le / la / les]${entity-target}.${prompt}'
+  212: 'Il serait difficile pour ${choice-definite-entity: 0}[le / la / les]${entity-source} de charmer ${choice-definite-entity: 1}[le / la / les]${entity-target}.${prompt}'
+  213: '${choice-definite-entity: 0}[Le/La/L’]${entity-source} pourrait peut-être charmer ${choice-definite-entity: 1}[le / la / les]${entity-target}.${prompt}'
+  214: '${choice-definite-entity: 0}[Le/La/L’]${entity-source} devrait pouvoir charmer ${choice-definite-entity: 1}[le / la / les]${entity-target}.${prompt}'
+  215: Cette action nécessite un familier.${prompt}
+  216: Vous n'avez pas d'arme à distance appropriée équipée.${prompt}
+  217: 'Vous ne pouvez pas voir ${choice-definite-entity: 1}[le / la / les]${entity-target}.${prompt}'
+  218: Vous vous déplacez et interrompez votre visée.${prompt}
+  219: 'Vous ne pouvez pas voir ${choice-definite-entity: 1}[le / la / les]${entity-target}.${prompt}'
+  220: Vous vous déplacez et interrompez votre visée.${prompt}
   221: |-
-    ${unknown-84: 0}${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilise] ${skill-alt: 0}.
-    ${choice-definite-entity: 1}[Le /]${entity-target}${choice-plurality-entity: 1}['s/'] l''animal est relachée.${prompt}
-  222: '${choice-definite-entity: 1}[Le /]${entity-target} ne vend rien.${prompt}'
-  223: 'Chaîne de compétences: ${number-alt: 2} points de dégats.${prompt}'
+    ${unknown-84: 0}${choice-definite-entity: 0}[Le/La/L’]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${skill-alt: 0}.
+    ${choice-definite-entity: 1}[Le/La/L’]${entity-target}${choice-plurality-entity: 1}['s/'] familier est libéré.${prompt}
+  222: '${choice-definite-entity: 1}[Le/La/L’]${entity-target} ne vend rien.${prompt}'
+  223: 'Chaîne de compétences : ${number-alt: 2} point${choice-plurality-number: 2}[/s] de dégâts.${prompt}'
   224: |-
-    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilise] ${skill-alt: 0}.
-    ${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[récupère/récupère] ${number-alt: 1} MP.${prompt}
+    ${choice-definite-entity: 0}[Le/La/L’]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${skill-alt: 0}.
+    ${choice-definite-entity: 1}[Le/La/L’]${entity-target} ${choice-plurality-entity: 1}[récupère/récupèrent] ${number-alt: 1} PM.${prompt}
   225: |-
-    ${unknown-84: 0}${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilise] ${skill-alt: 0}.
-    ${number-alt: 1} MP absorbé par ${choice-definite-entity: 1}[le /]${entity-target}.${prompt}
+    ${unknown-84: 0}${choice-definite-entity: 0}[Le/La/L’]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${skill-alt: 0}.
+    ${number-alt: 1} PM drainés de ${choice-definite-entity: 1}[le / la / les]${entity-target}.${prompt}
   226: |-
-    ${unknown-84: 0}${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilise] ${skill-alt: 0}.
-    ${number-alt: 1} TP absorbé par ${choice-definite-entity: 1}[le /]${entity-target}.${prompt}
+    ${unknown-84: 0}${choice-definite-entity: 0}[Le/La/L’]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${skill-alt: 0}.
+    ${number-alt: 1} PT drainés de ${choice-definite-entity: 1}[le / la / les]${entity-target}.${prompt}
   227: |-
-    ${unknown-84: 0}${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[lance/lance] ${spell-alt: 0}.
-    ${number-alt: 1} HP absorbé par ${choice-definite-entity: 1}[le /]${entity-target}.${prompt}
+    ${unknown-84: 0}${choice-definite-entity: 0}[Le/La/L’]${entity-source} ${choice-plurality-entity: 0}[lance/lancent] ${spell-alt: 0}.
+    ${number-alt: 1} PV drainés de ${choice-definite-entity: 1}[le / la / les]${entity-target}.${prompt}
   228: |-
-    ${unknown-84: 0}${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[lance/lance] ${spell-alt: 0}.
-    ${number-alt: 1} MP absorbé par ${choice-definite-entity: 1}[le /]${entity-target}.${prompt}
-  229: 'Effet additionnel: ${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[prend] ${number-alt: 2} points additionnels de dégats.${prompt}'
+    ${unknown-84: 0}${choice-definite-entity: 0}[Le / La / L’]${entity-source} ${choice-plurality-entity: 0}[lance/lancent] ${spell-alt: 0}.
+    ${number-alt: 1} PM drainé(s) de ${choice-definite-entity: 1}[la / l']${entity-target}.${prompt}
+  229: 'Effet additionnel : ${choice-definite-entity: 1}[Le / La / L’]${entity-target} ${choice-plurality-entity: 1}[prend/prennent] ${number-alt: 2} point(s) de dégâts supplémentaire(s).${prompt}'
   230: |-
-    ${unknown-84: 0}${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[lance/lance] ${spell-alt: 0}.
-    ${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[gagne/gagnes] l'effet de ${status-effect-noun: 1[2]}.${prompt}
+    ${unknown-84: 0}${choice-definite-entity: 0}[Le / La / L’]${entity-source} ${choice-plurality-entity: 0}[lance/lancent] ${spell-alt: 0}.
+    ${choice-definite-entity: 1}[Le / La / L’]${entity-target} ${choice-plurality-entity: 1}[gagne/gagnent] l'effet de ${status-effect-noun: 1[2]}.${prompt}
   231: |-
-    ${unknown-84: 0}${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilise] ${skill-alt: 0}.
-    ${number-alt: 1} de ${choice-definite-entity: 1}[le /]${entity-target}${choice-plurality-entity: 1}['s/'] l'effet disparaît${choice-plurality-number: 1}[s/]!${prompt}
-  232: '${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[est/est] attiré!${prompt}'
-  233: Vous n'êtes éligible pour attaquer cette cible.${prompt}
-  234: 'Ciblage automatique ${choice-definite-entity: 1}[le /]${entity-target}.${prompt}'
-  235: C'est l'animal de compagnie de quelqu'un.${prompt}
+    ${unknown-84: 0}${choice-definite-entity: 0}[Le / La / L’]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${skill-alt: 0}.
+    ${number-alt: 1} des effets de ${choice-definite-entity: 1}[la / l']${entity-target}${choice-plurality-entity: 1} disparaît/disparaissent!${prompt}
+  232: '${choice-definite-entity: 1}[Le / La / L’]${entity-target} ${choice-plurality-entity: 1}[est/sont] attiré(s) !${prompt}'
+  233: Vous n'êtes pas autorisé à attaquer cette cible.${prompt}
+  234: 'Ciblage automatique de ${choice-definite-entity: 1}[la / l’]${entity-target}.${prompt}
+  235: Ceci est le familier de quelqu’un.${prompt}
   236: |-
-    ${unknown-84: 0}${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[lance/lance] ${spell-alt: 0}.
-    ${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[est/est] ${status-effect-adjective: 1[2]}.${prompt}
+    ${unknown-84: 0}${choice-definite-entity: 0}[Le / La / L’]${entity-source} ${choice-plurality-entity: 0}[lance/lancent] ${spell-alt: 0}.
+    ${choice-definite-entity: 1}[Le / La / L’]${entity-target} ${choice-plurality-entity: 1}[est/sont] ${status-effect-adjective: 1[2]}.${prompt}
   237: |-
-    ${unknown-84: 0}${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[lance/lance] ${spell-alt: 0}.
-    ${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[reçoit/reçoit] l'effet de ${status-effect-noun: 1[2]}.${prompt}
+    ${unknown-84: 0}${choice-definite-entity: 0}[Le / La / L’]${entity-source} ${choice-plurality-entity: 0}[lance/lancent] ${spell-alt: 0}.
+    ${choice-definite-entity: 1}[Le / La / L’]${entity-target} ${choice-plurality-entity: 1}[reçoit/reçoivent] l’effet de ${status-effect-noun: 1[2]}.${prompt}
   238: |-
-    ${unknown-84: 0}${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilise] ${skill-alt: 0}.
-    ${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[recupère/recupère] ${number-alt: 1} HP.${prompt}
-  239: '　Taille: ${number-alt: 0}${prompt}'
+    ${unknown-84: 0}${choice-definite-entity: 0}[Le / La / L’]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${skill-alt: 0}.
+    ${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[recupère/recupèrent] ${number-alt: 1} PV.${prompt}
+  239:'　Taille: ${number-alt: 0}${prompt}'
   240: '${choice-definite-entity: 0}[Le /]${entity-source} essaie de se cacher, mais est repéré par ${choice-definite-entity: 1}[le /]${entity-target}.${prompt}'
   241: '${choice-definite-entity: 0}[Le /]${entity-source} se cache!${prompt}'
   242: |-
