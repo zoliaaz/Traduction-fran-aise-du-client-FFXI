@@ -18459,35 +18459,35 @@ entries:
      Aurait-il pu être transféré à une autre fille... ?${prompt}
   7601: Vous connaissez bien cette fille. Je pourrais m’occuper d’elle facilement, mais si vous voulez que je l’épargne, alors vous me prêterez votre pouvoir.${prompt}
   7602: "« Échangez » le ${item-singular: 6[2]} contre les « Hiéroglyphes » trouvés dans chaque zone. Le ${item-singular: 6[2]} sera transformé en ${article} ${item-article: 7[2]}.${prompt}"
-  7603: 'From that point on, one of the areas of Dynamis will be reserved by the bearer of the ${item-singular: 7[2]}. The destination and time to be spent in Dynamis will be recorded in the help text of the ${item-singular: 7[2]}.${prompt}'
-  7604: 'By defeating certain enemies, a group can extend the amount of time they are allowed in Dynamis - ${choice: 0}[Dummy/San d''Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia]. Any time extensions will be reflected in the ${item-singular: 7[2]}''s help text.${prompt}'
-  7605: 'Using the ${item-singular: 7[2]} creates a copy. By handing these copies out to other characters, it is possible to enter Dynamis - ${choice: 0}[Dummy/San d''Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] in large groups.${prompt}'
-  7606: 'The number of characters that can enter Dynamis - ${choice: 0}[Dummy/San d''Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] at one time is limited to ${number: 4} people.${prompt}'
-  7607: 'The ${item-singular: 7[2]} can be duplicated further by those who have received a copy, essentially allowing for an unlimited number of ${item-plural: 7[2]} to be made. However, the moment the maximum allowable number of players have entered Dynamis, all extra hourglasses will become void. Please take this into consideration when deciding to whom, and how many, copies are to be handed out.${prompt}'
-  7608: 'To warp to Dynamis - ${choice: 0}[Dummy/San d''Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], “Trade” the ${item-singular: 7[2]} to the “Hieroglyphics” where you originally received it.${prompt}'
-  7609: 'Please note that it is not possible to enter Dynamis - ${choice: 0}[Dummy/San d''Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] without ${keyitem-article: 5[2]}, even if you trade the required ${item-singular: 7[2]}.${prompt}'
-  7610: In addition, only players above level 64 can travel to the Shrouded Land.${prompt}
-  7611: 'Ensuring that you have ${keyitem-article: 2[2]} in your possession, seek out the “Trail Markings” or “Hieroglyphics” found in each area.${prompt}'
-  7612: Examine them and you will be granted entrance to the corresponding Dynamis area.${prompt}
-  7613: 'Dynamis - ${choice: 0}[Dummy/San d''Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] will not be reserved to anyone. It will be accessible to any and all who meet the entry requirements.${prompt}'
-  7614: 'Your stay in Dynamis - ${choice: 0}[Dummy/San d''Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] will be subject to a time restriction. Parties will automatically be expelled from the area when this time elapses.${prompt}'
-  7615: Parties and alliances can extend their duration of stay by defeating certain enemies.${prompt}
-  7616: 'Please note that it is not possible to enter Dynamis - ${choice: 0}[Dummy/San d''Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] without ${keyitem-article: 5[2]}, even if you trade the required ${keyitem-singular: 2[2]}.${prompt}'
-  7617: Remember that only players level 65 or above can travel to the Shrouded Land.${prompt}
-  7618: 'Furthermore, it is not possible to reserve Dynamis - ${choice: 0}[Dummy/San d''Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] using ${article} ${item-article: 6[2]} or ${article} ${item-article: 7[2]}.${prompt}'
-  7619: 'Even if you leave Dynamis - ${choice: 0}[Dummy/San d''Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] through magic or being KO''d, you can reenter the same area without restriction as long as it is within the designated time of the ${item-singular: 7[2]}.${prompt}'
-  7620: 'However, you will be in a weakened state for some time upon returning to Dynamis - ${choice: 0}[Dummy/San d''Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia].${prompt}'
-  7621: This weakened state will last for longer than the usual period experienced after being raised from KO status.${prompt}
-  7622: 'Upon entering Dynamis - ${choice: 0}[Dummy/San d''Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], you will be unable to reenter using a different ${item-singular: 7[2]} for ${number: 3} ${choice-plurality: 3}[day/days] (Earth time).${prompt}'
-  7623: 'In addition to Dynamis - ${choice: 0}[Dummy/San d''Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], this restriction will also apply to the following Dynamis areas:${prompt}'
+  7603: 'À partir de ce moment, une des zones de Dynamis sera réservée par le porteur du ${item-singular: 7[2]}. La destination et le temps à passer à Dynamis seront enregistrés dans le texte d'aide du ${item-singular: 7[2]}.${prompt}'
+  7604: 'En battant certains ennemis, un groupe peut prolonger le temps autorisé à Dynamis - ${choice: 0}[Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia]. Toute extension de temps sera reflétée dans le texte d'aide du ${item-singular: 7[2]}.${prompt}'
+  7605: 'Utiliser le ${item-singular: 7[2]} crée une copie. En distribuant ces copies à d'autres personnages, il est possible d'entrer à Dynamis - ${choice: 0}[Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] en grands groupes.${prompt}'
+  7606: 'Le nombre de personnages pouvant entrer à Dynamis - ${choice: 0}[Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] en même temps est limité à ${number: 4} personnes.${prompt}'
+  7607: 'Le ${item-singular: 7[2]} peut être dupliqué davantage par ceux qui ont reçu une copie, permettant essentiellement de créer un nombre illimité de ${item-plural: 7[2]}. Cependant, dès que le nombre maximum de joueurs autorisés est atteint, toutes les horloges supplémentaires deviendront nulles. Veuillez en tenir compte lorsque vous décidez à qui et combien de copies distribuer.${prompt}'
+  7608: 'Pour se téléporter à Dynamis - ${choice: 0}[Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], "Échangez" le ${item-singular: 7[2]} contre les "Hiéroglyphes" où vous l'avez initialement reçu.${prompt}'
+  7609: 'Veuillez noter qu'il n'est pas possible d'entrer à Dynamis - ${choice: 0}[Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] sans ${keyitem-article: 5[2]}, même si vous échangez le ${item-singular: 7[2]} requis.${prompt}'
+  7610: 'De plus, seuls les joueurs de niveau supérieur à 64 peuvent voyager vers la Terre Voilée.${prompt}'
+  7611: 'En vous assurant que vous avez ${keyitem-article: 2[2]} en votre possession, recherchez les "Marques de Piste" ou les "Hiéroglyphes" trouvés dans chaque zone.${prompt}'
+  7612: 'Examinez-les et vous obtiendrez l'accès à la zone Dynamis correspondante.${prompt}'
+  7613: 'Dynamis - ${choice: 0}[Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] ne sera réservé à personne. Il sera accessible à tous ceux qui remplissent les conditions d'entrée.${prompt}'
+  7614: 'Votre séjour à Dynamis - ${choice: 0}[Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] sera soumis à une restriction de temps. Les groupes seront automatiquement expulsés de la zone lorsque ce temps sera écoulé.${prompt}'
+  7615: 'Les groupes et alliances peuvent prolonger leur durée de séjour en battant certains ennemis.${prompt}'
+  7616: 'Veuillez noter qu'il n'est pas possible d'entrer à Dynamis - ${choice: 0}[Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] sans ${keyitem-article: 5[2]}, même si vous échangez le ${keyitem-singular: 2[2]} requis.${prompt}'
+  7617: 'N'oubliez pas que seuls les joueurs de niveau 65 ou plus peuvent voyager vers la Terre Voilée.${prompt}'
+  7618: 'De plus, il n'est pas possible de réserver Dynamis - ${choice: 0}[Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] en utilisant ${article} ${item-article: 6[2]} ou ${article} ${item-article: 7[2]}.${prompt}'
+  7619: 'Même si vous quittez Dynamis - ${choice: 0}[Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] par magie ou par KO, vous pouvez réintégrer la même zone sans restriction tant que c'est dans le temps désigné du ${item-singular: 7[2]}.${prompt}'
+  7620: 'Cependant, vous serez dans un état affaibli pendant un certain temps après votre retour à Dynamis - ${choice: 0}[Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia].${prompt}'
+  7621: 'Cet état affaibli durera plus longtemps que la période habituelle après avoir été ressuscité d'un KO.${prompt}'
+  7622: 'En entrant à Dynamis - ${choice: 0}[Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], vous ne pourrez pas y revenir avec un ${item-singular: 7[2]} différent pendant ${number: 3} ${choice-plurality: 3}[jour/jours] (temps terrestre).${prompt}'
+  7623: 'En plus de Dynamis - ${choice: 0}[Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], cette restriction s'appliquera également aux zones Dynamis suivantes:${prompt}'
   7624: |-
     Dynamis - ${choice: 0}[Dummy/Dummy/Dummy/Dummy/Dummy/Dummy/Dummy/Buburimu/Valkurm/Valkurm/Valkurm].
     Dynamis - ${choice: 0}[Dummy/Dummy/Dummy/Dummy/Dummy/Dummy/Dummy/Qufim/Qufim/Buburimu/Buburimu].
     Dynamis - ${choice: 0}[Dummy/Dummy/Dummy/Dummy/Dummy/Dummy/Dummy/Tavnazia/Tavnazia/Tavnazia/Qufim.]${prompt}
-  7625: You may confirm the remaining waiting period until reentry is permitted at any time by examining the Trail Markings or Hieroglyphics.${prompt}
-  7626: 'Travel to Dynamis - ${choice: 0}[Dummy/San d''Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] is limited to once per ${choice: 1}[day/ten minutes] (Earth time).${prompt}'
-  7627: Even if expelled from the area by magic or being KO'd, you will not be able to reenter until the waiting period has elapsed.${prompt}
-  7628: 'In addition to Dynamis - ${choice: 0}[Dummy/San d''Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], this restriction will also apply to other Dynamis areas.${prompt}'
+  7625: 'Vous pouvez confirmer le temps d'attente restant jusqu'à la réentrée permise à tout moment en examinant les Marques de Piste ou les Hiéroglyphes.${prompt}'
+  7626: 'Le voyage vers Dynamis - ${choice: 0}[Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] est limité à une fois par ${choice: 1}[jour/dix minutes] (temps terrestre).${prompt}'
+  7627: 'Même si vous êtes expulsé de la zone par magie ou par KO, vous ne pourrez pas réintégrer avant que le temps d'attente ne soit écoulé.${prompt}'
+  7628: 'En plus de Dynamis - ${choice: 0}[Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], cette restriction s'appliquera également aux autres zones de Dynamis.${prompt}'
   7629: |-
     Dynamis - ${choice: 0}[Dummy/Bastok/San d'Oria/San d'Oria/San d'Oria/San d'Oria/San d'Oria/Dummy/Dummy/Dummy/Dummy].
     Dynamis - ${choice: 0}[Dummy/Windurst/Windurst/Bastok/Bastok/Bastok/Bastok/Dummy/Dummy/Dummy/Dummy].
@@ -18495,18 +18495,18 @@ entries:
   7630: |-
     Dynamis - ${choice: 0}[Dummy/Beaucedine/Beaucedine/Beaucedine/Beaucedine/Jeuno/Jeuno/Dummy/Dummy/Dummy/Dummy].
     Dynamis - ${choice: 0}[Dummy/Xarcabard/Xarcabard/Xarcabard/Xarcabard/Xarcabard/Beaucedine/Dummy/Dummy/Dummy/Dummy].${prompt}
-  7631: You may confirm the remaining waiting period until reentry is permitted at any time by examining the Trail Markings or Hieroglyphics.${prompt}
-  7632: 'In Dynamis - ${choice: 0}[Dummy/San d''Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], it is possible to cooperate with other characters to defeat enemies without being in the same party or alliance.${prompt}'
-  7633: Also, items dropped by enemies become available for every character in the area to cast lots on. As in normal parties, the item is gained by the character who casts the highest lot.${prompt}
-  7634: Please be aware that items not lotted for within the restricted time may go to random characters or be lost entirely.${prompt}
-  7635: 'Starting from when the first character enters, if the number of people in Dynamis - ${choice: 0}[Dummy/San d''Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] reaches and remains at zero for approximately ${number: 2} ${choice-plurality: 2}[minute/minutes] (Earth time), the time and area designation on the ${item-singular: 7[2]} will be canceled.${prompt}'
-  7636: 'When battling enemies in Dynamis - ${choice: 0}[Dummy/San d''Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], it will only be possible to cooperate with characters in the same party or alliance.${prompt}'
-  7637: Spoils dropped by enemies will become available for every character in the party or alliance to cast lots on. The item will be awarded to the character who casts the highest lot.${prompt}
-  7638: Please be aware that items not lotted for within the restricted time may go to a random party or alliance member, or be lost entirely.${prompt}
-  7639: You receive nothing from the moon rabbit...${prompt}
-  7640: The moon rabbit has brought along a monster!${prompt}
-  7641: You have to do something about those crazy trees, kupo!${prompt}
-  7642: You're done fighting trees, kupo?${prompt}
+  7631: 'Vous pouvez confirmer le temps d'attente restant jusqu'à la réentrée permise à tout moment en examinant les Marques de Piste ou les Hiéroglyphes.${prompt}'
+  7632: 'À Dynamis - ${choice: 0}[Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], il est possible de coopérer avec d'autres personnages pour vaincre des ennemis sans être dans la même équipe ou alliance.${prompt}'
+  7633: 'De plus, les objets lâchés par les ennemis deviennent disponibles pour chaque personnage dans la zone pour lancer des lots. Comme dans les équipes normales, l'objet est gagné par le personnage qui lance le lot le plus élevé.${prompt}'
+  7634: 'Veuillez noter que les objets non lottés dans le temps imparti peuvent aller à des personnages aléatoires ou être perdus entièrement.${prompt}'
+  7635: 'À partir du moment où le premier personnage entre, si le nombre de personnes dans Dynamis - ${choice: 0}[Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] atteint et reste à zéro pendant environ ${number: 2} ${choice-plurality: 2}[minute/minutes] (temps terrestre), la désignation de temps et de zone sur le ${item-singular: 7[2]} sera annulée.${prompt}'
+  7636: 'Lors de la bataille contre des ennemis à Dynamis - ${choice: 0}[Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], il ne sera possible de coopérer qu'avec les personnages de la même équipe ou alliance.${prompt}'
+  7637: 'Les butins lâchés par les ennemis seront disponibles pour chaque personnage de l'équipe ou de l'alliance pour lancer des lots. L'objet sera attribué au personnage qui lance le lot le plus élevé.${prompt}'
+  7638: 'Veuillez noter que les objets non lottés dans le temps imparti peuvent aller à un membre aléatoire de l'équipe ou de l'alliance, ou être perdus entièrement.${prompt}'
+  7639: 'Vous ne recevez rien du lapin de la lune...${prompt}'
+  7640: 'Le lapin de la lune a amené un monstre avec lui !${prompt}'
+  7641: 'Vous devez faire quelque chose à propos de ces arbres fous, kupo !${prompt}'
+  7642: 'Vous avez fini de combattre les arbres, kupo ?${prompt}'
   7643: ${prompt}
   7644: ${prompt}
   7645: ${prompt}
@@ -18515,27 +18515,27 @@ entries:
   7648: ${prompt}
   7649: ${prompt}
   7650: |-
-    Hey, you!
-    I'll have you know that only the rightful leader of the Star Onion Brigade can sit there! Get down right now before I charge you with trees-on and disturbing the peas!${prompt}
-  7651: I don't know how you got inside, but that area is off limits. Vacate the premises immediately!${prompt}
-  7652: He...he...here's your delivery...<wheeze>...!${prompt}
+    Hé, toi!
+    Je te ferai savoir que seul le véritable chef de la Brigade des Oignons Étoilés peut s'asseoir là ! Descends immédiatement avant que je te poursuive pour avoir dérangé les pois et troublé la paix !${prompt}'
+  7651: 'Je ne sais pas comment tu es entré, mais cette zone est interdite. Quitte les lieux immédiatement !${prompt}'
+  7652: 'Vo...vo...voici votre livraison...<halète>...!${prompt}'
   7653: |-
-    Thanks once again.
-    Light on your feet today, I see!${prompt}
+    Merci encore une fois.
+    Leste sur tes pieds aujourd'hui, je vois !${prompt}
   7654: |-
-    Walking trees!? How positively...peculiar.
-    Are these also creations conjured up with Tarutaru magic?${prompt}
+    Des arbres qui marchent !? Comme c'est...curieux.
+    Sont-ils aussi des créations magiques Tarutaru ?${prompt}
   7655: '　${wait-animation: 0}${prompt}'
   7656: |-
     ${unknown: 0x0250000354}${unknown: 0x0154686520666F7274726573732063697479206F662053616E2064274F726961206C69657320746F20746865076E6F727468206F6E2074686520677265617420636F6E74696E656E74206F662051756F6E2E20546865}
-    beating heart of an ancient kingdom, it is
-    home to a thousand legends past.${wait-animation: 9}${prompt}
+    battement de cœur d'un ancien royaume,
+    c'est le foyer de mille légendes passées.${wait-animation: 9}${prompt}
   7657: |-
-    ${unknown: 0x0250000354}${unknown: 0x01427574206E6F772C2068657220726569676E206F6620676C6F7279206973206275742061076D656D6F72792E204865726F6573207261697365207368696E696E672073}words to the
-    heavens no more.${wait-animation: 9}${prompt}
+    ${unknown: 0x0250000354}${unknown: 0x01427574206E6F772C2068657220726569676E206F6620676C6F7279206973206275742061076D656D6F72792E204865726F6573207261697365207368696E696E672073}mots vers
+    les cieux plus jamais.${wait-animation: 9}${prompt}
   7658: |-
     ${unknown: 0x0250000354}${unknown: 0x015468652073756E2068617320736574206F6E20746865206B696E67646F6D206F66206B6E69676874732E07416E206F6C64206C696F6E2C206E6576657220746F207269736520616761696E2E2E2E20546875732064}o
-    some dismiss her now.${wait-animation: 9}${prompt}
+    certains la rejettent maintenant.${wait-animation: 9}${prompt}
   7659: '${unknown: 0x0250000354}${unknown: 0x0159657420796F756E6720456C7661616E206B6E6967687473207374696C6C2076656E747572650770726F75646C7920696E746F207468652077696C6473206F662056616E61276469656C2C0764657465726D696E656420746F20}triumph over any foe.${wait-animation: 9}${prompt}'
   7660: '${unknown: 0x0250000354}${unknown: 0x014F6E207468697320706172746963756C61722064617920746865726520636F6D65732061206E657707616476656E74757265722C20726561647920746F206D616B652061206E616D6520666F72077F85}[himself/herself] in San d''Oria.${wait-animation: 9}${prompt}'
   7661: '${unknown: 0x0250000354}${unknown: 0x01546865206B696E672077697368657320746F20626F6C73746572206869732072616E6B732C07616E64200820686173206A6F75726E657965642066617207746F20616E73776572207468652063616C6C2E7F34097F}1'
@@ -18548,180 +18548,180 @@ entries:
   7664: |-
     ${unknown: 0x0250000354}${unknown: 0x014E65766572206265666F726520686173207F855B68652F7368655D2073657420666F6F742077697468696E2074686507456C7661616E206361706974616C2C20627574207F855B68652F7368655D20}is resolved to let
     nothing stand in ${choice-player-gender}[his/her] way.${wait-animation: 5}${prompt}
-  7665: I say! Watch where you're going!${prompt}
-  7666: Oh, a new recruit, are you? That explains it!${prompt}
-  7667: Well, far be it from me to chastise someone on ${choice-player-gender}[his/her] first day. Still, as a citizen of San d'Oria, you--${prompt}
-  7668: Wait, the expedition has returned.${prompt}
-  7669: Halt! I must inspect your ranks for infiltrators.${prompt}
-  7670: Oh, let us through. We are exhausted!${prompt}
-  7671: Still I must check for infiltrators. As a Temple Knight, I am responsible for the safety of the citadel. You Royal Knights must cooperate.${prompt}
-  7672: Is this how you thank us, treating us like criminals!${prompt}
-  7673: You Temple Knights have it easy, safe inside these walls. We have no time for your games!${prompt}
-  7674: How dare you!${prompt}
-  7675: What is going on here?${prompt}
-  7676: Lady Curilla! These Royal Knights refuse to verify their identities.${prompt}
-  7677: Welcome back, Royal Knights. You must be weary. After reporting to Prince Trion, shed your armor and see your families. Long have they waited for you.${prompt}
-  7678: Yes, Lady Curilla!${prompt}
-  7679: Royal Knights, forward!${prompt}
-  7680: Those knights are back from a dangerous mission. Remember that sometimes rules can be bent.${prompt}
-  7681: Take pride in your duties, and do not mind the trivial. Remember, we are the face of San d'Oria!${prompt}
-  7682: Yes, madam!${prompt}
-  7683: 'And to the new recruit, I say this: The glory of San d''Oria depends upon each and every citizen! Good luck!${prompt}'
-  7684: General Curilla, bravo. You are gifted with much sympathy.${prompt}
-  7685: Without your Temple Knights, we Royal Knights could not patrol the wilderness. Your order is a sturdy pillar upon which we rest.${prompt}
-  7686: We are not your servants, Rahal. But tell me how fared your patrol.${prompt}
-  7687: You seem drawn to the world outside, Curilla. Perhaps you find this fortress too constraining?${prompt}
-  7688: None of your business. But your troops did look weary. Did you make any progress against the enemy?${prompt}
-  7689: No, it is ever the same. No one can tell what Orcs may do next. And always must I struggle with two chains of command.${prompt}
-  7690: You know, Prince Trion and Prince Pieuje. I see the wisdom in both their strategies, but--${prompt}
-  7691: Rahal, we needn't discuss this before the recruit. Shall we walk to the castle?${prompt}
-  7692: It would be an honor! Let us enjoy a bottle of 812 Rolanberry in the warmth of my chamber.${prompt}
-  7693: Well, I prefer the strategy council room. I shall make Batallia tea should you thirst.${prompt}
-  7694: Hah! Ever the same, I see.${prompt}
-  7695: That was General Curilla of the Temple Knights. Her order watches over the city and protects Chateau d'Oraguille.${prompt}
-  7696: Rahal's Royal Knights, on the other hand, spy on our enemies and battle fiends.${prompt}
-  7697: With such disparate duties, the two orders maintain a tense rivalry.${prompt}
-  7698: Perhaps I could be of service. Is there anything you'd like to know?${prompt}
+  7665: Je vous en prie ! Faites attention où vous allez !${prompt}
+  7666: Oh, un nouveau recrue, n'est-ce pas ? Cela explique tout !${prompt}
+  7667: Eh bien, loin de moi l'idée de réprimander quelqu'un le premier jour. Néanmoins, en tant que citoyen de San d'Oria, vous --${prompt}
+  7668: Attendez, l'expédition est revenue.${prompt}
+  7669: Halte ! Je dois inspecter vos rangs pour repérer les infiltrés.${prompt}
+  7670: Oh, laissez-nous passer. Nous sommes épuisés !${prompt}
+  7671: Malgré tout, je dois vérifier la présence d'infiltrés. En tant que Chevalier du Temple, je suis responsable de la sécurité de la citadelle. Vous, Chevaliers Royaux, devez coopérer.${prompt}
+  7672: Est-ce ainsi que vous nous remerciez, en nous traitant comme des criminels !${prompt}
+  7673: Vous, Chevaliers du Temple, avez la vie facile, en sécurité derrière ces murs. Nous n'avons pas le temps pour vos jeux !${prompt}
+  7674: Comment osez-vous !${prompt}
+  7675: Que se passe-t-il ici ?${prompt}
+  7676: Dame Curilla ! Ces Chevaliers Royaux refusent de vérifier leur identité.${prompt}
+  7677: Bienvenue de retour, Chevaliers Royaux. Vous devez être fatigués. Après avoir rendu compte au Prince Trion, retirez votre armure et rejoignez vos familles. Ils vous ont tant attendus.${prompt}
+  7678: Oui, Dame Curilla !${prompt}
+  7679: Chevaliers Royaux, en avant !${prompt}
+  7680: Ces chevaliers sont revenus d'une mission dangereuse. Rappelez-vous que parfois, les règles peuvent être assouplies.${prompt}
+  7681: Soyez fiers de vos devoirs, et ne vous souciez pas des détails. Rappelez-vous, nous sommes le visage de San d'Oria !${prompt}
+  7682: Oui, madame !${prompt}
+  7683: 'Et à la nouvelle recrue, je dis ceci : La gloire de San d'Oria dépend de chaque citoyen ! Bonne chance !${prompt}'
+  7684: Général Curilla, bravo. Vous êtes douée d'une grande sympathie.${prompt}
+  7685: Sans vos Chevaliers du Temple, nous Chevaliers Royaux ne pourrions pas patrouiller dans la nature sauvage. Votre ordre est un pilier solide sur lequel nous nous reposons.${prompt}
+  7686: Nous ne sommes pas vos serviteurs, Rahal. Mais dites-moi, comment s'est passée votre patrouille ?${prompt}
+  7687: Vous semblez attirée par le monde extérieur, Curilla. Peut-être trouvez-vous cette forteresse trop contraignante ?${prompt}
+  7688: Ce n'est pas vos affaires. Mais vos troupes avaient l'air fatiguées. Avez-vous fait des progrès contre l'ennemi ?${prompt}
+  7689: Non, c'est toujours la même chose. Personne ne peut dire ce que les Orcs feront ensuite. Et je dois toujours lutter avec deux chaînes de commandement.${prompt}
+  7690: Vous savez, le Prince Trion et le Prince Pieuje. Je vois la sagesse dans les stratégies de chacun, mais--${prompt}
+  7691: Rahal, nous n'avons pas besoin d'en discuter devant la recrue. Devrions-nous marcher jusqu'au château ?${prompt}
+  7692: Ce serait un honneur ! Profitons d'une bouteille de 812 Rolanberry dans la chaleur de ma chambre.${prompt}
+  7693: Eh bien, je préfère la salle de conseil stratégique. Je vous servirai du thé de Batallia si vous avez soif.${prompt}
+  7694: Hah ! Toujours la même chose, je vois.${prompt}
+  7695: C'était le Général Curilla des Chevaliers du Temple. Son ordre veille sur la ville et protège le Château d'Oraguille.${prompt}
+  7696: Les Chevaliers Royaux de Rahal, quant à eux, espionnent nos ennemis et combattent les démons.${prompt}
+  7697: Avec des devoirs aussi disparates, les deux ordres entretiennent une rivalité tendue.${prompt}
+  7698: Peut-être pourrais-je vous être utile. Y a-t-il quelque chose que vous aimeriez savoir ?${prompt}
   7699: |-
-    Something you'd like to know?
+    Quelque chose que vous aimeriez savoir ?
     ${selection-lines}
-    Nothing, actually.
-    I'd like to get out of the city.
-    I'd like to do some shopping.
-    Tell me more about adventuring.${prompt}
-  7700: Just arrived and you're aching to leave, eh? Listen, the lands are wild beyond our gates, filled with fiends and their ilk.${prompt}
-  7701: But if you must, go up those stairs, head for Northern San d'Oria, then go out Ranperre Gate. Go through the guild area and take a right to get to the gate. Got that?${prompt}
-  7702: Should you need directions, ask those around you. Our citizens are friendly, for the most part.${prompt}
-  7703: Wait, wait--one more thing. Should someone aid you, be sure to show them your gratitude. That is all.${prompt}
-  7704: If you want to buy weapons or other supplies, just ask one of the merchants in town.${prompt}
-  7705: Ahh, recruits... Don't know which way to hold a sword and you think you're ready for adventures. Well, what would you like to know?${prompt}
-  7706: You need to go to the Novice's Hall. You'll find it in Southern San d'Oria.${prompt}
+    Rien en fait.
+    J'aimerais sortir de la ville.
+    J'aimerais faire des achats.
+    Parlez-moi davantage de l'aventure.${prompt}
+  7700: Vous venez juste d'arriver et vous avez hâte de partir, hein ? Écoutez, les terres sont sauvages au-delà de nos portes, remplies de démons et de leurs semblables.${prompt}
+  7701: Mais si vous le devez, montez ces escaliers, dirigez-vous vers le Nord de San d'Oria, puis sortez par la Porte de Ranperre. Traversez la zone des guildes et tournez à droite pour accéder à la porte. Vous avez compris ?${prompt}
+  7702: Si vous avez besoin d'indications, demandez à ceux qui vous entourent. Nos citoyens sont amicaux, pour la plupart.${prompt}
+  7703: Attendez, attendez--une chose de plus. Si quelqu'un vous aide, assurez-vous de lui montrer votre gratitude. C'est tout.${prompt}
+  7704: Si vous voulez acheter des armes ou d'autres fournitures, demandez simplement à l'un des marchands de la ville.${prompt}
+  7705: Ahh, les recrues... Ne savent pas tenir une épée correctement et pensent être prêtes pour l'aventure. Bien, que voudriez-vous savoir ?${prompt}
+  7706: Vous devez vous rendre au Hall des Novices. Vous le trouverez dans le Sud de San d'Oria.${prompt}
   7707: |-
-    What would you like to hear about?
+    Que voudriez-vous entendre ?
     ${selection-lines}
-    Helping people.
-    Hunting monsters.
-    Making easy money.
-    Working for my country.${prompt}
-  7708: Ah, a commendable choice! Come to think of it, there was a lady in front of a house on the west side of Southern San d'Oria. She may be in need of assistance.${prompt}
-  7709: Ah, a commendable choice! Hmm, yes... Come to think of it, there was a lady just down those stairs. She may be in need of assistance.${prompt}
-  7710: Ahh, recruits... Don't know your own limits until a fiend beats it into your head for you. Very well. How about gathering some hides?${prompt}
-  7711: Pass through Victory Arch in Northern San d'Oria to arrive in Southern San d'Oria, where you'll find the Tanners' Guild. They're in need of hides every now and then.${prompt}
-  7712: If you have trouble finding the Tanners' Guild, just ask around.${prompt}
-  7713: Easy money, eh? Typical of a new recruit. I cannot promise ease, but try the lumberyard in Northern San d'Oria. Should be enough work for you there.${prompt}
-  7714: Go up those stairs to get to Northern San d'Oria. You can see the lumberyard from there.${prompt}
-  7715: Ah, a commendable choice for a new recruit. Head to any city gate and inquire at the gatehouse. They'll give you work befitting your rank.${prompt}
-  7716: Perhaps I could be of service. Is there anything in particular you'd like to know?${prompt}
-  7717: I could ramble for days, but much of my wisdom would be lost on you. If there's anything you want to know, just ask me.${prompt}
+    Aider les gens.
+    Chasser les monstres.
+    Gagner de l'argent facilement.
+    Travailler pour mon pays.${prompt}
+  7708: Ah, un choix louable ! En y réfléchissant, il y avait une dame devant une maison du côté ouest de San d'Oria du Sud. Elle pourrait avoir besoin d'aide.${prompt}
+  7709: Ah, un choix louable ! Hmm, oui... En y réfléchissant, il y avait une dame juste en bas de ces escaliers. Elle pourrait avoir besoin d'aide.${prompt}
+  7710: Ahh, les recrues... Vous ne connaissez pas vos limites jusqu'à ce qu'un démon vous les fasse comprendre à votre place. Très bien. Que diriez-vous de rassembler des peaux ?${prompt}
+  7711: Traversez l'Arc de la Victoire à San d'Oria du Nord pour arriver à San d'Oria du Sud, où vous trouverez la Guilde des Tanneurs. Ils ont besoin de peaux de temps en temps.${prompt}
+  7712: Si vous avez du mal à trouver la Guilde des Tanneurs, demandez simplement autour de vous.${prompt}
+  7713: De l'argent facile, hein ? Typique d'une nouvelle recrue. Je ne peux pas promettre la facilité, mais essayez la scierie à San d'Oria du Nord. Il devrait y avoir assez de travail pour vous là-bas.${prompt}
+  7714: Montez ces escaliers pour arriver à San d'Oria du Nord. Vous pouvez voir la scierie de là-bas.${prompt}
+  7715: Ah, un choix louable pour une nouvelle recrue. Dirigez-vous vers n'importe quelle porte de la ville et renseignez-vous à la maison de la porte. Ils vous donneront un travail correspondant à votre grade.${prompt}
+  7716: Peut-être pourrais-je être utile. Y a-t-il quelque chose en particulier que vous aimeriez savoir ?${prompt}
+  7717: Je pourrais parler pendant des jours, mais une grande partie de ma sagesse serait perdue pour vous. S'il y a quelque chose que vous voulez savoir, demandez-moi.${prompt}
   7718: |-
-    Something you'd like to know?
+    Quelque chose que vous aimeriez savoir ?
     ${selection-lines}
-    Nothing in particular.
-    I want to go out and do battle!
-    I want to go shopping.
-    I want to know more about adventuring.${prompt}
-  7719: Just got here and you're aching to leave, eh? Listen, the lands are wild beyond our gates, filled with fiends and their ilk.${prompt}
-  7720: Right behind you is the Westgate. Beyond that, the wilds of West Ronfaure.${prompt}
-  7721: Should you need directions, ask those around you. Our citizens are friendly, for the most part.${prompt}
-  7722: But watch where you're going this time!${prompt}
-  7723: Wait, wait--one more thing. Should you receive the aid of another, show your gratitude. That is all.${prompt}
-  7724: Above all else, uphold the honor of San d'Oria. We take pride in our kingdom, and so should you.${prompt}
-  7725: Should you seek weapons, armor, or supplies, there are several shops in this area. Why not go have a look?${prompt}
-  7726: Ahh, recruits... Don't know which way to hold a sword and you think you're ready for adventures. Well, what would you like to know?${prompt}
-  7727: You really are a handful! Go talk to the people in town. I'm sure you'll find something to do.${prompt}
+    Rien en particulier.
+    Je veux sortir et combattre !
+    Je veux faire des achats.
+    Je veux en savoir plus sur l'aventure.${prompt}
+  7719: Vous venez juste d'arriver et vous avez hâte de partir, hein ? Écoutez, les terres sont sauvages au-delà de nos portes, remplies de démons et de leurs semblables.${prompt}
+  7720: Juste derrière vous se trouve la Porte Ouest. Au-delà, les étendues sauvages de Ronfaure Ouest.${prompt}
+  7721: Si vous avez besoin d'indications, demandez à ceux qui vous entourent. Nos citoyens sont amicaux, pour la plupart.${prompt}
+  7722: Mais faites attention où vous mettez les pieds cette fois-ci !${prompt}
+  7723: Attendez, attendez--encore une chose. Si vous recevez l'aide de quelqu'un d'autre, montrez votre gratitude. C'est tout.${prompt}
+  7724: Avant tout, défendez l'honneur de San d'Oria. Nous sommes fiers de notre royaume, et vous devriez l'être aussi.${prompt}
+  7725: Si vous cherchez des armes, de l'armure ou des fournitures, il y a plusieurs boutiques dans cette zone. Pourquoi ne pas aller jeter un coup d'œil ?${prompt}
+  7726: Ahh, les recrues... Ne savent pas tenir une épée correctement et pensent être prêtes pour l'aventure. Bien, que voudriez-vous savoir ?${prompt}
+  7727: Vous êtes vraiment une poignée ! Allez parler aux gens en ville. Je suis sûr que vous trouverez quelque chose à faire.${prompt}
   7728: |-
-    What would you like to hear about?
+    Quelque chose que vous aimeriez savoir ?
     ${selection-lines}
-    Helping people.
-    Hunting monsters.
-    Making easy money.
-    Working for my country.${prompt}
-  7729: Ah, a commendable choice! Come to think of it, there was a lady in front of a house on Pikeman's Way. She may be in need of assistance.${prompt}
-  7730: Novices... Don't know your own limits until a fiend beats it into your head for you. Very well. How about gathering some hides for the Tanners' Guild on Pikeman's Way?${prompt}
+    Aider les gens.
+    Chasser des monstres.
+    Gagner de l'argent facilement.
+    Travailler pour mon pays.${prompt}
+  7729: Ah, un choix louable ! En y réfléchissant, il y avait une dame devant une maison sur la Voie des Piquiers. Elle pourrait avoir besoin d'aide.${prompt}
+  7730: Novices... Ne connaissent pas leurs propres limites jusqu'à ce qu'un démon les leur fasse comprendre à leur place. Très bien. Que diriez-vous de rassembler des peaux pour la Guilde des Tanneurs sur la Voie des Piquiers ?${prompt}
   7731: |-
     工人通りへ行くには、まず凱旋門を
     くぐって北サンドリアへ出ろ。閲兵場の左にある
     ゲートを抜ければ見えるはずだ。${prompt}
-  7732: Easy money, eh? Typical of a new recruit. I cannot promise ease, but the lumberyard in Northern San d'Oria should have work for you there.${prompt}
-  7733: To get to the lumberyard, go through Victory Arch, head northwest across the Parade Grounds, and keep going till you reach Laborman's Way. The lumberyard lies at the far end.${prompt}
-  7734: Ah, a commendable choice for a new recruit. Head to any city gate and inquire at the gatehouse. You'll be doing work for the glory of the Kingdom!${prompt}
-  7735: 'Here, take this ${item-singular: 0[2]}. Give it to Ailevia in Victory Square. I''ll show you where she is on your map.${prompt}'
-  7736: To give items to others, select “Trade” from the main menu. Don't you forget it!${prompt}
-  7737: 'I say! Watch where you''re going!${wait-animation: 5}${prompt}'
-  7738: Ah, Ceraule! What are you doing there?${prompt}
-  7739: My lord Prince Trion! I was just talking to this recruit about what it means to be a proud citizen of San d'Oria!${prompt}
-  7740: A new recruit, are you? Strengthen your sword arm and your stature as a knight. Thus will you best serve the glory of our great kingdom.${prompt}
-  7741: San d'Oria has more than enough soldiers already, brother. Speaking of which, should you not be training them, instead of bothering new recruits with talk of war?${prompt}
-  7742: You are too bold!${prompt}
-  7743: Really, Pieuje! Is that any way to speak to your brother?${prompt}
-  7744: I've said the truth, nothing more. The ranks of our armies could swell to bursting, and still victory would not be certain.${prompt}
-  7745: It is your head that is swollen, brother. With a large enough army, we can crush the beastmen, without resorting to your misguided tactics!${prompt}
-  7746: Misguided, am I? Tell me, what then were the tactics that lost a whole company of our warriors in the Batallia Downs the other day?${prompt}
-  7747: It's good you're so fond of talking, as I've never seen you wield a sword. Better to shout orders from the rear than reveal your ineptitude in combat!${prompt}
-  7748: Stop your quarreling, both of you!${prompt}
-  7749: A divided leadership only creates unrest among the people, soldier and civilian alike. Surely you are both well aware of this?${prompt}
-  7750: Very well. I've heard more than I wish to hear from my brother already. I warn you, Pieuje, talk to me in this way again and I shall not be so forgiving.${prompt}
-  7751: Oh, Trion. Threats of violence are his only answer when a conversation does not go as he would have it. Like a child, he is!${prompt}
-  7752: You are both like children, quick to insult and quicker to take offense! Really...${prompt}
-  7753: I must apologize for that. But ours is truly a great kingdom, and I expect you to further her glory.${prompt}
-  7754: Those two are a handful, but despite their constant quarrelling, they are the closest of brothers.${prompt}
-  7755: Ohh, what a fine pickle this is!${prompt}
-  7756: Oh, what to do? My husband is on patrol in West Ronfaure, but he forgot his salve when he went out this morning!${prompt}
-  7757: It's a dangerous job he does, and you never know when a good ointment could save your life! Perhaps you could take it to him?${prompt}
-  7758: I'd take it myself, to be sure, but I cannot leave the city.${prompt}
+  7732: De l'argent facile, hein ? Typique d'un nouveau recruté. Je ne peux pas promettre la facilité, mais la scierie de San d'Oria Nord devrait avoir du travail pour vous là-bas.${prompt}
+  7733: Pour vous rendre à la scierie, passez par l'Arc de la Victoire, dirigez-vous vers le nord-ouest à travers les Terrains de Parade, et continuez jusqu'à arriver à la Voie des Ouvriers. La scierie se trouve au bout.${prompt}
+  7734: Ah, un choix louable pour un nouveau recruté. Dirigez-vous vers n'importe quelle porte de la ville et renseignez-vous à la guérite. Vous ferez du travail pour la gloire du Royaume !${prompt}
+  7735: 'Tenez, prenez ce ${item-singular: 0[2]}. Donnez-le à Ailevia dans la Place de la Victoire. Je vais vous montrer où elle se trouve sur votre carte.${prompt}'
+  7736: Pour donner des objets à d'autres, sélectionnez "Échange" dans le menu principal. Ne l'oubliez pas !${prompt}
+  7737: 'Je dis ! Regardez où vous allez !${wait-animation: 5}${prompt}'
+  7738: Ah, Ceraule ! Que fais-tu là ?${prompt}
+  7739: Mon seigneur Prince Trion ! Je parlais juste à ce recruté de ce que signifie être un fier citoyen de San d'Oria !${prompt}
+  7740: Un nouveau recruté, êtes-vous ? Renforcez votre bras et votre stature de chevalier. Ainsi servirez-vous au mieux la gloire de notre grand royaume.${prompt}
+  7741: San d'Oria a déjà plus que suffisamment de soldats, frère. En parlant de cela, ne devriez-vous pas les entraîner, au lieu d'ennuyer les nouveaux recrutés avec des discours de guerre ?${prompt}
+  7742: Tu es bien audacieux !${prompt}
+  7743: Vraiment, Pieuje ! Est-ce ainsi qu'on parle à son frère ?${prompt}
+  7744: J'ai dit la vérité, rien de plus. Les rangs de nos armées pourraient déborder, et pourtant la victoire ne serait pas certaine.${prompt}
+  7745: C'est ta tête qui est gonflée, frère. Avec une armée assez grande, nous pouvons écraser les bêtes, sans recourir à tes tactiques égarées !${prompt}
+  7746: Égarées, suis-je ? Dis-moi, quelles étaient alors les tactiques qui ont perdu toute une compagnie de nos guerriers dans les Plaines de Batallia l'autre jour ?${prompt}
+  7747: C'est bien que tu aimes tant parler, car je ne t'ai jamais vu manier une épée. Mieux vaut crier des ordres depuis l'arrière que révéler ton incompétence au combat !${prompt}
+  7748: Arrêtez vos querelles, tous les deux !${prompt}
+  7749: Un leadership divisé ne crée que l'agitation parmi le peuple, soldat et civils confondus. Vous en êtes sûrement tous les deux conscients ?${prompt}
+  7750: Très bien. J'ai déjà entendu plus que je ne voulais entendre de mon frère. Je te préviens, Pieuje, parle-moi de cette façon encore une fois et je ne serai pas si indulgent.${prompt}
+  7751: Oh, Trion. Les menaces de violence sont sa seule réponse lorsque la conversation ne se déroule pas comme il le voudrait. Comme un enfant, il est !${prompt}
+  7752: Vous êtes tous les deux comme des enfants, prompts à insulter et encore plus prompts à prendre offense ! Vraiment...${prompt}
+  7753: Je dois m'excuser pour cela. Mais le nôtre est vraiment un grand royaume, et je m'attends à ce que vous en renforciez la gloire.${prompt}
+  7754: Ces deux-là sont une poignée, mais malgré leurs querelles constantes, ce sont les frères les plus proches.${prompt}
+  7755: Ohh, quelle belle situation !${prompt}
+  7756: Oh, que faire ? Mon mari est en patrouille dans l'Ouest de Ronfaure, mais il a oublié sa pommade quand il est parti ce matin !${prompt}
+  7757: C'est un travail dangereux qu'il fait, et on ne sait jamais quand une bonne pommade pourrait vous sauver la vie ! Peut-être pourriez-vous la lui apporter ?${prompt}
+  7758: Je le ferais moi-même, bien sûr, mais je ne peux pas quitter la ville.${prompt}
   7759: |-
-    Deliver the ointment?
+    Livrer l'onguent ?
     ${selection-lines}
-    Of course I will.
-    Not right now.${prompt}
-  7760: I thank you! His name is Aaveleon.${prompt}
-  7761: He patrols the wilderness outside, but not too far from Westgate.${prompt}
-  7762: I see...${prompt}
-  7763: I cannot accept this. Take it back.${prompt}
-  7764: Could you not find my husband?${prompt}
-  7765: His name is Aaveleon. Please, deliver the ointment to him. I fear he may need it.${prompt}
-  7766: You...haven't misplaced the ointment I gave you, by any chance?${prompt}
+    Bien sûr, je le ferai.
+    Pas pour le moment.${prompt}
+  7760: Je vous remercie ! Son nom est Aaveleon.${prompt}
+  7761: Il patrouille dans la nature sauvage à l'extérieur, mais pas trop loin de la porte de l'Ouest.${prompt}
+  7762: Je vois...${prompt}
+  7763: Je ne peux pas accepter ça. Reprenez-le.${prompt}
+  7764: Vous n'avez pas pu trouver mon mari ?${prompt}
+  7765: Son nom est Aaveleon. S'il vous plaît, livrez-lui l'onguent. J'ai peur qu'il en ait besoin.${prompt}
+  7766: Vous...n'avez pas égaré l'onguent que je vous ai donné, par hasard ?${prompt}
   7767: |-
-    You lost the ointment?
+    Vous avez perdu l'onguent ?
     ${selection-lines}
-    No, it's right here!
-    I lost it.${prompt}
-  7768: Ah, that is a relief.${prompt}
-  7769: So you lost the ointment! I suppose I can give you another. Please, deliver it as you said you would!${prompt}
-  7770: Thank you so much. With more fiends in the woods, always my husband returns with scrapes and scratches. These are troubling days for us all.${prompt}
-  7771: Here. It's not much, but please accept this as a token of my gratitude.${prompt}
-  7772: Thank you again for your help!${prompt}
-  7773: Ah, nobody wants to play games of chance these days.${prompt}
-  7774: What? Those blokes at the Carpenters' Guild are looking for me, are they?${prompt}
-  7775: I'll tell you what. We'll play a game of chance, and if you win I'll go see them.${prompt}
-  7776: My name's Varchet. People call me the gambler. Would you care to play a game of chance with me?${prompt}
-  7777: It's five gil per game. Pay your bet up front.${prompt}
-  7778: That's your bet! Now we play!${prompt}
+    Non, il est juste ici !
+    Je l'ai perdu.${prompt}
+  7768: Ah, c'est un soulagement.${prompt}
+  7769: Donc vous avez perdu l'onguent ! Je suppose que je peux vous en donner un autre. S'il vous plaît, livrez-le comme vous l'avez dit !${prompt}
+  7770: Merci beaucoup. Avec plus de monstres dans les bois, mon mari revient toujours avec des éraflures et des égratignures. Ce sont des jours troublants pour nous tous.${prompt}
+  7771: Tenez. Ce n'est pas grand-chose, mais veuillez accepter ceci en signe de ma gratitude.${prompt}
+  7772: Merci encore pour votre aide !${prompt}
+  7773: Ah, personne ne veut jouer à des jeux de hasard ces jours-ci.${prompt}
+  7774: Quoi ? Ces types de la Guilde des Charpentiers me cherchent, n'est-ce pas ?${prompt}
+  7775: Je vais vous dire quoi. Nous allons jouer à un jeu de hasard, et si vous gagnez, je vais aller les voir.${prompt}
+  7776: Mon nom est Varchet. Les gens m'appellent le joueur. Aimeriez-vous jouer à un jeu de hasard avec moi ?${prompt}
+  7777: C'est cinq gils par partie. Payez votre mise d'avance.${prompt}
+  7778: C'est votre mise ! Maintenant, nous jouons !${prompt}
   7779: |-
-    What will you play with?
+    Avec quoi voulez-vous jouer ?
     ${selection-lines}
-    Dual dice.
-    Odd-even dice.
-    No dice!${prompt}
-  7780: We both roll two dice, and the higher score wins! Even scores are a draw, of course.${prompt}
+    Des dés doubles.
+    Des dés impair-pair.
+    Pas de dés !${prompt}
+  7780: Nous lançons chacun deux dés, et le score le plus élevé l'emporte ! Les scores pairs sont bien entendu un match nul.${prompt}
   7781: |-
     ツインダイスか？　よし。
     お互い2つのダイスを振りあって、
     出た目の合計が多かった方の勝ちだ。
     ただし同じ数だったらドロー。いいな？${prompt}
   7782: |-
-    Have a go at it?
+    Envie de tenter votre chance ?
     ${selection-lines}
-    Let's roll!
-    No, thanks.${prompt}
-  7783: （The hard way.）${prompt}
-  7784: （The not-so-hard way.）${prompt}
-  7785: 'I''ll roll first! It''s a ${number: 0} and a ${number: 1} for a total of ${number: 2}. Now it''s your turn!${prompt}'
-  7786: 'Looks like a ${number: 3} and a ${number: 4} for ${number: 5} in all. That beats my ${number: 2}. Here''s 10 gil.${prompt}'
-  7787: 'Hmm, ${number: 3} and ${number: 4} make ${number: 5}, but it doesn''t beat my ${number: 2}.${prompt}'
-  7788: You lose your bet of 5 gil.${prompt}
-  7789: 'That''s ${number: 3} and ${number: 4} for ${number: 5} in all. You''ve tied me at ${number: 2}! Take your money back.${prompt}'
-  7790: What a shame. I hope you come back around to play sometime. I never turn down a game of chance!${prompt}
+    Allons-y !
+    Non, merci.${prompt}
+  7783: (La méthode difficile.)${prompt}
+  7784: (La méthode moins difficile.)${prompt}
+  7785: 'Je vais lancer en premier ! C'est un ${number: 0} et un ${number: 1} pour un total de ${number: 2}. Maintenant, c'est votre tour !${prompt}'
+  7786: 'On dirait un ${number: 3} et un ${number: 4} pour un total de ${number: 5}. Cela bat mon ${number: 2}. Voici 10 gil.${prompt}'
+  7787: 'Hmm, ${number: 3} et ${number: 4} font ${number: 5}, mais cela ne bat pas mon ${number: 2}.${prompt}'
+  7788: Vous perdez votre mise de 5 gil.${prompt}
+  7789: 'C'est ${number: 3} et ${number: 4} pour un total de ${number: 5}. Vous m'avez égalé à ${number: 2} ! Reprenez votre argent.${prompt}'
+  7790: Quel dommage. J'espère que vous reviendrez pour jouer à nouveau. Je ne refuse jamais une partie de hasard !${prompt}
   7791: |-
     奇遇なダイスか？　よし。
     俺が2つのダイスを振る。出た目の合計が、
@@ -18746,203 +18746,203 @@ entries:
     お……？　${number: 0}と${number: 1}で「${number: 2}」だ。
     予想は${choice: 3}[偶数/奇数]か。
     こいつぁ惜しかったな。だが負けは負けだ。${prompt}
-  7797: As promised, I shall go and see about those woodchippers. Maybe we can play another game later.${prompt}
-  7798: Greetings!${prompt}
-  7799: 'Begging your pardon, but I''m busy. I must make a cloak for Prince ${choice: 4}[Trion/Pieuje], and within the day!${prompt}'
-  7800: Is the master in?${prompt}
-  7801: What is it? I said I'm busy, and I meant it!${prompt}
-  7802: 'I''ve been sent by Prince ${choice: 4}[Pieuje/Trion] to pay for the cloak he received from this establishment two days past.${prompt}'
-  7803: 'Ahh...ah! Prince ${choice: 4}[Pieuje/Trion] sent you? I beg your pardon!${prompt}'
-  7804: 'Here''s payment in full. Prince ${choice: 4}[Pieuje/Trion] was quite pleased, you know. Said the quality was second to none.${prompt}'
-  7805: 'Prince ${choice: 4}[Pieuje/Trion] is too kind. His words do this shop great honor.${prompt}'
-  7806: I will relay your words to the prince. Now, I beg your leave.${prompt}
-  7807: Now, where was I? Oh, no! This will not do! I took payment for the cloak but forgot to give him a receipt!${prompt}
-  7808: And with this second one to finish, I've no time to carry a receipt over now!${prompt}
-  7809: 'Perhaps you could help me! Would you take this receipt to Prince ${choice: 4}[Pieuje/Trion], in Chateau d''Oraguille?${prompt}'
-  7810: 'Normally I''d do it myself, but if I don''t finish this other cloak for Prince ${choice: 4}[Trion/Pieuje], my reputation is mud!${prompt}'
-  7811: How about it? Will you help?${prompt}
-  7812: 'I thank you. Remember, it''s for Prince ${choice: 4}[Pieuje/Trion]! The guards at the gate will take it for you, I should think.${prompt}'
-  7813: Take the receipt to Prince Pieuje at Chateau d'Oraguille. You have my thanks!${prompt}
-  7814: Take the receipt to Prince Trion at Chateau d'Oraguille. You have my thanks!${prompt}
-  7815: I...see.${prompt}
-  7816: Oh, it's you again. Changed your mind? Will you run to the chateau for me?${prompt}
-  7817: Hrmm... Now, this is interesting! It pays to keep an eye on the competition. Thanks for letting me know!${prompt}
-  7818: So who is this envelope for? Prince Trion? Or Prince Pieuje?${prompt}
+  7797: Comme promis, je vais aller voir ces bûcherons. Peut-être pourrons-nous jouer une autre partie plus tard.${prompt}
+  7798: Salutations !${prompt}
+  7799: 'Je vous demande pardon, mais je suis occupé. Je dois confectionner une cape pour le prince ${choice: 4}[Trion/Pieuje], et ce dans la journée !${prompt}'
+  7800: Le maître est-il là ?${prompt}
+  7801: Qu'y a-t-il ? J'ai dit que j'étais occupé, et je le pensais !${prompt}
+  7802: 'Je suis envoyé par le prince ${choice: 4}[Pieuje/Trion] pour payer la cape qu'il a reçue de cet établissement il y a deux jours.${prompt}'
+  7803: 'Ahh...ah ! Le prince ${choice: 4}[Pieuje/Trion] vous a envoyé ? Je vous demande pardon !${prompt}'
+  7804: 'Voici le paiement complet. Le prince ${choice: 4}[Pieuje/Trion] était très satisfait, vous savez. Il a dit que la qualité était incomparable.${prompt}'
+  7805: 'Le prince ${choice: 4}[Pieuje/Trion] est trop aimable. Ses paroles font grand honneur à cette boutique.${prompt}'
+  7806: Je transmettrai vos paroles au prince. Maintenant, je vous demande la permission de partir.${prompt}
+  7807: Où en étais-je ? Oh, non ! Ce n'est pas possible ! J'ai pris le paiement pour la cape mais j'ai oublié de lui donner un reçu !${prompt}
+  7808: Et avec cette deuxième à terminer, je n'ai plus le temps d'apporter un reçu maintenant !${prompt}
+  7809: 'Peut-être pourriez-vous m'aider ! Accepteriez-vous de remettre ce reçu au prince ${choice: 4}[Pieuje/Trion], au Château d'Oraguille ?${prompt}'
+  7810: 'Normalement, je le ferais moi-même, mais si je ne termine pas cette autre cape pour le prince ${choice: 4}[Trion/Pieuje], ma réputation sera entachée !${prompt}'
+  7811: Qu'en dites-vous ? Acceptez-vous d'aider ?${prompt}
+  7812: 'Je vous remercie. N'oubliez pas, c'est pour le prince ${choice: 4}[Pieuje/Trion] ! Les gardes à la porte devraient le prendre pour vous, je pense.${prompt}'
+  7813: Apportez le reçu au prince Pieuje au Château d'Oraguille. Vous avez ma gratitude !${prompt}
+  7814: Apportez le reçu au prince Trion au Château d'Oraguille. Vous avez ma gratitude !${prompt}
+  7815: Je...vois.${prompt}
+  7816: Oh, c'est vous à nouveau. Vous avez changé d'avis ? Allez-vous courir jusqu'au château pour moi ?${prompt}
+  7817: Hrmm... C'est intéressant ! Ça vaut la peine de garder un œil sur la concurrence. Merci de me l'avoir fait savoir !${prompt}
+  7818: Alors, cette enveloppe est pour qui ? Le prince Trion ? Ou le prince Pieuje ?${prompt}
   7819: |-
-    Who is it for?
+    Pour qui est-ce ?
     ${selection-lines}
     Prince Trion.
     Prince Pieuje.${prompt}
-  7820: All right, I'll deliver it for you. We can't let you in looking like that! Wait here.${prompt}
-  7821: I've delivered the envelope to Prince Trion. You're dismissed.${prompt}
-  7822: I've delivered the envelope to Prince Pieuje. You're dismissed.${prompt}
-  7823: Imbecile! That envelope was for Prince Trion, not Prince Pieuje! Such idiocy... Get out of here!${prompt}
-  7824: Imbecile! That envelope was for Prince Pieuje, not Prince Trion! Such idiocy... Get out of here!${prompt}
-  7825: Oh, and tell that tailor to send someone respectable next time!${prompt}
-  7826: Ah, thanks for your help. It's not much, but please accept this as payment.${prompt}
-  7827: 'You receive ${number: 0} more gil.${prompt}'
-  7828: Wh-what? You gave it to the wrong prince?${prompt}
-  7829: That's what I get for sending a recruit... This is for your time. Take it and leave.${prompt}
-  7830: What? They complained about your attire?${prompt}
-  7831: Well, you really can't blame them... Listen, I know someone in the Tanners' Guild on the west side. She can help you.${prompt}
-  7832: She's a Mithra by the name of Hanaa Punaa. Go talk to her, she'll fix you up.${prompt}
-  7833: You've some business with me? Sorry, but I'm busy.${prompt}
-  7834: What's that? My son? At the Parade Grounds? So that's where he is! Could you let him know I'll go as soon as I'm done?${prompt}
-  7835: Thank you for your help. You have my gratitude.${prompt}
-  7836: Please tell my son that I'll join him as soon as I'm done, so he's to stay right there.${prompt}
-  7837: Ah, thanks for your help earlier. Children can be a handful sometimes.${prompt}
-  7838: I am Hanaa Punaa, an apprrrentice at the Tanners' Guild.${prompt}
-  7839: I drrream of becoming a tanner, but work experience is hard to come by these days.${prompt}
-  7840: Greetings! How may I help you today?${prompt}
-  7841: Oh, it's you again!${prompt}
-  7842: 'If you bring me three ${item-plural: 0[2]}, I can make the same thing for you again. I sure could use the work!${prompt}'
-  7843: Really, I'd prrrefer more exotic skins to work with, but that would be too much to ask of a new recruit such as yourself. Maybe later...${prompt}
+  7820: Très bien, je le livrerai pour vous. On ne peut pas vous laisser entrer comme ça ! Attendez ici.${prompt}
+  7821: J'ai remis l'enveloppe au Prince Trion. Vous pouvez partir.${prompt}
+  7822: J'ai remis l'enveloppe au Prince Pieuje. Vous pouvez partir.${prompt}
+  7823: Imbécile ! Cette enveloppe était pour le Prince Trion, pas pour le Prince Pieuje ! Quelle idiotie... Sortez d'ici !${prompt}
+  7824: Imbécile ! Cette enveloppe était pour le Prince Pieuje, pas pour le Prince Trion ! Quelle idiotie... Sortez d'ici !${prompt}
+  7825: Oh, et dites à ce tailleur d'envoyer quelqu'un de respectable la prochaine fois !${prompt}
+  7826: Ah, merci pour votre aide. Ce n'est pas grand-chose, mais acceptez ceci comme paiement.${prompt}
+  7827: 'Vous recevez ${number: 0} gils de plus.${prompt}'
+  7828: Qu-quoi ? Vous l'avez donné au mauvais prince ?${prompt}
+  7829: C'est ce que j'obtiens pour envoyer un nouveau soldat... Voilà pour votre temps. Prenez ça et partez.${prompt}
+  7830: Quoi ? Ils se sont plaints de votre tenue ?${prompt}
+  7831: Eh bien, on ne peut pas vraiment leur en vouloir... Écoutez, je connais quelqu'un à la Guilde des Tanneurs du côté ouest. Elle peut vous aider.${prompt}
+  7832: C'est une Mithra du nom de Hanaa Punaa. Allez lui parler, elle vous arrangera.${prompt}
+  7833: Vous avez affaire à moi ? Désolé, mais je suis occupé.${prompt}
+  7834: Quoi ? Mon fils ? Sur le Champ de Parade ? C'est là qu'il est ! Pourriez-vous lui dire que j'y vais dès que j'ai fini ?${prompt}
+  7835: Merci pour votre aide. Vous avez ma gratitude.${prompt}
+  7836: Veuillez dire à mon fils que je le rejoindrai dès que j'aurai fini, donc il doit rester là où il est.${prompt} 
+  7837: Ah, merci pour votre aide plus tôt. Les enfants peuvent être difficiles parfois.${prompt}
+  7838: Je suis Hanaa Punaa, apprentie à la Guilde des Tanneurs.${prompt}
+  7839: Je rêve de devenir tanneuse, mais l'expérience professionnelle est difficile à trouver de nos jours.${prompt}
+  7840: Salutations ! Comment puis-je vous aider aujourd'hui ?${prompt}
+  7841: Oh, c'est vous à nouveau !${prompt}
+  7842: 'Si vous m'apportez trois ${item-plural: 0[2]}, je peux vous refaire la même chose. J'aurais vraiment besoin de travail !${prompt}'
+  7843: Vraiment, je préférerais des peaux plus exotiques à travailler, mais ce serait trop demander à un nouveau recrue comme vous. Peut-être plus tard...${prompt}
   7844: |-
-    Something you need?
+    Qu'est-ce dont vous avez besoin ?
     ${selection-lines}
-    Do you have any work for me?
-    No, nothing.${prompt}
-  7845: If you'd like to do some shopping, see the clerk inside the store.${prompt}
-  7846: Work? Ah, perrrfect! I've just run out of skins. Perrrhaps you could collect some for me?${prompt}
-  7847: 'Head to West Ronfaure and collect three ${item-plural: 0[2]}. I''ll make something for you.${prompt}'
-  7848: Well? Will you collect the skins?${prompt}
-  7849: Oh, I see. Well, if you change your mind, come by any time.${prompt}
-  7850: 'Perrrfect! I''ll be waiting for those three ${item-plural: 0[2]}, then. I can start as soon as you bring them!${prompt}'
-  7851: 'What about the ${item-plural: 0[2]}? I''ll need three of them before I can make anything for you, sorry...${prompt}'
-  7852: What fine skins you've brrrought me! They smell so...tasty! But it won't do to eat one's materials, will it?${prompt}
-  7853: Wait just a moment. I'll make something for you.${prompt}
-  7854: Here you are! I think you'll find it worth the wait.${prompt}
-  7855: Greetings.${prompt}
-  7856: Greetings, and welcome to Raimbroy's Grocery. If you'd like to make a purchase, talk to someone at the counter upstairs.${prompt}
-  7857: Hello there!${prompt}
-  7858: Ah, Katharina! How are things at the Lion Springs?${prompt}
-  7859: Maybe it's the weather, but we've been selling mulsum so fast, we can't keep up! We need another cask as soon as possible!${prompt}
-  7860: A cask of mulsum, eh? All right, let me go check for one.${prompt}
-  7861: Dear, dear... It looks like the one I gave you folks yesterday was the last of my stock! I'm fresh out, I am.${prompt}
-  7862: Oh... Well, I have to get back now, but could you bring another one extra quick? Thanks!${prompt}
-  7863: Well, that's a shame. I'll just have to find another, more willing adventurer.${prompt}
-  7864: A cask of mulsum... I'm fresh out of honey, and my errand boy's home recovering from wounds he got at Ghelsba.${prompt}
-  7865: Hrmm... Eh? An adventurer! Think you could bring me some honey? I'm short on help, you see.${prompt}
-  7866: 'Well, thanks be to you! I''ll need five ${item-plural: 0[2]}, if you think you can handle it.${prompt}'
-  7867: Just what I needed! Here's your payment, then.${prompt}
-  7868: Hrmm... Still not enough, eh? Sorry to keep yanking you around like this, but do you think you could go bring me some more?${prompt}
-  7869: 'I''ll take five ${item-plural: 0[2]} and no less, any time you can bring them. Good luck!${prompt}'
-  7870: 'Ah, so you''ll hunt down some ${item-plural: 0[2]} for me, then?${prompt}'
-  7871: Heh-heh! Like to know something truly stellar? The honey from those bees out on La Theine Plateau is the best!${prompt}
-  7872: They call me the honey king of San d'Oria, so you know I can't be wrong! Yep, that's some of the best there is! One taste and you'll be buzzing for more!${prompt}
-  7873: But you gotta watch out for those bees. They've got poison stingers and they tend to swarm, so be careful!${prompt}
-  7874: 'What''s that? Still no ${item-plural: 0[2]}? If I just had five, I could get to work...${prompt}'
-  7875: 'What''s this? I thought I asked you to bring me five ${item-plural: 0[2]}. Now get cracking!${prompt}'
-  7876: Thanks again for your help.${prompt}
-  7877: Take up a sword, my friend. I'll talk to you when you do, and no sooner.${prompt}
-  7878: Friend, listen to me. It is not cogs nor levers nor even the mightiest of magicks that protect this kingdom of San d'Oria.${prompt}
-  7879: No! We Elvaan live by the power of the sword alone. Our blades defend our borders.${prompt}
-  7880: If you would strengthen your sword arm and learn something of the art, then accept my challenge. What say you?${prompt}
+    Avez-vous du travail pour moi ?
+    Non, rien.${prompt}
+  7845: Si vous souhaitez faire des achats, parlez au commis à l'intérieur du magasin.${prompt}
+  7846: Du travail ? Ah, parfait ! Je viens juste de manquer de peaux. Peut-être pourriez-vous en collecter pour moi ?${prompt}
+  7847: 'Rendez-vous à West Ronfaure et collectez trois ${item-plural: 0[2]}. Je vous ferai quelque chose en retour.${prompt}'
+  7848: Alors ? Allez-vous collecter les peaux ?${prompt}
+  7849: Oh, je vois. Bien, si vous changez d'avis, passez quand vous voulez.${prompt}
+  7850: 'Parfait ! J'attendrai ces trois ${item-plural: 0[2]}, alors. Je peux commencer dès que vous les apportez !${prompt}'
+  7851: 'Et les ${item-plural: 0[2]} ? J'en aurai besoin de trois avant de pouvoir vous faire quelque chose, désolé...${prompt}'
+  7852: Quelles belles peaux vous m'avez apportées ! Elles sentent si... délicieuses ! Mais ce n'est pas bon de manger ses matériaux, n'est-ce pas ?${prompt}
+  7853: Attendez juste un instant. Je vais vous faire quelque chose.${prompt}
+  7854: Voilà ! Je pense que ça valait la peine d'attendre.${prompt}
+  7855: Salutations.${prompt}
+  7856: Salutations, et bienvenue à l'épicerie de Raimbroy. Si vous souhaitez effectuer un achat, parlez à quelqu'un au comptoir à l'étage.${prompt}
+  7857: Bonjour !${prompt}
+  7858: Ah, Katharina ! Comment vont les choses à Lion Springs ?${prompt}
+  7859: Peut-être que c'est le temps, mais nous vendons tellement de mulsum que nous ne pouvons pas suivre ! Nous avons besoin d'une autre barrique dès que possible !${prompt}
+  7860: Une barrique de mulsum, hein ? Très bien, laissez-moi aller en chercher une.${prompt}
+  7861: Chère, chère... Il semblerait que celle que je vous ai donnée hier était la dernière de mon stock ! Je suis à court.${prompt}
+  7862: Oh... Eh bien, je dois y retourner maintenant, mais pourriez-vous en apporter une autre extra rapidement ? Merci !${prompt}
+  7863: Eh bien, c'est dommage. Je vais devoir trouver un autre aventurier, plus disposé.${prompt}
+  7864: Une barrique de mulsum... Je suis à court de miel, et mon garçon d'ordonnance est chez lui en train de se remettre de blessures qu'il a eues à Ghelsba.${prompt}
+  7865: Hrmm... Hein ? Un aventurier ! Pensez-vous que vous pourriez m'apporter du miel ? J'ai besoin d'aide, vous voyez.${prompt}
+  7866: 'Eh bien, merci à vous ! J'aurai besoin de cinq ${item-plural: 0[2]}, si vous pensez pouvoir le faire.${prompt}'
+  7867: Exactement ce dont j'avais besoin ! Voici votre paiement, alors.${prompt}
+  7868: Hrmm... Toujours pas assez, hein ? Désolé de vous emmener ainsi, mais pensez-vous que vous pourriez m'en apporter plus ?${prompt}
+  7869: 'Je prendrai cinq ${item-plural: 0[2]} et pas moins, à chaque fois que vous pourrez les apporter. Bonne chance !${prompt}'
+  7870: 'Ah, donc vous allez chasser des ${item-plural: 0[2]} pour moi, alors ?${prompt}'
+  7871: Heh-heh ! Vous voulez savoir quelque chose de vraiment génial ? Le miel de ces abeilles sur le Plateau de La Theine est le meilleur !${prompt}
+  7872: On m'appelle le roi du miel de San d'Oria, alors vous savez que je ne peux pas me tromper ! Ouais, c'est un des meilleurs qui soit ! Un goût et vous en redemanderez !${prompt}
+  7873: Mais vous devez faire attention à ces abeilles. Elles ont des dards empoisonnés et elles ont tendance à essaimer, alors soyez prudent !${prompt}
+  7874: 'Quoi ? Toujours pas de ${item-plural: 0[2]} ? Si j'avais juste cinq, je pourrais me mettre au travail...${prompt}'
+  7875: 'Qu'est-ce que c'est que ça ? Je pensais vous avoir demandé d'apporter cinq ${item-plural: 0[2]}. Allez, au travail !${prompt}'
+  7876: Merci encore pour votre aide.${prompt}
+  7877: Prenez une épée, mon ami. Je vous parlerai quand vous le ferez, et pas avant.${prompt}
+  7878: Ami, écoutez-moi. Ce ne sont ni les engrenages ni les leviers ni même les plus puissants des sorts qui protègent ce royaume de San d'Oria.${prompt}
+  7879: Non ! Nous, Elvaan, vivons par la force de l'épée seule. Nos lames défendent nos frontières.${prompt}
+  7880: Si vous voulez renforcer votre bras d'épée et apprendre quelque chose de cet art, alors acceptez mon défi. Qu'en dites-vous ?${prompt}
   7881: |-
-    Accept his challenge?
+    Accepter son défi ?
     ${selection-lines}
-    Accept.
-    Refuse.${prompt}
-  7882: As you wish. Come back when you've grown a spine.${prompt}
-  7883: Ah, I see you have a stout heart. Now listen well!${prompt}
-  7884: 'Go to King Ranperre''s Tomb and bring back ${article} ${item-article: 0[2]}. How, you ask? Use your head. Now begone!${prompt}'
-  7885: Ah, I see I was right about you. You've proved your mettle today. Further tempering may forge you into a hero among adventurers.${prompt}
-  7886: In recognition of your success, I offer this sword. Train diligently, and grow strong.${prompt}
-  7887: You're a little too new at this to undertake my challenge. Train further, and return here once you feel ready.${prompt}
-  7888: This thing you have given me, it has no bearing on your task; I cannot accept it.${prompt}
-  7889: And who, pray tell, are you? I cannot take that for which I have not asked. Take it and be gone.${prompt}
-  7890: You are an adventurer, are you not? Surely you've heard of King Ranperre's Tomb.${prompt}
+    Accepter.
+    Refuser.${prompt}
+  7882: Comme vous voulez. Revenez quand vous aurez pris un peu de courage.${prompt}
+  7883: Ah, je vois que vous avez un cœur vaillant. Maintenant, écoutez bien !${prompt}
+  7884: 'Allez au Tombeau du Roi Ranperre et ramenez ${item-article: 0[2]}. Comment, demandez-vous ? Utilisez votre tête. Maintenant, partez !${prompt}'
+  7885: Ah, je vois que j'avais raison à votre sujet. Vous avez prouvé votre valeur aujourd'hui. Un entraînement supplémentaire pourrait vous forger en héros parmi les aventuriers.${prompt}
+  7886: En reconnaissance de votre succès, je vous offre cette épée. Entraînez-vous avec diligence et devenez fort.${prompt}
+  7887: Vous êtes encore un peu novice pour entreprendre mon défi. Entraînez-vous davantage et revenez ici lorsque vous vous sentirez prêt.${prompt}
+  7888: Cette chose que vous m'avez donnée n'a aucune incidence sur votre tâche ; je ne peux l'accepter.${prompt}
+  7889: Et qui êtes-vous, je vous prie ? Je ne peux prendre ce que je n'ai pas demandé. Prenez cela et partez.${prompt}
+  7890: Vous êtes un aventurier, n'est-ce pas ? Vous avez sûrement entendu parler du Tombeau du Roi Ranperre.${prompt}
   7891: |-
-    Heard of the tomb?
+    Entendu parler du tombeau ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  7892: The Tomb of King Ranperre lies under a slope far south of Eastgate.${prompt}
-  7893: The tomb is the final resting place of the Dragon King of San d'Oria. It was constructed within a cave to protect it from thieves.${prompt}
-  7894: Although the tomb is safe from pillagers, the caves shelter all manner of fiendish creatures.${prompt}
-  7895: Indeed? Well, then...${prompt}
-  7896: I am entrusted with the tomb's care. Not long ago I used to wash its stones and change the offering every day.${prompt}
-  7897: But now that fiends have overrun the place, my work would require risking my life. No job is worth that!${prompt}
-  7898: I decided not to return, but the Dragon King himself came to me in my dreams and spoke, “I am thirsty... Bring me water.”${prompt}
-  7899: I would like to help him, at least by bringing him fresh water...${prompt}
-  7900: I have a request. Would you go to the tomb and replace the offering there with fresh water?${prompt}
-  7901: That is...unfortunate.${prompt}
-  7902: 'Then you''ll help? Excellent! Please take this ${item-singular: 0[2]} to King Ranperre''s Tomb, and exchange it with ${article} ${item-article: 1[2]} you''ll find there.${prompt}'
-  7903: To get to King Ranperre's Tomb, head out the Eastgate into East Ronfaure, then make your way south as far as you can go. You should find it before long.${prompt}
-  7904: 'You''ve lost the ${item-singular: 0[2]}？${prompt}'
-  7905: 'More ${item-singular: 0[2]} is readily available, but the question is how to carry it...${prompt}'
-  7906: I have no other waterskin to give you. That last one I received from the late queen herself...${prompt}
-  7907: 'How about this: Take the waterskin from the gravestone in King Ranperre''s Tomb, fill it in Southern San d''Oria, then take it back to the tomb.${prompt}'
-  7908: Consider it penance for losing the waterskin I gave you. Agreed? I bid you a safe journey.${prompt}
-  7909: 'Fill waterskin with ${item-singular: 0[2]}, place it in the Dragon King''s tomb, then return to me.${prompt}'
-  7910: Take the waterskin from gravestone in King Ranperre's Tomb, fill it in Southern San d'Oria, then return it to the tomb.${prompt}
-  7911: You find a well.${prompt}
-  7912: 'You fill the ${item-singular: 1[2]} with ${item-singular: 0[2]}.${prompt}'
-  7913: You don't need any more water.${prompt}
-  7914: I don't recall asking for this.${prompt}
-  7915: I thank you, kind adventurer. His Majesty, the late king, thanks you, too.${prompt}
-  7916: It isn't much, but please accept this in return.${prompt}
-  7917: 'Eh? What''s happened to the ${item-singular: 0[2]}? Please, you must bring it back to me!${prompt}'
-  7918: 'Have you brought the ${item-singular: 0[2]}? If you have, please give it to me. ${prompt}'
-  7919: Well, you lost the waterskin, but to travel to the late king's tomb and back is no mean feat. I commend you.${prompt}
-  7920: I had thought to take the cost of the waterskin out of your compensation, but I cannot disregard the toil you've endured on my behalf. You deserve your full reward.${prompt}
-  7921: Looking for work? Well, perrrhaps you could gather more skins for me?${prompt}
-  7922: As an adventurer, you should appreciate the satisfaction you get from honing your skills day by day.${prompt}
-  7923: I've been getting too many sheepskins of late, so perrrhaps you could bring me something else this time.${prompt}
-  7924: 'I could make you a fine piece of leather, if you could provide three ${item-plural: 0[2]} from the Valkurm Dunes.${prompt}'
-  7925: 'Bring me three more ${item-plural: 0[2]}, and I''ll be happy to craft you another!${prompt}'
-  7926: 'How unforrrtunate. You should know that goods made from ${item-singular: 0[2]} fetch a fine price.${prompt}'
-  7927: Excellent! I know you'll be pleased with the results. Watch out for those lizard teeth!${prompt}
-  7928: 'Well, what about the ${item-plural: 0[2]}? I need thrrree of them to make anything.${prompt}'
-  7929: I'll still take sheepskins, too, so come back once you've got thrrree.${prompt}
-  7930: You've brought them? Joy! You always bring the best skins, you know. You should work for me full-time!${prompt}
-  7931: I was only joking. I'm sure you have plenty of things to do. Wait rrright here, and I'll get to work.${prompt}
-  7932: It's finished! Rrreally, a good skin makes all the difference, I think you'll agree.${prompt}
-  7933: Come back again!${prompt}
-  7934: 'I''m not taking any more ${item-plural: 0[2]}, but I''m still taking all the ${item-plural: 1[2]} and ${item-plural: 2[2]} I can get, so brrring me more! In sets of three, if you please.${prompt}'
-  7935: Ah, you've come quite a way since last we met, I see. I believe you're ready for another task!${prompt}
-  7936: I'd like you to go to Ordelle's Caves. You'll find the entrance in a valley on La Theine Plateau.${prompt}
-  7937: Those caves are also called the “Body Caves.” Know you why?${prompt}
-  7938: It is because the caves are shaped much like the body of a person. You are acquainted with its structure, yes?${prompt}
-  7939: Where in a body would lie the belly, in the caves flows a waterfall of much beauty. I want you to visit the waterfall, and return hither.${prompt}
-  7940: I want proof of your trip, however. Bring me something out from that place. You must choose something.${prompt}
-  7941: Come to think of it, the time I sent another to the waterfall, he, too, had quite a hard time! Heh-heh.${prompt}
-  7942: Proof that you went to the waterfall, eh? Hah! Old man Balasiel's got you running errands now, has he?${prompt}
-  7943: I'll tell you, but don't say a word to the old man! Stand with your back to the waterfall, and look up at the ceiling of the cave. You'll see a shining stalactite.${prompt}
-  7944: 'Bring ${keyitem-article: 0[2]} back and you''ll be a real spelunker, you will.${prompt}'
-  7945: Eh? How to get the drop? Ah...right. It's odd, but I can't seem to remember how I did it. That was a long time ago, you see.${prompt}
-  7946: Hmm... Maybe you could try reading up on it. I'm sure it's outlined somewhere.${prompt}
-  7947: Ah, you're back, and in one piece! And you've brought proof of your trip to the waterfall. Well done!${prompt}
-  7948: Here, a certificate to mark your accomplishment. Keep it always!${prompt}
-  7949: When you've progressed further, visit me again. Next time, a thorough test of your mettle will be in order!${prompt}
-  7950: You see a diary.${prompt}
+    Oui.
+    Non.${prompt}
+  7892: Le Tombeau du Roi Ranperre se trouve sous une pente bien au sud de la Porte de l'Est.${prompt}
+  7893: Le tombeau est le lieu de repos final du Roi Dragon de San d'Oria. Il a été construit à l'intérieur d'une grotte pour le protéger des voleurs.${prompt}
+  7894: Bien que le tombeau soit à l'abri des pillards, les grottes abritent toutes sortes de créatures démoniaques.${prompt}
+  7895: Vraiment ? Eh bien, alors...${prompt}
+  7896: On m'a confié le soin du tombeau. Il n'y a pas si longtemps, je lavais ses pierres et changeais l'offrande tous les jours.${prompt}
+  7897: Mais maintenant que les démons ont envahi les lieux, mon travail nécessiterait de risquer ma vie. Aucun travail ne vaut cela !${prompt}
+  7898: J'ai décidé de ne pas y retourner, mais le Roi Dragon lui-même est venu à moi dans mes rêves et a dit : "J'ai soif... Apporte-moi de l'eau."${prompt}
+  7899: J'aimerais l'aider, au moins en lui apportant de l'eau fraîche...${prompt}
+  7900: J'ai une demande. Pourriez-vous aller au tombeau et remplacer l'offrande là-bas par de l'eau fraîche ?${prompt}
+  7901: C'est...malheureux.${prompt}
+  7902: 'Alors, vous allez aider ? Excellent ! Veuillez prendre cette ${item-singular: 0[2]} au Tombeau du Roi Ranperre, et échangez-la avec ${article} ${item-article: 1[2]} que vous trouverez là-bas.${prompt}'
+  7903: Pour vous rendre au Tombeau du Roi Ranperre, sortez par la Porte de l'Est dans la Ronfaure de l'Est, puis dirigez-vous vers le sud aussi loin que possible. Vous devriez le trouver assez rapidement.${prompt}
+  7904: 'Vous avez perdu la ${item-singular: 0[2]} ?${prompt}'
+  7905: 'Davantage de ${item-singular: 0[2]} est facilement disponible, mais la question est de savoir comment la transporter...${prompt}'
+  7906: Je n'ai pas d'autre outre d'eau à vous donner. Celle-ci je l'ai reçue de feu la reine elle-même...${prompt}
+  7907: 'Que diriez-vous de ceci : Prenez l'outre d'eau sur la pierre tombale au Tombeau du Roi Ranperre, remplissez-la dans le sud de San d'Oria, puis ramenez-la au tombeau.${prompt}'
+  7908: Considérez cela comme une pénitence pour avoir perdu l'outre d'eau que je vous ai donnée. D'accord ? Je vous souhaite un bon voyage.${prompt}
+  7909: 'Remplissez l'outre d'eau avec ${item-singular: 0[2]}, placez-la dans le tombeau du Roi Dragon, puis revenez vers moi.${prompt}'
+  7910: Prenez l'outre d'eau de la pierre tombale dans le Tombeau du Roi Ranperre, remplissez-la dans le sud de San d'Oria, puis retournez-la au tombeau.${prompt}
+  7911: Vous trouvez un puits.${prompt}
+  7912: 'Vous remplissez la ${item-singular: 1[2]} avec ${item-singular: 0[2]}.${prompt}'
+  7913: Vous n'avez plus besoin d'eau.${prompt}
+  7914: Je ne me souviens pas d'avoir demandé cela.${prompt}
+  7915: Je vous remercie, aimable aventurier. Sa Majesté, le feu roi, vous remercie également.${prompt}
+  7916: Ce n'est pas grand-chose, mais veuillez accepter ceci en retour.${prompt}
+  7917: 'Hein ? Qu'est-il arrivé à la ${item-singular: 0[2]} ? S'il vous plaît, vous devez me la ramener !${prompt}'
+  7918: 'Avez-vous apporté la ${item-singular: 0[2]} ? Si c'est le cas, veuillez me la donner. ${prompt}'
+  7919: Eh bien, vous avez perdu l'outre d'eau, mais voyager jusqu'au tombeau du feu roi et revenir n'est pas une mince affaire. Je vous félicite.${prompt}
+  7920: J'avais pensé déduire le coût de l'outre d'eau de votre compensation, mais je ne peux pas ignorer la peine que vous avez endurée pour moi. Vous méritez votre pleine récompense.${prompt}
+  7921: Vous cherchez du travail ? Eh bien, peut-être pourriez-vous rassembler davantage de peaux pour moi ?${prompt}
+  7922: En tant qu'aventurier, vous devriez apprécier la satisfaction que vous procure l'affûtage de vos compétences jour après jour.${prompt}
+  7923: J'ai reçu trop de peaux de mouton ces derniers temps, alors peut-être pourriez-vous m'apporter quelque chose d'autre cette fois.${prompt}
+  7924: 'Je pourrais vous fabriquer un beau morceau de cuir, si vous pouviez me fournir trois ${item-plural: 0[2]} des Dunes de Valkurm.${prompt}'
+  7925: 'Apportez-moi trois autres ${item-plural: 0[2]}, et je serai ravi de vous en fabriquer un autre !${prompt}'
+  7926: 'Quelle malchance. Vous devriez savoir que les biens fabriqués à partir de ${item-singular: 0[2]} se vendent à bon prix.${prompt}'
+  7927: Excellent ! Je sais que vous serez satisfait du résultat. Faites attention à ces dents de lézard !${prompt}
+  7928: 'Eh bien, que dire des ${item-plural: 0[2]} ? J'ai besoin de trois d'entre eux pour fabriquer quelque chose.${prompt}'
+  7929: Je prends toujours les peaux de mouton, alors revenez une fois que vous en aurez trois.${prompt}
+  7930: Vous les avez apportées ? Joie ! Vous apportez toujours les meilleures peaux, vous savez. Vous devriez travailler pour moi à plein temps !${prompt}
+  7931: Je plaisantais bien sûr. Je suis sûr que vous avez plein de choses à faire. Attendez ici, je vais m'y mettre.${prompt}
+  7932: C'est fini ! Vraiment, une bonne peau fait toute la différence, je pense que vous serez d'accord.${prompt}
+  7933: Revenez quand vous voulez !${prompt}
+  7934: 'Je ne prends plus de ${item-plural: 0[2]}, mais je prends toujours toutes les ${item-plural: 1[2]} et ${item-plural: 2[2]} que je peux obtenir, alors apportez-moi-en plus ! Par lots de trois, s'il vous plaît.${prompt}'
+  7935: Ah, vous avez bien progressé depuis notre dernière rencontre, je vois. Je crois que vous êtes prêt pour une autre tâche !${prompt}
+  7936: Je voudrais que vous alliez aux Cavernes d'Ordelle. Vous trouverez l'entrée dans une vallée sur le plateau de La Théine.${prompt}
+  7937: Ces cavernes sont également appelées les "Cavernes du Corps." Savez-vous pourquoi ?${prompt}
+  7938: C'est parce que les cavernes ont une forme semblable à celle d'un corps humain. Vous êtes familiarisé avec sa structure, n'est-ce pas ?${prompt}
+  7939: Là où se trouverait le ventre dans un corps, dans les cavernes coule une cascade d'une grande beauté. Je veux que vous visitiez la cascade, et que vous reveniez ici.${prompt}
+  7940: Je veux une preuve de votre voyage, cependant. Apportez-moi quelque chose de cet endroit. Vous devez choisir quelque chose.${prompt}
+  7941: En y réfléchissant, la dernière fois que j'ai envoyé quelqu'un à la cascade, lui aussi a eu beaucoup de mal ! Heh-heh.${prompt}
+  7942: Une preuve que vous êtes allé à la cascade, hein ? Hah ! Le vieux Balasiel vous fait courir des commissions maintenant, hein ?${prompt}
+  7943: Je vais vous dire, mais ne dites pas un mot au vieux ! Tenez-vous dos à la cascade, et regardez le plafond de la caverne. Vous verrez une stalactite brillante.${prompt}
+  7944: 'Rapportez ${keyitem-article: 0[2]} et vous serez un vrai spéléologue.${prompt}'
+  7945: Hein ? Comment obtenir la goutte ? Ah... bien. C'est étrange, mais je ne semble pas me souvenir de comment j'ai fait. C'était il y a longtemps, vous voyez.${prompt}
+  7946: Hmm... Peut-être pourriez-vous essayer de vous renseigner. Je suis sûr que c'est expliqué quelque part.${prompt}
+  7947: Ah, vous êtes de retour, et entier ! Et vous avez apporté la preuve de votre voyage à la cascade. Bien joué !${prompt}
+  7948: Voici, un certificat pour marquer votre accomplissement. Gardez-le toujours !${prompt}
+  7949: Lorsque vous aurez progressé davantage, revenez me voir. La prochaine fois, un test approfondi de votre bravoure sera de mise !${prompt}
+  7950: Vous trouvez un journal.${prompt}
   7951: |-
-    Read diary?
+    Lire le journal?
     ${selection-lines}
-    Read it.
-    Leave it be.${prompt}
+    Lisez-le.
+    Laissez-le.{prompt}
   7952: |-
-    Read which page?
+    Lire quelle page ?
     ${selection-lines}
-    On second thought, I'll pass.
+    Après réflexion, je passe mon tour.
     Page 1.
     Page 2.
     Page 3.${prompt}
-  7953: Went to the grotto at Yughott yesterday. Aided an adventurer there who claimed to be on the Kingdom's duty.${prompt}
-  7954: Why could it be that the fiends are increasing so evidently in number?${prompt}
-  7955: I have visited many places, attempting to uncover the beastmen's plans, but never have I encountered such a creature.${prompt}
-  7956: I saw him there at the entrance to the cave. Thankfully, he did not note my presence.${prompt}
-  7957: He was the same as he has always been--both the good parts, and the bad.${prompt}
-  7958: 'That reminds me, I saw the waterfall again. I remember when I was a squire in training, going to fetch ${keyitem-article: 0[2]}, so long ago.${prompt}'
-  7959: A traveler told me the other day that a certain kind of moss can help alleviate severe coughs.${prompt}
-  7960: Perhaps I shall gather some on my next patrol, to give to that child and his mother. I do not know how much I will be able to carry, however.${prompt}
-  7961: If only there was someone who could deliver it in my stead...${prompt}
-  7962: Hello, young ${choice-player-gender}[man/woman]! How may I help ye today?${prompt}
+  7953: Je suis allé à la grotte de Yughott hier. J'ai aidé un aventurier là-bas qui prétendait être en mission pour le Royaume.${prompt}
+  7954: Pourquoi est-ce que les fiends augmentent si manifestement en nombre ?${prompt}
+  7955: J'ai visité de nombreux endroits, essayant de découvrir les plans des beastmen, mais je n'ai jamais rencontré une telle créature.${prompt}
+  7956: Je l'ai vu là, à l'entrée de la grotte. Heureusement, il n'a pas remarqué ma présence.${prompt}
+  7957: Il était le même qu'il a toujours été - à la fois les bonnes parties et les mauvaises.${prompt}
+  7958: 'Ça me rappelle, j'ai revu la cascade. Je me souviens quand j'étais un écuyer en formation, allant chercher ${keyitem-article: 0[2]}, il y a si longtemps.${prompt}'
+  7959: Un voyageur m'a dit l'autre jour qu'un certain type de mousse peut aider à soulager les toux sévères.${prompt}
+  7960: Peut-être que je vais en ramasser lors de ma prochaine patrouille, pour la donner à cet enfant et à sa mère. Je ne sais pas combien je pourrai en porter, cependant.${prompt}
+  7961: Si seulement il y avait quelqu'un qui pourrait le livrer à ma place...${prompt}
+  7962: Bonjour, jeune ${choice-player-gender}[homme/femme] ! Comment puis-je vous aider aujourd'hui ?${prompt}
   7963: |-
-    How may I help?
+    Comment puis-je vous aider ?
     ${selection-lines}
-    Tell me about moss.
-    Tell me about cold balms.${prompt}
+    Parlez-moi de la mousse.
+    Parlez-moi des baumes froids.${prompt}
   7964: Eh? Moss to cure coughs?${prompt}
   7965: 'Why, that sounds like ${keyitem-singular: 0[2]}. A brew of that bitter moss clears up the whoopingest of coughs. I''ve used it meself!${prompt}'
   7966: 'If ye need somethin'' for coughs, bring me that ${keyitem-singular: 0[2]}, and I''ll make ye a brew for free.${prompt}'
