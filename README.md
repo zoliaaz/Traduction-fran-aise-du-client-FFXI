@@ -1,4 +1,3 @@
-# traduction_ffxi
-traduction française du client ffxi
+Traduction française du client FFXI
 
-Ceci est un projet communautaire ou tout le monde peut participer. J'ai depuis quelques mois, le projet de traduire entierement en français le client de FINAL FANTASY XI. Le travail pour une seul personne est extremement lourd, c'est bien pour cette raison que j'ouvre le projet a la communauté francophone. La traduction étant en état brut (format YAML), il doit être compilé en .DAT (voir l'onglet Wiki).  
+Ceci est un projet communautaire où tout le monde peut participer. Depuis quelques mois, j'ai pour projet de traduire entièrement en français le client de FINAL FANTASY XI. Le travail pour une seule personne est extrêmement lourd, c'est pourquoi j'ouvre ce projet à la communauté francophone. La traduction étant en état brut (format YAML), elle doit être compilée en .DAT (voir l'onglet Wiki).
