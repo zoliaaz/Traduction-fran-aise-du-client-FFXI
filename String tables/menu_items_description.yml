@@ -1,212 +1,204 @@
 lists:
   0:
-  - string: Select a Linkshell, Pearlsack, or Linkpearl.
+  - string: Sélectionner une linkshell, un sac de perles ou une linkperle.
   1:
-  - string: Activate Linkshell item and participate in its chat channel.
+  - string: Activer la linkshell et rejoindre son canal de chat.
   2:
-  - string: Deactivate Linkshell item and quit its chat channel.
+  - string: Désactiver la linkshell et quitter son canal de chat.
   3:
-  - string: Select an item.
+  - string: Sélectionner un objet.
   4:
-  - string: Select target to use item on.
+  - string: Sélectionner la cible de l'objet.
   5:
-  - string: Select item to move.
+  - string: Sélectionner l'objet à déplacer.
   6:
-  - string: Select item to switch with the first. (Selecting the same item stack will separate one of the items from the stack.)
+  - string: Sélectionner l'objet à échanger avec le premier. (Si la même pile d'objets est sélectionnée, un objet sera sorti de la pile).
   7:
-  - string: Select materials for synthesis.
+  - string: Sélectionner les matériaux à synthétiser.
   8:
-  - string: Select a spell or song to move.
+  - string: Sélectionner un sort ou chant à déplacer.
   9:
-  - string: Select a spell or song to switch places with.
+  - string: Sélectionner un sort ou chant à intervertir.
   10:
-  - string: Select an ability to move.
+  - string: Sélectionner une aptitude à déplacer.
   11:
-  - string: Select an ability to switch places with.
+  - string: Sélectionner une aptitude à intervertir.
   12:
-  - string: Move item from Mog Safe to your inventory.
+  - string: Transférer l'objet du Coffre Mog vers l'inventaire.
   13:
-  - string: Select item in Mog Safe to move.
+  - string: Sélectionner l'objet du Coffre Mog à transférer.
   14:
-  - string: Select furniture to place in your room.
+  - string: Sélectionner le meuble du Coffre Mog à placer dans votre pièce.
   15:
-  - string: Invite selected character to join your party.
+  - string: Inviter le personnage sélectionné à rejoindre votre équipe.
   16:
-  - string: Search current region for characters who are seeking parties.
+  - string: Rechercher dans la région actuelle les personnages en recherche d'équipe.
   17:
-  - string: Send a Knock Message.
+  - string: Envoyer un message de rappel.
   18:
-  - string: Chat with selected character privately using "Tell."
+  - string: Discuter avec le personnage sélectionné via "Tell."
   19:
-  - string: Add condition to search.
+  - string: Ajouter une condition de recherche.
   20:
-  - string: Select area to search.
+  - string: Sélectionner la zone de recherche.
   21:
-  - string: Search all areas.
+  - string: Rechercher dans toutes les zones.
   22:
-  - string: Open input window. Press right directional button to change chat modes.
+  - string: Ouvrir la fenêtre de saisie. Appuyer sur le bouton directionnel droit pour changer de modes de chat.
   23:
-  - string: Chat in "tell" mode. Press right directional button to change chat modes.
+  - string: Discuter en mode "tell".  Appuyer sur le bouton directionnel droit pour changer de mode de chat.
   24:
-  - string: Display abilities and skills listed by type.
+  - string: Afficher les aptitudes et compétences répertoriées par type.
   25:
-  - string: Use magic. Press right directional button to list spells and songs by type.
+  - string: Utiliser la magie. Appuyer sur le bouton directionnel droit pour classer les sorts et chants par type.
   26:
-  - string: Use an item.
+  - string: Utiliser un objet.
   27:
-  - string: Distribute currently pooled treasure among party members.
+  - string: Répartir les trésors de guerre entre les membres de l'équipe.
   28:
-  - string: Acquire currently pooled treasure.
+  - string: Acquérir les trésors de guerre.
   29:
-  - string: Examine target's equipment.
+  - string: Examiner l'équipement de la cible.
   30:
-  - string: Estimate target's relative strength.
+  - string: Evaluer la force relative de la cible.
   31:
-  - string: Start auto-attack.
+  - string: Lancer une attaque automatique.
   32:
-  - string: Cancel auto-attack.
+  - string: Annulez l'attaque automatique.
   33:
-  - string: Call for help.
+  - string: Appeler à l'aide.
   34:
-  - string: Cast a fishing line.
+  - string: Lancez une ligne de pêche.
   35:
-  - string: Make your chocobo dig a hole.
+  - string: Faire creuser votre chocobo.
   36:
-  - string: Dismount.
+  - string: Descendre de votre chocobo.
   37:
-  - string: Select a target to auto-attack.
+  - string: Sélectionnez une cible à attaquer automatiquement.
   38:
-  - string: Trade with target.
+  - string: Échangez avec la cible.
   39:
-  - string: Dismount and attack.
+  - string: Descendre de votre chocobo et attaquer.
   40:
-  - string: View map of current area.
+  - string: Afficher la carte de la zone actuelle.
   41:
-  - string: Open the Mog House menu.
+  - string: Ouvrir le menu Maison Mog.
   42:
-  - string: You cannot open the Mog House menu while in another person's Mog House.
+  - string: Vous ne pouvez pas ouvrir le menu Maison Mog lorsque vous êtes dans la Maison Mog de quelqu'un d'autre.
   43:
-  - string: Change jobs.
+  - string: Changer de job.
   44:
-  - string: Toggle display of this category of friends.
+  - string: Afficher/Masquer cette catégorie d'amis.
   45:
-  - string: Select target to trade with.
+  - string: Sélectionner la cible de l'échange.
   46:
-  - string: Select target to attack with ranged weapon.
+  - string: Sélectionner la cible à attaquer à distance.
   47:
-  - string: Purchase merchandise.
+  - string: Acheter une marchandise.
   48:
-  - string: Sell merchandise.
+  - string: Vendre une marchandise.
   49:
-  - string: Set the going price of merchandise in your bazaar.
+  - string: Fixer le prix d'une marchandise de votre bazar.
   50:
-  - string: Edit the message in your comment box. Three lines of up to 40 letters per line are available.
+  - string: Modifier le message dans votre zone de commentaires (trois lignes de 40 caractères chacune maximum).
   51:
-  - string: Select an item from the guild's buy list.
+  - string: Sélectionner un objet dans la liste d'achat de la guilde.
   52:
-  - string: After specifying recipient, place items in empty slots to send them to recipient's delivery box.
+  - string: Spécifier le destinataire, puis placer les objets dans des cases vierges pour les expédier à sa boîte de livraison.
   53:
-  - string: You may be able to cancel deliveries if the recipients have not yet collected the items from their delivery box.
+  - string: Tant que les destinataires n'ont pas récupéré les objets dans leur boîte, vous pouvez annuler la livraison.
   54:
-  - string: Select the merchandise you wish to place on auction.
+  - string: Sélectionner les marchandises à mettre en vente.
   55:
-  - string: Set the reserve price.
+  - string: Fixer le prix minimum.
   56:
-  - string: Place this merchandise on auction?
+  - string: Mettre cette marchandise en vente ?
   57:
-  - string: Select the item you wish to bid for.
+  - string: Sélectionner l'objet à acheter.
   58:
-  - string: Specify your bid.
+  - string: Spécifier votre offre.
   59:
-  - string: Place this bid?
+  - string: Placer cette offre ?
   60:
-  - string: Successful sale in progress. Please wait a little while before trying to reconfirm.
+  - string: Vente en cours. Patienter quelques instants avant de tenter de reconfirmer.
   61:
-  - string: Merchandise being returned. Please wait a little while before trying to reconfirm.
+  - string: Retour de la marchandise en cours. Patienter quelques instants avant de tenter de reconfirmer.
   62:
-  - string: Merchandise sold and proceeds from sale sent. Press the confirm button to acknowledge receipt and remove merchandise from list.
+  - string: Marchandise vendue et montant de la vente transféré. Appuyer sur le bouton Confirmer pour accuser réception et supprimer la marchandise de la liste.
   63:
-  - string: Merchandise returned. Press the confirm button to acknowledge receipt and remove merchandise from list.
+  - string: Marchandise renvoyée. Appuyer sur le bouton Confirmer pour accuser réception et supprimer la marchandise de la liste.
   64:
-  - string: Merchandise sold and proceeds collected from delivery box. Press the confirm button to acknowledge receipt and remove merchandise from list.
+  - string: Marchandise vendue et montant récupéré dans la boîte de livraison. Appuyer sur le bouton Confirmer pour accuser réception et supprimer la marchandise de la liste.
   65:
-  - string: Merchandise returned and collected from delivery box. Press the confirm button to acknowledge receipt and remove merchandise from list.
+  - string: Marchandise renvoyée et récupérée dans la boîte de livraison. Appuyer sur le bouton Confirmer pour accuser réception et supprimer la marchandise de la liste.
   66:
-  - string: Trading closed on merchandise. Press the confirm button to acknowledge receipt and remove merchandise from list.
+  - string: Transaction close pour la marchandise. Appuyer sur le bouton Confirmer pour accuser réception et supprimer la marchandise de la liste.
   67:
-  - string: Merchandise currently on auction. Press the confirm button to remove from auction.
+  - string: Marchandise actuellement en vente. Appuyer sur le bouton Confirmer pour l'en retirer.
   68:
-  - string: This merchandise is on auction in another country and cannot be removed from auction here.
+  - string: Cette marchandise est en vente dans une autre ville et ne peut pas être retirée de la vente ici.
   69:
-  - string: |-
-      Stop tracking current target
-      and proceed with wide area scan?
+  - string: 'Cesser de suivre la cible actuelle et scanner la zone ?  '
   70:
-  - string: Return to Home Point?
+  - string: Retourner au point de retour ?
   71:
-  - string: |-
-      Log out or
-      cancel current
-      logout process?
+  - string: Se déconnecter ou annuler la procédure de déconnexion ?
   72:
-  - string: Log out?
+  - string: Se déconnecter?
   73:
-  - string: Cancel current logout process?
+  - string: Annuler la procédure de déconnexion ?
   74:
-  - string: |-
-      Temporarily log out to
-      PlayOnline or cancel
-      temporary logout process?
+  - string: Interrompre le jeu et retourner vers PlayOnline ?
   75:
-  - string: Temporarily log out to PlayOnline?
+  - string: Vous déconnecter temporairement de PlayOnline ?
   76:
-  - string: Cancel temporary logout process?
+  - string: Annulation de la procédure ?
   77:
-  - string: Dismount?
+  - string: Descendre du chocobo ?
   78:
-  - string: 'Title: '
+  - string: 'Titre: '
   79:
-  - string: Select target of spell.
+  - string: Sélectionnez la cible du sort.
   80:
-  - string: Sort list?
+  - string: Trier la liste ?
   81:
-  - string: Select target of ability.
+  - string: Sélectionner la cible de l'aptitude.
   82:
-  - string: Suppress all "say" lines.
+  - string: Supprimer toutes les lignes "say".
   83:
-  - string: Suppress all "shout" lines.
+  - string: Supprimer toutes les lignes "shout".
   84:
-  - string: Suppress lines describing your attacks and their damage.
+  - string: Supprimer les lignes décrivant vos attaques et leurs dégâts.
   85:
-  - string: Suppress lines describing your missed attacks.
+  - string: Supprimez les lignes décrivant vos attaques manquées.
   86:
-  - string: Suppress lines describing damage you receive.
+  - string: Supprimer les lignes décrivant les dégâts que vous avez subis.
   87:
-  - string: Suppress lines describing attacks you evade.
+  - string: Supprimer les lignes décrivant les attaques que vous avez esquivées.
   88:
-  - string: Suppress lines describing party members' attacks and their damage.
+  - string: Supprimer les lignes décrivant les attaques de vos équipiers et leurs dégâts.
   89:
-  - string: Suppress lines describing party members' missed attacks.
+  - string: Supprimer les lignes décrivant les attaques manquées par vos équipiers.
   90:
-  - string: Suppress lines describing damage taken by party members.
+  - string: Supprimer les lignes décrivant les dégâts subis par vos équipiers
   91:
-  - string: Suppress lines describing attacks party members evade.
+  - string: Supprimer les lignes décrivant les attaques esquivées par vos équipiers.
   92:
-  - string: Suppress lines describing attacks and damage done by people other than you or your party members.
+  - string: Supprimer les lignes décrivant les attaques et dégâts infligés par d'autres personnes que vous ou vos équipiers.
   93:
-  - string: Suppress lines describing missed attacks made by people other than you or your party members.
+  - string: Supprimer les lignes décrivant les attaques manquées par d'autres personnes que vous ou vos équipiers.
   94:
-  - string: Suppress all lines describing the activation of spells and abilities.
+  - string: Supprimer toutes les lignes décrivant l'activation de sorts et d'aptitudes.
   95:
-  - string: Suppress all lines describing the resulting effects of spells and abilities.
+  - string: Supprimer toutes les lignes décrivant les effets des sorts et aptitudes.
   96:
-  - string: Accept Tractor?
+  - string: Accepter Traction ?
   97:
-  - string: Form an alliance with another party.
+  - string: Former une alliance avec une autre équipe.
   98:
-  - string: Search current region.
+  - string: Rechercher dans la région actuelle.
   99:
-  - string: Move item from Storage to your inventory.
+  - string: Transférer l'objet du rangement vers votre inventaire.
   100:
   - string: San d'Oria
   101:
@@ -214,1982 +206,1982 @@ lists:
   102:
   - string: Windurst
   103:
-  - string: Dismount and attack.
+  - string: Descendre de votre chocobo et attaquer.
   104:
-  - string: Make your chocobo dig a hole.
+  - string: Faire creuser votre chocobo.
   105:
-  - string: Open input window. Press right directional button to change chat modes.
+  - string: Ouvrir la fenêtre de saisie. Appuyer sur le bouton directionnel droit pour changer de modes de chat.
   106:
-  - string: Make your chocobo dig a hole.
+  - string: Faire creuser votre chocobo.
   107:
-  - string: Invite selected character to join your party.
+  - string: Inviter le personnage sélectionné à rejoindre votre équipe.
   108:
-  - string: Examine target's equipment and merchandise.
+  - string: Examiner l'équipement et les marchandises de la cible.
   109:
-  - string: Select area to search.
+  - string: Sélectionner la zone de recherche.
   110:
-  - string: Search for warriors.
+  - string: Recherchez des guerriers.
   111:
-  - string: Search for monks.
+  - string: Recherchez des moines.
   112:
-  - string: Search for white mages.
+  - string: Recherchez des mages blancs.
   113:
-  - string: Search for black mages.
+  - string: Recherchez des mages noirs.
   114:
-  - string: Search for red mages.
+  - string: Recherchez des mages rouges.
   115:
-  - string: Search for thieves.
+  - string: Rechercher des voleurs.
   116:
-  - string: Search for paladins.
+  - string: Recherchez des paladins.
   117:
-  - string: Search for dark knights.
+  - string: Recherchez les chevaliers noirs.
   118:
-  - string: Search for beastmasters.
+  - string: Rechercher des dresseurs.
   119:
-  - string: Search for bards.
+  - string: Recherchez des bardes.
   120:
-  - string: Search for rangers.
+  - string: Rechercher des chasseurs.
   121:
-  - string: Newcomers under level 10.
+  - string: Nouveaux de niveaux inférieurs à 10.
   122:
-  - string: Adventurers between levels 11 to 20.
+  - string: Aventuriers de niveaux 11 à 20.
   123:
-  - string: Adventurers between levels 21 to 30.
+  - string: Aventuriers de niveaux 21 à 30.
   124:
-  - string: Adventurers between levels 31 to 40.
+  - string: Aventuriers de niveaux 31 à 40.
   125:
-  - string: Adventurers between levels 41 to 50.
+  - string: Aventuriers de niveaux 41 à 50.
   126:
-  - string: Adventurers between levels 51 to 60.
+  - string: Aventuriers de niveaux 51 à 60.
   127:
-  - string: Adventurers between levels 61 to 70.
+  - string: Aventuriers de niveaux 61 à 70.
   128:
-  - string: Adventurers between levels 71 to 80.
+  - string: Aventuriers de niveaux 71 à 80.
   129:
-  - string: Adventurers between levels 81 to 90.
+  - string: Aventuriers de niveaux 81 à 90.
   130:
-  - string: High-end adventurers between levels 91 and 99.
+  - string: ASuper aventuriers de niveaux 91 et 99.
   131:
-  - string: Search for San d'Orians.
+  - string: Rechercher des San d'Oriens
   132:
-  - string: Search for Bastokers.
+  - string: Rechercher des Bastokers.
   133:
-  - string: Search for Windurstians.
+  - string: Rechercher des Windurstiens.
   134:
-  - string: Search for Humes.
+  - string: Rechercher des Humes.
   135:
-  - string: Search for Elvaan.
+  - string: Rechercher des Elvaan.
   136:
-  - string: Search for Tarutaru.
+  - string: Rechercher des Tarutaru.
   137:
-  - string: Search for Mithra.
+  - string: Rechercher des Mithra.
   138:
-  - string: Search for Galka.
+  - string: Rechercher des Galka.
   139:
-  - string: Looking for party or party members to raise job levels.
+  - string: Rechercher une équipe ou des équipiers pour gagner des points d'expérience.
   140:
-  - string: Looking for party or party members to go on missions or quests.
+  - string: Recherchez une équipe ou des équipiers pour partir en mission ou en quête.
   141:
-  - string: Looking for linkshells or linkshell members.
+  - string: Recherche de linkshells ou de membres de linkshell.
   142:
-  - string: Looking for party or party members to participate in battle content.
+  - string: Rechercher une équipe ou des équipiers pour participer à des combats de cercle ardent, etc.
   143:
-  - string: Default to ROMAJI input.
+  - string: Saisie ROMAJI par défaut.
   144:
-  - string: Default to KANA input.
+  - string: Saisie KANA par défaut.
   145:
-  - string: Normal input method for full-sized keyboards.
+  - string: Mode de saisie normal pour claviers standard.
   146:
-  - string: Specialized input method for compact keyboards without numeric keypads.
+  - string: Mode de saisie spécial pour claviers compacts sans pavé numérique.
   147:
-  - string: Use standard software keyboard.
+  - string: Utiliser le clavier logiciel standard.
   148:
-  - string: Use compact software keyboard.
+  - string: Utilisez un clavier logiciel compact.
   149:
-  - string: Set normal conversion method to shortcut button.
+  - string: Définissez la méthode de conversion normale sur le bouton de raccourci.
   150:
-  - string: Set complementary conversion method to shortcut button.
+  - string: Définissez la méthode de conversion complémentaire sur le bouton de raccourci.
   151:
-  - string: Assign keys for movement, cursor, and camera controls. (Compact keyboard only)
+  - string: Attribuez des touches pour les commandes de mouvement, de curseur et de caméra. (Clavier compact uniquement)
   152:
-  - string: Assign keys for shortcut commands.
+  - string: Attribuez des touches aux commandes de raccourci.
   153:
-  - string: Return key assignments to default settings.
+  - string: Remettez les affectations de touches aux paramètres par défaut.
   154:
-  - string: Specialized input method for compact keyboards without numeric keypads.
+  - string: Méthode de saisie spécialisée pour les claviers compacts sans pavé numérique.
   155:
-  - string: Automatically lock on to target at the start of battle.
+  - string: Verrouillez-vous automatiquement sur la cible au début de la bataille.
   156:
-  - string: Do not automatically lock on to target.
+  - string: Ne vous verrouillez pas automatiquement sur la cible.
   157:
-  - string: Play music in stereo.
+  - string: Jouez de la musique en stéréo.
   158:
-  - string: Play music in monaural sound.
+  - string: Jouez de la musique en son mono.
   159:
-  - string: Set the volume of sound effects.
+  - string: Réglez le volume des effets sonores.
   160:
-  - string: Set the volume of the background music.
+  - string: Réglez le volume de la musique de fond.
   161:
-  - string: Set the level of screen flicker reduction.
+  - string: Définissez le niveau de réduction du scintillement de l’écran.
   162:
-  - string: Red gamma adjustment.
+  - string: Réglage du gamma rouge.
   163:
-  - string: Green gamma adjustment.
+  - string: Réglage du gamma vert.
   164:
-  - string: Blue gamma adjustment.
+  - string: Réglage du gamma bleu.
   165:
-  - string: Display damage in the log window only.
+  - string: Afficher les dégâts dans la fenêtre du journal uniquement.
   166:
-  - string: Display damage on the game screen and in the log window.
+  - string: Afficher les dégâts sur l'écran de jeu et dans la fenêtre de journal.
   167:
-  - string: Make FINAL FANTASY XI character data public for party searches and Friend List searches.
+  - string: Rendre publiques les données du personnage FINAL FANTASY XI pour les recherches d'équipes et d'amis.
   168:
-  - string: Hide FINAL FANTASY XI character data from Friend List searches.
+  - string: Masquer les données du personnage FINAL FANTASY XI lors des recherches d'équipes et d'amis.
   169:
-  - string: Turn on the DUALSHOCK©2 analog controller vibration function.
+  - string: Activez la fonction de vibration du contrôleur analogique DUALSHOCK©2.
   170:
-  - string: Turn off the DUALSHOCK©2 analog controller vibration function.
+  - string: Désactivez la fonction de vibration du contrôleur analogique DUALSHOCK©2.
   171:
-  - string: Adjust the strength of the vibration function.
+  - string: Ajustez la force de la fonction de vibration.
   172:
-  - string: Set display to standard TV screen size.
+  - string: Réglez l’affichage sur la taille d’écran de télévision standard.
   173:
-  - string: Set display to wide-screen TV size.
+  - string: Réglez l’affichage sur la taille d’un téléviseur grand écran.
   174:
-  - string: Display damage as pop-up graphics on the game screen only. Damage will not be shown in the log window.
+  - string: Afficher les dégâts sous forme de graphiques contextuels sur l'écran de jeu uniquement. Les dégâts ne seront pas affichés dans la fenêtre du journal.
   175:
-  - string: Adjust the screen's brightness.
+  - string: Ajustez la luminosité de l'écran.
   176:
-  - string: Display detailed character shadows.
+  - string: Affichez les ombres détaillées des personnages.
   177:
-  - string: Display simple character shadows to improve frame rate.
+  - string: Affichez des ombres de caractères simples pour améliorer la fréquence d’images.
   178:
-  - string: Remove character shadows to improve frame rate.
+  - string: Supprimez les ombres des personnages pour améliorer la fréquence d'images.
   179:
-  - string: Display particle effects for changes in weather etc.
+  - string: Afficher les effets de particules pour les changements de temps, etc.
   180:
-  - string: Remove particle effects to improve frame rate.
+  - string: Supprimez les effets de particules pour améliorer la fréquence d'images.
   181:
-  - string: Limit the number of characters shown on screen to improve frame rate.
+  - string: Limitez le nombre de caractères affichés à l’écran pour améliorer la fréquence d’images.
   182:
-  - string: Filter out words that could be interpreted as offensive.
+  - string: Filtrez les mots qui pourraient être interprétés comme offensants.
   183:
-  - string: Automatically disconnect from server after specified time.
+  - string: Déconnectez-vous automatiquement du serveur après l'heure spécifiée.
   184:
-  - string: Automatically adjust log window's size to match amount of text.
+  - string: Ajustez automatiquement la taille de la fenêtre du journal en fonction de la quantité de texte.
   185:
-  - string: Fix log window to set size.
+  - string: Correction de la fenêtre du journal pour définir la taille.
   186:
-  - string: Set maximum number of lines to eight.
+  - string: Fixez le nombre maximum de lignes à huit.
   187:
-  - string: Set maximum number of lines to seven.
+  - string: Fixez le nombre maximum de lignes à sept.
   188:
-  - string: Set maximum number of lines to six.
+  - string: Fixez le nombre maximum de lignes à six.
   189:
-  - string: Set minimum number of lines to seven.
+  - string: Fixez le nombre minimum de lignes à sept.
   190:
-  - string: Set minimum number of lines to six.
+  - string: Fixez le nombre minimum de lignes à six.
   191:
-  - string: Set minimum number of lines to five.
+  - string: Fixez le nombre minimum de lignes à cinq.
   192:
-  - string: Set minimum number of lines to four.
+  - string: Fixez le nombre minimum de lignes à quatre.
   193:
-  - string: Set minimum number of lines to three.
+  - string: Fixez le nombre minimum de lignes à trois.
   194:
-  - string: Set minimum number of lines to two.
+  - string: Fixez le nombre minimum de lignes à deux.
   195:
-  - string: Set minimum number of lines to one.
+  - string: Définissez le nombre minimum de lignes sur une.
   196:
-  - string: Set minimum number of lines to zero.
+  - string: Définissez le nombre minimum de lignes à zéro.
   197:
-  - string: Set the time interval for automatic log window adjustment.
+  - string: Définissez l’intervalle de temps pour l’ajustement automatique de la fenêtre de journal.
   198:
-  - string: Set window pattern to type one. (Default)
+  - string: Définissez le modèle de fenêtre pour en saisir un. (Défaut)
   199:
-  - string: Set window pattern to type two.
+  - string: Définissez le modèle de fenêtre sur le type deux.
   200:
-  - string: Set window pattern to type three.
+  - string: Définissez le modèle de fenêtre sur le type trois.
   201:
-  - string: Set window pattern to type four.
+  - string: Définissez le modèle de fenêtre sur le type quatre.
   202:
-  - string: Set window pattern to type five.
+  - string: Définissez le modèle de fenêtre sur le type cinq.
   203:
-  - string: Set window pattern to type six.
+  - string: Définissez le modèle de fenêtre sur le type six.
   204:
-  - string: Set window pattern to type seven.
+  - string: Définissez le modèle de fenêtre sur le type sept.
   205:
-  - string: Set window pattern to type eight.
+  - string: Définissez le modèle de fenêtre sur le type huit.
   206:
-  - string: Adjust the distance of the back clipping plane of the 3D view.
+  - string: Ajustez la distance du plan de détourage arrière de la vue 3D.
   207:
-  - string: Display footstep effects such as footprints and ripples.
+  - string: Affichez les effets de pas tels que les empreintes de pas et les ondulations.
   208:
-  - string: Remove footstep effects to increase frame rate.
+  - string: Supprimez les effets de pas pour augmenter la fréquence d'images.
   209:
-  - string: Limit character animation rate to maintain frame rate.
+  - string: Limitez la fréquence d’animation des personnages pour maintenir la fréquence d’images.
   210:
-  - string: Use normal input method for full-size keyboards.
+  - string: Utilisez la méthode de saisie normale pour les claviers de taille normale.
   211:
-  - string: Use specialized input method for compact keyboards without numeric keypads.
+  - string: Utilisez une méthode de saisie spécialisée pour les claviers compacts sans pavé numérique.
   212:
-  - string: Adjust the background screen proportions to match your monitor's aspect ratio. Recommended for monitors with an aspect ratio other than 4:3.
+  - string: Ajustez les proportions de l'écran d'arrière-plan pour qu'elles correspondent au rapport hauteur/largeur de votre moniteur. Recommandé pour les moniteurs avec un rapport hauteur/largeur autre que 4:3.
   213:
-  - string: Use cursor as point of reference for movement.
+  - string: Utilisez le curseur comme point de référence pour le mouvement.
   214:
-  - string: Use your character as point of reference for movement.
+  - string: Utilisez votre personnage comme point de référence pour vos déplacements.
   215:
-  - string: The camera will rotate when the mouse pointer is moved to the edge of the screen.
+  - string: La caméra pivote lorsque le pointeur de la souris est déplacé vers le bord de l'écran.
   216:
-  - string: The camera will not rotate when the mouse pointer is moved to the edge of the screen.
+  - string: La caméra ne pivotera pas lorsque le pointeur de la souris est déplacé vers le bord de l'écran.
   217:
-  - string: Allows unrestricted movement of the third-person camera.
+  - string: Permet un mouvement sans restriction de la caméra à la troisième personne.
   218:
-  - string: Locks the third-person camera behind your character.
+  - string: Verrouille la caméra à la troisième personne derrière votre personnage.
   219:
-  - string: Reset third-person camera controls to the default setting.
+  - string: Réinitialisez les commandes de la caméra à la troisième personne aux paramètres par défaut.
   220:
-  - string: Invert third-person camera controls on the Y axis.
+  - string: Inversez les commandes de la caméra à la troisième personne sur l’axe Y.
   221:
-  - string: Invert third-person camera controls on the X axis.
+  - string: Inversez les commandes de la caméra à la troisième personne sur l’axe X.
   222:
-  - string: Reset first-person camera controls to the default setting.
+  - string: Réinitialisez les commandes de la caméra à la première personne aux paramètres par défaut.
   223:
-  - string: Invert first-person camera controls on the Y axis.
+  - string: Inversez les commandes de la caméra à la première personne sur l’axe Y.
   224:
-  - string: Invert first-person camera controls on the X axis.
+  - string: Inversez les commandes de la caméra à la première personne sur l’axe X.
   225:
-  - string: Adjust the keyboard settings.
+  - string: Ajustez les paramètres du clavier.
   226:
-  - string: Adjust in-game settings exclusive to FINAL FANTASY XI.
+  - string: Ajustez les paramètres du jeu exclusifs à FINAL FANTASY XI.
   227:
-  - string: Adjust the filter settings for text in the log window.
+  - string: Ajustez les paramètres de filtre pour le texte dans la fenêtre du journal.
   228:
-  - string: Adjust the color of different types of text in the log window.
+  - string: Ajustez la couleur des différents types de texte dans la fenêtre du journal.
   229:
-  - string: Adjust log window settings.
+  - string: Ajustez les paramètres de la fenêtre de journal.
   230:
-  - string: Adjust miscellaneous settings for FINAL FANTASY XI.
+  - string: Ajustez divers paramètres pour FINAL FANTASY XI.
   231:
-  - string: Adjust the mouse and camera settings.
+  - string: Ajustez les paramètres de la souris et de la caméra.
   232:
-  - string: Adjust global options that affect all of PlayOnline.
+  - string: Ajustez les options globales qui affectent l’ensemble de PlayOnline.
   233:
-  - string: Adjust other miscellaneous settings for FINAL FANTASY XI.
+  - string: Ajustez d'autres paramètres divers pour FINAL FANTASY XI.
   234:
-  - string: Set the font colors for general chatting.
+  - string: Définissez les couleurs de police pour les discussions générales.
   235:
-  - string: Set the font colors for actions that affect you.
+  - string: Définissez les couleurs de police pour les actions qui vous concernent.
   236:
-  - string: Set the font colors for actions that affect others.
+  - string: Définissez les couleurs de police pour les actions qui affectent les autres.
   237:
-  - string: Set the font colors for system messages.
+  - string: Définissez les couleurs de police pour les messages système.
   238:
-  - string: Return all font colors to their initial settings.
+  - string: Remettez toutes les couleurs de police à leurs paramètres initiaux.
   239:
-  - string: Reset all log windows to their initial settings?
+  - string: Réinitialiser toutes les fenêtres de journaux à leurs paramètres initiaux ?
   240:
-  - string: Wait for someone to revive you within the time limit, or give up and return to your camp.
+  - string: Attendre que quelqu'un vous ranime avant la fin du temps limite ou abandonner et regagner votre camp.
   241:
-  - string: Wait for someone to revive you within the time limit, or give up and return to your current home point.
+  - string: Attendre que quelqu'un vous ranime avant la fin du temps limite ou abandonner et regagner votre point de retour.
   242:
-  - string: Dispose of item?
+  - string: Jeter l'article ?
   243:
-  - string: Main Weapon (Single-handed, two-handed, and hand-to-hand weapons)
+  - string: Arme principale (armes à une main, à deux mains et de corps à corps)
   244:
-  - string: Head (Helms, hats, etc.)
+  - string: Tête (casques, chapeaux, etc.)
   245:
-  - string: Body (Robes, suits of mail, and other body armor)
+  - string: Torse (robes, cottes de mailles et autres armures)
   246:
-  - string: Back (Capes, mantles, etc.)
+  - string: Dos (capes, pèlerines, etc.)
   247:
-  - string: Sub-weapon (Single-handed weapons, shields, etc.)
+  - string: Arme secondaire (armes à une main, boucliers, etc.)
   248:
-  - string: Neck (Necklaces, collars, etc.)
+  - string: Cou (colliers, cols, etc.)
   249:
-  - string: Hands (Gauntlets, gloves, etc.)
+  - string: Mains (gantelets, gants, etc.)
   250:
-  - string: Waist (Belts, obi, etc.)
+  - string: Taille (ceintures, obis, etc.)
   251:
-  - string: Ranged Weapon (Bows, guns, instruments, fishing rods, etc.)
+  - string: Arme de portée (arcs, fusils, instruments, cannes à pêche, etc.)
   252:
-  - string: Left Ear (Earrings, etc.)
+  - string: Oreille gauche (boucles d'oreille, etc.)
   253:
-  - string: Left hand ring (Rings, etc.)
+  - string: Annulaire de la main gauche (bagues, etc.)
   254:
-  - string: Legs (Trousers, subligaria, etc.)
+  - string: Jambes (pantalons, subligars, etc.)
   255:
-  - string: Ammunition (Arrows, throwing weapons, fish bait, etc.)
+  - string: Munitions (flèches, armes de jet, appâts, etc.)
   256:
-  - string: Right Ear (Earrings, etc.)
+  - string: Oreille droite (boucles d'oreille, etc.)
   257:
-  - string: Right hand ring (Rings, etc.)
+  - string: Annulaire de la main droite (bagues, etc.)
   258:
-  - string: Feet (Greaves, boots, and other footwear)
+  - string: Pieds (jambards, bottes et autres chaussures)
   259:
-  - string: Edit Friend List.
+  - string: Modifier la liste d'amis.
   260:
-  - string: View PlayOnline messages.
+  - string: Afficher les messages PlayOnline.
   261:
-  - string: This function is unavailable.
+  - string: Cette fonction n'est pas disponible.
   262:
-  - string: Change your online status.
+  - string: Changez votre statut en ligne.
   263:
-  - string: Change your privacy level.
+  - string: Modifiez votre niveau de confidentialité.
   264:
-  - string: Chat with friend in "tell" mode.
+  - string: Discuter avec un ami en mode "tell".
   265:
-  - string: Send friend a PlayOnline message.
+  - string: Envoyez à un ami un message PlayOnline.
   266:
-  - string: View received PlayOnline messages.
+  - string: Afficher les messages PlayOnline reçus.
   267:
-  - string: View away message.
+  - string: Afficher le message d'absence.
   268:
-  - string: Set the number of items.
+  - string: Définissez le nombre d'éléments.
   269:
-  - string: Automatically rearrange items.
+  - string: Réorganisez automatiquement les éléments.
   270:
-  - string: Manually rearrange items.
+  - string: Réorganisez manuellement les éléments.
   271:
-  - string: Use item.
+  - string: Utiliser l'article.
   272:
-  - string: Dispose of item. Most items will be placed in the recycle bin. If the recycle bin is full, the oldest item in the recycle bin will be deleted.
+  - string: Jetez l'article. La plupart des articles seront placés dans la corbeille. Si la corbeille est pleine, l'élément le plus ancien de la corbeille sera supprimé.
   273:
-  - string: Set your main job.
+  - string: Définir votre job principal.
   274:
-  - string: Set your support job.
+  - string: Définir votre job de soutien.
   275:
-  - string: Select the job you want to change to.
+  - string: Sélectionner le job à adopter.
   276:
-  - string: Select an ability.
+  - string: Sélectionner une aptitude.
   277:
-  - string: Assign keys for movement, cursor, and camera controls. (Only when using compact keyboard.)
+  - string: Attribuez des touches pour les commandes de mouvement, de curseur et de caméra. (Uniquement lors de l'utilisation d'un clavier compact.)
   278:
-  - string: Assign keys for shortcut commands.
+  - string: Attribuez des touches aux commandes de raccourci.
   279:
-  - string: View bonuses and other traits of current jobs.
+  - string: Consultez les primes et autres caractéristiques des emplois actuels.
   280:
-  - string: Activate special abilities of current jobs.
+  - string: Activez les capacités spéciales des emplois actuels.
   281:
-  - string: Use TP to perform special attacks associated with equipped weapon type.
+  - string: Utilisez les TP pour effectuer des attaques spéciales associées au type d'arme équipé.
   282:
-  - string: Attack current target with ranged weapon.
+  - string: Attaquez la cible actuelle avec une arme à distance.
   283:
-  - string: Give a name to your linkshell group.
+  - string: Donnez un nom à votre groupe LinkShell.
   284:
-  - string: Dispose of this linkshell.
+  - string: Jetez ce linkshell.
   285:
-  - string: Send a chat message directly to this member.
+  - string: Envoyez un message de chat directement à ce membre.
   286:
-  - string: Give a name to the linkshell group. Once set it cannot be changed.
+  - string: Donner un nom à la linkshell. Une fois défini, il n'est plus modifiable.
   287:
-  - string: Set linkshell group color.
+  - string: Définissez la couleur du groupe LinkShell.
   288:
-  - string: Name linkshell group with these settings.
+  - string: Nommez le groupe LinkShell avec ces paramètres.
   289:
-  - string: Cancel naming.
+  - string: Annuler la dénomination.
   290:
-  - string: Activate link and participate in linkshell chat.
+  - string: Activez le lien et participez au chat LinkShell.
   291:
-  - string: Dispose of this linkshell item.
+  - string: Jetez cet élément LinkShell.
   292:
-  - string: Display members currently linked to this group.
+  - string: Afficher les membres actuellement liés à ce groupe.
   293:
-  - string: Create a linkpearl.
+  - string: Créez une perle de lien.
   294:
-  - string: Select a linkshell item.
+  - string: Sélectionnez un élément LinkShell.
   295:
-  - string: 'Make this member an administrator. '
+  - string: 'Faites de ce membre un administrateur. '
   296:
-  - string: Remove this member from linkshell group.
+  - string: Supprimez ce membre du groupe LinkShell.
   297:
-  - string: Remove administrator privileges and return to normal member.
+  - string: Supprimez les privilèges d’administrateur et revenez au membre normal.
   298:
-  - string: Press the confirm button to display full-screen log window.
+  - string: Appuyez sur le bouton de confirmation pour afficher la fenêtre du journal en plein écran.
   299:
   - string: ''
   300:
-  - string: Cast lots on the treasure you want.
+  - string: Les trésors désirés peuvent être obtenus par un tirage au sort.
   301:
-  - string: Cast lots to decide who receives this treasure.
+  - string: Participer au tirage au sort pour tenter d'obtenir ce trésor.
   302:
-  - string: Forfeit claim on this treasure. Even if you cast lots on a treasure, you can still pass on it afterwards.
+  - string: Renoncer à ce trésor. Vous pouvez renoncer à un trésor même après avoir participé au tirage.
   303:
-  - string: View list of white magic.
+  - string: Afficher la liste des sorts de magie blanche.
   304:
-  - string: View list of black magic.
+  - string: Afficher la liste des sorts de magie noire.
   305:
-  - string: View list of bard songs.
+  - string: Afficher la liste des sorts de chants.
   306:
-  - string: View list of ninjutsu.
+  - string: Afficher la liste des sorts de ninjutsu.
   307:
-  - string: View list of summoning magic.
+  - string: Afficher la liste des sorts de magie invocatrice.
   308:
-  - string: Mark map.
+  - string: Baliser la carte.
   309:
-  - string: Use job ability to do wide area scan for enemies.
+  - string: Utiliser l'aptitude de job pour repérer les ennemis en scannant la zone.
   310:
-  - string: Track target.
+  - string: Traquer la cible.
   311:
-  - string: Narrow down range and restart remote scan.
+  - string: Réduire la zone à scanner et redémarrer le balayage à distance.
   312:
-  - string: Set marker.
+  - string: Placer la balise.
   313:
-  - string: Set conditions and search.
+  - string: Définir les conditions et lancer la recherche.
   314:
-  - string: Display map centered around selected marker.
+  - string: Afficher la carte en la centrant sur la balise sélectionnée.
   315:
-  - string: Place/remove selected marker.
+  - string: Placer/Supprimer la balise sélectionnée.
   316:
-  - string: Rename selected marker.
+  - string: Renommer la balise sélectionnée.
   317:
-  - string: Delete macro button content.
+  - string: Supprimez le contenu du bouton macro.
   318:
-  - string: Paste macro button content from temporary memory.
+  - string: Collez le contenu du bouton macro à partir de la mémoire temporaire.
   319:
-  - string: Delete current command line.
+  - string: Supprimer la ligne de commande actuelle.
   320:
-  - string: Paste command line from temporary memory.
+  - string: Collez la ligne de commande à partir de la mémoire temporaire.
   321:
-  - string: View status.
+  - string: Afficher l'état.
   322:
-  - string: Equip weapons and armor.
+  - string: S'équiper d'armes et armures.
   323:
-  - string: View spell and song lists.
+  - string: Afficher les listes de sorts et de chants.
   324:
-  - string: View current inventory.
+  - string: Afficher l'inventaire.
   325:
-  - string: View job abilities, weapon skills, etc.
+  - string: Afficher les aptitudes de jobs, les compétences armes, etc.
   326:
-  - string: Organize party settings.
+  - string: Organiser les paramètres d'équipe
   327:
-  - string: Trade items or money with current target.
+  - string: Echanger des objets ou de l'argent avec la cible.
   328:
-  - string: Search for other players according to various conditions.
+  - string: Rechercher d'autres joueurs selon diverses conditions.
   329:
-  - string: Set up and equip linkshell items.
+  - string: Equiper et paramétrer une linkshell.
   330:
-  - string: Use the PlayOnline viewer's Friend List functions.
+  - string: Utilisez les fonctions de liste d'amis de la visionneuse PlayOnline.
   331:
-  - string: View the balance of power for each region.
+  - string: Consultez l’équilibre des pouvoirs pour chaque région.
   332:
-  - string: View a map of the current area.
+  - string: Afficher une carte de la zone actuelle.
   333:
-  - string: Reply to sender.
+  - string: Répondre à l'expéditeur.
   334:
-  - string: Add sender to Ignore List.
+  - string: Ajoutez l'expéditeur à la liste des ignorés.
   335:
-  - string: Leave PlayOnline message as unread.
+  - string: Laissez le message PlayOnline comme non lu.
   336:
-  - string: End PlayOnline message viewer and return.
+  - string: Terminez la visionneuse de messages PlayOnline et revenez.
   337:
-  - string: Allow your handle to be added to this person's Friend List, and add this person's handle to your Friend List.
+  - string: Autorisez votre pseudo à être ajouté à la liste d'amis de cette personne et ajoutez le pseudo de cette personne à votre liste d'amis.
   338:
-  - string: Accept having your handle added to this person's Friend List.
+  - string: Acceptez que votre pseudo soit ajouté à la liste d'amis de cette personne.
   339:
-  - string: Decline having your handle added to this person's Friend List.
+  - string: Refuser que votre pseudo soit ajouté à la liste d'amis de cette personne.
   340:
-  - string: This function is unavailable.
+  - string: Cette fonction n'est pas disponible.
   341:
-  - string: Add this person to your Ignore List.
+  - string: Ajoutez cette personne à votre liste d'ignorés.
   342:
-  - string: Leave PlayOnline message unread.
+  - string: Laissez le message PlayOnline non lu.
   343:
-  - string: This function is unavailable.
+  - string: Cette fonction n'est pas disponible.
   344:
-  - string: Send PlayOnline message.
+  - string: Envoyez un message PlayOnline.
   345:
-  - string: Cancel PlayOnline message.
+  - string: Annulez le message PlayOnline.
   346:
-  - string: Automatically rearrange spells and songs by type.
+  - string: Réorganisez automatiquement les sorts et les chansons par type.
   347:
-  - string: Manually rearrange spells and songs.
+  - string: Réorganisez manuellement les sorts et les chansons.
   348:
-  - string: Select area to exit to.
+  - string: Sélectionnez la zone vers laquelle quitter.
   349:
-  - string: Leave items in the care of your moogle.
+  - string: Laissez les objets sous la garde de votre Moogle.
   350:
-  - string: Use the delivery system.
+  - string: Utilisez le système de livraison.
   351:
-  - string: Change main and support jobs.
+  - string: Changer de job principal et de job de soutien.
   352:
-  - string: Specify the price.
+  - string: Indiquer le prix.
   353:
-  - string: Cast spell.
+  - string: Jeter un sort.
   354:
-  - string: Sort spells.
+  - string: Triez les sorts.
   355:
-  - string: Leave items in the extra storage space of your Mog House furniture.
+  - string: Laisser des objets dans l'espace rangement supplémentaire de votre Maison Mog.
   356:
-  - string: Grow plants in flowerpots.
+  - string: Cultiver des plantes en pots.
   357:
-  - string: Rearrange the furniture in your Mog House.
+  - string: Redisposer les meubles de votre Maison Mog.
   358:
   - string: .
   359:
-  - string: Use an ability.
+  - string: Utiliser une aptitude.
   360:
-  - string: Use magic. Press right directional button to list spells and songs by type.
+  - string: Utiliser la magie. Appuyer sur le bouton directionnel droit pour classer les sorts et chants par type.
   361:
-  - string: Cast a fishing line.
+  - string: Lancer une ligne pour pêcher
   362:
-  - string: Online
+  - string: En ligne
   363:
-  - string: Away
+  - string: Absent(e)
   364:
-  - string: Busy
+  - string: Occupé(e)
   365:
   - string: Invisible
   366:
-  - string: 'Lv. 1:  Friends playing FINAL FANTASY XI.'
+  - string: 'Niv. 1 :  Amis jouant à FINAL FANTASY XI.'
   367:
-  - string: 'Lv. 2: All friends on your Friend List.'
+  - string: Niv. 2 : Tous les amis de votre liste d'amis.
   368:
-  - string: 'Lv. 3: Everyone who has you on their Friend List.'
+  - string: 'Niv. 3 : Tous ceux qui vous ont sur leur liste d''amis.'
   369:
-  - string: Check on how this plant is growing.
+  - string: Vérifier que la plante pousse bien.
   370:
-  - string: Sow seeds into this flowerpot.
+  - string: Semer des graines dans ce pot de fleurs.
   371:
-  - string: Return.
+  - string: Retour.
   372:
-  - string: Dry the plants and flowers growing in this flowerpot.
+  - string: Faire sécher les plantes et fleurs qui poussent dans ce pot.
   373:
-  - string: Abandon current attempt at gardening and dispose of flowerpot's contents.
+  - string: Renoncer au jardinage et jeter le contenu du pot de fleurs.
   374:
-  - string: Check on how this plant is growing.
+  - string: Vérifier que la plante pousse bien.
   375:
-  - string: Nourish this plant with a crystal.
+  - string: Nourrir cette plante avec un cristal.
   376:
-  - string: Gather this plant's yields.
+  - string: Rassemblez les rendements de cette plante.
   377:
-  - string: Select the items or money you wish to send.
+  - string: Sélectionner les objets ou l'argent à envoyer
   378:
-  - string: Send selected items to recipient's Mog House.
+  - string: Envoyer les objets sélectionnés à la Maison Mog du destinataire.
   379:
-  - string: Cancel.
+  - string: Annuler.
   380:
-  - string: Select an item from the delivery box.
+  - string: Sélectionnez un article dans la boîte de livraison.
   381:
-  - string: Take item out of delivery box.
+  - string: Sortez l'article de la boîte de livraison.
   382:
-  - string: Dispose of item from delivery box.
+  - string: Jetez l’article de la boîte de livraison.
   383:
-  - string: Return item to sender.
+  - string: Renvoyer l'objet à l'expéditeur.
   384:
-  - string: Toggle party flag.
+  - string: Afficher/Masquer l'indicateur de recherche d'équipe.
   385:
-  - string: Search for members to form a party.
+  - string: Rechercher des équipiers.
   386:
-  - string: Make yourself available for automatic party formation.
+  - string: Vous rendre disponible pour la formation automatique d'une équipe.
   387:
-  - string: Set party language.
+  - string: Choisir les langues parlées par le joueur
   388:
-  - string: View party member details.
+  - string: Afficher les détails des équipiers.
   389:
-  - string: Check treasure distribution setting.
+  - string: Vérifier le paramètre de répartition des trésors.
   390:
-  - string: Leave party.
+  - string: Quitter l'équipe.
   391:
-  - string: Add a new member to party.
+  - string: Ajouter un nouvel équipier.
   392:
-  - string: Set treasure distribution method.
+  - string: Définir le mode de répartition des trésors.
   393:
-  - string: Transfer leadership to another party member.
+  - string: Désigner un autre membre comme chef d'équipe.
   394:
-  - string: Remove member from party.
+  - string: Supprimer l'équipier.
   395:
-  - string: Disband party.
+  - string: Dissoudre l'équipe.
   396:
-  - string: Dissolve current alliance with other party.
+  - string: Dissoudre l'alliance avec l'autre équipe.
   397:
-  - string: Prefer Japanese-speaking parties.
+  - string: Annoncer que l'on peut communiquer en japonais au sein de l'équipe.
   398:
-  - string: Prefer English-speaking parties.
+  - string: Annoncer que l'on peut communiquer en anglais au sein de l'équipe.
   399:
-  - string: Prefer French-speaking parties.
+  - string: Annoncer que l'on peut communiquer en allemands au sein de l'équipe.
   400:
-  - string: Turn off party flag.
+  - string: Désactiver la recherche d'équipe.
   401:
-  - string: Check treasure distribution setting.
+  - string: Vérifier le paramètre de répartition des trésors.
   402:
-  - string: Form an alliance with another party.
+  - string: Former une alliance avec une autre équipe.
   403:
-  - string: Temporarily pool all treasure and have members cast lots over ownership of each item.
+  - string: Créer une cagnotte et répartir le butin par tirage au sort des équipiers.
   404:
-  - string: Select a representative to collect all treasure and to decide on ownership of each item.
+  - string: Sélectionner un représentant chargé de récupérer les trésors et de les répartir entre les équipiers.
   405:
-  - string: Accept invitation.
+  - string: Accepter l'invitation.
   406:
-  - string: Decline invitation.
+  - string: Refuser l’invitation.
   407:
-  - string: Accept revival.
+  - string: Accepter d'être ranimé(e).
   408:
-  - string: Decline revival.
+  - string: Refuser d'être ranimé(e).
   409:
-  - string: Place a piece of furniture in your Mog House.
+  - string: Placer un meuble dans votre Maison Mog.
   410:
-  - string: Clear away all furnishings from this floor of your Mog House.
+  - string: Retirer tous les meubles de votre Maison Mog.
   411:
-  - string: Quit rearranging the furniture.
+  - string: Arrêter de redisposer les meubles.
   412:
-  - string: Move furniture.
+  - string: Déplacez les meubles.
   413:
-  - string: Clear away furniture.
+  - string: Ranger les meubles.
   414:
-  - string: Clear away all furnishings from this floor of your Mog House.
+  - string: Débarrassez-vous de tous les meubles de cet étage de votre Maison Mog.
   415:
-  - string: Clear away all furnishings on this floor.
+  - string: Débarrassez-vous de tous les meubles à cet étage.
   416:
-  - string: Check your delivery box.
+  - string: Consulter votre boîte de livraison.
   417:
-  - string: Read your mail.
+  - string: Lisez votre courrier.
   418:
-  - string: Enter the minimum level to search.
+  - string: Entrez le niveau minimum à rechercher.
   419:
-  - string: Enter the maximum level to search.
+  - string: Entrez le niveau maximum à rechercher.
   420:
-  - string: Begin search.
+  - string: Commencez la recherche.
   421:
-  - string: Cancel search.
+  - string: Annuler la recherche.
   422:
-  - string: Enter handle to search.
+  - string: Entrez le handle pour rechercher.
   423:
-  - string: Enter handle ID to search.
+  - string: EEntrez l'ID du handle pour effectuer la recherche.
   424:
-  - string: Enter PlayOnline e-mail address to search.
+  - string: Entrez l'adresse e-mail PlayOnline pour effectuer la recherche.
   425:
-  - string: Enter name to search.
+  - string: Entrez le nom à rechercher.
   426:
-  - string: Chat in "tell" mode.
+  - string: Discutez en mode "tell".
   427:
-  - string: Send a PlayOnline message.
+  - string: Envoyez un message PlayOnline.
   428:
-  - string: 'Invite to join your party. '
+  - string: 'Invitez à rejoindre votre groupe. '
   429:
-  - string: Refine search by area.
+  - string: Recherche avancée par zone.
   430:
-  - string: Refine search by character name.
+  - string: Recherche avancée par nom de personnage.
   431:
-  - string: Refine search by job.
+  - string: Recherche avancée par job.
   432:
-  - string: Refine search by allegiance.
+  - string: Recherche avancée par allégeance.
   433:
-  - string: Refine search by race.
+  - string: Recherche avancée par espèce.
   434:
-  - string: Refine search by level.
+  - string: Recherche avancée par niveau.
   435:
-  - string: Refine search by mission rank.
+  - string: Recherche avancée par rang de mission.
   436:
-  - string: Refine search by Friend List.
+  - string: Recherche avancée par liste d'amis.
   437:
-  - string: Refine search by current linkshell group.
+  - string: Recherche avancée par linkshell.
   438:
-  - string: Refine search by search comment.
+  - string: Recherche avancée par commentaire de recherche.
   439:
-  - string: Search for samurai.
+  - string: Recherchez des samouraïs.
   440:
-  - string: Search for ninja.
+  - string: Recherchez des ninjas.
   441:
-  - string: Search for dragoons.
+  - string: Recherchez des dragons.
   442:
-  - string: Search for summoners.
+  - string: Recherchez des invocateurs.
   443:
-  - string: Search for people with mission rank one.
+  - string: Recherchez des personnes ayant le rang de mission un.
   444:
-  - string: Search for people with mission rank two.
+  - string: Recherchez des personnes ayant le rang de mission deux.
   445:
-  - string: Search for people with mission rank three.
+  - string: Recherchez des personnes de rang de mission trois.
   446:
-  - string: Search for people with mission rank four.
+  - string: Recherchez des personnes ayant le rang de mission quatre.
   447:
-  - string: Search for people with mission rank five.
+  - string: Recherchez des personnes ayant le rang de mission cinq.
   448:
-  - string: Search for people with mission rank six.
+  - string: Recherchez des personnes de rang de mission six.
   449:
-  - string: Search for people with mission rank seven.
+  - string: Recherchez des personnes ayant le rang de mission sept.
   450:
-  - string: Search for people with mission rank eight.
+  - string: Recherchez des personnes ayant le rang de mission huit.
   451:
-  - string: Search for people with mission rank nine.
+  - string: Recherchez des personnes ayant le rang de mission neuf.
   452:
-  - string: Search for people with mission rank ten.
+  - string: Recherchez des personnes ayant le rang de mission dix.
   453:
-  - string: Search for people by area.
+  - string: Recherchez des personnes par zone.
   454:
-  - string: Search for people by name.
+  - string: Rechercher des personnes par nom.
   455:
-  - string: Search for people by job.
+  - string: Rechercher des personnes par job.
   456:
-  - string: Search for people by allegiance.
+  - string: Recherchez des personnes par allégeance.
   457:
-  - string: Search for people by race.
+  - string: Recherchez des personnes par espèce.
   458:
-  - string: Search for people by level.
+  - string: Recherchez des personnes par niveau.
   459:
-  - string: Search for people by mission rank.
+  - string: Recherchez des personnes par rang de mission.
   460:
-  - string: Search for people on your Friend List.
+  - string: Recherchez des personnes sur votre liste d'amis.
   461:
-  - string: Search for people in your current linkshell group.
+  - string: Recherchez des personnes dans votre groupe Linkshell actuel.
   462:
-  - string: Search for people by comment.
+  - string: Recherchez des personnes par commentaire.
   463:
-  - string: Edit your search comment.
+  - string: Modifiez votre commentaire de recherche.
   464:
-  - string: Purchase this merchandise?
+  - string: Acheter cette marchandise ?
   465:
-  - string: Cancel purchase.
+  - string: Annuler l'achat.
   466:
-  - string: Sell this merchandise?
+  - string: Vendre cette marchandise ?
   467:
-  - string: Cancel sale.
+  - string: Annuler la vente.
   468:
-  - string: View list of current missions.
+  - string: Afficher la liste des missions en cours.
   469:
-  - string: View list of current quests.
+  - string: Afficher la liste des quêtes en cours.
   470:
-  - string: View list of key items. Key items cannot be traded or dropped.
+  - string: Afficher la liste des éléments clés. Les objets clés ne peuvent pas être échangés ou abandonnés.
   471:
-  - string: View contents of Mog House, Mog Case, and other such storage.
+  - string: Affichez le contenu de la Maison Mog, de Mog Case et d'autres stockages similaires.
   472:
-  - string: Select merchandise from your inventory to place on sale in your bazaar.
+  - string: Sélectionnez des marchandises dans votre inventaire à mettre en vente dans votre bazar.
   473:
-  - string: Edit equipment sets and the user-defined macros in your macro palettes.
+  - string: Modifiez les ensembles d'équipements et les macros définies par l'utilisateur dans vos palettes de macros.
   474:
-  - string: Change the game's options.
+  - string: Modifiez les options du jeu.
   475:
-  - string: Search for solutions to past problems or report new instances of trouble.
+  - string: Recherchez des solutions aux problèmes passés ou signalez de nouveaux cas de problèmes.
   476:
-  - string: Display total time spent in Vana'diel.
+  - string: Afficher le temps total passé à Vana'diel.
   477:
-  - string: Display current time in Vana'diel and on Earth. Also toggles the on-screen clock and weekday display.
+  - string: Affiche l'heure actuelle à Vana'diel et sur Terre. Bascule également l'horloge à l'écran et l'affichage du jour de la semaine.
   478:
-  - string: Quit FINAL FANTASY XI and return to title screen.
+  - string: Quitter FINAL FANTASY XI et retourner à l'écran de titre principal.
   479:
-  - string: Log out from FINAL FANTASY XI and PlayOnline.
+  - string: Quitter FINAL FANTASY XI et PlayOnline.
   480:
-  - string: View your profile including current allegiance and title.
+  - string: Afficher votre profil avec votre allégeance et votre titre.
   481:
-  - string: View all job levels achieved so far.
+  - string: Afficher tous les niveaux de jobs atteints.
   482:
-  - string: View current combat skills.
+  - string: Afficher les compétences combat.
   483:
-  - string: View current magic skills.
+  - string: Afficher compétences magie.
   484:
-  - string: View current craft skills.
+  - string: Afficher les compétences artisanat.
   485:
-  - string: Enter recipient's name.
+  - string: Entrer le nom du destinataire.
   486:
-  - string: Is recipient's name correct?
+  - string: Le nom du destinataire est-il correct ?
   487:
-  - string: Cancel.
+  - string: Annuler.
   488:
-  - string: Select a text category.
+  - string: Sélectionnez une catégorie de texte.
   489:
-  - string: Set RGB color values.
+  - string: Définissez les valeurs de couleur RVB.
   490:
-  - string: Change color to new RGB values.
+  - string: Changez la couleur avec de nouvelles valeurs RVB.
   491:
-  - string: Cancel color adjustment.
+  - string: Annulez le réglage des couleurs.
   492:
-  - string: Select the items you wish to synthesize.
+  - string: Sélectionner les objets à synthétiser.
   493:
-  - string: Synthesize this combination of items.
+  - string: Synthétiser cette combinaison d'objets.
   494:
-  - string: Cancel synthesis.
+  - string: Annuler la synthèse.
   495:
-  - string: Return to list of merchandise on auction.
+  - string: Revenir à la liste des marchandises mises en vente.
   496:
-  - string: Sort by highest damage rating.
+  - string: Classer par niveau de dégâts le plus élevé.
   497:
-  - string: Sort by shortest delay.
+  - string: Classer par délai le plus court.
   498:
-  - string: Sort by highest required level.
+  - string: Classer par niveau le plus élevé requis.
   499:
-  - string: Narrow down list to weapons usable by current job.
+  - string: Limiter la liste aux armes utilisables par le job actuel.
   500:
-  - string: Narrow down list to weapons usable by your race.
+  - string: Limiter la liste aux armes utilisables par votre espèce.
   501:
-  - string: View bonuses and other traits of current jobs.
+  - string: Afficher les bonus et autres caractéristiques des jobs actuels.
   502:
-  - string: Activate special abilities of current jobs.
+  - string: Activer les aptitudes spéciales des jobs actuels.
   503:
-  - string: Use TP to perform special attacks associated with equipped weapon type.
+  - string: Utiliser TP pour lancer des attaques spéciales associées au type d'arme équipée.
   504:
-  - string: Attack current target with ranged weapon.
+  - string: Attaquer la cible avec l'arme de jet.
   505:
-  - string: Issue command to pet monster.
+  - string: Donner un ordre à votre familier.
   506:
-  - string: Activate special abilities of current jobs.
+  - string: Activer les aptitudes spéciales des jobs actuels.
   507:
-  - string: Use TP to perform special attacks associated with equipped weapon type.
+  - string: Utiliser TP pour lancer des attaques spéciales associées au type d'arme équipée.
   508:
-  - string: Manually rearrange abilities.
+  - string: Reclasser les aptitudes manuellement.
   509:
-  - string: Sort by highest defense rating.
+  - string: Classer par niveau de défense le plus élevé.
   510:
-  - string: Sort by elemental resistance.
+  - string: Classer par résistance aux éléments.
   511:
-  - string: Narrow down list to armor usable by current job.
+  - string: Limiter la liste aux armures utilisables par le job actuel.
   512:
-  - string: Narrow down list to armor usable by your race.
+  - string: Limiter la liste aux armures utilisables par votre espèce.
   513:
-  - string: Change auto-attack target.
+  - string: Changer la cible de l'attaque automatique.
   514:
-  - string: Estimate opponent's relative strength.
+  - string: Evaluer la puissance relative de l'adversaire.
   515:
-  - string: View all merchandise up for auction.
+  - string: Afficher toutes les marchandises mises en vente.
   516:
-  - string: Place unwanted items on auction.
+  - string: Mettre les objets inutiles en vente.
   517:
-  - string: Check your items currently placed on auction.
+  - string: Consulter vos objets actuellement en vente.
   518:
-  - string: View weapons on auction.
+  - string: Afficher les armes en vente.
   519:
-  - string: View armor on auction.
+  - string: Afficher les armures en vente.
   520:
-  - string: View magic scrolls on auction.
+  - string: Afficher les formules magiques en vente
   521:
-  - string: View medicines on auction.
+  - string: Afficher les remèdes en vente.
   522:
-  - string: View furnishings on auction.
+  - string: Afficher les meubles en vente.
   523:
-  - string: View synthesis materials on auction.
+  - string: Afficher les matériaux de synthèse en vente.
   524:
-  - string: View food on auction.
+  - string: Afficher la nourriture en vente.
   525:
-  - string: View crystals on auction.
+  - string: Afficher les cristaux en vente.
   526:
-  - string: View other miscellaneous items on auction.
+  - string: Afficher les autres objets divers en vente.
   527:
-  - string: View recent sales data for this merchandise.
+  - string: Afficher les dernières données des ventes de cette marchandise.
   528:
-  - string: Place a bid on this merchandise.
+  - string: Faire une offre pour cette marchandise.
   529:
-  - string: Rearrange the order of listed items.
+  - string: Reclasser les objets répertoriés.
   530:
-  - string: Remove merchandise from auction.
+  - string: Retirer la marchandise des ventes.
   531:
-  - string: View ammunition on auction.
+  - string: Afficher les munitions mises en vente.
   532:
-  - string: View fishing gear on auction.
+  - string: Afficher le matériel de pêche mis en vente.
   533:
-  - string: View pet items on auction.
+  - string: Afficher les objets d'animaux mis en vente.
   534:
-  - string: Shields, etc.
+  - string: Boucliers, etc.
   535:
-  - string: Helms, hats, and other headwear.
+  - string: Casques, chapeaux et autres articles pour la tête.
   536:
-  - string: Necklaces, collars, and other neckwear.
+  - string: Colliers, cols et autres articles pour le cou.
   537:
-  - string: Robes, suits of mail, and other body armor.
+  - string: Robes, cottes de mailles et autres armures.
   538:
-  - string: Gauntlets, gloves, and other wear for the hands and forearms.
+  - string: Gantelets, gants et autres articles pour les mains et avant-bras.
   539:
-  - string: Belts, obi, etc.
+  - string: Ceintures, obis, etc.
   540:
-  - string: Trousers, subligars, and other legwear.
+  - string: Pantalons, subligars et autres articles pour les jambes.
   541:
-  - string: Greaves, boots, and other footwear.
+  - string: Jambards, bottes et autres chaussures.
   542:
-  - string: Capes, mantles, etc.
+  - string: Capes, pèlerines, etc.
   543:
-  - string: Earrings, etc.
+  - string: Boucles d'oreille, etc.
   544:
-  - string: Rings, etc.
+  - string: Bagues, etc
   545:
-  - string: View meals on auction.
+  - string: Afficher les repas mis en vente.
   546:
-  - string: View ingredients on auction.
+  - string: Afficher les ingrédients mis en vente.
   547:
-  - string: View fish on auction.
+  - string: Afficher les poissons mis en vente.
   548:
-  - string: Sales data for the last ten transactions of selected merchandise.
+  - string: Données des dix dernières ventes de la marchandise sélectionnée
   549:
-  - string: View miscellaneous items on auction.
+  - string: Afficher les autres objets mis en vente.
   550:
-  - string: View beastman-made items on auction.
+  - string: Afficher les objets d'hommes-bêtes mis en vente.
   551:
-  - string: View cards on auction.
+  - string: Afficher les cartes mises en vente.
   552:
-  - string: View ninja tools on auction.
+  - string: Afficher les outils ninjas mis en vente.
   553:
-  - string: View cursed items on auction.
+  - string: Afficher les objets envoûtés mis en vente.
   554:
-  - string: Select an item to bid on.
+  - string: Sélectionner un objet à acheter.
   555:
-  - string: Display white magic scrolls.
+  - string: Afficher les formules de magie blanche.
   556:
-  - string: Display black magic scrolls.
+  - string: Afficher les formules de magie noire.
   557:
-  - string: Display sheet music for bard songs.
+  - string: Afficher les partitions de chants de bardes.
   558:
-  - string: Display ninjutsu scrolls.
+  - string: Afficher les formules de ninjutsu.
   559:
-  - string: Display summoning pacts.
+  - string: Afficher les pactes d'invocation.
   560:
-  - string: View smithing materials on auction.
+  - string: Afficher les matériaux de métallurgie mis en vente.
   561:
-  - string: View goldsmithing materials on auction.
+  - string: Afficher les matériaux d'orfèvrerie mis en vente.
   562:
-  - string: View clothcraft materials on auction.
+  - string: Afficher les matériaux de confection mis en vente.
   563:
-  - string: View leatherworking materials on auction.
+  - string: Afficher les matériaux de tannerie mis en vente.
   564:
-  - string: View bonecraft materials on auction.
+  - string: Afficher les matériaux d'osserie mis en vente.
   565:
-  - string: View woodworking materials on auction.
+  - string: Afficher les matériaux de menuiserie mis en vente.
   566:
-  - string: View alchemy materials on auction.
+  - string: Afficher les matériaux d'alchimie mis en vente.
   567:
-  - string: View meat and egg dishes on auction.
+  - string: Afficher les plats de viande et d'œufs mis en vente.
   568:
-  - string: View seafood dishes on auction.
+  - string: Afficher les plats de fruits de mer mis en vente.
   569:
-  - string: View vegetable dishes on auction.
+  - string: Afficher les plats de légumes mis en vente.
   570:
-  - string: View soups on auction.
+  - string: Afficher les soupes mises en vente.
   571:
-  - string: View bread and rice dishes on auction.
+  - string: Afficher les pains et plats de riz mis en vente.
   572:
-  - string: View sweets on auction.
+  - string: Afficher les sucreries mises en vente.
   573:
-  - string: View drinks on auction.
+  - string: Afficher les boissons mises en vente.
   574:
-  - string: Knuckles, claws, and other hand-to-hand weapons.
+  - string: Poings américains, griffes et autres armes de corps à corps.
   575:
-  - string: Daggers, knives, etc.
+  - string: Dagues, couteaux, etc.
   576:
-  - string: One-handed swords.
+  - string: Épées à une main.
   577:
-  - string: Two-handed swords.
+  - string: Épées à deux mains.
   578:
-  - string: One-handed axes.
+  - string: Haches à une main.
   579:
-  - string: Two-handed axes.
+  - string: Haches à deux mains.
   580:
-  - string: Two-handed scythes.
+  - string: Faux à deux mains.
   581:
-  - string: Two-handed polearms.
+  - string: Armes d'hast.
   582:
-  - string: One-handed katana.
+  - string: Katanas à une main.
   583:
-  - string: Two-handed katana.
+  - string: Katanas à deux mains.
   584:
-  - string: One-handed clubs, maces, etc.
+  - string: Massues, gourdins à une main, etc.
   585:
-  - string: Two-handed staves, poles, etc,
+  - string: Crosses, bâtons à deux mains, etc.
   586:
-  - string: Bows, guns, and other ranged weapons.
+  - string: Arcs, fusils et autres armes de jet.
   587:
-  - string: Musical instruments.
+  - string: Instruments de musique.
   588:
-  - string: Arrows, bullets, throwing weapons, tackle, etc.
+  - string: Flèches, balles, armes de jet, tacles, etc.
   589:
-  - string: Reorder list of abilities.
+  - string: Reclasser la liste des aptitudes.
   590:
-  - string: Select merchandise to put on sale and set its unit price.
+  - string: Sélectionner les marchandises à mettre en vente et fixer leurs prix unitaires.
   591:
-  - string: Edit the message in your comment box.
+  - string: Modifier le message dans votre zone de commentaires.
   592:
-  - string: Remove registered person from blacklist.
+  - string: Supprimer la personne enregistrée de la liste noire.
   593:
-  - string: Delete from blacklist.
+  - string: Supprimer de la liste noire.
   594:
-  - string: Set the types of text to be filtered from the log window.
+  - string: Définir les types de textes à filtrer dans la fenêtre journal.
   595:
-  - string: Set your default chat mode.
+  - string: Définir votre mode de chat par défaut.
   596:
-  - string: Search the area at your feet for a Petra.
+  - string: Rechercher une Petra à vos pieds.
   597:
-  - string: Obtain information on the location of the nearest Rook.
+  - string: Obtenir des informations sur l'emplacement de la tour la plus proche.
   598:
-  - string: Temporarily increases movement speed.
+  - string: Accélère momentanément les déplacements.
   599:
-  - string: Remove onscreen battle effects to improve frame rate.
+  - string: Supprimer les effets visuels du combat à l'écran pour améliorer la fréquence de rafraîchissement de l'image.
   600:
-  - string: Return to camp?
+  - string: Retour au camp ?
   601:
-  - string: Mentors have no affiliation with SQUARE ENIX. As such, we ask that you interact with them at your own discretion.
+  - string: Les mentors n’ont aucune affiliation avec SQUARE ENIX. C’est pourquoi nous vous demandons d’interagir avec eux à votre propre discrétion.
   602:
-  - string: Search for people who have entered, or are currently participating in Ballista.
+  - string: Recherchez les personnes qui ont participé ou participent actuellement à Ballista.
   603:
-  - string: Refine search to people who have entered, or are currently participating in Ballista.
+  - string: Affinez la recherche aux personnes qui ont participé ou participent actuellement à Ballista.
   604:
-  - string: Change the equipment on your mannequin.
+  - string: Changez l'équipement de votre mannequin.
   605:
-  - string: 'Remove all equipment from your mannequin. '
+  - string: 'Retirez tout l''équipement de votre mannequin. '
   606:
-  - string: Specialize your character by trading merit points for various skill and attribute adjustments.
+  - string: Spécialisez votre personnage en échangeant des points de mérite contre divers ajustements de compétences et d'attributs.
   607:
-  - string: Displays the list of adjustable categories.
+  - string: Affiche la liste des catégories réglables.
   608:
-  - string: Switch between experience point and merit point accumulation.
+  - string: Basculez entre l’accumulation de points d’expérience et de points de mérite.
   609:
-  - string: Select the category you would like to adjust.
+  - string: Sélectionnez la catégorie que vous souhaitez ajuster.
   610:
-  - string: Defeating enemies will earn you experience points.
+  - string: En éliminant des ennemis, vous gagnerez des points d'expérience.
   611:
-  - string: Defeating enemies will earn you limit points which are exchanged for merit points.
+  - string: En éliminant des ennemis, vous gagnerez des points de limite échangeables contre des points de mérite.
   612:
-  - string: Use merit points to raise various skills and attributes.
+  - string: Utilisez des points de mérite pour améliorer diverses compétences et attributs.
   613:
-  - string: Lower previously raised skills and attributes. Merit points will not be reimbursed
+  - string: Réduire les compétences et les attributs précédemment élevés. Les points de mérite ne seront pas remboursés
   614:
-  - string: Shut down?
+  - string: Fermer?
   615:
-  - string: Clear away all furniture?
+  - string: Vider tous les meubles ?
   616:
-  - string: Looking to buy, sell, or trade items.
+  - string: Vous cherchez à acheter, vendre ou échanger des objets.
   617:
-  - string: Comments concerning item synthesis.
+  - string: Commentaires concernant la synthèse des items.
   618:
-  - string: Miscellaneous comments.
+  - string: Commentaires divers.
   619:
-  - string: Looking for party.
+  - string: Rechercher une équipe.
   620:
-  - string: Looking for party members.
+  - string: Rechercher des équipiers.
   621:
-  - string: Want to sell items.
+  - string: Chercher à vendre des objets.
   622:
-  - string: Want to buy items.
+  - string: Chercher à acheter des objets.
   623:
-  - string: Looking to join a linkshell.
+  - string: Vous cherchez à rejoindre un linkshell.
   624:
-  - string: Recruiting linkshell members.
+  - string: Recrutement de membres Linkshell.
   625:
-  - string: Miscellaneous comments.
+  - string: Commentaires divers.
   626:
-  - string: Talk to fellow.
+  - string: Parler à votre compagnon.
   627:
-  - string: Disband with fellow.
+  - string: Renvoyer votre compagnon.
   628:
-  - string: Turn on the controller vibration function.
+  - string: Activez la fonction de vibration du contrôleur.
   629:
-  - string: Adjust the camera settings.
+  - string: Ajustez les paramètres de la caméra.
   630:
-  - string: Turn off the controller vibration function.
+  - string: Désactivez la fonction de vibration du contrôleur.
   631:
-  - string: Shut down?
+  - string: Fermer?
   632:
-  - string: Cancel shut down process?
+  - string: Annuler le processus d'arrêt ?
   633:
-  - string: Leave more items in the care of your moogle.
+  - string: Laissez plus d’objets sous la garde de votre Moogle.
   634:
-  - string: Search for blue mages.
+  - string: Recherchez des mages bleus.
   635:
-  - string: Search for corsairs.
+  - string: Recherchez des corsaires.
   636:
-  - string: Search for puppetmasters.
+  - string: Recherchez des marionnettistes.
   637:
-  - string: View list of blue magic. Exceeding certain values (8/16/24) allows the bestowal of Job Trait effects.
+  - string: Voir la liste de la magie bleue. Le dépassement de certaines valeurs (16/08/24) permet l'octroi d'effets de trait de travail.
   638:
-  - string: Move item from Mog Locker to your inventory.
+  - string: Transférer l'objet de votre Casier Mog dans votre inventaire.
   639:
-  - string: Display corsair dice.
+  - string: Afficher les dés de corsaire.
   640:
-  - string: View content of Mog Safe. Items can only be removed or stored when inside your Mog House or Rent-a-Room.
+  - string: Afficher le contenu de votre Coffre Mog. Vous devez être dans votre Maison Mog ou dans une chambre à louer pour pouvoir y retirer ou entreposer des objets.
   641:
-  - string: View content of Storage. Items can only be removed or stored when inside your Mog House.
+  - string: Afficher le contenu du stockage. Les objets ne peuvent être retirés ou stockés qu'à l'intérieur de votre maison Mog.
   642:
-  - string: View content of Mog Locker. Items can only be removed or stored when inside your Mog House.
+  - string: Afficher le contenu de votre Casier Mog. Vous devez être dans votre Maison Mog ou dans une chambre à louer pour pouvoir y retirer ou entreposer des objets.
   643:
-  - string: Set blue magic spells.
+  - string: Fixer les sorts de magie bleue pour pouvoir les utiliser
   644:
-  - string: Equip weapons and armor.
+  - string: Equiper armes et armures.
   645:
-  - string: Customize automaton.
+  - string: Personnaliser votre automate.
   646:
-  - string: Select a head.
+  - string: Sélectionnez une tête.
   647:
-  - string: Select a frame.
+  - string: Sélectionnez un cadre.
   648:
-  - string: Select an attachment.
+  - string: Sélectionnez une pièce jointe.
   649:
-  - string: Narrow down list of attachments by elemental type.
+  - string: Affinez la liste des pièces jointes par type d’élément.
   650:
-  - string: Narrow down list of blue magic spells by monster family.
+  - string: Affinez la liste des sorts de magie bleue par famille de monstres.
   651:
-  - string: Set blue magic spells. The set numbers are assigned colors for level restriction reference. (Lv.20/30/40/50/60/70/80/90)
+  - string: Définissez des sorts de magie bleue. Les numéros définis se voient attribuer des couleurs pour référence de restriction de niveau. (Niv.20/30/40/50/60/70/80/90)
   652:
-  - string: View automaton parts on auction.
+  - string: Voir les pièces d'automates aux enchères.
   653:
-  - string: Prefer German-speaking parties.
+  - string: Préférez les parties germanophones.
   654:
-  - string: Able to speak languages other than those listed above.
+  - string: Capable de parler des langues autres que celles énumérées ci-dessus.
   655:
-  - string: View weapon grips on auction.
+  - string: Afficher les poignées d'arme mises en vente.
   656:
-  - string: View content of Mog Locker. Items can only be removed or stored when in registered areas.
+  - string: Afficher le contenu de votre Casier Mog. Vous pouvez y ranger ou en retirer des objets si vous avez étendu son périmètre d'utilisation.
   657:
-  - string: Search for dancers.
+  - string: Recherchez des danseurs.
   658:
-  - string: Search for scholars.
+  - string: Rechercher des érudits.
   659:
-  - string: Copy macro button content into temporary memory.
+  - string: Copiez le contenu du bouton macro dans la mémoire temporaire.
   660:
-  - string: Copy current command line into temporary memory.
+  - string: Copiez la ligne de commande actuelle dans la mémoire temporaire.
   661:
-  - string: Edit macro book.
+  - string: Modifier le livre de macros.
   662:
-  - string: Edit name of macro book.
+  - string: Modifier le nom du livre de macros.
   663:
-  - string: Copy macro book.
+  - string: Copiez un livre de macros.
   664:
-  - string: Paste macro book.
+  - string: Coller le livre de macros.
   665:
-  - string: Delete macro book.
+  - string: Supprimer le livre de macros.
   666:
-  - string: Open your Mog House to party and alliance members.
+  - string: Accepter les équipiers et les membres d'une alliance dans votre Maison Mog.
   667:
-  - string: Close your Mog House to visitors.
+  - string: Fermez votre maison Mog aux visiteurs.
   668:
-  - string: Copy macro set.
+  - string: Copier l'ensemble de macros.
   669:
-  - string: Paste macro set.
+  - string: Coller l'ensemble de macros.
   670:
-  - string: Delete macro set.
+  - string: Supprimer l'ensemble de macros.
   671:
-  - string: Automatically sort items as they enter your inventory.
+  - string: Triez automatiquement les articles dès qu'ils entrent dans votre inventaire.
   672:
-  - string: Disable the autosort function, and opt to manually sort your inventory.
+  - string: Désactivez la fonction de tri automatique et choisissez de trier manuellement votre inventaire.
   673:
-  - string: Synchronize the levels of all characters in a party to match that of a designated party member.
+  - string: Synchronisez les niveaux de tous les personnages d'un groupe pour qu'ils correspondent à ceux d'un membre désigné du groupe.
   674:
-  - string: Please select the player to whom you would like to synchronize your level.
+  - string: Veuillez sélectionner le joueur avec lequel vous souhaitez synchroniser votre niveau.
   675:
-  - string: Remove your level synchronization.
+  - string: Supprimez votre synchronisation de niveau.
   676:
-  - string: Narrow down list of Maze Runes by type.
+  - string: Affinez la liste des runes de labyrinthe par type.
   677:
-  - string: Please select a Maze Voucher.
+  - string: Veuillez sélectionner un bon labyrinthe.
   678:
-  - string: Please select a Maze Rune.
+  - string: Veuillez sélectionner une rune de labyrinthe.
   679:
-  - string: This Maze Rune cannot be used with the current Maze Voucher.
+  - string: Cette rune de labyrinthe ne peut pas être utilisée avec le bon de labyrinthe actuel.
   680:
-  - string: Remove or store items in your Mog Satchel.
+  - string: Retirez ou stockez des objets dans votre sacoche Mog.
   681:
-  - string: Looking for friends.
+  - string: Cherchez des amis.
   682:
-  - string: Remove or store items in your Mog Sack.
+  - string: Supprimez ou stockez des objets dans votre sac Mog.
   683:
-  - string: Set maximum number of lines.
+  - string: Définissez le nombre maximum de lignes.
   684:
-  - string: Set minimum number of lines.
+  - string: Définissez le nombre minimum de lignes.
   685:
-  - string: Adjust column width.
+  - string: Ajustez la largeur de la colonne.
   686:
-  - string: New input method supporting scroll wheel and keyboard/mouse combination controls.
+  - string: Nouvelle méthode de saisie prenant en charge les commandes de la molette de défilement et de la combinaison clavier/souris.
   687:
-  - string: Adjust the size of the macro palette.
+  - string: Ajustez la taille de la palette de macros.
   688:
-  - string: Shift macro palette to the right during combat.
+  - string: Déplacez la palette de macros vers la droite pendant le combat.
   689:
-  - string: Lock macro palette to the right at all times.
+  - string: Verrouillez la palette de macros à droite à tout moment.
   690:
-  - string: View maps of other areas.
+  - string: Consultez les cartes d'autres zones.
   691:
-  - string: Search for geomancers.
+  - string: Recherchez des géomanciens.
   692:
-  - string: Search for rune fencers.
+  - string: Rechercher des épéistes runiques.
   693:
-  - string: Display monster skills and abilities.
+  - string: Affichez les compétences et les capacités des monstres.
   694:
-  - string: End this bout of Monstrosity?
+  - string: Quitter Monstromorphose ?
   695:
-  - string: Retry in the same area?
+  - string: Retenter dans la même zone ?
   696:
-  - string: Set icon pattern to type one.
+  - string: Définissez le modèle d’icône pour en saisir un.
   697:
-  - string: Set icon pattern to type two. (Default)
+  - string: Définissez le modèle d’icône pour en saisir deux. (Défaut)
   698:
-  - string: View list of geomancy.
+  - string: Voir la liste de géomancie.
   699:
-  - string: Display geomancer luopans.
+  - string: Afficher les luopans du géomancien.
   700:
-  - string: Customize monster.
+  - string: Personnalisez le monstre.
   701:
-  - string: Choose the species of monster you will possess.
+  - string: Choisissez l'espèce de monstre que vous posséderez.
   702:
-  - string: Select faculties.
+  - string: Sélectionnez les facultés.
   703:
-  - string: Select a monster name.
+  - string: Sélectionnez un nom de monstre.
   704:
-  - string: View all attributes achieved so far for this monster.
+  - string: Voir tous les attributs obtenus jusqu'à présent pour ce monstre.
   705:
-  - string: Use TP to activate Monster Skills.
+  - string: Utilisez TP pour activer les compétences de monstre.
   706:
-  - string: Activate special abilities of current monster.
+  - string: Activez les capacités spéciales du monstre actuel.
   707:
-  - string: Narrow down list of monsters by family.
+  - string: Affinez la liste des monstres par famille.
   708:
-  - string: Search for people who have entered, or are currently participating in Monstrosity.
+  - string: Recherchez les personnes qui sont entrées ou participent actuellement à Monstrosity.
   709:
-  - string: Please note that your experience points will be reset upon performing this action. Proceed?
+  - string: Veuillez noter que vos points d'expérience seront réinitialisés lors de l'exécution de cette action. Procéder?
   710:
-  - string: Display opening/closing visual effects for windows.
+  - string: Afficher les effets visuels d’ouverture/fermeture des fenêtres.
   711:
-  - string: Do not display opening/closing visual effects for windows.
+  - string: N'affichez pas les effets visuels d'ouverture/fermeture des fenêtres.
   712:
-  - string: Display PC armor graphics normally.
+  - string: Affichez normalement les graphiques de l'armure du PC.
   713:
-  - string: Display armor graphics of PCs other than yourself statically to enhance computing performance.
+  - string: Affichez statiquement les graphiques de blindage des PC autres que vous pour améliorer les performances informatiques.
   714:
-  - string: Remove or store items in your Mog Case.
+  - string: Supprimez ou stockez des éléments dans votre étui Mog.
   715:
-  - string: Receive items.
+  - string: Recevez des articles.
   716:
-  - string: Send items.
+  - string: Envoyez des articles.
   717:
-  - string: Search for monipulators ready to be engaged in belligerency.
+  - string: Recherche de monipulateurs prêts à s'engager dans la belligérance.
   718:
-  - string: Display a list of Trust magic.
+  - string: Affichez une liste de magie de confiance.
   719:
-  - string: Release an alter ego under your service.
+  - string: Libérez un alter ego à votre service.
   720:
-  - string: Displays the currencies earned from various pieces of content.
+  - string: Afficher les différents points obtenus dans toutes sortes de contenus.
   721:
-  - string: Currencies
+  - string: Liste de points
   722:
-  - string: Currency earned from participating in Conquest as a citizen of the Kingdom of San d'Oria.
+  - string: Nombre de points obtenus en participant aux conquêtes en tant que citoyen du Royaume de San d'Oria.
   723:
-  - string: Currency earned from participating in Conquest as a citizen of the Republic of Bastok.
+  - string: Nombre de points obtenus en participant aux conquêtes en tant que citoyen de la République de Bastok.
   724:
-  - string: Currency earned from participating in Conquest as a citizen of the Federation of Windurst.
+  - string: Nombre de points obtenus en participant aux conquêtes en tant que citoyen de la Fédération de Windurst.
   725:
-  - string: The number of Beastmen's Seals stored with Shami in Port Jeuno.
+  - string: Nombre de sceaux d'hommes-bêtes remis à Shami au Port de Jeuno.
   726:
-  - string: The number of Kindred's Seals stored with Shami in Port Jeuno.
+  - string: Nombre de sceaux de la Confrérie remis à Shami au Port de Jeuno.
   727:
-  - string: The number of Kindred's Crests stored with Shami in Port Jeuno.
+  - string: Nombre de sceaux de démons remis à Shami au Port de Jeuno.
   728:
-  - string: The number of High Kindred's Crests stored with Shami in Port Jeuno.
+  - string: Nombre de sceaux du Seigneur des ombres remis à Shami au Port de Jeuno.
   729:
-  - string: The number of Sacred Kindred's Crests stored with Shami in Port Jeuno.
+  - string: Nombre de sceaux du Chevalier des ombres remis à Shami au Port de Jeuno.
   730:
-  - string: The amount of Ancient Beastcoins stored with Sagheera in Port Jeuno.
+  - string: Nombre d'anciens deniers remis à Sagheera au Port de Jeuno.
   731:
-  - string: Currency earned from participating in Fields of Valor and Grounds of Valor. Redeemable at all "Field Manuals" or "Grounds Tomes."
+  - string: Nombre de points obtenus en participant au Sentier de la bravoure à l'aide des manuels de bataille "Field Manual" et "Grounds Tome.
   732:
-  - string: Currency earned from completing hunts. Redeemable at all "Hunt Registries."
+  - string: Nombre de points obtenus en remplissant les contrats de chasse trouvés dans les registres "Hunt Registry".
   733:
-  - string: 'Currency earned by fulfilling Fishermen''s Guild contracts. Applicable NPC: "Fennella."'
+  - string: Nombre de points obtenus en remplissant les contrats de la guilde des pêcheurs. PNJ concerné :Fennella.
   734:
-  - string: 'Currency earned by fulfilling Carpenters'' Guild contracts. Applicable NPC: "Andreas."'
+  - string: Nombre de points obtenus en remplissant les contrats de la guilde des menuisiers. PNJ concerné :Andreas.
   735:
-  - string: 'Currency earned by fulfilling Blacksmiths'' Guild contracts. Applicable NPC: "Macuillie."'
+  - string: Nombre de points obtenus en remplissant les contrats de la guilde des forgerons. PNJ concerné :Macuillie .
   736:
-  - string: 'Currency earned by fulfilling Goldsmiths'' Guild contracts. Applicable NPC: "Ellard."'
+  - string: Nombre de points obtenus en remplissant les contrats de la guilde des Orfèvres. PNJ concerné :Ellard.
   737:
-  - string: 'Currency earned by fulfilling Weavers'' Guild contracts. Applicable NPC: "Hauh Colphioh."'
+  - string: Nombre de points obtenus en remplissant les contrats de la guilde des tisserands. PNJ concerné :Hauh Colphioh.
   738:
-  - string: 'Currency earned by fulfilling Tanners'' Guild contracts. Applicable NPC: "Alivatand."'
+  - string: Nombre de points obtenus en remplissant les contrats de la guilde des Tanneurs. PNJ concerné :Alivatand.
   739:
-  - string: 'Currency earned by fulfilling Boneworkers'' Guild contracts. Applicable NPC: "Samigo-Pormigo."'
+  - string: Nombre de points obtenus en remplissant les contrats de la guilde des Boneworkers. PNJ concerné :Samigo-Pormigo.
   740:
-  - string: 'Currency earned by fulfilling Alchemists'' Guild contracts. Applicable NPC: "Hemewmew."'
+  - string: Nombre de points obtenus en remplissant les contrats de la guilde des Alchimistes. PNJ applicable :Hémewmew.
   741:
-  - string: 'Currency earned by fulfilling Culinarians'' Guild contracts. Applicable NPC: "Qhum Knaidjn."'
+  - string: Nombre de points obtenus en remplissant les contrats de la guilde des cuisiniers. PNJ concerné :Qhum Knaidjn.
   742:
-  - string: 'Ponzes of cinder yielded from successful synergy attempts. Applicable NPC: "Synergy Engineers."'
+  - string: Nombre de pincées de cendre résultant d'une opération de synergie. PNJ applicable :Ingénieurs en synergie.
   743:
-  - string: 'The amount of charged fire fewell for use in synergy. Applicable NPCs: "Synergy Engineers."'
+  - string: Nombre d'orbes chargés du pouvoir du feu et permettant d'améliorer la combustion. PNJ concernés :Ingénieurs en synergie.
   744:
-  - string: 'The amount of charged ice fewell for use in synergy. Applicable NPCs: "Synergy Engineers."'
+  - string: Nombre d'orbes chargés du pouvoir de la glace et permettant d'améliorer la combustion. PNJ concernés :Ingénieurs en synergie.
   745:
-  - string: 'The amount of charged wind fewell for use in synergy. Applicable NPCs: "Synergy Engineers."'
+  - string: Nombre d'orbes chargés du pouvoir du feu et permettant d'améliorer la combustion. PNJ concernés :Ingénieurs en synergie.
   746:
-  - string: 'The amount of charged earth fewell for use in synergy. Applicable NPCs: "Synergy Engineers."'
+  - string: Nombre d'orbes chargés du pouvoir de la terre et permettant d'améliorer la combustion. PNJ concernés :Ingénieurs en synergie.
   747:
-  - string: 'The amount of charged lightning fewell for use in synergy. Applicable NPCs: "Synergy Engineers."'
+  - string: Nombre d'orbes chargés du pouvoir de la foudre et permettant d'améliorer la combustion. PNJ concernés :Ingénieurs en synergie.
   748:
-  - string: 'The amount of charged water fewell for use in synergy. Applicable NPCs: "Synergy Engineers."'
+  - string: Nombre d'orbes chargés du pouvoir de l'eau et permettant d'améliorer la combustion. PNJ concernés :Ingénieurs en synergie.
   749:
-  - string: 'The amount of charged light fewell for use in synergy. Applicable NPCs: "Synergy Engineers."'
+  - string: Nombre d'orbes chargés du pouvoir de la lumière et permettant d'améliorer la combustion. PNJ concernés :Ingénieurs en synergie.
   750:
-  - string: 'The amount of charged dark fewell for use in synergy. Applicable NPCs: "Synergy Engineers."'
+  - string: Nombre d'orbes chargés du pouvoir des ténèbres et permettant d'améliorer la combustion. PNJ concernés :Ingénieurs en synergie.
   751:
-  - string: 'Currency earned from participating in Ballista. Applicable NPCs: "Tillecoe," "Marshal," "Pursuivant."'
+  - string: Nombre de points obtenus dans Ballista. PNJ concernés :Tillecoe, Marshal et Pursuivant.
   752:
-  - string: 'Currency earned from participating in the fellow system. Applicable NPC: "Ajahkeem."'
+  - string: Nombre de points obtenus via le système de compagnons d'aventure. PNJ concerné :Ajahkeem.
   753:
-  - string: 'Currency earned from participating as a member of the San d''Oria team in Chocobo Racing. Applicable NPCs: "Collione," "Palabelle."'
+  - string: Nombre de points obtenus en participant aux courses de chocobos dans l'extension Treasures of Aht Urhgan en tant que membre de l'équipe de San d'Oria. PNJ concernés :Collione et Palabelle.
   754:
-  - string: 'Currency earned from participating as a member of the Bastok team in Chocobo Racing. Applicable NPCs: "Keturah," "Gavoroi."'
+  - string: Nombre de points obtenus en participant aux courses de chocobos dans l'extension Treasures of Aht Urhgan en tant que membre de l'équipe de Bastok. PNJ concernés :Keturah et Gavoroi.
   755:
-  - string: 'Currency earned from participating as a member of the Windurst team in Chocobo Racing. Applicable NPCs: "Bwi Kaghonsa," "Robino-Mobino."'
+  - string: Nombre de points obtenus en participant aux courses de chocobos dans l'extension Treasures of Aht Urhgan en tant que membre de l'équipe de Windurst. PNJ concernés :Bwi Kaghonsa et Robino-Mobino.
   756:
-  - string: 'Currency earned from participating in Meeble Burrows. Applicable NPCs: "Burrow Investigators."'
+  - string: Nombre de points obtenus en participant au Terrier des Meebles dans l'extension Les guerriers de la Déesse. PNJ concerné :Burrow Investigator.
   757:
-  - string: 'Currency earned from participating in Meeble Burrows. Applicable NPCs: "Utrig," "Sokrov."'
+  - string: Nombre de points obtenus en participant au Terrier des Meebles dans l'extension Les guerriers de la Déesse. PNJ concernés :Utrig et Sokrov.
   758:
-  - string: 'Currency earned from participating in Meeble Burrows. Applicable NPCs: "Utrig," "Sokrov."'
+  - string: Nombre de points obtenus en participant au Terrier des Meebles dans l'extension Les guerriers de la Déesse. PNJ concernés :Utrig et Sokrov.
   759:
-  - string: 'Currency earned from participating in Meeble Burrows. Applicable NPCs: "Utrig," "Sokrov."'
+  - string: Nombre de points obtenus en participant au Terrier des Meebles dans l'extension Les guerriers de la Déesse. PNJ concernés :Utrig et Sokrov.
   760:
-  - string: 'Currency earned from participating in Moblin Maze Mongers. Applicable NPC: "Chatnachoq."'
+  - string: Nombre de points obtenus en participant au Labyrinthix S.A. de l'extension Les guerriers de la Déesse. PNJ concerné :Chatnachoq.
   761:
-  - string: 'Currency earned as a monipulator in Monstrosity. Applicable NPC: "Teyrnon."'
+  - string: Nombre de points obtenus en participant à Monstromorphose en tant que monipulateur. PNJ concerné :Teyrnon.
   762:
-  - string: 'Currency earned as a gladiator in Monstrosity. Applicable NPCs: "Suspicious Elvaan," "Suspicious Galka," "Suspicious Tarutaru."'
+  - string: Nombre de points obtenus en participant à Monstromorphose en tant que gladiateur. PNJ concernés :Suspicious Elvaan, Suspicious Galka, et Suspicious Tarutaru.
   763:
-  - string: 'Currency earned from participating in Legion. Applicable NPC: "Saarlan."'
+  - string: Nombre de points obtenus en participant aux Légions. PNJ concerné :Saarlan.
   764:
-  - string: 'Currency earned from participating in Records of Eminence. Applicable NPCs: "Rolandienne," "Isakoth," "Fhelm Jobeizat," "Eternal Flame."'
+  - string: Nombre de points obtenus en participant aux Annales d'éminence. PNJ concernés :Rolandienne, Isakoth, Fhelm Jobeizat et Eternal Flame.
   765:
-  - string: 'Currency earned in Mog Gardens. Applicable NPC: "Green Thumb Moogle."'
+  - string: Nombre de points obtenus dans les Jardins Mog. PNJ concerné :Green Thumb Moogle.
   766:
-  - string: Currency earned while performing certain feats under the effects of Sanction in the Empire of Aht Urhgan.
+  - string: Nombre de points obtenus en accomplissant diverses tâches après avoir reçu la Sanction marquant officiellement votre qualité de mercenaire pour l'Empire d'Aht Urhgan.
   767:
-  - string: 'Currency earned from participating in Assault. Applicable NPC: "Yahsra."'
+  - string: Nombre de points obtenus en participant aux Assauts dans l'extension Treasures of Aht Urhgan. PNJ concerné :Yahsra.
   768:
-  - string: 'Currency earned from participating in Assault. Applicable NPC: "Isdebaaq."'
+  - string: Nombre de points obtenus en participant aux Assauts dans l'extension Treasures of Aht Urhgan. PNJ concerné :Isdebaaq.
   769:
-  - string: 'Currency earned from participating in Assault. Applicable NPC: "Famad."'
+  - string: Nombre de points obtenus en participant aux Assauts dans l'extension Treasures of Aht Urhgan. PNJ concerné :Famad.
   770:
-  - string: 'Currency earned from participating in Assault. Applicable NPC: "Lageegee."'
+  - string: Nombre de points obtenus en participant aux Assauts dans l'extension Treasures of Aht Urhgan. PNJ concerné :Lageegee.
   771:
-  - string: 'Currency earned from participating in Assault. Applicable NPC: "Bhoy Yhupplo."'
+  - string: Nombre de points obtenus en participant aux Assauts dans l'extension Treasures of Aht Urhgan. PNJ concerné :Bhoy Yhupplo.
   772:
-  - string: 'Currency earned from participating in either Nyzul Isle Investigation or Nyzul Isle Uncharted Region. Applicable NPCs: "Sorrowful Sage," "Berangere."'
+  - string: Nombre de points obtenus en participant aux Assauts "Exploration de Nyzul" et "Reconnaissance de Nyzul" dans l'extension Treasures of Aht Urhgan. PNJ concernés :Sorrowful Sage et Bera.
   773:
-  - string: 'Currency earned from participating in content that features the enemy Pandemonium Warden. Applicable NPC: "Sanraku."'
+  - string: Nombre de points obtenus en participant au contenu "Monstres célèbres à zénis" dans l'extension Treasures of Aht Urhgan. PNJ concerné :Sanraku.
   774:
-  - string: 'Currency earned from participating in Pankration. Applicable NPC: "Zandjarl."'
+  - string: Nombre de points obtenus en participant au contenu "Pankration" dans l'extension Treasures of Aht Urhgan. PNJ concerné :Zandjarl.
   775:
-  - string: 'Currency earned from participating in Einherjar. Applicable NPC: "Kilusha."'
+  - string: Nombre de points obtenus en participant au contenu "Einherjar" dans l'extension Treasures of Aht Urhgan. PNJ concerné :Kilusha.
   776:
-  - string: Currency earned from participating in Campaign as a member of the Allied Armies during the Shadowreign era.
+  - string: Nombre de points obtenus en participant au contenu "Campagne" dans l'extension Les guerriers de la Déesse.
   777:
-  - string: Currency earned from participating in the Sacred City of Adoulin's colonization efforts.
+  - string: Nombre de points obtenus en participant au contenu "Colonisation" dans l'extension Explorateurs d'Adoulin.
   778:
-  - string: Currency earned by trading crystals to "waypoints" in the Sacred City of Adoulin and its environs.
+  - string: Nombre de points obtenus en échangeant des cristaux aux points de passage dans l'extension Explorateurs d'Adoulin.
   779:
-  - string: 'Currency earned from participating in skirmishes as part of the Sacred City of Adoulin''s colonization effort. Applicable NPCs: "Ornery Dhole," "Oston," "Divainy-Gamainy."'
+  - string: Nombre de points obtenus en participant au contenu "Incognita" dans l'extension Explorateurs d'Adoulin. PNJ concernés :Ornery Dhole et Oston.
   780:
-  - string: The number of lebondopt wings stored with Lola in Eastern Adoulin.
+  - string: Nombre d'ailes de lebondopt remises à Lola à Adoulin Ouest.
   781:
-  - string: The number of pulchridopt wings stored with Lola in Eastern Adoulin.
+  - string: Nombre d'ailes de pulchridopt remises à Lola à Adoulin Ouest.
   782:
-  - string: 'Currency earned from participating in Delve. Applicable NPC: "Forri-Porri."'
+  - string: Nombre de points obtenus en participant au contenu "Fureteurs des profondeurs" dans l'extension Explorateurs d'Adoulin. PNJ concerné :Forri-Porri.
   783:
-  - string: Currency used by the Voidwatch.
+  - string: Nombre de points utilisés en commun dans "Abyssée, terre défendue", "Les maîtres d'Abyssée" et "Les périls d'Abyssée". Contenu relatif :Milice des abîmes.
   784:
-  - string: 'Currency earned by travelling to Abyssea and participating in Bastion. Applicable NPCs: "Bastion Prefects."'
+  - string: Nombre de points obtenus en participant au contenu "Bastion" inclus dans "Les maîtres d'Abyssée". PNJ concerné :Bastion Prefect.
   785:
-  - string: Currency earned by travelling to Abyssea and participating in Dominion. Applicable NPCs："Dominion Tacticians."
+  - string: Nombre de points obtenus en participant au contenu "Dominance" inclus dans "Les périls d'Abyssée". PNJ concerné :Dominion Tactician.
   786:
-  - string: Currency earned from vanquishing notorious monsters in Dominion. Applicable NPCs："Dominion Tacticians."
+  - string: Nombre de points obtenus en terrassant des monstres célèbres dans le contenu "Dominance" inclus dans "Les périls d'Abyssée". PNJ concerné :Dominion Tactician.
   787:
-  - string: Currency earned from vanquishing notorious monsters in Dominion. Applicable NPCs："Dominion Tacticians."
+  - string: Nombre de points obtenus en terrassant des monstres célèbres dans le contenu "Dominance" inclus dans "Les périls d'Abyssée". PNJ concerné :Dominion Tactician.
   788:
-  - string: Currency earned from vanquishing notorious monsters in Dominion. Applicable NPCs："Dominion Tacticians."
+  - string: Nombre de points obtenus en terrassant des monstres célèbres dans le contenu "Dominance" inclus dans "Les périls d'Abyssée". PNJ concerné :Dominion Tactician.
   789:
-  - string: Currency earned from vanquishing notorious monsters in Dominion. Applicable NPCs："Dominion Tacticians."
+  - string: Nombre de points obtenus en terrassant des monstres célèbres dans le contenu "Dominance" inclus dans "Les périls d'Abyssée". PNJ concerné :Dominion Tactician.
   790:
-  - string: Currency earned from vanquishing notorious monsters in Dominion. Applicable NPCs："Dominion Tacticians."
+  - string: Nombre de points obtenus en terrassant des monstres célèbres dans le contenu "Dominance" inclus dans "Les périls d'Abyssée". PNJ concerné :Dominion Tactician.
   791:
-  - string: Currency earned from ordering mazes in Moblin Maze Mongers, the amount of which increases the more time passes after ordering a maze.
+  - string: Nombre de points bonus obtenus dans le contenu "Marchands de moblyrinthes modulables" inclus dans l'extension Les guerriers de la Déesse. La récompense de points s'améliore avec le temps.
   792:
-  - string: Items needed to participate in Meeble Burrows. They slowly replenish with the passage of time.
+  - string: Nombre de flacons permettant de participer au contenu "Le Terrier des Meebles" inclus dans l'extension Les guerriers de la Déesse. Le stock de flacons augmente avec le temps.
   793:
-  - string: Items needed to participate in Assault. They slowly replenish with the passage of time.
+  - string: Nombre de plaques permettant de participer au contenu "Assaut" inclus dans l'extension Treasures of Aht Urhgan. Le stock de plaques augmente avec le temps.
   794:
-  - string: Items needed to participate in Campaign operations. They slowly replenish with the passage of time.
+  - string: Nombre de sauf-conduits permettant de participer au contenu "Opérations de campagne" inclus dans l'extension Les guerriers de la Déesse. Le stock de sauf-conduits augmente avec le temps.
   795:
-  - string: Items needed to participate in coalition assignments. They slowly replenish with the passage of time.
+  - string: Nombre de mandats permettant de participer au contenu "Missions corporatives" inclus dans l'extension Explorateurs d'Adoulin. Le stock de mandats augmente avec le temps.
   796:
-  - string: Items needed to enter the various Abyssean locales. They slowly replenish with the passage of time.
+  - string: Nombre de pierres permettant de demeurer dans les zones des modules "Abyssée, terre défendue", "Les maîtres d'Abyssée" et "Les périls d'Abyssée". Le stock de pierres augmente avec le temps.
   797:
-  - string: Items needed to call forth Voidwalkers. They slowly replenish with the passage of time.
+  - string: Nombre de pierres permettant de faire apparaître des monstres dans le contenu "Milice des abîmes". Le stock de pierres augmente avec le temps.
   798:
-  - string: Items needed to call forth creatures in Provenance. They slowly replenish with the passage of time.
+  - string: Nombre de Kupofriedites permettant de faire apparaître des monstres dans la zone "Provenance". Le stock de kupofriedites augmente avec le temps. Contenu relatif :"Milice des abîmes".
   799:
-  - string: Displays the list of jobs to which you may apply job points.
+  - string: Spécialiser votre personnage en échangeant des points de job contre diverses améliorations.
   800:
-  - string: Select the job for which you wish to expend job points.
+  - string: Sélectionner le job à modifier.
   801:
-  - string: Remove or store items in your Mog Wardrobe.
+  - string: Afficher le contenu de l'Armoire Mog et y ranger ou en retirer des équipements.
   802:
-  - string: Select a form of storage.
+  - string: Choisir un espace de rangement.
   803:
-  - string: Display equipment in your inventory.
+  - string: Afficher les équipements se trouvant dans l'inventaire.
   804:
-  - string: Display equipment in your Mog Wardrobe.
+  - string: Afficher les équipements se trouvant dans l'Armoire Mog.
   805:
-  - string: View alchemy materials 2 on auction.
+  - string: Afficher les matériaux d'alchimie mis en vente.
   806:
-  - string: View miscellaneous items 2 on auction.
+  - string: Afficher les autres objets mis en vente.
   807:
-  - string: Use the targeting function.
+  - string: Utiliser la fonction de ciblage.
   808:
-  - string: Refine search by instinct cost.
+  - string: Classer les instincts par coût.
   809:
-  - string: The total of your points earned from Gobbie mystery boxes.
+  - string: Nombre de points permettant d'ouvrir des coffres à surprises goblins. PNJ concernés :Habitox, Bountibox, Arbitrix, Sweepstox et Wondrix.
   810:
-  - string: 'The number of copper vouchers for the A.M.A.N.-sponsored Records of Eminence stored with the following NPCs: "Rolandienne," "Isakoth," "Fhelm Jobeizat," "Eternal Flame."'
+  - string: Nombre de coupons obtenus dans le cadre des Annales d'éminence. PNJ concernés :Rolandienne, Isakoth, Fhelm Jobeizat et Eternal Flame.
   811:
-  - string: The number of bloodshed plans stored with Mrohk Sahjuuli in Aht Urhgan Whitegate.
+  - string: Nombre de traités anciens d'armurerie pourpres confiés à Mrohk Sahjuuli, aux Portes Blanches.
   812:
-  - string: The number of umbrage plans stored with Mrohk Sahjuuli in Aht Urhgan Whitegate.
+  - string: Nombre de traités anciens d'armurerie azurins confiés à Mrohk Sahjuuli, aux Portes Blanches.
   813:
-  - string: The number of ritualistic plans stored with Mrohk Sahjuuli in Aht Urhgan Whitegate.
+  - string: Nombre de traités anciens d'armurerie ocrés confiés à Mrohk Sahjuuli, aux Portes Blanches.
   814:
-  - string: The number of tutelary plans stored with Mrohk Sahjuuli in Aht Urhgan Whitegate.
+  - string: Nombre de traités anciens d'armurerie verdelets confiés à Mrohk Sahjuuli, aux Portes Blanches
   815:
-  - string: The number of primacy plans stored with Mrohk Sahjuuli in Aht Urhgan Whitegate.
+  - string: Nombre de traités anciens d'armurerie zinzolins confiés à Mrohk Sahjuuli, aux Portes Blanches.
   816:
-  - string: View the list of synthesis-related options.
+  - string: Afficher les listes de synthèse.
   817:
-  - string: Register %s as a favorite synthesis item.
+  - string: Ajouter %s aux favoris
   818:
-  - string: No longer have %s recognized as a favorite synthesis item.
+  - string: Retirer %s des favoris.
   819:
-  - string: Expend crystals and synthesize items.
+  - string: Synthétiser des matériaux à l'aide d'un cristal.
   820:
-  - string: View the list of previously synthesized items.
+  - string: Afficher l'historique des synthèses.
   821:
-  - string: Looking for party or party members to participate in battle content.
+  - string: Vous recherchez un groupe ou des membres du groupe pour participer au contenu de la bataille.
   822:
-  - string: Looking for party or party members to go on missions or quests.
+  - string: Vous recherchez des membres d'un groupe ou d'un groupe pour partir en mission ou en quête.
   823:
-  - string: Looking to buy or sell items.
+  - string: Vous cherchez à acheter ou à vendre des articles.
   824:
-  - string: Looking for linkshells or linkshell members.
+  - string: Recherche de linkshells ou de membres de linkshell.
   825:
-  - string: Looking for friends.
+  - string: Cherche des amis.
   826:
-  - string: Looking to craft or find a crafter.
+  - string: Vous cherchez à bricoler ou à trouver un artisan.
   827:
-  - string: Looking to join a linkshell.
+  - string: Vous cherchez à rejoindre un linkshell.
   828:
-  - string: Looking for linkshell members.
+  - string: Recherche de membres Linkshell.
   829:
-  - string: Edit the user-defined macros in your macro palettes.
+  - string: Modifiez les macros définies par l''utilisateur dans vos palettes de macros.
   830:
-  - string: Edit equipment sets.
+  - string: Modifier les ensembles d''équipements.
   831:
-  - string: Edit this equipment set.
+  - string: Modifiez cet ensemble d''équipement.
   832:
-  - string: Name this equipment set.
+  - string: Nommez cet ensemble d''équipement.
   833:
-  - string: Temporarily copy set.
+  - string: Copier temporairement l''ensemble.
   834:
-  - string: Paste copied set.
+  - string: Collez l''ensemble copié.
   835:
-  - string: Delete set.
+  - string: Supprimer l''ensemble.
   836:
-  - string: Overwrite this set with the equipment you are currently wearing.
+  - string: Remplacez cet ensemble par l'équipement que vous portez actuellement.
   837:
-  - string: Equip this set.
+  - string: Équipez cet ensemble.
   838:
-  - string: Rearrange the party list.
+  - string: Réorganisez la liste des groupes.
   839:
-  - string: The number of ghastly stones stored with Divainy-Gamainy in Western Adoulin.
+  - string: C'est le nombre de pierres épouvantables stockées à Divainy-Gamany dans l'ouest de l'Adoulin.
   840:
-  - string: The number of ghastly stones +1 stored with Divainy-Gamainy in Western Adoulin.
+  - string: Le nombre de pierres horribles +1 stockées chez Divainy-Gamany dans l'ouest d'Adoulin.
   841:
-  - string: The number of ghastly stones +2 stored with Divainy-Gamainy in Western Adoulin.
+  - string: Le nombre de pierres horribles +2 stockées chez Divainy-Gamany dans l'ouest d'Adoulin.
   842:
-  - string: The number of verdigris stones stored with Divainy-Gamainy in Western Adoulin.
+  - string: Le nombre de pierres vert-de-gris stockées à Divainy-Gamany en Adoulin occidental.
   843:
-  - string: The number of verdigris stones +1 stored with Divainy-Gamainy in Western Adoulin.
+  - string: Le nombre de pierres vert-de-gris +1 stockées à Divainy-Gamany dans l'Ouest Adoulin.
   844:
-  - string: The number of verdigris stones +2 stored with Divainy-Gamainy in Western Adoulin.
+  - string: Le nombre de pierres vert-de-gris +2 stockées à Divainy-Gamany en Adoulin Occidental.
   845:
-  - string: The number of wailing stones stored with Divainy-Gamainy in Western Adoulin.
+  - string: Le nombre de pierres des lamentations stockées à Divainy-Gamany dans l'ouest de l'Adoulin.
   846:
-  - string: The number of wailing stones +1 stored with Divainy-Gamainy in Western Adoulin.
+  - string: Le nombre de pierres des lamentations +1 stockées chez Divainy-Gamany dans l'Ouest d'Adoulin.
   847:
-  - string: The number of wailing stones +2 stored with Divainy-Gamainy in Western Adoulin.
+  - string: Le nombre de pierres des lamentations +2 stockées chez Divainy-Gamany à l'Ouest d'Adoulin.
   848:
-  - string: The number of snowslit stones stored with Divainy-Gamainy in Western Adoulin.
+  - string: C'est le nombre de pierres à neige stockées à Divainy-Gamany dans l'Ouest de l'Adoulin.
   849:
-  - string: The number of snowslit stones +1 stored with Divainy-Gamainy in Western Adoulin.
+  - string: Le nombre de pierres à neige +1 stockées à Divainy-Gamany dans l'Ouest Adoulin.
   850:
-  - string: The number of snowslit stones +2 stored with Divainy-Gamainy in Western Adoulin.
+  - string: Le nombre de pierres à neige +2 stockées à Divainy-Gamany dans l'Ouest Adoulin.
   851:
-  - string: The number of snowtip stones stored with Divainy-Gamainy in Western Adoulin.
+  - string: C'est le nombre de pierres de pointe de neige stockées à Divainy-Gamany dans l'Ouest Adoulin.
   852:
-  - string: The number of snowtip stones +1 stored with Divainy-Gamainy in Western Adoulin.
+  - string: Le nombre de pierres de pointe de neige +1 stockées à Divainy-Gamany dans l'Ouest Adoulin.
   853:
-  - string: The number of snowtip stones +2 stored with Divainy-Gamainy in Western Adoulin.
+  - string: Le nombre de pierres de pointe de neige +2 stockées à Divainy-Gamany dans l'Ouest Adoulin.
   854:
-  - string: The number of snowdim stones stored with Divainy-Gamainy in Western Adoulin.
+  - string: Le nombre de pierres enneigées stockées à Divainy-Gamany dans l'Ouest d'Adoulin.
   855:
-  - string: The number of snowdim stones +1 stored with Divainy-Gamainy in Western Adoulin.
+  - string: Le nombre de pierres de neige +1 stockées chez Divainy-Gamany dans l'ouest d'Adoulin.
   856:
-  - string: The number of snowdim stones +2 stored with Divainy-Gamainy in Western Adoulin.
+  - string: Le nombre de pierres de neige +2 stockées à Divainy-Gamany dans l'ouest d'Adoulin.
   857:
-  - string: The number of snoworb stones stored with Divainy-Gamainy in Western Adoulin.
+  - string: Le nombre de pierres snoworb stockées chez Divainy-Gamany dans l’ouest d’Adoulin.
   858:
-  - string: The number of snoworb stones +1 stored with Divainy-Gamainy in Western Adoulin.
+  - string: Le nombre de pierres snoworb +1 stockées chez Divainy-Gamany dans l'ouest d'Adoulin.
   859:
-  - string: The number of snoworb stones +2 stored with Divainy-Gamainy in Western Adoulin.
+  - string: Le nombre de pierres snoworb +2 stockées chez Divainy-Gamany dans l'ouest d'Adoulin.
   860:
-  - string: The number of leafslit stones stored with Divainy-Gamainy in Western Adoulin.
+  - string: Le nombre de calculs foliaires stockés à Divainy-Gamany dans l'Ouest de l'Adoulin.
   861:
-  - string: The number of leafslit stones +1 stored with Divainy-Gamainy in Western Adoulin.
+  - string: Le nombre de calculs foliaires +1 stockés à Divainy-Gamany dans l'Ouest de l'Adoulin.
   862:
-  - string: The number of leafslit stones +2 stored with Divainy-Gamainy in Western Adoulin.
+  - string: Le nombre de calculs foliaires +2 stockés à Divainy-Gamany dans l'Ouest Adoulin.
   863:
-  - string: The number of leaftip stones stored with Divainy-Gamainy in Western Adoulin.
+  - string: Le nombre de calculs de feuilles stockés à Divainy-Gamany dans l’ouest de l’Adoulin.
   864:
-  - string: The number of leaftip stones +1 stored with Divainy-Gamainy in Western Adoulin.
+  - string: Le nombre de calculs de feuilles +1 stockés à Divainy-Gamany dans l'Ouest de l'Adoulin.
   865:
-  - string: The number of leaftip stones +2 stored with Divainy-Gamainy in Western Adoulin.
+  - string: Le nombre de calculs de feuilles +2 stockés à Divainy-Gamany dans l’Ouest Adoulin.
   866:
-  - string: The number of leafdim stones stored with Divainy-Gamainy in Western Adoulin.
+  - string: Le nombre de pierres foliaires stockées à Divainy-Gamany dans l'Ouest de l'Adoulin.
   867:
-  - string: The number of leafdim stones +1 stored with Divainy-Gamainy in Western Adoulin.
+  - string: Le nombre de pierres leafdim +1 stockées chez Divainy-Gamany dans l'ouest d'Adoulin.
   868:
-  - string: The number of leafdim stones +2 stored with Divainy-Gamainy in Western Adoulin.
+  - string: Le nombre de pierres leafdim +2 stockées chez Divainy-Gamany dans l'ouest d'Adoulin.
   869:
-  - string: The number of leaforb stones stored with Divainy-Gamainy in Western Adoulin.
+  - string: Le nombre de pierres de feuilles stockées à Divainy-Gamany dans l'ouest de l'Adoulin.
   870:
-  - string: The number of leaforb stones +1 stored with Divainy-Gamainy in Western Adoulin.
+  - string: Le nombre de pierres de feuilles +1 stockées chez Divainy-Gamany dans l'ouest d'Adoulin.
   871:
-  - string: The number of leaforb stones +2 stored with Divainy-Gamainy in Western Adoulin.
+  - string: Le nombre de pierres de feuilles +2 stockées chez Divainy-Gamany dans l'Ouest d'Adoulin.
   872:
-  - string: The number of duskslit stones stored with Divainy-Gamainy in Western Adoulin.
+  - string: Le nombre de pierres crépusculaires stockées à Divainy-Gamany dans l'ouest de l'Adoulin.
   873:
-  - string: The number of duskslit stones +1 stored with Divainy-Gamainy in Western Adoulin.
+  - string: Le nombre de pierres éclairées au crépuscule +1 stockées chez Divainy-Gamany dans l'ouest d'Adoulin.
   874:
-  - string: The number of duskslit stones +2 stored with Divainy-Gamainy in Western Adoulin.
+  - string: Le nombre de pierres crépusculaires +2 stockées chez Divainy-Gamany dans l'ouest d'Adoulin.
   875:
-  - string: The number of dusktip stones stored with Divainy-Gamainy in Western Adoulin.
+  - string: Le nombre de pierres crépusculaires stockées à Divainy-Gamany dans l'ouest d'Adoulin.
   876:
-  - string: The number of dusktip stones +1 stored with Divainy-Gamainy in Western Adoulin.
+  - string: Le nombre de pierres du crépuscule +1 stockées chez Divainy-Gamany dans l'ouest d'Adoulin.
   877:
-  - string: The number of dusktip stones +2 stored with Divainy-Gamainy in Western Adoulin.
+  - string: Le nombre de pierres du crépuscule +2 stockées chez Divainy-Gamany dans l'Ouest d'Adoulin.
   878:
-  - string: The number of duskdim stones stored with Divainy-Gamainy in Western Adoulin.
+  - string: Le nombre de pierres crépusculaires stockées à Divainy-Gamany dans l'ouest d'Adoulin.
   879:
-  - string: The number of duskdim stones +1 stored with Divainy-Gamainy in Western Adoulin.
+  - string: Le nombre de pierres crépusculaires +1 stockées chez Divainy-Gamany dans l'ouest d'Adoulin.
   880:
-  - string: The number of duskdim stones +2 stored with Divainy-Gamainy in Western Adoulin.
+  - string: Le nombre de pierres crépusculaires +2 stockées chez Divainy-Gamany dans l'ouest d'Adoulin.
   881:
-  - string: The number of duskorb stones stored with Divainy-Gamainy in Western Adoulin.
+  - string: Le nombre de pierres du crépuscule stockées à Divainy-Gamany dans l'ouest de l'Adoulin.
   882:
-  - string: The number of duskorb stones +1 stored with Divainy-Gamainy in Western Adoulin.
+  - string: Le nombre de pierres du crépuscule +1 stockées chez Divainy-Gamany dans l'ouest d'Adoulin.
   883:
-  - string: The number of duskorb stones +2 stored with Divainy-Gamainy in Western Adoulin.
+  - string: Le nombre de pierres du crépuscule +2 stockées chez Divainy-Gamany à l'Ouest d'Adoulin.
   884:
-  - string: Select a language to limit your search to.
+  - string: Sélectionnez une langue à laquelle limiter votre recherche.
   885:
-  - string: Display a list of items related to Unity Concord.
+  - string: Afficher une liste d’éléments liés à Unité Concord.
   886:
-  - string: Display information about your Unity.
+  - string: Afficher des informations sur votre Unité.
   887:
-  - string: Display information about Unity rankings.
+  - string: Afficher des informations sur les classements Unité.
   888:
-  - string: Display the members logged in to the designated Unity.
+  - string: Affichez les membres connectés à l'Unité désigné.
   889:
-  - string: Designate a Unity and perform a search.
+  - string: Désignez une Unité et effectuez une recherche.
   890:
-  - string: Designate a Unity and limit your search.
+  - string: Désignez une Unité et limitez votre recherche.
   891:
-  - string: Select the Unity you belong to.
+  - string: Sélectionnez l’Unité à laquelle vous appartenez.
   892:
-  - string: Select a Unity.
+  - string: Sélectionnez une Unité.
   893:
-  - string: Currency earned from participation in Unity Concord.
+  - string: Monnaie gagnée grâce à la participation à Unité Concord.
   894:
-  - string: Adjust shared window settings.
+  - string: Ajuster les paramètres de la fenêtre partagée.
   895:
-  - string: Adjust individual window settings.
+  - string: Ajustez les paramètres de fenêtre individuels.
   896:
-  - string: Display separate log windows.
+  - string: Afficher des fenêtres de journal distinctes.
   897:
-  - string: Display only one log window.
+  - string: Afficher une seule fenêtre de journal.
   898:
-  - string: Display timestamps in the log window(s).
+  - string: Afficher les horodatages dans la ou les fenêtres de journal.
   899:
-  - string: Stop displaying timestamps in the log window(s).
+  - string: Arrêtez d'afficher les horodatages dans la ou les fenêtres de journal.
   900:
-  - string: Designate which messages appear in which window. Only active when multiple log windows are displayed.
+  - string: Désignez quels messages apparaissent dans quelle fenêtre. Actif uniquement lorsque plusieurs fenêtres de journal sont affichées.
   901:
-  - string: Designate which chat-related logs appear in which window. Only active when multiple log windows are displayed.
+  - string: Désignez quels journaux liés au chat apparaissent dans quelle fenêtre. Actif uniquement lorsque plusieurs fenêtres de journal sont affichées.
   902:
-  - string: Desginate which messages related to yourself appear in which window. Only active when multiple log windows are displayed.
+  - string: Désignez quels messages vous concernant apparaissent dans quelle fenêtre. Actif uniquement lorsque plusieurs fenêtres de journal sont affichées.
   903:
-  - string: Display which messages related to entites other than yourself appear in which window. Only active when multiple log windows are displayed.
+  - string: Affichez quels messages liés à des entités autres que vous apparaissent dans quelle fenêtre. Actif uniquement lorsque plusieurs fenêtres de journal sont affichées.
   904:
-  - string: Desginate which system-related messages appear in which window. Only active when multiple windows are displayed.
+  - string: Désignez quels messages liés au système apparaissent dans quelle fenêtre. Actif uniquement lorsque plusieurs fenêtres sont affichées.
   905:
-  - string: Designate which logs appear in which window. Only active when multiple windows are displayed.
+  - string: Désignez quels journaux apparaissent dans quelle fenêtre. Actif uniquement lorsque plusieurs fenêtres sont affichées.
   906:
-  - string: Reset log window settings to the default state.
+  - string: Réinitialisez les paramètres de la fenêtre de journal à leur état par défaut.
   907:
-  - string: Select items to be displayed in the log.
+  - string: Sélectionnez les éléments à afficher dans le journal.
   908:
-  - string: Search for a designated player.
+  - string: Recherchez un joueur désigné.
   909:
-  - string: Target a designated player. The command will fail if they are out of range.
+  - string: Ciblez un joueur désigné. La commande échouera s’ils sont hors de portée.
   910:
-  - string: Set maximum number of lines to 5.
+  - string: Définissez le nombre maximum de lignes sur 5.
   911:
-  - string: Set maximum number of lines to 4.
+  - string: Définissez le nombre maximum de lignes sur 4.
   912:
-  - string: Search for people in your current linkshell 2 group.
+  - string: Recherchez des personnes dans votre groupe LinkShell 2 actuel.
   913:
-  - string: Refine search by current linkshell 2 group.
+  - string: Affinez la recherche par groupe LinkShell 2 actuel.
   914:
-  - string: Separate the log window into an upper and lower version.
+  - string: Séparez la fenêtre du journal en une version supérieure et inférieure.
   915:
-  - string: Separate the log window into a left and right version.
+  - string: Séparez la fenêtre du journal en une version gauche et droite.
   916:
-  - string: Adjust further miscellaneous settings for FINAL FANTASY XI.
+  - string: Ajustez d'autres paramètres divers pour FINAL FANTASY XI.
   917:
-  - string: Display weapon effects.
+  - string: Afficher les effets des armes.
   918:
-  - string: Remove weapon effects to improve speed and performance.
+  - string: Supprimez les effets des armes pour améliorer la vitesse et les performances.
   919:
-  - string: Fix the look of your own equipment.
+  - string: Réparez l'apparence de votre propre équipement.
   920:
-  - string: Set the look of your own equipment to match that which is worn.
+  - string: Définissez l’apparence de votre propre équipement pour qu’il corresponde à celui que vous portez.
   921:
-  - string: Set appearance of own equipment to that of this item set.
+  - string: Définissez l'apparence de votre propre équipement sur celle de cet ensemble d'objets.
   922:
-  - string: Relinquish the right to cast lots on all spoils for which you have not yet done so.
+  - string: Renoncez au droit de tirer au sort tout le butin pour lequel vous ne l'avez pas encore fait.
   923:
-  - string: The number of mellidopt wings stored with Lorissa in Yorcia Weald.
+  - string: Le nombre d'ailes de mellidopt stockées chez Lorissa à Yorcia Weald.
   924:
-  - string: Display time stamps down to the minute in the log window.
+  - string: Affichez les horodatages à la minute près dans la fenêtre du journal.
   925:
-  - string: Display time stamps down to the second in the log window.
+  - string: Affichez les horodatages à la seconde près dans la fenêtre du journal.
   926:
-  - string: Display the Friend List and the Emote List.
+  - string: Affichez la liste d'amis et la liste d'émotes.
   927:
-  - string: Manually rearrange emotes.
+  - string: Réorganisez manuellement les émoticônes.
   928:
-  - string: Display the Emote List.
+  - string: Affichez la liste des emotes.
   929:
-  - string: Display graphics delineating areas of effect when displaying the subtarget of abilities and spells.
+  - string: Afficher des graphiques délimitant les zones d'effet lors de l'affichage de la sous-cible des capacités et des sorts.
   930:
-  - string: Hide display of graphics delineating areas of effect.
+  - string: Masquer l'affichage des graphiques délimitant les zones d'effet.
   931:
-  - string: Select emote to move.
+  - string: Sélectionnez l'émote à déplacer.
   932:
-  - string: Select emote to switch with the first.
+  - string: Sélectionnez l'émote pour basculer avec le premier.
   933:
-  - string: Move item from Mog Safe 2 to your inventory.
+  - string: Déplacez l'objet de Coffre-fort Mog 2 vers votre inventaire.
   934:
-  - string: Select item in Mog Safe to move.
+  - string: Sélectionnez l'élément dans le Coffre-fort Mog à déplacer.
   935:
-  - string: View content of Mog Safe. Items can only be removed or stored when inside your Mog House.
+  - string: Afficher le contenu de Mog Safe. Les objets ne peuvent être retirés ou stockés qu'à l'intérieur de votre maison Mog.
   936:
-  - string: Change house style.
+  - string: Changez le style de la maison.
   937:
-  - string: Select house style.
+  - string: Sélectionnez le style de la maison.
   938:
-  - string: Select furnishing from your Mog Safe.
+  - string: Sélectionnez les meubles de votre Coffre-fort Mog.
   939:
-  - string: Select furnishing from your Mog Safe 2.
+  - string: Sélectionnez les meubles de votre Coffre-fort Mog 2.
   940:
-  - string: 'The number of pinches of fine powder gleaned from adventures in Eschan areas and Reisenjima. Applicable NPCs: "Affi," "Nolan," "Dremi," "Oseem," "Shiftrix."'
+  - string: 'Le nombre de pincées de poudre fine glanées lors d''aventures dans les régions d''Eschan et de Reisenjima. PNJ concernés : "Affi," "Nolan," "Dremi," "Oseem," "Shiftrix."'
   941:
-  - string: 'The number of perfectly spherical objects obtained in Eschan areas and Reisenjima. Applicable NPC: "Nolan."'
+  - string: 'Le nombre d''objets parfaitement sphériques obtenus dans les zones d''Eschan et de Reisenjima. PNJ concerné : "Nolan."'
   942:
-  - string: Display a visual effect on targets effected by the target, subtarget, and area of effect cursors.
+  - string: Affichez un effet visuel sur les cibles affectées par les curseurs de cible, de sous-cible et de zone d'effet.
   943:
-  - string: Hide the target visual effect.
+  - string: Masquer l''effet visuel cible.
   944:
-  - string: Display party member status icons.
+  - string: Afficher les icônes de statut des membres du groupe.
   945:
-  - string: Hide party member status icons.
+  - string: Masquez les icônes de statut des membres du groupe.
   946:
-  - string: Display status icon timers.
+  - string: Afficher les minuteries des icônes d’état.
   947:
-  - string: Hide status icon timers.
+  - string: Masquer les minuteries de l’icône d’état.
   948:
-  - string: Enable camera collision on Mog House furniture.
+  - string: Activer la collision de caméra sur les meubles de maison Mog.
   949:
-  - string: Disable camera collision on Mog House furniture.
+  - string: Désactivez la collision de caméra sur les meubles de maison Mog.
   950:
-  - string: Focus-target a party member.
+  - string: Ciblez un membre du groupe.
   951:
-  - string: Enter request acceptance mode.
+  - string: Entrez en mode d’acceptation de la demande.
   952:
-  - string: Stop waiting for requests.
+  - string: Arrêtez d'attendre les demandes.
   953:
-  - string: Display players currently requesting to join.
+  - string: Afficher les joueurs qui demandent actuellement à rejoindre.
   954:
-  - string: Express desire to join another's party.
+  - string: Exprimer le désir de rejoindre le groupe d'un autre.
   955:
-  - string: Cancel request to join another's party.
+  - string: Annuler la demande de rejoindre le groupe d'un autre.
   956:
-  - string: Delete request history.
+  - string: Supprimer l'historique des demandes.
   957:
-  - string: Delete current request from history.
+  - string: Supprimer la demande actuelle de l'historique.
   958:
-  - string: Set audio alert for when you have been invited to a party.
+  - string: Définissez une alerte audio lorsque vous avez été invité à un groupe.
   959:
-  - string: Turn off audio alerts for party invitations (default).
+  - string: Désactivez les alertes audio pour les invitations à des groupes (par défaut).
   960:
-  - string: Play sound 1 when invited to a party.
+  - string: Jouez le son 1 lorsque vous êtes invité à un groupe.
   961:
-  - string: Play sound 2 when invited to a party.
+  - string: Jouez le son 2 lorsque vous êtes invité à un groupe.
   962:
-  - string: Play sound 3 when invited to a party.
+  - string: Jouez le son 3 lorsque vous êtes invité à un groupe.
   963:
-  - string: Play sound 4 when invited to a party.
+  - string: Jouez le son 4 lorsque vous êtes invité à un groupe.
   964:
-  - string: Play sound 5 when invited to a party.
+  - string: Jouez le son 5 lorsque vous êtes invité à un groupe.
   965:
-  - string: Play sound 6 when invited to a party.
+  - string: Jouez le son 6 lorsque vous êtes invité à un groupe.
   966:
-  - string: Play sound 7 when invited to a party.
+  - string: Jouez le son 7 lorsque vous êtes invité à un groupe.
   967:
-  - string: Search for players currently requesting to join.
+  - string: Recherchez les joueurs qui demandent actuellement à rejoindre.
   968:
-  - string: Refine search by requesting players.
+  - string: Affinez la recherche en interrogeant les joueurs.
   969:
-  - string: Select an item from the inventory and then use the left macro button or the Ctrl key while highlighting another item to compare them.
+  - string: Sélectionnez un élément dans l'inventaire, puis utilisez le bouton macro gauche ou la touche Ctrl tout en mettant en surbrillance un autre élément pour les comparer.
   970:
-  - string: The number of Rem's Tale chapters 1 stored with Monisette in Port Jeuno.
+  - string: Le nombre de chapitres de Rem's Tale 1 stockés avec Monisette à Port Jeuno.
   971:
-  - string: The number of Rem's Tale chapters 2 stored with Monisette in Port Jeuno.
+  - string: Le nombre de chapitres de Rem's Tale 2 stockés avec Monisette à Port Jeuno.
   972:
-  - string: The number of Rem's Tale chapters 3 stored with Monisette in Port Jeuno.
+  - string: Le nombre de chapitres de Rem's Tale 3 stockés avec Monisette à Port Jeuno.
   973:
-  - string: The number of Rem's Tale chapters 4 stored with Monisette in Port Jeuno.
+  - string: Le nombre de chapitres de Rem's Tale 4 stockés avec Monisette à Port Jeuno.
   974:
-  - string: The number of Rem's Tale chapters 5 stored with Monisette in Port Jeuno.
+  - string: Le nombre de chapitres de Rem's Tale 5 stockés avec Monisette à Port Jeuno.
   975:
-  - string: The number of Rem's Tale chapters 6 stored with Monisette in Port Jeuno.
+  - string: Le nombre de chapitres de Rem's Tale 6 stockés avec Monisette à Port Jeuno.
   976:
-  - string: The number of Rem's Tale chapters 7 stored with Monisette in Port Jeuno.
+  - string: Le nombre de chapitres de Rem's Tale 7 stockés avec Monisette à Port Jeuno.
   977:
-  - string: The number of Rem's Tale chapters 8 stored with Monisette in Port Jeuno.
+  - string: Le nombre de chapitres de Rem's Tale 8 stockés avec Monisette à Port Jeuno.
   978:
-  - string: The number of Rem's Tale chapters 9 stored with Monisette in Port Jeuno.
+  - string: Le nombre de chapitres de Rem's Tale 9 stockés avec Monisette à Port Jeuno.
   979:
-  - string: The number of Rem's Tale chapters 10 stored with Monisette in Port Jeuno.
+  - string: Le nombre de chapitres de Rem's Tale 10 stockés avec Monisette à Port Jeuno.
   980:
-  - string: 'Currency earned from trading in unwanted equipment to the A.M.A.N. Applicable NPC: "A.M.A.N. Reclaimer."'
+  - string: 'Monnaie gagnée en échangeant des équipements indésirables avec l''A.M.A.N. PNJ concerné : "A.M.A.N. Reclaimer."'
   981:
-  - string: The number of pellucid stones stored with Oseem in Norg.
+  - string: Le nombre de calculs pellucides stockés chez Oseem à Norg.
   982:
-  - string: The number of fern stones stored with Oseem in Norg.
+  - string: Le nombre de pierres de fougères stockées chez Oseem à Norg.
   983:
-  - string: The number of taupe stones stored with Oseem in Norg.
+  - string: Le nombre de pierres taupe stockées chez Oseem à Norg.
   984:
-  - string: The amount of merit points you have converted into lovely potpourri.
+  - string: Le nombre de points de mérite que vous avez convertis en joli pot-pourri.
   985:
-  - string: Adjust yet more miscellaneous settings for FINAL FANTASY XI.
+  - string: Ajustez encore plus de paramètres divers pour FINAL FANTASY XI.
   986:
-  - string: Disable software keyboard.
+  - string: Désactivez le clavier logiciel.
   987:
-  - string: View miscellaneous items 3 on auction.
+  - string: Voir les objets divers 3 aux enchères.
   988:
-  - string: Sort items by category when organizing them.
+  - string: Triez les éléments par catégorie lors de leur organisation.
   989:
-  - string: Sort items by name when organizing them and stacking them when possible.
+  - string: Triez les éléments par nom lorsque vous les organisez et empilez-les lorsque cela est possible.
   990:
-  - string: Remove or store items in your second Mog Wardrobe.
+  - string: Retirez ou stockez des objets dans votre deuxième armoire Mog.
   991:
-  - string: Remove or store items in your third Mog Wardrobe.
+  - string: Retirez ou stockez des objets dans votre troisième armoire Mog.
   992:
-  - string: Remove or store items in your fourth Mog Wardrobe.
+  - string: Retirez ou stockez des objets dans votre quatrième armoire Mog.
   993:
-  - string: Display equipment in your second Mog Wardrobe.
+  - string: Exposez votre équipement dans votre deuxième armoire Mog.
   994:
-  - string: Display equipment in your third Mog Wardrobe.
+  - string: Présentez l’équipement dans votre troisième armoire Mog.
   995:
-  - string: Display equipment in your fourth Mog Wardrobe.
+  - string: Exposez votre équipement dans votre quatrième armoire Mog.
   996:
-  - string: Call forth your mount.
+  - string: Appelez votre monture.
   997:
-  - string: Rearrange your mounts.
+  - string: Réorganisez vos montures.
   998:
-  - string: Select a mount to move.
+  - string: Sélectionnez une monture à déplacer.
   999:
-  - string: Select a mount to switch with the first.
+  - string: Sélectionnez une monture pour basculer avec la première.
   1000:
-  - string: The number of login points you possess.
+  - string: Le nombre de points de connexion que vous possédez.
   1001:
-  - string: The number of fire crystals stored with ephemeral moogles.
+  - string: Le nombre de cristaux de feu stockés auprès des moogles éphémères.
   1002:
-  - string: The number of ice crystals stored with ephemeral moogles.
+  - string: Le nombre de cristaux de glace stockés auprès des moogles éphémères.
   1003:
-  - string: The number of wind crystals stored with ephemeral moogles.
+  - string: Le nombre de cristaux de vent stockés auprès des moogles éphémères.
   1004:
-  - string: The number of earth crystals stored with ephemeral moogles.
+  - string: Le nombre de cristaux de terre stockés auprès des moogles éphémères.
   1005:
-  - string: The number of lightning crystals stored with ephemeral moogles.
+  - string: Le nombre de cristaux de foudre stockés auprès des mogs éphémères.
   1006:
-  - string: The number of water crystals stored with ephemeral moogles.
+  - string: Le nombre de cristaux d'eau stockés auprès des moogles éphémères.
   1007:
-  - string: The number of light crystals stored with ephemeral moogles.
+  - string: Le nombre de cristaux de lumière stockés avec les moogles éphémères.
   1008:
-  - string: The number of dark crystals stored with ephemeral moogles.
+  - string: Le nombre de cristaux sombres stockés auprès des mogs éphémères.
   1009:
-  - string: 'The number of hallmarks obtained through participation in Ambuscade. This value resets every version update. Applicable NPC: "Gorpa-Masorpa."'
+  - string: 'Le nombre de poinçons obtenus grâce à la participation à Ambuscade. Cette valeur réinitialise chaque mise à jour de version. PNJ concerné : "Gorpa-Masorpa."'
   1010:
-  - string: 'The running total of hallmarks obtained through participation in Ambuscade. This value resets every version update. Applicable NPC: "Gorpa-Masorpa."'
+  - string: 'Le total cumulé des caractéristiques obtenues grâce à la participation à Ambuscade. Cette valeur réinitialise chaque mise à jour de version. PNJ concerné : "Gorpa-Masorpa."'
   1011:
-  - string: 'The number of badges of gallantry obtained through participation in Ambuscade while in a group with other players. This value resets every version update. Applicable NPC: "Gorpa-Masorpa."'
+  - string: 'Le nombre de badges de bravoure obtenus en participant à Ambuscade en groupe avec d''autres joueurs. Cette valeur réinitialise chaque mise à jour de version. PNJ concerné : "Gorpa-Masorpa."'
   1012:
-  - string: 'Currency earned from participating in Records of Eminence. Applicable NPCs: "Rolandienne," "Isakoth," "Fhelm Jobeizat," "Eternal Flame."'
+  - string: 'Monnaie gagnée en participant à Records of Eminence. PNJ concernés : "Rolandienne," "Isakoth," "Fhelm Jobeizat," "Eternal Flame."'
   1013:
-  - string: Currency earned from delivering items to guilds as part of the Escutcheon questline.
+  - string: Monnaie gagnée en livrant des objets aux guildes dans le cadre de la série de quêtes Écusson.
   1014:
-  - string: The number of fire crystals set in the Synthesis Focuser II in Port Jeuno. Used in creating Escutcheons.
+  - string: Le nombre de cristaux de feu placés dans le Synthesis Focuser II à Port Jeuno. Utilisé pour créer des écussons.
   1015:
-  - string: The number of ice crystals set in the Synthesis Focuser II in Port Jeuno. Used in creating Escutcheons.
+  - string: Le nombre de cristaux de glace placés dans le Synthesis Focuser II à Port Jeuno. Utilisé pour créer des écussons.
   1016:
-  - string: The number of wind crystals set in the Synthesis Focuser II in Port Jeuno. Used in creating Escutcheons.
+  - string: Le nombre de cristaux de vent placés dans le Synthesis Focuser II à Port Jeuno. Utilisé pour créer des écussons.
   1017:
-  - string: The number of earth crystals set in the Synthesis Focuser II in Port Jeuno. Used in creating Escutcheons.
+  - string: Le nombre de cristaux de terre situés dans le Synthesis Focuser II à Port Jeuno. Utilisé pour créer des écussons.
   1018:
-  - string: The number of lightning crystals set in the Synthesis Focuser II in Port Jeuno. Used in creating Escutcheons.
+  - string: Le nombre de cristaux de foudre placés dans le Synthesis Focuser II à Port Jeuno. Utilisé pour créer des écussons.
   1019:
-  - string: The number of water crystals set in the Synthesis Focuser II in Port Jeuno. Used in creating Escutcheons.
+  - string: Le nombre de cristaux d'eau définis dans le Synthesis Focuser II à Port Jeuno. Utilisé pour créer des écussons.
   1020:
-  - string: The number of light crystals set in the Synthesis Focuser II in Port Jeuno. Used in creating Escutcheons.
+  - string: Le nombre de cristaux de lumière installés dans le Synthesis Focuser II à Port Jeuno. Utilisé pour créer des écussons.
   1021:
-  - string: The number of dark crystals set in the Synthesis Focuser II in Port Jeuno. Used in creating Escutcheons.
+  - string: Le nombre de cristaux sombres placés dans le Synthesis Focuser II à Port Jeuno. Utilisé pour créer des écussons.
   1022:
-  - string: The number of MC-I-SR01s set in the Synthesis Focuser II in Port Jeuno. Used in creating Escutcheons.
+  - string: Le nombre de MC-I-SR01 définis dans le Synthesis Focuser II à Port Jeuno. Utilisé pour créer des écussons.
   1023:
-  - string: The number of MC-I-SR02s set in the Synthesis Focuser II in Port Jeuno. Used in creating Escutcheons.
+  - string: Le nombre de MC-I-SR02 définis dans le Synthesis Focuser II à Port Jeuno. Utilisé pour créer des écussons.
   1024:
-  - string: The number of MC-I-SR03s set in the Synthesis Focuser II in Port Jeuno. Used in creating Escutcheons.
+  - string: Le nombre de MC-I-SR03 définis dans le Synthesis Focuser II à Port Jeuno. Utilisé pour créer des écussons.
   1025:
-  - string: The number of liquefaction spheres set in the Synthesis Focuser II in Port Jeuno. Used in creating Escutcheons.
+  - string: Le nombre de sphères de liquéfaction définies dans le Synthesis Focuser II à Port Jeuno. Utilisé pour créer des écussons.
   1026:
-  - string: The number of induration spheres set in the Synthesis Focuser II in Port Jeuno. Used in creating Escutcheons.
+  - string: Le nombre de sphères d'induration définies dans le Synthesis Focuser II à Port Jeuno. Utilisé pour créer des écussons.
   1027:
-  - string: The number of detonation spheres set in the Synthesis Focuser II in Port Jeuno. Used in creating Escutcheons.
+  - string: Le nombre de sphères de détonation définies dans le Synthesis Focuser II à Port Jeuno. Utilisé pour créer des écussons.
   1028:
-  - string: The number of scission spheres set in the Synthesis Focuser II in Port Jeuno. Used in creating Escutcheons.
+  - string: Le nombre de sphères de scission définies dans le Synthesis Focuser II à Port Jeuno. Utilisé pour créer des écussons.
   1029:
-  - string: The number of impaction spheres set in the Synthesis Focuser II in Port Jeuno. Used in creating Escutcheons.
+  - string: Le nombre de sphères d'impaction définies dans le Synthesis Focuser II à Port Jeuno. Utilisé pour créer des écussons.
   1030:
-  - string: The number of reverberation spheres set in the Synthesis Focuser II in Port Jeuno. Used in creating Escutcheons.
+  - string: Le nombre de sphères de réverbération définies dans le Synthesis Focuser II à Port Jeuno. Utilisé pour créer des écussons.
   1031:
-  - string: The number of transfixtion spheres set in the Synthesis Focuser II in Port Jeuno. Used in creating Escutcheons.
+  - string: Le nombre de sphères de transfixtion définies dans le Synthesis Focuser II à Port Jeuno. Utilisé pour créer des écussons.
   1032:
-  - string: The number of compression spheres set in the Synthesis Focuser II in Port Jeuno. Used in creating Escutcheons.
+  - string: Le nombre de sphères de compression définies dans le Synthesis Focuser II de Port Jeuno. Utilisé pour créer des écussons.
   1033:
-  - string: The number of fusion spheres set in the Synthesis Focuser II in Port Jeuno. Used in creating Escutcheons.
+  - string: Le nombre de sphères de fusion définies dans le Synthesis Focuser II à Port Jeuno. Utilisé pour créer des écussons.
   1034:
-  - string: The number of distortion spheres set in the Synthesis Focuser II in Port Jeuno. Used in creating Escutcheons.
+  - string: Le nombre de sphères de distorsion définies dans le Synthesis Focuser II de Port Jeuno. Utilisé pour créer des écussons.
   1035:
-  - string: The number of fragmentation spheres set in the Synthesis Focuser II in Port Jeuno. Used in creating Escutcheons.
+  - string: Le nombre de sphères de fragmentation définies dans le Synthesis Focuser II à Port Jeuno. Utilisé pour créer des écussons.
   1036:
-  - string: The number of gravitation spheres set in the Synthesis Focuser II in Port Jeuno. Used in creating Escutcheons.
+  - string: Le nombre de sphères de gravitation définies dans le Synthesis Focuser II à Port Jeuno. Utilisé pour créer des écussons.
   1037:
-  - string: The number of light spheres set in the Synthesis Focuser II in Port Jeuno. Used in creating Escutcheons.
+  - string: Le nombre de sphères lumineuses définies dans le Synthesis Focuser II à Port Jeuno. Utilisé pour créer des écussons.
   1038:
-  - string: The number of dark spheres set in the Synthesis Focuser II in Port Jeuno. Used in creating Escutcheons.
+  - string: Le nombre de sphères sombres définies dans le Synthesis Focuser II à Port Jeuno. Utilisé pour créer des écussons.
   1039:
-  - string: 'The number of silver vouchers for the A.M.A.N.-sponsored Records of Eminence stored with the following NPC: "Greyson."'
+  - string: Le nombre de bons d'argent pour les Archives d'Éminence sponsorisées par l'A.M.A.N. stockés auprès du PNJ suivant :"Greyson."
   1040:
-  - string: A currency required for participating in Omen, which is Rhapsodies of Vana'diel-specific battle content. Amount slowly increases over time.
+  - string: Une monnaie requise pour participer à Omen, qui est un contenu de combat spécifique à Rhapsodies of Vana''diel. Le montant augmente lentement avec le temps.
   1041:
-  - string: 'Points earned in Domain Invasion. Applicable NPC: "Zurim.".'
+  - string: 'Points gagnés dans Invasion de domaine. PNJ concerné : "Zurim.".'
   1042:
-  - string: 'Points earned in Domain Invasion today. Maximum daily total: 80.'
+  - string: 'Points gagnés dans Domain Invasion aujourd''hui. Total quotidien maximum : 80.'
   1043:
-  - string: Issue a warning to target player.
+  - string: Émettez un avertissement au joueur cible.
   1044:
-  - string: Prohibit target player from chatting on Assist channels.
+  - string: Interdire au joueur cible de discuter sur les canaux d'assistance.
   1045:
-  - string: Remove target player from the Mute list.
+  - string: Supprimez le joueur cible de la liste Muet.
   1046:
-  - string: Remove from the Mute list.
+  - string: Supprimer de la liste Muet.
   1047:
-  - string: Issue a warning?
+  - string: Émettre un avertissement ?
   1048:
-  - string: Give a thumbs up?
+  - string: Attribuez-y un " J'aime ça ? "
   1049:
-  - string: Add to the Mute list?
+  - string: Ajouter à la liste Muet ?
   1050:
-  - string: Remove from the Mute list?
+  - string: Supprimer de la liste Muet ?
   1051:
-  - string: Give a thumbs up to target player.
+  - string: Donnez un coup de pouce au joueur cible.
   1052:
-  - string: You do not have the ability to remove someone from the Mute list.
+  - string: Vous n''avez pas la possibilité de supprimer quelqu''un de la liste Muet.
   1053:
-  - string: View all master levels achieved so far.
+  - string: Voir tous les niveaux de maîtrises atteints jusqu''à présent.
   1054:
-  - string: Search for people by master level.
+  - string: Recherchez des personnes par niveau de maîtrise.
   1055:
-  - string: Refine search by master level.
+  - string: Affiner la recherche par niveau de maîtrise.
   1056:
-  - string: Enter the minimum master level to search.
+  - string: Entrez le niveau de maîtrise minimum à rechercher.
   1057:
-  - string: Enter the maximum master level to search.
+  - string: Entrez le niveau de maîtrise maximum à rechercher.
   1058:
-  - string: Remove or store items in your fifth Mog Wardrobe.
+  - string: Supprimez ou stockez des objets dans votre cinquième garde-robe Mog.
   1059:
-  - string: Remove or store items in your sixth Mog Wardrobe.
+  - string: Retirez ou stockez des objets dans votre sixième garde-robe Mog.
   1060:
-  - string: Remove or store items in your seventh Mog Wardrobe.
+  - string: Retirez ou stockez des objets dans votre septième garde-robe Mog.
   1061:
-  - string: Remove or store items in your eighth Mog Wardrobe.
+  - string: Retirez ou stockez des objets dans votre huitième garde-robe Mog.
   1062:
-  - string: Display equipment in your fifth Mog Wardrobe.
+  - string: Exposez votre équipement dans votre cinquième armoire Mog.
   1063:
-  - string: Display equipment in your sixth Mog Wardrobe.
+  - string: Présentez l''équipement dans votre sixième armoire Mog.
   1064:
-  - string: Display equipment in your seventh Mog Wardrobe.
+  - string: Présentez l''équipement dans votre septième armoire Mog.
   1065:
-  - string: Display equipment in your eighth Mog Wardrobe.
+  - string: Présentez l''équipement dans votre huitième garde-robe Mog.
   1066:
-  - string: Check all items in your Mog Safe and other storage systems.
+  - string: Vérifiez tous les éléments de votre Coffre-fort Mog et des autres systèmes de stockage.
   1067:
-  - string: Display a different storage system.
+  - string: Afficher un autre système de stockage.
   1068:
-  - string: Display thrown-away items. They will disappear for good when you change areas, log out, or disconnect.
+  - string: Exposez les objets jetés. Ils disparaîtront définitivement lorsque vous changerez de zone, vous déconnecterez ou vous déconnecterez.
   1069:
-  - string: Move an item to your inventory.
+  - string: Déplacez un objet vers votre inventaire.
   1070:
-  - string: Move an item to your Mog Safe
+  - string: Déplacez un élément vers votre Coffre-fort Mog.
   1071:
-  - string: Move an item to your Mog Safe 2.
+  - string: Déplacez un élément vers votre Coffre-fort Mog 2.
   1072:
-  - string: Move an item to your Storage.
+  - string: Déplacez un élément vers votre stockage.
   1073:
-  - string: Move an item to your Mog Locker.
+  - string: Déplacez un objet vers votre casier Mog.
   1074:
-  - string: Move an item to your Mog Satchel.
+  - string: Déplacez un objet vers votre sacoche Mog.
   1075:
-  - string: Move an item to your Mog Sack.
+  - string: Déplacez un objet vers votre sac Mog.
   1076:
-  - string: Move an item to your Mog Case.
+  - string: Déplacez un objet vers votre étui Mog.
   1077:
-  - string: Move an item to your Mog Wardrobe.
+  - string: Déplacez un objet vers votre garde-robe Mog.
   1078:
-  - string: Move an item to your Mog Wardrobe 2.
+  - string: Déplacez un objet vers votre garde-robe Mog 2.
   1079:
-  - string: Move an item to your Mog Wardrobe 3.
+  - string: Déplacez un objet vers votre garde-robe Mog 3.
   1080:
-  - string: Move an item to your Mog Wardrobe 4.
+  - string: Déplacez un objet vers votre garde-robe Mog 4.
   1081:
-  - string: Move an item to your Mog Wardrobe 5.
+  - string: Déplacez un objet vers votre garde-robe Mog 5.
   1082:
-  - string: Move an item to your Mog Wardrobe 6.
+  - string: Déplacez un objet vers votre garde-robe Mog 6.
   1083:
-  - string: Move an item to your Mog Wardrobe 7.
+  - string: Déplacez un objet vers votre garde-robe Mog 7.
   1084:
-  - string: Move an item to your Mog Wardrobe 8.
+  - string: Déplacez un objet vers votre garde-robe Mog 8.
   1085:
-  - string: Move an item to or from your inventory.
+  - string: Déplacez un article vers ou depuis votre inventaire.
   1086:
-  - string: 'Amount of gallimaufry earned in Sortie. Applicable NPC: "Ruspix," "Gama-Shama."'
+  - string: 'Quantité de gallimaufry gagnée en Sortie. PNJ concerné : "Ruspix," "Gama-Shama."'
   1087:
-  - string: 'Amount of mog segments earned in Odyssey. Applicable NPC: "Pilgrim Moogle."'
+  - string: 'Nombre de segments Mog gagnés dans Odyssey. PNJ concerné : "Pilgrim Moogle."'
   1088:
-  - string: Hide certain chat messages that contain terms designated by your filter settings. Presssing this button will reflect your edits.
+  - string: Masquez certains messages de discussion contenant des termes désignés par vos paramètres de filtre. En appuyant sur ce bouton, vos modifications seront reflétées.
   1089:
-  - string: Term Filter disabled.
+  - string: Filtre de termes désactivé.
   1090:
-  - string: Hide certain chat messages sent by player characters designated by your filter settings. Pressing this button will reflect your edits.
+  - string: Masquez certains messages de discussion envoyés par les personnages joueurs désignés par vos paramètres de filtre. En appuyant sur ce bouton, vos modifications seront reflétées.
   1091:
-  - string: Copy selected line to the clipboard.
+  - string: Copie la ligne sélectionnée dans le presse-papiers.
   1092:
-  - string: Boots up the FINAL FANTASY XI GAMEPAD Config program.
+  - string: Démarre le programme FINAL FANTASY XI GAMEPAD Config.

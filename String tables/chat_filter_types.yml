@@ -2,131 +2,131 @@ lists:
   0:
   - string: Say
   1:
-  - string: Shout
+  - string: Crier
   2:
   - string: Tell
   3:
-  - string: Party
+  - string: Groupe
   4:
   - string: Linkshell
   5:
   - string: Linkshell 2
   6:
-  - string: Assist J
+  - string: Aide J
   7:
-  - string: Assist E
+  - string: Aide E
   8:
-  - string: Unity
+  - string: Unité
   9:
-  - string: Emotes
+  - string: Émoticônes
   10:
-  - string: Messages from alter egos
+  - string: Messages d'alter ego
   11:
-  - string: Special actions started on/by you
+  - string: Actions spéciales lancées sur/par vous
   12:
-  - string: Special action effects on/by you
+  - string: Effets d'action spéciaux sur/par vous
   13:
-  - string: Attacks by you
+  - string: Attaques de votre part
   14:
-  - string: Missed attacks by you
+  - string: Attaques manquées de votre part
   15:
-  - string: Attacks you evade
+  - string: Les attaques que vous évitez
   16:
-  - string: Damage you take
+  - string: Dommages que vous subissez
   17:
-  - string: Special action effects on/by NPCs
+  - string: Effets d'action spéciaux sur/par les PNJ
   18:
-  - string: Attacks by NPCs
+  - string: Attaques de PNJ
   19:
-  - string: Missed attacks by NPCs
+  - string: Attaques manquées par les PNJ
   20:
-  - string: Special action effects on/by party
+  - string: Effets d'action spéciaux sur/par le groupe
   21:
-  - string: Attacks by party
+  - string: Attaques par groupe
   22:
-  - string: Missed attacks by party
+  - string: Attaques manquées par groupe
   23:
-  - string: Attacks evaded by party
+  - string: Attaques éludées par le groupe
   24:
-  - string: Damage taken by party
+  - string: Dommages subis par le groupe
   25:
-  - string: Special action effects on/by allies
+  - string: Effets des actions spéciales sur/par les alliés
   26:
-  - string: Attacks by allies
+  - string: Attaques des alliés
   27:
-  - string: Missed attacks by allies
+  - string: Attaques manquées des alliés
   28:
-  - string: Attacks evaded by allies
+  - string: Attaques évitées par les alliés
   29:
-  - string: Damage taken by allies
+  - string: Dégâts subis par les alliés
   30:
-  - string: Special actions started on/by party
+  - string: Actions spéciales lancées le/par le groupe
   31:
-  - string: Special actions started on/by allies
+  - string: Actions spéciales lancées sur/par les alliés
   32:
-  - string: Special actions started on/by NPCs
+  - string: Actions spéciales lancées sur/par les PNJ
   33:
-  - string: 'System Lv. 1 ("Check" notices) '
+  - string: 'Système Niv. 1 (Avis "Check") '
   34:
-  - string: System Lv. 2 (Bazaar notices)
+  - string: Système Niv. 2 (Avis du bazar)
   35:
-  - string: System Lv. 3 (Countdowns)
+  - string: Système Niv. 3 (Comptes à rebours)
   36:
-  - string: Immediate vicinity ("Say")
+  - string: Proximité immédiate ("Say")
   37:
-  - string: Wide area ("Shout")
+  - string: Large zone ("Shout")
   38:
-  - string: Tell target only ("Tell")
+  - string: Informer la cible uniquement ("Tell")
   39:
-  - string: All party members ("Party")
+  - string: Tous les membres du groupe ("Party")
   40:
-  - string: Linkshell group ("Linkshell")
+  - string: Groupe Linkshell ("Linkshell")
   41:
-  - string: Linkshell group 2 ("Linkshell 2")
+  - string: Groupe 2 Linkshell ("Linkshell 2")
   42:
-  - string: Assistance in Japanese ("Assist J")
+  - string: Assistance en Japonnais ("Assist J")
   43:
-  - string: Assistance in English ("Assist E")
+  - string: Assistance en Anglais ("Assist E")
   44:
-  - string: Unity group ("Unity")
+  - string: Unité groupe ("Unity")
   45:
-  - string: Emotes
+  - string: Émoticones
   46:
   - string: Messages ("Message")
   47:
-  - string: NPC conversations
+  - string: Conversations PNJ
   48:
-  - string: HP/MP you recover
+  - string: Vous récupèrez HP/MP
   49:
-  - string: HP/MP you lose
+  - string: Vous perdez HP/MP
   50:
-  - string: Beneficial effects you are granted
+  - string: Les effets bénéfiques qui vous sont accordés
   51:
-  - string: Detrimental effects you receive
+  - string: Effets néfastes que vous recevez
   52:
-  - string: Effects you resist
+  - string: Des effets auxquels vous résistez
   53:
-  - string: Actions you evade
+  - string: Actions auxquelles vous évitez
   54:
-  - string: HP/MP others recover
+  - string: Autres récupèration HP/MP
   55:
-  - string: HP/MP others lose
+  - string: Autres pertes HP/MP
   56:
-  - string: Beneficial effects others are granted
+  - string: Des effets bénéfiques que d'autres sont accordés
   57:
-  - string: Detrimental effects others receive
+  - string: Effets néfastes que d’autres subissent
   58:
-  - string: Effects others resist
+  - string: Effets auxquels d’autres résistent
   59:
-  - string: Actions others evade
+  - string: Actions que d’autres évitent
   60:
-  - string: Standard battle messages
+  - string: Messages de combat standards
   61:
-  - string: Calls for help
+  - string: Appels à l'aide
   62:
-  - string: Basic system messages
+  - string: Messages système de base
   63:
-  - string: 'Player: Color of "say" text'
+  - string: 'Joueur : Couleur de texte "dire"'
   64:
   - string: 'Player: Color of "shout" text'
   65:
@@ -140,115 +140,115 @@ lists:
   69:
   - string: '<Player>: Color of "Unity" text'
   70:
-  - string: Player's and other characters' emote color
+  - string: Couleur de l'émote du joueur et des autres personnages
   71:
-  - string: 'Message: Color of Friend List messages'
+  - string: 'Message : Couleur des messages de la liste d''amis'
   72:
-  - string: 'Townswoman : Color of NPC text'
+  - string: 'Townswoman : Couleur du texte du PNJ'
   73:
-  - string: Player recovers 10 HP.
+  - string: Le joueur récupère 10 HP.
   74:
-  - string: Enemy hits Player for 1 point of damage.
+  - string: L'ennemi frappe le joueur et lui inflige 1 point de dégâts.
   75:
-  - string: Player gains beneficial effect.
+  - string: Le joueur gagne un effet bénéfique.
   76:
-  - string: Player receives detrimental effect.
+  - string: Le joueur subit un effet néfaste.
   77:
-  - string: No effect on Player.
+  - string: Aucun effet sur le joueur.
   78:
-  - string: Enemy misses Player.
+  - string: L'ennemi manque le joueur.
   79:
-  - string: Ally recovers 10 HP.
+  - string: Allié récupère 10 PV.
   80:
-  - string: Enemy hits Ally for 10 points of damage.
+  - string: L'ennemi frappe Allié et lui inflige 10 points de dégâts.
   81:
-  - string: Ally gains beneficial effect.
+  - string: Allié obtient un effet bénéfique.
   82:
-  - string: Ally receives detrimental effect.
+  - string: Allié reçoit un effet néfaste.
   83:
-  - string: No effect on Enemy.
+  - string: Aucun effet sur l'ennemi.
   84:
-  - string: Enemy misses Ally.
+  - string: L'ennemi manque l'allié.
   85:
-  - string: Player starts casting Spell.
+  - string: Le joueur commence à lancer un sort.
   86:
-  - string: Player calls for help!
+  - string: Le joueur appelle à l'aide !
   87:
-  - string: Player's craft skill rises 0.1 points!
+  - string: La compétence artisanale du joueur augmente de 0,1 point !
   88:
-  - string: Others' synthesis and fishing results
+  - string: Synthèse des autres et résultats de pêche
   89:
-  - string: Move Up
+  - string: Monter
   90:
-  - string: Move Down
+  - string: Descendre
   91:
-  - string: Move Right
+  - string: Bouger a droite
   92:
-  - string: Move Left
+  - string: Bouger a gauche
   93:
-  - string: Move Camera Up
+  - string: Déplacer la caméra vers le haut
   94:
-  - string: Move Camera Down
+  - string: Déplacer la caméra vers le bas
   95:
-  - string: Move Camera Right
+  - string: Déplacer la caméra vers la droite
   96:
-  - string: Move Camera Left
+  - string: Déplacer la caméra vers la gauche
   97:
-  - string: Menu/Target Cursor Up
+  - string: Menu/Cible Curseur vers le haut
   98:
-  - string: Menu/Target Cursor Down
+  - string: Menu/Cible Curseur vers le bas
   99:
-  - string: Menu/Target Cursor Right
+  - string: Menu/Cible Curseur vers la droite
   100:
-  - string: Menu/Target Cursor Left
+  - string: Menu/Cible Curseur vers la gauche
   101:
-  - string: Menu Cursor & Camera Up
+  - string: Curseur de menu et caméra vers le haut
   102:
-  - string: Menu Cursor & Camera Down
+  - string: Curseur de menu et caméra vers le bas
   103:
-  - string: Menu Cursor & Camera Right
+  - string: Curseur de menu et caméra à droite
   104:
-  - string: Menu Cursor & Camera Left
+  - string: Curseur de menu et caméra à gauche
   105:
-  - string: Confirm
+  - string: Confirmer
   106:
-  - string: Cancel
+  - string: Annuler
   107:
-  - string: Change View
+  - string: Change de vue
   108:
-  - string: Autorun
+  - string: Exécution automatique
   109:
-  - string: Heal
+  - string: Soigner
   110:
-  - string: Select Window
+  - string: Sélectionner la fenêtre
   111:
-  - string: Open Main Menu
+  - string: Ouvrir le Menu Principal
   112:
-  - string: Attack
+  - string: Attaque
   113:
-  - string: Items
+  - string: Objet
   114:
-  - string: Magic
+  - string: Magie
   115:
-  - string: Abilities
+  - string: Abilitées
   116:
-  - string: Weapon Skills
+  - string: Compétences d'armes
   117:
-  - string: Ranged Attack
+  - string: Attaque à distance
   118:
-  - string: Call For Help
+  - string: Appeler de l'aide
   119:
-  - string: Equipment
+  - string: Équipement
   120:
-  - string: Change View
+  - string: Change de vue
   121:
-  - string: Heal
+  - string: Soigner
   122:
   - string: Check
   123:
-  - string: 'Chat: /Say'
+  - string: 'Chat: /Dire'
   124:
-  - string: 'Chat: /Party'
+  - string: 'Chat: /Groupe'
   125:
   - string: 'Chat: /Tell'
   126:
@@ -258,156 +258,156 @@ lists:
   128:
   - string: 'Chat: /AssistE or /AssistJ'
   129:
-  - string: 'Chat: /Unity'
+  - string: 'Chat: /Unité'
   130:
-  - string: 'Chat: /Reply to tell'
+  - string: 'Chat: /Répondre pour dire'
   131:
-  - string: Zoom Out
+  - string: Dézoomer
   132:
-  - string: Zoom In
+  - string: Agrandir
   133:
   - string: Pet Commands
   134:
-  - string: Confirm
+  - string: Confirmer
   135:
-  - string: Cancel
+  - string: Annuler
   136:
-  - string: Zoom Out
+  - string: Dézoomer
   137:
-  - string: Zoom In
+  - string: Agrandir
   138:
-  - string: Toggle Walk/Run
+  - string: Basculer Marche/Courir
   139:
-  - string: Select Window
+  - string: Sélectionner la fenêtre
   140:
-  - string: Open Main Menu
+  - string: Ouvrir le Menu Principal
   141:
-  - string: Take Screenshot
+  - string: Prendre une capture d'écran
   142:
-  - string: Hide/Show Window
+  - string: Masquer/Afficher la fenêtre
   143:
-  - string: Reset keyboard assignment to default?
+  - string: Réinitialiser l'affectation du clavier par défaut?
   144:
-  - string: Lot results
+  - string: Résultats des lots
   145:
-  - string: 〔Items〕
+  - string: 〔Articles〕
   146:
-  - string: items
+  - string: Articles
   147:
-  - string: 〔Key Items〕
+  - string: 〔Articles clées〕
   148:
-  - string: key items
+  - string: Articles clées
   149:
-  - string: 〔Quests〕
+  - string: 〔Quêtes〕
   150:
-  - string: quests
+  - string: Quêtes
   151:
   - string: 〔Missions〕
   152:
   - string: missions
   153:
-  - string: All effects during battle
+  - string: Tous les effets pendant la bataille
   154:
-  - string: You → you
+  - string: Vous → vous
   155:
-  - string: You → monster
+  - string: Vous → monstres
   156:
-  - string: You → party
+  - string: Vous → groupe
   157:
-  - string: You → non-party PC
+  - string: Vous → non-groupe PC
   158:
-  - string: Monster → you
+  - string: Monstres → vous
   159:
-  - string: Monster → monster
+  - string: Monstres → monstres
   160:
-  - string: Monster → party
+  - string: Monstres → groupe
   161:
-  - string: Monster → non-party PC
+  - string: Monstres → non-groupe PC
   162:
-  - string: Party → you
+  - string: Groupe → vous
   163:
-  - string: Party → monster
+  - string: Groupe → monstre
   164:
-  - string: Party → party
+  - string: Groupe → groupe
   165:
-  - string: Party → non-party PC
+  - string: Groupe → non-groupe PC
   166:
-  - string: Non-party PC → you
+  - string: Non-groupe PC → vous
   167:
-  - string: Non-party PC → monster
+  - string: Non-groupe PC → monstre
   168:
-  - string: Non-party PC → party
+  - string: Non-groupe PC → groupe
   169:
-  - string: Non-party PC → non-party PC
+  - string: Non-groupe PC → non-groupe PC
   170:
-  - string: Screen shaking
+  - string: Tremblement de l'écran
   171:
-  - string: Special actions started on/by others
+  - string: Actions spéciales lancées sur/par d'autres
   172:
-  - string: Special action effects on/by others
+  - string: Effets d'action spéciaux sur/par d'autres
   173:
-  - string: Attacks by others
+  - string: Attaques par d'autres
   174:
-  - string: Missed attacks by others
+  - string: Attaques manquées par d'autres
   175:
-  - string: Attacks evaded by others
+  - string: Attaques éludées par d’autres
   176:
-  - string: Damage taken by others
+  - string: Dommages subis par d'autres
   177:
-  - string: Special actions started on/by foes
+  - string: Actions spéciales lancées sur/par les ennemis
   178:
-  - string: Special action effects on/by foes
+  - string: Effets d'action spéciaux sur/par les ennemis
   179:
-  - string: Attacks by foes
+  - string: Attaques des ennemis
   180:
-  - string: Missed attacks by foes
+  - string: Attaques manquées des ennemis
   181:
-  - string: Attacks evaded by foes
+  - string: Attaques évitées par les ennemis
   182:
-  - string: Damage taken by foes
+  - string: Dégâts subis par les ennemis
   183:
-  - string: Ranking:×
+  - string: Classement:×
   184:
-  - string: Do you wish to disband with your adventuring fellow?
+  - string: Souhaitez-vous vous séparer de votre compagnon aventurier ?
   185:
-  - string: 'Enter quill amount: '
+  - string: 'Entrez le montant de la plume: '
   186:
-  - string: Bet placement ending momentarily
+  - string: Le placement du pari se termine momentanément
   187:
-  - string: Bet placement closed
+  - string: Placement de pari clôturé
   188:
   - string: Charge
   189:
-  - string: TP Cost
+  - string: Coût TP
   190:
-  - string: 'Enter number:'
+  - string: 'Entrer un nombre:'
   191:
-  - string: Campaign-Related Data
+  - string: Données liées à la campagne
   192:
-  - string: Tell messages deemed spam
+  - string: Signaler les messages considérés comme du spam
   193:
-  - string: Shout/Yell messages deemed spam
+  - string: Messages criant/criant considérés comme du spam
   194:
-  - string: Job-specific emote
+  - string: Emote spécifique au travail
   195:
-  - string: Yell
+  - string: Crier
   196:
-  - string: Extremely wide area ("Yell")
+  - string: Zone extrêmement vaste ("Crier")
   197:
-  - string: 'Player: Color of "yell" text'
+  - string: 'Joueur : Couleur du texte "crier"'
   198:
-  - string: Turn Right
+  - string: Tourner a droite
   199:
-  - string: Turn Left
+  - string: Tourner a gauche
   200:
-  - string: 'Enter password: '
+  - string: 'Entrer le mot de passe: '
   201:
-  - string: 'Enter name: '
+  - string: 'Entrez le nom: '
   202:
-  - string: Battle Messages
+  - string: Messages de bataille
   203:
-  - string: Calls for help
+  - string: Appels à l'aide
   204:
-  - string: 'Sample(J): AssistJ text color'
+  - string: 'Échantillon (J) : couleur du texte AssistJ'
   205:
-  - string: 'Sample(E): AssistE text color'
+  - string: 'Échantillon (E) : couleur du texte AssistE'

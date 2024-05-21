@@ -1,38 +1,33 @@
 lists:
   0:
-  - string: Failed to carry out user file operations.
+  - string: Impossible d'exécuter les opérations sur les fichiers.
   1:
-  - string: Failed to read data.
+  - string: Impossible de lire les données.
   2:
-  - string: Checking the size of the files to download and
+  - string: Vérification de la taille des fichiers à télécharger et
   3:
-  - string: the available space on your hard disk drive.
+  - string: l'espace disponible sur votre disque dur.
   4:
-  - string: Please enter a name (or press the numeric keypad's + key to have a name auto-generated for you). Names over 8 letters long will be truncated in some game windows, so short names are recommended.
+  - string: Veuillez entrer un nom (ou appuyez sur la touche + du pavé numérique pour la création automatique d'un nom). Les noms de plus de 8 lettres seront coupés dans certaines fenêtres du jeu. Choisissez de préférence des noms courts.
   5:
-  - string: That feature is currently unavailable.
+  - string: Cette fonction n'est pas disponible actuellement.
   6:
-  - string: "Reset the settings file stored on your \nhard disk drive that contains %s's \nmacros and map markers etc., to its initial state?"
+  - string: Réinitialiser le fichier de paramètres sauvegardé sur votre disque dur contenant les macros, balises de cartes, etc., de %s ?
   7:
   - string: dummy
   8:
   - string: dummy
   9:
   - string: |-
-      Please be sure to install and register
+      N'oubliez pas d'installer et d'enregistrer
       FINAL FANTASY XI: Rise of the Zilart.
-      You may experience problems if the expansion pack is not
-      properly installed and registered.
+      Vous risquez de rencontrer certains problèmes si le kit d'extension
+      n'est pas installé et enregistré correctement.
   10:
-  - string: |-
-      Please be sure to install and register both
-      FINAL FANTASY XI: Rise of the Zilart and
-      FINAL FANTASY XI: Chains of Promathia.
-      You may experience problems if the expansion
-      packs are not properly installed and registered.
+  - string: "N'oubliez pas d'installer et d'enregistrer \nFINAL FANTASY XI: Rise of the Zilart et\nFINAL FANTASY XI: Chains of Promathia.\nVous risquez de rencontrer certains problèmes \nsi les kits d'extension ne sont pas installés et enregistrés correctement."
   11:
-  - string: To delete your character, hold down
+  - string: Pour effacer ce personnage, maintenez appuyé
   12:
-  - string: the L3 button or the "D" key and
+  - string: le stick analogique gauche ou la touche "D" et
   13:
-  - string: select the "Delete" button.
+  - string: sélectionnez "Effacer".

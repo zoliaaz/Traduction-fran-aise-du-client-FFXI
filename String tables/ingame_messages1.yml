@@ -1,302 +1,300 @@
 lists:
   0:
-  - string: 'Current setting: Your treasure is being pooled.'
+  - string: Paramètre actuel :votre trésor rejoint la cagnotte.
   1:
-  - string: You are currently not in a party.
+  - string: Vous ne faites partie d'aucune équipe.
   2:
-  - string: This region is not under any country's control.
+  - string: Cette région n'est sous le contrôle d'aucun pays.
   3:
-  - string: This region is under the control of the beastmen.
+  - string: Cette région est sous le contrôle des hommes-bêtes.
   4:
-  - string: This area is not under any country's control.
+  - string: Cette zone n'est sous le contrôle d'aucun pays.
   5:
-  - string: Server is now calculating regional influences.
+  - string: Le serveur calcule les influences régionales.
   6:
-  - string: Now obtaining information from server.
+  - string: Récupération d'informations sur le serveur en cours.
   7:
-  - string: Switch to this linkshell group?
+  - string: Passer à cette linkshell ?
   8:
-  - string: Dispose of this item?
+  - string: Jeter cet objet ?
   9:
-  - string: Synthesis canceled. That combination of materials cannot be synthesized.
+  - string: Synthèse annulée. Cette combinaison de matériaux ne peut pas être synthétisée.
   10:
-  - string: Synthesis failed. You lost the crystal you were using.
+  - string: Echec de la synthèse. Vous avez perdu votre cristal.
   11:
-  - string: Synthesis failed. You lost the crystal you were using.
+  - string: Echec de la synthèse. Vous avez perdu votre cristal.
   12:
-  - string: Synthesis interrupted. You lost the crystal and materials you were using.
+  - string: Synthèse interrompue. Vous avez perdu votre cristal et vos matériaux.
   13:
-  - string: Synthesis canceled. That formula is beyond your current craft skill level.
+  - string: Synthèse annulée. Cette recette est au-delà de votre niveau actuel de compétences en artisanat.
   14:
-  - string: Synthesis canceled.
+  - string: Synthèse annulée.
   15:
-  - string: Too many materials.
+  - string: Il y a trop de matériaux.
   16:
-  - string: Synthesis canceled. You cannot hold more than one item of that type.
+  - string: Synthèse annulée. Vous possédez déjà un objet de ce type.
   17:
-  - string: Message sent.
+  - string: Message envoyé.
   18:
-  - string: Reply sent.
+  - string: Réponse envoyée.
   19:
-  - string: Tried knocking.
+  - string: Rappel tenté.
   20:
-  - string: Requested friend registration.
+  - string: Enregistrement d'un ami demandé.
   21:
-  - string: Accepted friend registration.
+  - string: Enregistrement d'un ami accepté.
   22:
-  - string: Declined friend registration.
+  - string: Enregistrement d'un ami refusé.
   23:
-  - string: Accepted friend registration and requested friend registration in return.
+  - string: Enregistrement d'un ami accepté et demande d'enregistrement en retour.
   24:
-  - string: Added name to Ignore List.
+  - string: Nom ajouté à la liste noire.
   25:
-  - string: Marked message as read.
+  - string: Message marqué comme lu.
   26:
-  - string: |-
-      Add sender to
-      Ignore List?
+  - string: "Ajouter l'expéditeur à \nà la liste noire ?"
   27:
   - string: dummy
   28:
   - string: FINAL FANTASY XI
   29:
-  - string: Let's be friends!
+  - string: Soyons amis!
   30:
-  - string: Let's play!
+  - string: Jouons!
   31:
   - string: FINAL FANTASY XI
   32:
-  - string: Added you to Friend List.
+  - string: Vous avez été ajouté(e) à la liste d'amis.
   33:
-  - string: Declined to add you to Friend List.
+  - string: Vous n'avez pas été ajouté(e) à la liste d'amis.
   34:
-  - string: 'Friend''s Name:'
+  - string: 'Nom de l''ami :'
   35:
-  - string: Current Area
+  - string: Zone actuelle
   36:
-  - string: Area
+  - string: Zone
   37:
-  - string: All Areas
+  - string: Toutes les zones
   38:
-  - string: World
+  - string: Monde
   39:
-  - string: ' [Searching]'
+  - string: '[Recherche en cours]'
   40:
-  - string: You made a purchase from %s's bazaar.
+  - string: Vous avez fait un achat dans le bazar de %s.
   41:
-  - string: '%s''s bazaar was closed midway through your transaction.'
+  - string: Le bazar de %s a été fermé en cours de transaction.
   42:
-  - string: You made a purchase from the guild.
+  - string: Vous avez acheté quelque chose à la guilde.
   43:
-  - string: You made a sale to the guild.
+  - string: Vous avez vendu quelque chose à la guilde.
   44:
-  - string: Select from your inventory.
+  - string: Objet dans votre inventaire.
   45:
-  - string: Please try again in a little while.
+  - string: Réessayez dans un moment.
   46:
-  - string: Recipient
+  - string: Destinataire
   47:
-  - string: Recipient (preparing)
+  - string: Destinataire (attente)
   48:
-  - string: Recipient (sent)
+  - string: Destinataire (envoyé)
   49:
-  - string: Recipient (canceled)
+  - string: Destinataire (annulé)
   50:
-  - string: Entering cancel delivery mode.
+  - string: Accès au mode d'annulation de livraison.
   51:
-  - string: 'Sender:'
+  - string: 'Expéditeur:'
   52:
-  - string: Dispose of this item?
+  - string: Jeter cet objet ?
   53:
-  - string: Return this item to sender?
+  - string: Renvoyer cet objet à l'expéditeur ?
   54:
   - string: |-
-      Merchandise placed on auction.
-      If merchandise remains unsold after 30 weeks (Vana'diel time), it will be returned to your current residence.
-      If a successful bid is made, the proceeds from the sale will be delivered to your current residence.
-      Signed items will lose their signature after being purchased.
+      Marchandise mise en vente.
+      Si, au terme de 9 semaines (temps de Vana'diel), la marchandise est invendue, elle sera renvoyée à votre domicile.
+      Si une offre aboutit, les gains issus de la vente seront transférés à votre domicile.
+      Une fois vendus, les objets signés perdent leur signature.
   55:
-  - string: Failed to place merchandise on auction.
+  - string: La mise en vente de la marchandise a échoué.
   56:
-  - string: Your bid was successful.
+  - string: Votre offre a abouti.
   57:
-  - string: Your bid failed.
+  - string: Votre offre n'a pas abouti.
   58:
-  - string: Remove merchandise from auction?
+  - string: Retirer la marchandise de la vente ?
   59:
   - string: →
   60:
   - string: |-
-      Calculating transaction fee.
-      Reselect item name once its color changes.
+      Calcul de la commission.
+      Resélectionnez le nom de l'objet dès qu'il change de couleur.
   61:
-  - string: You do not have enough gil to pay the transaction fee.
+  - string: Vous n'avez pas assez de gils pour payer la commission.
   62:
-  - string: Auction house is temporarily closed for trading.
+  - string: L'hôtel des ventes est momentanément fermé.
   63:
-  - string: Results shown may include returned merchandise that you have already removed from your delivery box.
+  - string: Les résultats affichés peuvent comprendre les marchandises retournées déjà retirées de votre boîte de livraison.
   64:
   - string: '---------'
   65:
-  - string: Follow canceled.
+  - string: Poursuite annulée.
   66:
-  - string: Screenshot saved.
+  - string: Capture d'écran enregistrée.
   67:
-  - string: Equipment changed.
+  - string: Equipement changé.
   68:
-  - string: Equipment removed.
+  - string: Equipement supprimé.
   69:
-  - string: Which area do you want to exit to?
+  - string: Dans quelle zone voulez-vous sortir ?
   70:
-  - string: Area you entered from.
+  - string: Dans quelle zone voulez-vous entrer ?
   71:
-  - string: Updating PlayOnline handle information. (1)
+  - string: Mise à jour des informations de pseudo PlayOnline. (1)
   72:
-  - string: Updating PlayOnline handle information. (2)
+  - string: Mise à jour des informations de pseudo PlayOnline. (2)
   73:
-  - string: Executing auto-disconnect.
+  - string: Déconnexion automatique en cours.
   74:
-  - string: No spells learned.
+  - string: Aucun sort appris.
   75:
-  - string: No spells available.
+  - string: Aucun sort dispo.
   76:
   - string: ' '
   77:
-  - string: No abilities
+  - string: Aucune aptitude
   78:
-  - string: available.
+  - string: disponible.
   79:
-  - string: No mounts
+  - string: Aucune monture
   80:
-  - string: available.
+  - string: disponible.
   81:
-  - string: Say lines
+  - string: Lignes Say
   82:
-  - string: Shout lines
+  - string: Lignes Shout
   83:
-  - string: Your successful attacks
+  - string: Vos attaques réussies
   84:
-  - string: Your unsuccessful attacks
+  - string: Vos attaques manquées
   85:
-  - string: Damage you receive
+  - string: Dégâts subis
   86:
-  - string: Attacks you evaded
+  - string: Vos esquives
   87:
-  - string: Party member's successful attacks
+  - string: Attaques réussies par les équipiers
   88:
-  - string: Party member's unsuccessful attacks
+  - string: Attaques manquées par les équipiers
   89:
-  - string: Damage party members receives
+  - string: Dégâts subis par les équipiers
   90:
-  - string: Attacks party members evaded
+  - string: Attaques éludées par les équipiers
   91:
-  - string: Other people's successful attacks
+  - string: Attaques réussies par les équipiers
   92:
-  - string: Other people's unsuccessful attacks
+  - string: Attaques manquées par les équipiers
   93:
-  - string: Activation of magic and abilities
+  - string: Activation de la magie et des aptitudes
   94:
-  - string: Effects of magic and abilities
+  - string: Effets de la magie et des aptitudes
   95:
-  - string: Examine %s?
+  - string: Examiner cet objet ?
   96:
-  - string: You do not possess any key items.
+  - string: Vous n'avez aucun objet clé.
   97:
-  - string: Preparing data.
+  - string: Préparation des données.
   98:
-  - string: Please wait a moment.
+  - string: Veuillez patienter.
   99:
-  - string: No current quests.
+  - string: Aucune quête en cours.
   100:
-  - string: No completed quests.
+  - string: Aucune quête terminée.
   101:
   - string: |
-      Spelling of name is incorrect.
+      Orthographe du nom incorrecte.
   102:
-  - string: Failed to execute command.
+  - string: La commande n'a pas été exécutée.
   103:
   - string: |
-      Cannot use yet.
+      Utilisation impossible pour le moment.
   104:
-  - string: 'Record of visits to area: '
+  - string: 'Historique des visites dans la zone:'
   105:
-  - string: No record of visits to area.
+  - string: Vous n'avez jamais visité cette zone.
   106:
-  - string: N/A
+  - string: Ne s'applique pas.
   107:
   - string: |2
-        MAP: %s, NAME: %s
+        CARTE: %s, NAME: %s
   108:
-  - string: Yes
+  - string: Oui
   109:
-  - string: No
+  - string: Non
   110:
-  - string: shown
+  - string: affiché(es)
   111:
-  - string: hidden
+  - string: masqué(es)
   112:
   - string: |
-      Visits to: %s
+      Visites à: %s
   113:
-  - string: Visited
+  - string: Visité(es)
   114:
-  - string: Hasn't
+  - string: Non
   115:
-  - string: Unknown
+  - string: Inconnu(es)
   116:
-  - string: Added to blacklist.
+  - string: Ajouté(es) à la liste noire.
   117:
-  - string: Failed to add to blacklist.
+  - string: Non ajouté(es) à la liste noire.
   118:
-  - string: Removed from blacklist.
+  - string: Non supprimé(es) de la liste noire.
   119:
-  - string: Failed to remove from blacklist.
+  - string: Échec de la suppression de la liste noire.
   120:
-  - string: '...A command error occurred.'
+  - string: '... Une erreur de commande est survenue.'
   121:
-  - string: Go back.
+  - string: Retour.
   122:
-  - string: Return.
+  - string: Quitter.
   123:
-  - string: Delete this message.
+  - string: Supprimer ce message.
   124:
   - string: |2
 
-      Carry out selected process?
+      Exécuter la procédure sélectionnée ?
   125:
-  - string: Execute.
+  - string: Exécuter.
   126:
-  - string: Data read error.
+  - string: Erreur de lecture des données.
   127:
-  - string: 'Acquiring data: '
+  - string: 'Acquisition des données:'
   128:
-  - string: Already placed in trade slot.
+  - string: Déjà dans la case d'échange.
   129:
-  - string: Another event was called while current event was running.
+  - string: Un second événement a été déclenché pendant l'événement en cours.
   130:
-  - string: Currently in an event. This GMTELL was invalidated.
+  - string: Evénement en cours. Ce GMTELL a été invalidé
   131:
-  - string: Currently four GMTELL's have been received. This GMTELL was invalidated.
+  - string: Quatre GMTELL ont été reçus. Ce GMTELL a été invalidé.
   132:
-  - string: 'GMTELL(%s): Question(%s): Result (Canceled due to event activation.)'
+  - string: GMTELL(%s) :Question(%s) :Résultat (annulé pour cause d'activation d'événement)
   133:
-  - string: 'GMTELL(%s): Question(%s): Result (Canceled.)'
+  - string: GMTELL(%s) :Question(%s) :Résultat (annulé)
   134:
-  - string: 'GMTELL(%s): Question(%s): Result (%s)'
+  - string: GMTELL(%s) :Question(%s) :Résultat (%s)
   135:
-  - string: /party <t> sighted!
+  - string: /party <t> en vue!
   136:
   - string: ''
   137:
-  - string: '/party Current position: <pos>!'
+  - string: '/party Position actuelle: <pos>!'
   138:
   - string: ''
   139:
-  - string: '/say Help! I''m being chased by <t> at: <pos>!'
+  - string: '/say A l''aide! me poursuit en <t> a: <pos>!'
   140:
   - string: ''
   141:
-  - string: /say Warning! I'm being chased by multiple enemies!
+  - string: /say Attention! Plusieurs ennemis me poursuivent!
   142:
   - string: ''
   143:
@@ -312,11 +310,11 @@ lists:
   148:
   - string: ''
   149:
-  - string: /party I'm out of MP!
+  - string: /party Je suis à cours de MP!
   150:
   - string: ''
   151:
-  - string: /party TP ready for use!
+  - string: /party TP prêts à être utilisés!
   152:
   - string: ''
   153:
@@ -338,17 +336,17 @@ lists:
   161:
   - string: /join
   162:
-  - string: /wait 3
+  - string: /attendre 3
   163:
   - string: /cm party
   164:
-  - string: Thanks for letting me join your party!
+  - string: Merci de m'accueillir dans votre équipe!
   165:
   - string: /joy motion
   166:
   - string: ''
   167:
-  - string: /say Sorry. I want to play solo.
+  - string: /say Je regrette. Je préfère jouer en solo.
   168:
   - string: /decline
   169:
@@ -358,7 +356,7 @@ lists:
   171:
   - string: ''
   172:
-  - string: /nominate party "Go which way?" "Left?" "Right?"
+  - string: /nominate party "Par où ?" "Gauche ?" "Droite ?"
   173:
   - string: ''
   174:
@@ -380,344 +378,342 @@ lists:
   182:
   - string: ''
   183:
-  - string: Dispose of item?
+  - string: Jeter l'objet ?
   184:
-  - string: Stay in your room.
+  - string: Restez dans votre chambre.
   185:
-  - string: Select an area to exit to.
+  - string: Sélectionner une zone de sortie.
   186:
-  - string: Current Region
+  - string: Région actuelle
   187:
-  - string: Region
+  - string: Région
   188:
-  - string: Only the linkshell holder may edit the linkshell group's welcome message.
+  - string: Seul le détenteur de la linkshell peut modifier le message d'accueil de cette dernière.
   189:
-  - string: Only linkshell or pearlsack holders may edit the linkshell group's welcome message.
+  - string: Seuls les détenteurs de linkshell ou de sacs de perles peuvent modifier le message d'accueil de la linkshell.
   190:
-  - string: All members may edit the linkshell group's welcome message.
+  - string: ous les membres peuvent modifier le message d'accueil de la linkshell.
   191:
-  - string: '(※ Note: The list of people found has been truncated.)'
+  - string: '(※ Remarque : la liste des personnes trouvées a été abrégée)'
   192:
-  - string: delivery
+  - string: livraison
   193:
-  - string: delivery
+  - string: livraison
   194:
-  - string: All treasure obtained will be automatically pooled.
+  - string: Tous les trésors obtenus iront automatiquement dans la cagnotte.
   195:
-  - string: Q&A
+  - string: Q&R
   196:
-  - string: Please enter a keyword.
+  - string: Entrez un mot-clé
   197:
-  - string: Help Desk
+  - string: Aide
   198:
   - string: Config
   199:
-  - string: Back
+  - string: Retour
   200:
-  - string: Your keyword search has failed.
+  - string: Echec de la recherche
   201:
-  - string: Your search has returned too many results. Please add another keyword and try again.
+  - string: Votre recherche est trop évasive. Ajoutez un autre mot-clé et recommencez.
   202:
-  - string: '(Note: The list of matches found has been truncated.)'
+  - string: (Remarque :la liste des correspondances trouvées a été tronquée).
   203:
-  - string: '%d matches found (%d results displayed).'
+  - string: '%d correspondances trouvées (%d résultats affichés).'
   204:
-  - string: Enable Mentor Status.
+  - string: Activer l'état de mentor.
   205:
-  - string: Disable Mentor Status.
+  - string: Désactiver l'état de mentor.
   206:
-  - string: Cancel New Adventurer Status.
+  - string: Annuler l'état de nouvel aventurier.
   207:
-  - string: Mentor Search
+  - string: Recherche de mentor
   208:
-  - string: What is a New Adventurer?
+  - string: Qu'est-ce qu'un nouvel aventurier ?
   209:
-  - string: Please note that registering and serving as a mentor, as well as utilizing the services of the Mentor Program, are to be done at the player's own discretion. SQUARE ENIX will not be held responsible for the actions and/or comments of any mentors. No benefits of any kind will be provided to those who choose to participate in the Mentor Program. When you agree to participate in the Mentor Program, you are acknowledging that you have read and understood the above terms.
+  - string: Veuillez noter que l'inscription et le rôle de mentor, ainsi que l'utilisation des services du programme de mentorat, doivent être effectués à la seule discrétion du joueur. SQUARE ENIX ne sera pas tenu responsable des actions et/ou commentaires des mentors. Aucun avantage d'aucune sorte ne sera offert à ceux qui choisissent de participer au programme de mentorat. Lorsque vous acceptez de participer au programme de mentorat, vous reconnaissez que vous avez lu et compris les conditions ci-dessus.
   210:
-  - string: Enable Mentor Status?
+  - string: Activer l'état de mentor ?
   211:
-  - string: Disable Mentor Status?
+  - string: Désactiver l'état de mentor ?
   212:
-  - string: Once New Adventurer Status has been canceled, it cannot be reinstated. Are you sure you want to cancel?
+  - string: Une fois cet état annulé, il ne peut être réactivé. Confirmer l'annulation ?
   213:
-  - string: You can search Q&A by typing in keywords.
+  - string: Pour faire des recherches dans les Q&R, entrez des mots-clés..
   214:
-  - string: Entering a space between keywords will result in a search for passages containing both terms. Entering "Q" and then the article number will automatically call up a specific topic.
+  - string: La saisie de mots-clés séparés d'un espace entraînera une recherche de passages contenant les deux termes. La saisie de "Q" suivi du numéro de l'article affichera une rubrique spécifique.
   215:
-  - string: Transferring to the Help Desk.
+  - string: Transfert vers Aide
   216:
-  - string: Transferring to the Mentor Search.
+  - string: Transfert vers Recherche de mentor.
   217:
-  - string: Transferring to the Config Menu.
+  - string: Transfert vers Config.
   218:
-  - string: Enable Mentor Status.
+  - string: Activer l'état de mentor.
   219:
-  - string: Disable Mentor Status.
+  - string: Désactiver l'état de mentor.
   220:
-  - string: Cancel New Adventurer Status.
+  - string: Annuler l'état de nouvel aventurier.
   221:
-  - string: Help Desk
+  - string: Aide
   222:
   - string: Config
   223:
-  - string: There are no Rooks nearby.
+  - string: Pas de Rooks à proximité.
   224:
-  - string: Remove all equipment from the mannequin?
+  - string: Enlever tout l'équipement du mannequin ?
   225:
-  - string: Registration successful.
+  - string: Enregistrement effectué.
   226:
-  - string: All Jobs
+  - string: Tous les jobs
   227:
-  - string: (Remove All)
+  - string: (Enlever tout)
   228:
-  - string: Remove all set blue magic spells?
+  - string: Enlever tous les sorts de magie bleue fixés ?
   229:
-  - string: Remove all attachments?
+  - string: Enlever tous les circuits ?
   230:
-  - string: MP Cost
+  - string: Coût MP
   231:
-  - string: Next
+  - string: 'Proch.:'
   232:
   - string: |-
-      Currently unable to target others' pets.
-       ("/ignorepet off" to cancel)
+      Actuellement impossible de cibler les animaux de compagnie des autres.
+       ("/ignorepet off" annuler)
   233:
-  - string: Currently able to target others' pets.
+  - string: Actuellement capable de cibler les animaux de compagnie des autres.
   234:
   - string: |-
-      Ability to target others' pets has been disabled.
-       ("/ignorepet off" to cancel)
+      La possibilité de cibler les animaux de compagnie des autres a été désactivée.
+       ("/ignorepet off" annuler)
   235:
-  - string: Ability to target others' pets has been enabled.
+  - string: La possibilité de cibler les animaux de compagnie des autres a été activée.
   236:
   - string: ' '
   237:
-  - string: This macro set will be overwritten. Do you still wish to paste?
+  - string: La palette de macros actuelle sera effacée. Voulez-vous vraiment coller ?
   238:
-  - string: Do you really wish to delete this macro set?
+  - string: Voulez-vous vraiment effacer cette palette de macros ?
   239:
-  - string: This macro book will be overwritten. Do you still wish to paste?
+  - string: Le répertoire de macros actuel sera effacé. Voulez-vous vraiment coller ?
   240:
-  - string: Do you really wish to delete this macro book?
+  - string: Voulez-vous vraiment effacer ce répertoire de macros ?
   241:
-  - string: Leave Mog House.
+  - string: Quittez la maison Mog.
   242:
-  - string: Battle music will now play only when you yourself enter battle mode.
+  - string: La musique de combat se déclenche si vous êtes en mode attaque automatique.
   243:
-  - string: Battle music will now play whenever any party member enters battle mode.
+  - string: La musique de combat se déclenche si vous ou un de vos équipiers êtes en mode attaque automatique.
   244:
-  - string: Bell sounds have been enabled.
+  - string: Son activé.
   245:
-  - string: Bell sounds have been disabled.
+  - string: Son désactivé.
   246:
-  - string: |-
-      All Maze Runes will be removed.
-      Do you wish to proceed?
+  - string: "Toutes les runes seront retirées. \nChanger le sceau de moblyrinthe ?"
   247:
-  - string: The "Call for Help" command is currently being blocked.
+  - string: Le bouton "Appel à l'aide" est désactivé.
   248:
-  - string: The "Call for Help" command is no longer being blocked.
+  - string: Le bouton "Appel à l'aide" est activé.
   249:
-  - string: The /yell chat filter is currently enabled.
+  - string: Le filtre des messages "/yell" est activé.
   250:
-  - string: The /yell chat filter is currently disabled.
+  - string: Le filtre des messages "/yell" est désactivé.
   251:
-  - string: Simplified weather expression has been enabled.
+  - string: La fonction d'affichage simple de la météo a été activée.
   252:
-  - string: Simplified weather expression has been disabled.
+  - string: La fonction d'affichage simple de la météo a été désactivée.
   253:
-  - string: Environmental effect suppression has been enabled.
+  - string: La fonction de contrôle des effets environnementaux a été activée.
   254:
-  - string: Environmental effect suppression has been disabled.
+  - string: La fonction de contrôle des effets environnementaux a été désactivée.
   255:
-  - string: Character armor display has been disabled.
+  - string: La fonction de contrôle de l'apparence du personnage a été désactivée.
   256:
-  - string: Character armor display has been enabled.
+  - string: La fonction de contrôle de l'apparence du personnage a été activée.
   257:
-  - string: Remove all?
+  - string: Voulez-vous vraiment tout retirer ?
   258:
-  - string: Cost
+  - string: Coût
   259:
-  - string: Simplified weather expression is currently enabled.
+  - string: La fonction d'affichage simple de la météo est activée.
   260:
-  - string: Simplified weather expression is currently disabled.
+  - string: La fonction d'affichage simple de la météo est désactivée.
   261:
-  - string: Environmental effect suppression is currently enabled.
+  - string: La fonction de contrôle des effets environnementaux est activée.
   262:
-  - string: Environmental effect supression is currently disabled.
+  - string: La fonction de contrôle des effets environnementaux est désactivée.
   263:
-  - string: Character effect suppression has been enabled.
+  - string: La fonction d'affichage simple des effets des personnages est activée.
   264:
-  - string: Character effect suppression has been disabled.
+  - string: La fonction d'affichage simple des effets des personnages est désactivée.
   265:
-  - string: Character effect suppression is currently enabled.
+  - string: La fonction de contrôle des effets des personnages est activée.
   266:
-  - string: Character effect suppression is currently disabled.
+  - string: La fonction de contrôle des effets des personnages est désactivée.
   267:
-  - string: Targeting of other players' alter egos is currently disabled.
+  - string: Le ciblage des alter ego des autres joueurs est actuellement désactivé.
   268:
-  - string: Targeting of other players' alter egos is currently enabled.
+  - string: Le ciblage des alter ego des autres joueurs est actuellement activé.
   269:
-  - string: Targeting of other players' alter egos has been disabled.
+  - string: Le ciblage des alter ego des autres joueurs a été désactivé.
   270:
-  - string: Targeting of other players' alter egos has been enabled.
+  - string: Le ciblage des alter ego des autres joueurs a été /activé.
   271:
-  - string: Display of other players' alter egos is currently disabled.
+  - string: L'affichage des alter ego des autres joueurs est actuellement désactivé.
   272:
-  - string: Display of other players' alter egos is currently enabled.
+  - string: L'affichage des alter ego des autres joueurs est actuellement activé.
   273:
-  - string: Display of other players' alter egos has been disabled.
+  - string: L'affichage des alter ego des autres joueurs a été désactivé.
   274:
-  - string: Display of other players' alter egos has been enabled.
+  - string: L'affichage des alter ego des autres joueurs a été activé.
   275:
-  - string: Remove piece.
+  - string: Retirez le morceau.
   276:
-  - string: Keep same piece.
+  - string: Gardez le même morceau.
   277:
-  - string: Performing this action will overwrite the current set with a new one. Proceed?
+  - string: L'exécution de cette action écrasera l'ensemble actuel par un nouveau. Procéder?
   278:
-  - string: Truly delete this set?
+  - string: Vraiment supprimer cet ensemble ?
   279:
-  - string: Proceed with overwriting this set with your current equipment?
+  - string: Voulez-vous remplacer cet ensemble par votre équipement actuel ?
   280:
   - string: 'Style: %s'
   281:
-  - string: Linkshells Seeking Members
+  - string: Linkshells recherche des équipes
   282:
-  - string: Hard-core battle content
+  - string: Contenu de combat hardcore
   283:
-  - string: Casual battle content
+  - string: Contenu de bataille occasionnel
   284:
   - string: HNM Vanquishing
   285:
-  - string: Meet other new players
+  - string: Rencontrez d'autres nouveaux joueurs
   286:
-  - string: Assist each other
+  - string: S'entraider
   287:
-  - string: Trading
+  - string: Échange
   288:
-  - string: Nothing
+  - string: Rien
   289:
-  - string: Timestamp on
+  - string: Horodatage activé
   290:
-  - string: Timestamp off
+  - string: Horodatage désactivé
   291:
-  - string: Timestamp on (minutes)
+  - string: Horodatage activé (minutes)
   292:
-  - string: Timestamp on (seconds)
+  - string: Horodatage activé (secondes)
   293:
-  - string: Change floors.
+  - string: Changer d'étage.
   294:
-  - string: '=== Area: Mog House 1F ==='
+  - string: '=== Quartier : Maison Mog 1F ==='
   295:
-  - string: '=== Area: Mog House 2F ==='
+  - string: '=== Quartier : Maison Mog 2F ==='
   296:
-  - string: That furnishing is not placed on this floor.
+  - string: Ce mobilier n'est pas placé à cet étage.
   297:
-  - string: Area of effect display on
+  - string: Affichage de la zone d'effet activé
   298:
-  - string: Area of effect display off
+  - string: Affichage de la zone d'effet désactivé
   299:
-  - string: Adventuring Primer
+  - string: Introduction à l'aventure
   300:
-  - string: Display the adventuring primer.
+  - string: Affichez l’introduction à l’aventure.
   301:
-  - string: Furnishing camera collision has been turned on.
+  - string: La collision de la caméra du meuble a été activée.
   302:
-  - string: Furnishing camera collision has been turned off.
+  - string: La collision de la caméra du meuble a été désactivée.
   303:
-  - string: Furnishing camera collision is currently on.
+  - string: La collision des caméras d'ameublement est actuellement activée.
   304:
-  - string: Furnishing camera collision is currently off.
+  - string: La collision des caméras de mobilier est actuellement désactivée.
   305:
-  - string: Layout control style has been set to type 1.
+  - string: Le style de contrôle de mise en page a été défini sur type 1.
   306:
-  - string: Layout control style has been set to type 2.
+  - string: Le style de contrôle de mise en page a été défini sur type 2.
   307:
-  - string: Layout control style is currently set to type 1.
+  - string: Le style de contrôle de mise en page est actuellement défini sur type 1.
   308:
-  - string: Layout control style is currently set to type 2.
+  - string: Le style de contrôle de mise en page est actuellement défini sur type 2.
   309:
-  - string: 'Charges required: %d.'
+  - string: 'Frais requis: %d.'
   310:
-  - string: Visual effects are enabled.
+  - string: Les effets visuels sont activés.
   311:
-  - string: Visual effects are disabled.
+  - string: Les effets visuels sont désactivés.
   312:
-  - string: Party member status icons are enabled.
+  - string: Les icônes de statut des membres du groupe sont activées.
   313:
-  - string: Party member status icons are disabled.
+  - string: Les icônes de statut des membres du groupe sont désactivées.
   314:
-  - string: 'Focus targeting is enabled. '
+  - string: 'Le ciblage ciblé est activé. '
   315:
-  - string: Focus targeting is disabled.
+  - string: Le ciblage est désactivé.
   316:
-  - string: Status icon timers are enabled.
+  - string: Les minuteries de l'icône d'état sont activées.
   317:
-  - string: Status icon timers are disabled.
+  - string: Les minuteries des icônes d’état sont désactivées.
   318:
-  - string: Subtarget movement increment has been set to %d.
+  - string: L'incrément de mouvement de la sous-cible a été défini sur %d.
   319:
-  - string: 'Current subtarget movement increment: %d.'
+  - string: 'Incrément de mouvement actuel de la sous-cible : %d.'
   320:
-  - string: Really reset request history?
+  - string: Vraiment réinitialiser l'historique des demandes ?
   321:
-  - string: The request has been deleted.
+  - string: La demande a été supprimée.
   322:
-  - string: All requests to join have been deleted.
+  - string: Toutes les demandes d'adhésion ont été supprimées.
   323:
-  - string: Job mastery display (★) is enabled.
+  - string: Affichage de la maîtrise du travail (★) est activé.
   324:
-  - string: Job mastery display (★) is disabled.
+  - string: Affichage de la maîtrise du travail (★) est désactivé.
   325:
-  - string: Blurring has been enabled.
+  - string: Le flou a été activé.
   326:
-  - string: Blurring has been disabled.
+  - string: Le flou a été désactivé.
   327:
-  - string: 'Background music: muted.'
+  - string: 'Musique de fond : sourdine.'
   328:
-  - string: 'Background music: audible.'
+  - string: 'Musique de fond : audible.'
   329:
-  - string: 'Sound effects: muted.'
+  - string: 'Effets sonores : coupés.'
   330:
-  - string: 'Sound effects: audible.'
+  - string: 'Effets sonores : audibles.'
   331:
-  - string: 'Alter ego emotions: linked.'
+  - string: 'Émotions alter ego : liées.'
   332:
-  - string: 'Alter ego emotions: not linked.'
+  - string: 'Émotions alter ego : non liées.'
   333:
-  - string: Alter ego emotions are now linked.
+  - string: Les émotions alter ego sont désormais liées.
   334:
-  - string: Alter ego emotions are no longer linked.
+  - string: Les émotions alter ego ne sont plus liées.
   335:
-  - string: Target added to Mute list.
+  - string: Cible ajoutée à la liste Muet.
   336:
-  - string: Failed to add target to Mute list.
+  - string: Échec de l'ajout de la cible à la liste Muet.
   337:
-  - string: Target removed from Mute list.
+  - string: Cible supprimée de la liste Muet.
   338:
-  - string: Failed to remove target from Mute list.
+  - string: Échec de la suppression de la cible de la liste Muet.
   339:
-  - string: The /AssistJ chat filter is currently enabled.
+  - string: Le /AssistJ filtre de discussion est actuellement activé.
   340:
-  - string: The /AssistJ chat filter is currently disabled.
+  - string: Le /AssistJ filtre de discussion est actuellement désactivé.
   341:
-  - string: The /AssistE chat filter is currently enabled.
+  - string: Le /AssistE filtre de discussion est actuellement activé.
   342:
-  - string: The /AssistE chat filter is currently disabled.
+  - string: Le /AssistE filtre de discussion est actuellement désactivé.
   343:
   - string: |-
-      The linkshell will be thrown away without being recycled.
-      Are you sure?
+      Le linkshell sera jeté sans être recyclé.
+      Êtes-vous sûr?
   344:
   - string: |-
-      This linkshell will be disbanded.
-      Are you sure?
+      Ce linkshell sera dissous.
+      Êtes-vous sûr?
   345:
-  - string: ' ***This message has been deleted.***'
+  - string: ' ***Ce message a été supprimé.***'
   346:
   - string: |-
-      Unable to find %s.
-       Create %s in %s to activate the Term Filter.
+      Impossible de trouver %s.
+       Créez %s dans %s pour activer le filtre de termes.
   347:
-  - string: Failed to load %s.
+  - string: Échec du chargement %s.

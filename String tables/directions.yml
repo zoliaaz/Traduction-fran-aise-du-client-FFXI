@@ -1,20 +1,20 @@
 lists:
   0:
-  - string: east
+  - string: Est
   1:
-  - string: southeast
+  - string: Sud-Est
   2:
-  - string: south
+  - string: Sud
   3:
-  - string: southwest
+  - string: Sud-Ouest
   4:
-  - string: west
+  - string: Ouest
   5:
-  - string: northwest
+  - string: Nord-Ouest
   6:
-  - string: north
+  - string: Nord
   7:
-  - string: northeast
+  - string: Nord-Est
   8:
   - string: N
   9:
@@ -34,16 +34,16 @@ lists:
   16:
   - string: S
   17:
-  - string: SSW
+  - string: SSO
   18:
-  - string: SW
+  - string: SO
   19:
-  - string: WSW
+  - string: OSO
   20:
-  - string: W
+  - string: O
   21:
-  - string: WNW
+  - string: ONO
   22:
-  - string: NW
+  - string: NO
   23:
-  - string: NNW
+  - string: NNO

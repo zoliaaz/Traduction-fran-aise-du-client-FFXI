@@ -1794,29 +1794,29 @@ lists:
   895:
   - string: Restaure des HP.
   896:
-  - string: Augmente la quantité de HP restaurée par votre prochain Waltz.
+  - string: Increases the amount of HP restored by your next Waltz.
   897:
-  - string: Réduit le temps de recharge d'un Pacte de Sang mais augmente son coût en MP.
+  - string: Decreases the recast time of a Blood Pact but causes it to cost more MP.
   898:
-  - string: Permet au prochain sort d'Indicolure lancé de cibler un membre du groupe.
+  - string: Causes the next indicolure spell cast to be able to target a party member.
   899:
-  - string: Invoque un familier sans consommer le contenu de sa cruche.
+  - string: Summons a familiar without consuming the content of its jug.
   900:
-  - string: Accorde un bonus de dégâts au prochain sort d'élémentaire lancé en fonction du TP consommé.
+  - string: Grants a damage bonus to the next elemental magic spell cast based on TP consumed.
   901:
-  - string: Convertit tous les MP en dégâts pour la prochaine attaque.
+  - string: Converts all MP into damage for the next attack.
   902:
-  - string: Augmente la durée des effets de la magie d'amélioration reçue pour les membres du groupe dans la zone d'effet. Nombre chanceux :3. Nombre malchanceux :7.
+  - string: 'Increases the duration of enhancing magic effects received for party members within area of effect. Lucky Number: 3. Unlucky Number: 7.'
   903:
-  - string: Augmente l'esquive magique des membres du groupe dans la zone d'effet. Nombre chanceux :4. Nombre malchanceux :8.
+  - string: 'Increases magic evasion of party members within area of effect. Lucky Number: 4. Unlucky Number: 8.'
   904:
-  - string: Augmente les effets du prochain tirage au sort de Phantom.
+  - string: Increases the effects of the next phantom roll.
   905:
-  - string: Permet au chevalier dragon de prendre une partie des dégâts à la place de son wyvern. L'utilisation de Souffle de Guérison restaure également les HP du wyvern.
+  - string: Enables the dragoon to take some damage on behalf of their wyvern. Using Healing Breath also restores the wyvern's HP.
   906:
-  - string: Augmente la puissance de récupération de Soin et réduit le temps de recharge de Soin. De plus, fait en sorte que les sorts de Soin et de Protection affectent également les membres du groupe dans la zone d'effet.
+  - string: Increases Cure potency and reduces Cure recast time. Additionally, causes Cure and Protect spells to also affect party members in area of effect.
   907:
-  - string: Augmente les dégâts d'attaque à distance, la précision à distance et la précision magique. Diminue l'animosité. S'active lors de l'attaque d'un ennemi à distance depuis un emplacement situé à au moins une yalm de distance de l'endroit où vous l'avez attaqué pour la dernière fois à distance.
+  - string: Incr. Rng. Atk. Dmg., Rng. Acc., and Mag. Acc.. Dec. Enm. Activates when attacking an enemy at range from a location at least one yalm away from where you last attacked it at range.
   908:
   - string: .
   909:
