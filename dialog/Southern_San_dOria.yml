@@ -19875,10 +19875,10 @@ entries:
     .
     None.${prompt}
   8554: |-
-    So be it.
-    You have until the next conquest results announcement to complete this mission.
-    Good luck.${prompt}
-  8555: We will dispose of those unusable supplies.${prompt}
+    Qu'il en soit ainsi.
+    Vous avez jusqu'à la prochaine annonce des résultats de la conquête pour accomplir cette mission.
+    Bonne chance.${prompt}
+  8555: Nous nous débarrasserons des fournitures inutilisables.${prompt}
   8556: |-
     Vous ne pouvez effectuer qu'une seule mission de ravitaillement par jour.
     Revenez plus tard.${prompt}
@@ -34942,22 +34942,22 @@ entries:
   15461: Only those participating in Records of Eminence may trade in items.${prompt}
   15462: You can't shake the feeling that you may be able to learn about Ygnas's whereabouts somewhere in this area.
   15463: Speak with Ploh Trishbahk at Castle Adoulin's front gates (K-9) and report what you have learned about Ygnas.
-  15464: Welcome to the Deeds of Heroism rewards exchange service!${prompt}
+  15464: Bienvenue dans le service d'échange de récompenses d'Actes d'héroïsme!${prompt}
   15465: |-
-    What would you like to do?
+    Qu'aimeriez-vous faire ?
     ${selection-lines}
-    Claim a reward (~960 deeds).
-    Claim a reward (970+ deeds).
-    Use an A.M.A.N. voucher.
-    Receive a ${unknown: 0x01052082D1CF80}.
-    What are Deeds of Heroism?
-    Leave.${prompt}
-  15466: Deeds of Heroism are special points you can earn by completing the Monthly Challenges available under the "Other" menu within the Records of Eminence.${prompt}
-  15467: Once you have accumulated a certain number of Deeds, you can exchange them for various items.${prompt}
-  15468: Rewards that require 970 deeds or more can be reset by collecting a certain amount of deeds.${prompt}
-  15469: There are many fabulous items to be had, including some that will help you on your adventures, so try to earn as many Deeds as possible!${prompt}
+    Demander une récompense (~960 actes).
+    Demander une récompense (970+ actes).
+    Utilisez un bon A.M.A.N..
+    Recevoir un ${unknown: 0x01052082D1CF80}.
+    Qu'est-ce qu'un acte d'héroïsme ?
+    Partir.${prompt}
+  15466: Les actes d'héroïsme sont des points spéciaux que vous pouvez obtenir en relevant les défis mensuels disponibles dans le menu « Autres » des Archives de l'Éminence.${prompt}
+  15467: Une fois que vous avez accumulé un certain nombre de Actes, vous pouvez les échanger contre divers objets.${prompt}
+  15468: Les récompenses nécessitant 970 actes ou plus peuvent être réinitialisées en collectant un certain nombre d'actes.${prompt}
+  15469: Il existe de nombreux objets fabuleux, dont certains vous aideront dans vos aventures, alors essayez de gagner autant d'Actes que possible!${prompt}
   15470: |-
-    Do you want to use an A.M.A.N. voucher?
+    Vous souhaitez utiliser un bon d'achat A.M.A.N. ?
     ${selection-lines}
     ${lettercase: 1}${unknown: 0x01053082E29880}.
     ${lettercase: 1}${unknown: 0x01053082E39880}.
@@ -34981,21 +34981,21 @@ entries:
     ${lettercase: 1}${unknown: 0x01053082959980}.
     ${lettercase: 1}${unknown: 0x01053082969980}.
     ${lettercase: 1}${unknown: 0x01053082979980}.
-    What are A.M.A.N. vouchers?
-    Go back.
-    Leave.${prompt}
-  15471: 'If you have an A.M.A.N. voucher for an item such as a ${unknown: 0x01053082E29880}, you can use it to choose from a list of corresponding items.${prompt}'
-  15472: 'Do you want the ${item-singular: 37[2]}?${prompt}'
-  15473: 'Do you want ${number: 38} ${item-given-plurality: 38[2], 37[2]}?${prompt}'
-  15474: 'Do you want the ${keyitem-singular: 37[2]}?${prompt}'
+    Qu'est-ce qu'un bon A.M.A.N. ?
+    Revenir en arrière.
+    Partir.${prompt}
+  15471: 'Si vous disposez d’un bon A.M.A.N. pour un article tel qu’un ${unknown: 0x01053082E29880}, vous pouvez l’utiliser pour choisir dans une liste d’éléments correspondants.${prompt}'
+  15472: 'Voulez-vous que le ${item-singular: 37[2]}?${prompt}'
+  15473: 'Voulez-vous ${number: 38} ${item-given-plurality: 38[2], 37[2]}?${prompt}'
+  15474: 'Voulez-vous que le ${keyitem-singular: 37[2]}?${prompt}'
   15475: |-
-    Are you sure you want to proceed?
+    Êtes-vous sûr de vouloir continuer ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  15476: You do not possess enough Deeds of Heroism to receive this item.${prompt}
+    Oui.
+    Non.${prompt}
+  15476: Vous ne possédez pas assez d'actes d'héroïsme pour recevoir cet objet..${prompt}
   15477: |-
-    Exchange for what?
+    Échange contre quoi?
     ${selection-lines}
     Pummeler's Armor.
     Anchorite's Attire.
@@ -35020,15 +35020,15 @@ entries:
     Academic's Attire.
     Geomancy Attire.
     Runeist Attire.
-    Go back.
-    Leave.${prompt}
+    Revenir en arrière.
+    Partir.${prompt}
   15478: 'You will receive the following items in the ${choice: 39}[/Pummeler''s Armor/Anchorite''s Attire/Theophany Attire/Spaekona''s Attire/Atrophy Armor/Pillager''s Attire/Reverence Armor/Ignominy Armor/Totemic Armor/Brioso Attire/Orion Attire/Wakido Armor/Hachiya Garb/Vishap Armor/Convoker''s Attire/Assimilator''s Attire/Laksamana''s Attire/Foire Attire/Maxixi Attire/Maxixi Attire/Academic''s Attire/Geomancy Attire/Runeist Attire] set.${prompt}'
   15479: '${lettercase: 1}${item-singular: 36[2]}.${prompt}'
   15480: |-
     Is the ${choice: 39}[/Pummeler's Armor/Anchorite's Attire/Theophany Attire/Spaekona's Attire/Atrophy Armor/Pillager's Attire/Reverence Armor/Ignominy Armor/Totemic Armor/Brioso Attire/Orion Attire/Wakido Armor/Hachiya Garb/Vishap Armor/Convoker's Attire/Assimilator's Attire/Laksamana's Attire/Foire Attire/Maxixi Attire/Maxixi Attire/Academic's Attire/Geomancy Attire/Runeist Attire] okay?
     ${selection-lines}
-    Yes.
-    No.${prompt}
+    Oui.
+    Non.${prompt}
   15481: |-
     Exchange for what?
     ${selection-lines}
@@ -35055,17 +35055,17 @@ entries:
     ${lettercase: 1}${item-singular: 20[2]}.
     ${lettercase: 1}${item-singular: 21[2]}.
     ${lettercase: 1}${item-singular: 22[2]}.
-    Go back.
-    Leave.${prompt}
+    Revenir en arrière.
+    Partir.${prompt}
   15482: |-
-    Are you sure you want the ${item-singular: 37[2]}?
+    Êtes-vous sûr de vouloir le ${item-singular: 37[2]}?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  15483: Once the exchange is made, you cannot take it back. Are you absolutely sure you want to proceed?${prompt}
-  15484: You have already exchanged for this item.${prompt}
+    Oui.
+    Non.${prompt}
+  15483: Une fois l'échange effectué, vous ne pouvez plus revenir en arrière. Êtes-vous absolument sûr de vouloir procéder?${prompt}
+  15484: Vous avez déjà échangé cet article.${prompt}
   15485: |-
-    Which item? (Deeds: ${number: 36})
+    Quel objet? (Actes: ${number: 36})
     ${selection-lines}
     (${choice: 0}[－/★]) ${lettercase: 1}${unknown: 0x0105208287C480} x7: 10.
     (${choice: 1}[－/★]) ${lettercase: 1}${unknown: 0x01052082AE9681}: 20.
@@ -35091,15 +35091,15 @@ entries:
     (${choice: 21}[－/★]) ${lettercase: 1}${unknown: 0x010520828DC680} x5: 220.
     (${choice: 22}[－/★]) ${lettercase: 1}${unknown: 0x01053082E69880}: 230.
     (${choice: 23}[－/★]) ${lettercase: 1}${unknown: 0x01052082DE9F80}: 240.
-    ${choice: 35}[Hide/Show] obtained rewards.
-    10 to 240 Deed rewards.
-    250 to 480 Deed rewards.
-    490 to 720 Deed rewards.
-    730 to 960 Deed rewards.
-    Go back.
-    Leave.${prompt}
+    ${choice: 35}[Cacher/Afficher] récompenses obtenues.
+    10 à 240 Récompenses pour les actes.
+    250 à 480 Récompenses pour les actes.
+    490 à 720 Récompenses pour les actes.
+    730 à 960 Récompenses pour les actes.
+    Revenir en arrière.
+    Partir.${prompt}
   15486: |-
-    Which item? (Deeds: ${number: 36})
+    Quel élément? (Actes: ${number: 36})
     ${selection-lines}
     (${choice: 0}[－/★]) ${lettercase: 1}${unknown: 0x01052082FAA681}: 250.
     (${choice: 1}[－/★]) ${lettercase: 1}${unknown: 0x01052082BAC880} x5: 260.
@@ -35125,13 +35125,13 @@ entries:
     (${choice: 21}[－/★]) ${lettercase: 1}${unknown: 0x01052082BAC880} x5: 460.
     (${choice: 22}[－/★]) ${lettercase: 1}${unknown: 0x01053082E99880}: 470.
     (${choice: 23}[－/★]) ${lettercase: 1}${unknown: 0x01052082D1CF80} 480.
-    ${choice: 35}[Hide/Show] obtained rewards.
-    10 to 240 Deed rewards.
-    250 to 480 Deed rewards.
-    490 to 720 Deed rewards.
-    730 to 960 Deed rewards.
-    Go back.
-    Leave.${prompt}
+    ${choice: 35}[Cacher/Afficher] récompenses obtenues.
+    10 à 240 Récompenses pour les actes.
+    250 à 480 Récompenses pour les actes.
+    490 à 720 Récompenses pour les actes.
+    730 à 960 Récompenses pour les actes.
+    Revenir en arrière.
+    Partir.${prompt}
   15487: |-
     Which item? (Deeds: ${number: 36})
     ${selection-lines}
