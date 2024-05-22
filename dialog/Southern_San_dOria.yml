@@ -19618,31 +19618,31 @@ entries:
   8424: The immortal dragons shun the death-bringing demons, while the demon spellweavers avoid dragons, against whom their magic is useless.${prompt}
   8425: All of this is different from the regular divisions of life, based upon my own experience and observation.${prompt}
   8426: Sharpen your senses, and watch your enemies closely. Soon, a world of understanding will open before you.${prompt}
-  8427: Finding your way around Southern San d'Oria? You can look at my map if you'd like.${prompt}
+  8427: Vous cherchez votre chemin dans le sud de San d'Oria ? Vous pouvez regarder ma carte si vous le souhaitez.${prompt}
   8428: |-
-    Look at the map?
+    Regarder la carte ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  8429: Here in the center lies Victory Square. West is Pikeman's Way and Watchdog Alley, where you'll find the Tanners' Guild and Taumila's Sundries.${prompt}
-  8430: East is Cavalry Way and Squire Alley, with armor and weapons shops, and a tavern. The gate at the end leads to the housing area.${prompt}
-  8431: Is that so? Pity.${prompt}
-  8432: This is San d'Oria's South Auction House. Inquire at the service windows if you've goods to offer for auction.${prompt}
-  8433: That lad Raminel runs parcels for us. Ever does he toil to support his ill mother. Why, it brings tears to my eyes!${prompt}
-  8434: You're one of my favorite recruits, and always have given you new missions. But I must look after many more adventurers than just yourself.${prompt}
-  8435: Henceforth, I must judge your worthiness for your next mission based on your rank points.${prompt}
-  8436: In order to earn rank points, participate in our conquests, and thereby get crystals to give to the Temple Knight.${prompt}
-  8437: If you want to know more about conquests, ask the Temple Knight who stands before any gate.${prompt}
-  8438: If you want to send something to a friend's, or even your own Mog House, we are at your service. Please don't hesitate to ask.${prompt}
+    Oui.
+    Non.${prompt}
+  8429: Ici, au centre se trouve la Place de la Victoire. À l'ouest se trouvent la Rue des Lanciers et la Ruelle des Veilleurs, où vous trouverez la Guilde des Tanneurs et les Articles de Taumila.${prompt}
+  8430: À l'est se trouvent la Rue de la Cavalerie et la Ruelle de l'Écuyer, avec des boutiques d'armures et d'armes, et une taverne. La porte au bout mène à la zone résidentielle.${prompt}
+  8431: Vraiment ? Dommage.${prompt}
+  8432: C'est la Maison des Ventes du sud de San d'Oria. Renseignez-vous aux guichets de service si vous avez des marchandises à mettre aux enchères.${prompt} 
+  8433: Ce garçon, Raminel, fait des livraisons pour nous. Il travaille dur pour soutenir sa mère malade. Oh, cela me met les larmes aux yeux !${prompt}
+  8434: Vous êtes l'un de mes recrues préférées, et je vous ai toujours donné de nouvelles missions. Mais je dois m'occuper de beaucoup plus d'aventuriers que vous.${prompt}
+  8435: Désormais, je dois juger votre valeur pour votre prochaine mission en fonction de vos points de grade.${prompt}
+  8436: Pour gagner des points de grade, participez à nos conquêtes, et obtenez ainsi des cristaux à donner au Chevalier du Temple.${prompt}
+  8437: Si vous voulez en savoir plus sur les conquêtes, demandez au Chevalier du Temple qui se tient devant n'importe quelle porte.${prompt}
+  8438: Si vous voulez envoyer quelque chose chez un ami, ou même à votre propre Maison Mog, nous sommes à votre service. N'hésitez pas à demander.${prompt}
   8439: |-
-    Send an item?
+    Envoyer un objet ?
     ${selection-lines}
-    Send something.
-    No, thanks.${prompt}
-  8440: Parcels delivered to rooms anywhere in Vana'diel!${prompt}
-  8441: I can't accept stuff I haven't asked for yet. Listen to my rrrequest first, silly!${prompt}
-  8442: Well done, ${name-player}! You have my--nay--all of our gratitude. With this, our Kingdom of San d'Oria will surely know peace at last.${prompt}
-  8443: 'Like ${article} ${item-article: 0[2]}?${prompt}'
+    Envoyer quelque chose.
+    Non, merci.${prompt}
+  8440: Livraison de colis dans toutes les pièces de Vana'diel !${prompt}
+  8441: Je ne peux pas accepter des choses que je n'ai pas demandées encore. Écoutez d'abord ma demande, voyons !${prompt}
+  8442: Bien joué, ${name-player} ! Vous avez ma -- non -- toute notre gratitude. Avec cela, notre Royaume de San d'Oria connaîtra sûrement enfin la paix.${prompt}
+  8443: 'Aimeriez-vous ${article} ${item-article: 0[2]} ?${prompt}'
   8444: Hello!${prompt}
   8445: |-
     Accept mission?
@@ -36372,12 +36372,12 @@ entries:
     ${selection-lines}
     Yes, please.
     No, thank you.${prompt}
-  16062: Just looking at you gives me this wonderful tingling feeling...${prompt}
-  16063: 'Maybe it would be even more tingly if you completed at least ${number: 0} Records of Eminence objective${choice-plurality: 0}[/s] for me.${prompt}'
-  16064: My good friend Rolandienne can get you started!${prompt}
-  16065: 'If only a ${choice-player-gender}[dashing prince/dazzling maiden] could win my heart over by setting the “${unknown: 0x01054082818080}” Records of Eminence objective from the “Tutorial” category...${prompt}'
-  16066: 'Why, sweetie--is that ${unknown: 0x01054082818080} you have set there?${prompt}'
-  16067: |-
+  16062: Juste en te regardant, je ressens cette merveilleuse sensation de picotement...${prompt}
+  16063: 'Peut-être que cela serait encore plus chatouilleux si tu complétais au moins ${number: 0} objectif ${choice-plurality: 0} de Records of Eminence pour moi.${prompt}'
+  16064: Mon bon ami Rolandienne peut te mettre sur la voie !${prompt}
+  16065: 'Si seulement un ${choice-player-gender}[prince charmant/princesse éblouissante] pouvait conquérir mon cœur en fixant l’objectif de Records of Eminence “${unknown: 0x01054082818080}” de la catégorie “Tutorial”...${prompt}'
+  16066: 'Oh, mon chéri--est-ce que c’est ${unknown: 0x01054082818080} que tu as fixé là ?${prompt}'
+  16067: |- 
     Is it?
     ${selection-lines}
     Sure is!
