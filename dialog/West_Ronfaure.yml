@@ -18029,51 +18029,51 @@ entries:
   7362: Qu'est-ce que c'est ? Je ne peux pas accepter de cadeaux de la part d'étrangers.${prompt}
   7363: 'Qu’est-il arrivé à ce ${item-singular: 0[2]} que je vous ai donné ? Vous ne l’avez pas perdu, n’est-ce pas ?${prompt}'
   7364: |-
-    Did you lose it?
+    Est-ce que tu l'as perdu ?
     ${selection-lines}
-    No, here it is!
-    I lost the container.${prompt}
-  7365: Ah, all is well, then.${prompt}
-  7366: 'You should take more care with other people''s things! Here''s ${article} ${item-article: 0[2]} I found just a while ago. You can take this one to my wife instead.${prompt}'
-  7367: 'What? You lost the ${item-singular: 1[2]}? Fine, I''ll give you one I found just a while ago. You can take this to my wife instead.${prompt}'
-  7368: 'Just deliver that ${item-singular: 1[2]} to my wife. Thanks!${prompt}'
-  7369: I patrol the roads to the Southgate. Move along!${prompt}
-  7370: The road to the Southgate is secure!${prompt}
-  7371: I'm watching the roads to the La Theine Plateau. Out of the way!${prompt}
-  7372: The road to La Theine is secure!${prompt}
-  7373: I'm watching for intruders from Ghelsba. I've no time to chat.${prompt}
-  7374: The road to Ghelsba is secure!${prompt}
-  7375: Step aside! I'm watching the roads to the Westgate.${prompt}
-  7376: The roads to the Westgate are secure!${prompt}
-  7377: A pickpocket, out here? Phew, my wallet is safe.${prompt}
-  7378: What do you want? I'm busy, so make it quick.${prompt}
-  7379: 'Me, a pickpocket? Is this the way of adventurers today, chasing down and accusing ladies of crimes? And without proof, I might add!${prompt} '
-  7380: Just who do you think you are? Look, let's just forget this little meeting ever happened. Good day!${prompt}
-  7381: What!? If you insist on playing the sheriff, I suggest you bring evidence!${prompt}
-  7382: 'What''s that? Say, that ${item-singular: 0[2]}, that''s mine! I must have dropped it when I ran into you at the dock...${prompt}'
-  7383: Whoops, I've gone and said it now.${prompt}
-  7384: 'Fine. Here''s those worthless ${item-singular: 1[2]} back. Satisfied? Good. Now off with you!${prompt}'
-  7385: What's this? You should know better than to drop whatever you please in someone's residence!${prompt}
-  7386: What is it!? If you've no further business here, leave!${prompt}
-  7387: What? You lost the glasses!?${prompt}
-  7388: I may be a thief, but I'm not the lost and found! Go find them on your own!${prompt}
-  7389: Scout reporting! All is quiet on the road to Ghelsba!${prompt}
-  7390: Let me be! I must patrol the road to Ghelsba.${prompt}
-  7391: I bring word of Ghelsba to the Westgate. Out of my way!${prompt}
-  7392: Scout reporting! All is quiet on the roads to La Theine!${prompt}
-  7393: I must scour the roads to La Theine for signs of the enemy. Let me pass!${prompt}
-  7394: Let me be! I return to Southgate with word on La Theine.${prompt}
-  7395: A pickpocket? No, I haven't seen anyone matching that description. I've only seen Aaveleon, and a rather brusque woman.${prompt}
-  7396: A pickpocket, out here? Can't say I've seen anyone like that. I'll keep my eyes peeled.${prompt}
-  7397: Our people often fall prey to roving Orcs nearby. Take care out there!${prompt}
-  7398: Some monsters attack without warning. In these woods, Orcs and Goblins are what you should watch out for.${prompt}
-  7399: They rarely prowl in groups, but look out when their friends are nearby. They'll team up to attack you!${prompt}
-  7400: Nothing to report.${prompt}
-  7401: Hey, you there! How did you get in here? Where's your pass?${prompt}
-  7402: This watchtower was built to strengthen Ranperre Gate. You can look around, but stay out of our way.${prompt}
-  7403: Ghelsba and its Orcish camps lie at the foot of mountains yonder. We must be vigilant! They could attack at any time.${prompt}
-  7404: What, done already? Have a safe trip home.${prompt}
-  7405: --Zone jump to watchtower entrance--${prompt}
+    Non, le voici !
+    J'ai perdu le conteneur.
+  7365: Ah, tout va bien alors.
+  7366: "Tu devrais prendre plus soin des affaires des autres ! Voici une paire de lunettes que j'ai trouvée il y a peu de temps. Tu peux apporter celle-ci à ma femme à la place."
+  7367: "Quoi ? Tu as perdu les lunettes ? Bon, je te donnerai celles que j'ai trouvées il y a peu de temps. Tu peux apporter celles-ci à ma femme à la place."
+  7368: "Apporte juste ces lunettes à ma femme. Merci !"
+  7369: Je patrouille sur les routes menant à la Porte Sud. Avance !
+  7370: La route de la Porte Sud est sécurisée !
+  7371: Je surveille les routes menant au Plateau de La Théine. Faites de la place !
+  7372: La route de La Théine est sécurisée !
+  7373: Je surveille les intrus venant de Ghelsba. Je n'ai pas le temps de bavarder.
+  7374: La route de Ghelsba est sécurisée !
+  7375: Faites de la place ! Je surveille les routes menant à la Porte de l'Ouest.
+  7376: Les routes menant à la Porte de l'Ouest sont sécurisées !
+  7377: Un pickpocket, ici ? Ouf, mon portefeuille est en sécurité.
+  7378: Que veux-tu ? Je suis occupé, alors fais vite.
+  7379: "Moi, un pickpocket ? Est-ce là la manière des aventuriers aujourd'hui, de pourchasser et d'accuser les dames de crimes ? Et sans preuve, je pourrais ajouter !"
+  7380: Mais qui crois-tu être ? Écoute, oublions tout simplement que cette petite rencontre ait jamais eu lieu. Bonne journée !
+  7381: Quoi !? Si tu insistes pour jouer au shérif, je te suggère d'apporter des preuves !
+  7382: "Qu'est-ce que c'est ? Dis donc, ces lunettes, elles sont à moi ! Je dois les avoir laissées tomber quand je t'ai rencontré au quai..."
+  7383: Oups, j'ai dit ça maintenant.
+  7384: "D'accord. Voici ces lunettes sans valeur de retour. Satisfait ? Bien. Maintenant, va-t'en !"
+  7385: Qu'est-ce que c'est ? Tu devrais savoir mieux que de laisser tomber ce que tu veux dans la résidence de quelqu'un !
+  7386: Qu'est-ce que c'est !? Si tu n'as plus rien à faire ici, pars !
+  7387: Quoi ? Tu as perdu les lunettes !?
+  7388: Je suis peut-être un voleur, mais je ne suis pas le bureau des objets trouvés ! Allez les chercher vous-même !
+  7389: Rapport de scout ! Tout est calme sur la route de Ghelsba !
+  7390: Laissez-moi tranquille ! Je dois patrouiller sur la route de Ghelsba.
+  7391: J'apporte des nouvelles de Ghelsba à la Porte de l'Ouest. Écartez-vous !
+  7392: Rapport de scout ! Tout est calme sur les routes de La Théine !
+  7393: Je dois fouiller les routes de La Théine à la recherche de signes de l'ennemi. Laissez-moi passer !
+  7394: Laissez-moi tranquille ! Je retourne à la Porte du Sud avec des nouvelles sur La Théine.
+  7395: Un pickpocket ? Non, je n'ai pas vu quelqu'un correspondant à cette description. J'ai seulement vu Aaveleon et une femme plutôt brusque.
+  7396: Un pickpocket, ici ? Je ne peux pas dire que j'ai vu quelqu'un comme ça. Je vais garder les yeux ouverts.
+  7397: Nos gens tombent souvent sous la menace des Orcs errants à proximité. Faites attention là-bas !
+  7398: Certains monstres attaquent sans prévenir. Dans ces bois, ce sont les Orcs et les Gobelins que vous devriez craindre.
+  7399: Ils rôdent rarement en groupes, mais faites attention quand leurs amis sont à proximité. Ils s'allieront pour vous attaquer !
+  7400: Rien à signaler.
+  7401: Hé, toi là ! Comment es-tu entré ici ? Où est ton laissez-passer ?
+  7402: Cette tour de guet a été construite pour renforcer la Porte de Ranperre. Vous pouvez regarder autour, mais ne gênez pas notre travail.
+  7403: Ghelsba et ses camps orcs se trouvent au pied des montagnes là-bas. Nous devons rester vigilants ! Ils pourraient attaquer à tout moment.
+  7404: Déjà fini ? Bon retour chez vous.
+  7405: --Saut de zone à l'entrée de la tour de guet--
   7406: |-
     East: East Ronfaure
     South: La Theine Plateau${prompt}
@@ -19741,59 +19741,59 @@ entries:
   8255: ${prompt}
   8256: ${prompt}
   8257: |-
-    Kupo-whoa-whoa there, pardner!
-    Care to saddle up and help us rustle up a couple o' wild buffalo?
-    'Cause we've got a stampede on our hands, I reckon!${prompt}
+    Kupo-whoa-whoa là, pardner !
+    Tu veux bien seller et nous aider à rassembler quelques buffles sauvages ?
+    Parce qu'on a une ruée vers nous, j'imagine !${prompt}
   8258: |-
-    Lend a hand?
+    Prêter main-forte ?
     ${selection-lines}
-    <Skedaddle away.>
-    A stampede, you say?
-    I reckon I will.${prompt}
+    <Partir en courant.>
+    Une ruée, tu dis ?
+    Je suppose que je vais le faire.${prompt}
   8259: |-
-    Well, sit down and grab a sarsaparilla, and I'll tell you the tale, kupo.
-    You see, the Mog House Management Union (MHMU) ain't too popular among the townsfolk these days, and they've been talkin' with their wallets by not sendin' too many gold nuggets our way, if you catch my drift.${prompt}
-  8260: But seein' as how we moogles are an enterprisin' bunch, we done hatched ourselves a plan, y'hear?${prompt}
-  8261: A plan we call... The Buffalo Bonanza Ranch! Yeeeeee-hawww!!!${prompt}
-  8262: Rustle up a herd of the most darn-tootin' fearsome buffalo from over and yonder, throw a fence around 'em, and you done got yerself the rip-roarin'est dude ranch this side of the Rio Rafeloux, kupo!${prompt}
-  8263: Set up a saloon on the side serving scrumptious buffalo burgers, and you've got contented customers filling our moogle coffers with mucho dinero... Comprende?${prompt}
-  8264: That there was the plan, pardner.${prompt}
-  8265: So we lassoed up a herd o' ill-tempered buffalo from the mountains up north, and were leadin' our li'l dogies back this-a-way to town...${prompt}
-  8266: And that's when we hit a bit o' a snag.${prompt}
-  8267: Dagnabbit if I know where they came from, but a swarm of confounded chigoes done showed up!${prompt}
+    Eh bien, assieds-toi et attrape une sarsaparilla, et je vais te raconter l'histoire, kupo.
+    Tu vois, le Syndicat de Gestion de la Maison des Mog (SGMM) n'est pas très populaire parmi les habitants de la ville ces jours-ci, et ils ont exprimé leur mécontentement en ne nous envoyant pas beaucoup de pépites d'or, si tu vois ce que je veux dire.${prompt}
+  8260: Mais étant donné que nous, les mogs, sommes un groupe entreprenant, nous avons concocté un plan, tu vois ?${prompt} 
+  8261: Un plan que nous appelons... Le Ranch de la Bonanza des Buffles ! Yeeeeee-hawww !!!${prompt}
+  8262: Rassemble un troupeau des buffles les plus redoutables de par là-bas, mets une clôture autour d'eux, et tu te retrouves avec le ranch le plus animé de ce côté-ci du Rio Rafeloux, kupo !${prompt}
+  8263: Installe un saloon sur le côté servant des délicieux hamburgers de buffle, et tu auras des clients satisfaits remplissant nos coffres mogs de beaucoup d'argent... Comprends-tu ?${prompt}
+  8264: Voilà ce que c'était le plan, mon ami.${prompt}
+  8265: Alors, nous avons attrapé un troupeau de buffles au tempérament de feu dans les montagnes au nord, et nous menions nos petits veaux de retour vers la ville...${prompt}
+  8266: Et c'est là que nous avons rencontré un petit problème.${prompt} 
+  8267: Nom d'un chien si je sais d'où ils viennent, mais un essaim de chiques maudites est apparu !${prompt}
   8268: |-
-    Now y'see, these buffalo come from the mountains, and ain't never seen the likes of no chigoes before.
-    They raised a right ruckus, and next thing y'know, we done had a stampede on our hands!${prompt}
+    Maintenant, tu vois, ces buffles viennent des montagnes, et ils n'ont jamais vu de chiques auparavant.
+    Ils ont fait un sacré boucan, et la prochaine chose que tu sais, nous avions une véritable débandade sur les bras !${prompt}
   8269: |-
-    Y'ever see a stampedin' buffalo?
-    Even our moogle hypnosis did 'bout as much good as a poke in the ear with a rusty cattle prod, kupo!${prompt}
+    As-tu déjà vu un buffle en train de foncer ?
+    Même notre hypnose moogle n'a pas été plus efficace qu'un coup de pied dans l'oreille avec un vieux bâton de bétail rouillé, kupo !${prompt}
   8270: |-
-    That's where you come in, pardner.
-    What say you saddle up and help us moogles round up these beasties?${prompt}
+    C'est là que tu interviens, mon ami.
+    Que dirais-tu de t'installer en selle et de nous aider, les mogs, à rassembler ces bestioles ?${prompt}
   8271: |-
-    For each buffalo you capture, we'll give you one o' these here “bovine brands.”
-    Collect 'em and mount 'em and you'll be eligible to win a veritable bonanza o' special prizes!${prompt}
-  8272: '${color-alt: 15}${name-npc} looks at you with puppy-dog eyes...'
+    Pour chaque buffle que tu captures, nous te donnerons l'une de ces "marques de bovin".
+    Collectionne-les et accroche-les, et tu seras éligible pour remporter une véritable avalanche de prix spéciaux !${prompt}
+  8272: '${color-alt: 15}${name-npc} te regarde avec des yeux de chien battu...'
   8273: |-
-    Now, I'd do this myself and save y'all the trouble, but jus' look at me...
-    One kick from a stampedin' buffalo and my puny moogle body'd be flung right to the other side o' Vana'diel, I reckon!${prompt}
+    Maintenant, je le ferais moi-même et vous épargnerais tout ce tracas, mais regarde-moi...
+    Un coup de sabot d'un buffle en pleine débâcle et mon petit corps moogle serait propulsé de l'autre côté de Vana'diel, je suppose !${prompt}
   8274: |-
-    Y'all got nothin' to worry 'bout, though.
-    As big and sturdy as you are, I reckon you'd only fly to just over yonder a-ways.${prompt}
-  8275: And as an added bonus, you can trade the bovine brands you've earned for a whole kit 'n caboodle o' Buffalo Bonanza Ranch goods and prizes! Yeeeeee-haw, kupo!${prompt}
-  8276: So how's about it, pardner?${prompt}
-  8277: '${color-alt: 15}${name-npc} gazes at ${name-player} with a steely glint in his eye.'
+    Mais vous n'avez pas de soucis à vous faire, pourtant.
+    Aussi gros et costaud que vous soyez, je suppose que vous ne voleriez qu'un peu plus loin, juste par là-bas.${prompt}
+  8275: Et comme bonus supplémentaire, vous pouvez échanger les marques de bovin que vous avez gagnées contre tout un tas de marchandises et de prix du Buffalo Bonanza Ranch ! Yeeeeee-haw, kupo !${prompt}
+  8276: Alors, qu'en dites-vous, mon ami ?${prompt}
+  8277: '${color-alt: 15}${name-npc} fixe ${name-player} avec un regard déterminé.'
   8278: |-
-    Saddle up?
+    En selle ?
     ${selection-lines}
-    I think I'll pass.
-    Sure. Yeee-haw!${prompt}
+    Je pense que je vais passer.
+    Bien sûr. Yeee-haw !${prompt}
   8279: |-
-    Yippie ki-yi-yay!!!
-    Much obliged, pardner!${prompt}
-  8280: If your cow-herdin' skills are up to the task, we'll stamp you some “bovine brands” on this here sheet.${prompt}
-  8281: Once you've racked up your share o' brands, just mosey back on over here to claim your prizes!${prompt}
-  8282: 'So sharpen your spurs, and when you''re ready, herd up the buffalo and lead them to the moogle cowhand in area ${choice: 3}[G-9/I-8/G-9/H-9/H-6/I-7], kupo!${prompt}'
+    Youpie ki-yi-yay !!!
+    Merci beaucoup, mon ami !${prompt}
+  8280: Si vos compétences de conduite de bétail sont à la hauteur de la tâche, nous vous tamponnerons quelques “marques de bovin” sur cette feuille, ici.${prompt}
+  8281: Une fois que vous aurez accumulé votre part de marques, revenez simplement ici pour réclamer vos prix !${prompt}
+  8282: 'Alors, affûtez vos éperons, et quand vous serez prêt, rassemblez les buffles et amenez-les au cow-boy moogle dans la zone ${choice: 3}[G-9/I-8/G-9/H-9/H-6/I-7], kupo !${prompt}'
   8283: |-
     Ready to go?
     ${selection-lines}
