@@ -34813,7 +34813,7 @@ entries:
     Des mots sages sur les Records of Eminence.
     Rien.${prompt}
   15436: |-
-    Exchange up to ${number: 34} Spa. (Sparks: ${number: 0})
+    Échanger jusqu'à ${number: 34} étincelles contre Spa. (Étincelles : ${number: 0})
     ${selection-lines}
     ${lettercase: 1}${item-singular: 1[2]}. (${number: 16})
     ${lettercase: 1}${item-singular: 2[2]}. (${number: 17})
@@ -34830,82 +34830,82 @@ entries:
     ${lettercase: 1}${item-singular: 13[2]}. (${number: 28})
     ${lettercase: 1}${item-singular: 14[2]}. (${number: 29})
     ${lettercase: 1}${item-singular: 15[2]}. (${number: 30})
-    Previous page.
-    Next page.
-    None.${prompt}
+    Page précédente.
+    Page suivante.
+    Aucun.${prompt}
   15437: |-
-    Receive how many? (${number: 6} spark${choice-plurality: 6}[/s])
+    Recevoir combien ? (${number: 6} étincelle${choice-plurality: 6}[/s])
     ${selection-lines}
-    One. (${number: 1} spark${choice-plurality: 1}[/s])
-    Three. (${number: 2} spark${choice-plurality: 2}[/s])
-    Twelve. (${number: 3} spark${choice-plurality: 3}[/s])
-    Thirty-six. (${number: 4} spark${choice-plurality: 4}[/s])
-    None.${prompt}
-  15438: 'Are you sure you want to expend ${number: 0} spark${choice-plurality: 0}[/s] of eminence on this?${prompt}'
+    Un. (${number: 1} étincelle${choice-plurality: 1}[/s])
+    Trois. (${number: 2} étincelle${choice-plurality: 2}[/s])
+    Douze. (${number: 3} étincelle${choice-plurality: 3}[/s])
+    Trente-six. (${number: 4} étincelle${choice-plurality: 4}[/s])
+    Aucun.${prompt}
+  15438: 'Êtes-vous sûr de vouloir dépenser ${number: 0} étincelle${choice-plurality: 0}[/s] d’éminence pour cela ?${prompt}'
   15439: |-
-    Make the exchange?
+    Effectuer l'échange ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
+    Oui.
+    Non.${prompt}
   15440: |-
-    Exchange for what? (On hand: ${number: 0})
+    Échanger contre quoi ? (En main : ${number: 0})
     ${selection-lines}
-    Currencies.
+    Monnaies.
     Provisions.
-    None for the nonce.${prompt}
+    Rien pour le moment.${prompt}
   15441: |-
-    Exchange for what? (On hand: ${number: 0})
+    Échanger contre quoi ? (En main : ${number: 0})
     ${selection-lines}
-    Sparks of Eminence: ${number: 1}.
-    Conquest Points: ${number: 2}.
-    Imperial Standing: ${number: 3}.
-    Allied Notes: ${number: 4}.
-    Bayld: ${number: 5}.
-    Valor Pts.: ${number: 6}.
-    Aslt. Pts. (Leujaoam): ${number: 7}.
-    Aslt. Pts. (T. Grounds): ${number: 8}.
-    Aslt. Pts. (Lebros): ${number: 9}.
-    Aslt. Pts. (Periqia): ${number: 10}.
-    Aslt. Pts. (Ilrusi): ${number: 11}.
-    Cruor: ${number: 12}.
-    Kinetic Units: ${number: 13}.
-    Obs. Fragments: ${number: 14}.
-    M. Plasm Corpuscles: ${number: 15}.
-    Ballista Points: ${number: 16}. (2000 max)
-    Unity Accolades: ${number: 17}.
-    Escha Silt: ${number: 18}.
-    Resistance Credits: ${number: 19}.
-    Nothing for the nonce.${prompt}
+    Étincelles d'éminence : ${number: 1}.
+    Points de conquête : ${number: 2}.
+    Position impériale : ${number: 3}.
+    Notes alliées : ${number: 4}.
+    Bayld : ${number: 5}.
+    Points de vaillance : ${number: 6}.
+    Points d'assaut (Leujaoam) : ${number: 7}.
+    Points d'assaut (T. Grounds) : ${number: 8}.
+    Points d'assaut (Lebros) : ${number: 9}.
+    Points d'assaut (Periqia) : ${number: 10}.
+    Points d'assaut (Ilrusi) : ${number: 11}.
+    Cruor : ${number: 12}.
+    Unités cinétiques : ${number: 13}.
+    Fragments d'obsidienne : ${number: 14}.
+    Corpuscules de plasm. M. : ${number: 15}.
+    Points de baliste : ${number: 16}. (maximum 2000)
+    Accolades d'unité : ${number: 17}.
+    Silt escha : ${number: 18}.
+    Crédits de résistance : ${number: 19}.
+    Rien pour le moment.${prompt}
   15442: |-
-    Exchange how many points? (On hand: ${number: 0})
+    Échanger combien de points ? (En main : ${number: 0})
     ${selection-lines}
-    ${number: 1} (One).
-    ${number: 2} (Three).
-    ${number: 3} (Ten).
-    ${number: 4} (Thirty).
-    None.${prompt}
-  15443: 'You now have ${number: 1} ${choice: 0}[sparks of eminence/conquest points/points of imperial standing/Allied Notes/bayld/Fields of Valor points/assault points (Leujaoam)/assault points (Mamool Ja Training Grounds)/assault points (Lebros Cavern)/assault points (Periqia)/assault points (Ilrusi Atoll)/cruor/kinetic units/obsidian fragments/mweya plasm corpuscles/ballista points/Unity accolades/pinches of Escha silt/resistance credits].${prompt}'
-  15444: Beware that any amount that exceeds the maximum storage limit will unceremoniously vanish into the aether.${prompt}
+    ${number: 1} (Un).
+    ${number: 2} (Trois).
+    ${number: 3} (Dix).
+    ${number: 4} (Trente).
+    Aucun.${prompt}
+  15443: 'Vous avez désormais ${number: 1} ${choice: 0}[étincelles d’éminence/points de conquête/points de position impériale/notes alliées/bayld/points de vaillance/points d’assaut (Leujaoam)/points d’assaut (Terrains d’entraînement Mamool Ja)/points d’assaut (grottes de Lebros)/points d’assaut (Periqia)/points d’assaut (atoll d’Ilrusi)/cruor/unités cinétiques/fragments d’obsidienne/corpuscules de plasm Mweya/points de baliste/accolades d’unité/pincées de silt escha/crédits de résistance].${prompt}'
+  15444: 'Attention, tout montant dépassant la limite de stockage maximale disparaîtra sans cérémonie dans l’éther.${prompt}'
   15445: |-
-    Exchange for what? (On hand: ${number: 0})
+    Échanger contre quoi ? (En main : ${number: 0})
     ${selection-lines}
     ${lettercase: 1}${item-singular: 1[2]}.
     ${lettercase: 1}${item-singular: 2[2]}.
     ${lettercase: 1}${item-singular: 3[2]}.
-    Nothing for the nonce.${prompt}
+    Rien pour le moment.${prompt}
   15446: |-
-    Exchange how many? (On hand: ${number: 0})
+    Échanger combien ? (En main : ${number: 0})
     ${selection-lines}
-    One (${number: 1}).
-    Three (${number: 2}).
-    Ten (${number: 3}).
-    Thirty (${number: 4}).
-    None.${prompt}
-  15447: 'Truly exchange ${number: 0} (${number: 2})?${prompt}'
-  15448: Are you quite satisfied with your selection?${prompt}
-  15449: 'You wish to exchange ${keyitem-article: 1[2]}, ${keyitem-article: 2[2]}, ${keyitem-article: 3[2]}, ${keyitem-article: 4[2]}, ${keyitem-article: 5[2]}, and ${keyitem-article: 6[2]} for equipment?${prompt}'
+    Un (${number: 1}).
+    Trois (${number: 2}).
+    Dix (${number: 3}).
+    Trente (${number: 4}).
+    Aucun.${prompt}
+  15447: 'Échanger vraiment ${number: 0} (${number: 2}) ?${prompt}'
+  15448: Êtes-vous tout à fait satisfait de votre sélection ?${prompt}
+  15449: 'Voulez-vous échanger ${keyitem-article: 1[2]}, ${keyitem-article: 2[2]}, ${keyitem-article: 3[2]}, ${keyitem-article: 4[2]}, ${keyitem-article: 5[2]} et ${keyitem-article: 6[2]} contre de l’équipement ?${prompt}'
   15450: |-
-    Exchange for what?
+    Échanger contre quoi ?
     ${selection-lines}
     ${lettercase: 1}${item-singular: 1[2]}.
     ${lettercase: 1}${item-singular: 2[2]}.
@@ -34922,26 +34922,26 @@ entries:
     ${lettercase: 1}${item-singular: 13[2]}.
     ${lettercase: 1}${item-singular: 14[2]}.
     ${lettercase: 1}${item-singular: 15[2]}.
-    Previous page.
-    Next page.
-    Nothing for the nonce.${prompt}
-  15451: The A.M.A.N. is pleased to announce a new service in which we purchase any equipment you no longer need--new or used.${prompt}
-  15452: Just trade me any piece of equipment you desire. I will quickly assess its value and award you with an appropriate number of reclamation marks.${prompt}
-  15453: 'Once you accumulate ${number: 0} of these marks, they will be automatically converted to one ${item-singular: 1[2]} and added to the total number held.${prompt}'
-  15454: Though I am only authorized to accept a limited selection of equipment at present, the A.M.A.N. is considering making further additions to this list, so please check back regularly.${prompt}
-  15455: 'Would you like ${number: 0} reclamation mark${choice-plurality: 0}[/s] in exchange for one ${item-singular: 1[2]}? You currently have ${number: 5} mark${choice-plurality: 5}[/s].${prompt}'
+    Page précédente.
+    Page suivante.
+    Rien pour le moment.${prompt}
+  15451: L'A.M.A.N. est heureux d'annoncer un nouveau service dans lequel nous achetons tout équipement dont vous n'avez plus besoin, neuf ou usagé.${prompt}
+  15452: Il vous suffit d'échanger avec moi n'importe quel équipement que vous désirez. Je vais rapidement évaluer sa valeur et vous remettre un nombre approprié de marques de reprise.${prompt}
+  15453: 'Une fois que vous aurez accumulé ${number: 0} de ces marques, elles seront automatiquement converties en un ${item-singular: 1[2]} et ajoutées au nombre total détenu.${prompt}'
+  15454: Bien que je sois uniquement autorisé à accepter une sélection limitée d'équipements pour le moment, l'A.M.A.N. envisage d'ajouter d'autres éléments à cette liste, alors veuillez vérifier régulièrement.${prompt}
+  15455: 'Souhaitez-vous ${number: 0} marque de reprise en échange d’un ${item-singular: 1[2]} ? Vous possédez actuellement ${number: 5} marque${choice-plurality: 5}[/s].${prompt}'
   15456: |-
-    Proceed with the exchange?
+    Poursuivre l'échange ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  15457: 'The reclaimer awards you with ${number: 0} reclamation mark${choice-plurality: 0}[/s] for a total of ${number: 2}.${prompt}'
-  15458: 'The reclaimer awards you with ${number: 0} reclamation mark${choice-plurality: 0}[/s] for a total of ${number: 2}. The number of ${item-plural: 1[2]} stored has increased by ${number: 3}.${prompt}'
-  15459: You are unable to trade that item at present.${prompt}
-  15460: 'You are unable to trade that item because you cannot store any more ${item-plural: 1[2]}.${prompt}'
-  15461: Only those participating in Records of Eminence may trade in items.${prompt}
-  15462: You can't shake the feeling that you may be able to learn about Ygnas's whereabouts somewhere in this area.
-  15463: Speak with Ploh Trishbahk at Castle Adoulin's front gates (K-9) and report what you have learned about Ygnas.
+    Oui.
+    Non.${prompt}
+  15457: 'Le récupérateur vous accorde ${number: 0} marque${choice-plurality: 0}[/s] de reprise, portant le total à ${number: 2}.${prompt}'
+  15458: 'Le récupérateur vous accorde ${number: 0} marque${choice-plurality: 0}[/s] de reprise, portant le total à ${number: 2}. Le nombre de ${item-plural: 1[2]} stockés a augmenté de ${number: 3}.${prompt}'
+  15459: Vous ne pouvez pas échanger cet objet pour le moment.${prompt}
+  15460: 'Vous ne pouvez pas échanger cet objet car vous ne pouvez plus stocker de ${item-plural: 1[2]}.${prompt}'
+  15461: Seuls ceux qui participent aux Enregistrements d'Éminence peuvent échanger des objets.${prompt}
+  15462: Vous avez le sentiment que vous pourriez peut-être apprendre quelque chose sur l'emplacement de Ygnas quelque part dans cette région.
+  15463: Parlez à Ploh Trishbahk aux portes d'entrée du château d'Adoulin (K-9) et rapportez ce que vous avez appris sur Ygnas.
   15464: Bienvenue dans le service d'échange de récompenses d'Actes d'héroïsme!${prompt}
   15465: |-
     Qu'aimeriez-vous faire ?
@@ -35020,16 +35020,16 @@ entries:
     Tenue de Géomancien.
     Tenue de Runeist.
     Revenir en arrière.
-    Quitter.${prompt}
-  15478: 'You will receive the following items in the ${choice: 39}[/Pummeler''s Armor/Anchorite''s Attire/Theophany Attire/Spaekona''s Attire/Atrophy Armor/Pillager''s Attire/Reverence Armor/Ignominy Armor/Totemic Armor/Brioso Attire/Orion Attire/Wakido Armor/Hachiya Garb/Vishap Armor/Convoker''s Attire/Assimilator''s Attire/Laksamana''s Attire/Foire Attire/Maxixi Attire/Maxixi Attire/Academic''s Attire/Geomancy Attire/Runeist Attire] set.${prompt}'
+    Quitter.${prompt} 
+  15478: 'Vous recevrez les articles suivants dans l’ensemble ${choice: 39}[/Armure de Marteleur/Attirail d’Anachorète/Tenue de Théophanie/Tenue de Spaekona/Armure d’Atrophie/Tenue de Pillard/Armure de Révérence/Armure d’Ignominie/Armure Totémique/Tenue de Brioso/Tenue d’Orion/Armure de Wakido/Atours de Hachiya/Armure de Vishap/Tenue d’Appelant/Tenue d’Assimilateur/Tenue de Laksamana/Tenue de Foire/Tenue de Maxixi/Tenue de Maxixi/Tenue Académique/Tenue de Géomancien/Tenue de Runeist]${prompt}'
   15479: '${lettercase: 1}${item-singular: 36[2]}.${prompt}'
   15480: |-
-    Is the ${choice: 39}[/Pummeler's Armor/Anchorite's Attire/Theophany Attire/Spaekona's Attire/Atrophy Armor/Pillager's Attire/Reverence Armor/Ignominy Armor/Totemic Armor/Brioso Attire/Orion Attire/Wakido Armor/Hachiya Garb/Vishap Armor/Convoker's Attire/Assimilator's Attire/Laksamana's Attire/Foire Attire/Maxixi Attire/Maxixi Attire/Academic's Attire/Geomancy Attire/Runeist Attire] okay?
+    Est-ce que le ${choice: 39}[/Armure de Marteleur/Attirail d'Anachorète/Tenue de Théophanie/Tenue de Spaekona/Armure d'Atrophie/Tenue de Pillard/Armure de Révérence/Armure d'Ignominie/Armure Totémique/Tenue de Brioso/Tenue d'Orion/Armure de Wakido/Atours de Hachiya/Armure de Vishap/Tenue d'Appelant/Tenue d'Assimilateur/Tenue de Laksamana/Tenue de Foire/Tenue de Maxixi/Tenue de Maxixi/Tenue Académique/Tenue de Géomancien/Tenue de Runeist] est correct ?
     ${selection-lines}
     Oui.
     Non.${prompt}
   15481: |-
-    Exchange for what?
+    Échanger contre quoi?
     ${selection-lines}
     ${lettercase: 1}${item-singular: 0[2]}.
     ${lettercase: 1}${item-singular: 1[2]}.
