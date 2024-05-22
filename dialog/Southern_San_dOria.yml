@@ -16916,28 +16916,28 @@ entries:
     I'll be waiting for you there, kupo!${prompt}
   6801: You go on ahead, and we'll see each other soon!${prompt}
   6802: |-
-    Join the ${choice: 6}[Fishermen's/Carpenters'/Blacksmiths'/Goldsmiths'/Weavers'/Tanners'/Boneworkers'/Alchemists'/Culinarians'] Guild?
+    Rejoindre la guilde des ${choice: 6}[pêcheurs/charpentiers/forgerons/orfèvres/tisserands/tanneurs/travailleurs d'os/alchimistes/cuisiniers] ?
     ${selection-lines}
-    Sign up.
-    That's not why you're here.${prompt}
+    S'inscrire.
+    Ce n'est pas pour cela que je suis ici.${prompt}
   6803: |-
-    Request...?
+    Demande... ?
     ${selection-lines}
-    ${choice: 2}[Advanced synthesis/Synthesis/Synthesis] image support.
-    Information on synthesis materials.
-    Nothing.${prompt}
+    ${choice: 2}[Assistance à la synthèse avancée/Assistance à la synthèse/Synthèse] image.
+    Informations sur les matériaux de synthèse.
+    Rien.${prompt}
   6804: |-
-    Image support: ${number: 0} gil.
+    Assistance à l'image : ${number: 0} gils.
     ${selection-lines}
-    Accept.
-    Decline.${prompt}
-  6805: 'You are now recognized as ${choice: 4}[an amateur/a recruit/an initiate/a novice/an apprentice/a journeyman/a craftsman/an artisan/an adept/a veteran/an expert/an authority/a luminary/a master/a grandmaster/a legend] of the ${choice: 6}[Fishermen''s/Carpenters''/Blacksmiths''/Goldsmiths''/Weavers''/Tanners''/Boneworkers''/Alchemists''/Culinarians''] Guild.'
-  6806: 'Your ${choice: 1}[fishing/woodworking/smithing/goldsmithing/clothcraft/leatherworking/bonecraft/alchemy/cooking] skills went up ${choice: 2}[a little/ever so slightly/ever so slightly].${prompt}'
+    Accepter.
+    Refuser.
+  6805: 'Vous êtes maintenant reconnu comme ${choice: 4}[un amateur/une recrue/un initié/un novice/un apprenti/un compagnon/un artisan/un adepte/un vétéran/un expert/une autorité/un luminaire/un maître/un grand maître/une légende] de la guilde des ${choice: 6}[pêcheurs/charpentiers/forgerons/orfèvres/tisserands/tanneurs/travailleurs d’os/alchimistes/cuisiniers].'
+  6806: 'Vos compétences en ${choice: 1}[pêche/travail du bois/forge/orfèvrerie/tissage/maroquinerie/travail des os/alchimie/cuisine] ont augmenté ${choice: 2}[un peu/légèrement/tout juste légèrement].'
   6807: Test.${prompt}
   6808: |-
-    Necessary skills: ${choice: 6}[Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking]${choice: 1}[ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking]${choice: 2}[ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking]${choice: 3}[ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking]
-    Necessary crystal: ${lettercase: 1}${item-singular: 4[2]}
-    Necessary items: ${prompt}
+    Compétences nécessaires : ${choice: 6}[Pêche/Travail du bois/Forge/Orfèvrerie/Tissage/Maroquinerie/Travail des os/Alchimie/Cuisine]${choice: 1}[ /, Travail du bois/, Forge/, Orfèvrerie/, Tissage/, Maroquinerie/, Travail des os/, Alchimie/, Cuisine]${choice: 2}[ /, Travail du bois/, Forge/, Orfèvrerie/, Tissage/, Maroquinerie/, Travail des os/, Alchimie/, Cuisine]${choice: 3}[ /, & Travail du bois/, & Forge/, & Orfèvrerie/, & Tissage/, & Maroquinerie/, & Travail des os/, & Alchimie/, & Cuisine]
+    Cristal nécessaire : ${lettercase: 1}${item-singular: 4[2]}
+    Articles nécessaires : ${prompt}
   6809: |-
     ${number: 4} x ${item-given-plurality: 4[2], 0[2]}
     ${number: 5} x ${item-given-plurality: 5[2], 1[2]}
@@ -16952,31 +16952,31 @@ entries:
     ${number: 5} x ${item-given-plurality: 5[2], 1[2]}${prompt}
   6812: '${number: 4} x ${item-given-plurality: 4[2], 0[2]}${prompt}'
   6813: |-
-    Hello, ${choice-player-gender}[sir/ma'am].
-    I have been appointed by the Guildworkers' Union to manage the trading of manufactured crafts and the exchange of guild points.${prompt}
-  6814: However, to assure product quality, I cannot carry out any business with those who rank lower than novice.${prompt}
-  6815: 'I see that you currently have a trading contract with the ${choice: 1}[Fishermen''s/Carpenters''/Blacksmiths''/Goldsmiths''/Weavers''/Tanners''/Boneworkers''/Alchemists''/Culinarians''] Guild. I''m sorry, but I cannot do any business with you.${prompt}'
-  6816: 'You do have the option to terminate your contract with the ${choice: 1}[Fishermen''s/Carpenters''/Blacksmiths''/Goldsmiths''/Weavers''/Tanners''/Boneworkers''/Alchemists''/Culinarians''] Guild and form one with us.${prompt}'
-  6817: '${color-alt: 121}After signing a new contract, you will have to wait until the next delivery phase to trade Guildworkers'' Union requested items.'
+    Bonjour, ${choice-player-gender}[monsieur/madame].
+    J'ai été nommé par l'Union des Artisans pour gérer le commerce des produits manufacturés et l'échange de points de guilde.
+  6814: Cependant, pour assurer la qualité des produits, je ne peux faire affaire qu'avec ceux qui ont un rang au moins égal à novice.
+  6815: 'Je vois que vous avez actuellement un contrat de commerce avec la guilde des ${choice: 1}[pêcheurs/charpentiers/forgerons/orfèvres/tisserands/tanneurs/travailleurs d’os/alchimistes/cuisiniers]. Je suis désolé, mais je ne peux pas faire affaire avec vous.'
+  6816: 'Vous avez la possibilité de résilier votre contrat avec la guilde des ${choice: 1}[pêcheurs/charpentiers/forgerons/orfèvres/tisserands/tanneurs/travailleurs d’os/alchimistes/cuisiniers] et d’en former un avec nous.'
+  6817: '${color-alt: 121}Après avoir signé un nouveau contrat, vous devrez attendre la prochaine phase de livraison pour échanger les articles demandés par l’Union des Artisans.'
   6818: |-
-    Create a new contract with us?
+    Créer un nouveau contrat avec nous ?
     ${selection-lines}
-    Immediately.
-    Not today.${prompt}
+    Immédiatement.
+    Pas aujourd'hui.
   6819: |-
-    Are you certain?
+    Êtes-vous certain ?
     ${selection-lines}
-    I said, “Immediately.”
-    On second thought...${prompt}
-  6820: 'You have terminated your trading contract with the ${choice: 1}[Fishermen''s/Carpenters''/Blacksmiths''/Goldsmiths''/Weavers''/Tanners''/Boneworkers''/Alchemists''/Culinarians''] Guild and formed a new one with the ${choice: 0}[Fishermen''s/Carpenters''/Blacksmiths''/Goldsmiths''/Weavers''/Tanners''/Boneworkers''/Alchemists''/Culinarians''] Guild.${prompt}'
-  6821: Our system works like this. We will ask you to provide us with a certain item depending on your craft skill rank. There is a set time limit (one day, Earth time) in which you may bring as many of the item as you can synthesize.${prompt}
-  6822: 'If you happen to create a ${color: 5}high quality${color: 1} version of the requested item, we will be more than delighted to accept that as well.${prompt}'
-  6823: Trading us these items will earn you “guild points” which can be later exchanged for other specialty goods--some of which are found exclusively at this guild.${prompt}
-  6824: The amount of guild points you will receive varies with the item requested, and there is a limit to how many points you can accumulate during the designated time frame. Trading items after you have reached the limit will result in no points gained.${prompt}
-  6825: When the time limit has expired, the item requested by the guild will change. It will also change in the event your craft skill rises.${prompt}
-  6826: I see that you have not formed a trading contract with any of the other guilds.${prompt}
-  6827: If you wish, you may form a new contract with us. However, if you wish to trade items with another guild, you must first terminate your existing contract and forfeit all the guild points you have accumulated.${prompt}
-  6828: 'You have formed a new trading contract with the ${choice: 0}[Fishermen''s/Carpenters''/Blacksmiths''/Goldsmiths''/Weavers''/Tanners''/Boneworkers''/Alchemists''/Culinarians''] Guild.${prompt}'
+    J’ai dit, "Immédiatement."
+    À bien y réfléchir...
+  6820: 'Vous avez résilié votre contrat de commerce avec la guilde des ${choice: 1}[pêcheurs/charpentiers/forgerons/orfèvres/tisserands/tanneurs/travailleurs d’os/alchimistes/cuisiniers] et en avez formé un nouveau avec la guilde des ${choice: 0}[pêcheurs/charpentiers/forgerons/orfèvres/tisserands/tanneurs/travailleurs d’os/alchimistes/cuisiniers].'
+  6821: Notre système fonctionne ainsi. Nous vous demanderons de nous fournir un certain article en fonction de votre rang de compétence artisanale. Vous avez un délai imparti (un jour, temps terrestre) pendant lequel vous pouvez apporter autant d'articles que vous pouvez en synthétiser.
+  6822: 'Si vous parvenez à créer une version ${color: 5}de haute qualité${color: 1} de l’article demandé, nous serons ravis de l’accepter également.'
+  6823: Nous échangerons ces articles contre des "points de guilde" que vous pourrez ensuite échanger contre d'autres biens spécialisés - certains d'entre eux se trouvent exclusivement dans cette guilde.
+  6824: Le nombre de points de guilde que vous recevrez varie en fonction de l’article demandé, et il y a une limite au nombre de points que vous pouvez accumuler pendant le délai imparti. Échanger des articles après avoir atteint la limite ne vous rapportera aucun point supplémentaire.
+  6825: Lorsque le délai est expiré, l’article demandé par la guilde changera. Il changera également si votre compétence artisanale augmente.
+  6826: Je vois que vous n'avez pas formé de contrat de commerce avec l’une des autres guildes.
+  6827: Si vous le souhaitez, vous pouvez former un nouveau contrat avec nous. Cependant, si vous souhaitez échanger des articles avec une autre guilde, vous devez d'abord résilier votre contrat existant et renoncer à tous les points de guilde que vous avez accumulés.
+  6828: 'Vous avez formé un nouveau contrat de commerce avec la guilde des ${choice: 0}[pêcheurs/charpentiers/forgerons/orfèvres/tisserands/tanneurs/travailleurs d’os/alchimistes/cuisiniers].'
   6829: |-
     The current requested item is ${article} ${item-article: 2[2]}.
     You have ${number: 0} guild points accumulated.${prompt}
