@@ -19195,7 +19195,7 @@ entries:
   8144: Greetings! Don't ask for mulsum, 'cause I'm afraid we're right out.${prompt}
   8145: Welcome, weary traveler. Make yourself at home!${prompt}
   8146: La-dee-dah, la-dee-dah... Sure am bored. Wish there was some work to do.${prompt}
-  8147: You an adventurer? Name's Chanpau, but me friends call me “Champ!” I may be a bum now, but back in the day, I was a right Royal Knight, I was...${prompt}
+  8147: Vous êtes un aventurier ? Mon nom est Chanpau, mais mes amis m'appellent "Champ" ! Je peux être un clochard maintenant, mais autrefois, j'étais un véritable Chevalier Royal, croyez-le ou non...${prompt}
   8148: Eh? There's work, you say! I'll go check it out, then. Cargo room B down at the port? Thanks!${prompt}
   8149: Thanks for the tip! I'll be heading down there later on. Cargo room B, right?${prompt}
   8150: Ah, it's you again... I tried out that job you told me about, but I got meself fired in only a day!${prompt}
@@ -20363,17 +20363,17 @@ entries:
   8888: While a few San d'Orians choose the life of an adventurer, the rest of us hide behind these walls, clinging to outdated traditions.${prompt}
   8889: My lady is concerned about San d'Oria's future. She's worried how much we are bound to ceremony.${prompt}
   8890: Of course, the convergence of old and new has always been part of who we are, hasn't it?${prompt}
-  8891: 'You an adventurer? I have a job for you... If you could bring me ${item-count: 1[2]} ${item-given-plurality: 1[2], 0[2]}, I''d be much obliged.${prompt}'
-  8892: 'I''m still in the market for ${item-count: 1[2]} ${item-given-plurality: 1[2], 0[2]}, you know! I''ll buy them by the lot!${prompt}'
+  8891: 'Vous êtes un aventurier ? J’ai une tâche pour vous... Si vous pouviez me procurer ${item-count: 1[2]} ${item-given-plurality: 1[2], 0[2]}, je vous en serais très reconnaissant.${prompt}'
+  8892: 'Je suis toujours à la recherche de ${item-count: 1[2]} ${item-given-plurality: 1[2], 0[2]}, vous savez! Je les achèterai en gros!${prompt}'
   8893: |-
-    What say you?
+    Que décidez-vous?
     ${selection-lines}
-    I shall help.
-    I cannot.${prompt}
-  8894: 'I knew I could count on you. Bring me ${item-count: 1[2]} ${item-given-plurality: 1[2], 0[2]}, then.${prompt}'
-  8895: So be it. Let me know if you change your mind.${prompt}
-  8896: 'Still I await ${item-count: 1[2]} ${item-given-plurality: 1[2], 0[2]}!${prompt}'
-  8897: Thank you for the help. If you are interested, I always need more.${prompt}
+    Je vais vous aider.
+    Je ne peux pas.${prompt}
+  8894: 'Je savais que je pouvais compter sur vous. Apportez-moi donc ${item-count: 1[2]} ${item-given-plurality: 1[2], 0[2]}.${prompt}'
+  8895: Ainsi soit-il. Faites-moi savoir si vous changez d'avis.${prompt}
+  8896: 'Je continue d’attendre ${item-count: 1[2]} ${item-given-plurality: 1[2], 0[2]}!${prompt}'
+  8897: Merci pour votre aide. Si vous êtes intéressé, j’ai toujours besoin de plus.${prompt}
   8898: 'Say, would you have any time on your hands? I require ${item-count: 1[2]} ${item-given-plurality: 1[2], 0[2]}, and I never seem to have enough of them.${prompt}'
   8899: 'You don''t think you could bring me another ${item-count: 1[2]} ${item-given-plurality: 1[2], 0[2]}? Trade with me once you get some!${prompt}'
   8900: |-
@@ -22909,16 +22909,16 @@ entries:
   10200: 'Pour stocker un objet, ${color: 5}échangez${color: 1} le avec moi.${prompt}'
   10201: |-
     7. ${lettercase: 1}${item-plural: 6[2]}
-    To store an item, ${color: 5}trade${color: 1} it to me.${prompt}
+    Pour stocker un objet, ${color: 5}échangez${color: 1} le avec moi.${prompt}
   10202: |-
     7. ${lettercase: 1}${item-plural: 6[2]}
     8. ${lettercase: 1}${item-plural: 7[2]}
-    To store an item, ${color: 5}trade${color: 1} it to me.${prompt}
+    Pour stocker un objet, ${color: 5}échangez${color: 1} le avec moi.${prompt}
   10203: |-
     7. ${lettercase: 1}${item-plural: 6[2]}
     8. ${lettercase: 1}${item-plural: 7[2]}
     9. ${lettercase: 1}${item-plural: 8[2]}
-    To store an item, ${color: 5}trade${color: 1} it to me.${prompt}
+    Pour stocker un objet, ${color: 5}échangez${color: 1} le avec moi.${prompt}
   10204: |-
     7. ${lettercase: 1}${item-plural: 6[2]}
     8. ${lettercase: 1}${item-plural: 7[2]}
@@ -22941,14 +22941,14 @@ entries:
     21. ${lettercase: 1}${item-plural: 20[2]}
     22. ${lettercase: 1}${item-plural: 21[2]}
     23. ${lettercase: 1}${item-plural: 22[2]}
-    To store an item, ${color: 5}trade${color: 1} it to me.${prompt}
+    Pour stocker un objet, ${color: 5}échangez${color: 1} le avec moi.${prompt}
   10209: |-
     7. ${lettercase: 1}${item-plural: 6[2]}
     8. ${lettercase: 1}${item-plural: 7[2]}
     9. ${lettercase: 1}${item-plural: 8[2]}
     10. ${lettercase: 1}${item-plural: 9[2]}
     11. ${lettercase: 1}${item-plural: 10[2]}
-    To store an item, ${color: 5}trade${color: 1} it to me.${prompt}
+    Pour stocker un objet, ${color: 5}échangez${color: 1} le avec moi.${prompt}
   10210: |-
     7. ${lettercase: 1}${item-plural: 6[2]}
     8. ${lettercase: 1}${item-plural: 7[2]}
@@ -22956,7 +22956,7 @@ entries:
     10. ${lettercase: 1}${item-plural: 9[2]}
     11. ${lettercase: 1}${item-plural: 10[2]}
     12. ${lettercase: 1}${item-plural: 11[2]}
-    To store an item, ${color: 5}trade${color: 1} it to me.${prompt}
+    Pour stocker un objet, ${color: 5}échangez${color: 1} le avec moi.${prompt}
   10211: |-
     7. ${lettercase: 1}${item-plural: 6[2]}
     8. ${lettercase: 1}${item-plural: 7[2]}
@@ -22973,23 +22973,23 @@ entries:
   10214: |-
     17. ${lettercase: 1}${item-plural: 16[2]}
     18. ${lettercase: 1}${item-plural: 17[2]}
-    To store an item, ${color: 5}trade${color: 1} it to me.${prompt}
+    Pour stocker un objet, ${color: 5}échangez${color: 1} le avec moi.${prompt}
   10215: |-
     17. ${lettercase: 1}${item-plural: 16[2]}
     18. ${lettercase: 1}${item-plural: 17[2]}
     19. ${lettercase: 1}${item-plural: 18[2]}
     20. ${lettercase: 1}${item-plural: 19[2]}
-    To store an item, ${color: 5}trade${color: 1} it to me.${prompt}
+    Pour stocker un objet, ${color: 5}échangez${color: 1} le avec moi.${prompt}
   10216: |-
     17. ${lettercase: 1}${item-plural: 16[2]}
     18. ${lettercase: 1}${item-plural: 17[2]}
     19. ${lettercase: 1}${item-plural: 18[2]}
-    To store an item, ${color: 5}trade${color: 1} it to me.${prompt}
+    Pour stocker un objet, ${color: 5}échangez${color: 1} le avec moi.${prompt}
   10217: |-
     14. ${lettercase: 1}${item-plural: 13[2]}
     15. ${lettercase: 1}${item-plural: 14[2]}
     16. ${lettercase: 1}${item-plural: 15[2]}
-    To store an item, ${color: 5}trade${color: 1} it to me.${prompt}
+    Pour stocker un objet, ${color: 5}échangez${color: 1} le avec moi.${prompt}
   10218: |-
     14. ${lettercase: 1}${item-plural: 13[2]}
     15. ${lettercase: 1}${item-plural: 14[2]}
@@ -23013,13 +23013,13 @@ entries:
   10222: |-
     30. ${lettercase: 1}${item-plural: 29[2]}
     31. ${lettercase: 1}${item-plural: 30[2]}
-    To store an item, ${color: 5}trade${color: 1} it to me.${prompt}
-  10223: Withdrawing an item will cost 250 gil.${prompt}
-  10224: Please note that upon withdrawal, the recast time for enchanted items will be reset to the maximum level.${prompt}
+    Pour stocker un objet, ${color: 5}échangez${color: 1} le avec moi.${prompt}
+  10223: Retirer un objet coûtera 250 gils.${prompt}
+  10224: Veuillez noter qu'au moment du retrait, le temps de recharge pour les objets enchantés sera réinitialisé au niveau maximum.${prompt}
   10225: |-
-    Remove which item from storage?
+    Retirer quel objet du stockage ?
     ${selection-lines}
-    I've changed my mind.
+    J'ai changé d'avis.${prompt}
     ${lettercase: 1}${item-singular: 0[2]}.
     ${lettercase: 1}${item-singular: 1[2]}.
     ${lettercase: 1}${item-singular: 2[2]}.
@@ -23052,15 +23052,15 @@ entries:
     ${lettercase: 1}${item-singular: 29[2]}.
     ${lettercase: 1}${item-singular: 30[2]}.${prompt}
   10226: |-
-    A fee of 250 gil is required.
-    Will you remove the ${item-singular: 0[2]} from storage?${prompt}
+    Un frais de 250 gils est requise.
+    Voulez-vous retirer le ${item-singular: 0[2]} du stockage?${prompt}
   10227: |-
-    Do you wish to pay the fee?
+    Souhaitez-vous payer les frais?
     ${selection-lines}
-    Yes.
-    Not at this time.${prompt}
-  10228: 'Do not worry. Your ${item-singular: 0[2]} is in good hands.${prompt}'
-  10229: You currently have no items in storage.${prompt}
+    Oui.
+    Pas en ce moment.${prompt}
+  10228: 'Ne vous inquiétez pas. Votre ${item-singular: 0[2]} est entre de bonnes mains.${prompt}'
+  10229: Vous n'avez actuellement aucun objet en stockage.${prompt}
   10230: |-
     2. ${lettercase: 1}${item-plural: 1[2]}
     3. ${lettercase: 1}${item-plural: 2[2]}
@@ -23091,128 +23091,128 @@ entries:
     23. ${lettercase: 1}${item-plural: 22[2]}
     24. ${lettercase: 1}${item-plural: 23[2]}${prompt}
   10236: |-
-    Looking for someone, are we?
-    Can you give me a description?${prompt}
+    Vous cherchez quelqu'un, n'est-ce pas?
+    Pouvez-vous me donner une description?${prompt}
   10237: |-
-    As a matter of fact, I think the person you're searching for just walked in a few moments ago.
-    Probably still making some purchases upstairs.${prompt}
+    En fait, je pense que la personne que vous recherchez est entrée il y a quelques instants.
+    Elle fait probablement encore des achats à l'étage.${prompt}
   10238: |-
-    ...Yes, that's right.
-    Now, what else should I buy...?${prompt}
+    ...Oui, c'est exact.
+    Maintenant, que devrais-je acheter d'autre...?${prompt}
   10239: |-
-    ...Yes, that's right.
-    Now, what else should I buy...?${prompt}
+    ..Oui, c'est exact.
+    Maintenant, que devrais-je acheter d'autre...?${prompt}
   10240: |-
-    ...Yes, that's right.
-    Now, what else should I buy...?${prompt}
+    ..Oui, c'est exact.
+    Maintenant, que devrais-je acheter d'autre...?${prompt}
   10241: |-
-    ...Yes, that is correct.
-    Now, what else should I buy...?${prompt}
+    ...Oui, c'est exact.
+    Maintenant, que devrais-je acheter d'autre...?${prompt}
   10242: |-
-    ...Yes, that's right.
-    Now, what else should I buy...?${prompt}
+    ..Oui, c'est exact.
+    Maintenant, que devrais-je acheter d'autre...?${prompt}
   10243: |-
-    ...Yes, that's right.
-    Now, what else should I buy...?${prompt}
+    ...Oui, c'est exact.
+    Maintenant, que devrais-je acheter d'autre...?${prompt}
   10244: |-
-    ...Yes, that's right.
-    Now, what else should I buy...?${prompt}
+    ..Oui, c'est exact.
+    Maintenant, que devrais-je acheter d'autre...?${prompt}
   10245: |-
-    ...Yes, that's right.
-    Now, what else should I buy...?${prompt}
+    ..Oui, c'est exact.
+    Maintenant, que devrais-je acheter d'autre...?${prompt}
   10246: |-
-    ...Yes, that's right.
-    Now, what else should I buy...?${prompt}
+    ..Oui, c'est exact.
+    Maintenant, que devrais-je acheter d'autre...?${prompt}
   10247: |-
     ...Uh-huh!
-    Now, what else should I buy...?${prompt}
+    Maintenant, que devrais-je acheter d'autre...?${prompt}
   10248: |-
-    ...Yes, that is correct.
-    Now, what else should I buy...?${prompt}
+    ..Oui, c'est exact.
+    Maintenant, que devrais-je acheter d'autre...?${prompt}
   10249: |-
-    ...Yes, that's correct.
-    Now, what else should I buy...?${prompt}
+    ..Oui, c'est exact.
+    Maintenant, que devrais-je acheter d'autre...?${prompt}
   10250: |-
-    ...Okay.
-    Got it.${prompt}
+    ...D'accord.
+    Bien compris.${prompt}
   10251: |-
-    ...Okay.
-    Got it.${prompt}
+    ...D'accord.
+    Bien compris.${prompt}
   10252: |-
-    ...Okay.
-    Got it.${prompt}
+    ...D'accord.
+    Bien compris.${prompt}
   10253: |-
-    ...Very well.
-    Understood.${prompt}
+    ...Très bien.
+    Compris.${prompt}
   10254: |-
-    ...Okay.
-    Got it.${prompt}
+    ...D'accord.
+    Bien compris.${prompt}
   10255: |-
-    ...Okay.
-    Got it.${prompt}
+    ...D'accord.
+    Bien compris.${prompt}
   10256: |-
-    ...Okay.
-    Got it.${prompt}
+    ...D'accord.
+    Bien compris.${prompt}
   10257: |-
-    ...Okay.
-    Got it.${prompt}
+    ...D'accord.
+    Bien compris.${prompt}
   10258: |-
-    ...Okay.
-    Got it.${prompt}
+    ...D'accord.
+    Bien compris.${prompt}
   10259: |-
-    ...Okay.
-    Got it.${prompt}
+    ...D'accord.
+    Bien compris.${prompt}
   10260: |-
-    ...Very well.
-    Understood.${prompt}
+    ...Très bien.
+    Compris.${prompt}
   10261: |-
-    ...Okay.
-    Understood.${prompt}
+    ...D'accord.
+    Bien compris.${prompt}
   10262: |-
-    ...Fine.
-    I'm on my way.${prompt}
+    ...Très bien.
+    Je suis en chemin.${prompt}
   10263: |-
-    ...Fine.
-    I'm on my way.${prompt}
+    ...Très bien.
+    Je suis en chemin.${prompt}
   10264: |-
-    ...Fine.
-    I'm on my way.${prompt}
+    ...Très bien.
+    Je suis en chemin.${prompt}
   10265: |-
-    ...Of course.
-    I shall see you soon.${prompt}
+    ...Bien sûr.
+    Je vous verrai bientôt.${prompt}
   10266: |-
-    ...Fine.
-    I'm on my way.${prompt}
+    ...Très bien.
+    Je suis en chemin.${prompt}
   10267: |-
-    ...Fine.
-    I'm on my way.${prompt}
+    ...Très bien.
+    Je suis en chemin.${prompt}
   10268: |-
-    ...Fine.
-    I'm on my way.${prompt}
+    ...Très bien.
+    Je suis en chemin.${prompt}
   10269: |-
-    ...Fine.
-    I'm on my way.${prompt}
+    ...Très bien.
+    Je suis en chemin.${prompt}
   10270: |-
-    ...Fine.
-    I'm on my way.${prompt}
+    ....Très bien.
+    Je suis en chemin.${prompt}
   10271: |-
-    ...Fine.
-    I'm on my way.${prompt}
+    ...Très bien.
+    Je suis en chemin.${prompt}
   10272: |-
-    ...Of course.
-    I shall see you soon.${prompt}
+    ...Bien sûr.
+    Je vous verrai bientôt.${prompt}
   10273: |-
-    ...Fine.
-    I'm on my way.${prompt}
+    ...D'accord.
+    Je suis en chemin.${prompt}
   10274: |-
-    An unusual pearl...
-    Is that not the person you were speaking of?${prompt}
+    Une perle inhabituelle...
+    N'est-ce pas la personne dont vous parliez?${prompt}
   10275: |-
-    I think you've missed your chance.
-    Or perhaps you changed your mind?${prompt}
+    Je pense que vous avez manqué votre chance.
+    Ou peut-être avez-vous changé d'avis?${prompt}
   10276: |-
-    Love is in the air!
-    It's time for Valentione's Day celebrations, kupo!${prompt}
+    L'amour flotte dans l'air!
+    Il est temps de célébrer la Saint-Valentione, kupo!${prompt}
   10277: There is an amazing type of chocolate whose filling is influenced by your feelings! When chocolate halves from a boy and a girl are matched together, the resulting whole produces a wonderful taste if the couple is meant to be, kupo!${prompt}
   10278: Young men and women in this town have broken their chocolates in two, hoping to meet that “special someone”!${prompt}
   10279: We want adventurers to help each of them find their perfect match, kupo!${prompt}
