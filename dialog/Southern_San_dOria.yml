@@ -17133,122 +17133,122 @@ entries:
     No, retain.
     Yes, renounce.${prompt}
   6857: 'You have successfully renounced your status as a ${choice: 5}[craftsman/artisan/adept] of the ${choice: 1}[Carpenters''/Blacksmiths''/Goldsmiths''/Weavers''/Tanners''/Boneworkers''/Alchemists''/Culinarians''] Guild.${prompt}'
-  6858: Welcome to the Tanners' Guild. We are a union for those in the tanning and leatherworking trade.${prompt}
-  6859: To each his own. But if you wish to remain here, please don't touch anything.${prompt}
-  6860: You must be one of those adventurers. I can tell by the fire in your eyes. For some reason this guild is popular with your type.${prompt}
+  6859: Chacun ses affaires. Mais si vous souhaitez rester ici, veuillez ne toucher à rien.
+  6860: Vous devez être l'un de ces aventuriers. Je le vois dans vos yeux ardents. Pour une raison quelconque, ce syndicat est populaire auprès de votre genre.${prompt}
   6861: |-
-    We shall start you off with crystal synthesis.
-    Without it, it will be impossible for you to continue your adventures and your new craft.${prompt}
-  6862: Use a crystal, form an image of the completed product...and poof! Instant boots! Instant headbands!${prompt}
+        Nous allons vous initier à la synthèse de cristaux.
+        Sans cela, il sera impossible pour vous de poursuivre vos aventures et votre nouveau métier.${prompt}
+  6862: Utilisez un cristal, formez une image du produit fini... et pouf ! Des bottes instantanées ! Des bandeaux instantanés!${prompt}
   6863: |-
-    But in order to form a perfect image of a product, you must practice, practice, practice.
-    I'm sure you have heard this before, but we all learn from our mistakes.${prompt}
-  6864: If you wish, the others here will inform you of the materials you need to begin. They seem eager for you to join us.${prompt}
-  6865: One way to quickly improve your skills is by asking fellow adventurers to gather skins. Then you can repay them with the fruits of your labor.${prompt}
-  6866: My dream is to open shops all over Vana'diel. I am certain that with your help, it will become reality.${prompt}
-  6867: 'I can see you are ready to move on. I want you to make me ${article} ${item-article: 0[2]}.${prompt}'
-  6868: If you succeed, I will grant you a new title and teach you new techniques.${prompt}
+        Mais pour former une image parfaite d'un produit, vous devez pratiquer, pratiquer, pratiquer.
+        Je suis sûr que vous avez déjà entendu cela, mais nous apprenons tous de nos erreurs.${prompt}
+  6864: Si vous le souhaitez, les autres ici pourront vous informer des matériaux dont vous avez besoin pour commencer. Ils semblent impatients de vous voir nous rejoindre.${prompt}
+  6865: Un moyen d'améliorer rapidement vos compétences est de demander aux autres aventuriers de collecter des peaux. Ensuite, vous pourrez les rembourser avec les fruits de votre travail.${prompt}
+  6866: Mon rêve est d'ouvrir des magasins partout dans Vana'diel. Je suis certain qu'avec votre aide, cela deviendra réalité.${prompt}
+  6867: 'Je vois que vous êtes prêt à passer à autre chose. Je veux que vous me fassiez ${article} ${item-article: 0[2]}.${prompt}'
+  6868: Si vous réussissez, je vous accorderai un nouveau titre et vous enseignerai de nouvelles techniques.${prompt}
   6869: |-
-    Lovely work! You are now worthy of the title of ${choice: 7}[amateur/recruit/initiate/novice/apprentice].
-    Continue to challenge yourself and refine your skills.${prompt}
-  6870: Marvelous work! You are now worthy of the title of journeyman. People in the markets are beginning to talk about you.${prompt}
-  6871: Stupendous work! I am delighted to call you an artisan! Have you ever thought of starting your own line of products?${prompt}
-  6872: I am at a loss for words! There is little more that I can teach you. You are a true adept!${prompt}
-  6873: I don't know what to say... Did you really make this yourself? No, you had to have... I know of no one who can synthesize such beautiful work! Do you mind if I display this in the guild for all the younger members to see?${prompt}
-  6874: Are you blind, ${choice-player-gender}[boy/girl]? Can you not see that I am busy with an important order? Now off with you!${prompt}
-  6875: Can't help you.${prompt}
-  6876: Pay up or get out.${prompt}
+        Beau travail ! Vous êtes maintenant digne du titre de ${choice: 7}[amateur/recrue/initié/novice/apprenti].
+        Continuez à vous défier et à perfectionner vos compétences.${prompt}
+  6870: Travail merveilleux ! Vous êtes maintenant digne du titre de compagnon. Les gens sur les marchés commencent à parler de vous.${prompt}
+  6871: Travail stupéfiant ! Je suis ravi de vous appeler un artisan ! Avez-vous déjà pensé à lancer votre propre ligne de produits ?${prompt}
+  6872: Je suis à court de mots ! Il y a peu de choses de plus que je puisse vous enseigner. Vous êtes un véritable adepte !${prompt}
+  6873: Je ne sais que dire... Avez-vous vraiment fait cela vous-même ? Non, vous avez dû... Je ne connais personne capable de synthétiser un travail aussi magnifique ! Cela vous dérange-t-il si j'affiche ceci dans la guilde pour que tous les jeunes membres puissent le voir ?${prompt}
+  6874: Es-tu aveugle, ${choice-player-gender}[garçon/fille] ? Ne vois-tu pas que je suis occupé avec une commande importante ? Allez-vous-en !${prompt}
+  6875: Je ne peux pas vous aider.${prompt}
+  6876: Payez ou partez.${prompt}
   6877: |-
-    ...
-    Eyes... Close them.${prompt}
-  6878: 'For ${article} ${item-article: 0[2]}, you''ll need...${prompt}'
-  6879: I have other tasks that need my tending. If you have finished, depart promptly.${prompt}
+        ...
+        Yeux... Fermez-les.${prompt}
+  6878: 'Pour ${article} ${item-article: 0[2]}, vous aurez besoin de...${prompt}'
+  6879: J'ai d'autres tâches à m'occuper. Si vous avez fini, partez rapidement.${prompt}
   6880: |-
-    Splish splosh I was takin' a bath.♪
-    All upon a Thundersday night.♪${prompt}
-  6881: Hah hah! I'm flattered, but I don't thinky-wink you need me now.${prompt}
-  6882: Ummm... You're a little short on gil. Not as shortaru as me, though. Hah hah!${prompt}
-  6883: Okey-dokey! Now, if you'd close your eyes and come a little closer...${prompt}
-  6884: 'For you? Hmm... How aboutaru ${article} ${item-article: 0[2]}? You''ll need...${prompt}'
+        Plouf plouf j'étais en train de prendre un bain.♪
+        Un soir de Jeudi de Tonnerre.♪${prompt}
+  6881: Hah hah ! Je suis flatté, mais je ne pense pas que vous ayez besoin de moi maintenant.${prompt}
+  6882: Euh... Vous êtes un peu court sur les gils. Pas aussi court que moi, cependant. Hah hah!${prompt}
+  6883: D'accord ! Maintenant, si vous fermiez les yeux et veniez un peu plus près...${prompt}
+  6884: 'Pour vous ? Hmm... Que diriez-vous de ${article} ${item-article: 0[2]} ? Vous aurez besoin de...${prompt}'
   6885: |-
-    Did you get that?
-    If you can't findy-wind all the goodies you need, you could try the auction house.${prompt}
-  6886: The Elvaan in the work arrrea below is the guildmaster. Beautiful, smart--what morrre could you want?${prompt}
-  6887: I wouldn't thrrrow my money around like that. You may need it some day.${prompt}
-  6888: You don't have enough gil? Hmm... You could try selling some of your skins to the shop upstairrrs.${prompt}
-  6889: Ahh, the purrressure... Close your eyes and let's begin...${prompt}
-  6890: 'You could trrry ${article} ${item-article: 0[2]}. You''ll need...${prompt}'
-  6891: Windurst used to have a Tanners' Guild, but it closed after so many of our animals died in the war. My dream is to rrrebuild it.${prompt}
-  6892: 'I have watched you closely since you started here. I would like to see you make ${article} ${item-article: 0[2]}.${prompt}'
-  6893: Succeed, and I will grant you the title of craftsman. You will then become a true member of our guild.${prompt}
-  6894: However, that with the title of craftsman comes harder work and more difficult tasks.${prompt}
-  6895: Juggling the techniques of numerous guilds will only lead to trouble. If you are ready to commit to the Tanners' Guild, then make me the item I asked for.${prompt}
+    Avez-vous compris ?
+    Si vous ne trouvez pas tous les trésors dont vous avez besoin, vous pourriez essayer la maison des ventes.${prompt}
+  6886: L'Elvaan dans la zone de travail en bas est le maître de guilde. Beau, intelligent--que pourriez-vous vouloir de plus?${prompt}
+  6887: Je ne jetterais pas mon argent comme ça. Vous pourriez en avoir besoin un jour.${prompt}
+  6888: Vous n'avez pas assez de gils ? Hmm... Vous pourriez essayer de vendre certaines de vos peaux à la boutique à l'étage.${prompt}
+  6889: Ahh, la pression... Fermez les yeux et commençons...${prompt}
+  6890: 'Vous pourriez essayer ${article} ${item-article: 0[2]}. Vous aurez besoin de...${prompt}'
+  6891: Windurst avait autrefois une Guilde des Tanneurs, mais elle a fermé après que tant de nos animaux soient morts pendant la guerre. Mon rêve est de la reconstruire.${prompt}
+  6892: 'Je vous ai observé de près depuis que vous avez commencé ici. J’aimerais vous voir fabriquer ${article} ${item-article: 0[2]}.${prompt}'
+  6893: Réussissez, et je vous accorderai le titre d'artisan. Vous deviendrez alors un vrai membre de notre guilde.${prompt}
+  6894: Cependant, avec le titre d'artisan vient un travail plus dur et des tâches plus difficiles.${prompt}
+  6895: Jongler avec les techniques de nombreuses guildes ne mènera qu'à des ennuis. Si vous êtes prêt à vous engager dans la Guilde des Tanneurs, alors fabriquez-moi l'objet que je vous ai demandé.${prompt}
   6896: |-
-    Fabulous work!
-    I am honored to call you a craftsman, and I thank you for contributing all you have for this guild.${prompt}
-  6897: However, the real journey starts now. You must focus on the road ahead of you.${prompt}
+    Travail fabuleux !
+    Je suis honoré de vous appeler un artisan, et je vous remercie pour tout ce que vous avez apporté à cette guilde.${prompt}
+  6897: Cependant, le véritable voyage commence maintenant. Vous devez vous concentrer sur la route qui s'ouvre devant vous.${prompt}
   6898: |-
-    Such fabulous work!
-    I am honored to call you a craftsman, and await your future creations with eager anticipation.${prompt}
-  6899: '${lettercase: 1}${keyitem-singular: 0[2]} is a wonderful new method of tanning that allows you to enchant hides with the mysterious energy of black magic and anima.${prompt}'
-  6900: '${lettercase: 1}${keyitem-singular: 0[2]} is a wonderful new method of tanning that allows you to enchant hides with the mysterious energy of white magic and anima.${prompt}'
-  6901: It has come to my knowledge that you have taken a little detour on your journey to become a master leathercrafter.${prompt}
-  6902: This is ultimately your decision, and I will not attempt to stop you. However, I must remind you that if you continue on that path, the only thing waiting for you is a dead end.${prompt}
-  6903: If you truly wish to complete your journey, you must return to the main road--revoke your craftsman status for all other guilds.${prompt}
+    Un travail aussi fabuleux !
+    Je suis honoré de vous appeler un artisan, et j'attends avec impatience vos futures créations.${prompt}
+  6899: '${lettercase: 1}${keyitem-singular: 0[2]} est une merveilleuse nouvelle méthode de tannage qui vous permet d’enchanter des peaux avec l’énergie mystérieuse de la magie noire et de l’anima.${prompt}'
+  6900: '${lettercase: 1}${keyitem-singular: 0[2]} est une merveilleuse nouvelle méthode de tannage qui vous permet d’enchanter des peaux avec l’énergie mystérieuse de la magie blanche et de l’anima.${prompt}'
+  6901: Il m’est parvenu que vous avez fait un petit détour dans votre voyage pour devenir un maître maroquinier.${prompt}
+  6902: C’est finalement votre décision, et je ne tenterai pas de vous arrêter. Cependant, je dois vous rappeler que si vous continuez sur cette voie, la seule chose qui vous attend est une impasse.${prompt}
+  6903: Si vous souhaitez vraiment terminer votre voyage, vous devez revenir sur la route principale--révoquez votre statut d'artisan pour toutes les autres guildes.${prompt}
   6904: |-
-    Revoke all other craftsman statuses?
+    Révoquer tous les autres statuts d'artisan ?
     ${selection-lines}
-    Immediately.
-    Not just yet.${prompt}
+    Immédiatement.
+    Pas tout de suite.${prompt}
   6905: |-
-    Excellent. I will relay this news to the guildmasters of the other establishments.
-    You may return to your work.${prompt}
+    Excellent. Je transmettrai cette nouvelle aux maîtres de guilde des autres établissements.
+    Vous pouvez retourner à votre travail.${prompt}
   6906: |-
-    I see.
-    However, I strongly suggest you reconsider. You have much potential, ${name-player}. It would be terrible to see it go to waste.${prompt}
-  6907: What brings you by my humble guild today, ${choice-player-gender}[sir/ma'am]? Perhaps you wish to place a special order?${prompt}
-  6908: '......${prompt}'
-  6909: A costume to fool the Orcs... That may be more difficult than it sounds. You see, there may not be much in the way of gray matter between their stubby ears, but when it comes to hunting, their instincts play a much larger role than their eyesight.${prompt}
+    Je comprends.
+    Cependant, je vous conseille vivement de reconsidérer. Vous avez beaucoup de potentiel, ${name-player}. Ce serait terrible de le voir gaspillé.${prompt}
+  6907: Pourquoi êtes-vous de passage dans ma modeste guilde aujourd'hui, ${choice-player-gender}[monsieur/madame]? Peut-être souhaitez-vous passer une commande spéciale?${prompt}
+  6908: '......'
+  6909: Un déguisement pour tromper les Orcs... Cela pourrait être plus difficile que prévu. Vous voyez, il pourrait ne pas y avoir beaucoup de matière grise entre leurs oreilles trapues, mais en matière de chasse, leurs instincts jouent un rôle beaucoup plus important que leur vue.${prompt}
   6910: |-
-    However, if you insist... Faulpie is not one to back down from a challenge.
-    While I work on a pattern, I will require that you procure the following two items: ${article} ${item-article: 0[2]} and ${article} ${item-article: 1[2]}.${prompt}
-  6911: 'Oh, and as much as I''d like to do this out of the kindness of my heart, I do have a guild to run, so I am going to have to ask you to pay a small design fee of ${number: 2} gil. You understand, don''t you?${prompt}'
-  6912: 'It will be a few more days before I can finish the pattern for your costume. Please come by again later. Oh, and don''t forget to bring the ${item-singular: 0[2]}, ${item-singular: 1[2]}, and the ${number: 2} gil I asked for.${prompt}'
-  6913: Or...has the expense and time involved convinced you to abandon this venture?${prompt}
-  6914: If you choose to give up, the quest will be canceled and your quest log reset.${prompt}
+    Cependant, si vous insistez... Faulpie n'est pas du genre à reculer devant un défi.
+    Pendant que je travaille sur un patron, je vais avoir besoin que vous vous procuriez les deux articles suivants : ${article} ${item-article: 0[2]} et ${article} ${item-article: 1[2]}.${prompt}
+  6911: 'Oh, et aussi agréable que cela puisse être de le faire par gentillesse, j’ai une guilde à diriger, alors je vais devoir vous demander de payer des frais de conception modiques de ${number: 2} gils. Vous comprenez, n’est-ce pas?${prompt}'
+  6912: 'Il me faudra encore quelques jours pour terminer le patron de votre costume. Revenez me voir plus tard. Oh, et n’oubliez pas d’apporter les ${item-singular: 0[2]}, ${item-singular: 1[2]}, et les ${number: 2} gils que je vous ai demandés.${prompt}'
+  6913: Ou... les dépenses et le temps nécessaires vous ont-ils convaincu d'abandonner cette entreprise?${prompt}
+  6914: Si vous choisissez d'abandonner, la quête sera annulée et votre journal de quête réinitialisé${prompt}.
   6915: |-
-    Cancel the quest?
+    Annuler la quête ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
+    Oui.
+    Non${prompt}.
   6916: |-
-    Do you really wish to cancel the quest?
+    Voulez-vous vraiment annuler la quête ?
     ${selection-lines}
-    I really do.
-    I guess I don't.${prompt}
-  6917: The quest has been canceled!${prompt}
-  6918: Wonderful. Now that I have everything I require, I can begin working on the final product...... What? You didn't think I was going to be able to whip this together in a matter of minutes, did you?${prompt}
-  6919: 'Don''t tell me that you lost the ${item-singular: 0[2]} I made for you, did you?${prompt}'
+    Absolument.
+    Je suppose que non${prompt}
+  6917: La quête a été annulée!${prompt}
+  6918: Merveilleux. Maintenant que j'ai tout ce dont j'ai besoin, je peux commencer à travailler sur le produit final... Quoi ? Vous ne pensiez pas que j'allais pouvoir assembler cela en quelques minutes, n'est-ce pas?${prompt}
+  6919: 'Ne me dites pas que vous avez perdu le ${item-singular: 0[2]} que je vous ai fait, n’est-ce pas?${prompt}'
   6920: |-
-    What happened?
+    Que s'est-il passé ?
     ${selection-lines}
-    My mauthe doog ate it.
-    Oh, nothing...
-    Actually, I think I've had enough...${prompt}
-  6921: '...Alright, alright. I will make you a new one, but this time it will cost you. I say about...${number: 1} gil should cover everything.${prompt}'
+    Mon mauthe doog l'a mangé.
+    Oh, rien...
+    En fait, je pense que j'ai eu assez...${prompt}
+  6921: '...D’accord, d’accord. Je vais vous en refaire un, mais cette fois-ci cela vous coûtera. Je dirais environ... ${number: 1} gils devraient couvrir tout.${prompt}'
   6922: |-
-    Pay the ${number: 1} gil?
+    Payer les ${number: 1} gils ?
     ${selection-lines}
-    I guess I have no choice.
-    Over my dead mauthe doog's body!${prompt}
-  6923: I will start on it right away. Come back in a few days to pick it up.${prompt}
-  6924: I know that you must be in a hurry, but I haven't finished your order yet. Please come back later, ${choice-player-gender}[sir/ma'am].${prompt}
+    Je suppose que je n'ai pas le choix.
+    En fait, je pense que j'ai eu assez
+    Plutôt crever que de payer pour ça !${prompt}
+  6923: Je vais m’y mettre tout de suite. Revenez dans quelques jours pour le récupérer.${prompt}
+  6924: Je sais que vous devez être pressé, mais je n'ai pas encore fini votre commande. Revenez plus tard, ${choice-player-gender}[monsieur/madame].${prompt}
   6925: |-
-    Ah, just the ${choice-player-gender}[man/woman] I was looking for.
-    Here is your order!${prompt}
-  6926: What? You were expecting something different? I'm sorry, but this is as much as I can do. The rest is up to you.${prompt}
-  6927: 'Take the ${item-singular: 1[2]}, ${article} ${item-article: 2[2]}, ${article} ${item-article: 3[2]}, ${article} ${item-article: 4[2]}, two ${item-plural: 5[2]}, and two ${item-plural: 6[2]}, and synthesize them all together with ${article} ${item-article: 0[2]}.${prompt}'
-  6928: Anyone that has spent more than a few days honing his or her leatherworking skills should have no problem at all.${prompt}
+    Ah, voilà justement le ${choice-player-gender}[homme/femme] que je cherchais.
+    Voici votre commande!${prompt}
+  6926: Que ? Vous vous attendiez à quelque chose de différent ? Je suis désolé, mais c'est tout ce que je peux faire. Le reste dépend de vous.${prompt}
+  6927: 'Prenez le ${item-singular: 1[2]}, ${article} ${item-article: 2[2]}, ${article} ${item-article: 3[2]}, ${article} ${item-article: 4[2]}, deux ${item-plural: 5[2]}, et deux ${item-plural: 6[2]}, et synthétisez-les tous ensemble avec ${article} ${item-article: 0[2]}.${prompt}'
+  6928: Toute personne ayant passé plus de quelques jours à perfectionner ses compétences en maroquinerie ne devrait avoir aucun problème du tout.${prompt}
   6929: |-
     And don't even think of telling me that you don't have enough skill. I know your work, and I know you have what it takes to complete this project.
     Now, as for your smithing and clothcraft skills, you'll have to be the judge on that...${prompt}
