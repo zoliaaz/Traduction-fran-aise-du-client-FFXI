@@ -16338,12 +16338,12 @@ entries:
     Yorcia Weald.
     Marjami Ravine.
     Kamihr Drifts.${prompt}
-  6566: Can I interest you in some magical maps?${prompt}
+  6566: "Puis-je vous intéresser à des cartes magiques ?${prompt}"
   6567: |-
-    Buy a map?
+    Acheter une carte ?
     ${selection-lines}
-    Decline.
-    Inquire about maps.
+    Refuser.
+    Se renseigner sur les cartes.
     ${lettercase: 1}${keyitem-singular: 1[2]} (${number: 17} gil).
     ${lettercase: 1}${keyitem-singular: 2[2]} (${number: 18} gil).
     ${lettercase: 1}${keyitem-singular: 3[2]} (${number: 19} gil).
@@ -16360,72 +16360,72 @@ entries:
     ${lettercase: 1}${keyitem-singular: 14[2]} (${number: 30} gil).
     ${lettercase: 1}${keyitem-singular: 15[2]} (${number: 31} gil).
     ${lettercase: 1}${keyitem-singular: 16[2]} (${number: 32} gil).
-    Previous page.
-    Next page.${prompt}
-  6568: When you look at a map for your present area, you can see the lay of the land, as well as your current location.${prompt}
-  6569: Members of your party and alliance will appear on the map, too. Also, certain jobs let you find people and monsters from a distance.${prompt}
-  6570: They're especially handy because you can mark where you've been, and some people can mark them for you as well.${prompt}
+    Page précédente.
+    Page suivante.${prompt}
+  6568: "Lorsque vous regardez une carte de votre zone actuelle, vous pouvez voir la topographie ainsi que votre position actuelle.${prompt}"
+  6569: "Les membres de votre groupe et de votre alliance apparaîtront également sur la carte. De plus, certaines professions vous permettent de repérer des personnes et des monstres à distance.${prompt}"
+  6570: "Elles sont particulièrement utiles car vous pouvez marquer où vous êtes allé, et certaines personnes peuvent également les marquer pour vous.${prompt}"
   6571: |-
-    The ${keyitem-singular: 1[2]} covers Ronfaure, the La Theine Plateau, the Valkurm Dunes, Jugner Forest, Selbina, and San d'Oria.
-    It costs ${number: 3} gil.${prompt}
+    "Le ${keyitem-singular: 1[2]} couvre Ronfaure, le plateau de La Theine, les dunes de Valkurm, la forêt de Jugner, Selbina et San d'Oria.
+    Il coûte ${number: 3} gil.${prompt}"
   6572: |-
-    The ${keyitem-singular: 1[2]} covers Gustaberg, the Konschtat Highlands, the Pashhow Marshlands, and Bastok.
-    It costs ${number: 3} gil.${prompt}
+    "Le ${keyitem-singular: 1[2]} couvre Gustaberg, les hauts plateaux de Konschtat, les marais de Pashhow et Bastok.
+    Il coûte ${number: 3} gil.${prompt}"
   6573: |-
-    The ${keyitem-singular: 1[2]} covers Sarutabaruta, the Tahrongi Canyon, the Buburimu Peninsula, the Meriphataud Mountains, Mhaura, and Windurst.
-    It costs ${number: 3} gil.${prompt}
+    "Le ${keyitem-singular: 1[2]} couvre Sarutabaruta, le canyon de Tahrongi, la péninsule de Buburimu, les montagnes de Meriphataud, Mhaura et Windurst.
+    Il coûte ${number: 3} gil.${prompt}"
   6574: |-
-    The ${keyitem-singular: 1[2]} covers Batallia Downs, Rolanberry Fields, the Sauromugue Champaign, and Jeuno.
-    It costs ${number: 3} gil.${prompt}
-  6575: 'This complete ${keyitem-singular: 1[2]}, which extend far beneath La Theine Plateau, costs ${number: 3} gil.${prompt}'
-  6576: '${lettercase: 1}${keyitem-plural: 1[2]} include layouts for both outpost and fortress of Ghelsba, as well as the Yughott Grotto. It costs ${number: 3} gil.${prompt}'
-  6577: 'The ${keyitem-singular: 1[2]} shows the notorious Orcish stronghold hidden within Jugner Forest. It is priced at ${number: 3} gil.${prompt}'
-  6578: 'This map shows the waterways and islands that make up Carpenters'' Landing. It is priced at ${number: 3} gil.${prompt}'
+    "Le ${keyitem-singular: 1[2]} couvre les plaines de Batallia, les champs de Rolanberry, la campagne de Sauromugue et Jeuno.
+    Il coûte ${number: 3} gil.${prompt}"
+  6575: "Cette carte complète ${keyitem-singular: 1[2]}, qui s'étend bien au-delà du plateau de La Theine, coûte ${number: 3} gil.${prompt}"
+  6576: "${lettercase: 1}${keyitem-plural: 1[2]} incluent les plans du poste avancé et de la forteresse de Ghelsba, ainsi que de la grotte de Yughott. Il coûte ${number: 3} gil.${prompt}"
+  6577: "Le ${keyitem-singular: 1[2]} montre la forteresse Orc cachée dans la forêt de Jugner. Il est au prix de ${number: 3} gil.${prompt}"
+  6578: "Cette carte montre les voies navigables et les îles qui composent le débarcadère des Charpentiers. Elle est au prix de ${number: 3} gil.${prompt}"
   6579: |-
-    The ${keyitem-singular: 1[2]}, as the name implies, contains the layout of Bastok's Zeruhn Mines.
-    It costs ${number: 3} gil.${prompt}
+    "Le ${keyitem-singular: 1[2]}, comme son nom l'indique, contient le plan des mines de Zeruhn à Bastok.
+    Il coûte ${number: 3} gil.${prompt}"
   6580: |-
-    The ${keyitem-singular: 1[2]}, as the name implies, contains the layout of the Palborough Mines, which lie in North Gustaberg.
-    It costs ${number: 3} gil.${prompt}
+    "Le ${keyitem-singular: 1[2]}, comme son nom l'indique, contient le plan des mines de Palborough, situées à North Gustaberg.
+    Il coûte ${number: 3} gil.${prompt}"
   6581: |-
-    The ${keyitem-singular: 1[2]}, as the name implies, contains the layout of the Quadav stronghold, Beadeaux, that is located in the Pashhow Marshlands.
-    It costs ${number: 3} gil.${prompt}
+    "Le ${keyitem-singular: 1[2]}, comme son nom l'indique, contient le plan de la forteresse des Quadav, Beadeaux, située dans les marais de Pashhow.
+    Il coûte ${number: 3} gil.${prompt}"
   6582: |-
-    The ${keyitem-singular: 1[2]}, as the name implies, contains the layout of Giddeus, which you can reach from West Sarutabaruta.
-    It costs ${number: 3} gil.${prompt}
+    "Le ${keyitem-singular: 1[2]}, comme son nom l'indique, contient le plan de Giddeus, accessible depuis West Sarutabaruta.
+    Il coûte ${number: 3} gil.${prompt}"
   6583: |-
-    The ${keyitem-singular: 1[2]} contains the layout of the Yagudo stronghold, Castle Oztroja, located in the Meriphataud Mountains.
-    It costs ${number: 3} gil.${prompt}
+    "Le ${keyitem-singular: 1[2]} contient le plan de la forteresse Yagudo, le château d'Oztroja, situé dans les montagnes de Meriphataud.
+    Il coûte ${number: 3} gil.${prompt}"
   6584: |-
-    The ${keyitem-singular: 1[2]} contains the layout of the underground maze of Shakhrami that can be found in the Tahrongi Canyon area.
-    It costs ${number: 3} gil.${prompt}
+    "Le ${keyitem-singular: 1[2]} contient le plan du labyrinthe souterrain de Shakhrami, situé dans la région du canyon de Tahrongi.
+    Il coûte ${number: 3} gil.${prompt}"
   6585: |-
-    The ${keyitem-singular: 1[2]} covers the Sanctuary of Zi'Tah, Ro'Maeve, and the Hall of the Gods.
-    It costs ${number: 3} gil.${prompt}
+    "Le ${keyitem-singular: 1[2]} couvre le sanctuaire de Zi'Tah, Ro'Maeve et le Hall des Dieux.
+    Il coûte ${number: 3} gil.${prompt}"
   6586: |-
-    This map covers Bibiki Bay and its nearby islands.
-    It costs ${number: 3} gil.${prompt}
-  6587: 'The ${keyitem-singular: 1[2]} outlines the geography of nearby Qufim Island. It costs ${number: 3} gil.${prompt}'
-  6588: 'Located beneath Batallia Downs, the Eldieme Necropolis is shown in detail on this map. The price is ${number: 3} gil.${prompt}'
-  6589: 'The Garlaige Citadel, which lies upon the Sauromugue Champaign, is illustrated in this map. Each copy costs ${number: 3} gil.${prompt}'
-  6590: '${lettercase: 1}${keyitem-plural: 1[2]} include Kazham, as well as both jungles of Yuhtunga and Yhoator for ${number: 3} gil.${prompt}'
-  6591: '${lettercase: 1}${keyitem-plural: 1[2]} include ${zone: 2[2]} for ${number: 3} gil.${prompt}'
-  6592: '${lettercase: 1}${keyitem-plural: 1[2]} include ${zone: 2[2]} as well as ${zone: 4[2]} for ${number: 3} gil.${prompt}'
-  6593: '${lettercase: 1}${keyitem-plural: 1[2]} include ${zone: 2[2]}, as well as ${zone: 4[2]} and ${zone: 5[2]} for ${number: 3} gil.${prompt}'
+    "Cette carte couvre la baie de Bibiki et ses îles voisines.
+    Il coûte ${number: 3} gil.${prompt}"
+  6587: "Le ${keyitem-singular: 1[2]} décrit la géographie de l'île voisine de Qufim. Il coûte ${number: 3} gil.${prompt}"
+  6588: "Située sous les plaines de Batallia, la nécropole d'Eldieme est détaillée sur cette carte. Le prix est de ${number: 3} gil.${prompt}"
+  6589: "La citadelle de Garlaige, qui se trouve sur la campagne de Sauromugue, est illustrée sur cette carte. Chaque exemplaire coûte ${number: 3} gil.${prompt}"
+  6590: "${lettercase: 1}${keyitem-plural: 1[2]} incluent Kazham, ainsi que les deux jungles de Yuhtunga et Yhoator pour ${number: 3} gil.${prompt}"
+  6591: "${lettercase: 1}${keyitem-plural: 1[2]} incluent ${zone: 2[2]} pour ${number: 3} gil.${prompt}"
+  6592: "${lettercase: 1}${keyitem-plural: 1[2]} incluent ${zone: 2[2]} ainsi que ${zone: 4[2]} pour ${number: 3} gil.${prompt}"
+  6593: "${lettercase: 1}${keyitem-plural: 1[2]} incluent ${zone: 2[2]}, ainsi que ${zone: 4[2]} et ${zone: 5[2]} pour ${number: 3} gil.${prompt}"
   6594: |-
-    Buy ${keyitem-article: 0[2]}?
+    "Acheter ${keyitem-article: 0[2]} ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  6595: You haven't enough money, ${choice-player-gender}[sir/ma'am].${prompt}
-  6596: 'Maps of the Kuzotz region include Altepa Desert as well as Rabao for ${number: 3} gil.${prompt}'
-  6597: 'Maps of the Vollbow region include Cape Teriggan, as well as Valley of Sorrows and Gustav Tunnel for ${number: 3} gil.${prompt}'
-  6598: Maps of the Korroloka Tunnel are, as their names imply, maps of the Korroloka Tunnel, which connects Altepa Desert and Zeruhn Mines.${prompt}
-  6599: 'The map of Al Zahbi also includes Aht Urhgan Whitegate and the Colosseum. It costs ${number: 2} gil.${prompt}'
-  6600: 'This map shows the layout of the Azouph Isle town of Nashmau. It costs ${number: 3} gil.${prompt}'
-  6601: 'This map shows the forest tract stretching west of Al Zahbi. A map of the Wajaom Woodlands can be yours for ${number: 3} gil.${prompt}'
-  6602: 'This map shows Bhaflau Thickets, lying to the north of Al Zahbi. It costs ${number: 3} gil.${prompt}'
-  6603: '${keyitem-article: 1[2]} is an older map that was often used to depict ${zone: 2[2]}. It costs ${number: 3} gil.${prompt}'
+    Oui.
+    Non.${prompt}"
+  6595: "Vous n'avez pas assez d'argent, ${choice-player-gender}[monsieur/madame].${prompt}"
+  6596: "Les cartes de la région de Kuzotz incluent le désert d'Altepa ainsi que Rabao pour ${number: 3} gil.${prompt}"
+  6597: "Les cartes de la région de Vollbow incluent le cap Teriggan, ainsi que la vallée des Souffrances et le tunnel de Gustav pour ${number: 3} gil.${prompt}"
+  6598: "Les cartes du tunnel de Korroloka sont, comme leur nom l'indique, des cartes du tunnel de Korroloka, qui relie le désert d'Altepa et les mines de Zeruhn.${prompt}"
+  6599: "La carte d'Al Zahbi inclut également la porte blanche d'Aht Urhgan et le Colisée. Elle coûte ${number: 2} gil.${prompt}"
+  6600: "Cette carte montre la disposition de la ville de Nashmau sur l'île d'Azouph. Elle coûte ${number: 3} gil.${prompt}"
+  6601: "Cette carte montre le tracé forestier s'étendant à l'ouest d'Al Zahbi. Une carte des bois de Wajaom peut être à vous pour ${number: 3} gil.${prompt}"
+  6602: "Cette carte montre les fourrés de Bhaflau, situés au nord d'Al Zahbi. Elle coûte ${number: 3} gil.${prompt}"
+  6603: "${keyitem-article: 1[2]} est une ancienne carte souvent utilisée pour représenter ${zone: 2[2]}. Elle coûte ${number: 3} gil.${prompt}"
   6604: Oh... I thought perhaps that somewhere within these walls I would find my prrrince charming...${prompt}
   6605: What's that? Do I know you?${prompt}
   6606: A library book? Ah! That's rrright! That book I borrowed in Windurst.${prompt}
@@ -34684,134 +34684,134 @@ entries:
     Love you! Looove! Loooooove!${prompt}
   15365: Happy! Much happy! For you! Yooou!${prompt}
   15366: I have! Still have! No need more!${prompt}
-  15367: I had no idea just how unprepared most adventurers in these parts are...${prompt}
-  15368: My superior told me to “meet an adventurer who has set the first objective from the 'Objective List' under the 'Records of Eminence' section of the Quests menu,” but I feel I will wither and die before that ever happens. What the heck is a “quest menu,” anyway?${prompt}
+  15367: "Je n'avais aucune idée à quel point la plupart des aventuriers dans cette région sont mal préparés...${prompt}"
+  15368: "Mon supérieur m'a dit de « rencontrer un aventurier qui a défini le premier objectif de la 'Liste des objectifs' dans la section 'Archives de l'Éminence' du menu Quêtes », mais je sens que je vais me faner et mourir avant que cela n'arrive. C'est quoi, un « menu Quêtes », de toute façon ?${prompt}"
   15369: |-
-    What will you do?
+    "Que ferez-vous ?
     ${selection-lines}
-    Pick it up.
-    Watch and wait.
-    Walk away.${prompt}
-  15370: How will I ever be able to show my beautiful yet shamed face to my superiors again?${prompt}
+    Le ramasser.
+    Regarder et attendre.
+    S'éloigner.${prompt}"
+  15370: "Comment pourrai-je jamais montrer mon visage beau mais honteux à mes supérieurs à nouveau ?${prompt}"
   15371: |-
-    Oh my, what a stunning coincidence!
-    I had long given up on the hope of bumping into someone who satisfied that tall list of requirements!${prompt}
-  15372: You would not happen to be knowledgeable about the subject of “Records of Eminence,” would you?${prompt}
+    "Oh mon dieu, quelle coïncidence incroyable !
+    J'avais depuis longtemps abandonné l'espoir de tomber sur quelqu'un qui répondait à cette longue liste d'exigences !${prompt}"
+  15372: "Vous ne seriez pas par hasard connaisseur du sujet des « Archives de l'Éminence », n'est-ce pas ?${prompt}"
   15373: |-
-    Well, are you?
+    "Alors, l'êtes-vous ?
     ${selection-lines}
-    Of course.
-    Nope.${prompt}
+    Bien sûr.
+    Non.${prompt}" 
   15374: |-
-    Splendid!
-    Then you have saved both me from losing any more of my time and you from a long-winded explanation!${prompt}
-  15375: Completely understandable. I myself had not heard of the system until I was charged with disseminating information on it to the masses.${prompt}
-  15376: Interestingly enough, this conversation is undeniable proof that you have already begun to participate in Records of Eminence.${prompt}
-  15377: As you will see in this mandate--um, manual--it says “set the first objective from the 'Objective List'” and everything.${prompt}
-  15378: As you know, you have cleared this first objective with flying colors.${prompt}
-  15379: 'In honor of your accomplishment, I would like to present you with ${keyitem-article: 0[2]}!${prompt}'
-  15380: It slinks up from nowhere like an assassin, and it stares with such creepy intensity that you cannot help but...uh...think how adorable it is. <Whisper> Do you think it's listening!?${prompt}
+    "Splendide !
+    Alors vous m'avez évité de perdre encore plus de mon temps et vous d'une longue explication !${prompt}"
+  15375: "C'est tout à fait compréhensible. Moi-même, je n'avais jamais entendu parler de ce système jusqu'à ce que je sois chargé de diffuser des informations à ce sujet auprès des masses.${prompt}"
+  15376: "Fait intéressant, cette conversation est une preuve indéniable que vous avez déjà commencé à participer aux Archives de l'Éminence.${prompt}"
+  15377: "Comme vous le verrez dans ce mandat... euh, manuel... il est écrit « définir le premier objectif de la 'Liste des objectifs' » et tout le reste.${prompt}"
+  15378: "Comme vous le savez, vous avez rempli ce premier objectif haut la main.${prompt}"
+  15379: "En l'honneur de votre accomplissement, j'aimerais vous offrir ${keyitem-article: 0[2]} !${prompt}"
+  15380: "Il surgit de nulle part comme un assassin, et il fixe avec une telle intensité effrayante que vous ne pouvez vous empêcher de... euh... penser à quel point il est adorable. <Chuchote> Pensez-vous qu'il écoute !?${prompt}"
   15381: |-
-    Each time you clear an objective, the details are recorded within the frame of this eerie doll.
-    On a brighter note, you also receive a quantified measure of your eminence, termed “sparks.”${prompt}
+    "Chaque fois que vous atteignez un objectif, les détails sont enregistrés dans le cadre de cette poupée étrange.
+    Sur une note plus positive, vous recevez également une mesure quantifiée de votre éminence, appelée « étincelles ».${prompt}"
   15382: |-
-    Oh, of course.
-    I as well cannot stand how that doll stares daggers into the depths of my soul.${prompt}
-  15383: At least its inventor was magnanimous enough to bestow it with this special function!${prompt}
+    "Oh, bien sûr.
+    Moi aussi, je ne supporte pas la façon dont cette poupée fixe des poignards dans les profondeurs de mon âme.${prompt}"
+  15383: "Au moins, son inventeur a eu la magnanimité de la doter de cette fonction spéciale !${prompt}"
   15384: |-
-    Amazing, is it not?
-    I hear it is all attributable to an “astral patina.” Sadly, I do not understand much more about it than that.${prompt}
-  15385: What I do know is that your recipe for success is to set your objectives periodically. That way you can complete them while on your adventures and garner as many sparks as possible!${prompt}
-  15386: Moreover, some objectives only appear after you complete a certain amount of others. There is always a chance you will be surprised when you check!${prompt}
-  15387: In the event you have forgotten how to set objectives, go to the “Objective List” under the “Records of Eminence” section of the Quests menu. From there you simply pick those most suited to your current undertakings.${prompt}
-  15388: I suggest partaking in a variety of objectives, including the ones that may be repeated.${prompt}
-  15389: Then, when you accrue a sufficient amount of eminence, come to me or one of my friends. We have many a reward stockpiled and ready to enter your veteran hands.${prompt}
-  15390: In summation, with benefits more inflated than even the Royal Guard's sense of self-worth and absolutely no downside, why would you not give this a shot?${prompt}
+    "Incroyable, n'est-ce pas ?
+    J'ai entendu dire que tout cela est attribuable à une « patine astrale ». Malheureusement, je n'en sais pas beaucoup plus à ce sujet.${prompt}"
+  15385: "Ce que je sais, c'est que votre recette du succès est de définir vos objectifs périodiquement. De cette façon, vous pouvez les accomplir lors de vos aventures et accumuler autant d'étincelles que possible !${prompt}"
+  15386: "De plus, certains objectifs n'apparaissent qu'après en avoir complété un certain nombre. Il y a toujours une chance que vous soyez surpris lorsque vous vérifiez !${prompt}"
+  15387: "Si jamais vous avez oublié comment définir des objectifs, allez à la « Liste des objectifs » dans la section « Archives de l'Éminence » du menu Quêtes. De là, vous choisissez simplement ceux qui conviennent le mieux à vos entreprises actuelles.${prompt}"
+  15388: "Je vous suggère de participer à une variété d'objectifs, y compris ceux qui peuvent être répétés.${prompt}"
+  15389: "Ensuite, lorsque vous aurez accumulé une quantité suffisante d'éminence, venez me voir ou l'un de mes amis. Nous avons de nombreuses récompenses stockées et prêtes à entrer dans vos mains de vétéran.${prompt}"
+  15390: "En résumé, avec des avantages plus gonflés que même le sens de la valeur personnelle de la Garde Royale et absolument aucun inconvénient, pourquoi ne pas essayer ?${prompt}"
   15391: |-
-    ...Hmmm.
-    Upon further inspection, you do not seem to be as reliable as I first thought. Please consult with Alaune to learn the ins and outs of adventuring before approaching me again.${prompt}
-  15392: 'Oh, and as that ${keyitem-singular: 0[2]} has irrevocably bonded to you, there is no need to return it. All we can do with it is throw it to the wendigos if you don''t keep it.${prompt}'
-  15393: Perhaps it would behoove you to speak with Rolandienne in Southern San d'Oria (G-10).
-  15394: Perhaps it would behoove you to speak with Isakoth in Bastok Markets (E-11).
-  15395: Perhaps it would behoove you to speak with Fhelm Jobeizat in Windurst Woods (J-10).
-  15396: Perhaps it would behoove you to speak with Eternal Flame in Western Adoulin (H-11).
-  15397: Perhaps it would behoove you to speak with Nantoto in Lower Jeuno (H-8).
-  15398: Invisible eyes upon you cause the hairs on the back of your neck to rise.${prompt}
-  15399: '${color-alt: 15}The ${keyitem-singular: 0[2]} nods in agreement.'
-  15400: '${color-alt: 138}A new Records of Eminence objective is now available!'
-  15401: '${color-alt: 138}A new Records of Eminence objective, “${unknown: 0x01054082808080},” is now available!'
-  15402: You wish to exchange your sparks?
+    "...Hmmm.
+    En y regardant de plus près, vous ne semblez pas être aussi fiable que je le pensais au départ. Veuillez consulter Alaune pour apprendre les tenants et aboutissants de l'aventure avant de revenir me voir.${prompt}"
+  15392: "Oh, et comme ce ${keyitem-singular: 0[2]} s'est irrévocablement lié à vous, il n'est pas nécessaire de le rendre. Tout ce que nous pouvons en faire, c'est le jeter aux wendigos si vous ne le gardez pas.${prompt}"
+  15393: "Il serait peut-être judicieux de parler à Rolandienne à Southern San d'Oria (G-10)."
+  15394: "Il serait peut-être judicieux de parler à Isakoth dans Bastok Markets (E-11)."
+  15395: "Il serait peut-être judicieux de parler à Fhelm Jobeizat dans Windurst Woods (J-10)."
+  15396: "Il serait peut-être judicieux de parler à Eternal Flame à Western Adoulin (H-11)."
+  15397: "Il serait peut-être judicieux de parler à Nantoto à Lower Jeuno (H-8)."
+  15398: "Des yeux invisibles sur vous font se dresser les poils de votre nuque.${prompt}"
+  15399: '${color-alt: 15}Le ${keyitem-singular: 0[2]} hoche la tête en signe d’approbation.'
+  15400: '${color-alt: 138}Un nouvel objectif des Archives de l’Éminence est maintenant disponible !'
+  15401: '${color-alt: 138}Un nouvel objectif des Archives de l’Éminence, “${unknown: 0x01054082808080},” est maintenant disponible !'
+  15402: "Vous souhaitez échanger vos étincelles?"
   15403: |-
-    Wait but a moment.
-    Here, follow this command--er, compendium to the letter and you should be able to learn a thing or two.${prompt}
+    Attendez un moment.
+    Ici, suivez cette commande--euh, ce compendium à la lettre et vous devriez pouvoir apprendre une chose ou deux.${prompt}
   15404: |-
-    Ah, this almost slipped my mind.
-    Should you receive any distinct sorts of artifacts for completing an objective, I will be happy to take them off your hands.${prompt}
-  15405: Worry not, for I am not out to rob you of your glory. Quite the opposite, in fact. I will provide you with a worthwhile reward for collecting them.${prompt}
-  15406: 'Thanks to your donation, I now have ${number: 1} ${item-given-plurality: 1[2], 0[2]} in safekeeping.${prompt}'
-  15407: Ohohoho... Turning in sparks, I see.
+    Ah, cela m'a presque échappé.
+    Si vous recevez des sortes distinctes d'artefacts pour avoir accompli un objectif, je serai heureux de les récupérer.${prompt}
+  15405: Ne vous inquiétez pas, je ne cherche pas à vous voler votre gloire. Bien au contraire, en fait. Je vous offrirai une récompense valable en échange de votre collection.${prompt}
+  15406: 'Grâce à votre don, j’ai maintenant ${number: 1} ${item-given-plurality: 1[2], 0[2]} en sécurité.${prompt}'
+  15407: Ohohoho... Vous rapportez des étincelles, je vois.
   15408: |-
-    Hold your hoarder hares, ${choice-player-gender}[hero/heroine]. I love your enthusiasm, but you're not going to learn a thing without a primer.
-    Ahhh, here it is. Have a look-see.${prompt}
+    Retenez vos ardeurs, ${choice-player-gender}[héros/héroïne]. J'aime votre enthousiasme, mais vous n'apprendrez rien sans un primer.
+    Ahhh, le voici. Jetez un coup d'œil.${prompt}
   15409: |-
-    Oh, crud, that's right.
-    You should trade me any special artifacts you get from completing objectives.${prompt}
+    Oh, zut, c'est vrai.
+    Vous devriez m'échanger tous les artefacts spéciaux que vous obtenez en accomplissant des objectifs.${prompt}
   15410: |-
-    “Why?” What a good question!
-    Because I'll give you a nifty-difty reward at some point, that's why.${prompt}
-  15411: 'Thanks for doing what I asked. Now I have a total of ${number: 1} ${item-given-plurality: 1[2], 0[2]} from you.${prompt}'
-  15412: You want to trrrade in sparks, do you?
+    “Pourquoi ?” Quelle bonne question !
+    Parce que je vous donnerai une récompense astucieuse à un moment donné, voilà pourquoi.${prompt}
+  15411: 'Merci d’avoir fait ce que je vous ai demandé. J’ai maintenant un total de ${number: 1} ${item-given-plurality: 1[2], 0[2]} de votre part.${prompt}'
+  15412: Vous voulez échanger des étincelles, n'est-ce pas ?
   15413: |-
-    Let me wake up from my catnap first...${wait-36: 1}
-    Alright, now rrread this.${prompt}
+    Laissez-moi me réveiller de ma sieste de chat...${wait-36: 1}
+    Très bien, maintenant lisez ceci.${prompt}
   15414: |-
-    Wait, wait, wait!
-    If you happen to get any purrrticularly interesting items from completing objectives, send them my way.${prompt}
-  15415: Don't worry, I'm as honest as a cat when the meat's out of reach. I thought of taking them all for myself...${prompt}
-  15416: '...but I don''t want to make fur fly with the Adventurers'' Mutual Aid Network, so I''ll do my job like a good little kitty.${prompt}'
-  15417: 'Grrreat! Now I have ${number: 1} ${item-given-plurality: 1[2], 0[2]} from you. Thanks!${prompt}'
+    Attendez, attendez, attendez !
+    Si vous obtenez des objets particulièrement intéressants en accomplissant des objectifs, envoyez-les moi.${prompt}
+  15415: Ne vous inquiétez pas, je suis aussi honnête qu'un chat quand la viande est hors de portée. J'ai pensé les garder tous pour moi...${prompt}
+  15416: '...mais je ne veux pas créer de problèmes avec le Réseau d’Aide Mutuelle des Aventuriers, alors je ferai mon travail comme un bon petit chat.${prompt}'
+  15417: 'Génial! Maintenant j’ai ${number: 1} ${item-given-plurality: 1[2], 0[2]} de votre part. Merci !${prompt}'
   15418: |-
-    Hm?
-    Oh, spark exchange... Of course.
-  15419: I'm not completely sure, but this might help set some things straight...I guess.${prompt}
+    Hm ?
+    Oh, échange d’étincelles... Bien sûr.
+  15419: Je ne suis pas totalement sûr, mais cela pourrait aider à clarifier certaines choses... Je suppose.${prompt}
   15420: |-
-    Let me add one thing.
-    Please find it within your heart of hearts to give me anything of particular interest you get from completing objectives.${prompt}
+    Laissez-moi ajouter une chose.
+    Veuillez trouver dans votre cœur de me donner tout ce qui est particulièrement intéressant que vous obtenez en accomplissant des objectifs.${prompt}
   15421: |-
-    I'll make it worth your while...I swear!
-    Just keep at it and I'll be sure to surprise you with a hot, steaming helping of gratitude one day.${prompt}
-  15422: 'Thanks for doing your part in the battle for love and peace! With this latest addition, I''m now keeping track of ${number: 1} ${item-given-plurality: 1[2], 0[2]} for you.${prompt}'
-  15423: “Records of Eminence is a system brought to you by the caring folks at the Adventurers' Mutual Aid Network. Set your own objectives whenever you desire, and fulfill them to receive compensation.${prompt}
-  15424: “To set these tasks, select 'Objective List' from the Quests menu, then choose ones that suit your fancy.${prompt}
-  15425: “You will be rewarded with gil and sparks of eminence, which serve the same function as points, notes, credits, and other such methods of quantifying one's greatness. As an extra incentive, adventurers will earn three times the amount of sparks for completing an objective the first time.${prompt}
-  15426: “Completed objectives will vanish from your quest list unless they are repeatable. In the event that you wish to make room for different objectives, you will need to remove them manually.${prompt}
-  15427: “As a corollary regarding rewards, you'll be blessed with special remuneration once you complete several objectives. Bask in the joy of these pleasant surprises when you can.${prompt}
-  15428: '“Lastly, any and all acts of vandalism directed against your ${keyitem-singular: 0[2]} are strictly prohibited.${prompt}'
-  15429: “Should you be found in violation of this dictum, the heavens will part and wrath incarnate will descend to mete out justice upon you.”${prompt}
-  15430: 'The maximum number of ${item-plural: 0[2]} that may be stored is ${number: 1}.${prompt}'
-  15431: 'You do not possess enough ${item-plural: 0[2]} to complete the transaction.${prompt}'
-  15432: You do not possess enough sparks of eminence to complete the transaction.${prompt}
-  15433: 'You have reached the maximum number of sparks that you can exchange this week (${number: 0}). Your ability to purchase skill books and equipment will be restricted until next week.'
-  15434: 'You may use up to ${number: 0} more sparks of eminence to purchase items.'
+    Je ferai en sorte que cela en vaille la peine... Je le jure !
+    Continuez ainsi et je vous surprendrai un jour avec une bonne dose de gratitude.${prompt}
+  15422: 'Merci de faire votre part dans la bataille pour l’amour et la paix ! Avec cette dernière addition, je tiens maintenant un total de ${number: 1} ${item-given-plurality: 1[2], 0[2]} pour vous.${prompt}'
+  15423: « Les 'Records of Eminence' sont un système proposé par les gens attentionnés du Réseau d'Aide Mutuelle des Aventuriers. Définissez vos propres objectifs quand vous le souhaitez, et accomplissez-les pour recevoir une compensation.${prompt}
+  15424: « Pour définir ces tâches, sélectionnez 'Liste des objectifs' dans le menu Quêtes, puis choisissez celles qui vous plaisent.${prompt}
+  15425: « Vous serez récompensé avec des gils et des étincelles de renommée, qui ont la même fonction que des points, notes, crédits et autres méthodes de quantification de votre grandeur. En guise de motivation supplémentaire, les aventuriers gagneront trois fois plus d'étincelles pour accomplir un objectif la première fois.${prompt}
+  15426: « Les objectifs accomplis disparaîtront de votre liste de quêtes à moins qu'ils ne soient répétables. Dans le cas où vous souhaitez faire de la place pour d'autres objectifs, vous devrez les supprimer manuellement.${prompt}
+  15427: « En ce qui concerne les récompenses, vous recevrez une rémunération spéciale une fois que vous aurez accompli plusieurs objectifs. Profitez de ces agréables surprises quand vous le pouvez.${prompt}
+  15428: '« Enfin, tout acte de vandalisme dirigé contre votre ${keyitem-singular: 0[2]} est strictement interdit.${prompt}'
+  15429: « Si vous êtes reconnu coupable de cette infraction, les cieux se fendiront et la colère incarnée descendra pour rendre justice sur vous.”${prompt}
+  15430: 'Le nombre maximum de ${item-plural: 0[2]} pouvant être stocké est ${number: 1}.${prompt}'
+  15431: 'Vous ne possédez pas assez de ${item-plural: 0[2]} pour compléter la transaction.${prompt}'
+  15432: Vous ne possédez pas assez d'étincelles de renommée pour compléter la transaction.${prompt}
+  15433: 'Vous avez atteint le nombre maximum d’étincelles que vous pouvez échanger cette semaine (${number: 0}). Votre capacité à acheter des livres de compétences et des équipements sera restreinte jusqu’à la semaine prochaine.'
+  15434: 'Vous pouvez utiliser jusqu’à ${number: 0} étincelles de renommée supplémentaires pour acheter des objets.'
   15435: |-
-    Exchange for what? (Sparks: ${number: 0})
+    'Échanger contre quoi ? (Étincelles : ${number: 0})'
     ${selection-lines}
-    Items.
-    Skill-increasing tomes.
-    Equ. Lv.1 - 9. (Up to ${number: 34})
-    Equ. Lv.10 - 19. (Up to ${number: 34})
-    Equ. Lv.20 - 29. (Up to ${number: 34})
-    Equ. Lv.30 - 39. (Up to ${number: 34})
-    Equ. Lv.40 - 50. (Up to ${number: 34})
-    Equ. Lv.51 - 70. (Up to ${number: 34})
-    Equ. Lv.71 - 98. (Up to ${number: 34})
-    Equ. Lv.99. (Up to ${number: 34})
+    Objets.
+    Tomes d'augmentation de compétences.
+    Éq. Nv.1 - 9. (Jusqu'à ${number: 34})
+    Éq. Nv.10 - 19. (Jusqu'à ${number: 34})
+    Éq. Nv.20 - 29. (Jusqu'à ${number: 34})
+    Éq. Nv.30 - 39. (Jusqu'à ${number: 34})
+    Éq. Nv.40 - 50. (Jusqu'à ${number: 34})
+    Éq. Nv.51 - 70. (Jusqu'à ${number: 34})
+    Éq. Nv.71 - 98. (Jusqu'à ${number: 34})
+    Éq. Nv.99. (Jusqu'à ${number: 34})
     10.
-    Trust.
-    Exchange A.M.A.N. currencies.
-    Exchange Seven Treasures.
-    Wise words on Records of Eminence.
-    Nothing.${prompt}
+    Confiance.
+    Échanger des monnaies A.M.A.N.
+    Échanger les Sept Trésors.
+    Des mots sages sur les Records of Eminence.
+    Rien.${prompt}
   15436: |-
     Exchange up to ${number: 34} Spa. (Sparks: ${number: 0})
     ${selection-lines}
@@ -34995,33 +34995,32 @@ entries:
     Non.${prompt}
   15476: Vous ne possédez pas assez d'actes d'héroïsme pour recevoir cet objet..${prompt}
   15477: |-
-    Échange contre quoi?
-    ${selection-lines}
-    Pummeler's Armor.
-    Anchorite's Attire.
-    Theophany Attire.
-    Spaekona's Attire.
-    Atrophy Armor.
-    Pillager's Attire.
-    Reverence Armor.
-    Ignominy Armor.
-    Totemic Armor.
-    Brioso Attire.
-    Orion Attire.
-    Wakido Armor.
-    Hachiya Garb.
-    Vishap Armor.
-    Convoker's Attire.
-    Assimilator's Attire.
-    Laksamana's Attire.
-    Foire Attire.
-    Maxixi Attire.
-    Maxixi Attire.
-    Academic's Attire.
-    Geomancy Attire.
-    Runeist Attire.
+    Échange contre quoi ?
+    Armure de Pummeler.
+    Tenue d'Anchorite.
+    Tenue de Théophanie.
+    Tenue de Spaekona.
+    Armure de l'Atrophie.
+    Tenue du Pillager.
+    Armure de Révérence.
+    Armure de l'Ignominie.
+    Armure Totémique.
+    Tenue de Brioso.
+    Tenue d'Orion.
+    Armure de Wakido.
+    Tenue de Hachiya.
+    Armure de Vishap.
+    Tenue du Convoker.
+    Tenue de l'Assimilator.
+    Tenue de Laksamana.
+    Tenue de Foire.
+    Tenue de Maxixi.
+    Tenue de Maxixi.
+    Tenue Académique.
+    Tenue de Géomancien.
+    Tenue de Runeist.
     Revenir en arrière.
-    Partir.${prompt}
+    Quitter.${prompt}
   15478: 'You will receive the following items in the ${choice: 39}[/Pummeler''s Armor/Anchorite''s Attire/Theophany Attire/Spaekona''s Attire/Atrophy Armor/Pillager''s Attire/Reverence Armor/Ignominy Armor/Totemic Armor/Brioso Attire/Orion Attire/Wakido Armor/Hachiya Garb/Vishap Armor/Convoker''s Attire/Assimilator''s Attire/Laksamana''s Attire/Foire Attire/Maxixi Attire/Maxixi Attire/Academic''s Attire/Geomancy Attire/Runeist Attire] set.${prompt}'
   15479: '${lettercase: 1}${item-singular: 36[2]}.${prompt}'
   15480: |-
@@ -35056,7 +35055,7 @@ entries:
     ${lettercase: 1}${item-singular: 21[2]}.
     ${lettercase: 1}${item-singular: 22[2]}.
     Revenir en arrière.
-    Partir.${prompt}
+    Quitter.${prompt}
   15482: |-
     Êtes-vous sûr de vouloir le ${item-singular: 37[2]}?
     ${selection-lines}
@@ -35097,7 +35096,7 @@ entries:
     490 à 720 Récompenses pour les actes.
     730 à 960 Récompenses pour les actes.
     Revenir en arrière.
-    Partir.${prompt}
+    Quitter.${prompt}
   15486: |-
     Quel élément? (Actes: ${number: 36})
     ${selection-lines}
@@ -35131,9 +35130,9 @@ entries:
     490 à 720 Récompenses pour les actes.
     730 à 960 Récompenses pour les actes.
     Revenir en arrière.
-    Partir.${prompt}
+    Quitter.${prompt}
   15487: |-
-    Which item? (Deeds: ${number: 36})
+    Quel élément? (Actes: ${number: 36})
     ${selection-lines}
     (${choice: 0}[－/★]) ${lettercase: 1}${unknown: 0x0105208287C480} x10: 490
     (${choice: 1}[－/★]) ${lettercase: 1}${unknown: 0x01052082C5B380}: 500.
@@ -35159,15 +35158,15 @@ entries:
     (${choice: 21}[－/★]) ${lettercase: 1}${unknown: 0x01052082DE9F80}： 700.
     (${choice: 22}[－/★]) ${lettercase: 1}${unknown: 0x01053082919980}： 710.
     (${choice: 23}[－/★]) ${lettercase: 1}${unknown: 0x01053082989980}： 720.
-    ${choice: 35}[Hide/Show] obtained rewards.
-    10 to 240 Deed rewards.
-    250 to 480 Deed rewards.
-    490 to 720 Deed rewards.
-    730 to 960 Deed rewards.
-    Go back.
-    Leave.${prompt}
+    ${choice: 35}[Cacher/Afficher] récompenses obtenues.
+    10 à 240 Récompenses pour les actes.
+    250 à 480 Récompenses pour les actes.
+    490 à 720 Récompenses pour les actes.
+    730 à 960 Récompenses pour les actes.
+    Revenir en arrière.
+    Quitter.${prompt}
   15488: |-
-    Which item? (Deeds: ${number: 36})
+    Quel élément? (Actes: ${number: 36})
     ${selection-lines}
     (${choice: 0}[－/★]) ${lettercase: 1}${unknown: 0x01052082FCB280} x3： 730.
     (${choice: 1}[－/★]) ${lettercase: 1}${unknown: 0x01052082BAC880} ✕5： 740.
@@ -35193,48 +35192,48 @@ entries:
     (${choice: 21}[－/★]) ${lettercase: 1}${unknown: 0x01052082BAC880} ✕5： 940.
     (${choice: 22}[－/★]) ${lettercase: 1}${unknown: 0x01053082949980}： 950.
     (${choice: 23}[－/★]) ${lettercase: 1}${unknown: 0x01053082999980}： 960.
-    ${choice: 35}[Hide/Show] obtained rewards.
-    10 to 240 Deed rewards.
-    250 to 480 Deed rewards.
-    490 to 720 Deed rewards.
-    730 to 960 Deed rewards.
-    Go back.
-    Leave.${prompt}
+    ${choice: 35}[Cacher/Afficher] récompenses obtenues.
+    10 à 240 Récompenses pour les actes.
+    250 à 480 Récompenses pour les actes.
+    490 à 720 Récompenses pour les actes.
+    730 à 960 Récompenses pour les actes.
+    Revenir en arrière.
+    Quitter.${prompt}
   15489: |-
-    Exchange for what?
+    Échanger contre quoi ?
     ${selection-lines}
-    Argosy Armor.
-    Hesychast's Attire
-    Piety Attire.
-    Archmage's Attire
-    Vitiation Attire.
-    Plunderer's Attire
-    Caballarius Armor
-    Fallen's Armor
-    Ankusa Armor.
-    Bihu Attire.
-    Arcadian Attire.
-    Sakonji Armor.
-    Mochizuki Garb.
-    Pteroslaver Armor.
-    Glyphic Attire.
-    Luhlaza Attire.
-    Lanun Attire.
-    Pitre Attire.
-    Horos Attire.
-    Pedagogy Attire.
-    Bagua Armor.
-    Futhark Attire.
-    Go back.
-    Leave.${prompt}
-  15490: 'You will receive the following items in the ${choice: 39}[/Argosy Armor/Hesychast''s Attire/Piety Attire/Archmage''s Attire/Vitiation Attire/Plunderer''s Attire/Caballarius Armor/Fallen''s Armor/Ankusa Armor/Bihu Attire/Arcadian Attire/Sakonji Armor/Mochizuki Garb/Pteroslaver Armor/Glyphic Attire/Luhlaza Attire/Lanun Attire/Pitre Attire/Horos Attire/Pedagogy Attire/Bagua Attire/Futhrak Attire] set.${prompt}'
+    Armure d'Argosy.
+    Tenue d'Hésychaste.
+    Tenue de Piété.
+    Tenue d'Archimage.
+    Tenue de Vitiator.
+    Tenue du Pillard.
+    Armure de Caballarius.
+    Armure du Déchu.
+    Armure d'Ankusa.
+    Tenue de Bihu.
+    Tenue d'Arcadien.
+    Armure de Sakonji.
+    Garde de Mochizuki.
+    Armure de Pteroslaver.
+    Tenue Glyphique.
+    Tenue de Luhlaza.
+    Tenue de Lanun.
+    Tenue de Pitre.
+    Tenue d'Horos.
+    Tenue de Pédagogie.
+    Armure de Bagua.
+    Tenue de Futhark.
+    Retour.
+    Quitter.${prompt}
+  15490: "Vous recevrez les articles suivants dans l'ensemble ${choice: 39}[/Armure d'Argosy/Tenue d'Hésychaste/Tenue de Piété/Tenue d'Archimage/Tenue de Vitiator/Tenue du Pillard/Armure de Caballarius/Armure du Déchu/Armure d'Ankusa/Tenue de Bihu/Tenue d'Arcadien/Armure de Sakonji/Garde de Mochizuki/Armure de Pteroslaver/Tenue Glyphique/Tenue de Luhlaza/Tenue de Lanun/Tenue de Pitre/Tenue d'Horos/Tenue de Pédagogie/Armure de Bagua/Tenue de Futhrak].${prompt}"
   15491: |-
-    Is the ${choice: 39}[/Argosy Armor/Hesychast's Attire/Piety Attire/Archmage's Attire/Vitiation Attire/Plunderer's Attire/Caballarius Armor/Fallen's Armor/Ankusa Armor/Bihu Attire/Arcadian Attire/Sakonji Armor/Mochizuki Garb/Pteroslaver Armor/Glyphic Attire/Luhlaza Attire/Lanun Attire/Pitre Attire/Horos Attire/Pedagogy Attire/Bagua Attire/Futhrak Attire] okay?
+    "L'${choice: 39}[/Armure d'Argosy/Tenue d'Hésychaste/Tenue de Piété/Tenue d'Archimage/Tenue de Vitiator/Tenue du Pillard/Armure de Caballarius/Armure du Déchu/Armure d'Ankusa/Tenue de Bihu/Tenue d'Arcadien/Armure de Sakonji/Garde de Mochizuki/Armure de Pteroslaver/Tenue Glyphique/Tenue de Luhlaza/Tenue de Lanun/Tenue de Pitre/Tenue d'Horos/Tenue de Pédagogie/Armure de Bagua/Tenue de Futhrak] est-il correct ?"
     ${selection-lines}
-    Yes.
-    No.${prompt}
+    Oui.
+    Non.${prompt}
   15492: |-
-    Which item? (Deeds: ${number: 36})
+    Quel article? (Actes: ${number: 36})
     ${selection-lines}
     (${choice: 0}[-/★]) ${lettercase: 1}${unknown: 0x0105208287C480}✕3: ${number: 16}.
     (${choice: 1}[-/★]) ${lettercase: 1}${unknown: 0x01052082E4B280}✕3: ${number: 17}.
@@ -35252,15 +35251,16 @@ entries:
     (${choice: 13}[-/★]) ${lettercase: 1}${unknown: 0x0105208282C880}✕5: ${number: 29}.
     (${choice: 14}[-/★]) ${lettercase: 1}${unknown: 0x01052082C6B380}: ${number: 30}.
     (${choice: 15}[-/★]) ${lettercase: 1}${unknown: 0x01052082BCC880}: ${number: 31}.
-    ${choice: 35}[Hide/Show] obtained rewards.
-    ${number: 32} to ${number: 33} Deed rewards.
-    ${number: 34} to ${number: 37} Deed rewards.
-    ${number: 38} to ${number: 39} Deed rewards.
-    Reset rewards.
-    Go back.
-    Leave.${prompt}
+    ${choice: 35}Voici la traduction en français respectant le format YAML :
+    ${choice: 35}[Cacher/Afficher] les récompenses obtenues
+    ${number: 32} à ${number: 33} Récompenses pour les actes.
+    ${number: 34} à ${number: 37} Récompenses pour les actes.
+    ${number: 38} à ${number: 39} Récompenses pour les actes.
+    Réinitialiser les récompenses.
+    Retour.
+    Quitter.${prompt}
   15493: |-
-    Which item? (Deeds: ${number: 36})
+    Quel article? (Actes: ${number: 36})
     ${selection-lines}
     (${choice: 0}[-/★]) ${lettercase: 1}${unknown: 0x0105208287C480}✕3: ${number: 16}.
     (${choice: 1}[-/★]) ${lettercase: 1}${unknown: 0x01052082E4B280}✕3: ${number: 17}.
@@ -35278,15 +35278,15 @@ entries:
     (${choice: 13}[-/★]) ${lettercase: 1}${unknown: 0x01052082BAC880}✕5: ${number: 29}.
     (${choice: 14}[-/★]) ${lettercase: 1}${unknown: 0x01052082C6B380}: ${number: 30}.
     (${choice: 15}[-/★]) ${lettercase: 1}${unknown: 0x01052082BBC880}: ${number: 31}.
-    ${choice: 35}[Hide/Show] obtained rewards.
+    ${choice: 35}[Cacher/Afficher] les récompenses obtenues
     ${number: 32} to ${number: 33} Deed rewards.
     ${number: 34} to ${number: 37} Deed rewards.
     ${number: 38} to ${number: 39} Deed rewards.
-    Reset rewards.
-    Go back.
-    Leave.${prompt}
+    Réinitialiser les récompenses.
+    Retour.
+    Quitter.${prompt}
   15494: |-
-    Which item? (Deeds: ${number: 36})
+    Quel article? (Actes: ${number: 36})
     ${selection-lines}
     (${choice: 0}[-/★]) ${lettercase: 1}${unknown: 0x0105208287C480}✕3: ${number: 16}.
     (${choice: 1}[-/★]) ${lettercase: 1}${unknown: 0x01052082E4B280}✕3: ${number: 17}.
@@ -35304,52 +35304,52 @@ entries:
     (${choice: 13}[-/★]) ${lettercase: 1}${unknown: 0x01052082BAC880}✕5: ${number: 29}.
     (${choice: 14}[-/★]) ${lettercase: 1}${unknown: 0x010520828BC480}: ${number: 30}.
     (${choice: 15}[-/★]) ${lettercase: 1}${unknown: 0x01052082C5B380}: ${number: 31}.
-    ${choice: 35}[Hide/Show] obtained rewards.
+    ${choice: 35}[Cacher/Afficher] les récompenses obtenues
     ${number: 32} to ${number: 33} Deed rewards.
     ${number: 34} to ${number: 37} Deed rewards.
     ${number: 38} to ${number: 39} Deed rewards.
-    Reset rewards.
-    Go back.
-    Leave.${prompt}
-  15495: Resetting rewards will increase the number of deeds required but will let you reobtain items you have previously received.${prompt}
-  15496: 'You are able to reset your rewards for ${number: 0} deed${choice-plurality: 0}[/s].${prompt}'
+    Réinitialiser les récompenses.
+    Retour.
+    Quitter.${prompt}
+  15495: "La réinitialisation des récompenses augmentera le nombre d'actions nécessaires mais vous permettra de récupérer à nouveau les articles que vous avez déjà reçus.${prompt}"
+  15496: "Vous pouvez réinitialiser vos récompenses pour ${number: 0} action${choice-plurality: 0}[s].${prompt}"
   15497: |-
-    Reset rewards?
+    Réinitialiser les récompenses ?
     ${selection-lines}
-    Yes. (Reset #${number: 0})
-    No.${prompt}
-  15498: You have not yet received some rewards. Resetting means that you will be unable to obtain them. Are you sure?${prompt}
+    Oui. (Réinitialisation n°${number: 0})
+    Non.${prompt}
+  15498: "Vous n'avez pas encore reçu certaines récompenses. La réinitialisation signifie que vous ne pourrez pas les obtenir. Êtes-vous sûr ?${prompt}"
   15499: |-
-    Really reset rewards?
+    Voulez-vous vraiment réinitialiser les récompenses ?
     ${selection-lines}
-    Yes. (Reset #${number: 0})
-    No.${prompt}
-  15500: Rewards have been reset.${prompt}
+    Oui. (Réinitialisation n°${number: 0})
+    Non.${prompt}
+  15500: "Les récompenses ont été réinitialisées.${prompt}"
   15501: |-
-    Main Menu
+    Menu principal
     ${selection-lines}
-    Quest flags.
-    Key items.${prompt}
+    Drapeaux de quête.
+    Objets clés.${prompt}
   15502: |-
-    Quest flags
+    Drapeaux de quête
     ${selection-lines}
-    Back.
-    All (operation unverified).${prompt}
+    Retour.
+    Tous (opération non vérifiée).${prompt}
   15503: |-
-    Quest flag operation
+    Opération sur les drapeaux de quête
     ${selection-lines}
-    Back.
-    Zero clear.${prompt}
+    Retour.
+    Réinitialisation totale.${prompt}
   15504: |-
-    Key items
+    Objets clés
     ${selection-lines}
-    Back.
-    All (operation unverified).${prompt}
+    Retour.
+    Tous (opération non vérifiée).${prompt}
   15505: |-
-    Selct key item.
+    Sélectionnez un objet clé.
     ${selection-lines}
-    Back.
-    ＜ Previous page.
+    Retour.
+    ＜ Page précédente.${prompt}
     ${keyitem-singular: 10[2]}.
     ${keyitem-singular: 11[2]}.
     ${keyitem-singular: 12[2]}.
@@ -35360,12 +35360,12 @@ entries:
     ${keyitem-singular: 17[2]}.
     ${keyitem-singular: 18[2]}.
     ${keyitem-singular: 19[2]}.
-    ＞ NExt page.${prompt}
+    ＞ Page suivante.${prompt}
   15506: |-
-    Key items operation
+    Opération sur les objets clés
     ${selection-lines}
-    Back.
-    Delete all.${prompt}
+    Retour.
+    Tout supprimer.${prompt}
   15507: '${choice: 0}[Quests reset to initial settings/Key items reset to initial settings/All flags reset].${prompt}'
   15508: Hail, friend! No need to be so fleet of foot. Come, let me impart upon you a tantalizing morsel of information.${prompt}
   15509: 'A ${choice: 1}[freshly hatched/well-traveled/high-class] adventurer such as yourself could surely appreciate the offer I am about to lay forth for your consideration.${prompt}'
