@@ -18712,33 +18712,35 @@ entries:
   7757: 'C’est un travail dangereux qu’il fait, et on ne sait jamais quand une bonne pommade pourrait vous sauver la vie ! Peut-être pourriez-vous la lui apporter ?${prompt}'
   7758: 'Je le ferais moi-même, pour être sûr, mais je ne peux pas quitter la ville.${prompt}'
   7759: |-
-    Deliver the ointment?
+    Livrer la pommade ?
     ${selection-lines}
-    Of course I will.
-    Not right now.${prompt}
-  7760: I thank you! His name is Aaveleon.${prompt}
-  7761: He patrols the wilderness outside, but not too far from Westgate.${prompt}
-  7762: I see...${prompt}
-  7763: I cannot accept this. Take it back.${prompt}
-  7764: Could you not find my husband?${prompt}
-  7765: His name is Aaveleon. Please, deliver the ointment to him. I fear he may need it.${prompt}
-  7766: You...haven't misplaced the ointment I gave you, by any chance?${prompt}
+    Bien sûr, je le ferai.
+    Pas tout de suite.
+    ${prompt}
+  7760: Je vous remercie ! Il s'appelle Aaveleon.${prompt}
+  7761: Il patrouille dans les terres sauvages à l'extérieur, mais pas trop loin de la Porte Ouest.${prompt}
+  7762: Je vois...${prompt}
+  7763: Je ne peux pas accepter cela. Reprenez-le.${prompt}
+  7764: Vous n'avez pas pu trouver mon mari ?${prompt}
+  7765: Son nom est Aaveleon. S'il vous plaît, livrez-lui la pommade. J'ai peur qu'il en ait besoin.${prompt}
+  7766: Vous... n'avez pas égaré la pommade que je vous ai donnée, par hasard ?${prompt}
   7767: |-
-    You lost the ointment?
+    Vous avez perdu la pommade ?
     ${selection-lines}
-    No, it's right here!
-    I lost it.${prompt}
-  7768: Ah, that is a relief.${prompt}
-  7769: So you lost the ointment! I suppose I can give you another. Please, deliver it as you said you would!${prompt}
-  7770: Thank you so much. With more fiends in the woods, always my husband returns with scrapes and scratches. These are troubling days for us all.${prompt}
-  7771: Here. It's not much, but please accept this as a token of my gratitude.${prompt}
-  7772: Thank you again for your help!${prompt}
-  7773: Ah, nobody wants to play games of chance these days.${prompt}
-  7774: What? Those blokes at the Carpenters' Guild are looking for me, are they?${prompt}
-  7775: I'll tell you what. We'll play a game of chance, and if you win I'll go see them.${prompt}
-  7776: My name's Varchet. People call me the gambler. Would you care to play a game of chance with me?${prompt}
-  7777: It's five gil per game. Pay your bet up front.${prompt}
-  7778: That's your bet! Now we play!${prompt}
+    Non, elle est juste ici !
+    Je l'ai perdue.
+    ${prompt}
+  7768: Ah, c'est un soulagement.${prompt}
+  7769: Alors, vous avez perdu la pommade ! Je suppose que je peux vous en donner une autre. S'il vous plaît, livrez-la comme vous l'avez promis !${prompt}
+  7770: Merci beaucoup. Avec plus de monstres dans les bois, mon mari revient toujours avec des égratignures. Ce sont des jours troublants pour nous tous.${prompt}
+  7771: Tenez. Ce n'est pas grand-chose, mais veuillez accepter ceci en signe de ma gratitude.${prompt}
+  7772: Merci encore pour votre aide !${prompt}
+  7773: Ah, personne ne veut jouer à des jeux de hasard de nos jours.${prompt}
+  7774: Quoi ? Ces types de la Guilde des Charpentiers me cherchent, c'est ça ?${prompt}
+  7775: Je vais vous dire quoi. Nous allons jouer à un jeu de hasard, et si vous gagnez, j'irai les voir.${prompt}
+  7776: Je m'appelle Varchet. Les gens m'appellent le joueur. Voulez-vous jouer à un jeu de hasard avec moi ?${prompt}
+  7777: Cinq gils par partie. Payez votre mise à l'avance.${prompt}
+  7778: Voilà votre mise ! Maintenant, nous jouons !${prompt}
   7779: |-
     What will you play with?
     ${selection-lines}
@@ -18984,36 +18986,36 @@ entries:
     How may I help?
     ${selection-lines}
     Tell me about moss.
-    Tell me about cold balms.${prompt}
-  7964: Eh? Moss to cure coughs?${prompt}
-  7965: 'Why, that sounds like ${keyitem-singular: 0[2]}. A brew of that bitter moss clears up the whoopingest of coughs. I''ve used it meself!${prompt}'
-  7966: 'If ye need somethin'' for coughs, bring me that ${keyitem-singular: 0[2]}, and I''ll make ye a brew for free.${prompt}'
-  7967: 'Where does ${keyitem-singular: 0[2]} grow, ye ask? Well, my mother used to tell me it grew near an abbey, but I don''t recall where that was.${prompt}'
-  7968: What to do? I was trying to go up that plank over the barricade and I slipped and fell! That thing's a public hazard--all wet and mossy like that.${prompt}
-  7969: It's dark and damp under there.${prompt}
-  7970: There's lots of moss growing here.${prompt}
-  7971: This place, it's like a maze! Then again, I got lost in my own backyard once...${prompt}
-  7972: 'Oooh! This is it! This is the moss! I''ll make a fine ${keyitem-singular: 0[2]} with this. Wait a moment, dearie.${prompt}'
-  7973: 'Here ye are, a fine ${keyitem-singular: 0[2]}! I hope it''ll be of some use.${prompt}'
-  7974: 'There ye go, the ${keyitem-singular: 0[2]}''s yours. May it do some good.${prompt}'
-  7975: The brew I gave ye, did it work? Come and see me again if ye ever need any help, dearie.${prompt}
-  7976: 'This...<cough>...This is ${keyitem-article: 0[2]}! But, I cannot accept something so precious without pay...paying!${prompt}'
-  7977: But I have little money. Here, this belonged to my late husband. Perhaps it will be of some use to you.${prompt}
-  7978: Thank you for your help. My condition has much improved, thanks to you!${prompt}
-  7979: An adventurer, eh? The shopkeeper here is looking for someone like you.  She's right up those stairs.${prompt}
-  7980: Dear, dear me. If only an adventurer would help me...${prompt}
-  7981: 'I received an order for votive talismans from the cathedral. But I have no ${item-plural: 0[2]} to make them!${prompt}'
-  7982: Would you be so kind as to go to Jugner Forest and collect three fangs from forest tigers there?${prompt}
-  7983: Every three fangs you bring me, I can fill an order. It would mean a lot to me!${prompt}
-  7984: So you'll go, then? My thanks to you. Remember, Jugner Forest is teeming with forest tigers. They can be a little rough, so tread carefully!${prompt}
-  7985: Oh, so you won't go? Well, it could be dangerous, after all. But come back when you're ready to tromp on some tigers!${prompt}
-  7986: 'What? You forgot my request, did you? Three ${item-plural: 0[2]} from Jugner Forest! Forest tigers'' fangs grow long, and there are plenty of tigers there.${prompt}'
-  7987: 'Ah! Thank you, thank you. That''s three ${item-plural: 0[2]}... I''ll buy the lot.${prompt}'
-  7988: Bring me three more, and I'll be happy to take them. You just drop by and we'll do business, eh?${prompt}
-  7989: 'What''s this, then? I need three ${item-plural: 0[2]} before I''ll buy them off you. Store policy, you see.${prompt}'
-  7990: I am Taumila, the owner of this establishment. Talk to the lady behind the counter if you wish to make a purchase.${prompt}
-  7991: Hello! Let Taumila's handle all your sundry needs!${prompt}
-  7992: Welcome, customer. Please have a look.${prompt}
+    Tell me about cold balms.${prompt} 
+  7964: Eh ? Du lichen pour soigner les toux ?${prompt}
+  7965: 'Eh bien, ça ressemble à ${keyitem-singular: 0[2]}. Une infusion de ce lichen amer soulage les toux les plus persistantes. Je l’ai moi-même utilisé !${prompt}'
+  7966: 'Si vous avez besoin de quelque chose pour les toux, apportez-moi ce ${keyitem-singular: 0[2]}, et je vous ferai une infusion gratuitement.${prompt}'
+  7967: 'Où pousse ce ${keyitem-singular: 0[2]}, me demandez-vous ? Eh bien, ma mère me disait qu’il poussait près d’une abbaye, mais je ne me rappelle pas où cela se trouvait.${prompt}'
+  7968: Que faire ? J'essayais de monter sur cette planche au-dessus de la barricade et j’ai glissé et je suis tombé ! C’est un danger public, tout mouillé et couvert de mousse.${prompt}
+  7969: Il fait sombre et humide là-dessous.${prompt}
+  7970: Il y a beaucoup de mousse qui pousse ici.${prompt}
+  7971: Cet endroit, c’est comme un labyrinthe ! Cela dit, je me suis déjà perdu dans mon propre jardin une fois...${prompt}
+  7972: 'Oooh ! C’est ça ! C’est la mousse ! Je vais faire une belle ${keyitem-singular: 0[2]} avec ça. Attendez un moment, ma chère.${prompt}'
+  7973: 'Voilà, une belle ${keyitem-singular: 0[2]} ! J’espère qu’elle vous sera utile.${prompt}'
+  7974: 'Voilà, la ${keyitem-singular: 0[2]} est à vous. Puissiez-vous en faire bon usage.${prompt}'
+  7975: L’infusion que je vous ai donnée, a-t-elle fonctionné ? Revenez me voir si vous avez besoin d’aide, ma chère.${prompt}
+  7976: 'C’est... <tousse>... C’est ${keyitem-article: 0[2]} ! Mais je ne peux pas accepter quelque chose d’aussi précieux sans...sans payer !${prompt}'
+  7977: Mais je n’ai que peu d’argent. Tenez, c’était à mon défunt mari. Peut-être que cela vous sera utile.${prompt}
+  7978: Merci pour votre aide. Ma condition s’est beaucoup améliorée, grâce à vous !${prompt}
+  7979: Un aventurier, hein ? La commerçante ici recherche quelqu'un comme vous. Elle est juste en haut de ces escaliers.${prompt}
+  7980: Cher, cher moi. Si seulement un aventurier pouvait m’aider...${prompt}
+  7981: 'J’ai reçu une commande de talismans votifs de la cathédrale. Mais je n’ai pas ${item-plural: 0[2]} pour les fabriquer!${prompt}'
+  7982: Seriez-vous assez aimable pour aller dans la forêt de Jugner et collecter trois crocs de tigres des forêts là-bas ?${prompt}
+  7983: Chaque trois crocs que vous m'apporterez, je pourrai remplir une commande. Cela signifierait beaucoup pour moi !${prompt}
+  7984: Alors vous y allez ? Je vous en remercie. Rappelez-vous, la forêt de Jugner est remplie de tigres des forêts. Ils peuvent être un peu agressifs, alors marchez prudemment !${prompt}
+  7985: Oh, donc vous ne partirez pas ? Eh bien, ça pourrait être dangereux, après tout. Mais revenez quand vous serez prêt à marcher sur des tigres !${prompt}
+  7986: 'Quoi ? Vous avez oublié ma demande, n’est-ce pas ? Trois ${item-plural: 0[2]} de la forêt de Jugner ! Les crocs des tigres des forêts poussent longs, et il y a beaucoup de tigres là-bas.${prompt}'
+  7987: 'Ah ! Merci, merci. Ce sont trois ${item-plural: 0[2]}... Je vais les acheter tous.${prompt}'
+  7988: Apportez-en trois de plus, et je serai ravi de les prendre. Passez simplement et nous ferons affaire, d'accord ?${prompt}
+  7989: 'Qu’est-ce que c’est que ça, alors ? J’ai besoin de trois ${item-plural: 0[2]} avant de pouvoir les acheter. Politique de magasin, vous voyez.${prompt}'
+  7990: Je suis Taumila, la propriétaire de cet établissement. Parlez à la dame derrière le comptoir si vous souhaitez faire un achat.${prompt}
+  7991: Bonjour ! Laissez Taumila's s’occuper de tous vos besoins divers !${prompt}
+  7992: Bienvenue, client. N'hésitez pas à jeter un coup d'œil.${prompt}
   7993: （ここでショップメニュー）${prompt}
   7994: Welcome, welcome! Either of my attendants will be happy to help you!${prompt}
   7995: Ah, that reminds me. There was a message from Brugaire, about whether those weapons they ordered had come in.${prompt}
@@ -19494,27 +19496,25 @@ entries:
     What types of ${item-plural: 1[2]} are there?
     How do you use them?
     Never mind.${prompt}
-  8345: These magic shells are full of mysteries...${prompt}
-  8346: |-
-    You can get beautiful pearls from them.
-    Some say these are some new form of shall shells, but...${prompt}
-  8347: |-
-    Even if you take out a pearl, they make more and more of them.
-    Strange, isn't it?${prompt}
-  8348: What's more strange is that pearls taken from the same shell actually transmit sound, no matter how far apart they are!${prompt}
-  8349: So, if you speak into one of the pearls, people who hold other pearls or the shell they were made from can hear you!${prompt}
-  8350: It's as if they were linked by an invisible thread... Huh. I guess that's why they have "link" in their names.${prompt}
-  8351: 'So anyway, the shells are called ${item-plural: 1[2]}, and the pearls ${item-plural: 2[2]}.${prompt}'
-  8352: 'There are also different types of ${item-plural: 1[2]}.${prompt}'
-  8353: Is there anything else you want to know?
+  8345: Ces coquillages magiques sont pleins de mystères...${prompt}
+  8346: Vous pouvez en obtenir de magnifiques perles.
+        Certains disent qu'il s'agit d'une nouvelle forme de coquilles de coquillages, mais...${prompt}
+  8347: Même si vous retirez une perle, elles en fabriquent de plus en plus.
+        Étrange, n'est-ce pas ?${prompt}
+  8348: Ce qui est encore plus étrange, c'est que les perles prélevées sur la même coquille transmettent réellement le son, peu importe la distance qui les sépare !${prompt}
+  8349: Ainsi, si vous parlez dans l'une des perles, les personnes qui tiennent d'autres perles ou la coquille dont elles sont issues peuvent vous entendre !${prompt}
+  8350: C'est comme s'ils étaient liés par un fil invisible... Huh. Je suppose que c'est pourquoi ils ont "lien" dans leur nom.${prompt}
+  8351: 'Quoi qu’il en soit, les coquilles s’appellent ${item-plural: 1[2]}, et les perles ${item-plural: 2[2]}.${prompt}'
+  8352: 'Il existe également différents types de ${item-plural: 1[2]}.${prompt}'
+  8353: Y a-t-il autre chose que vous voulez savoir ?${prompt}
   8354: |-
-    What do you want to ask about?
+    Que voulez-vous demander ?
     ${selection-lines}
     ${lettercase: 1}${item-plural: 0[2]}.
     ${lettercase: 1}${item-plural: 1[2]}.
     ${lettercase: 1}${item-plural: 2[2]}.
     ${lettercase: 1}${item-plural: 3[2]}.
-    Back.${prompt}
+    Retour.${prompt}
   8355: '${lettercase: 1}${item-plural: 0[2]} are ${item-plural: 1[2]} when you first buy them at the store.${prompt}'
   8356: 'Once opened, they start making ${item-plural: 2[2]} and become the communications tool everyone''s using.${prompt}'
   8357: 'You can set the color and name of your ${item-singular: 1[2]} when you open it. Make sure to set the ones you like because you can''t change them afterwards!${prompt}'
@@ -23364,15 +23364,15 @@ entries:
     ${choice: 2}[Cheerful/Cool-headed/Honest/Shy] ${choice: 3}[Hume/Elvaan/Tarutaru/Galkan] guys are just my type.
     Here's a chocolate. You have my support! I wish you the best of luck!${prompt}
   10342: |-
-    Hello! You seem to be working very hard. I'm really thankful!
-    But you needn't rush around so fast. Take your time! I can wait if it makes the job easier for you!${prompt}
+    Bonjour ! Vous semblez travailler très dur. Je vous en suis vraiment reconnaissant !
+    Mais vous n'avez pas besoin de vous précipiter autant. Prenez votre temps ! Je peux attendre si cela rend le travail plus facile pour vous !${prompt}
   10343: |-
-    Yes? You have a question?
-    Oh, I'm sorry. I think you've got the wrong person, but don't worry about it!${prompt}
+    Oui ? Vous avez une question ?
+    Oh, je suis désolé. Je pense que vous avez la mauvaise personne, mais ne vous inquiétez pas à ce sujet!${prompt}
   10344: |-
-    Wow, you brought back a finished chocolate! Thank you so much!
-    I wonder what it tastes like. Teeheehee, I can't wait to try it.
-    I hope you meet someone special, too!${prompt}
+    Waouh, vous avez ramené un chocolat fini ! Merci beaucoup!
+    Je me demande à quoi il peut bien goûter. Hihihi, j'ai hâte d'essayer.
+    J'espère que vous rencontrerez aussi quelqu'un de spécial!${prompt}
   10345: |-
     Aaah!
     Oh...hi! Um, today is...and I...well, that is...
