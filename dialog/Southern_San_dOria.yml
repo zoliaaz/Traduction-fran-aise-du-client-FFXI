@@ -22874,37 +22874,39 @@ entries:
     You forgot who to give the ${item-singular: 0[2]} to?
     Find a ${choice: 1}[warrior/monk/white mage/black mage/red mage/thief/paladin/dark knight/beastmaster/bard/ranger/samurai/ninja/dragoon/summoner] with a level range in the ${number: 2}s and hand it over, kupo!${prompt}
   10191: You can only hand out one card a day, kupo!${prompt}
-  10192: Do you have any items that you just can't let go of because of the fond memories attached to them? Are you worried about the space they take up in your Mog House? Well, worry no longer--I can store your items here!${prompt}
+  10192: |
+    Avez-vous des objets auxquels vous ne pouvez pas renoncer en raison des souvenirs attachés ? Vous vous inquiétez de l'espace qu'ils occupent dans votre Mog House ? Eh bien, ne vous inquiétez plus, je peux stocker vos objets ici !${prompt}
   10193: |-
-    Do you require my services?
+    Avez-vous besoin de mes services ?
     ${selection-lines}
-    Not now, thanks.
-    Tell me what I can store.
-    Remove an item from storage.${prompt}
-  10194: Please select which type of item you would like to know about.${prompt}
+    Pas maintenant, merci.
+    Dites-moi ce que je peux stocker.
+    Retirer un objet du stockage.${prompt}
+  10194: Veuillez sélectionner le type d'objet sur lequel vous souhaitez obtenir des informations.${prompt}
   10195: |-
-    Which type of item?
+    Quel type d'objet ?
     ${selection-lines}
-    I've changed my mind.
-    Furnishings 1.
-    Furnishings 2.
-    Weapons and shields.
-    Armor - Head.
-    Armor - Body, Legs, Feet.${prompt}
+    J'ai changé d'avis.
+    Meubles 1.
+    Meubles 2.
+    Armes et boucliers.
+    Armure - Tête.
+    Armure - Corps, Jambes, Pieds.
+    ${prompt}
   10196: |-
-    I am currently offering storage service for the following ${choice: 39}[Furnishings/Weapons and Shields/Armor/Armor]:
+    Je propose actuellement un service de stockage pour les ${choice: 39}[Meubles/Armes et Boucliers/Armure/Armure]:
     1. ${lettercase: 1}${item-plural: 0[2]}
     2. ${lettercase: 1}${item-plural: 1[2]}${prompt}
   10197: |-
-    I am currently offering storage service for the following ${choice: 39}[Furnishings/Weapons and Shields/Armor/Armor]:
+    Je propose actuellement un service de stockage pour les ${choice: 39}[Meubles/Armes et Boucliers/Armure/Armure]:
     1. ${lettercase: 1}${item-plural: 0[2]}${prompt}
-  10198: 'To store an item, ${color: 5}trade${color: 1} it to me.${prompt}'
+  10198: 'Pour stocker un objet, ${color: 5}échangez${color: 1} le avec moi.${prompt}'
   10199: |-
     3. ${lettercase: 1}${item-plural: 2[2]}
     4. ${lettercase: 1}${item-plural: 3[2]}
     5. ${lettercase: 1}${item-plural: 4[2]}
     6. ${lettercase: 1}${item-plural: 5[2]}${prompt}
-  10200: 'To store an item, ${color: 5}trade${color: 1} it to me.${prompt}'
+  10200: 'Pour stocker un objet, ${color: 5}échangez${color: 1} le avec moi.${prompt}'
   10201: |-
     7. ${lettercase: 1}${item-plural: 6[2]}
     To store an item, ${color: 5}trade${color: 1} it to me.${prompt}
