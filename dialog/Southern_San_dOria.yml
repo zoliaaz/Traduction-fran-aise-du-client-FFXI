@@ -36,30 +36,30 @@ entries:
     No, I'd rather not.${prompt}
   21: All right, then. A San d'Orian Rent-a-Room has been leased to your name. Now move along, foreigner!${prompt}
   22: |-
-    You can set this as your current home point.
-    Once you set a home point, you will return there whenever you are incapacitated.
+    Vous pouvez définir ceci comme votre point de retour actuel.
+    Une fois que vous avez défini un point de retour, vous y retournerez chaque fois que vous serez incapacité.
   23: |-
-    Set this as current home point?
+    Définir ceci comme point de retour actuel ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  24: Home point set!${prompt}
-  25: A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.
+    Oui.
+    Non.${prompt}
+  24: Point de retour défini !${prompt}
+  25: Un point de retour peut être défini comme un endroit où vous revenez à Vana'diel lorsque vous avez été mis KO. Vous pouvez également utiliser un point de retour pour vous téléporter à d'autres points de retour.
   26: |-
-    What will you do?
+    Que ferez-vous ?
     ${selection-lines}
-    Travel to another home point.
-    Set this as your home point.
-    Other settings.
-    On second thought, never mind.${prompt}
+    Voyager vers un autre point de retour.
+    Définir ceci comme votre point de retour.
+    Autres paramètres.
+    En fin de compte, peu importe.${prompt}
   27: |-
-    You have registered a new home point!
-    You are now able to teleport here from any other home point.${prompt}
-  28: You may teleport from here to any other home point you have registered.
+    Vous avez enregistré un nouveau point de retour !
+    Vous pouvez désormais vous y téléporter depuis n'importe quel autre point de retour.${prompt}
+  28: Vous pouvez vous téléporter d'ici vers n'importe quel autre point de retour que vous avez enregistré.
   29: |-
-    Teleport where?
+    Téléporter où ?
     ${selection-lines}
-    Never mind.
+    Peu importe.
     ${zone: 1[2]}.
     ${zone: 2[2]}.
     ${zone: 3[2]}.
@@ -76,81 +76,81 @@ entries:
     ${zone: 14[2]}.
     ${zone: 15[2]}.
     ${zone: 16[2]}.
-    Previous page.
-    Next page.${prompt}
+    Page précédente.
+    Page suivante.${prompt}
   30: |-
-    Teleport where?（${zone: 33[2]}）
+    Téléporter où ?（${zone: 33[2]}）
     ${selection-lines}
-    Nowhere.
-    Home Point #1${choice: 1}[/ (M)/ (A)/ (E)].
-    Home Point #2${choice: 2}[/ (M)/ (A)/ (E)].
-    Home Point #3${choice: 3}[/ (M)/ (A)/ (E)].
-    Home Point #4${choice: 4}[/ (M)/ (A)/ (E)].
-    Home Point #5${choice: 5}[/ (M)/ (A)/ (E)].${prompt}
-  31: You have not yet registered any other home points, and thus are unable to teleport.${prompt}
-  32: 'It costs ${number: 3} gil to teleport to Home Point #${number: 2} in ${zone: 1[2]}.'
-  33: 'There is no fee for teleporting to Home Point #${number: 2} in ${zone: 1[2]}.'
+    Nulle part.
+    Point de retour #1${choice: 1}[/ (M)/ (A)/ (E)].
+    Point de retour #2${choice: 2}[/ (M)/ (A)/ (E)].
+    Point de retour #3${choice: 3}[/ (M)/ (A)/ (E)].
+    Point de retour #4${choice: 4}[/ (M)/ (A)/ (E)].
+    Point de retour #5${choice: 5}[/ (M)/ (A)/ (E)].${prompt}
+  31: Vous n'avez enregistré aucun autre point de retour, et ne pouvez donc pas vous téléporter.${prompt}
+  32: 'Il en coûte ${number: 3} gils pour se téléporter au point de retour #${number: 2} dans ${zone: 1[2]}.'
+  33: 'Il n’y a pas de frais pour se téléporter au point de retour #${number: 2} dans ${zone: 1[2]}.'
   34: |-
-    Teleport? (Current gil: ${number: 0})
+    Téléporter ? (Gils actuels : ${number: 0})
     ${selection-lines}
-    ${choice: 33}[Add to favorites/Remove from favorites].
-    Yes, please.
-    No, thank you.${prompt}
+    ${choice: 33}[Ajouter aux favoris/Retirer des favoris].
+    Oui, s'il vous plaît.
+    Non, merci.${prompt}
   35: |-
-    Teleport to which region?
+    Téléporter vers quelle région ?
     ${selection-lines}
-    On second thought, none.
-    Select from favorites.
-    Current region.
+    En fin de compte, aucune.
+    Sélectionner parmi les favoris.
+    Région actuelle.
     ${choice: 1}[San d'Oria/Movalpolos].
-    ${choice: 1}[Bastok/Tavnazian Arch].
+    ${choice: 1}[Bastok/Archipel Tavnazian].
     ${choice: 1}[Windurst/Lumoria].
-    ${choice: 1}[Jeuno/Mamool Ja Savage].
+    ${choice: 1}[Jeuno/Îles Mamool Ja].
     ${choice: 1}[Tavnazia/Halvung].
-    ${choice: 1}[West. Aht Urhgan/Arrapago Is].
-    ${choice: 1}[Adoulin Isles/Ruins of Alzadaal].
-    ${choice: 1}[Ronfaure/Ronfaure Front].
-    ${choice: 1}[Zulkheim/Norvallen Front].
-    ${choice: 1}[Norvallen/Gustaberg Front].
-    ${choice: 1}[Gustaberg/Derfland Front].
-    ${choice: 1}[Derfland/Sarutabaruta Front].
-    ${choice: 1}[Sarutabaruta/Aragoneu Front].
-    ${choice: 1}[Kolshushu/Fauregandi Front].
-    ${choice: 1}[Aragoneu/Valdeaunia Front].
-    ${choice: 1}[Fauregandi/East. Ulbuka].
+    ${choice: 1}[Aht Urhgan Ouest/Île Arrapago].
+    ${choice: 1}[Îles Adoulin/Ruines d'Alzadaal].
+    ${choice: 1}[Ronfaure/Front de Ronfaure].
+    ${choice: 1}[Zulkheim/Front de Norvallen].
+    ${choice: 1}[Norvallen/Front de Gustaberg].
+    ${choice: 1}[Gustaberg/Front de Derfland].
+    ${choice: 1}[Derfland/Front de Sarutabaruta].
+    ${choice: 1}[Sarutabaruta/Front d'Aragoneu].
+    ${choice: 1}[Kolshushu/Front de Fauregandi].
+    ${choice: 1}[Aragoneu/Front de Valdeaunia].
+    ${choice: 1}[Fauregandi/Ulbuka Est].
     ${choice: 1}[Valdeaunia/Ra'Kaznar].
     ${choice: 1}[Qufim/].
     ${choice: 1}[Li'Telor/].
     ${choice: 1}[Kuzotz/].
     ${choice: 1}[Vollbow/].
-    ${choice: 1}[Elshimo Low/].
-    ${choice: 1}[Elshimo Up/].
+    ${choice: 1}[Elshimo Bas/].
+    ${choice: 1}[Elshimo Haut/].
     ${choice: 1}[Tu'Lia/].
-    Previous page.
-    Next page.${prompt}
+    Page précédente.
+    Page suivante.${prompt}
   36: |-
-    Teleport where?
+    Téléporter où ?
     ${selection-lines}
-    None of these.
-    A favorited location.
-    An original area.
-    A Rise of the Zilart area.
-    A Chains of Promathia area.
-    A Treasures of Aht Urhgan area.
-    A Wings of the Goddess area.
-    A Seekers of Adoulin area.${prompt}
-  37: You may change the method of selecting the area of your desired home point to teleport to.
+    Aucune de ces options.
+    Un lieu favori.
+    Une zone d'origine.
+    Une zone de Rise of the Zilart.
+    Une zone de Chains of Promathia.
+    Une zone de Treasures of Aht Urhgan.
+    Une zone de Wings of the Goddess.
+    Une zone de Seekers of Adoulin.${prompt}
+  37: Vous pouvez modifier la méthode de sélection de la zone du point de retour désiré pour vous y téléporter.
   38: |-
-    Which setting would you like?
+    Quel réglage souhaitez-vous ?
     ${selection-lines}
-    My current setting.
-    Select by region.
-    Select by expansion.${prompt}
-  39: 'You are now selecting by ${choice: 1}[region/expansion].'
+    Mon réglage actuel.
+    Sélectionner par région.
+    Sélectionner par extension.${prompt}
+  39: 'Vous sélectionnez maintenant par ${choice: 1}[région/extension].'
   40: |-
-    Teleport where?
+    Téléporter où ?
     ${selection-lines}
-    None of these.
+    Aucune de ces options.
     ${zone: 1[2]} #${number: 17}.
     ${zone: 2[2]} #${number: 18}.
     ${zone: 3[2]} #${number: 19}.
@@ -160,13 +160,13 @@ entries:
     ${zone: 7[2]} #${number: 23}.
     ${zone: 8[2]} #${number: 24}.
     ${zone: 9[2]} #${number: 25}.
-    ${choice: 33}[Add to favorites/Remove from favorites].${prompt}
-  41: 'Home Point #${number: 2} in ${zone: 1[2]} has been ${choice: 33}[registered to/removed from] your list of favorite locations.'
-  42: Your list of favorite locations is full. You must delete an existing entry in order to register a new one.
+    ${choice: 33}[Ajouter aux favoris/Retirer des favoris].${prompt}
+  41: 'Le point de retour #${number: 2} dans ${zone: 1[2]} a été ${choice: 33}[ajouté à/supprimé de] votre liste de lieux favoris.'
+  42: Votre liste de lieux favoris est pleine. Vous devez supprimer une entrée existante pour en enregistrer une nouvelle.
   43: |-
-    Delete which?
+    Supprimer lequel ?
     ${selection-lines}
-    None of these.
+    Aucune de ces options.
     ${zone: 1[2]} #${number: 17}.
     ${zone: 2[2]} #${number: 18}.
     ${zone: 3[2]} #${number: 19}.
@@ -19709,134 +19709,128 @@ entries:
   8503: ${prompt}
   8504: ${prompt}
   8505: ${prompt}
-  8506: 'Good luck, ${choice: 0}[citizen/comrade]. I will bestow upon you your nation''s Signet.${wait-animation: 0}${prompt}'
-  8507: I cannot help you. You should go find a guard from your own country.${prompt}
+  8506: 'Bonne chance, ${choice: 0}[citoyen/camarade]. Je vais vous accorder le Sceau de votre nation.${wait-animation: 0}${prompt}'
+  8507: Je ne peux pas vous aider. Vous devriez trouver un garde de votre propre pays.${prompt}
   8508: |-
-    I cannot accept crystals from someone whose rank is still 1.
-    I advise you to either keep them until your reach rank 2, or to use them in craftwork.${prompt}
-  8509: 'Since we are allied with San d''Oria...${wait-animation: 0}${prompt}'
-  8510: 'Since we are allied with Bastok...${wait-animation: 0}${prompt}'
-  8511: 'Since we are allied with Windurst...${wait-animation: 0}${prompt}'
+    Je ne peux pas accepter de cristaux d'une personne dont le rang est encore de 1.
+    Je vous conseille soit de les conserver jusqu'à ce que vous atteigniez le rang 2, soit de les utiliser dans l'artisanat.${prompt}
+  8509: 'Puisque nous sommes alliés avec San d’Oria...${wait-animation: 0}${prompt}'
+  8510: 'Puisque nous sommes alliés avec Bastok...${wait-animation: 0}${prompt}'
+  8511: 'Puisque nous sommes alliés avec Windurst...${wait-animation: 0}${prompt}'
   8512: |-
-    I am sorry.
-    I am too busy with other matters to be speaking with you.${wait-animation: 0}${prompt}
-  8513: Ah, you have brought us supplies. These will help us indeed. I thank you.${prompt}
+    Je suis désolé.
+    Je suis trop occupé par d'autres affaires pour discuter avec vous.${wait-animation: 0}${prompt}
+  8513: Ah, vous nous avez apporté des provisions. Elles nous seront vraiment utiles. Je vous remercie.${prompt}
   8514: |-
-    Hmm... These supplies you have brought us are too old to be of any use. We will dispose of them promptly.
-    I do commend you for your effort. May you succeed next time.${prompt}
-  8515: You've earned conquest points!${prompt}
+    Hmm... Ces fournitures que vous nous avez apportées sont trop anciennes pour être utiles. Nous allons nous en débarrasser immédiatement.
+    Je vous félicite tout de même pour vos efforts. Que vous réussissiez la prochaine fois.${prompt}
+  8515: Vous avez gagné des points de conquête!${prompt}
   8516: |-
-    You've received your nation's Signet.
-    You are now taking part in your nation's conquest campaign!${prompt}
+    Vous avez reçu le Sceau de votre nation.
+    Vous participez maintenant à la campagne de conquête de votre nation!${prompt}
   8517: |-
-    I am ${name-npc}, a Temple Knight.
-    I am one of the guards charged with overseeing San d'Oria's conquest campaign.${prompt}
+    Je suis ${name-npc}, un Chevalier du Temple.
+    Je fais partie des gardes chargés de superviser la campagne de conquête de San d'Oria.${prompt}
   8518: |-
-    I am ${name-npc}, an Iron Musketeer.
-    I am one of the guards charged with overseeing Bastok's conquest campaign.${prompt}
+    Je suis ${name-npc}, un Mousquetaire de Fer.
+    Je fais partie des gardes chargés de superviser la campagne de conquête de Bastok.${prompt}
   8519: |-
-    I am ${name-npc}, a War Warlock.
-    I am one of the guards charged with overseeing Windurst's conquest campaign.${prompt}
+    Je suis ${name-npc}, un Sorcier de Guerre.
+    Je fais partie des gardes chargés de superviser la campagne de conquête de Windurst.${prompt}
   8520: |-
-    What is your business?
+    Quelle est votre affaire?
     ${selection-lines}
-    Would you cast Signet on me?
-    I want to spend my conquest points.
-    ${choice: 0}[I want to join the Expeditionary Force./Teleport me to the E.F. area.]
-    I want to quit the E.F./change my E.F.
-    I want to go on a supplies quest.
-    I have some questions...
-    Nothing, sorry to bother you.${prompt}
+    Pouvez-vous me lancer le Sceau?
+    Je veux dépenser mes points de conquête.
+    ${choice: 0}[Je veux rejoindre la Force Expéditionnaire./Téléportez-moi à la zone de la F.E.]
+    Je veux quitter la F.E./changer ma F.E.
+    Je veux partir en quête de fournitures.
+    J'ai quelques questions...
+    Rien, désolé de vous déranger.${prompt}
   8521: |-
-    What do you wish to know about?
+    Que souhaitez-vous savoir?
     ${selection-lines}
-    Nothing.
-    Conquests.
-    Conquest results.
-    Donating crystals.
-    Conquest points.
-    The effects of controlling regions.
-    Regions controlled by other nations.
-    Regions under beastman control.${prompt}
-  8522: All three nations are striving daily to put more regions under their control. This is what we call “conquests.” You can take part in it and serve your country by defeating enemies while you have Signet cast on you.${prompt}
-  8523: Each region comprises several areas, and the nation that rids those areas of the most monsters gains control of the region.${prompt}
-  8524: Nations receive goods and resources from regions under their control.${prompt}
-  8525: So, the more regions we control, the richer our nation becomes.${prompt}
-  8526: |-
-    Border guards are also placed in outposts within regions under our control.
-    They are there to cast Signet on adventurers like yourself.${prompt}
-  8527: Once you have your nation's Signet, you will be able to acquire crystals from enemies you defeat.${prompt}
-  8528: Not only that, but you will also receive conquest points. You get more conquest points if you defeat enemies in regions that are not under your nation's control. These points can be used to purchase items from guards like myself.${prompt}
-  8529: |-
-    So you see...conquests benefit nations and adventurers alike.
-    We expect you to do your best to serve your country.${prompt}
-  8530: |-
-    You can see the current state of conquests by selecting “Region Info” from the main menu.
-    Conquest results in all regions are regularly recalculated, so you may want to check them from time to time.${prompt}
+    Rien.
+    Conquêtes.
+    Résultats des conquêtes.
+    Don de cristaux.
+    Points de conquête.
+    Effets du contrôle des régions.
+    Régions contrôlées par d'autres nations.
+    Régions sous le contrôle des bêtes.${prompt}
+  8522: Chacune des trois nations s'efforce quotidiennement de mettre sous son contrôle un plus grand nombre de régions. C'est ce que nous appelons les "conquêtes". Vous pouvez y participer et servir votre pays en vainquant des ennemis tant que le Sceau est lancé sur vous.${prompt}
+  8523: Chaque région comprend plusieurs zones, et la nation qui élimine le plus de monstres dans ces zones prend le contrôle de la région.${prompt}
+  8524: Les nations reçoivent des biens et des ressources des régions sous leur contrôle.${prompt}
+  8525: Ainsi, plus nous contrôlons de régions, plus notre nation devient riche.${prompt}
+  8526: Des gardes-frontières sont également placés dans des avant-postes situés dans les régions sous notre contrôle. Ils sont là pour lancer le Sceau sur des aventuriers comme vous.${prompt}
+  8527: Une fois que vous avez le Sceau de votre nation, vous pourrez obtenir des cristaux des ennemis que vous vaincrez.${prompt}
+  8528: Non seulement cela, mais vous recevrez également des points de conquête. Vous obtenez plus de points de conquête si vous vainquez des ennemis dans des régions qui ne sont pas sous le contrôle de votre nation. Ces points peuvent être utilisés pour acheter des objets auprès de gardes comme moi.${prompt}
+  8529: Vous comprenez donc... les conquêtes bénéficient aux nations et aux aventuriers. Nous attendons de vous que vous fassiez de votre mieux pour servir votre pays.${prompt}
+  8530: Vous pouvez consulter l'état actuel des conquêtes en sélectionnant "Infos région" dans le menu principal. Les résultats des conquêtes dans toutes les régions sont régulièrement recalculés, donc vous voudrez peut-être les vérifier de temps en temps.${prompt}
   8531: |-
-    Shops in our city will be selling different items according to our conquest rank.
-    The Troupe Valeriano will also visit the nation that finishes first and bring a little joy to its citizens.${prompt}
+    Les boutiques de notre ville vendront différents objets en fonction de notre rang de conquête.
+    La troupe Valeriano se rendra également dans la nation qui arrive en tête et apportera un peu de joie à ses citoyens.${prompt}
   8532: |-
-    You can donate crystals to your nation once you achieve rank 2.
-    Just trade them to guards like myself, and we will ensure they are sent to the proper place.${prompt}
+    Vous pouvez faire don de cristaux à votre nation une fois que vous avez atteint le rang 2.
+    Il suffit de les confier à des gardes comme moi, et nous veillerons à ce qu'ils soient envoyés au bon endroit.${prompt}
   8533: |-
-    We would like you to donate crystals to your nation from now on.
-    Just trade them to guards like myself, and we will ensure they are sent to the proper place.${prompt}
+    Nous aimerions que vous fassiez désormais don de cristaux à votre nation.
+    Il suffit de les confier à des gardes comme moi, et nous veillerons à ce qu'ils soient envoyés au bon endroit.${prompt}
   8534: |-
-    You can acquire crystals by defeating enemies while you have your nation's Signet.
-    Having Signet cast on you is also the only way of taking part in conquests.${prompt}
-  8535: Rank points will be awarded to you for each crystal you donate, and you may be offered new missions as your rank goes up.${prompt}
+    Vous pouvez acquérir des cristaux en battant des ennemis lorsque vous avez le sceau de votre nation.
+    Le seul moyen de participer à des conquêtes est d'être victime d'un tirage au sort sur le Signet.${prompt}
+  8535: Des points de classement vous seront attribués pour chaque cristal que vous donnez, et de nouvelles missions pourront vous être proposées au fur et à mesure que vous monterez en grade.${prompt}
   8536: |-
-    You also receive rank points for completing missions.
-    Complete missions and take part in conquests to raise your rank and serve your country.${prompt}
+    Vous recevez également des points de classement en accomplissant des missions.
+    Terminez des missions et participez à des conquêtes pour monter en grade et servir votre pays.${prompt}
   8537: |-
-    You are awarded conquest points when you defeat monsters while you are taking part in conquests.
-    Select "Region Info" from the menu to check your current number of conquest points.${prompt}
-  8538: You can purchase items from guards like myself with your conquest points, but be warned that the number of points you spend will be subtracted from your current total.${prompt}
-  8539: When conquest results are announced, you will be told which country controls the region you are in at that time. Sometimes regions may become neutral, or beastmen may even gain control of regions.${prompt}
-  8540: If we gain control of a region, border guards will be placed at its outposts to help adventurers like you.${prompt}
-  8541: Merchants will also be placed there, and goods from that region will find their way to the local shops here.${prompt}
-  8542: Gaining control of regions is the basic principle behind conquests. We need each of you to do your best, and bring our nation to the top of the ranks.${prompt}
-  8543: Of course, sometimes we lose regions to other nations...so we must try to take them back before the next conquest results are announced.${prompt}
-  8544: As an incentive, we will award you with more conquest points for defeating monsters in those regions.${prompt}
-  8545: But if we are allied with another nation, you will only be awarded the regular rate for defeating monsters in our allies' regions. On the other hand, we will award you with more points for fighting in the top-ranked nation's regions.${prompt}
+    Vous obtenez des points de conquête lorsque vous battez des monstres pendant que vous participez à des conquêtes.
+    Sélectionnez « Info région » dans le menu pour vérifier votre nombre actuel de points de conquête.${prompt}
+  8538: Vous pouvez acheter des objets à des gardes comme moi avec vos points de conquête, mais sachez que le nombre de points que vous dépensez sera soustrait de votre total actuel.${prompt}
+  8539: Lorsque les résultats de la conquête sont annoncés, on vous dira quel pays contrôle la région dans laquelle vous vous trouvez à ce moment-là. Il arrive que des régions deviennent neutres ou que des hommes-bêtes en prennent le contrôle.${prompt}
+  8540: Si nous prenons le contrôle d'une région, des gardes-frontières seront placés à ses avant-postes pour aider les aventuriers comme vous.${prompt}
+  8541: Des marchands y seront également installés, et les marchandises de cette région trouveront leur place dans les boutiques locales.${prompt}
+  8542: Le contrôle des régions est le principe de base des conquêtes. Nous avons besoin de chacun d'entre vous pour faire de son mieux et amener notre nation au sommet du classement.${prompt}
+  8543: Bien sûr, il arrive que nous perdions des régions au profit d'autres nations... nous devons alors essayer de les reprendre avant que les résultats de la prochaine conquête ne soient annoncés.${prompt}
+  8544: En guise d'encouragement, nous vous attribuerons davantage de points de conquête si vous vainquez des monstres dans ces régions.${prompt}
+  8545: Mais si nous sommes alliés à une autre nation, vous n'obtiendrez que le taux normal pour vaincre les monstres dans les régions de nos alliés. En revanche, nous vous accorderons plus de points si vous combattez dans les régions de la nation la mieux classée.${prompt}
   8546: |-
-    Our paramount concern lies in the beastmen gaining control of our regions.
-    If too many of us are defeated in a region, the beastmen will gain control of it.${prompt}
-  8547: If this happens, not only is it a great blow to our pride, but you will be unable to acquire any crystals in that region.${prompt}
-  8548: The beastmen are a menace to all nations. If they rise to power, we must all unite and drive those vile creatures from that region.${prompt}
-  8549: We need you to bring supplies to the outpost border guards who are placed in regions under our control.${prompt}
-  8550: There is one outpost in each region. Select “Region Info” from the menu, and look for the areas with a small flag mark on the map. That is where they are.${prompt}
+    Notre principale préoccupation est que les hommes-bêtes prennent le contrôle de nos régions.
+    Si nous sommes trop nombreux à être vaincus dans une région, les hommes-bêtes en prendront le contrôle.${prompt}
+  8547: Si cela se produit, non seulement notre fierté en prendra un coup, mais vous ne pourrez plus acquérir de cristaux dans cette région.${prompt}
+  8548: Les hommes-bêtes sont une menace pour toutes les nations. S'ils montent en puissance, nous devons tous nous unir et chasser ces viles créatures de cette région.${prompt}
+  8549: Nous avons besoin de vous pour approvisionner les gardes-frontières des avant-postes qui sont placés dans les régions sous notre contrôle.${prompt}
+  8550: Il y a un avant-poste dans chaque région. Sélectionnez « Informations sur la région » dans le menu, et cherchez les zones avec un petit drapeau sur la carte. C'est là qu'ils se trouvent.${prompt}
   8551: |-
-    Here are the supplies. Just give them to the guard at the outpost and your mission will be complete.
-    Now, choose which outpost you want to go to. We give different rewards for each region, so choose carefully.${prompt}
+    Voici les fournitures. Donnez-les au garde de l'avant-poste et votre mission sera terminée.
+    Choisissez maintenant l'avant-poste où vous souhaitez vous rendre. Nous donnons des récompenses différentes pour chaque région, alors choisissez avec soin.${prompt}
   8552: |-
-    Where do you wish to take the supplies?
+    Où souhaitez-vous acheminer les fournitures?
     ${selection-lines}
     　
     　
     　
     　
     　
-    The Ronfaure Region.${choice: 5}[/ (Done)]
-    The Zulkheim Region.${choice: 6}[/ (Done)]
-    The Norvallen Region.${choice: 7}[/ (Done)]
-    The Gustaberg Region.${choice: 8}[/ (Done)]
-    The Derfland Region.${choice: 9}[/ (Done)]
-    The Sarutabaruta Region.${choice: 10}[/ (Done)]
-    The Kolshushu Region.${choice: 11}[/ (Done)]
-    The Aragoneu Region.${choice: 12}[/ (Done)]
-    The Fauregandi Region.${choice: 13}[/ (Done)]
-    The Valdeaunia Region.${choice: 14}[/ (Done)]
-    Qufim Island.${choice: 15}[/ (Done)]
-    The Li'Telor Region.${choice: 16}[/ (Done)]
-    The Kuzotz Region.${choice: 17}[/ (Done)]
-    The Vollbow Region.${choice: 18}[/ (Done)]
-    The Elshimo Lowlands Region.${choice: 19}[/ (Done)]
-    The Elshimo Uplands Region.${choice: 20}[/ (Done)]
+    La région de Ronfaure.${choice: 5}[/ (Done)]
+    La région de Zulkheim.${choice: 6}[/ (Done)]
+    La région de Norvallen.${choice: 7}[/ (Done)]
+    La région de Gustaberg.${choice: 8}[/ (Done)]
+    La région du Derfland.${choice: 9}[/ (Done)]
+    La région de Sarutabaruta.${choice: 10}[/ (Done)]
+    La région de Kolshushu.${choice: 11}[/ (Done)]
+    La région d'Aragoneu.${choice: 12}[/ (Done)]
+    La région de Fauregandi.${choice: 13}[/ (Done)]
+    La région de Valdeaunia.${choice: 14}[/ (Done)]
+    Île de Qufim.${choice: 15}[/ (Done)]
+    La région de Li'Telor.${choice: 16}[/ (Done)]
+    La région de Kuzotz.${choice: 17}[/ (Done)]
+    La région de Vollbow.${choice: 18}[/ (Done)]
+    La région des basses terres d'Elshimo.${choice: 19}[/ (Done)]
+    La région des hauts plateaux d'Elshimo.${choice: 20}[/ (Done)]
     Tu'Lia.${choice: 21}[/ (Done)]
     　
-    The Tavnazian Archipelago.${choice: 23}[/ (Done)]
+    L'archipel des Tavnazian.${choice: 23}[/ (Done)]
     　
     　
     　
@@ -19844,7 +19838,7 @@ entries:
     　
     　
     　
-    Cancel.${prompt}
+    Annuler.${prompt}
   8553: |-
     Which E.F. would you like to join?
     ${selection-lines}
@@ -19886,58 +19880,58 @@ entries:
     Good luck.${prompt}
   8555: We will dispose of those unusable supplies.${prompt}
   8556: |-
-    You can only undertake one supply mission per day.
-    Come back later.${prompt}
-  8557: I am sorry. We seem to have a problem. Let me cancel it.${prompt}
+    Vous ne pouvez effectuer qu'une seule mission de ravitaillement par jour.
+    Revenez plus tard.${prompt}
+  8557: Je suis désolée. Il semble que nous ayons un problème. Laissez-moi l'annuler.${prompt}
   8558: |-
-    You do not need to donate any more crystals at your current rank.
-    Speak to the guard at the gatehouse for further instructions.${prompt}
+    Vous n'avez pas besoin de donner plus de cristaux à votre rang actuel.
+    Parlez au garde à la guérite pour obtenir de plus amples instructions..${prompt}
   8559: |-
-    Your rank points are full. We've added the excess to your conquest points.
-    You do not need to donate any more crystals. Go to the gatehouse for further instructions.${prompt}
+    Vos points de rang sont pleins. Nous avons ajouté le surplus à vos points de conquête.
+    Vous n'avez plus besoin de donner de cristaux. Allez à la guérite pour obtenir de plus amples instructions.${prompt}
   8560: |-
-    Good work, citizen.
-    We've awarded you rank points for the crystals you've donated.${prompt}
+    Bon travail, citoyen.
+    Nous vous avons attribué des points de classement pour les cristaux que vous avez donnés.${prompt}
   8561: |-
-    You currently have ${number: 0} conquest points.
-    Would you like to use them to purchase items?${prompt}
+    Vous disposez actuellement de ${number: 0} points de conquête.
+    Souhaitez-vous les utiliser pour acheter des objets?${prompt}
   8562: |-
-    Which item do you wish to purchase?
+    Quel objet souhaitez-vous acheter?
     ${selection-lines}
-    Common items (all ranks).
-    1000-pt. items (rank 1 required).
-    2000-pt. items (rank 2 required).
-    4000-pt. items (rank 3 required).
-    8000-pt. items (rank 4 required).
-    16000-pt. items (rank 5 required).
-    24000-pt. items (rank 6 required).
-    32000-pt. items (rank 7 required).
-    40000-pt. items (rank 8 required).
-    48000-pt. items (rank 9 required).
-    56000-pt. items (rank 10 required).
-    Cancel.${prompt}
+    Objets courants (tous rangs confondus).
+    Objets de 1000 points (rang 1 requis).
+    Articles de 2000 points (rang 2 requis).
+    Objets de 4000 pt. (rang 3 requis).
+    Objets de 8000 pt. (rang 4 requis).
+    Objets de 16000 pt. (rang 5 requis).
+    Objets de 24000 pt. (rang 6 requis).
+    Objets de 32000 pt. (rang 7 requis).
+    Objets de 40000 pt. (rang 8 requis).
+    48000 points (rang 9 requis).
+    56000 points (rang 10 requis).
+    Annuler.${prompt}
   8563: |-
-    Which item do you wish to purchase?
+    Quel article souhaitez-vous acheter?
     ${selection-lines}
-    Common items (all ranks).
-    2000-pt. items (rank 1 required).
-    4000-pt. items (rank 2 required).
-    8000-pt. items (rank 3 required).
-    16000-pt. items (rank 4 required).
-    24000-pt. items (rank 5 required).
-    32000-pt. items (rank 6 required).
-    40000-pt. items (rank 7 required).
-    48000-pt. items (rank 8 required).
-    56000-pt. items (rank 9 required).
+    Objets courants (tous les rangs).
+    Objets de 2000 pt. (rang 1 requis).
+    Articles de 4000 pt. (rang 2 requis).
+    Objets de 8000 pt. (rang 3 requis).
+    Objets de 16000 pt. (rang 4 requis).
+    Objets de 24000 pt. (rang 5 requis).
+    Objets de 32000 pt. (rang 6 requis).
+    Objets de 40000 pt. (rang 7 requis).
+    48000 points (rang 8 requis).
+    56000 points (rang 9 requis).
     .
-    Cancel.${prompt}
-  8564: Currently there are no items available for that rank.${prompt}
+    Annuler.${prompt}
+  8564: Il n'y a actuellement aucun objet disponible pour ce rang.${prompt}
   8565: |-
-    Due to its special nature, you can only purchase or recharge ${article} ${item-article: 2[2]} once until the conquest results tally is performed.
-    Also, you cannot purchase this item if a similar item is already in your possession.${prompt}
-  8566: 'It is possible to fully recharge ${article} ${item-article: 2[2]} by trading it to one of your nation''s guards, including outpost guards. One charge requires 50 conquest points.${prompt}'
-  8567: 'It is possible to fully recharge ${article} ${item-article: 2[2]} by trading it to one of your nation''s guards, including outpost guards. One charge requires 100 conquest points.${prompt}'
-  8568: 'It is possible to fully recharge ${article} ${item-article: 2[2]} by trading it to one of your nation''s guards, including outpost guards. One charge requires 200 conquest points.${prompt}'
+    En raison de sa nature particulière, vous ne pouvez acheter ou recharger que ${article} ${item-article: 2[2]} qu'une seule fois jusqu'à ce que le décompte des résultats de la conquête soit effectué.
+    En outre, vous ne pouvez pas acheter cet article si vous possédez déjà un article similaire.${prompt}
+  8566: 'Il est possible de recharger complètement ${article} ${item-article: 2[2]} en l’échangeant avec l’un des gardes de votre nation, y compris les gardes des avant-postes. Une recharge nécessite 50 points de conquête.${prompt}'
+  8567: 'Il est possible de recharger complètement ${article} ${item-article: 2[2]} en l’échangeant avec l’un des gardes de votre nation, y compris les gardes des avant-postes. Une recharge nécessite 100 points de conquête.${prompt}'
+  8568: 'Il est possible de recharger complètement ${article} ${item-article: 2[2]} en l’échangeant avec l’un des gardes de votre nation, y compris les gardes des avant-postes. Une recharge nécessite 200 points de conquête.${prompt}'
   8569: During the time of the Great War, it was possible to have this item recharged in exchange for Allied Notes. From my understanding, that practice has recently become commonplace in the Near East. Though you'll be needing Imperial Standing credits if you wish to use the service there.${prompt}
   8570: 'You do not possess the ${number: 1} ${choice-plurality: 1}[conquest point/conquest points] required to fully recharge the ${item-singular: 0[2]}.${prompt}'
   8571: 'Please be aware that you can only purchase or recharge ${article} ${item-article: 0[2]} once during the period between each conquest results tally.${prompt}'
@@ -20104,23 +20098,23 @@ entries:
   8639: 'You received ${number: 1} conquest points!${prompt}'
   8640: When participating in an Expeditionary Force, concentrate your efforts on fighting foes that give you the most experience points. And don't forget to confiscate the contents of any beastman treasure chest you happen to come upon.${prompt}
   8641: |-
-    I will now hand you your insignia. Be sure to read the inscription on the back before you begin your duties.
-    Once Signet has been bestowed upon you, prepare to be teleported.${prompt}
-  8642: You could not be teleported. Ask me again, please.${prompt}
-  8643: The conquest results are currently being tallied. Come back later.${prompt}
-  8644: You have received permission to join the Expeditionary Forces!${prompt}
-  8645: Currently we rank first in Vana'diel's conquest, but that must not be taken for granted. We must continue our fight to remain on top.${prompt}
-  8646: We had first place in our hands, but we let it slip away. If we want to be ranked first in Vana'diel, each and every one of us must do their part. I look forward to hearing of your achievements.${prompt}
-  8647: Our country has fallen to third in the conquest of Vana'diel. We must step up our efforts to improve the situation.${prompt}
-  8648: You must fight in battles that gain high levels of experience. This is the only way we can bring areas under our country's control.${prompt}
-  8649: Currently, our country is the dominant force in this region. If we can maintain this level, control of this area will be ours.${prompt}
-  8650: Currently, our country is a major force in this region. However, we cannot take this for granted. If we let down our guard, we will surely lose control of the area!${prompt}
-  8651: Currently, our country has only minor influence in this region. We're counting on you to get us out of this hole we've dug ourselves into.${prompt}
-  8652: Currently, our country's influence in this area is minimal. If we do not act quickly, control of this region will certainly be taken by a rival country.${prompt}
-  8653: Take care when passing through, as this area is currently overrun with beastmen! Something must be done, or the enemy will have control of the entire region.${prompt}
-  8654: 'Your inventory is full. You could not accept the ${item-singular: 0[2]}.${prompt}'
-  8655: You already possess a gate glyph. You cannot hold any more.${prompt}
-  8656: I am Jeunoan Ducal Guard, ${name-npc}. My duty is to support the conquest efforts of Windurst, San d'Oria, and Bastok.${prompt}
+    Je vais maintenant vous remettre votre insigne. Assurez-vous de lire l'inscription au dos avant de commencer vos fonctions.
+    Une fois que le Sceau vous aura été conféré, préparez-vous à être téléporté.${prompt}
+  8642: Vous n'avez pas pu être téléporté. Demandez-moi à nouveau, s'il vous plaît.${prompt}
+  8643: Les résultats des conquêtes sont actuellement en cours de compilation. Revenez plus tard.${prompt}
+  8644: Vous avez reçu l'autorisation de rejoindre les Forces Expéditionnaires!${prompt}
+  8645: Actuellement, nous sommes classés premiers dans les conquêtes de Vana'diel, mais cela ne doit pas être pris pour acquis. Nous devons continuer notre combat pour rester au sommet.${prompt}
+  8646: Nous avions la première place entre nos mains, mais nous l'avons laissée nous échapper. Si nous voulons être classés premiers à Vana'diel, chacun de nous doit faire sa part. J'attends avec impatience de connaître vos réalisations.${prompt}
+  8647: Notre pays est tombé à la troisième place dans la conquête de Vana'diel. Nous devons redoubler d'efforts pour améliorer la situation.${prompt}
+  8648: Vous devez combattre dans des batailles qui rapportent beaucoup d'expérience. C'est le seul moyen de mettre des zones sous le contrôle de notre pays.${prompt}
+  8649: Actuellement, notre pays est la force dominante dans cette région. Si nous pouvons maintenir ce niveau, le contrôle de cette zone sera le nôtre.${prompt}
+  8650: Actuellement, notre pays est une force majeure dans cette région. Cependant, nous ne pouvons pas considérer cela comme acquis. Si nous baissons la garde, nous perdrons sûrement le contrôle de la zone!${prompt}
+  8651: Actuellement, notre pays n'a qu'une influence mineure dans cette région. Nous comptons sur vous pour nous sortir de ce pétrin dans lequel nous nous sommes mis.${prompt}
+  8652: Actuellement, l'influence de notre pays dans cette zone est minime. Si nous n'agissons pas rapidement, le contrôle de cette région sera certainement pris par un pays rival.${prompt}
+  8653: Faites attention en passant par ici, car cette zone est actuellement envahie par les bêtes! Quelque chose doit être fait, sinon l'ennemi aura le contrôle de toute la région.${prompt}
+  8654: 'Votre inventaire est plein. Vous n’avez pas pu accepter le ${item-singular: 0[2]}.${prompt}'
+  8655: Vous possédez déjà un glyphe de porte. Vous ne pouvez pas en tenir un de plus.${prompt}
+  8656: Je suis Garde Ducal de Jeuno, ${name-npc}. Ma mission est de soutenir les efforts de conquête de Windurst, San d'Oria et Bastok.${prompt}
   8657: 　${prompt}
   8658: 　${prompt}
   8659: 　${prompt}
@@ -29314,150 +29308,150 @@ entries:
   13554: |-
     So, are you interested in some entry-level duties to put you well on your way to greatness?
     Not to worry, I've got just the thing for you!${prompt}
-  13555: Go talk to the guard Aravoge just over yonder and have him cast “Signet” on you. Then come back and see me.${prompt}
-  13556: Go talk to the guard Rabid Wolf over yonder and have him cast “Signet” on you. Then come back and see me.${prompt}
-  13557: Go talk to the guard Harara over yonder and have her cast “Signet” on you. Then come back and see me.${prompt}
-  13558: Well, it looks like you were able to get your Signet. Easy enough, yes?${prompt}
+  13555: Va parler au garde Aravoge là-bas et demande-lui de te lancer "Signet". Ensuite, reviens me voir.${prompt}
+  13556: Va parler au garde Rabid Wolf là-bas et demande-lui de te lancer "Signet". Ensuite, reviens me voir.${prompt}
+  13557: Va parler à la garde Harara là-bas et demande-lui de te lancer "Signet". Ensuite, reviens me voir.${prompt}
+  13558: Eh bien, il semble que tu aies réussi à obtenir ton Signet. Facile, non ?${prompt}
   13559: |-
-    As long as Signet is in effect, there is always a possibility that you will obtain crystals from any enemies that you defeat.
-    There are also other more concrete benefits, such as increased defense and evasion.${prompt}
+    Tant que le Signet est actif, il y a toujours une possibilité que tu obtiennes des cristaux en battant des ennemis.
+    Il y a aussi d'autres avantages concrets, tels que l'augmentation de la défense et de l'esquive.${prompt}
   13560: |-
-    Signet even helps you when not engaged in combat with an enemy. For example, it boosts the rate at which healing occurs while at rest.
-    For all of these reasons and more, you should consider it essential to have Signet cast on you at all times.${prompt}
-  13561: 'Very well, then! As a reward for successful completion of your first assignment I would like to present you with these ${item-plural: 0[2]}.${prompt}'
+    Le Signet t'aide même lorsque tu n'es pas engagé dans un combat. Par exemple, il augmente la vitesse de guérison pendant le repos.
+    Pour toutes ces raisons et plus encore, tu devrais considérer qu'il est essentiel d'avoir le Signet lancé sur toi en permanence.${prompt}
+  13561: 'Très bien, alors ! En récompense de la réussite de ta première mission, j’aimerais te remettre ces ${item-plural: 0[2]}.${prompt}'
   13562: |-
-    There is more here than “meats” the eye! That was a joke...
-    Anyway, this is a type of item known amongst adventurers as a “meal.”
-    This meal in particular will temporarily enhance your attack power when eaten.${prompt}
+    Il y a plus ici que ce que l'œil "mange"! C'était une blague...
+    Quoi qu'il en soit, c'est un type d'objet connu parmi les aventuriers sous le nom de "repas".
+    Ce repas particulier augmentera temporairement ta puissance d'attaque lorsque tu le mangeras.${prompt}
   13563: |-
-    Whenever any type of meal is consumed, you will receive some such temporary status bonus.
-    Naturally, different meals grant different types of bonuses.${prompt}
+    Chaque fois que tu consommes un type de repas, tu recevras un bonus de statut temporaire.
+    Naturellement, différents repas confèrent différents types de bonus.${prompt}
   13564: |-
-    For the most part, meat dishes will affect attack power.
-    Conversely, seafood dishes generally enhance defense, and so on and so forth.
-    Take care to select dishes best suited to your purpose.${prompt}
+    Pour la plupart, les plats de viande affecteront la puissance d'attaque.
+    À l'inverse, les plats de fruits de mer augmentent généralement la défense, et ainsi de suite.
+    Veille à choisir les plats les mieux adaptés à ton objectif.${prompt}
   13565: |-
-    One thing you should make note of, however, is that you cannot eat a meal while another meal's status bonus is still in effect.
-    Your stomach would simply burst!${prompt}
+    Une chose dont tu devrais te souvenir, cependant, est que tu ne peux pas manger un repas pendant que le bonus de statut d'un autre repas est encore en cours.
+    Ton estomac éclaterait simplement !${prompt}
   13566: |-
-    Hmmm, that's quite a lot to cover...
-    Are you with me so far?${prompt}
+    Hmmm, ça fait beaucoup à couvrir...
+    Tu me suis jusqu'ici ?${prompt}
   13567: |-
-    So far so good?
+    Tout va bien jusqu'à présent ?
     ${selection-lines}
-    Explain Signet again.
-    Explain meals again.
-    This is a breeze.${prompt}
+    Réexpliquer le Signet.
+    Réexpliquer les repas.
+    C'est un jeu d'enfant.${prompt}
   13568: |-
-    Great! Well, talking can only prepare you so much. Let's get right down to it.
-    Go ahead and pop one of those ${item-plural: 0[2]}!${prompt}
+    Parfait ! Eh bien, parler ne peut te préparer que jusqu'à un certain point. Passons à la pratique.
+    Vas-y et mange un de ces ${item-plural: 0[2]}!${prompt}
   13569: |-
-    After eating a meal, a status icon designated as “Food” will appear in the upper-left portion of your screen.
-    Come back and talk to me again once you've confirmed that it's there.${prompt}
+    Après avoir mangé un repas, une icône de statut désignée comme “Nourriture” apparaîtra dans le coin supérieur gauche de ton écran.
+    Reviens me parler une fois que tu as confirmé qu'elle est bien là.${prompt}
   13570: |-
-    Check out the full belly on you! Well done!
-    Signet and meals can both play crucial roles whenever you take on any type of enemy.
-    This is a key lesson that you would do well not to forget!${prompt}
+    Regarde ce ventre bien rempli ! Bien joué !
+    Le Signet et les repas peuvent tous deux jouer des rôles cruciaux lorsque tu affrontes n'importe quel type d'ennemi.
+    C'est une leçon clé que tu ferais bien de ne pas oublier !${prompt}
   13571: |-
-    Next, let's get those pristine hands of yours nice and dirty!
-    No sense in letting that food go to waste now, is there? Let's send you out to fight a monster on a full stomach!${prompt}
-  13572: Exiting through that gate over there will lead you into an area with hostile enemies.${prompt}
+    Ensuite, allons salir ces mains si propres !
+    Pas question de laisser ce repas se perdre maintenant, n'est-ce pas ? Allons t'envoyer combattre un monstre le ventre plein !${prompt}
+  13572: Sortir par cette porte là-bas te mènera dans une zone avec des ennemis hostiles.${prompt}
   13573: |-
-    Try to target one of the monsters and then select the “Check” option from your menu.
-    This will help you ascertain an enemy's level of difficulty and make sure they are not too strong. A smart adventurer picks ${choice-player-gender}[his/her] fights.${prompt}
-  13574: Be warned. Engaging any enemy that checks as “very tough” or above will result in your Signet not granting you the defense and evasion bonuses you would otherwise receive.${prompt}
-  13575: And that brings us to your next assignment!${prompt}
-  13576: It's high time you learned how to use a “weapon skill”!${prompt}
-  13577: Perhaps you've already noticed, but sometimes while fighting an enemy, your “skills” will rise little by little.${prompt}
-  13578: When your skill with the weapon you are wielding reaches a predetermined value, weapon skills will become available for use.${prompt}
+    Essaie de cibler l'un des monstres, puis sélectionne l'option “Examiner” dans ton menu.
+    Cela t'aidera à déterminer le niveau de difficulté d'un ennemi et à t'assurer qu'il n'est pas trop fort. Un aventurier avisé choisit ${choice-player-gender}[ses combats/le combat].${prompt}
+  13574: Attention. Affronter un ennemi qui se révèle “très difficile” ou plus entraînera l'annulation des bonus de défense et d'esquive normalement accordés par ton Signet.${prompt}
+  13575: Et cela nous amène à ta prochaine mission !${prompt}
+  13576: Il est grand temps que tu apprennes à utiliser une “compétence d'arme” !${prompt}
+  13577: Peut-être l'as-tu déjà remarqué, mais parfois, en combattant un ennemi, tes “compétences” augmentent petit à petit.${prompt}
+  13578: Lorsque ta compétence avec l'arme que tu manies atteint une valeur prédéterminée, des compétences d'arme deviennent disponibles pour utilisation.${prompt}
   13579: |-
-    “Combo” for those adept with hand-to-hand weapons. “Wasp Sting” for those who fight with daggers.
-    “Fast Blade” for those who prefer the sword.${prompt}
+    “Combo” pour ceux adeptes des armes de combat à mains nues. “Piqûre de guêpe” pour ceux qui combattent avec des dagues.
+    “Lame rapide” pour ceux qui préfèrent l'épée.${prompt}
   13580: |-
-    “Shining Strike” for wielders of the club. “Heavy Swing” for those who take up the staff.
-    And on, and on, and on...${prompt}
+    “Frappe éclatante” pour les porteurs de massues. “Coup lourd” pour ceux qui prennent le bâton.
+    Et ainsi de suite, et ainsi de suite...${prompt}
   13581: |-
-    Selecting “Status” from the main menu will bring up the “Combat Skl.” option.
-    This will display all of the current skill values in all weapon categories.${prompt}
+    Sélectionner “Statut” dans le menu principal fera apparaître l'option “Compétence combat”.
+    Cela affichera toutes les valeurs de compétence actuelles dans toutes les catégories d'armes.${prompt}
   13582: |-
-    The first weapon skill for each weapon type can be learned at a skill value of 5.
-    So make that your first goal, and we'll take it from there!${prompt}
+    La première compétence d'arme pour chaque type d'arme peut être apprise avec une valeur de compétence de 5.
+    Donc, fais-en ton premier objectif, et nous prendrons le relais à partir de là !${prompt}
   13583: |-
-    Ohhh! Somebody went and learned a new weapon skill, didn't ${choice-player-gender}[he/she]?
-    Very good!${prompt}
+    Ohhh ! Quelqu'un a appris une nouvelle compétence d'arme, n'est-ce pas ${choice-player-gender}[lui/elle] ?
+    Très bien !${prompt}
   13584: |-
-    I can see by that twinkle in your eyes that you've already used it on some poor, unfortunate creature, but I'll explain just a bit more.
-    Whenever your “Tactical Points” (TP) reach 1000 or more, selecting “Abilities” and then “Weapon Skl.” from the menu will display a list of usable weapon skills.${prompt}
+    Je vois à cette lueur dans tes yeux que tu l'as déjà utilisée sur une pauvre créature malchanceuse, mais je vais expliquer encore un peu plus.
+    Chaque fois que tes “Points Tactiques” (PT) atteignent 1000 ou plus, sélectionner “Capacités” puis “Compétence combat” dans le menu affichera une liste de compétences d'arme utilisables.${prompt}
   13585: |-
-    These are deadly techniques capable of rendering massive damage on enemies.
-    It is well worth an adventurer's time to learn and master them.${prompt}
-  13586: Ah, by the way, were you fortunate enough to receive some items from the monsters you fought?${prompt}
+    Ce sont des techniques mortelles capables d'infliger des dégâts massifs aux ennemis.
+    Il vaut vraiment la peine pour un aventurier d'apprendre et de maîtriser ces compétences.${prompt}
+  13586: Ah, au fait, avez-vous eu la chance de recevoir des objets des monstres que vous avez combattus ?${prompt}
   13587: |-
-    If you were lucky enough to come across any ${item-plural: 0[2]}, make sure you hang onto them.
-    They may pay dividends later on...${prompt}
+    Si vous avez eu la chance de trouver des ${item-plural: 0[2]}, assurez-vous de les conserver.
+    Ils pourraient rapporter gros plus tard...${prompt}
   13588: |-
-    Also, that reminds me. There is another lesson better learned sooner than later.
-    The items you will no doubt come across known as “crystals,” such as ${item-plural: 1[2]} and ${item-plural: 2[2]}, are extremely significant.${prompt}
+    Au fait, cela me rappelle. Il y a une autre leçon qu'il vaut mieux apprendre tôt que tard.
+    Les objets que vous rencontrerez sans aucun doute, connus sous le nom de “cristaux”, tels que ${item-plural: 1[2]} et ${item-plural: 2[2]}, sont extrêmement importants.${prompt}
   13589: |-
-    They are truly versatile items that can be used for a number of purposes.
-    These include trading them to guards for certain rewards, and selling them to earn money, just to name a few.${prompt}
-  13590: For now, I'd like to explain more about another of their uses. Namely, the role they play in “synthesis.”${prompt}
+    Ce sont vraiment des objets polyvalents qui peuvent être utilisés à plusieurs fins.
+    Cela inclut les échanger aux gardes contre certaines récompenses et les vendre pour gagner de l'argent, pour n'en citer que quelques-unes.${prompt}
+  13590: Pour l'instant, j'aimerais expliquer davantage un autre de leurs utilisations. À savoir, le rôle qu'ils jouent dans la “synthèse”.${prompt}
   13591: |-
-    But first things first. Your reward for completing your last assignment! Here you are, then.
-    ${lettercase: 1}${article} ${item-article: 1[2]}, ${article} ${item-article: 2[2]}, and last but not least, ${article} ${item-article: 3[2]}.${prompt}
+    Mais avant toute chose. Votre récompense pour avoir accompli votre dernière mission ! Voici ce qu'il en est.
+    ${lettercase: 1}${article} ${item-article: 1[2]}, ${article} ${item-article: 2[2]}, et enfin, ${article} ${item-article: 3[2]}.${prompt}
   13592: |-
-    Now, using ${article} ${item-article: 3[2]} will bring up the synthesis interface.
-    Once there, select the ${item-singular: 1[2]} and ${item-singular: 2[2]} as the ingredients to be added.${prompt}
-  13593: All that remains is to select the “OK” option, and the synthesis will commence!${prompt}
+    Maintenant, utiliser ${article} ${item-article: 3[2]} fera apparaître l'interface de synthèse.
+    Une fois là-bas, sélectionnez ${item-singular: 1[2]} et ${item-singular: 2[2]} comme ingrédients à ajouter.${prompt}
+  13593: Tout ce qu'il reste à faire est de sélectionner l'option “OK”, et la synthèse commencera !${prompt}
   13594: |-
-    You'll find that the crafting process will never begin, should the ingredients you've selected not form a viable synthesis recipe.
-    Also, even when your materials are correct, there is always a chance that your synthesis will fail, so please be wary.${prompt}
-  13595: The majority of items which you create via synthesis, as well as most of those dropped by enemies you defeat, can be placed on the “Auction House” for sale.${prompt}
-  13596: The auction house is an ultra-consumer venue where you can attempt to purchase the wares of other players by placing bids, as well as have other players bid on items you have put up for sale.${prompt}
+    Vous constaterez que le processus de fabrication ne commencera jamais si les ingrédients que vous avez sélectionnés ne forment pas une recette de synthèse viable.
+    De plus, même lorsque vos matériaux sont corrects, il y a toujours une chance que votre synthèse échoue, alors soyez prudent.${prompt}
+  13595: La majorité des objets que vous créez via la synthèse, ainsi que la plupart de ceux laissés par les ennemis que vous battez, peuvent être placés sur le “Bureau des ventes” pour la vente.${prompt}
+  13596: Le bureau des ventes est un lieu de consommation ultra où vous pouvez tenter d'acheter les marchandises d'autres joueurs en plaçant des enchères, ainsi que de permettre à d'autres joueurs d'enchérir sur les objets que vous avez mis en vente.${prompt}
   13597: |-
-    My words alone can do no justice to the vast cornucopia of goods that is the auction house.
-    One simply must see it with one's own eyes.${prompt}
+    Mes mots seuls ne peuvent rendre justice à la vaste cornucopie de biens qu'est le bureau des ventes.
+    Il faut simplement le voir de ses propres yeux.${prompt}
   13598: |-
-    Are you still with me?
+    Êtes-vous toujours avec moi?
     ${selection-lines}
-    Explain synthesis again.
-    Explain the auction house again.
-    Sure am.${prompt}
-  13599: Somewhere in this great city lies our nation's auction house. Seek it out, and report back to me when you have found it.${prompt}
+    Expliquer à nouveau la synthèse.
+    Expliquer à nouveau le bureau des ventes.
+    Bien sûr.${prompt}
+  13599: Quelque part dans cette grande ville se trouve le bureau des ventes de notre nation. Trouvez-le, et revenez me voir lorsque vous l'aurez trouvé.${prompt}
   13600: |-
-    You needn't worry about going through with an actual purchase.
-    Simply examining any of the “Auction Counters” will more than suffice.${prompt}
+    Vous n'avez pas besoin de vous soucier de procéder à un achat réel.
+    Il suffit simplement d'examiner l'un des “Comptoirs de vente aux enchères”.${prompt}
   13601: |-
-    So, you were able to locate the auction house!
-    Pretty hard to miss, isn't it?${prompt}
+    Alors, vous avez pu localiser le bureau des ventes!
+    Plutôt difficile à manquer, n'est-ce pas?${prompt}
   13602: |-
-    What do you think? It is as I said, yes? Few organizations in this world exceed the auction house in scale.
-    It will never cease to be of use to you throughout your adventures. It would be wise to become adept at using it.${prompt}
+    Qu'en pensez-vous? C'est comme je l'ai dit, n'est-ce pas? Peu d'organisations dans ce monde dépassent le bureau des ventes en termes d'échelle.
+    Il ne cessera jamais de vous être utile tout au long de vos aventures. Il serait sage de devenir compétent dans son utilisation.${prompt}
   13603: |-
-    And now down to brass tacks!
-    Let's see if we can't get you to up some levels!${prompt}
-  13604: There are several items in existence which serve to enhance the number of experience points you receive for defeating enemies.${prompt}
-  13605: 'For example, there are ${item-plural: 0[2]}, ${item-plural: 1[2]}, and ${item-plural: 2[2]}, just to name a few.${prompt}'
-  13606: These are a bit unique in that you must wait a certain amount of time after equipping them before you may use them.${prompt}
+    Et maintenant, passons aux choses sérieuses!
+    Voyons si nous ne pouvons pas vous faire monter de niveau!${prompt}
+  13604: Il existe plusieurs objets qui servent à augmenter le nombre de points d'expérience que vous recevez pour avoir vaincu des ennemis.${prompt}
+  13605: 'Par exemple, il y a des ${item-plural: 0[2]}, des ${item-plural: 1[2]}, et des ${item-plural: 2[2]}, pour n’en citer que quelques-uns.${prompt}'
+  13606: Ceux-ci sont un peu particuliers car vous devez attendre un certain temps après les avoir équipés avant de pouvoir les utiliser.${prompt}
   13607: |-
-    There is also a predetermined amount of time, usually quite long, that must pass before these items can be used again.
-    The total number of times you may use any single item is also limited, so be mindful of that as well.${prompt}
+    Il y a aussi un laps de temps prédéterminé, généralement assez long, qui doit s'écouler avant que ces objets puissent être réutilisés.
+    Le nombre total de fois que vous pouvez utiliser un seul objet est également limité, alors veillez également à en tenir compte.${prompt}
   13608: |-
-    Many of these items may be obtained from the same guards that provide you with Signet.
-    You need only exchange “Conquest Points” in order to acquire them.${prompt}
+    Beaucoup de ces objets peuvent être obtenus auprès des mêmes gardes qui vous fournissent le Signet.
+    Vous n'avez qu'à échanger des “Points de conquête” pour les acquérir.${prompt}
   13609: |-
-    As a matter of fact, for finishing that last assignment, I'm going to give you this ${keyitem-singular: 3[2]}.
-    With this, you'll be able to obtain ${article} ${item-article: 0[2]} without having to use any of your Conquest Points.${prompt}
+    En fait, pour avoir terminé cette dernière mission, je vais vous donner ce ${keyitem-singular: 3[2]}.
+    Avec ça, vous pourrez obtenir ${article} ${item-article: 0[2]} sans avoir à utiliser vos Points de conquête.${prompt}
   13610: |-
-    Head over to any guard and have a go at exchanging them for something.
-    And after that, see if you can't make it all the way up to level four.
-    I'll be right here waiting for you when you get back.${prompt}
+    Rendez-vous auprès de n'importe quel garde et essayez d'en échanger contre quelque chose.
+    Et après cela, voyez si vous ne pouvez pas atteindre le niveau quatre.
+    Je serai ici à vous attendre lorsque vous reviendrez.${prompt}
   13611: |-
-    With an experience bonus in place, it should take you practically no time at all.
-    Good luck, and be careful! It can get quite hairy out there!${prompt}
+    Avec un bonus d'expérience en place, cela ne devrait vous prendre pratiquement aucun temps.
+    Bonne chance, et faites attention! Ça peut devenir assez compliqué là-bas!${prompt}
   13612: |-
-    Well, well, well! We might make an adventurer out of you just yet!
-    Looks like we've almost washed all that green off of you.${prompt}
+    Eh bien, eh bien, eh bien! Nous pourrions bien faire de vous un aventurier après tout!
+    On dirait que nous avons presque enlevé toute cette inexpérience de vous.${prompt}
   13613: |-
     A bit of bad news now, though.
     Starting from level 31, anytime you are knocked unconscious your experience points will suffer a deduction.${prompt}
