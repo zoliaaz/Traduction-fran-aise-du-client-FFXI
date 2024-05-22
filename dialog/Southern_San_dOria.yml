@@ -18458,8 +18458,8 @@ entries:
     Present the...${item-singular: 0[2]}.${prompt}
   7572: I am the ruler of Dynamis.${prompt}
   7573: |-
-    Are you lost? Or are you here by your own reckless designs?
-    Either way, this is not your dream.${prompt}
+    Es-tu perdu ? Ou es-tu ici par tes propres desseins imprudents ?
+    Dans tous les cas, ce n'est pas ton rêve.${prompt}
   7574: The dreamer of this realm is a separate entity than he who dreamt of that wasteland of malice, Xarcabard. ${prompt}
   7575: Who would dare bring a new dream into my world of Dynamis?${prompt}
   7576: I divided my form in order to find the answer, but my counterpart has yet to return to me.${prompt}
@@ -19282,28 +19282,28 @@ entries:
   8193: |-
     クリスタルバスだね。（ビチビチ）
     テスト用だから、お代はいらないよ。${prompt}
-  8194: You stand beneath Victory Arch. Beyond lies Northern San d'Oria. The tale of its magnificence stretches back some 300 years to the era of Warking Acheufagais.${prompt}
-  8195: The arch stands impervious, unfelled even by the great chaos brought about by the Civil and Crystal Wars. It is precisely this permanence that has made the Victory Arch the pride of the Royal Army!${prompt}
-  8196: Beyond the arch lies Northern San d'Oria, where Chateau d'Oraguille, the cathedral, and the consulates of allied nations stand.${prompt}
-  8197: Yes?${prompt}
-  8198: You stand before the Westgate. West Ronfaure lies beyond.${prompt}
-  8199: You stand before the Eastgate. East Ronfaure lies beyond.${prompt}
-  8200: Oh, an adventurer. Across the way lies the Westgate. It leads outside the city walls.${prompt}
-  8201: Welcome to Novice's Hall. Don't be afraid, come inside!${prompt}
-  8202: Are you lost? I know this neighborhood well.${prompt}
+  8194: Vous vous tenez sous l'arche de la Victoire. Au-delà se trouve le Nord de San d'Oria. Son histoire de magnificence remonte à environ 300 ans, à l'époque du Roi Acheufagais.${prompt}
+  8195: L'arche se dresse imperturbable, jamais tombée même pendant les grandes périodes de chaos des guerres civiles et des guerres de cristal. C'est précisément cette permanence qui a fait de l'arche de la Victoire la fierté de l'armée royale !${prompt}
+  8196: Au-delà de l'arche se trouve le Nord de San d'Oria, où se trouvent le Château d'Oraguille, la cathédrale et les consulats des nations alliées.${prompt}
+  8197: Oui ?${prompt}
+  8198: Vous vous tenez devant la Porte Ouest. Au-delà se trouve Ronfaure Ouest.${prompt}
+  8199: Vous vous tenez devant la Porte Est. Au-delà se trouve Ronfaure Est.${prompt}
+  8200: Oh, un aventurier. De l'autre côté se trouve la Porte Ouest. Elle mène hors des murs de la ville.${prompt}
+  8201: Bienvenue à la Salle des Novices. N'ayez pas peur, entrez !${prompt}
+  8202: Connaissez-vous le chemin ? Je connais bien ce quartier.${prompt}
   8203: |-
-    Which way are you going?
+    Dans quelle direction allez-vous ?
     ${selection-lines}
-    Left.
-    Right.${prompt}
-  8204: There on Pikeman's Way you can find a grocer, sundries and the Tanners' Guild. At the end lies the mansion of Count Caffaule.${prompt}
-  8205: Go up those stairs for Watchdog Alley. Homes of townsfolk line the street.${prompt}
-  8206: I'm looking for a former examiner. I heard he lived around here...${prompt}
-  8207: You've never heard of examiners? Look, in order to become a knight, you have to pass a trial. The examiners judge your worth.${prompt}
-  8208: But Southern San d'Oria's streets are so confusing. I hear they were built this way to thwart invaders!${prompt}
-  8209: Say, I found the examiner I was looking for! But he would only talk of taking up the sword. Why won't he test me?${prompt}
-  8210: 'The examiner finally offered me a task. He wants ${article} ${item-article: 0[2]}, but he won''t tell me how to get one! Keeps saying I should use my head...${prompt}'
-  8211: Your flyer is refused.${prompt}
+    Gauche.
+    Droite.${prompt}
+  8204: Là, sur le Chemin des Piquiers, vous pouvez trouver un épicier, des articles divers et la Guilde des Tanneurs. À la fin se trouve le manoir du Comte Caffaule.${prompt}
+  8205: Montez ces escaliers pour rejoindre la Ruelle des Chiens de Garde. Les maisons des habitants bordent la rue.${prompt}
+  8206: Je recherche un ancien examinateur. J'ai entendu dire qu'il vivait dans ce quartier...${prompt}
+  8207: Vous n'avez jamais entendu parler des examinateurs ? Pour devenir chevalier, vous devez passer un test. Les examinateurs jugent de votre valeur.${prompt}
+  8208: Mais les rues du Sud de San d'Oria sont si confuses. On dit qu'elles ont été construites ainsi pour déjouer les envahisseurs !${prompt}
+  8209: Dites, j'ai trouvé l'examinateur que je cherchais ! Mais il ne parlait que de prendre l'épée. Pourquoi ne veut-il pas me tester ?${prompt}
+  8210: 'L’examinateur m’a enfin confié une tâche. Il veut ${item-article: 0[2]}, mais il ne veut pas me dire comment en obtenir un ! Il dit que je devrais utiliser ma tête...${prompt}'
+  8211: Votre tract est refusé.${prompt}
   8212: |-
     Display which motion? (Debug)
     ${selection-lines}
@@ -20395,7 +20395,7 @@ entries:
   8908: 'Ah, that''s a great help. I know you can get ${item-plural: 0[2]} from Stray Mary, so if you find her... Good luck!${prompt}'
   8909: Ah, that's a shame. I had hoped to sleep untroubled...${prompt}
   8910: 'I hear Stray Mary carries ${item-plural: 0[2]}. Thanks a gillion.${prompt}'
-  8911: Thank you! My snoring will express gratitude mere words cannot! Here's something for you in return.${prompt}
+  8911: Merci ! Mon ronflement exprimera une gratitude que de simples mots ne peuvent pas ! Voici quelque chose en retour.${prompt}
   8912: Soon I will sleep again. Thank you, kind adventurer.${prompt}
   8913: I slept like a wet-eared yearling! And the dreams! Well, I won't relate them, lest you get jealous, eh? Thank you!${prompt}
   8914: Hmm... ${name-player}, you say? No, never heard that name. Do not expect me to learn the name of every recruit!${prompt}
@@ -21598,12 +21598,12 @@ entries:
   9580: Yes, and then we can continue our peaceful life here, in this house of Vijartal Caphieux...${prompt}
   9581: I await your return.${prompt}
   9582: "Was that man really our...\nNo, it isn't possible. \nNow, I must get used to this quiet house without those two around to liven things up!${prompt}"
-  9583: Intruders!${prompt}
-  9584: '...Is something I''ve always wanted to say, but having “nothing to report” day in, day out is probably for the best, all things considered. Still, it must have been exciting to live in the same age as Vijartal Caphieux...${prompt}'
-  9585: You say you met with Louverance? How was the young fellow?${prompt}
+  9583: Des intrus !${prompt}
+  9584: '... C’est quelque chose que j’ai toujours voulu dire, mais dire "rien à signaler" jour après jour est probablement le mieux, tout bien considéré. Pourtant, cela doit être excitant de vivre à la même époque que Vijartal Caphieux...${prompt}'
+  9585: Tu dis avoir rencontré Louverance ? Comment était le jeune homme ?${prompt}
   9586: |-
-    I see... He rarely visits any more.
-    I have been so worried. If anything were to happen to him, my late husband would be devastated.${prompt}
+    Je vois... Il visite rarement ces jours-ci.
+    Je suis tellement inquiète. Si quelque chose lui arrivait, mon défunt mari serait dévasté.${prompt}
   9587: |-
     Hm?
     The Multinational Expedition? Why, I have not heard that name for thirty years...${prompt}
