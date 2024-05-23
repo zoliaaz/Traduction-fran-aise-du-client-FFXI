@@ -16270,55 +16270,55 @@ entries:
   6547: |-
     Hmmm... It looks like you don't have enough Allied Notes.
     Sorry, but these birds aren't going to feed and groom themselves.${prompt}
-  6548: 'I''m sorry, but we don''t put our chocobos in the hands of people with ${keyitem-article: 0[2]}. We wouldn''t want our feathered friends dying from fright now, would we?${prompt}'
+  6548: 'I''m sorry, but we don''t put our chocobos in the hands of people with ${keyitem-article: 0[2]}. We wouldn''t want our feathered friends dying from fright now, would we?${prompt}' 
   6549: |-
-    Your fate rides on the changing winds of Vana'diel.
-    I can give you insight on the local weather.${prompt}
+    Votre destinée est portée par les vents changeants de Vana'diel.
+    Je peux vous donner un aperçu de la météo locale.${prompt}
   6550: |-
-    What area's weather do you wish to know?
+    De quelle région souhaitez-vous connaître la météo ?
     ${selection-lines}
-    Nowhere.
+    Nulle part.
     Ronfaure.
-    La Theine Plateau.
-    Valkurm Dunes.
-    Jugner Forest.
-    Batallia Downs.
+    Le Plateau de La Théine.
+    Les Dunes de Valkurm.
+    La Forêt de Jugner.
+    Les Plaines de Batallia.
     Gustaberg.
-    Konschtat Highlands.
-    Pashhow Marshlands.
-    Rolanberry Fields.
-    Beaucedine Glacier.
+    Les Hautes terres de Konschtat.
+    Les Marais de Pashhow.
+    Les Champs de Rolanberry.
+    Le Glacier de Beaucedine.
     Xarcabard.
-    Cape Teriggan.
-    Altepa Desert.
+    Le Cap Teriggan.
+    Le Désert d'Altepa.
     Sarutabaruta.
-    Tahrongi Canyon.
-    Buburimu Peninsula.
-    Meriphataud Mountains.
-    Sauromugue Champaign.
-    The Sanctuary of Zi'Tah.
-    Yuhtunga & Yhoator Jungles.
-    Qufim Island.
+    Le Canyon de Tahrongi.
+    La Péninsule de Buburimu.
+    Les Montagnes de Meriphataud.
+    La Plaine de Sauromugue.
+    Le Sanctuaire de Zi'Tah.
+    Les Jungles de Yuhtunga & Yhoator.
+    L'Île de Qufim.
     Tu'Lia.
     Ferry.
-    Airship.
+    Dirigeable.
     Jeuno.
-    Uleguerand Range.
-    Tavnazian Archipelago.
+    Les Pics d'Uleguerand.
+    L'Archipel de Tavnazia.
     Riverne - Sites #A01 & #B01.${prompt}
-  6551: 'That area''s forecast for today is for ${weather-noun: 0[2]} with occasional ${weather-noun: 1[2]}. There is also a slight chance of ${weather-noun: 2[2]}, so caution is advised.${prompt}'
-  6552: 'The forecast for tomorrow is for ${weather-noun: 0[2]} with occasional ${weather-noun: 1[2]}. There is also a slight chance of ${weather-noun: 2[2]}, so caution is advised.${prompt}'
-  6553: 'And, the forecast for the day after tomorrow is for ${weather-noun: 0[2]} with occasional ${weather-noun: 1[2]}. There is also a slight chance of ${weather-noun: 2[2]}, so caution is advised.${prompt}'
-  6554: 'Today, that area''s weather will be ${weather-adjective: 0[2]} with a chance of ${weather-noun: 1[2]}.${prompt}'
-  6555: 'Tomorrow, the weather will be ${weather-adjective: 0[2]} with a chance of ${weather-noun: 1[2]}.${prompt}'
-  6556: 'And, the day after tomorrow, the weather will be ${weather-adjective: 0[2]} with a chance of ${weather-noun: 1[2]}.${prompt}'
-  6557: 'Today, the weather in that area will be ${weather-adjective: 0[2]}. There is also the possibility of ${weather-noun: 2[2]}, so caution is advised.${prompt}'
-  6558: 'Tomorrow, the weather will be ${weather-adjective: 0[2]}. There is also the possibility of ${weather-noun: 2[2]}, so caution is advised.${prompt}'
-  6559: 'And, the day after tomorrow, the weather will be ${weather-adjective: 0[2]}. There is also the possibility of ${weather-noun: 2[2]}, so caution is advised.${prompt}'
-  6560: 'The weather in that area today will be ${weather-adjective: 0[2]}.${prompt}'
-  6561: 'The weather tomorrow will be ${weather-adjective: 0[2]}.${prompt}'
-  6562: 'The weather the day after tomorrow will be ${weather-adjective: 0[2]}.${prompt}'
-  6563: And that's the report, straight from Vana'diel's official weather linkshell.${prompt}
+  6551: 'La prévision pour aujourd’hui dans cette région est de ${weather-noun: 0[2]} avec parfois ${weather-noun: 1[2]}. Il y a aussi une légère chance de ${weather-noun: 2[2]}, donc la prudence est de mise.${prompt}'
+  6552: 'La prévision pour demain est de ${weather-noun: 0[2]} avec parfois ${weather-noun: 1[2]}. Il y a aussi une légère chance de ${weather-noun: 2[2]}, donc la prudence est de mise.${prompt}'
+  6553: 'Et la prévision pour après-demain est de ${weather-noun: 0[2]} avec parfois ${weather-noun: 1[2]}. Il y a aussi une légère chance de ${weather-noun: 2[2]}, donc la prudence est de mise.${prompt}'
+  6554: 'Aujourd’hui, la météo dans cette région sera ${weather-adjective: 0[2]} avec un risque de ${weather-noun: 1[2]}.${prompt}'
+  6555: 'Demain, la météo sera ${weather-adjective: 0[2]} avec un risque de ${weather-noun: 1[2]}.${prompt}'
+  6556: 'Et après-demain, la météo sera ${weather-adjective: 0[2]} avec un risque de ${weather-noun: 1[2]}.${prompt}'
+  6557: 'Aujourd’hui, la météo dans cette région sera ${weather-adjective: 0[2]}. Il y a aussi la possibilité de ${weather-noun: 2[2]}, donc la prudence est de mise.${prompt}'
+  6558: 'Demain, la météo sera ${weather-adjective: 0[2]}. Il y a aussi la possibilité de ${weather-noun: 2[2]}, donc la prudence est de mise.${prompt}'
+  6559: 'Et après-demain, la météo sera ${weather-adjective: 0[2]}. Il y a aussi la possibilité de ${weather-noun: 2[2]}, donc la prudence est de mise.${prompt}'
+  6560: 'La météo dans cette région aujourd’hui sera ${weather-adjective: 0[2]}.${prompt}'
+  6561: 'La météo demain sera ${weather-adjective: 0[2]}.${prompt}'
+  6562: 'La météo après-demain sera ${weather-adjective: 0[2]}.${prompt}'
+  6563: Et voilà le rapport, directement de la linkshell météo officielle de Vana’diel.${prompt}
   6564: |-
     What area's weather do you wish to know?
     ${selection-lines}
@@ -18835,12 +18835,12 @@ entries:
   7835: Thank you for your help. You have my gratitude.${prompt}
   7836: Please tell my son that I'll join him as soon as I'm done, so he's to stay right there.${prompt}
   7837: Ah, thanks for your help earlier. Children can be a handful sometimes.${prompt}
-  7838: I am Hanaa Punaa, an apprrrentice at the Tanners' Guild.${prompt}
-  7839: I drrream of becoming a tanner, but work experience is hard to come by these days.${prompt}
-  7840: Greetings! How may I help you today?${prompt}
-  7841: Oh, it's you again!${prompt}
-  7842: 'If you bring me three ${item-plural: 0[2]}, I can make the same thing for you again. I sure could use the work!${prompt}'
-  7843: Really, I'd prrrefer more exotic skins to work with, but that would be too much to ask of a new recruit such as yourself. Maybe later...${prompt}
+  7838: Je suis Hanaa Punaa, une apprentie à la Guilde des Tanneurs.${prompt}  
+  7839: Je rêve de devenir tanneuse, mais l'expérience de travail est difficile à trouver ces jours-ci.${prompt}
+  7840: Salutations ! Comment puis-je vous aider aujourd'hui ?${prompt}
+  7841: Oh, c'est encore vous !${prompt}
+  7842: 'Si vous me rapportez trois ${item-plural: 0[2]}, je peux vous refaire la même chose. J’apprécierais vraiment le travail !${prompt}'
+  7843: Vraiment, je préférerais des peaux plus exotiques avec lesquelles travailler, mais ce serait trop demander à un nouveau recrue comme vous. Peut-être plus tard...${prompt}
   7844: |-
     Something you need?
     ${selection-lines}
@@ -18849,8 +18849,8 @@ entries:
   7845: If you'd like to do some shopping, see the clerk inside the store.${prompt}
   7846: Work? Ah, perrrfect! I've just run out of skins. Perrrhaps you could collect some for me?${prompt}
   7847: 'Head to West Ronfaure and collect three ${item-plural: 0[2]}. I''ll make something for you.${prompt}'
-  7848: Well? Will you collect the skins?${prompt}
-  7849: Oh, I see. Well, if you change your mind, come by any time.${prompt}
+  7848: Eh bien ? Allez-vous collecter les peaux ?${prompt}
+  7849: Oh, je comprends. Eh bien, si tu changes d'avis, passe à tout moment.${prompt}
   7850: 'Perrrfect! I''ll be waiting for those three ${item-plural: 0[2]}, then. I can start as soon as you bring them!${prompt}'
   7851: 'What about the ${item-plural: 0[2]}? I''ll need three of them before I can make anything for you, sorry...${prompt}'
   7852: What fine skins you've brrrought me! They smell so...tasty! But it won't do to eat one's materials, will it?${prompt}
@@ -20416,38 +20416,38 @@ entries:
   8929: ${name-player}! People are talking about you! Every infant in his cradle knows your name!${prompt}
   8930: And they hold you in highest regard! I am so proud of you! May your kind deeds continue!${prompt}
   8931: |-
-    Welcome to the auction house.
-    Do you have any questions about our establishment?${prompt}
+    Bienvenue à la maison des enchères.
+    Avez-vous des questions sur notre établissement ?${prompt}
   8932: |-
-    What do you want to know?
+    Que voulez-vous savoir ?
     ${selection-lines}
-    What is the auction house?
-    How are auctions run?
-    Are there any fees?
-    Are there any limits?
-    How do you check up on merchandise?
-    How do you remove an item?
-    My “Sales Status” list is full!
-    Nothing right now.${prompt}
-  8933: Auction houses can be found in all of Vana'diel's major cities. Here adventurers gather to bid on battle spoils, unwanted items, old armor...almost anything.${prompt}
-  8934: Currently, the auction houses in Bastok, San d'Oria, Windurst, and Jeuno all work independently. Therefore, prices differ from city to city.${prompt}
-  8935: Adventurers may use any auction house regardless of nationality.${prompt}
-  8936: The first adventurer to bid at or above the asking price will automatically purchase the product.${prompt}
-  8937: Once put up for auction, merchandise will remain there for a maximum of thirty weeks Vana'diel time (nine-and-a-half days Earth time).${prompt}
-  8938: If merchandise does not sell within this time limit, it will be returned to the seller's current residence.${prompt}
-  8939: Transaction fees are proportional to the amount for which an item is put up on auction. The method of calculating this fee is different for single items and stackable items.${prompt}
-  8940: A transaction fee is collected when any merchandise is put up for auction. This fee is nonrefundable.${prompt}
-  8941: The International Auction House Committee, or IAHC, has declared that a maximum of seven items may be put up for auction at one time.${prompt}
-  8942: However, the IAHC has recently removed the limit to how many items one may purchase.${prompt}
-  8943: A small amount of time is required before new merchandise appears on our bid list.${prompt}
-  8944: Once an item appears on your “Sales Status” list, it may not immediately appear on the bid list. If you do not see your item on the bid list, try looking again at a later time.${prompt}
-  8945: If you would like to withdraw an item from an auction, you must travel to the auction house, and select “Stop Sale” from the “Sales Status” menu.${prompt}
-  8946: To remove an item from your “Sales Status” list, you must visit an auction counter to acknowledge the sale or return of your merchandise.${prompt}
-  8947: Otherwise, previously sold or returned items will fill up your list and prevent you from selling any more merchandise.${prompt}
-  8948: At any auction counter, open the “Sales Status” menu and acknowledge the transaction to clear it from the list.${prompt}
-  8949: Press the confirm button to remove any transaction colored yellow (sold) or red (returned).${prompt}
-  8950: Is there anything else you would like to know?${prompt}
-  8951: In the past, many have amassed great wealth through the auction house. I hope you find fortune, too!${prompt}
+    Qu'est-ce que la maison des enchères ?
+    Comment se déroulent les enchères ?
+    Y a-t-il des frais ?
+    Y a-t-il des limites ?
+    Comment vérifiez-vous la marchandise ?
+    Comment retirez-vous un article ?
+    Ma liste de "Statut de vente" est pleine !
+    Rien pour le moment.${prompt}
+  8933: Les maisons des enchères se trouvent dans toutes les grandes villes de Vana'diel. C'est là que les aventuriers se réunissent pour enchérir sur les dépouilles de bataille, les objets non désirés, les anciennes armures... presque tout.${prompt}
+  8934: Actuellement, les maisons des enchères à Bastok, San d'Oria, Windurst et Jeuno fonctionnent toutes de manière indépendante. Par conséquent, les prix diffèrent d'une ville à l'autre.${prompt}
+  8935: Les aventuriers peuvent utiliser n'importe quelle maison des enchères, quelles que soient leur nationalité.${prompt}
+  8936: Le premier aventurier à enchérir au prix demandé ou au-dessus l'achètera automatiquement.${prompt}
+  8937: Une fois mis aux enchères, les marchandises y resteront pendant un maximum de trente semaines de temps Vana'diel (neuf jours et demi de temps Terre).${prompt}
+  8938: Si les marchandises ne se vendent pas dans ce délai, elles seront renvoyées à la résidence actuelle du vendeur.${prompt}
+  8939: Les frais de transaction sont proportionnels au montant pour lequel un objet est mis aux enchères. La méthode de calcul de ces frais est différente pour les objets simples et les objets empilables.${prompt}
+  8940: Des frais de transaction sont prélevés lorsque n'importe quelle marchandise est mise aux enchères. Ces frais ne sont pas remboursables.${prompt}
+  8941: Le Comité International des Maisons des Enchères, ou CIME, a déclaré qu'un maximum de sept articles pouvaient être mis aux enchères en même temps.${prompt}
+  8942: Cependant, le CIME a récemment supprimé la limite du nombre d'articles qu'une personne peut acheter.${prompt}
+  8943: Un petit laps de temps est nécessaire avant que de nouvelles marchandises n'apparaissent sur notre liste d'enchères.${prompt}
+  8944: Une fois qu'un article apparaît sur votre liste de "Statut de vente", il peut ne pas apparaître immédiatement sur la liste des enchères. Si vous ne voyez pas votre article sur la liste des enchères, essayez de regarder à nouveau plus tard.${prompt}
+  8945: Si vous souhaitez retirer un article d'une vente aux enchères, vous devez vous rendre à la maison des enchères et sélectionner "Arrêter la vente" dans le menu "Statut de vente".${prompt}
+  8946: Pour retirer un article de votre liste de "Statut de vente", vous devez vous rendre à un comptoir d'enchères pour confirmer la vente ou le retour de votre marchandise.${prompt}
+  8947: Sinon, les articles déjà vendus ou retournés rempliront votre liste et vous empêcheront de vendre d'autres marchandises.${prompt}
+  8948: À n'importe quel comptoir d'enchères, ouvrez le menu "Statut de vente" et confirmez la transaction pour la supprimer de la liste.${prompt}
+  8949: Appuyez sur le bouton de confirmation pour supprimer toute transaction colorée en jaune (vendue) ou en rouge (retournée).${prompt}
+  8950: Y a-t-il autre chose que vous aimeriez savoir ?${prompt}
+  8951: Dans le passé, beaucoup ont amassé de grandes richesses grâce à la maison des enchères. J'espère que vous trouverez aussi la fortune !${prompt}
   8952: Vana'diel is abuzz with “Adventurer Appreciation” fever, kupo!${prompt}
   8953: |-
     We moogles have prepared some nice little goodies and gathered lots of top-secret information on adventurer activity, kupo!
@@ -22153,129 +22153,129 @@ entries:
     <Sigh>...
     Wonder how long I'll have to wait for the next person, kupo...${prompt}
   9889: |-
-    The minstrel of melodies is my name,
-    For a mere ${number: 6} gil I'll recall your past.
-    Your stories of love, anger, triumph, and shame,
-    The river of memories runs deep and vast.${prompt}
+    Le ménestrel des mélodies est mon nom,
+    Pour seulement ${number: 6} gils, je me souviendrai de votre passé.
+    Vos histoires d'amour, de colère, de triomphe et de honte,
+    Le fleuve des souvenirs coule profond et vaste.${prompt}
   9890: |-
-    The minstrel of melodies is my name,
-    For a mere ${number: 6} gil I'd recall your past.
-    But I find that you're lacking in cash or in fame,
-    So until that time, my kind offer will last.${prompt}
-  9891: Now close your eyes...${prompt}
+    Le ménestrel des mélodies est mon nom,
+    Pour seulement ${number: 6} gils, je me souviendrais de votre passé.
+    Mais je vois que vous manquez d'argent ou de renommée,
+    Alors jusqu'à ce moment, mon offre généreuse durera.${prompt}
+  9891: Maintenant, fermez les yeux...${prompt}
   9892: |-
-    Which memory will you have recalled?
+    Quel souvenir voulez-vous faire rappeler?
     ${selection-lines}
-    Nothing.
-    San d'Oria Missions.
-    San d'Oria Quests 1.
-    San d'Oria Quests 2.
-    Other Quests.
-    Promathia Missions.
-    Wings of the Goddess Missions.${prompt}
+    Rien.
+    Missions de San d'Oria.
+    Quêtes de San d'Oria 1.
+    Quêtes de San d'Oria 2.
+    Autres quêtes.
+    Missions de Promathia.
+    Missions des Ailes de la Déesse.${prompt}
   9893: |-
-    Which memory will you have recalled?
+    Quel souvenir voulez-vous faire rappeler?
     ${selection-lines}
-    Nothing.
-    Smash the Orcish Scouts.
-    The Heir to the Light.${prompt}
+    Rien.
+    Écraser les Éclaireurs orcs.
+    L'Héritier de la Lumière.${prompt}
   9894: |-
-    Which memory will you have recalled?
+    Quel souvenir voulez-vous faire rappeler?
     ${selection-lines}
-    Nothing.
-    Rosel the Armorer.
-    The Sweetest Things.
-    A Squire's Test(pt.1).
-    A Squire's Test(pt.2).
-    A Squire's Test II(pt.1).
-    A Squire's Test II(pt.2).
-    A Knight's Test(pt.1).
-    A Knight's Test(pt.2).
-    To Cure a Cough.
-    Distant Loyalties(pt.1).
-    Distant Loyalties(pt.2).
-    The Crimson Trial(pt.1).
-    The Crimson Trial(pt.2).
-    Peace for the Spirit.
-    A Boy's Dream.
-    Under Oath(pt.1).
-    Under Oath(pt.2).
-    Knight Stalker.
-    Dueling Brothers.
-    Methods Create Madness(pt.1).
-    Methods Create Madness(pt.2).
-    Methods Create Madness(pt.3).
-    A Timely Visit(pt.1).
-    A Timely Visit(pt.2).
-    A Timely Visit(pt.3).
-    A Timely Visit(pt.4).
-    A Timely Visit(pt.5).
-    A Timely Visit(pt.6).
-    A Timely Visit(pt.7).${prompt}
+    Rien.
+    Rosel le forgeron d'armures.
+    Les Choses les plus douces.
+    Test d'écuyer(pt.1).
+    Test d'écuyer(pt.2).
+    Test d'écuyer II(pt.1).
+    Test d'écuyer II(pt.2).
+    Test de chevalier(pt.1).
+    Test de chevalier(pt.2).
+    Pour guérir une toux.
+    Loyautés lointaines(pt.1).
+    Loyautés lointaines(pt.2).
+    L'Épreuve pourpre(pt.1).
+    L'Épreuve pourpre(pt.2).
+    Paix pour l'âme.
+    Le Rêve d'un garçon.
+    Sous serment(pt.1).
+    Sous serment(pt.2).
+    Chasse au chevalier.
+    Frères ennemis.
+    La folie des méthodes(pt.1).
+    La folie des méthodes(pt.2).
+    La folie des méthodes(pt.3).
+    Une visite opportune(pt.1).
+    Une visite opportune(pt.2).
+    Une visite opportune(pt.3).
+    Une visite opportune(pt.4).
+    Une visite opportune(pt.5).
+    Une visite opportune(pt.6).
+    Une visite opportune(pt.7).${prompt}
   9895: |-
-    Which memory will you have recalled?
+    Quel souvenir voulez-vous faire rappeler?
     ${selection-lines}
-    Nothing.
-    Signed in Blood(pt.1).
-    Signed in Blood(pt.2).
-    Signed in Blood(pt.3).
-    Tea with a Tonberry?(pt.1).
-    Tea with a Tonberry?(pt.2).
-    Spice Gals(pt.1).
-    Spice Gals(pt.2).
-    Son and Father.${prompt}
+    Rien.
+    Signé en sang(pt.1).
+    Signé en sang(pt.2).
+    Signé en sang(pt.3).
+    Thé avec un Mandragore?(pt.1).
+    Thé avec un Mandragore?(pt.2).
+    Épices en folie(pt.1).
+    Épices en folie(pt.2).
+    Fils et Père.${prompt}
   9896: |-
-    Which memory will you have recalled?
+    Quel souvenir voulez-vous faire rappeler?
     ${selection-lines}
-    Nothing.
-    Dynamis - The Shrouded Land(pt.1).
-    Dynamis - The Shrouded Land(pt.2).
-    Dynamis Interloper.
-    Elderly Pursuits(pt.1).
-    Elderly Pursuits(pt.2).
-    An Understanding Overlord?(pt.1).
-    An Understanding Overlord?(pt.2).
-    A Generous General?(pt.1).
-    A Generous General?(pt.2).
-    Mixed Signals.
-    Chocobo on the Loose!(pt.1).
-    Chocobo on the Loose!(pt.2).
-    Lakeside Minuet.
-    Say It with a Handbag(pt.1).
-    Say It with a Handbag(pt.2).
-    Say It with a Handbag(pt.3).
-    Say It with a Handbag(pt.4).
-    Her Memories: Homecoming Queen.
-    Her Memories: Old Bean.
-    Her Memories: Of Malign Maladies.
-    Drafted by the Duchy.
-    Battle on a New Front.
-    VW Op. #126: Qufim Incursion.
-    Records of Eminence.
-    Unity Concord(pt.1).
-    Unity Concord(pt.2).
+    Rien.
+    Dynamis - La Terre Voilée(pt.1).
+    Dynamis - La Terre Voilée(pt.2).
+    Intrus à Dynamis.
+    Poursuites de personnes âgées(pt.1).
+    Poursuites de personnes âgées(pt.2).
+    Un Seigneur compréhensif?(pt.1).
+    Un Seigneur compréhensif?(pt.2).
+    Un Général généreux?(pt.1).
+    Un Général généreux?(pt.2).
+    Signaux confus.
+    Chocobo en liberté!(pt.1).
+    Chocobo en liberté!(pt.2).
+    Menuet au bord du lac.
+    Dites-le avec un sac à main(pt.1).
+    Dites-le avec un sac à main(pt.2).
+    Dites-le avec un sac à main(pt.3).
+    Dites-le avec un sac à main(pt.4).
+    Ses souvenirs : Reine du retour au foyer.
+    Ses souvenirs : Vieil ami.
+    Ses souvenirs : De maléfiques maladies.
+    Conscrit par le Duché.
+    Bataille sur un nouveau front.
+    OP VV #126 : Incursion à Qufim.
+    Records d'éminence.
+    Concorde d'unité(pt.1).
+    Concorde d'unité(pt.2).
     Trust (AAHM).
     Trust (AAEV).
     Trust (AAMR).
     Trust (AATT).
     Trust (AAGK).${prompt}
   9897: |-
-    Which memory will you have recalled?
+    Quel souvenir voulez-vous faire rappeler?
     ${selection-lines}
-    Nothing.
+    Rien.
     Louverance.
-    Where Messengers Gather.
-    A Name for the Ages(pt.1).
-    A Name for the Ages(pt.2).${prompt}
+    Là où se rassemblent les messagers.
+    Un nom pour les âges(pt.1).
+    Un nom pour les âges(pt.2).${prompt}
   9898: |-
-    Which memory will you have recalled?
+    Quel souvenir voulez-vous faire rappeler?
     ${selection-lines}
-    Nothing.
-    Daughter of a Knight(pt.1).
-    Daughter of a Knight(pt.2).
-    Daughter of a Knight(pt.3).
-    A Spoonful of Sugar.
-    Another World.${prompt}
+    Rien.
+    Fille d'un chevalier(pt.1).
+    Fille d'un chevalier(pt.2).
+    Fille d'un chevalier(pt.3).
+    Une cuillerée de sucre.
+    Un autre monde.${prompt}
   9899: Are you ready for a spine-chilling, stomach-churning test of your mettle, kupo!?${prompt}
   9900: |-
     We've set up a secret marker somewhere in the bowels of a dreadful dungeon.
