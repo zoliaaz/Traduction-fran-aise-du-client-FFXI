@@ -18880,113 +18880,113 @@ entries:
   7876: Thanks again for your help.${prompt}
   7877: Take up a sword, my friend. I'll talk to you when you do, and no sooner.${prompt}
   7878: Friend, listen to me. It is not cogs nor levers nor even the mightiest of magicks that protect this kingdom of San d'Oria.${prompt}
-  7879: No! We Elvaan live by the power of the sword alone. Our blades defend our borders.${prompt}
-  7880: If you would strengthen your sword arm and learn something of the art, then accept my challenge. What say you?${prompt}
+  7879: Non ! Nous, Elvaan, vivons uniquement par le pouvoir de l'épée. Nos lames défendent nos frontières.${prompt}
+  7880: Si vous voulez renforcer votre bras d'épée et apprendre quelque chose de l'art, alors acceptez mon défi. Que dites-vous ?${prompt}
   7881: |-
-    Accept his challenge?
+    Accepter son défi ?
     ${selection-lines}
-    Accept.
-    Refuse.${prompt}
-  7882: As you wish. Come back when you've grown a spine.${prompt}
-  7883: Ah, I see you have a stout heart. Now listen well!${prompt}
-  7884: 'Go to King Ranperre''s Tomb and bring back ${article} ${item-article: 0[2]}. How, you ask? Use your head. Now begone!${prompt}'
-  7885: Ah, I see I was right about you. You've proved your mettle today. Further tempering may forge you into a hero among adventurers.${prompt}
-  7886: In recognition of your success, I offer this sword. Train diligently, and grow strong.${prompt}
-  7887: You're a little too new at this to undertake my challenge. Train further, and return here once you feel ready.${prompt}
-  7888: This thing you have given me, it has no bearing on your task; I cannot accept it.${prompt}
-  7889: And who, pray tell, are you? I cannot take that for which I have not asked. Take it and be gone.${prompt}
-  7890: You are an adventurer, are you not? Surely you've heard of King Ranperre's Tomb.${prompt}
+    Accepter.
+    Refuser.${prompt}
+  7882: Comme vous voulez. Revenez quand vous aurez un peu de courage.${prompt}
+  7883: Ah, je vois que tu as un cœur vaillant. Écoute bien maintenant !${prompt}
+  7884: "Rends-toi au Tombeau du Roi Ranperre et rapporte ${article} ${item-article: 0[2]}. Comment, tu demandes ? Utilise ta tête. Maintenant, va-t'en !${prompt}"
+  7885: Ah, j'avais raison à ton sujet. Tu as prouvé ta valeur aujourd'hui. Un renforcement supplémentaire pourrait te forger en héros parmi les aventuriers.${prompt}
+  7886: En reconnaissance de ton succès, je t'offre cette épée. Entraîne-toi assidûment et deviens fort.${prompt}
+  7887: Tu es encore un peu novice pour entreprendre mon défi. Entraîne-toi davantage et reviens ici quand tu te sentiras prêt.${prompt}
+  7888: Cette chose que tu m'as donnée, elle n'a aucun rapport avec ta tâche ; je ne peux pas l'accepter.${prompt}
+  7889: Et qui es-tu, je te prie ? Je ne peux pas prendre ce que je n'ai pas demandé. Prends-le et va-t-en.${prompt}
+  7890: Tu es un aventurier, n'est-ce pas ? Tu as sûrement entendu parler du Tombeau du Roi Ranperre.${prompt}
   7891: |-
-    Heard of the tomb?
+    Entendu parler du tombeau ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  7892: The Tomb of King Ranperre lies under a slope far south of Eastgate.${prompt}
-  7893: The tomb is the final resting place of the Dragon King of San d'Oria. It was constructed within a cave to protect it from thieves.${prompt}
-  7894: Although the tomb is safe from pillagers, the caves shelter all manner of fiendish creatures.${prompt}
-  7895: Indeed? Well, then...${prompt}
-  7896: I am entrusted with the tomb's care. Not long ago I used to wash its stones and change the offering every day.${prompt}
-  7897: But now that fiends have overrun the place, my work would require risking my life. No job is worth that!${prompt}
-  7898: I decided not to return, but the Dragon King himself came to me in my dreams and spoke, “I am thirsty... Bring me water.”${prompt}
-  7899: I would like to help him, at least by bringing him fresh water...${prompt}
-  7900: I have a request. Would you go to the tomb and replace the offering there with fresh water?${prompt}
-  7901: That is...unfortunate.${prompt}
-  7902: 'Then you''ll help? Excellent! Please take this ${item-singular: 0[2]} to King Ranperre''s Tomb, and exchange it with ${article} ${item-article: 1[2]} you''ll find there.${prompt}'
-  7903: To get to King Ranperre's Tomb, head out the Eastgate into East Ronfaure, then make your way south as far as you can go. You should find it before long.${prompt}
-  7904: 'You''ve lost the ${item-singular: 0[2]}？${prompt}'
-  7905: 'More ${item-singular: 0[2]} is readily available, but the question is how to carry it...${prompt}'
-  7906: I have no other waterskin to give you. That last one I received from the late queen herself...${prompt}
-  7907: 'How about this: Take the waterskin from the gravestone in King Ranperre''s Tomb, fill it in Southern San d''Oria, then take it back to the tomb.${prompt}'
-  7908: Consider it penance for losing the waterskin I gave you. Agreed? I bid you a safe journey.${prompt}
-  7909: 'Fill waterskin with ${item-singular: 0[2]}, place it in the Dragon King''s tomb, then return to me.${prompt}'
-  7910: Take the waterskin from gravestone in King Ranperre's Tomb, fill it in Southern San d'Oria, then return it to the tomb.${prompt}
-  7911: You find a well.${prompt}
-  7912: 'You fill the ${item-singular: 1[2]} with ${item-singular: 0[2]}.${prompt}'
-  7913: You don't need any more water.${prompt}
-  7914: I don't recall asking for this.${prompt}
-  7915: I thank you, kind adventurer. His Majesty, the late king, thanks you, too.${prompt}
-  7916: It isn't much, but please accept this in return.${prompt}
-  7917: 'Eh? What''s happened to the ${item-singular: 0[2]}? Please, you must bring it back to me!${prompt}'
-  7918: 'Have you brought the ${item-singular: 0[2]}? If you have, please give it to me. ${prompt}'
-  7919: Well, you lost the waterskin, but to travel to the late king's tomb and back is no mean feat. I commend you.${prompt}
-  7920: I had thought to take the cost of the waterskin out of your compensation, but I cannot disregard the toil you've endured on my behalf. You deserve your full reward.${prompt}
-  7921: Looking for work? Well, perrrhaps you could gather more skins for me?${prompt}
-  7922: As an adventurer, you should appreciate the satisfaction you get from honing your skills day by day.${prompt}
-  7923: I've been getting too many sheepskins of late, so perrrhaps you could bring me something else this time.${prompt}
-  7924: 'I could make you a fine piece of leather, if you could provide three ${item-plural: 0[2]} from the Valkurm Dunes.${prompt}'
-  7925: 'Bring me three more ${item-plural: 0[2]}, and I''ll be happy to craft you another!${prompt}'
-  7926: 'How unforrrtunate. You should know that goods made from ${item-singular: 0[2]} fetch a fine price.${prompt}'
-  7927: Excellent! I know you'll be pleased with the results. Watch out for those lizard teeth!${prompt}
-  7928: 'Well, what about the ${item-plural: 0[2]}? I need thrrree of them to make anything.${prompt}'
-  7929: I'll still take sheepskins, too, so come back once you've got thrrree.${prompt}
-  7930: You've brought them? Joy! You always bring the best skins, you know. You should work for me full-time!${prompt}
-  7931: I was only joking. I'm sure you have plenty of things to do. Wait rrright here, and I'll get to work.${prompt}
-  7932: It's finished! Rrreally, a good skin makes all the difference, I think you'll agree.${prompt}
-  7933: Come back again!${prompt}
-  7934: 'I''m not taking any more ${item-plural: 0[2]}, but I''m still taking all the ${item-plural: 1[2]} and ${item-plural: 2[2]} I can get, so brrring me more! In sets of three, if you please.${prompt}'
-  7935: Ah, you've come quite a way since last we met, I see. I believe you're ready for another task!${prompt}
-  7936: I'd like you to go to Ordelle's Caves. You'll find the entrance in a valley on La Theine Plateau.${prompt}
-  7937: Those caves are also called the “Body Caves.” Know you why?${prompt}
-  7938: It is because the caves are shaped much like the body of a person. You are acquainted with its structure, yes?${prompt}
-  7939: Where in a body would lie the belly, in the caves flows a waterfall of much beauty. I want you to visit the waterfall, and return hither.${prompt}
-  7940: I want proof of your trip, however. Bring me something out from that place. You must choose something.${prompt}
-  7941: Come to think of it, the time I sent another to the waterfall, he, too, had quite a hard time! Heh-heh.${prompt}
-  7942: Proof that you went to the waterfall, eh? Hah! Old man Balasiel's got you running errands now, has he?${prompt}
-  7943: I'll tell you, but don't say a word to the old man! Stand with your back to the waterfall, and look up at the ceiling of the cave. You'll see a shining stalactite.${prompt}
-  7944: 'Bring ${keyitem-article: 0[2]} back and you''ll be a real spelunker, you will.${prompt}'
-  7945: Eh? How to get the drop? Ah...right. It's odd, but I can't seem to remember how I did it. That was a long time ago, you see.${prompt}
-  7946: Hmm... Maybe you could try reading up on it. I'm sure it's outlined somewhere.${prompt}
-  7947: Ah, you're back, and in one piece! And you've brought proof of your trip to the waterfall. Well done!${prompt}
-  7948: Here, a certificate to mark your accomplishment. Keep it always!${prompt}
-  7949: When you've progressed further, visit me again. Next time, a thorough test of your mettle will be in order!${prompt}
-  7950: You see a diary.${prompt}
+    Oui.
+    Non.${prompt}
+  7892: Le Tombeau du Roi Ranperre se trouve sous une pente bien au sud de Porte Est.${prompt}
+  7893: Le tombeau est le lieu de repos final du Roi Dragon de San d'Oria. Il a été construit dans une grotte pour le protéger des voleurs.${prompt}
+  7894: Bien que le tombeau soit à l'abri des pillards, les grottes abritent toutes sortes de créatures diaboliques.${prompt}
+  7895: Vraiment ? Eh bien alors...${prompt}
+  7896: Je suis chargé de veiller sur le tombeau. Il n'y a pas si longtemps, je nettoyais ses pierres et changeais l'offrande tous les jours.${prompt}
+  7897: Mais maintenant que les démons ont envahi les lieux, mon travail nécessiterait de risquer ma vie. Aucun travail ne vaut ça !${prompt}
+  7898: J’ai décidé de ne pas y retourner, mais le Roi Dragon lui-même est venu à moi dans mes rêves et a dit, "J’ai soif... Apporte-moi de l’eau."${prompt}
+  7899: J’aimerais l'aider, au moins en lui apportant de l’eau fraîche...${prompt}
+  7900: J’ai une demande. Pourrais-tu te rendre au tombeau et y remplacer l’offrande par de l’eau fraîche ?${prompt}
+  7901: C’est... malheureux.${prompt}
+  7902: 'Alors, tu vas aider ? Excellent ! Prends ce ${item-singular: 0[2]} au Tombeau du Roi Ranperre et échange-le avec ${article} ${item-article: 1[2]} que tu trouveras là-bas.${prompt}'
+  7903: Pour te rendre au Tombeau du Roi Ranperre, dirige-toi vers la Porte Est dans la Ronfaure de l'Est, puis avance vers le sud aussi loin que possible. Tu devrais le trouver assez rapidement.${prompt}
+  7904: 'Tu as perdu le ${item-singular: 0[2]} ?${prompt}'
+  7905: 'Plus de ${item-singular: 0[2]} est facilement disponible, mais la question est comment le transporter...${prompt}' 
+  7906: Je n'ai pas d'autre outre d'eau à te donner. Celle-ci je l'ai reçue de feu la reine elle-même...${prompt}
+  7907: 'Et si tu prenais l’outre d’eau de la pierre tombale dans le Tombeau du Roi Ranperre, que tu la remplissais à San d’Oria sud, puis que tu la rapportais au tombeau ?${prompt}'
+  7908: Considère cela comme une pénitence pour avoir perdu l’outre d'eau que je t’ai donnée. D’accord ? Je te souhaite un bon voyage.${prompt}'
+  7909: 'Remplis l’outre d’eau avec ${item-singular: 0[2]}, place-la dans la tombe du Roi Dragon, puis reviens vers moi.${prompt}'
+  7910: Prends l’outre d'eau de la pierre tombale dans le Tombeau du Roi Ranperre, remplis-la à San d’Oria sud, puis rapporte-la au tombeau.${prompt}'
+  7911: Tu trouves un puits.${prompt}
+  7912: 'Tu remplis l’${item-singular: 1[2]} avec ${item-singular: 0[2]}.${prompt}'
+  7913: Tu n’as plus besoin d’eau.${prompt}
+  7914: Je ne me souviens pas t'avoir demandé ça.${prompt}
+  7915: Je te remercie, brave aventurier. Sa Majesté, le dernier roi, te remercie également.${prompt}
+  7916: Ce n’est pas grand-chose, mais s’il te plaît, accepte ceci en retour.${prompt}
+  7917: 'Hein ? Qu’est-il arrivé à l’${item-singular: 0[2]} ? S’il te plaît, tu dois me le ramener !${prompt}'
+  7918: 'As-tu apporté l’${item-singular: 0[2]} ? Si oui, donne-le-moi, s’il te plaît. ${prompt}'
+  7919: Eh bien, tu as perdu l’outre d'eau, mais voyager jusqu’au tombeau du défunt roi et revenir n’est pas une mince affaire. Je te félicite.${prompt}
+  7920: J’avais pensé déduire le coût de l’outre d’eau de ta compensation, mais je ne peux pas ignorer les efforts que tu as endurés pour moi. Tu mérites ta pleine récompense.${prompt}
+  7921: À la recherche de travail ? Eh bien, perrrhaps tu pourrais me rassembler plus de peaux cette fois-ci ?${prompt}
+  7922: En tant qu’aventurier, tu devrais apprécier la satisfaction que tu ressens en affinant tes compétences jour après jour.${prompt}
+  7923: J’ai reçu trop de peaux de mouton dernièrement, alors perrrhaps tu pourrais me ramener quelque chose d’autre cette fois-ci.${prompt}
+  7924: 'Je pourrais te fabriquer une belle pièce de cuir, si tu pouvais me fournir trois ${item-plural: 0[2]} des Dunes de Valkurm.${prompt}'
+  7925: 'Apporte-moi trois autres ${item-plural: 0[2]}, et je serai heureux de t’en fabriquer un autre !${prompt}'
+  7926: 'Que malheureux. Tu devrais savoir que les marchandises faites à partir de ${item-singular: 0[2]} se vendent à un bon prix.${prompt}'
+  7927: Excellent ! Je sais que tu seras satisfait du résultat. Fais attention à ces dents de lézard !${prompt}
+  7928: 'Eh bien, qu’en est-il des ${item-plural: 0[2]} ? J’ai besoin de trrrois d’entre eux pour fabriquer quoi que ce soit.${prompt}'
+  7929: Je prendrai toujours des peaux de mouton aussi, alors reviens une fois que tu en auras trrrois.${prompt}
+  7930: Tu les as apportées ? Joie ! Tu apportes toujours les meilleures peaux, tu sais. Tu devrais travailler pour moi à plein temps !${prompt}
+  7931: Je plaisantais. Je suis sûr que tu as plein de choses à faire. Attends juste ici, et je vais m’y mettre.${prompt}
+  7932: C'est fini ! Vrrraiment, une bonne peau fait toute la différence, je pense que tu seras d'accord.${prompt}
+  7933: Reviens quand tu veux !${prompt}
+  7934: 'Je n’accepte plus de ${item-plural: 0[2]}, mais je prends toujours toutes les ${item-plural: 1[2]} et ${item-plural: 2[2]} que je peux obtenir, alors amène-moi-en plus ! Par lots de trois, s’il te plaît.${prompt}'
+  7935: Ah, tu as parcouru un long chemin depuis notre dernière rencontre, je le vois. Je crois que tu es prêt pour une autre tâche !${prompt}
+  7936: J’aimerais que tu ailles aux Grottes d'Ordelle. Tu trouveras l’entrée dans une vallée sur le Plateau de La Theine.${prompt}
+  7937: Ces grottes sont également appelées les "Grottes du Corps". Sais-tu pourquoi ?${prompt}
+  7938: C'est parce que les grottes ont une forme très semblable à celle d'une personne. Tu es familier avec leur structure, n'est-ce pas ?${prompt}
+  7939: Là où dans un corps se trouve le ventre, dans les grottes coule une cascade d'une grande beauté. Je veux que tu visites la cascade et que tu reviennes ici.${prompt}
+  7940: Je veux une preuve de ton voyage, cependant. Apporte-moi quelque chose de cet endroit. Tu dois choisir quelque chose.${prompt}
+  7941: Maintenant que j'y pense, la dernière fois que j'ai envoyé quelqu'un à la cascade, il a lui aussi eu beaucoup de difficultés ! Heh-heh.${prompt}
+  7942: Une preuve que tu es allé à la cascade, hein ? Hah ! Le vieux Balasiel t'a envoyé faire des commissions maintenant, hein ?${prompt}
+  7943: Je vais te le dire, mais ne dis pas un mot au vieux ! Tiens-toi dos à la cascade et regarde le plafond de la grotte. Tu verras une stalactite brillante.${prompt}
+  7944: 'Rapporte ${keyitem-article: 0[2]} et tu seras un vrai spéléologue, tu verras.${prompt}'
+  7945: Hein ? Comment l'obtenir ? Ah... d'accord. C'est bizarre, mais je ne semble pas me souvenir comment j'ai fait. C'était il y a longtemps, tu vois.${prompt}
+  7946: Hmm... Peut-être pourrais-tu essayer de te renseigner là-dessus. Je suis sûr que c'est expliqué quelque part.${prompt}
+  7947: Ah, tu es de retour, et en un seul morceau ! Et tu as apporté la preuve de ton voyage à la cascade. Bien joué !${prompt}
+  7948: Tiens, un certificat pour marquer ta réussite. Garde-le toujours !${prompt}
+  7949: Quand tu auras progressé davantage, reviens me voir. La prochaine fois, un test approfondi de ta valeur sera de mise !${prompt}
+  7950: Tu vois un journal.${prompt}
   7951: |-
-    Read diary?
+    Lire le journal ?
     ${selection-lines}
-    Read it.
-    Leave it be.${prompt}
+    Lis-le.
+    Laisse-le.${prompt}
   7952: |-
-    Read which page?
+    Lire quelle page ?
     ${selection-lines}
-    On second thought, I'll pass.
+    Finalement, je vais passer.
     Page 1.
     Page 2.
     Page 3.${prompt}
-  7953: Went to the grotto at Yughott yesterday. Aided an adventurer there who claimed to be on the Kingdom's duty.${prompt}
-  7954: Why could it be that the fiends are increasing so evidently in number?${prompt}
-  7955: I have visited many places, attempting to uncover the beastmen's plans, but never have I encountered such a creature.${prompt}
-  7956: I saw him there at the entrance to the cave. Thankfully, he did not note my presence.${prompt}
-  7957: He was the same as he has always been--both the good parts, and the bad.${prompt}
-  7958: 'That reminds me, I saw the waterfall again. I remember when I was a squire in training, going to fetch ${keyitem-article: 0[2]}, so long ago.${prompt}'
-  7959: A traveler told me the other day that a certain kind of moss can help alleviate severe coughs.${prompt}
-  7960: Perhaps I shall gather some on my next patrol, to give to that child and his mother. I do not know how much I will be able to carry, however.${prompt}
-  7961: If only there was someone who could deliver it in my stead...${prompt}
-  7962: Hello, young ${choice-player-gender}[man/woman]! How may I help ye today?${prompt}
+  7953: Je suis allé à la grotte de Yughott hier. J'ai aidé un aventurier là-bas qui prétendait être en mission pour le Royaume.${prompt}
+  7954: Pourquoi les démons augmentent-ils si évidemment en nombre ?${prompt}
+  7955: J'ai visité de nombreux endroits, essayant de découvrir les plans des hommes-bêtes, mais je n'ai jamais rencontré une telle créature.${prompt}
+  7956: Je l'ai vu là à l'entrée de la grotte. Heureusement, il n'a pas remarqué ma présence.${prompt}
+  7957: Il était le même qu'il a toujours été - à la fois les bonnes parties et les mauvaises.${prompt}
+  7958: 'Cela me rappelle, j’ai revu la cascade. Je me souviens quand j’étais écuyer en formation, allant chercher ${keyitem-article: 0[2]}, il y a si longtemps.${prompt}'
+  7959: Un voyageur m’a dit l'autre jour qu'un certain type de mousse peut aider à soulager les toux sévères.${prompt}
+  7960: Peut-être que j’en ramasserai lors de ma prochaine patrouille, pour le donner à cet enfant et à sa mère. Je ne sais pas combien je pourrai en porter, cependant.${prompt}
+  7961: Si seulement il y avait quelqu'un qui pourrait le livrer à ma place...${prompt}
+  7962: Bonjour, jeune ${choice-player-gender}[homme/femme] ! Comment puis-je vous aider aujourd'hui ?${prompt}
   7963: |-
-    How may I help?
+    Comment puis-je aider ?
     ${selection-lines}
-    Tell me about moss.
-    Tell me about cold balms.${prompt} 
+    Parle-moi de la mousse.
+    Parle-moi des baumes pour le rhume.${prompt}
   7964: Eh ? Du lichen pour soigner les toux ?${prompt}
   7965: 'Eh bien, ça ressemble à ${keyitem-singular: 0[2]}. Une infusion de ce lichen amer soulage les toux les plus persistantes. Je l’ai moi-même utilisé !${prompt}'
   7966: 'Si vous avez besoin de quelque chose pour les toux, apportez-moi ce ${keyitem-singular: 0[2]}, et je vous ferai une infusion gratuitement.${prompt}'
@@ -19076,91 +19076,91 @@ entries:
     ${selection-lines}
     Of course.
     No way.${prompt}
-  8045: What's that? And here I was, looking forward to make medicine for ye. Well, if ye change yer mind, let me know.${prompt}
-  8046: Very well, very well. I've written a list of what I'll be needing, so take it with ye.${prompt}
-  8047: Come back when ye've got it all. I'll make a draught to cure the wickedest of colds, I will.${prompt}
-  8048: Ye've brought what I asked for? Very well. Wait ye here a second while I brew the medicine.${prompt}
-  8049: Here, yer medicine is done! Give this to one who's ailing and he'll be dancing in the streets a day later, guaranteed! Hee hee.${prompt}
-  8050: Take that medicine over quick as you can now, dearie. Wouldn't want it to go bad.${prompt}
-  8051: Oh, it's you again, dearie. Let me know if you ever need more medicine. I'll be here.${prompt}
-  8052: Now, dearie! I expect better from ye, I do! Didn't mind the list, eh? I'll need every ingredient before I can help ye!${prompt}
-  8053: You've become quite the adventurer, haven't you?${prompt}
-  8054: Perhaps it's time for me to take on a challenge, too? Make something rrreally high-class... I know!${prompt}
-  8055: 'Big cats live in the Jugner Forest: forest tigers. I want you to bring me some of their hides. And don''t worry, we''re not related!${prompt}'
-  8056: 'Bring me thrrree ${item-plural: 0[2]} and I''ll make you something special. How about it?${prompt}'
-  8057: 'If you bring me thrrree more ${item-plural: 0[2]} I''ll make more of the same, so drop in anytime!${prompt}'
-  8058: 'That''s rrreally too bad. Did you know that ${item-singular: 0[2]} goods sell for a pretty gil at the market?${prompt}'
-  8059: 'That''s great! I''ll get right to work as soon as you bring the thrrree ${item-plural: 0[2]}. Good luck.${prompt}'
-  8060: 'Hey! What about the ${item-plural: 0[2]}? I''ll need thrrree before I can get to work!${prompt}'
-  8061: I still need sheepskins and lizard skins, too! Bring thrrree anytime and I'll make you something.${prompt}
-  8062: Oooh! That was fast. You always do such good work! And that lets me do good work, too!${prompt}
-  8063: Wait right there. With these I should be able to make something really classy. Be rrright back!${prompt}
-  8064: Sorry for the wait. Look! The quality of the hide really shows through, don't you think? Fine work, if I may say so myself!${prompt}
-  8065: Come again anytime. It's a rrreal pleasure doing business with you!${prompt}
-  8066: My name is Hinaree. I lost my husband many years ago, and now I live in this mansion all alone.${prompt}
-  8067: He was a kind man, and he gave me all the comforts I could ask for. It is very lonely, living in this big house without him...${prompt}
-  8068: Do you believe in Paradise? It is a place without fear or death. Ah, it is truly a wondrous place!${prompt}
-  8069: Once there, I could surely see my husband again. I know it!${prompt}
-  8070: I wanted to take my usual donation to the cathedral today. But I have a visitor, and cannot leave.${prompt}
-  8071: Perhaps someone could deliver this donation in my stead?${prompt}
-  8072: Could I ask you to do this for me? Arnau, the vicasque, is there. Would you deliver this envelope to him?${prompt}
-  8073: Then you accept my request? I thank you, kind adventurer.${prompt}
-  8074: Here then is the envelope. Please hand it to Vicasque Arnau at the cathedral.${prompt}
-  8075: There is a great deal of money in that envelope. Please take care not to misplace it along the way!${prompt}
-  8076: I see... That is unfortunate. I did intend to compensate you, but you must be very busy. I'll find someone else.${prompt}
-  8077: Have you delivered the offering? Remember, hand it only to Vicasque Arnau at the cathedral, and take care not to lose it!${prompt}
-  8078: You found Vicasque Arnau and he took my donation? Thank you so much!${prompt}
-  8079: Please accept this as a token of my gratitude.${prompt}
-  8080: Thank you again for taking my donation to the cathedral for me.${prompt}
-  8081: <cough>...<cough!>${prompt}
-  8082: Who are you? If you're looking for my son, he's out making deliveries.${prompt}
-  8083: Mother! I'm home!${prompt}
-  8084: Raminel! B-back from work so soon?${prompt}
-  8085: I was passing through, so I wanted to stop by and see how you were. You should be in bed resting, Mother.${prompt}
-  8086: Oh, I'm...fine, really... You shouldn't...shouldn't worry...about me so much.${prompt}
-  8087: You're not fine, Mother! You should stay in bed until I save enough money, and get you the medicine for your Davoi-fever.${prompt}
-  8088: Oh, Raminel, you're too kind...too kind to me!${prompt}
-  8089: I have to make a few more deliveries. Get your rest, Mother.${prompt}
-  8090: I'm sorry... What were we talking about?${prompt}
+  8045: Qu'est-ce que c'est ? Et moi qui me réjouissais de te préparer un médicament. Eh bien, si tu changes d'avis, fais-le moi savoir.${prompt}
+  8046: Très bien, très bien. J'ai écrit une liste de ce dont j'aurai besoin, alors prends-la avec toi.${prompt}
+  8047: Reviens quand tu auras tout. Je te préparerai une décoction pour guérir le pire des rhumes, je le ferai.${prompt}
+  8048: Tu as apporté ce que j'ai demandé ? Très bien. Attends ici un instant pendant que je prépare le médicament.${prompt}
+  8049: Voilà, ton médicament est prêt ! Donne-le à celui qui est malade et il dansera dans les rues le lendemain, garanti ! Hi hi.${prompt}
+  8050: Apporte ce médicament aussi vite que possible maintenant, chéri. On ne voudrait pas qu'il tourne.${prompt}
+  8051: Oh, c'est encore toi, chéri. Fais-le moi savoir si tu as besoin de plus de médicaments. Je serai ici.${prompt}
+  8052: Maintenant, chéri ! J'attends mieux de toi, je le fais ! Tu n'as pas suivi la liste, hein ? J'aurai besoin de chaque ingrédient avant de pouvoir t'aider !${prompt}
+  8053: Tu es devenu un sacré aventurier, n'est-ce pas ?${prompt}
+  8054: Peut-être qu'il est temps pour moi de relever un défi aussi ? Faire quelque chose de vraiment haut de gamme... Je sais !${prompt}
+  8055: 'De grands félins vivent dans la forêt de Jugner : des tigres des forêts. Je veux que tu m’apportes certaines de leurs peaux. Et ne t’inquiète pas, nous ne sommes pas apparentés !${prompt}'
+  8056: 'Apporte-moi trois ${item-plural: 0[2]} et je te fabriquerai quelque chose de spécial. Qu’en dis-tu ?${prompt}'
+  8057: 'Si tu m’apportes trois autres ${item-plural: 0[2]}, je ferai encore plus de la même chose, alors passe me voir à tout moment !${prompt}'
+  8058: 'C’est vraiment dommage. Savais-tu que les produits en ${item-singular: 0[2]} se vendent bien au marché ?${prompt}'
+  8059: 'C’est génial ! Je vais me mettre au travail dès que tu apportes les trois ${item-plural: 0[2]}. Bonne chance.${prompt}'
+  8060: 'Hé ! Qu’en est-il des ${item-plural: 0[2]} ? J’aurai besoin de trois avant de pouvoir commencer à travailler !${prompt}'
+  8061: J’ai encore besoin de peaux de mouton et de lézard aussi ! Apporte-m’en trois à tout moment et je te ferai quelque chose.${prompt}
+  8062: Oooh ! C’était rapide. Tu fais toujours un excellent travail ! Et cela me permet de bien travailler aussi !${prompt}
+  8063: Attends ici. Avec ça, je devrais pouvoir faire quelque chose de vraiment chic. Je reviens tout de suite !${prompt}
+  8064: Désolé pour l’attente. Regarde ! La qualité de la peau se voit vraiment, n’est-ce pas ? Du bon travail, si je puis me permettre !${prompt}
+  8065: Reviens à tout moment. C'est un vrai plaisir de faire affaire avec toi !${prompt}
+  8066: Je m'appelle Hinaree. J'ai perdu mon mari il y a de nombreuses années, et maintenant je vis seule dans ce manoir.${prompt}
+  8067: C'était un homme bon, et il m'a offert tout le confort que je pouvais demander. Il est très solitaire de vivre dans cette grande maison sans lui...${prompt}
+  8068: Crois-tu au Paradis ? C'est un endroit sans peur ni mort. Ah, c'est vraiment un lieu merveilleux !${prompt}
+  8069: Une fois là-bas, je pourrais sûrement revoir mon mari. Je le sais !${prompt}
+  8070: Je voulais faire mon don habituel à la cathédrale aujourd'hui. Mais j'ai un visiteur et je ne peux pas partir.${prompt}
+  8071: Peut-être que quelqu'un pourrait livrer ce don à ma place ?${prompt}
+  8072: Pourrais-je te demander de le faire pour moi ? Arnau, le vicasque, est là-bas. Pourrais-tu lui remettre cette enveloppe ?${prompt}
+  8073: Alors tu acceptes ma demande ? Je te remercie, aimable aventurier.${prompt}
+  8074: Voici donc l'enveloppe. S'il te plaît, remets-la au vicasque Arnau à la cathédrale.${prompt}
+  8075: Il y a beaucoup d'argent dans cette enveloppe. Fais attention à ne pas la perdre en chemin !${prompt}
+  8076: Je vois... C'est malheureux. Je comptais te dédommager, mais tu dois être très occupé. Je trouverai quelqu'un d'autre.${prompt}
+  8077: As-tu livré l'offrande ? N'oublie pas, remets-la uniquement au vicasque Arnau à la cathédrale, et fais attention à ne pas la perdre !${prompt}
+  8078: Tu as trouvé le vicasque Arnau et il a pris mon don ? Merci beaucoup !${prompt}
+  8079: S'il te plaît, accepte ceci en signe de ma gratitude.${prompt}
+  8080: Merci encore d'avoir apporté mon don à la cathédrale pour moi.${prompt}
+  8081: <tousse>...<tousse!>${prompt}
+  8082: Qui êtes-vous ? Si vous cherchez mon fils, il est sorti faire des livraisons.${prompt}
+  8083: Maman ! Je suis à la maison !${prompt}
+  8084: Raminel ! De retour du travail si tôt ?${prompt}
+  8085: Je passais par là, alors je voulais m'arrêter et voir comment tu allais. Tu devrais être au lit en train de te reposer, Maman.${prompt}
+  8086: Oh, je... vais bien, vraiment... Tu ne devrais pas... ne devrais pas t'inquiéter... autant pour moi.${prompt}
+  8087: Tu ne vas pas bien, Maman ! Tu devrais rester au lit jusqu'à ce que j'aie économisé assez d'argent pour te procurer le médicament pour ta fièvre de Davoi.${prompt}
+  8088: Oh, Raminel, tu es trop gentil... trop gentil avec moi !${prompt}
+  8089: Je dois faire quelques livraisons de plus. Repose-toi, Maman.${prompt}
+  8090: Je suis désolée... De quoi parlions-nous ?${prompt}   
   8091: |-
-    What were we talking about?
+    De quoi parlions-nous?
     ${selection-lines}
-    Tell me about your son.
-    Tell me about yourself.
-    Do you have any other family?${prompt}
-  8092: I can't move about much on account--on account of my illness, so Raminel does his delivery work to support us.${prompt}
-  8093: 'The physician told me I have--have the Davoi-fever: a disease that attacks the lungs, only found in this part of the world.${prompt}'
-  8094: Do not worry, it isn't contagious; I still live with my son, after all. But I can't--I can't stop coughing!${prompt}
-  8095: Long ago, I was a sister in the abbey at Davoi.${prompt}
-  8096: But one day, Orcs raided the village--a great army. They took the abbey, and I...no, all of the sisters, were driven from our home.${prompt}
-  8097: I heard later that the abbey had fallen into ruin. I would not wish to see it now, for fear my heart would break...${prompt}
-  8098: I dwell here with my son Raminel. My husband passed away five years ago.${prompt}
-  8099: You know, many Elvaan once lived in Davoi. But the village fell into ruin after the Great War of twenty years ago. An illness called the Davoi-fever spread amongst the survivors.${prompt}
-  8100: Fleeing the fires of war, refugees from Davoi poured into San d'Oria, but for the ones with the Davoi-fever, there was no escape.${prompt}
-  8101: The fever is marked by violent coughing. Toward the end, the coughs become incessant, sapping the life from the victim until he dies.${prompt}
-  8102: Thank goodness it is not contagious, but sadly there is no known cure.${prompt}
-  8103: That's mine! Give it back!${prompt}
-  8104: You're so selfish! I lent you something yesterday! When are you going to give it back?${prompt}
-  8105: What are you two bickering about, eh?${prompt}
-  8106: He took my sweets, and Mother always says that taking without asking is stealing!${prompt}
-  8107: I'm not stealing! This brat won't give me back the toy I lent him!${prompt}
-  8108: Now, boys... Toys and candies are temporary, but you'll be brothers your whole lives. Do you understand?${prompt}
-  8109: Well, yes, but...${prompt}
-  8110: So?${prompt}
-  8111: So, there are many kinds of brothers in this world. Some get along, and others fight whenever they meet.${prompt}
+    Parlez-moi de votre fils.
+    Parlez-moi de vous.
+    Avez-vous d'autres membres de la famille?${prompt}
+  8092: Je ne peux pas me déplacer beaucoup à cause--à cause de ma maladie, donc Raminel fait son travail de livraison pour nous soutenir.${prompt} 
+  8093: 'Le médecin m’a dit que j’avais--j’avais la fièvre de Davoi : une maladie qui attaque les poumons, seulement trouvée dans cette partie du monde.${prompt}'
+  8094: Ne vous inquiétez pas, ce n'est pas contagieux ; je vis toujours avec mon fils, après tout. Mais je ne peux pas--je ne peux pas arrêter de tousser !${prompt}
+  8095: Il y a longtemps, j'étais sœur à l'abbaye de Davoi.${prompt}
+  8096: Mais un jour, les Orques ont attaqué le village--une grande armée. Ils ont pris l'abbaye, et moi... non, toutes les sœurs, ont été chassées de notre maison.${prompt}
+  8097: J'ai entendu plus tard que l'abbaye était tombée en ruine. Je ne voudrais pas la voir maintenant, de peur que mon cœur ne se brise...${prompt}
+  8098: Je vis ici avec mon fils Raminel. Mon mari est décédé il y a cinq ans.${prompt}
+  8099: Vous savez, beaucoup d'Elvaans vivaient autrefois à Davoi. Mais le village est tombé en ruine après la Grande Guerre d'il y a vingt ans. Une maladie appelée la fièvre de Davoi s'est répandue parmi les survivants.${prompt}
+  8100: Fuyant les feux de la guerre, les réfugiés de Davoi ont afflué vers San d'Oria, mais pour ceux atteints de la fièvre de Davoi, il n'y avait pas d'échappatoire.${prompt}
+  8101: La fièvre se caractérise par une toux violente. Vers la fin, les toux deviennent incessantes, sapant la vie de la victime jusqu'à sa mort.${prompt}
+  8102: Heureusement, ce n'est pas contagieux, mais malheureusement, il n'existe aucun remède connu.${prompt}
+  8103: C'est à moi ! Rendez-le moi !${prompt}
+  8104: Tu es tellement égoïste ! Je t'ai prêté quelque chose hier ! Quand vas-tu me le rendre ?${prompt}
+  8105: De quoi vous chamaillez-vous, hein ?${prompt} 
+  8106: Il a pris mes bonbons, et Maman dit toujours que prendre sans demander, c'est voler !${prompt}
+  8107: Je ne vole pas ! Ce gamin ne veut pas me rendre le jouet que je lui ai prêté !${prompt} 
+  8108: Maintenant, les garçons... Les jouets et les bonbons sont temporaires, mais vous serez frères toute votre vie. Vous comprenez ?${prompt}
+  8109: Eh bien, oui, mais...${prompt}
+  8110: Alors ?${prompt}
+  8111: Alors, il y a beaucoup de sortes de frères dans ce monde. Certains s'entendent bien, et d'autres se battent chaque fois qu'ils se rencontrent.${prompt}
   8112: 'Ah-choo!${wait-animation: 0}${prompt}'
-  8113: Your Highness, have you caught cold?${prompt}
-  8114: Aye, from my scheming brother Pieuje, no doubt.${prompt}
-  8115: But someday you will need each other. Compared to the Great War twenty years ago, your squabbles are chocobo-feed!${prompt}
-  8116: Hmm...maybe.${prompt}
-  8117: I suppose...${prompt}
-  8118: I hear of battle in lands abroad. What if another war came, and fiends knocked through these walls? You'd forget your quarreling, then!${prompt}
-  8119: You really think fiends will attack?${prompt}
-  8120: Fiends don't scare me!${prompt}
-  8121: Heh-heh! That's the spirit! Grow strong, my boys! You'll be out slaying beastmen soon enough!${prompt}
-  8122: When I grow up, I'm going to go fight the fiends, just like Prince Trion!${prompt}
-  8123: My brother always takes my sweets! It's not fair!${prompt}
-  8124: Wait! If I had magic, maybe I could keep my brother's hands off my sweets...${prompt}
+  8113: Votre Altesse, avez-vous attrapé un rhume ?${prompt}
+  8114: Oui, sans doute à cause de mon frère machiavélique Pieuje.${prompt}
+  8115: Mais un jour, vous aurez besoin l'un de l'autre. Comparé à la Grande Guerre d'il y a vingt ans, vos disputes sont de la paille pour chocobos !${prompt}
+  8116: Hmm... peut-être.${prompt}
+  8117: Je suppose...${prompt}
+  8118: J'entends parler de batailles dans des terres lointaines. Si une autre guerre venait, et que des monstres franchissaient ces murs ? Vous oublieriez vos querelles, alors !${prompt}
+  8119: Tu penses vraiment que des monstres attaqueront ?${prompt}
+  8120: Les monstres ne me font pas peur !${prompt}
+  8121: Hé-hé ! C'est l'esprit ! Devenez forts, mes garçons ! Vous serez bientôt en train de tuer des hommes-bêtes !${prompt}
+  8122: Quand je serai grand, j'irai combattre les monstres, comme le Prince Trion !${prompt}
+  8123: Mon frère prend toujours mes bonbons ! Ce n'est pas juste !${prompt}
+  8124: Attends ! Si j'avais de la magie, peut-être que je pourrais empêcher mon frère de toucher à mes bonbons...${prompt}
   8125: Il suffit de prendre vers l'ouest dans cette rue et de tourner à droite à la fin. Cela vous mènera à Watchdog Alley.${prompt}
   8126: C'est désormais un quartier résidentiel pour les écuyers de notre royaume, donc c'est tout à fait sûr. Mais autrefois, c'était un refuge pour les criminels et toutes sortes de types sordides.${prompt}
   8127: Pendant la Grande Guerre, le quartier servait même aux pendaisons publiques des bêtes capturées. Quelle pensée...${prompt}
@@ -19201,7 +19201,7 @@ entries:
   8150: Ah, it's you again... I tried out that job you told me about, but I got meself fired in only a day!${prompt}
   8151: Sorry about that, eh? If you ever hear of another job, you let me know! I won't let you down again!${prompt}
   8152: I'm busy brewing a powerful potion, dearie. Got to tend the flame; no time for chatting.${prompt}
-  8153: That's odd. My husband's late. He's still at the port auction house, waiting for some ingredients to arrive...${prompt}
+  8153: C'est étrange. Mon mari est en retard. Il est toujours à la maison des enchères du port, attendant que des ingrédients arrivent...${prompt}
   8154: Why, hello! I am Ailevia. Pleased to make your acquaintance. Learning your way around can be daunting at first, but take your time and you'll be fine.${prompt}
   8155: 'Should you get lost, check the “Map” from the main menu. Now, I''m supposed to give you this in exchange for your ${item-singular: 0[2]}.${prompt}'
   8156: This is Southern San d'Oria. I know a thing or two about these streets.${prompt}
