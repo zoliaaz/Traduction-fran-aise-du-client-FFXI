@@ -1,40 +1,40 @@
 entries:
   0: The San d'Oria residential area is ahead. You'll find your Mog House within.${prompt}
-  1: I've not told you about Mog Houses yet, have I? Would you care to learn about them now?${prompt}
+  1: Je ne t'ai pas encore parlé des Maisons Mog, n'est-ce pas ? Aimerais-tu en apprendre plus à ce sujet maintenant ?${prompt}
   2: |-
-    Care to learn about Mog Houses?
+    Veux-tu en apprendre davantage sur les Maisons Mog ?
     ${selection-lines}
-    Sure!
-    No, thanks.${prompt}
-  3: Mog Houses are useful places. You can recover your HP and MP, and store items there.${prompt}
+    Bien sûr !
+    Non, merci.${prompt}
+  3: Les Maisons Mog sont des endroits utiles. Tu peux y récupérer tes HP et MP, et y stocker des objets.${prompt}
   4: |-
-    You can also change jobs there.
-    All adventurers of San d'Orian citizenship are assigned a Mog House.${prompt}
-  5: Make yourself at home!${prompt}
-  6: The San d'Oria residential area is ahead. You'll find your Mog House within.${prompt}
-  7: Would you like to hear about Mog Houses again?${prompt}
-  8: Hmm... So be it.${prompt}
-  9: Ahead lies the residential area. You'll find your Mog House within.${prompt}
-  10: 'By the way, my records indicate that you''re renting a room in ${choice: 0}[San d''Oria/Bastok/Windurst/Jeuno/Kazham/Rabao/Norg/Al Zahbi].${prompt}'
-  11: 'Would you like to check out of the room in ${choice: 0}[San d''Oria/Bastok/Windurst/Jeuno/Kazham/Rabao/Norg/Al Zahbi] and move your things back here?${prompt}'
+    Tu peux aussi y changer de métier.
+    Tous les aventuriers citoyens de San d'Oria se voient attribuer une Maison Mog.${prompt}
+  5: Fais comme chez toi !${prompt}
+  6: Le quartier résidentiel de San d'Oria se trouve devant. Tu trouveras ta Maison Mog à l'intérieur.${prompt}
+  7: Aimerais-tu entendre à nouveau parler des Maisons Mog ?${prompt}
+  8: Hmm... Très bien.${prompt}
+  9: Le quartier résidentiel de San d'Oria se trouve devant. Tu trouveras ta Maison Mog à l'intérieur.${prompt}
+  10: 'Au fait, mes archives indiquent que tu loues une chambre à ${choice: 0}[San d''Oria/Bastok/Windurst/Jeuno/Kazham/Rabao/Norg/Al Zahbi].${prompt}'
+  11: 'Voudrais-tu libérer la chambre à ${choice: 0}[San d''Oria/Bastok/Windurst/Jeuno/Kazham/Rabao/Norg/Al Zahbi] et ramener tes affaires ici ?${prompt}'
   12: |-
-    Move back to San d'Oria?
+    Reviens à San d'Oria ?
     ${selection-lines}
-    Yes, please.
-    No, not yet.${prompt}
-  13: 'It is done. We''ve checked you out of your Rent-a-Room in ${choice: 0}[San d''Oria/Bastok/Windurst/Jeuno/Kazham/Rabao/Norg/Al Zahbi].${prompt}'
-  14: All your belongings should be waiting for you inside. Those moogles are amazing creatures, are they not?${prompt}
-  15: Ahead lies the residential area. Proceed to your Rent-a-Room, foreigner!${prompt}
-  16: If you're already renting here, you may come and go as you please, like the Mog House in your homeland.${prompt}
-  17: Ahead lies the residential area.${prompt}
-  18: Wait! By law, all foreigners must lease a Rent-a-Room before entering the residential area!${prompt}
-  19: Once you've registered with us, you can use it as you would a Mog House back home, wherever that may be.${prompt}
+    Oui, s'il te plaît.
+    Non, pas encore.${prompt}
+  13: 'C’est fait. Nous t’avons libéré de ta chambre à louer à ${choice: 0}[San d''Oria/Bastok/Windurst/Jeuno/Kazham/Rabao/Norg/Al Zahbi].${prompt}'
+  14: Toutes tes affaires devraient t'attendre à l'intérieur. Ces mogs sont vraiment des créatures étonnantes, n'est-ce pas ?${prompt}
+  15: Le quartier résidentiel est droit devant. Dirige-toi vers ta chambre à louer, étranger !${prompt}
+  16: Si tu loues déjà ici, tu peux entrer et sortir à ta guise, comme avec la Maison Mog dans ta patrie.${prompt}
+  17: Le quartier résidentiel est droit devant.${prompt}
+  18: Attends ! En vertu de la loi, tous les étrangers doivent louer une chambre à louer avant d'entrer dans le quartier résidentiel !${prompt}
+  19: Une fois que tu t'es enregistré chez nous, tu peux l'utiliser comme une Maison Mog chez toi, où que ce soit.${prompt}
   20: |-
-    Will you stay in San d'Oria?
+    Resteras-tu à San d'Oria ?
     ${selection-lines}
-    Yes.
-    No, I'd rather not.${prompt}
-  21: All right, then. A San d'Orian Rent-a-Room has been leased to your name. Now move along, foreigner!${prompt}
+    Oui.
+    Non, je préfère pas.${prompt}
+  21: D'accord, alors. Une chambre à louer san d'Orienne a été louée à ton nom. Maintenant, avance, étranger !${prompt}
   22: |-
     Vous pouvez définir ceci comme votre point de retour actuel.
     Une fois que vous avez défini un point de retour, vous y retournerez chaque fois que vous serez incapacité.
@@ -16426,7 +16426,7 @@ entries:
   6601: "Cette carte montre le tracé forestier s'étendant à l'ouest d'Al Zahbi. Une carte des bois de Wajaom peut être à vous pour ${number: 3} gil.${prompt}"
   6602: "Cette carte montre les fourrés de Bhaflau, situés au nord d'Al Zahbi. Elle coûte ${number: 3} gil.${prompt}"
   6603: "${keyitem-article: 1[2]} est une ancienne carte souvent utilisée pour représenter ${zone: 2[2]}. Elle coûte ${number: 3} gil.${prompt}"
-  6604: Oh... I thought perhaps that somewhere within these walls I would find my prrrince charming...${prompt}
+  6604: Oh... Je pensais que quelque part dans ces murs je trouverais mon prince charmant...${prompt}
   6605: What's that? Do I know you?${prompt}
   6606: A library book? Ah! That's rrright! That book I borrowed in Windurst.${prompt}
   6607: I totally forgot! How silly of me. Here you are!${prompt}
@@ -16881,40 +16881,40 @@ entries:
   6771: |-
     The hallowed halls of your house are even more exciting!
     Why? Because now there's a second floor, kupo!${prompt}
-  6772: But before you bash your way in, I've got a trifling task for you to tackle.${prompt}
-  6773: Capricious Mithra cubs have cajoled critical information out of the M.H.M.U., and I want you to wrest it from them!${prompt}
-  6774: Visit the three nations and question them, kupo!${prompt}
-  6775: Now you know the nitty-gritty, so enjoy your new floor, kupo!${prompt}
-  6776: Kupopo? You mean you already know?${prompt}
-  6777: Magnificent and marvelous! Then proceed without delay!${prompt}
-  6778: Enjoy extra space to store your sundries!${prompt}
-  6779: Remodel your room to fit your finicky tastes!${prompt}
-  6780: Incorporate ostentatious overseas objects! All this and more!${prompt}
-  6781: But only on the second floor, kupo. I like the first floor as it is.${prompt}
-  6782: And as for your potted plants--they only persevere on the ground, kupo.${prompt}
-  6783: And moghancement effects only activate for furnishings fitted to the first floor.${prompt}
-  6784: Wish we could help more, but we spend enormous amounts of energy on one floor already!${prompt}
-  6785: Go forth and frolic in your new abode, kupo!${prompt}
-  6786: You can access the antechambers from the front door. Enjoy!${prompt}
-  6787: '${lettercase: 1}${item-plural: 3[2]} might bring a certain je ne sais quoi to your Mog House, kupo!${prompt}'
-  6788: Ah, I never thought that this day would come, kupo...${prompt}
-  6789: Indeed, it seems like just yesterday that we first met here.${prompt}
-  6790: I have watched with wonder as you grew before my very eyes, kupo.${prompt}
-  6791: In fact, I heard many tales of your boundless bravery from my friends across the world.${prompt}
-  6792: Every time, it made me feel much like a proud parent would.${prompt}
-  6793: It was like I was right there with you, kupo.${prompt}
-  6794: That is why I ceaselessly cleaned your Mog House, merrily managed your belongings, and watered your plants.${prompt}
-  6795: I couldn't really think of any other ways to help you, kupo.${prompt}
-  6796: However, I heard about the trials and tribulations that you've been through.${prompt}
-  6797: Valhalla, the Maelstrom Mage, Chaos...${prompt}
+  6772: Mais avant de foncer tête baissée, j'ai une tâche insignifiante à te confier, kupo !${prompt}
+  6773: Des chatons Mithra capricieux ont extorqué des informations cruciales à l'M.H.M.U., et je veux que tu les leur arraches, kupo !${prompt}
+  6774: Visite les trois nations et interroge-les, kupo !${prompt}
+  6775: Maintenant que tu sais tout sur les détails, profite de ton nouveau plancher, kupo !${prompt}
+  6776: Kupopo ? Tu veux dire que tu sais déjà ?${prompt}
+  6777: Magnifique et merveilleux ! Alors, avance sans délai !${prompt}
+  6778: Profite de l'espace supplémentaire pour stocker tes babioles !${prompt}
+  6779: Remodèle ta chambre selon tes goûts exigeants !${prompt}
+  6780: Incorpore des objets ostentatoires venus d'outre-mer ! Tout cela et plus encore !${prompt}
+  6781: Mais seulement au deuxième étage, kupo. J'aime le premier étage comme il est.${prompt}
+  6782: Et en ce qui concerne tes plantes en pot, elles ne peuvent survivre que sur le sol, kupo.${prompt}
+  6783: Et les effets de moghancement ne s'activent que pour les meubles installés au premier étage, kupo.${prompt}
+  6784: J'aimerais pouvoir aider davantage, mais nous dépensons déjà énormément d'énergie pour un seul étage !${prompt}
+  6785: Va, et amuse-toi dans ton nouveau chez-toi, kupo !${prompt}
+  6786: Tu peux accéder aux antichambres depuis la porte d'entrée. Amuse-toi bien !${prompt}
+  6787: 'Des ${item-plural: 3[2]} pourraient apporter un certain je ne sais quoi à ta Maison Mog, kupo !${prompt}'
+  6788: Ah, je n'ai jamais pensé que ce jour viendrait, kupo...${prompt}
+  6789: En effet, on dirait que c'était hier que nous nous sommes rencontrés ici pour la première fois, kupo.${prompt}
+  6790: J'ai observé avec émerveillement comment tu as grandi sous mes yeux, kupo.${prompt}
+  6791: En fait, j'ai entendu de nombreux récits sur ta bravoure sans limites de la part de mes amis à travers le monde, kupo.${prompt}
+  6792: À chaque fois, cela me rendait aussi fier qu'un parent, kupo.${prompt}
+  6793: J'avais l'impression d'être juste là avec toi, kupo.${prompt}
+  6794: C'est pourquoi j'ai inlassablement nettoyé ta Maison Mog, géré joyeusement tes affaires et arrosé tes plantes, kupo.${prompt}
+  6795: Je ne pouvais pas vraiment penser à d'autres moyens de t'aider, kupo.${prompt}
+  6796: Cependant, j'ai entendu parler des épreuves et des tribulations que tu as traversées, kupo.${prompt}
+  6797: Valhalla, le Mage du Maelstrom, Chaos...${prompt}
   6798: |-
-    Kupopopo!
-    Now I can actually assist you!${prompt}
-  6799: It is time for us to joyfully join forces, kupo!${prompt}
+    Kupopopo !
+    Maintenant je peux réellement t'aider !${prompt}
+  6799: Il est temps pour nous de joindre joyeusement nos forces, kupo !${prompt}
   6800: |-
-    We can discuss details at the stone circle in the La Theine Plateau!
-    I'll be waiting for you there, kupo!${prompt}
-  6801: You go on ahead, and we'll see each other soon!${prompt}
+    Nous pouvons discuter des détails au cercle de pierres du plateau de La Theine !
+    Je t'y attendrai, kupo !${prompt}
+  6801: Tu vas de l'avant, et nous nous reverrons bientôt !${prompt}
   6802: |-
     Rejoindre la guilde des ${choice: 6}[pêcheurs/charpentiers/forgerons/orfèvres/tisserands/tanneurs/travailleurs d'os/alchimistes/cuisiniers] ?
     ${selection-lines}
@@ -17133,6 +17133,7 @@ entries:
     No, retain.
     Yes, renounce.${prompt}
   6857: 'You have successfully renounced your status as a ${choice: 5}[craftsman/artisan/adept] of the ${choice: 1}[Carpenters''/Blacksmiths''/Goldsmiths''/Weavers''/Tanners''/Boneworkers''/Alchemists''/Culinarians''] Guild.${prompt}'
+  6858: Bienvenue à la Guilde des Tanneurs. Nous sommes un syndicat pour ceux qui travaillent dans le domaine du tannage et du cuir.${prompt}
   6859: Chacun ses affaires. Mais si vous souhaitez rester ici, veuillez ne toucher à rien.
   6860: Vous devez être l'un de ces aventuriers. Je le vois dans vos yeux ardents. Pour une raison quelconque, ce syndicat est populaire auprès de votre genre.${prompt}
   6861: |-
@@ -17239,7 +17240,6 @@ entries:
     Payer les ${number: 1} gils ?
     ${selection-lines}
     Je suppose que je n'ai pas le choix.
-    En fait, je pense que j'ai eu assez
     Plutôt crever que de payer pour ça !${prompt}
   6923: Je vais m’y mettre tout de suite. Revenez dans quelques jours pour le récupérer.${prompt}
   6924: Je sais que vous devez être pressé, mais je n'ai pas encore fini votre commande. Revenez plus tard, ${choice-player-gender}[monsieur/madame].${prompt}
@@ -17250,26 +17250,26 @@ entries:
   6927: 'Prenez le ${item-singular: 1[2]}, ${article} ${item-article: 2[2]}, ${article} ${item-article: 3[2]}, ${article} ${item-article: 4[2]}, deux ${item-plural: 5[2]}, et deux ${item-plural: 6[2]}, et synthétisez-les tous ensemble avec ${article} ${item-article: 0[2]}.${prompt}'
   6928: Toute personne ayant passé plus de quelques jours à perfectionner ses compétences en maroquinerie ne devrait avoir aucun problème du tout.${prompt}
   6929: |-
-    And don't even think of telling me that you don't have enough skill. I know your work, and I know you have what it takes to complete this project.
-    Now, as for your smithing and clothcraft skills, you'll have to be the judge on that...${prompt}
-  6930: Oh, don't worry. Believe in yourself, and anything...well, almost anything is possible!${prompt}
-  6931: What? You were expecting something different? I'm sorry, but this is as much as I can do. The rest is up to you.${prompt}
-  6932: You see, most of us here at the Tanners' Guild have lost friends or family to the Orcish fiends. Just looking at that pattern brings back a lot of terrible memories...${prompt}
+    Et ne pensez même pas à me dire que vous n'avez pas assez de compétences. Je connais votre travail, et je sais que vous avez ce qu'il faut pour mener à bien ce projet.
+    Maintenant, en ce qui concerne vos compétences en forge et en tissage, vous devrez en juger par vous-même...${prompt}
+  6930: Oh, ne vous inquiétez pas. Croyez en vous-même, et tout... enfin, presque tout est possible !${prompt}
+  6931: Quoi ? Vous vous attendiez à quelque chose de différent ? Je suis désolé, mais c'est tout ce que je peux faire. Le reste dépend de vous.${prompt}
+  6932: Vous voyez, la plupart d'entre nous ici à la Guilde des tanneurs ont perdu des amis ou de la famille aux infâmes Orcs. Rien que de regarder ce motif nous ramène à beaucoup de terribles souvenirs...${prompt}
   6933: |-
-    No, you will have to finish this project by yourself...
-    But that might be a little easier said than done...${prompt}
+    Non, vous devrez finir ce projet par vous-même...
+    Mais cela pourrait être un peu plus facile à dire qu'à faire...${prompt}
   6934: |-
     Hmmm...
-    That's it!${prompt}
-  6935: Why not try to find a skilled tanner to assist you in crafting the mask? Here, let me give you the instructions on how to synthesize it...${prompt}
-  6936: I'm sure there are a lot of adepts out there who would be more than happy to lend you a hand.${prompt}
-  6937: (Just make sure they have also honed their skills in smithing and clothcrafting! We would not want any...accidents...)${prompt}
-  6938: Just do not forget to thank them, if you know what I mean!${prompt}
-  6939: What brings you by my humble guild today, ${choice-player-gender}[sir/ma'am]? Perhaps you wish to place a special order?${prompt}
+    Voilà !${prompt}
+  6935: Pourquoi ne pas essayer de trouver un tanneur compétent pour vous aider à fabriquer le masque ? Laissez-moi vous donner les instructions sur la manière de le synthétiser...${prompt}
+  6936: Je suis sûr qu'il y a beaucoup d'adeptes là-bas qui seraient plus qu'heureux de vous donner un coup de main.${prompt}
+  6937: (Assurez-vous simplement qu'ils ont également perfectionné leurs compétences en forge et en tissage ! Nous ne voulons pas d'accidents...)${prompt}
+  6938: N'oubliez simplement pas de les remercier, si vous voyez ce que je veux dire !${prompt}
+  6939: Que vous amène à ma modeste guilde aujourd'hui, ${choice-player-gender}[monsieur/madame]? Peut-être souhaitez-vous passer une commande spéciale ?${prompt}
   6940: '......${prompt}'
   6941: |-
-    You want to become a what? A Goblin?
-    Hmmm... This will be quite more difficult than it seems. Though the stout little beastmen all appear to look alike, they are truly quite different.${prompt}
+    Vous voulez devenir quoi ? Un Gobelin ?
+    Hmmm... Cela sera bien plus difficile que ça en a l'air. Bien que les petits hommes-bêtes trapus semblent tous se ressembler, ils sont vraiment très différents.${prompt}
   6942: |-
     However, I was never one to back down from a challenge! I shall try my hand at designing your costume.
     While I begin work on the design, I need you to fetch me ${article} ${item-article: 0[2]} and ${article} ${item-article: 1[2]}.${prompt}
@@ -18715,8 +18715,7 @@ entries:
     Livrer la pommade ?
     ${selection-lines}
     Bien sûr, je le ferai.
-    Pas tout de suite.
-    ${prompt}
+    Pas tout de suite.${prompt}
   7760: Je vous remercie ! Il s'appelle Aaveleon.${prompt}
   7761: Il patrouille dans les terres sauvages à l'extérieur, mais pas trop loin de la Porte Ouest.${prompt}
   7762: Je vois...${prompt}
@@ -18728,8 +18727,7 @@ entries:
     Vous avez perdu la pommade ?
     ${selection-lines}
     Non, elle est juste ici !
-    Je l'ai perdue.
-    ${prompt}
+    Je l'ai perdue.${prompt}
   7768: Ah, c'est un soulagement.${prompt}
   7769: Alors, vous avez perdu la pommade ! Je suppose que je peux vous en donner une autre. S'il vous plaît, livrez-la comme vous l'avez promis !${prompt}
   7770: Merci beaucoup. Avec plus de monstres dans les bois, mon mari revient toujours avec des égratignures. Ce sont des jours troublants pour nous tous.${prompt}
@@ -18880,8 +18878,8 @@ entries:
   7876: Thanks again for your help.${prompt}
   7877: Take up a sword, my friend. I'll talk to you when you do, and no sooner.${prompt}
   7878: Friend, listen to me. It is not cogs nor levers nor even the mightiest of magicks that protect this kingdom of San d'Oria.${prompt}
-  7879: Non ! Nous, Elvaan, vivons uniquement par le pouvoir de l'épée. Nos lames défendent nos frontières.${prompt}
-  7880: Si vous voulez renforcer votre bras d'épée et apprendre quelque chose de l'art, alors acceptez mon défi. Que dites-vous ?${prompt}
+  7879: Non! Nous, les Elvaan, vivons uniquement par la puissance de l'épée. Nos lames défendent nos frontières.${prompt}
+  7880: Si vous voulez renforcer votre bras d'épée et apprendre quelque chose de l'art, alors acceptez mon défi. Qu'en dites-vous?${prompt}
   7881: |-
     Accepter son défi ?
     ${selection-lines}
@@ -19051,31 +19049,31 @@ entries:
     ${selection-lines}
     I'm ready.
     I need to think about it.${prompt}
-  8024: I see, and I respect your decision. My tasks are not to be taken lightly.${prompt}
-  8025: Yes, in fact, I have sent many on this task, and many have failed...${prompt}
-  8026: All so confident when they set out... Though some never returned.${prompt}
-  8027: Sometimes, you must be the judge of your own strength, for none other can take your true measure.${prompt}
-  8028: If you deem your skills still too crude, polish them and come back when you feel you are ready. I will be here, waiting.${prompt}
-  8029: Excellent. This will be your last task, then. I entrust you with this book. Everything else is up to you.${prompt}
-  8030: The way of the sword is the way of action! Now, go!${prompt}
-  8031: Nothing to report!${prompt}
-  8032: 'Have you the ${keyitem-singular: 0[2]}? Great. Here, have this. Figure the rest out by yourself.${prompt}'
-  8033: The trial is difficult, but those who pass may become true knights. Good luck to you.${prompt}
-  8034: I heard you did well. I am sure you'll make an excellent knight.${prompt}
-  8035: 'Do you have the ${keyitem-singular: 0[2]}? Excellent. Here, take this. The rest you must figure out for yourself.${prompt}'
-  8036: You may not know what to do, but do not fret. You have all the time you need.${prompt}
-  8037: You've done well. I knew you would from the moment I saw you.${prompt}
-  8038: You've completed your task with flying colors. You are ready to become a knight, I believe.${prompt}
-  8039: This is my gift to you, to commemorate this occasion. Accept it with easy heart, for you have earned it!${prompt}
-  8040: You can now become a paladin!${prompt}
-  8041: Let your heart be your guide, but always keep a clear mind. Good luck.${prompt}
-  8042: What's that?  Need something for a cold, eh?${prompt}
-  8043: I can make medicines if need be, but ye'll have to fetch me the ingredients.${prompt}
+  8024: Je vois, et je respecte votre décision. Mes tâches ne sont pas à prendre à la légère.${prompt}
+  8025: Oui, en fait, j'ai envoyé beaucoup de personnes pour cette tâche, et beaucoup ont échoué...${prompt}
+  8026: Tous si confiants au départ... Pourtant certains ne sont jamais revenus.${prompt}
+  8027: Parfois, vous devez être le juge de votre propre force, car nul autre ne peut vraiment vous mesurer.${prompt}
+  8028: Si vous jugez vos compétences encore trop frustes, affinez-les et revenez quand vous vous sentirez prêt. Je serai ici, à vous attendre.${prompt}
+  8029: Excellent. Ce sera donc votre dernière tâche. Je vous confie ce livre. Le reste dépend de vous.${prompt}
+  8030: La voie de l'épée est celle de l'action ! Maintenant, allez-y !${prompt}
+  8031: Rien à signaler !${prompt}
+  8032: 'Avez-vous le ${keyitem-singular: 0[2]}? Parfait. Prenez ceci. Trouvez le reste par vous-même.${prompt}'
+  8033: L'épreuve est difficile, mais ceux qui la réussissent peuvent devenir de véritables chevaliers. Bonne chance à vous.${prompt}
+  8034: J'ai entendu dire que vous vous en étiez bien sorti. Je suis sûr que vous ferez un excellent chevalier.${prompt}
+  8035: 'Avez-vous le ${keyitem-singular: 0[2]}? Excellent. Prenez ceci. Le reste, vous devez le découvrir par vous-même.${prompt}' 
+  8036: Vous ne savez peut-être pas quoi faire, mais ne vous inquiétez pas. Vous avez tout le temps nécessaire.${prompt}
+  8037: Vous avez bien fait. Je le savais dès le moment où je vous ai vu.${prompt}
+  8038: Vous avez accompli votre tâche avec brio. Je crois que vous êtes prêt à devenir un chevalier.${prompt}
+  8039: Voici mon cadeau pour vous, pour commémorer cette occasion. Acceptez-le avec un cœur léger, car vous l'avez mérité !${prompt}
+  8040: Vous pouvez maintenant devenir un paladin !${prompt}
+  8041: Laissez votre cœur être votre guide, mais gardez toujours un esprit clair. Bonne chance.${prompt}
+  8042: Qu'est-ce que c'est ? Vous avez besoin de quelque chose pour un rhume, hein ?${prompt}
+  8043: Je peux préparer des médicaments si nécessaire, mais vous devrez me rapporter les ingrédients.${prompt}
   8044: |-
-    Fetch the ingredients?
+    Chercher les ingrédients ?
     ${selection-lines}
-    Of course.
-    No way.${prompt}
+    Bien sûr.
+    Pas question.${prompt}
   8045: Qu'est-ce que c'est ? Et moi qui me réjouissais de te préparer un médicament. Eh bien, si tu changes d'avis, fais-le moi savoir.${prompt}
   8046: Très bien, très bien. J'ai écrit une liste de ce dont j'aurai besoin, alors prends-la avec toi.${prompt}
   8047: Reviens quand tu auras tout. Je te préparerai une décoction pour guérir le pire des rhumes, je le ferai.${prompt}
@@ -19169,70 +19167,70 @@ entries:
   8130: Désolé, j'ai des livraisons à faire !${prompt}
   8131: Faites le tour de la ville à dos de l'un de nos beaux chocobos ! Seulement 200 gils !${prompt}
   8132: |-
-    How about it?
+    Que diriez-vous ?
     ${selection-lines}
-    Pay 200 gil.
-    Think about it.${prompt}
-  8133: Thank you, thank you! And now, off to see the sights of San d'Oria!${prompt}
-  8134: Oh... You don't have enough gil. Come back when your pockets are better lined, eh?${prompt}
-  8135: 'You lose ${number: 0} gil!${prompt}'
+    Payer 200 gils.
+    Y réfléchir.${prompt}
+  8133: Merci, merci ! Et maintenant, en route pour voir les merveilles de San d'Oria !${prompt}
+  8134: Oh... Vous n'avez pas assez de gils. Revenez quand vos poches seront mieux garnies, hein ?${prompt}
+  8135: 'Vous perdez ${number: 0} gils !${prompt}'
   8136: |-
-    Accept?
+    Accepter ?
     ${selection-lines}
-    Of course.
-    Not right now.${prompt}
+    Bien sûr.
+    Pas maintenant.${prompt}
   8137: |-
-    Accept?
+    Accepter ?
     ${selection-lines}
-    Yes.
-    I'm sorry.${prompt}
-  8138: Hey! If you've no business with me, I ask that you depart at once!${prompt}
-  8139: Really, you see, I'm a clown. Know why? Because I'm funny!${prompt}
-  8140: I am the great fire-eater! Braver of the Blaze! I'm just taking a little break right now.${prompt}
-  8141: I'm a mime. I'm on break right now, so let me be.${prompt}
-  8142: I play the pipes. Which ones, you ask? The only ones! Bagpipes! Just not when I'm on break.${prompt}
-  8143: I am Hinaree. I live here in this mansion all alone.${prompt}
-  8144: Greetings! Don't ask for mulsum, 'cause I'm afraid we're right out.${prompt}
-  8145: Welcome, weary traveler. Make yourself at home!${prompt}
-  8146: La-dee-dah, la-dee-dah... Sure am bored. Wish there was some work to do.${prompt}
+    Oui.
+    Désolé.${prompt}
+  8138: Hé ! Si vous n'avez rien à faire avec moi, je vous prie de partir immédiatement !${prompt}
+  8139: Vraiment, vous voyez, je suis un clown. Vous savez pourquoi ? Parce que je suis drôle !${prompt}
+  8140: Je suis le grand mangeur de feu ! Braver de la Flamme ! Je prends juste une petite pause en ce moment.${prompt}
+  8141: Je suis un mime. Je suis en pause en ce moment, alors laissez-moi tranquille.${prompt}
+  8142: Je joue des cornemuses. Lesquelles, demandez-vous ? Les seules ! Les cornemuses ! Juste pas quand je suis en pause.${prompt}
+  8143: Je suis Hinaree. Je vis ici dans ce manoir tout seul.${prompt}
+  8144: Salutations ! Ne demandez pas de mulsum, car nous sommes malheureusement en rupture de stock.${prompt}
+  8145: Bienvenue, voyageur fatigué. Faites comme chez vous !${prompt}
+  8146: La-di-da, la-di-da... Je m'ennuie tellement. J'aimerais avoir du travail à faire.${prompt}
   8147: Vous êtes un aventurier ? Mon nom est Chanpau, mais mes amis m'appellent "Champ" ! Je peux être un clochard maintenant, mais autrefois, j'étais un véritable Chevalier Royal, croyez-le ou non...${prompt}
-  8148: Eh? There's work, you say! I'll go check it out, then. Cargo room B down at the port? Thanks!${prompt}
-  8149: Thanks for the tip! I'll be heading down there later on. Cargo room B, right?${prompt}
-  8150: Ah, it's you again... I tried out that job you told me about, but I got meself fired in only a day!${prompt}
-  8151: Sorry about that, eh? If you ever hear of another job, you let me know! I won't let you down again!${prompt}
-  8152: I'm busy brewing a powerful potion, dearie. Got to tend the flame; no time for chatting.${prompt}
+  8148: Eh ? Il y a du travail, dites-vous ! Je vais aller vérifier ça. La salle de cargaison B au port ? Merci !${prompt}
+  8149: Merci pour l'info ! Je vais y aller plus tard. La salle de cargaison B, n'est-ce pas ?${prompt}
+  8150: Ah, c'est encore vous... J'ai essayé ce boulot dont vous m'avez parlé, mais je me suis fait virer en seulement une journée !${prompt}
+  8151: Désolé pour ça, hein ? Si vous entendez parler d'un autre travail, faites-le moi savoir ! Je ne vous laisserai pas tomber cette fois-ci !${prompt}
+  8152: Je suis occupée à préparer une potion puissante, ma chère. Je dois entretenir la flamme ; pas de temps pour discuter.${prompt}
   8153: C'est étrange. Mon mari est en retard. Il est toujours à la maison des enchères du port, attendant que des ingrédients arrivent...${prompt}
-  8154: Why, hello! I am Ailevia. Pleased to make your acquaintance. Learning your way around can be daunting at first, but take your time and you'll be fine.${prompt}
-  8155: 'Should you get lost, check the “Map” from the main menu. Now, I''m supposed to give you this in exchange for your ${item-singular: 0[2]}.${prompt}'
-  8156: This is Southern San d'Oria. I know a thing or two about these streets.${prompt}
+  8154: Bonjour ! Je suis Ailevia. Enchantée de faire votre connaissance. Apprendre à vous repérer peut être intimidant au début, mais prenez votre temps et tout ira bien.${prompt}
+  8155: 'Si jamais vous vous perdez, consultez la “Carte” dans le menu principal. Maintenant, je suis censée vous donner ceci en échange de votre ${item-singular: 0[2]}.${prompt}'
+  8156: Ici, c'est la partie sud de San d'Oria. Je connais bien ces rues.${prompt}
   8157: |-
-    Would you like to learn about this area?
+    Voulez-vous en savoir plus sur cette zone ?
     ${selection-lines}
-    I'm interested.
-    No, thanks.${prompt}
-  8158: 'To the north stands Victory Arch. Carved from its two mighty pillars are statues that represent the two orders: the Temple Knights and the Royal Knights.${prompt}'
-  8159: Northern San d'Oria lies beyond, where you'll find Chateau d'Oraguille, the cathedral, and the consulates of our allies.${prompt}
-  8160: West is Pikeman's Way, where you'll find shops, grocers, and the Tanners' Guild. Across from the stalls is the Westgate, which leads outside.${prompt}
-  8161: East is Cavalry Way, where you'll find armor and weapon shops as well as a tavern. The residential area lies at the end.${prompt}
-  8162: Ladies and gentlemen of San d'Oria! Troupe Valeriano is here to celebrate your glorious deeds in battle!${prompt}
-  8163: Oh, a fellow outsider! We are Troupe Valeriano. I am Valeriano, at your service!${prompt}
-  8164: Watch this.${prompt}
-  8165: I worry for Bastok... Our Hume leaders rely too much on technology.${prompt}
-  8166: To be honest, I'm not fond of San d'Orians. Tall and snooty but misers through and through! May their conquests fall flat!${prompt}
-  8167: What a huge city-witty! San d'Oria towers above the other nations! How can they possibly competaru?${prompt}
-  8168: The food arrround here's not bad, but our Windurstian chefs could do better. If they could only get hold of the same ingrrredients!${prompt}
-  8169: Nobody tops my trrricks. Stand back if you value your ears and moustaches!${prompt}
-  8170: San d'Oria owes its victories to the Elvaan.${prompt}
-  8171: Shhh.${prompt}
-  8172: Er, hey! You're not the captain! Don't scare me like that, really.${prompt}
-  8173: It is locked.${prompt}
-  8174: Target is out of range.${prompt}
+    Je suis intéressé.
+    Non, merci.${prompt}
+  8158: 'Au nord se dresse l’Arc de la Victoire. Sculptées sur ses deux puissants piliers se trouvent des statues représentant les deux ordres : les Chevaliers du Temple et les Chevaliers Royaux.${prompt}'
+  8159: Au-delà se trouve la San d'Oria du Nord, où vous trouverez le Château d'Oraguille, la cathédrale, et les consulats de nos alliés.${prompt}'
+  8160: À l'ouest se trouve la Voie des Piquiers, où vous trouverez des magasins, des épiceries, et la Guilde des Tanneurs. En face des étals se trouve la Porte Ouest, qui mène à l'extérieur.${prompt}'
+  8161: À l'est se trouve la Voie de la Cavalerie, où vous trouverez des boutiques d'armures et d'armes ainsi qu'une taverne. La zone résidentielle se trouve au bout.${prompt}'
+  8162: Dames et messieurs de San d'Oria ! La Troupe Valeriano est ici pour célébrer vos glorieux exploits au combat !${prompt}'
+  8163: Oh, un autre étranger ! Nous sommes la Troupe Valeriano. Je suis Valeriano, à votre service !${prompt}'
+  8164: Regardez ça.${prompt}'
+  8165: Je m'inquiète pour Bastok... Nos dirigeants Humes comptent trop sur la technologie.${prompt}'
+  8166: Pour être honnête, je n'aime pas les San d'Orians. Grands et arrogants mais avares à travers ! Puissent leurs conquêtes échouer !${prompt}'
+  8167: Quelle immense cité ! San d'Oria dépasse les autres nations ! Comment pourraient-ils rivaliser ?${prompt}'
+  8168: La nourriture par ici n'est pas mauvaise, mais nos chefs de Windurst pourraient faire mieux. S'ils pouvaient seulement obtenir les mêmes ingrédients !${prompt}'
+  8169: Personne ne dépasse mes tours. Reculez si vous tenez à vos oreilles et moustaches !${prompt}'
+  8170: San d'Oria doit ses victoires aux Elvaans.${prompt}'
+  8171: Chut.${prompt}'
+  8172: Euh, hé ! Tu n'es pas le capitaine ! Ne me fais pas peur comme ça, vraiment.${prompt}'
+  8173: C'est verrouillé.${prompt}'
+  8174: La cible est hors de portée.${prompt}'
   8175: クライアント000（藤田）${prompt}
   8176: クライアント001（藤田）${prompt}
-  8177: Please wait.${prompt}
-  8178: Hello there!${prompt}
-  8179: Hello!${prompt}
-  8180: What do you want?${prompt}
+  8177: Veuillez patienter.${prompt}
+  8178: Salut là-bas !${prompt}
+  8179: Salut !${prompt}
+  8180: Que veux-tu ?${prompt}
   8181: |-
     なにが欲しい？
     ${selection-lines}
@@ -19307,31 +19305,31 @@ entries:
   8210: 'L’examinateur m’a enfin confié une tâche. Il veut ${item-article: 0[2]}, mais il ne veut pas me dire comment en obtenir un ! Il dit que je devrais utiliser ma tête...${prompt}'
   8211: Votre tract est refusé.${prompt}
   8212: |-
-    Display which motion? (Debug)
+    Afficher quel mouvement? (Debug)
     ${selection-lines}
-    Talk.
-    Give.
-    Think.${prompt}
-  8213: Hello!${prompt}
-  8214: Welcome!${prompt}
-  8215: What can I do for you?${prompt}
-  8216: Fresh vegetables for sale!${prompt}
-  8217: Looking for meat today?${prompt}
-  8218: I have a fresh catch of fish from Selbina!${prompt}
-  8219: Sorry. Everything's sold out.${prompt}
-  8220: Hello, adventurer. Fine weather today, isn't it?${prompt}
-  8221: I'm Kozou. My little brother Bouzu is in the kitchen.${prompt}
-  8222: Sorry, I'm busy auctioning. You have to keep a tab on things or else the best items get away!${prompt}
-  8223: Welcome to the Chocobo Stables. Here you can rent a chocobo or train a wild one yourself.${prompt}
-  8224: I'm training chocobos here.${prompt}
-  8225: This is a smart chocobo.${prompt}
-  8226: This chocobo always runs straight back home.${prompt}
+    Parler.
+    Donner.
+    Réfléchir.${prompt}
+  8213: Bonjour !${prompt}
+  8214: Bienvenue !${prompt}
+  8215: Que puis-je faire pour vous ?${prompt}
+  8216: Légumes frais en vente !${prompt}
+  8217: Vous cherchez de la viande aujourd'hui ?${prompt}
+  8218: J'ai une pêche fraîche de Selbina !${prompt}
+  8219: Désolé. Tout est vendu.${prompt}
+  8220: Bonjour, aventurier. Beau temps aujourd'hui, n'est-ce pas ?${prompt}
+  8221: Je suis Kozou. Mon petit frère Bouzu est dans la cuisine.${prompt}
+  8222: Désolé, je suis occupé aux enchères. Vous devez surveiller les choses sinon les meilleurs articles partent !${prompt}
+  8223: Bienvenue aux Écuries Chocobo. Ici vous pouvez louer un chocobo ou dresser vous-même un sauvage.${prompt}
+  8224: Je dresse des chocobos ici.${prompt}
+  8225: Voici un chocobo intelligent.${prompt}
+  8226: Ce chocobo rentre toujours directement chez lui.${prompt}
   8227: Kweh.${prompt}
-  8228: Kweh-kweh!${prompt}
-  8229: Kweh-kweh-kweh!${prompt}
-  8230: I'm the master of the Tanners' Guild. What do you want?${prompt}
-  8231: Why, hello. All our skins are guild-approved.${prompt}
-  8232: Good day! We have lots in stock today.${prompt}
+  8228: Kweh-kweh !${prompt}
+  8229: Kweh-kweh-kweh !${prompt}
+  8230: Je suis le maître de la Guilde des Tanneurs. Que voulez-vous ?${prompt}
+  8231: Bonjour. Toutes nos peaux sont approuvées par la guilde.${prompt}
+  8232: Bonjour ! Nous avons beaucoup en stock aujourd'hui.${prompt}
   8233: |-
     いらっしゃいませ！
     革工ギルド店員3です。${prompt}
@@ -19362,55 +19360,55 @@ entries:
     チョコボはかわいいけど、
     あんだけ沢山いると、朝から晩まで
     クエックエッってうるさくてしょうがねぇや。${prompt}
-  8243: That building down there is the hall of the Tanners' Guild. They work the skins of animals and other creatures into all manner of useful things.${prompt}
-  8244: This is the gate to the residential area. No entry without official permission.${prompt}
-  8245: Come in! Come in! And welcome to the Lion Springs Tavern! Run by none other than the great hero of the Norvallen Resistance, Valderotaux himself.${prompt}
-  8246: Make yourself at home! Can I interest you in some of our famous mulsum?${prompt}
+  8243: Ce bâtiment là-bas est la salle de la Guilde des Tanneurs. Ils travaillent les peaux d'animaux et d'autres créatures pour en faire toutes sortes de choses utiles.${prompt}
+  8244: C'est la porte d'entrée de la zone résidentielle. Aucune entrée sans autorisation officielle.${prompt}
+  8245: Entrez ! Entrez ! Et bienvenue au Lion Springs Tavern ! Dirigé par rien de moins que le grand héros de la Résistance de Norvallen, Valderotaux lui-même.${prompt}
+  8246: Faites comme chez vous ! Puis-je vous intéresser à notre célèbre mulsum ?${prompt}
   8247: （ミッションフラグを初期化しました）${prompt}
   8248: |-
     （テスト）ハチミツやるよ、ほら。
     あんだよ、ちゃんと10個あんだろ？
     ……ったく、疑り深いったらありゃしねぇな。${prompt}
   8249: '...${prompt}'
-  8250: My name is Sobane, and I'm sharpening my knives.${prompt}
+  8250: Je m'appelle Sobane, et j'aiguise mes couteaux.${prompt}
   8251: '${entity: 0}${prompt}'
-  8252: Face right!${prompt}
-  8253: Face left!${prompt}
-  8254: Calling roll! Numbers!${prompt}
-  8255: One!${prompt}
-  8256: Two!${prompt}
-  8257: Three!${prompt}
-  8258: Four!${prompt}
-  8259: Five!${prompt}
-  8260: Six!${prompt}
-  8261: Seven!${prompt}
-  8262: E-eight!${prompt}
-  8263: You're late, number eight!${prompt}
-  8264: Eight! What are you doing?${prompt}
-  8265: Eight!! Don't make me angry!${prompt}
-  8266: We can't defend the city like this!${prompt}
-  8267: Once more, you maggots!${prompt}
-  8268: One!${prompt}
-  8269: Two!${prompt}
-  8270: That's enough!${prompt}
+  8252: Faites face à droite !${prompt}
+  8253: Faites face à gauche !${prompt}
+  8254: Appel ! Numéros !${prompt}
+  8255: Un !${prompt}
+  8256: Deux !${prompt}
+  8257: Trois !${prompt}
+  8258: Quatre !${prompt}
+  8259: Cinq !${prompt}
+  8260: Six !${prompt}
+  8261: Sept !${prompt}
+  8262: H-huit !${prompt}
+  8263: Tu es en retard, numéro huit !${prompt}
+  8264: Huit ! Que fais-tu ?${prompt}
+  8265: Huit !! Ne me mets pas en colère !${prompt}
+  8266: Nous ne pouvons pas défendre la ville comme ça !${prompt}
+  8267: Encore une fois, bande de vermisseaux !${prompt}
+  8268: Un !${prompt}
+  8269: Deux !${prompt}
+  8270: C'est assez !${prompt}
   8271: |-
-    What now?
+    Et maintenant ?
     ${selection-lines}
-    Go.
-    Stay.${prompt}
-  8272: You want to go to Bastok?${prompt}
-  8273: All right! Back to the drills!${prompt}
-  8274: If you want to return to Bastok, speak to the Galka in front of Victory Arch.${prompt}
-  8275: Nothing to report...as usual. Although I suppose having nothing to report is a good thing.${prompt}
-  8276: It is quite a far cry from the days when our kingdom was under siege by the Orcish Bloodwing Horde led by the merciless Doggvdegg.${prompt}
-  8277: I still get weak in the knees when I recall the thunderous din raised by the footsteps of Doggvdegg's mighty bugard mount.${prompt}
-  8278: Well? What's the situation?${prompt}
-  8279: Currently all is well at Victory Arch!${prompt}
-  8280: I am on patrol.${prompt}
-  8281: Who are you!? Don't interrupt us!${prompt}
-  8282: (★Finished zoning!${prompt}
+    Partir.
+    Rester.${prompt}
+  8272: Vous voulez aller à Bastok ?${prompt}
+  8273: Très bien ! Retour aux exercices !${prompt}
+  8274: Si vous voulez retourner à Bastok, parlez au Galka devant l'Arc de la Victoire.${prompt}
+  8275: Rien à signaler... comme d'habitude. Bien que je suppose que ne rien signaler soit une bonne chose.${prompt}
+  8276: C'est bien loin des jours où notre royaume était assiégé par la Horde Orc Bloodwing dirigée par le cruel Doggvdegg.${prompt}
+  8277: J'ai encore des frissons quand je me rappelle du fracas assourdissant des pas du puissant bugard de Doggvdegg.${prompt}
+  8278: Alors ? Quelle est la situation ?${prompt}
+  8279: Actuellement, tout va bien à l'Arc de la Victoire !${prompt}
+  8280: Je suis en patrouille.${prompt}
+  8281: Qui êtes-vous !? Ne nous interrompez pas !${prompt}
+  8282: (★Fin de la zone !${prompt}
   8283: （★凱旋門前に戻ったよ）${prompt}
-  8284: By order of the king, none may pass. Begone!${prompt}
+  8284: Par ordre du roi, personne ne peut passer. Disparaissez !${prompt}
   8285: トレース０${prompt}
   8286: トレース１${prompt}
   8287: トレース２${prompt}
@@ -19429,8 +19427,8 @@ entries:
   8300: －－－ダボイ村完了－－－${prompt}
   8301: －－－他国を回れ完了－－－${prompt}
   8302: フラグをリセットしました……。${prompt}
-  8303: Out...of...my way.${prompt}
-  8304: Well, you've got quite a burden. Come back when you're lightened your purse.${prompt}
+  8303: De...mon...chemin.${prompt}
+  8304: Eh bien, vous avez un fardeau assez lourd. Revenez quand vous aurez allégé votre bourse.${prompt}
   8305: |-
     【デバッグ】
     あんた、サンドリアの人だな。${prompt}
@@ -19463,44 +19461,46 @@ entries:
     NUM0＝${number: 0}　NUM1＝${number: 1}　NUM2＝${number: 2}
     NUM3＝${number: 3}　NUM4＝${number: 4}　NUM5＝${number: 5}
     NUM6＝${number: 6}　NUM7＝${number: 7}${prompt}
-  8324: Error from client.${prompt}
-  8325: Hmm... Now where did I put it?${prompt}
-  8326: Oh, I'm sorry. I'm looking for something. Come back later.${prompt}
-  8327: I'm sorry, but that's all for today. Someone stole my dagger.${prompt}
-  8328: I'm Luthiaque. I travel hither and thither, bringing entertainment everywhere!${prompt}
-  8329: Juggling is my specialty, but not mere balls or dishes... No, I juggle daggers!${prompt}
-  8330: Did you bring me my dagger?${prompt}
+  8324: Erreur du client.${prompt}
+  8325: Hmm... Où est-ce que je l'ai mis ?${prompt}
+  8326: Oh, je suis désolé. Je cherche quelque chose. Revenez plus tard.${prompt}
+  8327: Je suis désolé, mais c'est tout pour aujourd'hui. Quelqu'un a volé ma dague.${prompt}
+  8328: Je suis Luthiaque. Je voyage ici et là, apportant du divertissement partout !${prompt} 
+  8329: La jonglerie est ma spécialité, mais pas seulement avec des balles ou des assiettes... Non, je jongle avec des dagues !${prompt}
+  8330: M'as-tu apporté ma dague ?${prompt}
   8331: |-
-    Well, did you?
+    Eh bien, l'as-tu ?
     ${selection-lines}
-    Yes, I did.
-    No, not yet.${prompt}
-  8332: This is just the one! Thank you so much!${prompt}
+    Oui, je l'ai.
+    Non, pas encore.${prompt}
+  8332: C'est bien celle-ci ! Merci beaucoup !${prompt}
   8333: Oh...${prompt}
-  8334: We was came to see him a performance, but I don't know when he'll be starting.${prompt}
-  8335: We've waited an eternity. How long is that performer going to take?${prompt}
-  8336: Say, would you...? Oh, it's nothing.${prompt}
-  8337: Of course I... Oh, never mind.${prompt}
-  8338: (...Yeah, that's what I said!)${prompt}
-  8339: (But you know what? Oh, wait. Hold on...)${prompt}
-  8340: I'm sorry, can I help you?${prompt}
-  8341: '${color-alt: 15}${name-player} points to the item in ${name-npc}''s hand.'
-  8342: 'Oh, this? It''s a magical shell called ${article} ${item-article: 1[2]}.${prompt}'
+  8334: Nous sommes venus pour voir une représentation, mais je ne sais pas quand il va commencer.${prompt}
+  8335: Nous avons attendu une éternité. Combien de temps ce performer va-t-il prendre ?${prompt}
+  8336: Dis, pourrais-tu... Oh, ce n'est rien.${prompt}
+  8337: Bien sûr que je... Oh, laisse tomber.${prompt}
+  8338: (...Ouais, c'est ce que j'ai dit !)${prompt}
+  8339: (Mais tu sais quoi ? Oh, attends. Attends...)${prompt}
+  8340: Je suis désolé, puis-je vous aider ?${prompt}
+  8341: '${color-alt: 15}${name-player} montre l’objet dans la main de ${name-npc}.'
+  8342: 'Oh, ça ? C’est une coquille magique appelée ${article} ${item-article: 1[2]}.${prompt}'
   8343: |-
-    You want to know about ${item-plural: 1[2]}?
-    Let me tell you all about them!${prompt}
+    Tu veux en savoir plus sur les ${item-plural: 1[2]} ?
+    Laisse-moi tout te raconter à leur sujet !${prompt}
   8344: |-
-    What do you want to ask?
+    Que veux-tu demander ?
     ${selection-lines}
-    What's ${article} ${item-article: 1[2]}?
-    What types of ${item-plural: 1[2]} are there?
-    How do you use them?
-    Never mind.${prompt}
+    Qu'est-ce qu'un(e) ${item-article: 1[2]} ?
+    Quels sont les types de ${item-plural: 1[2]} qui existent ?
+    Comment les utilise-t-on ?
+    Laisse tomber.${prompt}
   8345: Ces coquillages magiques sont pleins de mystères...${prompt}
-  8346: Vous pouvez en obtenir de magnifiques perles.
-        Certains disent qu'il s'agit d'une nouvelle forme de coquilles de coquillages, mais...${prompt}
-  8347: Même si vous retirez une perle, elles en fabriquent de plus en plus.
-        Étrange, n'est-ce pas ?${prompt}
+  8346: |-
+    Vous pouvez en obtenir de magnifiques perles.
+    Certains disent qu'il s'agit d'une nouvelle forme de coquilles de coquillages, mais...${prompt}
+  8347: |-
+    Même si vous retirez une perle, elles en fabriquent de plus en plus.
+    Étrange, n'est-ce pas ?${prompt}
   8348: Ce qui est encore plus étrange, c'est que les perles prélevées sur la même coquille transmettent réellement le son, peu importe la distance qui les sépare !${prompt}
   8349: Ainsi, si vous parlez dans l'une des perles, les personnes qui tiennent d'autres perles ou la coquille dont elles sont issues peuvent vous entendre !${prompt}
   8350: C'est comme s'ils étaient liés par un fil invisible... Huh. Je suppose que c'est pourquoi ils ont "lien" dans leur nom.${prompt}
@@ -19762,11 +19762,17 @@ entries:
   8523: Chaque région comprend plusieurs zones, et la nation qui élimine le plus de monstres dans ces zones prend le contrôle de la région.${prompt}
   8524: Les nations reçoivent des biens et des ressources des régions sous leur contrôle.${prompt}
   8525: Ainsi, plus nous contrôlons de régions, plus notre nation devient riche.${prompt}
-  8526: Des gardes-frontières sont également placés dans des avant-postes situés dans les régions sous notre contrôle. Ils sont là pour lancer le Sceau sur des aventuriers comme vous.${prompt}
+  8526: |-
+    Des gardes-frontières sont également placés dans des avant-postes situés dans les régions sous notre contrôle. 
+    Ils sont là pour lancer le Sceau sur des aventuriers comme vous.${prompt}
   8527: Une fois que vous avez le Sceau de votre nation, vous pourrez obtenir des cristaux des ennemis que vous vaincrez.${prompt}
   8528: Non seulement cela, mais vous recevrez également des points de conquête. Vous obtenez plus de points de conquête si vous vainquez des ennemis dans des régions qui ne sont pas sous le contrôle de votre nation. Ces points peuvent être utilisés pour acheter des objets auprès de gardes comme moi.${prompt}
-  8529: Vous comprenez donc... les conquêtes bénéficient aux nations et aux aventuriers. Nous attendons de vous que vous fassiez de votre mieux pour servir votre pays.${prompt}
-  8530: Vous pouvez consulter l'état actuel des conquêtes en sélectionnant "Infos région" dans le menu principal. Les résultats des conquêtes dans toutes les régions sont régulièrement recalculés, donc vous voudrez peut-être les vérifier de temps en temps.${prompt}
+  8529: |-
+    Vous comprenez donc... les conquêtes bénéficient aux nations et aux aventuriers. 
+    Nous attendons de vous que vous fassiez de votre mieux pour servir votre pays.${prompt}
+  8530: |-
+    Vous pouvez consulter l'état actuel des conquêtes en sélectionnant "Infos région" dans le menu principal. 
+    Les résultats des conquêtes dans toutes les régions sont régulièrement recalculés, donc vous voudrez peut-être les vérifier de temps en temps.${prompt}
   8531: |-
     Les boutiques de notre ville vendront différents objets en fonction de notre rang de conquête.
     La troupe Valeriano se rendra également dans la nation qui arrive en tête et apportera un peu de joie à ses citoyens.${prompt}
@@ -21040,201 +21046,201 @@ entries:
     ${selection-lines}
     Open and examine.
     Leave it be.${prompt}
-  9165: Father!${prompt}
-  9166: What is it, Ailbeche?${prompt}
-  9167: You're leaving on an expedition, right? Vilbert just left. Here's a sword. Now you can go, too.${prompt}
-  9168: Expedition? What do you mean? Anyway, such a sword's no use to me.${prompt}
-  9169: But, Father! Mother cleaned this sword every night! How could you have forgotten? It took me forever to remove the rust that has built up from your neglect!${prompt}
-  9170: What?${prompt}
-  9171: Oh, never mind!${prompt}
+  9165: Père !${prompt}
+  9166: Qu'est-ce, Ailbeche ?${prompt}
+  9167: Vous partez en expédition, n'est-ce pas ? Vilbert est déjà parti. Voici une épée. Maintenant, vous pouvez y aller aussi.${prompt}
+  9168: Expédition ? Que voulez-vous dire ? Quoi qu'il en soit, une telle épée ne me sera d'aucune utilité.${prompt}
+  9169: Mais, Père ! Maman nettoyait cette épée chaque nuit ! Comment avez-vous pu oublier ? Il m'a fallu une éternité pour enlever la rouille accumulée par votre négligence !${prompt}
+  9170: Quoi ?${prompt}
+  9171: Oh, laissez tomber !${prompt}
   9172: Ailbeche...${prompt}
-  9173: What was he so excited about? Besides, my division is on standby. And where could Vilbert be heading?${prompt}
-  9174: What, you want me to tell you about that paper? It's a special form my division uses for messages. The words are unseen, but they're there.${prompt}
-  9175: We no longer use it, so let me tell you how it works.${prompt}
-  9176: In Davoi there is a well that Orcs use. Dip the paper into its water and the writing will reappear.${prompt}
-  9177: Long ago we used to keep the water in our inkwells to use when reading the messages, but now even mine is dry. Take this one to the well if you must read it.${prompt}
-  9178: It says what? I would believe you, but I cannot.${prompt}
-  9179: Oh, confound it! In my heart I wondered if he hadn't stumbled onto something too big for him. So, my fears were true...${prompt}
-  9180: If only that fool would've let us know, and not kept his problems bottled up inside.${prompt}
-  9181: At least now I know that something had happened to him. For that, I thank you.${prompt}
-  9182: It broke my heart to learn about him, but now I know the truth. You'll always have my gratitude.${prompt}
-  9183: Thank you for your help. I must inform Prince Trion of this unfortunate turn of events. I am summarizing my report now.${prompt}
-  9184: Currently I am suggesting we sell all the weapons we purchased so far, but it's a pity we have to sell low what we bought high. Now I know how you adventurers must feel.${prompt}
-  9185: My son and I are going fishing. I keep wanting to take the best pole for myself, but I am not who I once was. We will catch a big one with the same pole!${prompt}
-  9186: Oh, you're back. Well, if you're so happy you defeated an Orc or two, you've a long way ahead of you!${prompt}
-  9187: For one so new, I'd be... Hmm?${prompt}
-  9188: Lord knight, forgive this interruption, but there is something I must ask of you.${prompt}
-  9189: I question whether Queen Leaute truly passed away fifteen years past. Tell me, of what cause did she die?${prompt}
-  9190: Who are you, and why do you pry with such inquiries?${prompt}
-  9191: Please, I have traveled from afar to see Her Highness!${prompt}
-  9192: You've what!?${prompt}
-  9193: Very well. Listen closely. Fifteen years ago, Queen Leaute fell to a rare sickness. She left this world before we could save her.${prompt}
-  9194: Ah, so an illness claimed her life.${prompt}
-  9195: Well, it's none of your concern at any rate. Even if she lived, an adventurer like you could never see her, much less the inside of Chateau d'Oraguille.${prompt}
-  9196: Er...${prompt}
-  9197: What was the name of her illness?${prompt}
-  9198: We are not told such things. Only the royal family would know.${prompt}
-  9199: Is that so? Well, I thank you for your kindness, proud knight of San d'Oria.${prompt}
-  9200: Hey, wait!${prompt}
-  9201: What was the matter with that adventurer? He was awfully stubborn, wasn't he?${prompt}
-  9202: He seemed to know the late queen personally, but how could he not be aware of her death?${prompt}
-  9203: At any rate, your work is done. Excellent form, my friend!${prompt}
-  9204: What, you want the mission from rank one again?${prompt}
-  9205: 'I knew you''d return safely, and with the ${item-singular: 3[2]}. Mission completed!${prompt}'
-  9206: Have you ever set foot into King Ranperre's Tomb?${prompt}
-  9207: Two hundred years ago, the curtain fell on the golden age of San d'Oria. Civil war erupted over the Kingdom's hegemony.${prompt}
-  9208: King Ranperre was there to extinguish the conflict. When he died he was interred in a great tomb south of East Ronfaure.${prompt}
-  9209: But unknown hands have defiled his grave of late.${prompt}
-  9210: Visitors report missing gravestones and shadows twisting in the caverns. Ravaging a royal tomb is an unforgivable crime!${prompt}
-  9211: Your orders are to investigate the tomb and determine if there is any truth to what they say. Do you understand?${prompt}
+  9173: De quoi était-il si excité ? De plus, ma division est en attente. Et où Vilbert pourrait-il partir ?${prompt}
+  9174: Quoi, vous voulez que je vous parle de ce papier ? C'est un formulaire spécial que ma division utilise pour les messages. Les mots ne sont pas visibles, mais ils sont là.${prompt}
+  9175: Nous ne l'utilisons plus, donc laissez-moi vous expliquer comment ça fonctionne.${prompt}
+  9176: À Davoi, il y a un puits que les Orcs utilisent. Plongez le papier dans son eau et l'écriture réapparaîtra.${prompt}
+  9177: Autrefois, nous gardions l'eau dans nos encriers pour l'utiliser lors de la lecture des messages, mais maintenant même le mien est sec. Prenez celui-ci au puits si vous devez le lire.${prompt}
+  9178: Il dit quoi ? Je vous croirais, mais je ne peux pas.${prompt}
+  9179: Oh, que le diable l'emporte ! Dans mon cœur, je me demandais s'il n'avait pas découvert quelque chose de trop gros pour lui. Donc, mes craintes étaient vraies...${prompt}
+  9180: Si seulement ce fou nous avait informés, et n'avait pas gardé ses problèmes enfouis en lui.${prompt}
+  9181: Au moins, maintenant je sais qu'il lui est arrivé quelque chose. Pour cela, je vous remercie.${prompt}
+  9182: Cela m'a brisé le cœur d'apprendre à son sujet, mais maintenant je connais la vérité. Vous aurez toujours ma gratitude.${prompt}
+  9183: Merci pour votre aide. Je dois informer le prince Trion de ce triste événement. Je résume actuellement mon rapport.${prompt}
+  9184: Actuellement, je suggère de vendre toutes les armes que nous avons achetées jusqu'à présent, mais c'est dommage de devoir vendre bas ce que nous avons acheté haut. Maintenant, je sais ce que vous, aventuriers, devez ressentir.${prompt}
+  9185: Mon fils et moi allons pêcher. J’ai toujours envie de prendre la meilleure canne pour moi-même, mais je ne suis plus celui que j’étais. Nous attraperons un gros poisson avec la même canne !${prompt}
+  9186: Oh, vous êtes de retour. Eh bien, si vous êtes si heureux d'avoir vaincu un ou deux Orcs, vous avez encore du chemin à parcourir !${prompt}
+  9187: Pour quelqu'un de si nouveau, je serais... Hmm ?${prompt}
+  9188: Seigneur chevalier, pardonnez cette interruption, mais il y a quelque chose que je dois vous demander.${prompt}
+  9189: Je me demande si la reine Leaute est vraiment décédée il y a quinze ans. Dites-moi, de quelle cause est-elle décédée ?${prompt}
+  9190: Qui êtes-vous, et pourquoi fouillez-vous avec de telles questions ?${prompt}
+  9191: S'il vous plaît, je suis venu de loin pour voir Son Altesse !${prompt}
+  9192: Vous avez quoi !?${prompt}
+  9193: Très bien. Écoutez attentivement. Il y a quinze ans, la reine Leaute a succombé à une maladie rare. Elle a quitté ce monde avant que nous puissions la sauver.${prompt}
+  9194: Ah, donc une maladie a emporté sa vie.${prompt}
+  9195: Eh bien, cela ne vous concerne en rien de toute façon. Même si elle avait vécu, un aventurier comme vous ne pourrait jamais la voir, encore moins l'intérieur du Château d'Oraguille.${prompt}
+  9196: Euh...${prompt}
+  9197: Quel était le nom de sa maladie ?${prompt}
+  9198: On ne nous dit pas de telles choses. Seule la famille royale le saurait.${prompt}
+  9199: Est-ce ainsi ? Eh bien, je vous remercie pour votre gentillesse, fier chevalier de San d'Oria.${prompt}
+  9200: Hé, attendez !${prompt}
+  9201: Qu'est-ce qui n'allait pas avec cet aventurier ? Il était terriblement têtu, n'est-ce pas ?${prompt}
+  9202: Il semblait connaître personnellement la défunte reine, mais comment ne pouvait-il pas être au courant de sa mort ?${prompt}
+  9203: En tout cas, votre travail est terminé. Excellente prestation, mon ami !${prompt}
+  9204: Quoi, vous voulez la mission du rang un encore une fois ?${prompt}
+  9205: 'Je savais que vous reviendriez sain et sauf, et avec le ${item-singular: 3[2]}. Mission accomplie !${prompt}'
+  9206: Avez-vous déjà mis les pieds dans le Tombeau de King Ranperre ?${prompt}
+  9207: Il y a deux cents ans, le rideau est tombé sur l'âge d'or de San d'Oria. Une guerre civile a éclaté pour l'hégémonie du royaume.${prompt}
+  9208: Le roi Ranperre était là pour éteindre le conflit. Quand il est mort, il a été enterré dans un grand tombeau au sud de l'Est de Ronfaure.${prompt}
+  9209: Mais des mains inconnues ont récemment profané sa tombe.${prompt}
+  9210: Les visiteurs signalent des pierres tombales manquantes et des ombres se tordant dans les cavernes. Ravager une tombe royale est un crime impardonnable !${prompt}
+  9211: Vos ordres sont d'enquêter sur le tombeau et de déterminer s'il y a du vrai dans ce qu'ils disent. Avez-vous compris ?${prompt}
   9212: |-
-    Accept the mission?
+    Acceptez-vous la mission ?
     ${selection-lines}
-    I accept.
-    I do not accept.${prompt}
-  9213: I implore you to make haste to King Ranperre's Tomb. You may find proof of grave-robbers there.${prompt}
-  9214: But wander too deeply within, and Goblins might find you. Tread boldly, my friend, but do not go in over your head!${prompt}
-  9215: Visitors report missing gravestones and shadows twisting in the caverns. Scour the tomb and determine if they speak the truth.${prompt}
-  9216: Make haste to King Ranperre's Tomb. You may find proof of grave-robbers there.${prompt}
-  9217: Have you really searched the tomb?${prompt}
-  9218: So, you got this from bats in King Ranperre's Tomb?${prompt}
-  9219: You see, this actually belonged to an Orc. What could Orcs want with the tomb?${prompt}
-  9220: At any rate, your mission is over. Speak not a word of this to another.${prompt}
-  9221: Ah, the recruit's back again? I'm sorry, but I've no time for you today.${prompt}
-  9222: I know you came all this way, but I can't help you right now.${prompt}
-  9223: Oh, who am I fooling? Of course I could use your help!${prompt}
-  9224: Have you not heard? Orcs came and kidnapped some children! We think they're keeping them at their lair in Ghelsba.${prompt}
-  9225: Why, not long ago came ill news from the cathedral. A boy training to be a friar went near Ghelsba and did not return. His name was Tedimout.${prompt}
-  9226: The Royal Knights would march to his rescue, but Prince Trion is away in the north, and cannot give the order.${prompt}
-  9227: Prince Pieuje is in earnest deliberations over whether to send Temple Knights instead. It seems his efforts are focused upon saving the children, but...${prompt}
-  9228: But no matter. We need knowledge of the enemy. You must visit the cathedral and ask what this boy looks like.${prompt}
-  9229: A boy training to be a friar went near Ghelsba and did not return. His name was Tedimout.${prompt}
-  9230: The Temple Knights may be mobilized soon. You must visit the cathedral and ask what this boy looks like.${prompt}
-  9231: Prince Trion just informed me of your handiwork. You've done beautifully.${prompt}
-  9232: Due to your exemplary contribution, ${name-player}, San d'Oria hereby recognizes you as an adventurer of rank two.${prompt}
-  9233: But do not let it go to your head. This certificate is valid only in San d'Oria.${prompt}
-  9234: Work hard and better things will come, my friend. Someday your name will be known to our allies as well.${prompt}
-  9235: Oh, and one more thing. The vicasque of the cathedral said he wants to thank you on behalf of the boy.${prompt}
-  9236: You achieve rank two.${prompt}
-  9237: At any rate, you completed the mission well enough. Time for a reward!${prompt}
-  9238: I award you with rank points commensurate with your achievement.${prompt}
-  9239: Prince Trion ordered scouts from the Royal Knights to Davoi, while Prince Pieuje ordered scouts from the Temple Knights. It's like the right hand knows not what the left is doing!${prompt}
-  9240: Monarlais Halver is furious, but first he needs knowledge. You must find the scout from the Temple Knights, receive his scouting report, and return that report to the monarlais.${prompt}
-  9241: 'What? You were told to hand the ${keyitem-singular: 3[2]} to Prince Pieuje personally?${prompt}'
-  9242: Well, you should find His Highness in the cathedral.${prompt}
-  9243: 'You''ve come just at the right time! Prince Trion wants a word with you. It seems he heard of you when you received your ${keyitem-singular: 0[2]}.${prompt}'
-  9244: Head to the chambers of Prince Trion inside Chateau d'Oraguille as soon as you're presentable!${prompt}
-  9245: Prince Trion has called for you. Head to his chamber inside Chateau d'Oraguille as soon as you're presentable!${prompt}
-  9246: I know not what Prince Trion wanted you to do, but see it through to the end! Understand?${prompt}
-  9247: Hello there. Now's not the time for missions; Chateau d'Oraguille has been visited by bandits!${prompt}
-  9248: You must make haste to Chateau d'Oraguille! Find Lady Curilla, general of the Temple Knights!${prompt}
-  9249: Bandits infiltrating Chateau d'Oraguille is unprecedented in history! Make haste and see Lady Curilla, general of the Temple Knights!${prompt}
-  9250: 'What does one use to sharpen a knife? Why, have you never heard of ${keyitem-article: 0[2]}?${prompt}'
-  9251: 'In Ordelle''s Caves there lies a place with a hole above, where blows a cool breeze. There may you find ${keyitem-article: 0[2]}, which makes a blade cut meat like butter!${prompt}'
-  9252: ${choice-player-gender}[Sir/Lady] ${name-player}! There isn't a soul in the Kingdom that doesn't consider you a hero!${prompt}
-  9253: As a representative of the people of San d'Oria, I humbly ask you to continue your efforts for the good of the country. May the light of the Goddess shine upon you!${prompt}
-  9254: |-
-    Rahal has a letter for me to read, does he?
-    Too busy to come himself, hmm?
-    Well, let's see it...${prompt}
-  9255: Ah. This is the handwriting of Ancolain B Feulart, former second in command of the Royal Knights.${prompt}
-  9256: I was the one who relieved him of his command...${prompt}
-  9257: |-
-    Why are you doing this to me...?
-    Surely you must know of the many victories I have achieved for the glory of San d'Oria!${prompt}
-  9258: Yes, I am aware of them.${prompt}
-  9259: Then why?${prompt}
-  9260: |-
-    There is a quality that your blade lacks.
-    And that quality is sorrow. Rahal understands the sorrow in taking up his sword.${prompt}
-  9261: |-
-    Sorrow?
-    We are not composers of verse!
-    What use is sorrow to a warrior?${prompt}
-  9262: |-
-    And therein lies your arrogance.
-    There have been many instances of you ignoring the orders of your general and leading the knights on a path of your own choosing.${prompt}
-  9263: And haven't I always brought us to victory in doing so?${prompt}
-  9264: |-
-    At the cost of the lives of many of our men.
-    It is an oversight too dangerous for a commander of our forces to make.${prompt}
-  9265: |-
-    What...!
-    Ah, I understand.
-    You're saying that San d'Oria has no further use for me.${prompt}
-  9266: |-
-    You miss my point.
-    Once you have given consideration to my words, we can think about reinstating you to your position.${prompt}
-  9267: |-
-    No, I believe I will take my leave of the knights.
-    I will find a place where I am appreciated for who I am.
-    May you not regret your words here today, Sir Balasiel.${prompt}
-  9268: "So Ancolain has issued a challenge to the Royal Knights, has he? \nIt seems my words had no effect upon him...\nA pity.${prompt}"
-  9269: |-
-    You have a wyvern that responds to your call?
-    Your wyvern will be able to sense Ancolain's location from the shadow of the thoughts that still cling to the letter.
-    That's all the help that I can give you.${prompt}
-  9270: I'm glad they've run out of mulsum--it would completely ruin my diet!${prompt}
-  9271: |-
-    May I speak with you for a moment?
-    Oh...it seems you have other matters to attend to. Perhaps another time.${prompt}
-  9272: Next time I'm looking for an adventurer, you'll be first on my list.${prompt}
-  9273: May I speak with you for a moment about the ecology of Vana'diel?${prompt}
-  9274: |-
-    Are you interested?
-    ${selection-lines}
-    Of course!
-    Sounds fascinating, but...${prompt}
-  9275: Have you heard of Ordelle's Caves?${prompt}
-  9276: Yes, those beautiful natural formations that wind their way under the La Theine Plateau.${prompt}
-  9277: Are you aware that right now, a limestone-eating fiend is destroying the splendor of the caves with its voracious appetite?${prompt}
-  9278: We need the assistance of upstanding, environmentally conscious adventurers such as yourself in ridding the caves of this monster. Can we count on your cooperation?${prompt}
+    J'accepte.
+    Je n'accepte pas.${prompt}
+  9213: Je vous implore de vous rendre rapidement au tombeau du roi Ranperre. Vous pourriez y trouver la preuve de voleurs de tombes.${prompt} 
+  9214: Mais si vous vous aventurez trop profondément, les gobelins pourraient vous trouver. Marchez courageusement, mon ami, mais ne vous engagez pas trop loin !${prompt}
+  9215: Des visiteurs signalent des pierres tombales manquantes et des ombres se tordant dans les cavernes. Fouillez le tombeau et déterminez si ce qu'ils disent est vrai.${prompt}
+  9216: Dépêchez-vous au tombeau du roi Ranperre. Vous pourriez y trouver la preuve de voleurs de tombes.${prompt}
+  9217: Avez-vous vraiment fouillé le tombeau ?${prompt}
+  9218: Alors, vous avez obtenu cela des chauves-souris dans le tombeau du roi Ranperre ?${prompt}
+  9219: Voyez-vous, cela appartenait en réalité à un orc. Que pourraient vouloir les orcs avec le tombeau ?${prompt}
+  9220: Quoi qu'il en soit, votre mission est terminée. Ne dites un mot à personne.${prompt}
+  9221: Ah, le recrue est de retour ? Je suis désolé, mais je n'ai pas de temps pour vous aujourd'hui.${prompt}
+  9222: Je sais que vous êtes venu jusqu'ici, mais je ne peux pas vous aider pour l'instant.${prompt}
+  9223: Oh, à qui je veux faire croire ? Bien sûr que je pourrais utiliser votre aide !${prompt}
+  9224: N'avez-vous pas entendu ? Des orcs sont venus et ont kidnappé des enfants ! Nous pensons qu'ils les retiennent dans leur repaire à Ghelsba.${prompt}
+  9225: Eh bien, il y a peu de temps, de mauvaises nouvelles sont venues de la cathédrale. Un garçon en formation pour devenir un frère est allé près de Ghelsba et n'est pas revenu. Il s'appelait Tedimout.${prompt}
+  9226: Les Chevaliers Royaux partiraient à sa rescousse, mais le prince Trion est parti vers le nord et ne peut pas donner l'ordre.${prompt}
+  9227: Le prince Pieuje délibère sérieusement sur l'envoi de Chevaliers du Temple à la place. Il semble que ses efforts soient concentrés sur le sauvetage des enfants, mais...${prompt}
+  9228: Mais peu importe. Nous avons besoin de connaître l'ennemi. Vous devez visiter la cathédrale et demander à quoi ressemble ce garçon.${prompt}
+  9229: Un garçon en formation pour devenir un frère est allé près de Ghelsba et n'est pas revenu. Il s'appelait Tedimout.${prompt}
+  9230: Les Chevaliers du Temple pourraient être mobilisés bientôt. Vous devez visiter la cathédrale et demander à quoi ressemble ce garçon.${prompt}
+  9231: Le prince Trion vient de m'informer de votre travail. Vous avez fait un excellent travail.${prompt}
+  9232: Grâce à votre contribution exemplaire, ${name-player}, San d'Oria vous reconnaît désormais comme un aventurier de rang deux.${prompt}
+  9233: Mais ne laissez pas cela vous monter à la tête. Ce certificat n'est valable qu'à San d'Oria.${prompt}
+  9234: Travaillez dur et de meilleures choses viendront, mon ami. Un jour, votre nom sera connu également de nos alliés.${prompt}
+  9235: Oh, et une dernière chose. Le vicaire de la cathédrale a dit qu'il voulait vous remercier au nom du garçon.${prompt}
+  9236: Vous avez atteint le rang deux.${prompt}
+  9237: En tout cas, vous avez bien accompli la mission. Il est temps pour une récompense !${prompt}
+  9238: Je vous accorde des points de rang proportionnels à votre réussite.${prompt}
+  9239: Le prince Trion a ordonné l'envoi d'éclaireurs des Chevaliers Royaux à Davoi, tandis que le prince Pieuje a ordonné l'envoi d'éclaireurs des Chevaliers du Temple. C'est comme si la main droite ne savait pas ce que fait la main gauche !${prompt}
+  9240: Monarlais Halver est furieux, mais d'abord il a besoin de savoir. Vous devez trouver l'éclaireur des Chevaliers du Temple, recevoir son rapport d'exploration et rapporter ce rapport au monarlais.${prompt}
+  9241: 'Quoi ? On vous a dit de remettre les ${keyitem-singular: 3[2]} au prince Pieuje en personne ?${prompt}'
+  9242: Eh bien, vous devriez trouver Son Altesse dans la cathédrale.${prompt}
+  9243: 'Vous êtes arrivé juste à temps ! Le prince Trion veut vous parler. Il semble qu’il ait entendu parler de vous lorsque vous avez reçu votre ${keyitem-singular: 0[2]}.${prompt}'
+  9244: Rendez-vous dans les appartements du prince Trion à l'intérieur du Château d'Oraguille dès que vous serez présentable !${prompt}
+  9245: Le prince Trion vous a appelé. Rendez-vous dans sa chambre à l'intérieur du Château d'Oraguille dès que vous serez présentable !${prompt}
+  9246: Je ne sais pas ce que le prince Trion voulait que vous fassiez, mais menez-le à bien ! Vous comprenez ?${prompt}
+  9247: Bonjour. Ce n'est pas le moment pour des missions ; le Château d'Oraguille a été visité par des bandits !${prompt}
+  9248: Vous devez vous rendre au Château d'Oraguille au plus vite ! Trouvez Lady Curilla, général des Chevaliers du Temple !${prompt}
+  9249: L'infiltration de bandits au Château d'Oraguille est sans précédent dans l'histoire ! Dépêchez-vous et voyez Lady Curilla, général des Chevaliers du Temple !${prompt}
+  9250: 'Avec quoi a-t-on l’habitude d’affûter un couteau ? Comment ? Vous n’avez jamais entendu parler de ${keyitem-article: 0[2]} ?${prompt}'
+  9251: 'Dans les Cavernes d’Ordelle, il y a un endroit avec un trou au-dessus, où souffle une brise fraîche. Là, vous pouvez trouver ${keyitem-article: 0[2]}, qui rend la lame coupante comme du beurre !${prompt}'
+  9252: ${choice-player-gender}[Monsieur/Madame] ${name-player} ! Il n'y a pas une seule âme dans le Royaume qui ne vous considère pas comme un héros !${prompt}
+  9253: En tant que représentant du peuple de San d'Oria, je vous demande humblement de continuer vos efforts pour le bien du pays. Que la lumière de la Déesse brille sur vous !${prompt}
+  9254: |- 
+    Rahal a une lettre pour moi à lire, n'est-ce pas ?
+    Trop occupé pour venir lui-même, hmm ?
+    Bien, voyons cela...${prompt}
+  9255: Ah. C'est l'écriture d'Ancolain B Feulart, ancien second commandant des Chevaliers Royaux.${prompt}
+  9256: C'est moi qui l'ai destitué de son commandement...${prompt}
+  9257: |- 
+    Pourquoi me fais-tu cela...?${prompt}
+    Tu dois sûrement être au courant des nombreuses victoires que j'ai remportées pour la gloire de San d'Oria !${prompt}
+  9258: Oui, j'en suis conscient.${prompt}${prompt}
+  9259: Alors pourquoi ?${prompt}
+  9260: |- 
+    Il y a une qualité que votre lame n'a pas.${prompt}
+    Et cette qualité est la tristesse. Rahal comprend la tristesse en prenant son épée.${prompt}
+  9261: |- 
+    La tristesse ?${prompt}
+    Nous ne sommes pas des compositeurs de vers !
+    À quoi sert la tristesse à un guerrier ?${prompt}
+  9262: |- 
+    Et c'est là votre arrogance.
+    Il y a eu de nombreuses occasions où vous avez ignoré les ordres de votre général et mené les chevaliers sur un chemin de votre choix.${prompt}
+  9263: Et n'ai-je pas toujours mené à la victoire en le faisant ?${prompt}
+  9264: |- 
+     Au prix de la vie de nombreux de nos hommes.
+     C'est une négligence trop dangereuse pour un commandant de nos forces.${prompt}
+  9265: |- 
+     Quoi...!
+     Ah, je comprends.
+     Vous dites que San d'Oria n'a plus besoin de moi.${prompt}
+  9266: |- 
+     Vous ne comprenez pas mon propos.
+     Une fois que vous avez pris en considération mes paroles, nous pouvons envisager de vous réintégrer à votre poste.${prompt}
+  9267: |- 
+     Non, je crois que je vais prendre congé des chevaliers.
+     Je trouverai un endroit où l'on m'apprécie pour ce que je suis.
+     Puissiez-vous ne pas regretter vos paroles d'aujourd'hui, Sir Balasiel.${prompt}
+  9268: Ancolain a donc lancé un défi aux chevaliers royaux, n'est-ce pas ? \nIl semble que mes paroles n'aient eu aucun effet sur lui...\n Dommage.${prompt}
+  9269: |- 
+     Avez-vous un wyverne qui répond à votre appel ?
+     Votre wyverne pourra sentir la localisation d'Ancolain à partir de l'ombre des pensées qui persistent encore sur la lettre.
+     C'est toute l'aide que je peux vous donner.${prompt}
+  9270: Je suis content qu'ils aient épuisé le mulsum, cela gâcherait complètement mon régime !${prompt}
+  9271: |- 
+     Puis-je vous parler un instant ?
+     Oh... il semble que vous ayez d'autres affaires à régler. Peut-être une autre fois.${prompt}
+  9272: La prochaine fois que je chercherai un aventurier, vous serez le premier sur ma liste.${prompt}
+  9273: Puis-je vous parler un instant de l'écologie de Vana'diel ?${prompt}
+  9274: |- 
+     Êtes-vous intéressé ?
+     ${selection-lines}
+     Bien sûr !
+     Ça a l'air fascinant, mais...${prompt}
+  9275: Avez-vous entendu parler des Cavernes d'Ordelle ?${prompt}
+  9276: Oui, ces belles formations naturelles qui serpentent sous le Plateau de La Thène.${prompt}
+  9277: Êtes-vous au courant qu'en ce moment même, une créature mangeuse de calcaire détruit la splendeur des grottes avec son appétit vorace ?${prompt}
+  9278: Nous avons besoin de l'aide d'aventuriers intègres et soucieux de l'environnement comme vous pour débarrasser les grottes de ce monstre. Pouvons-nous compter sur votre coopération ?${prompt}
   9279: |-
-    Take on the task?
-    ${selection-lines}
-    You can count on me!
-    I have to clean my Mog House...${prompt}
+     Accepter la tâche ?
+     ${selection-lines}
+     Vous pouvez compter sur moi !
+     Je dois nettoyer ma Mog House...${prompt}
   9280: |-
-    I knew you'd come through for us!
-    Bring me proof that you've defeated the creature, and I'll pay you a reward from the Vana'diel Environmental Resource Management Initiative Network fund.${prompt}
-  9281: Rojaireaut, our V.E.R.M.I.N. agent in the field, will be waiting for you in the caves. Come back safe, now!${prompt}
-  9282: I see... Well, I suppose I must ask another citizen for help.${prompt}
-  9283: Rojaireaut, our V.E.R.M.I.N. agent in the field, will be waiting with further instructions in the caves.${prompt}
+     Je savais que vous seriez là pour nous !
+     Apportez-moi la preuve que vous avez vaincu la créature, et je vous verserai une récompense du fonds du Réseau d'Initiative de Gestion Environnementale de Vana'diel.${prompt}
+  9281: Rojaireaut, notre agent V.E.R.M.I.N. sur le terrain, vous attendra dans les grottes. Revenez en sécurité !${prompt}
+  9282: Je vois... Eh bien, je suppose que je dois demander de l'aide à un autre citoyen.${prompt}
+  9283: Rojaireaut, notre agent V.E.R.M.I.N. sur le terrain, vous attendra avec d'autres instructions dans les grottes.${prompt}
   9284: |-
-    You've brought me ${keyitem-article: 0[2]} from the vanquished fiend?
-    Wonderful! I knew you could do it! Here's your reward, as promised.${prompt}
+      Vous m'avez apporté ${keyitem-article: 0[2]} de la créature vaincue ?
+      Merveilleux ! Je savais que vous en étiez capable ! Voici votre récompense, comme promis.${prompt}
   9285: DEBUG:このクエストを受けました。${prompt}
   9286: DEBUG:このクエストを断りました。${prompt}
   9287: |-
-    Rochefogne!
-    Where have you gone, Rochefogne? San d'Oria needs you!${prompt}
-  9288: You there! Have you seen Rochefogne?${prompt}
-  9289: I apologize, Your Highness. I have not seen the man you seek.${prompt}
+      Rochefogne !
+      Où es-tu parti, Rochefogne ? San d'Oria a besoin de toi !${prompt}
+  9288: Toi là-bas ! As-tu vu Rochefogne ?${prompt}
+  9289: Je m'excuse, Votre Altesse. Je n'ai pas vu l'homme que vous cherchez. ${prompt}
   9290: |-
-    Where could he have gone...?
-    His wounds are still fresh. He requires more rest.${prompt}
-  9291: Leaute, my sister. If you could only be here today... How proud you would be of your children. May you rest in peace knowing that.${prompt}
-  9292: Now I must be on my way. I have no right to remain here in your kingdom.${prompt}
-  9293: Ah, ${name-player}. I may be leaving San d'Oria, but this is not the end of my travels. No, it is just the beginning. The same is true for you, is it not?${prompt}
-  9294: I have a feeling our paths may cross again one day. May we pray that when that day comes, San d'Oria will have regained the luster that it once had.${prompt}
-  9295: One day far in the future, historians will look back on this moment as the end of a chapter in San d'Orian history.${prompt}
-  9296: '...A chapter filled with blood, deceit, and chaos.${prompt}'
-  9297: However, those historians will never know that the tale they describe would never have transpired, were it not for the deeds of one brave adventurer. It is often said that the greatest heroes are the ones who remain unknown.${prompt}
-  9298: But who knows what the future holds for ${name-player}?${prompt}
-  9299: Perhaps the pages of the next chapter will be graced with ${choice-player-gender}[his/her] name.${prompt}
-  9300: But that is another story...${prompt}
-  9301: What can be said is this:${prompt}
-  9302: Even if one day Vana'diel were to vanish from the universe as we know it...${prompt}
-  9303: The trials you endured in San d'Oria--the pain, the anger, the tears, and the laughter...${prompt}
-  9304: Those memories will forever remain in your heart and never fade...${prompt}
-  9305: Until the end...${prompt}
-  9306: The end of time...${prompt}
-  9307: Ah, you look as if you have spent many a day with a polearm by your side. Long I have been waiting for an adventurer of your caliber.${prompt}
-  9308: Prince Trion has entrusted me with an important task. Let me explain...${prompt}
-  9309: While there is not an army in all of Vana'diel that can match the swordsmanship of the San d'Orian knights, our ranks still lack training in polearm techniques. This lack in skill restricts our versatility in battle.${prompt}
-  9310: Back in the age when the Dragon King ruled the land, even the captain of the Royal Knights, Erpalacion, was a master with the spear. However, with the decline in the number of dragoons, the techniques that those great men used have all but been lost.${prompt}
-  9311: To deal with this looming problem, the prince has asked me to construct a set of guidelines in mastering the art of the polearm.${prompt}
-  9312: That is where you come in. I would like you to assist me in testing the new guidelines I have come up with.${prompt}
+      Où pourrait-il bien être... ?
+      Ses blessures sont encore fraîches. Il a besoin de plus de repos.${prompt}
+  9291: Leaute, ma sœur. Si seulement tu pouvais être ici aujourd'hui... Comme tu serais fière de tes enfants. Puisses-tu reposer en paix en sachant cela.${prompt}
+  9292: Maintenant, je dois partir. Je n'ai pas le droit de rester ici dans votre royaume.${prompt}
+  9293: Ah, ${name-player}. Je pourrais quitter San d'Oria, mais ce n'est pas la fin de mes voyages. Non, c'est juste le début. Il en va de même pour toi, n'est-ce pas ?${prompt}
+  9294: J'ai le sentiment que nos chemins se croiseront à nouveau un jour. Prions pour que ce jour-là, San d'Oria ait retrouvé l'éclat qu'elle avait autrefois.${prompt}
+  9295: Un jour, dans un avenir lointain, les historiens regarderont en arrière sur ce moment comme la fin d'un chapitre de l'histoire de San d'Oria.${prompt}
+  9296: '...Un chapitre rempli de sang, de tromperie et de chaos.${prompt}'
+  9297: Cependant, ces historiens ne sauront jamais que le récit qu'ils décrivent n'aurait jamais eu lieu si ce n'était pour les actes d'un courageux aventurier. On dit souvent que les plus grands héros sont ceux qui restent inconnus.${prompt}
+  9298: Mais qui sait ce que l'avenir réserve à ${name-player} ?${prompt}
+  9299: Peut-être que les pages du prochain chapitre seront gracieuses avec le nom ${choice-player-gender}[de son/her] nom.${prompt}
+  9300: Mais c'est une autre histoire...${prompt}
+  9301: Ce qui peut être dit, c'est ceci:${prompt}
+  9302: Même si un jour Vana'diel disparaissait de l'univers tel que nous le connaissons...${prompt}
+  9303: Les épreuves que vous avez endurées à San d'Oria - la douleur, la colère, les larmes et le rire...${prompt}
+  9304: Ces souvenirs resteront à jamais dans votre cœur et ne s'effaceront jamais...${prompt}
+  9305: Jusqu'à la fin...${prompt}
+  9306: La fin des temps...${prompt}
+  9307: Ah, tu as l'air d'avoir passé de nombreux jours avec une arme d'hast à tes côtés. Depuis longtemps, j'attends un aventurier de ton calibre.${prompt}$
+  9308: Le Prince Trion m'a confié une tâche importante. Laissez-moi vous expliquer...${prompt}
+  9309: Bien qu'il n'y ait pas d'armée dans tout Vana'diel qui puisse égaler l'escrime des chevaliers de San d'Oria, nos rangs manquent encore de formation dans les techniques de la hallebarde. Ce manque de compétence limite notre polyvalence au combat.${prompt}
+  9310: À l'époque où le Roi Dragon régnait sur la terre, même le capitaine des Chevaliers Royaux, Erpalacion, était un maître de la lance. Cependant, avec le déclin du nombre de dragoon, les techniques utilisées par ces grands hommes ont pratiquement été perdues.${prompt}
+  9311: Pour faire face à ce problème imminent, le prince m'a demandé de construire un ensemble de lignes directrices pour maîtriser l'art de la hallebarde.${prompt}
+  9312: C'est là que vous intervenez. Je voudrais que vous m'aidiez à tester les nouvelles directives que j'ai élaborées.${prompt}
   9313: |-
     Can you lend your assistance?
     ${selection-lines}
@@ -21478,40 +21484,40 @@ entries:
   9472: I think his sword belt is on a little tight...${prompt}
   9473: A knight, be he of the past or future, must not be unsettled by trivial matters. In this world, I am a renowned hero. What say you, are you not impressed?${prompt}
   9474: |-
-    I must think of a more fitting name for myself.
-    What do you think of “Thunderbringer Vijartal”? Has a little more punch to it.${prompt}
+      Je dois penser à un nom plus approprié pour moi.
+      Que pensez-vous de "Foudroyeur Vijartal" ? Ça a un peu plus de punch, non ?${prompt}
   9475: |-
-    Hmmm, there must be something better, though...
-    I have it! How about “Vijartal Caphieux, the Obsidian Bolt”? Has a nice ring to it, don't you think?${prompt}
-  9476: Vijartal Caphieux?${prompt}
+      Hmmm, il doit y avoir quelque chose de mieux, cependant...
+      J'ai trouvé ! Que diriez-vous de "Vijartal Caphieux, la Foudre d'Obsidienne" ? Ça sonne bien, vous ne trouvez pas ?${prompt}
+  9476: Vijartal Caphieux ?${prompt}
   9477: |-
-    The Obsidian Bolt...
-    Yes, I like it! Give me some time to work on a new signature.${prompt}
-  9478: Excuse me, might I have a word with you? We can speak at my house.${prompt}
-  9479: I see. Your tale is a sorry one. But why should I be the one to help your brother?${prompt}
-  9480: Well, since you introduced yourself as Vijartal Caphieux, the famed knight, I figured you must be a skilled warrior. Your assistance would be most welcome.${prompt}
-  9481: As I am most certain it would be. However, no matter how great my ability may be, there are many preparations I must make. My sword is in need of repair, and there are several other things...${prompt}
-  9482: Seeing as your name is the same as our ancient hero, the Temple Knights might let you off lightly, even if you are caught helping us.${prompt}
-  9483: Naphee, always with that tone of voice...${prompt}
-  9484: My name is Phillone.${prompt}
-  9485: You and she are so very similar.${prompt}
-  9486: Very well, then. I will help you. All we need to do is retrieve the Scepter Royaulais, correct? A knight is bound to aid those weaker than himself. That is what I always... Ah, never mind.${prompt}
-  9487: You'll help us!? Thank you, we will never forget this for the rest of our...${prompt}
-  9488: However, I do not trust Bastokers.${prompt}
-  9489: What?${prompt}
-  9490: The people of Bastok are vulgar and uncouth, and should be despised by any upstanding citizen of noble San d'Oria. I will not suffer to be lumped in with the likes of him.${prompt}
+      La Foudre d'Obsidienne...
+      Oui, j'aime ça ! Donnez-moi un peu de temps pour travailler sur une nouvelle signature.${prompt}
+  9478: Excusez-moi, pourrais-je vous parler ? Nous pouvons discuter chez moi.${prompt}
+  9479: Je vois. Votre histoire est bien triste. Mais pourquoi devrais-je être celui qui aide votre frère ?${prompt}
+  9480: Eh bien, puisque vous vous êtes présenté comme Vijartal Caphieux, le chevalier célèbre, j'ai pensé que vous deviez être un guerrier habile. Votre aide serait la bienvenue.${prompt}
+  9481: Comme je en suis sûr que ce serait le cas. Cependant, aussi grand que puisse être mon talent, il y a de nombreuses préparations que je dois faire. Mon épée a besoin de réparation, et il y a plusieurs autres choses...${prompt}
+  9482: Étant donné que votre nom est le même que notre héros ancien, les Chevaliers du Temple pourraient vous laisser tranquille, même si vous êtes attrapé en nous aidant.${prompt}
+  9483: Naphee, toujours avec ce ton de voix...${prompt}
+  9484: Je m'appelle Phillone.${prompt}
+  9485: Vous et elle êtes si semblables.${prompt}
+  9486: Très bien, alors. Je vous aiderai. Tout ce que nous devons faire, c'est récupérer le Sceptre Royaulais, n'est-ce pas ? Un chevalier est tenu d'aider ceux qui sont plus faibles que lui. C'est ce que j'ai toujours... Ah, peu importe.${prompt}
+  9487: Vous nous aiderez !? Merci, nous ne l'oublierons jamais pour le reste de notre...${prompt}
+  9488: Cependant, je ne fais pas confiance aux Bastokers.${prompt}
+  9489: Quoi ?${prompt}
+  9490: Les gens de Bastok sont vulgaires et grossiers, et devraient être méprisés par tout citoyen honorable de la noble San d'Oria. Je ne souffrirai pas d'être assimilé à des gens comme lui.${prompt}
   9491: |-
-    I beg your pardon!
-    There is no such enmity between the people of San d'Oria and Bastok! Apologize to Roido at once!${prompt}
-  9492: Again, your resemblance to my Naphee is uncanny.${prompt}
-  9493: You don't need to pretend to like me, but I cannot go to that place alone. It's far too dangerous.${prompt}
-  9494: Dangerous!? Are there fiends and the like in this place?${prompt}
-  9495: Without a doubt. Knowing Millechairale, he has hidden the scepter somewhere in the vast forest that lies beyond King Ranperre's Tomb.${prompt}
-  9496: Then I suppose I must accompany you. But listen well, Bastoker! You do not speak to me, understood?${prompt}
-  9497: Ah... Do you think you could come along? I'm not sure if I can really trust that man...${prompt}
-  9498: My brother has hidden the scepter somewhere in the vast forest that lies beyond King Ranperre's Tomb. Please find it before he returns there!${prompt}
-  9499: That lady had nothing to do with the theft? Hmm, it seems my instincts were well off the mark. Perhaps my only road to greatness lies through the diligent performance of my guard duties...${prompt}
-  9500: So, Millechairale has the Scepter Royaulais...${prompt}
+      Je vous demande pardon !
+      Il n'y a aucune telle animosité entre le peuple de San d'Oria et Bastok ! Présentez vos excuses à Roido immédiatement !${prompt}
+  9492: Encore une fois, votre ressemblance avec ma Naphee est troublante.${prompt}
+  9493: Vous n'avez pas besoin de faire semblant de m'apprécier, mais je ne peux pas aller à cet endroit seul. C'est beaucoup trop dangereux.${prompt}
+  9494: Dangereux !? Y a-t-il des monstres et des choses du genre dans cet endroit ?${prompt}
+  9495: Sans aucun doute. Sachant Millechairale, il a caché le sceptre quelque part dans la vaste forêt qui se trouve au-delà du Tombeau du Roi Ranperre.${prompt}
+  9496: Alors je suppose que je dois vous accompagner. Mais écoutez bien, Bastoker ! Ne me parlez pas, c'est compris ?${prompt}
+  9497: Ah... Pensez-vous pouvoir venir avec moi ? Je ne suis pas sûr de pouvoir vraiment faire confiance à cet homme...${prompt}
+  9498: Mon frère a caché le sceptre quelque part dans la vaste forêt qui se trouve au-delà du Tombeau du Roi Ranperre. S'il vous plaît, trouvez-le avant qu'il ne retourne là-bas !${prompt}
+  9499: Cette dame n'avait rien à voir avec le vol ? Hmm, il semble que mes instincts étaient complètement erronés. Peut-être que mon seul chemin vers la grandeur passe par l'exécution diligente de mes devoirs de garde...${prompt}
+  9500: Donc, Millechairale a le Sceptre Royaulais...${prompt}
   9501: "That one was always far too dedicated! \nWhatever am I to do?${prompt}"
   9502: '...${prompt}'
   9503: I stole into the royal book vault and read the documents that pertained to me. What Roido said was true.${prompt}
