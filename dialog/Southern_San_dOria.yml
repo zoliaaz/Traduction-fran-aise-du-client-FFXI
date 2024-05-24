@@ -17792,36 +17792,36 @@ entries:
   7221: |-
     増えたポイント　${number: 0}
     増えたカウント　${number: 1}${prompt}
-  7222: A recruit? What do you want with this gatehouse?${prompt}
-  7223: Only citizens of San d'Oria may apply for missions here. Go see your country's consulate in Northern San d'Oria.${prompt}
-  7224: Finish your current mission first, then come back for another.${prompt}
+  7222: Un recrue ? Que fais-tu dans cette guérite ?${prompt}
+  7223: Seuls les citoyens de San d'Oria peuvent postuler pour des missions ici. Va voir le consulat de ton pays dans le nord de San d'Oria.${prompt}
+  7224: Termine d'abord ta mission en cours, puis reviens pour en choisir une autre.${prompt}
   7225: |-
-    Which mission will you undertake?
+    Quelle mission allez-vous entreprendre ?
     ${selection-lines}
-    Smash the Orcish Scouts.
-    Bat Hunt.
-    Save the Children.
-    The Rescue Drill.
-    The Davoi Report.
-    Journey Abroad.
-    Journey to Bastok.
-    Journey to Windurst.
-    Journey to Bastok.
-    Journey to Windurst.
-    Infiltrate Davoi.
-    The Crystal Spring.
-    Appointment to Jeuno.
+    Écraser les éclaireurs Orcs.
+    Chasse aux chauves-souris.
+    Sauver les enfants.
+    L'exercice de sauvetage.
+    Le rapport de Davoi.
+    Voyage à l'étranger.
+    Voyage à Bastok.
+    Voyage à Windurst.
+    Voyage à Bastok.
+    Voyage à Windurst.
+    Infiltration de Davoi.
+    La source de cristal.
+    Rendez-vous à Jeuno.
     Magicite.
-    The Ruins of Fei'Yin.
-    The Shadow Lord.
-    Leaute's Last Wishes.
-    Ranperre's Final Rest.
-    Prestige of the Papsque.
-    The Secret Weapon.
-    Coming of Age.
-    Lightbringer.
-    Breaking Barriers.
-    The Heir to the Light.
+    Les ruines de Fei'Yin.
+    Le Seigneur des Ombres.
+    Dernières volontés de Leaute.
+    Repos final de Ranperre.
+    Prestige du Papsque.
+    L'arme secrète.
+    Passage à l'âge adulte.
+    Porteur de lumière.
+    Briser les barrières.
+    L'héritier de la Lumière.
     10-1.
     10-2.
     ダミー26.
@@ -17829,111 +17829,111 @@ entries:
     ダミー28.
     ダミー29.
     ダミー30.
-    None.${prompt}
+    Aucune.${prompt}
   7226: |-
-    Accept this mission?
+    Acceptez cette mission?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  7227: You accept the mission.${prompt}
-  7228: What do you want with this gatehouse?${prompt}
+    Oui.
+    Non.${prompt}
+  7227: Vous acceptez la mission.${prompt}
+  7228: Que voulez-vous faire avec cette maison de garde?${prompt}
   7229: |-
-    Your business?
+    Votre affaire ?
     ${selection-lines}
-    A mission, please.
-    Nothing.${prompt}
-  7230: Hmm...not much work for those wet behind the ears, but...${prompt}
-  7231: How about slaying Orcish scouts? Only the yellowest of yearlings would run from that, and we've no work for cowards here.${prompt}
-  7232: If you're to take the mission, I'll be happy to explain.${prompt}
+    Une mission, s'il vous plaît.
+    Rien.${prompt}
+  7230: Hmm... pas beaucoup de travail pour les débutants, mais...
+  7231: Que diriez-vous d'éliminer des éclaireurs Orcs ? Seuls les plus peureux fuiraient cela, et nous n'avons pas de travail pour les lâches ici.${prompt}
+  7232: Si vous acceptez la mission, je serai heureux de vous expliquer.${prompt}
   7233: |-
-    Interested?
+    Intéressé ?
     ${selection-lines}
-    Tell me more.
-    Never mind.${prompt}
-  7234: Here's your mission. Orcish scouts roam outside; kill one and bring me his axe as proof.${prompt}
-  7235: 'You''ll have to bring me ${article} ${item-article: 0[2]}. No other kind will do. Understand?${prompt}'
-  7236: That is all. You'll take the mission then?${prompt}
+    Dites-moi en plus.
+    Peu importe.${prompt}
+  7234: Voici votre mission. Des éclaireurs Orcs errent à l'extérieur ; tuez-en un et apportez-moi sa hache comme preuve.${prompt}
+  7235: 'Vous devrez me ramener ${article} ${item-article: 0[2]}. Aucun autre type ne fera l’affaire. Compris ?${prompt}'
+  7236: C'est tout. Vous acceptez la mission alors ?${prompt}
   7237: |-
-    Do you accept the mission?
+    Acceptez-vous la mission ?
     ${selection-lines}
-    I accept.
-    Could you explain again?
-    No, thank you.${prompt}
-  7238: Bring me one of those axes, and your mission will be a success. No running away now; we've a proud country to defend!${prompt}
-  7239: Oh, you're back. Well, if you're so happy you defeated an Orc or two, you've a long way ahead of you!${prompt}
-  7240: 'That''s another ${item-singular: 0[2]} for the armory, then. Mission complete! Not bad for a new recruit.${prompt}'
-  7241: What? I don't want this!${prompt}
-  7242: Are you really a new recruit!?${prompt}
-  7243: Listen, before you bring me something, you must first accept the mission! That is how things work around here!${prompt}
-  7244: Persistent, aren't you? An Orc under the belt does not a hero make! Ah, I've just the job for you...${prompt}
-  7245: Bat patrol! How about it? Shouldn't be a problem for an adventurer such as yourself, no?${prompt}
-  7246: Here's your mission, then. Clear out bats lurking in King Ranperre's Tomb and bring me a fang as proof.${prompt}
-  7247: 'Bring me ${article} ${item-article: 0[2]} and your mission will be a success.${prompt}'
-  7248: Deep in the tomb you'll find Goblins. Take care; I don't want to lose you yet.${prompt}
-  7249: Ah, you've returned! I was afraid that Goblins got you.${prompt}
-  7250: 'That''s one ${item-singular: 3[2]} for the gatehouse, then. Mission complete. Not bad for a new recruit.${prompt}'
-  7251: Ah, the recruit's back again? I'm sorry, but I've no time for you today.${prompt}
-  7252: Well, perhaps you can be of some help. Many of our children have disappeared mysteriously, and I've no doubt the Ghelsba Orcs are behind it.${prompt}
-  7253: The Royal Knights should be on the job by now, but the two princes are at each other's throats.${prompt}
-  7254: Prince Trion, the eldest, says we should launch a full attack, with all haste.${prompt}
-  7255: While his younger brother, Prince Pieuje says the safety of the children comes first, and he won't authorize an attack.${prompt}
-  7256: They've been arguing this back and forth for days. The knights' hands are tied, and frankly, nobody knows what to do.${prompt}
-  7257: If you really want to make a name for yourself, go to Ghelsba, and rescue those kidnapped children!${prompt}
-  7258: What say you? Will you go?${prompt}
-  7259: Here's your mission, then. Rescue the two children kidnapped by the Orcs of Ghelsba Outpost.${prompt}
-  7260: Ghelsba Outpost is northwest of West Ronfaure. Take the path before the Westgate, then turn right when the path splits in the forest. You'll find the entrance up in the hills.${prompt}
-  7261: If you have trouble finding the way, just follow one of the soldiers on patrol.${prompt}
-  7262: Orcs tend to keep their hostages in tents or small huts. Once you're inside the compound, check them first.${prompt}
-  7263: Ah, you've returned! You were gone so long, I feared a warmachine had got you!${prompt}
-  7264: At any rate, mission complete! And to reward your accomplishment...${prompt}
-  7265: I hereby recognize you, ${name-player}, as a certified adventurer of San d'Oria! You're now mission rank two, as well.${prompt}
-  7266: But don't get too excited. Your title is valid only here in San d'Oria, understand?${prompt}
-  7267: 'In order to become a true adventurer, and bear ${keyitem-article: 0[2]}, you must be recognized by Bastok and Windurst as well.${prompt}'
-  7268: '''Tis a treaty between the three lands, and its word is law. I know it''s hard, but those are the rules.${prompt}'
-  7269: For now, cut your adventuring teeth in the areas near here. Sooner or later you'll find your way into other lands.${prompt}
-  7270: You achieve rank 2!${prompt}
-  7271: There's not much work in right now. I suppose you could go participate in the Temple Knights' rescue drills out on the La Theine Plateau.${prompt}
-  7272: Enter the forest beyond the Westgate and head southwest. You'll come out onto the La Theine Plateau before long.${prompt}
-  7273: Once you're out on the plateau, keep going until you see the knights. The training grounds aren't far from there.${prompt}
-  7274: It's all just a drill, so this should be easy compared to your usual fare. Just follow orders and you'll be fine.${prompt}
-  7275: You've returned! I hear the drill turned into something far more perilous. But real battle is the best drill for recruits, in my opinion.${prompt}
-  7276: Regardless, you've done well. I'll turn to you when there's work to be done, now.${prompt}
-  7277: 'Here, take this ${item-singular: 3[2]}. Go ahead, you''ve earned it.${prompt}'
-  7278: This time it's messenger duty. One of our knights is out scouting in a place called Davoi, on the southern edge of Jugner Forest.${prompt}
-  7279: The Orcs' stronghold is in Davoi, so it's vital that we stop them from massing, or they may launch an assault.${prompt}
-  7280: Of course, the Orcs are keeping an eye on us, too. Why, just a few days past, a squad of our Royal Knights fell to their axes.${prompt}
-  7281: We have sent scouts to find a weakness in their defenses. You must find the scout there now, and bring back the latest scouting report.${prompt}
-  7282: The scout's name is Zantaviat. He's somewhere in Davoi, but where I cannot say.${prompt}
-  7283: Come back after you've gotten the report. Those lands are no place to wander.${prompt}
-  7284: You have returned! And you've brought the scouting report. Good work, ${name-player}.${prompt}
-  7285: Troubling news, this is. It says that Orcs are gathering deep inside the encampment. The time to act is coming!${prompt}
-  7286: But that is not your concern. You've done well today. Mission complete!${prompt}
-  7287: Oh, it's you, ${name-player}. And at just the right time, too. Monarlais Halver is looking for an adventurer such as yourself.${prompt}
-  7288: Enter Chateau d'Oraguille. Monarlais Halver is there; he'll explain in person.${prompt}
-  7289: What? You haven't been certified in Bastok and Windurst yet? You may dally, but others are not! Get moving!${prompt}
-  7290: Ah, welcome back. I see you've been certified in Bastok and Windurst. Good work. You'll make a fine adventurer.${prompt}
-  7291: What's that, a report for our kingdom? I see. Take that to the monarlais when you go.${prompt}
-  7292: 'You should receive ${keyitem-article: 0[2]} from Monarlais Halver. Now, go to Chateau d''Oraguille and let them know you''re back!${prompt}'
-  7293: Hurry to Chateau d'Oraguille and give that report to Monarlais Halver!${prompt}
-  7294: You achieve rank 3!${prompt}
-  7295: Ah! You've come at just the right time. Zantaviat, one of our scouts in Davoi, needs an adventurer.${prompt}
-  7296: He wants someone to infiltrate Davoi and scout behind enemy lines. Know anyone fitting that description?${prompt}
-  7297: 'Now that you''ve got your ${keyitem-singular: 0[2]}, this is an opportunity to prove you''re worth it!${prompt}'
-  7298: The situation in Davoi worsens by the day. This won't be easy, but I can't think of a better adventurer for the job!${prompt}
-  7299: You've returned! Zantaviat told me everything. Congratulations on a job well done!${prompt}
-  7300: But we can't let down our guard yet. Those Orcs will not just sit there. We must keep constant vigil, and move before they do!${prompt}
-  7301: 'Here''s your reward: ${article} ${item-article: 0[2]}. You''re becoming quite the adventurer, aren''t you?${prompt}'
-  7302: Welcome back! I have an important mission for you this time. Recently, land is eroding due to crystal formation...and it's getting worse.${prompt}
-  7303: There's a small spring on the eastern edge of Jugner Forest, called Crystwater Spring. We must know what effect crystal formation has on the wildlife there.${prompt}
-  7304: 'I want you to get me a fish from the spring. And not just any fish! You need to get ${article} ${item-article: 0[2]}.${prompt}'
-  7305: Ah, that reminds me--have you any fishing gear? You'll need some for this mission.${prompt}
-  7306: There are people about that know a thing or two about fishing, should you need help finding and choosing your gear.${prompt}
-  7307: Ah, the great angler returns! I was worried, to be honest. All you hear these days is the massing of beasts, the erosion of the Crystal Lines, and now...${prompt}
-  7308: '...rumors that the Shadow Lord himself has returned!${prompt}'
-  7309: We will examine the fish you brought. Depending on the results, we may need to act! I'll let you know if we need your help.${prompt}
-  7310: Ah, it's you, ${name-player}. You've come at a good time. I've news for you.${prompt}
-  7311: By order of the Kingdom of San d'Oria, you're to head to Jeuno as an ambassadorial attaché.${prompt}
-  7312: Go to Chateau d'Oraguille. Monarlais Halver will tell you all you need to know.${prompt}
+    J'accepte.
+    Pourriez-vous expliquer à nouveau ?
+    Non, merci.${prompt}
+  7238: Apportez-moi l'une de ces haches, et votre mission sera un succès. Pas de fuite maintenant ; nous avons un pays fier à défendre !${prompt}
+  7239: Oh, vous êtes de retour. Eh bien, si vous êtes si heureux d'avoir vaincu un Orc ou deux, vous avez encore un long chemin à parcourir !${prompt}
+  7240: 'C’est un autre ${item-singular: 0[2]} pour l’armurerie, alors. Mission accomplie ! Pas mal pour un nouveau recrue.${prompt}'
+  7241: Quoi ? Je ne veux pas ça !${prompt}
+  7242: Êtes-vous vraiment un nouveau recrue !?${prompt}
+  7243: Écoutez, avant de me rapporter quelque chose, vous devez d'abord accepter la mission ! C'est ainsi que les choses fonctionnent ici !${prompt}
+  7244: Persévérant, n'est-ce pas ? Un Orc sous la ceinture ne fait pas un héros ! Ah, j'ai juste le travail pour vous...${prompt}
+  7245: Patrouille de chauves-souris ! Que dites-vous ? Ça ne devrait pas poser de problème pour un aventurier comme vous, n'est-ce pas ?${prompt}
+  7246: Voici donc votre mission. Éliminez les chauves-souris qui rodent dans le Tombeau du Roi Ranperre et apportez-moi une dent comme preuve.${prompt}
+  7247: 'Apportez-moi ${article} ${item-article: 0[2]} et votre mission sera un succès.${prompt}'
+  7248: Au fond du tombeau, vous trouverez des Gobelins. Faites attention ; je ne veux pas vous perdre déjà.${prompt}
+  7249: Ah, vous êtes revenu ! J'avais peur que les Gobelins vous aient attrapé.${prompt}
+  7250: 'C’est un ${item-singular: 3[2]} pour la maison de garde, alors. Mission accomplie. Pas mal pour un nouveau recrue.${prompt}'
+  7251: Ah, le recrue est de retour ? Désolé, mais je n'ai pas le temps pour vous aujourd'hui.${prompt}
+  7252: Eh bien, peut-être pouvez-vous être utile. Beaucoup de nos enfants ont disparu mystérieusement, et je ne doute pas que les Orcs de Ghelsba en soient responsables.${prompt}
+  7253: Les Chevaliers Royaux devraient être sur le coup à présent, mais les deux princes se disputent.${prompt}
+  7254: Le prince Trion, l'aîné, dit que nous devrions lancer une attaque totale, au plus vite.${prompt}
+  7255: Tandis que son frère cadet, le prince Pieuje, dit que la sécurité des enfants passe avant tout, et qu'il n'autorisera pas une attaque.${prompt}
+  7256: Ils se disputent cela depuis des jours. Les mains des chevaliers sont liées, et franchement, personne ne sait quoi faire.${prompt}
+  7257: Si vous voulez vraiment vous faire un nom, rendez-vous à Ghelsba et sauvez ces enfants kidnappés !${prompt}
+  7258: Qu'en dites-vous ? Allez-vous y aller ?${prompt}
+  7259: Voici donc votre mission. Sauvez les deux enfants kidnappés par les Orcs du poste avancé de Ghelsba.${prompt}
+  7260: Le poste avancé de Ghelsba se trouve au nord-ouest de Ronfaure Ouest. Prenez le chemin avant la Porte de l'Ouest, puis tournez à droite lorsque le chemin se divise dans la forêt. Vous trouverez l'entrée en haut des collines.${prompt}
+  7261: Si vous avez du mal à trouver le chemin, suivez simplement l'un des soldats en patrouille.${prompt}
+  7262: Les Orcs ont tendance à garder leurs otages dans des tentes ou de petites huttes. Une fois à l'intérieur du camp, vérifiez-les en premier.${prompt}
+  7263: Ah, vous êtes revenu ! Vous étiez parti si longtemps, j'ai craint qu'une machine de guerre ne vous ait attrapé !${prompt}
+  7264: En tout cas, mission accomplie ! Et pour récompenser votre exploit...${prompt}
+  7265: Je vous reconnais par la présente, ${name-player}, en tant qu'aventurier certifié de San d'Oria ! Vous êtes désormais rang deux des missions.${prompt}
+  7266: Mais ne vous emballez pas trop. Votre titre n'est valide qu'ici à San d'Oria, vous comprenez ?${prompt}
+  7267: 'Pour devenir un vrai aventurier et porter ${keyitem-article: 0[2]}, vous devez également être reconnu par Bastok et Windurst.${prompt}'
+  7268: '''C’est un traité entre les trois pays, et sa parole est loi. Je sais que c’est difficile, mais ce sont les règles.${prompt}'
+  7269: Pour l’instant, faites vos premières armes d’aventurier dans les environs d’ici. Tôt ou tard, vous trouverez votre chemin vers d'autres terres.${prompt}
+  7270: Vous atteignez le rang 2 !${prompt}
+  7271: Il n'y a pas beaucoup de travail en ce moment. Je suppose que vous pourriez participer aux exercices de sauvetage des Chevaliers du Temple sur le plateau de La Théine.${prompt}
+  7272: Entrez dans la forêt au-delà de la Porte de l'Ouest et dirigez-vous vers le sud-ouest. Vous arriverez bientôt sur le plateau de La Théine.${prompt}
+  7273: Une fois sur le plateau, continuez jusqu'à ce que vous voyiez les chevaliers. Les terrains d'entraînement ne sont pas loin de là.${prompt}
+  7274: Ce n'est qu'un exercice, donc cela devrait être facile par rapport à ce que vous avez l'habitude de faire. Suivez simplement les ordres et vous vous en sortirez.${prompt}
+  7275: Vous êtes de retour ! J'ai entendu dire que l'exercice s'est transformé en quelque chose de beaucoup plus périlleux. Mais une vraie bataille est le meilleur exercice pour les recrues, à mon avis.${prompt}
+  7276: Quoi qu'il en soit, vous avez bien fait. Je ferai appel à vous quand il y aura du travail à faire, maintenant.${prompt}
+  7277: 'Tenez, prenez ce ${item-singular: 3[2]}. Allez-y, vous l’avez mérité.${prompt}'
+  7278: Cette fois-ci, c'est une mission de messagerie. Un de nos chevaliers est en train de faire du repérage dans un endroit appelé Davoi, à la lisière sud de la forêt de Jugner.${prompt}
+  7279: Le bastion des Orcs se trouve à Davoi, il est donc vital que nous les empêchions de se regrouper, sinon ils pourraient lancer une attaque.${prompt}
+  7280: Bien sûr, les Orcs nous surveillent aussi. Il y a quelques jours à peine, une escouade de nos Chevaliers Royaux est tombée sous leurs haches.${prompt}
+  7281: Nous avons envoyé des éclaireurs pour trouver une faille dans leurs défenses. Vous devez trouver le scout là-bas maintenant et ramener le dernier rapport d'éclaireur.${prompt}
+  7282: Le nom du scout est Zantaviat. Il est quelque part à Davoi, mais où, je ne saurais dire.${prompt}
+  7283: Revenez après avoir obtenu le rapport. Ces terres ne sont pas un endroit où errer.${prompt}
+  7284: Vous êtes revenu ! Et vous avez apporté le rapport d'éclaireur. Bon travail, ${name-player}.${prompt}
+  7285: Des nouvelles préoccupantes, cela. Il dit que les Orcs se rassemblent au fond de l'encampement. Le moment d'agir approche !${prompt}
+  7286: Mais ce n'est pas votre préoccupation. Vous avez bien travaillé aujourd'hui. Mission accomplie !${prompt}
+  7287: Oh, c'est vous, ${name-player}. Et juste au bon moment. Monarlais Halver recherche un aventurier comme vous.${prompt}
+  7288: Entrez au Château d'Oraguille. Monarlais Halver s'y trouve ; il vous expliquera en personne.${prompt}
+  7289: Quoi ? Vous n'avez pas encore été certifié à Bastok et Windurst ? Vous pouvez traîner, mais d'autres ne le peuvent pas ! Bougez-vous !${prompt}
+  7290: Ah, bienvenue de retour. Je vois que vous avez été certifié à Bastok et Windurst. Bon travail. Vous ferez un excellent aventurier.${prompt}
+  7291: Qu'est-ce que c'est, un rapport pour notre royaume ? Je vois. Apportez cela au monarlais lorsque vous irez.${prompt}
+  7292: 'Vous devriez recevoir ${keyitem-article: 0[2]} de Monarlais Halver. Maintenant, allez au Château d’Oraguille et faites-leur savoir que vous êtes de retour !${prompt}'
+  7293: Dépêchez-vous au Château d'Oraguille et remettez ce rapport à Monarlais Halver !${prompt}
+  7294: Vous atteignez le rang 3 !${prompt}  
+  7295: Ah ! Vous arrivez juste au bon moment. Zantaviat, l'un de nos éclaireurs à Davoi, a besoin d'un aventurier.${prompt}
+  7296: Il veut quelqu'un pour infiltrer Davoi et faire du repérage derrière les lignes ennemies. Connaissez-vous quelqu'un correspondant à cette description ?${prompt}
+  7297: 'Maintenant que vous avez votre ${keyitem-singular: 0[2]}, c’est une opportunité de prouver que vous en valez la peine !${prompt}'
+  7298: La situation à Davoi s'aggrave de jour en jour. Ce ne sera pas facile, mais je ne peux pas penser à un meilleur aventurier pour le travail !${prompt}
+  7299: Vous êtes revenu ! Zantaviat m'a tout raconté. Félicitations pour un travail bien fait !${prompt}
+  7300: Mais nous ne pouvons pas baisser la garde pour autant. Ces Orcs ne resteront pas là sans rien faire. Nous devons rester vigilants en permanence et agir avant eux !${prompt}
+  7301: 'Voici votre récompense : ${article} ${item-article: 0[2]}. Vous devenez vraiment un aventurier accompli, n’est-ce pas ?${prompt}'
+  7302: Bienvenue de retour ! J'ai une mission importante pour vous cette fois. Récemment, les terres s'érodent en raison de la formation de cristaux... et ça empire.${prompt}
+  7303: Il y a une petite source à l'est de la forêt de Jugner, appelée Source de Cristal. Nous devons savoir quel effet la formation de cristaux a sur la faune là-bas.${prompt}
+  7304: 'Je veux que vous me rapportiez un poisson de la source. Et pas n’importe quel poisson ! Vous avez besoin de prendre ${article} ${item-article: 0[2]}.${prompt}'
+  7305: Ah, ça me rappelle - avez-vous du matériel de pêche ? Vous en aurez besoin pour cette mission.${prompt}
+  7306: Il y a des gens dans le coin qui s'y connaissent en pêche, si vous avez besoin d'aide pour trouver et choisir votre équipement.${prompt}
+  7307: Ah, le grand pêcheur est de retour ! J'étais inquiet, pour être honnête. Tout ce que vous entendez ces jours-ci, c'est le regroupement des bêtes, l'érosion des Lignes de Cristal, et maintenant...${prompt}
+  7308: '...des rumeurs disant que le Seigneur des Ombres lui-même est de retour !${prompt}'
+  7309: Nous examinerons le poisson que vous avez apporté. Selon les résultats, nous pourrions devoir agir ! Je vous ferai savoir si nous avons besoin de votre aide.${prompt}
+  7310: Ah, c'est vous, ${name-player}. Vous arrivez au bon moment. J'ai des nouvelles pour vous.${prompt}
+  7311: Par ordre du Royaume de San d'Oria, vous devez vous rendre à Jeuno en tant qu'attaché ambassadeur.${prompt}
+  7312: Rendez-vous au Château d'Oraguille. Monarlais Halver vous dira tout ce que vous devez savoir.${prompt}
   7313: ${prompt}
   7314: ${prompt}
   7315: ${prompt}
@@ -17942,96 +17942,96 @@ entries:
   7318: ${prompt}
   7319: ${prompt}
   7320: ${prompt}
-  7321: There you are! I've been looking for you. Monarlais Halver requests your presence at the chateau immediately.${prompt}
-  7322: It sounds as if this is a fairly important mission. I need not remind you that you should take care to properly equip yourself before embarking on this journey.${prompt}
-  7323: I'm not sure what it's about, but you'd best make haste. The monarlais is not to be kept waiting!${prompt}
-  7324: Why, if it isn't ${name-player}! This is no time for loafing around, friend! Prince Trion is looking for you.${prompt}
-  7325: For this next mission, he's requested you personally. You should be honored!${prompt}
-  7326: As for the details of the mission, I've no idea what he wants, but he was in a hurry. You'd best be off to Chateau d'Oraguille!${prompt}
-  7327: It is a great thing you've done, ${name-player}! I knew deep in my heart that you were the one for the task.${prompt}
-  7328: You'd better get to the chateau quick. They're all waiting to welcome you back, I'd wager.${prompt}
-  7329: You've saved our proud Kingdom of San d'Oria. No, you're the savior of all Vana'diel! There's not a soul that doesn't owe you a great debt, ${name-player}.${prompt}
+  7321: Te voilà ! Je te cherchais. Monarlais Halver demande ta présence au château immédiatement.${prompt}
+  7322: Il semble que ce soit une mission assez importante. Je n'ai pas besoin de te rappeler que tu devrais prendre soin de t'équiper correctement avant de partir pour ce voyage.${prompt}
+  7323: Je ne suis pas sûr de ce dont il s'agit, mais tu ferais mieux de te dépêcher. Le monarlais n'aime pas attendre !${prompt}
+  7324: Tiens, si ce n'est pas ${name-player} ! Ce n'est pas le moment de traîner, mon ami ! Le prince Trion te cherche.${prompt}
+  7325: Pour cette prochaine mission, il t'a demandé personnellement. Tu devrais être honoré !${prompt}
+  7326: Quant aux détails de la mission, je n'en ai aucune idée, mais il était pressé. Tu ferais mieux de te rendre au Château d'Oraguille !${prompt}
+  7327: C'est une grande chose que tu as accomplie, ${name-player} ! Je savais au fond de mon cœur que tu étais la personne pour la tâche.${prompt}
+  7328: Tu ferais mieux de te rendre rapidement au château. Ils sont tous impatients de te souhaiter la bienvenue, je parie.${prompt}
+  7329: Tu as sauvé notre fier Royaume de San d'Oria. Non, tu es le sauveur de tout Vana'diel ! Il n'y a pas une seule personne qui ne te doit pas une grande dette, ${name-player}.${prompt}
   7330: |-
-    Ah, if it isn't ${name-player}!
-    You had best hurry off to Chateau d'Oraguille. It seems as if something terrible is in the works there.${prompt}
+    Ah, si ce n'est pas ${name-player} !
+    Tu ferais mieux de te dépêcher d'aller au Château d'Oraguille. Il semble qu'il se passe quelque chose de terrible là-bas.${prompt}
   7331: |-
-    Well, if it isn't ${name-player}!
-    Your timing is perfect. The chateau just sent a request for an adventurer.${prompt}
-  7332: It looks as if this next mission has something to do with the late queen. You should feel honored. It's not every day that an adventurer gets to work directly with the royal family.${prompt}
+    Eh bien, si ce n'est pas ${name-player} !
+    Ton timing est parfait. Le château vient de faire une demande pour un aventurier.${prompt}
+  7332: Il semble que cette prochaine mission ait quelque chose à voir avec feu la reine. Tu devrais te sentir honoré. Ce n'est pas tous les jours qu'un aventurier a l'occasion de travailler directement avec la famille royale.${prompt}
   7333: |-
-    Spoken like a true San d'Orian!
-    Now hurry off to Chateau d'Oraguille and get the details on the mission from Monarlais Halver.${prompt}
-  7334: What's wrong? Dealing with royalty is not your cup of tea? Well, think about it and come back when you've come to your senses.${prompt}
-  7335: Prince Trion is requesting the aid of an adventurer. How about it?${prompt}
-  7336: It looks fairly urgent, so you should hurry to the chateau. The prince is waiting in his chambers.${prompt}
-  7337: I expected more from you, ${name-player}. If you change your mind, return here. I'll be waiting.${prompt}
-  7338: I have received the details of your mission from Prince Trion. I will deliver this book to the scholars for deciphering.${prompt}
-  7339: 'The deciphering of the ${keyitem-singular: 0[2]} will take a considerable amount of time. Return later for a report.${prompt}'
-  7340: 'You handed the ${keyitem-singular: 0[2]} over to the guard.${prompt}'
+    Parle comme un vrai San d'Orien !
+    Maintenant, dépêche-toi d'aller au Château d'Oraguille et obtiens les détails sur la mission auprès de Monarlais Halver.${prompt}
+  7334: Qu'est-ce qui ne va pas ? Traiter avec la royauté n'est pas ta tasse de thé ? Eh bien, réfléchis-y et reviens quand tu auras retrouvé tes esprits.${prompt}
+  7335: Le prince Trion demande l'aide d'un aventurier. Qu'en penses-tu ?${prompt}
+  7336: Il semble assez urgent, donc tu devrais te dépêcher d'aller au château. Le prince t'attend dans ses appartements.${prompt}
+  7337: Je m'attendais à mieux de ta part, ${name-player}. Si tu changes d'avis, reviens ici. Je t'attendrai.${prompt}
+  7338: J'ai reçu les détails de ta mission du prince Trion. Je remettrai ce livre aux érudits pour le déchiffrer.${prompt}
+  7339: 'Le déchiffrement du ${keyitem-singular: 0[2]} prendra un certain temps. Reviens plus tard pour un rapport.${prompt}'
+  7340: 'Tu as remis le ${keyitem-singular: 0[2]} au garde.${prompt}'
   7341: |-
-    Ah, ${name-player}. We've been waiting.
-    Prince Trion is calling for you. I wonder if this means the ${keyitem-singular: 0[2]} has been completely deciphered.${prompt}
-  7342: Well done, ${name-player}! I knew you would not let the Kingdom down.${prompt}
-  7343: I'm proud to increase your rank to 7!${prompt}
-  7344: The papsque has work for you, ${name-player}. Are you willing to take on the task?${prompt}
-  7345: Excellent. Proceed to the papsque's chambers on the third floor of the cathedral.${prompt}
-  7346: The papsque often comes across as a difficult man, but he is actually very kindhearted and compassionate. If you change your mind, I'll be waiting here.${prompt}
-  7347: The fair Claidie I d'Oraguille has invited you to the chateau. She wishes for you to see the flowers that have bloomed from the seeds you brought back from Altepa.${prompt}
-  7348: It is an honor to be invited to the chateau garden. One day you may even have the opportunity to attend one of their royal garden parties.${prompt}
-  7349: We cannot keep the princess waiting. Now, off to the chateau!${prompt}
-  7350: A party of Royal Knights stationed in Ghelsba Outpost have reported strange activity by Orcs deep within Yughott Grotto.${prompt}
-  7351: From your reports, we already know that the beastmen have built a giant portal, but their motives remain unclear.${prompt}
-  7352: It makes me shudder to think of what those Orcs are planning with that portal...${prompt}
-  7353: ${name-player}, your next mission is to travel to Ghelsba and continue your investigation into the Orcs' activities.${prompt}
-  7354: Be on your guard when traveling deep into Yughott Grotto. Losing an adventurer such as yourself would deal a great blow to all of San d'Oria.${prompt}
-  7355: I see you need more time for preparations. When you are ready, I'll be waiting.${prompt}
-  7356: It's hard to believe Orcs have their hands on such dangerous equipment. More patrols will have to be sent out to prevent any new developments in their evil plans.${prompt}
-  7357: 'And this ${keyitem-singular: 0[2]}... We will have to analyze it and begin reproduction for our forces. We cannot let Orcs get the Treasure of the Dragon King before San d''Oria does.${prompt}'
-  7358: Well, congratulations on the completion of your mission. Hmmm? Do I know of an adventurer named Eideialc? Never heard of him.${prompt}
-  7359: But you need not worry about some petty traveler. You are in a different league. You are now rank 8!${prompt}
-  7360: Princess Claidie's coming-of-age ceremony is drawing near. This ceremony is an important facet of d'Oraguille tradition.${prompt}
-  7361: Monarlais Halver has put out a call to high-ranking adventurers for their assistance in Chateau d'Oraguille.${prompt}
-  7362: Ah, the young princess has finally become a lady... Oh, I'm sorry. You can get the details of your next mission from Sir Halver.${prompt}
-  7363: What? You do not wish to repay the kindness the princess has shown to you in the past months? As you wish...but if you change your mind, you know where to find me.${prompt}
-  7364: I am busy with preparations for Princess Claidie's coming-of-age ceremony. You don't know what kind of vermin could be roaming the streets and looking for trouble.${prompt}
-  7365: Princess Claidie's coming-of-age ceremony is about to begin at the cathedral. I must remain at my post, but why don't you attend?${prompt}
-  7366: The king has requested your audience. He has selected you from the mountain of adventurers in San d'Oria. You should feel honored!${prompt}
-  7367: You have matured from a fledgling adventurer into a great asset to our kingdom. Do not let us down.${prompt}
-  7368: There is no need for modesty at a time like this. The fate of San d'Oria is at stake!${prompt}
-  7369: The authorities are saying that a dark cloud of despair is looming over the Kingdom. They are asking for the assistance of only the best adventurers.${prompt}
-  7370: I can think of none more qualified than you. Will you accept this mission?${prompt}
+    Ah, ${name-player}. Nous t'attendions.
+    Le prince Trion te demande. Je me demande si cela signifie que le ${keyitem-singular: 0[2]} a été complètement déchiffré.${prompt}
+  7342: Bien joué, ${name-player} ! Je savais que tu ne décevrais pas le Royaume.${prompt}
+  7343: Je suis fier d'augmenter ton rang à 7 !${prompt}
+  7344: Le papsque a du travail pour toi, ${name-player}. Es-tu prêt à relever le défi ?${prompt}
+  7345: Excellent. Rends-toi dans les chambres du papsque au troisième étage de la cathédrale.${prompt}
+  7346: Le papsque peut sembler être un homme difficile, mais en réalité, il est très bon et compatissant. Si tu changes d'avis, je t'attendrai ici.${prompt}
+  7347: La belle Claidie I d'Oraguille t'a invité au château. Elle souhaite que tu voies les fleurs qui ont fleuri à partir des graines que tu as ramenées d'Altepa.${prompt}
+  7348: C'est un honneur d'être invité dans le jardin du château. Un jour, tu pourrais même avoir l'occasion d'assister à l'une de leurs fêtes de jardin royales.${prompt}
+  7349: Nous ne pouvons pas faire attendre la princesse. Maintenant, en route pour le château !${prompt}
+  7350: Une patrouille de Chevaliers Royaux stationnée à Ghelsba Outpost a signalé une activité étrange des Orcs au fond de Yughott Grotto.${prompt}
+  7351: D'après vos rapports, nous savons déjà que les bêtes ont construit un portail géant, mais leurs motivations restent floues.${prompt}
+  7352: Cela me donne des frissons de penser à ce que ces Orcs préparent avec ce portail...${prompt}
+  7353: ${name-player}, ta prochaine mission est de te rendre à Ghelsba et de poursuivre ton enquête sur les activités des Orcs.${prompt}
+  7354: Sois sur tes gardes lorsque tu t'aventures profondément dans Yughott Grotto. Perdre un aventurier tel que toi serait un grand coup pour tout San d'Oria.${prompt}
+  7355: Je vois que tu as besoin de plus de temps pour te préparer. Quand tu seras prêt, je t'attendrai.${prompt}
+  7356: C'est difficile à croire que les Orcs ont entre leurs mains un équipement aussi dangereux. Nous devrons envoyer davantage de patrouilles pour prévenir tout nouveau développement dans leurs plans maléfiques.${prompt}
+  7357: 'Et ce ${keyitem-singular: 0[2]}... Nous devrons l’analyser et commencer la reproduction pour nos forces. Nous ne pouvons pas laisser les Orcs mettre la Main du Dragon avant que San d’Oria ne le fasse.${prompt}'
+  7358: Félicitations pour l'achèvement de ta mission. Hein ? Connais-je un aventurier nommé Eideialc ? Je n'en ai jamais entendu parler.${prompt}
+  7359: Mais tu n'as pas à t'inquiéter d'un simple voyageur. Tu es dans une toute autre catégorie. Tu es maintenant rang 8 !${prompt}
+  7360: La cérémonie de passage à l'âge adulte de la princesse Claidie approche. Cette cérémonie est un élément important de la tradition d'Oraguille.${prompt} 
+  7361: Monarlais Halver a lancé un appel aux aventuriers de haut rang pour leur assistance au Château d'Oraguille.${prompt}
+  7362: Ah, la jeune princesse est enfin devenue une dame... Oh, je suis désolé. Tu peux obtenir les détails de ta prochaine mission auprès de Sir Halver.${prompt} 
+  7363: Quoi ? Tu ne souhaites pas rendre la pareille à la gentillesse que la princesse t'a montrée ces derniers mois ? Comme tu voudras... mais si tu changes d'avis, tu sais où me trouver.${prompt}
+  7364: Je suis occupé avec les préparatifs de la cérémonie de passage à l'âge adulte de la princesse Claidie. Tu ne sais pas quel genre de vermine pourrait errer dans les rues et chercher des ennuis.${prompt}
+  7365: La cérémonie de passage à l'âge adulte de la princesse Claidie est sur le point de commencer à la cathédrale. Je dois rester à mon poste, mais pourquoi ne pas y assister ?${prompt}
+  7366: Le roi demande votre audience. Il vous a choisi parmi la montagne d'aventuriers de San d'Oria. Vous devriez vous sentir honoré !${prompt}
+  7367: Vous avez mûri d'un aventurier débutant en un grand atout pour notre royaume. Ne nous décevez pas.${prompt}
+  7368: Il n'y a pas besoin de modestie en ce moment. Le destin de San d'Oria est en jeu !${prompt}
+  7369: Les autorités affirment qu'un sombre nuage de désespoir plane sur le Royaume. Elles demandent l'assistance uniquement des meilleurs aventuriers.${prompt}
+  7370: Je ne peux penser à personne de plus qualifié que vous. Accepterez-vous cette mission ?${prompt}
   7371: |-
-    Then proceed to the Audience Chamber in the Chateau d'Oraguille.
-    Word has it that His Highness is not feeling that well. He may not be present for your briefing.${prompt}
-  7372: ${choice-player-gender}[Sir/Lady] ${name-player}! The Kingdom is counting on you. Who else, I ask you, is worthy for this task?${prompt}
-  7373: Ah, a time of great change is upon us. In a matter of days, the Rites of Succession will be held at the cathedral in Northern San d'Oria. It is then that the new heir to the throne will be decided.${prompt}
-  7374: Due to the unpredictable circumstances that took place at the princess's coming-of-age ceremony, this time, only authorized personnel will be allowed near the proceedings. However, the royal family has requested your services as a guard.${prompt}
-  7375: Even we Royal Knights have not been granted permission to attend... You must be held in high regard by His Highness. I envy you, ${choice-player-gender}[Sir/Ma'am].${prompt}
-  7376: When you have finished your preparations, proceed directly to the cathedral to report.${prompt}
-  7377: Off the record, which of the two princes do you think should be the next heir to the throne?${prompt}
+    Alors rendez-vous dans la Salle d'Audience du Château d'Oraguille.
+    On dit que Son Altesse ne se sent pas très bien. Il pourrait ne pas être présent pour votre briefing.${prompt}
+  7372: ${choice-player-gender}[Monsieur/Madame] ${name-player} ! Le Royaume compte sur vous. Qui d'autre, je vous le demande, est digne de cette tâche ?${prompt}
+  7373: Ah, une période de grands changements s'annonce. Dans quelques jours seulement, les Rites de Succession auront lieu à la cathédrale du Nord de San d'Oria. C'est alors que le nouvel héritier au trône sera décidé.${prompt}
+  7374: En raison des circonstances imprévisibles survenues lors de la cérémonie de passage à l'âge adulte de la princesse, cette fois, seuls le personnel autorisé seront autorisés à s'approcher des procédures. Cependant, la famille royale a demandé vos services en tant que garde.${prompt}
+  7375: Même nous, Chevaliers Royaux, n'avons pas été autorisés à y assister... Vous devez être très estimé par Son Altesse. Je vous envie, ${choice-player-gender}[Monsieur/Madame].${prompt}
+  7376: Lorsque vous aurez terminé vos préparatifs, rendez-vous directement à la cathédrale pour faire votre rapport.${prompt}
+  7377: Officieusement, lequel des deux princes pensez-vous devrait être le prochain héritier du trône ?${prompt}
   7378: |-
-    It is a difficult decision, but...
+    C'est une décision difficile, mais...
     ${selection-lines}
-    Trion is better suited.
-    Pieuje is better suited.${prompt}
+    Trion est mieux adapté.
+    Pieuje est mieux adapté.${prompt}
   7379: |-
     Hm...
-    Being the oldest, he is the true heir, and many people believe he is the most suited to rule the Kingdom. However, Prince Pieuje's prudent ways may be what this country is lacking.${prompt}
-  7380: Many think as you do, ${choice-player-gender}[Sir/Lady] ${name-player}. However, what this country may need is someone who will not back down in the face of a threat--someone who will stand up for the pride of the Kingdom.${prompt}
-  7381: But our opinion is of no matter. Lightbringer will decide who is the most suited to stand over our fine nation. And do not speak a word of today's exchange, for the monarlais will have our heads if he finds out.${prompt}
-  7382: I realize that you must have many preparations before taking on such an important mission. Take your time and return here when you are ready.${prompt}
-  7383: 'DEBUG: U_MS_START= "${number: 0}"${prompt}'
-  7384: 'DEBUG: Went to Davoi, got the report.${prompt}'
+    Étant l'aîné, il est le véritable héritier, et beaucoup de gens pensent qu'il est le plus adapté pour diriger le Royaume. Cependant, les voies prudentes du Prince Pieuje pourraient être ce qui manque à ce pays.${prompt}
+  7380: Beaucoup pensent comme vous, ${choice-player-gender}[Monsieur/Madame] ${name-player}. Cependant, ce dont ce pays pourrait avoir besoin, c'est de quelqu'un qui ne reculera pas face à une menace, quelqu'un qui défendra la fierté du Royaume.${prompt}
+  7381: Mais notre opinion n'a pas d'importance. Lumineux décidera qui est le mieux adapté pour diriger notre magnifique nation. Et ne parlez pas un mot de notre échange d'aujourd'hui, car le monarlais aura nos têtes s'il découvre.${prompt}
+  7382: Je réalise que vous devez avoir de nombreuses préparations avant de prendre une mission aussi importante. Prenez votre temps et revenez ici quand vous serez prêt.${prompt}
+  7383: 'DÉBOGAGE : U_MS_START= "${number: 0}"${prompt}'
+  7384: 'DÉBOGAGE : Je suis allé à Davoi, j’ai obtenu le rapport.${prompt}'
   7385: |-
-    Clear Conditions Fulfilled:
+    Conditions de réalisation des objectifs :
     ${selection-lines}
-    1-1　Brought back Orcish Axe.
-    1-2　Brought back Bat Fang.
-    1-3　Rescued the children.
-    2-1　Training complete.
-    2-2　Finished Davoi village.
-    2-3　Visited other countries.
-    3-1　Davoi Killing Grounds.
+    1-1　Rapportez la hache orc.
+    1-2　Rapportez la dent de chauve-souris.
+    1-3　Sauvez les enfants.
+    2-1　Formation terminée.
+    2-2　Village de Davoi terminé.
+    2-3　Visité d'autres pays.
+    3-1　Champs de bataille de Davoi.
     3-2.
     3-3.
     4-1.
@@ -18050,10 +18050,10 @@ entries:
     9-2.
     10-1.
     10-2.${prompt}
-  7386: Trick or treat...${prompt}
+  7386: Farce ou friandise...${prompt}
   7387: |-
-    Thank you...
-    And now for your treat...${prompt}
+    Merci...
+    Et maintenant pour votre friandise...${prompt}
   7388: Here, take this...${prompt}
   7389: If you put this on and walk around, something...unexpected might happen...${prompt}
   7390: Thank you...${prompt}
