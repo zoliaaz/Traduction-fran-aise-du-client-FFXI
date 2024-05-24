@@ -19643,12 +19643,12 @@ entries:
   8441: Je ne peux pas accepter des choses que je n'ai pas demandées encore. Écoutez d'abord ma demande, voyons !${prompt}
   8442: Bien joué, ${name-player} ! Vous avez ma -- non -- toute notre gratitude. Avec cela, notre Royaume de San d'Oria connaîtra sûrement enfin la paix.${prompt}
   8443: 'Aimeriez-vous ${article} ${item-article: 0[2]} ?${prompt}'
-  8444: Hello!${prompt}
+  8444: Bonjour!${prompt}
   8445: |-
-    Accept mission?
+    Accepter la mission ?
     ${selection-lines}
-    Accept.
-    No, thanks.${prompt}
+    Accepter.
+    Non, merci.${prompt}
   8446: Puis-je vous intéresser par des produits de Norvallen ?${prompt}
   8447: Produits de Ronfaure à vendre !${prompt}
   8448: J'ai des produits frais en provenance de Zulkheim !${prompt}
