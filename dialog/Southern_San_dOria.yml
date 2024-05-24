@@ -16196,70 +16196,70 @@ entries:
     ${selection-lines}
     Yes.
     No.${prompt}
-  6501: The cutscene has unexpectedly terminated. Examine the Resume Point to continue.
+  6501: La cinématique s'est terminée de manière inattendue. Examinez le Point de Reprise pour continuer.
   6502: |-
-    What do you wish to do?
+    Que souhaitez-vous faire ?
     ${selection-lines}
-    Show me the cutscene again.
-    Skip the cutscene and continue.${prompt}
-  6503: Displaying the next scene.
-  6504: Alter egos may be used here without any effect on enmity.
-  6505: '${color-alt: 123}The maximum level of the content you are currently attempting is ${number: 0}.${prompt}'
+    Montrez-moi à nouveau la cinématique.
+    Passer la cinématique et continuer.${prompt}
+  6503: Affichage de la scène suivante.
+  6504: Les alter ego peuvent être utilisés ici sans aucun effet sur l'animosité.
+  6505: 'Le niveau maximum du contenu que vous essayez actuellement est de ${number: 0}.${prompt}'
   6506: '${number: 0} ${number: 1} ${number: 2} ${number: 3}'
   6507: '${number: 4} ${number: 5} ${number: 6} ${number: 7}'
-  6508: The Unity ranking tabulation period has begun.
-  6509: The Unity ranking tabulation period has ended.
-  6510: '${choice: 0}[Unranked/First place/Second place/Third place/Fourth place/Fifth place]: ${choice: 1}[Pieuje/Ayame/Invincible Shield/Apururu/Maat/Aldo/Jakoh Wahcondalo/Naja Salaheem/Flaviria/Yoran-Oran/Sylvie].'
+  6508: La période de classement Unity a commencé.
+  6509: La période de classement Unity est terminée.
+  6510: '${choice: 0}[Non classé/En première place/En deuxième place/En troisième place/En quatrième place/En cinquième place]: ${choice: 1}[Pieuje/Ayame/Bouclier Invincible/Apururu/Maat/Aldo/Jakoh Wahcondalo/Naja Salaheem/Flaviria/Yoran-Oran/Sylvie].' 
   6511: |-
-    Jump into the vortex?
+    Sautez dans le vortex ?
     ${selection-lines}
-    Off we go!
-    Not just yet.${prompt}
-  6512: Nothing out of the ordinary happens.${prompt}
-  6513: '${color-alt: 123}You are unable to proceed to the next area because ${choice: 0}[Rise of the Zilart/Chains of Promathia/Treasures of Aht Urhgan/Wings of the Goddess/Seekers of Adoulin] is not registered to your account.${prompt}'
-  6514: 'You are now able to call forth alter egos here because you have obtained the ${keyitem-singular: 0[2]} key item.'
-  6515: 'You cannot carry any more ${keyitem-plural: 0[2]}.${prompt}'
-  6516: '${color-alt: 138}You have been promoted to ${choice: 0}[/Private First Class/Superior Private/Lance Corporal/Corporal/Sergeant/Sergeant Major/Chief Sergeant/Second Lieutenant/First Lieutenant/Captain]!${prompt}'
-  6517: Your bags mysteriously feel a little bit heavier...${prompt}
-  6518: 'The bonds tying you to Altana have strengthened, enabling you to experience all the memories of ${choice: 0}[Rise of the Zilart/Chains of Promathia/Treasures of Aht Urhgan/Wings of the Goddess/Seekers of Adoulin]!${prompt}'
-  6519: '${color-alt: 138}You are unable to make further progress in Rhapsodies of Vana''diel due to an event occurring in the ${choice: 1}[Chains of Promathia/Treasures of Aht Urhgan/Wings of the Goddess/Seekers of Adoulin/Rise of the Zilart] missions.'
-  6520: '${color-alt: 138}You are unable to make further progress in Rhapsodies of Vana''diel due to an event occurring in the quest ${choice: 1}[Champion of the Dawn/A Forbidden Reunion].'
-  6521: The crystal glistens with a divine radiance.${prompt}
-  6522: '${color-alt: 138}You must visit Aht Urhgan Whitegate in order to progress in the Rhapsodies of Vana''diel missions.'
-  6523: '${color-alt: 123}You have been awarded the temporary item ${item-singular: 0[2]} as compensation.${prompt}'
-  6524: '${color-alt: 123}You already posses the temporary item ${item-singular: 0[2]} and cannot receive another one as compensation.${prompt}'
-  6525: '${color-alt: 123}Please claim your item before maintenance for the February 2022 version update begins.${prompt}'
-  6526: 'You have been rewarded ${article} ${item-article: 0[2]} as compensation.${prompt}'
-  6527: 'You are unable to accept the compensatory ${item-singular: 0[2]}. Free up some space in your inventory and try again.${prompt}'
-  6528: '${color-alt: 123}Please claim your item before maintenance for the October 2022 version update begins.${prompt}'
-  6529: 'You receive ${number: 0} deeds for a total of ${number: 1}!${prompt}'
-  6530: '${color-alt: 161}Word has been received of a Mamool Ja threat in Wajaom Woodlands.${prompt}'
-  6531: '${color-alt: 161}Word has been received of a Troll threat in Wajaom Woodlands.${prompt}'
-  6532: '${color-alt: 161}Word has been received of an undead threat in Bhaflau Thickets.${prompt}'
-  6533: 'If you wish to ride a chocobo, you must possess ${keyitem-article: 7[2]} and have a high enough job level.${prompt}'
-  6534: 'You can rent a chocobo for ${number: 0} gil. I see you currently have ${number: 1} gil.${prompt}'
-  6535: You can rent a chocobo, but because your level is so low, you won't be able to ride for very long. Also, equipment that extends your riding time will have no effect.${prompt}
-  6536: 'If you still want one, it will cost you ${number: 0} gil. I see you currently have ${number: 1} gil.${prompt}'
+    Allons-y !
+    Pas tout de suite.${prompt}
+  6512: Rien d'anormal ne se produit.${prompt}
+  6513: 'Vous ne pouvez pas avancer vers la zone suivante car ${choice: 0}[Rise of the Zilart/Chains of Promathia/Treasures of Aht Urhgan/Wings of the Goddess/Seekers of Adoulin] n’est pas enregistré sur votre compte.${prompt}'
+  6514: 'Vous pouvez maintenant invoquer des alter ego ici car vous avez obtenu l’objet clé ${keyitem-singular: 0[2]}.'
+  6515: 'Vous ne pouvez pas transporter plus de ${keyitem-plural: 0[2]}.${prompt}'
+  6516: '${color-alt: 138}Vous avez été promu ${choice: 0}[/Soldat de première classe/Soldat supérieur/Caporal/Caporal-chef/Sergent/Sergent-chef/Adjudant/Second lieutenant/Premier lieutenant/Capitaine] !${prompt}'
+  6517: Vos sacs semblent mystérieusement un peu plus lourds...${prompt}
+  6518: 'Les liens vous reliant à Altana se sont renforcés, vous permettant de revivre tous les souvenirs de ${choice: 0}[Rise of the Zilart/Chains of Promathia/Treasures of Aht Urhgan/Wings of the Goddess/Seekers of Adoulin] !${prompt}'
+  6519: '${color-alt: 138}Vous ne pouvez pas avancer davantage dans Rhapsodies of Vana''diel en raison d’un événement survenu dans les missions ${choice: 1}[Chains of Promathia/Treasures of Aht Urhgan/Wings of the Goddess/Seekers of Adoulin/Rise of the Zilart].'
+  6520: '${color-alt: 138}Vous ne pouvez pas avancer davantage dans Rhapsodies of Vana''diel en raison d’un événement survenu dans la quête ${choice: 1}[Champion of the Dawn/A Forbidden Reunion].'
+  6521: Le cristal brille d'une radiance divine.${prompt}
+  6522: '${color-alt: 138}Vous devez visiter Aht Urhgan Whitegate pour progresser dans les missions Rhapsodies of Vana''diel.'
+  6523: '${color-alt: 123}Vous avez reçu l’objet temporaire ${item-singular: 0[2]} en compensation.${prompt}'
+  6524: '${color-alt: 123}Vous possédez déjà l’objet temporaire ${item-singular: 0[2]} et ne pouvez pas en recevoir un autre en compensation.${prompt}'
+  6525: '${color-alt: 123}Veuillez réclamer votre objet avant le début de la maintenance pour la mise à jour de la version de février 2022.${prompt}'
+  6526: 'Vous avez été récompensé d’un ${item-article: 0[2]} en compensation.${prompt}'
+  6527: 'Vous ne pouvez pas accepter le ${item-singular: 0[2]} compensatoire. Libérez de l’espace dans votre inventaire et réessayez.${prompt}'
+  6528: '${color-alt: 123}Veuillez réclamer votre objet avant le début de la maintenance pour la mise à jour de la version d’octobre 2022.${prompt}'
+  6529: 'Vous recevez ${number: 0} titres de propriété pour un total de ${number: 1} !${prompt}'
+  6530: '${color-alt: 161}Des nouvelles ont été reçues d’une menace Mamool Ja dans les Bois de Wajaom.${prompt}'
+  6531: '${color-alt: 161}Des nouvelles ont été reçues d’une menace de trolls dans les Bois de Wajaom.${prompt}'
+  6532: '${color-alt: 161}Des nouvelles ont été reçues d’une menace de morts-vivants dans les Taillis de Bhaflau.${prompt}'
+  6533: 'Si vous souhaitez monter un chocobo, vous devez posséder ${keyitem-article: 7[2]} et avoir un niveau de travail suffisamment élevé.${prompt}'
+  6534: 'Vous pouvez louer un chocobo pour ${number: 0} gils. Je vois que vous avez actuellement ${number: 1} gils.${prompt}'
+  6535: Vous pouvez louer un chocobo, mais comme votre niveau est très bas, vous ne pourrez pas monter très longtemps. De plus, l'équipement qui prolonge votre temps de monte n'aura aucun effet.${prompt}
+  6536: 'Si vous en voulez toujours un, cela vous coûtera ${number: 0} gils. Je vois que vous avez actuellement ${number: 1} gils.${prompt}'
   6537: |-
-    Do you wish to rent a chocobo?
+    Souhaitez-vous louer un chocobo ?
     ${selection-lines}
-    Yes, I do.
-    No, thank you.${prompt}
-  6538: You don't have enough gil.${prompt}
-  6539: I realize that you are in a hurry, ${choice-player-gender}[sir/ma'am]. However, might I make a simple request? One of our associate's chocobos has lost her way and cannot return home.${prompt}
-  6540: 'Would you be so kind as to deliver her to ${choice: 3}[the Kingdom/the Republic/the Federation/the Duchy/the Duchy/the Duchy/the hidden] stables in ${choice: 3}[Southern San d''Oria/the Bastok Mines/Windurst Woods/Upper Jeuno/Lower Jeuno/Port Jeuno/Norg]? ${prompt}'
+    Oui, je le veux.
+    Non, merci.${prompt}
+  6538: Vous n'avez pas assez de gils.${prompt}
+  6539: Je comprends que vous soyez pressé, ${choice-player-gender}[monsieur/madame]. Cependant, pourrais-je vous faire une simple demande ? Un des chocobos de notre associé s'est égaré et ne peut pas rentrer chez lui.${prompt}
+  6540: 'Voudriez-vous avoir la gentillesse de la ramener aux écuries ${choice: 3}[du Royaume/de la République/de la Fédération/du Duché/du Duché/du Duché/du caché] dans ${choice: 3}[le Sud de San d''Oria/les Mines de Bastok/les Bois de Windurst/Upper Jeuno/Lower Jeuno/Port Jeuno/Norg] ? ${prompt}'
   6541: |-
-    Lend a helping hand?
+    Donner un coup de main ?
     ${selection-lines}
-    I have better things to do.
-    Of course!${prompt}
+    J'ai mieux à faire.
+    Bien sûr !${prompt}
   6542: |-
-    Oh, thank you so very much!
-    You shall be rewarded by our associates upon delivery of the chocobo.${prompt}
+    Oh, merci infiniment !
+    Vous serez récompensé par nos associés dès la livraison du chocobo.${prompt}
   6543: |-
-    You cannot obtain the ${item-singular: 0[2]}.
-    Come back after sorting your inventory.${prompt}
-  6544: 'Would you be so kind as to deliver her to ${choice: 3}[the entrance to the Gustav Tunnel (B-8)/Bibiki Bay (G-10)/the entrance of Uggalepih Temple (J-11)]?${prompt}'
+    Vous ne pouvez pas obtenir le ${item-singular: 0[2]}.
+    Revenez après avoir trié votre inventaire.${prompt}
+  6544: 'Serait-il possible de la ramener à ${choice: 3}[l’entrée du Tunnel de Gustav (B-8)/Bibiki Bay (G-10)/l’entrée du Temple d’Uggalepih (J-11)] ?${prompt}'
   6545: |-
     Only those fulfilling both requirements set forth by the alliance may ride a chocobo.
     First, you must be a soldier of a respectable level in the Allied Forces. Secondly, you must be in possession of ${keyitem-article: 7[2]}.${prompt}
@@ -19515,109 +19515,109 @@ entries:
     ${lettercase: 1}${item-plural: 2[2]}.
     ${lettercase: 1}${item-plural: 3[2]}.
     Retour.${prompt}
-  8355: '${lettercase: 1}${item-plural: 0[2]} are ${item-plural: 1[2]} when you first buy them at the store.${prompt}'
-  8356: 'Once opened, they start making ${item-plural: 2[2]} and become the communications tool everyone''s using.${prompt}'
-  8357: 'You can set the color and name of your ${item-singular: 1[2]} when you open it. Make sure to set the ones you like because you can''t change them afterwards!${prompt}'
-  8358: '${lettercase: 1}${item-plural: 1[2]} are ${item-plural: 0[2]} that have been opened and function as a communications tool.${prompt}'
+  8355: 'Les téléphones portables sont des téléphones portables lorsque vous les achetez pour la première fois au magasin.${prompt}'
+  8356: 'Une fois ouverts, ils commencent à fabriquer des téléphones portables et deviennent l’outil de communication que tout le monde utilise.${prompt}'
+  8357: 'Vous pouvez définir la couleur et le nom de votre téléphone portable lorsque vous l’ouvrez. Assurez-vous de définir ceux que vous aimez car vous ne pouvez pas les changer par la suite!${prompt}'
+  8358: 'Les téléphones portables sont des téléphones portables qui ont été ouverts et fonctionnent comme un outil de communication.${prompt}'
   8359: |-
-    You can make ${item-plural: 2[2]} and ${item-plural: 3[2]} from those shells.
-    They're like the party leader of an adventuring party.${prompt}
-  8360: 'All items created by your ${item-singular: 1[2]} retain the ${item-singular: 1[2]}''s color and name.${prompt}'
-  8361: Make the name something unique so that it's easy to remember.${prompt}
-  8362: '${lettercase: 1}${item-plural: 2[2]} are pearls that ${item-plural: 1[2]} make.${prompt}'
-  8363: 'If you equip one, you can communicate with people who have the same ${item-plural: 2[2]} and the ${item-singular: 1[2]} they were made from.${prompt}'
-  8364: They're like the party members in an adventuring party.${prompt}
-  8365: '${lettercase: 1}${article} ${item-article: 3[2]} is a bag full of ${item-plural: 2[2]}. You can make one by metamorphosing a ${item-singular: 2[2]} for that purpose.${prompt}'
-  8366: 'It won''t have all the features of ${article} ${item-article: 1[2]}, but you can take out an endless amount of ${item-plural: 2[2]} like ${article} ${item-article: 1[2]}.${prompt}'
-  8367: 'You have to use ${article} ${item-article: 1[2]} to make ${article} ${item-article: 3[2]}. The same goes if you want to turn it back into ${article} ${item-article: 2[2]}.${prompt}'
-  8368: They're like the party leaders of an alliance of adventuring parties...${prompt}
+    Vous pouvez fabriquer des téléphones portables et des coques de téléphone portable à partir de ces coquilles.
+    Ils sont comme le chef de groupe d'une équipe d'aventuriers.${prompt}
+  8360: 'Tous les objets créés par votre téléphone portable conservent la couleur et le nom du téléphone portable.${prompt}'
+  8361: Choisissez un nom unique pour qu'il soit facile à retenir.${prompt}
+  8362: 'Les perles sont des perles que les téléphones portables fabriquent.${prompt}'
+  8363: 'Si vous en équipez une, vous pouvez communiquer avec les personnes qui ont les mêmes téléphones portables et la perle à partir de laquelle ils ont été fabriqués.${prompt}' 
+  8364: Ils sont comme les membres de l'équipe dans un groupe d'aventuriers.${prompt}
+  8365: 'Une coque de téléphone portable est un sac plein de perles. Vous pouvez en fabriquer une en métamorphosant une perle à cet effet.${prompt}'
+  8366: 'Elle n’aura pas toutes les fonctionnalités d’un téléphone portable, mais vous pouvez en sortir une quantité infinie de perles comme avec un téléphone portable.${prompt}'
+  8367: 'Vous devez utiliser un téléphone portable pour fabriquer une coque de téléphone portable. Il en va de même si vous voulez le reconvertir en téléphone portable.${prompt}'
+  8368: Ils sont comme les chefs d'alliance des groupes d'aventuriers...${prompt}
   8369: |-
-    You want to know how to use them?
-    Where should I start?${prompt}
+    Vous voulez savoir comment les utiliser ?
+    Par où devrais-je commencer ?
   8370: |-
-    What do you want to know about?
+    Que voulez-vous savoir ?
     ${selection-lines}
-    Where to get one.
-    Assigning a color and name.
-    Making ${item-plural: 2[2]}.
-    Equipping them.
-    Speaking into them.
-    Metamorphosing ${article} ${item-article: 2[2]}.
-    Throwing them away.
-    Back.${prompt}
-  8371: 'You can buy ${item-plural: 1[2]} in shops. They''re a little pricey, though.${prompt}'
-  8372: It might be best if you ask friends who want pearls to chip in.${prompt}
-  8373: 'A freshly bought ${item-singular: 0[2]} has neither a color nor a name.${prompt}'
-  8374: '${lettercase: 1}${article} ${item-article: 1[2]} becomes usable only after you''ve chosen its color and given it a name. Then you can use it to make ${item-plural: 2[2]}.${prompt}'
+    Où en obtenir un.
+    Attribuer une couleur et un nom.
+    Fabriquer des téléphones portables.
+    Les équiper.
+    Parler dedans.
+    Métamorphoser ${article} ${item-article: 2[2]}.
+    Les jeter.
+    Retour.${prompt}
+  8371: 'Vous pouvez acheter des ${item-plural: 1[2]} dans les magasins. Ils sont un peu chers, cependant.${prompt}'
+  8372: Il serait peut-être préférable de demander à des amis qui veulent des perles de participer.${prompt}
+  8373: 'Un ${item-singular: 0[2]} fraîchement acheté n’a ni couleur ni nom.${prompt}'
+  8374: '${lettercase: 1}${article} ${item-article: 1[2]} devient utilisable uniquement après avoir choisi sa couleur et lui avoir donné un nom. Ensuite, vous pouvez l’utiliser pour fabriquer ${item-plural: 2[2]}.${prompt}'
   8375: |-
-    You can combine different amounts of blue, red, and green to make your shell's color.
-    You can only use alphabet letters for the name, but you can use capital and lowercase letters anywhere you want.${prompt}
-  8376: '${lettercase: 1}${item-plural: 2[2]} are made from ${item-plural: 1[2]}.${prompt}'
-  8377: 'Making them is easy. Just equip your ${item-singular: 1[2]}, then go to “Linkshell” in the menu and select “Create Pearl”!${prompt}'
-  8378: 'All ${item-plural: 2[2]} made this way retain the ${item-singular: 1[2]}''s color and name, so it''s easy to tell who can hear you!${prompt}'
-  8379: 'You can make as many ${item-plural: 2[2]} as you want, whenever you want, so don''t worry about making too many of them!${prompt}'
-  8380: 'You can also make ${item-plural: 2[2]} with ${article} ${item-article: 3[2]} the same way.${prompt}'
-  8381: 'Oh, and...you use your ${item-singular: 1[2]} to make ${item-plural: 3[2]}, too, but it''s a little complicated so I''ll tell you later.${prompt}'
-  8382: 'You have to equip ${article} ${item-article: 1[2]} for it to have any effect.${prompt}'
-  8383: 'Go to “Linkshell” from the menu, choose the ${item-singular: 1[2]} you want to equip, and you''re all ready to go.${prompt}'
-  8384: It's a little different from equipping weapons and armor.${prompt}
-  8385: After you've done this, an icon that represents what you've equipped will appear beside your name. This is where the color you chose becomes visible.${prompt}
-  8386: 'If someone “checks” you in this state, they will be able to see the name of the ${item-singular: 1[2]} you have on.${prompt}'
-  8387: 'Follow the same steps to equip ${item-plural: 2[2]} and ${item-plural: 3[2]}.${prompt}'
-  8388: 'To speak into ${article} ${item-article: 1[2]}, change your chat mode to “linkshell,” and whatever you say will be heard by everyone who has the same “link.”${prompt}'
-  8389: You can also type “/linkshell” and type your message. The shorter version is “/l” (lowercase “L” for “linkshell”).${prompt}
-  8390: 'Ah, but of course, you have to have ${article} ${item-article: 1[2]}, ${item-singular: 2[2]}, or ${item-singular: 3[2]} equipped first.${prompt}'
-  8391: 'Whatever you say will only be heard by people who have the ${item-singular: 1[2]}, ${item-singular: 2[2]}, or ${item-singular: 3[2]} with the same link.${prompt}'
-  8392: 'So if you want to stop listening to your link, all you have to do is unequip your ${item-singular: 1[2]}, ${item-singular: 2[2]}, or ${item-singular: 3[2]}.${prompt}'
-  8393: '${lettercase: 1}${article} ${item-article: 1[2]} can metamorphose other people''s ${item-plural: 2[2]} and ${item-plural: 3[2]}. Of course, it can only affect those that were made from the same ${item-singular: 1[2]}.${prompt}'
+    Vous pouvez combiner différentes quantités de bleu, de rouge et de vert pour obtenir la couleur de votre coquille.
+    Vous ne pouvez utiliser que des lettres de l'alphabet pour le nom, mais vous pouvez utiliser des lettres majuscules et minuscules où vous voulez.${prompt}
+  8376: '${lettercase: 1}${item-plural: 2[2]} sont fabriquées à partir de ${item-plural: 1[2]}.${prompt}'
+  8377: 'Les fabriquer est facile. Équipez simplement votre ${item-singular: 1[2]}, puis allez dans "Linkshell" dans le menu et sélectionnez "Créer perle"!${prompt}'
+  8378: 'Toutes les ${item-plural: 2[2]} fabriquées de cette manière conservent la couleur et le nom du ${item-singular: 1[2]}, il est donc facile de savoir qui peut vous entendre!${prompt}'
+  8379: 'Vous pouvez fabriquer autant de ${item-plural: 2[2]} que vous le souhaitez, quand vous le souhaitez, alors ne vous inquiétez pas d’en fabriquer trop!${prompt}'
+  8380: 'Vous pouvez également fabriquer des ${item-plural: 2[2]} avec ${article} ${item-article: 3[2]} de la même manière.${prompt}'
+  8381: 'Oh, et... vous utilisez également votre ${item-singular: 1[2]} pour fabriquer des ${item-plural: 3[2]}, mais c’est un peu compliqué alors je vous expliquerai plus tard.${prompt}'
+  8382: 'Vous devez équiper ${article} ${item-article: 1[2]} pour qu’il ait un effet.${prompt}'
+  8383: 'Allez dans "Linkshell" dans le menu, choisissez le ${item-singular: 1[2]} que vous souhaitez équiper, et vous êtes prêt à partir.${prompt}'
+  8384: C'est un peu différent d'équiper des armes et des armures.${prompt}
+  8385: Après avoir fait cela, une icône représentant ce que vous avez équipé apparaîtra à côté de votre nom. C'est là que la couleur que vous avez choisie devient visible.${prompt}
+  8386: 'Si quelqu’un vous "vérifie" dans cet état, il pourra voir le nom du ${item-singular: 1[2]} que vous avez équipé.${prompt}'
+  8387: 'Suivez les mêmes étapes pour équiper ${item-plural: 2[2]} et ${item-plural: 3[2]}.${prompt}'
+  8388: 'Pour parler dans ${article} ${item-article: 1[2]}, changez votre mode de discussion en "linkshell", et tout ce que vous direz sera entendu par tous ceux qui ont le même "lien".${prompt}'
+  8389: Vous pouvez également taper "/linkshell" et taper votre message. La version abrégée est "/l" (minuscule "L" pour "linkshell").${prompt}
+  8390: 'Ah, mais bien sûr, vous devez d’abord avoir ${article} ${item-article: 1[2]}, ${item-singular: 2[2]} ou ${item-singular: 3[2]} équipé.${prompt}'
+  8391: 'Tout ce que vous direz ne sera entendu que par les personnes qui ont le ${item-singular: 1[2]}, ${item-singular: 2[2]}, ou ${item-singular: 3[2]} avec le même lien.${prompt}'
+  8392: 'Donc, si vous voulez arrêter d’écouter votre lien, il vous suffit de déséquiper votre ${item-singular: 1[2]}, ${item-singular: 2[2]}, ou ${item-singular: 3[2]}.${prompt}'
+  8393: '${lettercase: 1}${article} ${item-article: 1[2]} peut métamorphoser les ${item-plural: 2[2]} et ${item-plural: 3[2]} d’autres personnes. Bien sûr, cela ne peut affecter que ceux qui ont été fabriqués à partir du même ${item-singular: 1[2]}.${prompt}'
   8394: |-
-    There are two types of metamorphoses, which are:
-     1: Make into sack / Make into pearl
-     2: Kick.${prompt}
-  8395: 'Both need the target ${item-singular: 2[2]} or ${item-singular: 3[2]} to be equipped at the time.${prompt}'
-  8396: '“Make into sack / Make into pearl” makes the target ${item-singular: 2[2]} into ${article} ${item-article: 3[2]} and vice-versa.${prompt}'
-  8397: 'It''s useful if you want someone else to take care of handing out ${item-plural: 2[2]} in your place.${prompt}'
-  8398: '“Kick” actually breaks the link with the target ${item-singular: 2[2]} or ${item-singular: 3[2]} and turns it into junk.${prompt}'
+    Il existe deux types de métamorphoses, qui sont :
+     1: Transformer en sac / Transformer en perle
+     2: Exclure.${prompt}
+  8395: 'Les deux nécessitent que le ${item-singular: 2[2]} ou ${item-singular: 3[2]} cible soit équipé à ce moment-là.${prompt}'
+  8396: 'La commande “Transformer en sac / Transformer en perle” transforme le ${item-singular: 2[2]} cible en ${article} ${item-article: 3[2]} et vice versa.${prompt}'
+  8397: 'C’est utile si vous voulez que quelqu’un d’autre se charge de distribuer les ${item-plural: 2[2]} à votre place.${prompt}'
+  8398: 'La commande “Exclure” rompt effectivement le lien avec le ${item-singular: 2[2]} ou ${item-singular: 3[2]} cible et le transforme en déchet.${prompt}'
   8399: |-
-    Once kicked, the ${item-singular: 2[2]} will become broken and unusable...
-    Only use this in extreme cases!${prompt}
-  8400: '${lettercase: 1}${item-plural: 3[2]} can also be used to “kick” but they can only affect ${item-plural: 2[2]}.${prompt}'
-  8401: '${lettercase: 1}${item-plural: 1[2]}, ${item-plural: 2[2]}, and ${item-plural: 3[2]} are normal items, so they can be thrown away easily.${prompt}'
-  8402: But as normal items, you'll lose them permanently if you throw them away.${prompt}
-  8403: 'It won''t really matter if it''s ${article} ${item-article: 2[2]}, but throwing away ${article} ${item-article: 1[2]} is not a good idea!${prompt}'
+    Une fois exclu, le ${item-singular: 2[2]} deviendra cassé et inutilisable...
+    Utilisez ceci uniquement en cas d'extrême nécessité !${prompt}
+  8400: '${lettercase: 1}${item-plural: 3[2]} peuvent également être utilisés pour “exclure”, mais ils ne peuvent affecter que ${item-plural: 2[2]}.${prompt}'
+  8401: '${lettercase: 1}${item-plural: 1[2]}, ${item-plural: 2[2]}, et ${item-plural: 3[2]} sont des objets normaux, donc ils peuvent être jetés facilement.${prompt}'
+  8402: Mais en tant qu'objets normaux, vous les perdrez définitivement si vous les jetez.${prompt}
+  8403: 'Cela n’a pas vraiment d’importance s’il s’agit de ${article} ${item-article: 2[2]}, mais jeter ${article} ${item-article: 1[2]} n’est pas une bonne idée !${prompt}'
   8404: |-
-    Oh, are you sure?
-    Well, if you ever have any questions about ${item-plural: 1[2]} you know where to find me!${prompt}
-  8405: (So anyway, as I was saying...)
-  8406: I am the theologian Adaunel. I'm now examining this map of the sky for heresies by that so-called “astronomer” of Windurst!${prompt}
-  8407: Perhaps you could assist me. Why, to spend ten years scrawling all this rubbish... What a dull place Windurst must be!${prompt}
+    Oh, êtes-vous sûr ?
+    Eh bien, si vous avez des questions sur ${item-plural: 1[2]}, vous savez où me trouver !${prompt}
+  8405: (Quoi qu'il en soit, comme je le disais...)
+  8406: Je suis le théologien Adaunel. J'examine maintenant cette carte du ciel pour y déceler les hérésies par ce soi-disant “astronome” de Windurst !${prompt}
+  8407: Peut-être pourriez-vous m'aider. Pour passer dix ans à gribouiller toutes ces bêtises... Windurst doit être un endroit ennuyeux !${prompt}
   8408: |-
-    Look at the star map?
+    Regarder la carte des étoiles ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  8409: I blame you not! Why, were the stars not fixed upon the celestial sphere, they would fall from the sky! Everyone knows that!${prompt}
-  8410: Then, take a deep breath, for sinister signs may lurk between the lines of this “map.”${prompt}
-  8411: It's all pagan myth, you see. Look, lightning from the hand of “Ramuh” in the southwest spawns the “Bomb” of fire!${prompt}
-  8412: The angry gods call “Leviathan” from the western sea to put it out, washing away civilization... Or so that Windurstian claims.${prompt}
-  8413: I cannot abide the belief that Vana'diel, blessed of Altana herself, is just another dot in the sky! I'll debunk all this at the next symposium.${prompt}
-  8414: Hrmm... Good eyes, friend. I thought my presence unknown, but you found me.${prompt}
-  8415: You are fortunate... For my knowledge of the enemy, culled from many years on the battlefield, can be yours.${prompt}
+    Oui.
+    Non.${prompt}
+  8409: Je ne vous en blâme pas ! Pourquoi, si les étoiles n'étaient pas fixées sur la sphère céleste, elles tomberaient du ciel ! Tout le monde le sait !${prompt}
+  8410: Alors, respirez profondément, car des signes sinistres peuvent se cacher entre les lignes de cette “carte”.${prompt}
+  8411: Tout cela n'est que mythe païen, voyez-vous. Regardez, l'éclair de la main de “Ramuh” au sud-ouest engendre la “Bombe” de feu !${prompt}
+  8412: Les dieux en colère appellent “Léviathan” de la mer occidentale pour l'éteindre, emportant la civilisation... Ou du moins, c'est ce que prétend ce Windurstien.${prompt}
+  8413: Je ne supporte pas l'idée que Vana'diel, bénie d'Altana elle-même, ne soit qu'un autre point dans le ciel ! Je réfuterai tout cela lors du prochain symposium.${prompt}
+  8414: Hrmm... Bon œil, mon ami. Je pensais que ma présence était inconnue, mais vous m'avez trouvé.${prompt}
+  8415: Vous avez de la chance... Car ma connaissance de l'ennemi, acquise au fil de nombreuses années sur le champ de bataille, peut être la vôtre.${prompt}
   8416: |-
-    Look at the tattered diagram?
+    Regarder le diagramme déchiré ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  8417: “Know thy enemy, know thyself. A hundred battles, a hundred victories.” A great general of antiquity spoke these words.${prompt}
-  8418: Good. Curiosity is a virtue! Look at my diagram, and listen well, for I shall say this but once.${prompt}
-  8419: 'This is the law of relations: Beasts bare their fangs at dim-witted lizards, while the lizards must turn to the vapid vermin for their sup.${prompt}'
-  8420: The multitude of vermin crop plantoids close to the ground, while the long-lived plantoids draw nourishment from the corpses of beasts with their roots.${prompt}
-  8421: Birds that wing the skies carry aquans to their graves, while water-wise aquans suck the shapeless forms of amorphs dry.${prompt}
-  8422: The silent, shapeless amorphs slip into the nests of birds and feed on their feathery brood.${prompt}
-  8423: 'And this is the law of oppositions: The cursed undead shun the pseudo-life of the arcana, while the arcana avoid the undead.${prompt}'
-  8424: The immortal dragons shun the death-bringing demons, while the demon spellweavers avoid dragons, against whom their magic is useless.${prompt}
-  8425: All of this is different from the regular divisions of life, based upon my own experience and observation.${prompt}
-  8426: Sharpen your senses, and watch your enemies closely. Soon, a world of understanding will open before you.${prompt}
+    Oui.
+    Non.${prompt}
+  8417: “Connais ton ennemi, connais-toi toi-même. Cent batailles, cent victoires.” Un grand général de l'antiquité a prononcé ces mots.${prompt}
+  8418: Bien. La curiosité est une vertu ! Regardez mon diagramme et écoutez bien, car je ne le répéterai qu'une fois.${prompt}
+  8419: 'C’est la loi des relations : Les bêtes montrent leurs crocs aux lézards stupides, tandis que les lézards doivent se tourner vers les vermines vides pour leur subsistance.${prompt}'
+  8420: La multitude de vermines récolte les plantoïdes près du sol, tandis que les plantoïdes à longue vie tirent leur nourriture des cadavres de bêtes avec leurs racines.${prompt}
+  8421: Les oiseaux qui parcourent les cieux transportent les aquans vers leur tombe, tandis que les aquans avisés sucent les formes informes des amorphes.${prompt}
+  8422: Les amorphes silencieux et informes se glissent dans les nids des oiseaux et se nourrissent de leur couvée emplumée.${prompt}
+  8423: 'Et voici la loi des oppositions : Les morts-vivants maudits évitent la pseudo-vie de l’arcane, tandis que l’arcane évite les morts-vivants.${prompt}'
+  8424: Les dragons immortels évitent les démons porteurs de mort, tandis que les lanceurs de sorts démoniaques évitent les dragons, contre lesquels leur magie est inutile.${prompt}
+  8425: Tout cela est différent des divisions régulières de la vie, basées sur ma propre expérience et observation.${prompt}
+  8426: Aiguisez vos sens et observez attentivement vos ennemis. Bientôt, un monde de compréhension s'ouvrira devant vous.${prompt}
   8427: Vous cherchez votre chemin dans le sud de San d'Oria ? Vous pouvez regarder ma carte si vous le souhaitez.${prompt}
   8428: |-
     Regarder la carte ?
@@ -19846,7 +19846,7 @@ entries:
     　
     Annuler.${prompt}
   8553: |-
-    Which E.F. would you like to join?
+    À quelle E.F. souhaitez-vous vous joindre ?
     ${selection-lines}
     .
     .
@@ -19854,23 +19854,21 @@ entries:
     .
     .
     .
-    The Zulkheim Region (Lv.20～).
-    The Norvallen Region (Lv.25～).
+    La région de Zulkheim (Niveau 20～).
+    La région de Norvallen (Niveau 25～).
     .
-    The Derfland Region (Lv.25～).
+    La région de Derfland (Niveau 25～).
     .
-    The Kolshushu Region (Lv.20～).
-    The Aragoneu Region (Lv.25～).
-    The Fauregandi Region (Lv.35～).
-    The Valdeaunia Region (Lv.40～).
-    The Qufim Region (Lv.25～).
-    The Li'Telor Region (Lv.35～).
-    The Kuzotz Region (Lv.40～).
-    The Vollbow Region (Lv.65～).
-    The Elshimo Lowlands Region (Lv.35～).
-    The Elshimo Uplands Region (Lv.45～).
-    .
-    .
+    La région de Kolshushu (Niveau 20～).
+    La région de Aragoneu (Niveau 25～).
+    La région de Fauregandi (Niveau 35～).
+    La région de Valdeaunia (Niveau 40～).
+    La région de Qufim (Niveau 25～).
+    La région de Li'Telor (Niveau 35～).
+    La région de Kuzotz (Niveau 40～).
+    La région de Vollbow (Niveau 65～).
+    La région des basses terres d'Elshimo (Niveau 35～).
+    La région des hautes terres d'Elshimo (Niveau 45～).
     .
     .
     .
@@ -19879,7 +19877,9 @@ entries:
     .
     .
     .
-    None.${prompt}
+    .
+    .
+    Aucune.${prompt}
   8554: |-
     Qu'il en soit ainsi.
     Vous avez jusqu'à la prochaine annonce des résultats de la conquête pour accomplir cette mission.
@@ -19938,37 +19938,37 @@ entries:
   8566: 'Il est possible de recharger complètement ${article} ${item-article: 2[2]} en l’échangeant avec l’un des gardes de votre nation, y compris les gardes des avant-postes. Une recharge nécessite 50 points de conquête.${prompt}'
   8567: 'Il est possible de recharger complètement ${article} ${item-article: 2[2]} en l’échangeant avec l’un des gardes de votre nation, y compris les gardes des avant-postes. Une recharge nécessite 100 points de conquête.${prompt}'
   8568: 'Il est possible de recharger complètement ${article} ${item-article: 2[2]} en l’échangeant avec l’un des gardes de votre nation, y compris les gardes des avant-postes. Une recharge nécessite 200 points de conquête.${prompt}'
-  8569: During the time of the Great War, it was possible to have this item recharged in exchange for Allied Notes. From my understanding, that practice has recently become commonplace in the Near East. Though you'll be needing Imperial Standing credits if you wish to use the service there.${prompt}
-  8570: 'You do not possess the ${number: 1} ${choice-plurality: 1}[conquest point/conquest points] required to fully recharge the ${item-singular: 0[2]}.${prompt}'
-  8571: 'Please be aware that you can only purchase or recharge ${article} ${item-article: 0[2]} once during the period between each conquest results tally.${prompt}'
-  8572: 'The ${item-singular: 0[2]} is already fully charged.${prompt}'
-  8573: 'Your ${item-singular: 0[2]} has received ${number: 2} ${choice-plurality: 2}[charge/charges] in exchange for ${number: 1} ${choice-plurality: 1}[conquest point/conquest points]. It is now fully recharged.${prompt}'
-  8574: 'I will trade you ${article} ${item-article: 0[2]} for your ${item-singular: 1[2]}. May it serve you well.${prompt}'
-  8575: 'You do not meet the requirements to purchase the ${item-singular: 2[2]}.${prompt}'
-  8576: 'Your rank is too low to purchase the ${item-singular: 2[2]}.${prompt}'
-  8577: 'You do not have enough conquest points to purchase the ${item-singular: 2[2]}.${prompt}'
+  8569: Durant la Grande Guerre, il était possible de recharger cet objet en échange de Notes Alliées. D'après ce que je comprends, cette pratique est récemment devenue courante au Proche-Orient. Bien que vous ayez besoin de crédits de statut impérial si vous souhaitez utiliser le service là-bas.${prompt}
+  8570: 'Vous ne possédez pas les ${number: 1} ${choice-plurality: 1}[point de conquête/points de conquête] requis pour recharger entièrement le ${item-singular: 0[2]}.${prompt}'
+  8571: 'Veuillez noter que vous ne pouvez acheter ou recharger ${article} ${item-article: 0[2]} qu’une seule fois entre chaque décompte des résultats de la conquête.${prompt}'
+  8572: 'Le ${item-singular: 0[2]} est déjà entièrement chargé.${prompt}'
+  8573: 'Votre ${item-singular: 0[2]} a reçu ${number: 2} ${choice-plurality: 2}[charge/charges] en échange de ${number: 1} ${choice-plurality: 1}[point de conquête/points de conquête]. Il est maintenant entièrement rechargé.${prompt}'
+  8574: 'Je vais échanger ${article} ${item-article: 0[2]} contre votre ${item-singular: 1[2]}. Qu’il vous soit utile.${prompt}'
+  8575: 'Vous ne remplissez pas les conditions requises pour acheter le ${item-singular: 2[2]}.${prompt}'
+  8576: 'Votre rang est trop bas pour acheter le ${item-singular: 2[2]}.${prompt}'
+  8577: 'Vous n’avez pas assez de points de conquête pour acheter le ${item-singular: 2[2]}.${prompt}'
   8578: |-
-    You cannot equip the ${item-singular: 2[2]}.
-    Do you still wish to proceed?${prompt}
+    Vous ne pouvez pas équiper le ${item-singular: 2[2]}.
+    Souhaitez-vous quand même continuer ?${prompt}
   8579: |-
-    Your level is too low to equip the ${item-singular: 2[2]}.
-    Do you still wish to proceed?${prompt}
+    Votre niveau est trop bas pour équiper le ${item-singular: 2[2]}.
+    Souhaitez-vous quand même continuer ?${prompt}
   8580: |-
-    You seem to be able to equip the ${item-singular: 2[2]}.
-    Do you wish to proceed?${prompt}
-  8581: 'Are you sure you want to purchase the ${item-singular: 2[2]}?${prompt}'
+    Il semble que vous puissiez équiper le ${item-singular: 2[2]}.
+    Souhaitez-vous continuer ?${prompt}
+  8581: 'Êtes-vous sûr de vouloir acheter le ${item-singular: 2[2]} ?${prompt}'
   8582: |-
-    Proceed?
+    Continuer ?
     ${selection-lines}
-    Yes, purchase item.
-    Cancel purchase.${prompt}
+    Oui, acheter l'article.
+    Annuler l'achat.${prompt}
   8583: |-
-    Proceed?
+    Continuer ?
     ${selection-lines}
-    Yes, even though I can't equip it.
-    Cancel purchase.${prompt}
+    Oui, même si je ne peux pas l'équiper.
+    Annuler l'achat.${prompt}
   8584: |-
-    Which item do you wish to purchase?
+    Quel article souhaitez-vous acheter ?
     ${selection-lines}
     ${lettercase: 1}${item-singular: 0[2]}.
     ${lettercase: 1}${item-singular: 1[2]}.
@@ -19978,11 +19978,11 @@ entries:
     ${lettercase: 1}${item-singular: 5[2]}.
     ${lettercase: 1}${item-singular: 6[2]}.
     ${lettercase: 1}${item-singular: 7[2]}.
-    Next page.
-    Previous page.
-    Back.${prompt}
+    Page suivante.
+    Page précédente.
+    Retour.${prompt}
   8585: |-
-    Which item do you wish to purchase?
+    Quel article souhaitez-vous acheter ?
     ${selection-lines}
     ${lettercase: 1}${item-singular: 0[2]}...${number: 8} pts.
     ${lettercase: 1}${item-singular: 1[2]}...${number: 9} pts.
@@ -19992,117 +19992,117 @@ entries:
     ${lettercase: 1}${item-singular: 5[2]}...${number: 13} pts.
     ${lettercase: 1}${item-singular: 6[2]}...${number: 14} pts.
     ${lettercase: 1}${item-singular: 7[2]}...${number: 15} pts.
-    Next page.
-    Previous page.
-    Back.${prompt}
+    Page suivante.
+    Page précédente.
+    Retour.${prompt}
   8586: 'ENDPARA：${number: 0}${prompt}'
   8587: |-
-    Which service do you request?
+    Quel service demandez-vous ?
     ${selection-lines}
-    Buy/Sell items.
-    Teleportation.
-    Nothing.${prompt}
+    Acheter/Vendre des articles.
+    Téléportation.
+    Rien.${prompt}
   8588: |-
-    Do you really wish to be teleported?
+    Souhaitez-vous vraiment être téléporté ?
     ${selection-lines}
-    Yes.
-    Teleport with gil.
-    Teleport with conquest points.
-    No.${prompt}
-  8589: Welcome to the border shop! If you trade me unused equipment, I'll add their value to your country's region points!${prompt}
+    Oui.
+    Téléport avec des gils.
+    Téléport avec des points de conquête.
+    Non.${prompt}
+  8589: Bienvenue à la boutique frontalière ! Si vous me donnez des équipements inutilisés, j'ajouterai leur valeur aux points de région de votre pays !${prompt}
   8590: |-
-    It should please you to know that I now also deal in ${item-plural: 0[2]}.
-    Bigger pieces will earn you more points for your nation, and I'll even toss some gil into the equation!${prompt}
-  8591: I see that your home country has control of this region. Feel free to browse through my wares.${prompt}
-  8592: I see that your home country is allies with the country in control of this region. Feel free to browse through my wares.${prompt}
-  8593: 'I can teleport you to your home country for ${number: 1} gil or ${number: 3} conquest ${choice-plurality: 3}[point/points].${prompt}'
-  8594: "Word has it that the entire set of mog tablets has been recovered. \nOh, happy day! In honor of the occasion, I can teleport you to your home country free of charge.${prompt}"
-  8595: I am terribly sorry, but it seems as if you do not have enough gil.${prompt}
-  8596: I am terribly sorry, but it seems as if you do not have enough conquest points.${prompt}
-  8597: However, due to your home country's lack of influence in the region, this is the only transaction I am authorized to perform with you at the moment.${prompt}
-  8598: I am looking forward to doing business with you again in the future!${prompt}
-  8599: Thank you. This will increase your nation's region points by a small amount. If you have anything else, by all means, trade them to me.${prompt}
-  8600: Thank you. This will increase your nation's region points moderately. If you have anything else, by all means, trade them to me.${prompt}
-  8601: Thank you. This will increase your nation's region points greatly. If you have anything else, by all means, trade them to me.${prompt}
-  8602: I could not accept one or more items you tried to trade me. Please remove those items and try again.${prompt}
-  8603: Sorry. I can only take certain types of weapons, shields, or armor.${prompt}
+    Il devrait vous plaire de savoir que je traite désormais également avec des ${item-plural: 0[2]}.
+    Les pièces plus importantes vous rapporteront plus de points pour votre nation, et je vais même ajouter quelques gils à l'équation !${prompt}
+  8591: Je vois que votre pays d'origine contrôle cette région. N'hésitez pas à parcourir mes articles.${prompt}
+  8592: Je constate que votre pays d'origine est allié avec le pays qui contrôle cette région. N'hésitez pas à parcourir mes articles.${prompt}
+  8593: 'Je peux vous téléporter vers votre pays d’origine pour ${number: 1} gil ou ${number: 3} ${choice-plurality: 3}[point/points] de conquête.${prompt}'
+  8594: "On dit que l'ensemble des tablettes mog a été récupéré. \nOh, jour de joie ! En l'honneur de l'occasion, je peux vous téléporter vers votre pays d'origine gratuitement.${prompt}"
+  8595: Je suis désolé, mais il semble que vous n'ayez pas assez de gils.${prompt}
+  8596: Je suis désolé, mais il semble que vous n'ayez pas assez de points de conquête.${prompt}
+  8597: Cependant, en raison du manque d'influence de votre pays d'origine dans la région, c'est la seule transaction que je suis autorisé à effectuer avec vous pour le moment.${prompt}
+  8598: J'ai hâte de faire à nouveau affaire avec vous à l'avenir !${prompt}
+  8599: Merci. Cela augmentera légèrement les points de région de votre nation. Si vous avez autre chose, n'hésitez pas à me les échanger.${prompt}
+  8600: Merci. Cela augmentera modérément les points de région de votre nation. Si vous avez autre chose, n'hésitez pas à me les échanger.${prompt}
+  8601: Merci. Cela augmentera grandement les points de région de votre nation. Si vous avez autre chose, n'hésitez pas à me les échanger.${prompt}
+  8602: Je n'ai pas pu accepter un ou plusieurs articles que vous avez essayé de me céder. Veuillez retirer ces articles et réessayer.${prompt}
+  8603: Désolé. Je ne peux accepter que certains types d'armes, boucliers ou armures.${prompt}
   8604: |-
-    Thank you. This will increase your nation's region points ${choice: 1}[by a small amount/moderately/greatly].
-    For this transaction I will also furnish you with ${number: 0} gil.${prompt}
-  8605: My apologies, but this type of item needs to be individually appraised. Please trade them to me one at a time.${prompt}
-  8606: (DEBUG) Back to hometown!${prompt}
+    Merci. Cela augmentera les points de région de votre nation ${choice: 1}[de manière légère/modérée/grande].
+    Pour cette transaction, je vous fournirai également ${number: 0} gils.${prompt}
+  8605: Mes excuses, mais ce type d'article doit être évalué individuellement. Veuillez me les céder un par un.${prompt}
+  8606: (DEBUG) Retour à la ville natale !${prompt}
   8607: |-
-    What do you want?
+    Que désirez-vous ?
     ${selection-lines}
-    Would you cast Signet on me?
-    I'd like to set my home point here.
-    Nothing.${prompt}
+    Pouvez-vous me lancer un Signet ?
+    J'aimerais définir mon point de rappel ici.
+    Rien.${prompt}
   8608: |-
-    What do you want?
+    Que désirez-vous ?
     ${selection-lines}
-    Pay ${number: 7} gil and set my home point here.
-    Nothing.${prompt}
-  8609: Your home point has been set.${prompt}
-  8610: You do not have enough gil to set your home point here.${prompt}
-  8611: 'I will set your home point here.${wait-animation: 0}${prompt}'
+    Payer ${number: 7} gils et définir mon point de rappel ici.
+    Rien.${prompt}
+  8609: Votre point de rappel a été défini.${prompt}
+  8610: Vous n'avez pas suffisamment de gils pour définir votre point de rappel ici.${prompt}
+  8611: 'Je vais définir votre point de rappel ici.${wait-animation: 0}${prompt}'
   8612: |-
-    We are currently on a beastman-purging campaign. We support adventurers from all nations.
-    Do your best to rid the world of those vile creatures.${prompt}
+    Nous sommes actuellement en campagne de purge contre les bêtes. Nous soutenons les aventuriers de toutes les nations.
+    Faites de votre mieux pour débarrasser le monde de ces créatures viles.${prompt}
   8613: |-
-    We are currently conducting an international exchange campaign.
-    You may spend your conquest points to purchase items from foreign guards.${prompt}
+    Nous menons actuellement une campagne d'échange international.
+    Vous pouvez dépenser vos points de conquête pour acheter des articles auprès des gardes étrangers.${prompt}
   8614: |-
-    Thanks to you, our nation is now first in the conquest race!
-    Here is a small token of our appreciation.${prompt}
-  8615: Adventurers from nations that are ranked higher than ours in the conquest race may purchase items from us, but at a higher rate.${prompt}
+    Grâce à vous, notre nation est désormais en tête de la course à la conquête !
+    Voici un petit témoignage de notre appréciation.${prompt}
+  8615: Les aventuriers des nations classées plus haut que la nôtre dans la course à la conquête peuvent acheter des articles chez nous, mais à un tarif plus élevé.${prompt}
   8616: |-
-    You cannot currently purchase this item.
-    Please choose another.${prompt}
-  8617: Currently our nation is dispatching Expeditionary Forces across Vana'diel, and requests the participation of brave adventurers such as yourself.${prompt}
-  8618: 'Requirements for participating in an E.F. are simple. Your party must consist of ${number: 5} members. Each member must be from this country, rank 3 or higher, and have reached a sufficient level.${prompt}'
-  8619: Once your party is ready, come to me and I will teleport you to the nearest outpost.${prompt}
-  8620: There, you will receive an insignia of the Expeditionary Force. When you succeed in taking control of the area, you can exchange the insignia for your reward.${prompt}
+    Vous ne pouvez actuellement pas acheter cet article.
+    Veuillez en choisir un autre.${prompt}
+  8617: Actuellement, notre nation envoie des Forces Expéditionnaires à travers Vana'diel et sollicite la participation de braves aventuriers comme vous.${prompt}
+  8618: 'Les exigences pour participer à une F.E. sont simples. Votre groupe doit être composé de ${number: 5} membres. Chaque membre doit être de ce pays, de rang 3 ou plus et avoir atteint un niveau suffisant.${prompt}'
+  8619: Une fois votre groupe prêt, venez me voir et je vous téléporterai jusqu'au poste avancé le plus proche.${prompt}
+  8620: Là-bas, vous recevrez un insigne de la Force Expéditionnaire. Lorsque vous réussirez à prendre le contrôle de la zone, vous pourrez échanger l'insigne contre votre récompense.${prompt}
   8621: |-
-    Join the E.F. in ${choice: 7}[Ronfaure/Zulkheim/Norvallen/Gustaberg/Derfland/Sarutabaruta/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/The Elshimo Lowlands/The Elshimo Uplands]?
+    Rejoignez la F.E. dans ${choice: 7}[Ronfaure/Zulkheim/Norvallen/Gustaberg/Derfland/Sarutabaruta/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/The Elshimo Lowlands/The Elshimo Uplands] ?
     ${selection-lines}
-    Join the E.F.
-    Not this time.${prompt}
-  8622: Your party doesn't have enough members, or some of the members are not in this area. Gather all those who are participating and return here.${prompt}
-  8623: One of your party members is not a citizen of this country. We do not allow any foreign participants in the E.F.${prompt}
-  8624: One of your party members has not achieved rank level 3. We cannot reveal any of our tactical strategies to those who have not shown their loyalty to our country.${prompt}
-  8625: 'One of your party members is below level ${number: 6}. For the safety of the adventurer and those accompanying him or her, we cannot allow anyone below the limit to participate in the E.F.${prompt}'
+    Rejoindre la F.E.
+    Pas cette fois.${prompt}
+  8622: Votre groupe n'a pas suffisamment de membres, ou certains des membres ne sont pas dans cette région. Rassemblez tous ceux qui participent et revenez ici.${prompt}
+  8623: Un des membres de votre groupe n'est pas citoyen de ce pays. Nous n'acceptons aucun participant étranger dans la F.E.${prompt}
+  8624: Un des membres de votre groupe n'a pas atteint le niveau de rang 3. Nous ne pouvons révéler aucune de nos stratégies tactiques à ceux qui n'ont pas prouvé leur loyauté envers notre pays.${prompt}
+  8625: 'Un des membres de votre groupe est en dessous du niveau ${number: 6}. Pour la sécurité de l’aventurier et de ceux qui l’accompagnent, nous ne pouvons pas permettre à quiconque en dessous de la limite de participer à la F.E.${prompt}'
   8626: |-
-    I see that you are ready.
-    I grant you permission to join the current Expeditionary Force. When you are ready to teleport to the outpost, talk to me once more.${prompt}
-  8627: 'Are you ready to be teleported to ${choice: 7}[Ronfaure/Zulkheim/Norvallen/Gustaberg/Derfland/Sarutabaruta/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li''Telor/Kuzotz/Vollbow/The Elshimo Lowlands/The Elshimo Uplands]? Remember that party members who have not been granted permission to attend the E.F. will be left behind.${prompt}'
+    Je vois que vous êtes prêt.
+    Je vous accorde la permission de rejoindre la Force Expéditionnaire actuelle. Quand vous serez prêt à vous téléporter vers le poste avancé, parlez-moi à nouveau.${prompt}
+  8627: 'Êtes-vous prêt à être téléporté vers ${choice: 7}[Ronfaure/Zulkheim/Norvallen/Gustaberg/Derfland/Sarutabaruta/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li''Telor/Kuzotz/Vollbow/The Elshimo Lowlands/The Elshimo Uplands] ? Rappelez-vous que les membres du groupe qui n’ont pas été autorisés à participer à la F.E. seront laissés derrière.${prompt}'
   8628: |-
-    Teleport to ${choice: 7}[Ronfaure/Zulkheim/Norvallen/Gustaberg/Derfland/Sarutabaruta/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/The Elshimo Lowlands/The Elshimo Uplands]?
+    Téléportez-vous vers ${choice: 7}[Ronfaure/Zulkheim/Norvallen/Gustaberg/Derfland/Sarutabaruta/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/The Elshimo Lowlands/The Elshimo Uplands] ?
     ${selection-lines}
-    Ready!
-    Wait just a minute...${prompt}
-  8629: 'Cancel your participation in the E.F. to ${choice: 7}[Ronfaure/Zulkheim/Norvallen/Gustaberg/Derfland/Sarutabaruta/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li''Telor/Kuzotz/Vollbow/The Elshimo Lowlands/The Elshimo Uplands]?${prompt}'
+    Prêt !
+    Attendez une minute...${prompt}
+  8629: 'Annulez votre participation à la F.E. vers ${choice: 7}[Ronfaure/Zulkheim/Norvallen/Gustaberg/Derfland/Sarutabaruta/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li''Telor/Kuzotz/Vollbow/The Elshimo Lowlands/The Elshimo Uplands] ?${prompt}'
   8630: |-
-    Quit the E.F.?
+    Quittez la F.E. ?
     ${selection-lines}
-    Yes.
-    Change locations.
-    No.${prompt}
-  8631: Are you sure?${prompt}
+    Oui.
+    Changer d'endroit.
+    Non.${prompt}
+  8631: Êtes-vous sûr ?${prompt}
   8632: |-
-    Really quit the E.F.?
+    Vraiment quitter la F.E. ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
+    Oui.
+    Non.${prompt}
   8633: |-
-    I see.
-    If you ever wish to participate in the future, I will be waiting here to take your application.${prompt}
-  8634: 'Your ${color: 5}EF Badge${color: 1} vanishes!${prompt}'
-  8635: 'Katsu-yaku pointos : ${number: 0}!${prompt}'
-  8636: 'This ${keyitem-singular: 0[2]} is no longer valid. We will dispose of it here.${prompt}'
-  8637: Your invalid ensignias have been disposed of.${prompt}
-  8638: Welcome back from the expedition. Our nation was successful in its campaign. Let me give you your reward.${prompt}
-  8639: 'You received ${number: 1} conquest points!${prompt}'
-  8640: When participating in an Expeditionary Force, concentrate your efforts on fighting foes that give you the most experience points. And don't forget to confiscate the contents of any beastman treasure chest you happen to come upon.${prompt}
+    Je comprends.
+    Si vous souhaitez participer à l'avenir, je serai ici pour prendre votre candidature.${prompt}
+  8634: 'Votre ${color: 5}Badge F.E.${color: 1} disparaît !${prompt}'
+  8635: 'Pointos Katsu-yaku : ${number: 0} !${prompt}'
+  8636: 'Cet ${keyitem-singular: 0[2]} n’est plus valide. Nous le jetterons ici.${prompt}'
+  8637: Vos insignes invalides ont été jetés.${prompt}
+  8638: Bienvenue de retour de l'expédition. Notre nation a réussi dans sa campagne. Laissez-moi vous donner votre récompense.${prompt}
+  8639: 'Vous avez reçu ${number: 1} point(s) de conquête !${prompt}'
+  8640: Lorsque vous participez à une Force Expéditionnaire, concentrez vos efforts sur la lutte contre les ennemis qui vous rapportent le plus de points d'expérience. Et n'oubliez pas de confisquer le contenu de tout coffre au trésor des bêtes que vous pourriez trouver.${prompt}
   8641: |-
     Je vais maintenant vous remettre votre insigne. Assurez-vous de lire l'inscription au dos avant de commencer vos fonctions.
     Une fois que le Sceau vous aura été conféré, préparez-vous à être téléporté.${prompt}
@@ -20313,62 +20313,62 @@ entries:
   8846: PAUSE${prompt}
   8847: '${number: 1}${prompt}'
   8848: |-
-    Voidwatch debug menu.
+    Menu de débogage de Voidwatch.
     ${selection-lines}
-    Do nothing.
-    Obtain 5,000,000 cruor.
-    Obtain necessary items.
-    Obtain level one items.${prompt}
-  8849: You obtain a full set of Voidwatch key items, and may now participate in any and all Voidwatch operations.${prompt}
-  8850: You now have 5,000,000 cruor!${prompt}
-  8851: Might you be an adventurer? It's easy to get lost out there in the wilds, so I've put up signposts. I hope they'll be of use!${prompt}
-  8852: Actually, I have a problem. I heard from an adventurer that my signposts were stained by foul weather recently, and with all the dangers out there...${prompt}
-  8853: I was wondering if you might help. If you could just clean the four signposts in Jugner Forest for me... Of course, I'd pay you for your time.${prompt}
+    Ne rien faire.
+    Obtenir 5,000,000 de cruor.
+    Obtenir les objets nécessaires.
+    Obtenir les objets de niveau un.${prompt}
+  8849: Vous obtenez un ensemble complet d'objets clés de Voidwatch, et pouvez maintenant participer à toutes les opérations de Voidwatch.${prompt}
+  8850: Vous avez maintenant 5,000,000 de cruor !${prompt}
+  8851: Pourriez-vous être un aventurier ? Il est facile de se perdre dans les étendues sauvages, alors j'ai mis en place des panneaux indicateurs. J'espère qu'ils vous seront utiles !${prompt}
+  8852: En fait, j'ai un problème. J'ai entendu d'un aventurier que mes panneaux indicateurs ont été tachés par un temps de mauvais augure récemment, et avec tous les dangers là-bas...${prompt}
+  8853: Je me demandais si vous pourriez aider. Si vous pouviez simplement nettoyer les quatre panneaux indicateurs dans la forêt de Jugner pour moi... Bien sûr, je vous paierais pour votre temps.${prompt}
   8854: |-
-    Will you clean the signposts?
+    Allez-vous nettoyer les panneaux indicateurs ?
     ${selection-lines}
-    Let's get to work!
-    Not now.${prompt}
-  8855: You'll clean them? That's great news, indeed! Remember, there are four signposts in Jugner Forest that need cleaning.${prompt}
-  8856: I see... Hopefully, no one will lose their way on account of unreadable signposts!${prompt}
-  8857: There are four signposts that need cleaning, all of them in Jugner Forest. Much obliged!${prompt}
-  8858: A traveler just told me that the signposts are immaculate! I owe you my sincerest gratitude, and, of course, your pay!${prompt}
-  8859: No dirt on the signposts, and no lost adventurers on my conscience! You've done me a great service.${prompt}
-  8860: The flyer is accepted.${prompt}
-  8861: This person already has a flyer.${prompt}
-  8862: Blendare looks over curiously for a moment.${prompt}
-  8863: Rosel looks over curiously for a moment.${prompt}
-  8864: A magic shop, eh? Hmm... A little magic could go a long way for making a leisurely retirement! Ho ho ho!${prompt}
-  8865: Maugie looks over curiously for a moment.${prompt}
-  8866: A magic shop? Maybe I'll check it out one of these days. Could help with my work, even...${prompt}
-  8867: Adaunel looks over curiously for a moment.${prompt}
-  8868: A magic shop? That'd be a fine place to peddle my wares. I smell a profit! I'll be up to my gills in gil, I will!${prompt}
-  8869: Leuveret looks over curiously for a moment.${prompt}
-  8870: You are an adventurer, are you not? I have a task for you, if you are interested.${prompt}
+    Mettons-nous au travail !
+    Pas maintenant.${prompt}
+  8855: Vous allez les nettoyer ? C'est une excellente nouvelle, en effet ! N'oubliez pas, il y a quatre panneaux indicateurs dans la forêt de Jugner qui ont besoin d'être nettoyés.${prompt}
+  8856: Je vois... Espérons que personne ne se perdra à cause de panneaux illisibles !${prompt}
+  8857: Il y a quatre panneaux indicateurs qui ont besoin d'être nettoyés, tous situés dans la forêt de Jugner. Merci beaucoup !${prompt}
+  8858: Un voyageur vient de me dire que les panneaux indicateurs sont impeccables ! Je vous dois ma plus sincère gratitude, et bien sûr, votre salaire !${prompt}
+  8859: Pas de saleté sur les panneaux indicateurs, et pas d'aventuriers perdus sur ma conscience ! Vous m'avez rendu un grand service.${prompt}
+  8860: Le prospectus est accepté.${prompt}
+  8861: Cette personne a déjà un prospectus.${prompt}
+  8862: Blendare jette un regard curieux pendant un moment.${prompt}
+  8863: Rosel jette un regard curieux pendant un moment.${prompt}
+  8864: Une boutique de magie, hein ? Hmm... Un peu de magie pourrait être très utile pour rendre une retraite paisible ! Ho ho ho !${prompt}
+  8865: Maugie jette un regard curieux pendant un moment.${prompt}
+  8866: Une boutique de magie ? Peut-être que j'irai y jeter un coup d'œil un de ces jours. Ça pourrait m'aider dans mon travail, même...${prompt}
+  8867: Adaunel jette un regard curieux pendant un moment.${prompt}
+  8868: Une boutique de magie ? Ce serait un bel endroit pour écouler mes marchandises. Je sens un profit ! Je vais être plein aux as, je le sens !${prompt}
+  8869: Leuveret jette un regard curieux pendant un moment.${prompt}
+  8870: Vous êtes un aventurier, n'est-ce pas ? J'ai une tâche pour vous, si vous êtes intéressé.${prompt}
   8871: |-
-    Hear Femitte's request?
+    Écouter la demande de Femitte ?
     ${selection-lines}
-    Let's hear it.
-    Not today.${prompt}
-  8872: Hm...I see.${prompt}
-  8873: Rouva?${prompt}
-  8874: Right away, my lady.${prompt}
-  8875: This is an order for some goldsmithing work. Give it to one who's skilled in the art. And I'm not talking about some two-bit adventurer!${prompt}
-  8876: And Humes really lack the required touch, wouldn't you agree? No, I want you to find an Elvaan goldsmith to fill this order.${prompt}
-  8877: That's my request.${prompt}
-  8878: You should be able to find an Elvaan goldsmith in Bastok, named--${prompt}
-  8879: Rouva! Be silent!${prompt}
-  8880: So, you found a goldsmith? Well, it's no masterpiece, but I suppose this will have to do.${prompt}
-  8881: Rouva, see that this adventurer is rewarded.${prompt}
-  8882: Was the Lady Michea well? Lady Femitte has been quite concerned about her, you know.${prompt}
-  8883: Lady Michea's parents passed away, and then Lady Michea herself went missing... Lady Femitte spent weeks trying to find her.${prompt}
-  8884: When she did find her, she tried to bring her back to San d'Oria, but Lady Femitte's relatives wouldn't have a child raised by Galka among them...${prompt}
-  8885: Of course, Lady Femitte, who was already the head of the family at such a young age, wouldn't accept their...${prompt}
-  8886: Rouva! That's enough!${prompt}
-  8887: Here is your payment. Please, give our best regards to Lady Michea. Tell her Lady Femitte cried tears of bitter regret that day...${prompt}
-  8888: While a few San d'Orians choose the life of an adventurer, the rest of us hide behind these walls, clinging to outdated traditions.${prompt}
-  8889: My lady is concerned about San d'Oria's future. She's worried how much we are bound to ceremony.${prompt}
-  8890: Of course, the convergence of old and new has always been part of who we are, hasn't it?${prompt}
+    Écoutons.
+    Pas aujourd'hui.${prompt}
+  8872: Hm...Je vois.${prompt}
+  8873: Rouva ?${prompt}
+  8874: Tout de suite, ma dame.${prompt}
+  8875: Voici une commande pour un travail de bijouterie. Donnez-la à quelqu'un qui maîtrise l'art. Et je ne parle pas d'un aventurier de seconde zone !${prompt}
+  8876: Et les Humes manquent vraiment de la touche requise, n'est-ce pas ? Non, je veux que vous trouviez un bijoutier Elvaan pour remplir cette commande.${prompt}
+  8877: C'est ma demande.${prompt}
+  8878: Vous devriez pouvoir trouver un bijoutier Elvaan à Bastok, nommé --${prompt}
+  8879: Rouva ! Tais-toi !${prompt}
+  8880: Alors, vous avez trouvé un bijoutier ? Eh bien, ce n'est pas un chef-d'œuvre, mais je suppose que cela fera l'affaire.${prompt}
+  8881: Rouva, assurez-vous que cet aventurier soit récompensé.${prompt}
+  8882: La dame Michea va bien ? Lady Femitte a été très préoccupée par elle, vous savez.${prompt}
+  8883: Les parents de la dame Michea sont décédés, et puis la dame Michea elle-même a disparu... Lady Femitte a passé des semaines à essayer de la retrouver.${prompt}
+  8884: Quand elle l'a retrouvée, elle a essayé de la ramener à San d'Oria, mais les parents de Lady Michea n'acceptaient pas qu'un enfant soit élevé par un Galka parmi eux...${prompt}
+  8885: Bien sûr, Lady Femitte, qui était déjà à la tête de la famille à un si jeune âge, n'a pas accepté leurs...${prompt}
+  8886: Rouva ! Ça suffit !${prompt}
+  8887: Voici votre paiement. S'il vous plaît, transmettez nos meilleures salutations à la dame Michea. Dites-lui que Lady Femitte a versé des larmes de regret amer ce jour-là...${prompt}
+  8888: Alors que quelques San d'Oriens choisissent la vie d'aventurier, le reste d'entre nous se cache derrière ces murs, s'accrochant à des traditions dépassées.${prompt}
+  8889: Ma dame s'inquiète pour l'avenir de San d'Oria. Elle craint à quel point nous sommes attachés à la cérémonie.${prompt}
+  8890: Bien sûr, la convergence de l'ancien et du nouveau a toujours fait partie de ce que nous sommes, n'est-ce pas ?${prompt}
   8891: 'Vous êtes un aventurier ? J’ai une tâche pour vous... Si vous pouviez me procurer ${item-count: 1[2]} ${item-given-plurality: 1[2], 0[2]}, je vous en serais très reconnaissant.${prompt}'
   8892: 'Je suis toujours à la recherche de ${item-count: 1[2]} ${item-given-plurality: 1[2], 0[2]}, vous savez! Je les achèterai en gros!${prompt}'
   8893: |-
@@ -20380,47 +20380,47 @@ entries:
   8895: Ainsi soit-il. Faites-moi savoir si vous changez d'avis.${prompt}
   8896: 'Je continue d’attendre ${item-count: 1[2]} ${item-given-plurality: 1[2], 0[2]}!${prompt}'
   8897: Merci pour votre aide. Si vous êtes intéressé, j’ai toujours besoin de plus.${prompt}
-  8898: 'Say, would you have any time on your hands? I require ${item-count: 1[2]} ${item-given-plurality: 1[2], 0[2]}, and I never seem to have enough of them.${prompt}'
-  8899: 'You don''t think you could bring me another ${item-count: 1[2]} ${item-given-plurality: 1[2], 0[2]}? Trade with me once you get some!${prompt}'
+  8898: "Dites, auriez-vous un peu de temps devant vous ? J'ai besoin de ${item-count: 1[2]} ${item-given-plurality: 1[2], 0[2]}, et je n'en ai jamais assez.${prompt}"
+  8899: "Vous ne pourriez pas m'apporter un autre ${item-count: 1[2]} ${item-given-plurality: 1[2], 0[2]} ? Faites un échange avec moi dès que vous en aurez !${prompt}"
   8900: |-
-    What say you?
+    Que dites-vous ?
     ${selection-lines}
-    I shall help.
-    No, I cannot.${prompt}
-  8901: 'Excellent! Then I''ll be waiting. Remember, it''s ${item-count: 1[2]} ${item-given-plurality: 1[2], 0[2]}.${prompt}'
-  8902: Oh, what a pity. Maybe next time, then?${prompt}
-  8903: 'Where are the ${item-count: 1[2]} ${item-given-plurality: 1[2], 0[2]} you promised?${prompt}'
-  8904: Thank you so much! Here's something in return.${prompt}
-  8905: I cannot seem to sleep recently. It's like I've forgotten how! Why, last night, I counted at least fifty-thousand sheep... I must be getting old, eh?${prompt}
-  8906: 'I''ve heard that drinking ${item-plural: 0[2]} would help. Think you could bring me one? I would be ever so grateful.${prompt}'
+    Je vais aider.
+    Non, je ne peux pas.${prompt}
+  8901: "Excellent ! Alors, j'attendrai. Rappelez-vous, c'est ${item-count: 1[2]} ${item-given-plurality: 1[2], 0[2]}.${prompt}"
+  8902: Oh, quel dommage. Peut-être la prochaine fois, alors ?${prompt}
+  8903: "Où sont les ${item-count: 1[2]} ${item-given-plurality: 1[2], 0[2]} que vous avez promis ?${prompt}"
+  8904: "Merci beaucoup ! Voici quelque chose en retour.${prompt}"
+  8905: "Je n'arrive pas à dormir récemment. C'est comme si j'avais oublié comment faire ! Pourquoi, la nuit dernière, j'ai compté au moins cinquante mille moutons... Je dois vieillir, n'est-ce pas ?${prompt}"
+  8906: "J'ai entendu dire que boire ${item-plural: 0[2]} aiderait. Pensez-vous pouvoir m'en apporter un ? Je vous en serais très reconnaissant.${prompt}"
   8907: |-
-    How about it?
+    Qu'en pensez-vous ?
     ${selection-lines}
-    Of course.
-    Not now.${prompt}
-  8908: 'Ah, that''s a great help. I know you can get ${item-plural: 0[2]} from Stray Mary, so if you find her... Good luck!${prompt}'
-  8909: Ah, that's a shame. I had hoped to sleep untroubled...${prompt}
-  8910: 'I hear Stray Mary carries ${item-plural: 0[2]}. Thanks a gillion.${prompt}'
-  8911: Merci ! Mon ronflement exprimera une gratitude que de simples mots ne peuvent pas ! Voici quelque chose en retour.${prompt}
-  8912: Soon I will sleep again. Thank you, kind adventurer.${prompt}
-  8913: I slept like a wet-eared yearling! And the dreams! Well, I won't relate them, lest you get jealous, eh? Thank you!${prompt}
-  8914: Hmm... ${name-player}, you say? No, never heard that name. Do not expect me to learn the name of every recruit!${prompt}
-  8915: Do good for the Kingdom and her people, and they shall come to know you.${prompt}
-  8916: Once you have their trust, they will request your help more readily. Just keep your head down, and your day shall come.${prompt}
-  8917: ${name-player}...? Hmm... I might have heard that name before. Then again, maybe not.${prompt}
-  8918: You are not famous yet. Keep your nose to the grindstone and work for the people. Soon, they will know you better!${prompt}
-  8919: Ah, ${name-player}. That is a name I often hear. People speak well of you!${prompt}
-  8920: Your deeds for the Kingdom have earned you much honor.${prompt}
-  8921: ${name-player}! You have become well known in these parts!${prompt}
-  8922: I hear much of your accomplishments. Keep up the good work, and greatness lies in your future.${prompt}
-  8923: Ah, ${name-player}! You are famous in our kingdom!${prompt}
-  8924: Of you no ill is spoken. Give to the Kingdom and she will give to you, no?${prompt}
-  8925: ${name-player}! I would venture that much the Kingdom has heard your name!${prompt}
-  8926: And your reputation sparkles. Indeed I am proud of you. And to think I first knew you when you were a new recruit!${prompt}
-  8927: Hello, ${name-player}. Practically all of the Kingdom has heard of you now.${prompt}
-  8928: What's more, your reputation is stellar. I look forward to even greater things from you!${prompt}
-  8929: ${name-player}! People are talking about you! Every infant in his cradle knows your name!${prompt}
-  8930: And they hold you in highest regard! I am so proud of you! May your kind deeds continue!${prompt}
+    Bien sûr.
+    Pas maintenant.${prompt}
+  8908: "Ah, c'est d'une grande aide. Je sais que vous pouvez obtenir ${item-plural: 0[2]} de Stray Mary, alors si vous la trouvez... Bonne chance !${prompt}"
+  8909: Ah, c'est dommage. J'avais espéré dormir sans être dérangé...${prompt}
+  8910: "J'entends dire que Stray Mary vend ${item-plural: 0[2]}. Merci infiniment.${prompt}"
+  8911: "Merci ! Mon ronflement exprimera une gratitude que de simples mots ne peuvent pas ! Voici quelque chose en retour.${prompt}"
+  8912: Bientôt, je vais pouvoir dormir à nouveau. Merci, brave aventurier.${prompt}
+  8913: J'ai dormi comme un agneau ! Et les rêves ! Eh bien, je ne vais pas les raconter, de peur que vous n'en soyez jaloux, hein ? Merci !${prompt}
+  8914: Hmm... ${name-player}, dites-vous ? Non, je n'ai jamais entendu ce nom. Ne vous attendez pas à ce que j'apprenne le nom de chaque recrue !${prompt}
+  8915: Faites le bien pour le Royaume et son peuple, et ils vous connaîtront.${prompt}
+  8916: Une fois que vous aurez leur confiance, ils solliciteront plus facilement votre aide. Gardez la tête basse, et votre jour viendra.${prompt}
+  8917: ${name-player}... ? Hmm... J'ai peut-être déjà entendu ce nom. Ou peut-être pas.${prompt}
+  8918: Vous n'êtes pas encore célèbre. Continuez à travailler dur pour le peuple. Bientôt, ils vous connaîtront mieux !${prompt}
+  8919: Ah, ${name-player}. C'est un nom que j'entends souvent. Les gens parlent bien de vous !${prompt}
+  8920: Vos actes pour le Royaume vous ont valu beaucoup d'honneur.${prompt}
+  8921: ${name-player} ! Vous êtes devenu bien connu dans ces contrées !${prompt}
+  8922: J'entends beaucoup parler de vos accomplissements. Continuez ainsi, et la grandeur vous attend.${prompt}
+  8923: Ah, ${name-player} ! Vous êtes célèbre dans notre royaume !${prompt}
+  8924: De vous, aucune mauvaise parole n'est prononcée. Donnez au Royaume et il vous donnera en retour, n'est-ce pas ?${prompt}
+  8925: ${name-player} ! Je dirais que le Royaume a beaucoup entendu parler de vous !${prompt}
+  8926: Et votre réputation brille. En effet, je suis fier de vous. Et dire que je vous ai connu lorsque vous étiez un nouveau recruté !${prompt}
+  8927: Bonjour, ${name-player}. Pratiquement tout le Royaume a entendu parler de vous maintenant.${prompt}
+  8928: De plus, votre réputation est excellente. J'attends avec impatience des choses encore plus grandes de votre part !${prompt}
+  8929: ${name-player} ! Les gens parlent de vous ! Chaque nourrisson dans son berceau connaît votre nom !${prompt}
+  8930: Et ils vous tiennent en très haute estime ! Je suis tellement fier de vous ! Que vos bonnes actions continuent !${prompt}
   8931: |-
     Bienvenue à la maison des enchères.
     Avez-vous des questions sur notre établissement ?${prompt}
@@ -22550,12 +22550,12 @@ entries:
   10012: |-
     These...creatures...are no longer natural beings of Vana'diel.
     They must be destroyed.${prompt}
-  10013: I cannot elaborate on the details, but know that the fate of the world depends on the early elimination of this threat...${prompt}
-  10014: Then perhaps it is best if you forget this conversation entirely.${prompt}
-  10015: I hope I have been of some assistance to you.${prompt}
+  10013: Je ne peux pas entrer dans les détails, mais sachez que le sort du monde dépend de l'élimination précoce de cette menace... Nous devons agir rapidement et avec détermination.${prompt}
+  10014: Alors peut-être vaut-il mieux que vous oubliez complètement cette conversation. Moins de personnes sont au courant, mieux c'est pour tous.${prompt}
+  10015: J'espère avoir pu vous être utile. Restez vigilant et faites confiance au plan.${prompt}
   10016: |-
-    This dark plague grows ever stronger...
-    If it is not stopped soon...${prompt}
+    Cette sombre peste devient de plus en plus forte...
+    Si elle n'est pas arrêtée bientôt, elle consumera tout ce que nous chérissons.${prompt}
   10017: |-
     Kupopopo～!
     This is terrible!
@@ -22880,8 +22880,7 @@ entries:
     You forgot who to give the ${item-singular: 0[2]} to?
     Find a ${choice: 1}[warrior/monk/white mage/black mage/red mage/thief/paladin/dark knight/beastmaster/bard/ranger/samurai/ninja/dragoon/summoner] with a level range in the ${number: 2}s and hand it over, kupo!${prompt}
   10191: You can only hand out one card a day, kupo!${prompt}
-  10192: |
-    Avez-vous des objets auxquels vous ne pouvez pas renoncer en raison des souvenirs attachés ? Vous vous inquiétez de l'espace qu'ils occupent dans votre Mog House ? Eh bien, ne vous inquiétez plus, je peux stocker vos objets ici !${prompt}
+  10192: Avez-vous des objets auxquels vous ne pouvez pas renoncer en raison des souvenirs attachés ? Vous vous inquiétez de l'espace qu'ils occupent dans votre Mog House ? Eh bien, ne vous inquiétez plus, je peux stocker vos objets ici !${prompt}
   10193: |-
     Avez-vous besoin de mes services ?
     ${selection-lines}
@@ -22897,8 +22896,7 @@ entries:
     Meubles 2.
     Armes et boucliers.
     Armure - Tête.
-    Armure - Corps, Jambes, Pieds.
-    ${prompt}
+    Armure - Corps, Jambes, Pieds.${prompt}
   10196: |-
     Je propose actuellement un service de stockage pour les ${choice: 39}[Meubles/Armes et Boucliers/Armure/Armure]:
     1. ${lettercase: 1}${item-plural: 0[2]}
@@ -23690,44 +23688,44 @@ entries:
   10522: |-
     I guess that's it, then!
     I'll head for Jeuno later.${prompt}
-  10523: This is such a waste of time...${prompt}
-  10524: Do you really think this plan will work?${prompt}
-  10525: Great. I'm behind ya all the way!${prompt}
-  10526: Please make your way to the chocobo stables in Jeuno. I will bring the chocobo with me when I have finished my preparations.${prompt}
-  10527: I am Hantileon, President of the Vana'diel Chocobo Society.${prompt}
-  10528: You also seem to like chocobos... I can tell by the look in your eyes. I will allow you to join our society.${prompt}
-  10529: Trade an egg to me if you want to start raising a chocobo.${prompt}
-  10530: You seem to be raising a chocobo at another nation's stables. Just ask Arvilauge if you have any questions.${prompt}
+  10523: C'est vraiment une perte de temps...${prompt}
+  10524: Penses-tu vraiment que ce plan va fonctionner ?${prompt}
+  10525: Génial. Je te soutiens à fond !${prompt}
+  10526: Veuillez vous rendre aux écuries de chocobos à Jeuno. Je ramènerai le chocobo avec moi lorsque j'aurai terminé mes préparatifs.${prompt}
+  10527: Je suis Hantileon, président de la Société des Chocobos de Vana'diel.${prompt}
+  10528: Vous semblez également aimer les chocobos... Je peux le dire par le regard dans vos yeux. Je vous autoriserai à rejoindre notre société.${prompt}
+  10529: Échangez un œuf avec moi si vous voulez commencer à élever un chocobo.${prompt}
+  10530: Il semble que vous éleviez un chocobo dans les écuries d'une autre nation. Demandez simplement à Arvilauge si vous avez des questions.${prompt}
   10531: |-
-    Hello there!
-    Your chocobo should be fully grown in no time!${prompt}
+    Bonjour !
+    Votre chocobo devrait être entièrement adulte en un rien de temps !${prompt}
   10532: |-
-    This week's schedule:
+    Programme de la semaine :
     ${selection-lines}
-    Minimum care (no charge).
-    Emphasis on exercise (1200 gil).
-    Physical training (1300 gil).
-    Rest (1500 gil).
-    Ask about current condition.
-    Ask for a care report.
-    Never mind.${prompt}
-  10533: All you want for your chocobo this week is the minimum level of care? There is no charge for this service, but it will not help your chocobo grow...${prompt}
-  10534: An emphasis on exercise, is it? Your chocobo will run and build leg strength with this program.${prompt}
-  10535: Physical training, is it? Your chocobo will spend time exploring outside and digging with this program. It should help your animal build a strong beak and claws.${prompt}
-  10536: Giving your chocobo a rest will allow it to recover from accumulated fatigue and restore a great deal of energy.${prompt}
+    Soin minimal (gratuit).
+    Accent mis sur l'exercice (1200 gils).
+    Entraînement physique (1300 gils).
+    Repos (1500 gils).
+    Demander l'état actuel.
+    Demander un rapport sur les soins.
+    Rien pour le moment.${prompt}
+  10533: Vous souhaitez simplement le niveau de soins minimal pour votre chocobo cette semaine ? Ce service est gratuit, mais il n'aidera pas votre chocobo à grandir...
+  10534: Vous insistez sur l'exercice, n'est-ce pas ? Votre chocobo courra et renforcera ses pattes avec ce programme.
+  10535: Entraînement physique, c'est ça ? Votre chocobo passera du temps à explorer à l'extérieur et à creuser avec ce programme. Cela devrait aider votre animal à développer un bec et des griffes solides.
+  10536: Offrir à votre chocobo du repos lui permettra de récupérer de la fatigue accumulée et de restaurer une grande partie de son énergie.${prompt}
   10537: |-
     Choose this program?
     ${selection-lines}
     Yes.
     No.${prompt}
-  10538: Understood. Your chocobo is in good hands with us this week.${prompt}
-  10539: Changed your mind? When you decide on a program, please let me know. If there is no word from you, we will continue to give your chocobo the minimum level of care.${prompt}
-  10540: You seem to be raising your chocobo well.${prompt}
-  10541: It does not seem to have any serious illness or sudden changes in temperament. Everything looks to be in perfect order.${prompt}
-  10542: All that you have been providing for your chocobo is the minimum level of care. As a result...${prompt}
-  10543: Your chocobo's legs are a bit stronger than average...${prompt}
-  10544: But its overall physical strength is a bit lower than average.${prompt}
-  10545: Come back any time. Your chocobo is counting on you!${prompt}
+  10538: Entendu. Votre chocobo est entre de bonnes mains cette semaine.
+  10539: Vous avez changé d'avis ? Lorsque vous décidez d'un programme, veuillez m'en informer. Si je n'ai pas de nouvelles de votre part, nous continuerons à prodiguer à votre chocobo le niveau de soins minimal.
+  10540: Il semble que vous élevez bien votre chocobo.
+  10541: Il ne semble pas avoir de maladie grave ou de changements soudains de tempérament. Tout semble être en parfait état.
+  10542: Tout ce que vous avez fourni à votre chocobo est le niveau de soins minimal. En conséquence...
+  10543: Les pattes de votre chocobo sont un peu plus fortes que la moyenne...
+  10544: Mais sa force physique globale est un peu inférieure à la moyenne.
+  10545: Revenez quand vous voulez. Votre chocobo compte sur vous !
   10546: （ここでなんかみせられるといいな）${prompt}
   10547: Kweh!${prompt}
   10548: (It seems to be in good spirits.)${prompt}
@@ -24968,7 +24966,7 @@ entries:
   11073: I can't take your egg because you're raising a chocobo at another nation's stables.${prompt}
   11074: You would like to tend to this egg?${prompt}
   11075: We will provide it with the best of care, then... Let us make a fine chocobo out of this egg.${prompt}
-  11076: A chick has hatched from the egg!${prompt}
+  11076: Un poussin a éclos de l'œuf !${prompt}
   11077: Adorable, is it not? You may name it at a later time.${prompt}
   11078: Sometimes people forget to name their chocobo, but this can cause a number of inconveniences when it comes time to fulfill certain procedures for the animal after it matures.${prompt}
   11079: 'Just look at that color! It will not be long until ${chocobo-name: 0[2]} is fully grown!${prompt}'
@@ -29002,23 +29000,23 @@ entries:
   13382: |-
     I apologize, I've gone and totally forgotten my manners! You must excuse me.
     It's a pleasure to make your acquaintance. I'm Atelloune, assistant to renowned biologist Professor Clauvert B Chanoix.${prompt}
-  13383: To help with the professor's research, I'm searching for all kinds of specimens from Quon and Mindartia whose numbers have been dwindling in recent years.${prompt}
-  13384: I just thought that an adventurer such as yourself had surely seen some rare creatures on your travels...but never mind. I'm sorry for disturbing you.${prompt}
-  13385: Greetings, adventurer. San d'Oria is grateful for your services. I am Royal Squire Esmallegue.${prompt}
-  13386: Grand Knight Depardal has left his post as sentry in the Outlands. For now he has been enlisted as a member of the city's defense force.${prompt}
-  13387: As I'm sure you are already aware, San d'Oria's military is divided into two branches, the Royal Knights and the Temple Knights.${prompt}
-  13388: In times of peace, we Royal Knights are charged with the defense of the nation, while the Temple Knights are responsible for maintaining the public order. However, in times of war the Temple Knights are given the role of supervising our ranks.${prompt}
-  13389: Unfortunately, this is a source of some conflict. Despite being united under one kingdom, there is strong sense of rivalry between the two armies. It has been said that during the Great War there were many areas of contention between us.${prompt}
-  13390: Hello, there. Say, if you have some time would you mind lending me an ear? I've got a bit of a problem...${prompt}
-  13391: Well, I'm not sure if you already knew or not, but I'm Atelloune, assistant to the great zoologist, Professor Clavauert B Chanoix.${prompt}
-  13392: I get a lot of mail in my line of work. You know, letters from people of all ages who are passionate about animals, asking me all sorts of questions.${prompt}
-  13393: I recently came across a letter whose squiggly handwriting caught my eye.${prompt}
-  13394: It was sent by a young Elvaan boy who didn't give his name.${prompt}
-  13395: “Dear Atelloune, my grandpa says that when he was my age there were big, red, round bugs in Ronfaure.${prompt}
-  13396: “But I think he's going senile, and is just thinking of an apple. Either that or a liar, and there were never any bugs like that. Please tell him he's crazy.”${prompt}
+  13383: Pour aider à la recherche du professeur, je cherche toutes sortes de spécimens de Quon et de Mindartia dont les effectifs ont diminué ces dernières années.${prompt}
+  13384: Je pensais juste qu'un aventurier comme vous avait sûrement vu des créatures rares lors de vos voyages... mais peu importe. Je suis désolé de vous avoir dérangé.${prompt}
+  13385: Salutations, aventurier. San d'Oria est reconnaissante pour vos services. Je suis le Valet Royal Esmallegue.${prompt}
+  13386: Le Grand Chevalier Depardal a quitté son poste de sentinelle dans les Terres Extérieures. Pour l'instant, il a été enrôlé en tant que membre de la force de défense de la ville.${prompt}
+  13387: Comme vous le savez sûrement déjà, l'armée de San d'Oria est divisée en deux branches, les Chevaliers Royaux et les Chevaliers du Temple.${prompt}
+  13388: En temps de paix, nous, les Chevaliers Royaux, sommes chargés de la défense de la nation, tandis que les Chevaliers du Temple sont responsables du maintien de l'ordre public. Cependant, en temps de guerre, les Chevaliers du Temple sont chargés de superviser nos rangs.${prompt}
+  13389: Malheureusement, c'est une source de conflit. Malgré notre appartenance à un même royaume, il existe un fort sentiment de rivalité entre les deux armées. On dit qu'il y avait beaucoup de zones de friction entre nous pendant la Grande Guerre.${prompt}
+  13390: Bonjour. Dis-moi, si tu as un peu de temps, pourrais-tu m'écouter ? J'ai un petit problème...${prompt}
+  13391: Eh bien, je ne sais pas si tu le savais déjà ou non, mais je suis Atelloune, l'assistant du grand zoologiste, le Professeur Clavauert B Chanoix.${prompt}
+  13392: Je reçois beaucoup de courrier dans mon travail. Tu sais, des lettres de personnes de tous âges passionnées par les animaux, me posant toutes sortes de questions.${prompt}
+  13393: J'ai récemment trouvé une lettre dont l'écriture gribouillée a attiré mon attention.${prompt}
+  13394: Elle a été envoyée par un jeune Elvaan qui n'a pas donné son nom.${prompt}
+  13395: Cher Atelloune, mon grand-père dit qu'à mon âge, il y avait de gros insectes ronds rouges dans la forêt de Ronfaure.${prompt}
+  13396: 'Mais je pense qu’il devient sénile et qu’il pense juste à une pomme. Soit ça, soit il ment, et il n’y a jamais eu de bugs comme ça. S’il te plaît, dis-lui qu’il est fou.${prompt}'
   13397: '...Hmmm.${prompt}'
-  13398: I really am sorry to bother you with this.${prompt}
-  13399: 'It''s just that this kid really struck a nerve with me. I mean, there isn''t even a question! So irritating...${prompt} '
+  13398: Je suis vraiment désolé de vous embêter avec ça.${prompt}
+  13399: 'C’est juste que ce gamin m’a vraiment agacé. Je veux dire, il n’y a même pas de question ! Tellement irritant...${prompt}'
   13400: |-
     I'm thinking that what he is referring to may be the ladybug.
     It was a species of vermin which inhabited the Ronfaure region before the war.${prompt}
