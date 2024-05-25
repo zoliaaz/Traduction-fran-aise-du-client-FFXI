@@ -20456,28 +20456,28 @@ entries:
   8951: Dans le passé, beaucoup ont amassé de grandes richesses grâce à la maison des enchères. J'espère que vous trouverez aussi la fortune !${prompt}
   8952: Vana'diel is abuzz with “Adventurer Appreciation” fever, kupo!${prompt}
   8953: |-
-    We moogles have prepared some nice little goodies and gathered lots of top-secret information on adventurer activity, kupo!
-    Let me check my journal for your statistical data...${prompt}
+    Nous, les moogles, avons préparé quelques petites gâteries et rassemblé beaucoup d'informations top secrètes sur l'activité des aventuriers, kupo !
+    Laisse-moi vérifier mon journal pour tes données statistiques...${prompt}
   8954: |-
-    Chat Frequency: ${number: 0}
-    Conversations With NPCs: ${number: 1}
-    Parties Joined: ${number: 2}
-    Alliances Joined: ${number: 3}${prompt}
+    Fréquence de Chat: ${number: 0}
+    Conversations avec les PNJ: ${number: 1}
+    Groupes Rejoints: ${number: 2}
+    Alliances Rejointes: ${number: 3}${prompt}
   8955: |-
-    Battles Fought: ${number: 4}
-    Number of Times KO'd: ${number: 5}
-    Enemies Defeated: ${number: 6}
-    GM Calls Made: ${number: 7}${prompt}
-  8956: There's your adventuring life in a nutshell!${prompt}
+    Combats Livrés: ${number: 4}
+    Nombre de KO: ${number: 5}
+    Ennemis Vaincus: ${number: 6}
+    Appels au GM: ${number: 7}${prompt}
+  8956: Voilà ta vie d'aventurier en un mot !${prompt}
   8957: |-
-    There's your adventuring life in a nutshell!
-    And this time, there's an extra-special anniversary present involved! Oh, just be careful you don't accidentally throw it away or anything, because you'll never be able to get another one...ever, kupo!${prompt}
-  8958: 'Take a look--and to think, you can select ${number: 0} more amazing anniversary items!${prompt}'
-  8959: 'Take a look--and to think, you can select ${number: 0} more amazing anniversary item!${prompt}'
+    Voilà ta vie d'aventurier en un mot !
+    Et cette fois, il y a un cadeau d'anniversaire très spécial en jeu ! Oh, fais juste attention de ne pas le jeter accidentellement ou autre, parce que tu ne pourras jamais en obtenir un autre... jamais, kupo !${prompt}
+  8958: 'Regarde--et dire que tu peux sélectionner ${number: 0} articles d’anniversaire supplémentaires incroyables !${prompt}'
+  8959: 'Regarde--et dire que tu peux sélectionner ${number: 0} article d’anniversaire supplémentaire incroyable !${prompt}'
   8960: |-
-    Which would you like? (${number: 0} remaining)
+    Lequel voudrais-tu ? (${number: 0} restant)
     ${selection-lines}
-    I need time to think.
+    J'ai besoin de temps pour réfléchir.
     ${lettercase: 1}${item-singular: 1[2]}.
     ${lettercase: 1}${item-singular: 2[2]}.
     ${lettercase: 1}${item-singular: 3[2]}.
@@ -20486,67 +20486,67 @@ entries:
     ${lettercase: 1}${item-singular: 6[2]}.
     ${lettercase: 1}${item-singular: 7[2]}.
     ${lettercase: 1}${item-singular: 8[2]}.${prompt}
-  8961: Ah, I understand. With some many goodies to choose from, it's no surprise that you'd want to think about it a bit more. I'll be here once you've decided, kupo.${prompt}
+  8961: Ah, je comprends. Avec autant de gâteries à choisir, il n'est pas surprenant que tu veuilles y réfléchir un peu plus. Je serai là une fois que tu auras décidé, kupo.${prompt}
   8962: |-
-    ${lettercase: 1}${item-singular: 9[2]}? (${number: 0} remaining)
+    ${lettercase: 1}${item-singular: 9[2]} ? (${number: 0} restant)
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  8963: 'An excellent choice! I hope you enjoy your brand-new ${item-singular: 9[2]}!${prompt}'
+    Oui.
+    Non.${prompt}
+  8963: 'Un excellent choix ! J’espère que tu apprécieras ton tout nouveau ${item-singular: 9[2]} !${prompt}'
   8964: |-
-    There's your adventuring life in a nutshell!
-    And because it seems you're so eager to get your hands on some more goodies, I guess I could find it in my heart to spare another...but just for you, kupo!${prompt}
-  8965: You have the choice to either receive your present now, or “wait” to build up the suspense, kupo!${prompt}
-  8966: If you choose to wait, you might find yourself receiving an even better present, kupo.${prompt}
+    Voilà ta vie d'aventurier en un mot !
+    Et comme il semble que tu sois si impatient de mettre la main sur d'autres gâteries, je suppose que je pourrais trouver dans mon cœur d'en épargner une autre... mais juste pour toi, kupo !${prompt}
+  8965: Tu as le choix de recevoir ton cadeau maintenant, ou d'« attendre » pour augmenter le suspense, kupo !${prompt}
+  8966: Si tu choisis d'attendre, tu pourrais te retrouver avec un cadeau encore meilleur, kupo.${prompt}
   8967: |-
-    What will you do, kupo?
+    Que vas-tu faire, kupo ?
     ${selection-lines}
-    Lemme think, kupo.
-    Gimme my present, kupo!
-    I'll wait, kupo.${prompt}
-  8968: Take all the time you need, and talk to me when you're ready, kupo!${prompt}
-  8969: Here's your present, kupo!${prompt}
+    Laisse-moi réfléchir, kupo.
+    Donne-moi mon cadeau, kupo !
+    Je vais attendre, kupo.${prompt}
+  8968: Prends tout le temps dont tu as besoin et parle-moi quand tu seras prêt, kupo !${prompt}
+  8969: Voici ton cadeau, kupo !${prompt}
   8970: |-
-    Kupopopo! A patient one!
-    Let's see how long you can wait before the suspense finally gets to you, kupo!${prompt}
+    Kupopopo ! Un patient !
+    Voyons combien de temps tu peux attendre avant que le suspense ne te gagne, kupo !${prompt}
   8971: |-
-    ${title: 6[2]}, a hero's story!
-    The deeds of ${entity: 0}, in all their glory♪${prompt}
+    ${title: 6[2]}, l'histoire d'un héros !
+    Les exploits de ${entity: 0}, dans toute leur gloire ♪${prompt}
   8972: |-
-    A traveling bard walks far and near
-    While wand'ring this celestial sphere
-    From bustling towns to godforsaken lands.
-    But none I love more than the swell
-    Inhabitants of Vana'diel,
-    Espec'lly when their gil comes to my hands.♪${prompt}
+    Un barde itinérant marche de près et de loin
+    En errant sur cette sphère céleste
+    Des villes animées aux terres désolées.
+    Mais je n'aime rien de plus que les excellents
+    Habitants de Vana'diel,
+    Surtout quand leur gil arrive dans mes mains. ♪${prompt}
   8973: |-
-    Pay me what you think I'm worth
-    And songs of legend may spring forth.♪${prompt}
+    Paye-moi ce que tu penses que je vaux
+    Et des chansons de légende pourraient surgir. ♪${prompt}
   8974: |-
-    Open your ears and take a ration
-    Of my melodic cantillation.♪${prompt}
+    Ouvre tes oreilles et prends une ration
+    De ma cantillation mélodique. ♪${prompt}
   8975: |-
-    How much will you give the bard?
+    Combien vas-tu donner au barde ?
     ${selection-lines}
-    Nothing.
+    Rien.
     ${number: 0} gil.
     ${number: 1} gil.
     ${number: 2} gil.
     ${number: 3} gil.
     ${number: 4} gil.
     ${number: 5} gil.
-    Let the bard decide your title.
-    Unlock achievement.${prompt}
+    Laisser le barde décider de ton titre.
+    Déverrouiller l'accomplissement.${prompt}
   8976: |-
-    I cannot weave a ballad fair
-    Out of moonbeams and thin air.♪${prompt}
+    Je ne peux pas tisser une ballade juste
+    Avec des rayons de lune et de l'air pur.♪${prompt}
   8977: |-
-    This starving artist, your gil feeds
-    Now tell me of your mighty deeds!♪${prompt}
+    Cet artiste affamé, ton gil nourrit
+    Maintenant parle-moi de tes exploits puissants !♪${prompt}
   8978: |-
-    Which title do you return to?
+    À quel titre veux-tu revenir ?
     ${selection-lines}
-    None.
+    Aucun.
     ${title: 1[2]}.
     ${title: 2[2]}.
     ${title: 3[2]}.
@@ -20576,34 +20576,34 @@ entries:
     ${title: 27[2]}.
     ${title: 28[2]}.${prompt}
   8979: |-
-    I'll add you to my repertoire
-    And sing of you! So, au revoir!♪${prompt}
+    Je t'ajouterai à mon répertoire
+    Et je chanterai à ton sujet ! Alors, au revoir !♪${prompt}
   8980: |-
-    The power of song, a mystical thing
-    That comes forth only when you sing.
-    A minstrel's job in life is never done.
-    So sing a doodle-doodle-lay
-    And be upon your merry way--
-    And check your title, too, oh worthy one.♪${prompt}
+    Le pouvoir de la chanson, une chose mystique
+    Qui ne se manifeste que lorsque tu chantes.
+    Le travail d'un ménestrel n'est jamais terminé.
+    Alors chante un doodle-doodle-lay
+    Et pars joyeusement--
+    Et vérifie aussi ton titre, ô digne aventurier.♪${prompt}
   8981: |-
-    ${title: 0[2]}, a hero of our time!
-    The name of ${entity: 0} throughout the world will chime♪${prompt}
+    ${title: 0[2]}, un héros de notre temps !
+    Le nom de ${entity: 0} résonnera dans le monde entier♪${prompt}
   8982: |-
-    Oh, what a soul, intrepid and bold
-    To care not how your name is told♪${prompt}
+    Oh, quelle âme, intrépide et audacieuse
+    Peu importe comment ton nom est raconté♪${prompt}
   8983: |-
-    Unlock which achievement?
+    Déverrouiller quel accomplissement ?
     ${selection-lines}
-    None.
-    Job Level.
-    Synthesis Skill 100.
-    San d'Oria Rank 10.
-    Bastok Rank 10.
-    Windurst Rank 10.
-    Zilart Missions.
-    Promathia Missions.
-    Aht Urhgan Missions.
-    Mercenary Rank.
+    Aucun.
+    Niveau de métier.
+    Compétence de synthèse 100.
+    Rang de San d'Oria 10.
+    Rang de Bastok 10.
+    Rang de Windurst 10.
+    Missions Zilart.
+    Missions Promathia.
+    Missions Aht Urhgan.
+    Rang de Mercenaire.
     ${title: 27[2]}.
     ${title: 28[2]}.
     ${title: 29[2]}.
@@ -20616,15 +20616,15 @@ entries:
     ${title: 36[2]}.
     ${title: 37[2]}.
     ${title: 38[2]}.
-    View next page.${prompt}
+    Voir la page suivante.${prompt}
   8984: |-
-    Unlock which achievement?
+    Déverrouiller quel accomplissement ?
     ${selection-lines}
-    None.
-    Artifact related Quests.
-    Guildworkers' Union Entry.
-    Wings of the Goddess Missions.
-    Past Vana'diel Nation Quests.
+    Aucun.
+    Quêtes liées aux artefacts.
+    Entrée à la Guilde des Ouvriers.
+    Missions des Ailes de la Déesse.
+    Quêtes passées des nations de Vana'diel.
     ${lettercase: 1}${keyitem-singular: 8[2]}.
     ${lettercase: 1}${keyitem-singular: 9[2]}.
     ${lettercase: 1}${keyitem-singular: 10[2]}.
@@ -20633,188 +20633,188 @@ entries:
     ${lettercase: 1}${keyitem-singular: 13[2]}.
     ${lettercase: 1}${keyitem-singular: 14[2]}.
     ${lettercase: 1}${keyitem-singular: 15[2]}.
-    Support Jobs.
-    Extra Jobs.
+    Jobs de soutien.
+    Jobs supplémentaires.
     ${lettercase: 1}${item-singular: 16[2]}.
     ${lettercase: 1}${item-singular: 17[2]}.
     ${lettercase: 1}${item-singular: 18[2]}.${prompt}
   8985: |-
-    Unlock which achievement?
+    Déverrouiller quel accomplissement ?
     ${selection-lines}
-    None.
-    Level 75 Warrior.
-    Level 75 Monk.
-    Level 75 White Mage.
-    Level 75 Black Mage.
-    Level 75 Red Mage.
-    Level 75 Thief.
-    Level 75 Paladin.
-    Level 75 Dark Knight.
-    Level 75 Beastmaster.
-    Level 75 Bard.
-    Level 75 Ranger.
-    Level 75 Samurai.
-    Level 75 Ninja.
-    Level 75 Dragoon.
-    Level 75 Summoner.
-    Level 75 Blue Mage.
-    Level 75 Corsair.
-    Level 75 Puppetmaster.
-    Level 75 Dancer.
-    Level 75 Scholar.${prompt}
-  8986: You have no achievements to unlock.${prompt}
+    Aucun.
+    Guerrier niveau 75.
+    Moine niveau 75.
+    Mage Blanc niveau 75.
+    Mage Noir niveau 75.
+    Mage Rouge niveau 75.
+    Voleur niveau 75.
+    Paladin niveau 75.
+    Chevalier Noir niveau 75.
+    Maître de Bêtes niveau 75.
+    Barde niveau 75.
+    Rôdeur niveau 75.
+    Samouraï niveau 75.
+    Ninja niveau 75.
+    Chevalier Dragon niveau 75.
+    Invocateur niveau 75.
+    Mage Bleu niveau 75.
+    Corsaire niveau 75.
+    Maître Marionnettiste niveau 75.
+    Danseur niveau 75.
+    Érudit niveau 75.${prompt}
+  8986: Vous n'avez aucun accomplissement à déverrouiller.${prompt}
   8987: |-
-    Return to which title?
+    Revenir à quel titre ?
     ${selection-lines}
-    New Adventurer.
-    Bean Cuisine Salter.
-    Daybreak Gambler.
-    Entrance Denied.
-    Rabbiter.
-    Royal Grave Keeper.
-    Courier Extraordinaire.
-    Ronfaurian Rescuer.
-    Pickpocket Pincher.
-    The Pure One.
-    Lost Child Officer.
-    Silencer of the Lambs.
-    Lost & Found Officer.
-    Green Grocer.
-    The Benevolent One.
-    Knight in Training.
-    Advertising Executive.
-    Family Counselor.
-    Mog's Master.
-    Vermillion Venturer.
-    Discerning Individual.
-    Very Discerning Individual.
-    Extremely Discerning Individual.
-    Forfeit gil and quit.${prompt}
+    Nouvel Aventurier.
+    Saltimbanque de la Cuisine de Haricots.
+    Joueur Matinal.
+    Accès Interdit.
+    Rabbiteur.
+    Gardien Royal des Tombes.
+    Messager Extraordinaire.
+    Sauveur de Ronfaure.
+    Racleur de Poches.
+    Le Pur.
+    Officier des Enfants Perdus.
+    Silence des Agneaux.
+    Officier des Objets Trouvés.
+    Marchand de Légumes.
+    Le Bienveillant.
+    Aspirant Chevalier.
+    Cadre Publicitaire.
+    Conseiller Familial.
+    Maître Mog.
+    Aventurier Vermillon.
+    Personne Discernante.
+    Personne Très Discernante.
+    Personne Extrêmement Discernante.
+    Renoncer au gil et quitter.${prompt}
   8988: |-
-    Return to which title?
+    Revenir à quel titre ?
     ${selection-lines}
-    Sheep's Milk Deliverer.
-    The Pious One.
-    Apiarist.
-    Faith like a Candle.
-    Lizard Skinner.
-    Bug Catcher.
-    Spelunker.
-    Arms Trader.
-    Third-rate Organizer.
-    Royal Wedding Planner.
-    Consort Candidate.
-    Certified Adventurer.
-    Forfeit gil and quit.${prompt}
+    Livreur de Lait de Brebis.
+    Le Pieux.
+    Apiculteur.
+    Foi comme une Bougie.
+    Peau de Lézard.
+    Chasseur d'Insectes.
+    Spéléologue.
+    Marchand d'Armes.
+    Organisateur de Troisième Zone.
+    Planificateur de Mariage Royal.
+    Candidat Consort.
+    Aventurier Certifié.
+    Renoncer au gil et quitter.${prompt}
   8989: |-
-    Return to which title?
+    Revenir à quel titre ?
     ${selection-lines}
-    Vampire Hunter D-Minus.
-    A Moss Kind Person.
-    Fang Finder.
-    Traveling Medicine Man.
-    Cat Skinner.
-    Carp Diem.
-    Second-rate Organizer.
-    Mog's Kind Master.
-    Forfeit gil and quit.${prompt}
+    Chasseur de Vampires D-Minus.
+    Ami de la Mousse.
+    Chercheur de Crocs.
+    Médecin Ambulant.
+    Écorcheur de Chats.
+    Pêcheur de Carpes.
+    Organisateur de Deuxième Zone.
+    Maître Bienveillant de Mog.
+    Renoncer au gil et quitter.${prompt}
   8990: |-
-    Return to which title?
+    Revenir à quel titre ?
     ${selection-lines}
-    First-rate Organizer.
-    Pilgrim to Holla.
-    Tried and Tested Knight.
-    Heir to the Holy Crest.
-    Obsidian Storm.
-    Talks with Tonberries.
-    Forfeit gil and quit.${prompt}
+    Organisateur de Première Classe.
+    Pèlerin de Holla.
+    Chevalier Éprouvé.
+    Héritier de l'Emblème Sacré.
+    Tempête d'Obsidienne.
+    Conversations avec les Tonberries.
+    Renoncer au gil et quitter.${prompt}
   8991: |-
-    Return to which title?
+    Revenir à quel titre ?
     ${selection-lines}
-    Shadow Banisher.
-    Mog's Exceptionally Kind Master.
-    Forfeit gil and quit.${prompt}
+    Bannisseur d'Ombres.
+    Maître Exceptionnellement Bienveillant de Mog.
+    Renoncer au gil et quitter.${prompt}
   8992: |-
-    Return to which title?
+    Revenir à quel titre ?
     ${selection-lines}
-    Paragon of Red Mage Excellence.
-    Paragon of White Mage Excellence.
-    Paragon of Paladin Excellence.
-    Paragon of Dragoon Excellence.
-    Heir of the Great Ice.
-    Mog's Loving Master.
-    Forfeit gil and quit.${prompt}
+    Modèle d'Excellence en Mage Rouge.
+    Modèle d'Excellence en Mage Blanc.
+    Modèle d'Excellence en Paladin.
+    Modèle d'Excellence en Chevalier Dragon.
+    Héritier de la Grande Glace.
+    Maître Aimant de Mog.
+    Renoncer au gil et quitter.${prompt}
   8993: |-
-    Return to which title?
+    Revenir à quel titre ?
     ${selection-lines}
-    Forfeit gil and quit.${prompt}
+    Renoncer au gil et quitter.${prompt}
   8994: |-
-    Return to which title?
+    Revenir à quel titre ?
     ${selection-lines}
-    Forfeit gil and quit.${prompt}
+    Renoncer au gil et quitter.${prompt}
   8995: |-
-    Return to which title?
+    Revenir à quel titre ?
     ${selection-lines}
-    San d'Orian Royal Heir.
-    Dynamis-San d'Oria Interloper.
-    Forfeit gil and quit.${prompt}
+    Héritier Royal de San d'Oria.
+    Intrus de Dynamis-San d'Oria.
+    Renoncer au gil et quitter.${prompt}
   8996: |-
-    Return to which title?
+    Revenir à quel titre ?
     ${selection-lines}
-    Forfeit gil and quit.${prompt}
+    Renoncer au gil et quitter.${prompt}
   8997: |-
-    Return to which title?
+    Revenir à quel titre ?
     ${selection-lines}
-    Royal Archer.
-    Royal Spearman.
-    Royal Squire.
-    Royal Swordsman.
-    Royal Cavalier.
-    Royal Guard.
-    Grand Knight of the Realm.
-    Grand Temple Knight.
-    Reserve Knight Captain.
-    Elite Royal Guard.
-    Forfeit gil and quit.${prompt}
+    Archer Royal.
+    Lancier Royal.
+    Écuyer Royal.
+    Épéiste Royal.
+    Cavaliers Royaux.
+    Garde Royal.
+    Grand Chevalier du Royaume.
+    Grand Chevalier du Temple.
+    Capitaine de Chevaliers de Réserve.
+    Garde Royal d'Élite.
+    Renoncer au gil et quitter.${prompt}
   8998: |-
-    Return to which title?
+    Revenir à quel titre ?
     ${selection-lines}
-    Wood Worshiper.
-    Lumber Lather.
-    Accomplished Carpenter.
-    Anvil Advocate.
-    Forge Fanatic.
-    Accomplished Blacksmith.
-    Hide Handler.
-    Leather Lauder.
-    Accomplished Tanner.
-    Forfeit gil and quit.${prompt}
+    Adorateur du Bois.
+    Mousse de Bois.
+    Menuisier Accompli.
+    Défenseur de l'Enclume.
+    Fanatique de la Forge.
+    Forgeron Accompli.
+    Manipulateur de Peaux.
+    Loueur de Cuir.
+    Tanneur Accompli.
+    Renoncer au gil et quitter.${prompt}
   8999: |-
-    Return to which title?
+    Revenir à quel titre ?
     ${selection-lines}
-    Rook Buster.
-    Banneret.
-    Gold Balli☆☆☆☆star.
-    Mythril Balli☆☆☆star.
-    Silver Balli☆☆star.
-    Bronze Balli☆star.
-    Searing★Star.
-    Striking★Star.
-    Soothing★Star.
-    Sable★Star.
-    Scarlet★Star.
-    Sonic★Star.
-    Saintly★Star.
-    Shadowy★Star.
-    Savage★Star.
-    Singing★Star.
-    Sniping★Star.
-    Slicing★Star.
-    Sneaking★Star.
-    Spearing★Star.
-    Summoning★Star.
-    Ballistager.
-    Forfeit gil and quit.${prompt}
+    Briseur de Tour.
+    Bannière.
+    Étoile d'Or de Balliste☆☆☆☆.
+    Étoile de Mythril de Balliste☆☆☆.
+    Étoile d'Argent de Balliste☆☆.
+    Étoile de Bronze de Balliste☆.
+    Étoile Ardent★.
+    Étoile Frappant★.
+    Étoile Apaisant★.
+    Étoile de Sable★.
+    Étoile Écarlate★.
+    Étoile Sonique★.
+    Étoile Sainte★.
+    Étoile Ombragé★.
+    Étoile Sauvage★.
+    Étoile Chantante★.
+    Étoile de Tireur★.
+    Étoile de Tranchant★.
+    Étoile Furtif★.
+    Étoile de Lance★.
+    Étoile d'Invocation★.
+    Artilleur.
+    Renoncer au gil et quitter.${prompt}
   9000: ${prompt}
   9001: ${prompt}
   9002: ${prompt}
@@ -20824,228 +20824,228 @@ entries:
   9006: ${prompt}
   9007: ${prompt}
   9008: |-
-    Master, Master!
-    I have a favor to ask, kupo!${prompt}
+    Maître, Maître !
+    J'ai une faveur à te demander, kupo !${prompt}
   9009: |-
-    Sleeping on that ${item-singular: 3[2]} has made me homesick, kupo.
-    Will my benevolent master give ${choice-player-gender}[his/her] moogle some time off to visit with Mama and Papa Moogle, kupo?${prompt}
-  9010: "Give your moogle a vacation？\n${selection-lines}\nSure, kupo! \nNo, your time is mine!${prompt}"
-  9011: Oh, what a cruel, cruel master, kupo!!!${prompt}
+    Dormir sur ce ${item-singular: 3[2]} m'a rendu nostalgique, kupo.
+    Est-ce que mon bienveillant maître donnera à ${choice-player-gender}[son/sa] moogle un peu de temps libre pour rendre visite à Maman et Papa Moogle, kupo ?${prompt}
+  9010: "Donner des vacances à ton moogle？\n${selection-lines}\nBien sûr, kupo !\nNon, ton temps est à moi !${prompt}"
+  9011: Oh, quel maître cruel, cruel, kupo !!!${prompt}
   9012: |-
-    Thank you, kupo!
-    I...have one more favor to ask.
-    It's almost time for the festival in the moogles' hometown, kupo!${prompt}
-  9013: 'Papa Moogle will be entering the archery contest, so I want to bring him ${article} ${item-article: 5[2]} as a gift, kupo!${prompt}'
-  9014: 'Mama Moogle always likes to dress up for the occasion, and ${article} ${item-article: 6[2]} would make the perfect present, kupo!${prompt}'
+    Merci, kupo !
+    J'ai... une autre faveur à demander.
+    C'est bientôt le moment du festival dans la ville natale des moogles, kupo !${prompt}
+  9013: 'Papa Moogle va participer au concours de tir à l’arc, alors je veux lui apporter ${article} ${item-article: 5[2]} comme cadeau, kupo !${prompt}'
+  9014: 'Maman Moogle aime toujours se mettre sur son trente-et-un pour l’occasion, et ${article} ${item-article: 6[2]} serait le cadeau parfait, kupo !${prompt}'
   9015: |-
-    But I have no idea how to go about finding ${article} ${item-article: 5[2]} or ${article} ${item-article: 6[2]}, kupo...
-    I can't go home empty-handed, kupo...${prompt}
-  9016: 'Papa Moogle will be entering the archery contest, so I want to bring him ${article} ${item-article: 5[2]} as a gift, kupo!${prompt}'
-  9017: 'Mama Moogle always likes to dress up for the occasion, and ${article} ${item-article: 6[2]} would make the perfect present, kupo!${prompt}'
+    Mais je ne sais pas du tout comment trouver ${article} ${item-article: 5[2]} ou ${article} ${item-article: 6[2]}, kupo...
+    Je ne peux pas rentrer chez moi les mains vides, kupo...${prompt}
+  9016: 'Papa Moogle va participer au concours de tir à l’arc, alors je veux lui apporter ${article} ${item-article: 5[2]} comme cadeau, kupo !${prompt}'
+  9017: 'Maman Moogle aime toujours se mettre sur son trente-et-un pour l’occasion, et ${article} ${item-article: 6[2]} serait le cadeau parfait, kupo !${prompt}'
   9018: |-
-    But I have no idea how to go about finding ${article} ${item-article: 5[2]} or ${article} ${item-article: 6[2]}, kupo...
-    I can't go home empty-handed, kupo...${prompt}
+    Mais je ne sais pas du tout comment trouver ${article} ${item-article: 5[2]} ou ${article} ${item-article: 6[2]}, kupo...
+    Je ne peux pas rentrer chez moi les mains vides, kupo...${prompt}
   9019: |-
-    Master!
-    I'm overwhelmed by your kindness, kupo!!!${prompt}
+    Maître !
+    Je suis submergé par ta gentillesse, kupo !!!${prompt}
   9020: |-
-    I'll bring you a nice present from the moogles' hometown, kupo!
-    I'll be back in a few days, kupo!${prompt}
+    Je vous rapporterai un joli cadeau de la ville natale des moogles, kupo !
+    Je serai de retour dans quelques jours, kupo !${prompt}
   9021: |-
-    Master!
-    I'm back from my vacation, kupo!${prompt}
-  9022: Here's your present--a shiny new Mog Safe, kupo! Now you can store as many as 60 items, kupo!${prompt}
+    Maître !
+    Je suis de retour de mes vacances, kupo !${prompt}
+  9022: Voici votre cadeau - un tout nouveau Mog Safe étincelant, kupo ! Maintenant, vous pouvez stocker jusqu'à 60 objets, kupo !${prompt}
   9023: |-
-    Looking at that shabby old bed makes me feel homesick, kupo.
-    Will my benevolent master give ${choice-player-gender}[his/her] moogle some time off to visit with Mama and Papa Moogle, kupo?${prompt}
+    En regardant ce vieux lit délabré, ça me rend nostalgique, kupo.
+    Est-ce que mon bienveillant maître donnera à ${choice-player-gender}[son/sa] moogle un peu de temps libre pour rendre visite à Maman et Papa Moogle, kupo ?${prompt}
   9024: |-
-    Master, Master!
-    I have a favor to ask, kupo!${prompt}
+    Maître, Maître !
+    J'ai une faveur à te demander, kupo !${prompt}
   9025: |-
-    Sleeping on that ${item-singular: 3[2]} has made me homesick, kupo.
-    Will my benevolent master give ${choice-player-gender}[his/her] moogle some time off to visit with Mama and Papa Moogle, kupo?${prompt}
-  9026: "Give your moogle a vacation？\n${selection-lines}\nSure, kupo! \nNo, your time is mine!${prompt}"
+    Dormir sur ce ${item-singular: 3[2]} m'a rendu nostalgique, kupo.
+    Est-ce que mon bienveillant maître donnera à ${choice-player-gender}[son/sa] moogle un peu de temps libre pour rendre visite à Maman et Papa Moogle, kupo ?${prompt}
+  9026: "Donner des vacances à votre moogle？\n${selection-lines}\nBien sûr, kupo !\nNon, votre temps est à moi !${prompt}"
   9027: |-
-    Thank you, kupo!
-    I have one more favor to ask... I want to take my family on a picnic, kupo!${prompt}
-  9028: 'Papa Moogle is mad for fishing, so I want to give him ${article} ${item-article: 5[2]}, kupo!${prompt}'
-  9029: 'Mama Moogle would bake a scrumptious mooglepie to take with us, but she''d need ${article} ${item-article: 6[2]}, kupo!${prompt}'
+    Merci, kupo !
+    J'ai une autre faveur à demander... Je veux emmener ma famille pique-niquer, kupo !${prompt}
+  9028: 'Papa Moogle est fou de pêche, alors je veux lui donner ${article} ${item-article: 5[2]}, kupo!${prompt}'
+  9029: 'Maman Moogle cuisinerait une succulente tartelette moogle à emporter avec nous, mais elle aurait besoin de ${article} ${item-article: 6[2]}, kupo!${prompt}'
   9030: |-
-    But...I haven't the foggiest idea of how to get either of these things, kupo...
-    Whatever am I to do, kupo?${prompt}
-  9031: 'Papa Mog is mad for fishing, so I want to give him ${article} ${item-article: 5[2]}, kupo!${prompt}'
-  9032: 'Mama Moogle would bake a scrumptious mooglepie to take with us, but she''d need ${article} ${item-article: 6[2]}, kupo!${prompt}'
+    Mais... je n'ai pas la moindre idée de comment obtenir ces choses, kupo...
+    Que diable vais-je faire, kupo ?${prompt}
+  9031: 'Papa Moogle est fou de pêche, alors je veux lui donner ${article} ${item-article: 5[2]}, kupo!${prompt}'
+  9032: 'Maman Moogle cuisinerait une succulente tartelette moogle à emporter avec nous, mais elle aurait besoin de ${article} ${item-article: 6[2]}, kupo!${prompt}'
   9033: |-
-    But...I haven't the foggiest idea of how to get either of these things, kupo...
-    Whatever am I to do, kupo?${prompt}
+    Mais... je n'ai pas la moindre idée de comment obtenir ces choses, kupo...
+    Que diable vais-je faire, kupo ?${prompt}
   9034: |-
-    Master!
-    I'm overwhelmed by your kindness, kupo!!!${prompt}
+    Maître !
+    Je suis submergé par votre gentillesse, kupo !!!${prompt}
   9035: |-
-    I'll bring you a nice present from the moogles' hometown, kupo!
-    I'll be back in a few days, kupo!${prompt}
+    Je vous rapporterai un joli cadeau de la ville natale des moogles, kupo !
+    Je serai de retour dans quelques jours, kupo !${prompt}
   9036: |-
-    Master!
-    I'm back from my vacation, kupo!${prompt}
-  9037: Here's your present--the behemoth of Mog Safes, kupo! Now you can store as many as 70 items, kupo!${prompt}
-  9038: The capacity of your Mog Safe has increased!${prompt}
+    Maître !
+    Je suis de retour de mes vacances, kupo !${prompt}
+  9037: Voici votre cadeau - le géant des Mog Safes, kupo ! Maintenant, vous pouvez stocker jusqu'à 70 objets, kupo !${prompt}
+  9038: La capacité de votre Mog Safe a augmenté !${prompt}
   9039: |-
-    Master, Master!
-    I have a favor to ask, kupo!${prompt}
-  9040: 'After resting on the ${item-singular: 3[2]}, I noticed a letter had arrived from some old moogle friends, kupo! Will my magnanimous master give me some time off to go visit my old buddies?${prompt}'
+    Maître, Maître !
+    J'ai une faveur à te demander, kupo !${prompt}
+  9040: 'Après m’être reposé sur le ${item-singular: 3[2]}, j’ai remarqué qu’une lettre était arrivée de vieux amis moogles, kupo ! Mon maître magnanime me donnera-t-il un peu de temps libre pour rendre visite à mes vieux copains ?${prompt}'
   9041: |-
-    Give your moogle some time off?
+    Donner un peu de temps libre à votre moogle ?
     ${selection-lines}
-    Have fun, kupo!
-    No, I am your only friend now!${prompt}
+    Amuse-toi bien, kupo !
+    Non, je suis ton seul ami maintenant !${prompt}
   9042: |-
-    Oh, thank you, master!
-    My moogle friends live across the seas, so I have another favor to ask you, kupo!${prompt}
-  9043: 'The sun beats down mercilessly in the land beyond the west sea, so I need to take ${article} ${item-article: 5[2]} for my friends there, kupo!${prompt}'
-  9044: 'And my other buddies need ${article} ${item-article: 6[2]} for the torrential rains that scour the lands across the east sea, kupo!${prompt}'
-  9045: 'I can''t help out my friends if I don''t have ${article} ${item-article: 5[2]} and ${article} ${item-article: 6[2]}, kupo...${prompt}'
-  9046: I'll be sure to bring you a souvenir from my overseas trip, kupo! See you in a few days, master!${prompt}
+    Oh, merci, maître !
+    Mes amis moogles vivent de l'autre côté des mers, alors j'ai une autre faveur à te demander, kupo !${prompt}
+  9043: 'Le soleil tape impitoyablement dans les terres au-delà de la mer à l’ouest, alors j’ai besoin d’emmener ${article} ${item-article: 5[2]} pour mes amis là-bas, kupo!${prompt}'
+  9044: 'Et mes autres copains ont besoin de ${article} ${item-article: 6[2]} pour les pluies torrentielles qui balayent les terres de l’autre côté de la mer à l’est, kupo!${prompt}'
+  9045: 'Je ne peux pas aider mes amis si je n’ai pas ${article} ${item-article: 5[2]} et ${article} ${item-article: 6[2]}, kupo...${prompt}'
+  9046: Je veillerai à vous rapporter un souvenir de mon voyage à l'étranger, kupo ! À bientôt dans quelques jours, maître !${prompt}
   9047: |-
-    Master!
-    I'm back from visiting my old moogle friends, kupo!${prompt}
-  9048: We all got together and made you a new Mog Safe, kupo! Now you can store as many as 80 items, kupo!${prompt}
-  9049: Welcome to the Lion Springs! Enjoy our selection of fine food and beverages.${prompt}
-  9050: My apologies, but I've no time to talk.${prompt}
-  9051: How dare you eavesdrop on me! What do you want?${prompt}
-  9052: Now, now. Give it a rest, Sharz. I'm sure there is an explanation for this. Well, ${choice-player-gender}[sir/madam]? Let's hear it.${prompt}
-  9053: Oh, never mind. Say, you are a red mage, like me. I have a tale you may wish to hear, but I shall not tell it for free.${prompt}
-  9054: 'Well, I''ve heard that in Davoi they store their riches in many different vaults. I seek to borrow ${keyitem-article: 0[2]} from them, you see.${prompt}'
-  9055: Would you mind running this errand for me? Only then I shall tell you my tale. I guarantee it will be worth your while.${prompt}
+    Maître !
+    Je suis de retour de ma visite chez mes vieux amis moogles, kupo !${prompt}
+  9048: Nous nous sommes tous réunis pour vous fabriquer un nouveau Mog Safe, kupo ! Maintenant, vous pouvez stocker jusqu'à 80 objets, kupo !${prompt}
+  9049: Bienvenue aux Lion Springs ! Profitez de notre sélection de plats et de boissons de qualité.${prompt}
+  9050: Mes excuses, mais je n'ai pas le temps de discuter.${prompt}
+  9051: Comment osez-vous écouter aux portes ! Que voulez-vous ?${prompt}
+  9052: Allons, allons. Calme-toi, Sharz. Je suis sûr qu'il y a une explication à cela. Bien, ${choice-player-gender}[monsieur/madame]? Expliquez-vous.${prompt}
+  9053: Oh, peu importe. Dis-moi, tu es un mage rouge, comme moi. J'ai une histoire que tu pourrais vouloir entendre, mais je ne la raconterai pas gratuitement.${prompt}
+  9054: 'Eh bien, j’ai entendu dire qu’à Davoi ils stockent leurs richesses dans de nombreux coffres différents. Je cherche à emprunter ${keyitem-article: 0[2]} auprès d’eux, tu vois.${prompt}'
+  9055: Accepterais-tu de faire cette course pour moi ? Alors seulement je te raconterai mon histoire. Je te garantis que cela en vaudra la peine.${prompt}
   9056: |-
-    Could you do this for me?
+    Pourrais-tu faire ça pour moi ?
     ${selection-lines}
-    Of course.
-    Not right now.${prompt}
-  9057: That's the spirit, my friend. Now, head to Davoi and search the Orcs' storage holes.${prompt}
-  9058: The malicious Orcs dig false ones, and often move their treasure from hole to hole as well. Never assume it will stay in one place for long!${prompt}
-  9059: Hmph. I pity the adventurer who shrinks before a challenge.${prompt}
-  9060: Head to Davoi and search the Orcs' storage holes! The Orcs dig false ones, and often move their treasure from hole to hole. Never assume it will stay in one place for long!${prompt}
-  9061: Excellent form, my friend. I am impressed.${prompt}
-  9062: Well, I'll be! ${choice-player-gender}[He/She]'s got more talent than you, I dare say.${prompt}
-  9063: My dear sir, will you not hush? I wish to tell my tale. First, are you the daring type?${prompt}
+    Bien sûr.
+    Pas pour le moment.${prompt}
+  9057: C'est ça, mon ami. Maintenant, direction Davoi et recherche dans les trous de stockage des Orcs.${prompt}
+  9058: Les Orcs malveillants creusent de faux trous et déplacent souvent leurs trésors de trou en trou également. Ne suppose jamais qu'il restera au même endroit longtemps !${prompt}
+  9059: Hmph. Je plains l'aventurier qui recule devant un défi.${prompt}
+  9060: Direction Davoi et recherche dans les trous de stockage des Orcs ! Les Orcs creusent de faux trous et déplacent souvent leurs trésors de trou en trou. Ne suppose jamais qu'il restera au même endroit longtemps !${prompt}
+  9061: Excellente forme, mon ami. Je suis impressionné.${prompt}
+  9062: Eh bien, je vous dis ! ${choice-player-gender}[Il/Elle] a plus de talent que toi, je dirais.${prompt}
+  9063: Mon cher monsieur, ne pourriez-vous pas vous taire ? Je souhaite raconter mon histoire. Tout d'abord, êtes-vous du type audacieux ?${prompt}
   9064: |-
-    Are you daring?
+    Êtes-vous audacieux ?
     ${selection-lines}
-    Of course I am.
-    No, not really.${prompt}
-  9065: Hmph. Only the meek say such things.${prompt}
-  9066: Hmph. At least you're honest.${prompt}
-  9067: At any rate, my tale takes place in the church. Something is sometimes sighted there.${prompt}
-  9068: What is, you ask? How obtuse! I speak of course of a spirit, a ghost! Have you not felt it so, by the look of the interior there?${prompt}
-  9069: So, after learning of the rumors, I went to investigate.${prompt}
-  9070: The catacombs underneath the structure were so frightening, even I was taken aback.${prompt}
-  9071: But it scared me not, for soon I paid it no heed.${prompt}
-  9072: Well? Did you find it or not?${prompt}
-  9073: Why, you--! Silence, please. At least until the end.${prompt}
-  9074: Anyway, I thought I might as well say a prayer, so I walked before the altar.${prompt}
-  9075: And then, I felt my skin crawl. I tried to spin around, but I could not move!${prompt}
-  9076: Ever I felt it creep closer. But I heard not a footstep!${prompt}
+    Bien sûr que je le suis.
+    Non, pas vraiment.${prompt}
+  9065: Hmph. Seuls les timides disent de telles choses.${prompt}
+  9066: Hmph. Au moins, vous êtes honnête.${prompt}
+  9067: Quoi qu'il en soit, mon histoire se déroule dans l'église. Quelque chose est parfois aperçu là-bas.${prompt}
+  9068: Quoi, demandez-vous ? Comme vous êtes obtus ! Je parle bien sûr d'un esprit, d'un fantôme ! Ne l'avez-vous pas ressenti ainsi, en regardant l'intérieur là-bas ?${prompt}
+  9069: Ainsi, après avoir entendu les rumeurs, je suis allé enquêter.${prompt}
+  9070: Les catacombes sous la structure étaient si effrayantes, même moi j'ai été pris au dépourvu.${prompt}
+  9071: Mais cela ne m'a pas effrayé, car bientôt je n'y ai plus prêté attention.${prompt}
+  9072: Eh bien ? L'avez-vous trouvé ou non ?${prompt}
+  9073: Pour qui vous prenez-vous ? Silence, je vous prie. Du moins jusqu'à la fin.${prompt}
+  9074: Quoi qu'il en soit, je me suis dit que je pourrais bien dire une prière, alors je suis allé devant l'autel.${prompt}
+  9075: Et là, j'ai senti ma peau se hérisser. J'ai essayé de me retourner, mais je n'ai pas pu bouger !${prompt}
+  9076: Je sentais qu'il s'approchait de plus en plus. Mais je n'ai entendu aucun bruit de pas !${prompt}
   9077: 'Hmm.${wait-animation: 1}${prompt}'
-  9078: Still I felt it draw closer, so I summoned all my strength to turn and look behind me.${prompt}
-  9079: 'And I saw it right there! Right next to me!${wait-animation: 1}${prompt}'
-  9080: Was it floating in the air?${prompt}
-  9081: Yes, and not only that, it wore a fine suit of armor. Obviously it was no mortal person, for I could see right through it.${prompt}
-  9082: Thank heavens you're alive!${prompt}
-  9083: Yes, well... Ere long it disappeared, surrendering but a glimpse to me. Yet that was enough, for I knew who it was.${prompt}
-  9084: It was Rainemard.${prompt}
-  9085: Rainemard? Yes, I've heard that name. Say, he was a red mage, like you! Ah, those were the days...${prompt}
-  9086: This is no time to reminisce! Have you forgotten how he died? Surely he has come for revenge.${prompt}
-  9087: Come to think of it, Rainemard had a daughter, didn't he? What was her name again?${prompt}
-  9088: Did he? That I did not know. Pray tell, Valdero, who was she?${prompt}
-  9089: Oh... I can't remember. Many an age has passed since those days.${prompt}
-  9090: I see. Well, so ends my tale. What, you didn't like it? Forgive me! Rarely are ghost stories told well. At any rate, this is for you.${prompt}
-  9091: Wait, I remembered her name! The daughter of the red mage Rainemard!${prompt}
-  9092: It's about time. Well, tell us, then!${prompt}
-  9093: It was Curilla... Yes, Curilla was her name. I remember Rainemard watched over her well.${prompt}
-  9094: Curilla? Hmm... Curilla... I've heard that name before.${prompt}
-  9095: Wait, the maiden general was named Curilla! Yes, she would be about that age, too. Who would have thought that she was Rainemard's daughter!${prompt}
-  9096: It must be a terrible thing...to hear your father's spirit still wanders.${prompt}
-  9097: Truly!${prompt}
-  9098: I would not go to that church if I were you. There you'll find no coin, only intrigue.${prompt}
-  9099: What? You went to the church? How impetuous of you. And, you met the ghost? Well, there's no stopping you!${prompt}
-  9100: Well, it seems you faced great danger there. But you found new trappings for battle, so all is well. Isn't it, Sharzalion?${prompt}
-  9101: What's the matter? It's not like you at all.${prompt}
-  9102: So, the rumor was true...${prompt}
-  9103: Rumor?${prompt}
-  9104: Yes, about Rainemard's death. Some say he was killed because he knew too much.${prompt}
-  9105: Too much about what?${prompt}
-  9106: I do not know. Surely it would behoove us to delve no further. For my part, I shall pretend I haven't heard what was spoken here today.${prompt}
-  9107: You're never this timid.${prompt}
-  9108: Discretion, my friend, is the better part of valor.${prompt}
-  9109: Say... I know a way to talk to the dead. What do you say?${prompt}
-  9110: Valdero, no!${prompt}
-  9111: 'In Fei''Yin there is an old fountain run dry. They say that you can call a spirit of the dead by simply casting ${article} ${item-article: 0[2]} into it. At any rate, that place is a decrepit ruin, so there''s no end to the hogwash rumors.${prompt}'
-  9112: Don't believe a word of it, my friend.${prompt}
-  9113: Fei'Yin is no place for you. And something is amiss about all of this. I feel like something...some invisible hand is guiding us somewhere. I want nothing more to do with it!${prompt}
-  9114: What, you traveled to Fei'Yin? And you say that the ghost of Rainemard needs help? I am sorry, friend, but I want nothing to do with this anymore.${prompt}
-  9115: So, that whole church uproar was Rainemard's doing... Well, I am glad his spirit found rest, and you made it out safely.${prompt}
-  9116: Adventurers must know when opportunity knocks! Though there is a fine line between bravery and foolishness!${prompt}
-  9117: I love a good ghost story. The best part about running a tavern is listening to all the tales that adventurers bring from afar.${prompt}
-  9118: 'In Fei''Yin there is an old fountain run dry. They say that you can call a spirit of the dead by simply casting ${article} ${item-article: 0[2]} into it. At any rate, that place is a decrepit ruin, so there''s no end to the hogwash rumors.${prompt}'
-  9119: So, the rumor was true? Huzzah! No, I need no thanks. I am happy to just hear your tale.${prompt}
-  9120: But what could he mean by a “small dark tight place”? You'd best ask the other patrons or members of your own party for their insight.${prompt}
-  9121: Yes, perhaps his corpse was interred in the Garlaige Citadel. What a cruel thing to do!${prompt}
-  9122: All's well that ends well, as they say. I've had a ball hearing all about it! Please, stop by if you're ever in the neighborhood.${prompt}
-  9123: You are brave to speak to me! But if you're looking for leads, I have none to share.${prompt}
-  9124: 'Well, I am after a certain chest in the Garlaige Citadel. I hear you can open it with ${article} ${item-article: 0[2]}, but I wonder if any treasure is hidden within.${prompt}'
-  9125: You found a corpse inside? I was after that chest, but now I'm glad I never opened it.${prompt}
-  9126: That's one jack-in-the-box I'll never meet!${prompt}
+  9078: Je sentais toujours qu'il se rapprochait, alors j'ai rassemblé toutes mes forces pour me tourner et regarder derrière moi.${prompt}
+  9079: 'Et je l’ai vu juste là ! Juste à côté de moi !${wait-animation: 1}${prompt}'
+  9080: Était-il en train de flotter dans l'air ?${prompt}
+  9081: Oui, et non seulement ça, mais il portait une belle armure. De toute évidence, ce n'était pas une personne mortelle, car je pouvais voir à travers lui.${prompt}
+  9082: Dieu merci, vous êtes vivant !${prompt}
+  9083: Oui, eh bien... Peu de temps après, il a disparu, ne me laissant qu'un aperçu. Mais cela a suffi, car je savais qui c'était.${prompt}
+  9084: C'était Rainemard.${prompt}
+  9085: Rainemard ? Oui, j'ai entendu ce nom. Dites, c'était un mage rouge, comme vous ! Ah, c'étaient le bon vieux temps...${prompt}
+  9086: Ce n'est pas le moment de se remémorer le passé ! Avez-vous oublié comment il est mort ? Il est sûrement venu se venger.${prompt}
+  9087: En y pensant, Rainemard avait une fille, n'est-ce pas ? Comment s'appelait-elle déjà ?${prompt}
+  9088: Vraiment ? Ça, je ne le savais pas. Dites-moi, Valdero, qui était-elle ?${prompt}
+  9089: Oh... Je ne me souviens pas. Il y a bien longtemps depuis ces jours.${prompt}
+  9090: Je vois. Eh bien, ainsi se termine mon récit. Quoi, cela ne vous a pas plu ? Pardonnez-moi ! Rarement les histoires de fantômes sont bien racontées. Quoi qu'il en soit, ceci est pour vous.${prompt}
+  9091: Attendez, je me souviens de son nom ! La fille du mage rouge Rainemard !${prompt}
+  9092: Il était temps. Eh bien, dites-nous alors !${prompt}
+  9093: C'était Curilla... Oui, Curilla était son nom. Je me souviens que Rainemard veillait bien sur elle.${prompt}
+  9094: Curilla ? Hmm... Curilla... J'ai déjà entendu ce nom.${prompt}
+  9095: Attendez, la générale vierge s'appelait Curilla ! Oui, elle serait d'environ cet âge aussi. Qui aurait pensé qu'elle était la fille de Rainemard !${prompt}
+  9096: Ça doit être terrible... d'entendre que l'esprit de son père erre toujours.${prompt}
+  9097: Vraiment !${prompt}
+  9098: Je ne irais pas dans cette église si j'étais vous. Vous n'y trouverez pas de pièces, seulement de l'intrigue.${prompt}
+  9099: Quoi ? Vous êtes allé à l'église ? Comme vous êtes impétueux. Et, vous avez rencontré le fantôme ? Eh bien, rien ne vous arrête !${prompt}
+  9100: Eh bien, il semble que vous ayez affronté un grand danger là-bas. Mais vous avez trouvé de nouveaux atours pour le combat, donc tout va bien. N'est-ce pas, Sharzalion ?${prompt}
+  9101: Qu'est-ce qui ne va pas ? Ce n'est pas du tout comme vous.${prompt}
+  9102: Alors, la rumeur était vraie...${prompt}
+  9103: Rumeur ?${prompt}
+  9104: Oui, au sujet de la mort de Rainemard. Certains disent qu'il a été tué parce qu'il en savait trop.${prompt}
+  9105: Trop sur quoi ?${prompt}
+  9106: Je ne sais pas. Il serait sûrement préférable de ne pas aller plus loin. Pour ma part, je vais faire comme si je n'avais pas entendu ce qui a été dit aujourd'hui.${prompt}
+  9107: Vous n'êtes jamais aussi timide.${prompt}
+  9108: La discrétion, mon ami, est la meilleure partie du courage.${prompt}
+  9109: Dites... Je connais un moyen de parler aux morts. Qu'en dites-vous ?${prompt}
+  9110: Valdero, non !${prompt}
+  9111: 'À Fei’Yin, il y a une vieille fontaine asséchée. Ils disent que vous pouvez appeler l’esprit des morts en y jetant simplement ${article} ${item-article: 0[2]}. Quoi qu’il en soit, cet endroit est une ruine décrépite, donc il n’y a pas de fin aux rumeurs stupides.${prompt}'
+  9112: Ne croyez pas un mot de cela, mon ami.${prompt}
+  9113: Fei'Yin n'est pas un endroit pour vous. Et quelque chose ne tourne pas rond là-dedans. J'ai l'impression que quelque chose... une main invisible nous guide quelque part. Je ne veux plus rien avoir à faire avec ça !${prompt}
+  9114: Quoi, vous êtes allé à Fei'Yin ? Et vous dites que le fantôme de Rainemard a besoin d'aide ? Je suis désolé, mon ami, mais je ne veux plus rien avoir à faire avec ça.${prompt}
+  9115: Donc, tout ce tumulte à l'église était l'œuvre de Rainemard... Eh bien, je suis heureux que son esprit ait trouvé le repos, et que vous en soyez sorti sain et sauf.${prompt}
+  9116: Les aventuriers doivent savoir saisir les opportunités ! Bien qu'il y ait une fine ligne entre bravoure et folie !${prompt}
+  9117: J'adore une bonne histoire de fantômes. La meilleure partie de diriger une taverne est d'écouter toutes les histoires que les aventuriers rapportent de loin.${prompt}
+  9118: 'À Fei’Yin, il y a une vieille fontaine asséchée. Ils disent que vous pouvez appeler l’esprit des morts en y jetant simplement ${article} ${item-article: 0[2]}. Quoi qu’il en soit, cet endroit est une ruine décrépite, donc il n’y a pas de fin aux rumeurs stupides.${prompt}'
+  9119: Donc, la rumeur était vraie ? Hourra ! Non, je n'ai pas besoin de remerciements. Je suis heureux d'avoir simplement entendu votre histoire.${prompt}
+  9120: Mais que pourrait-il vouloir dire par un “petit endroit sombre et étroit” ? Vous feriez mieux de demander aux autres clients ou membres de votre propre groupe pour leur avis.${prompt}
+  9121: Oui, peut-être que son cadavre a été enterré dans la Citadelle de Garlaige. Quelle chose cruelle à faire !${prompt}
+  9122: Tout est bien qui finit bien, comme on dit. J'ai passé un bon moment à tout entendre ! S'il vous plaît, arrêtez-vous si vous êtes dans le coin.${prompt}
+  9123: Vous êtes courageux de me parler ! Mais si vous cherchez des pistes, je n'en ai aucune à partager.${prompt}
+  9124: 'Eh bien, je suis après un certain coffre dans la Citadelle de Garlaige. J’ai entendu dire que vous pouvez l’ouvrir avec ${article} ${item-article: 0[2]}, mais je me demande s’il y a un trésor caché à l’intérieur.${prompt}'
+  9125: Vous avez trouvé un cadavre à l'intérieur ? Je cherchais ce coffre, mais maintenant je suis content de ne pas l'avoir ouvert.${prompt}
+  9126: C'est une boîte de Pandore que je ne veux jamais rencontrer !${prompt}
   9127: |-
-    Did you get it?
+    L'avez-vous eu ?
     ${selection-lines}
-    Haha, yes.
-    Uh, no.${prompt}
-  9128: Heh, I thought so. We adventurers need a sense of humor!${prompt}
-  9129: You have so sense of humor.${prompt}
-  9130: Hmm... My own weapons are still no match for them...${prompt}
-  9131: Father!${prompt}
-  9132: Oh, Ailbeche. Did you run that errand for me?${prompt}
-  9133: Um, yes. And, I have a favor to ask you, too.${prompt}
-  9134: A favor?${prompt}
-  9135: 'Yes, I want ${article} ${item-article: 0[2]}. My friends said that then they''ll take me fishing.${prompt}'
-  9136: Ailbeche, that's not something a true friend would say. You should pick your friends more carefully.${prompt}
-  9137: And I have work to do. You know that, do you not?${prompt}
-  9138: Yes, Father.${prompt}
-  9139: 'Why, those ${keyitem-singular: 0[2]} are from the Royal Knights. How came you by them? I should convey this to Prince Trion.${prompt}'
-  9140: What do you want? I'm waiting for someone. Each time the door opens, I turn to look! Begone!${prompt}
-  9141: This is no concern of yours. Leave at once!${prompt}
-  9142: What are you here for? You ask about my son? Please, just go!${prompt}
-  9143: I know all about the intrigue of the knights! I heard that something was amiss right when my son disappeared. I know they had something to do with it!${prompt}
-  9144: I am an appraiser in the employ of Madam Hinaree. Her late husband was quite a collector. These are all fine works!${prompt}
-  9145: The portrait above the stairs is especially valuable. It is by Mique, court artist of King Ranperre. Pity so few of his works survive!${prompt}
-  9146: The greatest mystery surrounding Mique is his brush. It is said that its bristles turn ferocious when the painter is afraid, and delicate when he is sad.${prompt}
-  9147: 'Any artist would desire ${keyitem-singular: 0[2]}. Some say it was hidden in Castle Zvahl, but I do not believe them.${prompt}'
-  9148: Do you know anyone looking for a model? I could use the money.${prompt}
-  9149: Chusarlaud used to paint my portrait a lot. He was so talented. Some of his paintings are right here in this tavern.${prompt}
-  9150: But now, no one's doing portraits anymore, so I can't find any work!${prompt}
-  9151: 'Still, he always wished he had ${keyitem-singular: 0[2]} whenever his spirits were down. Vemalpeau, his father, looked for it too, but it was nowhere to be found.${prompt}'
-  9152: What? You've never heard of Mique? Head to Madam Hinaree's mansion. A picture is worth a thousand words, they say.${prompt}
-  9153: Why, you would offer this to me!? It's the paintbrush Chusarlaud always wanted. How did you know?${prompt}
-  9154: In youth he wanted to be a painter. But, when his mother fell ill we lost the means, and he decided to become a knight. All on his own...${prompt}
-  9155: I just couldn't ask him to quit, even though I wanted him to. He was our pride. How could such a thing happen to him?${prompt}
-  9156: He has gone missing for nearly a year, but there is still a chance he lives. We've kept his room upstairs the way it's always been. Go see for yourself if you want to.${prompt}
-  9157: Come to think of it, often he would read a letter from his commanding officer. Once I snatched it while he was away, but the paper was blank.${prompt}
-  9158: The plume rests in the dry inkwell. ${prompt}
-  9159: An unfinished letter. It says nothing special.${prompt}
-  9160: A painting. It features lively brushwork.${prompt}
-  9161: Further inspection reveals that all the paintings here are from the same artist.${prompt}
-  9162: |-
-    What now?
+    Haha, oui.
+    Euh, non.${prompt}
+  9128: Heh, je le pensais bien. Nous, les aventuriers, avons besoin d'un sens de l'humour !${prompt}
+  9129: Vous n'avez aucun sens de l'humour. ${prompt}
+  9130: Hmm... Mes propres armes ne font toujours pas le poids contre elles... ${prompt}
+  9131: Père ! ${prompt}
+  9132: Oh, Ailbeche. As-tu fait cette course pour moi ? ${prompt}
+  9133: Um, oui. Et, j'ai aussi une faveur à te demander, père. ${prompt}
+  9134: Une faveur ? ${prompt}
+  9135: 'Oui, je veux ${article} ${item-article: 0[2]}. Mes amis ont dit qu’ils m’emmèneraient ensuite pêcher. ${prompt}'
+  9136: Ailbeche, ce n'est pas quelque chose qu'un vrai ami dirait. Tu devrais choisir tes amis plus soigneusement. ${prompt}
+  9137: Et j'ai du travail à faire. Tu le sais, n'est-ce pas ? ${prompt}
+  9138: Oui, Père. ${prompt}
+  9139: 'Pourquoi, ces ${keyitem-singular: 0[2]} sont des Chevaliers Royaux. Comment les as-tu obtenus ? Je devrais en informer le Prince Trion. ${prompt}'
+  9140: Que veux-tu ? J'attends quelqu'un. Chaque fois que la porte s'ouvre, je me retourne pour regarder ! Va-t'en ! ${prompt}
+  9141: Ce n'est pas de tes affaires. Pars tout de suite ! ${prompt}
+  9142: Pourquoi es-tu là ? Tu demandes des nouvelles de mon fils ? S'il te plaît, va-t'en ! ${prompt}
+  9143: Je sais tout sur les intrigues des chevaliers ! J'ai entendu dire que quelque chose n'allait pas dès que mon fils a disparu. Je sais qu'ils y sont pour quelque chose ! ${prompt}
+  9144: Je suis un évaluateur employé par Madame Hinaree. Feu son mari était un grand collectionneur. Ce sont tous de belles œuvres ! ${prompt}
+  9145: Le portrait au-dessus de l'escalier est particulièrement précieux. Il est de Mique, l'artiste de cour du Roi Ranperre. Dommage que si peu de ses œuvres aient survécu ! ${prompt}
+  9146: Le plus grand mystère entourant Mique est son pinceau. On dit que ses poils deviennent féroces lorsque le peintre a peur et délicats lorsqu'il est triste. ${prompt}
+  9147: 'Tout artiste désirerait ${keyitem-singular: 0[2]}. Certains disent qu’il était caché dans le château de Zvahl, mais je ne les crois pas. ${prompt}'
+  9148: Connais-tu quelqu'un qui cherche un modèle ? Je pourrais utiliser l'argent. ${prompt}
+  9149: Chusarlaud peignait souvent mon portrait. Il était tellement talentueux. Certains de ses tableaux sont ici, dans cette taverne. ${prompt}
+  9150: Mais maintenant, personne ne fait plus de portraits, alors je ne trouve pas de travail ! ${prompt}
+  9151: 'Pourtant, il souhaitait toujours avoir ${keyitem-singular: 0[2]} quand son moral était bas. Vemalpeau, son père, l’a aussi cherché, mais il n’a jamais été trouvé. ${prompt}'
+  9152: Quoi ? Tu n'as jamais entendu parler de Mique ? Rends-toi à la maison de Madame Hinaree. Une image vaut mille mots, dit-on. ${prompt}
+  9153: Pourquoi tu me l'offrirais ? C'est le pinceau que Chusarlaud a toujours voulu. Comment le savais-tu ? ${prompt}
+  9154: Dans sa jeunesse, il voulait être peintre. Mais, quand sa mère est tombée malade, nous avons perdu les moyens, et il a décidé de devenir chevalier. Tout seul...${prompt}
+  9155: Je ne pouvais tout simplement pas lui demander d'abandonner, même si je le voulais. Il était notre fierté. Comment une telle chose a-t-elle pu lui arriver ?${prompt}
+  9156: Il est porté disparu depuis près d'un an, mais il y a encore une chance qu'il soit vivant. Nous avons conservé sa chambre à l'étage telle qu'elle a toujours été. Allez voir par vous-même si vous le souhaitez.${prompt}
+  9157: À bien y penser, souvent il lisait une lettre de son officier commandant. Une fois, je l'ai volée pendant son absence, mais le papier était vierge.${prompt}
+  9158: La plume repose dans l'encrier vide. ${prompt}
+  9159: Une lettre inachevée. Elle ne dit rien de spécial. ${prompt}
+  9160: Une peinture. Elle présente un travail de pinceau animé. ${prompt}
+  9161: Une inspection plus approfondie révèle que toutes les peintures ici sont du même artiste. ${prompt}
+  9162: |- 
+    Que faire maintenant ?
     ${selection-lines}
-    Examine the painting.
-    Look behind the frame.
-    Nothing.${prompt}
-  9163: You find an envelope with nothing written on it.${prompt}
-  9164: |-
-    What now?
+    Examinez la peinture.
+    Regardez derrière le cadre.
+    Rien.${prompt}
+  9163: Vous trouvez une enveloppe sans rien d'écrit dessus. ${prompt}
+  9164: |- 
+    Que faire maintenant ?
     ${selection-lines}
-    Open and examine.
-    Leave it be.${prompt}
+    Ouvrir et examiner.
+    Laissez-le.${prompt}
   9165: Père !${prompt}
   9166: Qu'est-ce, Ailbeche ?${prompt}
   9167: Vous partez en expédition, n'est-ce pas ? Vilbert est déjà parti. Voici une épée. Maintenant, vous pouvez y aller aussi.${prompt}
@@ -21242,247 +21242,247 @@ entries:
   9311: Pour faire face à ce problème imminent, le prince m'a demandé de construire un ensemble de lignes directrices pour maîtriser l'art de la hallebarde.${prompt}
   9312: C'est là que vous intervenez. Je voudrais que vous m'aidiez à tester les nouvelles directives que j'ai élaborées.${prompt}
   9313: |-
-    Can you lend your assistance?
+    Pouvez-vous prêter votre assistance ?
     ${selection-lines}
-    I would be honored!
-    I have affairs of greater importance.${prompt}
+    Ce serait un honneur !
+    J'ai des affaires plus importantes.${prompt}
   9314: |-
-    Spoken like a true purveyor of strength.
-    We shall begin by conducting basic training.${prompt}
-  9315: Take this polearm and fight to your heart's content. The weapon will transmit its power into your body. When it has been drained of all its energy, you will know that your skills have been refined and your training is near complete.${prompt}
-  9316: When you feel that time has come, return to me with the spear, and I will evaluate your progress.${prompt}
+    Parlez comme un véritable défenseur de la force.
+    Nous commencerons par effectuer un entraînement de base.${prompt}
+  9315: Prenez cette arme d'hast et combattez à votre guise. L'arme transmettra sa puissance dans votre corps. Lorsqu'elle aura été vidée de toute son énergie, vous saurez que vos compétences auront été affinées et que votre entraînement est presque terminé.${prompt}
+  9316: Quand vous sentirez que le moment est venu, revenez vers moi avec la lance, et j'évaluerai vos progrès.${prompt}
   9317: |-
-    I see...
-    It is not every day that I meet an adventurer with your skill. I was sure that both of us could have benefited from my offer...
-    If you ever have a change of heart, I will be waiting here for your return.${prompt}
+    Je vois...
+    Ce n'est pas tous les jours que je rencontre un aventurier de votre compétence. J'étais sûr que nous aurions pu tous les deux bénéficier de mon offre...
+    Si vous changez d'avis un jour, je vous attendrai ici pour votre retour.${prompt}
   9318: |-
-    Ah, ${name-player}. How goes your training?
-    Show me the polearm I entrusted to you and I can evaluate your progress. Or have you called upon me for another reason...?${prompt}
+    Ah, ${name-player}. Comment se passe votre entraînement ?
+    Montrez-moi la lance que je vous ai confiée et je pourrai évaluer vos progrès. Ou bien m'avez-vous appelé pour une autre raison...?${prompt}
   9319: |-
-    What is the purpose of your visit?
+    Quel est le but de votre visite ?
     ${selection-lines}
-    I have lost the ${item-singular: 1[2]}...
-    I request to withdraw from the training.
-    I was just passing by.${prompt}
+    J'ai perdu la ${item-singular: 1[2]}...
+    Je demande à me retirer de l'entraînement.
+    Je passais juste par là.${prompt}
   9320: |-
-    Lost it? You have lost it!?
-    Why, do you realize the trouble I was forced to go through with those crooks at the Brugaire Consortium to obtain that polearm?${prompt}
+    Perdue ? Vous l'avez perdue !?
+    Savez-vous les ennuis que j'ai été obligé de subir avec ces escrocs du Consortium Brugaire pour obtenir cette arme d'hast ?${prompt}
   9321: |-
-    <Sigh>
-    ...I apologize for my outburst. It was I who requested your services in this matter. Please, take this spear and continue your training. However, you will have to start from the beginning.
-    And please try not to lose this one...${prompt}
-  9322: Was what I asked too much for even you? No, it could not be... My years of experience led me to the construction of those training guidelines.${prompt}
+    <Soupir>
+    ...Je m'excuse pour mon emportement. C'était moi qui ai demandé vos services dans cette affaire. S'il vous plaît, prenez cette lance et continuez votre entraînement. Cependant, vous devrez recommencer depuis le début.
+    Et s'il vous plaît, essayez de ne pas la perdre celle-ci...${prompt}
+  9322: Ai-je demandé trop même pour vous ? Non, cela ne pouvait pas être... Mes années d'expérience m'ont conduit à l'élaboration de ces directives d'entraînement.${prompt}
   9323: |-
-    You are not truly considering giving up?
+    Vous envisagez vraiment d'abandonner ?
     ${selection-lines}
-    I have had enough.
-    On second thought...${prompt}
-  9324: I knew that you were the one for this task. Anyone who cannot handle simple training such as this does not have the right to hold a polearm in their hands.${prompt}
-  9325: If you grow weary of your training, then feel free to rest. While glory does not befall those who run from the hardships they face, it must also be remembered that a true master is not born in a single day's time. ${prompt}
-  9326: What is this? Have you no faith in my guidelines?${prompt}
+    J'en ai assez.
+    En y réfléchissant...${prompt}
+  9324: Je savais que vous étiez la personne pour cette tâche. Quiconque ne peut pas gérer un entraînement aussi simple que celui-ci n'a pas le droit de tenir une arme d'hast entre ses mains.${prompt}
+  9325: Si vous vous fatiguez de votre entraînement, alors reposez-vous. Bien que la gloire ne revienne pas à ceux qui fuient les épreuves auxquelles ils sont confrontés, il faut aussi se rappeler qu'un véritable maître ne naît pas en une seule journée. ${prompt}
+  9326: Qu'est-ce que c'est ? N'avez-vous aucune foi en mes directives ?${prompt}
   9327: |-
-    I cannot believe what I am hearing...
-    Leave me be! I will search for a more suited adventurer to take on this task.${prompt}
-  9328: I am sorry, but I do not believe that you have used this weapon to its full extent. Continue your training. You will know when you have reached your goal.${prompt}
+    Je ne peux pas croire ce que j'entends...
+    Laissez-moi tranquille ! Je vais chercher un aventurier plus adapté pour accomplir cette tâche.${prompt}
+  9328: Je suis désolé, mais je ne crois pas que vous ayez utilisé cette arme à sa pleine capacité. Continuez votre entraînement. Vous saurez quand vous aurez atteint votre objectif.${prompt}
   9329: |-
-    Excellent!
-    The wear of this weapon is a direct reflection of your progress.${prompt}
-  9330: Now all that remains is the final portion of your training, where you must use your newly acquired techniques in a battle to the death. This will not be easy, but I am sure that your experience will guide you to victory.${prompt}
-  9331: 'Take this ${keyitem-singular: 0[2]} and travel to the Sea Serpent Grotto. There you will find ${keyitem-article: 2[2]} buried in the earth. You are to bring that back here to me.${prompt}'
-  9332: Do not think of this as a simple errand. This is your final test, and it will require all the knowledge and experience you have acquired through the course of this training.${prompt}
-  9333: 'Now go prepare yourself for this battle in the way you see fit. You will no longer need the ${item-singular: 1[2]}.${prompt}'
+    Excellent !
+    L'usure de cette arme est le reflet direct de vos progrès.${prompt}
+  9330: Tout ce qui reste maintenant est la dernière partie de votre formation, où vous devez utiliser vos techniques nouvellement acquises dans un combat à mort. Ce ne sera pas facile, mais je suis sûr que votre expérience vous guidera vers la victoire.${prompt}
+  9331: 'Prenez ce ${keyitem-singular: 0[2]} et rendez-vous au Grotto du Serpent de Mer. Là-bas, vous trouverez ${keyitem-article: 2[2]} enterré dans la terre. Vous devez le ramener ici.${prompt}'
+  9332: Ne considérez pas cela comme une simple commission. C'est votre dernier test, et cela nécessitera toutes les connaissances et l'expérience que vous avez acquises tout au long de cette formation.${prompt}
+  9333: 'Maintenant, préparez-vous pour ce combat de la manière que vous jugerez appropriée. Vous n’aurez plus besoin de l’${item-singular: 1[2]}.${prompt}'
   9334: |-
-    Take that ${keyitem-singular: 0[2]} and travel to the Sea Serpent Grotto. There you will find ${keyitem-article: 2[2]} buried in the earth. You are to bring that back here to me.
-    Good luck.${prompt}
-  9335: You look much stronger than when I last saw you. You must have successfully completed the training course I laid out in my guidelines!${prompt}
-  9336: This proves that my methods can be of great importance to the Kingdom! I look forward to the day when our knights reach the level that you have already acquired.${prompt}
-  9337: Balasiel, how goes the preparation of our new guidelines?${prompt}
+    Prenez ce ${keyitem-singular: 0[2]} et rendez-vous au Grotto du Serpent de Mer. Là-bas, vous trouverez ${keyitem-article: 2[2]} enterré dans la terre. Vous devez le ramener ici.
+    Bonne chance.${prompt}
+  9335: Vous avez l'air beaucoup plus fort que lorsque je vous ai vu pour la dernière fois. Vous avez certainement terminé avec succès le cours de formation que j'ai établi dans mes directives !${prompt}
+  9336: Cela prouve que mes méthodes peuvent être d'une grande importance pour le Royaume ! J'attends avec impatience le jour où nos chevaliers atteindront le niveau que vous avez déjà acquis.${prompt}
+  9337: Balasiel, comment se passe la préparation de nos nouvelles directives ?${prompt}
   9338: |-
-    My Lord!
-    With the assistance of this noble ${choice-player-gender}[gentleman/lady], I have been able to complete my writing. It will not be long before those wretched Orcs tremble at the sight of our newly trained knights.${prompt}
+    Mon Seigneur !
+    Avec l'assistance de ce noble ${choice-player-gender}[gentleman/lady], j'ai pu achever mon écriture. Il ne faudra pas longtemps avant que ces maudits orcs tremblent à la vue de nos nouveaux chevaliers entraînés.${prompt}
   9339: |-
-    That is good news indeed.
-    ${name-player}, I thank you for your work in helping San d'Oria. I think that I might head over to the training grounds myself for a firsthand try at these new techniques.${prompt}
-  9340: Prince Trion, you cannot be serious...!${prompt}
-  9341: Hah hah hah! Balasiel, of course it was a joke!${prompt}
-  9342: I apologize, my Lord. However, it did not sound much like a joke...${prompt}
-  9343: Balasiel. Once you have completed your report, deliver it to Monarlais Halver. He will continue the preparations from there.${prompt}
-  9344: Yes, my Lord!${prompt}
+    C'est en effet une bonne nouvelle.
+    ${name-player}, je vous remercie pour votre travail pour aider San d'Oria. Je pense que je pourrais me rendre sur le terrain d'entraînement moi-même pour essayer ces nouvelles techniques de première main.${prompt}
+  9340: Prince Trion, vous ne pouvez pas être sérieux... !${prompt}
+  9341: Hah hah hah ! Balasiel, bien sûr que c'était une blague !${prompt}
+  9342: Je m'excuse, mon Seigneur. Cependant, cela n'avait pas l'air beaucoup d'une blague...${prompt}
+  9343: Balasiel. Une fois votre rapport terminé, remettez-le à Monarlais Halver. Il continuera les préparatifs à partir de là.${prompt}
+  9344: Oui, mon Seigneur !${prompt}
   9345: |-
-    I cannot thank you enough for all you have done. Were it not for you, I could not have completed my work.
-    Soon, all the knights of San d'Oria will be polishing their polearm skills with the new “${name-player} Method.”${prompt}
-  9346: I regret that I cannot reimburse you for the time you have spent assisting me. However, you will soon realize that your training has unlocked a powerful force inside you. This new skill is your true reward.${prompt}
-  9347: I thank you again for your assistance. And remember, this newly acquired skill is not the end of your training, but the beginning.${prompt}
-  9348: You have learned the weapon skill “Impulse Drive”!${prompt}
+    Je ne saurais trop vous remercier pour tout ce que vous avez fait. Si ce n'était pour vous, je n'aurais pas pu achever mon travail.
+    Bientôt, tous les chevaliers de San d'Oria poliront leurs compétences au bâton avec la nouvelle “Méthode ${name-player}.”${prompt}
+  9346: Je regrette de ne pas pouvoir vous rembourser pour le temps que vous avez passé à m'assister. Cependant, vous réaliserez bientôt que votre entraînement a débloqué une puissante force en vous. Cette nouvelle compétence est votre véritable récompense.${prompt}
+  9347: Je vous remercie encore pour votre assistance. Et souvenez-vous, cette compétence nouvellement acquise n'est pas la fin de votre entraînement, mais le début.${prompt}
+  9348: Vous avez appris la compétence d'arme “Coup d'impulsion” !${prompt}
   9349: |-
-    Good day, ${choice-player-gender}[sir/madame].
-    My name is Phillone. I recently moved here from Bastok with my husband and younger brother.${prompt}
-  9350: "And where are they now, you ask? They...they are quite busy with their work! So much so that I rarely see them at home these days. \nPlease stop by for another visit sometime!${prompt}"
-  9351: I must remain calm...stay focused. I've finally been given a chance to rise above this sorry gate-guard existence. If only I could show them what I'm worth...${prompt}
-  9352: Wha-!${prompt}
-  9353: My duty is to guard this city gate! I was certainly not considering running off to catch that thief for tawdry fame and glory!${prompt}
+    Bonjour, ${choice-player-gender}[monsieur/madame].
+    Je m'appelle Phillone. J'ai récemment déménagé ici depuis Bastok avec mon mari et mon frère cadet.${prompt}
+  9350: "Et où sont-ils maintenant, vous demandez ? Ils... ils sont très occupés avec leur travail ! Tellement que je les vois rarement à la maison ces jours-ci. \nN'hésitez pas à revenir pour une autre visite un jour !${prompt}"
+  9351: Je dois rester calme... rester concentré. J'ai enfin eu la chance de dépasser cette existence misérable de garde-porte. Si seulement je pouvais leur montrer ce que je vaux...${prompt}
+  9352: Quoi- !${prompt}
+  9353: Mon devoir est de garder cette porte de la ville ! Je n'envisageais certainement pas de partir pour attraper ce voleur pour une gloire vulgaire et une reconnaissance !${prompt}
   9354: '...${prompt}'
-  9355: Oh, it's just an adventurer. You startled me.${prompt}
-  9356: A burglar broke into the royal treasury the other day and pilfered the precious Scepter Royaulais.${prompt}
-  9357: Mayhap it was you!?${prompt}
-  9358: No, your face does not match that of the sketch I saw.${prompt}
+  9355: Oh, ce n'est qu'un aventurier. Vous m'avez fait peur.${prompt}
+  9356: Un cambrioleur s'est introduit dans le trésor royal l'autre jour et a dérobé le précieux Sceptre Royaulais.${prompt}
+  9357: Peut-être que c'était vous !?${prompt}
+  9358: Non, votre visage ne correspond pas à celui du croquis que j'ai vu.${prompt}
   9359: |-
-    I apologize for my hasty accusation.
-    The Temple Knights have scoured the entire Kingdom, but have yet to discover a single clue regarding the thief's whereabouts.${prompt}
-  9360: Have you not heard of the Scepter Royaulais? It is the scepter borne by the king, a symbol of office bestowed by the papsque at the coronation ceremony.${prompt}
-  9361: I, too, wish to make a name for myself in this world someday.${prompt}
-  9362: We've finally found a lead!${prompt}
-  9363: A traveling merchant has reported a suspicious character lurking in La Theine Plateau! It may just be the burglar we're looking for.${prompt}
-  9364: You speak truly!?${prompt}
+    Je m'excuse pour mon accusation précipitée.
+    Les Chevaliers du Temple ont parcouru tout le royaume, mais n'ont encore découvert aucun indice concernant le lieu où se trouve le voleur.${prompt}
+  9360: N'avez-vous jamais entendu parler du Sceptre Royaulais ? C'est le sceptre porté par le roi, un symbole de fonction décerné par le pape lors de la cérémonie de couronnement.${prompt}
+  9361: Moi aussi, je souhaite un jour me faire un nom dans ce monde.${prompt}
+  9362: Nous avons enfin trouvé une piste !${prompt}
+  9363: Un marchand ambulant a signalé la présence d'un individu suspect rôdant dans le Plateau de La Theine ! Il pourrait bien s'agir du cambrioleur que nous recherchons.${prompt}
+  9364: Parlez-vous sérieusement !?${prompt}
   9365: |-
-    I am Elmemague of the Temple Knights.
-    I must travel to the rescue drill site in La Theine Plateau and join my fellows.${prompt}
+    Je suis Elmemague des Chevaliers du Temple.
+    Je dois me rendre sur le site d'exercice de secours dans le Plateau de La Theine et rejoindre mes compagnons.${prompt}
   9366: |-
-    However, if our quarry is the burglar who managed to infiltrate the chateau single-handedly, I worry that our numbers may be too few.
-    I ask that you contact the Royal Knights to send reinforcements!${prompt}
-  9367: The Royal Knights are posted beyond the borders of the Kingdom! Recruiting the assistance of even the closest knights will take time.${prompt}
-  9368: Dash it all! The scoundrel will not tarry long...${prompt}
-  9369: Why, the solution stands right before you! I understand that it may be dangerous, but someone must accompany...${prompt}
-  9370: "Of course! \nAdventurer! Will you not lend a hand? If the thief is caught, you will be rewarded most handsomely!${prompt}"
-  9371: Wait, what I meant was I could go with...${prompt}
-  9372: Come, adventurer! The royal treasure must be wrested from the hands of that villain!${prompt}
+    Cependant, si notre proie est le cambrioleur qui a réussi à s'infiltrer dans le château seul, je crains que notre nombre ne soit trop peu élevé.
+    Je demande que vous contactiez les Chevaliers Royaux pour envoyer des renforts !${prompt}
+  9367: Les Chevaliers Royaux sont postés au-delà des frontières du royaume ! Recruter l'assistance même des chevaliers les plus proches prendra du temps.${prompt}
+  9368: Mille diables ! Le scélérat ne tardera pas...${prompt}
+  9369: Pourquoi, la solution est là, sous vos yeux ! Je comprends que cela puisse être dangereux, mais quelqu'un doit accompagner...${prompt}
+  9370: "Bien sûr ! \nAventurier ! Ne prêteriez-vous pas main-forte ? Si le voleur est attrapé, vous serez généreusement récompensé !${prompt}"
+  9371: Attendez, ce que je voulais dire, c'est que je pourrais y aller avec...${prompt}
+  9372: Venez, aventurier ! Le trésor royal doit être arraché des mains de ce vilain !${prompt}
   9373: |-
-    Will you help?
+    Allez-vous aider ?
     ${selection-lines}
-    Lead the way!
-    I cannot help at this time...${prompt}
+    Montrez le chemin !
+    Je ne peux pas aider pour le moment...${prompt}
   9374: |-
-    I see...
-    If you happen to change your mind, talk to the guard here. Your help would be greatly appreciated.${prompt}
-  9375: You will help? Splendid! Then let us be off to La Theine Plateau and join forces with the rest of my men!${prompt}
-  9376: I, uh, I will accompany you on this important...${prompt}
-  9377: You must remain here. When the knights return from their patrols, tell them to make haste to La Theine Plateau.${prompt}
-  9378: '...Yes, sir.${prompt}'
-  9379: No dithering now, adventurer! We leave immediately!${prompt}
+    Je vois...
+    Si jamais vous changez d'avis, parlez au garde ici. Votre aide serait grandement appréciée.${prompt}
+  9375: Vous allez aider ? Splendide ! Alors partons pour le Plateau de La Theine et unissons nos forces avec le reste de mes hommes !${prompt}
+  9376: Je, euh, je vous accompagnerai dans cette mission importante...${prompt}
+  9377: Vous devez rester ici. Quand les chevaliers reviendront de leurs patrouilles, dites-leur de se dépêcher de se rendre au Plateau de La Theine.${prompt}
+  9378: '...Oui, monsieur.${prompt}'
+  9379: Pas de tergiversations, aventurier ! Nous partons immédiatement !${prompt}
   9380: |-
-    It is of no matter. I'm not the slightest bit disappointed.
-    “Lowly gate-guard” seems to be my lot in this life...${prompt}
-  9381: Well, that is a shame. We could have used your help.${prompt}
-  9382: I will return anon!${prompt}
+    Peu importe. Je ne suis nullement déçu.
+    Être un "simple garde-porte" semble être mon destin dans cette vie...${prompt}
+  9381: Eh bien, c'est dommage. Votre aide aurait été utile.${prompt}
+  9382: Je reviendrai bientôt !${prompt}
   9383: |-
-    It is of no matter, no matter at all.
-    “Lowly gate-guard” seems to be my lot in this life...${prompt}
-  9384: Sir Elmemague has asked for the assistance of adventurers in the capture of the suspected thief lurking in La Theine Plateau...${prompt}
-  9385: Then you must make haste for La Theine Plateau. The knights there will give you further instructions.${prompt}
+    Peu importe, vraiment.
+    Être un "simple garde-porte" semble être mon destin dans cette vie...${prompt}
+  9384: Sir Elmemague a demandé l'assistance d'aventuriers pour capturer le voleur présumé qui rôde dans le Plateau de La Theine...${prompt}
+  9385: Alors vous devez vous dépêcher pour le Plateau de La Theine. Les chevaliers là-bas vous donneront de plus amples instructions.${prompt}
   9386: |-
-    I see.
-    If it were me, I'd offer up my sword in a heartbeat...${prompt}
+    Je comprends.
+    Si c'était moi, je proposerais mon épée en un battement de cœur...${prompt}
   9387: |-
-    You've forgotten already?
-    Make for La Theine Plateau, and the knights there will give you further instructions.${prompt}
-  9388: I'm not feeling the smallest shred of envy. I have absolutely no interest in proving myself through acts of honor and courage...${prompt}
-  9389: Oh, it's you. How did you fare?${prompt}
-  9390: So they caught him, did they? How wonderful it must be to stand at the forefront of action...${prompt}
-  9391: Is it true!?${prompt}
-  9392: And you are, madame?${prompt}
+    Vous avez déjà oublié ?
+    Rendez-vous au Plateau de La Theine, et les chevaliers là-bas vous donneront de plus amples instructions.${prompt}
+  9388: Je ne ressens pas le moindre soupçon d'envie. Je n'ai absolument aucun intérêt à me prouver par des actes d'honneur et de courage...${prompt}
+  9389: Oh, c'est vous. Comment ça s'est passé pour vous ?${prompt}
+  9390: Alors ils l'ont attrapé, n'est-ce pas ? Comme il doit être merveilleux de se tenir à l'avant-garde de l'action...${prompt}
+  9391: Est-ce vrai !?${prompt}
+  9392: Et vous êtes, madame ?${prompt}
   9393: |-
-    My name is Phillone.
-    What has become of the one who stole the Scepter Royaulais? Did they catch him? Is he unharmed?${prompt}
-  9394: A highly suspicious character was apprehended in La Theine, but whether or not he is the criminal remains to be seen...${prompt}
-  9395: He's not a bad pers...he is no criminal. Please, you must help him!${prompt}
-  9396: The suspect?${prompt}
-  9397: You are an adventurer, are you not? I beg you, you have to do something!${prompt}
-  9398: It is out of our hands...${prompt}
+    Je m'appelle Phillone.
+    Qu'est-il advenu de celui qui a volé le Sceptre Royaulais ? L'ont-ils attrapé ? Est-il indemne ?${prompt}
+  9394: Un individu très suspect a été appréhendé à La Theine, mais s'il est réellement le criminel reste à voir...${prompt}
+  9395: Il n'est pas une mauvaise personne... il n'est pas un criminel. Je vous en prie, vous devez l'aider !${prompt}
+  9396: Le suspect ?${prompt}
+  9397: Vous êtes un aventurier, n'est-ce pas ? Je vous en supplie, vous devez faire quelque chose !${prompt}
+  9398: Cela ne dépend plus de nous...${prompt}
   9399: '...${prompt}'
-  9400: My pardon for my wife's behavior. I am her husband, Roido.${prompt}
-  9401: Come now, Phillone, let's go home. It'll be all right. You'll see.${prompt}
-  9402: But...${prompt}
-  9403: I said, let's go...!${prompt}
-  9404: What was she on about, I wonder...${prompt}
-  9405: Ah yes, I almost forgot. If the man they caught is really the burglar, you will be eligible for a reward from Monarlais Halver. Why don't you head over to the chateau and check on the proceedings?${prompt}
-  9406: If the man they caught is really the burglar, you will be eligible for a reward from Monarlais Halver. Why don't you head over to the chateau and check on the proceedings?${prompt}
+  9400: Pardonnez l'attitude de ma femme. Je suis son mari, Roido.${prompt}
+  9401: Allons, Phillone, rentrons chez nous. Tout ira bien. Tu verras.${prompt}
+  9402: Mais...${prompt}
+  9403: J'ai dit, rentrons... !${prompt}
+  9404: De quoi parlait-elle, je me demande...${prompt}
+  9405: Ah oui, j'allais presque oublier. Si l'homme qu'ils ont attrapé est vraiment le voleur, vous aurez droit à une récompense de la part de Monarlais Halver. Pourquoi n'iriez-vous pas au château pour vérifier la situation ?${prompt}
+  9406: Si l'homme qu'ils ont attrapé est vraiment le voleur, vous aurez droit à une récompense de la part de Monarlais Halver. Pourquoi n'iriez-vous pas au château pour vérifier la situation ?${prompt}
   9407: |-
-    I apologize for my outburst earlier. I've been a little under the weather...
-    Please, forget I said anything.${prompt}
-  9408: Hmm, so the man they caught wasn't the one who stole the Scepter Royaulais?${prompt}
-  9409: "Which means I still have a chance! I'm going to catch that thief and show everyone what I'm made of. \nI'll be a famous knight yet!${prompt}"
+    Je m'excuse pour mon emportement plus tôt. J'ai été un peu souffrant...
+    Veuillez oublier ce que j'ai dit.${prompt}
+  9408: Hmm, donc l'homme qu'ils ont attrapé n'était pas celui qui a volé le Sceptre Royaulais ?${prompt}
+  9409: "Ce qui signifie que j'ai encore une chance ! Je vais attraper ce voleur et montrer à tout le monde de quoi je suis capable. \nJe serai un chevalier célèbre !${prompt}"
   9410: '...${prompt}'
-  9411: Oh, you were at the chateau.${prompt}
-  9412: Hold it right there! You're the scoundrel who made off with the scepter--admit it!${prompt}
-  9413: Young man, do you know of the esteemed personages of King Raigegue and Prince Fellenant?${prompt}
+  9411: Oh, vous étiez au château.${prompt}
+  9412: Ne bougez pas ! Vous êtes le vaurien qui s'est enfui avec le sceptre, n'est-ce pas !?${prompt}
+  9413: Jeune homme, connaissez-vous les personnages éminents du roi Raigegue et du prince Fellenant ?${prompt}
   9414: |-
-    Huh? Well, yes.
-    They were of the royal family of San d'Oria two hundred years ago. It was their struggle for control of the Kingdom that caused the civil war before the time of King Ranperre.${prompt}
+    Hein ? Eh bien, oui.
+    Ils faisaient partie de la famille royale de San d'Oria il y a deux cents ans. C'est leur lutte pour le contrôle du Royaume qui a causé la guerre civile avant l'époque du roi Ranperre.${prompt}
   9415: |-
-    You are certain!?
-    Then the internal strife began...${prompt}
-  9416: Hmm, that would have been several years after our crushing defeat at the Second Battle of Konschtat.${prompt}
-  9417: Prince Fellenant recruited the Temple Knights to his cause and took control of the city. He then declared his intention to forge a peace with Bastok.${prompt}
-  9418: However, his older brother, King Raigegue, could not forgive his younger sibling's actions; this call for peace had come right at the height of the king's efforts to rally the remaining Royal Knights for a counterattack against the Republic.${prompt}
-  9419: What of Vijartal Caphieux!?${prompt}
+    Vous en êtes sûr !?
+    Alors les troubles internes ont commencé...${prompt}
+  9416: Hmm, cela se serait passé plusieurs années après notre défaite écrasante lors de la Deuxième Bataille de Konschtat.${prompt}
+  9417: Le prince Fellenant a recruté les Chevaliers du Temple à sa cause et pris le contrôle de la ville. Il a ensuite déclaré son intention de forger une paix avec Bastok.${prompt}
+  9418: Cependant, son frère aîné, le roi Raigegue, n'a pas pu pardonner les actions de son frère cadet ; cet appel à la paix est survenu au moment où le roi s'efforçait de rallier les chevaliers royaux restants pour une contre-attaque contre la République.${prompt}
+  9419: Et Vijartal Caphieux !?${prompt}
   9420: |-
-    Do you truly not know?
-    He is one of the foremost heroes in our kingdom's history. It was during the time of civil war that Vijartal Caphieux rose to prominence through his valorous actions. Why, I shouldn't think the smallest child in San d'Oria would be unaware of his deeds.${prompt}
-  9421: You jest with me...surely? Is this, then, the world of the future? What a ridiculous notion...${prompt}
-  9422: What an odd character. Well, never mind. What I should be focusing on now is the capture of that rogue and the retrieval of the Scepter Royaulais.${prompt}
+    Vous ne savez vraiment pas ?
+    Il est l'un des plus grands héros de l'histoire de notre royaume. C'est pendant la guerre civile que Vijartal Caphieux s'est distingué par ses actions vaillantes. Je doute que le plus petit enfant à San d'Oria soit ignorant de ses exploits.${prompt}
+  9421: Vous vous moquez de moi... n'est-ce pas ? Est-ce donc le monde du futur ? Quelle idée ridicule...${prompt}
+  9422: Quel personnage étrange. Peu importe. Ce sur quoi je devrais me concentrer maintenant, c'est la capture de ce scélérat et la récupération du Sceptre Royaulais.${prompt}
   9423: |-
-    That's it!
-    Do you remember the lady that introduced herself as Phillone? I think her story bears further investigation, but I cannot leave my post.${prompt}
-  9424: Could you go and find out more about her as a favor to me? I must solve this crime if I'm ever to be noticed by my superiors. Please let me know if you discover anything important.${prompt}
-  9425: Could you go and find out more about the lady who calls herself Phillone? I must solve this crime if I'm ever to be noticed by my superiors. Please let me know if you discover anything important.${prompt}
-  9426: You...you're the adventurer I talked to before! What happened to the man they caught? Was he unharmed!?${prompt}
-  9427: What? He wasn't the thief they were looking for?${prompt}
-  9428: Naphee, it's you!${prompt}
+    C'est ça !
+    Vous souvenez-vous de la dame qui s'est présentée sous le nom de Phillone ? Je pense que son histoire mérite une enquête plus approfondie, mais je ne peux pas quitter mon poste.${prompt}
+  9424: Pourriez-vous aller en apprendre davantage sur elle en tant que service pour moi ? Je dois résoudre ce crime si je veux un jour être remarqué par mes supérieurs. S'il vous plaît, faites-moi savoir si vous découvrez quelque chose d'important.${prompt}
+  9425: Pourriez-vous aller en apprendre davantage sur la dame qui se fait appeler Phillone ? Je dois résoudre ce crime si je veux un jour être remarqué par mes supérieurs. S'il vous plaît, faites-moi savoir si vous découvrez quelque chose d'important.${prompt}
+  9426: Vous... vous êtes l'aventurier avec qui j'ai parlé auparavant ! Que s'est-il passé avec l'homme qu'ils ont attrapé ? Était-il indemne !?${prompt}
+  9427: Quoi ? Il n'était pas le voleur qu'ils recherchaient ?${prompt}
+  9428: Naphee, c'est toi !${prompt}
   9429: |-
-    What a relief...
-    I'm so glad you're here! This isn't some future world after all!${prompt}
-  9430: My pardon, sir, but I don't believe we've met...${prompt}
-  9431: I've had the most trying day. Tedious nonsense from the people at the chateau, all this talk about me being some sort of hero...${prompt}
-  9432: My bones are in need of a rest, dear Naphee. I think I'll take a short nap, if you don't mind.${prompt}
-  9433: Just a moment! Who are you, sir? You don't just go barging into people's homes as you please!${prompt}
-  9434: What are you babbling about, Naphee?${prompt}
-  9435: Naphee? My name is Phillone!${prompt}
-  9436: I'm not in the mood for these games, especially not in my own house. I expect more from my one and only love.${prompt}
+    Quel soulagement...
+    Je suis tellement content que tu sois là ! Ce n'est pas un monde futuriste après tout !${prompt}
+  9430: Excusez-moi, monsieur, mais je ne crois pas que nous nous soyons déjà rencontrés...${prompt}
+  9431: J'ai eu une journée des plus éprouvantes. Des bêtises ennuyeuses de la part des gens du château, toute cette histoire selon laquelle je serais une sorte de héros...${prompt}
+  9432: Mes os ont besoin de repos, cher Naphee. Je pense que je vais faire une petite sieste, si cela ne te dérange pas.${prompt}
+  9433: Un instant ! Qui êtes-vous, monsieur ? On ne se permet pas d'entrer dans la maison des gens comme bon leur semble !${prompt}
+  9434: De quoi parles-tu, Naphee ?${prompt}
+  9435: Naphee ? Je m'appelle Phillone !${prompt}
+  9436: Je n'ai pas l'humeur à ces jeux, surtout pas chez moi. J'attends plus de ma seule et unique amour.${prompt}
   9437: |-
-    Your love!?
-    What in Altana's name are you on about!? Leave at once or I shall call upon the Temple Knights!${prompt}
+    Ton amour !?
+    Que diable racontes-tu !? Pars sur-le-champ ou j'appellerai les Chevaliers du Temple !${prompt}
   9438: |-
-    Phillone?
-    What's wrong? You're all flushed.${prompt}
+    Phillone ?
+    Qu'est-ce qui ne va pas ? Tu es toute rouge.${prompt}
   9439: |-
-    A Hume...and that accent...
-    You can't possibly be a Bastoker!?${prompt}
-  9440: Well, yes, I am.${prompt}
-  9441: You've got some nerve setting foot in the holy city of San d'Oria! Or perhaps you've escaped from your prison cell!?${prompt}
-  9442: This is my home. Have I done something wrong that I'm not aware of?${prompt}
+    Un Hume... et cet accent...
+    Tu ne peux pas être de Bastok, n'est-ce pas ?${prompt}
+  9440: Eh bien, oui, je le suis.${prompt}
+  9441: Tu as vraiment du cran de poser le pied dans la sainte ville de San d'Oria ! Ou peut-être t'es-tu échappé de ta cellule de prison ?${prompt}
+  9442: C'est chez moi. Ai-je fait quelque chose de mal dont je ne suis pas au courant ?${prompt}
   9443: |-
-    I don't understand...
-    My mind must be playing tricks on me...${prompt}
-  9444: This is my home, is it not? And yet I find some filthy Bastoker living here with a woman who should be my darling Naphee.${prompt}
-  9445: Where on Vana'diel is this place? Have I truly been catapulted into the future?${prompt}
-  9446: "Who was that man? \nAnd why do I feel like I've met him somewhere before...?${prompt}"
-  9447: You are an adventurer, are you? And you're looking for the thief of the Scepter Royaulais?${prompt}
-  9448: I have a favor to ask.${prompt}
-  9449: I need your help in retrieving the stolen scepter.${prompt}
-  9450: You see, the person who stole the Scepter Royaulais was actually my younger brother, Millechairale.${prompt}
-  9451: Forgive my rash words before, adventurer. I'd believed it was Millechairale who had been captured.${prompt}
-  9452: There is a legend that tells of a mysterious power being attributed to the Pierre Errante, the gem that graces the tip of the Scepter Royaulais. This is why it has been handed down through generations of San d'Orian kings and become a symbol of our country in its own right.${prompt}
-  9453: And that is what Millechairale has gone and stolen...${prompt}
-  9454: But my brother is no common thief! He has no evil purpose in his heart. I beg you, please help Millechairale...${prompt}
-  9455: Fearing for his own safety, Millechairale hid the Scepter Royaulais somewhere. It is my plan to find that hiding place and return the scepter to the chateau before he has a chance to reclaim it.${prompt}
-  9456: By doing this, perhaps the knights won't be so hard on Millechairale if they do happen to catch him. Maybe they'll even give up on their investigation when the royal treasure is restored to its rightful place.${prompt}
-  9457: But the request of our ancestor...${prompt}
-  9458: Phillone. I understand how you feel, but the safety of your brother is more important.${prompt}
-  9459: I...I know you're right, but...${prompt}
-  9460: The only problem is, the place I need to get to is teeming with monsters. I don't think I can make it without the help of a seasoned knight...${prompt}
-  9461: Would you happen to know any trustworthy knights who might aid me in this endeavor?${prompt}
-  9462: Adventurer, please help my family...${prompt}
-  9463: Time is running short.${prompt}
-  9464: Please, ${name-player}. Find a knight of caliber to save my family from this looming disaster!${prompt}
-  9465: So, did you discover anything important?${prompt}
-  9466: Adventurer, I need to find a seasoned knight. I'm sorry, but this man is not exactly...${prompt}
-  9467: What's all this about?${prompt}
-  9468: Oh, if it isn't the very same gentlemen I was speaking with earlier.${prompt}
-  9469: You seem perplexed. Hm? You're looking for a competent knight? Well, look no further, I know the perfect man to deal with any situation.${prompt}
-  9470: You do!? Where can we find this person?${prompt}
-  9471: I am Vijartal Caphieux, knight extraordinaire of the illustrious Caphieux family! Ancient hero of San d'Oria in the world of the future!${prompt}
-  9472: I think his sword belt is on a little tight...${prompt}
-  9473: A knight, be he of the past or future, must not be unsettled by trivial matters. In this world, I am a renowned hero. What say you, are you not impressed?${prompt}
+    Je ne comprends pas...
+    Mon esprit doit me jouer des tours...${prompt}
+  9444: C'est chez moi, n'est-ce pas ? Et pourtant, je trouve un Bastokien sale vivant ici avec une femme qui devrait être ma chère Naphee.${prompt}
+  9445: Où sur Vana'diel est cet endroit ? Ai-je vraiment été catapulté dans le futur ?${prompt}
+  9446: "Qui était cet homme ? \nEt pourquoi ai-je l'impression de l'avoir déjà rencontré quelque part...?${prompt}"
+  9447: Tu es un aventurier, n'est-ce pas ? Et tu cherches le voleur du Sceptre Royaulais ?${prompt}
+  9448: J'ai une faveur à te demander.${prompt}
+  9449: J'ai besoin de ton aide pour retrouver le sceptre volé.${prompt}
+  9450: Tu vois, la personne qui a volé le Sceptre Royaulais était en fait mon frère cadet, Millechairale.${prompt}
+  9451: Pardonne mes paroles précipitées tout à l'heure, aventurier. Je pensais que c'était Millechairale qui avait été capturé.${prompt}
+  9452: Il y a une légende qui raconte qu'un pouvoir mystérieux est attribué à la Pierre Errante, le joyau qui orne le bout du Sceptre Royaulais. C'est pourquoi il a été transmis à travers les générations des rois de San d'Oria et est devenu un symbole de notre pays à part entière.${prompt}
+  9453: Et c'est ce que Millechairale a volé...${prompt}
+  9454: Mais mon frère n'est pas un voleur ordinaire ! Il n'a aucun dessein maléfique dans son cœur. Je t'en supplie, aide Millechairale...${prompt}
+  9455: Craignant pour sa propre sécurité, Millechairale a caché le Sceptre Royaulais quelque part. Mon plan est de trouver cet endroit caché et de rendre le sceptre au château avant qu'il ait la chance de le récupérer.${prompt}
+  9456: En faisant cela, peut-être que les chevaliers ne seront pas aussi sévères envers Millechairale s'ils viennent à le capturer. Peut-être même qu'ils abandonneront leur enquête lorsque le trésor royal sera restitué à sa place légitime.${prompt}
+  9457: Mais la demande de notre ancêtre...${prompt}
+  9458: Phillone. Je comprends ce que tu ressens, mais la sécurité de ton frère est plus importante.${prompt}
+  9459: Je... je sais que tu as raison, mais...${prompt}
+  9460: Le seul problème, c'est que l'endroit où je dois me rendre est infesté de monstres. Je ne pense pas pouvoir y arriver sans l'aide d'un chevalier expérimenté...${prompt}
+  9461: Connais-tu par hasard des chevaliers de confiance qui pourraient m'aider dans cette entreprise ?${prompt}
+  9462: Aventurier, s'il te plaît, aide ma famille...${prompt}
+  9463: Le temps presse.${prompt}
+  9464: S'il te plaît, ${name-player}. Trouve un chevalier de qualité pour sauver ma famille de cette catastrophe imminente !${prompt}
+  9465: Alors, as-tu découvert quelque chose d'important ?${prompt}
+  9466: Aventurier, j'ai besoin de trouver un chevalier expérimenté. Je suis désolé, mais cet homme n'est pas exactement...${prompt}
+  9467: De quoi s'agit-il ?${prompt}
+  9468: Oh, si ce n'est pas les mêmes messieurs avec qui je parlais plus tôt.${prompt}
+  9469: Tu sembles perplexe. Hm ? Tu cherches un chevalier compétent ? Eh bien, ne cherche pas plus loin, je connais l'homme parfait pour affronter n'importe quelle situation.${prompt}
+  9470: Vraiment !? Où pouvons-nous trouver cette personne ?${prompt}
+  9471: Je suis Vijartal Caphieux, chevalier extraordinaire de l'illustre famille Caphieux ! Héros ancien de San d'Oria dans le monde du futur !${prompt}
+  9472: Je pense que sa ceinture d'épée est un peu trop serrée...${prompt}
+  9473: Un chevalier, qu'il soit du passé ou du futur, ne doit pas être dérangé par des choses triviales. Dans ce monde, je suis un héros renommé. Que dis-tu, n'es-tu pas impressionné ?${prompt}
   9474: |-
       Je dois penser à un nom plus approprié pour moi.
       Que pensez-vous de "Foudroyeur Vijartal" ? Ça a un peu plus de punch, non ?${prompt}
@@ -21518,15 +21518,15 @@ entries:
   9498: Mon frère a caché le sceptre quelque part dans la vaste forêt qui se trouve au-delà du Tombeau du Roi Ranperre. S'il vous plaît, trouvez-le avant qu'il ne retourne là-bas !${prompt}
   9499: Cette dame n'avait rien à voir avec le vol ? Hmm, il semble que mes instincts étaient complètement erronés. Peut-être que mon seul chemin vers la grandeur passe par l'exécution diligente de mes devoirs de garde...${prompt}
   9500: Donc, Millechairale a le Sceptre Royaulais...${prompt}
-  9501: "That one was always far too dedicated! \nWhatever am I to do?${prompt}"
+  9501: "Celui-là était toujours beaucoup trop dévoué ! \nQue vais-je bien pouvoir faire ?${prompt}"
   9502: '...${prompt}'
-  9503: I stole into the royal book vault and read the documents that pertained to me. What Roido said was true.${prompt}
-  9504: It would seem that after the incident...I am to die.${prompt}
-  9505: What...?${prompt}
-  9506: My family, the Caphieux family, has a bloodline that stretches back to the founding of the Kingdom. That is why I was chosen as the envoy to meet with Prince Fellenant. I was entrusted with the Scepter Royaulais and the message of the king's abdication...${prompt}
-  9507: This was nothing more than a charade. My true mission was to bide my time and wait for an opportunity to assassinate the prince.${prompt}
-  9508: Right at this moment...or what would be this moment in the past, the Cardinal Stags should be making their way towards the capital, bearing the Scepter Royaulais. One of them will surely carry out the assassination in my place.${prompt}
-  9509: Tell me, adventurer! What in Altana's name happened in the world of my time? Why must I disobey my king's orders and put my very life in jeopardy to protect Prince Fellenant?${prompt}
+  9503: Je me suis introduit dans la salle des archives royales et j'ai lu les documents qui me concernaient. Ce que Roido a dit était vrai.${prompt}
+  9504: Il semblerait qu'après l'incident... je suis destiné à mourir.${prompt}
+  9505: Quoi... ?${prompt}
+  9506: Ma famille, la famille Caphieux, a une lignée qui remonte à la fondation du Royaume. C'est pourquoi j'ai été choisi comme émissaire pour rencontrer le prince Fellenant. On m'avait confié le Sceptre Royaulais et le message de l'abdication du roi...${prompt}
+  9507: Tout cela n'était qu'une mascarade. Ma véritable mission était d'attendre le moment opportun pour assassiner le prince.${prompt}
+  9508: À cet instant... ou ce qui serait cet instant dans le passé, les Cerfs cardinaux devraient se diriger vers la capitale, portant le Sceptre Royaulais. L'un d'eux devrait sûrement accomplir l'assassinat à ma place.${prompt}
+  9509: Dis-moi, aventurier ! Que diable s'est-il passé dans le monde de mon époque ? Pourquoi dois-je désobéir aux ordres de mon roi et mettre ma vie en danger pour protéger le prince Fellenant ?${prompt}
   9510: |-
     Phillone!
     The Temple Knights have picked up Millechairale's trail!${prompt}
@@ -37563,70 +37563,75 @@ entries:
     Area 7. (${number: 2} mandragoras).
     Area 4. (${number: 3} mandragoras).
     Area 6. (${number: 4} mandragoras).${prompt}
-  16790: You are now able to enjoy a new storyline, A Crystalline Prophecy.
+  16790: Vous pouvez maintenant profiter d'une nouvelle histoire, Une Prophétie Cristalline.
   16791: |-
-    Start A Crystalline Prophecy?
+    Commencer Une Prophétie Cristalline ?
     ${selection-lines}
-    Yes (View cutscene).
-    Maybe later.${prompt}
-  16792: Examine the Tales' Beginning in Lower Jeuno (G-9) when you wish to start A Crystalline Prophecy.
-  16793: You are now able to enjoy a new storyline, A Shantotto Ascension.
+    Oui (Voir la cinématique).
+    Peut-être plus tard.${prompt}
+  16792: Examinez le Début des Contes à Jeuno Inférieur (G-9) lorsque vous souhaitez commencer Une Prophétie Cristalline.
+  16793: Vous pouvez maintenant profiter d'une nouvelle histoire, Une Ascension de Shantotto.
   16794: |-
-    Start A Shantotto Ascension?
+    Commencer Une Ascension de Shantotto ?
     ${selection-lines}
-    Yes (View cutscene).
-    Maybe later.${prompt}
-  16795: Examine the Tales' Beginning in Windurst Walls (C-6) when you wish to start A Shantotto Ascension.
-  16796: You are now able to enjoy a new storyline, Abyssea.
+    Oui (Voir la cinématique).
+    Peut-être plus tard.${prompt}
+  16795: Examinez le Début des Contes dans les Murs de Windurst (C-6) lorsque vous souhaitez commencer Une Ascension de Shantotto.
+  16796: Vous pouvez maintenant profiter d'une nouvelle histoire, Abyssea.
   16797: |-
-    Start Abyssea?
+    Commencer Abyssea ?
     ${selection-lines}
-    Yes (View cutscene).
-    Maybe later.${prompt}
-  16798: Examine the Tales' Beginning in Port Jeuno (F-8) when you wish to start Abyssea.
-  16799: You are now able to enjoy a new storyline, Chains of Promathia.
+    Oui (Voir la cinématique).
+    Peut-être plus tard.${prompt}
+  16798: Examinez le Début des Contes à Port Jeuno (F-8) lorsque vous souhaitez commencer Abyssea.
+  16799: Vous pouvez maintenant profiter d'une nouvelle histoire, Les Chaînes de Promathia.
   16800: |-
-    Start Chains of Prromathia?
+    Commencer Les Chaînes de Promathia ?
     ${selection-lines}
-    Yes (View cutscene).
-    Maybe later.${prompt}
-  16801: Examine the Tales' Beginning in Lower Delkfutt's Tower (H-10) when you wish to start Chains of Promathia.
-  16802: You are now able to enjoy a new storyline, Seekers of Adoulin.
+    Oui (Voir la cinématique).
+    Peut-être plus tard.${prompt}
+  16801: Examinez le Début des Contes dans la Tour de Delkfutt Inférieur (H-10) lorsque vous souhaitez commencer Les Chaînes de Promathia.
+  16802: Vous pouvez maintenant profiter d'une nouvelle histoire, Les Chercheurs d'Adoulin.
   16803: |-
-    Start Seekers of Adoulin?
+    Commencer Les Chercheurs d'Adoulin ?
     ${selection-lines}
-    Yes (View cutscene).
-    Maybe later.${prompt}
-  16804: Examine the Tales' Beginning in Northern San d'Oria, Bastok Market,s or Windurst Woods when you wish to start Seekers of Adoulin.
-  16805: You are now able to enjoy a new storyline, Rhapsodies of Vana'diel.
+    Oui (Voir la cinématique).
+    Peut-être plus tard.${prompt}
+    Commencer Les Chercheurs d'Adoulin ?
+    ${selection-lines}
+    Oui (Voir la cinématique).
+    Peut-être plus tard.${prompt}
+  16804: Examinez le Début des Contes dans le Nord de San d'Oria, les Marchés de Bastok ou les Bois de Windurst lorsque vous souhaitez commencer Les Chercheurs d'Adoulin.
+  16805: Vous pouvez maintenant profiter d'une nouvelle histoire, Les Rhapsodies de Vana'diel.
   16806: |-
-    Start Rhapsodies of Vana'diel?
+    Commencer Les Rhapsodies de Vana'diel ?
     ${selection-lines}
-    Yes (View cutscene).
-    Maybe later.${prompt}
-  16807: Examine the Tales' Beginning in the three nations when you wish to start Rhapsodies of Vana'diel.
-  16808: You are now able to enjoy a new storyline, Rise of the Zilart.
+    Oui (Voir la cinématique).
+    Peut-être plus tard.${prompt}
+  16807: Examinez le Début des Contes dans les trois nations lorsque vous souhaitez commencer Les Rhapsodies de Vana'diel.
+  16808: Vous pouvez maintenant profiter d'une nouvelle histoire, La Montée des Zilart.
   16809: |-
-    Start Rise of the zilart?
+    Commencer La Montée des Zilart ?
     ${selection-lines}
-    Yes (View cutscene).
-    Maybe later.${prompt}
-  16810: Examine the Tales' Beginning in Norg (H-9) when you wish to start Rise of the Zilart.
-  16811: Would you like to start a new storyline that you previously postponed?${prompt}
+    Oui (Voir la cinématique).
+    Peut-être plus tard.${prompt}
+  16810: Examinez le Début des Contes à Norg (H-9) lorsque vous souhaitez commencer La Montée des Zilart.
+  16811: Souhaitez-vous commencer une nouvelle histoire que vous avez précédemment reportée ?${prompt}
   16812: |-
-    Start which?
+    Commencer laquelle ?
     ${selection-lines}
-    None for now.
-    Rise of the Zilart.
-    A Crystallinbe Prophecy.
-    A Shantotto Ascension.
-    Chains of Promathia.
+    Aucune pour l'instant.
+    La Montée des Zilart.
+    Une Prophétie Cristalline.
+    Une Ascension de Shantotto.
+    Les Chaînes de Promathia.
     Abyssea.
-    Seekers of Adoulin.
-    Rhapsodies of Vana'diel.${prompt}
-  16813: 'Start the previously postponed storyline ${choice: 0}[Rise of the Zilart/A Crystalline Prophecy/A Shantotto Ascenaion/Chains of Promthia/Abyssea/Seekers of Adoulin/Rhapsodies of Vana''diel]?${prompt}'
+    Les Chercheurs d'Adoulin.
+    Les Rhapsodies de Vana'diel.${prompt}
+  16813: 'Commencer l’histoire précédemment reportée ${choice: 0}[La Montée des Zilart/Une Prophétie Cristalline/Une Ascension de Shantotto/Les Chaînes de Promathia/Abyssea/Les Chercheurs d’Adoulin/Les Rhapsodies de Vana''diel]?${prompt}'
   16814: |-
-    Start the storyline?
+    Commencer l'histoire ?
     ${selection-lines}
-    Yes, please.
-    No, thank you.${prompt}
+    Oui, s'il vous plaît.
+    Non, merci.${prompt}
+    
