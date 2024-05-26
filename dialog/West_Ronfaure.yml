@@ -17984,13 +17984,13 @@ entries:
   7321: 'ro:${number: 0} rs:${number: 1} ps:${number: 2} dt:${number: 3}${prompt}'
   7322: 'ra:${number: 0} ti:${number: 1}${prompt}'
   7323: |-
-    You spot some familiar footprints.
-    You are convinced that your moogle friend has been digging in the immediate vicinity.${prompt}
-  7324: You get the distinct sense that your moogle friend frequents this spot...${prompt}
-  7325: You have a feeling that your moogle friend has been through this way...${prompt}
-  7326: You suspect that the scenery around here would be to a moogle's liking...${prompt}
-  7327: You have a vague feeling that a moogle would enjoy traversing this terrain...${prompt}
-  7328: You have a hunch that this area would be favored by moogles...${prompt}
+    Vous repérez des empreintes familières.
+    Vous êtes convaincu que votre ami mog se promène dans les environs immédiats.${prompt}
+  7324: Vous avez nettement l'impression que votre ami mog fréquente cet endroit...${prompt}
+  7325: Vous avez le sentiment que votre ami mog est passé par là...${prompt}
+  7326: Vous soupçonnez que le paysage autour d'ici plairait à un mog...${prompt}
+  7327: Vous avez un vague pressentiment qu'un mog apprécierait traverser ce terrain...${prompt}
+  7328: Vous avez l'intuition que cette région serait appréciée par les mogs...${prompt}
   7329: |-
     Votre chocobo tire sur le mors.
     Vous sentez qu'il vous mène vers le ${choice: 0}[est/sud-est/sud/sud-ouest/ouest/nord-ouest/nord/nord-est].${prompt}
@@ -18075,45 +18075,45 @@ entries:
   7404: Déjà fini ? Bon retour chez vous.
   7405: --Saut de zone à l'entrée de la tour de guet--
   7406: |-
-    East: East Ronfaure
-    South: La Theine Plateau${prompt}
-  7407: 'Northwest: Horlais Mountains${prompt}'
+    Est : Forêt de l'Est de Ronfaure
+    Sud : Plateau de La Théine${prompt}
+  7407: "Nord-ouest : Montagnes d'Horlais${prompt}"
   7408: |-
-    East: San d'Oria Westgate
-    Northwest: Horlais Mountains${prompt}
+    Est : Porte Ouest de San d'Oria
+    Nord-ouest : Montagnes d'Horlais${prompt}
   7409: |-
-    South: La Theine Plateau
-    North: San d'Oria${prompt}
+    Sud : Plateau de La Théine
+    Nord : San d'Oria${prompt}
   7410: |-
-    East: East Ronfaure
-    Southwest: La Theine Plateau
-    North: San d'Oria${prompt}
-  7411: You cannot read the signpost from here.${prompt}
-  7412: 'Test angle = ${number: 7} degrees.${prompt}'
-  7413: What? I've never seen your face before. Now get going!${prompt}
-  7414: Oh, a customer sent you? Well, why didn't you say so!${prompt}
-  7415: Here's your order. Take it and get a move on.${prompt}
-  7416: Don't waste my time with this junk. Take it away!${prompt}
-  7417: 'What do you want this time? Don''t tell me you lost the ${item-singular: 0[2]}?${prompt}'
-  7418: Well, if you want more batagreens, you're going to have to fork over some gil. I think 50 will do nicely!${prompt}
-  7419: Who buys things he can't even carry!? Come back once you've got your purses in order.${prompt}
-  7420: You find some worthless scraps of paper.${prompt}
-  7421: You pick up the missing document.${prompt}
-  7422: You find nothing special.${prompt}
-  7423: You see a message engraved on the stone:${prompt}
-  7424: It has been a full ten years since I last visited this land, yet I am shocked to see Orcish warriors roaming this far south!${prompt}
-  7425: I saw many here in this forest, the very lap of the Kingdom, but the proud Elvaan knights don't consider them a threat.${prompt}
-  7426: Mark my words! Someday, hundreds--no--thousands of Orcs will bring war upon this beautiful kingdom.${prompt}
-  7427: I write this in hope that brave knights will prove me wrong.${prompt}
-  7428: " \n--Gwynham Ironheart, 761 Crystal Era.${prompt}"
+    Est : Forêt de l'Est de Ronfaure
+    Sud-ouest : Plateau de La Théine
+    Nord : San d'Oria${prompt}
+  7411: Vous ne pouvez pas lire le panneau indicateur d'ici.${prompt}
+  7412: "Test angle = ${number: 7} degrés.${prompt}"
+  7413: Quoi ? Je n'ai jamais vu votre visage auparavant. Allez-vous en !${prompt}
+  7414: Oh, un client vous a envoyé ? Eh bien, pourquoi ne l'avez-vous pas dit !${prompt}
+  7415: Voici votre commande. Prenez-la et bougez.${prompt}
+  7416: Ne perdez pas mon temps avec ces bêtises. Emmenez ça loin !${prompt}
+  7417: "Que voulez-vous cette fois-ci ? Ne me dites pas que vous avez perdu le ${item-singular: 0[2]} ?${prompt}"
+  7418: Eh bien, si vous voulez plus de batagreens, vous allez devoir débourser quelques gils. Je pense que 50 fera l'affaire !${prompt}
+  7419: Qui achète des choses qu'il ne peut même pas transporter ! Revenez quand vous aurez mis vos bourses en ordre.${prompt}
+  7420: Vous trouvez quelques bouts de papier sans valeur.${prompt}
+  7421: Vous ramassez le document manquant.${prompt}
+  7422: Vous ne trouvez rien de spécial.${prompt}
+  7423: Vous voyez un message gravé dans la pierre:${prompt}
+  7424: Cela fait dix ans complets depuis ma dernière visite dans ce pays, et pourtant je suis choqué de voir des guerriers orcs errer aussi loin au sud !${prompt}
+  7425: J'en ai vu beaucoup ici dans cette forêt, le cœur même du royaume, mais les fiers chevaliers Elvaan ne les considèrent pas comme une menace.${prompt}
+  7426: Souvenez-vous de mes paroles ! Un jour, des centaines, non, des milliers d'Orcs déclencheront la guerre contre ce magnifique royaume.${prompt}
+  7427: J'écris ceci dans l'espoir que de braves chevaliers me prouvent le contraire.${prompt}
+  7428: " \n--Gwynham Ironheart, 761 de l'Ère des Cristaux.${prompt}"
   7429: |-
-    Set PvP to ON?
+    Activer le mode JcJ ?
     ${selection-lines}
-    Let's kick some ass!
-    Not me, thanks.${prompt}
+    Allons-y et tabassons !
+    Pas pour moi, merci.${prompt}
   7430: |-
-    Test message
-    (reset ointment quest flag)${prompt}
+    Message de test
+    (réinitialiser le drapeau de quête de l'onguent)${prompt}
   7431: |-
     よく来たな。
     実は、アーベリオン（Aaveleon）の
@@ -18163,9 +18163,9 @@ entries:
   7449: 【トレース８】${prompt}
   7450: 【トレース９】${prompt}
   7451: 【トレース１０】${prompt}
-  7452: Are you ready? If an Orc shows up while you're on watch, target him and press the confirm button!${prompt}
-  7453: Stay on watch until I come relieve you. That is all.${prompt}
-  7454: 'Your watch has begun.${wait-animation: 1}${prompt}'
+  7452: Êtes-vous prêt ? Si un Orc apparaît pendant que vous êtes en surveillance, ciblez-le et appuyez sur le bouton de confirmation !${prompt}
+  7453: Restez en surveillance jusqu'à ce que je vienne vous soulager. C'est tout.${prompt}
+  7454: 'Votre surveillance a commencé.${wait-animation: 1}${prompt}'
   7455: 'おやすみ${wait-animation: 1}${prompt}'
   7456: 'パターン１${wait-animation: 1}${prompt}'
   7457: 'パターン２${wait-animation: 1}${prompt}'
@@ -18189,68 +18189,68 @@ entries:
   7470: 　『軟膏の容器』を渡された${prompt}
   7471: 【テスト用ＮＰＣ】${prompt}
   7472: |-
-    Where do you want to go（Scroll ↓）
+    Où voulez-vous aller (Faites défiler ↓) ?
     ${selection-lines}
-    Nowhere
+    Nulle part
     San d'Oria
     Windurst
-    Ghelsba Lift
-    Hot Springs Valley
+    Ascenseur de Ghelsba
+    Vallée des sources chaudes
     Bastok${prompt}
   7473: |-
     こんにちは。
     クライアントメッセージのテスト1
     クライアントメッセージのテスト2${prompt}
   7474: クライアントメッセージのテスト${prompt}
-  7475: Welcome. I have potions for sale today.${prompt}
-  7476: Welcome. I've got potions for sale today.${prompt}
-  7477: There is a dwarf-cave north of the city. Bandits come out at night, so be careful.${prompt}
-  7478: I will crush you!${prompt}
-  7479: Going back to BIND. Press button.${prompt}
-  7480: Poison! Venom! Ick! Ack!${prompt}
-  7481: You're all together.${prompt}
-  7482: You're not all together.${prompt}
-  7483: You're missing a party member.${prompt}
-  7484: Where are the other party members? Get everyone together, then I'll judge your success.${prompt}
-  7485: No good! You've got people of different allegiances in your party.${prompt}
-  7486: No good! You've got people in your party with different jobs.${prompt}
-  7487: No good! You've got people in your party of different races.${prompt}
-  7488: A lone adventurer, are you? You look tough. Seen your share of battles, I'd wager?${prompt}
-  7489: We here are a team of six elite soldiers, charged with guarding this watchtower.${prompt}
-  7490: We watch day and night to ensure that no monsters approach the city, and no troublemakers loiter nearby...so teamwork is essential.${prompt}
-  7491: You've formed a party before, right? An organized party is stronger than the combined strength of its members.${prompt}
-  7492: Parties with people of the same nationality tend to be organized--because you can always rely on your own countrymen when times are rough.${prompt}
-  7493: Try to form a party with at least two members, all with allegiance to the same country. Think you can do it?${prompt}
+  7475: "Bienvenue. J'ai des potions à vendre aujourd'hui.${prompt}" 
+  7476: "Bienvenue. J'ai des potions en vente aujourd'hui.${prompt}"
+  7477: "Il y a une grotte de nains au nord de la ville. Des bandits sortent la nuit, alors soyez prudents.${prompt}"
+  7478: "Je vais vous écraser !${prompt}"
+  7479: "Retour à BIND. Appuyez sur le bouton.${prompt}"
+  7480: "Poison ! Venin ! Berk ! Aïe !${prompt}"
+  7481: "Vous êtes tous ensemble.${prompt}"
+  7482: "Vous n'êtes pas tous ensemble.${prompt}"
+  7483: "Il vous manque un membre du groupe.${prompt}"
+  7484: "Où sont les autres membres du groupe ? Rassemblez tout le monde, puis je jugerai votre réussite.${prompt}"
+  7485: "Pas bon ! Vous avez des personnes d'allégeances différentes dans votre groupe.${prompt}"
+  7486: "Pas bon ! Vous avez des personnes dans votre groupe avec des métiers différents.${prompt}"
+  7487: "Pas bon ! Vous avez des personnes dans votre groupe de races différentes.${prompt}"
+  7488: "Un aventurier solitaire, n'est-ce pas ? Vous avez l'air costaud. Vous avez dû en voir des batailles, j'imagine ?${prompt}"
+  7489: "Nous sommes une équipe de six soldats d'élite ici, chargés de garder cette tour de guet.${prompt}"
+  7490: "Nous surveillons jour et nuit pour nous assurer qu'aucun monstre n'approche de la ville, et aucun fauteur de troubles ne rôde aux alentours... donc le travail d'équipe est essentiel.${prompt}"
+  7491: "Vous avez déjà formé un groupe, non ? Un groupe organisé est plus fort que la somme des forces de ses membres.${prompt}"
+  7492: "Les groupes avec des personnes de la même nationalité tendent à être organisés--parce que vous pouvez toujours compter sur vos compatriotes quand les temps sont durs.${prompt}"
+  7493: "Essayez de former un groupe avec au moins deux membres, tous ayant allégeance au même pays. Pensez-vous pouvoir le faire ?${prompt}"
   7494: |-
-    Try forming a party?
+    "Essayez de former un groupe ?
     ${selection-lines}
-    Let's give it a go!
-    Not now, thanks.${prompt}
-  7495: Very well. Let me know when you've collected all your party members. I'll be the judge of whether you've put together a working party or not.${prompt}
-  7496: Hmm, not bad... Not bad at all. You've done well; few opponents could face your combined might. Good luck!${prompt}
+    Essayons !
+    Pas maintenant, merci.${prompt}"
+  7495: "Très bien. Faites-moi savoir quand vous aurez rassemblé tous vos membres de groupe. Je serai le juge pour déterminer si vous avez constitué un groupe fonctionnel ou non.${prompt}"
+  7496: "Hmm, pas mal... Pas mal du tout. Vous avez bien fait ; peu d'adversaires pourraient affronter votre puissance combinée. Bonne chance !${prompt}"
   7497: |-
-    Ready for your next task?
-    This time, I want you to make a party with at least two members, all of the same race!${prompt}
-  7498: Companions in arms who share the same blood in their veins fight fiercer than your usual rag-tag mobs. Think you can do it?${prompt}
-  7499: As I thought, a party of the same race presents a formidable unity that is rarely seen! Treasure your bond, and you will go far.${prompt}
-  7500: Ready for your next task? I want you to form a party, at least two members strong, all with the same job!${prompt}
-  7501: Those who walk the same path as you are truly trustworthy. How about it?${prompt}
-  7502: Excellent! Well done! I believe you've learned the value of teamwork.${prompt}
-  7503: You may not measure up to my elite squad here, but keep at it, and someday, maybe you'll win a post here in the watchtower.${prompt}
-  7504: I give you this to commemorate your achievement, and the strength of your party. May you and your comrades-in-arms grow in strength, and prosper.${prompt}
-  7505: Hmm...you seem to be short of members. You need more people than just yourself. Bring them here once you've gathered them.${prompt}
-  7506: Not all of your members are of the same nationality!${prompt}
-  7507: Not all of your members are of the same race!${prompt}
-  7508: Not all of your members have the same job!${prompt}
-  7509: 'I see... Too bad, that.${wait-animation: 3}'
-  7510: 'Now, go! Wonders and fortune await you, adventurer!${wait-animation: 3}'
-  7511: Let me give you this as a token of your achievement.${prompt}
-  7512: What's that? Are all your party members here?${prompt}
+    "Prêt pour votre prochaine tâche ?
+    Cette fois, je veux que vous formiez un groupe avec au moins deux membres, tous de la même race !${prompt}"
+  7498: "Les compagnons d'armes qui partagent le même sang dans leurs veines combattent plus férocement que vos bandes habituelles. Pensez-vous pouvoir le faire ?${prompt}"
+  7499: "Comme je le pensais, un groupe de la même race présente une unité redoutable qui est rarement vue ! Chérissez votre lien, et vous irez loin.${prompt}"
+  7500: "Prêt pour votre prochaine tâche ? Je veux que vous formiez un groupe, avec au moins deux membres, tous ayant le même métier !${prompt}"
+  7501: "Ceux qui marchent sur le même chemin que vous sont vraiment dignes de confiance. Qu'en pensez-vous ?${prompt}"
+  7502: "Excellent ! Bien joué ! Je crois que vous avez compris la valeur du travail d'équipe.${prompt}" 
+  7503: "Vous ne rivaliserez peut-être pas avec mon équipe d'élite ici, mais continuez comme ça, et un jour, peut-être que vous gagnerez un poste ici dans la tour de guet.${prompt}"
+  7504: "Je vous donne ceci pour commémorer votre réussite et la force de votre groupe. Puissiez-vous et vos camarades d'armes grandir en force et prospérer.${prompt}"
+  7505: "Hmm... Il semble que vous manquiez de membres. Vous avez besoin de plus de monde que juste vous-même. Amenez-les ici une fois que vous les aurez rassemblés.${prompt}"
+  7506: "Tous vos membres ne sont pas de la même nationalité !${prompt}"
+  7507: "Tous vos membres ne sont pas de la même race !${prompt}"
+  7508: "Tous vos membres n'ont pas le même métier !${prompt}"
+  7509: "Je vois... Dommage, ça.${wait-animation: 3}"
+  7510: "Allez maintenant ! Des merveilles et la fortune vous attendent, aventurier !${wait-animation: 3}"
+  7511: "Permettez-moi de vous donner ceci en guise de témoignage de votre réussite.${prompt}"
+  7512: "Quoi ça ? Tous vos membres de groupe sont-ils ici ?${prompt}"
   7513: |-
-    Where are your party members?
+    "Où sont vos membres de groupe ?
     ${selection-lines}
-    Present and accounted for.
-    They're not here yet.${prompt}
+    Présents et comptabilisés.
+    Ils ne sont pas encore là.${prompt}"
   7514: Il faut être deux non seulement pour danser le tango, mais aussi pour former un groupe. Rapportez-vous à moi une fois que vous aurez rassemblé vos camarades. Je serai le juge de leur valeur.
   7515: Vous ne pouvez pas rivaliser avec mon équipe d'élite, mais continuez ainsi, et peut-être un jour remporterez-vous un poste ici dans la tour de guet.
   7516: Un aventurier solitaire, hein ? Vous avez l'air d'avoir combattu... mais pas assez. Entraînez-vous et devenez fort, mon ami.
@@ -18506,27 +18506,27 @@ entries:
   7603: 'Your rank is too low to purchase the ${item-singular: 2[2]}.${prompt}'
   7604: 'You do not have enough conquest points to purchase the ${item-singular: 2[2]}.${prompt}'
   7605: |-
-    You cannot equip the ${item-singular: 2[2]}.
-    Do you still wish to proceed?${prompt}
+    Vous ne pouvez pas équiper ${item-singular: 2[2]}.
+    Souhaitez-vous quand même procéder ?${prompt}
   7606: |-
-    Your level is too low to equip the ${item-singular: 2[2]}.
-    Do you still wish to proceed?${prompt}
+    Votre niveau est trop bas pour équiper ${item-singular: 2[2]}.
+    Souhaitez-vous quand même procéder ?${prompt}
   7607: |-
-    You seem to be able to equip the ${item-singular: 2[2]}.
-    Do you wish to proceed?${prompt}
-  7608: 'Are you sure you want to purchase the ${item-singular: 2[2]}?${prompt}'
+    Il semble que vous puissiez équiper ${item-singular: 2[2]}.
+    Souhaitez-vous procéder ?${prompt}
+  7608: 'Êtes-vous sûr de vouloir acheter ${item-singular: 2[2]} ?${prompt}'
   7609: |-
-    Proceed?
+    Procéder ?
     ${selection-lines}
-    Yes, purchase item.
-    Cancel purchase.${prompt}
+    Oui, acheter l'article.
+    Annuler l'achat.${prompt}
   7610: |-
-    Proceed?
+    Procéder ?
     ${selection-lines}
-    Yes, even though I can't equip it.
-    Cancel purchase.${prompt}
+    Oui, même si je ne peux pas l'équiper.
+    Annuler l'achat.${prompt}
   7611: |-
-    Which item do you wish to purchase?
+    Quel article souhaitez-vous acheter ?
     ${selection-lines}
     ${lettercase: 1}${item-singular: 0[2]}.
     ${lettercase: 1}${item-singular: 1[2]}.
@@ -18536,11 +18536,11 @@ entries:
     ${lettercase: 1}${item-singular: 5[2]}.
     ${lettercase: 1}${item-singular: 6[2]}.
     ${lettercase: 1}${item-singular: 7[2]}.
-    Next page.
-    Previous page.
-    Back.${prompt}
+    Page suivante.
+    Page précédente.
+    Retour.${prompt}
   7612: |-
-    Which item do you wish to purchase?
+    Quel article souhaitez-vous acheter ?
     ${selection-lines}
     ${lettercase: 1}${item-singular: 0[2]}...${number: 8} pts.
     ${lettercase: 1}${item-singular: 1[2]}...${number: 9} pts.
@@ -18550,65 +18550,65 @@ entries:
     ${lettercase: 1}${item-singular: 5[2]}...${number: 13} pts.
     ${lettercase: 1}${item-singular: 6[2]}...${number: 14} pts.
     ${lettercase: 1}${item-singular: 7[2]}...${number: 15} pts.
-    Next page.
-    Previous page.
-    Back.${prompt}
+    Page suivante.
+    Page précédente.
+    Retour.${prompt}
   7613: 'ENDPARA：${number: 0}${prompt}'
   7614: |-
-    Which service do you request?
+    Quel service désirez-vous?
     ${selection-lines}
-    Buy/Sell items.
-    Teleportation.
-    Nothing.${prompt}
+    Acheter/Vendre des objets.
+    Téléportation.
+    Rien.${prompt}
   7615: |-
-    Do you really wish to be teleported?
+    Voulez-vous vraiment être téléporté?
     ${selection-lines}
-    Yes.
-    Teleport with gil.
-    Teleport with conquest points.
-    No.${prompt}
-  7616: Welcome to the border shop! If you trade me unused equipment, I'll add their value to your country's region points!${prompt}
+    Oui.
+    Téléportation avec des gils.
+    Téléportation avec des points de conquête.
+    Non.${prompt}
+  7616: Bienvenue dans la boutique frontalière ! Si vous me donnez des équipements inutilisés, j'ajouterai leur valeur aux points de la région de votre pays !${prompt}
   7617: |-
-    It should please you to know that I now also deal in ${item-plural: 0[2]}.
-    Bigger pieces will earn you more points for your nation, and I'll even toss some gil into the equation!${prompt}
-  7618: I see that your home country has control of this region. Feel free to browse through my wares.${prompt}
-  7619: I see that your home country is allies with the country in control of this region. Feel free to browse through my wares.${prompt}
-  7620: 'I can teleport you to your home country for ${number: 1} gil or ${number: 3} conquest ${choice-plurality: 3}[point/points].${prompt}'
-  7621: "Word has it that the entire set of mog tablets has been recovered. \nOh, happy day! In honor of the occasion, I can teleport you to your home country free of charge.${prompt}"
-  7622: I am terribly sorry, but it seems as if you do not have enough gil.${prompt}
-  7623: I am terribly sorry, but it seems as if you do not have enough conquest points.${prompt}
-  7624: However, due to your home country's lack of influence in the region, this is the only transaction I am authorized to perform with you at the moment.${prompt}
-  7625: I am looking forward to doing business with you again in the future!${prompt}
-  7626: Thank you. This will increase your nation's region points by a small amount. If you have anything else, by all means, trade them to me.${prompt}
-  7627: Thank you. This will increase your nation's region points moderately. If you have anything else, by all means, trade them to me.${prompt}
-  7628: Thank you. This will increase your nation's region points greatly. If you have anything else, by all means, trade them to me.${prompt}
-  7629: I could not accept one or more items you tried to trade me. Please remove those items and try again.${prompt}
-  7630: Sorry. I can only take certain types of weapons, shields, or armor.${prompt}
+    Ça devrait vous plaire de savoir que je traite désormais également avec des ${item-plural: 0[2]}.
+    Les pièces plus grandes vous rapporteront plus de points pour votre nation, et je rajouterai même quelques gils dans l'équation !${prompt}
+  7618: Je vois que votre pays d'origine contrôle cette région. N'hésitez pas à parcourir mes marchandises.${prompt}
+  7619: Je vois que votre pays d'origine est allié avec le pays contrôlant cette région. N'hésitez pas à parcourir mes marchandises.${prompt}
+  7620: 'Je peux vous téléporter dans votre pays d’origine pour ${number: 1} gil ou ${number: 3} ${choice-plurality: 3}[point/points] de conquête.${prompt}'
+  7621: "On raconte que l'ensemble des tablettes mog a été retrouvé. \nOh, jour de joie ! En l'honneur de l'occasion, je peux vous téléporter gratuitement dans votre pays d'origine.${prompt}"
+  7622: Je suis désolé, mais il semble que vous n'ayez pas assez de gils.${prompt}
+  7623: Je suis désolé, mais il semble que vous n'ayez pas assez de points de conquête.${prompt}
+  7624: Cependant, en raison du manque d'influence de votre pays d'origine dans la région, c'est la seule transaction que je suis autorisé à effectuer avec vous pour le moment.${prompt}
+  7625: J'ai hâte de faire affaire avec vous à nouveau à l'avenir !${prompt}
+  7626: Merci. Cela augmentera légèrement les points de région de votre nation. Si vous avez d'autres articles, n'hésitez pas à me les échanger.${prompt}
+  7627: Merci. Cela augmentera modérément les points de région de votre nation. Si vous avez d'autres articles, n'hésitez pas à me les échanger.${prompt}
+  7628: Merci. Cela augmentera grandement les points de région de votre nation. Si vous avez d'autres articles, n'hésitez pas à me les échanger.${prompt}
+  7629: Je n'ai pas pu accepter un ou plusieurs articles que vous avez essayé de m'échanger. Veuillez retirer ces articles et réessayer.${prompt}
+  7630: Désolé. Je ne peux accepter que certains types d'armes, de boucliers ou d'armures.${prompt}
   7631: |-
-    Thank you. This will increase your nation's region points ${choice: 1}[by a small amount/moderately/greatly].
-    For this transaction I will also furnish you with ${number: 0} gil.${prompt}
-  7632: My apologies, but this type of item needs to be individually appraised. Please trade them to me one at a time.${prompt}
-  7633: (DEBUG) Back to hometown!${prompt}
+    Merci. Cela augmentera les points de région de votre nation ${choice: 1}[légèrement/modérément/grandement].
+    Pour cette transaction, je vous fournirai également ${number: 0} gils.${prompt}
+  7632: Mes excuses, mais ce type d'article doit être évalué individuellement. Veuillez me les échanger un par un.${prompt}
+  7633: (DEBUG) Retour à la ville natale !${prompt}
   7634: |-
-    What do you want?
+    Que désirez-vous ?
     ${selection-lines}
-    Would you cast Signet on me?
-    I'd like to set my Point de retour here.
-    Nothing.${prompt}
+    Voulez-vous me lancer le sort Signet ?
+    Je voudrais définir mon Point de retour ici.
+    Rien.${prompt}
   7635: |-
-    What do you want?
+    Que désirez-vous ?
     ${selection-lines}
-    Pay ${number: 7} gil and set my Point de retour here.
-    Nothing.${prompt}
-  7636: Your Point de retour has been set.${prompt}
-  7637: You do not have enough gil to set your Point de retour here.${prompt}
-  7638: 'I will set your Point de retour here.${wait-animation: 0}${prompt}'
+    Payer ${number: 7} gils et définir mon Point de retour ici.
+    Rien.${prompt}
+  7636: Votre Point de retour a été défini.${prompt}
+  7637: Vous n'avez pas assez de gils pour définir votre Point de retour ici.${prompt}
+  7638: 'Je vais définir votre Point de retour ici.${wait-animation: 0}${prompt}'
   7639: |-
-    We are currently on a beastman-purging campaign. We support adventurers from all nations.
-    Do your best to rid the world of those vile creatures.${prompt}
+    Nous menons actuellement une campagne de purification des bêtes. Nous soutenons les aventuriers de toutes les nations.
+    Faites de votre mieux pour débarrasser le monde de ces créatures viles.${prompt}
   7640: |-
-    We are currently conducting an international exchange campaign.
-    You may spend your conquest points to purchase items from foreign guards.${prompt}
+    Nous menons actuellement une campagne d'échange international.
+    Vous pouvez dépenser vos points de conquête pour acheter des objets aux gardes étrangers.${prompt}
   7641: |-
     Thanks to you, our nation is now first in the conquest race!
     Here is a small token of our appreciation.${prompt}
@@ -18654,31 +18654,31 @@ entries:
   7660: |-
     I see.
     If you ever wish to participate in the future, I will be waiting here to take your application.${prompt}
-  7661: 'Your ${color: 5}EF Badge${color: 1} vanishes!${prompt}'
-  7662: 'Katsu-yaku pointos : ${number: 0}!${prompt}'
-  7663: 'This ${keyitem-singular: 0[2]} is no longer valid. We will dispose of it here.${prompt}'
-  7664: Your invalid ensignias have been disposed of.${prompt}
-  7665: Welcome back from the expedition. Our nation was successful in its campaign. Let me give you your reward.${prompt}
-  7666: 'You received ${number: 1} conquest points!${prompt}'
-  7667: When participating in an Expeditionary Force, concentrate your efforts on fighting foes that give you the most experience points. And don't forget to confiscate the contents of any beastman treasure chest you happen to come upon.${prompt}
+  7661: 'Votre ${color: 5}Insigne${color: 1} EF disparaît !${prompt}'
+  7662: 'Points de Katsu-yaku : ${number: 0} !${prompt}'
+  7663: 'Cet ${keyitem-singular: 0[2]} n’est plus valide. Nous allons le jeter ici.${prompt}'
+  7664: Vos insignes invalides ont été jetés.${prompt}
+  7665: Bienvenue de retour de l'expédition. Notre nation a réussi dans sa campagne. Laissez-moi vous donner votre récompense.${prompt}
+  7666: 'Vous avez reçu ${number: 1} points de conquête !${prompt}'
+  7667: Lorsque vous participez à une Force expéditionnaire, concentrez vos efforts sur la lutte contre les ennemis qui vous donnent le plus de points d'expérience. Et n'oubliez pas de confisquer le contenu de tout coffre au trésor des bêtes que vous pourriez trouver.${prompt}
   7668: |-
-    I will now hand you your insignia. Be sure to read the inscription on the back before you begin your duties.
-    Once Signet has been bestowed upon you, prepare to be teleported.${prompt}
-  7669: You could not be teleported. Ask me again, please.${prompt}
-  7670: The conquest results are currently being tallied. Come back later.${prompt}
-  7671: You have received permission to join the Expeditionary Forces!${prompt}
-  7672: Currently we rank first in Vana'diel's conquest, but that must not be taken for granted. We must continue our fight to remain on top.${prompt}
-  7673: We had first place in our hands, but we let it slip away. If we want to be ranked first in Vana'diel, each and every one of us must do their part. I look forward to hearing of your achievements.${prompt}
-  7674: Our country has fallen to third in the conquest of Vana'diel. We must step up our efforts to improve the situation.${prompt}
-  7675: You must fight in battles that gain high levels of experience. This is the only way we can bring areas under our country's control.${prompt}
-  7676: Currently, our country is the dominant force in this region. If we can maintain this level, control of this area will be ours.${prompt}
-  7677: Currently, our country is a major force in this region. However, we cannot take this for granted. If we let down our guard, we will surely lose control of the area!${prompt}
-  7678: Currently, our country has only minor influence in this region. We're counting on you to get us out of this hole we've dug ourselves into.${prompt}
-  7679: Currently, our country's influence in this area is minimal. If we do not act quickly, control of this region will certainly be taken by a rival country.${prompt}
-  7680: Take care when passing through, as this area is currently overrun with beastmen! Something must be done, or the enemy will have control of the entire region.${prompt}
-  7681: 'Your inventory is full. You could not accept the ${item-singular: 0[2]}.${prompt}'
-  7682: You already possess a gate glyph. You cannot hold any more.${prompt}
-  7683: I am Jeunoan Ducal Guard, ${name-npc}. My duty is to support the conquest efforts of Windurst, San d'Oria, and Bastok.${prompt}
+    Je vais maintenant vous remettre votre insigne. Assurez-vous de lire l'inscription au dos avant de commencer vos fonctions.
+    Une fois que le Signet vous aura été conféré, préparez-vous à être téléporté.${prompt}
+  7669: Vous n'avez pas pu être téléporté. Demandez-moi de nouveau, s'il vous plaît.${prompt}
+  7670: Les résultats de la conquête sont en cours de compilation. Revenez plus tard.${prompt}
+  7671: Vous avez reçu l'autorisation de rejoindre les Forces expéditionnaires !${prompt}
+  7672: Actuellement, nous sommes classés premiers dans la conquête de Vana'diel, mais cela ne doit pas être considéré comme acquis. Nous devons continuer notre combat pour rester au sommet.${prompt}
+  7673: Nous avions la première place entre nos mains, mais nous l'avons laissée nous échapper. Si nous voulons être classés premiers à Vana'diel, chacun d'entre nous doit faire sa part. J'attends avec impatience de connaître vos réalisations.${prompt}
+  7674: Notre pays est tombé à la troisième place dans la conquête de Vana'diel. Nous devons redoubler d'efforts pour améliorer la situation.${prompt}
+  7675: Vous devez combattre dans des batailles qui rapportent beaucoup d'expérience. C'est le seul moyen de mettre sous contrôle les zones de notre pays.${prompt}
+  7676: Actuellement, notre pays est la force dominante dans cette région. Si nous pouvons maintenir ce niveau, le contrôle de cette zone sera nôtre.${prompt}
+  7677: Actuellement, notre pays est une force majeure dans cette région. Cependant, nous ne pouvons pas considérer cela comme acquis. Si nous baissions la garde, nous perdrons sûrement le contrôle de la région !${prompt}
+  7678: Actuellement, notre pays n'a qu'une influence mineure dans cette région. Nous comptons sur vous pour nous sortir de ce pétrin dans lequel nous nous sommes mis.${prompt}
+  7679: Actuellement, l'influence de notre pays dans cette région est minimale. Si nous n'agissons pas rapidement, le contrôle de cette région sera certainement pris par un pays rival.${prompt}
+  7680: Faites attention lorsque vous passez par là, car cette zone est actuellement envahie par des bêtes ! Quelque chose doit être fait, sinon l'ennemi aura le contrôle de toute la région.${prompt}
+  7681: 'Votre inventaire est plein. Vous n’avez pas pu accepter le ${item-singular: 0[2]}.${prompt}'
+  7682: Vous possédez déjà un glyphe de porte. Vous ne pouvez pas en avoir plus.${prompt}
+  7683: Je suis Garde Ducal de Jeuno, ${name-npc}. Mon devoir est de soutenir les efforts de conquête de Windurst, San d'Oria et Bastok.${prompt}
   7684: 　${prompt}
   7685: 　${prompt}
   7686: 　${prompt}
