@@ -17746,8 +17746,8 @@ entries:
     Testing client message 1.
     Testing client message 2.${prompt}
   7253: Testing client message.${prompt}
-  7254: Welcome. We have potions for sale today.${prompt}
-  7255: Welcome. We have potions for sale today.${prompt}
+  7254: Bienvenue. Nous avons des potions en vente aujourd'hui.${prompt}
+  7255: Bienvenue. Nous avons des potions en vente aujourd'hui.${prompt}
   7256: Il y a une grotte naine au nord de la ville. Des bandits sortent la nuit, alors fais attention.${prompt}
   7257: Je vais vous écraser !${prompt}
   7258: Ici repose le Roi Ranperre. Puisse-t-il reposer en paix.${prompt}
@@ -17764,10 +17764,10 @@ entries:
   7269: C'est la Tombe du Roi Ranperre.${prompt}
   7270: Bat を倒した（イベントテスト）${prompt}
   7271: －－コウモリの羽を入手した－－${prompt}
-  7272: You receive nothing from the moon rabbit...${prompt}
-  7273: The moon rabbit has brought along a monster!${prompt}
-  7274: You have to do something about those crazy trees, kupo!${prompt}
-  7275: You're done fighting trees, kupo?${prompt}
+  7272: Vous ne recevez rien du lapin lunaire...${prompt}
+  7273: Le lapin lunaire a amené avec lui un monstre !${prompt}
+  7274: Vous devez faire quelque chose à propos de ces arbres fous, kupo !${prompt}
+  7275: Vous avez fini de combattre les arbres, kupo ?${prompt}
   7276: ${prompt}
   7277: ${prompt}
   7278: ${prompt}
@@ -17775,88 +17775,88 @@ entries:
   7280: ${prompt}
   7281: ${prompt}
   7282: ${prompt}
-  7283: 'This chest is locked. It can be opened with ${article} ${item-article: 0[2]}.${prompt}'
-  7284: This chest is empty.${prompt}
-  7285: Your inventory is full. You cannot carry any more items.${prompt}
-  7286: You must be closer to the chest to open it.${prompt}
-  7287: '${entity: 0} opens the chest and finds ${article} ${item-article: 0[2]}.${prompt}'
+  7283: 'Ce coffre est verrouillé. Il peut être ouvert avec ${article} ${item-article: 0[2]}.${prompt}'
+  7284: Ce coffre est vide.${prompt}
+  7285: Votre inventaire est plein. Vous ne pouvez pas transporter plus d'objets.${prompt}
+  7286: Vous devez être plus proche du coffre pour l'ouvrir.${prompt}
+  7287: '${entity: 0} ouvre le coffre et trouve ${article} ${item-article: 0[2]}.${prompt}'
   7288: |-
-    The item in this chest cannot be handled by the other members of your party.
-    ${entity: 0} receives the ${item-singular: 0[2]}.${prompt}
-  7289: '${entity: 0} obtains a key item, ${keyitem-article: 0[2]}, from the chest.${prompt}'
-  7290: 'You obtain a key item, ${keyitem-article: 0[2]}, from the chest.${prompt}'
-  7291: You unlock the chest!${prompt}
-  7292: '${entity: 0} fails to open the chest.${prompt}'
-  7293: The chest was trapped!${prompt}
-  7294: You cannot open the chest when you are in a weakened state.${prompt}
-  7295: The chest was a mimic!${prompt}
-  7296: You cannot open the chest while participating in the moogle event.${prompt}
-  7297: The chest was but an illusion...${prompt}
+    L'objet dans ce coffre ne peut pas être manipulé par les autres membres de votre groupe.
+    ${entity: 0} reçoit le ${item-singular: 0[2]}.${prompt}
+  7289: '${entity: 0} obtient un objet clé, ${keyitem-article: 0[2]}, du coffre.${prompt}'
+  7290: 'Vous obtenez un objet clé, ${keyitem-article: 0[2]}, du coffre.${prompt}'
+  7291: Vous déverrouillez le coffre !${prompt}
+  7292: '${entity: 0} échoue à ouvrir le coffre.${prompt}'
+  7293: Le coffre était piégé !${prompt}
+  7294: Vous ne pouvez pas ouvrir le coffre lorsque vous êtes dans un état affaibli.${prompt}
+  7295: Le coffre était un mimique !${prompt}
+  7296: Vous ne pouvez pas ouvrir le coffre tout en participant à l'événement moogle.${prompt}
+  7297: Le coffre n'était qu'une illusion...${prompt}
   7298: |-
-    The chest appears to be locked.
-    If only you had ${article} ${item-article: 0[2]}, perhaps you could open it...${prompt}
+    Le coffre semble être verrouillé.
+    Si seulement vous aviez ${article} ${item-article: 0[2]}, peut-être pourriez-vous l'ouvrir...${prompt}
   7299: Hm...${prompt}
-  7300: King Ranperre... It is I, Rochefogne. Does Your Majesty not remember me?${prompt}
-  7301: Often in youth did I hear stories of Your Majesty's glorious reign. I longed to grow into a man like the great Dragon King, Ranperre.${prompt}
-  7302: Try though I did, I have failed. I have lost everything, even the most sacred of possessions.${prompt}
-  7303: I...${prompt}
-  7304: Your Majesty, please tell me. Whence has the sword disappeared? Did you dismiss it?${prompt}
+  7300: Roi Ranperre... C'est moi, Rochefogne. Votre Majesté ne se souvient-elle pas de moi ?${prompt}
+  7301: Dans ma jeunesse, j'ai souvent entendu parler des récits de la glorieuse règne de Votre Majesté. J'ai aspiré à devenir un homme comme le grand Roi Dragon, Ranperre.${prompt}
+  7302: Mais malgré mes efforts, j'ai échoué. J'ai tout perdu, même les possessions les plus sacrées.${prompt}
+  7303: Je...${prompt}
+  7304: Votre Majesté, je vous en prie, dites-moi. D'où a disparu l'épée ? L'avez-vous rejetée ?${prompt}
   7305: Hmm...${prompt}
-  7306: Who is there!?${prompt}
-  7307: Who are you!? What are you doing there?${prompt}
-  7308: Just an adventurer, are you? In search of tomb-robbers?${prompt}
-  7309: Well...${prompt}
-  7310: Wait, we have met before! You decided to serve San d'Oria, and now you are in search of tomb-robbers?${prompt}
-  7311: Yes, of late many of the cairns are missing.${prompt}
-  7312: Who could it be, and for what end? Wait, could the sword be here?${prompt}
-  7313: Say not another word, Rochefogne!${prompt}
-  7314: Adventurer, look no further than bats for your proof of tomb-robbing. Whoever came left much before departing.${prompt}
-  7315: Come, Rochefogne. We go.${prompt}
+  7306: Qui est là !?${prompt}
+  7307: Qui êtes-vous !? Que faites-vous ici ?${prompt}
+  7308: Juste un aventurier, n'est-ce pas ? À la recherche de pilleurs de tombes ?${prompt}
+  7309: Eh bien...${prompt}
+  7310: Attendez, nous nous sommes déjà rencontrés ! Vous avez décidé de servir San d'Oria, et maintenant vous êtes à la recherche de pilleurs de tombes ?${prompt}
+  7311: Oui, récemment beaucoup de cairns ont disparu.${prompt}
+  7312: Qui pourrait-ce être, et dans quel but ? Attendez, l'épée pourrait-elle être ici ?${prompt}
+  7313: Ne dites pas un mot de plus, Rochefogne !${prompt}
+  7314: Aventurier, ne cherchez pas plus loin que les chauves-souris pour avoir la preuve du pillage des tombes. Qui que ce soit est parti bien avant de partir.${prompt}
+  7315: Venez, Rochefogne. Partons.${prompt}
   7316: |-
-    Leave?
+    Partir ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
+    Oui.
+    Non.${prompt}
   7317: |-
-    Enter?
+    Entrer ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  7318: You sense something evil.${prompt}
-  7319: It is a solid stone door.${prompt}
+    Oui.
+    Non.${prompt}
+  7318: Vous ressentez quelque chose de maléfique.${prompt}
+  7319: C'est une porte en pierre solide.${prompt}
   7320: |-
-    Enter through the door?
+    Entrer par la porte ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
+    Oui.
+    Non.${prompt}
   7321: |-
-    Leave through the door?
+    Partir par la porte ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  7322: It looks like a grave.${prompt}
-  7323: It appears to be the true resting place of King Ranperre.${prompt}
-  7324: 'You find ${keyitem-article: 7[2]}, but you are unable to decipher it.${prompt}'
-  7325: Ah, now I see. Who would've thought a tomb was hidden here?${prompt}
-  7326: I was afraid I had dropped it then.${prompt}
-  7327: But how fortunate that you retrieved it! The dwellers of d'Oraguille still do not know, do they?${prompt}
-  7328: King Ranperre, at long last I find your tomb! But much distance separates us now, ironically.${prompt}
-  7329: Please...please watch over me. No, I am no longer of such status. Not anymore...${prompt}
-  7330: Please, at least judge my actions for what they are! I still deserve salvation, great king of dragons!${prompt}
-  7331: Could you show me that for a moment? I promise not to take it. After all, you wouldn't have found this place without me, would you?${prompt}
-  7332: Thank you. Hmm, it seems to be written in code. Yet, the writing is in ancient San d'Orian. I suppose I never had any part in it.${prompt}
-  7333: But it seems the tome is the only thing here. Hmm...${prompt}
-  7334: Hmm... As per your report, ${name-player}, it seems no monsters infest this place.${prompt}
-  7335: Very well, let us begin. Your Majesty...${prompt}
-  7336: Spirit of Ranperre, great king of dragons, may your rest continue undisturbed. Watch over the glory of our ancestors.${prompt}
-  7337: Welcome, heir of the dragon-blood.${prompt}
-  7338: The sword! You must hurry!${prompt}
-  7339: Begone from these holy grounds, foul deceiver!${prompt}
-  7340: 'Ach!${wait-animation: 1}${prompt}'
-  7341: He must have run away. We should hold our position until the end of the ceremony.${prompt}
-  7342: Yes. I shall guard the interior.${prompt}
-  7343: But I wonder what that knight meant.${prompt}
-  7344: Surely he meant for us to obtain it quickly. What else could it be? Surely just a riddle, nothing to worry over. The dragoons' riddles are often deep.${prompt}
+    Oui.
+    Non.${prompt}
+  7322: Cela ressemble à une tombe.${prompt}
+  7323: Il semble s'agir du véritable lieu de repos du Roi Ranperre.${prompt} 
+  7324: 'Vous trouvez ${keyitem-article: 7[2]}, mais vous êtes incapable de le déchiffrer.${prompt}'
+  7325: Ah, maintenant je comprends. Qui aurait pensé qu'une tombe était cachée ici ?${prompt}
+  7326: J'avais peur de l'avoir perdue à ce moment-là.${prompt}
+  7327: Mais quelle chance que vous l'ayez récupérée ! Les habitants de d'Oraguille ne le savent toujours pas, n'est-ce pas ?${prompt}
+  7328: Roi Ranperre, enfin je trouve votre tombe ! Mais beaucoup de distance nous sépare maintenant, ironiquement.${prompt}
+  7329: S'il vous plaît... s'il vous plaît veillez sur moi. Non, je ne suis plus de ce statut. Plus maintenant...${prompt}
+  7330: S'il vous plaît, jugez au moins mes actions pour ce qu'elles sont ! Je mérite toujours le salut, grand roi des dragons !${prompt}
+  7331: Pourriez-vous me le montrer un instant ? Je promets de ne pas le prendre. Après tout, vous n'auriez pas trouvé cet endroit sans moi, n'est-ce pas ?${prompt}
+  7332: Merci. Hmm, il semble être écrit en code. Pourtant, l'écriture est en ancien san d'Orian. Je suppose que je n'y ai jamais eu part.${prompt}
+  7333: Mais il semble que le tome soit la seule chose ici. Hmm...${prompt}
+  7334: Hmm... Selon votre rapport, ${name-player}, il semble qu'aucun monstre n'infeste cet endroit.${prompt}
+  7335: Très bien, commençons. Votre Majesté...${prompt}
+  7336: Esprit de Ranperre, grand roi des dragons, que votre repos continue sans être troublé. Veillez sur la gloire de nos ancêtres.${prompt}
+  7337: Bienvenue, héritier du sang du dragon.${prompt}
+  7338: L'épée ! Vous devez vous dépêcher !${prompt}
+  7339: Quittez ces lieux saints, vil trompeur !${prompt}
+  7340: 'Ach !${wait-animation: 1}${prompt}'
+  7341: Il a dû s'enfuir. Nous devrions tenir notre position jusqu'à la fin de la cérémonie.${prompt}
+  7342: Oui. Je vais garder l'intérieur.${prompt}
+  7343: Mais je me demande ce que ce chevalier voulait dire.${prompt}
+  7344: Il voulait sûrement que nous l'obtenions rapidement. Qu'est-ce que cela pourrait être d'autre ? Sûrement juste une énigme, rien de grave. Les énigmes des dragons sont souvent profondes.${prompt}
   7345: What do you mean?${prompt}
   7346: Have you forgotten, Curilla? The knights who served King Ranperre were headed by a dragoon. The last one of that age.${prompt}
   7347: “The last of the dragoons,” eh? Hmph. I knew it was no ordinary outlaw. Anyway, the rest is up to you, Rahal.${prompt}
