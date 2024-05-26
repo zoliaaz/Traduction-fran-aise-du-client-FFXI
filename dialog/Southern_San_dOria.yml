@@ -26567,77 +26567,77 @@ entries:
     No.${prompt}
   12286: "0:${number: 0} 1:${number: 1} 2:${number: 2} 3:${number: 3} \n4:${number: 4} 5:${number: 5} 6:${number: 6} 7:${number: 7} ${prompt}"
   12287: 'Well met! I''m a Merry Map Marker, and I''d love to make marks all over your merry ${keyitem-singular: 0[2]}, but it appears you are missing the markable map I mention.${prompt}'
-  12288: Good day! I'm a Merry Map Marker, and I'd be emphatically ecstatic if you'd allow me to mark your magical map!${prompt}
-  12289: 'A markless ${keyitem-singular: 0[2]} is like a motherless maiden, meandering through a miasmatic mire of misery.${prompt}'
+  12288: Bonjour ! Je suis un Joyeux Marqueur de Carte, et je serais extrêmement enchanté si vous me permettiez de marquer votre carte magique !${prompt}
+  12289: 'Une ${keyitem-singular: 0[2]} sans marque est comme une donzelle sans mère, errant à travers un marais miasmatique de misère.${prompt}'
   12290: |-
-    Embark on a map-marking mission?
+    Partir en mission de marquage de carte ?
     ${selection-lines}
-    Mark me up!
-    Keep your mitts off my map!${prompt}
-  12291: Marvelous! Now allow me a minute to make all my marks.${prompt}
-  12292: Methinks I have marked your map with as many marks as I might manage.${prompt}
-  12293: 'Monitoring and managing your marks is as simple as merely opening your map and selecting ${color: 5}Markers${color: 1} from the main menu.${prompt}'
-  12294: If the marks on your map might vanish, mope not like a melancholy milksop. Make another meeting with me and I shall make it my mission to mark the map once more.${prompt}
+    Marquez-moi !
+    Gardez vos pattes loin de ma carte !${prompt}
+  12291: Merveilleux ! Laissez-moi maintenant quelques instants pour faire toutes mes marques.${prompt}
+  12292: Je pense avoir marqué votre carte avec autant de marques que je puisse gérer.${prompt}
+  12293: 'Surveiller et gérer vos marques est aussi simple que d’ouvrir simplement votre carte et de sélectionner ${color: 5}Marqueurs${color: 1} dans le menu principal.${prompt}'
+  12294: Si les marques sur votre carte risquent de disparaître, ne vous morfondez pas comme un milquetoast mélancolique. Fixez un autre rendez-vous avec moi et je ferai de mon mieux pour marquer la carte à nouveau.${prompt}
   12295: |-
-    Good day, ${choice-player-gender}[milord/milady].
-    May your marches across meadow and mountain be markedly memorable!${prompt}
-  12296: 'Here is the area''s ${color: 5}home point${color: 1}. Once set, your muted remains will be moved here if you are ever...mortally mangled in the midst of a melee.${prompt}'
-  12297: 'Here you will find the ${color: 5}immigration${color: 1} ministers. They will help you if you may wish to immediately modify your nationality.${prompt}'
-  12298: 'And mayhap you are immeasurably motivated to compete in the medieval mayhem of Conflict? Might I suggest you mingle with the modest ${color: 5}Pursuivant${color: 1} located here?${prompt}'
-  12299: 'Our local ${color: 5}minstrel of melodies${color: 1} can be found here. His mirthful musicalities may help you recall misplaced memories.${prompt}'
-  12300: 'Ah, and in the case you might wish to mask a meritorious moniker and replace it with one a mite more merited, a ${color: 5}traveling bard${color: 1} strums upon his mellifluous harp here.${prompt}'
-  12301: 'Here, you may meet with a member of the Specialty Goods Trade Union. And, if you are a citizen of this mighty dominion, he''ll ${color: 5}teleport${color: 1} you all across Vana''diel (for a menial amount of monetary remuneration).${prompt}'
-  12302: 'Need to know the local ${color: 5}weather${color: 1}? Our local meteorologist will be making his paramount presumptions here.${prompt}'
-  12303: 'If you wish to summon a merciful mate to this mighty realm, here is where you will find a merry merchant marketing ${color: 5}Gold World Passes${color: 1}.${prompt}'
-  12304: 'Those men and women wondering how their deeds are mirrored in the minds of the locals should meander over to this gossip-meister to muster up important material on their respective ${color: 5}reputations${color: 1}.${prompt}'
-  12305: 'The ${color: 5}armor depository${color: 1} located here will help you maintain any old sets of equipment muddling up your immaculate Mog House.${prompt}'
-  12306: 'And here is the ${color: 5}item depository${color: 1} where you may store much of your festive furniture, etcetera until misplaced holiday merriment makes it way back into your miserly heart.${prompt}'
-  12307: Let me begin with Southern San d'Oria.${prompt}
-  12308: Now I shall move to Northern San d'Oria.${prompt}
-  12309: And last, but not least, let me mark your map for Port San d'Oria.${prompt}
-  12310: I shall start with Port Bastok and its magnificent drawbridge.${prompt}
-  12311: Now let me move on to the mercantile metropolis known as the Bastok Markets.${prompt}
-  12312: And after the markets, come the massive Bastok Mines.${prompt}
-  12313: And finally, who could forget the marveled Bastok Metalworks, where masterful minds from across the Republic meet to mull over the mysteries of man-made mechanical marvels.${prompt}
-  12314: Let me start with the Windurst Waters.${prompt}
-  12315: Let me continue by marking your map of Windurst Walls.${prompt}
-  12316: And while I am at it, let me see your map of Heavens Tower.${prompt}
-  12317: Next, I shall mark your map of Windurst Woods.${prompt}
-  12318: And finally, let me mark your map of Port Windurst.${prompt}
-  12319: I shall begin by marking the important locations on your map of the Ru'Lude Gardens.${prompt}
-  12320: Next, let me mark your map of Upper Jeuno. Did you know that I often frequent the Marble Bridge whenever I have a free moment? There's just something about the name of that model establishment...${prompt}
-  12321: Now let me mark your map of Lower Jeuno.${prompt}
-  12322: And finally, I shall mark your map of Port Jeuno.${prompt}
+    Bonjour, ${choice-player-gender}[milord/milady].
+    Que vos marches à travers prairies et montagnes soient remarquablement mémorables !${prompt}
+  12296: 'Voici le ${color: 5}point de départ${color: 1} de la région. Une fois défini, vos restes silencieux seront déplacés ici si vous êtes jamais... mortellement mutilé au milieu d’une mêlée.${prompt}'
+  12297: 'Ici, vous trouverez les ${color: 5}ministres de l’immigration${color: 1}. Ils vous aideront si vous souhaitez immédiatement modifier votre nationalité.${prompt}'
+  12298: 'Et peut-être êtes-vous immensément motivé pour participer au chaos médiéval de la Conflit ? Pourrais-je vous suggérer de frayer avec le modeste ${color: 5}Poursuivant${color: 1} situé ici ?${prompt}'
+  12299: 'Notre ${color: 5}menestrel des mélodies${color: 1} local peut être trouvé ici. Ses musicalités joyeuses pourraient vous aider à vous rappeler des souvenirs égarés.${prompt}'
+  12300: 'Ah, et au cas où vous voudriez masquer un nom méritoire et le remplacer par un peu plus mérité, un ${color: 5}barde itinérant${color: 1} joue de sa harpe mélodieuse ici.${prompt}'
+  12301: 'Ici, vous pouvez rencontrer un membre de l’Union du Commerce de Produits Spécialisés. Et, si vous êtes citoyen de ce puissant dominion, il vous ${color: 5}téléportera${color: 1} partout à travers Vana’diel (pour une somme modique de rémunération monétaire).${prompt}'
+  12302: 'Besoin de connaître la ${color: 5}météo${color: 1} locale ? Notre météorologiste local fera ses suppositions primordiales ici.${prompt}'
+  12303: 'Si vous souhaitez invoquer un compagnon miséricordieux dans ce royaume puissant, voici où vous trouverez un marchand joyeux vendant des ${color: 5}Passes Monde Or${color: 1}.${prompt}'
+  12304: 'Ceux et celles se demandant comment leurs actes sont reflétés dans l’esprit des habitants devraient errer vers ce bavard pour rassembler des informations importantes sur leurs ${color: 5}réputations${color: 1} respectives.${prompt}'
+  12305: 'Le ${color: 5}dépôt d’armures${color: 1} situé ici vous aidera à conserver d’anciens ensembles d’équipement qui encombrent votre immaculée Maison Mog.${prompt}'
+  12306: 'Et voici le ${color: 5}dépôt d’objets${color: 1} où vous pouvez stocker une grande partie de vos meubles festifs, etc., jusqu’à ce que la joie des vacances perdues retrouve son chemin dans votre cœur avare.${prompt}'
+  12307: Commençons par le Sud de San d'Oria.${prompt}
+  12308: Maintenant, je vais passer au Nord de San d'Oria.${prompt}
+  12309: Et enfin, mais non le moindre, permettez-moi de marquer votre carte pour le Port de San d'Oria.${prompt}
+  12310: Je vais commencer par le Port de Bastok et son magnifique pont-levis.${prompt}
+  12311: Maintenant, passons à la métropole marchande connue sous le nom de Marché de Bastok.${prompt}
+  12312: Et après les marchés, viennent les massives Mines de Bastok.${prompt}
+  12313: Et enfin, qui pourrait oublier les merveilleux Ateliers de Métal de Bastok, où des esprits maîtres de toute la République se réunissent pour réfléchir aux mystères des merveilles mécaniques faites par l'homme.${prompt}
+  12314: Commençons par les Eaux de Windurst.${prompt}
+  12315: Laissez-moi continuer en marquant votre carte des Murs de Windurst.${prompt}
+  12316: Et tant que j'y suis, laissez-moi voir votre carte de la Tour des Cieux.${prompt}
+  12317: Ensuite, je marquerai votre carte des Bois de Windurst.${prompt}
+  12318: Et enfin, laissez-moi marquer votre carte du Port de Windurst.${prompt}
+  12319: Je vais commencer par marquer les emplacements importants sur votre carte des Jardins de Ru'Lude.${prompt}
+  12320: Ensuite, laissez-moi marquer votre carte du Haut de Jeuno. Savez-vous que je fréquente souvent le Pont de Marbre dès que j'ai un moment de libre ? Il y a juste quelque chose à propos du nom de cet établissement modèle...${prompt}
+  12321: Maintenant, laissez-moi marquer votre carte du Bas de Jeuno.${prompt}
+  12322: Et enfin, je marquerai votre carte du Port de Jeuno.${prompt}
   12323: |-
-    Welcome to the Chocobo Racing Association's (CRA) ${choice: 0}[San d'Oria/Bastok/Windurst] branch.
-    This service desk is here to accommodate our beginning and intermediate racers.${prompt}
-  12324: I am sorry, but there are no races scheduled at the moment.${prompt}
-  12325: 'Participation in our organization''s races requires that you either possess ${article} ${item-article: 0[2]} or currently have your own full-grown chocobo.${prompt}'
-  12326: How about you, ${choice-player-gender}[sir/ma'am]?${prompt}
-  12327: 'If possible, we would like you to join us, and help show those trainers in ${choice: 0}[Bastok and Windurst/San d''Oria and Windurst/San d''Oria and Bastok] which racing team is truly the best in Vana''diel.${prompt}'
+    Bienvenue à la branche de l'Association des Courses de Chocobo (ACC) de ${choice: 0}[San d'Oria/Bastok/Windurst].
+    Ce bureau de service est là pour accueillir nos coureurs débutants et intermédiaires.${prompt}
+  12324: Je suis désolé, mais il n'y a pas de courses prévues pour le moment.${prompt}
+  12325: 'La participation aux courses de notre organisation nécessite que vous possédiez ${article} ${item-article: 0[2]} ou que vous possédiez actuellement votre propre chocobo adulte.${prompt}'
+  12326: 'Et vous, ${choice-player-gender}[monsieur/madame] ?${prompt}'
+  12327: 'Si possible, nous aimerions que vous nous rejoigniez et que vous aidiez à montrer à ces entraîneurs de ${choice: 0}[Bastok et Windurst/San d''Oria et Windurst/San d''Oria et Bastok] quelle équipe de course est vraiment la meilleure de Vana’diel.${prompt}'
   12328: |-
-    What do you say?
+    Qu'en dites-vous ?
     ${selection-lines}
-    Tell me more.
-    Sign me up!
-    Not today.${prompt}
+    Dites-moi-en plus.
+    Inscrivez-moi !
+    Pas aujourd'hui.${prompt}
   12329: |-
-    Congratulations, ${name-player}!
-    You are now an official member of the CRA's ${choice: 0}[San d'Oria/Bastok/Windurst] racing team.${prompt}
+    Félicitations, ${name-player} !
+    Vous êtes maintenant membre officiel de l'équipe de course de l'ACC de ${choice: 0}[San d'Oria/Bastok/Windurst].${prompt}
   12330: |-
-    I see.
-    Please come back if you ever change your mind!${prompt}
+    Je vois.
+    Revenez si vous changez d'avis !${prompt}
   12331: |-
-    What would you like to know?
+    Que voulez-vous savoir ?
     ${selection-lines}
-    Why race chocobos, anyway?
-    How do I register for a race?
-    How do I prepare for a race?
-    What are ${color: 5}chocobucks${color: 1}?
-    What kind of races are there?
-    What are “racing teams”?
-    Quit.
-    Return.${prompt}
+    Pourquoi faire des courses de chocobos, de toute façon ?
+    Comment m'inscrire à une course ?
+    Comment me préparer pour une course ?
+    Qu'est-ce que les ${color: 5}chocobucks${color: 1} ?
+    Quels types de courses existe-t-il ?
+    Qu'est-ce que les "équipes de course" ?
+    Quitter.
+    Retour.${prompt}
   12332: |-
     Why not!?
     Our original plan was to establish locations across Vana'diel where people could test their birds' skills.${prompt}
