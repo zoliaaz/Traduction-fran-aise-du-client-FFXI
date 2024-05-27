@@ -1,29 +1,29 @@
 entries:
   0: |-
-    You can set this as your current home point.
-    Once you set a home point, you will return there whenever you are incapacitated.
+    Vous pouvez définir ceci comme votre point de retour actuel.
+    Une fois que vous avez défini un point de retour, vous y retournerez chaque fois que vous serez incapacités.
   1: |-
-    Set this as current home point?
+    Définir ceci comme point de retour actuel ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  2: Home point set!${prompt}
-  3: A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.
+    Oui.
+    Non.${prompt}
+  2: Point de retour défini !${prompt}
+  3: Un point de retour peut être défini comme un endroit où vous reviendrez à Vana'diel lorsque vous serez mis K.O. Vous pouvez également utiliser un point de retour pour vous téléporter vers d'autres points de retour.${prompt}
   4: |-
-    What will you do?
+    Que voulez-vous faire ?
     ${selection-lines}
-    Travel to another home point.
-    Set this as your home point.
-    Other settings.
-    On second thought, never mind.${prompt}
+    Voyager vers un autre point de retour.
+    Définir ceci comme votre point de retour.
+    Autres paramètres.
+    Finalement, rien.${prompt}
   5: |-
-    You have registered a new home point!
-    You are now able to teleport here from any other home point.${prompt}
-  6: You may teleport from here to any other home point you have registered.
+    Vous avez enregistré un nouveau point de retour !
+    Vous pouvez désormais vous téléporter ici depuis n'importe quel autre point de retour.${prompt}
+  6: Vous pouvez vous téléporter d'ici vers n'importe quel autre point de retour que vous avez enregistré.${prompt}
   7: |-
-    Teleport where?
+    Téléporter où ?
     ${selection-lines}
-    Never mind.
+    Laisser tomber.
     ${zone: 1[2]}.
     ${zone: 2[2]}.
     ${zone: 3[2]}.
@@ -40,81 +40,81 @@ entries:
     ${zone: 14[2]}.
     ${zone: 15[2]}.
     ${zone: 16[2]}.
-    Previous page.
-    Next page.${prompt}
+    Page précédente.
+    Page suivante.${prompt}
   8: |-
-    Teleport where?（${zone: 33[2]}）
+    Téléporter où ?（${zone: 33[2]}）
     ${selection-lines}
-    Nowhere.
-    Home Point #1${choice: 1}[/ (M)/ (A)/ (E)].
-    Home Point #2${choice: 2}[/ (M)/ (A)/ (E)].
-    Home Point #3${choice: 3}[/ (M)/ (A)/ (E)].
-    Home Point #4${choice: 4}[/ (M)/ (A)/ (E)].
-    Home Point #5${choice: 5}[/ (M)/ (A)/ (E)].${prompt}
-  9: You have not yet registered any other home points, and thus are unable to teleport.${prompt}
-  10: 'It costs ${number: 3} gil to teleport to Home Point #${number: 2} in ${zone: 1[2]}.'
-  11: 'There is no fee for teleporting to Home Point #${number: 2} in ${zone: 1[2]}.'
+    Nulle part.
+    Point de retour #1${choice: 1}[/ (M)/ (A)/ (E)].
+    Point de retour #2${choice: 2}[/ (M)/ (A)/ (E)].
+    Point de retour #3${choice: 3}[/ (M)/ (A)/ (E)].
+    Point de retour #4${choice: 4}[/ (M)/ (A)/ (E)].
+    Point de retour #5${choice: 5}[/ (M)/ (A)/ (E)].${prompt}
+  9: Vous n'avez encore enregistré aucun autre point de retour, donc vous ne pouvez pas vous téléporter.${prompt}
+  10: 'Cela coûte ${number: 3} gil pour se téléporter au Point de retour #${number: 2} dans ${zone: 1[2]}.${prompt}'
+  11: 'Il n’y a pas de frais pour se téléporter au Point de retour #${number: 2} dans ${zone: 1[2]}.${prompt}'
   12: |-
-    Teleport? (Current gil: ${number: 0})
+    Téléporter ? (Gil actuel : ${number: 0})
     ${selection-lines}
-    ${choice: 33}[Add to favorites/Remove from favorites].
-    Yes, please.
-    No, thank you.${prompt}
+    ${choice: 33}[Ajouter aux favoris/Retirer des favoris].
+    Oui, s'il vous plaît.
+    Non, merci.${prompt}
   13: |-
-    Teleport to which region?
+    Téléporter vers quelle région ?
     ${selection-lines}
-    On second thought, none.
-    Select from favorites.
-    Current region.
+    Finalement, rien.
+    Sélectionner à partir des favoris.
+    Région actuelle.
     ${choice: 1}[San d'Oria/Movalpolos].
-    ${choice: 1}[Bastok/Tavnazian Arch].
+    ${choice: 1}[Bastok/Archipel Tavnazien].
     ${choice: 1}[Windurst/Lumoria].
-    ${choice: 1}[Jeuno/Mamool Ja Savage].
+    ${choice: 1}[Jeuno/Savane des Mamool Ja].
     ${choice: 1}[Tavnazia/Halvung].
-    ${choice: 1}[West. Aht Urhgan/Arrapago Is].
-    ${choice: 1}[Adoulin Isles/Ruins of Alzadaal].
-    ${choice: 1}[Ronfaure/Ronfaure Front].
-    ${choice: 1}[Zulkheim/Norvallen Front].
-    ${choice: 1}[Norvallen/Gustaberg Front].
-    ${choice: 1}[Gustaberg/Derfland Front].
-    ${choice: 1}[Derfland/Sarutabaruta Front].
-    ${choice: 1}[Sarutabaruta/Aragoneu Front].
-    ${choice: 1}[Kolshushu/Fauregandi Front].
-    ${choice: 1}[Aragoneu/Valdeaunia Front].
-    ${choice: 1}[Fauregandi/East. Ulbuka].
+    ${choice: 1}[Aht Urhgan Ouest/Îles d'Arrapago].
+    ${choice: 1}[Îles d'Adoulin/Ruines d'Alzadaal].
+    ${choice: 1}[Ronfaure/Front de Ronfaure].
+    ${choice: 1}[Zulkheim/Front de Norvallen].
+    ${choice: 1}[Norvallen/Front de Gustaberg].
+    ${choice: 1}[Gustaberg/Front de Derfland].
+    ${choice: 1}[Derfland/Front de Sarutabaruta].
+    ${choice: 1}[Sarutabaruta/Front d'Aragoneu].
+    ${choice: 1}[Kolshushu/Front de Fauregandi].
+    ${choice: 1}[Aragoneu/Front de Valdeaunia].
+    ${choice: 1}[Fauregandi/Ulbuka Est].
     ${choice: 1}[Valdeaunia/Ra'Kaznar].
     ${choice: 1}[Qufim/].
     ${choice: 1}[Li'Telor/].
     ${choice: 1}[Kuzotz/].
     ${choice: 1}[Vollbow/].
-    ${choice: 1}[Elshimo Low/].
-    ${choice: 1}[Elshimo Up/].
+    ${choice: 1}[Elshimo Bas/].
+    ${choice: 1}[Elshimo Haut/].
     ${choice: 1}[Tu'Lia/].
-    Previous page.
-    Next page.${prompt}
+    Page précédente.
+    Page suivante.${prompt}
   14: |-
-    Teleport where?
+    Téléporter où ?
     ${selection-lines}
-    None of these.
-    A favorited location.
-    An original area.
-    A Rise of the Zilart area.
-    A Chains of Promathia area.
-    A Treasures of Aht Urhgan area.
-    A Wings of the Goddess area.
-    A Seekers of Adoulin area.${prompt}
-  15: You may change the method of selecting the area of your desired home point to teleport to.
+    Aucun de ceux-ci.
+    Un emplacement favori.
+    Une zone d'origine.
+    Une zone de Rise of the Zilart.
+    Une zone de Chains of Promathia.
+    Une zone de Treasures of Aht Urhgan.
+    Une zone de Wings of the Goddess.
+    Une zone de Seekers of Adoulin.${prompt}
+  15: Vous pouvez changer la méthode de sélection de la zone de votre point de retour souhaité pour vous téléporter.
   16: |-
-    Which setting would you like?
+    Quelle option souhaitez-vous ?
     ${selection-lines}
-    My current setting.
-    Select by region.
-    Select by expansion.${prompt}
-  17: 'You are now selecting by ${choice: 1}[region/expansion].'
+    Mon réglage actuel.
+    Sélectionner par région.
+    Sélectionner par extension.${prompt}
+  17: 'Vous sélectionnez maintenant par ${choice: 1}[région/extension].'
   18: |-
-    Teleport where?
+    Téléporter où ?
     ${selection-lines}
-    None of these.
+    Aucun de ceux-ci.
     ${zone: 1[2]} #${number: 17}.
     ${zone: 2[2]} #${number: 18}.
     ${zone: 3[2]} #${number: 19}.
@@ -124,13 +124,13 @@ entries:
     ${zone: 7[2]} #${number: 23}.
     ${zone: 8[2]} #${number: 24}.
     ${zone: 9[2]} #${number: 25}.
-    ${choice: 33}[Add to favorites/Remove from favorites].${prompt}
-  19: 'Home Point #${number: 2} in ${zone: 1[2]} has been ${choice: 33}[registered to/removed from] your list of favorite locations.'
-  20: Your list of favorite locations is full. You must delete an existing entry in order to register a new one.
+    ${choice: 33}[Ajouter aux favoris/Retirer des favoris].${prompt}
+  19: 'Le Point de retour #${number: 2} dans ${zone: 1[2]} a été ${choice: 33}[enregistré sur/supprimé de] votre liste d’emplacements favoris.'
+  20: Votre liste d'emplacements favoris est pleine. Vous devez supprimer une entrée existante pour en enregistrer une nouvelle.
   21: |-
-    Delete which?
+    Supprimer lequel ?
     ${selection-lines}
-    None of these.
+    Aucun de ceux-ci.
     ${zone: 1[2]} #${number: 17}.
     ${zone: 2[2]} #${number: 18}.
     ${zone: 3[2]} #${number: 19}.
@@ -18867,184 +18867,184 @@ entries:
     Match begins:
     Vana'diel: ${vanatime: 0}
     Earth: ${earthtime: 0}${prompt}
-  7691: 'You hand the clerk the ${keyitem-singular: 0[2]} and ${number: 1} gil, and your set of armor is returned.${prompt}'
-  7692: Hello, ${choice-player-gender}[sir/ma'am]. Have you ever found yourself throwing away items because your Mog Safe is overflowing with dusty sets of armor collected on your many adventures? My colleagues and I have heard the cries of our fellow adventurers and joined together to aid all those in need.${prompt}
-  7693: Trade me a full set, and for a small fee (payable on pickup) we will hold on to it, all the while protecting it from thieves, moths, and any/all acts of god and/or goddess.${prompt}
-  7694: Please be forewarned that we cannot store any high-quality equipment, and that the signatures on any pieces of collected armor will be lost.${prompt}
-  7695: How may I be of service today?${prompt}
+  7691: 'Vous remettez au commis le ${keyitem-singular: 0[2]} et ${number: 1} gils, et votre ensemble d’armure vous est rendu.${prompt}'
+  7692: Bonjour, ${choice-player-gender}[monsieur/madame]. Vous est-il déjà arrivé de jeter des objets parce que votre Coffre Mog déborde de vieux ensembles d'armure collectés au cours de vos nombreuses aventures ? Mes collègues et moi avons entendu les cris de nos camarades aventuriers et nous nous sommes unis pour aider tous ceux dans le besoin.${prompt}
+  7693: Échangez-moi un ensemble complet, et pour une petite somme (payable lors de la récupération), nous le garderons pour vous, tout en le protégeant des voleurs, des mites, et de tout acte de dieu et/ou déesse.${prompt}
+  7694: Veuillez noter que nous ne pouvons pas stocker d'équipement de haute qualité, et que les signatures sur les pièces d'armure collectées seront perdues.${prompt}
+  7695: Comment puis-je vous aider aujourd'hui ?${prompt}
   7696: |-
-    What to do...
+    Que faire...
     ${selection-lines}
-    Nothing.
-    View list of storable armor sets.
-    Have stored armor returned.${prompt}
-  7697: We are currently offering storage service for the following armor sets:${prompt}
+    Rien.
+    Voir la liste des ensembles d'armures stockables.
+    Récupérer une armure stockée.${prompt}
+  7697: Nous proposons actuellement un service de stockage pour les ensembles d'armure suivants :${prompt}
   7698: |-
-    Let me see... Ah yes, ${choice-player-gender}[Lord/Lady] ${name-player}.
-    We are currently holding the following garments...${prompt}
+    Voyons voir... Ah oui, ${choice-player-gender}[Seigneur/Dame] ${name-player}.
+    Nous gardons actuellement les vêtements suivants...${prompt}
   7699: |-
-    ${choice: 7}[View which set?/Remove which set from storage?]
+    ${choice: 7}[Voir quel ensemble ?/Retirer quel ensemble du stockage ?]
     ${selection-lines}
-    None.
-    Level 24～30 armor.
-    Level 31～40 armor.
-    Level 41～50 armor.
-    Artifact armor/High level gear.
-    Relic armor.${prompt}
+    Aucun.
+    Armure de niveau 24～30.
+    Armure de niveau 31～40.
+    Armure de niveau 41～50.
+    Armure d'artefact/Équipement de haut niveau.
+    Armure relique.${prompt}
   7700: |-
-    ${choice: 7}[View which set?/Remove which set?]
+    ${choice: 7}[Voir quel ensemble ?/Retirer quel ensemble ?]
     ${selection-lines}
-    None.
-    Iron Chainmail.
-    Shade Harness.
-    Brass Scale Armor.
-    Wool Robe.
-    Eisenplatte Armor.
-    Soil Gi.
-    Seer's Tunic.
-    Studded Armor.
-    Centurion's Scale Mail.
-    Mercenary Captain's Doublet.
-    Garish Tunic.
-    Noct Doublet.${prompt}
+    Aucun.
+    Cotte de mailles en fer.
+    Harnais d'ombre.
+    Armure d'écailles en laiton.
+    Robe en laine.
+    Armure en Eisenplatte.
+    Gi en terre.
+    Tunique de voyant.
+    Armure cloutée.
+    Cotte de mailles de centurion.
+    Justaucorps de capitaine mercenaire.
+    Tunique voyante.
+    Justaucorps nocturne.${prompt}
   7701: |-
-    ${choice: 7}[View which set?/Remove which set?]
+    ${choice: 7}[Voir quel ensemble ?/Retirer quel ensemble ?]
     ${selection-lines}
-    None.
-    Custom Armor (Hume Male).
-    Custom Armor (Hume Female).
-    Magna Armor (Elvaan Male).
-    Magna Armor (Elvaan Female).
-    Wonder Armor (Tarutaru).
-    Savage Armor (Mithra).
-    Elder Armor (Galka).
-    Linen Cloak.
-    Padded Armor.
-    Silver Chainmail.
+    Aucun.
+    Armure sur mesure (Homme Hume).
+    Armure sur mesure (Femme Hume).
+    Armure Magna (Homme Elvaan).
+    Armure Magna (Femme Elvaan).
+    Armure Merveilleuse (Tarutaru).
+    Armure Sauvage (Mithra).
+    Armure Ancienne (Galka).
+    Manteau en lin.
+    Armure rembourrée.
+    Cotte de mailles en argent.
     Gambison.
-    Iron Scale Armor.
-    Cuir Armor.
-    Velvet Robe.
-    Opaline Dress.
-    Royal Squire's Chainmail.
-    Plate Armor.
-    Combat Caster's Cloak.
-    Argent Attire.${prompt}
+    Armure d'écailles en fer.
+    Armure de cuir.
+    Robe en velours.
+    Robe opaline.
+    Cotte de mailles de l'écuyer royal.
+    Armure de plates.
+    Manteau de mage de combat.
+    Tenue argentée.${prompt}
   7702: |-
-    ${choice: 7}[View which set?/Remove which set?]
+    ${choice: 7}[Voir quel ensemble ?/Retirer quel ensemble ?]
     ${selection-lines}
-    None.
-    Alumine Haubert.
-    Carapace Armor.
-    Banded Mail.
+    Aucun.
+    Haubert en aluminium.
+    Armure de carapace.
+    Armure en bandes.
     Hara-Ate.
-    Raptor Armor.
-    Steel Scale Armor.
-    Wool Gambison.
-    Shinobi Gi.
-    Mythril Plate Armor.
-    Iron Musketeer's Cuirass.
-    Tactician Magician's Cloak.
-    White Cloak.
-    Austere Robe.
-    Crow Jupon.${prompt}
+    Armure de raptor.
+    Armure d'écailles en acier.
+    Gambison en laine.
+    Gi de shinobi.
+    Armure de plates en mythril.
+    Cuirasse du Mousquetaire de fer.
+    Manteau du Magicien tacticien.
+    Manteau blanc.
+    Robe austère.
+    Jupon de corbeau.${prompt}
   7703: |-
-    This set is comprised of the following items:
-    ${lettercase: 1}${item-singular: 0[2]}, ${lettercase: 1}${item-singular: 1[2]}, ${lettercase: 1}${item-singular: 2[2]}, ${lettercase: 1}${item-singular: 3[2]}, and ${lettercase: 1}${item-singular: 4[2]}.${prompt}
+    Cet ensemble est composé des éléments suivants :
+    ${lettercase: 1}${item-singular: 0[2]}, ${lettercase: 1}${item-singular: 1[2]}, ${lettercase: 1}${item-singular: 2[2]}, ${lettercase: 1}${item-singular: 3[2]}, et ${lettercase: 1}${item-singular: 4[2]}.${prompt}
   7704: |-
-    This set is comprised of the following items:
-    ${lettercase: 1}${item-singular: 1[2]}, ${lettercase: 1}${item-singular: 2[2]}, ${lettercase: 1}${item-singular: 3[2]}, and ${lettercase: 1}${item-singular: 4[2]}.${prompt}
+    Cet ensemble est composé des éléments suivants :
+    ${lettercase: 1}${item-singular: 1[2]}, ${lettercase: 1}${item-singular: 2[2]}, ${lettercase: 1}${item-singular: 3[2]}, et ${lettercase: 1}${item-singular: 4[2]}.${prompt}
   7705: |-
-    This set is comprised of the following items:
-    ${lettercase: 1}${item-singular: 0[2]}, ${lettercase: 1}${item-singular: 1[2]}, ${lettercase: 1}${item-singular: 3[2]}, and ${lettercase: 1}${item-singular: 4[2]}.${prompt}
+    Cet ensemble est composé des éléments suivants :
+    ${lettercase: 1}${item-singular: 0[2]}, ${lettercase: 1}${item-singular: 1[2]}, ${lettercase: 1}${item-singular: 3[2]}, et ${lettercase: 1}${item-singular: 4[2]}.${prompt}
   7706: |-
-    This set is comprised of the following items:
-    ${lettercase: 1}${item-singular: 1[2]}, and ${lettercase: 1}${item-singular: 3[2]}.${prompt}
-  7707: 'A storage fee of ${number: 5} gil will be required upon pickup of this particular set.${prompt}'
+    Cet ensemble est composé des éléments suivants :
+    ${lettercase: 1}${item-singular: 1[2]}, et ${lettercase: 1}${item-singular: 3[2]}.${prompt}
+  7707: 'Des frais de stockage de ${number: 5} gil seront requis lors de la récupération de cet ensemble particulier.${prompt}'
   7708: |-
-    ${choice: 7}[View which set?/Remove which set?]
+    ${choice: 7}[Voir quel ensemble ?/Retirer quel ensemble ?]
     ${selection-lines}
-    None at this time.
-    Fighter's Armor.
-    Temple Attire.
-    Healer's Attire.
-    Wizard's Attire.
-    Warlock's Armor.
-    Rogue's Attire.
-    Gallant Armor.
-    Chaos Armor.
-    Beast Armor.
-    Choral Attire.
-    Hunter's Attire.
-    Myochin Armor.
-    Ninja Garb.
-    Drachen Armor.
-    Evoker's Attire.
-    Magus Attire.
-    Corsair's Attire.
-    Puppetry Attire.
-    Dancer's Attire.
-    Dancer's Attire.
-    Scholar's Attire.
-    Amir Armor Set.
-    Pahluwan Armor Set.
-    Yigit Armor Set.${prompt}
-  7709: 'The storage fee for your armor comes to ${number: 5} gil.${prompt}'
+    Aucun pour le moment.
+    Armure de combattant.
+    Tenue de temple.
+    Tenue de guérisseur.
+    Tenue de sorcier.
+    Armure de sorcier.
+    Tenue de voleur.
+    Armure de galant.
+    Armure de chaos.
+    Armure de bête.
+    Tenue chorale.
+    Tenue de chasseur.
+    Armure de Myochin.
+    Vêtements de ninja.
+    Armure de Drachen.
+    Tenue d'évocateur.
+    Tenue de mage.
+    Tenue de corsaire.
+    Tenue de marionnettiste.
+    Tenue de danseur.
+    Tenue de danseur.
+    Tenue de savant.
+    Ensemble d'armure Amir.
+    Ensemble d'armure Pahluwan.
+    Ensemble d'armure Yigit.${prompt}
+  7709: 'Les frais de stockage pour votre armure s’élèvent à ${number: 5} gil.${prompt}'
   7710: |-
-    Do you wish to pay the fee?
+    Souhaitez-vous payer les frais ?
     ${selection-lines}
-    Not at this time.
-    Yes.${prompt}
-  7711: 'I am sorry, ${choice-player-gender}[sir/ma''am]. ${number: 5} gil is required before we can return your armor.${prompt}'
+    Pas pour le moment.
+    Oui.${prompt}
+  7711: 'Je suis désolé${choice-player-gender}, ${number: 5} gils sont nécessaires avant que nous puissions vous rendre votre armure.${prompt}'
   7712: |-
-    Very well, ${choice-player-gender}[sir/ma'am].
-    When you wish to have your armor returned, remember to present this claim slip along with the ${number: 5}-gil storage fee at any of our five convenient pickup locations around Vana'diel.${prompt}
-  7713: Regulations do not allow adventurers to store more than one set of the same armor.${prompt}
-  7714: The items you attempted to trade have been returned.${prompt}
+    Très bien, ${choice-player-gender}[sir/madame].
+    Lorsque vous souhaitez récupérer votre armure, n'oubliez pas de présenter ce reçu ainsi que les ${number: 5} gils de frais de stockage à l'un de nos cinq emplacements de ramassage pratiques à travers Vana'diel.${prompt}
+  7713: Les réglementations n'autorisent pas les aventuriers à stocker plus d'un ensemble de la même armure.${prompt}
+  7714: Les objets que vous avez tenté d'échanger ont été retournés.${prompt}
   7715: |-
-    ${choice: 7}[View which set?/Remove which set?]
+    ${choice: 7}[Voir quel ensemble ?/Retirer quel ensemble ?]
     ${selection-lines}
-    None at this time.
-    Warrior's Armor.
-    Melee Attire.
-    Cleric's Attire.
-    Sorcerer's Attire.
-    Duelist's Armor.
-    Assassin's Attire.
-    Valor Armor.
-    Abyss Armor.
-    Monster Armor.
-    Bard's Attire.
-    Scout's Attire.
-    Saotome Armor.
-    Koga Garb.
-    Wyrm Armor.
-    Summoner's Attire.
-    Mirage Attire.
-    Commodore Attire.
-    Pantin Attire.
-    Etoile Attire.
-    Argute Attire.${prompt}
-  7716: You can't fish here.${prompt}
-  7717: You can't fish without a rod in your hands.${prompt}
-  7718: You can't fish without bait on the hook.${prompt}
-  7719: You can't fish at the moment.${prompt}
-  7720: You didn't catch anything.${prompt}
-  7721: '${entity: 0} caught a monster!${prompt}'
-  7722: Your line breaks.${prompt}
-  7723: Your rod breaks.${prompt}
-  7724: Something caught the hook!${prompt}
-  7725: You lost your catch.${prompt}
+    Aucun pour le moment.
+    Armure de guerrier.
+    Tenue de mêlée.
+    Tenue de clerc.
+    Tenue de sorcier.
+    Armure de duelliste.
+    Tenue d'assassin.
+    Armure de bravoure.
+    Armure abyssale.
+    Armure de monstre.
+    Tenue de barde.
+    Tenue d'éclaireur.
+    Armure Saotome.
+    Tenue de Koga.
+    Armure du Wyrm.
+    Tenue d'invocateur.
+    Tenue de mirage.
+    Tenue de commodore.
+    Tenue de pantin.
+    Tenue d'étoile.
+    Tenue d'érudit.${prompt}
+  7716: Vous ne pouvez pas pêcher ici.${prompt}
+  7717: Vous ne pouvez pas pêcher sans une canne à pêche.${prompt}
+  7718: Vous ne pouvez pas pêcher sans appât sur l'hameçon.${prompt}
+  7719: Vous ne pouvez pas pêcher pour le moment.${prompt}
+  7720: Vous n'avez rien attrapé.${prompt}
+  7721: '${entity: 0} a attrapé un monstre !${prompt}'
+  7722: Votre ligne se casse.${prompt}
+  7723: Votre canne à pêche se casse.${prompt}
+  7724: Quelque chose a mordu à l'hameçon !${prompt}
+  7725: Vous avez perdu votre prise.${prompt}
   7726: |-
-    ${entity: 0} caught ${article} ${item-article: 0[2]}, but cannot carry any more items.
-    ${entity: 0} regretfully releases the ${item-singular: 0[2]}.${prompt}
-  7727: You feel there's something here.${prompt}
-  7728: You feel there's something nearby.${prompt}
+    ${entity: 0} a attrapé ${article} ${item-article: 0[2]}, mais ne peut pas transporter plus d'objets.
+    ${entity: 0} relâche regrettablement ${item-singular: 0[2]}.${prompt}
+  7727: Vous sentez qu'il y a quelque chose ici.${prompt}
+  7728: Vous sentez qu'il y a quelque chose à proximité.${prompt}
   7729: |-
-    You dig up ${article} ${item-article: 0[2]}, but your inventory is full.
-    You regretfully throw the ${item-singular: 0[2]} away.${prompt}
-  7730: '${entity: 0} caught ${item-count: 1[2]} ${item-given-plurality: 1[2], 0[2]}!${prompt}'
-  7731: You dig and you dig, but find nothing.${prompt}
+    Vous déterrez ${article} ${item-article: 0[2]}, mais votre inventaire est plein.
+    Vous jetez malheureusement ${item-singular: 0[2]} loin.${prompt}
+  7730: '${entity: 0} a attrapé ${item-count: 1[2]} ${item-given-plurality: 1[2], 0[2]} !${prompt}'
+  7731: Vous creusez et vous creusez, mais ne trouvez rien.${prompt}
   7732: '${number: 0}/${item-singular: 0[2]}をセット${prompt}'
   7733: |-
     Your rod breaks.
