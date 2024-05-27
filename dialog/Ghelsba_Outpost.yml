@@ -18860,48 +18860,48 @@ entries:
     .
     .
     ${prompt}
-  7754: 'Logging is possible here if you have ${article} ${item-article: 0[2]}.${prompt}'
-  7755: 'Probability of loss = ${number: 3}/10000.${prompt}'
-  7756: 'Your ${item-singular: 7[2]} breaks!'
-  7757: 'You successfully cut off ${article} ${item-article: 0[2]}!'
-  7758: 'You cut off ${article} ${item-article: 0[2]}, but your ${item-singular: 7[2]} breaks in the process.'
-  7759: You are unable to log anything.
-  7760: You cannot carry any more items. Your inventory is full.
-  7761: Wait!${prompt}
-  7762: You are the adventurer that Pieuje sent, are you not?${prompt}
-  7763: Bravely have you fought against the Orcs. Well done!${prompt}
-  7764: On behalf of my spineless brother, I thank you.${prompt}
-  7765: He had not the strength to save one boy, and so sent an adventurer in his stead.${prompt}
-  7766: Indeed he is dirt upon the name of House d'Oraguille.${prompt}
-  7767: Well, enough blather. Let us save the boy. Open the door!${prompt}
-  7768: Is anyone here?${prompt}
-  7769: Why, Your Highness!${prompt}
-  7770: You are Tedimout? From the cathedral?${prompt}
-  7771: Yes, it's me! Truly I am grateful you came, Your Highness!${prompt}
-  7772: I am relieved he seems well. I will bring the boy back to San d'Oria.${prompt}
-  7773: You have my thanks, adventurer. I will inform the guards of your deeds. Now, let us be off!${prompt}
-  7774: Wait!${prompt}
-  7775: Something is odd about the dragon. We may soon be out of time. Leave this to me!${prompt}
-  7776: Cyranuce! Are you all right?${prompt}
-  7777: Alas! I am too late! ${name-player}, go! ${prompt}
-  7778: Cyranuce, are you all right? Hurry, take this!${prompt}
-  7779: Rahal, such a thing is of no use. It cannot save me. I yearn to die, and I will take the dragon with me!${prompt}
-  7780: No, Cyranuce! You must take it!${prompt}
-  7781: Rahal, you of all people should know. By bringing it here, you proved you believed in me.${prompt}
+  7754: 'Il est possible de couper du bois ici si vous avez ${article} ${item-article: 0[2]}.${prompt}'
+  7755: 'Probabilité de perte = ${number: 3}/10000.${prompt}'
+  7756: 'Votre ${item-singular: 7[2]} se casse !'
+  7757: 'Vous avez réussi à couper ${article} ${item-article: 0[2]} !'
+  7758: 'Vous avez coupé ${article} ${item-article: 0[2]}, mais votre ${item-singular: 7[2]} se casse dans le processus.'
+  7759: Vous n'arrivez pas à couper quoi que ce soit.
+  7760: Vous ne pouvez plus porter d'objets. Votre inventaire est plein.
+  7761: Attendez !${prompt}
+  7762: Vous êtes l'aventurier que Pieuje a envoyé, n'est-ce pas ?${prompt}
+  7763: Vous avez vaillamment combattu contre les Orques. Bien joué !${prompt}
+  7764: Au nom de mon frère lâche, je vous remercie.${prompt}
+  7765: Il n'avait pas la force de sauver un garçon, alors il a envoyé un aventurier à sa place.${prompt}
+  7766: En effet, il est une honte pour le nom de la Maison d'Oraguille.${prompt}
+  7767: Assez de bavardages. Sauvons le garçon. Ouvrez la porte !${prompt}
+  7768: Y a-t-il quelqu'un ici ?${prompt}
+  7769: Pourquoi, Votre Altesse !${prompt}
+  7770: Vous êtes Tedimout ? De la cathédrale ?${prompt}
+  7771: Oui, c'est moi ! Je suis vraiment reconnaissant que vous soyez venu, Votre Altesse !${prompt}
+  7772: Je suis soulagé qu'il semble aller bien. Je ramènerai le garçon à San d'Oria.${prompt}
+  7773: Vous avez ma gratitude, aventurier. J'informerai les gardes de vos exploits. Maintenant, partons !${prompt}
+  7774: Attendez !${prompt}
+  7775: Il y a quelque chose d'étrange avec le dragon. Nous pourrions bientôt manquer de temps. Laissez-moi faire !${prompt}
+  7776: Cyranuce ! Allez-vous bien ?${prompt}
+  7777: Hélas ! Je suis trop tard ! ${name-player}, allez-y ! ${prompt}
+  7778: Cyranuce, allez-vous bien ? Vite, prenez ceci !${prompt}
+  7779: Rahal, une telle chose est inutile. Cela ne peut pas me sauver. Je désire mourir, et je vais emmener le dragon avec moi !${prompt}
+  7780: Non, Cyranuce ! Vous devez le prendre !${prompt}
+  7781: Rahal, vous de toutes les personnes devriez savoir. En l'apportant ici, vous avez prouvé que vous croyiez en moi.${prompt}
   7782: Cyranuce...${prompt}
-  7783: I knew you would come to save me. Though my death is near, I am glad.${prompt}
-  7784: And you, ${name-player}.${prompt}
-  7785: And what of the dragon, Rahal? Are you to slay it?${prompt}
-  7786: Yes, it must be done... To keep others from becoming like you.${prompt}
-  7787: Hear my last wish! You must again believe in dragons, as we did long ago. Surely somewhere there is one of holy will!${prompt}
-  7788: Cyranuce!${prompt}
-  7789: Thank you, Rahal! Now, my time has come!${prompt}
-  7790: What the--!${prompt}
-  7791: No!${prompt}
-  7792: How can this be!? The sign of holiness!${prompt}
-  7793: You were right, Cyranuce. The dragoon born today shall inherit your purpose. Be at peace, my friend.${prompt}
-  7794: You can now become a dragoon!${prompt}
-  7795: There is nothing out of the ordinary here.${prompt}
+  7783: Je savais que vous viendriez me sauver. Bien que ma mort soit proche, je suis content.${prompt}
+  7784: Et vous, ${name-player}.${prompt}
+  7785: Et le dragon, Rahal ? Allez-vous le tuer ?${prompt}
+  7786: Oui, il le faut... Pour empêcher d'autres de devenir comme vous.${prompt}
+  7787: Écoutez mon dernier souhait ! Vous devez à nouveau croire aux dragons, comme nous le faisions autrefois. Sûrement quelque part, il y en a un de volonté sacrée !${prompt}
+  7788: Cyranuce !${prompt}
+  7789: Merci, Rahal ! Maintenant, mon heure est venue !${prompt}
+  7790: Que diable--!${prompt}
+  7791: Non !${prompt}
+  7792: Comment est-ce possible !? Le signe de sainteté !${prompt}
+  7793: Vous aviez raison, Cyranuce. Le dragoon né aujourd'hui héritera de votre mission. Reposez en paix, mon ami.${prompt}
+  7794: Vous pouvez maintenant devenir un dragoon !${prompt}
+  7795: Il n'y a rien d'anormal ici.${prompt}
   7796: |-
     You can hear a strange voice...
     “Items, items, la la la la la～♪”${prompt}
