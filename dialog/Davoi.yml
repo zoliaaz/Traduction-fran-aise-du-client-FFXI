@@ -17981,24 +17981,24 @@ entries:
   7386: Je n'arrive pas à croire que j'ai perdu mon chemin ! Ils ont dû utiliser un sort orc pour changer le terrain ! Oui, ça doit être ça !${prompt}
   7387: Euh, désolé, pas le temps de discuter. Je suis plutôt occupé.${prompt}
   7388: |-
-    Enter the tower?
+    Entrer dans la tour ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
+    Oui.
+    Non.${prompt}
   7389: |-
-    Leave the tower?
+    Quitter la tour ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  7390: Have you been to the cave to the south? Best to stay away if you know the danger! Not that it's all that easy to find the way in there...${prompt}
-  7391: Huh? You really wantaru into that cave? Hah! Not after I went through all that trouble sealing off the Orc lord...${prompt}
-  7392: Especially not now, with reinforcements on the way! Bestaru to stay outta that cave, I say!${prompt}
-  7393: But...you made it this far. Guess I'll give you a chance!${prompt}
+    Oui.
+    Non.${prompt}
+  7390: Êtes-vous allé à la grotte au sud ? Mieux vaut rester à l'écart si vous connaissez le danger ! Ce n'est pas facile de trouver l'entrée...${prompt}
+  7391: Hein ? Vous voulez vraiment entrer dans cette grotte ? Hah ! Pas après que j'ai scellé le seigneur Orc...${prompt}
+  7392: Surtout pas maintenant, avec les renforts en route ! Mieux vaut rester hors de cette grotte, je dis !${prompt}
+  7393: Mais... vous êtes arrivé jusqu'ici. Je suppose que je vais vous donner une chance !${prompt}
   7394: |-
-    Take your chances?
+    Prendrez-vous le risque ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
+    Oui.
+    Non.${prompt}
   7395: D'accord. Passez mon test et je vous laisserai entrer dans cette méchante vieille grotte.${prompt}
   7396: 'Je vais vous donner ${keyitem-article: 0[2]}, que vous devez tremper dans les quatre bassins rouges de Davoi. Vous saurez que l’orbe absorbe la magie lorsque sa couleur changera !${prompt}'
   7397: Une fois que vous avez terminé, ramenez-le ici et je vous noterai !${prompt}
@@ -18087,169 +18087,169 @@ entries:
     pc_job=${number: 2}${prompt}
   7455: 【トレース０】${prompt}
   7456: 【トレース１】${prompt}
-  7457: You find an Orcish tent.${prompt}
+  7457: Vous trouvez une tente orque.${prompt}
   7458: |-
-    Enter the tent?
+    Entrer dans la tente ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  7459: You search the tent.${prompt}
-  7460: You find nothing.${prompt}
-  7461: You must get closer to search the tent.${prompt}
-  7462: An Orcish storage hole. There is something inside, but you cannot open it without a key.${prompt}
-  7463: There is nothing inside.${prompt}
-  7464: A well, presumably dug by Orcs.${prompt}
-  7465: 'You find a well, but the pulley doesn''t work. Perhaps ${article} ${item-article: 0[2]} could be of use.${prompt}'
-  7466: You work the pulley.${prompt}
-  7467: Dipping the letter into the water, you see words appear.${prompt}
+    Oui.
+    Non.${prompt} 
+  7459: Vous fouillez la tente.${prompt}
+  7460: Vous ne trouvez rien.${prompt}
+  7461: Vous devez vous rapprocher pour fouiller la tente.${prompt}
+  7462: Un trou de stockage orque. Il y a quelque chose à l'intérieur, mais vous ne pouvez pas l'ouvrir sans une clé.${prompt}
+  7463: Il n'y a rien à l'intérieur.${prompt}
+  7464: Un puits, probablement creusé par les orques.${prompt}
+  7465: 'Vous trouvez un puits, mais la poulie ne fonctionne pas. Peut-être que ${article} ${item-article: 0[2]} pourrait être utile.${prompt}'
+  7466: Vous actionnez la poulie.${prompt}
+  7467: En trempant la lettre dans l'eau, vous voyez des mots apparaître.${prompt}
   7468: |-
-    “Captain Exoroche:
-    I, Chusarlaud, am no longer worthy to be a Royal Knight, for I have sold our secrets to the Orcs.${prompt}
-  7469: I spent my reward on medicine for my mother, but it was all in vain. Her death taught me the error of my ways, and I tried repeatedly to redeem myself.${prompt}
-  7470: But my partner Vilbert threatened to expose my treachery if I did not continue! Alas, he had me in the palm of his hand!${prompt}
-  7471: I had to take action! I decided to send this letter upon the close of today's training. I expect no forgiveness, but I must put a stop to this madness.${prompt}
-  7472: I have caused pain to my mother, and I have betrayed my kind captain. There is no other way!”${prompt}
-  7473: The letter ends abruptly.${prompt}
+    “Capitaine Exoroche :
+    Moi, Chusarlaud, ne suis plus digne d'être un chevalier royal, car j'ai vendu nos secrets aux orques.${prompt}
+  7469: J'ai dépensé ma récompense en médicaments pour ma mère, mais ce fut en vain. Sa mort m'a appris l'erreur de mes voies, et j'ai essayé à plusieurs reprises de me racheter.${prompt}
+  7470: Mais mon partenaire Vilbert a menacé de révéler ma trahison si je ne continuais pas ! Hélas, il me tenait dans sa main !${prompt}
+  7471: J'ai dû agir ! J'ai décidé d'envoyer cette lettre à la fin de l'entraînement d'aujourd'hui. Je n'attends aucun pardon, mais je dois mettre fin à cette folie.${prompt}
+  7472: J'ai causé de la douleur à ma mère, et j'ai trahi mon gentil capitaine. Il n'y a pas d'autre moyen !”${prompt}
+  7473: La lettre se termine brusquement.${prompt}
   7474: |-
-    Read the letter again?
+    Relire la lettre ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  7475: 'This chest is locked. It can be opened with ${article} ${item-article: 0[2]}.${prompt}'
-  7476: This chest is empty.${prompt}
-  7477: Your inventory is full. You cannot carry any more items.${prompt}
-  7478: You must be closer to the chest to open it.${prompt}
-  7479: '${entity: 0} opens the chest and finds ${article} ${item-article: 0[2]}.${prompt}'
+    Oui.
+    Non.${prompt}
+  7475: 'Ce coffre est verrouillé. Il peut être ouvert avec ${article} ${item-article: 0[2]}.${prompt}'
+  7476: Ce coffre est vide.${prompt}
+  7477: Votre inventaire est plein. Vous ne pouvez plus transporter d'objets.${prompt}
+  7478: Vous devez être plus proche du coffre pour l'ouvrir.${prompt}
+  7479: '${entity: 0} ouvre le coffre et trouve ${article} ${item-article: 0[2]}.${prompt}'
   7480: |-
-    The item in this chest cannot be handled by the other members of your party.
-    ${entity: 0} receives the ${item-singular: 0[2]}.${prompt}
-  7481: '${entity: 0} obtains a key item, ${keyitem-article: 0[2]}, from the chest.${prompt}'
-  7482: 'You obtain a key item, ${keyitem-article: 0[2]}, from the chest.${prompt}'
-  7483: You unlock the chest!${prompt}
-  7484: '${entity: 0} fails to open the chest.${prompt}'
-  7485: The chest was trapped!${prompt}
-  7486: You cannot open the chest when you are in a weakened state.${prompt}
-  7487: The chest was a mimic!${prompt}
-  7488: You cannot open the chest while participating in the moogle event.${prompt}
-  7489: The chest was but an illusion...${prompt}
+    L'objet dans ce coffre ne peut pas être manipulé par les autres membres de votre groupe.
+    ${entity: 0} reçoit le ${item-singular: 0[2]}.${prompt}
+  7481: '${entity: 0} obtient un objet clé, ${keyitem-article: 0[2]}, du coffre.${prompt}'
+  7482: 'Vous obtenez un objet clé, ${keyitem-article: 0[2]}, du coffre.${prompt}'
+  7483: Vous déverrouillez le coffre !${prompt}
+  7484: '${entity: 0} ne parvient pas à ouvrir le coffre.${prompt}'
+  7485: Le coffre était piégé !${prompt}
+  7486: Vous ne pouvez pas ouvrir le coffre lorsque vous êtes en état affaibli.${prompt}
+  7487: Le coffre était un mimique !${prompt}
+  7488: Vous ne pouvez pas ouvrir le coffre pendant que vous participez à l'événement Moogle.${prompt}
+  7489: Le coffre n'était qu'une illusion...${prompt}
   7490: |-
-    The chest appears to be locked.
-    If only you had ${article} ${item-article: 0[2]}, perhaps you could open it...${prompt}
-  7491: A message? Finally! I am Zantaviat of the Temple Knights.${prompt}
-  7492: I've been monitoring Orc activity here for several weeks. They grow stronger in numbers by the day.${prompt}
-  7493: In our recent investigations, we have observed that Orcs are working towards a single purpose. Prince Pieuje was right all along...${prompt}
-  7494: 'I had prepared ${keyitem-article: 0[2]} and given it to one of our officers to deliver...${prompt}'
-  7495: '...but that officer dropped one of the pages while fleeing from an Orc ambush last night.${prompt}'
-  7496: Now the Orcs have doubled their forces in that area, and we can not easily retrieve the lost page.${prompt}
-  7497: According to the officer, he says he dropped the page near a crucifixion mound by that pond you see before us.${prompt}
-  7498: With the Orcs forces doubled like this, attacking them head-on would be futile. Sneaking in and retrieving the page unnoticed is the most logical method of carrying out this mission.${prompt}
-  7499: 'You found the page! Well done. Now the ${keyitem-singular: 0[2]} is complete. Take this to San d''Oria swiftly and deliver it to Prince Pieuje.${prompt}'
-  7500: There's no time to lose! You must get that report to safety! Deliver it to Prince Pieuje.${prompt}
-  7501: I see... It was just a waste of time.${prompt}
-  7502: I assumed that because the Orcs, too, were searching for something that...${prompt}
-  7503: Well, no matter. The fact is, there is someone else who is looking for the sword. And, either they have got to it first or...${prompt}
-  7504: '...I must inquire with my sister.${prompt}'
-  7505: At her coming-of-age, she learned all there was to know of that sword from our father.${prompt}
-  7506: '...nuisance...${prompt}'
-  7507: Will you lend me a hand, Vauderame? I know my sister has left something for me, and I intend to find it.${prompt}
+    Le coffre semble être verrouillé.
+    Si seulement vous aviez ${article} ${item-article: 0[2]}, peut-être pourriez-vous l'ouvrir...${prompt}
+  7491: Un message ? Enfin ! Je suis Zantaviat des Chevaliers du Temple.${prompt}
+  7492: J'ai surveillé les activités des Orcs ici pendant plusieurs semaines. Leur nombre ne cesse de croître de jour en jour.${prompt}
+  7493: Dans nos récentes investigations, nous avons observé que les Orcs travaillent vers un objectif commun. Le Prince Pieuje avait raison depuis le début...${prompt}
+  7494: 'J’avais préparé ${keyitem-article: 0[2]} et l’avais donné à l’un de nos officiers pour livraison...${prompt}'
+  7495: '...mais cet officier a laissé tomber l’une des pages en fuyant une embuscade des Orcs la nuit dernière.${prompt}'
+  7496: Maintenant, les Orcs ont doublé leurs forces dans cette zone, et nous ne pouvons pas facilement récupérer la page perdue.${prompt}
+  7497: Selon l'officier, il dit avoir laissé tomber la page près d'un monticule de crucifixion près de l'étang que vous voyez devant nous.${prompt}
+  7498: Avec les forces des Orcs doublées comme ceci, les attaquer de front serait futile. Se faufiler et récupérer la page sans être remarqué est la méthode la plus logique pour mener à bien cette mission.${prompt}
+  7499: 'Vous avez trouvé la page ! Bien joué. Maintenant ${keyitem-singular: 0[2]} est complet. Apportez-le rapidement à San d''Oria et remettez-le au Prince Pieuje.${prompt}'
+  7500: Il n'y a pas de temps à perdre ! Vous devez mettre ce rapport en sécurité ! Remettez-le au Prince Pieuje.${prompt}
+  7501: Je vois... Ce n'était qu'une perte de temps.${prompt}
+  7502: J'ai supposé que parce que les Orcs cherchaient aussi quelque chose que...${prompt}
+  7503: Eh bien, peu importe. Le fait est qu'il y a quelqu'un d'autre qui cherche l'épée. Et, soit ils l'ont trouvée en premier, soit...${prompt}
+  7504: '...je dois me renseigner auprès de ma sœur.${prompt}'
+  7505: À sa majorité, elle a appris tout ce qu'il y avait à savoir sur cette épée de notre père.${prompt}
+  7506: '...ennui...${prompt}'
+  7507: Voulez-vous me donner un coup de main, Vauderame ? Je sais que ma sœur m'a laissé quelque chose, et j'ai l'intention de le trouver.${prompt}
   7508: |-
-    What?
-    I apologize, but I am in quite a hurry.${prompt}
+    Quoi ?
+    Je m'excuse, mais je suis assez pressé.${prompt}
   7509: |-
-    What is this?
-    You were ordered by Prince Trion to return with the report?${prompt}
+    Qu'est-ce que c'est ?
+    Vous avez reçu l'ordre du Prince Trion de revenir avec le rapport ?${prompt}
   7510: |-
-    Wonderful!
-    To tell you the truth, I have been lost for the past few days. I cannot make heads or tails of where I'm going in this dreadful place.${prompt}
-  7511: Without this vital report, the Royal Knights will be in the dark! Your assistance is greatly appreciated!${prompt}
+    Merveilleux !
+    Pour vous dire la vérité, je suis perdu depuis quelques jours. Je ne sais plus où je vais dans cet endroit horrible.${prompt}
+  7511: Sans ce rapport vital, les Chevaliers Royaux seront dans le noir ! Votre aide est grandement appréciée !${prompt}
   7512: |-
-    Here is the report.
-    Now hurry back to Prince Trion!${prompt}
-  7513: Deep in Davoi, the Royal Knight, Bernal, and his Tarutaru companion are waiting for assistance. You must make haste, and deliver that report to Prince Trion!${prompt}
+    Voici le rapport.
+    Maintenant, retournez vite voir le Prince Trion !${prompt}
+  7513: Au fond de Davoi, le Chevalier Royal Bernal et son compagnon Tarutaru attendent de l'aide. Vous devez faire vite et remettre ce rapport au Prince Trion !${prompt}
   7514: |-
-    Ahahahahaha!
-    There it is! It's on that Tarutaru!${prompt}
+    Ahahahahaha !
+    Le voilà ! C'est sur ce Tarutaru !${prompt}
   7515: |-
-    Yipes!
-    Th-that's an Aurastery doll! Which means you must be an agentaru of the Aurastery!${prompt}
+    Yikes !
+    C-c'est une poupée de l'Aurastère ! Ce qui signifie que vous devez être un agent de l'Aurastère !${prompt}
   7516: |-
     Ah...
-    So, you've finally found me...${prompt}
-  7517: But let me say this in my defense! I'm waiting for reinforcements from San d'Oria to arrive, so I haven'taru been able to move from this place.${prompt}
-  7518: Until the knights get here, I have to magically seal this area for the sake of the people of San d'Oria.${prompt}
-  7519: 'However, my concentration for maintaining the seal is being disruptarued. An Orc carrying ${article} ${item-article: 1[2]} has been enspelling me from afar...${prompt}'
-  7520: This has further hamper-wampered my chances of getting outaru of here any time soon.${prompt}
-  7521: If Moreno-Toeno was the one who putaru you up to this, let him know of my situation.${prompt}
+    Alors, vous m'avez finalement trouvé...${prompt}
+  7517: Mais laissez-moi dire ceci à ma défense ! J'attends des renforts de San d'Oria, donc je n'ai pas pu bouger d'ici.${prompt}
+  7518: Jusqu'à ce que les chevaliers arrivent, je dois sceller magiquement cette zone pour le bien des gens de San d'Oria.${prompt}
+  7519: 'Cependant, ma concentration pour maintenir le sceau est perturbée. Un Orc portant ${article} ${item-article: 1[2]} m’ensorcelle de loin...${prompt}'
+  7520: Cela a encore plus entravé mes chances de sortir d'ici de sitôt.${prompt}
+  7521: Si c'est Moreno-Toeno qui vous a demandé de faire cela, faites-lui savoir ma situation.${prompt}
   7522: |-
-    Ah, one more thing...${wait-animation: 1}
+    Ah, une chose de plus...${wait-animation: 1}
     ...Yah!${prompt}
-  7523: 'The ${keyitem-singular: 2[2]} has been drained of magic...'
-  7524: I've been using my power to seal the brutish-wutish Orcish Overlord in the caves just beyond here. I mustaru continue my efforts until the reinforcements arrive.${prompt}
-  7525: 'However, my concentration for maintaining the seal is being disruptarued. An Orc carrying ${article} ${item-article: 1[2]} has been enspelling me from afar...${prompt}'
+  7523: 'Le ${keyitem-singular: 2[2]} a été vidé de sa magie...'
+  7524: J'ai utilisé mon pouvoir pour sceller le brutalissime Seigneur Orc dans les grottes juste au-delà d'ici. Je dois continuer mes efforts jusqu'à l'arrivée des renforts.${prompt}
+  7525: 'Cependant, ma concentration pour maintenir le sceau est perturbée. Un Orc portant ${article} ${item-article: 1[2]} m’ensorcelle de loin...${prompt}'
   7526: |-
-    Ah! How did you...!?
-    You trouncy-wounced that nasty, curse-flinging Orc for me?
-    This makes things so much easier.${prompt}
-  7527: But I'll tell you again! I can'taru leave here until the knights show up from San d'Oria to handle things.${prompt}
-  7528: I'm holding the fortaru for as long as it takes the reinforcements to get here. They're taking their time about it, though.${prompt}
-  7529: If I'm not here, the people of San d'Oria will be facing an awful-warful Orcish horde. That should be reason enough to placate Moreno-Toeno.${prompt}
+    Ah ! Comment avez-vous... !?
+    Vous avez trouncé-wouncé cet horrible Orc lanceur de malédiction pour moi ?
+    Cela rend les choses beaucoup plus faciles.${prompt}
+  7527: Mais je vous le dis encore ! Je ne peux pas quitter ici jusqu'à ce que les chevaliers de San d'Oria arrivent pour prendre le relais.${prompt}
+  7528: Je tiens le fort aussi longtemps qu'il le faudra pour que les renforts arrivent. Ils prennent leur temps, cependant.${prompt}
+  7529: Si je ne suis pas ici, les gens de San d'Oria feront face à une horde Orc affreuse-wreuse. Cela devrait suffire à calmer Moreno-Toeno.${prompt}
   7530: |-
-    ...Hm?
-    Why did I run away from the Aurastery? That's something I prefer not to talk about...${prompt}
+    ...Hm ?
+    Pourquoi ai-je fui l'Aurastère ? C'est quelque chose que je préfère ne pas aborder...${prompt}
   7531: |-
-    But I guess if I don'taru explain myself, you'll just drag me back to Windurst...
-    ...Fine. This is just between you, me, and Moreno-Toeno...${prompt}
-  7532: You probably already know about this, but Professor Koru-Moru has been exchanging lovey-dovey letters with a girl called Mojiji. Um, actually, the person writing those letters was me...${prompt}
-  7533: Principal Koru-Moru had embezzled several years' worth of the Aurastery's budgetaru, and it didn't look like he would be giving it back. So, I thought I would take the name of Mojiji and try writing him a fan letter.${prompt}
-  7534: The effect of this was almostaru instantaneous. Every time I wrote him a letter, I convinced him to return a little more gil, but all the deception started to make me feel uneasy-queasy.${prompt}
-  7535: Before I knew it, every time I laid eyes on Professor Koru-Moru, I would feel a sharp pain in my stomach. It was a serious case of work-relatarued stress.${prompt}
+    Mais je suppose que si je ne m'explique pas, vous me ramènerez simplement à Windurst...
+    ...Très bien. C'est juste entre vous, moi et Moreno-Toeno...${prompt}
+  7532: Vous le savez probablement déjà, mais le Professeur Koru-Moru échangeait des lettres d'amour avec une fille appelée Mojiji. En fait, la personne qui écrivait ces lettres, c'était moi...${prompt}
+  7533: Le Principal Koru-Moru avait détourné plusieurs années du budget de l'Aurastère, et il ne semblait pas vouloir le rendre. Alors, j'ai pensé que je prendrais le nom de Mojiji et lui écrirais une lettre de fan.${prompt}
+  7534: L'effet de ceci fut presque instantané. Chaque fois que je lui écrivais une lettre, je le convainquais de rendre un peu plus de gil, mais toute cette tromperie commençait à me rendre mal à l'aise.${prompt}
+  7535: Avant que je ne m'en rende compte, chaque fois que je posais les yeux sur le Professeur Koru-Moru, je ressentais une douleur aiguë dans l'estomac. C'était un cas grave de stress lié au travail.${prompt}
   7536: |-
-    So I thoughtaru I would get away from the Aurastery for a little while, and go where I could find some solitude and peace.
-    Then all this happened.${prompt}
-  7537: But since I didn'taru want to go back anyway, I decided to keep my whereabouts from the Aurastery.${prompt}
+    Alors j'ai pensé que je m'éloignerais de l'Aurastère pendant un moment, et que j'irais où je pourrais trouver un peu de solitude et de paix.
+    Puis tout cela est arrivé.${prompt}
+  7537: Mais comme je ne voulais de toute façon pas retourner là-bas, j'ai décidé de garder ma localisation secrète pour l'Aurastère.${prompt}
   7538: |-
-    Does that explain things for you?
-    You can go back to the Aurastery and report that to Moreno-Toeno.${prompt}
-  7539: When the reinforcements arrive from San d'Oria, I'll return to Windurst. The professor mustaru have forgotten about Mojiji by now.${prompt}
-  7540: Huh? He's still getting letters. But, I'm not writing them anymore!${prompt}
+    Cela explique-t-il les choses pour vous ?
+    Vous pouvez retourner à l'Aurastère et rapporter cela à Moreno-Toeno.${prompt}
+  7539: Lorsque les renforts arriveront de San d'Oria, je retournerai à Windurst. Le professeur doit avoir oublié Mojiji maintenant.${prompt}
+  7540: Hein ? Il reçoit encore des lettres. Mais, ce n'est plus moi qui les écris !${prompt}
   7541: |-
-    ...Ah, justaru the person I wanted to see.
-    There's something I wanted to ask you...${prompt}
-  7542: How did you use that malevolent magic doll to track me down?${prompt}
+    ...Ah, juste la personne que je voulais voir.
+    Il y a quelque chose que je voulais vous demander...${prompt}
+  7542: Comment avez-vous utilisé cette poupée magique maléfique pour me retrouver ?${prompt}
   7543: |-
-    The ${keyitem-singular: 1[2]}!?
-    So this ring is what broughtaru about my discovery.
-    Well, I can't just throw it away...${prompt}
+    Le ${keyitem-singular: 1[2]} !?
+    Donc, c'est cet anneau qui a provoqué ma découverte.
+    Eh bien, je ne peux pas simplement le jeter...${prompt}
   7544: |-
-    Hmmm, what to do?
-    Here, I'll give it to you for safekeeping. Please hold on to it until I return to the Aurastery.${prompt}
-  7545: I will return as soon as the reinforcements arrive from San d'Oria.${prompt}
-  7546: Ah, dear old Windurst, how long has it been? I wonder if I still remember the way to the Aurastery?${prompt}
-  7547: 'The ${choice: 2}[orange/1/2/3/red/red/blue/blue/yellow/yellow/green/green/indigo/indigo/violet/violet] light... I can feel its power run through me.${wait-animation: 3}'
-  7548: 'Come, ${name-player}.  Follow me...${wait-animation: 2}'
-  7549: Carbuncle vanished off in the direction of the La Theine Plateau.
-  7550: Carbuncle vanished off to another area in the La Theine Plateau.
-  7551: 'The ${unknown: 0x01053082938280} jumps in your hands.'
+    Hmmm, que faire ?
+    Tenez, je vais vous le confier pour le moment. Gardez-le jusqu'à ce que je retourne à l'Aurastère.${prompt}
+  7545: Je reviendrai dès que les renforts arriveront de San d'Oria.${prompt}
+  7546: Ah, cher vieux Windurst, combien de temps s'est écoulé ? Je me demande si je me souviens encore du chemin vers l'Aurastère ?${prompt}
+  7547: 'La lumière ${choice: 2}[orange/1/2/3/rouge/rouge/bleue/bleue/jaune/jaune/verte/verte/indigo/indigo/violette/violette]... Je peux sentir son pouvoir couler en moi.${wait-animation: 3}'
+  7548: 'Viens, ${name-player}. Suis-moi...${wait-animation: 2}'
+  7549: Carbuncle a disparu en direction du Plateau de La Theine.
+  7550: Carbuncle a disparu vers une autre zone du Plateau de La Theine.
+  7551: 'Le ${unknown: 0x01053082938280} saute dans vos mains.'
   7552: |-
-    Ahahahahaha!
-    I can sense the power of the ring!
-    Get yourself moving ${choice: 5}[north/northeast/east/southeast/south/southwest/west/northwest]!
-  7553: 'Ahahahahaha! Don''t slow down now, slacker! The readings are coming from the ${choice: 6}[north/northeast/east/southeast/south/southwest/west/northwest]!'
+    Ahahahahaha !
+    Je peux sentir le pouvoir de l'anneau !
+    Déplace-toi vers le ${choice: 5}[nord/nord-est/est/sud-est/sud/sud-ouest/ouest/nord-ouest] !
+  7553: 'Ahahahahaha ! Ne ralentis pas maintenant, feignant ! Les lectures viennent du ${choice: 6}[nord/nord-est/est/sud-est/sud/sud-ouest/ouest/nord-ouest] !'
   7554: |-
-    Ahahahahaha!
-    You're getting close now! I can feel the ring's power from the next area!
+    Ahahahahaha !
+    Tu t'approches maintenant ! Je peux sentir le pouvoir de l'anneau depuis la zone suivante !
   7555: |-
-    Ahahahahaha!
-    You're almost on top of it!
-    It's somewhere in this area!
-  7556: 'Lemme see here. Looks like you''ve brought me ${number: 1} ${item-given-plurality: 1[2], 0[2]}. A deal''s a deal, so here''s the ${item-singular: 2[2]}.${prompt}'
-  7557: 'They''re not worth a whole lot, but ya done good to collect ${number: 1} ${item-given-plurality: 1[2], 0[2]}. Here''s ${article} ${item-article: 2[2]} for yer trouble.${prompt}'
-  7558: 'Whatcha got there? Looks like ${number: 1} ${item-given-plurality: 1[2], 0[2]}. Guess that means I gotta give you this ${item-singular: 2[2]}.${prompt}'
-  7559: 'Here ya go, kid. ${lettercase: 1}${article} ${item-article: 2[2]} in exchange for ya ${number: 1} ${item-given-plurality: 1[2], 0[2]}.${prompt}'
-  7560: 'Well, you make an old Gob smile, you do. Not many people hand over ${number: 1} ${item-given-plurality: 1[2], 0[2]}. Take this ${item-singular: 2[2]} and get outta here.${prompt}'
-  7561: 'Now you''re just showing off, bringing me ${number: 1} ${item-given-plurality: 1[2], 0[2]}. Here''s your ${item-singular: 2[2]}. Now scram, kid.${prompt}'
-  7562: Whaddaya want? You wanna talk to me? Well, I don't wanna talk to you until you got something I wanna hear. Take a hike, buddy.${prompt}
-  7563: I got no interest in dealing with the likes of you. Don'tcha got a home to go to?${prompt}
+    Ahahahahaha !
+    Tu es presque dessus !
+    C'est quelque part dans cette zone !
+  7556: 'Laisse-moi voir. On dirait que tu m’as apporté ${number: 1} ${item-given-plurality: 1[2], 0[2]}. Un marché est un marché, voici le ${item-singular: 2[2]}.${prompt}'
+  7557: 'Ils ne valent pas grand-chose, mais tu as bien fait de collecter ${number: 1} ${item-given-plurality: 1[2], 0[2]}. Voici ${article} ${item-article: 2[2]} pour ton effort.${prompt}'
+  7558: 'Qu’est-ce que t’as là ? On dirait ${number: 1} ${item-given-plurality: 1[2], 0[2]}. Je suppose que je dois te donner ce ${item-singular: 2[2]}.${prompt}'
+  7559: 'Voilà, gamin. ${lettercase: 1}${article} ${item-article: 2[2]} en échange de tes ${number: 1} ${item-given-plurality: 1[2], 0[2]}.${prompt}'
+  7560: 'Eh bien, tu fais sourire un vieux Gobelin, tu sais. Peu de gens remettent ${number: 1} ${item-given-plurality: 1[2], 0[2]}. Prends ce ${item-singular: 2[2]} et file d’ici.${prompt}'
+  7561: 'Maintenant tu te la joues, en me ramenant ${number: 1} ${item-given-plurality: 1[2], 0[2]}. Voici ton ${item-singular: 2[2]}. Maintenant, dégage, gamin.${prompt}'
+  7562: Qu'est-ce que tu veux ? Tu veux me parler ? Eh bien, je ne veux pas te parler tant que tu n'as pas quelque chose que je veux entendre. Va te promener, mec.${prompt}
+  7563: Je n'ai aucun intérêt à traiter avec des types comme toi. T'as pas un chez-toi où aller ?${prompt}
   7564: |-
     ${lettercase: 1}${keyitem-singular: 2[2]}?
     Didn't think I'd ever hear those words from someone who wasn't a Gob. You know some weird stuff, for a person.${prompt}
