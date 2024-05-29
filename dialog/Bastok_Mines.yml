@@ -16678,145 +16678,137 @@ entries:
     増えたポイント　${number: 0}
     増えたカウント　${number: 1}${prompt}
   6752: |-
-    Your fate rides on the changing winds of Vana'diel.
-    I can give you insight on the local weather.${prompt}
+    Votre destinée est portée par les vents changeants de Vana'diel.
+    Je peux vous donner un aperçu de la météo locale.${prompt}
   6753: |-
-    What area's weather do you wish to know?
+    De quelle région souhaitez-vous connaître la météo ?
     ${selection-lines}
-    Nowhere.
+    Nulle part.
     Ronfaure.
-    La Theine Plateau.
-    Valkurm Dunes.
-    Jugner Forest.
-    Batallia Downs.
+    Plateau de La Théine.
+    Dunes de Valkurm.
+    Forêt de Jugner.
+    Plaines de Batallia.
     Gustaberg.
-    Konschtat Highlands.
-    Pashhow Marshlands.
-    Rolanberry Fields.
-    Beaucedine Glacier.
+    Hauts de Konschtat.
+    Marais de Pashhow.
+    Champs de Rolanberry.
+    Glacier de Beaucedine.
     Xarcabard.
-    Cape Teriggan.
-    Altepa Desert.
+    Cap Teriggan.
+    Désert d'Altepa.
     Sarutabaruta.
-    Tahrongi Canyon.
-    Buburimu Peninsula.
-    Meriphataud Mountains.
-    Sauromugue Champaign.
-    The Sanctuary of Zi'Tah.
-    Yuhtunga & Yhoator Jungles.
-    Qufim Island.
+    Canyon de Tahrongi.
+    Péninsule de Buburimu.
+    Montagnes de Meriphataud.
+    Plaines de Sauromugue.
+    Sanctuaire de Zi'Tah.
+    Jungles de Yuhtunga & Yhoator.
+    Île de Qufim.
     Tu'Lia.
     Ferry.
-    Airship.
+    Dirigeable.
     Jeuno.
-    Uleguerand Range.
-    Tavnazian Archipelago.
+    Chaîne d'Uleguerand.
+    Archipel de Tavnazia.
     Riverne - Sites #A01 & #B01.${prompt}
-  6754: 'That area''s forecast for today is for ${weather-noun: 0[2]} with occasional ${weather-noun: 1[2]}. There is also a slight chance of ${weather-noun: 2[2]}, so caution is advised.${prompt}'
-  6755: 'The forecast for tomorrow is for ${weather-noun: 0[2]} with occasional ${weather-noun: 1[2]}. There is also a slight chance of ${weather-noun: 2[2]}, so caution is advised.${prompt}'
-  6756: 'And, the forecast for the day after tomorrow is for ${weather-noun: 0[2]} with occasional ${weather-noun: 1[2]}. There is also a slight chance of ${weather-noun: 2[2]}, so caution is advised.${prompt}'
-  6757: 'Today, that area''s weather will be ${weather-adjective: 0[2]} with a chance of ${weather-noun: 1[2]}.${prompt}'
-  6758: 'Tomorrow, the weather will be ${weather-adjective: 0[2]} with a chance of ${weather-noun: 1[2]}.${prompt}'
-  6759: 'And, the day after tomorrow, the weather will be ${weather-adjective: 0[2]} with a chance of ${weather-noun: 1[2]}.${prompt}'
-  6760: 'Today, the weather in that area will be ${weather-adjective: 0[2]}. There is also the possibility of ${weather-noun: 2[2]}, so caution is advised.${prompt}'
-  6761: 'Tomorrow, the weather will be ${weather-adjective: 0[2]}. There is also the possibility of ${weather-noun: 2[2]}, so caution is advised.${prompt}'
-  6762: 'And, the day after tomorrow, the weather will be ${weather-adjective: 0[2]}. There is also the possibility of ${weather-noun: 2[2]}, so caution is advised.${prompt}'
-  6763: 'The weather in that area today will be ${weather-adjective: 0[2]}.${prompt}'
-  6764: 'The weather tomorrow will be ${weather-adjective: 0[2]}.${prompt}'
-  6765: 'The weather the day after tomorrow will be ${weather-adjective: 0[2]}.${prompt}'
-  6766: And that's the report, straight from Vana'diel's official weather linkshell.${prompt}
+  6754: "La prévision pour aujourd'hui dans cette région est ${weather-noun: 0[2]} avec des ${weather-noun: 1[2]} occasionnels. Il y a également une légère chance de ${weather-noun: 2[2]}, donc la prudence est conseillée.${prompt}"
+  6755: "La prévision pour demain est ${weather-noun: 0[2]} avec des ${weather-noun: 1[2]} occasionnels. Il y a également une légère chance de ${weather-noun: 2[2]}, donc la prudence est conseillée.${prompt}"
+  6756: "Et, la prévision pour après-demain est ${weather-noun: 0[2]} avec des ${weather-noun: 1[2]} occasionnels. Il y a également une légère chance de ${weather-noun: 2[2]}, donc la prudence est conseillée.${prompt}"
+  6757: "Aujourd'hui, la météo dans cette région sera ${weather-adjective: 0[2]} avec un risque de ${weather-noun: 1[2]}.${prompt}"
+  6758: "Demain, la météo sera ${weather-adjective: 0[2]} avec un risque de ${weather-noun: 1[2]}.${prompt}"
+  6759: "Et, après-demain, la météo sera ${weather-adjective: 0[2]} avec un risque de ${weather-noun: 1[2]}.${prompt}"
+  6760: "Aujourd'hui, la météo dans cette région sera ${weather-adjective: 0[2]}. Il y a également la possibilité de ${weather-noun: 2[2]}, donc la prudence est conseillée.${prompt}"
+  6761: "Demain, la météo sera ${weather-adjective: 0[2]}. Il y a également la possibilité de ${weather-noun: 2[2]}, donc la prudence est conseillée.${prompt}"
+  6762: "Et, après-demain, la météo sera ${weather-adjective: 0[2]}. Il y a également la possibilité de ${weather-noun: 2[2]}, donc la prudence est conseillée.${prompt}"
+  6763: "La météo dans cette région aujourd'hui sera ${weather-adjective: 0[2]}.${prompt}"
+  6764: "La météo demain sera ${weather-adjective: 0[2]}.${prompt}"
+  6765: "La météo après-demain sera ${weather-adjective: 0[2]}.${prompt}"
+  6766: "Et voilà le rapport, directement de la linkshell météo officielle de Vana'diel.${prompt}"
   6767: |-
-    What area's weather do you wish to know?
+    De quelle région souhaitez-vous connaître la météo ?
     ${selection-lines}
-    Nowhere.
-    Wajaom Woodlands.
-    Bhaflau Thickets.
-    Mount Zhayolm.
-    Caedarva Mire.${prompt}
+    Nulle part.
+    Forêts de Wajaom.
+    Fourrés de Bhaflau.
+    Mont Zhayolm.
+    Marais de Caedarva.${prompt}
   6768: |-
-    What area's weather do you wish to know?
+    De quelle région souhaitez-vous connaître la météo ?
     ${selection-lines}
-    Nowhere.
-    Ceizak Battlegrounds.
-    Yahse Hunting Grounds.
-    Foret de Hennetiel.
-    Morimar Basalt Fields.
-    Yorcia Weald.
-    Marjami Ravine.
-    Kamihr Drifts.${prompt}
-  6769: 'If you wish to ride a chocobo, you must possess ${keyitem-article: 7[2]} and have a high enough job level.${prompt}'
-  6770: 'You can rent a chocobo for ${number: 0} gil. I see you currently have ${number: 1} gil.${prompt}'
-  6771: You can rent a chocobo, but because your level is so low, you won't be able to ride for very long. Also, equipment that extends your riding time will have no effect.${prompt}
-  6772: 'If you still want one, it will cost you ${number: 0} gil. I see you currently have ${number: 1} gil.${prompt}'
+    Nulle part.
+    Champ de Bataille de Ceizak.
+    Terrains de Chasse de Yahse.
+    Forêt de Hennetiel.
+    Champs de Basalte de Morimar.
+    Forêt de Yorcia.
+    Ravin de Marjami.
+    Drifts de Kamihr.${prompt}
+  6769: "Si vous souhaitez monter un chocobo, vous devez posséder ${keyitem-article: 7[2]} et avoir un niveau de job suffisamment élevé.${prompt}"
+  6770: "Vous pouvez louer un chocobo pour ${number: 0} gils. Je vois que vous avez actuellement ${number: 1} gils.${prompt}"
+  6771: "Vous pouvez louer un chocobo, mais étant donné que votre niveau est si bas, vous ne pourrez pas monter très longtemps. De plus, l'équipement qui prolonge votre temps de monte n'aura aucun effet.${prompt}"
+  6772: "Si vous en voulez toujours un, cela vous coûtera ${number: 0} gils. Je vois que vous avez actuellement ${number: 1} gils.${prompt}"
   6773: |-
-    Do you wish to rent a chocobo?
+    "Souhaitez-vous louer un chocobo ?"
     ${selection-lines}
-    Yes, I do.
-    No, thank you.${prompt}
-  6774: You don't have enough gil.${prompt}
-  6775: I realize that you are in a hurry, ${choice-player-gender}[sir/ma'am]. However, might I make a simple request? One of our associate's chocobos has lost her way and cannot return home.${prompt}
-  6776: 'Would you be so kind as to deliver her to ${choice: 3}[the Kingdom/the Republic/the Federation/the Duchy/the Duchy/the Duchy/the hidden] stables in ${choice: 3}[Southern San d''Oria/the Bastok Mines/Windurst Woods/Upper Jeuno/Lower Jeuno/Port Jeuno/Norg]? ${prompt}'
+    Oui, je veux.
+    Non, merci.${prompt}
+  6774: "Vous n'avez pas assez de gils.${prompt}"
+  6775: "Je comprends que vous soyez pressé, ${choice-player-gender}[monsieur/madame]. Cependant, pourrais-je vous faire une simple demande ? L'un des chocobos de notre associé s'est perdu et ne peut pas rentrer chez lui.${prompt}"
+  6776: |-
+    "Seriez-vous assez aimable pour la ramener aux écuries ${choice: 3}[du Royaume/de la République/de la Fédération/du Duché/du Duché/du Duché/du secret] à ${choice: 3}[San d'Oria Sud/aux Mines de Bastok/au Bois de Windurst/à Haut Jeuno/à Bas Jeuno/au Port Jeuno/à Norg] ? ${prompt}"
   6777: |-
-    Lend a helping hand?
+    "Donner un coup de main ?"
     ${selection-lines}
-    I have better things to do.
-    Of course!${prompt}
-  6778: |-
-    Oh, thank you so very much!
-    You shall be rewarded by our associates upon delivery of the chocobo.${prompt}
-  6779: |-
-    You cannot obtain the ${item-singular: 0[2]}.
-    Come back after sorting your inventory.${prompt}
-  6780: 'Would you be so kind as to deliver her to ${choice: 3}[the entrance to the Gustav Tunnel (B-8)/Bibiki Bay (G-10)/the entrance of Uggalepih Temple (J-11)]?${prompt}'
+    J'ai mieux à faire.
+    Bien sûr !${prompt}
+  6778: "Oh, merci infiniment ! Vous serez récompensé par nos associés dès la livraison du chocobo.${prompt}"
+  6779: "Vous ne pouvez pas obtenir le ${item-singular: 0[2]}. Revenez après avoir trié votre inventaire.${prompt}"
+  6780: "Seriez-vous assez aimable pour la ramener à ${choice: 3}[l'entrée du Tunnel de Gustav (B-8)/la Baie de Bibiki (G-10)/l'entrée du Temple d'Uggalepih (J-11)] ?${prompt}"
   6781: |-
-    Only those fulfilling both requirements set forth by the alliance may ride a chocobo.
-    First, you must be a soldier of a respectable level in the Allied Forces. Secondly, you must be in possession of ${keyitem-article: 7[2]}.${prompt}
+    "Seuls ceux qui répondent aux deux exigences fixées par l'alliance peuvent monter un chocobo. Tout d'abord, vous devez être un soldat d'un niveau respectable dans les Forces Alliées. Ensuite, vous devez être en possession de ${keyitem-article: 7[2]}.${prompt}"
   6782: |-
-    Any of our fine birds here will bear you directly to the frontlines of battle.
-    We charge a service fee of ${number: 0} Allied Notes, which goes towards seeing that the chocobos are well taken care of.
-    My records indicate that you currently have ${number: 1} Allied Notes.${prompt}
+    "N'importe lequel de nos bons oiseaux vous amènera directement sur le front de bataille. Nous facturons des frais de service de ${number: 0} Billets Alliés, qui servent à assurer que les chocobos sont bien pris en charge. Mes dossiers indiquent que vous avez actuellement ${number: 1} Billets Alliés.${prompt}"
   6783: |-
-    Hmmm... It looks like you don't have enough Allied Notes.
-    Sorry, but these birds aren't going to feed and groom themselves.${prompt}
-  6784: 'I''m sorry, but we don''t put our chocobos in the hands of people with ${keyitem-article: 0[2]}. We wouldn''t want our feathered friends dying from fright now, would we?${prompt}'
-  6785: (DEBUG) Flag raised, kupo!${prompt}
-  6786: Welcome, Master! This is your home, the “Mog House,” kupo!${prompt}
-  6787: I'm a moogle! We moogles like taking care of houses and items! Nice to meet you, kupo!${prompt}
-  6788: I'll tell you all about your Mog House, kupo!${prompt}
+    "Hmmm... Il semble que vous n'ayez pas assez de Billets Alliés. Désolé, mais ces oiseaux ne vont pas se nourrir et se toiletter tout seuls.${prompt}"
+  6784: "Je suis désolé, mais nous ne confions pas nos chocobos aux personnes possédant ${keyitem-article: 0[2]}. Nous ne voudrions pas que nos amis à plumes meurent de peur, n'est-ce pas ?${prompt}"
+  6785: "(DEBUG) Drapeau levé, kupo !${prompt}"
+  6786: "Bienvenue, Maître ! C'est chez vous, la “Mog House”, kupo !${prompt}"
+  6787: "Je suis un mog, kupo ! Nous, les mogs, aimons prendre soin des maisons et des objets ! Enchanté de vous rencontrer, kupo !${prompt}"
+  6788: "Je vais vous parler de votre Mog House, kupo !${prompt}"
   6789: |-
-    First, the basics, kupo!
-    Open your main menu, Master. The button at the very bottom changes to “Mog House” when you're in your Mog House, kupo!${prompt}
-  6790: Press it and the “Mog House” menu will appear! Everything you can do in your Mog House is there, kupo!${prompt}
-  6791: There are lots of things you can do in your Mog House, kupo! It can be too much for some masters, kupo...${prompt}
-  6792: So I'll teach you about each one of them! Ask me what you want to know about, kupo!${prompt}
-  6793: Choose the Mog House command you want to know about, kupo!${prompt}
+    "Tout d'abord, les bases, kupo ! Ouvrez votre menu principal, Maître. Le bouton tout en bas change en “Mog House” lorsque vous êtes dans votre Mog House, kupo !${prompt}"
+  6790: "Appuyez dessus et le menu “Mog House” apparaîtra ! Tout ce que vous pouvez faire dans votre Mog House est là, kupo !${prompt}"
+  6791: "Il y a plein de choses que vous pouvez faire dans votre Mog House, kupo ! Cela peut être trop pour certains maîtres, kupo...${prompt}" 
+  6792: "Je vais donc vous apprendre chacune d'entre elles ! Demandez-moi ce que vous voulez savoir, kupo !${prompt}"
+  6793: "Choisissez la commande Mog House que vous voulez savoir, kupo !${prompt}"
   6794: |-
-    What do you want to know about?
+    "Que voulez-vous savoir sur ?"
     ${selection-lines}
-    The Mog Safe.
-    Storage.
-    The Delivery Box.
-    Changing jobs.
-    Gardening.
-    Changing the layout.
-    Mog House invitations.
-    I got it, thanks, kupo!${prompt}
-  6795: The Mog Safe is where I keep items that you can't carry! It's an especially secure and solid safe, kupo!${prompt}
-  6796: You can only put so many items in it, kupo... But I'll guard them even if it means my life, kupo!${prompt}
-  6797: The Delivery Box is where you can send letters to friends and receive items from various places, kupo!${prompt}
-  6798: You should take the items from your Delivery Box and put them in your inventory when they arrive, kupo!${prompt}
-  6799: If your Delivery Box is full, no more deliveries can be made, and you can't send any mail either, kupo!${prompt}
-  6800: You can send items and gil to your friends with the “Send” command, kupo!${prompt}
-  6801: (Sometimes, if a special force takes hold, you can even deliver items with the "Exclusive" attribute, kupo...!)${prompt}
-  6802: Changing people's jobs is a secret ability only we moogles can use, kupo!${prompt}
-  6803: I take off all your equipment and take you to a mysterious place, kupo!${prompt}
-  6804: And...the rest is a secret, kupo!${prompt}
-  6805: All moogles like taking care of plants, kupo!${prompt}
-  6806: As long as you have a flowerpot and seeds, I'll make it my personal responsibility to look after the plants you raise, kupo!${prompt}
-  6807: This Mog House is your very own room, kupo! But it's still a little bare, kupo...${prompt}
-  6808: It needs some furniture and maybe some paintings to make it more cozy, kupo!${prompt}
-  6809: If you find any during your travels, I'll help you lay them out, kupo! I can't wait, kupo!${prompt}
-  6810: Storage space becomes available when you place furniture in your Mog House using the “Layout” command, kupo!${prompt}
+    Le Mog Safe.
+    Stockage.
+    La boîte de livraison.
+    Changer de métier.
+    Jardinage.
+    Modifier la disposition.
+    Invitations à la Mog House.
+    J'ai compris, merci, kupo !${prompt}
+  6795: "Le Mog Safe est l'endroit où je garde les objets que vous ne pouvez pas transporter ! C'est un coffre-fort particulièrement sûr et solide, kupo !${prompt}"
+  6796: "Vous ne pouvez y mettre qu'un certain nombre d'objets, kupo... Mais je les garderai même si cela signifie ma vie, kupo !${prompt}"
+  6797: "La boîte de livraison est l'endroit où vous pouvez envoyer des lettres à des amis et recevoir des objets de différents endroits, kupo !${prompt}"
+  6798: "Vous devriez prendre les objets de votre boîte de livraison et les mettre dans votre inventaire quand ils arrivent, kupo !${prompt}"
+  6799: "Si votre boîte de livraison est pleine, aucune autre livraison ne peut être effectuée, et vous ne pouvez pas envoyer de courrier non plus, kupo !${prompt}"
+  6800: "Vous pouvez envoyer des objets et des gils à vos amis avec la commande “Envoyer”, kupo !${prompt}"
+  6801: "(Parfois, si une force spéciale prend le contrôle, vous pouvez même livrer des objets avec l'attribut “Exclusif”, kupo... !)${prompt}"
+  6802: "Changer de métier pour les gens est une capacité secrète que seuls nous, les mogs, pouvons utiliser, kupo !${prompt}"
+  6803: "Je retire tout votre équipement et vous emmène dans un endroit mystérieux, kupo !${prompt}"
+  6804: "Et... le reste est un secret, kupo !${prompt}"
+  6805: "Tous les mogs aiment s'occuper des plantes, kupo !${prompt}"
+  6806: "Tant que vous avez un pot de fleurs et des graines, je prendrai cela comme ma responsabilité personnelle de m'occuper des plantes que vous faites pousser, kupo !${prompt}"
+  6807: "Cette Mog House est votre propre chambre, kupo ! Mais elle est encore un peu vide, kupo...${prompt}"
+  6808: "Elle a besoin de meubles et peut-être de quelques tableaux pour la rendre plus confortable, kupo !${prompt}"
+  6809: "Si vous en trouvez lors de vos voyages, je vous aiderai à les disposer, kupo ! Je suis impatient, kupo !${prompt}"
+  6810: "L'espace de stockage devient disponible lorsque vous placez des meubles dans votre Mog House en utilisant la commande “Disposition”, kupo !${prompt}"
   6811: |-
     It's almost exactly the same as using your Mog Safe, kupo!
     Leave your items here for me to look after, kupo!${prompt}
@@ -17035,19 +17027,18 @@ entries:
     You will gain access to all jobs.
     All support jobs will also be unlocked.${prompt}
   6916: '${color-alt: 121}Unlocked all jobs and support jobs!'
-  6917: Choose your destination.
   6918: |-
-    Select a category:
+    "Sélectionnez une catégorie :"
     ${selection-lines}
-    Towns.
-    Outposts.
-    Staging Points.
-    Cancel.${prompt}
+    Villes.
+    Avant-postes.
+    Points d'Appui.
+    Annuler.${prompt}
   6919: |-
-    Where would you like to teleport to?
+    "Où souhaitez-vous vous téléporter ?"
     ${selection-lines}
     Northern San d'Oria.
-    Bastok Mines.
+    Mines de Bastok.
     Port Windurst.
     Port Jeuno.
     Selbina.
@@ -17058,34 +17049,34 @@ entries:
     Tavnazian Safehold.
     Aht Urhgan Whitegate.
     Nashmau.
-    Chocobo Circuit.
-    Past Southern San d'Oria.
-    Past Bastok Markets.
-    Past Windurst Waters.
-    Cancel.${prompt}
-  6920: 'Teleporting to ${choice: 0}[Northern San d''Oria/Bastok Mines/Port Windurst/Port Jeuno/Selbina/Mhaura/Kazham/Norg/Rabao/the Tavnazian Safehold/Aht Urhgan Whitegate/Nashmau/the Chocobo Circuit/Past Southern San d''Oria/Past Bastok Markets/Past Windurst Waters]!${prompt}'
+    Circuit de Chocobos.
+    Avant Poste : Southern San d'Oria.
+    Avant Poste : Bastok.
+    Avant Poste : Windurst.
+    Annuler.${prompt}
+  6920: "Téléportation vers ${choice: 0}[Northern San d'Oria/Mines de Bastok/Port Windurst/Port Jeuno/Selbina/Mhaura/Kazham/Norg/Rabao/le Tavnazian Safehold/Aht Urhgan Whitegate/Nashmau/le Circuit de Chocobos/Avant Poste : Southern San d'Oria/Avant Poste : Bastok/Avant Poste : Windurst] !${prompt}"
   6921: |-
-    Where would you like to teleport to?
+    "Où souhaitez-vous vous téléporter ?"
     ${selection-lines}
-    The Ronfaure Region.
-    The Zulkheim Region.
-    The Norvallen Region.
-    The Gustaberg Region.
-    The Derfland Region.
-    The Sarutabaruta Region.
-    The Kolshushu Region.
-    The Aragoneu Region.
-    The Fauregandi Region.
-    The Valdeaunia Region.
+    La région de Ronfaure.
+    La région de Zulkheim.
+    La région de Norvallen.
+    La région de Gustaberg.
+    La région de Derfland.
+    La région de Sarutabaruta.
+    La région de Kolshushu.
+    La région de Aragoneu.
+    La région de Fauregandi.
+    La région de Valdeaunia.
     Qufim Island.
-    The Li'Telor Region.
-    The Kuzotz Region.
-    The Vollbow Region.
-    The Elshimo Lowlands Region.
-    The Elshimo Uplands Region.
+    La région de Li'Telor.
+    La région de Kuzotz.
+    La région de Vollbow.
+    La région des Basses terres d'Elshimo.
+    La région des Hautes terres d'Elshimo.
     Tu'Lia.
-    The Tavnazian Archipelago.
-    Cancel.${prompt}
+    L'archipel Tavnazien.
+    Annuler.${prompt}
   6922: 'Teleporting to ${choice: 0}[Ronfaure/Zulkheim/Norvallen/Gustaberg/Derfland/Sarutabaruta/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li''Telor/Kuzotz/Vollbow/the Elshimo Lowlands/the Elshimo Uplands/Tu''Lia/the Tavnazian Archipelago]!${prompt}'
   6923: |-
     Teleport to which staging point?
