@@ -17256,104 +17256,104 @@ entries:
   6972: Valhalla, the Maelstrom Mage, Chaos...${prompt}
   6973: |-
     Kupopopo!
-    Now I can actually assist you!${prompt}
-  6974: It is time for us to joyfully join forces, kupo!${prompt}
+    Maintenant je peux réellement vous aider !${prompt}
+  6974: Il est temps pour nous de joindre joyeusement nos forces, kupo !${prompt}
   6975: |-
-    We can discuss details at the stone circle in the La Theine Plateau!
-    I'll be waiting for you there, kupo!${prompt}
-  6976: You go on ahead, and we'll see each other soon!${prompt}
+    Nous pouvons discuter des détails au cercle de pierre dans le Plateau de La Theine !
+    Je vous y attends, kupo !${prompt}
+  6976: Vous y allez d'abord, et nous nous verrons bientôt !${prompt}
   6977: |-
-    I am charged with the task of assisting novice adventurers.
-    What would you like to know?${prompt}
+    Je suis chargé de la tâche d'assister les aventuriers novices.
+    Que souhaitez-vous savoir ?${prompt}
   6978: |-
-    What would you like to know?
+    Que voulez-vous savoir ?
     ${selection-lines}
-    How do I give items to people?
-    Where can I fight monsters?
-    What are quests and missions?
-    I want to see a map of the city.
-    Nothing for now.${prompt}
+    Comment donner des objets aux gens ?
+    Où puis-je combattre des monstres ?
+    Quels sont les quêtes et missions ?
+    Je veux voir une carte de la ville.
+    Rien pour le moment.${prompt}
   6979: |-
-    Giving items to other people is called “trading.”
-    It is done by selecting “Trade” from the main menu on the right.${prompt}
+    Donner des objets à d'autres personnes s'appelle "trading".
+    Cela se fait en sélectionnant "Trade" dans le menu principal à droite.${prompt}
   6980: |-
-    You must target the person either before or after selecting “Trade.”
-    Then just choose the items you wish to give the person when your inventory window appears.${prompt}
+    Vous devez cibler la personne avant ou après avoir sélectionné "Trade".
+    Ensuite, choisissez simplement les objets que vous souhaitez donner à la personne lorsque votre fenêtre d'inventaire apparaît.${prompt}
   6981: |-
-    “Trading” is crucial to completing quests and missions, and also during conquests.
-    Remember it well.${prompt}
-  6982: 'If you have ${article} ${item-article: 7[2]} in your possession, use “Trade” now to give it to me. I will hand you some starting gil in return.${prompt}'
-  6983: Before you take on any fiends, there are a few things you should remember. First, always have weapons and armor equipped, and spells memorized from scrolls.${prompt}
-  6984: Second, always “check” your target before engaging it. Never take on a foe that seems too strong for you to defeat alone.${prompt}
-  6985: Third, when you are in a party, make it a habit to cast lots for your share of the party “spoils” after successfully defeating a monster.${prompt}
-  6986: Some people in town will ask you to do certain tasks for them. These are called “quests.” Complete them, and they should reward you for your efforts.${prompt}
-  6987: There are also tasks you can do for your country, known as “missions.” There is a guard at each gate charged with assigning them. Speak to the guards for more details.${prompt}
-  6988: Come to me if there is anything more you would like to know.${prompt}
+    "Trading" est crucial pour accomplir des quêtes et missions, ainsi que pendant les conquêtes.
+    Souvenez-vous-en bien.${prompt}
+  6982: 'Si vous avez ${article} ${item-article: 7[2]} en votre possession, utilisez “Trade” maintenant pour me le donner. Je vous donnerai en échange quelques gils de départ.${prompt}'
+  6983: Avant d'affronter des monstres, il y a quelques choses que vous devriez retenir. Tout d'abord, ayez toujours des armes et armures équipées, et des sorts mémorisés à partir de parchemins.${prompt}
+  6984: Ensuite, "vérifiez" toujours votre cible avant de l'attaquer. Ne combattez jamais un adversaire qui semble trop fort pour que vous puissiez le vaincre seul.${prompt}
+  6985: Troisièmement, lorsque vous êtes en groupe, prenez l'habitude de tirer au sort votre part du "butin" du groupe après avoir vaincu avec succès un monstre.${prompt}
+  6986: Certaines personnes en ville vous demanderont d'accomplir certaines tâches pour eux. Ce sont des "quêtes". Accomplissez-les, et elles devraient vous récompenser pour vos efforts.${prompt}
+  6987: Il y a aussi des tâches que vous pouvez accomplir pour votre pays, appelées "missions". Il y a un garde à chaque porte chargé de les assigner. Parlez aux gardes pour plus de détails.${prompt}
+  6988: Venez me voir s'il y a autre chose que vous aimeriez savoir.${prompt}
   6989: |-
-    ${lettercase: 1}${article} ${item-article: 7[2]}, good.
-    Here is your starting gil.${prompt}
+    ${lettercase: 1}${article} ${item-article: 7[2]}, bien.
+    Voici vos gils de départ.${prompt}
   6990: |-
-    Here is a map of the entire city.
-    You are currently in ${choice: 1}[the Mines District/the Markets District/Port Bastok/the Metalworks].${prompt}
-  6991: Use the “Map” in the main menu for a more detailed view of your surroundings.${prompt}
-  6992: You would do well to speak with a man named Gulldago. You can find him by the West Gate in Bastok Markets.${prompt}
+    Voici une carte de la ville entière.
+    Vous vous trouvez actuellement à ${choice: 1}[la Mines District/la Markets District/Port Bastok/la Metalworks].${prompt}
+  6991: Utilisez la "Carte" dans le menu principal pour une vue plus détaillée de votre environnement.${prompt}
+  6992: Vous feriez bien de parler à un homme nommé Gulldago. Vous pouvez le trouver près de la Porte Ouest dans les Bastok Markets.${prompt}
   6993: |-
-    Inquire about what?
+    Vous renseigner sur quoi ?
     ${selection-lines}
-    I want to find some quests!
-    I want to try the tutorial event!
-    Teach me about Records of Eminence!
-    Teach me about the Trust initiative!
-    I want a map of my current area!
-    I want maps of Bastok!
-    How do I give items to people?
-    How do I fight outside town?
-    What are quests and missions?
-    I have other questions.
-    Nothing for now.${prompt}
-  6994: I can bestow some magical markings on your map of the Bastok area if you want to know some helpful spots.${prompt}
-  6995: There are vendors that sell maps in both Bastok Markets and Port Bastok, but the former is closer.${prompt}
-  6996: The map vendor's in one of the tents up that stairway to the north.${prompt}
-  6997: If you're looking for someone selling maps, head down those stairs to the south and keep going until you reach an open area. The vendor's tent should be there.${prompt}
-  6998: We've prepared a variety of instructional tasks for Bastokers new to the whole adventuring thing.${prompt}
-  6999: If you're interested, talk to Gulldago near the gate to South Gustaberg in Bastok Markets.${prompt}
-  7000: First, head west of here, then turn north towards a tunnel. Pass through it and you should arrive at the markets.${prompt}
-  7001: Head west of here until you can't go any further, then turn south and cross over Rye Bridge. That should get you to the markets.${prompt}
-  7002: Once you're there, go find Gulldago. I'll mark him on your map for you.${prompt}
-  7003: To confirm what you've marked, select “Markers” under “Map” in the main menu, then press the right arrow key.${prompt}
-  7004: You can also select “Wide Scan” under the “Map” submenu to search for people in your vicinity.${prompt}
-  7005: Whether you're new to Vana'diel or a veteran chomping at the bit, Records of Eminence is a great way to easily participate in a variety of content and earn dazzling rewards.${prompt}
-  7006: Open up the main menu, go to the right, and select “Objective List” under the “Quests” submenu.${prompt}
-  7007: From there, open up the “Tutorial” menu and select “Basics”, and get started with “First Step Forward.”${prompt}
-  7008: I'll even give you a little hint for completing “First Step Forward.”${prompt}
-  7009: Go forth in Bastok Markets and speak with the designated individual. Here, let me place a marker on your map.${prompt}
-  7010: Records of Eminence has a little bit of something for everyone, so be sure to give it a go!${prompt}
-  7011: The Trust initiative consists of a new type of magic developed by one of Vana'diel's most prestigious magical organizations.${prompt}
-  7012: Those who pass the initiation rites and form special bonds will be rewarded with allies to join them on their journeys.${prompt}
-  7013: You must be level five or greater to participate in the Trust initiative. I'll be glad to guide you once you are.${prompt}
-  7014: Clarion Star in Port Bastok is in charge of the Trust initiative here in our fair city. Let me mark his location on your map.${prompt}
-  7015: Opening the main menu and pressing the right arrow key will bring you to the second page of the menu, where the “Help Desk” option is.${prompt}
-  7016: Select that, then click the “Help Desk” option again in the menu that pops up. After that, one of the categories will be “I need help with the game controls.”${prompt}
-  7017: If you ever have a problem, a quick look there might help you figure things out.${prompt}
-  7018: Citizens all over the republic need your help. Do you want to search my records to find some of them?${prompt}
+    Je veux trouver des quêtes !
+    Je veux essayer l'événement tutoriel !
+    Enseignez-moi sur les Records of Eminence !
+    Enseignez-moi sur l'initiative Trust !
+    Je veux une carte de ma région actuelle !
+    Je veux des cartes de Bastok !
+    Comment puis-je donner des objets aux gens ?
+    Comment puis-je combattre hors de la ville ?
+    Quels sont les quêtes et missions ?
+    J'ai d'autres questions.
+    Rien pour le moment.${prompt}
+  6994: Je peux apposer quelques marques magiques sur votre carte de la région de Bastok si vous souhaitez connaître certains endroits utiles.${prompt}
+  6995: Il y a des marchands qui vendent des cartes à la fois dans les Bastok Markets et à Port Bastok, mais les premiers sont plus proches.${prompt}
+  6996: Le vendeur de cartes est dans l'une des tentes en haut de cet escalier vers le nord.${prompt}
+  6997: Si vous cherchez quelqu'un qui vend des cartes, descendez ces escaliers vers le sud et continuez jusqu'à arriver à une zone ouverte. La tente du vendeur devrait être là.${prompt}
+  6998: Nous avons préparé une variété de tâches instructives pour les Bastokers nouvellement initiés à l'aventure.${prompt}
+  6999: Si cela vous intéresse, parlez à Gulldago près de la porte de South Gustaberg dans les Bastok Markets.${prompt}
+  7000: Tout d'abord, dirigez-vous vers l'ouest d'ici, puis tournez vers le nord vers un tunnel. Passez à travers et vous devriez arriver aux markets.${prompt}
+  7001: Dirigez-vous vers l'ouest d'ici jusqu'à ce que vous ne puissiez plus aller plus loin, puis tournez vers le sud et traversez Rye Bridge. Cela devrait vous amener aux markets.${prompt}
+  7002: Une fois là-bas, allez trouver Gulldago. Je vais le marquer sur votre carte pour vous.${prompt}
+  7003: Pour confirmer ce que vous avez marqué, sélectionnez "Marqueurs" sous "Carte" dans le menu principal, puis appuyez sur la touche fléchée droite.${prompt}
+  7004: Vous pouvez également sélectionner "Large Scan" sous le sous-menu "Carte" pour rechercher des personnes dans votre voisinage.${prompt}
+  7005: Que vous soyez nouveau à Vana'diel ou un vétéran impatient, Records of Eminence est un excellent moyen de participer facilement à une variété de contenus et de gagner des récompenses éblouissantes.${prompt}
+  7006: Ouvrez le menu principal, allez vers la droite, et sélectionnez "Liste d'objectifs" sous le sous-menu "Quêtes".${prompt}
+  7007: À partir de là, ouvrez le menu "Tutorial" et sélectionnez "Basics", et commencez avec "First Step Forward".${prompt}
+  7008: Je vais même vous donner un petit indice pour accomplir "First Step Forward".${prompt}
+  7009: Allez dans les Bastok Markets et parlez avec la personne désignée. Laissez-moi placer un marqueur sur votre carte.${prompt}
+  7010: Records of Eminence a un petit quelque chose pour tout le monde, alors assurez-vous d'y jeter un coup d'œil!${prompt}
+  7011: L'initiative Trust consiste en un nouveau type de magie développé par l'une des organisations magiques les plus prestigieuses de Vana'diel.${prompt}
+  7012: Ceux qui réussissent les rites d'initiation et forment des liens spéciaux seront récompensés par des alliés pour les accompagner dans leurs voyages.${prompt}
+  7013: Vous devez être de niveau cinq ou plus pour participer à l'initiative Trust. Je serai ravi de vous guider une fois que vous l'aurez.${prompt}
+  7014: Clarion Star à Port Bastok est en charge de l'initiative Trust ici dans notre belle ville. Laissez-moi marquer son emplacement sur votre carte.${prompt}
+  7015: Ouvrir le menu principal et appuyer sur la touche fléchée droite vous amènera à la deuxième page du menu, où se trouve l'option "Bureau d'aide".${prompt}
+  7016: Sélectionnez cela, puis cliquez à nouveau sur l'option "Bureau d'aide" dans le menu qui apparaît. Ensuite, l'une des catégories sera "J'ai besoin d'aide avec les commandes du jeu".${prompt}
+  7017: Si vous avez un problème, un rapide coup d'œil là-bas pourrait vous aider à comprendre les choses.${prompt}
+  7018: Les citoyens de toute la république ont besoin de votre aide. Voulez-vous rechercher dans mes dossiers pour en trouver certains?${prompt}
   7019: |-
-    Inquire about which locale?
+    Quelle zone souhaitez-vous explorer ?
     ${selection-lines}
-    None.
-    Bastok Mines: ${number: 1} individual${choice-plurality: 1}[/s].
-    Bastok Markets: ${number: 2} individual${choice-plurality: 2}[/s].
-    Port Bastok: ${number: 3} individual${choice-plurality: 3}[/s].
-    Metalworks: ${number: 4} individual${choice-plurality: 4}[/s].${prompt}
-  7020: 'Talk to the following people in ${choice: 0}[the mines/the markets/the port/the Metalworks], who should be more than happy to entrust you with some tasks.${prompt}'
+    Aucune.
+    Mines de Bastok : ${number: 1} individu${choice-plurality: 1}[s].
+    Marchés de Bastok : ${number: 2} individu${choice-plurality: 2}[s].
+    Port Bastok : ${number: 3} individu${choice-plurality: 3}[s].
+    La Fonderie : ${number: 4} individu${choice-plurality: 4}[s].${prompt}
+  7020: "Parlez aux personnes suivantes dans ${choice: 0}[les mines/les marchés/le port/la Fonderie], qui seront plus qu'heureuses de vous confier des tâches.${prompt}"
   7021: |-
-    Who will you go see in Bastok Mines?
+    Qui allez-vous voir dans les mines de Bastok ?
     ${selection-lines}
-    No one.
+    Personne.
     Wahid.
     Elki.
     Tami.
     Gerbaum.
-    Black Mud.
+    Boue Noire.
     Elki.
     Pavvke.
     Detzo.
@@ -17368,9 +17368,9 @@ entries:
     Gumbah.
     Selliste.${prompt}
   7022: |-
-    Who will you go see in Bastok Markets?
+    Qui allez-vous voir dans les marchés de Bastok ?
     ${selection-lines}
-    No one.
+    Personne.
     Malene.
     Salimah.
     Michea.
@@ -17391,9 +17391,9 @@ entries:
     Brygid.
     Shamarhaan.${prompt}
   7023: |-
-    Who will you go see in Port Bastok?
+    Qui allez-vous voir dans le port de Bastok ?
     ${selection-lines}
-    No one.
+    Personne.
     Powhatan.
     Corann.
     Talib.
@@ -17426,20 +17426,21 @@ entries:
     Grin.${prompt}
   7024: |-
     ヒルドルフ(Hildolf)
-    Who will you go see in the Metalworks?
+    7024: |-
+    Qui allez-vous voir à la Fonderie ?
     ${selection-lines}
-    No one.
-    Hungry Wolf.
+    Personne.
+    Loup Affamé.
     Izabele.
     Ferghus.
     Raibaht.
     Hildolf.
-    Unlucky Rat.
+    Rat Malchanceux.
     Baldric.
-    Mighty Fist.
+    Poing Puissant.
     Raibaht.
     Cid.
-    High Bear.
+    Grand Ours.
     Ayame.
     Ayame.
     Raibaht.
@@ -17449,63 +17450,63 @@ entries:
     Cid.
     Zeid.
     Ayame.
-    Iron Eater.
+    Dévoreur de Fer.
     Cid.${prompt}
-  7025: Let me mark their position on your map.${prompt}
-  7026: FiNAllY, sOmE InFOrmAtiOn tO hELp yOu In yoUr TrAVelS.${prompt}
-  7027: One more thing.${prompt}
-  7028: I have saved a rather paramount detail for last. Allow me to explain.${prompt}
-  7029: There's still one other thing remaining to share with you.${prompt}
-  7030: YoU CAn wArP BetWEen PlACes KnOwn aS “HoME pOinTs.” TheY ARe moST CoNveNieNT, sO maKe SuRE to ReGIsTer ThEM bY TouCHing ThE SurFaCE.${prompt}
-  7031: “Home points” will probably turn out to be among your best companions. Make sure to examine one if you find it, so you can warp between them and cover large distances fast.${prompt}
-  7032: You may teleport between these crystalline nodes called “home points” for efficient travel. Be sure to examine any you stumble upon.${prompt}
-  7033: There's some special crystal nodes known as “home points” that'll undoubtedly serve you well. Don't forget to interact with all that you find, as they can help you get to far away places.${prompt}
-  7034: If yOU fINd yOurSeLF iN A fARaWay pLaCe, maKe sURe tO FinD a StoRE to BuY a Map fROm! wIth a MaP, yoU CaN ChEck WheRe yOu ArE!${prompt}
-  7035: Should you find yourself lost in the middle of nowhere, try to make it back to town to buy a map. That way, you can get your bearings.${prompt}
-  7036: Remember to purchase a map from the appropriate vendor before going to a faraway land. If you do, you can check your location within that place.${prompt}
-  7037: Did you know that some vendors will sell you maps of specific areas? It sure beats stumbling around like a dullard!${prompt}
-  7038: DoN'T WaSTe pRecIOus iTemS By sEllINg tHeM tO a StoRe. MaKE eVen MoRe MonEy By PuTTing tHeM uP At tHe AucTIon HouSe!${prompt}
-  7039: I hate to say it, but the merchants around here are pretty stingy. You'd have more luck listing any unwanted goods at the auction house.${prompt}
-  7040: I advise you to put any unwanted goods up for sale at the auction house rather than be taken advantage of by the vendors here.${prompt}
-  7041: If there's something you've got that you don't need, try putting it up at the auction house rather than selling it to some unscrupulous vendor.${prompt}
-  7042: MaNY uNdEaD MOnsTeRS cAn SenSe WhEn yOU Are LoW oN HP, aNd wIll TAke tHaT opPOrtUnItY tO ComE AfTEr yOu!${prompt}
-  7043: Undead enemies tend to come out of the woodwork when your HP is low. Be careful.${prompt}
-  7044: The undead often assault adventurers with low HP, which is all the more reason to never let your guard down in the wilderness.${prompt}
-  7045: Undead are always out for blood and brains, so watch out if you're low on health! They'll make a beeline right for you.${prompt}
-  7046: LeT'S tALk aBouT AttRIButeS. InCReaSing yoUr StrenGTh (STR) wiLL iNcrEase YouR pHYsiCal, bUt NOt MaGiCal, AttACk.${prompt}
-  7047: Increasing your strength (STR) raises your attack power, but--sadly--not your magic attack.${prompt}
-  7048: Increasing your strength (STR) enhances your attack power, but--regrettably--does nothing for your magic attack.${prompt}
-  7049: Increasing your strength (STR) enhances your attack power, but unfortunately does nothing for the efficacy of your magic.${prompt}
-  7050: LeT'S tALk aBouT AttRIButeS. InCReaSinG yoUr DeXteRIty (DEX) wiLl IncReaSe yOuR AccURacY aNd cRiTIcaL HIt rAtE.${prompt}
-  7051: Increasing your dexterity (DEX) increases things like your accuracy and critical hit rate.${prompt}
-  7052: Increasing your dexterity (DEX) improves such faculties as accuracy and critical hit rate.${prompt}
-  7053: Increasing your dexterity (DEX) enhances attributes such as accuracy and critical hit rate.${prompt}
-  7054: LeT'S tALk aBouT AttRIButeS. InCreAsinG YoUR VitALiTy (VIT) WiLL iNcReaSE yOuR PhYsiCAl DefENsE anD HP reStoREd bY CuRe aNd oTheR HP-HeaLInG aBilItieS.${prompt}
-  7055: Increasing your vitality (VIT) increases things like your physical defense and the potency of restorative abilities such as Cure.${prompt}
-  7056: Increasing your vitality (VIT) improves such faculties as physical defense and the potency of restorative abilities like Cure.${prompt}
-  7057: Increasing your vitality (VIT) enhances attributes such as physical defense and restorative abilities such as cure.${prompt}
-  7058: LeT'S tALk aBouT AttRIButeS. AgIlITy (AGI) hAs a VarIetY Of EffECtS, sUch aS IncReaSing pHYsIcaL EvaSioN And aCCurAcy oF RangEd aTTacKs, as WelL aS DecReasINg eNEmiES' CRitIcAL HiT EvaSioN.${prompt}
-  7059: Increasing your agility (AGI) increases things like your physical evasion and ranged accuracy. It also decreases enemies' critical hit evasion.${prompt}
-  7060: Increasing your agility (AGI) improves such faculties as physical evasion and ranged accuracy. It also reduces enemies' critical hit evasion.${prompt}
-  7061: Increasing your agility (AGI) enhances attributes such as physical evasion and ranged accuracy. It also decreases enemies' critical hit evasion.${prompt}
-  7062: LeT'S tALk aBouT AttRIButeS. InTElLiGEncE (INT) iNcReaSEs tHe MagIC aCCuraCy and DaMAge Of ElEmenTAL MaGiC sPeLLs.${prompt}
-  7063: Increasing your intelligence (INT) increases things like the accuracy and damage of your elemental magic spells.${prompt}
-  7064: Increasing your intelligence (INT) improves such faculties as the accuracy and damage of your elemental magic spells.${prompt}
-  7065: Increasing your intelligence (INT) enhances attributes such as the accuracy and damage of your elemental magic spells.${prompt}
-  7066: LeT'S tALk aBouT AttRIButeS. MiND (MND) iNCreAsEs thE aMouNT oF HP ReStoREd bY HeaLinG MaGiC and tHE ACcuraCy oF WhItE MAgiC SpELls.${prompt}
-  7067: Mind (MND) increases things like the potency of healing spells and the accuracy of white magic spells.${prompt}
-  7068: Mind (MND) improves such faculties as the potency of healing spells and the accuracy of white magic spells.${prompt}
-  7069: Increasing your mind (MND) enhances attributes such as the potency of healing spells and the accuracy of white magic spells.${prompt}
-  7070: LeT'S tALk aBouT AttRIButeS. cHaRIsmA (CHR) inCreASes tHe eFFecTivENesS oF a bEaSTmaSTeR's “cHaRm” aNd thE AccURaCy Of A BarD's sONgs.${prompt}
-  7071: Charisma (CHR) increases things like the effectiveness of the beastmaster ability “charm” and the accuracy of bards' songs.${prompt}
-  7072: Charisma (CHR) improves such faculties as the effectiveness of the beastmaster ability “charm” and the accuracy of bards' songs.${prompt}
-  7073: Increasing your charisma (CHR) enhances attributes such as the effectiveness of the beastmaster ability “charm” and the accuracy of bards' songs.${prompt}
-  7074: Then here you go.${prompt}
-  7075: I'm not the only one who knows her way around a map. You can always talk to Gwinar, too, if that's more convenient.${prompt}
-  7076: If you want to know where Arva is, open the “Map” menu, choose “Markers,” and press the right arrow key. She should be somewhere in that list.${prompt}
-  7077: Selecting “Map” from the main menu opens the map of the area in which you currently reside. Select “Markers” and press the right arrow key to see all the markers placed on your map.${prompt}
-  7078: You should be able to find out where Reet is by checking your markers. Open “Map” from the main menu, select “Markers,” press the right arrow key, and all should be well.${prompt}
-  7079: How? After opening “Map” from the main menu, select “Markers,” and press the right arrow key.${prompt}
+  7025: Laissez-moi marquer leur position sur votre carte.${prompt}
+  7026: Enfin, voici des informations pour vous aider dans vos voyages.${prompt}
+  7027: Encore une chose.${prompt}
+  7028: J'ai gardé un détail assez important pour la fin. Permettez-moi d'expliquer.${prompt}
+  7029: Il reste encore une autre chose à partager avec vous.${prompt}
+  7030: VouS pOUvEZ tELepOrtER eNtrE Les eNDrOIts cONnUs sOUbs lE nOm dE “PoIntS dE mAisOn.” iLs sOnt TRèS PRAtiQUeS, alOrS aSSUrez-VOuS dE Les rEgIsTrEr En lEs TocHaNT.${prompt}
+  7031: Les “points de maison” seront probablement parmi vos meilleurs alliés. Assurez-vous d'en examiner un si vous en trouvez un, afin de pouvoir vous téléporter entre eux et couvrir de grandes distances rapidement.${prompt}
+  7032: Vous pouvez vous téléporter entre ces nœuds cristallins appelés “points de maison” pour un voyage efficace. Assurez-vous d'examiner tout ce que vous trouvez.${prompt}
+  7033: Il existe des nœuds de cristal spéciaux appelés “points de maison” qui vous seront certainement très utiles. N'oubliez pas d'interagir avec tous ceux que vous trouvez, car ils peuvent vous aider à vous rendre dans des endroits éloignés.${prompt}
+  7034: Si VOuS VoUS tROuVeZ Loin dE ToUT, eSSayeZ De reTouRneR En vILLe poUr ACHetER uNe caRte. AInSI, VOus pOUrREz VOuS REpérER.${prompt}
+  7035: Si vous vous retrouvez perdus au milieu de nulle part, essayez de revenir en ville pour acheter une carte. De cette façon, vous pourrez vous repérer.${prompt}
+  7036: N'oubliez pas d'acheter une carte auprès du vendeur approprié avant de vous rendre dans une contrée lointaine. Si vous le faites, vous pourrez vérifier votre emplacement à l'intérieur de cet endroit.${prompt}
+  7037: Saviez-vous que certains marchands vous vendront des cartes de zones spécifiques ? C'est certainement mieux que de se promener comme un abruti !${prompt}
+  7038: Ne gâchez pas d'objets précieux en les vendant à un magasin. Gagnez encore plus d'argent en les mettant aux enchères !${prompt}
+  7039: Je déteste le dire, mais les commerçants du coin sont plutôt avares. Vous auriez plus de chance de vendre vos marchandises indésirables à la maison des ventes.${prompt}
+  7040: Je vous conseille de mettre en vente les objets non désirés à la maison des ventes plutôt que de vous faire exploiter par les vendeurs d'ici.${prompt}
+  7041: S'il y a quelque chose que vous avez et que vous n'avez pas besoin, essayez de le mettre à la maison des ventes plutôt que de le vendre à un vendeur peu scrupuleux.${prompt}
+  7042: BeAuCoUP dE MoNsTrEs NoCtUrNeS pEUvEnt SEntIR QuAnD VOUs aVEZ PeU dE PdV, ET PRofITEronT dE CETtE oPPoRTuNIté POur VOus AttaQuER !${prompt}
+  7043: Les ennemis non morts ont tendance à apparaître quand vos points de vie sont bas. Soyez prudent.${prompt}
+  7044: Les morts-vivants attaquent souvent les aventuriers avec peu de PV, ce qui est d'autant plus une raison de ne jamais baisser votre garde dans la nature.${prompt}
+  7045: Les morts-vivants sont toujours à l'affût, donc faites attention si vous avez peu de points de vie ! Ils fonceront droit sur vous.${prompt}
+  7046: PaRlOnS dEs AtTriBUtS. AugMEntEr VoTrE fORcE (STR) AugMenTErA vOtRe AttaQuE PhYsiQue, mAiS nON MaGiqUe.${prompt}
+  7047: Augmenter votre force (STR) augmente votre puissance d'attaque, mais - malheureusement - pas votre attaque magique.${prompt}
+  7048: Augmenter votre force (STR) améliore votre puissance d'attaque, mais - malheureusement - ne fait rien pour votre attaque magique.${prompt}
+  7049: Augmenter votre force (STR) renforce votre puissance d'attaque, mais malheureusement ne fait rien pour l'efficacité de votre magie.${prompt}
+  7050: PaRlOnS dEs AtTriBUtS. AugMEntEr VotrE dExTÉRITé (DEX) AugmEntERa VoTrE PrÉciSioN eT VoTrE tAUx dE cOUps CRitIque.${prompt}
+  7051: Augmenter votre dextérité (DEX) améliore des choses comme votre précision et votre taux de coups critiques.${prompt}
+  7052: Augmenter votre dextérité (DEX) améliore des facultés telles que la précision et le taux de coups critiques.${prompt}
+  7053: Augmenter votre dextérité (DEX) améliore des attributs tels que la précision et le taux de coups critiques.${prompt}
+  7054: PaRlOnS dEs AtTriBUtS. AuGmEntER vOtrE ViTalITé (VIT) AuGmEntErA vOtRe dÉfeNSe PhYsiQue et L'aMélIoRaTIon DeS AbILItÉs dE rÉgÉNÉrAtIoN dE Pv PaR DEs sPElLs cOmMe sOiNs Et AUtrEs.${prompt}
+  7055: Augmenter votre vitalité (VIT) améliore des choses comme votre défense physique et la puissance des capacités de restauration comme Soin.${prompt}
+  7056: Augmenter votre vitalité (VIT) améliore des facultés telles que la défense physique et la puissance des capacités de restauration comme Soin.${prompt}
+  7057: Augmenter votre vitalité (VIT) améliore des attributs tels que la défense physique et les capacités de restauration telles que soin.${prompt}
+  7058: PaRlOnS dEs AtTriBUtS. L'aGIliTé (AGI) A dEs EffETs VaRIéS, tElS QuE L'aUgMenTaTIoN dE L'ÉvAsIoN PhYsiQuE eT La PrÉcIsIoN DeS AtTaQuEs À DiSTAnCe, aINsi QuE La RéDUCtIoN dE L'éVAsIon dES CRitIqUEs dES EnEMIs.${prompt}
+  7059: Augmenter votre agilité (AGI) améliore des choses comme votre évitement physique et la précision à distance. Cela réduit également l'évasion critique des ennemis.${prompt}
+  7060: Augmenter votre agilité (AGI) améliore des facultés telles que l'évitement physique et la précision à distance. Cela réduit également l'évasion critique des ennemis.${prompt}
+  7061: Augmenter votre agilité (AGI) améliore des attributs tels que l'évitement physique et la précision à distance. Cela réduit également l'évasion critique des ennemis.${prompt}
+  7062: PaRlOnS dEs AtTriBUtS. L'iNTellIgEncE (INT) AuGmEntE La PrÉcIsIon Et Les dÉgÂTs dE VoS sPElLs MagIqUeS ÉlÉmENTAIrEs.${prompt}
+  7063: Augmenter votre intelligence (INT) améliore des choses comme la précision et les dégâts de vos sorts magiques élémentaires.${prompt}
+  7064: Augmenter votre intelligence (INT) améliore des facultés telles que la précision et les dégâts de vos sorts magiques élémentaires.${prompt} 
+  7065: Augmenter votre intelligence (INT) améliore des attributs tels que la précision et les dégâts de vos sorts magiques élémentaires.${prompt}
+  7066: PaRlOnS dEs AtTriBUtS. La VoLONtÉ (MND) AugmEntE La PoTeNCe dE Soins Et La PrÉciSIoN dES SortS de MaGIe BlaNcHE.${prompt}
+  7067: La volonté (MND) augmente des choses comme la puissance des sorts de guérison et la précision des sorts de magie blanche.${prompt}
+  7068: La volonté (MND) améliore des facultés telles que la puissance des sorts de guérison et la précision des sorts de magie blanche.${prompt}
+  7069: Augmenter votre volonté (MND) améliore des attributs tels que la puissance des sorts de guérison et la précision des sorts de magie blanche.${prompt}
+  7070: PaRlOnS dEs AtTriBUtS. La ChARiSmE (CHR) AuGmEntE L'efFiCACiTÉ dE La cAptURe dE beSTiAUX eT La PRéCiSioN dES CHaNsoNs dEs BarDes.${prompt}
+  7071: La charisme (CHR) augmente des choses comme l'efficacité de la capacité de domptage des maîtres de bêtes et la précision des chansons des bardes.${prompt}
+  7072: La charisme (CHR) améliore des facultés telles que l'efficacité de la capacité de charme des maîtres de bêtes et la précision des chansons des bardes.${prompt}
+  7073: Augmenter votre charisme (CHR) améliore des attributs tels que l'efficacité de la capacité de charme des maîtres de bêtes et la précision des chansons des bardes.${prompt}
+  7074: Alors, voilà.${prompt}
+  7075: Je ne suis pas la seule à bien connaître les cartes. Vous pouvez toujours parler à Gwinar aussi, si c'est plus pratique.${prompt}
+  7076: Si vous voulez savoir où se trouve Arva, ouvrez le menu "Carte", choisissez "Marqueurs", et appuyez sur la flèche droite. Elle devrait être quelque part dans cette liste.${prompt}
+  7077: Sélectionner "Carte" dans le menu principal ouvre la carte de la zone dans laquelle vous vous trouvez actuellement. Sélectionnez "Marqueurs" et appuyez sur la flèche droite pour voir tous les marqueurs placés sur votre carte.${prompt}
+  7078: Vous devriez pouvoir savoir où se trouve Reet en vérifiant vos marqueurs. Ouvrez "Carte" dans le menu principal, sélectionnez "Marqueurs", appuyez sur la flèche droite, et tout devrait bien se passer.${prompt}
+  7079: Comment ? Après avoir ouvert "Carte" dans le menu principal, sélectionnez "Marqueurs", et appuyez sur la flèche droite.${prompt}
   7080: |-
     Join the ${choice: 6}[Fishermen's/Carpenters'/Blacksmiths'/Goldsmiths'/Weavers'/Tanners'/Boneworkers'/Alchemists'/Culinarians'] Guild?
     ${selection-lines}
@@ -23136,234 +23137,234 @@ entries:
   10653: |-
     Merci.
     Si vous découvrez quelque chose, veuillez me le dire immédiatement.${prompt}
-  10654: I see... Thanks anyway.${prompt}
+  10654: Je vois... Merci quand même.${prompt}
   10655: |-
-    Eleven sets of tools?
-    The names of the pioneers are written on them...${prompt}
+    Onze ensembles d'outils ?
+    Les noms des pionniers y sont écrits...${prompt}
   10656: |-
-    The eleventh pioneer's name was...“Vigilant Owl”?
-    It sounds like a Galka name.${prompt}
-  10657: And they say the Palborough Mines were dug only by Humes...${prompt}
+    Le nom du onzième pionnier était... "Vigilant Owl" ?
+    Cela ressemble à un nom de Galka.${prompt}
+  10657: Et ils disent que les Mines de Palborough n'ont été creusées que par des Humes...${prompt}
   10658: |-
-    Wait, there's another inscription on this tool...
-    “Babenn”? Is that another name?${prompt}
+    Attends, il y a une autre inscription sur cet outil...
+    "Babenn" ? Est-ce un autre nom ?${prompt}
   10659: |-
-    I wonder what this means...
-    I'll try to find out more on my side, but let me know if you come across any more information.${prompt}
+    Je me demande ce que cela signifie...
+    Je vais essayer d'en savoir plus de mon côté, mais faites-moi savoir si vous trouvez d'autres informations.${prompt}
   10660: |-
-    An eleventh Palborough Mines Pioneer?
-    Then it is as I thought!${prompt}
-  10661: '${lettercase: 1}${keyitem-article: 7[2]} you brought me--the more I read them, the more I am convinced someone has tampered with them!${prompt}'
-  10662: It must be Humes! Only they would go so far as erasing our history to protect their over-swollen pride!${prompt}
+    Un onzième Pionnier des Mines de Palborough ?
+    Alors, c'est comme je le pensais !${prompt}
+  10661: '${lettercase: 1}${keyitem-article: 7[2]} que vous m’avez apporté - plus je les lis, plus je suis convaincu que quelqu’un les a falsifiés !${prompt}'
+  10662: Ce doit être les Humes ! Seuls eux iraient jusqu'à effacer notre histoire pour protéger leur fierté démesurée !${prompt}
   10663: |-
-    I... My apologies.
-    I should not let my emotions get the better of me.${prompt}
-  10664: The pioneers? Well, yes, I worked in the mines until fifteen years ago, but you're talking about things that happened more than a hundred and fifty years back!${prompt}
+    Je... Mes excuses.
+    Je ne devrais pas laisser mes émotions prendre le dessus.${prompt}
+  10664: Les pionniers ? Eh bien, oui, j'ai travaillé dans les mines jusqu'à il y a quinze ans, mais vous parlez de choses qui se sont passées il y a plus de cent cinquante ans !${prompt}
   10665: |-
-    I may be old, but I'm not that old.
-    Go talk to Babenn. Now that Werei's gone, he's the only Galka left who was around back then.${prompt}
+    Je suis peut-être vieux, mais je ne suis pas si vieux que ça.
+    Allez parler à Babenn. Maintenant que Werei est parti, c'est le seul Galka restant qui était là à l'époque.${prompt}
   10666: |-
-    The Palborough Pioneers?
-    Yes, I was alive back then, but I recall I was away adventuring in those days.
-    I'm afraid I can't help you with what you seek.${prompt}
+    Les Pionniers de Palborough ?
+    Oui, j'étais en vie à cette époque, mais je me souviens que j'étais parti à l'aventure à cette époque.
+    Je crains de ne pas pouvoir vous aider avec ce que vous cherchez.${prompt}
   10667: |-
-    Hmm?
-    What is it you want with an old Galka like me?${prompt}
+    Hmm ?
+    Que voulez-vous avec un vieux Galka comme moi ?${prompt}
   10668: |-
-    Vigilant...Owl?
-    That name does not mean anything to me.${prompt}
+    Vigilant... Owl ?
+    Ce nom ne me dit rien.${prompt}
   10669: |-
-    I have nothing to tell you.
-    Go, and take that old toolbox with you.${prompt}
-  10670: Ah, now I understand...${prompt}
-  10671: Is that why you don't like talking about the past, then, Babenn?${prompt}
+    Je n'ai rien à vous dire.
+    Allez, et emportez cette vieille boîte à outils avec vous.${prompt}
+  10670: Ah, maintenant je comprends...${prompt}
+  10671: C'est pour ça que tu n'aimes pas parler du passé, alors, Babenn ?${prompt}
   10672: |-
-    But it's been more than a hundred and fifty years.
-    Don't you think it's time you told your story?${prompt}
-  10673: Gumbah... What are you doing here?${prompt}
+    Mais cela fait plus de cent cinquante ans.
+    Ne pensez-vous pas qu'il est temps de raconter votre histoire ?${prompt}
+  10673: Gumbah... Que fais-tu ici ?${prompt}
   10674: |-
-    You must've figured it out by now, right?
-    Galka in Bastok have two names.${prompt}
-  10675: One is our given name. The other...a name that Humes give us if they can't pronounce the first one.${prompt}
+    Vous devez l'avoir compris maintenant, non ?
+    Les Galka à Bastok ont deux noms.${prompt}
+  10675: L'un est notre nom donné. L'autre... un nom que les Humes nous donnent s'ils ne peuvent pas prononcer le premier.${prompt}
   10676: |-
-    “Vigilant Owl”...that was what they called you, wasn't it, Babenn?
-    You've told me before...and I haven't forgotten.${prompt}
+    "Vigilant Owl"... c'est comme ça qu'ils t'appelaient, n'est-ce pas, Babenn ?
+    Tu me l'as déjà dit... et je n'ai pas oublié.${prompt}
   10677: |-
-    Meddling child...
-    That was more than a century ago.
-    That name belongs in the past.${prompt}
+    Enfant indiscret...
+    C'était il y a plus d'un siècle.
+    Ce nom appartient au passé.${prompt}
   10678: |-
-    Wait...
-    Who's there? Show yourself!${prompt}
-  10679: My great-grandfather did not forget, Sir Vigilant Owl... No, Sir Babenn.${prompt}
+    Attends...
+    Qui est là ? Montre-toi !${prompt}
+  10679: Mon arrière-grand-père n'a pas oublié, Monsieur Vigilant Owl... Non, Monsieur Babenn.${prompt}
   10680: |-
-    Omran...!?
-    No, you cannot be him.
-    Humes do not live longer than a hundred years.${prompt}
+    Omran... !?
+    Non, tu ne peux pas être lui.
+    Les Humes ne vivent pas plus de cent ans.${prompt}
   10681: |-
-    Omran was my great-grandfather.
-    He used to tell me about the mines when I was young...but whenever he did, it was with sadness and regret.${prompt}
+    Omran était mon arrière-grand-père.
+    Il me parlait des mines quand j'étais jeune... mais chaque fois qu'il le faisait, c'était avec tristesse et regret.${prompt}
   10682: |-
-    He often said:
-    “If you manage to achieve anything worthwhile in life, it is because you were lucky enough to have met the best people anyone could meet.”${prompt}
-  10683: Omran said that?${prompt}
+    Il disait souvent :
+    "Si vous parvenez à accomplir quelque chose de valable dans la vie, c'est parce que vous avez eu la chance de rencontrer les meilleures personnes que quiconque puisse rencontrer."${prompt}
+  10683: Omran a dit ça ?${prompt}
   10684: |-
-    Listen and remember, heir to Omran.
-    In those days, Humes were in need of pride. Pride in having dug a mine without anyone else's help.${prompt}
-  10685: My name had no place on their monument, and this I accepted.${prompt}
+    Écoute et souviens-toi, héritier d'Omran.
+    À cette époque, les Humes avaient besoin de fierté. Fierté d'avoir creusé une mine sans l'aide de personne d'autre.${prompt}
+  10685: Mon nom n'avait pas sa place sur leur monument, et cela, je l'ai accepté.${prompt}
   10686: |-
-    Some need their achievements carved in stone, even though stone can weather and fade.
-    It was a small price I paid for their fame.${prompt}
+    Certains ont besoin que leurs réalisations soient gravées dans la pierre, même si la pierre peut se détériorer et s'estomper.
+    C'était un petit prix que je payais pour leur renommée.${prompt}
   10687: |-
-    No!
-    My great-grandfather did not seek fame!${prompt}
-  10688: He used to tell me the days he spent digging those mines were the best of his life!${prompt}
+    Non !
+    Mon arrière-grand-père ne cherchait pas la gloire !${prompt}
+  10688: Il avait l'habitude de me raconter que les jours passés à creuser ces mines étaient les meilleurs de sa vie !${prompt}
   10689: |-
-    Enough.
-    You know as well as I do that Galka and Humes do not live in the same flow of time.${prompt}
+    Ça suffit.
+    Tu sais aussi bien que moi que les Galka et les Humes ne vivent pas dans le même flux temporel.${prompt}
   10690: '...${prompt}'
   10691: |-
-    But I can tell you one thing.
-    A hundred and fifty years ago, during those few days when we sought for mythril in the cold, dark tunnels...we saw the world with the same eyes.${prompt}
+    Mais je peux te dire une chose.
+    Il y a cent cinquante ans, pendant ces quelques jours où nous cherchions du mythril dans les tunnels froids et sombres... nous voyions le monde avec les mêmes yeux.${prompt}
   10692: |-
-    And that, to me, is enough.
-    No matter what people say, and even if the others are long gone, my memories are still with me.${prompt}
-  10693: Heir to Omran, seek not the trueness of our bond in days long past, but that of bonds you share with others in this time, in this world.${prompt}
+    Et cela, pour moi, suffit.
+    Peu importe ce que les gens disent, et même si les autres sont depuis longtemps partis, mes souvenirs sont toujours avec moi.${prompt}
+  10693: Héritier d'Omran, ne cherche pas la vérité de notre lien dans des jours lointains, mais celle des liens que tu partages avec d'autres en ce temps, dans ce monde.${prompt}
   10694: |-
-    ...I understand.
-    Farewell, sir.${prompt}
+    ... J'ai compris.
+    Adieu, monsieur.${prompt}
   10695: |-
-    That was pretty complicated...
-    I really hope he understood.${prompt}
+    C'était assez compliqué...
+    J'espère vraiment qu'il a compris.${prompt}
   10696: |-
-    You're the one who complicated matters.
-    You brought him here, did you not?${prompt}
+    C'est toi qui as compliqué les choses.
+    Tu l'as amené ici, n'est-ce pas ?${prompt}
   10697: |-
-    And where did you hear about my past?
-    I don't remember telling you.${prompt}
+    Et où as-tu entendu parler de mon passé ?
+    Je ne me souviens pas de t'avoir raconté.${prompt}
   10698: |-
-    Oh, really? That's weird...
-    Uh...I think Werei told me, yeah.${prompt}
+    Vraiment ? C'est bizarre...
+    Euh... je pense que Werei me l'a dit, ouais.${prompt}
   10699: |-
-    Anyways, I gotta run!
-    Bye!${prompt}
+    Quoi qu'il en soit, je dois y aller !
+    Au revoir !${prompt}
   10700: |-
-    It seems I owe you an apology.
-    This is for bringing my old toolbox back to me.
-    Take it.${prompt}
+    Il semble que je te doive des excuses.
+    C'est pour m'avoir ramené ma vieille boîte à outils.
+    Prends ça.${prompt}
   10701: |-
-    Hmm?
-    What is it you want with an old Galka like me?${prompt}
+    Hmm ?
+    Que veux-tu avec un vieux Galka comme moi ?${prompt}
   10702: |-
-    Nothing of value has been put up for sale in the auctions lately.
-    The Quadav's influence on Bastok's mine digs may be more severe than I thought.${prompt}
+    Récemment, rien de valeur n'a été mis en vente aux enchères.
+    L'influence des Quadavs sur les mines de Bastok semble être plus grave que je ne le pensais.${prompt}
   10703: |-
-    Wahid, at your service.
-    I am a collector of precious gems.${prompt}
+    Wahid, à votre service.
+    Je suis collectionneur de gemmes précieuses.${prompt}
   10704: |-
-    Mind you, I am not interested in stones with only monetary value.
-    Gems of legend, with value that cannot be weighed in gold...those, a true collector seeks.${prompt}
+    Notez bien que je ne m'intéresse pas aux pierres ayant uniquement une valeur monétaire.
+    Les gemmes légendaires, dont la valeur ne peut être mesurée en or... celles-là, un véritable collectionneur les recherche.${prompt}
   10705: |-
-    Currently, I am seeking a stone called ${article} ${item-article: 7[2]}.
-    It is said that one can occasionally find these on the shores of the rivers in the Gustaberg Mountains.${prompt}
-  10706: They are quite hard to find, I hear, so search thoroughly.${prompt}
-  10707: What's more, I have heard accounts of people trying to pick one up, only to have it slip through their fingers and flow down the river once more.${prompt}
-  10708: Many adventurers like yourself have tried their hand, so to speak, but they all came back...well, empty-handed. I heard that those of great mettle had an especially hard time.${prompt}
+    Actuellement, je recherche une pierre appelée ${item-article: 7[2]}.
+    On dit que l'on peut parfois en trouver sur les rives des rivières des montagnes de Gustaberg.${prompt}
+  10706: Elles sont assez difficiles à trouver, paraît-il, alors cherchez minutieusement.${prompt}
+  10707: De plus, j'ai entendu des récits de personnes qui ont essayé d'en ramasser une, pour finalement la voir leur glisser entre les doigts et retourner dans la rivière.${prompt}
+  10708: De nombreux aventuriers comme vous ont tenté leur chance, pour ainsi dire, mais ils sont tous revenus... les mains vides. J'ai entendu dire que ceux d'une grande bravoure avaient eu particulièrement du mal.${prompt}
   10709: |-
-    There once was a bard who managed to bring one back...but he said that it would be the first and last time for him.
-    Whether he was unable or unwilling to go back, I do not know.${prompt}
-  10710: From what I've heard, he now spends his time singing in a tavern somewhere...${prompt}
-  10711: At any rate, if you go to the river and find one for me, I will give you a reward.${prompt}
+    Il y avait une fois un barde qui en avait ramené un... mais il a dit que ce serait la première et la dernière fois pour lui.
+    S'il était incapable ou peu disposé à y retourner, je ne sais pas.${prompt}
+  10710: D'après ce que j'ai entendu, il passe maintenant son temps à chanter dans une taverne quelque part...${prompt}
+  10711: En tout cas, si vous allez à la rivière et que vous en trouvez un pour moi, je vous donnerai une récompense.${prompt}
   10712: |-
     Oh-ho! ${lettercase: 1}${article} ${item-article: 7[2]}!
-    Good work!${prompt}
+    Beau travail!${prompt}
   10713: |-
-    Yes, yes! Look how it glitters! Marvelous, simply marvelous!
-    If you find any more, come to me and I will reward you handsomely!${prompt}
+    Oui, oui! Regardez comme il brille! Merveilleux, tout simplement merveilleux!
+    Si vous en trouvez d'autres, venez me voir et je vous récompenserai généreusement!${prompt}
   10714: |-
-    My mom's the greatest adventurer ever!
-    Every time she comes back, she brings me lots of neat gifts!${prompt}
+    Ma maman est la plus grande aventurière de tous les temps!
+    Chaque fois qu'elle revient, elle me ramène plein de cadeaux géniaux!${prompt}
   10715: |-
-    Walk down this road to go to the Markets District.
-    This is also the road for the Metalworks and the Port District.${prompt}
-  10716: Mom says it's dangerous in there, and I can't go in...${prompt}
+    Suivez cette route pour aller au quartier des marchés.
+    C'est aussi la route pour le Metalworks et le quartier du port.${prompt}
+  10716: Ma maman dit que c'est dangereux là-bas, et je ne peux pas y aller...${prompt}
   10717: |-
-    But someday, I will go inside!
-    Everyone knows that when grown-ups say that kind of thing, they're just trying to keep a fun place to themselves!${prompt}
+    Mais un jour, j'entrerai!
+    Tout le monde sait que quand les adultes disent ce genre de chose, ils essaient juste de garder un endroit amusant pour eux-mêmes!${prompt}
   10718: |-
-    After a Galka lives for more than two hundred years, he reincarnates.
-    Unfortunately, he retains no memory of his past life.
-    But every generation, there is one Galka who does.${prompt}
+    Après deux cents ans de vie, un Galka se réincarne.
+    Malheureusement, il ne conserve aucun souvenir de sa vie passée.
+    Mais chaque génération, il y a un Galka qui le fait.${prompt}
   10719: |-
-    He remembers everything about his past, and he becomes the Talekeeper, the leader of all Galka.
-    Alas, we lost our Talekeeper thirty years ago.${prompt}
-  10720: I have lived more than two hundred years, but I have yet to see any improvement in our relationship with the Humes of Bastok.${prompt}
+    Il se souvient de tout de son passé, et il devient le Gardien des Légendes, le leader de tous les Galka.
+    Hélas, nous avons perdu notre Gardien des Légendes il y a trente ans.${prompt}
+  10720: J'ai vécu plus de deux cents ans, mais je n'ai encore vu aucune amélioration dans notre relation avec les Humes de Bastok.${prompt}
   10721: |-
-    The loss of our Talekeeper has only worsened things...
-    It has cast a dark shadow over the hearts of all Galka.${prompt}
-  10722: Most Galka around here don't like Humes much.${prompt}
-  10723: That's why we don't call ourselves by the names Humes give us.${prompt}
+    La perte de notre Gardien des Légendes n'a fait qu'aggraver les choses...
+    Elle a jeté une ombre sombre sur le cœur de tous les Galka.${prompt}
+  10722: La plupart des Galka d'ici n'aiment pas beaucoup les Humes.${prompt}
+  10723: C'est pourquoi nous ne nous appelons pas par les noms que les Humes nous donnent.${prompt}
   10724: |-
-    Werei was the oldest Galka around here.
-    He was really strong when he was young, you know.${prompt}
-  10725: He's the one who taught Iron Eater, the only Galka in the Mythril Musketeers, how to fight.${prompt}
-  10726: This area is off-limits.${prompt}
+    Werei était le plus vieux Galka d'ici.
+    Il était vraiment fort quand il était jeune, vous savez.${prompt}
+  10725: C'est lui qui a appris à Iron Eater, le seul Galka des Mousquetaires de Mythril, à se battre.${prompt}
+  10726: Cette zone est interdite.${prompt}
   10727: |-
-    You're here for the stamp hunt, right? Here you go.
-    I wonder why so many adventurers are participating in this thing.
-    But then again, I wouldn't want children running around here, either.${prompt}
-  10728: Even with all of Bastok's vaunted technological progress, chocobos, especially of the San d'Orian variety, are still favored by adventurers as rides.${prompt}
-  10729: And of course, our chocobos are imported directly from San d'Oria!${prompt}
+    Vous êtes ici pour la chasse aux tampons, n'est-ce pas ? Tenez.
+    Je me demande pourquoi tant d'aventuriers participent à cette chose.
+    Mais bon, je ne voudrais pas non plus que des enfants courent par ici.${prompt}
+  10728: Malgré tout le progrès technologique vanté de Bastok, les chocobos, surtout de la variété san'dorienne, sont toujours préférés par les aventuriers comme montures.${prompt}
+  10729: Et bien sûr, nos chocobos sont importés directement de San d'Oria !${prompt}
   10730: |-
-    Twenty years ago, there was a war between us and the beastmen.
-    Captain Volker of the Mythril Musketeers and Chief Engineer Cid became heroes in that war...${prompt}
+    Il y a vingt ans, il y a eu une guerre entre nous et les bêtes.
+    Le capitaine Volker des Mousquetaires Mythril et l'ingénieur en chef Cid sont devenus des héros dans cette guerre...${prompt}
   10731: |-
-    But that is Hume history.
-    Few but us know that we lost our best swordsman, the dark knight Zeid, during that conflict.
-    He still hasn't been found, either alive or dead.${prompt}
-  10732: Of course, to Humes, it's just a historical detail, soon forgotten.${prompt}
-  10733: The loss of Talekeeper Raogrimm thirty years ago, and the more recent loss of Zeid, have struck us hard in this time of need.${prompt}
+    Mais cela fait partie de l'histoire des Humes.
+    Peu savent que nous avons perdu notre meilleur épéiste, le chevalier noir Zeid, lors de ce conflit.
+    Il n'a toujours pas été retrouvé, vivant ou mort.${prompt}
+  10732: Bien sûr, pour les Humes, c'est juste un détail historique, bientôt oublié.${prompt}
+  10733: La perte de Raogrimm, le Gardetale il y a trente ans, et la perte plus récente de Zeid, nous ont frappés durement en ces temps difficiles.${prompt}
   10734: |-
-    We Galka are inherently united by the presence of our Talekeeper.
-    With him absent, we are like a shipwrecked crew, lost and drifting in the dark...${prompt}
+    Nous, les Galka, sommes intrinsèquement unis par la présence de notre Gardetale.
+    Sans lui, nous sommes comme un équipage naufragé, perdus et dérivant dans l'obscurité...${prompt}
   10735: |-
-    Bastok is a scary-wary place!
-    Open warfare with the Quadav! Everyone fighting!${prompt}
+    Bastok est un endroit effrayant !
+    Guerre ouverte avec les Quadav ! Tout le monde se bat !${prompt}
   10736: |-
-    Windurst is so different! Very peaceful!
-    We bash-mash Yagudo sometimes, yes, but at least we try to talk to them first!${prompt}
+    Windurst est tellement différente ! Très paisible !
+    Nous combattons parfois les Yagudo, oui, mais au moins nous essayons de leur parler d'abord !${prompt}
   10737: |-
-    Killing each other isn't the way!
-    My little-brittle bones are shaking!${prompt}
-  10738: Bastokers are always grumpy-frumpy because they're fighting all the time!${prompt}
-  10739: Honestly speaking, the Galka in this district scare me the most, even more so than the Quadav...${prompt}
+    Se tuer mutuellement n'est pas la solution !
+    Mes petits os tremblent !${prompt}
+  10738: Les Bastokers sont toujours grognons parce qu'ils se battent tout le temps !${prompt}
+  10739: Pour être honnête, les Galka de ce quartier me font le plus peur, encore plus que les Quadav...${prompt}
   10740: |-
-    Oopsy-doopsy. That was not a nice thing for me to say!
-    Please don't tell anyone I said that!${prompt}
-  10741: |-
-    What? The Gusgen Mines?
-    Oh, you want to know about ${color: 5}glocolite${color: 1}.${prompt}
+    Oupsie-dupsie. Ce n'était pas gentil de ma part !
+    S'il vous plaît, ne dites à personne que j'ai dit ça !${prompt}
+  10741: |- 
+    Quoi ? Les Mines de Gusgen ?
+    Oh, vous voulez savoir à propos de ${color: 5}glocolite${color: 1}.${prompt}
   10742: |-
-    I should warn you, it's not worth the risk.
-    But you're on official business, right?${prompt}
-  10743: There are pools of groundwater in those mines. A special monster lives in one of them, but you'll have to lure it out.${prompt}
-  10744: Trade some bait to a special spot on the ground, and it'll come.${prompt}
+    Je devrais vous prévenir, ça ne vaut pas le risque.
+    Mais vous êtes en mission officielle, non ?${prompt}
+  10743: Il y a des bassins d'eau souterraine dans ces mines. Un monstre spécial vit dans l'un d'eux, mais vous devrez l'attirer.${prompt}
+  10744: Échangez un appât à un endroit spécial sur le sol, et il viendra.${prompt}
   10745: |-
-    It likes ${item-plural: 6[2]}, so use one of those. All you have to do is defeat it and you'll get your ${item-singular: 7[2]}.
-    There are a lot of rivers there, mind you, but only one spot where it appears. Anyway, good luck!${prompt}
+    Il aime les ${item-plural: 6[2]}, alors utilisez-en un. Tout ce que vous avez à faire est de le vaincre et vous obtiendrez votre ${item-singular: 7[2]}.
+    Il y a beaucoup de rivières là-bas, mais un seul endroit où il apparaît. En tout cas, bonne chance !${prompt}
   10746: |-
-    I thought I told you I don't want any help, I--
-    Oh, I'm sorry. I thought you were someone else.
-    She won't stop pestering me...${prompt}
+    Je pensais vous avoir dit que je ne voulais pas d'aide, je--
+    Oh, je suis désolé. Je pensais que vous étiez quelqu'un d'autre.
+    Elle ne cesse de me harceler...${prompt}
   10747: |-
-    Hiya, Mister Pavvke!
-    How's your health?${prompt}
+    Salut, M. Pavvke !
+    Comment va votre santé ?${prompt}
   10748: |-
-    I knew you'd be back...
-    I might be old, but I'm not dying yet.${prompt}
+    Je savais que vous reviendriez...
+    Je suis peut-être vieux, mais je ne suis pas mourant encore.${prompt}
   10749: |-
-    Oops, sorry.
-    That was Parraggoh...${prompt}
+    Oups, désolé.
+    C'était Parraggoh...${prompt}
   10750: 'Anyway, I went and asked adventurers near the Metalworks if they''d ever seen the ${item-plural: 7[2]} you told me about, but no one knew anything about them.${prompt}'
   10751: |-
     That's very kind of you, but it's been over fifteen years since the accident...
