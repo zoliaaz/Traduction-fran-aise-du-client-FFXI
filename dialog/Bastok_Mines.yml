@@ -27522,185 +27522,185 @@ entries:
     ${selection-lines}
     Yes.
     Not yet!${prompt}
-  12839: Once you retire your chocobo, you won't be able to meet it anytime you want anymore. Are you okay with that?${prompt}
-  12840: Understood. We hope you enjoyed raising your chocobo.${prompt}
-  12841: Of course not! Such a decision cannot be made in haste!${prompt}
-  12842: Your chocobo learns Gallop!
-  12843: Your chocobo learns Canter!
-  12844: Your chocobo learns Burrow!
-  12845: Your chocobo learns Bore!
-  12846: Your chocobo learns Auto-Regen!
-  12847: Your chocobo learns Treasure Finder!
-  12848: 'I''m afraid we still aren''t finished using the ${item-singular: 0[2]}, so I will have to return your item to you.${prompt}'
-  12849: 'You give the ${item-singular: 0[2]} to the chocobo.${prompt}'
-  12850: The chocobo looks like it's already full, but it's forcing itself to eat...${prompt}
-  12851: Your chocobo is sleeping soundly. You cannot feed it now.${prompt}
-  12852: Your chocobo has run away. You cannot feed it now.${prompt}
-  12853: You cannot feed a chocobo that has not hatched yet.${prompt}
-  12854: It seems like it will have some sort of effect on the chocobo...${prompt}
-  12855: Let me know if you have any questions about chocobo raising.${prompt}
+  12839: Une fois que vous prenez votre retraite de votre chocobo, vous ne pourrez plus le rencontrer à tout moment. Êtes-vous d'accord avec cela ?${prompt}
+  12840: Bien compris. Nous espérons que vous avez apprécié élever votre chocobo.${prompt}
+  12841: Bien sûr que non ! Une telle décision ne peut être prise à la légère !${prompt} 
+  12842: Votre chocobo apprend Galop !
+  12843: Votre chocobo apprend Trot !
+  12844: Votre chocobo apprend Creusement !
+  12845: Votre chocobo apprend Forage !
+  12846: Votre chocobo apprend Auto-Régénération !
+  12847: Votre chocobo apprend Trouvaille de Trésor !
+  12848: "Je crains que nous n'ayons pas encore fini d'utiliser le ${item-singular: 0[2]}, donc je vais devoir vous retourner votre objet.${prompt}"
+  12849: "Vous donnez le ${item-singular: 0[2]} au chocobo.${prompt}"
+  12850: Le chocobo semble déjà plein, mais il se force à manger...${prompt}
+  12851: Votre chocobo dort profondément. Vous ne pouvez pas le nourrir maintenant.${prompt} 
+  12852: Votre chocobo s'est enfui. Vous ne pouvez pas le nourrir maintenant.${prompt}
+  12853: Vous ne pouvez pas nourrir un chocobo qui n'a pas encore éclos.${prompt}
+  12854: Il semble que cela aura un certain effet sur le chocobo...${prompt}
+  12855: Faites-moi savoir si vous avez des questions sur l'élevage des chocobos.${prompt}
   12856: |-
-    What would you like to ask about?
+    "Que voulez-vous demander ?"
     ${selection-lines}
-    The Vana'diel Chocobo Society.
-    Time required.
-    Chocobo attributes.
-    Care schedule.
-    Caring for your chocobo.
-    Feed.
-    Abilities and personality.
-    Retirement.
-    Matchmaking.
-    Calling chocobos in the field.
-    Items.
-    Lost chicks.
-    Nothing.${prompt}
-  12857: Just let me know if you ever get curious!${prompt}
-  12858: The Vana'diel Chocobo Society, or VCS for short, is an international organization designed to train and dispatch chocogirls and chocoguys to stables across Vana'diel.${prompt}
-  12859: They provide courses on practical chocobo riding and the proper ways to care for a chocobo, as well as working to improve the treatment of chocobos from here to Aht Urhgan.${prompt}
-  12860: Anyone can join as long as they love chocobos. The VCS will help you with anything you need.${prompt}
-  12861: Chicks hatch from eggs, grow into young chocobos, and finally mature.${prompt}
-  12862: They grow much faster than people do. Usually it takes about 1 month (Earth time) before you can ride your chocobo.${prompt}
-  12863: The chocobo's traits are determined by the way in which you care for your animal. Without proper planning, you won't be able to raise the type of chocobo that you want.${prompt}
-  12864: But don't worry, because you have us to help! We're all in this together!${prompt}
+    La Société des Chocobos de Vana'diel.
+    Temps requis.
+    Attributs des chocobos.
+    Programme de soins.
+    Prendre soin de votre chocobo.
+    Nourriture.
+    Capacités et personnalité.
+    Retraite.
+    Mise en relation.
+    Appel des chocobos sur le terrain.
+    Objets.
+    Poussins perdus.
+    Rien.${prompt}
+  12857: Faites-moi savoir si vous êtes jamais curieux !${prompt}
+  12858: La Société des Chocobos de Vana'diel, ou SCV pour faire court, est une organisation internationale conçue pour former et envoyer des chocofilles et chocogars dans des écuries à travers Vana'diel.${prompt}
+  12859: Ils proposent des cours sur l'équitation pratique des chocobos et les bonnes façons de prendre soin d'un chocobo, tout en travaillant à améliorer le traitement des chocobos d'ici à Aht Urhgan.${prompt}
+  12860: Tout le monde peut rejoindre tant qu'ils aiment les chocobos. La SCV vous aidera avec tout ce dont vous avez besoin.${prompt}
+  12861: Les poussins éclosent des œufs, grandissent en jeunes chocobos, et mûrissent enfin.${prompt}
+  12862: Ils grandissent beaucoup plus vite que les gens. Habituellement, il faut environ 1 mois (temps terrestre) avant de pouvoir monter votre chocobo.${prompt}
+  12863: Les traits du chocobo sont déterminés par la façon dont vous prenez soin de votre animal. Sans planification adéquate, vous ne pourrez pas élever le type de chocobo que vous souhaitez.${prompt}
+  12864: Mais ne vous inquiétez pas, car vous avez nous pour vous aider ! Nous sommes tous ensemble là-dedans !${prompt}
   12865: |-
-    Ask about which attribute?
+    Demander à propos de quelle caractéristique ?
     ${selection-lines}
-    Strength.
+    Force.
     Endurance.
-    Discernment.
-    Receptivity.
-    Energy.
+    Discernement.
+    Réceptivité.
+    Énergie.
     Affection.
     Satisfaction.
-    Nothing.${prompt}
-  12866: “Strength” is a term used to describe the chocobo's leg power. The more strength a chocobo has, the faster it will be able to run. Rental chocobos have been raised with an emphasis on this attribute.${prompt}
-  12867: Both strength and endurance are collectively referred to as “Physical attributes.”${prompt}
-  12868: “Endurance” is a term used to describe the chocobo's stamina. If your chocobo has high endurance, you will be able to ride it for a long period of time.${prompt}
-  12869: Both strength and endurance are collectively referred to as “Physical attributes.”${prompt}
-  12870: “Discernment” is a must for anyone who wants their chocobo to learn new abilities. You may want to consider raising this attribute if you are interested in digging for treasure.${prompt}
-  12871: Both discernment and receptivity are collectively referred to as “Mental attributes.”${prompt}
-  12872: “Receptivity” is a term used to describe the chocobo's sensitivity when dealing with others. You can foster receptivity in your chocobo by giving it lots of opportunities to communicate with other chocobos.${prompt}
-  12873: Both discernment and receptivity are collectively referred to as “Mental attributes.”${prompt}
-  12874: “Energy” is a term used to describe the amount of power the chocobo needs to stay active for the day. If your chocobo has a lot of energy, care plans are more likely to be successful and you can provide more direct care for your chocobo.${prompt}
-  12875: You can restore your chocobo's energy by feeding it, so remember not to skip out on feeding time after a demanding schedule!${prompt}
-  12876: “Affection” is the most important attribute of all. Your care schedule will fall flat if you don't show your chocobo proper affection!${prompt}
-  12877: You can raise your chocobo's affection by feeding it greens and caring for it on a regular basis.${prompt}
-  12878: 'If you really want to raise your chocobo''s affection quickly, you can give it ${article} ${item-article: 0[2]}, but I can''t recommend doing so unless absolutely necessary.${prompt}'
-  12879: “Satisfaction” is a term used to describe how full or hungry your chocobo is. If your chocobo is full, it will gain a lot of energy before the next day.${prompt}
-  12880: However, when the chocobo is very hungry, its energy will hardly recover at all and its affection will rapidly decrease.${prompt}
+    Rien.${prompt}
+  12866: “La force” est un terme utilisé pour décrire la puissance des jambes du chocobo. Plus un chocobo est fort, plus il pourra courir vite. Les chocobos de location ont été élevés en mettant l'accent sur cette caractéristique.${prompt}
+  12867: La force et l'endurance sont collectivement désignées sous le terme d'"attributs physiques".${prompt}
+  12868: “L'endurance” est un terme utilisé pour décrire l'endurance du chocobo. Si votre chocobo a une endurance élevée, vous pourrez le monter pendant une longue période.${prompt}
+  12869: La force et l'endurance sont collectivement désignées sous le terme d'"attributs physiques".${prompt}
+  12870: “Le discernement” est indispensable pour quiconque souhaite que son chocobo apprenne de nouvelles capacités. Vous voudrez peut-être envisager d'augmenter cette caractéristique si vous êtes intéressé par la recherche de trésors.${prompt}
+  12871: Le discernement et la réceptivité sont collectivement désignés sous le terme d'"attributs mentaux".${prompt}
+  12872: “La réceptivité” est un terme utilisé pour décrire la sensibilité du chocobo lorsqu'il interagit avec les autres. Vous pouvez favoriser la réceptivité de votre chocobo en lui donnant de nombreuses occasions de communiquer avec d'autres chocobos.${prompt}
+  12873: Le discernement et la réceptivité sont collectivement désignés sous le terme d'"attributs mentaux".${prompt}
+  12874: “L'énergie” est un terme utilisé pour décrire la quantité de puissance dont le chocobo a besoin pour rester actif pendant la journée. Si votre chocobo a beaucoup d'énergie, les plans de soins sont plus susceptibles de réussir et vous pouvez fournir plus de soins directs à votre chocobo.${prompt}
+  12875: Vous pouvez restaurer l'énergie de votre chocobo en le nourrissant, alors n'oubliez pas de ne pas sauter de repas après un emploi du temps chargé !${prompt}
+  12876: “L'affection” est l'attribut le plus important de tous. Votre plan de soins sera un échec si vous ne montrez pas à votre chocobo une affection appropriée !${prompt}
+  12877: Vous pouvez augmenter l'affection de votre chocobo en lui donnant des légumes verts et en prenant soin de lui régulièrement.${prompt}
+  12878: 'Si vous voulez vraiment augmenter rapidement l’affection de votre chocobo, vous pouvez lui donner ${article} ${item-article: 0[2]}, mais je ne peux pas recommander de le faire sauf en cas de nécessité absolue.${prompt}'
+  12879: “La satisfaction” est un terme utilisé pour décrire si votre chocobo est rassasié ou affamé. Si votre chocobo est rassasié, il regagnera beaucoup d'énergie avant le lendemain.${prompt}
+  12880: Cependant, lorsque le chocobo est très affamé, son énergie se rétablira à peine et son affection diminuera rapidement.${prompt}
   12881: |-
-    What would you like to ask about?
+    Que souhaitez-vous savoir ?
     ${selection-lines}
-    What is a care schedule?
-    Basic care.
-    Resting.
-    Taking a walk.
-    Listening to music.
-    Exercising alone.
-    Exercising in a group.
-    Interacting with children.
-    Interacting with chocobos.
-    Carrying packages.
-    Exhibiting to the public.
-    Delivering messages.
-    Digging for treasure.
-    Acting in a play.
-    Nothing.${prompt}
-  12882: A care schedule is a series of plans that you set up for your chocobo so that we can take care of it while you are away.${prompt}
-  12883: How you want us to care for your chocobo each day is completely up to you.${prompt}
-  12884: You can register up to four plans at once, each for up to 7 days (Earth time).${prompt}
-  12885: When you come to check on your chocobo, we will give you a report on the results. You should listen closely to the report and use it as reference when deciding on a new schedule.${prompt}
-  12886: With the basic care plan, we will provide the minimum level of care for your chocobo. This plan is the most stable, and your chocobo will probably not experience any sudden changes.${prompt}
-  12887: The basic care plan is good for those who don't want their chocobo's traits to change much or are still unsure of what kind of schedule to choose.${prompt}
-  12888: You can select the basic care plan the moment you start raising your chocobo.${prompt}
-  12889: The rest plan's name speaks for itself. We will give your chocobo a rest in order to restore its energy and cure any status abnormalities.${prompt}
-  12890: However, your chocobo will not be able to eat any food you give it during the plan, because it will be in a deep sleep.${prompt}
-  12891: We can take your chocobo for a walk in town to improve its physical attributes of strength and endurance. However, it will have a negative effect on its mental attributes of discernment and receptivity.${prompt}
-  12892: Listening to music will improve your chocobo's mental attributes of discernment and receptivity. However, it will have a negative effect on its physical attributes of strength and endurance.${prompt}
-  12893: Exercising alone will significantly improve your chocobo's strength. On the other hand, its mental attributes will markedly decrease.${prompt}
-  12894: If the chocobo is strong, this plan is quite effective, but if the chocobo is weak, then you shouldn't push it too hard.${prompt}
-  12895: Exercising with chocobos will build your animal's endurance. On the other hand, its mental attributes will decrease.${prompt}
-  12896: If the chocobo has high endurance, this plan is quite effective, but if the chocobo's endurance is low, then you shouldn't push it too hard.${prompt}
-  12897: Interacting with children helps your chocobo become a more discerning creature by interacting with people.${prompt}
-  12898: However, this plan will have a negative effect on the chocobo's physical attributes, as no strenuous exercise is involved.${prompt}
-  12899: If the chocobo has good discernment, this plan is quite effective, but if the chocobo does not have good discernment, then you shouldn't push it too hard.${prompt}
-  12900: Interacting with other chocobos in the field will improve the chocobo's receptivity by fostering its communication skills.${prompt}
-  12901: But because the focus is on communication and not exercise, this plan will have a negative effect on the chocobo's physical attributes.${prompt}
-  12902: If the chocobo has good receptivity, this plan is quite effective, but if the chocobo does not have good receptivity, then you shouldn't push it too hard.${prompt}
-  12903: You can choose to have your chocobo help deliver packages. Not only will this improve its physical attributes, but you will even receive payment for your services!${prompt}
-  12904: The downside is that your chocobo's mental attributes, energy, and affection will decrease. You must care well for your chocobo, or you might find yourself getting cold treatment.${prompt}
-  12905: You can choose to exhibit your chocobo to the public, which will allow anyone visiting the chocobo stables to take a look at your animal. Being the center of attention will help improve your chocobo's mental attributes.${prompt}
-  12906: The downside is that your chocobo's physical attributes, energy, and affection will decrease. You must care well for your chocobo afterwards. Also, you will receive payment for this service.${prompt}
-  12907: You can choose to have your chocobo deliver official messages for the nation. Not only will this improve its strength, but you will even receive payment for your services!${prompt}
-  12908: However, this plan consumes quite a bit of your chocobo's energy, so you should feed it well to make up for it.${prompt}
-  12909: You can have your chocobo help out VCS finances by digging for treasure. This will also improve the chocobo's discernment.${prompt}
-  12910: The VCS will sell the item and use the money for the organization's benefit, but will provide you with payment for your services.${prompt}
-  12911: However, this plan consumes quite a bit of your chocobo's energy, so you should feed it well to make up for it.${prompt}
-  12912: You can choose to have your chocobo act as an extra in a play to improve its receptivity.${prompt}
-  12913: You will receive payment in accordance with the chocobo's performance. However, this plan consumes quite a bit of your chocobo's energy, so you should feed it well to make up for it.${prompt}
+    Qu'est-ce qu'un emploi du temps de soins ?
+    Soins de base.
+    Repos.
+    Se promener.
+    Écouter de la musique.
+    Faire de l'exercice seul.
+    Faire de l'exercice en groupe.
+    Interagir avec les enfants.
+    Interagir avec les chocobos.
+    Porter des colis.
+    Se montrer en public.
+    Livrer des messages.
+    Fouiller les trésors.
+    Jouer dans une pièce de théâtre.
+    Rien.${prompt}
+  12882: Un emploi du temps de soins est une série de plans que vous établissez pour votre chocobo afin que nous puissions en prendre soin pendant votre absence.${prompt}
+  12883: Comment vous voulez que nous prenions soin de votre chocobo chaque jour vous appartient entièrement.${prompt}
+  12884: Vous pouvez enregistrer jusqu'à quatre plans à la fois, chacun pour une durée maximale de 7 jours (temps terrestre).${prompt}
+  12885: Lorsque vous venez vérifier votre chocobo, nous vous fournirons un rapport sur les résultats. Vous devriez écouter attentivement le rapport et l'utiliser comme référence lorsque vous décidez d'un nouveau planning.${prompt}
+  12886: Avec le plan de soins de base, nous fournirons le niveau minimum de soins pour votre chocobo. Ce plan est le plus stable, et votre chocobo ne connaîtra probablement aucun changement soudain.${prompt}
+  12887: Le plan de soins de base est bon pour ceux qui ne veulent pas que les caractéristiques de leur chocobo changent beaucoup ou qui ne sont pas encore sûrs du type de planning à choisir.${prompt}
+  12888: Vous pouvez sélectionner le plan de soins de base dès le début de l'élevage de votre chocobo.${prompt}
+  12889: Le plan de repos parle de lui-même. Nous donnerons à votre chocobo du repos afin de restaurer son énergie et de guérir toute anomalie de statut.${prompt}
+  12890: Cependant, votre chocobo ne pourra pas manger de nourriture que vous lui donnez pendant le plan, car il sera plongé dans un sommeil profond.${prompt}
+  12891: Nous pouvons emmener votre chocobo se promener en ville pour améliorer ses attributs physiques de force et d'endurance. Cependant, cela aura un effet négatif sur ses attributs mentaux de discernement et de réceptivité.${prompt}
+  12892: Écouter de la musique améliorera les attributs mentaux de discernement et de réceptivité de votre chocobo. Cependant, cela aura un effet négatif sur ses attributs physiques de force et d'endurance.${prompt}
+  12893: Faire de l'exercice seul améliorera considérablement la force de votre chocobo. En revanche, ses attributs mentaux diminueront nettement.${prompt}
+  12894: Si le chocobo est fort, ce plan est assez efficace, mais si le chocobo est faible, alors vous ne devriez pas le pousser trop fort.${prompt}
+  12895: Faire de l'exercice avec d'autres chocobos renforcera l'endurance de votre animal. En revanche, ses attributs mentaux diminueront.${prompt}
+  12896: Si le chocobo a une endurance élevée, ce plan est assez efficace, mais si l'endurance du chocobo est faible, alors vous ne devriez pas le pousser trop fort.${prompt}
+  12897: Interagir avec des enfants aide votre chocobo à devenir une créature plus discernante en interagissant avec les gens.${prompt}
+  12898: Cependant, ce plan aura un effet négatif sur les attributs physiques du chocobo, car aucun exercice physique intense n'est impliqué.${prompt}
+  12899: Si le chocobo a un bon discernement, ce plan est assez efficace, mais si le chocobo n'a pas un bon discernement, alors vous ne devriez pas le pousser trop fort.${prompt}
+  12900: Interagir avec d'autres chocobos sur le terrain améliorera la réceptivité du chocobo en favorisant ses compétences de communication.${prompt}
+  12901: Mais comme l'accent est mis sur la communication et non sur l'exercice, ce plan aura un effet négatif sur les attributs physiques du chocobo.${prompt}
+  12902: Si le chocobo a une bonne réceptivité, ce plan est assez efficace, mais si le chocobo n'a pas une bonne réceptivité, alors vous ne devriez pas le pousser trop fort.${prompt}
+  12903: Vous pouvez choisir de faire aider votre chocobo à livrer des colis. Non seulement cela améliorera ses attributs physiques, mais vous recevrez même un paiement pour vos services !${prompt}
+  12904: L'inconvénient est que les attributs mentaux, l'énergie et l'affection de votre chocobo diminueront. Vous devez bien prendre soin de votre chocobo, sinon vous pourriez vous retrouver avec un traitement froid.${prompt}
+  12905: Vous pouvez choisir d'exposer votre chocobo au public, ce qui permettra à quiconque visitant les écuries de chocobos de jeter un coup d'œil à votre animal. Être au centre de l'attention aidera à améliorer les attributs mentaux de votre chocobo.${prompt}
+  12906: L'inconvénient est que les attributs physiques, l'énergie et l'affection de votre chocobo diminueront. Vous devez bien prendre soin de votre chocobo par la suite. De plus, vous recevrez un paiement pour ce service.${prompt}
+  12907: Vous pouvez choisir de faire aider votre chocobo à livrer des messages officiels pour la nation. Non seulement cela améliorera sa force, mais vous recevrez même un paiement pour vos services !${prompt}
+  12908: Cependant, ce plan consomme beaucoup de l'énergie de votre chocobo, donc vous devriez bien le nourrir pour compenser.${prompt}
+  12909: Vous pouvez faire aider votre chocobo à creuser des trésors pour les finances du VCS. Cela améliorera également le discernement du chocobo.${prompt}
+  12910: Le VCS vendra l'objet et utilisera l'argent pour le bénéfice de l'organisation, mais vous fournira un paiement pour vos services.${prompt}
+  12911: Cependant, ce plan consomme beaucoup de l'énergie de votre chocobo, donc vous devriez bien le nourrir pour compenser.${prompt}
+  12912: Vous pouvez choisir de faire jouer votre chocobo comme figurant dans une pièce de théâtre pour améliorer sa réceptivité.${prompt}
+  12913: Vous recevrez un paiement en fonction de la performance du chocobo. Cependant, ce plan consomme beaucoup de l'énergie de votre chocobo, donc vous devriez bien le nourrir pour compenser.${prompt}
   12914: |-
-    What would you like to ask about?
+    Que souhaitez-vous savoir ?
     ${selection-lines}
-    A general explanation.
-    Watching over your chocobo.
-    Telling a story.
-    Scolding.
-    Competing.
-    Taking a walk.
-    Nothing.${prompt}
-  12915: In addition to setting the chocobo's schedule, you can also care directly for your chocobo whenever you like.${prompt}
-  12916: Caring for your chocobo will increase its affection for you.${prompt}
-  12917: On the other hand, a chocobo that receives too much care will lose energy more rapidly when engaging in activities. If you do nothing but care for your chocobo, it will become fatigued.${prompt}
-  12918: However, not caring enough for your chocobo will have a negative effect on your relationship, so it is important to find a balance.${prompt}
-  12919: You can watch over your chocobo whenever you like.${prompt}
-  12920: Your fond gaze can communicate even more than a touch and will not have a very tiring effect on the animal.${prompt}
-  12921: You can tell the chocobo a story you know. This will foster the animal's sensibilities.${prompt}
-  12922: I've heard that by listening to the story, the chocobo might even realize it has powers it never noticed before. (I've never seen it happen before, though...)${prompt}
-  12923: Sometimes your chocobo might start acting spoiled or refuse to do anything but sleep. In such times, you will need to firmly scold it.${prompt}
-  12924: This will shame the animal and have an effect on its receptivity.${prompt}
-  12925: Competing against other chocobos will cultivate your animal's ambitious spirit and is highly effective for bored chocobos.${prompt}
-  12926: You can take your chocobo out for a walk in the field. You will be able to choose more destinations as your chocobo grows.${prompt}
-  12927: I like to take the chocobo out often, too, but I'm sure it prefers going out with you.${prompt}
-  12928: Leaving the stables every once in a while allows your chocobo to experience new sights and sounds. Maybe you'll even discover something new together!${prompt}
+    Une explication générale.
+    Surveiller votre chocobo.
+    Raconter une histoire.
+    Réprimander.
+    Participer à des compétitions.
+    Se promener.
+    Rien.${prompt}
+  12915: En plus de définir le planning du chocobo, vous pouvez également prendre soin directement de votre chocobo quand vous le souhaitez.${prompt}
+  12916: Prendre soin de votre chocobo augmentera son affection pour vous.${prompt}
+  12917: En revanche, un chocobo qui reçoit trop de soins perdra plus rapidement de l'énergie lorsqu'il participera à des activités. Si vous ne faites que prendre soin de votre chocobo, il deviendra fatigué.${prompt}
+  12918: Cependant, ne pas prendre assez soin de votre chocobo aura un effet négatif sur votre relation, il est donc important de trouver un équilibre.${prompt}
+  12919: Vous pouvez surveiller votre chocobo quand vous le souhaitez.${prompt}
+  12920: Votre regard bienveillant peut communiquer encore plus qu'un contact physique et n'aura pas un effet très fatigant sur l'animal.${prompt}
+  12921: Vous pouvez raconter au chocobo une histoire que vous connaissez. Cela encouragera la sensibilité de l'animal.${prompt}
+  12922: J'ai entendu dire qu'en écoutant l'histoire, le chocobo pourrait même se rendre compte qu'il a des pouvoirs qu'il n'avait jamais remarqués auparavant. (Je ne l'ai jamais vu arriver, cependant...)${prompt}
+  12923: Parfois, votre chocobo pourrait commencer à se comporter en enfant gâté ou refuser de faire autre chose que de dormir. Dans de tels cas, vous devrez le réprimander fermement.${prompt}
+  12924: Cela fera honte à l'animal et aura un effet sur sa réceptivité.${prompt}
+  12925: Concourir contre d'autres chocobos cultivera l'esprit ambitieux de votre animal et est très efficace pour les chocobos ennuyés.${prompt}
+  12926: Vous pouvez emmener votre chocobo se promener dans le champ. Vous pourrez choisir plus de destinations à mesure que votre chocobo grandit.${prompt}
+  12927: J'aime aussi sortir souvent le chocobo, mais je suis sûr qu'il préfère sortir avec vous.${prompt}
+  12928: Quitter les écuries de temps en temps permet à votre chocobo de découvrir de nouveaux paysages et de nouveaux sons. Peut-être que vous découvrirez même quelque chose de nouveau ensemble !${prompt}
   12929: |-
-    What would you like to know about?
+    Que voulez-vous savoir ?
     ${selection-lines}
-    Why feeding is important.
-    Vegetables.
-    Wildgrasses.
-    Carrots.
-    Worms.
-    Medicines.
-    Pastes.
-    Nothing.${prompt}
-  12930: Chocobos digest feed quickly, so they are often hungry.${prompt}
-  12931: However, they also restore energy at a rapid pace. If you do not feed your chocobo properly, it will be unable to restore enough energy.${prompt}
-  12932: The chocobo stables will provide your chocobo with the minimum amount of feed required for the animal to survive, but you need to provide more in order to ensure its healthy growth.${prompt}
-  12933: At the same time, feeding your chocobo too much can result in a stomachache. Remember to strike a balance with both the variety and quantity of feed you give to your animal!${prompt}
-  12934: Some types of feed have special effects, so it is important not to neglect your chocobo's diet if you want to raise a good chocobo.${prompt}
-  12935: There are different methods of acquiring these special types of feed, so be on the lookout for them!${prompt}
-  12936: 'Just ${color: 5}trade${color: 1} the feed to an advanced chocobo trainer, and they will give it to your chocobo.${prompt}'
-  12937: 'This is the standard variety of chocobo feed, among which ${item-plural: 0[2]} are most popular.${prompt}'
-  12938: 'Chocobos also seem to enjoy ${item-plural: 0[2]} and ${item-plural: 1[2]}.${prompt}'
-  12939: These greens are the most effective in satisfying a chocobo's hunger. Chocobos also enjoy the taste, which raises affection for their owner.${prompt}
-  12940: Wildgrasses are a type of medicinal herb. They do not taste very good, but are highly effective at curing status abnormalities.${prompt}
-  12941: '${lettercase: 1}${article} ${item-article: 0[2]}, for example, works well on wounds. So although they look similar to ${article} ${item-article: 1[2]}, the effects are different.${prompt}'
-  12942: 'In addition, ${article} ${item-article: 0[2]} is effective for illness, and ${article} ${item-article: 1[2]} for a stomachache. It''s a good idea to remember which herb to use in each situation.${prompt}'
-  12943: Carrots are high in nutrition, and will have an effect on the chocobo's strength and discernment.${prompt}
-  12944: '${lettercase: 1}${item-plural: 0[2]}, for example, affect the chocobo''s physical attributes, and ${item-plural: 1[2]} are good for its mental attributes. ${lettercase: 1}${item-plural: 2[2]} are in a category of their own.${prompt}'
-  12945: Remember, though, that the results are very slight, and keeping a good care schedule is a far more efficient way to alter your chocobo's attributes.${prompt}
-  12946: Using worms as feed can have a variety of effects. They might look disgusting, but their effectiveness is not to be ignored!${prompt}
-  12947: 'For example, ${article} ${item-article: 0[2]} will dramatically increase your chocobo''s affection, and ${article} ${item-article: 1[2]} will restore its energy.${prompt}'
-  12948: But watch out for the side effects... Give the chocobo a worm at the wrong time, and all your effort could come to nothing...${prompt}
-  12949: 'The most curious of all the worms is the ${item-singular: 0[2]}. At first it may not seem to have any effect, but looks are deceiving...${prompt}'
-  12950: Medicines can cure a chocobo in the blink of an eye.${prompt}
-  12951: '${lettercase: 1}${article} ${item-article: 0[2]} will restore your chocobo''s energy in full, making it easier to care for and ensuring that the care schedule goes smoothly.${prompt}'
-  12952: '${lettercase: 1}${item-plural: 0[2]} are effective for most status abnormalities, restoring instant health to your chocobo. Of course, you still need to continue caring for your chocobo so it can fully recover.${prompt}'
-  12953: A potion can also help fill a chocobo's stomach, so they can be useful when you are short on feed.${prompt}
-  12954: Feed can be ground into paste for chicks to eat.${prompt}
-  12955: You can make paste yourself with some cooking skill. If you don't have enough cooking skill yourself, then you might want to ask a friend to make some for you.${prompt}
-  12956: Chicks can also eat regular feed, though.${prompt}
+    Pourquoi l'alimentation est importante.
+    Légumes.
+    Herbes sauvages.
+    Carottes.
+    Vers.
+    Médicaments.
+    Pâtes.
+    Rien.${prompt}
+  12930: Les chocobos digèrent rapidement les aliments et sont donc souvent affamés.${prompt}
+  12931: Cependant, ils restaurent également rapidement leur énergie. Si vous ne nourrissez pas correctement votre chocobo, il ne pourra pas récupérer suffisamment d'énergie.${prompt}
+  12932: Les écuries de chocobos fourniront à votre chocobo la quantité minimale d'aliment nécessaire pour que l'animal survive, mais vous devez en fournir davantage pour garantir sa croissance saine.${prompt}
+  12933: En même temps, nourrir votre chocobo trop peut entraîner des maux d'estomac. N'oubliez pas de trouver un équilibre tant dans la variété que dans la quantité de nourriture que vous donnez à votre animal !${prompt}
+  12934: Certains types de nourriture ont des effets spéciaux, il est donc important de ne pas négliger le régime alimentaire de votre chocobo si vous voulez élever un bon chocobo.${prompt}
+  12935: Il existe différentes méthodes pour acquérir ces types de nourriture spéciaux, donc restez à l'affût !${prompt}
+  12936: 'Il vous suffit simplement d’ ${color: 5}échanger${color: 1} la nourriture avec un dresseur de chocobos expérimenté, et il la donnera à votre chocobo.${prompt}'
+  12937: 'Il s’agit de la variété standard de nourriture pour chocobos, parmi lesquelles ${item-plural: 0[2]} sont les plus populaires.${prompt}'
+  12938: 'Les chocobos semblent aussi apprécier les ${item-plural: 0[2]} et les ${item-plural: 1[2]}.${prompt}'
+  12939: Ces légumes sont les plus efficaces pour satisfaire la faim d'un chocobo. Les chocobos aiment aussi le goût, ce qui renforce l'affection pour leur propriétaire.${prompt}
+  12940: Les herbes sauvages sont une sorte d'herbe médicinale. Elles n'ont pas très bon goût, mais sont très efficaces pour guérir les anomalies de statut.${prompt}
+  12941: '${lettercase: 1}${article} ${item-article: 0[2]}, par exemple, fonctionne bien sur les blessures. Donc, bien qu’elles ressemblent à ${article} ${item-article: 1[2]}, les effets sont différents.${prompt}'
+  12942: 'De plus, ${article} ${item-article: 0[2]} est efficace contre les maladies, et ${article} ${item-article: 1[2]} contre les maux d’estomac. Il est judicieux de se souvenir de quelle herbe utiliser dans chaque situation.${prompt}'
+  12943: Les carottes sont riches en nutriments et auront un effet sur la force et la perspicacité du chocobo.${prompt}
+  12944: '${lettercase: 1}${item-plural: 0[2]}, par exemple, affectent les attributs physiques du chocobo, et ${item-plural: 1[2]} sont bons pour ses attributs mentaux. ${lettercase: 1}${item-plural: 2[2]} sont dans une catégorie à part.${prompt}'
+  12945: N'oubliez cependant que les résultats sont très légers, et maintenir un bon planning de soins est un moyen bien plus efficace de modifier les attributs de votre chocobo.${prompt}
+  12946: Utiliser des vers comme nourriture peut avoir divers effets. Ils peuvent sembler répugnants, mais leur efficacité ne doit pas être négligée !${prompt}  
+  12947: 'Par exemple, ${article} ${item-article: 0[2]} augmentera considérablement l’affection de votre chocobo, et ${article} ${item-article: 1[2]} restaurera son énergie.${prompt}'
+  12948: Mais attention aux effets secondaires... Donner un ver au chocobo au mauvais moment, et tous vos efforts pourraient être vains...${prompt}
+  12949: 'Le plus curieux de tous les vers est le ${item-singular: 0[2]}. Au début, il peut ne pas sembler avoir d’effet, mais les apparences sont trompeuses...${prompt}'
+  12950: Les médicaments peuvent guérir un chocobo en un clin d'œil.${prompt}
+  12951: '${lettercase: 1}${article} ${item-article: 0[2]} restaurera l’énergie de votre chocobo entièrement, le rendant plus facile à soigner et assurant que le planning de soins se déroule bien.${prompt}'
+  12952: '${lettercase: 1}${item-plural: 0[2]} sont efficaces pour la plupart des anomalies de statut, restaurant instantanément la santé de votre chocobo. Bien sûr, vous devez continuer à prendre soin de votre chocobo pour qu’il puisse récupérer entièrement.${prompt}'
+  12953: Une potion peut également aider à remplir l'estomac d'un chocobo, elles peuvent donc être utiles lorsque vous manquez de nourriture.${prompt}
+  12954: La nourriture peut être broyée en pâte pour que les poussins puissent la manger.${prompt}
+  12955: Vous pouvez fabriquer de la pâte vous-même avec un peu de compétence culinaire. Si vous n'avez pas assez de compétence culinaire vous-même, vous pouvez demander à un ami d'en faire pour vous.${prompt}
+  12956: Les poussins peuvent aussi manger de la nourriture régulière, cependant.${prompt}
   12957: |-
     Which would you like to ask about?
     ${selection-lines}
