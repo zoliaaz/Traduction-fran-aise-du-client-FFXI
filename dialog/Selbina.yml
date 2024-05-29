@@ -17027,50 +17027,49 @@ entries:
     perle
     Effacer tous les indicateurs${prompt}
   7058: |-
-    Raise which flag?
+    Lever quel drapeau ?
     ${selection-lines}
-    Bait 1
-    Bait 2
-    Bait 3
-    Clear Flags${prompt}
+    Appât 1
+    Appât 2
+    Appât 3
+    Effacer les drapeaux${prompt}
   7059: |-
-    Raise which flags?
+    Lever quels drapeaux ?
     ${selection-lines}
-    West Ronfaure
-    East Ronfaure
-    North Gustaberg
-    South Gustaberg
-    West Sarutabaruta
-    East Sarutabaruta
-    La Theine Plateau
-    Konschtat Highlands
-    Valkurm Dunes
-    Jugner Forest
-    Pashhow Swamp
-    Tahrongi Canyon
-    Buburimu Island
-    Batallia Downs
-    Sauromugue Plains
-    Meriphataud Mountains
-    Rolanberry Fields
-    All of the Above
-    Clear Flags${prompt}
+    Ronfaure Ouest
+    Ronfaure Est
+    Gustaberg Nord
+    Gustaberg Sud
+    Sarutabaruta Ouest
+    Sarutabaruta Est
+    Plateau de La Theine
+    Hautes terres de Konschtat
+    Dunes de Valkurm
+    Forêt de Jugner
+    Marais de Pashhow
+    Canyon de Tahrongi
+    Île de Buburimu
+    Plaines de Sauromugue
+    Montagnes de Meriphataud
+    Champs de Rolanberry
+    Tout ce qui précède
+    Effacer les drapeaux${prompt}
   7060: |-
-    Raise which flags?
+    Lever quels drapeaux ?
     ${selection-lines}
-    First Dish
-    Asked to Cook
-    Ingredients
-    Second Dish
-    Quests Complete
-    Clear Flags${prompt}
+    Premier plat
+    Demande de cuisiner
+    Ingrédients
+    Deuxième plat
+    Quêtes terminées
+    Effacer les drapeaux${prompt}
   7061: |-
-    Raise which flag?
+    Lever quel drapeau ?
     ${selection-lines}
-    First item
-    Second item
-    Last item
-    Clear flag${prompt}
+    Premier objet
+    Deuxième objet
+    Dernier objet
+    Effacer le drapeau${prompt}
   7062: Déformation vers un itinéraire régulier.${prompt}
   7063: Toutes nos félicitations. Vous vous dirigez vers les pirates.${prompt}
   7064: Vous trichez peut-être. Délai fixé à 72 heures.${prompt}
@@ -17169,18 +17168,18 @@ entries:
     Oh, quelle âme, intrépide et audacieuse
     Ne vous souciez pas de la façon dont votre nom est dit♪${prompt}
   7089: |-
-    Unlock which achievement?
+    Débloquer quel accomplissement ?
     ${selection-lines}
-    None.
-    Job Level.
-    Synthesis Skill 100.
-    San d'Oria Rank 10.
-    Bastok Rank 10.
-    Windurst Rank 10.
-    Zilart Missions.
-    Promathia Missions.
-    Aht Urhgan Missions.
-    Mercenary Rank.
+    Aucun.
+    Niveau de métier.
+    Compétence de synthèse 100.
+    Rang 10 de San d'Oria.
+    Rang 10 de Bastok.
+    Rang 10 de Windurst.
+    Missions de Zilart.
+    Missions de Promathia.
+    Missions d'Aht Urhgan.
+    Rang de mercenaire.
     ${title: 27[2]}.
     ${title: 28[2]}.
     ${title: 29[2]}.
@@ -17195,7 +17194,7 @@ entries:
     ${title: 38[2]}.
     Afficher la page suivante.${prompt}
   7090: |-
-    Unlock which achievement?
+    Débloquer quel accomplissement ?
     ${selection-lines}
     None.
     Artifact related Quests.
@@ -17216,138 +17215,137 @@ entries:
     ${lettercase: 1}${item-singular: 17[2]}.
     ${lettercase: 1}${item-singular: 18[2]}.${prompt}
   7091: |-
-    Unlock which achievement?
+    Débloquer quel accomplissement ?
     ${selection-lines}
-    None.
-    Level 75 Warrior.
-    Level 75 Monk.
-    Level 75 White Mage.
-    Level 75 Black Mage.
-    Level 75 Red Mage.
-    Level 75 Thief.
-    Level 75 Paladin.
-    Level 75 Dark Knight.
-    Level 75 Beastmaster.
-    Level 75 Bard.
-    Level 75 Ranger.
-    Level 75 Samurai.
-    Level 75 Ninja.
-    Level 75 Dragoon.
-    Level 75 Summoner.
-    Level 75 Blue Mage.
-    Level 75 Corsair.
-    Level 75 Puppetmaster.
-    Level 75 Dancer.
-    Level 75 Scholar.${prompt}
-  7092: You have no achievements to unlock.${prompt}
+    Aucun.
+    Niveau 75 Guerrier.
+    Niveau 75 Moine.
+    Niveau 75 Mage Blanc.
+    Niveau 75 Mage Noir.
+    Niveau 75 Mage Rouge.
+    Niveau 75 Voleur.
+    Niveau 75 Paladin.
+    Niveau 75 Chevalier Noir.
+    Niveau 75 Maître d'Animaux.
+    Niveau 75 Barde.
+    Niveau 75 Rôdeur.
+    Niveau 75 Samouraï.
+    Niveau 75 Ninja.
+    Niveau 75 Dragonnier.
+    Niveau 75 Invocateur.
+    Niveau 75 Mage Bleu.
+    Niveau 75 Corsaire.
+    Niveau 75 Marionnettiste.
+    Niveau 75 Danseur.
+    Niveau 75 Érudit.${prompt}
+  7092: Vous n'avez aucun accomplissement à débloquer.${prompt}
   7093: |-
-    Return to which title?
+    Revenir à quel titre ?
     ${selection-lines}
-    Cordon Bleu Fisher.
-    Ecologist.
-    Li'l Cupid.
-    Forfeit gil and quit.${prompt}
+    Cordon Bleu Pêcheur.
+    Écologiste.
+    Petit Cupidon.
+    Abandonner des gils et quitter.${prompt}
   7094: |-
-    Return to which title?
+    Revenir à quel titre ?
     ${selection-lines}
-    Forfeit gil and quit.${prompt}
+    Abandonner des gils et quitter.${prompt}
   7095: |-
-    Return to which title?
+    Revenir à quel titre ?
     ${selection-lines}
-    Ace Angler.
-    Forfeit gil and quit.${prompt}
+    As du Pêcheur.
+    Abandonner des gils et quitter.${prompt}
   7096: |-
-    Return to which title?
+    Revenir à quel titre ?
     ${selection-lines}
-    Savior of Love.
-    Honorary Citizen of Selbina.
-    The Love Doctor.
-    Forfeit gil and quit.${prompt}
+    Sauveur de l'Amour.
+    Citoyen d'Honneur de Selbina.
+    Docteur de l'Amour.
+    Abandonner des gils et quitter.${prompt}
   7097: |-
-    Return to which title?
+    Revenir à quel titre ?
     ${selection-lines}
-    Lu Shang-like Fisher King.
-    Forfeit gil and quit.${prompt}
+    Roi de la Pêche façon Lu Shang.
+    Abandonner des gils et quitter.${prompt}
   7098: |-
-    Return to which title?
+    Revenir à quel titre ?
     ${selection-lines}
-    Forfeit gil and quit.${prompt}
+    Abandonner des gils et quitter.${prompt}
   7099: |-
-    Return to which title?
+    Revenir à quel titre ?
     ${selection-lines}
-    Forfeit gil and quit.${prompt}
+    Abandonner des gils et quitter.${prompt}
   7100: |-
-    Return to which title?
+    Revenir à quel titre ?
     ${selection-lines}
-    Forfeit gil and quit.${prompt}
+    Abandonner des gils et quitter.${prompt}
   7101: |-
-    Return to which title?
+    Revenir à quel titre ?
     ${selection-lines}
-    Forfeit gil and quit.${prompt}
+    Abandonner des gils et quitter.${prompt}
   7102: |-
-    Return to which title?
+    Revenir à quel titre ?
     ${selection-lines}
-    Forfeit gil and quit.${prompt}
+    Abandonner des gils et quitter.${prompt}
   7103: |-
-    Return to which title?
+    Revenir à quel titre ?
     ${selection-lines}
-    Fodderchief Flayer.
-    Fodderchief Flayer.
-    Warchief Wrecker.
-    Dread Dragon Slayer.
-    Overlord Executioner.
-    Dark Dragon Slayer.
-    Adamantking Killer.
-    Black Dragon Slayer.
-    Manifest Mauler.
-    Behemoth's Bane.
-    Archmage Assassin.
-    Hellsbane.
-    Giant Killer.
-    Lich Banisher.
-    Jellybane.
-    Bogeydowner.
-    Beakbender.
-    Skullcrusher.
-    Morbolbane.
-    Goliath Killer.
-    Mary's Guide.
-    Forfeit gil and quit.${prompt}
+    Massacreur de Chef de Ravitaillement.
+    Massacreur de Chef de Ravitaillement.
+    Briseur de Chef de Guerre.
+    Tueur de Dragon Épouvantable.
+    Exécuteur de Seigneur Suprême.
+    Tueur de Dragon Noir.
+    Tueur de Roi Adamantin.
+    Tueur de Dragon Noir.
+    Destructeur d'Insigne.
+    Fléau de Béhémoth.
+    Assassin Archimage.
+    Chasseur d'Enfers.
+    Tueur de Géant.
+    Bannisseur de Liche.
+    Chasseur de Méduse.
+    Terrassier de Gargouilles.
+    Écraseur de Têtes.
+    Terrassier de Morbols.
+    Tueur de Goliath.
+    Guide de Mary.
+    Abandonner des gils et quitter.${prompt}
   7104: |-
-    Return to which title?
+    Revenir à quel titre ?
     ${selection-lines}
-    Simurgh Poacher.
-    Roc Star.
-    Serket Breaker.
-    Cassienova.
-    The Hornsplitter.
-    Tortoise Torturer.
-    Mon Cherry.
-    Behemoth Dethroner.
-    The Vivisector.
-    Dragon Asher.
-    Expeditionary Trooper.
-    Forfeit gil and quit.${prompt}
+    Braconnier de Simurgh.
+    Star du Roc.
+    Briseur de Serket.
+    Cassanova.
+    Le Fendeur de Cornes.
+    Tortionnaire de Tortue.
+    Mon Chéri.
+    Renversateur de Béhémoth.
+    Le Vivisecteur.
+    Pourfendeur de Dragon.
+    Soldat d'Expédition.
+    Abandonner des gils et quitter.${prompt}
   7105: |-
-    Return to which title?
+    Revenir à quel titre ?
     ${selection-lines}
-    Adamantking Usurper.
-    Overlord Overthrower.
-    Deity Debunker.
-    Fafnir Slayer.
-    Aspidochelone Sinker.
-    Nidhogg Slayer.
-    Maat Masher.
-    Kirin Captivator.
-    Cactrot Desacelerador.
-    Lifter of Shadows.
-    Tiamat Trouncer.
-    Vrtra Vanquisher.
-    World Serpent Slayer.
-    Xolotl Xtrapolator.
-    Boroka Beleaguerer.
-    Ouryu Overwhelmer.
-    Forfeit gil and quit.${prompt}
+    Usurpateur de Roi Adamantin.
+    Renversateur de Seigneur Suprême.
+    Démystificateur de Divinité.
+    Tueur de Fafnir.
+    Coulage de l'Aspidochelone.
+    Tueur de Nidhogg.
+    Écraseur de Maat.
+    Captivateur de Kirin.
+    Décélérateur de Cactrot.
+    Leveur d'Ombres.
+    Terrassier de Tiamat.
+    Vainqueur de Vrtra.
+    Tueur de Serpent du Monde.
+    Extrapolateur de Xolotl.
+    Assiégeur de Boroka.
+    Submergeur d'Ouryu.
+    Abandonner des gils et quitter.${prompt}
   7106: ${prompt}
   7107: ${prompt}
   7108: ${prompt}
@@ -17511,27 +17509,27 @@ entries:
   7174: |-
     ${choice: 0}[サンドリア/バストゥーク/ウィンダス]の状況:${choice: 0}[劣勢/やや劣勢/やや優勢/優勢/膠着]
     武器の値段:${number: 2}、入れるポイント:${number: 3}${prompt}
-  7175: The beastmen are gaining power.${prompt}
-  7176: San d'Oria's regional control is now 10% closer to the first place country's!${prompt}
-  7177: Bastok's regional control is now 10% closer to the first place country's!${prompt}
-  7178: Windurst's regional control are now 10% closer to the first place country's!${prompt}
-  7179: San d'Oria's region points have increased!${prompt}
-  7180: Bastok's region points have increased!${prompt}
-  7181: Windurst's region points have increased!${prompt}
-  7182: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.${prompt}
-  7183: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.${prompt}
-  7184: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.${prompt}
-  7185: A San d'Orian Expeditionary Force has been dispatched to this area.${prompt}
-  7186: A Bastokan Expeditionary Force has been dispatched to this area.${prompt}
-  7187: A Windurstian Expeditionary Force has been dispatched to this area.${prompt}
-  7188: 'E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.${prompt}'
-  7189: 'E.F. Influence: Fair...Region Status: Major...Maintain momentum.${prompt}'
-  7190: 'E.F. Influence: Poor...Region Status: Minor...Increase efforts.${prompt}'
-  7191: 'E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.${prompt}'
-  7192: 'E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.${prompt}'
-  7193: There was a curse on the beastmen's banner!${prompt}
-  7194: The curse of the beastmen's banner has been lifted!${prompt}
-  7195: There is a beastmen's banner.${prompt}
+  7175: Les bêtes gagnent en puissance.${prompt}
+  7176: Le contrôle régional de San d'Oria est maintenant 10 % plus proche du pays en première place !${prompt}
+  7177: Le contrôle régional de Bastok est maintenant 10 % plus proche du pays en première place !${prompt}
+  7178: Le contrôle régional de Windurst est maintenant 10 % plus proche du pays en première place !${prompt}
+  7179: Les points de région de San d'Oria ont augmenté !${prompt}
+  7180: Les points de région de Bastok ont augmenté !${prompt}
+  7181: Les points de région de Windurst ont augmenté !${prompt}
+  7182: Les F.E. de San d'Oria défont les hordes de bêtes... Maintenir l'élan actuel.${prompt}
+  7183: Les F.E. de Bastok défont les hordes de bêtes... Maintenir l'élan actuel.${prompt}
+  7184: Les F.E. de Windurst défont les hordes de bêtes... Maintenir l'élan actuel.${prompt}
+  7185: Une Force Expéditionnaire de San d'Oria a été envoyée dans cette région.${prompt}
+  7186: Une Force Expéditionnaire de Bastok a été envoyée dans cette région.${prompt}
+  7187: Une Force Expéditionnaire de Windurst a été envoyée dans cette région.${prompt}
+  7188: 'Influence des F.E. : Grande... Statut de la région : Dominant... Maintenir le niveau actuel de combat.${prompt}'
+  7189: 'Influence des F.E. : Juste... Statut de la région : Majeur... Maintenir l’élan.${prompt}'
+  7190: 'Influence des F.E. : Faible... Statut de la région : Mineur... Intensifier les efforts.${prompt}'
+  7191: 'Influence des F.E. : Minime... Statut de la région : Minime... Intensifier les efforts dix fois.${prompt}'
+  7192: 'Influence des F.E. : Aucune... Statut de la région : Sous le contrôle des bêtes... Limiter les pertes au minimum.${prompt}'
+  7193: Il y avait une malédiction sur la bannière des bêtes !${prompt}
+  7194: La malédiction de la bannière des bêtes a été levée !${prompt}
+  7195: Il y a une bannière des bêtes.${prompt}
   7196: 　${prompt}
   7197: 　${prompt}
   7198: 　${prompt}
