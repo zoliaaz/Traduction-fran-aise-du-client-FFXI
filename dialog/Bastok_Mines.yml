@@ -16060,30 +16060,30 @@ entries:
   6487: '${color-alt: 161}Word has been received of a Troll threat in Wajaom Woodlands.${prompt}'
   6488: '${color-alt: 161}Word has been received of an undead threat in Bhaflau Thickets.${prompt}'
   6489: |-
-    You can set this as your current home point.
-    Once you set a home point, you will return there whenever you are incapacitated.
+    Vous pouvez définir ceci comme votre point de retour actuel.
+    Une fois que vous avez défini un point de retour, vous y retournerez chaque fois que vous êtes incapables.
   6490: |-
-    Set this as current home point?
+    Définir ceci comme point de retour actuel ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  6491: Home point set!${prompt}
-  6492: A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.
+    Oui.
+    Non.${prompt}
+  6491: Point de retour défini !${prompt}
+  6492: Un point de retour peut être défini comme un lieu vers lequel vous retournez à Vana'diel lorsque vous êtes K.O. Vous pouvez également utiliser un point de retour pour vous téléporter vers d'autres points de retour.
   6493: |-
-    What will you do?
+    Que ferez-vous ?
     ${selection-lines}
-    Travel to another home point.
-    Set this as your home point.
-    Other settings.
-    On second thought, never mind.${prompt}
+    Voyager vers un autre point de retour.
+    Définir ceci comme votre point de retour.
+    Autres réglages.
+    En y réfléchissant, laissez tomber.${prompt}
   6494: |-
-    You have registered a new home point!
-    You are now able to teleport here from any other home point.${prompt}
-  6495: You may teleport from here to any other home point you have registered.
+    Vous avez enregistré un nouveau point de retour !
+    Vous pouvez maintenant vous téléporter ici depuis n'importe quel autre point de retour.${prompt}
+  6495: Vous pouvez vous téléporter d'ici vers n'importe quel autre point de retour que vous avez enregistré.
   6496: |-
-    Teleport where?
+    Téléporter où ?
     ${selection-lines}
-    Never mind.
+    Laissez tomber.
     ${zone: 1[2]}.
     ${zone: 2[2]}.
     ${zone: 3[2]}.
@@ -16100,32 +16100,32 @@ entries:
     ${zone: 14[2]}.
     ${zone: 15[2]}.
     ${zone: 16[2]}.
-    Previous page.
-    Next page.${prompt}
+    Page précédente.
+    Page suivante.${prompt}
   6497: |-
-    Teleport where?（${zone: 33[2]}）
+    Téléporter où ?（${zone: 33[2]}）
     ${selection-lines}
-    Nowhere.
-    Home Point #1${choice: 1}[/ (M)/ (A)/ (E)].
-    Home Point #2${choice: 2}[/ (M)/ (A)/ (E)].
-    Home Point #3${choice: 3}[/ (M)/ (A)/ (E)].
-    Home Point #4${choice: 4}[/ (M)/ (A)/ (E)].
-    Home Point #5${choice: 5}[/ (M)/ (A)/ (E)].${prompt}
-  6498: You have not yet registered any other home points, and thus are unable to teleport.${prompt}
-  6499: 'It costs ${number: 3} gil to teleport to Home Point #${number: 2} in ${zone: 1[2]}.'
-  6500: 'There is no fee for teleporting to Home Point #${number: 2} in ${zone: 1[2]}.'
+    Nulle part.
+    Point de retour #1${choice: 1}[/ (M)/ (A)/ (E)].
+    Point de retour #2${choice: 2}[/ (M)/ (A)/ (E)].
+    Point de retour #3${choice: 3}[/ (M)/ (A)/ (E)].
+    Point de retour #4${choice: 4}[/ (M)/ (A)/ (E)].
+    Point de retour #5${choice: 5}[/ (M)/ (A)/ (E)].${prompt}
+  6498: Vous n'avez pas encore enregistré d'autres points de retour et vous ne pouvez donc pas vous téléporter.${prompt}
+  6499: 'Il en coûte ${number: 3} gils pour vous téléporter au Point de retour #${number: 2} à ${zone: 1[2]}.'
+  6500: 'Il n’y a pas de frais pour vous téléporter au Point de retour #${number: 2} à ${zone: 1[2]}.'
   6501: |-
-    Teleport? (Current gil: ${number: 0})
+    Téléporter ? (Gils actuels : ${number: 0})
     ${selection-lines}
-    ${choice: 33}[Add to favorites/Remove from favorites].
-    Yes, please.
-    No, thank you.${prompt}
+    ${choice: 33}[Ajouter aux favoris/Retirer des favoris].
+    Oui, s'il vous plaît.
+    Non, merci.${prompt}
   6502: |-
-    Teleport to which region?
+    Téléporter vers quelle région ?
     ${selection-lines}
-    On second thought, none.
-    Select from favorites.
-    Current region.
+    En y réfléchissant, aucune.
+    Sélectionner depuis les favoris.
+    Région actuelle.
     ${choice: 1}[San d'Oria/Movalpolos].
     ${choice: 1}[Bastok/Tavnazian Arch].
     ${choice: 1}[Windurst/Lumoria].
@@ -16150,31 +16150,31 @@ entries:
     ${choice: 1}[Elshimo Low/].
     ${choice: 1}[Elshimo Up/].
     ${choice: 1}[Tu'Lia/].
-    Previous page.
-    Next page.${prompt}
+    Page précédente.
+    Page suivante.${prompt}
   6503: |-
-    Teleport where?
+    Téléporter où ?
     ${selection-lines}
-    None of these.
-    A favorited location.
-    An original area.
-    A Rise of the Zilart area.
-    A Chains of Promathia area.
-    A Treasures of Aht Urhgan area.
-    A Wings of the Goddess area.
-    A Seekers of Adoulin area.${prompt}
-  6504: You may change the method of selecting the area of your desired home point to teleport to.
+    Aucun de ceux-ci.
+    Un emplacement favori.
+    Une zone d'origine.
+    Une zone de Rise of the Zilart.
+    Une zone de Chains of Promathia.
+    Une zone de Treasures of Aht Urhgan.
+    Une zone de Wings of the Goddess.
+    Une zone de Seekers of Adoulin.${prompt}
+  6504: Vous pouvez changer la méthode de sélection de la zone de votre point de maison souhaité vers lequel vous souhaitez vous téléporter.
   6505: |-
-    Which setting would you like?
+    Quel paramétrage souhaitez-vous ?
     ${selection-lines}
-    My current setting.
-    Select by region.
-    Select by expansion.${prompt}
-  6506: 'You are now selecting by ${choice: 1}[region/expansion].'
+    Mon paramétrage actuel.
+    Sélectionner par région.
+    Sélectionner par extension.${prompt}
+  6506: 'Vous sélectionnez désormais par ${choice: 1}[région/extension].'
   6507: |-
-    Teleport where?
+    Téléporter où ?
     ${selection-lines}
-    None of these.
+    Aucun de ceux-ci.
     ${zone: 1[2]} #${number: 17}.
     ${zone: 2[2]} #${number: 18}.
     ${zone: 3[2]} #${number: 19}.
@@ -16184,13 +16184,13 @@ entries:
     ${zone: 7[2]} #${number: 23}.
     ${zone: 8[2]} #${number: 24}.
     ${zone: 9[2]} #${number: 25}.
-    ${choice: 33}[Add to favorites/Remove from favorites].${prompt}
-  6508: 'Home Point #${number: 2} in ${zone: 1[2]} has been ${choice: 33}[registered to/removed from] your list of favorite locations.'
-  6509: Your list of favorite locations is full. You must delete an existing entry in order to register a new one.
+    ${choice: 33}[Ajouter aux favoris/Retirer des favoris].${prompt}
+  6508: 'Le point de retour #${number: 2} dans ${zone: 1[2]} a été ${choice: 33}[enregistré dans/supprimé de] votre liste d’emplacements favoris.'
+  6509: Votre liste d’emplacements favoris est pleine. Vous devez supprimer une entrée existante pour enregistrer une nouvelle.
   6510: |-
-    Delete which?
+    Supprimer lequel ?
     ${selection-lines}
-    None of these.
+    Aucun de ceux-ci.
     ${zone: 1[2]} #${number: 17}.
     ${zone: 2[2]} #${number: 18}.
     ${zone: 3[2]} #${number: 19}.
@@ -16242,166 +16242,166 @@ entries:
     ダミー１５.
     ダミー１６.
     None.${prompt}
-  6517: I am in charge of assigning missions to Bastokers who wish to serve their country. Are you one of them?${prompt}
+  6517: Je suis responsable d'assigner des missions aux Bastokers qui souhaitent servir leur pays. Êtes-vous l'un d'entre eux ?${prompt}
   6518: |-
-    Have you come to undertake a mission?
+    Êtes-vous venu pour entreprendre une mission ?
     ${selection-lines}
-    Yes, I have.
-    No, maybe later.${prompt}
+    Oui, c'est le cas.
+    Non, peut-être plus tard.${prompt}
   6519: |-
-    Will you accept this mission?
+    Accepterez-vous cette mission ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  6520: You have accepted the mission.${prompt}
-  6521: Then move along.${prompt}
+    Oui.
+    Non.${prompt}
+  6520: Vous avez accepté la mission.${prompt}
+  6521: Alors, avancez.${prompt}
   6522: |-
-    Good.
-    This is your first time going on a mission, is it not?${prompt}
+    Bien.
+    Est-ce la première fois que vous participez à une mission ?${prompt}
   6523: |-
-    Your first assignment is not a difficult one.
-    The details are as follows:${prompt}
+    Votre première affectation n'est pas difficile.
+    Voici les détails :${prompt}
   6524: |-
-    You must go to the Zeruhn Mines in the western section of the Mines District.
-    Once there, you are to collect a report from the overseer.${prompt}
+    Vous devez vous rendre dans les Mines de Zeruhn dans la partie ouest du quartier des mines.
+    Une fois sur place, vous devez récupérer un rapport auprès du surveillant.${prompt}
   6525: |-
-    You can consult the “Mission” section of the main menu to review your objectives.
-    Speed and efficiency are your priorities. Dismissed.${prompt}
+    Vous pouvez consulter la section "Mission" du menu principal pour revoir vos objectifs.
+    La vitesse et l'efficacité sont vos priorités. Congédié.${prompt}
   6526: |-
-    The Chief Engineer is conducting new research, and has asked for someone to assist him.
-    He can be found in the Metalworks, to the east of the administrative section.${prompt}
+    Le Chef Ingénieur mène de nouvelles recherches et a demandé à quelqu'un de l'assister.
+    Vous pouvez le trouver dans la Fonderie, à l'est de la section administrative.${prompt}
   6527: |-
-    The Chief Engineer's laboratory is on the second floor of the Metalworks.
-    You don't know his name!? And you call yourself a Bastoker!${prompt}
+    Le laboratoire du Chef Ingénieur se trouve au deuxième étage de la Fonderie.
+    Vous ne connaissez pas son nom !? Et vous vous appelez un Bastoker !${prompt}
   6528: |-
-    The Chief Engineer's name is Cid. Any Bastoker would know that!
-    Now go and see him. He will give you the details of your mission.${prompt}
-  6529: The Palborough Mines, once our main source of mythril, have been under beastman control for some time.${prompt}
-  6530: 'We want you to hunt these beastmen, the Quadav, and bring back ${article} ${item-article: 4[2]}, ${article} ${item-article: 5[2]}, ${article} ${item-article: 6[2]}, and ${article} ${item-article: 7[2]} as proof of your accomplishments.${prompt}'
-  6531: You must present all four items to me or one of my colleagues in order to complete this mission.${prompt}
-  6532: Good, you've brought all four parts of the doll.${prompt}
+    Le nom du Chef Ingénieur est Cid. Tout Bastoker le saurait !
+    Maintenant, allez le voir. Il vous donnera les détails de votre mission.${prompt}
+  6529: Les Mines de Palborough, autrefois notre principale source de mythril, sont sous le contrôle des bêtes depuis un certain temps.${prompt}
+  6530: 'Nous vous demandons de chasser ces bêtes, les Quadav, et de rapporter ${article} ${item-article: 4[2]}, ${article} ${item-article: 5[2]}, ${article} ${item-article: 6[2]}, et ${article} ${item-article: 7[2]} comme preuve de vos accomplissements.${prompt}'
+  6531: Vous devez me présenter ces quatre objets ou à l'un de mes collègues afin de compléter cette mission.${prompt}
+  6532: Bien, vous avez apporté les quatre parties de la poupée.${prompt}
   6533: |-
-    I am raising your rank to 2 for completing this mission.
-    Congratulations.${prompt}
-  6534: If you've been to the Palborough Mines, you must know now the serious nature of the threat these beastmen pose to our civilization.${prompt}
-  6535: As a Bastoker, you are expected to take on more missions and go on conquests to preserve Bastok's brilliant future!${prompt}
-  6536: But I cannot give you a new mission at this time.${prompt}
-  6537: You need to collect rank points before taking on new missions.${prompt}
-  6538: You can receive rank points by participating in conquests and donating the crystals you acquire to guards, or by undertaking missions you've previously completed.${prompt}
-  6539: Ask the High Guard near the gatehouse if you wish to hear more about conquests.${prompt}
-  6540: Have you heard of a strange structure called the Crag of Dem? It is on the Konschtat Highlands, north of the Gustaberg Mountains.${prompt}
-  6541: They say that crystals are drained of their power if you take them to a certain section of that structure.${prompt}
-  6542: Chief Cid is currently investigating this strange phenomenon, and is asking for someone to bring back a faded crystal.${prompt}
-  6543: Go see him for a more detailed explanation of your objectives.${prompt}
-  6544: You want a crystal to use for this experiment? Are you not an adventurer? It should be easy for you to procure one.${prompt}
-  6545: 'You are to collect ${article} ${item-article: 7[2]} from beasts in the Dangruf Wadi.${prompt}'
+    Je vous élève au rang 2 pour avoir accompli cette mission.
+    Félicitations.${prompt}
+  6534: Si vous êtes allé aux Mines de Palborough, vous devez maintenant connaître la gravité de la menace que représentent ces bêtes pour notre civilisation.${prompt}
+  6535: En tant que Bastoker, on s'attend à ce que vous preniez plus de missions et que vous partiez en conquête pour préserver le brillant avenir de Bastok!${prompt}
+  6536: Mais je ne peux pas vous donner une nouvelle mission pour le moment.${prompt}
+  6537: Vous devez accumuler des points de rang avant de pouvoir entreprendre de nouvelles missions.${prompt}
+  6538: Vous pouvez obtenir des points de rang en participant aux conquêtes et en faisant don des cristaux que vous acquérez aux gardes, ou en entreprenant des missions que vous avez déjà accomplies.${prompt}
+  6539: Demandez au Haut Garde près de la guérite si vous souhaitez en savoir plus sur les conquêtes.${prompt}
+  6540: Avez-vous entendu parler d'une étrange structure appelée le Crag of Dem ? Il se trouve sur les Hautes-Terres de Konschtat, au nord des Montagnes de Gustaberg.${prompt}
+  6541: On dit que les cristaux perdent leur pouvoir si vous les emmenez dans une certaine section de cette structure.${prompt}
+  6542: Le Chef Cid enquête actuellement sur ce phénomène étrange, et demande à quelqu'un de rapporter un cristal décoloré.${prompt}
+  6543: Allez le voir pour une explication plus détaillée de vos objectifs.${prompt}
+  6544: Vous voulez un cristal pour cette expérience ? N'êtes-vous pas un aventurier ? Ça devrait être facile pour vous d'en obtenir un.${prompt}
+  6545: 'Vous devez collecter ${article} ${item-article: 7[2]} des bêtes dans le Dangruf Wadi.${prompt}'
   6546: |-
-    Senator Alois is in need of some. Do not ask me why.
-    He can be found in the President's Office.${prompt}
+    Le Sénateur Alois en a besoin. Ne me demandez pas pourquoi.
+    Vous pouvez le trouver dans le Bureau du Président.${prompt}
   6547: |-
-    You've acquired quite a reputation.
-    There is a new mission for you to tackle.${prompt}
+    Vous avez acquis une certaine réputation.
+    Il y a une nouvelle mission pour vous à accomplir.${prompt}
   6548: |-
-    First, speak to Sir Naji of the Mythril Musketeers at the President's Office.
-    This mission is of great import to the welfare of our nation.${prompt}
+    Tout d'abord, parlez à Sir Naji des Mousquetaires du Mythril au Bureau du Président.
+    Cette mission est d'une grande importance pour le bien-être de notre nation.${prompt}
   6549: |-
-    I see you've made it back safely from your journey to Windurst and San d'Oria.
-    This new mission should not be hard for an experienced adventurer like you.${prompt}
-  6550: The Mythril Musketeers are planning an offensive on the Quadav stronghold.${prompt}
-  6551: Adventurers, including yourself, have been asked to join them on this operation.${prompt}
-  6552: You are to go meet Iron Eater, one of the Mythril Musketeers, to receive a full briefing.${prompt}
-  6553: The Gusgen Mines in the Konschtat Highlands have been dug to the bare rock and abandoned for some time...${prompt}
+    Je vois que vous êtes revenu sain et sauf de votre voyage à Windurst et San d'Oria.
+    Cette nouvelle mission ne devrait pas être difficile pour un aventurier expérimenté comme vous.${prompt}
+  6550: Les Mousquetaires du Mythril préparent une offensive sur le bastion des Quadav.${prompt}
+  6551: Des aventuriers, y compris vous-même, ont été invités à se joindre à eux pour cette opération.${prompt}
+  6552: Vous devez aller rencontrer Iron Eater, l'un des Mousquetaires du Mythril, pour recevoir un briefing complet.${prompt}
+  6553: Les Mines de Gusgen dans les Hautes-Terres de Konschtat ont été creusées jusqu'à la roche nue et abandonnées depuis un certain temps...${prompt}
   6554: |-
-    But lately, there have been reports that a rare ore can be found in them.
-    No one has claimed this new vein yet.${prompt}
-  6555: You are to bring back a sample of the ore to confirm these reports. A Galka adventurer named Davyad should be able to help you. He is said to have acquired a chunk of the ore when he was there last.${prompt}
+    Mais ces derniers temps, on rapporte qu'un minerai rare peut y être trouvé.
+    Personne n'a encore revendiqué cette nouvelle veine.${prompt}
+  6555: Vous devez ramener un échantillon du minerai pour confirmer ces rapports. Un aventurier Galka nommé Davyad devrait pouvoir vous aider. On dit qu'il a acquis un morceau du minerai lorsqu'il était là-bas la dernière fois.${prompt}
   6556: |-
-    The item that Davyad brought back was ${article} ${item-article: 7[2]}. That is what you should seek as well.
-    Once you have the ore, hand them over to me or one of my colleagues.${prompt}
+    L'objet que Davyad a ramené était ${article} ${item-article: 7[2]}. C'est ce que vous devez rechercher également.
+    Une fois que vous avez le minerai, remettez-le-moi ou à l'un de mes collègues.${prompt}
   6557: |-
-    You have succeeded in bringing back ${article} ${item-article: 7[2]}.
-    Good work, adventurer. This discovery may help rejuvenate Bastok's economy!${prompt}
-  6558: You have heard of Jeuno, have you not? The Bastokan government is currently looking for someone to send there, and your name is on the list of candidates.${prompt}
-  6559: The presidential aide, Sir Lucius himself, recommended you. It is a great honor--you should be proud!${prompt}
-  6560: Sir Lucius wishes to see you as soon as possible. Go meet him in his office in the administrative section at the top of the Metalworks.${prompt}
+    Vous avez réussi à ramener ${article} ${item-article: 7[2]}.
+    Bon travail, aventurier. Cette découverte pourrait aider à raviver l'économie de Bastok !${prompt}
+  6558: Vous avez entendu parler de Jeuno, n'est-ce pas ? Le gouvernement de Bastok recherche actuellement quelqu'un à envoyer là-bas, et votre nom est sur la liste des candidats.${prompt}
+  6559: L'aide présidentielle, Sir Lucius lui-même, vous a recommandé. C'est un grand honneur - vous devriez en être fier !${prompt}
+  6560: Sir Lucius souhaite vous voir dès que possible. Allez le rencontrer dans son bureau dans la section administrative au sommet de la Fonderie.${prompt}
   6561: |-
-    I have orders for you from the president himself.
-    You must have heard already, but he wants you to go to Fei'Yin.${prompt}
+    J'ai des ordres pour vous du président lui-même.
+    Vous avez sûrement déjà entendu, mais il veut que vous alliez à Fei'Yin.${prompt}
   6562: |-
-    Go speak to Sir Naji at the President's Office.
-    He will show you in.${prompt}
-  6563: So, it has finally come to this... You are to infiltrate the Kindred's main stronghold of Zvahl.${prompt}
+    Allez parler à Sir Naji au Bureau du Président.
+    Il vous montrera le chemin.${prompt}
+  6563: C'est donc enfin arrivé... Vous devez infiltrer le bastion principal de la Confrérie à Zvahl.${prompt}
   6564: |-
-    The president will brief you himself in his office.
-    Good luck, adventurer!${prompt}
+    Le président vous fera lui-même un briefing dans son bureau.
+    Bonne chance, aventurier!${prompt}
   6565: |-
-    Ah, you have returned from Jeuno.
-    Go to the President's Office right away.
-    Sir Naji will show you in.${prompt}
+    Ah, vous êtes revenu de Jeuno.
+    Allez immédiatement au Bureau du Président.
+    Sir Naji vous montrera le chemin.${prompt}
   6566: |-
-    The residential area is up ahead.
-    You will find your Mog House there.${prompt}
-  6567: I'm sure you already know by now, but would you like me to tell you about Mog Houses?${prompt}
+    La zone résidentielle est juste devant.
+    Vous trouverez votre Maison Mog là-bas.${prompt}
+  6567: Je suis sûr que vous le savez déjà, mais voulez-vous que je vous parle des Maisons Mog?${prompt}
   6568: |-
-    I haven't told you about Mog Houses, have I?
-    Do you have time now?${prompt}
+    Je ne vous ai pas encore parlé des Maisons Mog, n'est-ce pas?
+    Avez-vous le temps maintenant?${prompt}
   6569: |-
-    Listen to Mog House explanation?
+    Écouter l'explication sur les Maisons Mog?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  6570: A Mog House is your very own room in the residential area. You can do such things as store items and recover HP and MP there.${prompt}
-  6571: Your Mog House is also the only place where you can change jobs.${prompt}
-  6572: Since you are a citizen of Bastok, you already have a Mog House assigned to you in the residential area ahead. Feel free to use it at anytime.${prompt}
+    Oui.
+    Non.${prompt}
+  6570: Une Maison Mog est votre propre chambre dans la zone résidentielle. Vous pouvez y faire des choses telles que stocker des objets et récupérer des PV et des PM.${prompt}
+  6571: Votre Maison Mog est également le seul endroit où vous pouvez changer de job.${prompt}
+  6572: Comme vous êtes un citoyen de Bastok, vous avez déjà une Maison Mog qui vous est attribuée dans la zone résidentielle devant. N'hésitez pas à l'utiliser à tout moment.${prompt}
   6573: |-
-    You have a Rent-a-Room in ${choice: 1}[San d'Oria/Bastok/Windurst/Jeuno/Kazham/Rabao/Norg/Al Zahbi].
-    You must check out if you wish to return the items stored there to your room in Bastok.${prompt}
+    Vous avez une Chambre à Louer à ${choice: 1}[San d'Oria/Bastok/Windurst/Jeuno/Kazham/Rabao/Norg/Al Zahbi].
+    Vous devez vérifier si vous souhaitez récupérer les objets stockés là-bas dans votre chambre à Bastok.${prompt}
   6574: |-
-    Check out of Rent-a-Room?
+    Voulez-vous vérifier votre Chambre à Louer?
     ${selection-lines}
-    Yes.
-    No.${prompt}
+    Oui.
+    Non.${prompt}
   6575: |-
-    ...Done.
-    The items you had stored in the room in ${choice: 1}[San d'Oria/Bastok/Windurst/Jeuno/Kazham/Rabao/Norg/Al Zahbi] have been moved to your Mog House in Bastok.${prompt}
+    ...Terminé.
+    Les objets que vous aviez stockés dans la chambre à ${choice: 1}[San d'Oria/Bastok/Windurst/Jeuno/Kazham/Rabao/Norg/Al Zahbi] ont été transférés dans votre Maison Mog à Bastok.${prompt}
   6576: |-
-    This is the residential area of Bastok.
-    Since you have a Rent-a-Room here, you are allowed to pass.${prompt}
+    Ceci est la zone résidentielle de Bastok.
+    Comme vous avez une Chambre à Louer ici, vous êtes autorisé à passer.${prompt}
   6577: |-
-    This is the residential area of Bastok.
-    Non-citizens are required to rent a Rent-a-Room in order to enter this area.${prompt}
-  6578: If you get a Rent-a-Room, your stored items will be moved to Bastok and you will be able to use your new room like the Mog House in your home country.${prompt}
+    Ceci est la zone résidentielle de Bastok.
+    Les non-citoyens doivent louer une Chambre à Louer pour entrer dans cette zone.${prompt}
+  6578: Si vous obtenez une Chambre à Louer, vos objets stockés seront transférés à Bastok et vous pourrez utiliser votre nouvelle chambre comme la Maison Mog de votre pays d'origine.${prompt}
   6579: |-
-    Lease a Rent-a-Room?
+    Louer une Chambre à Louer?
     ${selection-lines}
-    Yes.
-    No.${prompt}
+    Oui.
+    Non.${prompt}
   6580: |-
-    ...Done.
-    You now have a room in Bastok's residential area.${prompt}
+    ...Terminé.
+    Vous avez maintenant une chambre dans la zone résidentielle de Bastok.${prompt}
   6581: |-
-    The residential area is up ahead.
-    You will find your Mog House there.${prompt}
+    La zone résidentielle est juste devant.
+    Vous trouverez votre Maison Mog là-bas.${prompt}
   6582: |-
-    The residential area is up ahead.
-    You will find your Rent-a-Room there.${prompt}
-  6583: A Mog House is your very own room in the residential area. You can do such things as store items and recover HP and MP there.${prompt}
-  6584: Your Mog House is also the only place where you can change jobs.${prompt}
-  6585: You have a Mog House assigned to you in the residential area ahead. Feel free to use it at anytime.${prompt}
-  6586: Please don't hesitate to ask if you require my assistance.${prompt}
-  6587: How may I help you?${prompt}
-  6588: The Mog Houses of the following party members are open to visitation.${prompt}
-  6589: This way, ${choice-player-gender}[sir/madame].${prompt}
+    La zone résidentielle est juste devant.
+    Vous trouverez votre Chambre à Louer là-bas.${prompt}
+  6583: Une Maison Mog est votre propre chambre dans la zone résidentielle. Vous pouvez y faire des choses telles que stocker des objets et récupérer des PV et des PM.${prompt}
+  6584: Votre Maison Mog est également le seul endroit où vous pouvez changer de job.${prompt}
+  6585: Vous avez une Maison Mog qui vous est attribuée dans la zone résidentielle à venir. N'hésitez pas à l'utiliser à tout moment.${prompt}
+  6586: N'hésitez pas à demander si vous avez besoin de mon aide.${prompt}
+  6587: Comment puis-je vous aider?${prompt}
+  6588: Les Maisons Mog des membres du groupe suivants sont ouvertes à la visite.${prompt}
+  6589: Par ici, ${choice-player-gender}[monsieur/madame].${prompt}
   6590: |-
-    What do you wish to do?
+    Que souhaitez-vous faire?
     ${selection-lines}
-    Nothing in particular.
-    Ask for an explanation of Mog Houses.
-    Visit the Mog House of a party member.${prompt}
+    Rien en particulier.
+    Demander une explication sur les Maisons Mog.
+    Visiter la Maison Mog d'un membre du groupe.${prompt}
   6591: |-
-    Whose Mog House will you visit?
+    Dans quelle Maison Mog souhaitez-vous vous rendre ?
     ${selection-lines}
-    Never mind.
+    Peu importe.
     ${item: 1}
     ${item: 2}
     ${item: 3}
@@ -16419,146 +16419,146 @@ entries:
     ${item: 15}
     ${item: 16}
     ${item: 17}${prompt}
-  6592: That Mog House is not currently open for visits.${prompt}
-  6593: Tallying conquest results...${prompt}
-  6594: Conquest results tallied.${prompt}
-  6595: This region is currently under San d'Orian control.${prompt}
-  6596: This region is currently under Bastokan control.${prompt}
-  6597: This region is currently under Windurstian control.${prompt}
+  6592: Cette Maison Mog n'est pas actuellement ouverte aux visites.${prompt}
+  6593: Recensement des résultats de la conquête...${prompt}
+  6594: Résultats de la conquête recensés.${prompt}
+  6595: Cette région est actuellement sous le contrôle de San d'Oria.${prompt}
+  6596: Cette région est actuellement sous le contrôle de Bastok.${prompt}
+  6597: Cette région est actuellement sous le contrôle de Windurst.${prompt}
   6598: |-
-    This region is currently under beastman control.
-    You cannot obtain crystals in this region.${prompt}
-  6599: This region is currently neutral.${prompt}
+    Cette région est actuellement sous le contrôle des bêtes.
+    Vous ne pouvez pas obtenir de cristaux dans cette région.${prompt}
+  6599: Cette région est actuellement neutre.${prompt}
   6600: |-
-    Global balance of power:
-    1st: San d'Oria
-    2nd: Windurst
-    3rd: Bastok${prompt}
-  6601: All three nations are tied for first place.${prompt}
+    Équilibre global des pouvoirs :
+    1ère : San d'Oria
+    2ème : Windurst
+    3ème : Bastok${prompt}
+  6601: Les trois nations sont à égalité en première place.${prompt}
   6602: |-
-    Global balance of power:
-    1st: San d'Oria and Windurst (tie)
-    3rd: Bastok${prompt}
+    Équilibre global des pouvoirs :
+    1ère : San d'Oria et Windurst (ex æquo)
+    3ème : Bastok${prompt}
   6603: |-
-    Global balance of power:
-    1st: San d'Oria
-    2nd: Bastok and Windurst (tie)${prompt}
+    Équilibre global des pouvoirs :
+    1ère : San d'Oria
+    2ème : Bastok et Windurst (ex æquo)${prompt}
   6604: |-
-    Global balance of power:
-    1st: San d'Oria
-    2nd: Bastok
-    3rd: Windurst${prompt}
-  6605: All three nations are tied for first place.${prompt}
+    Équilibre global des pouvoirs :
+    1ère : San d'Oria
+    2ème : Bastok
+    3ème : Windurst${prompt}
+  6605: Les trois nations sont à égalité en première place.${prompt}
   6606: |-
-    Global balance of power:
-    1st: San d'Oria and Bastok (tie)
-    3rd: Windurst${prompt}
+    Équilibre global des pouvoirs :
+    1ère : San d'Oria et Bastok (ex æquo)
+    3ème : Windurst${prompt}
   6607: |-
-    Global balance of power:
-    1st: San d'Oria
-    2nd: Bastok and Windurst (tie)${prompt}
+    Équilibre global des pouvoirs :
+    1ère : San d'Oria
+    2ème : Bastok et Windurst (ex æquo)${prompt}
   6608: |-
-    Global balance of power:
-    1st: Bastok
-    2nd: San d'Oria
-    3rd: Windurst${prompt}
-  6609: All three nations are tied for first place.${prompt}
+    Équilibre global des pouvoirs :
+    1ère : Bastok
+    2ème : San d'Oria
+    3ème : Windurst${prompt}
+  6609: Les trois nations sont à égalité en première place.${prompt}
   6610: |-
-    Global balance of power:
-    1st: San d'Oria and Bastok (tie)
-    3rd: Windurst${prompt}
+    Équilibre global des pouvoirs :
+    1ère : San d'Oria et Bastok (ex æquo)
+    3ème : Windurst${prompt}
   6611: |-
-    Global balance of power:
-    1st: Bastok
-    2nd: San d'Oria and Windurst (tie)${prompt}
+    Équilibre global des pouvoirs :
+    1ère : Bastok
+    2ème : San d'Oria et Windurst (ex æquo)${prompt}
   6612: |-
-    Global balance of power:
-    1st: Bastok
-    2nd: Windurst
-    3rd: San d'Oria${prompt}
-  6613: All three nations are tied for first place.${prompt}
+    Équilibre global des pouvoirs :
+    1ère : Bastok
+    2ème : Windurst
+    3ème : San d'Oria${prompt}
+  6613: Les trois nations sont à égalité en première place.${prompt}
   6614: |-
-    Global balance of power:
-    1st: Bastok and Windurst (tie)
-    3rd: San d'Oria${prompt}
+    Équilibre global des pouvoirs :
+    1ère : Bastok et Windurst (ex æquo)
+    3ème : San d'Oria${prompt}
   6615: |-
-    Global balance of power:
-    1st: Bastok
-    2nd: San d'Oria and Windurst (tie)${prompt}
+    Équilibre global des pouvoirs :
+    1ère : Bastok
+    2ème : San d'Oria et Windurst (ex æquo)${prompt}
   6616: |-
-    Global balance of power:
-    1st: Windurst
-    2nd: San d'Oria
-    3rd: Bastok${prompt}
+    Équilibre global des pouvoirs :
+    1ère : Windurst
+    2ème : San d'Oria
+    3ème : Bastok${prompt}
   6617: |-
-    Global balance of power:
-    All three nations are tied for first place.${prompt}
+    Équilibre global des pouvoirs :
+    Les trois nations sont à égalité en première place.${prompt}
   6618: |-
-    Global balance of power:
-    1st: San d'Oria and Windurst (tie)
-    3rd: Bastok${prompt}
+    Équilibre global des pouvoirs :
+    1ère : San d'Oria et Windurst (ex æquo)
+    3ème : Bastok${prompt}
   6619: |-
-    Global balance of power:
-    1st: Windurst
-    2nd: San d'Oria and Bastok (tie)${prompt}
+    Équilibre global des pouvoirs :
+    1ère : Windurst
+    2ème : San d'Oria et Bastok (ex æquo)${prompt}
   6620: |-
-    Global balance of power:
-    1st: Windurst
-    2nd: Bastok
-    3rd: San d'Oria${prompt}
-  6621: All three nations are tied for first place.${prompt}
+    Équilibre global des pouvoirs :
+    1ère : Windurst
+    2ème : Bastok
+    3ème : San d'Oria${prompt}
+  6621: Les trois nations sont à égalité en première place.${prompt}
   6622: |-
-    Global balance of power:
-    1st: Bastok and Windurst
-    2nd: San d'Oria${prompt}
+    Équilibre global des pouvoirs :
+    1ère : Bastok et Windurst
+    2ème : San d'Oria${prompt}
   6623: |-
-    Global balance of power:
-    1st: Windurst
-    2nd: San d'Oria and Bastok${prompt}
+    Équilibre global des pouvoirs :
+    1ère : Windurst
+    2ème : San d'Oria et Bastok${prompt}
   6624: |-
-    Conquest update:
-    This region is currently neutral.${prompt}
+    Mise à jour de la conquête :
+    Cette région est actuellement neutre.${prompt}
   6625: |-
-    Conquest update:
-    This region is currently under San d'Orian control.${prompt}
+    Mise à jour de la conquête :
+    Cette région est actuellement sous le contrôle de San d'Oria.${prompt}
   6626: |-
-    Conquest update:
-    This region is currently under Bastokan control.${prompt}
+    Mise à jour de la conquête :
+    Cette région est actuellement sous le contrôle de Bastok.${prompt}
   6627: |-
-    Conquest update:
-    This region is currently under Windurstian control.${prompt}
+    Mise à jour de la conquête :
+    Cette région est actuellement sous le contrôle de Windurst.${prompt}
   6628: |-
-    Conquest update:
-    This region is currently under beastman control.
-    You cannot obtain crystals in this region.${prompt}
-  6629: All three nations are at a deadlock.${prompt}
-  6630: The beastmen are on the rise.${prompt}
+    Mise à jour de la conquête :
+    Cette région est actuellement sous le contrôle des bêtes.
+    Vous ne pouvez pas obtenir de cristaux dans cette région.${prompt}
+  6629: Les trois nations sont à égalité.${prompt}
+  6630: Les bêtes prennent le dessus.${prompt}
   6631: |-
-    Regional influence:
-    San d'Oria - Dominant${prompt}
+    Influence régionale :
+    San d'Oria - Dominante${prompt}
   6632: |-
-    Regional influence:
-    San d'Oria - Major${prompt}
+    Influence régionale :
+    San d'Oria - Majeure${prompt}
   6633: |-
-    Regional influence:
-    San d'Oria - Minor${prompt}
+    Influence régionale :
+    San d'Oria - Mineure${prompt}
   6634: |-
-    Regional influence:
-    San d'Oria - Minimal${prompt}
-  6635: Bastok - Dominant${prompt}
-  6636: Bastok - Major${prompt}
-  6637: Bastok - Minor${prompt}
-  6638: Bastok - Minimal${prompt}
-  6639: Windurst - Dominant${prompt}
-  6640: Windurst - Major${prompt}
-  6641: Windurst - Minor${prompt}
-  6642: Windurst - Minimal${prompt}
-  6643: Bastok and Windurst have formed an alliance.${prompt}
-  6644: San d'Oria and Windurst have formed an alliance.${prompt}
-  6645: San d'Oria and Bastok have formed an alliance.${prompt}
-  6646: Bastok and Windurst are currently allies.${prompt}
-  6647: San d'Oria and Windurst are currently allies.${prompt}
-  6648: San d'Oria and Bastok are currently allies.${prompt}
+    Influence régionale :
+    San d'Oria - Minime${prompt}
+  6635: Bastok - Dominante${prompt}
+  6636: Bastok - Majeure${prompt}
+  6637: Bastok - Mineure${prompt}
+  6638: Bastok - Minime${prompt}
+  6639: Windurst - Dominante${prompt}
+  6640: Windurst - Majeure${prompt}
+  6641: Windurst - Mineure${prompt}
+  6642: Windurst - Minime${prompt}
+  6643: Bastok et Windurst ont formé une alliance.${prompt}
+  6644: San d'Oria et Windurst ont formé une alliance.${prompt}
+  6645: San d'Oria et Bastok ont formé une alliance.${prompt}
+  6646: Bastok et Windurst sont actuellement alliés.${prompt}
+  6647: San d'Oria et Windurst sont actuellement alliés.${prompt}
+  6648: San d'Oria et Bastok sont actuellement alliés.${prompt}
   6649: |-
     所属国：${number: 0}
     判定：${number: 1}${prompt}
@@ -16575,27 +16575,27 @@ entries:
   6653: |-
     ${choice: 0}[サンドリア/バストゥーク/ウィンダス]の状況:${choice: 0}[劣勢/やや劣勢/やや優勢/優勢/膠着]
     武器の値段:${number: 2}、入れるポイント:${number: 3}${prompt}
-  6654: The beastmen are gaining power.${prompt}
-  6655: San d'Oria's regional control is now 10% closer to the first place country's!${prompt}
-  6656: Bastok's regional control is now 10% closer to the first place country's!${prompt}
-  6657: Windurst's regional control are now 10% closer to the first place country's!${prompt}
-  6658: San d'Oria's region points have increased!${prompt}
-  6659: Bastok's region points have increased!${prompt}
-  6660: Windurst's region points have increased!${prompt}
-  6661: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.${prompt}
-  6662: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.${prompt}
-  6663: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.${prompt}
-  6664: A San d'Orian Expeditionary Force has been dispatched to this area.${prompt}
-  6665: A Bastokan Expeditionary Force has been dispatched to this area.${prompt}
-  6666: A Windurstian Expeditionary Force has been dispatched to this area.${prompt}
-  6667: 'E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.${prompt}'
-  6668: 'E.F. Influence: Fair...Region Status: Major...Maintain momentum.${prompt}'
-  6669: 'E.F. Influence: Poor...Region Status: Minor...Increase efforts.${prompt}'
-  6670: 'E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.${prompt}'
-  6671: 'E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.${prompt}'
-  6672: There was a curse on the beastmen's banner!${prompt}
-  6673: The curse of the beastmen's banner has been lifted!${prompt}
-  6674: There is a beastmen's banner.${prompt}
+  6654: Les bêtes prennent du pouvoir.${prompt}
+  6655: Le contrôle régional de San d'Oria est maintenant à 10% plus près du pays en première place !${prompt}
+  6656: Le contrôle régional de Bastok est maintenant à 10% plus près du pays en première place !${prompt}
+  6657: Le contrôle régional de Windurst est maintenant à 10% plus près du pays en première place !${prompt}
+  6658: Les points régionaux de San d'Oria ont augmenté !${prompt}
+  6659: Les points régionaux de Bastok ont augmenté !${prompt}
+  6660: Les points régionaux de Windurst ont augmenté !${prompt}
+  6661: L'armée expéditionnaire de San d'Oria a repoussé les hordes de bêtes... Maintenir l'élan actuel.${prompt}
+  6662: L'armée expéditionnaire de Bastok a repoussé les hordes de bêtes... Maintenir l'élan actuel.${prompt}
+  6663: L'armée expéditionnaire de Windurst a repoussé les hordes de bêtes... Maintenir l'élan actuel.${prompt}
+  6664: Une Force Expéditionnaire San d'Orienne a été envoyée dans cette zone.${prompt}
+  6665: Une Force Expéditionnaire Bastokanne a été envoyée dans cette zone.${prompt}
+  6666: Une Force Expéditionnaire Windurstienne a été envoyée dans cette zone.${prompt}
+  6667: 'Influence F.E. : Grande...Statut de la région : Dominant...Maintenir le niveau de combat actuel.${prompt}'
+  6668: 'Influence F.E. : Correcte...Statut de la région : Majeur...Maintenir l’élan.${prompt}'
+  6669: 'Influence F.E. : Faible...Statut de la région : Mineur...Intensifier les efforts.${prompt}'
+  6670: 'Influence F.E. : Minimale...Statut de la région : Minimal...Multiplier les efforts par dix.${prompt}'
+  6671: 'Influence F.E. : Aucune...Statut de la région : Sous le contrôle des bêtes...Réduire les pertes au minimum.${prompt}'
+  6672: Il y avait une malédiction sur la bannière des bêtes !${prompt}
+  6673: La malédiction de la bannière des bêtes a été levée !${prompt}
+  6674: Il y a une bannière des bêtes.${prompt}
   6675: 　${prompt}
   6676: 　${prompt}
   6677: 　${prompt}
@@ -22813,7 +22813,7 @@ entries:
   10507: |-
     C'est ça l'esprit !
     Pourriez-vous me rendre un service alors, et aider un de mes amis ?${prompt}
-  10508: C'est la première maison en bas de la route à travers cette grande arcade.${prompt}
+  10508: C'est la première retour en bas de la route à travers cette grande arcade.${prompt}
   10509: Eh bien, si je savais quelque chose à ce sujet, je ne serais pas ici, n'est-ce pas ?${prompt}
   10510: Quoi qu'il en soit, peut-être que Echo Hawk peut vous aider. Il a des oreilles partout.${prompt}
   10511: Prenez à droite et allez tout droit par cette entrée. Il rôde habituellement autour de là.${prompt}
@@ -22889,7 +22889,7 @@ entries:
   10542: |-
     Bastok a vraiment changé au fil des ans.
     À part nous, les Galka, qui travaillons dans les mines, je dirais que les choses ne changent guère.${prompt}
-  10543: Il y a une auberge et la Guilde des Alchimistes par ici, mais à part ça, vous ne trouverez que les maisons des pauvres de Bastok. Je ne pense pas qu'il y ait quelque chose qui vous intéresse là-dedans.${prompt}
+  10543: Il y a une auberge et la Guilde des Alchimistes par ici, mais à part ça, vous ne trouverez que les retours des pauvres de Bastok. Je ne pense pas qu'il y ait quelque chose qui vous intéresse là-dedans.${prompt}
   10544: Quelque chose ne va pas ? Êtes-vous perdu ?${prompt}
   10545: |-
     Demander des directions ?
