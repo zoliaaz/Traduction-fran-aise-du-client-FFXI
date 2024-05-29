@@ -16755,35 +16755,43 @@ entries:
     Non, merci.${prompt}
   6774: "Vous n'avez pas assez de gils.${prompt}"
   6775: "Je comprends que vous soyez pressé, ${choice-player-gender}[monsieur/madame]. Cependant, pourrais-je vous faire une simple demande ? L'un des chocobos de notre associé s'est perdu et ne peut pas rentrer chez lui.${prompt}"
-  6776: |-
-    "Seriez-vous assez aimable pour la ramener aux écuries ${choice: 3}[du Royaume/de la République/de la Fédération/du Duché/du Duché/du Duché/du secret] à ${choice: 3}[San d'Oria Sud/aux Mines de Bastok/au Bois de Windurst/à Haut Jeuno/à Bas Jeuno/au Port Jeuno/à Norg] ? ${prompt}"
+  6776: "Seriez-vous assez aimable pour la ramener aux écuries ${choice: 3}[du Royaume/de la République/de la Fédération/du Duché/du Duché/du Duché/du secret] à ${choice: 3}[San d'Oria Sud/aux Mines de Bastok/au Bois de Windurst/à Haut Jeuno/à Bas Jeuno/au Port Jeuno/à Norg] ? ${prompt}"
   6777: |-
-    "Donner un coup de main ?"
+    Donner un coup de main ?"
     ${selection-lines}
     J'ai mieux à faire.
     Bien sûr !${prompt}
-  6778: "Oh, merci infiniment ! Vous serez récompensé par nos associés dès la livraison du chocobo.${prompt}"
-  6779: "Vous ne pouvez pas obtenir le ${item-singular: 0[2]}. Revenez après avoir trié votre inventaire.${prompt}"
+  6778: |-
+    Oh, merci infiniment ! 
+    Vous serez récompensé par nos associés dès la livraison du chocobo.${prompt}
+  6779: |-
+    Vous ne pouvez pas obtenir le ${item-singular: 0[2]}. 
+    Revenez après avoir trié votre inventaire.${prompt}
   6780: "Seriez-vous assez aimable pour la ramener à ${choice: 3}[l'entrée du Tunnel de Gustav (B-8)/la Baie de Bibiki (G-10)/l'entrée du Temple d'Uggalepih (J-11)] ?${prompt}"
   6781: |-
-    "Seuls ceux qui répondent aux deux exigences fixées par l'alliance peuvent monter un chocobo. Tout d'abord, vous devez être un soldat d'un niveau respectable dans les Forces Alliées. Ensuite, vous devez être en possession de ${keyitem-article: 7[2]}.${prompt}"
+    Seuls ceux qui répondent aux deux exigences fixées par l'alliance peuvent monter un chocobo. 
+    Tout d'abord, vous devez être un soldat d'un niveau respectable dans les Forces Alliées. Ensuite, vous devez être en possession de ${keyitem-article: 7[2]}.${prompt}
   6782: |-
-    "N'importe lequel de nos bons oiseaux vous amènera directement sur le front de bataille. Nous facturons des frais de service de ${number: 0} Billets Alliés, qui servent à assurer que les chocobos sont bien pris en charge. Mes dossiers indiquent que vous avez actuellement ${number: 1} Billets Alliés.${prompt}"
+    N'importe lequel de nos bons oiseaux vous amènera directement sur le front de bataille. 
+    Nous facturons des frais de service de ${number: 0} Billets Alliés, qui servent à assurer que les chocobos sont bien pris en charge. 
+    Mes dossiers indiquent que vous avez actuellement ${number: 1} Billets Alliés.${prompt}
   6783: |-
-    "Hmmm... Il semble que vous n'ayez pas assez de Billets Alliés. Désolé, mais ces oiseaux ne vont pas se nourrir et se toiletter tout seuls.${prompt}"
-  6784: "Je suis désolé, mais nous ne confions pas nos chocobos aux personnes possédant ${keyitem-article: 0[2]}. Nous ne voudrions pas que nos amis à plumes meurent de peur, n'est-ce pas ?${prompt}"
-  6785: "(DEBUG) Drapeau levé, kupo !${prompt}"
-  6786: "Bienvenue, Maître ! C'est chez vous, la “Mog House”, kupo !${prompt}"
-  6787: "Je suis un mog, kupo ! Nous, les mogs, aimons prendre soin des maisons et des objets ! Enchanté de vous rencontrer, kupo !${prompt}"
-  6788: "Je vais vous parler de votre Mog House, kupo !${prompt}"
+    Hmmm... Il semble que vous n'ayez pas assez de Billets Alliés.
+    Désolé, mais ces oiseaux ne vont pas se nourrir et se toiletter tout seuls.${prompt}
+  6784: 'Je suis désolé, mais nous ne confions pas nos chocobos aux personnes possédant ${keyitem-article: 0[2]}. Nous ne voudrions pas que nos amis à plumes meurent de peur, n'est-ce pas ?${prompt}'
+  6785: (DEBUG) Drapeau levé, kupo !${prompt}
+  6786: Bienvenue, Maître ! C'est chez vous, la “Mog House”, kupo !${prompt}
+  6787: Je suis un mog, kupo ! Nous, les mogs, aimons prendre soin des maisons et des objets ! Enchanté de vous rencontrer, kupo !${prompt}
+  6788: Je vais vous parler de votre Mog House, kupo !${prompt}
   6789: |-
-    "Tout d'abord, les bases, kupo ! Ouvrez votre menu principal, Maître. Le bouton tout en bas change en “Mog House” lorsque vous êtes dans votre Mog House, kupo !${prompt}"
-  6790: "Appuyez dessus et le menu “Mog House” apparaîtra ! Tout ce que vous pouvez faire dans votre Mog House est là, kupo !${prompt}"
-  6791: "Il y a plein de choses que vous pouvez faire dans votre Mog House, kupo ! Cela peut être trop pour certains maîtres, kupo...${prompt}" 
-  6792: "Je vais donc vous apprendre chacune d'entre elles ! Demandez-moi ce que vous voulez savoir, kupo !${prompt}"
-  6793: "Choisissez la commande Mog House que vous voulez savoir, kupo !${prompt}"
+    Tout d'abord, les bases, kupo ! Ouvrez votre menu principal, Maître. 
+    Le bouton tout en bas change en “Mog House” lorsque vous êtes dans votre Mog House, kupo !${prompt}
+  6790: Appuyez dessus et le menu “Mog House” apparaîtra ! Tout ce que vous pouvez faire dans votre Mog House est là, kupo !${prompt}
+  6791: Il y a plein de choses que vous pouvez faire dans votre Mog House, kupo ! Cela peut être trop pour certains maîtres, kupo...${prompt} 
+  6792: Je vais donc vous apprendre chacune d'entre elles ! Demandez-moi ce que vous voulez savoir, kupo !${prompt}
+  6793: Choisissez la commande Mog House que vous voulez savoir, kupo !${prompt}
   6794: |-
-    "Que voulez-vous savoir sur ?"
+    Que voulez-vous savoir sur ?
     ${selection-lines}
     Le Mog Safe.
     Stockage.
@@ -16793,22 +16801,22 @@ entries:
     Modifier la disposition.
     Invitations à la Mog House.
     J'ai compris, merci, kupo !${prompt}
-  6795: "Le Mog Safe est l'endroit où je garde les objets que vous ne pouvez pas transporter ! C'est un coffre-fort particulièrement sûr et solide, kupo !${prompt}"
-  6796: "Vous ne pouvez y mettre qu'un certain nombre d'objets, kupo... Mais je les garderai même si cela signifie ma vie, kupo !${prompt}"
-  6797: "La boîte de livraison est l'endroit où vous pouvez envoyer des lettres à des amis et recevoir des objets de différents endroits, kupo !${prompt}"
-  6798: "Vous devriez prendre les objets de votre boîte de livraison et les mettre dans votre inventaire quand ils arrivent, kupo !${prompt}"
-  6799: "Si votre boîte de livraison est pleine, aucune autre livraison ne peut être effectuée, et vous ne pouvez pas envoyer de courrier non plus, kupo !${prompt}"
-  6800: "Vous pouvez envoyer des objets et des gils à vos amis avec la commande “Envoyer”, kupo !${prompt}"
-  6801: "(Parfois, si une force spéciale prend le contrôle, vous pouvez même livrer des objets avec l'attribut “Exclusif”, kupo... !)${prompt}"
-  6802: "Changer de métier pour les gens est une capacité secrète que seuls nous, les mogs, pouvons utiliser, kupo !${prompt}"
-  6803: "Je retire tout votre équipement et vous emmène dans un endroit mystérieux, kupo !${prompt}"
-  6804: "Et... le reste est un secret, kupo !${prompt}"
-  6805: "Tous les mogs aiment s'occuper des plantes, kupo !${prompt}"
-  6806: "Tant que vous avez un pot de fleurs et des graines, je prendrai cela comme ma responsabilité personnelle de m'occuper des plantes que vous faites pousser, kupo !${prompt}"
-  6807: "Cette Mog House est votre propre chambre, kupo ! Mais elle est encore un peu vide, kupo...${prompt}"
-  6808: "Elle a besoin de meubles et peut-être de quelques tableaux pour la rendre plus confortable, kupo !${prompt}"
-  6809: "Si vous en trouvez lors de vos voyages, je vous aiderai à les disposer, kupo ! Je suis impatient, kupo !${prompt}"
-  6810: "L'espace de stockage devient disponible lorsque vous placez des meubles dans votre Mog House en utilisant la commande “Disposition”, kupo !${prompt}"
+  6795: Le Mog Safe est l'endroit où je garde les objets que vous ne pouvez pas transporter ! C'est un coffre-fort particulièrement sûr et solide, kupo !${prompt}
+  6796: Vous ne pouvez y mettre qu'un certain nombre d'objets, kupo... Mais je les garderai même si cela signifie ma vie, kupo !${prompt}
+  6797: La boîte de livraison est l'endroit où vous pouvez envoyer des lettres à des amis et recevoir des objets de différents endroits, kupo !${prompt}
+  6798: Vous devriez prendre les objets de votre boîte de livraison et les mettre dans votre inventaire quand ils arrivent, kupo !${prompt}
+  6799: Si votre boîte de livraison est pleine, aucune autre livraison ne peut être effectuée, et vous ne pouvez pas envoyer de courrier non plus, kupo !${prompt}
+  6800: Vous pouvez envoyer des objets et des gils à vos amis avec la commande “Envoyer”, kupo !${prompt}
+  6801: (Parfois, si une force spéciale prend le contrôle, vous pouvez même livrer des objets avec l'attribut “Exclusif”, kupo... !)${prompt}
+  6802: Changer de métier pour les gens est une capacité secrète que seuls nous, les mogs, pouvons utiliser, kupo !${prompt}
+  6803: Je retire tout votre équipement et vous emmène dans un endroit mystérieux, kupo !${prompt}
+  6804: Et... le reste est un secret, kupo !${prompt}
+  6805: Tous les mogs aiment s'occuper des plantes, kupo !${prompt}
+  6806: Tant que vous avez un pot de fleurs et des graines, je prendrai cela comme ma responsabilité personnelle de m'occuper des plantes que vous faites pousser, kupo !${prompt}
+  6807: Cette Mog House est votre propre chambre, kupo ! Mais elle est encore un peu vide, kupo...${prompt}
+  6808: Elle a besoin de meubles et peut-être de quelques tableaux pour la rendre plus confortable, kupo !${prompt}
+  6809: Si vous en trouvez lors de vos voyages, je vous aiderai à les disposer, kupo ! Je suis impatient, kupo !${prompt}
+  6810: L'espace de stockage devient disponible lorsque vous placez des meubles dans votre Mog House en utilisant la commande “Disposition”, kupo !${prompt}
   6811: |-
     It's almost exactly the same as using your Mog Safe, kupo!
     Leave your items here for me to look after, kupo!${prompt}
@@ -17027,6 +17035,7 @@ entries:
     You will gain access to all jobs.
     All support jobs will also be unlocked.${prompt}
   6916: '${color-alt: 121}Unlocked all jobs and support jobs!'
+  6917: Choose your destination.
   6918: |-
     "Sélectionnez une catégorie :"
     ${selection-lines}
@@ -17417,7 +17426,6 @@ entries:
     Grin.${prompt}
   7024: |-
     ヒルドルフ(Hildolf)
-    7024: |-
     Qui allez-vous voir à la Fonderie ?
     ${selection-lines}
     Personne.
