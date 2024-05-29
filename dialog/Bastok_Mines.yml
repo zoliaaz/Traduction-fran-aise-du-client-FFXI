@@ -16200,40 +16200,40 @@ entries:
     ${zone: 7[2]} #${number: 23}.
     ${zone: 8[2]} #${number: 24}.
     ${zone: 9[2]} #${number: 25}.${prompt}
-  6511: The client sent an invalid value to the server!${prompt}
-  6512: You cannot receive mission assignments at this time.${prompt}
-  6513: I am in charge of assigning missions, but I am only allowed to do so to those whose allegiance is to Bastok.${prompt}
+  6511: Le client a envoyé une valeur non valide au serveur !${prompt}
+  6512: Vous ne pouvez pas recevoir de missions pour le moment.${prompt}
+  6513: Je suis chargé d'attribuer des missions, mais je ne suis autorisé à le faire que pour ceux dont l'allégeance est envers Bastok.${prompt}
   6514: |-
-    You cannot undertake two missions at the same time.
-    Finish the one you are on now before asking for a new one.${prompt}
-  6515: Missions currently available are as follows:${prompt}
+    Vous ne pouvez pas entreprendre deux missions en même temps.
+    Terminez celle sur laquelle vous êtes actuellement avant d'en demander une nouvelle.${prompt}
+  6515: Les missions actuellement disponibles sont les suivantes :${prompt}
   6516: |-
-    Which mission will you undertake?
+    Quelle mission entreprendrez-vous ?
     ${selection-lines}
-    The Zeruhn Report.
-    A Geological Survey.
-    Fetichism.
-    The Crystal Line.
-    Wading Beasts.
-    The Emissary.
+    Le Rapport de Zeruhn.
+    Une Étude Géologique.
+    Fétichisme.
+    La Ligne de Cristal.
+    Bêtes Aquatiques.
+    L'Émissaire.
     2-3-1A.
     2-3-1B.
     2-3-2A.
     2-3-2B.
-    The Four Musketeers.
-    To the Forsaken Mines.
+    Les Quatre Mousquetaires.
+    Vers les Mines Abandonnées.
     Jeuno.
     ダミー.
-    Darkness Rising.
-    Xarcabard, Land of Truths.
-    Return of the Talekeeper.
-    The Pirates' Cove.
-    The Final Image.
-    On My Way.
-    The Chains That Bind Us.
-    Enter the Talekeeper.
-    The Salt of the Earth.
-    Where Two Paths Converge.
+    L'Avènement des Ténèbres.
+    Xarcabard, Terre de Vérités.
+    Retour du Gardien des Récits.
+    Le Repaire des Pirates.
+    L'Image Finale.
+    En Route.
+    Les Chaînes Qui Nous Lient.
+    Entrer chez le Gardien des Récits.
+    Le Sel de la Terre.
+    Là Où Deux Chemins Se Croisent.
     ダミー１０.
     ダミー１１.
     ダミー１２.
@@ -16241,7 +16241,7 @@ entries:
     ダミー１４.
     ダミー１５.
     ダミー１６.
-    None.${prompt}
+    Aucune.${prompt}
   6517: Je suis responsable d'assigner des missions aux Bastokers qui souhaitent servir leur pays. Êtes-vous l'un d'entre eux ?${prompt}
   6518: |-
     Êtes-vous venu pour entreprendre une mission ?
@@ -22568,115 +22568,116 @@ entries:
   10408: 'Training area: West Ronfaure.${prompt}'
   10409: 'Training area: West Ronfaure.${prompt}'
   10410: |-
-    No, that won't work either. Confound it!
-    If only there were a skilled synergist around here to help me out...${prompt}
+    Non, cela ne fonctionnera pas non plus. Maudits soient-ils !
+    Si seulement il y avait un synergiste qualifié par ici pour m'aider...${prompt}
   10411: |-
-    No, that won't work either. Confound it!
-    If only I could find a--${prompt}
+    Non, cela ne fonctionnera pas non plus. Maudits soient-ils !
+    Si seulement je pouvais trouver un--${prompt}
   10412: |-
-    Wait a minute...you there! Yes, you!
-    That faint yet distinctive scent of fewell and ash...${prompt}
-  10413: Yes, there's no mistaking it. You're a synergist, aren't you?${prompt}
+    Attendez une minute... toi là-bas ! Oui, toi !
+    Cette odeur faible mais distinctive de carburant et de cendres...${prompt}
+  10413: Oui, il n'y a aucun doute là-dessus. Tu es un synergiste, n'est-ce pas ?${prompt}
   10414: |-
-    Oh, lucky day! What say you assist me with the project I'm working on?
-    I guarantee that it'll be worth your while.${prompt}
+    Oh, jour de chance ! Que dirais-tu de m'aider avec le projet sur lequel je travaille ?
+    Je te garantis que ça en vaudra la peine.${prompt}
   10415: |-
-    Help Selliste?
+    Aider Selliste ?
     ${selection-lines}
-    Not interested.
-    My pleasure!${prompt}
+    Pas intéressé.
+    Avec plaisir !${prompt}
   10416: |-
-    Hmph! Another synergist too preoccupied with ${choice-player-gender}[his/her] own oh-so-important research to share ${choice-player-gender}[his/her] knowledge with the common folk.
-    But hey, I'm a patient woman. If you ever have a change of heart, I'll be here!${prompt}
+    Hmpf ! Encore un synergiste trop préoccupé par sa propre recherche soi-disant importante pour partager ses connaissances avec le peuple.
+    Mais bon, je suis une femme patiente. Si jamais tu changes d'avis, je serai là !${prompt}
   10417: |-
-    Wonderful! Who said that all synergists were snooty, good-for-nothing snobs?
-    Not me, that's for sure!${prompt}
+    Merveilleux ! Qui a dit que tous les synergistes étaient des snobs prétentieux et inutiles ?
+    Pas moi, en tout cas !${prompt}
   10418: |-
-    Anyhow, allow me to explain.
-    You may have noticed that these synergy furnaces are a tad unwieldy, to say the least.${prompt}
+    Quoi qu'il en soit, laisse-moi t'expliquer.
+    Tu as peut-être remarqué que ces fours de synergie sont un peu encombrants, pour le moins dire.${prompt}
   10419: |-
-    Not much of a concern when you're synergizing here in the city, but hardly suited to the peripatetic life of an adventurer.
-    That's when it hit me!${prompt}
+    Ce n'est pas vraiment un problème lorsque tu fais de la synergie ici en ville, mais cela ne convient guère à la vie nomade d'un aventurier.
+    C'est là que j'ai eu une idée !${prompt}
   10420: |-
-    Surely you've read the histories.
-    In the days of the Crystal War, there were those studious types who could make massive tomes appear and disappear out of thin air.
-    What were they called again...? Bookheads? Eggworms?${prompt}
+    Tu as sûrement lu les histoires.
+    À l'époque de la Guerre des Cristaux, il y avait ces types studieux qui pouvaient faire apparaître et disparaître de gros tomes de nulle part.
+    Comment s'appelaient-ils déjà... ? Des têtes de livre ? Des vers à œufs ?${prompt}
   10421: |-
-    But it's not their name that's important. No, it's the technique they used to store and summon their libraries!
-    "Arcane snap" or something like that? Anyway!${prompt}
-  10422: So I figure, if only I could get my hands on some of the astral whatchamacallit that the egghead-types used to whip out their grim-whatsits, I could toss together a nifty gizmo that could work the same magic for these synergy thingamajigs!${prompt}
-  10423: I tell you, sometimes I amaze even myself with the clarity of my ideas!${prompt}
+    Mais ce n'est pas leur nom qui importe. Non, c'est la technique qu'ils utilisaient pour stocker et appeler leurs bibliothèques !
+    "Snap arcane" ou quelque chose comme ça ? Peu importe !${prompt}
+  10422: |-
+    Alors je me dis, si seulement je pouvais mettre la main sur quelque chose de l'astral machin-truc que les types à tête d'œuf utilisaient pour sortir leurs machins sombres, je pourrais assembler un gadget astucieux qui pourrait faire la même magie pour ces trucs de synergie !${prompt}
+  10423: Parfois, je m'étonne moi-même de la clarté de mes idées !${prompt}
   10424: |-
-    But you look puzzled.
-    Sorry, let's try that again in layman's terms.${prompt}
-  10425: I'm working on a totally amazing invention, and you're going to help me complete it!${prompt}
+    Mais tu as l'air perdu.
+    Désolée, essayons cela à nouveau en termes simples.${prompt}
+  10425: Je travaille sur une invention totalement incroyable, et tu vas m'aider à la terminer !${prompt}
   10426: |-
-    All you need to do is use your synergy skills to whip up ${article} ${item-article: 0[2]}, and I'll take care of the rest.
-    Nothing could be easier! So, what do you say?${prompt}
+    Tout ce que tu as à faire, c'est d'utiliser tes compétences en synergie pour fabriquer ${article} ${item-article: 0[2]}, et je m'occuperai du reste.
+    Rien de plus simple ! Alors, qu'en dis-tu ?${prompt}
   10427: |-
-    Help Selliste?
+    Aider Selliste ?
     ${selection-lines}
-    Not interested.
-    My pleasure!${prompt}
+    Pas intéressé.
+    Avec plaisir !${prompt}
   10428: |-
-    Splendid! You'll be wanting to know the recipe then, won't you?
-    Why, it's simple enough.${prompt}
-  10429: 'It''s just ${article} ${item-article: 0[2]}, ${article} ${item-article: 1[2]}, ${article} ${item-article: 2[2]}, ${article} ${item-article: 3[2]}, ${article} ${item-article: 4[2]}...${prompt}'
+    Splendide ! Tu voudras connaître la recette alors, n'est-ce pas ?
+    Eh bien, c'est assez simple.${prompt}
+  10429: 'C’est juste ${article} ${item-article: 0[2]}, ${article} ${item-article: 1[2]}, ${article} ${item-article: 2[2]}, ${article} ${item-article: 3[2]}, ${article} ${item-article: 4[2]}...${prompt}'
   10430: |-
-    ...And finally, ${article} ${item-article: 0[2]}.
-    Toss them all into one of those furnace doodads, work your synergy magic on it, trade the product back here to me, and we're in business!${prompt}
+    ...Et enfin, ${article} ${item-article: 0[2]}.
+    Mets-les tous dans un de ces fourneaux machin-trucs, fais ta magie de synergie dessus, échange le produit ici avec moi, et nous sommes en affaires !${prompt}
   10431: |-
-    I suspect you can find the ingredients somewhere strong in elemental energy.
-    Maybe a place with some of those big crystal doohickeys lying around?${prompt}
+    Je soupçonne que tu peux trouver les ingrédients quelque part avec une forte énergie élémentaire.
+    Peut-être un endroit avec quelques gros cristaux qui traînent ?${prompt}
   10432: |-
-    But you're the adventurer. I have bigger flasques to fulminate!
-    Good luck out there!${prompt}
+    Mais tu es l'aventurier. J'ai des fioles plus importantes à fulminer !
+    Bonne chance là-bas !${prompt}
   10433: |-
-    I knew you'd be back!
-    How about it? Ready to do the world a favor and help me complete my most marvelous invention?${prompt}
+    Je savais que tu reviendrais !
+    Qu'en penses-tu ? Prêt à rendre service au monde et m'aider à compléter mon invention la plus merveilleuse ?${prompt}
   10434: |-
-    What? Don't tell me you've already forgotten the recipe for astral matter.
-    Oh well, not everyone can be as organized as yours truly! Anyway...${prompt}
+    Quoi ? Ne me dis pas que tu as déjà oublié la recette pour la matière astrale.
+    Oh, eh bien, tout le monde ne peut pas être aussi organisé que moi ! Quoi qu'il en soit...${prompt}
   10435: |-
-    Why, yes! Yes, I'd recognize it anywhere!
-    One hundred percent pure, unadulterated astral whatchama-thingama-doodad-jiggity-callit!!!
-    Now just sit tight for a moment, okay?${prompt}
+    Pourquoi, oui ! Oui, je le reconnaîtrais n'importe où !
+    Cent pour cent pur, non altéré, truc-machin-chose-astral !!!
+    Attends un moment, d'accord ?${prompt}
   10436: |-
-    Yes, this is it!
-    The gizmo that will have synergists all over Vana'diel saying, “Boy, how did I ever live without that nifty thingamadoo-diggity?”${prompt}
+    Oui, c'est ça !
+    Le gadget qui fera dire aux synergistes partout dans Vana'diel : "Bon sang, comment ai-je jamais vécu sans cette merveille de truc-machin-chose ?"${prompt}
   10437: |-
-    I dub it the “portafurnace”!
-    And as a reward for making this day possible, I present you with one of your very own!${prompt}
+    Je le baptise le “portafourneau” !
+    Et en récompense pour avoir rendu ce jour possible, je te présente le tien !${prompt}
   10438: |-
-    You're impressed, aren't you? Go on and admit it!
-    With this ${item-singular: 0[2]}, you can summon a synergy furnace to your side anytime, anywhere!${prompt}
+    Tu es impressionné, n'est-ce pas ? Va donc et avoue-le !
+    Avec ce ${item-singular: 0[2]}, tu peux invoquer un fourneau de synergie à tes côtés à tout moment, n'importe où !${prompt}
   10439: |-
-    Anywhere, that is, except for busy cities and towns. And dungeons.
-    And inside buildings? And maybe some other places too.
-    Mind you, that's not a defect--it's a feature! Safety first, I always say.${prompt}
+    N'importe où, c'est-à-dire, sauf dans les villes et les villages occupés. Et dans les donjons.
+    Et à l'intérieur des bâtiments ? Et peut-être quelques autres endroits aussi.
+    Sache que ce n'est pas un défaut - c'est une fonctionnalité ! La sécurité d'abord, comme je dis toujours.${prompt}
   10440: |-
-    No, no, you don't have to tell me--I know I'm brilliant!
-    Good day, and may my ingenious invention serve you well!${prompt}
+    Non, non, tu n'as pas besoin de me le dire, je sais que je suis brillant !
+    Bonne journée, et que mon invention ingénieuse te serve bien !${prompt}
   10441: |-
-    Well, if it isn't my favorite adventurer!
-    Synergizing up a storm with the help of my miraculous portafurnace?${prompt}
+    Eh bien, si ce n'est pas mon aventurier préféré !
+    À faire de la synergie à tout va avec l'aide de mon portafourneau miraculeux ?${prompt}
   10442: |-
-    You'll be happy to know that I'm already hard at work on my next invention: a doodad that can take that stuff from one of those whatsits, and convert it to pure whatchamacallit to use with the thingamajigs!
-    Sounds amazing, doesn't it?${prompt}
+    Tu seras heureux de savoir que je travaille déjà dur sur ma prochaine invention : un bidule qui peut prendre ce truc d'un de ces machins, et le convertir en pur truc-machin pour l'utiliser avec les machins-trucs !
+    Ça a l'air incroyable, non ?${prompt}
   10443: |-
-    What? Don't tell me you lost the ${item-singular: 0[2]} I made for you.
-    I'm heartbroken! A lot of blood, sweat, and whatchamacallits go into making each and every one of those beauties!${prompt}
+    Quoi ? Ne me dis pas que tu as perdu le ${item-singular: 0[2]} que je t'ai fait.
+    Je suis dévastée ! Beaucoup de sang, de sueur et de machins-trucs vont dans la fabrication de chacune de ces beautés !${prompt}
   10444: |-
-    But hey, I've got a soft spot for discombobulated types like you.
-    Here's a brand-spankin' new one. Just promise me you'll hold onto it this time, okay?${prompt}
+    Mais bon, j'ai un faible pour les types désorientés comme toi.
+    Voici un tout neuf tout beau. Promets-moi juste que tu le garderas cette fois, d'accord ?${prompt}
   10445: |-
-    I can make you another, but it'll be a while before the doojigs are ready to toss into the thingamacallit.
-    Why don't you come back a little later?${prompt}
+    Je peux t'en refaire un autre, mais il faudra un moment avant que les trucs soient prêts à être jetés dans le machin.
+    Pourquoi ne reviens-tu pas un peu plus tard ?${prompt}
   10446: ${prompt}
-  10447: You receive nothing from the moon rabbit...${prompt}
-  10448: The moon rabbit has brought along a monster!${prompt}
-  10449: You have to do something about those crazy trees, kupo!${prompt}
-  10450: You're done fighting trees, kupo?${prompt}
+  10447: Tu ne reçois rien du lapin de la lune...${prompt}
+  10448: Le lapin de la lune a amené un monstre avec lui !${prompt}
+  10449: Il faut faire quelque chose à propos de ces arbres fous, kupo !${prompt}
+  10450: Tu as fini de combattre les arbres, kupo ?${prompt}
   10451: ${prompt}
   10452: ${prompt}
   10453: ${prompt}
@@ -22685,20 +22686,20 @@ entries:
   10456: ${prompt}
   10457: ${prompt}
   10458: |-
-    Hey, you!
-    I'll have you know that only the rightful leader of the Star Onion Brigade can sit there! Get down right now before I charge you with trees-on and disturbing the peas!${prompt}
-  10459: I don't know how you got inside, but that area is off limits. Vacate the premises immediately!${prompt}
-  10460: He...he...here's your delivery...<wheeze>...!${prompt}
+    Hé toi !
+    Sache que seul le chef légitime de la Brigade des Oignons Étoilés peut s'asseoir là ! Descends tout de suite avant que je te charge pour avoir perturbé les petits pois !${prompt}
+  10459: Je ne sais pas comment tu es entré, mais cette zone est interdite. Quitte immédiatement les lieux !${prompt}
+  10460: Il... il... voici votre livraison... <souffle>... !${prompt}
   10461: |-
-    Thanks once again.
-    Light on your feet today, I see!${prompt}
+    Merci encore une fois.
+    Tu sembles léger sur tes pieds aujourd'hui, je vois !${prompt}
   10462: |-
-    Walking trees!? How positively...peculiar.
-    Are these also creations conjured up with Tarutaru magic?${prompt}
-  10463: Welcome!${prompt}
-  10464: What can I do for you?${prompt}
-  10465: Go bother someone else. I'm busy!${prompt}
-  10466: Need something sent to a friend's house? Sending items to your own house? You've come to the right place!${prompt}
+    Des arbres qui marchent !? C'est vraiment... particulier.
+    Sont-ils également des créations conjurées avec la magie des Tarutaru ?${prompt}
+  10463: Bienvenue !${prompt}
+  10464: Que puis-je faire pour vous ?${prompt}
+  10465: Va embêter quelqu'un d'autre. Je suis occupé !${prompt}
+  10466: Besoin d'envoyer quelque chose chez un ami ? Envoyer des objets à votre propre maison ? Vous êtes au bon endroit !${prompt}
   10467: |-
     evtpara選択
     ${selection-lines}
@@ -23365,270 +23366,270 @@ entries:
   10749: |-
     Oups, désolé.
     C'était Parraggoh...${prompt}
-  10750: 'Anyway, I went and asked adventurers near the Metalworks if they''d ever seen the ${item-plural: 7[2]} you told me about, but no one knew anything about them.${prompt}'
+  10750: 'Quoi qu’il en soit, je suis allé demander aux aventuriers près de Metalworks s’ils avaient déjà vu les ${item-plural: 7[2]} dont vous m’avez parlé, mais personne ne savait rien à leur sujet.${prompt}'
   10751: |-
-    That's very kind of you, but it's been over fifteen years since the accident...
-    I have to face the fact that my friends, and their belongings, are gone forever.${prompt}
+    C'est très gentil de votre part, mais cela fait plus de quinze ans depuis l'accident...
+    Je dois accepter le fait que mes amis, et leurs affaires, sont perdus pour toujours.${prompt}
   10752: |-
-    No, don't give up!
-    I'm sure we'll find something!${prompt}
+    Non, ne renoncez pas !
+    Je suis sûr que nous trouverons quelque chose !${prompt}
   10753: '...${prompt}'
   10754: |-
-    Hey, have you ever been to the Palborough Mines?
-    Did you see any ${item-plural: 7[2]} lying around?${prompt}
+    Hé, êtes-vous déjà allé aux mines de Palborough ?
+    Avez-vous vu des ${item-plural: 7[2]} traîner par là ?${prompt}
   10755: |-
-    I used to work in the Palborough Mines with many other Galka.
-    Twenty years ago, an explosive went off before we'd cleared the tunnels, and suddenly we were surrounded by Quadav.${prompt}
+    Je travaillais autrefois dans les mines de Palborough avec de nombreux autres Galka.
+    Il y a vingt ans, une explosion s'est produite avant que nous n'ayons dégagé les tunnels, et soudain nous nous sommes retrouvés entourés de Quadav.${prompt}
   10756: |-
-    Many Galka died that day...
-    I am looking for their ${item-plural: 7[2]}.
-    The fallen need to be remembered.${prompt}
-  10757: I'm kind of a Bastokan history buff, and Mister Pavvke's been teaching me a lot. But when he told me about the Palborough Mines... I had to try helping him.${prompt}
-  10758: 'If you find any ${item-plural: 7[2]}, could you bring them to him? I''ll pay you, of course.${prompt}'
+    Beaucoup de Galka sont morts ce jour-là...
+    Je recherche leurs ${item-plural: 7[2]}.
+    Les défunts doivent être commémorés.${prompt}
+  10757: Je suis un peu passionné par l'histoire de Bastok, et Monsieur Pavvke m'apprend beaucoup de choses. Mais quand il m'a parlé des mines de Palborough... J'ai voulu essayer de l'aider.${prompt}
+  10758: 'Si vous trouvez des ${item-plural: 7[2]}, pourriez-vous les lui apporter ? Je vous paierai, bien sûr.${prompt}'
   10759: |-
-    No, Cornelia, you shouldn't. I couldn't ask that of you.
-    I will pay the reward myself.${prompt}
+    Non, Cornelia, tu ne devrais pas. Je ne pourrais pas te demander ça.
+    Je paierai la récompense moi-même.${prompt}
   10760: |-
-    ...All right.
-    Well, I should go talk to some more adventurers.
-    One of them is bound to know something!${prompt}
+    ... D'accord.
+    Eh bien, je devrais aller parler à d'autres aventuriers.
+    L'un d'entre eux saura sûrement quelque chose !${prompt}
   10761: |-
-    <Sigh>
-    It's not that I don't appreciate it, but she shouldn't involve herself in other people's business like this...${prompt}
+    <Soupir>
+    Ce n'est pas que je n'apprécie pas, mais elle ne devrait pas se mêler des affaires des autres comme ça...${prompt}
   10762: |-
-    Y-you've found ${article} ${item-article: 7[2]}!
-    In the Palborough Mines, yes?${prompt}
+    V-vous avez trouvé ${article} ${item-article: 7[2]} !
+    Dans les mines de Palborough, oui ?${prompt}
   10763: |-
-    Thank you!
-    You don't know what this means to me.${prompt}
+    Merci !
+    Vous ne savez pas ce que cela représente pour moi.${prompt}
   10764: |-
-    There should be others where you found this one.
-    If you find them, please bring them to me.
-    I'm sorry I can't give you much, but here's your reward.${prompt}
+    Il devrait y en avoir d'autres là où vous avez trouvé celui-ci.
+    Si vous les trouvez, apportez-les-moi, s'il vous plaît.
+    Je suis désolé de ne pas pouvoir vous donner grand-chose, mais voici votre récompense.${prompt}
   10765: |-
-    I'm glad you found it! I knew you would!
-    What? Why am I out here?${prompt}
-  10766: Well, Mister Pavvke would probably scold me if I tried to give you a reward. He'd say something like, “she should not be meddling in our affairs...”${prompt}
+    Je suis content que vous l'ayez trouvé ! Je savais que vous le feriez !
+    Quoi ? Pourquoi suis-je ici ?${prompt}
+  10766: Eh bien, Monsieur Pavvke me gronderait probablement si j'essayais de vous donner une récompense. Il dirait quelque chose comme « elle ne devrait pas se mêler de nos affaires... »${prompt}
   10767: |-
-    I know, I know. He's right.
-    But I can't help it. Whenever I decide to do something, I just can't think of anything else.${prompt}
-  10768: You know something? The more I listen to Mister Pavvke's stories, the more I can see the gap in understanding between the Galka and Humes.${prompt}
+    Je sais, je sais. Il a raison.
+    Mais je ne peux pas m'en empêcher. Chaque fois que je décide de faire quelque chose, je ne peux tout simplement pas penser à autre chose.${prompt}
+  10768: Savez-vous quelque chose ? Plus j'écoute les histoires de Monsieur Pavvke, plus je peux voir le fossé de compréhension entre les Galka et les Humes.${prompt}
   10769: |-
-    But the Galka shouldn't be blamed for that, you know?
-    Humes haven't exactly been nice to them, putting them to work and all...
-    Most of the people who died in the accident Mister Pavvke was caught in were Galka, too.${prompt}
+    Mais les Galka ne devraient pas être blâmés pour ça, vous savez ?
+    Les Humes ne leur ont pas vraiment été gentils, les mettant au travail et tout ça...
+    La plupart des personnes décédées dans l'accident dans lequel Monsieur Pavvke a été pris étaient également des Galka.${prompt}
   10770: |-
-    I wish I could somehow bridge the gap between the Galka and Humes...
-    Well then! Enough talk, I have to go. See you around!${prompt}
+    J'aimerais pouvoir d'une manière ou d'une autre combler le fossé entre les Galka et les Humes...
+    Bon, assez parlé, je dois y aller. À bientôt !${prompt}
   10771: |-
-    Oh! A prrresent from Mom!
-    Thank you for bringing it!${prompt}
+    Oh ! Un cadeau de maman !
+    Merci de l'avoir apporté !${prompt}
   10772: |-
-    Wait, don't go yet!
-    Here, could you give this to Mom? Please?${prompt}
+    Attends, ne pars pas encore !
+    Tiens, pourrais-tu donner ceci à maman ? S'il te plaît ?${prompt}
   10773: |-
-    A present for Mom?
-    Umm... I think she should be home soon.${prompt}
-  10774: Hey kitten, I'm home!${prompt}
+    Un cadeau pour maman ?
+    Euh... Je pense qu'elle devrait rentrer bientôt.${prompt}
+  10774: Hey minou, je suis rentrée !${prompt}
   10775: |-
-    Mom!
-    This stranger's brought a prrresent for you!${prompt}
+    Maman !
+    Cet inconnu a apporté un cadeau pour toi !${prompt}
   10776: |-
-    A present? Oh, right!
-    You went to the Konschtat Highlands, then?
-    What did you find? C'mon, show me!${prompt}
+    Un cadeau ? Ah, oui !
+    Tu es allé aux Hautes terres de Konschtat, n'est-ce pas ?
+    Qu'as-tu trouvé ? Allez, montre-moi !${prompt}
   10777: |-
-    Huh? ${lettercase: 1}${keyitem-article: 7[2]}?
-    Doesn't look like anyone famous painted it, either...${prompt}
+    Hein ? Un ${lettercase: 1}${keyitem-article: 7[2]} ?
+    Ça ne ressemble à l'œuvre de personne de célèbre...${prompt}
   10778: |-
-    Mom? If you don't want it, can I have it?
-    I like it! It's prrretty!${prompt}
+    Maman ? Si tu ne le veux pas, puis-je l'avoir ?
+    Je l'aime bien ! Il est joli !${prompt}
   10779: |-
-    Of course, darling. Here.
-    Well, at least my daughter's happy.
-    I'm sorry, but for something like that, I can't pay you more than this...${prompt}
+    Bien sûr, ma chérie. Tiens.
+    Eh bien, au moins ma fille est heureuse.
+    Je suis désolée, mais pour quelque chose comme ça, je ne peux pas vous payer plus que ça...${prompt}
   10780: |-
-    Hi!
-    You know, we also had a visitor before Werei left...${prompt}
+    Salut !
+    Tu sais, nous avons également eu un visiteur avant que Werei ne parte...${prompt}
   10781: |-
-    I apologize for bothering you again.
-    I wished to speak with you about Zeid...${prompt}
+    Je m'excuse de vous déranger à nouveau.
+    Je voulais vous parler de Zeid...${prompt}
   10782: |-
-    Hey, Werei?
-    The Musketeer's back again.${prompt}
-  10783: Captain Volker... We Galka would also like to know of Zeid's whereabouts, but none of us knows where he might be.${prompt}
+    Hé, Werei ?
+    Le mousquetaire est de retour.${prompt}
+  10783: Capitaine Volker... Nous, les Galka, aimerions également savoir où se trouve Zeid, mais aucun d'entre nous ne sait où il pourrait être.${prompt}
   10784: |-
-    You must understand, I cannot continue to perform my duties with a clear conscience unless I know what became of him.
-    As you know, Zeid is the one who should be leading the Mythril Musketeers, not I.${prompt}
+    Vous devez comprendre que je ne peux pas continuer à remplir mes devoirs avec une conscience claire tant que je ne saurai pas ce qu'il est devenu.
+    Comme vous le savez, c'est Zeid qui devrait diriger les Mousquetaires de Mythril, pas moi.${prompt}
   10785: |-
-    Is it your uncle you think of when you say this?
-    True, many Galka were upset by his appointment as Captain after Raogrimm disappeared, but...${prompt}
+    Est-ce votre oncle à qui vous pensez en disant cela ?
+    Il est vrai que beaucoup de Galka ont été contrariés par sa nomination en tant que capitaine après la disparition de Raogrimm, mais...${prompt}
   10786: |-
-    We do not feel the same way about you.
-    As Zeid is different from Raogrimm, you are very different from your uncle.${prompt}
-  10787: '...It is not because of my uncle, sir.${prompt}'
+    Nous ne ressentons pas la même chose à votre sujet.
+    Comme Zeid est différent de Raogrimm, vous êtes très différent de votre oncle.${prompt}
+  10787: '... Ce n’est pas à cause de mon oncle, monsieur.${prompt}'
   10788: |-
-    I am glad to hear that. I now feel safe in telling you that a dark knight was sighted in the Palborough Mines.
-    He was very powerful, I am told.${prompt}
-  10789: Then it is...?${prompt}
-  10790: That is all I know.${prompt}
-  10791: So...why are there less dark knights since Zeid disappeared? Any idea?${prompt}
+    Je suis heureux de l'entendre. Je me sens maintenant en sécurité de vous dire qu'un chevalier noir a été repéré dans les mines de Palborough.
+    Il était très puissant, m'a-t-on dit.${prompt}
+  10789: Alors c'est... ?${prompt}
+  10790: Voilà tout ce que je sais.${prompt}
+  10791: Alors... pourquoi y a-t-il moins de chevaliers noirs depuis que Zeid a disparu ? Une idée ?${prompt}
   10792: |-
-    Well... Zeid did, in a sense, create his own version of the art, passed down since the glory days of Altepa.
-    And it is not something one can master with skill alone.${prompt}
-  10793: It is said that only the few who can tame the dark flames that burn within their soul, feeding on their sorrow and hatred...are chosen.${prompt}
+    Eh bien... Zeid a, en un sens, créé sa propre version de l'art, transmis depuis les jours de gloire d'Altepa.
+    Et ce n'est pas quelque chose que l'on peut maîtriser avec seulement de l'habileté.${prompt}
+  10793: On dit que seuls les quelques-uns qui peuvent dompter les flammes sombres qui brûlent en eux, se nourrissant de leur douleur et de leur haine... sont choisis.${prompt}
   10794: |-
-    ...That's one of the last things I remember Werei saying.
-    Say, why don't you go find Zeid yourself?
-    Maybe he can teach you how to become a dark knight, too.${prompt}
-  10795: Though Werei once told me that the road to becoming one is not an easy one to take.${prompt}
+    ... C'est une des dernières choses dont je me souvienne que Werei ait dite.
+    Dis, pourquoi n'irais-tu pas trouver Zeid toi-même ?
+    Peut-être qu'il pourra t'apprendre à devenir un chevalier noir, toi aussi.${prompt}
+  10795: Bien que Werei m'ait dit un jour que le chemin pour en devenir un n'est pas facile à emprunter.${prompt}
   10796: |-
-    What to do, what to do?
-    Ah, an adventurer! Could you help out a lowly trader?
-    I'm working as an intermediary between the Metalworks and the Alchemists' Guild.${prompt}
-  10797: 'I''m supposed to get them some materials for this collaborative project they''re working on, and I got everything except for ${article} ${item-article: 7[2]}.${prompt}'
+    Que faire, que faire ?
+    Ah, un aventurier ! Pourriez-vous aider un modeste commerçant ?
+    Je travaille en tant qu'intermédiaire entre Metalworks et la Guilde des alchimistes.${prompt}
+  10797: 'Je devais leur obtenir certains matériaux pour ce projet collaboratif sur lequel ils travaillent, et j’ai tout eu sauf ${article} ${item-article: 7[2]}.${prompt}'
   10798: |-
-    Sounds easy, right?
-    I only have to fill ${article} ${item-article: 6[2]} with water from the Drachenfall in North Gustaberg.${prompt}
+    Ça a l'air facile, non ?
+    Je n'ai qu'à remplir ${article} ${item-article: 6[2]} avec de l'eau de la Chute du Drachen dans le Nord de Gustaberg.${prompt}
   10799: |-
-    The problem is, I can't find a place where I can get close enough to the falls to scoop some water up.
-    Would you mind going in my place? Here, I'll give you ${article} ${item-article: 6[2]}.${prompt}
+    Le problème, c'est que je ne trouve pas d'endroit où je peux m'approcher suffisamment des chutes pour en prélever de l'eau.
+    Cela vous dérangerait-il d'y aller à ma place ? Tiens, je vous donnerai ${article} ${item-article: 6[2]}.${prompt}
   10800: |-
-    Oh, it's you. Did you lose the ${item-singular: 6[2]}?
-    Here, I'll give you another one.
-    Don't lose it this time.${prompt}
+    Oh, c'est toi. Tu as perdu le ${item-singular: 6[2]} ?
+    Tiens, je t'en donnerai un autre.
+    Ne le perds pas cette fois.${prompt}
   10801: |-
-    You got it! Thank the heavens!
-    You saved my neck!
-    Here, take this, you deserve it!${prompt}
-  10802: Hume bigwigs don't bother comin' around here, so traders like me can go about their business all unconstrained-like. Heh-heh.${prompt}
-  10803: The workers in the mines and those who went out to avenge them...many of my brethren were slain by the Quadav.${prompt}
-  10804: I want the Quadav to pay for what they did, so that the souls of my fallen comrades may rest in peace.${prompt}
+    Tu l'as eu ! Merci au ciel !
+    Tu m'as sauvé la mise !
+    Tiens, prends ça, tu le mérites !${prompt}
+  10802: Les grands pontes humains ne viennent pas par ici, alors les commerçants comme moi peuvent vaquer à leurs occupations sans contrainte. Heh-heh.${prompt}
+  10803: Les ouvriers des mines et ceux qui sont partis venger leurs camarades... beaucoup de mes frères ont été tués par les Quadav.${prompt}
+  10804: Je veux que les Quadav paient pour ce qu'ils ont fait, afin que les âmes de mes camarades tombés puissent reposer en paix.${prompt}
   10805: |-
-    I want you to go to the Quadav stronghold in Beadeaux and kill as many of them as you can.
-    Bring me back ${article} ${item-article: 7[2]} as proof of your deeds, and I will reward you.${prompt}
-  10806: Good work. Now the souls of my brethren can finally rest in peace.${prompt}
-  10807: The government won't do anything about the monsters in the Zeruhn Mines. It's not “cost-effective.” But those things always get in the way of work, you know?${prompt}
+    Je veux que vous alliez dans le bastion Quadav à Beadeaux et que vous en tuiez autant que possible.
+    Apportez-moi ${article} ${item-article: 7[2]} en guise de preuve de vos actes, et je vous récompenserai.${prompt}
+  10806: Bon travail. Maintenant, les âmes de mes frères peuvent enfin reposer en paix.${prompt}
+  10807: Le gouvernement ne fera rien contre les monstres dans les Mines de Zeruhn. Ce n'est pas “rentable.” Mais ces choses-là sont toujours un obstacle au travail, vous savez ?${prompt}
   10808: |-
-    If you can go in there and kill a few, my buddies and I will put together a reward for you.
-    Oh, and don't forget to bring me three ${item-plural: 7[2]} as proof you did the job.${prompt}
+    Si vous pouvez y aller et en tuer quelques-uns, mes potes et moi vous concocterons une récompense.
+    Oh, et n'oubliez pas de m'apporter trois ${item-plural: 7[2]} comme preuve que vous avez fait le boulot.${prompt}
   10809: |-
-    Good work!
-    We could use more people like you!${prompt}
+    Bon travail !
+    On pourrait utiliser plus de gens comme vous !${prompt}
   10810: |-
-    Sorry, I don't have anything to sell you.
-    I'm trying to start a business selling goods from Ronfaure, but it's not easy getting stuff from areas that aren't under Bastokan control.${prompt}
+    Désolé, je n'ai rien à vous vendre.
+    J'essaie de démarrer une entreprise vendant des biens de Ronfaure, mais ce n'est pas facile d'obtenir des choses dans des zones qui ne sont pas sous le contrôle bastokien.${prompt}
   10811: |-
-    Sorry, I don't have anything to sell you.
-    I'm trying to start a business selling goods from Fauregandi, but it's not easy getting stuff from areas that aren't under Bastokan control.${prompt}
+    Désolé, je n'ai rien à vous vendre.
+    J'essaie de démarrer une entreprise vendant des biens de Fauregandi, mais ce n'est pas facile d'obtenir des choses dans des zones qui ne sont pas sous le contrôle bastokien.${prompt}
   10812: |-
-    Sorry, I don't have anything to sell you.
-    I'm trying to start a business selling goods from Norvallen, but it's not easy getting stuff from areas that aren't under Bastokan control.${prompt}
+    Désolé, je n'ai rien à vous vendre.
+    J'essaie de démarrer une entreprise vendant des biens de Norvallen, mais ce n'est pas facile d'obtenir des choses dans des zones qui ne sont pas sous le contrôle bastokien.${prompt}
   10813: |-
-    Sorry, I don't have anything to sell you.
-    I'm trying to start a business selling goods from Valdeaunia, but it's not easy getting stuff from areas that aren't under Bastokan control.${prompt}
+    Désolé, je n'ai rien à vous vendre.
+    J'essaie de démarrer une entreprise vendant des biens de Valdeaunia, mais ce n'est pas facile d'obtenir des choses dans des zones qui ne sont pas sous le contrôle bastokien.${prompt}
   10814: |-
-    Sorry, I don't have anything to sell you.
-    I'm trying to start a business selling goods from Li'Telor, but it's not easy getting stuff from areas that aren't under Bastokan control.${prompt}
+    Désolé, je n'ai rien à vous vendre.
+    J'essaie de démarrer une entreprise vendant des biens de Li'Telor, mais ce n'est pas facile d'obtenir des choses dans des zones qui ne sont pas sous le contrôle bastokien.${prompt}
   10815: |-
-    Hey, you're an adventurer, right?
-    Could you take this note to my husband?
-    He forgot to take it with him.${prompt}
+    Hé, vous êtes un aventurier, non ?
+    Pourriez-vous remettre cette note à mon mari ?
+    Il a oublié de l'emmener avec lui.${prompt}
   10816: |-
-    My husband's name is Zelman.
-    You'll find him in the Zeruhn Mines. He's a miner.
-    All right, then, off you go!${prompt}
+    Mon mari s'appelle Zelman.
+    Vous le trouverez dans les Mines de Zeruhn. C'est un mineur.
+    Allez, en route !${prompt}
   10817: |-
-    What? He thinks doing the groceries isn't dignified?
-    Ha! That's a laugh!
-    And just who does he think's putting food on the table while he's off taking naps in that little hole of his!?${prompt}
+    Quoi ? Il pense que faire les courses n'est pas digne de lui ?
+    Ha ! C'est risible !
+    Et qui croyez-vous qui met de la nourriture sur la table pendant qu'il fait la sieste dans son petit trou ?${prompt}
   10818: |-
-    You bought this, didn't you?
-    Hmm... I was going to give this present to my husband, since he needed some cheering up lately, but...${prompt}
+    Vous l'avez acheté, n'est-ce pas ?
+    Hmm... J'allais offrir ce cadeau à mon mari, car il avait besoin de se remonter le moral ces derniers temps, mais...${prompt}
   10819: |-
-    Since you did his chores for him, it's yours.
-    Well, he always wanted to be an adventurer himself, so he should be happy knowing you have it.${prompt}
+    Puisque vous avez fait ses corvées à sa place, c'est à vous.
+    Eh bien, il a toujours voulu être aventurier lui-même, alors il devrait être heureux de savoir que vous l'avez.${prompt}
   10820: |-
-    Ah, did you find my husband? Good.
-    I keep telling him to check his pockets before he leaves, but he never does.
-    Anyway, here, take this. For your trouble.${prompt}
+    Ah, vous avez trouvé mon mari ? Bien.
+    Je lui dis toujours de vérifier ses poches avant de partir, mais il ne le fait jamais.
+    Quoi qu'il en soit, tenez, prenez ça. Pour vous dédommager.${prompt}
   10821: |-
-    My husband used to listen to me a lot more when we were young.
-    It'd be funny if he was going through a rebellious phase at his age!${prompt}
+    Mon mari m'écoutait beaucoup plus quand nous étions jeunes.
+    Ce serait drôle s'il traversait une phase rebelle à son âge !${prompt}
   10822: |-
-    What do you want?
-    Oh, you think because I'm just a kid you can walk over and talk to me for no good reason?${prompt}
-  10823: True, I might look like a child now, but I know I was once a great warrior, and I can prove it.${prompt}
+    Que veux-tu ?
+    Oh, tu crois que parce que je suis juste un gamin, tu peux venir me parler pour rien ?${prompt}
+  10823: C'est vrai, je peux avoir l'air d'un enfant maintenant, mais je sais que j'étais autrefois un grand guerrier, et je peux le prouver.${prompt}
   10824: |-
-    Do you want to see proof?
+    Tu veux voir la preuve ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
+    Oui.
+    Non.${prompt}
   10825: |-
-    I wasn't going to show you anyway.
-    I know your type. Patting kids on the head and thinking how great life was when you were their age, right? Spare me, please.${prompt}
+    Je ne comptais de toute façon pas vous le montrer.
+    Je connais votre genre. Tapoter les enfants sur la tête et penser à quel point c'était génial la vie quand vous étiez à leur âge, n'est-ce pas ? Épargnez-moi, s'il vous plaît.${prompt}
   10826: |-
-    I thought so.
-    Well...all right, here. But be careful!
-    It's very, very valuable--it's a piece of my past life.${prompt}
+    Je le pensais.
+    Bon... d'accord, tenez. Mais faites attention !
+    C'est très, très précieux - c'est un morceau de ma vie passée.${prompt}
   10827: |-
-    A friend gave this to me over twenty years ago.
-    I can't remember what it all means, though.${prompt}
-  10828: I showed this to my friend Gumbah once, and his opinion was that this is a very valuable document that tells you each monster type's weakness.${prompt}
-  10829: He said it will come in handy when I become an adventurer.${prompt}
+    Un ami me l'a donné il y a plus de vingt ans.
+    Je ne me souviens pas de ce que tout cela signifie, cependant.${prompt}
+  10828: J'ai montré cela à mon ami Gumbah une fois, et son avis était que c'est un document très précieux qui vous indique les faiblesses de chaque type de monstre.${prompt}
+  10829: Il a dit que ça serait utile quand je deviendrai aventurier.${prompt}
   10830: |-
-    You've been a good pupil.
-    Come back anytime if you want to see it again.
-    Well, at least until I leave on my first adventure...${prompt}
-  10831: You can't fish here.${prompt}
-  10832: You can't fish without a rod in your hands.${prompt}
-  10833: You can't fish without bait on the hook.${prompt}
-  10834: You can't fish at the moment.${prompt}
-  10835: You didn't catch anything.${prompt}
-  10836: '${entity: 0} caught a monster!${prompt}'
-  10837: Your line breaks.${prompt}
-  10838: Your rod breaks.${prompt}
-  10839: Something caught the hook!${prompt}
-  10840: You lost your catch.${prompt}
+    Tu as été un bon élève.
+    Reviens quand tu veux si tu veux le revoir.
+    Enfin, au moins jusqu'à ce que je parte pour ma première aventure...${prompt}
+  10831: Vous ne pouvez pas pêcher ici.${prompt}
+  10832: Vous ne pouvez pas pêcher sans une canne à la main.${prompt}
+  10833: Vous ne pouvez pas pêcher sans appât à l'hameçon.${prompt}
+  10834: Vous ne pouvez pas pêcher pour le moment.${prompt}
+  10835: Vous n'avez rien attrapé.${prompt}
+  10836: '${entity: 0} a attrapé un monstre!${prompt}'
+  10837: Votre ligne se casse.${prompt}
+  10838: Votre canne se casse.${prompt}
+  10839: Quelque chose a accroché l'hameçon!${prompt}
+  10840: Vous avez perdu votre prise.${prompt}
   10841: |-
-    ${entity: 0} caught ${article} ${item-article: 0[2]}, but cannot carry any more items.
-    ${entity: 0} regretfully releases the ${item-singular: 0[2]}.${prompt}
-  10842: You feel there's something here.${prompt}
-  10843: You feel there's something nearby.${prompt}
+    ${entity: 0} a attrapé ${article} ${item-article: 0[2]}, mais ne peut pas porter plus d'objets.
+    ${entity: 0} relâche avec regret le ${item-singular: 0[2]}.${prompt}
+  10842: Vous sentez qu'il y a quelque chose ici.${prompt}
+  10843: Vous sentez qu'il y a quelque chose à proximité.${prompt} 
   10844: |-
-    You dig up ${article} ${item-article: 0[2]}, but your inventory is full.
-    You regretfully throw the ${item-singular: 0[2]} away.${prompt}
-  10845: '${entity: 0} caught ${item-count: 1[2]} ${item-given-plurality: 1[2], 0[2]}!${prompt}'
-  10846: You dig and you dig, but find nothing.${prompt}
+    Vous déterrez ${article} ${item-article: 0[2]}, mais votre inventaire est plein.
+    Vous jetez avec regret le ${item-singular: 0[2]}.${prompt}
+  10845: '${entity: 0} a attrapé ${item-count: 1[2]} ${item-given-plurality: 1[2], 0[2]}!${prompt}'
+  10846: Vous creusez et creusez, mais ne trouvez rien.${prompt}
   10847: '${number: 0}/${item-singular: 0[2]}をセット${prompt}'
   10848: |-
-    Your rod breaks.
-    Whatever caught the hook was pretty big.${prompt}
+    Votre canne se casse.
+    Ce qui a accroché l'hameçon était assez gros.${prompt}
   10849: |-
-    Your rod breaks.
-    Whatever caught the hook was too heavy to catch with this rod.${prompt}
+    Votre canne se casse.
+    Ce qui a accroché l'hameçon était trop lourd pour être attrapé avec cette canne.${prompt}
   10850: |-
-    You lost your catch.
-    Whatever caught the hook was too small to catch with this rod.${prompt}
-  10851: You lost your catch due to your lack of skill.${prompt}
+    Vous avez perdu votre prise.
+    Ce qui a accroché l'hameçon était trop petit pour être attrapé avec cette canne.${prompt}
+  10851: Vous avez perdu votre prise en raison de votre manque de compétence.${prompt}
   10852: |-
-    Number fished : ${number: 0}
-    Original Dice No. ：${number: 1}＋${number: 2}
-    Result ：${number: 3} (0=caught)
+    Nombre pêché : ${number: 0}
+    Numéro de dé original : ${number: 1}＋${number: 2}
+    Résultat : ${number: 3} (0=attrapé)
     ${prompt}
-  10853: You didn't catch anything.${prompt}
-  10854: 'The paper on your ${item-singular: 0[2]} ripped.${prompt}'
-  10855: A tiny goldfish approaches!${prompt}
-  10856: A plump, black goldfish approaches!${prompt}
-  10857: A fat, juicy goldfish approaches!${prompt}
-  10858: There are no goldfish to be found...${prompt}
+  10853: Vous n'avez rien attrapé.${prompt}
+  10854: 'Le papier sur votre ${item-singular: 0[2]} s’est déchiré.${prompt}'
+  10855: Un petit poisson rouge s'approche !${prompt}
+  10856: Un gros poisson rouge dodu s'approche !${prompt}
+  10857: Un gros poisson rouge juteux s'approche !${prompt}
+  10858: Il n'y a pas de poissons rouges à trouver...${prompt}
   10859: |-
-    ${entity: 0} caught ${article} ${item-article: 0[2]}, but cannot carry any more items.
-    ${entity: 0} regretfully releases it.${prompt}
-  10860: The goldfish slipped off your scoop...${prompt}
-  10861: 'ch${number: 0} skill up check.${prompt}'
+    ${entity: 0} a attrapé ${article} ${item-article: 0[2]}, mais ne peut pas porter plus d'objets.
+    ${entity: 0} le relâche avec regret.${prompt}
+  10860: Le poisson rouge a glissé de votre épuisette...${prompt}
+  10861: 'vérification de montée de compétence ch${number: 0}.${prompt}'
   10862: 'a:${number: 0}.${prompt}'
-  10863: 'Time ${number: 0} / Status ${number: 1} / ${number: 2}${prompt}'
+  10863: 'Temps ${number: 0} / État ${number: 1} / ${number: 2}${prompt}'
   10864: |-
     d:${number: 0}.
     e:${number: 1}.
@@ -23641,28 +23642,28 @@ entries:
   10866: |-
     j:${number: 0}.
     k:${number: 1}.${prompt}
-  10867: You give up and reel in your line.${prompt}
-  10868: You give up.${prompt}
-  10869: '${entity: 0} obtains ${number: 1} gil.${prompt}'
-  10870: '${entity: 0} caught ${article} ${item-article: 0[2]}!${prompt}'
-  10871: You don't know how much longer you can keep this one on the line...${prompt}
-  10872: You have a good feeling about this one!${prompt}
-  10873: You have a bad feeling about this one.${prompt}
-  10874: You have a terrible feeling about this one...${prompt}
-  10875: You don't know if you have enough skill to reel this one in.${prompt}
-  10876: You're fairly sure you don't have enough skill to reel this one in.${prompt}
-  10877: You're positive you don't have enough skill to reel this one in!${prompt}
+  10867: Vous abandonnez et ramenez votre ligne.${prompt}
+  10868: Vous abandonnez.${prompt}
+  10869: '${entity: 0} obtient ${number: 1} gils.${prompt}'
+  10870: '${entity: 0} a attrapé ${article} ${item-article: 0[2]}!${prompt}'
+  10871: Vous ne savez pas combien de temps vous pourrez garder celui-ci sur la ligne...${prompt}
+  10872: Vous avez un bon pressentiment à propos de celui-ci !${prompt}
+  10873: Vous avez un mauvais pressentiment à propos de celui-ci.${prompt}
+  10874: Vous avez un terrible pressentiment à propos de celui-ci...${prompt}
+  10875: Vous ne savez pas si vous avez assez de compétence pour ramener celui-ci.${prompt}
+  10876: Vous êtes assez sûr de ne pas avoir assez de compétence pour ramener celui-ci.${prompt}
+  10877: Vous êtes certain de ne pas avoir assez de compétence pour ramener celui-ci !${prompt}
   10878: |-
-    Select Fish Type:
+    Sélectionnez le type de poisson :
     ${selection-lines}
-    Saltwater.
-    Freshwater.
-    Item.
-    Flag.
-    Treasure Chest.
-    Monster.${prompt}
+    Eau salée.
+    Eau douce.
+    Objet.
+    Drapeau.
+    Coffre au trésor.
+    Monstre.${prompt}
   10879: |-
-    Select one
+    Sélectionnez-en un
     ${selection-lines}
     ${item-singular: 0[2]}（${number: 0}）.
     ${lettercase: 1}${item-singular: 1[2]}（${number: 1}）.
@@ -23672,42 +23673,42 @@ entries:
     ${lettercase: 1}${item-singular: 5[2]}（${number: 5}）.
     ${lettercase: 1}${item-singular: 6[2]}（${number: 6}）.
     ${lettercase: 1}${item-singular: 7[2]}（${number: 7}）.
-    Next.${prompt}
+    Suivant.${prompt}
   10880: |-
     l: ${number: 0}.
     m: ${number: 1}.
     n: ${number: 2}.
     CH: ${number: 3}.${prompt}
-  10881: Something caught the hook!!!${prompt}
-  10882: You feel something pulling at your line.${prompt}
-  10883: Something clamps onto your line ferociously!${prompt}
-  10884: 'Your keen angler''s senses tell you that this is the pull of ${article} ${item-article: 0[2]}!${prompt}'
-  10885: This strength... You get the sense that you are on the verge of an epic catch!${prompt}
-  10886: 'The timer has started. ${number: 0} seconds remaining.${prompt}'
-  10887: '${number: 0}sec.${number: 1}/${number: 2}sec.${prompt}'
+  10881: Quelque chose a accroché l'hameçon !!!${prompt}
+  10882: Vous sentez quelque chose tirer sur votre ligne.${prompt}
+  10883: Quelque chose s'accroche fermement à votre ligne !${prompt}
+  10884: 'Vos sens de pêcheur averti vous disent qu’il s’agit de la traction d’un(e) ${item-article: 0[2]}!${prompt}'
+  10885: Cette force... Vous avez le sentiment que vous êtes sur le point de faire une prise épique !${prompt}
+  10886: 'Le compte à rebours a commencé. Il vous reste ${number: 0} secondes.${prompt}'
+  10887: '${number: 0} sec.${number: 1}/${number: 2} sec.${prompt}'
   10888: '0:${number: 0} 1:${number: 1} 2:${number: 2} 3:${number: 3}${prompt}'
   10889: '4:${number: 0} 5:${number: 1} 6:${number: 2} 7:${number: 3}${prompt}'
   10890: |-
-    Select.
+    Sélectionnez.
     ${selection-lines}
-    Set.
-    ${keyitem-singular: 8[2]}: ${choice: 0}[ON/OFF].
-    ${keyitem-singular: 9[2]}: ${choice: 1}[ON/OFF].
-    ${keyitem-singular: 10[2]}: ${choice: 2}[ON/OFF].
-    ${keyitem-singular: 11[2]}: ${choice: 3}[ON/OFF].${prompt}
+    Configurer.
+    ${keyitem-singular: 8[2]}: ${choice: 0}[ACTIVÉ/DÉSACTIVÉ].
+    ${keyitem-singular: 9[2]}: ${choice: 1}[ACTIVÉ/DÉSACTIVÉ].
+    ${keyitem-singular: 10[2]}: ${choice: 2}[ACTIVÉ/DÉSACTIVÉ].
+    ${keyitem-singular: 11[2]}: ${choice: 3}[ACTIVÉ/DÉSACTIVÉ].${prompt}
   10891: |-
-    You lost your catch.
-    Whatever caught the hook was too large to catch with this rod.${prompt}
-  10892: '${number: 0}/${number: 1}(${number: 2}）${prompt}'
-  10893: Version invalid error!${prompt}
-  10894: Hurry before the goldfish sees you!${prompt}
-  10895: '${entity: 0} fishes up a large box!${prompt}'
-  10896: '送出調査${number: 0}${prompt}'
-  10897: 'Fish No：${number: 0} / Bait No：${number: 1} / Hit：${number: 2} >>> ${number: 3}${prompt}'
-  10898: 'Point：${number: 0} >>> ${number: 1}${prompt}'
+    Vous avez perdu votre prise.
+    Ce qui a accroché l'hameçon était trop gros pour être attrapé avec cette canne.${prompt}
+  10892: '${number: 0}/${number: 1}(${number: 2})${prompt}'
+  10893: Erreur de version invalide !${prompt}
+  10894: Dépêchez-vous avant que le poisson rouge ne vous voie !${prompt}
+  10895: '${entity: 0} remonte une grosse boîte !${prompt}'
+  10896: 'Envoi de l’enquête ${number: 0}${prompt}'
+  10897: 'Poisson n° : ${number: 0} / Appât n° : ${number: 1} / Prise : ${number: 2} >>> ${number: 3}${prompt}'
+  10898: 'Point : ${number: 0} >>> ${number: 1}${prompt}'
   10899: |-
-    魚：${item-singular: 1[2]}(${number: 0})
-    skill：${number: 1}${prompt}
+    Poisson : ${item-singular: 1[2]} (${number: 0})
+    Compétence : ${number: 1}${prompt}
   10900: |-
     Im Min : ${number: 0}
     Im Max : ${number: 1}
@@ -23716,165 +23717,165 @@ entries:
   10901: |-
     Im Rnd : ${number: 0}
     Pz Rnd : ${number: 1}${prompt}
-  10902: 'CLI_NUM0:${number: 0} CLI_NUM1:${number: 1} CLI_NUM2:${number: 2} CLI_NUM3:${number: 3}${prompt}'
-  10903: 'CLI_NUM4:${number: 0} CLI_NUM5:${number: 1} CLI_NUM6:${number: 2} CLI_NUM7:${number: 3}${prompt}'
-  10904: 'skill : ${number: 0} size : ${number: 1} kind : ${number: 2} sch : ${number: 3}${prompt}'
-  10905: 'time : ${number: 0} mes : ${number: 1} flag : ${number: 2} bonus : ${number: 3}${prompt}'
-  10906: 'item : ${number: 0} hp : ${number: 1} pow : ${number: 2} swing : ${number: 3}${prompt}'
-  10907: 'suc : ${number: 0} cons : ${number: 1} weight : ${number: 2} +- : ${number: 3}${prompt}'
-  10908: 'speed : ${number: 0} +- : ${number: 1} exc : ${number: 2} client : ${number: 3}${prompt}'
-  10909: 'general : ${number: 0}${prompt}'
-  10910: 'ro:${number: 0} rs:${number: 1} ps:${number: 2} dt:${number: 3}${prompt}'
-  10911: 'ra:${number: 0} ti:${number: 1}${prompt}'
+  10902: 'CLI_NUM0 : ${number: 0} CLI_NUM1 : ${number: 1} CLI_NUM2 : ${number: 2} CLI_NUM3 : ${number: 3}${prompt}'
+  10903: 'CLI_NUM4 : ${number: 0} CLI_NUM5 : ${number: 1} CLI_NUM6 : ${number: 2} CLI_NUM7 : ${number: 3}${prompt}'
+  10904: 'Compétence : ${number: 0} taille : ${number: 1} type : ${number: 2} horaire : ${number: 3}${prompt}'
+  10905: 'Temps : ${number: 0} messages : ${number: 1} drapeau : ${number: 2} bonus : ${number: 3}${prompt}'
+  10906: 'Objet : ${number: 0} hp : ${number: 1} puissance : ${number: 2} oscillation : ${number: 3}${prompt}'
+  10907: 'Réussite : ${number: 0} consum. : ${number: 1} poids : ${number: 2} +- : ${number: 3}${prompt}'
+  10908: 'Vitesse : ${number: 0} +- : ${number: 1} exc : ${number: 2} client : ${number: 3}${prompt}'
+  10909: 'Général : ${number: 0}${prompt}'
+  10910: 'ro : ${number: 0} rs : ${number: 1} ps : ${number: 2} dt : ${number: 3}${prompt}'
+  10911: 'ra : ${number: 0} ti : ${number: 1}${prompt}'
   10912: |-
-    You spot some familiar footprints.
-    You are convinced that your moogle friend has been digging in the immediate vicinity.${prompt}
-  10913: You get the distinct sense that your moogle friend frequents this spot...${prompt}
-  10914: You have a feeling that your moogle friend has been through this way...${prompt}
-  10915: You suspect that the scenery around here would be to a moogle's liking...${prompt}
-  10916: You have a vague feeling that a moogle would enjoy traversing this terrain...${prompt}
-  10917: You have a hunch that this area would be favored by moogles...${prompt}
+    Vous repérez des empreintes familières.
+    Vous êtes convaincu que votre ami moogle a creusé dans les environs immédiats.${prompt}
+  10913: Vous avez le sentiment distinct que votre ami moogle fréquente cet endroit...${prompt}
+  10914: Vous avez le pressentiment que votre ami moogle est passé par là...${prompt}
+  10915: Vous soupçonnez que le paysage autour d'ici plairait à un moogle...${prompt}
+  10916: Vous avez une vague impression qu'un moogle aimerait traverser ce terrain...${prompt}
+  10917: Vous avez le pressentiment que cette zone serait appréciée des moogles...${prompt}
   10918: |-
-    Your chocobo is pulling at the bit.
-    You sense that it is leading you to the ${choice: 0}[east/southeast/south/southwest/west/northwest/north/northeast].${prompt}
-  10919: '${entity: 0} catches ${number: 1} ${item-given-plurality: 1[2], 0[2]}!${prompt}'
-  10920: '${entity: 0} obtained ${keyitem-article: 0[2]}!${prompt}'
-  10921: It appears your chocobo found this item with ease.${prompt}
-  10922: Your chocobo appears to have gained valuable knowledge from this discovery.${prompt}
+    Votre chocobo tire sur la bride.
+    Vous avez le sentiment qu'il vous mène vers le ${choice: 0}[est/sud-est/sud/sud-ouest/ouest/nord-ouest/nord/nord-est].${prompt}
+  10919: '${entity: 0} attrape ${number: 1} ${item-given-plurality: 1[2], 0[2]}!${prompt}'
+  10920: '${entity: 0} a obtenu ${keyitem-article: 0[2]}!${prompt}'
+  10921: Il semble que votre chocobo ait trouvé cet objet facilement.${prompt}
+  10922: Votre chocobo semble avoir acquis des connaissances précieuses grâce à cette découverte.${prompt}
   10923: ' FPT ${number: 0} DPT ${number: 1} DoT${number: 2}'
   10924: ' FPT ${number: 0} TDPT ${number: 1} h${number: 2}'
-  10925: You cannot fish at this time.${prompt}
-  10926: 'You discover a cache of beastman resources and receive ${number: 0} conquest point${choice-plurality: 0}[/s]!${prompt}'
-  10927: 'You discover a cache of beastman resources and receive ${number: 0} Imperial Standing!${prompt}'
-  10928: 'You discover a cache of beastman confederate resources and receive ${number: 0} allied note${choice-plurality: 0}[/s]!${prompt}'
-  10929: 'You receive ${number: 0} bayld!${prompt}'
-  10930: 'Your chocobo refuses to partake of the ${item-singular: 0[2]}.${prompt}'
+  10925: Vous ne pouvez pas pêcher en ce moment.${prompt}
+  10926: 'Vous découvrez une cachette de ressources des bêtes et recevez ${number: 0} point${choice-plurality: 0}[/s] de conquête !${prompt}'
+  10927: 'Vous découvrez une cachette de ressources impériales et recevez ${number: 0} Points d’Allégeance !${prompt}'
+  10928: 'Vous découvrez une cachette de ressources confédérées des bêtes et recevez ${number: 0} note${choice-plurality: 0}[/s] alliée${choice-plurality: 0}[/s] !${prompt}'
+  10929: 'Vous recevez ${number: 0} bayld !${prompt}'
+  10930: 'Votre chocobo refuse de se nourrir du ${item-singular: 0[2]}.${prompt}'
   10931: |-
-    The only things an adventurer needs are courage and a good suit of armor!
-    Welcome to Deegis's Armour!${prompt}
+    Tout ce dont un aventurier a besoin, c'est du courage et une bonne armure !
+    Bienvenue chez Deegis's Armour !${prompt}
   10932: |-
-    Everything in our store is top-grade and Galka-made!
-    What're you lookin' for?${prompt}
-  10933: Welcome to Boytz's Knickknacks.${prompt}
-  10934: '...Yes?${prompt}'
+    Tout dans notre magasin est de première qualité et fabriqué par des Galka !
+    Que cherchez-vous ?${prompt}
+  10933: Bienvenue chez Boytz's Knickknacks.${prompt}
+  10934: '...Oui ?${prompt}'
   10935: |-
-    Good of you to drop by the Bat's Lair Inn!
-    Why don't you try some of our specialty plates?${prompt}
+    Bon de vous voir passer à l'Auberge de la Grotte de la Chauve-Souris !
+    Pourquoi ne pas essayer quelques-unes de nos spécialités ?${prompt}
   10936: |-
-    Hello there.
-    A well-fed chocobo is a happy chocobo!${prompt}
+    Bonjour.
+    Un chocobo bien nourri est un chocobo heureux !${prompt}
   10937: |-
-    Hello there!
-    Might I interest you specialty goods from Ronfaure?${prompt}
+    Bonjour !
+    Puis-je vous intéresser à des produits spécialisés de Ronfaure ?${prompt}
   10938: |-
-    Hello there!
-    Might I interest you specialty goods from Norvallen?${prompt}
+    Bonjour !
+    Puis-je vous intéresser à des produits spécialisés de Norvallen ?${prompt}
   10939: |-
-    Hello there!
-    Might I interest you specialty goods from Fauregandi?${prompt}
-  10940: Goods of all varieties, imported directly from the northern land of Valdeaunia!${prompt}
+    Bonjour !
+    Puis-je vous intéresser à des produits spécialisés de Fauregandi ?${prompt}
+  10940: Des marchandises de toutes sortes, importées directement du nord du pays de Valdeaunia !${prompt}
   10941: |-
-    Welcome to the Alchemists' Guild!
-    Looking for something specific?${prompt}
+    Bienvenue à la Guilde des Alchimistes !
+    Cherchez-vous quelque chose de spécifique ?${prompt}
   10942: |-
-    Welcome to the Alchemists' Guild.
-    How may I help you?${prompt}
-  10943: 'Hey, ${choice: 7}[miss/mister], you met Zeid, didn''t you? You know, the dark knight?${prompt}'
-  10944: He wrote you a letter. I think he meant for Werei to give it to you, but since I got it, I had to open it to find out who it was for. Sorry.${prompt}
+    Bienvenue à la Guilde des Alchimistes.
+    Comment puis-je vous aider ?${prompt}
+  10943: 'Hé, ${choice: 7}[mademoiselle/monsieur], vous avez rencontré Zeid, n’est-ce pas ? Vous savez, le chevalier noir ?${prompt}'
+  10944: Il vous a écrit une lettre. Je pense qu'il voulait que Werei vous la remette, mais comme je l'ai reçue, j'ai dû l'ouvrir pour savoir à qui elle était destinée. Désolé.${prompt}
   10945: |-
-    I think he says he's waiting in a mine somewhere.
-    Are you training to become a dark knight, too? Wow, it must be really hard.${prompt}
+    Je pense qu'il dit qu'il vous attend dans une mine quelque part.
+    Vous entraînez-vous aussi pour devenir chevalier noir ? Waouh, ça doit être vraiment difficile.${prompt}
   10946: |-
-    Welcome to the auction house.
-    Do you have any questions about our establishment?${prompt}
+    Bienvenue à la maison des enchères.
+    Avez-vous des questions sur notre établissement ?${prompt}
   10947: |-
-    What do you want to know?
+    Que voulez-vous savoir ?
     ${selection-lines}
-    What is the auction house?
-    How are auctions run?
-    Are there any fees?
-    Are there any limits?
-    How do you check up on merchandise?
-    How do you remove an item?
-    My “Sales Status” list is full!
-    Nothing right now.${prompt}
-  10948: Auction houses can be found in all of Vana'diel's major cities. Here adventurers gather to bid on battle spoils, unwanted items, old armor...almost anything.${prompt}
-  10949: Currently, the auction houses in Bastok, San d'Oria, Windurst, and Jeuno all work independently. Therefore, prices differ from city to city.${prompt}
-  10950: Adventurers may use any auction house regardless of nationality.${prompt}
-  10951: The first adventurer to bid at or above the asking price will automatically purchase the product.${prompt}
-  10952: Once put up for auction, merchandise will remain there for a maximum of thirty weeks Vana'diel time (nine-and-a-half days Earth time).${prompt}
-  10953: If merchandise does not sell within this time limit, it will be returned to the seller's current residence.${prompt}
-  10954: Transaction fees are proportional to the amount for which an item is put up on auction. The method of calculating this fee is different for single items and stackable items.${prompt}
-  10955: A transaction fee is collected when any merchandise is put up for auction. This fee is nonrefundable.${prompt}
-  10956: The International Auction House Committee, or IAHC, has declared that a maximum of seven items may be put up for auction at one time.${prompt}
-  10957: However, the IAHC has recently removed the limit to how many items one may purchase.${prompt}
-  10958: A small amount of time is required before new merchandise appears on our bid list.${prompt}
-  10959: Once an item appears on your “Sales Status” list, it may not immediately appear on the bid list. If you do not see your item on the bid list, try looking again at a later time.${prompt}
-  10960: If you would like to withdraw an item from an auction, you must travel to the auction house, and select “Stop Sale” from the “Sales Status” menu.${prompt}
-  10961: To remove an item from your “Sales Status” list, you must visit an auction counter to acknowledge the sale or return of your merchandise.${prompt}
-  10962: Otherwise, previously sold or returned items will fill up your list and prevent you from selling any more merchandise.${prompt}
-  10963: At any auction counter, open the “Sales Status” menu and acknowledge the transaction to clear it from the list.${prompt}
-  10964: Press the confirm button to remove any transaction colored yellow (sold) or red (returned).${prompt}
-  10965: Is there anything else you would like to know?${prompt}
-  10966: In the past, many have amassed great wealth through the auction house. I hope you find fortune, too!${prompt}
+    Qu'est-ce que la maison des enchères ?
+    Comment fonctionnent les enchères ?
+    Y a-t-il des frais ?
+    Y a-t-il des limites ?
+    Comment vérifiez-vous la marchandise ?
+    Comment retirer un article ?
+    Ma liste "État des ventes" est pleine !
+    Rien pour le moment.${prompt}
+  10948: On trouve des maisons des enchères dans toutes les grandes villes de Vana'diel. C'est là que les aventuriers se réunissent pour enchérir sur des butins de bataille, des objets non désirés, de vieux armures... presque tout.${prompt}
+  10949: Actuellement, les maisons des enchères à Bastok, San d'Oria, Windurst et Jeuno fonctionnent toutes de manière indépendante. Par conséquent, les prix diffèrent d'une ville à l'autre.${prompt}
+  10950: Les aventuriers peuvent utiliser n'importe quelle maison des enchères, quel que soit leur nationalité.${prompt}
+  10951: Le premier aventurier à enchérir au prix demandé ou plus achètera automatiquement le produit.${prompt}
+  10952: Une fois mis aux enchères, un article restera là pendant un maximum de trente semaines en temps de Vana'diel (neuf jours et demi en temps terrestre).${prompt}
+  10953: Si un article ne se vend pas dans ce délai, il sera renvoyé à la résidence actuelle du vendeur.${prompt}
+  10954: Les frais de transaction sont proportionnels au montant pour lequel un article est mis aux enchères. La méthode de calcul de ces frais est différente pour les articles uniques et les articles empilables.${prompt}
+  10955: Des frais de transaction sont perçus lorsque toute marchandise est mise aux enchères. Ces frais ne sont pas remboursables.${prompt}
+  10956: Le Comité international des maisons des enchères, ou CIHE, a déclaré qu'un maximum de sept articles pouvaient être mis aux enchères à la fois.${prompt}
+  10957: Cependant, le CIHE a récemment supprimé la limite au nombre d'articles pouvant être achetés.${prompt}
+  10958: Un petit laps de temps est nécessaire avant que de nouveaux articles n'apparaissent sur notre liste d'enchères.${prompt}
+  10959: Une fois qu'un article apparaît dans votre liste "État des ventes", il peut ne pas apparaître immédiatement dans la liste d'enchères. Si vous ne voyez pas votre article dans la liste d'enchères, essayez de regarder à nouveau plus tard.${prompt}
+  10960: Si vous souhaitez retirer un article d'une enchère, vous devez vous rendre à la maison des enchères et sélectionner "Arrêter la vente" dans le menu "État des ventes".${prompt}
+  10961: Pour retirer un article de votre liste "État des ventes", vous devez vous rendre à un comptoir d'enchères pour reconnaître la vente ou le retour de votre marchandise.${prompt}
+  10962: Sinon, les articles déjà vendus ou retournés rempliront votre liste et vous empêcheront de vendre d'autres marchandises.${prompt}
+  10963: À n'importe quel comptoir d'enchères, ouvrez le menu "État des ventes" et reconnaissez la transaction pour la supprimer de la liste.${prompt}
+  10964: Appuyez sur le bouton de confirmation pour supprimer toute transaction colorée en jaune (vendue) ou en rouge (retournée).${prompt}
+  10965: Y a-t-il autre chose que vous aimeriez savoir ?${prompt} 
+  10966: Dans le passé, beaucoup ont amassé une grande richesse grâce à la maison des enchères. J'espère que vous trouverez aussi fortune !${prompt}
   10967: |-
-    Master, Master!
-    I have a favor to ask, kupo!${prompt}
+    Maître, Maître !
+    J'ai une faveur à demander, kupo !${prompt}
   10968: |-
-    Sleeping on that ${item-singular: 3[2]} has made me homesick, kupo.
-    Will my benevolent master give ${choice-player-gender}[his/her] moogle some time off to visit with Mama and Papa Moogle, kupo?${prompt}
-  10969: "Give your moogle a vacation？\n${selection-lines}\nSure, kupo! \nNo, your time is mine!${prompt}"
-  10970: Oh, what a cruel, cruel master, kupo!!!${prompt}
+    Dormir sur ce ${item-singular: 3[2]} m'a rendu nostalgique, kupo.
+    Mon maître bienveillant accordera-t-il un peu de temps libre à son moogle pour rendre visite à Maman et Papa Moogle, kupo ?${prompt}
+  10969: "Donner des vacances à votre moogle？\n${selection-lines}\nBien sûr, kupo !\nNon, votre temps m'appartient !${prompt}"
+  10970: Oh, quel maître cruel, cruel, kupo !!!${prompt}
   10971: |-
-    Thank you, kupo!
-    I...have one more favor to ask.
-    It's almost time for the festival in the moogles' hometown, kupo!${prompt}
-  10972: 'Papa Moogle will be entering the archery contest, so I want to bring him ${article} ${item-article: 5[2]} as a gift, kupo!${prompt}'
-  10973: 'Mama Moogle always likes to dress up for the occasion, and ${article} ${item-article: 6[2]} would make the perfect present, kupo!${prompt}'
+    Merci, kupo !
+    J'ai... une autre faveur à demander.
+    C'est bientôt le festival dans la ville natale des moogles, kupo !${prompt}
+  10972: 'Papa Moogle va participer au concours de tir à l’arc, alors je veux lui apporter ${article} ${item-article: 5[2]} en cadeau, kupo !${prompt}'
+  10973: 'Maman Moogle aime toujours se déguiser pour l’occasion, et ${article} ${item-article: 6[2]} ferait un cadeau parfait, kupo !${prompt}'
   10974: |-
-    But I have no idea how to go about finding ${article} ${item-article: 5[2]} or ${article} ${item-article: 6[2]}, kupo...
-    I can't go home empty-handed, kupo...${prompt}
-  10975: 'Papa Moogle will be entering the archery contest, so I want to bring him ${article} ${item-article: 5[2]} as a gift, kupo!${prompt}'
-  10976: 'Mama Moogle always likes to dress up for the occasion, and ${article} ${item-article: 6[2]} would make the perfect present, kupo!${prompt}'
+    Mais je ne sais pas du tout comment trouver ${article} ${item-article: 5[2]} ou ${article} ${item-article: 6[2]}, kupo...
+    Je ne peux pas rentrer chez moi les mains vides, kupo...${prompt}
+  10975: 'Papa Moogle va participer au concours de tir à l’arc, alors je veux lui apporter ${article} ${item-article: 5[2]} en cadeau, kupo !${prompt}'
+  10976: 'Maman Moogle aime toujours se déguiser pour l’occasion, et ${article} ${item-article: 6[2]} ferait un cadeau parfait, kupo !${prompt}'
   10977: |-
-    But I have no idea how to go about finding ${article} ${item-article: 5[2]} or ${article} ${item-article: 6[2]}, kupo...
-    I can't go home empty-handed, kupo...${prompt}
+    Mais je ne sais pas du tout comment trouver ${article} ${item-article: 5[2]} ou ${article} ${item-article: 6[2]}, kupo...
+    Je ne peux pas rentrer chez moi les mains vides, kupo...${prompt}
   10978: |-
-    Master!
-    I'm overwhelmed by your kindness, kupo!!!${prompt}
+    Maître !
+    Je suis submergé par votre gentillesse, kupo !!!${prompt}
   10979: |-
-    I'll bring you a nice present from the moogles' hometown, kupo!
-    I'll be back in a few days, kupo!${prompt}
+    Je vous apporterai un beau cadeau de la ville natale des moogles, kupo !
+    Je serai de retour dans quelques jours, kupo !${prompt}
   10980: |-
-    Master!
-    I'm back from my vacation, kupo!${prompt}
-  10981: Here's your present--a shiny new Mog Safe, kupo! Now you can store as many as 60 items, kupo!${prompt}
+    Maître !
+    Je suis de retour de mes vacances, kupo !${prompt}
+  10981: Voici votre cadeau -- un tout nouveau Coffre Mog sécurisé, kupo ! Maintenant, vous pouvez stocker jusqu'à 60 objets, kupo !${prompt}
   10982: |-
-    Looking at that shabby old bed makes me feel homesick, kupo.
-    Will my benevolent master give ${choice-player-gender}[his/her] moogle some time off to visit with Mama and Papa Moogle, kupo?${prompt}
+    Regarder ce vieux lit délabré me rend nostalgique, kupo.
+    Mon maître bienveillant accordera-t-il un peu de temps libre à son moogle pour rendre visite à Maman et Papa Moogle, kupo ?${prompt} 
   10983: |-
-    Master, Master!
-    I have a favor to ask, kupo!${prompt}
+    Maître, Maître !
+    J'ai une faveur à demander, kupo !${prompt}
   10984: |-
-    Sleeping on that ${item-singular: 3[2]} has made me homesick, kupo.
-    Will my benevolent master give ${choice-player-gender}[his/her] moogle some time off to visit with Mama and Papa Moogle, kupo?${prompt}
-  10985: "Give your moogle a vacation？\n${selection-lines}\nSure, kupo! \nNo, your time is mine!${prompt}"
+    Dormir sur ce ${item-singular: 3[2]} m'a rendu nostalgique, kupo.
+    Mon maître bienveillant accordera-t-il un peu de temps libre à son moogle pour rendre visite à Maman et Papa Moogle, kupo ?${prompt}
+  10985: "Donner des vacances à votre moogle？\n${selection-lines}\nBien sûr, kupo !\nNon, votre temps m'appartient !${prompt}"
   10986: |-
-    Thank you, kupo!
-    I have one more favor to ask... I want to take my family on a picnic, kupo!${prompt}
-  10987: 'Papa Moogle is mad for fishing, so I want to give him ${article} ${item-article: 5[2]}, kupo!${prompt}'
-  10988: 'Mama Moogle would bake a scrumptious mooglepie to take with us, but she''d need ${article} ${item-article: 6[2]}, kupo!${prompt}'
+    Merci, kupo !
+    J'ai une autre faveur à demander... Je veux emmener ma famille pique-niquer, kupo !${prompt}
+  10987: 'Papa Moogle est fou de pêche, alors je veux lui donner ${article} ${item-article: 5[2]}, kupo !${prompt}'
+  10988: 'Maman Moogle ferait une délicieuse tartelette moogle à emporter avec nous, mais elle aurait besoin de ${article} ${item-article: 6[2]}, kupo !${prompt}'
   10989: |-
-    But...I haven't the foggiest idea of how to get either of these things, kupo...
-    Whatever am I to do, kupo?${prompt}
-  10990: 'Papa Mog is mad for fishing, so I want to give him ${article} ${item-article: 5[2]}, kupo!${prompt}'
-  10991: 'Mama Moogle would bake a scrumptious mooglepie to take with us, but she''d need ${article} ${item-article: 6[2]}, kupo!${prompt}'
+    Mais... je n'ai pas la moindre idée de comment obtenir l'un ou l'autre de ces objets, kupo...
+    Que vais-je faire, kupo ?${prompt}
+  10990: 'Papa Mog est fou de pêche, alors je veux lui donner ${article} ${item-article: 5[2]}, kupo !${prompt}'
+  10991: 'Maman Moogle ferait une délicieuse tartelette moogle à emporter avec nous, mais elle aurait besoin de ${article} ${item-article: 6[2]}, kupo !${prompt}'
   10992: |-
-    But...I haven't the foggiest idea of how to get either of these things, kupo...
-    Whatever am I to do, kupo?${prompt}
+    Mais... je n'ai pas la moindre idée de comment obtenir l'un ou l'autre de ces objets, kupo...
+    Que vais-je faire, kupo ?${prompt}
   10993: |-
-    Master!
-    I'm overwhelmed by your kindness, kupo!!!${prompt}
+    Maître !
+    Je suis submergé par votre gentillesse, kupo !!!${prompt}
   10994: |-
     I'll bring you a nice present from the moogles' hometown, kupo!
     I'll be back in a few days, kupo!${prompt}
