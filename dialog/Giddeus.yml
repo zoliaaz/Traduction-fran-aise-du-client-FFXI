@@ -18135,30 +18135,30 @@ entries:
     But the itching--<scratch, scratch>--just won't--<scratch, scratch>--stop, kupo! Arrrgh!${prompt}
   7450: That's too bad, kupo. But promise to come back if you're not otherwise occupied, all right? <Scratch, scratch>${prompt}
   7451: |-
-    You can set this as your current home point.
-    Once you set a home point, you will return there whenever you are incapacitated.
+    Vous pouvez définir ceci comme votre point de retour actuel.
+    Une fois que vous avez défini un point de retour, vous y retournerez chaque fois que vous serez K.O.${prompt}
   7452: |-
-    Set this as current home point?
+    Définir ceci comme point de retour actuel ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  7453: Home point set!${prompt}
-  7454: A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.
+    Oui.
+    Non.${prompt}
+  7453: Point de retour défini !${prompt}
+  7454: Un point de retour peut être défini comme un endroit où vous pouvez revenir à Vana'diel lorsque vous êtes K.O. Vous pouvez également utiliser un point de retour pour vous téléporter vers d'autres points de retour.${prompt}
   7455: |-
-    What will you do?
+    Que ferez-vous ?
     ${selection-lines}
-    Travel to another home point.
-    Set this as your home point.
-    Other settings.
-    On second thought, never mind.${prompt}
+    Voyager vers un autre point de retour.
+    Définir ceci comme votre point de retour.
+    Autres réglages.
+    En y réfléchissant, laissez tomber.${prompt}
   7456: |-
-    You have registered a new home point!
-    You are now able to teleport here from any other home point.${prompt}
-  7457: You may teleport from here to any other home point you have registered.
+    Vous avez enregistré un nouveau point de retour !
+    Vous pouvez désormais vous téléporter ici depuis n'importe quel autre point de retour.${prompt}
+  7457: Vous pouvez vous téléporter d'ici vers n'importe quel autre point de retour que vous avez enregistré.${prompt}
   7458: |-
-    Teleport where?
+    Téléporter où ?
     ${selection-lines}
-    Never mind.
+    Laissez tomber.
     ${zone: 1[2]}.
     ${zone: 2[2]}.
     ${zone: 3[2]}.
@@ -18175,32 +18175,32 @@ entries:
     ${zone: 14[2]}.
     ${zone: 15[2]}.
     ${zone: 16[2]}.
-    Previous page.
-    Next page.${prompt}
+    Page précédente.
+    Page suivante.${prompt}
   7459: |-
-    Teleport where?（${zone: 33[2]}）
+    Téléporter où ?（${zone: 33[2]}）
     ${selection-lines}
-    Nowhere.
-    Home Point #1${choice: 1}[/ (M)/ (A)/ (E)].
-    Home Point #2${choice: 2}[/ (M)/ (A)/ (E)].
-    Home Point #3${choice: 3}[/ (M)/ (A)/ (E)].
-    Home Point #4${choice: 4}[/ (M)/ (A)/ (E)].
-    Home Point #5${choice: 5}[/ (M)/ (A)/ (E)].${prompt}
-  7460: You have not yet registered any other home points, and thus are unable to teleport.${prompt}
-  7461: 'It costs ${number: 3} gil to teleport to Home Point #${number: 2} in ${zone: 1[2]}.'
-  7462: 'There is no fee for teleporting to Home Point #${number: 2} in ${zone: 1[2]}.'
+    Nulle part.
+    Point de retour #1${choice: 1}[/ (M)/ (A)/ (E)].
+    Point de retour #2${choice: 2}[/ (M)/ (A)/ (E)].
+    Point de retour #3${choice: 3}[/ (M)/ (A)/ (E)].
+    Point de retour #4${choice: 4}[/ (M)/ (A)/ (E)].
+    Point de retour #5${choice: 5}[/ (M)/ (A)/ (E)].${prompt}
+  7460: Vous n'avez pas encore enregistré d'autres points de retour, donc vous ne pouvez pas vous téléporter.${prompt}
+  7461: 'Il vous en coûtera ${number: 3} gils pour vous téléporter au Point de retour #${number: 2} dans ${zone: 1[2]}.${prompt}'
+  7462: 'Il n’y a pas de frais pour vous téléporter au Point de retour #${number: 2} dans ${zone: 1[2]}.${prompt}'
   7463: |-
-    Teleport? (Current gil: ${number: 0})
+    Téléporter ? (Gil actuel : ${number: 0})
     ${selection-lines}
-    ${choice: 33}[Add to favorites/Remove from favorites].
-    Yes, please.
-    No, thank you.${prompt}
+    ${choice: 33}[Ajouter aux favoris/Retirer des favoris].
+    Oui, s'il vous plaît.
+    Non, merci.${prompt}
   7464: |-
-    Teleport to which region?
+    Téléporter vers quelle région ?
     ${selection-lines}
-    On second thought, none.
-    Select from favorites.
-    Current region.
+    En y réfléchissant, aucune.
+    Sélectionner depuis les favoris.
+    Région actuelle.
     ${choice: 1}[San d'Oria/Movalpolos].
     ${choice: 1}[Bastok/Tavnazian Arch].
     ${choice: 1}[Windurst/Lumoria].
@@ -18225,31 +18225,31 @@ entries:
     ${choice: 1}[Elshimo Low/].
     ${choice: 1}[Elshimo Up/].
     ${choice: 1}[Tu'Lia/].
-    Previous page.
-    Next page.${prompt}
+    Page précédente.
+    Page suivante.${prompt}
   7465: |-
-    Teleport where?
+    Téléporter où ?
     ${selection-lines}
-    None of these.
-    A favorited location.
-    An original area.
-    A Rise of the Zilart area.
-    A Chains of Promathia area.
-    A Treasures of Aht Urhgan area.
-    A Wings of the Goddess area.
-    A Seekers of Adoulin area.${prompt}
-  7466: You may change the method of selecting the area of your desired home point to teleport to.
+    Aucun de ceux-ci.
+    Un emplacement favori.
+    Une région d'origine.
+    Une zone de Rise of the Zilart.
+    Une zone de Chains of Promathia.
+    Une zone de Treasures of Aht Urhgan.
+    Une zone de Wings of the Goddess.
+    Une zone de Seekers of Adoulin.${prompt}
+  7466: Vous pouvez changer la méthode de sélection de la zone de votre point de retour désiré pour vous téléporter.${prompt}
   7467: |-
-    Which setting would you like?
+    Quel réglage désirez-vous ?
     ${selection-lines}
-    My current setting.
-    Select by region.
-    Select by expansion.${prompt}
-  7468: 'You are now selecting by ${choice: 1}[region/expansion].'
+    Mon réglage actuel.
+    Sélectionner par région.
+    Sélectionner par extension.${prompt}
+  7468: 'Vous sélectionnez maintenant par ${choice: 1}[région/extension].${prompt}'
   7469: |-
-    Teleport where?
+    Téléporter où ?
     ${selection-lines}
-    None of these.
+    Aucun de ceux-ci.
     ${zone: 1[2]} #${number: 17}.
     ${zone: 2[2]} #${number: 18}.
     ${zone: 3[2]} #${number: 19}.
@@ -18259,148 +18259,135 @@ entries:
     ${zone: 7[2]} #${number: 23}.
     ${zone: 8[2]} #${number: 24}.
     ${zone: 9[2]} #${number: 25}.
-    ${choice: 33}[Add to favorites/Remove from favorites].${prompt}
-  7470: 'Home Point #${number: 2} in ${zone: 1[2]} has been ${choice: 33}[registered to/removed from] your list of favorite locations.'
-  7471: Your list of favorite locations is full. You must delete an existing entry in order to register a new one.
-  7472: |-
-    Delete which?
-    ${selection-lines}
-    None of these.
-    ${zone: 1[2]} #${number: 17}.
-    ${zone: 2[2]} #${number: 18}.
-    ${zone: 3[2]} #${number: 19}.
-    ${zone: 4[2]} #${number: 20}.
-    ${zone: 5[2]} #${number: 21}.
-    ${zone: 6[2]} #${number: 22}.
-    ${zone: 7[2]} #${number: 23}.
-    ${zone: 8[2]} #${number: 24}.
-    ${zone: 9[2]} #${number: 25}.${prompt}
+    ${choice: 33}[Ajouter aux favoris/Retirer des favoris].${prompt}
+  7470: 'Le point de retour #${number: 2} dans ${zone: 1[2]} a été ${choice: 33}[enregistré dans/supprimé de] votre liste d’emplacements favoris.${prompt}'
+  7471: Votre liste d'emplacements favoris est pleine. Vous devez supprimer une entrée existante afin d'enregistrer une nouvelle.${prompt}
   7473: |-
-    ${color-alt: 123}You have ventured too far from the field of battle.
-    The Confrontation will automatically disengage if you do not return.${prompt}
+    ${color-alt: 123}Vous vous êtes aventuré trop loin du champ de bataille.
+    La confrontation se désengagera automatiquement si vous ne revenez pas.${prompt}
   7474: |-
-    You have ventured too far from the field of battle.
-    The Confrontation has been disengaged.${prompt}
-  7475: You have returned to the field of battle.${prompt}
-  7476: 'You have ${number: 0} ${choice-plurality: 0}[minute/minutes] (Earth time) to complete the battle.${prompt}'
-  7477: 'You have ${number: 0} ${choice-plurality: 0}[minute/minutes] (Earth time) remaining to complete the battle.${prompt}'
-  7478: 'You have only ${number: 0} ${choice-plurality: 0}[second/seconds] (Earth time) remaining.${prompt}'
-  7479: Your time for this Confrontation is up...${prompt}
-  7480: The monster fades before your eyes, a look of disappointment on its face.${prompt}
-  7481: (Test message.)${prompt}
+    Vous vous êtes aventuré trop loin du champ de bataille.
+    La confrontation a été désengagée.${prompt}
+  7475: Vous êtes revenu sur le champ de bataille.${prompt}
+  7476: 'Il vous reste ${number: 0} ${choice-plurality: 0}[minute/minutes] (heure de la Terre) pour terminer la bataille.${prompt}'
+  7477: 'Il vous reste ${number: 0} ${choice-plurality: 0}[minute/minutes] (heure de la Terre) pour terminer la bataille.${prompt}'
+  7478: 'Il ne vous reste que ${number: 0} ${choice-plurality: 0}[seconde/secondes] (heure de la Terre).${prompt}'
+  7479: Votre temps pour cette confrontation est écoulé...${prompt}
+  7480: La créature s'efface devant vos yeux, une expression de déception sur son visage.${prompt}
+  7481: (Message de test.)${prompt}
   7482: |-
-    Enter the garrison?
+    Entrer dans la garnison ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  7483: 'The ${keyitem-singular: 0[2]} is ripped violently to pieces!${prompt}'
+    Oui.
+    Non.${prompt}
+  7483: 'Le ${keyitem-singular: 0[2]} est déchiré violemment en morceaux !${prompt}'
   7484: |-
-    Greetings, fair traveler.
-    My people would entreat thy assistance, and offer rich reward in return.
-    Thou shouldst speak with my sister Callisto, who abides in Grauberg's Witchfire Glen.${prompt}
+    Salutations, brave voyageur.
+    Mon peuple sollicite ton aide et offre une riche récompense en retour.
+    Tu devrais parler à ma sœur Callisto, qui réside dans le Glen de Sorcière de Grauberg.${prompt}
   7485: |-
-    Hark! Our foe lurks thither.
-    How wouldst thou proceed?${prompt}
+    Hark ! Notre ennemi se cache là-bas.
+    Comment comptes-tu procéder ?${prompt}
   7486: |-
-    How will you proceed?
+    Comment allez-vous procéder ?
     ${selection-lines}
-    Withdraw.
-    Charge in.
-    Scout the enemy.
-    Check weapon.${prompt}
-  7487: Our foe advances...may thine aim be true!
+    Se retirer.
+    Charger.
+    Explorer l'ennemi.
+    Vérifier l'arme.${prompt}
+  7487: Notre ennemi avance... que ta visée soit juste !${prompt}
   7488: |-
-    I have been observing our foe closely from my post.
-    It appears that ${choice: 0}[it remains but a fledgling./its strength is on the wane./it has only begun to realize its true strength./its strength is burgeoning by the day./it has reached the pinnacle of its power.]${prompt}
+    J'ai observé notre ennemi de près depuis mon poste.
+    Il semble que ${choice: 0}[il ne soit encore qu'un novice./sa force soit en déclin./il n'ait que commencé à réaliser sa véritable force./sa force soit en plein essor chaque jour./il a atteint le sommet de sa puissance.]${prompt}
   7489: |-
-    My sisters are monitoring the strength of our enemies throughout the realm.
-    By your leave, I shall share with thee their findings.${prompt}
+    Mes sœurs surveillent la force de nos ennemis à travers le royaume.
+    Avec votre permission, je partagerai avec vous leurs découvertes.${prompt}
   7490: |-
-    East Ronfaure: ${choice: 0}[★/★★/★★★/★★★★/★★★★★]
-    Jugner Forest: ${choice: 1}[★/★★/★★★/★★★★/★★★★★]
-    Vunkerl Inlet: ${choice: 2}[★/★★/★★★/★★★★/★★★★★]
-    Batallia Downs: ${choice: 3}[★/★★/★★★/★★★★/★★★★★]${prompt}
+    Est Ronfaure : ${choice: 0}[★/★★/★★★/★★★★/★★★★★]
+    Forêt de Jugner : ${choice: 1}[★/★★/★★★/★★★★/★★★★★]
+    Embouchure de Vunkerl : ${choice: 2}[★/★★/★★★/★★★★/★★★★★]
+    Plaines de Batallia : ${choice: 3}[★/★★/★★★/★★★★/★★★★★]${prompt}
   7491: |-
-    North Gustaberg：${choice: 0}[★/★★/★★★/★★★★/★★★★★]
-    Grauberg: ${choice: 1}[★/★★/★★★/★★★★/★★★★★]
-    Pashhow Marshlands: ${choice: 2}[★/★★/★★★/★★★★/★★★★★]
-    Rolanberry Fields: ${choice: 3}[★/★★/★★★/★★★★/★★★★★]${prompt}
+    Nord Gustaberg : ${choice: 0}[★/★★/★★★/★★★★/★★★★★]
+    Grauberg : ${choice: 1}[★/★★/★★★/★★★★/★★★★★]
+    Marais de Pashhow : ${choice: 2}[★/★★/★★★/★★★★/★★★★★]
+    Champs de Rolanberry : ${choice: 3}[★/★★/★★★/★★★★/★★★★★]${prompt}
   7492: |-
-    West Sarutabaruta: ${choice: 0}[★/★★/★★★/★★★★/★★★★★]
-    Fort Karugo-Narugo: ${choice: 1}[★/★★/★★★/★★★★/★★★★★]
-    Meriphataud Mountains: ${choice: 2}[★/★★/★★★/★★★★/★★★★★]
-    Sauromugue Champaign: ${choice: 3}[★/★★/★★★/★★★★/★★★★★]${prompt}
+    Ouest Sarutabaruta : ${choice: 0}[★/★★/★★★/★★★★/★★★★★]
+    Fort Karugo-Narugo : ${choice: 1}[★/★★/★★★/★★★★/★★★★★]
+    Montagnes de Meriphataud : ${choice: 2}[★/★★/★★★/★★★★/★★★★★]
+    Plaine de Sauromugue : ${choice: 3}[★/★★/★★★/★★★★/★★★★★]${prompt}
   7493: |-
-    Beaucedine Glacier: ${choice: 0}[★/★★/★★★/★★★★/★★★★★]
-    Xarcabard: ${choice: 1}[★/★★/★★★/★★★★/★★★★★]${prompt}
+    Glacier de Beaucedine : ${choice: 0}[★/★★/★★★/★★★★/★★★★★]
+    Xarcabard : ${choice: 1}[★/★★/★★★/★★★★/★★★★★]${prompt}
   7494: |-
-    The ${item-singular: 1[2]} thou hast entrusted to our keeping can endure only ${number: 0} more enchantments.
-    Thenceforth, it shall be rendered useless. Pray be wary!${prompt}
+    L'${item-singular: 1[2]} que tu as confié à notre garde ne peut endurer que ${number: 0} enchantements supplémentaires.
+    Après cela, il sera rendu inutile. Priez d'être prudent !${prompt}
   7495: |-
-    Greetings, traveler!
-    How dost thou fare in thine adventures?${prompt}
+    Salutations, voyageur !
+    Comment te portes-tu dans tes aventures ?${prompt}
   7496: |-
-    By my troth, what a thrilling battle! When thou landed the felling blow, a shiver ran down my wings!
-    As promised, here is thy reward.${prompt}
-  7497: Dost thou find this enchantment to thy liking?${prompt}
+    Par ma foi, quelle bataille palpitante ! Quand tu as porté le coup fatal, un frisson a parcouru mes ailes !
+    Comme promis, voici ta récompense.${prompt}
+  7497: Cette enchantement te plaît-il ?${prompt}
   7498: |-
-    Accept the item?
+    Accepter l'objet ?
     ${selection-lines}
-    Accept.
-    Refuse. (${number: 0} times remaining)${prompt}
+    Accepter.
+    Refuser. (Il te reste ${number: 0} essais)${prompt}
   7499: |-
-    Splendid!
-    May it serve thee well.${prompt}
-  7500: '${color-alt: 121}${entity: 0} obtained ${article} ${item-article: 0[2]}!${prompt}'
+    Splendide !
+    Puissse-t-il te servir au mieux.${prompt}
+  7500: '${color-alt: 121}${entity: 0} a obtenu ${article} ${item-article: 0[2]} !${prompt}'
   7501: |-
-    Ah, 'tis unfortunate.
-    Sadly, my folk are not well-versed in the penchants of adventurers these days...${prompt}
+    Ah, c'est malheureux.
+    Malheureusement, mes gens ne sont pas bien versés dans les goûts des aventuriers de nos jours...${prompt}
   7502: |-
-    In that event, we shall prepare thy weapon to be enchanted anew.
-    May thou be once more triumphant in battle anon!${prompt}
+    Dans ce cas, nous préparerons à nouveau ton arme à être enchantée.
+    Puisses-tu de nouveau triompher en bataille bientôt !${prompt}
   7503: |-
-    What's this?
-    'Twould appear that thy weapon can endure no further enchantments.${prompt}
-  7504: Though it may fall short of thy expectations, pray accept it.${prompt}
-  7505: Otherwise, we shall have no choice but to dispose of it.${prompt}
-  7506: Many thanks for thine assistance!${prompt}
-  7507: 'Pray accept this ${item-singular: 0[2]} as but a humble token of our gratitude.${prompt}'
+    Qu'est-ce que c'est ?
+    Il semblerait que ton arme ne puisse supporter aucune autre enchantement.${prompt}
+  7504: Bien qu'il puisse ne pas répondre à tes attentes, je te prie de l'accepter.${prompt}
+  7505: Sinon, nous n'aurons d'autre choix que de nous en débarrasser.${prompt}  
+  7506: Merci infiniment pour ton aide !${prompt}
+  7507: 'Je te prie d’accepter cet ${item-singular: 0[2]} comme un humble témoignage de notre gratitude.${prompt}'
   7508: デバッグ：内部段階は${prompt}
   7509: デバッグ：強さランクは${prompt}
   7510: デバッグ：モンスターレベルは${prompt}
-  7511: '${color-alt: 123}One or more of your party members do not meet the prerequisites for this battle.${prompt}'
-  7512: '${color-alt: 123}One or more of your party members are not in the appropriate staging zone.${prompt}'
-  7513: '${color-alt: 123}One or more of your party members are currently viewing a cutscene.${prompt}'
-  7514: You think you spy a small doll in the corner. Could it be the homunculus?
-  7515: Something attacks you from behind!
-  7516: 'You scour the vault and receive ${keyitem-article: 1[2]}.'
-  7517: Your name. Spit it out!${prompt}
+  7511: '${color-alt: 123}Un ou plusieurs membres de votre groupe ne remplissent pas les prérequis pour cette bataille.${prompt}'
+  7512: '${color-alt: 123}Un ou plusieurs membres de votre groupe ne sont pas dans la zone de préparation appropriée.${prompt}'
+  7513: '${color-alt: 123}Un ou plusieurs membres de votre groupe regardent actuellement une cinématique.${prompt}'
+  7514: Tu crois repérer une petite poupée dans le coin. Serait-ce l'homoncule ?${prompt}
+  7515: Quelque chose t'attaque par derrière !${prompt}
+  7516: 'Tu fouilles le coffre et obtiens ${keyitem-article: 1[2]}.${prompt}'
+  7517: Ton nom. Crache-le !${prompt}
   7518: |-
-    What's your name?
+    Quel est ton nom ?
     ${selection-lines}
     ${name-player}.
-    You first!${prompt}
-  7519: I applaud your skill in getting this far...all for a little doll.${prompt}
-  7520: I am Zhuu Buxu the Silent.${prompt}
-  7521: I am Zhuu Buxu the Silent. Now, out with it.${prompt}
-  7522: I applaud your skill in getting this far...all for a little doll.${prompt}
-  7523: I hope you realize how futile your actions are.${prompt}
-  7524: That's no magicked homunculus. It's a mere child's toy.${prompt}
-  7525: But I'll share with you a little something, seeing as you went through so much trouble to get here.${prompt}
-  7526: If you want your precious treasure back, then you must bring me the egg of legends.${prompt}
-  7527: We know that the egg has appeared somewhere in the Middle Lands, but no one has discerned its exact location.${prompt}
+    Toi d'abord !${prompt}
+  7519: J'applaudis ta compétence pour être arrivé si loin...tout ça pour une petite poupée.${prompt}
+  7520: Je suis Zhuu Buxu le Silencieux.${prompt}
+  7521: Je suis Zhuu Buxu le Silencieux. Maintenant, crache le morceau.${prompt}
+  7522: J'applaudis ta compétence pour être arrivé si loin...tout ça pour une petite poupée.${prompt}
+  7523: J'espère que tu réalises à quel point tes actions sont futiles.${prompt}
+  7524: Ce n'est pas un homoncule magique. C'est un simple jouet d'enfant.${prompt}
+  7525: Mais je vais te partager quelque chose, puisque tu as eu tant de mal à arriver jusqu'ici.${prompt}
+  7526: Si tu veux revoir ton précieux trésor, tu dois m'apporter l'œuf des légendes.${prompt}
+  7527: Nous savons que l'œuf est apparu quelque part dans les Terres du Milieu, mais personne n'a discerné son emplacement exact.${prompt}
   7528: |-
-    The egg of legends...
+    L'œuf des légendes...
     ${selection-lines}
-    What does it look like?
-    Where is it?
-    Why do you want it?${prompt}
-  7529: We aren't exactly sure. All we know is that it has an air of disease about it.${prompt}
-  7530: If I knew, we wouldn't be having this discussion.${prompt}
-  7531: I think that's wholly irrelevant, don't you? You want the doll, we want the egg.${prompt}
-  7532: But we must get it before the other beastmen...especially the Orcs.${prompt}
-  7533: But I ask you this--don't any of your kind have any stories about this egg?${prompt}
-  7534: I suggest you make haste if you ever want to see your precious figure again.${prompt}
-  7535: You see, there's a Tarutaru in Windurst who has also shown an interest in obtaining it.${prompt}
-  7536: If you want to know where we'll be making the handoff, you'll have to ask that Tarutaru himself...once you have the egg.${prompt}
-  7537: I tire of this conversation. You will find the egg...or this will be the last time we meet.${prompt}
+    À quoi ressemble-t-il ?
+    Où est-il ?
+    Pourquoi le veux-tu ?${prompt}
+  7529: Nous ne sommes pas exactement sûrs. Tout ce que nous savons, c'est qu'il a une aura de maladie.${prompt}
+  7530: Si je le savais, nous n'aurions pas cette discussion.${prompt}
+  7531: Je pense que c'est totalement irrélevant, n'est-ce pas ? Tu veux la poupée, nous voulons l'œuf.${prompt}
+  7532: Mais nous devons l'obtenir avant les autres bêtes...surtout les Orcs.${prompt}
+  7533: Mais je te pose cette question--est-ce que quelqu'un de ton espèce a des histoires sur cet œuf ?${prompt}
+  7534: Je te conseille de te dépêcher si tu veux revoir ta précieuse figurine un jour.${prompt}
+  7535: Tu vois, il y a un Tarutaru à Windurst qui a également montré un intérêt pour l'obtenir.${prompt}
+  7536: Si tu veux savoir où nous ferons l'échange, tu devras demander à ce Tarutaru lui-même...une fois que tu auras l'œuf.${prompt}
+  7537: Je me lasse de cette conversation. Tu trouveras l'œuf...ou ce sera la dernière fois que nous nous rencontrons.${prompt}
