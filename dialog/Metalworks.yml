@@ -18866,146 +18866,146 @@ entries:
     Since you've visited both San d'Oria and Bastok, you may now make your triumphant return to Windurst!
     Oh, and tell everyone we said hi!${prompt}
   7744: |-
-    Yes, what is it?
-    Ah, you are the envoy from ${choice: 0}[San d'Oria/Windurst].${prompt}
+    Oui, que puis-je faire pour vous ?
+    Ah, vous êtes l'envoyé de ${choice: 0}[San d'Oria/Windurst].${prompt}
   7745: |-
-    Go speak to a Galka named Grohm--he was part of the expedition that tried to reclaim the Palborough Mines from the Quadav once before.
-    He should be in the Craftsmen's Eatery in the Metalworks.${prompt}
+    Allez parler à un Galka nommé Grohm - il faisait partie de l'expédition qui a tenté de reprendre les Mines de Palborough aux Quadav par le passé.
+    Il devrait être dans le Craftsmen's Eatery dans le Metalworks.${prompt}
   7746: |-
-    Why are you still here?
-    The Musketeers are usually charged with giving out missions, and frankly, I find this kind of work tedious...${prompt}
+    Pourquoi êtes-vous toujours là ?
+    Les Mousquetaires sont généralement chargés de donner des missions, et franchement, je trouve ce genre de travail fastidieux...${prompt}
   7747: |-
-    But since you are an envoy, you are under my jurisdiction.
-    Still, I can't help but wonder what you ${choice: 0}[San d'Orians/Windurstians]' true motives are...${prompt}
-  7748: Then again, you're going willingly into that Quadav-ridden place, so I can't complain, even if you do turn out to be a spy.${prompt}
+    Mais étant donné que vous êtes un envoyé, vous êtes sous ma juridiction.
+    Néanmoins, je ne peux m'empêcher de me demander quels sont les véritables motivations des ${choice: 0}[San d'Oriens/Windurstiens]...${prompt}
+  7748: Puis encore, vous vous rendez volontairement dans cet endroit infesté de Quadav, alors je ne peux pas me plaindre, même si vous vous avérez être un espion.${prompt}
   7749: |-
-    Well, anyway... You want to speak to Grohm, in the Metalworks eatery.
-    Good luck to you.${prompt}
+    Quoi qu'il en soit... Vous voulez parler à Grohm, dans le Craftsmen's Eatery du Metalworks.
+    Bonne chance.${prompt}
   7750: |-
-    Oh, and when you're done with your investigation, report directly to your consulate.
-    That is our protocol. I would be rather annoyed if you were to come back here.${prompt}
+    Oh, et lorsque vous aurez terminé votre enquête, rapportez directement à votre consulat.
+    C'est notre protocole. Je serais plutôt contrarié si vous reveniez ici.${prompt}
   7751: |-
-    Hm? What do you want?
-    Hey, you're not from Bastok, are you?${prompt}
-  7752: 'What!? You''re ${choice: 0}[San d''Orian/Windurstian], and you listened to what a Bastokan official told you to do?${prompt}'
-  7753: Hah! I have no idea why that Hume sent you here...or why your consulate sent you to him in the first place.${prompt}
-  7754: You better listen good. A lot of us died trying to win the Palborough Mines back from the Quadav...${prompt}
-  7755: It might not matter to a foreigner like you, but they always send us Galka to do the dirty work!${prompt}
+    Hm ? Que voulez-vous ?
+    Hé, vous n'êtes pas de Bastok, n'est-ce pas ?${prompt}
+  7752: 'Quoi !? Vous êtes ${choice: 0}[San d’Orien/Windurstien], et vous avez écouté ce qu’un officiel de Bastok vous a dit de faire ?${prompt}'
+  7753: Hah ! Je ne sais pas pourquoi ce Hume vous a envoyé ici... ou pourquoi votre consulat vous a envoyé chez lui en premier lieu.${prompt}
+  7754: Vous feriez mieux d'écouter attentivement. Beaucoup d'entre nous sont morts en essayant de reprendre les Mines de Palborough aux Quadav...${prompt}
+  7755: Cela pourrait ne pas importuner un étranger comme vous, mais ils nous envoient toujours, nous les Galka, faire le sale boulot !${prompt}
   7756: |-
-    What gets me the most is that they don't even think about it twice!
-    Even if you haven't been here long, you must've seen how they treat us.${prompt}
+    Ce qui m'agace le plus, c'est qu'ils n'y réfléchissent même pas à deux fois !
+    Même si vous n'êtes pas ici depuis longtemps, vous avez dû voir comment ils nous traitent.${prompt}
   7757: |-
-    Never mind. Shouting at you won't change anything.
-    You wanted to know about refining ore, right? It's easy, but you have to remember the steps.${prompt}
+    Peu importe. Vous crier dessus ne changera rien.
+    Vous vouliez savoir comment raffiner le minerai, n'est-ce pas ? C'est simple, mais vous devez vous souvenir des étapes.${prompt}
   7758: |-
-    Here goes:
-    1. Get ${article} ${item-article: 6[2]}.
-    2. Put that into the upper part of the refiner.
-    3. Take the ${item-singular: 7[2]} out of the lower part of the refiner.${prompt}
-  7759: 'You can either buy ${article} ${item-article: 6[2]} from someone, or get some by using ${article} ${item-article: 5[2]} on a mythril seam inside Palborough.${prompt}'
+    Voici comment faire :
+    1. Obtenez ${article} ${item-article: 6[2]}.
+    2. Mettez-le dans la partie supérieure du raffineur.
+    3. Retirez ${article} ${item-singular: 7[2]} de la partie inférieure du raffineur.${prompt}
+  7759: 'Vous pouvez soit acheter ${article} ${item-article: 6[2]} à quelqu’un, soit en obtenir en utilisant ${article} ${item-article: 5[2]} sur une veine de mythril à l’intérieur de Palborough.${prompt}'
   7760: |-
-    The refining machine is so big, its upper and lower sections are on different floors.
-    Put ${article} ${item-article: 6[2]} into it on the third floor, and it'll produce ${article} ${item-article: 7[2]} on the second floor.${prompt}
-  7761: I know it sounds simple, but it's not. You've got the Quadav to deal with, and they're everywhere.${prompt}
+    La machine de raffinage est si grande que ses parties supérieure et inférieure se trouvent à différents étages.
+    Mettez ${article} ${item-article: 6[2]} dedans au troisième étage, et elle produira ${article} ${item-article: 7[2]} au deuxième étage.${prompt}
+  7761: Je sais que ça a l'air simple, mais ce n'est pas le cas. Vous avez les Quadav à gérer, et ils sont partout.${prompt}
   7762: |-
-    Here, take these ${item-plural: 5[2]}.
-    Good luck. You're gonna need it.${prompt}
-  7763: Hey, you're an adventurer, right? From another country?${prompt}
+    Tiens, prends ces ${item-plural: 5[2]}.
+    Bonne chance. Vous en aurez besoin.${prompt}
+  7763: Hé, vous êtes un aventurier, non ? D'un autre pays ?${prompt}
   7764: |-
-    Sorry, I couldn't help but eavesdrop.
-    I'm going to the Palborough Mines, too.${prompt}
+    Désolé, je n'ai pas pu m'empêcher d'écouter aux portes.
+    Je vais aussi aux Mines de Palborough.${prompt}
   7765: |-
-    Don't worry, I won't get in your way.
-    I don't think we're going after the same thing anyway.${prompt}
-  7766: At least, for now.${prompt}
-  7767: But you shouldn't think your mission is just a mine survey.${prompt}
-  7768: The beastmen seem to have found a new leader, and the Quadav are getting more powerful with each passing day. There could be another war...${prompt}
-  7769: Oh, there's one thing you should know. Do you know why the Quadav took the Palborough Mines?${prompt}
-  7770: Humes claim that the Quadav stole the mines from them, but in reality, the mines are the Quadav's home...no, their holy land.${prompt}
-  7771: The Quadav would die rather than lose it. But the Humes in Bastok don't know, and they don't care to know.${prompt}
-  7772: Well, it's time for me to go. Oh, and my name is Lion. I'm an adventurer, like you. I'll be seeing you around.${prompt}
+    Ne t'inquiète pas, je ne vais pas te gêner.
+    Je ne pense pas que nous recherchons la même chose de toute façon.${prompt}
+  7766: Du moins, pour l'instant.${prompt}
+  7767: Mais tu ne devrais pas penser que ta mission se résume à une simple étude de mine.${prompt}
+  7768: Les bêtes semblent avoir trouvé un nouveau leader, et les Quadav deviennent plus puissants de jour en jour. Il pourrait y avoir une autre guerre...${prompt}
+  7769: Oh, il y a une chose que tu devrais savoir. Sais-tu pourquoi les Quadav ont pris les Mines de Palborough ?${prompt}
+  7770: Les Humes prétendent que les Quadav leur ont volé les mines, mais en réalité, les mines sont le foyer des Quadav... non, leur terre sainte.${prompt}
+  7771: Les Quadav préféreraient mourir plutôt que de la perdre. Mais les Humes de Bastok ne le savent pas, et ils ne veulent pas  le savoir.${prompt}
+  7772: Eh bien, il est temps pour moi d'y aller. Oh, et mon nom est Lion. Je suis un aventurier, comme toi. On se reverra.${prompt}
   7773: |-
-    Never mind, shouting at you won't change anything.
-    You wanted to know about the beastmen, right?${prompt}
-  7774: I've heard rumors that those dumb Quadav are acting organized.${prompt}
-  7775: There's even talk that they have a leader now, like in the Great War...${prompt}
-  7776: Oh, and there's a strange magic circle at the deepest end of the Palborough Mines. It's said that whoever goes beyond it never comes back.${prompt}
+    Peu importe, te crier dessus ne changera rien.
+    Tu voulais en savoir plus sur les bêtes, n'est-ce pas ?${prompt}
+  7774: J'ai entendu des rumeurs selon lesquelles ces Quadav stupides agissent de manière organisée.${prompt}
+  7775: On dit même qu'ils ont un chef maintenant, comme pendant la Grande Guerre...${prompt}
+  7776: Oh, et il y a un étrange cercle magique au fond des Mines de Palborough. On dit que quiconque le franchit ne revient jamais.${prompt}
   7777: |-
-    Sounds real suspicious, doesn't it?
-    I'm sure you'll find your answers there.${prompt}
+    Ça sonne vraiment suspect, n'est-ce pas ?
+    Je suis sûr que tu trouveras tes réponses là-bas.${prompt}
   7778: |-
-    Me? Oh, no. I'm never going back there.
-    Good luck. You're gonna need it!${prompt}
-  7779: Ah, you must be the adventurer who is to join us on our mission. I have heard much about you.${prompt}
-  7780: We would like to hold a briefing soon. You will be allowed time to prepare for the mission afterwards, but the briefing might take a bit of time. Are you ready now?${prompt}
+    Moi ? Oh non. Je n'y retournerai jamais.
+    Bonne chance. Tu en auras besoin !${prompt}
+  7779: Ah, tu dois être l'aventurier qui va nous rejoindre pour notre mission. J'ai beaucoup entendu parler de toi.${prompt}
+  7780: Nous aimerions tenir un briefing bientôt. Vous aurez le temps de vous préparer pour la mission par la suite, mais le briefing pourrait prendre un peu de temps. Êtes-vous prêt maintenant ?${prompt}
   7781: |-
-    When would you like to be briefed?
+    Quand souhaitez-vous être informé ?
     ${selection-lines}
-    Right away.
-    Later.${prompt}
-  7782: Good. Come with me.${prompt}
+    Tout de suite.
+    Plus tard.${prompt}
+  7782: Bien. Suivez-moi.${prompt}
   7783: |-
-    Hold, Milady!
-    Where are you going!?${prompt}
+    Attendez, Milady !
+    Où allez-vous ?${prompt}
   7784: |-
-    Oh, hi!
-    Don't mind me, I'm just going to the Mines District!${prompt}
-  7785: Again? We Mythril Musketeers cannot chaperone you every time you decide to go on these excursions...${prompt}
+    Oh, salut !
+    Ne faites pas attention à moi, je vais juste au district des mines !${prompt}
+  7785: Encore ? Nous, les Mousquetaires du Mythril, ne pouvons pas vous escorter à chaque fois que vous décidez de partir en excursion...${prompt}
   7786: |-
-    I know, that's why I'm going by myself! Don't worry, I'll be fine!
-    Bye!${prompt}
+    Je sais, c'est pourquoi j'y vais seule ! Ne vous inquiétez pas, je serai bien !
+    Au revoir !${prompt}
   7787: |-
-    No, wait--
-    Drat!${prompt}
-  7788: Hey, where's she going?${prompt}
+    Non, attends --
+    Zut !${prompt}
+  7788: Hé, où va-t-elle ?${prompt}
   7789: |-
-    “Where's she going”!?
-    You, sir, were stationed to stop her!${prompt}
-  7790: But...but...${prompt}
-  7791: No talking back to senior Musketeers, Naji--or should I call you, “Number Five”?${prompt}
+    "Où va-t-elle" !?
+    Vous, Monsieur, étiez chargé de l'arrêter !${prompt}
+  7790: Mais... mais...${prompt}
+  7791: Pas de réplique aux Mousquetaires seniors, Naji -- ou devrais-je vous appeler "Numéro Cinq" ?${prompt}
   7792: Urgh...${prompt}
-  7793: Come on, get in!${prompt}
+  7793: Allez, montez !${prompt}
   7794: |-
-    Thank you all for coming on such short notice.
-    Here is your mission: You are to mount an assault on the Quadav stronghold in Beadeaux.${prompt}
+    Merci à tous d'être venus si rapidement.
+    Voici votre mission : Vous devez monter une attaque sur le bastion Quadav à Beadeaux.${prompt}
   7795: |-
-    Be forewarned that this is only to be a limited strike.
-    Your main objectives are to coordinate tactics with experienced adventurers, and to familiarize yourselves with the local terrain.${prompt}
-  7796: As you see, some of our good adventuring friends have agreed to join the Musketeers on this operation.${prompt}
-  7797: Number Four, Ayame, planned this operation, so she will be in charge.${prompt}
+    Soyez prévenus que cela ne sera qu'une frappe limitée.
+    Vos principaux objectifs sont de coordonner les tactiques avec des aventuriers expérimentés et de vous familiariser avec le terrain local.${prompt}
+  7796: Comme vous pouvez le constater, certains de nos bons amis aventuriers ont accepté de se joindre aux Mousquetaires pour cette opération.${prompt}
+  7797: Le Numéro Quatre, Ayame, a planifié cette opération, elle sera donc en charge.${prompt}
   7798: |-
-    Number Five, Naji, will be assisting her.
-    All of you are to follow their orders during the operation.
-    Ayame, if you please?${prompt}
+    Le Numéro Cinq, Naji, l'assistera.
+    Vous devez tous suivre leurs ordres pendant l'opération.
+    Ayame, je vous prie ?${prompt}
   7799: |-
-    First, we are to rendezvous in Beadeaux, near the entrance to the Quadav stronghold.
-    Your targets are the Copper Quadav in charge of perimeter defense.${prompt}
+    Tout d'abord, nous devons nous retrouver à Beadeaux, près de l'entrée du bastion Quadav.
+    Vos cibles sont les Quadav de cuivre en charge de la défense périmétrique.${prompt}
   7800: |-
-    Each of you are to defeat twenty Copper Quadav.
-    Once you have accomplished this objective, you are to disperse and retreat, then regroup at the entrance once again.${prompt}
+    Chacun de vous doit vaincre vingt Quadav de cuivre.
+    Une fois cet objectif accompli, vous devez vous disperser et battre en retraite, puis vous regrouper à nouveau à l'entrée.${prompt}
   7801: |-
-    Don't forget, the rendezvous point is right inside Beadeaux!
-    Nobody get lost, now!${prompt}
-  7802: You should talk. You'd even get lost in your own Mog House.${prompt}
+    N'oubliez pas, le point de rendez-vous est juste à l'intérieur de Beadeaux !
+    Personne ne se perdra, d'accord ?${prompt}
+  7802: Tu ferais mieux de te taire. Tu te perdrais même dans ta propre Maison Mog.${prompt} 
   7803: |-
-    Once you are prepared, waste no time going to the rendezvous point.
-    Dismissed.${prompt}
-  7804: The way to the rendezvous point is through the Pashhow Marshlands. It is right inside Beadeaux.${prompt}
+    Dès que vous êtes prêts, ne perdez pas de temps pour vous rendre au point de rendez-vous.
+    Renvoyés.${prompt}
+  7804: Le chemin vers le point de rendez-vous passe par les marais de Pashhow. Il est juste à l'intérieur de Beadeaux.${prompt}
   7805: |-
-    Walk across the Pashhow Marshlands to get to the rendezvous point.
-    It's right inside Beadeaux. Make sure to bring everything you'll need!${prompt}
+    Traversez les marais de Pashhow pour atteindre le point de rendez-vous.
+    C'est juste à l'intérieur de Beadeaux. Assurez-vous d'avoir tout ce dont vous avez besoin !${prompt}
   7806: |-
-    The rendezvous point is across the Pashhow Marshlands, and right inside Beadeaux.
-    Be prepared for anything.${prompt}
-  7807: Ah, you are here. Good.${prompt}
-  7808: You must have heard this already, but we need someone reliable to take on missions centered around our embassy in Jeuno.${prompt}
-  7809: I've talked to both the president and Captain Volker, and it is our unanimous opinion that you are the only person adequate for the task.${prompt}
-  7810: We will give you a letter of introduction, which you will present at our embassy in Jeuno to receive further instructions.${prompt}
-  7811: Hans, the letter.${prompt}
-  7812: Yes, sir. Here you go.${prompt}
+    Le point de rendez-vous est à travers les marais de Pashhow, et juste à l'intérieur de Beadeaux.
+    Soyez prêts à tout.${prompt}
+  7807: Ah, vous êtes là. Bien.${prompt}
+  7808: Vous avez sûrement déjà entendu cela, mais nous avons besoin de quelqu'un de fiable pour prendre en charge les missions centrées autour de notre ambassade à Jeuno.${prompt}
+  7809: J'ai parlé tant au président qu'au Capitaine Volker, et c'est notre avis unanime que vous êtes la seule personne adéquate pour la tâche.${prompt}
+  7810: Nous vous remettrons une lettre d'introduction, que vous présenterez à notre ambassade à Jeuno pour recevoir de plus amples instructions.${prompt}
+  7811: Hans, la lettre.${prompt}
+  7812: Oui, monsieur. La voici.${prompt}
   7813: |-
-    Good luck.
-    I am counting on you.${prompt}
+    Bonne chance.
+    Je compte sur vous.${prompt}
   7814: |-
     You're back from Jeuno.
     No time to chat. Come with me.${prompt}
