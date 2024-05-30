@@ -23015,14 +23015,14 @@ entries:
   11071: '${color-alt: 161}Word has been received of an undead threat in Bhaflau Thickets.${prompt}'
   11072: |-
     Vous pouvez définir cela comme votre point de retour actuel.
-    Une fois que vous avez défini un point de retour, vous y retournerez chaque fois que vous serez hors service.
+    Une fois que vous avez défini un point de retour, vous y retournerez chaque fois que vous serez K.O.
   11073: |-
     Définir cela comme point de retour actuel ?
     ${selection-lines}
     Oui.
     Non.${prompt}
   11074: Point de retour défini !${prompt}
-  11075: Un point de retour peut être défini comme un endroit où vous retournerez à Vana'diel lorsque vous serez hors service. Vous pouvez également utiliser un point de retour pour vous téléporter vers d'autres points de retour.
+  11075: Un point de retour peut être défini comme un endroit où vous retournerez à Vana'diel lorsque vous serez K.O. Vous pouvez également utiliser un point de retour pour vous téléporter vers d'autres points de retour.
   11076: |-
     Que ferez-vous ?
     ${selection-lines}
