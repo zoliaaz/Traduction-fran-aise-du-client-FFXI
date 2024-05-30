@@ -17697,85 +17697,85 @@ entries:
     増えたポイント　${number: 0}
     増えたカウント　${number: 1}${prompt}
   7220: |-
-    Enter the battlefield?
+    Entrer sur le champ de bataille ?
     ${selection-lines}
-    Enter.
-    Decline.${prompt}
+    Entrer.
+    Refuser.${prompt}
   7221: |-
-    Leave the battlefield?
+    Quitter le champ de bataille ?
     ${selection-lines}
-    Run away.
-    Stay.${prompt}
-  7222: 'You cannot enter the battlefield at present. Please wait a little longer.${wait-animation: 1}${prompt}'
-  7223: 'You cannot enter the battlefield at present. Please wait a little longer.${wait-animation: 1}${prompt}'
-  7224: You have already cleared this battlefield. You may not enter unless you are assisting a player who has not defeated this boss.${prompt}
+    Fuir.
+    Rester.${prompt}
+  7222: 'Vous ne pouvez pas entrer sur le champ de bataille pour le moment. Veuillez patienter un peu.${wait-animation: 1}${prompt}'
+  7223: 'Vous ne pouvez pas entrer sur le champ de bataille pour le moment. Veuillez patienter un peu.${wait-animation: 1}${prompt}'
+  7224: Vous avez déjà nettoyé ce champ de bataille. Vous ne pouvez pas y entrer à moins d'assister un joueur qui n'a pas vaincu ce boss.${prompt}
   7225: |-
-    Your time in the battlefield is up!
-    Now exiting...${wait-animation: 1}${prompt}
-  7226: 'You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.${wait-animation: 1}${prompt}'
-  7227: 'You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.${wait-animation: 1}${prompt}'
-  7228: 'You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.${wait-animation: 1}${prompt}'
-  7229: 'You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.${wait-animation: 1}${prompt}'
-  7230: 'You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.${wait-animation: 1}${prompt}'
-  7231: 'You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.${wait-animation: 1}${prompt}'
-  7232: 'You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.${wait-animation: 1}${prompt}'
-  7233: 'You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.${wait-animation: 1}${prompt}'
-  7234: 'You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.${wait-animation: 1}${prompt}'
-  7235: 'You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.${wait-animation: 1}${prompt}'
-  7236: 'You have been enchanted so that you may enter!${wait-animation: 1}${prompt}'
-  7237: 'Your entry enchantment has expired!${wait-animation: 1}${prompt}'
+    Votre temps sur le champ de bataille est écoulé !
+    Maintenant en train de sortir...${wait-animation: 1}${prompt}
+  7226: 'Vous êtes autorisé à entrer sur le champ de bataille, mais vous ne pouvez pas le faire tant que des membres du groupe sont engagés dans un combat.${wait-animation: 1}${prompt}'
+  7227: 'Vous êtes autorisé à entrer sur le champ de bataille, mais vous ne pouvez pas le faire tant que des membres du groupe sont engagés dans un combat.${wait-animation: 1}${prompt}'
+  7228: 'Vous êtes autorisé à entrer sur le champ de bataille, mais vous ne pouvez pas le faire tant que des membres du groupe sont engagés dans un combat.${wait-animation: 1}${prompt}'
+  7229: 'Vous êtes autorisé à entrer sur le champ de bataille, mais vous ne pouvez pas le faire tant que des membres du groupe sont engagés dans un combat.${wait-animation: 1}${prompt}'
+  7230: 'Vous êtes autorisé à entrer sur le champ de bataille, mais vous ne pouvez pas le faire tant que des membres du groupe sont engagés dans un combat.${wait-animation: 1}${prompt}'
+  7231: 'Vous êtes autorisé à entrer sur le champ de bataille, mais vous ne pouvez pas le faire tant que des membres du groupe sont engagés dans un combat.${wait-animation: 1}${prompt}'
+  7232: 'Vous êtes autorisé à entrer sur le champ de bataille, mais vous ne pouvez pas le faire tant que des membres du groupe sont engagés dans un combat.${wait-animation: 1}${prompt}'
+  7233: 'Vous êtes autorisé à entrer sur le champ de bataille, mais vous ne pouvez pas le faire tant que des membres du groupe sont engagés dans un combat.${wait-animation: 1}${prompt}'
+  7234: 'Vous êtes autorisé à entrer sur le champ de bataille, mais vous ne pouvez pas le faire tant que des membres du groupe sont engagés dans un combat.${wait-animation: 1}${prompt}'
+  7235: 'Vous êtes autorisé à entrer sur le champ de bataille, mais vous ne pouvez pas le faire tant que des membres du groupe sont engagés dans un combat.${wait-animation: 1}${prompt}'
+  7236: 'Vous avez été enchanté pour pouvoir entrer !${wait-animation: 1}${prompt}'
+  7237: 'Votre enchantement d’entrée a expiré !${wait-animation: 1}${prompt}'
   7238: |-
-    You are not cleared to enter the battlefield.
-    Now exiting...${wait-animation: 1}${prompt}
-  7239: A cursed seal has been placed upon this platform.${prompt}
-  7240: The battlefield where your party members are engaged in combat is locked. Access is denied.${prompt}
-  7241: There is no response. You cannot escape!${prompt}
-  7242: The door is sealed shut with an evil curse.${prompt}
-  7243: A mysterious force is sealing the platform.${prompt}
-  7244: The old wooden door is locked tight.${prompt}
-  7245: The door is sealed with a mysterious energy.${prompt}
-  7246: It is a giant crystal.${prompt}
-  7247: A strong magical force is whirling up from the platform.${prompt}
-  7248: A fierce column of wind blocks your path. You cannot proceed any further...${prompt}
-  7249: An ominous veil of pitch-black gas blocks your path. You cannot proceed any further...${prompt}
-  7250: An unfathomable light is rising from this strangely marked platform...${prompt}
-  7251: A heavy wooden gate. It is tightly locked...${prompt}
-  7252: You can hear a faint scraping sound from within, but the way is barred by some strange membrane...${prompt}
-  7253: You can hear a faint scraping sound from within, but the way is barred by some strange membrane...${prompt}
-  7254: You can hear a faint scraping sound from within, but the way is barred by some strange membrane...${prompt}
-  7255: You can hear a faint scraping sound from within, but the way is barred by some strange membrane...${prompt}
-  7256: A glowing mist of ever-changing proportions floats before you...${prompt}
-  7257: A solid iron gate. It is tightly locked...${prompt}
-  7258: You see a gigantic crystal, glowing with amber light...${prompt}
-  7259: You see a gigantic crystal, glowing with amber light...${prompt}
-  7260: Looking closely, you see two bell-type symbols painted on the wood, one in red and one in blue...${prompt}
-  7261: Looking closely at the surface of the gate, you can see what appears to be the imprints of a Troll's fist...${prompt}
-  7262: If you listen closely, you can faintly hear female voices singing in rounds...${prompt}
-  7263: It appears as if something had been thrust into the rockface here...${prompt}
-  7264: A decorative door. It appears to be locked...${prompt}
-  7265: The door is locked.${prompt}
-  7266: The gate is locked.${prompt}
-  7267: The door is locked.${prompt}
-  7268: The door is locked.${prompt}
-  7269: There seems to be a space beneath the floor, but you are unable to access it.${prompt}
-  7270: You do not meet the requirements to enter the battlefield. Access is denied.${prompt}
-  7271: '${choice: 0}[Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] has fallen. Now leaving the battlefield.${prompt}'
-  7272: '${choice: 0}[Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] has fallen. Now leaving the battlefield.${prompt}'
-  7273: '${choice: 0}[Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] has fallen. Now leaving the battlefield.${prompt}'
-  7274: '${choice: 0}[Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] has fallen. Now leaving the battlefield.${prompt}'
-  7275: '${choice: 0}[Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] has fallen. Now leaving the battlefield.${prompt}'
-  7276: '${choice: 0}[Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] has fallen. Now leaving the battlefield.${prompt}'
-  7277: '${choice: 0}[Fhig/Khuma/Pimy/Raka/Sahyu/Sufhi/Tsuim/Yoli] has fallen. Now leaving the battlefield.${prompt}'
-  7278: '${choice: 0}[Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] has fallen. Now leaving the battlefield.${prompt}'
-  7279: You were unable to protect the special character. Now leaving the battlefield.${prompt}
-  7280: You were unable to protect Prince Trion. Now leaving the battlefield.${prompt}
-  7281: You were unable to protect Captain Volker. Now leaving the battlefield.${prompt}
-  7282: You were unable to protect Ajido-Marujido. Now leaving the battlefield.${prompt}
-  7283: 'Your ${item-singular: 0[2]} is torn...${prompt}'
-  7284: 'Your ${item-singular: 0[2]} ${choice: 1}[/rips into shreds!/is on the verge of tearing apart.../is showing signs of wear...] (${number: 2} ${choice-plurality: 2}[use remains/uses remain].)${prompt}'
-  7285: 'Your ${item-singular: 0[2]} is torn...${prompt}'
-  7286: 'Your ${item-singular: 0[2]} ${choice: 1}[/rips into shreds!/is on the verge of tearing apart.../is showing signs of wear...] (${number: 2} ${choice-plurality: 2}[use remains/uses remain].)${prompt}'
-  7287: You see innumerable stars shimmering in the distance...${prompt}
+    Vous n'êtes pas autorisé à entrer sur le champ de bataille.
+    Sortie en cours...${wait-animation: 1}${prompt}
+  7239: Un sceau maudit a été placé sur cette plateforme.${prompt}
+  7240: Le champ de bataille où vos membres de groupe sont engagés dans un combat est verrouillé. L'accès est refusé.${prompt}
+  7241: Aucune réponse. Vous ne pouvez pas vous échapper !${prompt}
+  7242: La porte est scellée avec une malédiction malveillante.${prompt}
+  7243: Une force mystérieuse scelle la plateforme.${prompt}
+  7244: La vieille porte en bois est fermement verrouillée.${prompt}
+  7245: La porte est scellée avec une énergie mystérieuse.${prompt}
+  7246: C'est un cristal géant.${prompt}
+  7247: Une puissante force magique tourbillonne depuis la plateforme.${prompt}
+  7248: Une colonne de vent féroce bloque votre chemin. Vous ne pouvez pas avancer davantage...${prompt}
+  7249: Un voile sinistre de gaz noirâtre bloque votre chemin. Vous ne pouvez pas avancer davantage...${prompt}
+  7250: Une lumière insondable s'élève de cette plateforme étrangement marquée...${prompt}
+  7251: Une lourde porte en bois. Elle est solidement verrouillée...${prompt}
+  7252: Vous entendez un léger bruit de grincement à l'intérieur, mais le passage est bloqué par une étrange membrane...${prompt}
+  7253: Vous entendez un léger bruit de grincement à l'intérieur, mais le passage est bloqué par une étrange membrane...${prompt}
+  7254: Vous entendez un léger bruit de grincement à l'intérieur, mais le passage est bloqué par une étrange membrane...${prompt}
+  7255: Vous entendez un léger bruit de grincement à l'intérieur, mais le passage est bloqué par une étrange membrane...${prompt} 
+  7256: Un brouillard lumineux aux proportions changeantes flotte devant vous...${prompt}
+  7257: Une porte en fer solide. Elle est solidement verrouillée...${prompt}
+  7258: Vous voyez un cristal gigantesque, éclairé d'une lumière ambrée...${prompt}
+  7259: Vous voyez un cristal gigantesque, éclairé d'une lumière ambrée...${prompt}
+  7260: En regardant de près, vous voyez deux symboles de cloche peints sur le bois, un en rouge et un en bleu...${prompt}
+  7261: En regardant de près la surface de la porte, vous pouvez voir ce qui semble être les empreintes du poing d'un Troll...${prompt}
+  7262: Si vous écoutez attentivement, vous pouvez entendre des voix féminines chantant en canon...${prompt}
+  7263: Il semble qu'un objet ait été enfoncé dans la roche ici...${prompt}
+  7264: Une porte décorative. Elle semble être verrouillée...${prompt}
+  7265: La porte est verrouillée.${prompt}
+  7266: La porte est verrouillée.${prompt}
+  7267: La porte est verrouillée.${prompt}
+  7268: La porte est verrouillée.${prompt}
+  7269: Il semble y avoir un espace sous le plancher, mais vous ne pouvez pas y accéder.${prompt}
+  7270: Vous ne remplissez pas les conditions requises pour entrer sur le champ de bataille. L'accès est refusé.${prompt}
+  7271: '${choice: 0}[Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] est tombé. Maintenant, quitte le champ de bataille.${prompt}'
+  7272: '${choice: 0}[Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] est tombée. Maintenant, quitte le champ de bataille.${prompt}'
+  7273: '${choice: 0}[Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] est tombé. Maintenant, quitte le champ de bataille.${prompt}'
+  7274: '${choice: 0}[Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] est tombé. Maintenant, quitte le champ de bataille.${prompt}'
+  7275: '${choice: 0}[Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] est tombé. Maintenant, quitte le champ de bataille.${prompt}'
+  7276: '${choice: 0}[Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] est tombé. Maintenant, quitte le champ de bataille.${prompt}'
+  7277: '${choice: 0}[Fhig/Khuma/Pimy/Raka/Sahyu/Sufhi/Tsuim/Yoli] est tombé. Maintenant, quitte le champ de bataille.${prompt}'
+  7278: '${choice: 0}[Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] est tombé. Maintenant, quitte le champ de bataille.${prompt}'
+  7279: Vous n'avez pas réussi à protéger le personnage spécial. Maintenant, quitte le champ de bataille.${prompt}
+  7280: Vous n'avez pas réussi à protéger le prince Trion. Maintenant, quitte le champ de bataille.${prompt}
+  7281: Vous n'avez pas réussi à protéger le capitaine Volker. Maintenant, quitte le champ de bataille.${prompt}
+  7282: Vous n'avez pas réussi à protéger Ajido-Marujido. Maintenant, quitte le champ de bataille.${prompt}
+  7283: 'Votre ${item-singular: 0[2]} est déchiré...${prompt}'
+  7284: 'Votre ${item-singular: 0[2]} ${choice: 1}[/se déchire en lambeaux!/est sur le point de se déchirer.../montre des signes d’usure...] (Il reste ${number: 2} ${choice-plurality: 2}[utilisation/utilisations].)${prompt}'
+  7285: 'Votre ${item-singular: 0[2]} est déchiré...${prompt}'
+  7286: 'Votre ${item-singular: 0[2]} ${choice: 1}[/se déchire en lambeaux!/est sur le point de se déchirer.../montre des signes d’usure...] (Il reste ${number: 2} ${choice-plurality: 2}[utilisation/utilisations].)${prompt}'
+  7287: Vous voyez d’innombrables étoiles scintiller au loin...${prompt}
   7288: 　${prompt}
   7289: 　${prompt}
   7290: 　${prompt}
@@ -18276,17 +18276,17 @@ entries:
   7528: '(Bはすでに先約がありました)${wait-animation: 1}${prompt}'
   7529: '(Cはすでに先約がありました)${wait-animation: 1}${prompt}'
   7530: '（条件があってないため入室できません${wait-animation: 1}${prompt}'
-  7531: 'Currently, ${number: 3} members of your party (including yourself) have clearance to enter the battlefield.${prompt}'
-  7532: 'Currently, ${number: 3} members of your alliance (including yourself) have clearance to enter the battlefield.${prompt}'
-  7533: Only ${name-player} can enter the battlefield.${prompt}
-  7534: 'The time limit for this battle is ${number: 3} minutes.${prompt}'
-  7535: 'There is a crack in the ${item-singular: 3[2]}. It no longer contains a monster.${prompt}'
-  7536: 'A crack has formed on the ${item-singular: 3[2]}, and the beast inside has been unleashed!${prompt}'
-  7537: 'Boss mode : ${number: 6}!!${wait-animation: 1}${prompt}'
+  7531: "Actuellement, ${number: 3} membres de votre groupe (y compris vous-même) ont l'autorisation d'entrer sur le champ de bataille.${prompt}" 
+  7532: "Actuellement, ${number: 3} membres de votre alliance (y compris vous-même) ont l'autorisation d'entrer sur le champ de bataille.${prompt}"
+  7533: "Seul ${name-player} peut entrer sur le champ de bataille.${prompt}"
+  7534: "La limite de temps pour cette bataille est de ${number: 3} minutes.${prompt}"
+  7535: "Il y a une fissure dans le ${item-singular: 3[2]}. Il ne contient plus de monstre.${prompt}"
+  7536: "Une fissure s'est formée sur le ${item-singular: 3[2]}, et la bête à l'intérieur a été libérée!${prompt}"
+  7537: "Mode boss : ${number: 6}!!${wait-animation: 1}${prompt}"
   7538: |-
-    Room number to attempt: ${number: 0}.
-    Desired boss mode: ${number: 1}.
-    Difficulty: ${number: 2} (${choice: 2}[Not set/Very difficult/Difficult/Normal/Easy/Very easy].${prompt}
+    Numéro de salle à tenter : ${number: 0}.
+    Mode boss désiré : ${number: 1}.
+    Difficulté : ${number: 2} (${choice: 2}[Non défini/Très difficile/Difficile/Normal/Facile/Très facile].${prompt}
   7539: '${number: 7}${prompt}'
   7540: DEBUG1${prompt}
   7541: |-
@@ -18328,336 +18328,336 @@ entries:
   7557: 'CLI_NUM6 = ${number: 6}${wait-animation: 1}${prompt}'
   7558: 'CLI_NUM7 = ${number: 6}${wait-animation: 1}${prompt}'
   7559: |-
-    Skip the event?
+    Passer l'événement ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  7560: 'Battlefield clear time: ${number: 3} second${choice-plurality: 3}[/s]!'
-  7561: 'Battlefield clear time: ${number: 3} minute${choice-plurality: 3}[/s], ${number: 2} second${choice-plurality: 2}[/s]!'
-  7562: 'The current battlefield clear time record is ${number: 3} second${choice-plurality: 3}[/s].'
-  7563: 'The current battlefield clear time record is ${number: 3} minute${choice-plurality: 3}[/s] ${number: 2} second${choice-plurality: 2}[/s].'
+    Oui.
+    Non.${prompt}
+  7560: 'Temps de nettoyage du champ de bataille : ${number: 3} seconde${choice-plurality: 3}[/s]!'
+  7561: 'Temps de nettoyage du champ de bataille : ${number: 3} minute${choice-plurality: 3}[/s], ${number: 2} seconde${choice-plurality: 2}[/s]!'
+  7562: 'Le temps de nettoyage actuel du champ de bataille est de ${number: 3} seconde${choice-plurality: 3}[/s].'
+  7563: 'Le temps de nettoyage actuel du champ de bataille est de ${number: 3} minute${choice-plurality: 3}[/s] ${number: 2} seconde${choice-plurality: 2}[/s].'
   7564: |-
-    Called the NPC!
-    PC ID = ${number: 0}!
-    RESULT = ${number: 1}!${prompt}
+    Appel du PNJ !
+    ID PC = ${number: 0}!
+    RÉSULTAT = ${number: 1}!${prompt}
   7565: |-
-    Got rid of the NPC!
-    PC ID = ${number: 0}!${prompt}
-  7566: The NPC has fallen, and he can't get up! Leaving room A!${prompt}
-  7567: The NPC has fallen, and he can't get up! Leaving room B!${prompt}
-  7568: The NPC has fallen, and he can't get up! Leaving room C!${prompt}
-  7569: The NPC has fallen, and he can't get up! Leaving room D!${prompt}
-  7570: All party members have fallen in battle. Now leaving the battlefield.${prompt}
+    Suppression du PNJ !
+    ID PC = ${number: 0}!${prompt}
+  7566: Le PNJ est tombé et ne peut pas se relever ! Quitte la salle A !${prompt}
+  7567: Le PNJ est tombé et ne peut pas se relever ! Quitte la salle B !${prompt}
+  7568: Le PNJ est tombé et ne peut pas se relever ! Quitte la salle C !${prompt}
+  7569: Le PNJ est tombé et ne peut pas se relever ! Quitte la salle D !${prompt}
+  7570: Tous les membres du groupe sont tombés au combat. Quitte maintenant le champ de bataille.${prompt}
   7571: |-
-    Everybody's fallen in room A, and they can't get up!
-    Leaving room A!${prompt}
+    Tout le monde est tombé dans la salle A et ne peut pas se relever !
+    Quitte la salle A !${prompt}
   7572: |-
-    Everybody's fallen in room B, and they can't get up!
-    Leaving room B!${prompt}
+    Tout le monde est tombé dans la salle B et ne peut pas se relever !
+    Quitte la salle B !${prompt}
   7573: |-
-    Everybody's fallen in room C, and they can't get up!
-    Leaving room C!${prompt}
+    Tout le monde est tombé dans la salle C et ne peut pas se relever !
+    Quitte la salle C !${prompt}
   7574: |-
-    Everybody's fallen in room D, and they can't get up!
-    Leaving room D!${prompt}
+    Tout le monde est tombé dans la salle D et ne peut pas se relever !
+    Quitte la salle D !${prompt}
   7575: |-
-    Everybody's fallen in room E, and they can't get up!
-    Leaving room E!${prompt}${prompt}
-  7576: 'If all party members'' HP are still zero after ${number: 3} minute${choice-plurality: 3}[/s] ${number: 2} second${choice-plurality: 2}[/s], the party will be removed from the battlefield.${prompt}'
-  7577: 'If all party members'' HP are still zero after ${number: 3} minute${choice-plurality: 3}[/s], the party will be removed from the battlefield.${prompt}'
-  7578: What the hell is that number!? It's not possible!!!${prompt}
-  7579: 'Only ${number: 3} ${choice-plurality: 3}[member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.${prompt}'
-  7580: 'You are now able to summon ${choice: 2}[Ifrit/Titan/Leviathan/Garuda/Shiva/Ramuh].${prompt}'
-  7581: You do not meet the requirements to enter the battlefield with your party members. Access is denied.${prompt}
-  7582: The Shimmering Circle you are trying to enter differs from the one your party members have entered. Access is denied.${prompt}
-  7583: 'That record is held by ${number: 5} adventurers, including ${entity: 0}!'
-  7584: 'That record is held by ${entity: 0}!'
+    Tout le monde est tombé dans la salle E et ne peut pas se relever !
+    Quitte la salle E !${prompt}${prompt}
+  7576: 'Si les HP de tous les membres du groupe sont toujours à zéro après ${number: 3} minute${choice-plurality: 3}[/s] ${number: 2} seconde${choice-plurality: 2}[/s], le groupe sera retiré du champ de bataille.${prompt}'
+  7577: 'Si les HP de tous les membres du groupe sont toujours à zéro après ${number: 3} minute${choice-plurality: 3}[/s], le groupe sera retiré du champ de bataille.${prompt}'
+  7578: Quel est ce nombre de malheur !? Ce n'est pas possible !!!${prompt}
+  7579: 'Seul ${number: 3} ${choice-plurality: 3}[membre/membres] a/ont l’autorisation d’entrer sur le champ de bataille. Cette salle a atteint sa capacité maximale.${prompt}'
+  7580: 'Vous pouvez maintenant invoquer ${choice: 2}[Ifrit/Titan/Leviathan/Garuda/Shiva/Ramuh].${prompt}'
+  7581: Vous ne remplissez pas les conditions pour entrer sur le champ de bataille avec les membres de votre groupe. L’accès est refusé.${prompt}
+  7582: Le Cercle Scintillant que vous essayez d’entrer est différent de celui dans lequel vos membres de groupe sont entrés. L’accès est refusé.${prompt}
+  7583: 'Ce record est détenu par ${number: 5} aventuriers, y compris ${entity: 0}!'
+  7584: 'Ce record est détenu par ${entity: 0}!'
   7585: |-
-    Select difficulty.
+    Sélectionnez la difficulté.
     ${selection-lines}
-    Very difficult. (Level: ???)
-    Difficult. (Level: ???)
-    Normal. (Level: ${number: 18})
-    Easy. (Level: ${number: 17})
-    Very Easy. (Level: ${number: 16})
-    Leave.${prompt}
-  7586: 'Current difficulty level: ${choice: 2}[Normal/Very difficult/Difficult/Normal/Easy/Very easy].${prompt}'
-  7587: 'A malignant force escapes from your ${item-singular: 3[2]}.${prompt}'
-  7588: 'You are unable to enter the battlefield because ${choice: 0}[one or more of your party members does not have the job master designation/you do not have the job master designation].${prompt}'
-  7589: 'Your ${item-singular: 3[2]} is calling out to something...${prompt}'
-  7590: 'The ${item-singular: 0[2]} has a large crack running straight down the side.${prompt}'
-  7591: 'Something awakens owing to the presence of the ${item-singular: 3[2]}...${prompt}'
-  7592: 'The oath has been fulfilled owing to the power of your ${item-singular: 3[2]}.${prompt}'
-  7593: RETURNING TO BIND POINT. PRESS CONFIRM BUTTON.${prompt}
-  7594: There is no response. You cannot escape!${prompt}
-  7595: 'You have broken the clear time record for “${choice: 5}[The Rank 2 Final Mission/Steamed Sprouts/Divine Punishers/Saintly Invitation/Treasure and Tribulations/Shattering Stars (MNK)/Shattering Stars (WHM)/Shattering Stars (SMN)/Creeping Doom/Charming Trio/Harem Scarem/Early Bird Catches the Wyrm/Royal Succession/Rapid Raptors/Wild Wild Whiskers/Seasons Greetings/Royale Ramble/Moa Constrictors/The V Formation/Avian Apostates/Beyond Infinity/★Steamed Sprouts/★Divine Punishers/A Feast Most Dire/A.M.A.N. Trove (Mars)/A.M.A.N. Trove (Venus)/Inv. from Kupipi/Inv. from Kupipi and Co.]”!'
-  7596: 'The current battlefield clear time record for “${choice: 1}[The Rank 2 Final Mission/Steamed Sprouts/Divine Punishers/Saintly Invitation/Treasure and Tribulations/Shattering Stars (MNK)/Shattering Stars (WHM)/Shattering Stars (SMN)/Creeping Doom/Charming Trio/Harem Scarem/Early Bird Catches the Wyrm/Royal Succession/Rapid Raptors/Wild Wild Whiskers/Seasons Greetings/Royale Ramble/Moa Constrictors/The V Formation/Avian Apostates/Beyond Infinity/★Steamed Sprouts/★Divine Punishers/A Feast Most Dire/A.M.A.N. Trove (Mars)/A.M.A.N. Trove (Venus)/Inv. from Kupipi/Inv. from Kupipi and Co.]” is ${number: 3} second${choice-plurality: 3}[/s].'
-  7597: 'The current battlefield clear time record for “${choice: 1}[The Rank 2 Final Mission/Steamed Sprouts/Divine Punishers/Saintly Invitation/Treasure and Tribulations/Shattering Stars (MNK)/Shattering Stars (WHM)/Shattering Stars (SMN)/Creeping Doom/Charming Trio/Harem Scarem/Early Bird Catches the Wyrm/Royal Succession/Rapid Raptors/Wild Wild Whiskers/Seasons Greetings/Royale Ramble/Moa Constrictors/The V Formation/Avian Apostates/Beyond Infinity/★Steamed Sprouts/★Divine Punishers/A Feast Most Dire/A.M.A.N. Trove (Mars)/A.M.A.N. Trove (Venus)/Inv. from Kupipi/Inv. from Kupipi and Co.]” is ${number: 3} minute${choice-plurality: 3}[/s] ${number: 2} second${choice-plurality: 2}[/s].'
-  7598: 'Entering the battlefield for “${choice: 1}[The Rank 2 Final Mission/Steamed Sprouts/Divine Punishers/Saintly Invitation/Treasure and Tribulations/Shattering Stars (MNK)/Shattering Stars (WHM)/Shattering Stars (SMN)/Creeping Doom/Charming Trio/Harem Scarem/Early Bird Catches the Wyrm/Royal Succession/Rapid Raptors/Wild Wild Whiskers/Seasons Greetings/Royale Ramble/Moa Constrictors/The V Formation/Avian Apostates/Beyond Infinity/★Steamed Sprouts/★Divine Punishers/A Feast Most Dire/A.M.A.N. Trove (Mars)/A.M.A.N. Trove (Venus)/Inv. from Kupipi/Inv. from Kupipi and Co.]”!'
-  7599: |-
-    Which battlefield will you enter?
+    Très difficile. (Niveau : ???)
+    Difficile. (Niveau : ???)
+    Normal. (Niveau : ${number: 18})
+    Facile. (Niveau : ${number: 17})
+    Très facile. (Niveau : ${number: 16})
+    Quitter.${prompt}
+  7586: 'Niveau de difficulté actuel : ${choice: 2}[Normal/Très difficile/Difficile/Normal/Facile/Très facile].${prompt}'
+  7587: 'Une force maligne s’échappe de votre ${item-singular: 3[2]}.${prompt}'
+  7588: 'Vous ne pouvez pas entrer sur le champ de bataille car ${choice: 0}[un ou plusieurs membres de votre groupe n’ont pas la désignation de maître de classe / vous n’avez pas la désignation de maître de classe].${prompt}'
+  7589: 'Votre ${item-singular: 3[2]} appelle quelque chose...${prompt}'
+  7590: 'Le ${item-singular: 0[2]} a une grande fissure qui le traverse.${prompt}'
+  7591: 'Quelque chose s’éveille en raison de la présence du ${item-singular: 3[2]}...${prompt}'
+  7592: 'Le serment a été accompli grâce à la puissance de votre ${item-singular: 3[2]}.${prompt}'
+  7593: REVENIR AU POINT DE RETOUR. APPUYEZ SUR LE BOUTON CONFIRMER.${prompt}
+  7594: Il n’y a pas de réponse. Vous ne pouvez pas vous échapper!${prompt}
+  7595: 'Vous avez battu le record de temps clair pour «${choice: 5}[La Mission Finale de Rang 2/Pousses Vapeur/Punisseurs Divins/Invitation Sainte/Troubles et Tribulations/Étoiles Éclatantes (MNK)/Étoiles Éclatantes (WHM)/Étoiles Éclatantes (SMN)/Destin Rampant/Trio Charmant/Troupeau Sauvage/Oiseaux de Proie Rapides/Sauvages Moustaches/Meilleurs Vœux/Déambulation Royale/Constrictors de Moa/La Formation en V/The V Formation/Apostats Aviaires/Au-delà de l’Infini/★Pousses Vapeur/★Punisseurs Divins/Un Festin des plus Dires/Coffre A.M.A.N. (Mars)/Coffre A.M.A.N. (Vénus)/Inv. de Kupipi/Inv. de Kupipi et Cie.]»!'
+  7596: 'Le temps clair actuel sur le champ de bataille pour «${choice: 1}[La Mission Finale de Rang 2/Pousses Vapeur/Punisseurs Divins/Invitation Sainte/Troubles et Tribulations/Étoiles Éclatantes (MNK)/Étoiles Éclatantes (WHM)/Étoiles Éclatantes (SMN)/Destin Rampant/Trio Charmant/Troupeau Sauvage/Oiseaux de Proie Rapides/Sauvages Moustaches/Meilleurs Vœux/Déambulation Royale/Constrictors de Moa/La Formation en V/The V Formation/Apostats Aviaires/Au-delà de l’Infini/★Pousses Vapeur/★Punisseurs Divins/Un Festin des plus Dires/Coffre A.M.A.N. (Mars)/Coffre A.M.A.N. (Vénus)/Inv. de Kupipi/Inv. de Kupipi et Cie.]» est de ${number: 3} seconde${choice-plurality: 3}[/s].'
+  7597: 'Le temps clair actuel sur le champ de bataille pour «${choice: 1}[La Mission Finale de Rang 2/Pousses Vapeur/Punisseurs Divins/Invitation Sainte/Troubles et Tribulations/Étoiles Éclatantes (MNK)/Étoiles Éclatantes (WHM)/Étoiles Éclatantes (SMN)/Destin Rampant/Trio Charmant/Troupeau Sauvage/Oiseaux de Proie Rapides/Sauvages Moustaches/Meilleurs Vœux/Déambulation Royale/Constrictors de Moa/La Formation en V/The V Formation/Apostats Aviaires/Au-delà de l’Infini/★Pousses Vapeur/★Punisseurs Divins/Un Festin des plus Dires/Coffre A.M.A.N. (Mars)/Coffre A.M.A.N. (Vénus)/Inv. de Kupipi/Inv. de Kupipi et Cie.]» est de ${number: 3} minute${choice-plurality: 3}[/s] ${number: 2} seconde${choice-plurality: 2}[/s].'
+  7598: 'Entrée sur le champ de bataille pour «${choice: 1}[La Mission Finale de Rang 2/Pousses Vapeur/Punisseurs Divins/Invitation Sainte/Troubles et Tribulations/Étoiles Éclatantes (MNK)/Étoiles Éclatantes (WHM)/Étoiles Éclatantes (SMN)/Destin Rampant/Trio Charmant/Troupeau Sauvage/Oiseaux de Proie Rapides/Sauvages Moustaches/Meilleurs Vœux/Déambulation Royale/Constrictors de Moa/La Formation en V/The V Formation/Apostats Aviaires/Au-delà de l’Infini/★Pousses Vapeur/★Punisseurs Divins/Un Festin des plus Dires/Coffre A.M.A.N. (Mars)/Coffre A.M.A.N. (Vénus)/Inv. de Kupipi/Inv. de Kupipi et Cie.]»!'
+  7599: |
+    Dans quel champ de bataille allez-vous entrer ?
     ${selection-lines}
-    None.
-    The Rank 2 Final Mission.
-    Steamed Sprouts.
-    Divine Punishers.
-    Saintly Invitation.
-    Treasure and Tribulations.
-    Shattering Stars (MNK).
-    Shattering Stars (WHM).
-    Shattering Stars (SMN).
-    Creeping Doom.
-    Charming Trio.
-    Harem Scarem.
+    Aucun.
+    La Mission Finale de Rang 2.
+    Pousses Vapeur.
+    Punisseurs Divins.
+    Invitation Sainte.
+    Troubles et Tribulations.
+    Étoiles Éclatantes (MNK).
+    Étoiles Éclatantes (WHM).
+    Étoiles Éclatantes (SMN).
+    Destin Rampant.
+    Trio Charmant.
+    Troupeau Sauvage.
     Early Bird Catches the Wyrm.
     Royal Succession.
     Rapid Raptors.
-    Wild Wild Whiskers.
-    Seasons Greetings.
-    Royale Ramble.
-    Moa Constrictors.
-    The V Formation.
-    Avian Apostates.
-    Beyond Infinity.
-    ★Steamed Sprouts
-    ★Divine Punishers
-    A Feast Most Dire.
-    A.M.A.N. Trove (Mars).
-    A.M.A.N. Trove (Venus).
-    Inv. from Kupipi.
-    Inv. from Kupipi and Co.
+    Sauvages Moustaches.
+    Meilleurs Vœux.
+    Déambulation Royale.
+    Constrictors de Moa.
+    La Formation en V.
+    Apostats Aviaires.
+    Au-delà de l'Infini.
+    ★Pousses Vapeur.
+    ★Punisseurs Divins.
+    Un Festin des plus Dires.
+    Coffre A.M.A.N. (Mars).
+    Coffre A.M.A.N. (Vénus).
+    Inv. de Kupipi.
+    Inv. de Kupipi et Cie.
     .
     .
     .
     .
     ${prompt}
-  7600: CHANT EFFECT.${prompt}
-  7601: SUMMON EFFECT.${prompt}
-  7602: PRESS BUTTON TO PROCEED.${prompt}
+  7600: EFFET DE CHANT.${prompt}
+  7601: EFFET D'INVOCATION.${prompt}
+  7602: APPUYEZ SUR LE BOUTON POUR PROCÉDER.${prompt}
   7603: |-
-    BOSS ROOM DEBUG (*BATTLE ONLY)
+    DEBUG DE LA SALLE DU BOSS (*COMBAT UNIQUEMENT)
     ${selection-lines}
-    DO NOTHING.
-    UNLOCK BOSS ROOM.${prompt}
-  7604: BOSS ROOM UNLOCKED.${prompt}
+    NE RIEN FAIRE.
+    DÉVERROUILLER LA SALLE DU BOSS.${prompt}
+  7604: SALLE DU BOSS DÉVERROUILLÉE.${prompt}
   7605: |-
-    ★EVENT SKIP MENU
+    ★MENU DE SAUT D'ÉVÉNEMENT
     ${selection-lines}
-    DON'T SKIP.
-    DO SKIP.${prompt}
+    NE PAS SAUTER.
+    SAUTER.${prompt}
   7606: |-
-    Heh-heh-heh... I'm so glad you could come.
-    I didn't realize that little rumor I spread would be so effective.${prompt}
+    Heh-heh-heh... Je suis tellement content que vous soyez venus.
+    Je n'avais pas réalisé que la petite rumeur que j'ai propagée serait si efficace.${prompt}
   7607: |-
-    Yes, I'm the “ferocious monster” you were told about...
-    One who will rally the beastman hordes on a grand campaign to rid the world of you and your kind!${prompt}
+    Oui, je suis le “monstre féroce” dont on vous a parlé...
+    Celui qui ralliera les hordes de bêtes pour une grande campagne afin de débarrasser le monde de vous et de votre espèce!${prompt}
   7608: |-
-    The day of reckoning will come, and the beastmen will be the ones to rule this world!
-    Not that you'll be there to see it...${prompt}
-  7609: Because you'll already be dead!${prompt}
+    Le jour du jugement viendra, et ce seront les bêtes qui régneront sur ce monde!
+    Bien que vous ne soyez pas là pour le voir...${prompt}
+  7609: Parce que vous serez déjà morts!${prompt}
   7610: |-
-    Arise, Wyrm of Darkness, Devourer of Light!
-    I command you! Smite my enemies where they stand!${wait-animation: 2}
+    Lève-toi, Wyrm des Ténèbres, Dévoreur de Lumière!
+    Je te commande! Frappe mes ennemis là où ils se tiennent!${wait-animation: 2}
   7611: |-
-    “Rrrally the beastman hordes”?
-    Almost sounds as if you're planning to wage another Crystal War!${prompt}
-  7612: Heh-heh-heh. I see you catch on quick.${prompt}
+    “Rallier les hordes de bêtes”?
+    On dirait presque que vous envisagez de mener une autre Guerre des Cristaux!${prompt}
+  7612: Heh-heh-heh. Je vois que vous comprenez vite.${prompt}
   7613: |-
-    A spatial distorrrtion...?
-    This can only mean...!?${wait-animation: 1}
-  7614: A...a drrragon?${prompt}
+    Une distorsion spatiale...?
+    Cela ne peut signifier que...!?${wait-animation: 1}
+  7614: Un... un dragon?${prompt}
   7615: |-
-    Phew. Heh-heh...
-    I knew it couldn't have been old you-know-who.
-    I was getting carried away therrre.${prompt}
+    Ouf. Heh-heh...
+    Je savais que ça ne pouvait pas être l'ancien untel.
+    Je me laissais emporter là.${prompt}
   7616: |-
-    Hah! Is this all you can musterrr?
-    ...Your pet drrragon?${prompt}
+    Hah! Est-ce tout ce que vous pouvez rassembler?
+    ...Votre cher dragon?${prompt}
   7617: |-
-    Hm...? Here come the reinforrrcements.
-    Looks like they'll be able to handle this.
-    I have more pressing matters than dealing with the likes of these.
-    I'll leave it in theirrr hands.${prompt}
+    Hm...? Les renforts arrivent.
+    On dirait qu'ils pourront s'en occuper.
+    J'ai des affaires plus pressantes que de m'occuper de ce genre de choses.
+    Je leur laisse ça.${prompt}
   7618: |-
-    This...this cannot be!
-    Me, defeated...by these weaklings!?${prompt}
-  7619: Oops, I guess I missed the show.${prompt}
-  7620: Hey, wait a minute. This dragon...${prompt}
+    Ça... ça ne peut pas être!
+    Moi, vaincu... par ces faibles !?${prompt}
+  7619: Oups, j'ai dû rater le spectacle.${prompt}
+  7620: Hé, attends une minute. Ce dragon...${prompt}
   7621: |-
-    No doubt about it, it's a nether beast from the Northlands!
-    What's it doing here!?${prompt}
-  7622: Their kind haven't been seen ever since the Shadow Lord was destroyed and the Northlands sealed...${prompt}
-  7623: To see one here, with the beastmen, it's as if...${prompt}
+    Pas de doute, c'est une bête des enfers des Terres du Nord!
+    Qu'est-ce qu'elle fait ici !?${prompt}
+  7622: Leur espèce n'a pas été vue depuis que le Seigneur des Ombres a été détruit et que les Terres du Nord ont été scellées...${prompt}
+  7623: Voir l'un d'eux ici, avec les bêtes, c'est comme si...${prompt}
   7624: |-
-    The Shadow Lord will soon be brought back to this world.
-    I was merely making preparations for His return...${prompt}
+    Le Seigneur des Ombres va bientôt revenir dans ce monde.
+    Je préparais simplement Son retour...${prompt}
   7625: |-
-    What!?
-    Who are you!?${prompt}
+    Quoi !?
+    Qui êtes-vous !?${prompt}
   7626: |-
-    I am Searcher, a servant of the Shadow Lord.
-    The “Great Hero” that saved you twenty years ago is gone--none has the power to defeat Him now.${prompt}
-  7627: While your peoples were busy squabbling with each other, we have been preparing for His return.${prompt}
-  7628: And when He comes...He will destroy you all!${prompt}
+    Je suis Searcher, un serviteur du Seigneur des Ombres.
+    Le “Grand Héros” qui vous a sauvé il y a vingt ans est parti--personne n'a le pouvoir de Le vaincre maintenant.${prompt}
+  7627: Pendant que vos peuples se disputaient entre eux, nous nous préparions à Son retour.${prompt}
+  7628: Et quand Il viendra... Il vous détruira tous !${prompt}
   7629: |-
-    Enjoy your lives...while they last...
-    Foolish...weaklings... Hah hah...hah...
-    Eye-eye-e～ye...!${prompt}
+    Profitez de votre vie... tant qu'elle dure...
+    Fous... faibles... Hah hah...hah...
+    Yeux... yeux... yeux...!${prompt}
   7630: |-
-    The Shadow Lord...is coming back...
-    There's going to be another war...${prompt}
-  7631: Our days will be filled with hatred and sorrow once more...${prompt}
+    Le Seigneur des Ombres... revient...
+    Il va y avoir une autre guerre...${prompt}
+  7631: Nos jours seront à nouveau remplis de haine et de tristesse...${prompt}
   7632: |-
-    ${name-player}! You should head back to your country.
-    And don't forget to report what happened here!
-    If it's true the Shadow Lord is being resurrected, we can expect great trouble to follow!${prompt}
+    ${name-player} ! Tu devrais retourner dans ton pays.
+    Et n'oublie pas de rapporter ce qui s'est passé ici !
+    Si le Seigneur des Ombres est vraiment ressuscité, nous pouvons nous attendre à de grands ennuis !${prompt}
   7633: |-
-    I've got to get going.
-    I hope to see you around again someday, ${name-player}.${prompt}
-  7634: I am Kaa Toru the Just.${prompt}
+    Je dois y aller.
+    J'espère te revoir un jour, ${name-player}.${prompt}
+  7634: Je suis Kaa Toru le Juste.${prompt}
   7635: |-
-    Peace be.
-    By grace of the Yagudo Holy One and the Star Sibyl of Windurst, I be holding Balga Contest here today.${prompt}
-  7636: In south corner, representing Yagudo, we be having blademaster Buu Xolo the Bloodfaced.${prompt}
-  7637: In north corner, representing Windurst, we be having ${name-player} the Unremarkable.${prompt}
-  7638: Outcome of this battle will be affecting the “Windurstian offerings to Oztroja” clause of Windurst-Oztroja peace treaty.${prompt}
-  7639: Combatants, swear that you will be fighting with honor, kyah!${prompt}
-  7640: Victor is ${name-player} of Windurst.${prompt}
+    Que la paix soit avec vous.
+    Par la grâce du Saint Yagudo et de la Sibylle des Étoiles de Windurst, je vais tenir ici aujourd'hui le Concours de Balga.${prompt}
+  7636: Dans le coin sud, représentant les Yagudo, nous avons le maître d'armes Buu Xolo le Visage de Sang.${prompt}
+  7637: Dans le coin nord, représentant Windurst, nous avons ${name-player} l'Insignifiant.${prompt}
+  7638: Le résultat de cette bataille affectera la clause des “offrandes windurstiennes à Oztroja” du traité de paix Windurst-Oztroja.${prompt}
+  7639: Combattants, jurez que vous vous battrez avec honneur, kyah !${prompt}
+  7640: Le vainqueur est ${name-player} de Windurst.${prompt}
   7641: |-
-    ...Listen to me, smoothskin.
-    Take this ${keyitem-singular: 2[2]} to Castle Oztroja. There you can exchange it for the ${keyitem-singular: 1[2]}, an oath that be concerning the Windurst offerings to Oztroja.${prompt}
+    ...Écoutez-moi, peau lisse.
+    Prenez ce ${keyitem-singular: 2[2]} au château d'Oztroja. Là-bas, vous pouvez l'échanger contre le ${keyitem-singular: 1[2]}, un serment concernant les offrandes de Windurst à Oztroja.${prompt}
   7642: |-
-    Got it, quawk?
-    You be making your way to the top level of Castle Oztroja as fast as smoothskin two-legs can take you.${prompt}
-  7643: I now be closing the Balga Contest. Now flock off, kyah!${prompt}
+    Compris, quawk ?
+    Rendez-vous au niveau supérieur du château d'Oztroja aussi rapidement que vos jambes de lisse pourront vous y mener.${prompt}
+  7643: Je ferme maintenant le Concours de Balga. Maintenant, dispersez-vous, kyah !${prompt}
   7644: |-
-    So, you decided to show up.
-    Now it's time to see what you're really made of, heh heh heh.${prompt}
+    Alors, tu as décidé de te montrer.
+    Il est maintenant temps de voir de quoi tu es vraiment fait, heh heh heh.${prompt}
   7645: |-
-    Looks like you weren't ready for me, were you?
-    Now go home, wash your face, and come back when you think you've got what it takes.${prompt}
-  7646: Hm. That was a mighty fine display of skill there, ${name-player}. You've come a long way...${prompt}
-  7647: I'll teach you to respect your elders!${prompt}
-  7648: Take that, you whippersnapper!${prompt}
-  7649: Now that I'm warmed up...${prompt}
+    On dirait que tu n'étais pas prêt pour moi, n'est-ce pas ?
+    Maintenant rentre chez toi, lave-toi le visage et reviens quand tu penseras être à la hauteur.${prompt}
+  7646: Hm. C'était une très belle démonstration de compétences là, ${name-player}. Tu as parcouru un long chemin...${prompt}
+  7647: Je vais t'apprendre à respecter tes aînés !${prompt}
+  7648: Prends ça, morveux !${prompt}
+  7649: Maintenant que je suis échauffé...${prompt}
   7650: |-
     Ungh...
-    That'll hurt in the morning...${prompt}
-  7651: There is nothing out of the ordinary here.${prompt}
+    Ça va faire mal demain...${prompt}
+  7651: Il n'y a rien d'anormal ici.${prompt}
   7652: |-
-    You can hear a strange voice...
-    “Items, items, la la la la la～♪”${prompt}
+    Vous pouvez entendre une voix étrange...
+    "Objets, objets, la la la la la～♪"${prompt}
   7653: |-
-    Oh my Gob! You're one of those adventurerurers, aren't ya?
-    You got nothin' on me, ${choice-player-gender}[man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.${prompt}
+    Oh mon Gob ! Vous êtes un de ces aventuriers, n'est-ce pas ?
+    Tu n'as rien sur moi, ${choice-player-gender}[gars./dame.] Je faisais juste mes affaires, cherchant des trucs et des machins.${prompt}
   7654: |-
-    Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky!
-    Wait, how about you and me be friends instead? Sound good?${prompt}
-  7655: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.${prompt}
-  7656: Now, listen close...${prompt}
+    Hé, fais attention. Tu ne veux pas te battre contre moi. Je vais te transformer en viande séchée !
+    Attends, et si toi et moi on devenait amis à la place ? Ça te va ?${prompt}
+  7655: Je voyage partout dans le monde et j'entends plein d'histoires différentes. J'ai même entendu parler de toi. Je peux vous en raconter une, si vous voulez.${prompt}
+  7656: Maintenant, écoutez bien...${prompt}
   7657: |-
     Oh...
-    Well, if that's the case, I'm outta here.${prompt}
-  7658: The Goblin slipped away when you were not looking...${prompt}
-  7659: You can hear a strange, raspy voice...${prompt}
+    Eh bien, si c'est le cas, je m'en vais.${prompt}
+  7658: Le gobelin s'est échappé pendant que vous ne regardiez pas...${prompt}
+  7659: Vous pouvez entendre une voix étrange et rauque...${prompt}
   7660: |-
-    I travel......hear lots...
-    Hear...stories... Can tell...if...${prompt}
-  7661: '.........listen......${prompt}'
+    Je voyage......j'entends beaucoup...
+    J'entends...des histoires... Peut dire...si...${prompt}
+  7661: '.........écoutez......${prompt}'
   7662: |-
     Oh......
-    ...outta here.........${prompt}
+    ...je m'en vais.........${prompt}
   7663: |-
-    Do you want to hear a story?
+    Voulez-vous entendre une histoire ?
     ${selection-lines}
-    No, thank you.
-    Let's hear one.${prompt}
+    Non, merci.
+    Écoutons-en une.${prompt}
   7664: |-
-    What story would you like to be told?
+    Quelle histoire aimeriez-vous entendre ?
     ${selection-lines}
-    On second thought, maybe later.
-    The Rank 2 Final Mission(pt.1).
-    The Rank 2 Final Mission(pt.2).
-    Saintly Invitation(pt.1).
-    Saintly Invitation(pt.2).
-    Beyond Infinity(pt.1).
-    Beyond Infinity(pt.2).
-    　${prompt}
+    En y réfléchissant, peut-être plus tard.
+    La Mission Finale de Rang 2 (partie 1).
+    La Mission Finale de Rang 2 (partie 2).
+    Invitation Sainte (partie 1).
+    Invitation Sainte (partie 2).
+    Au-delà de l'Infini (partie 1).
+    Au-delà de l'Infini (partie 2).
+      ${prompt}
   7665: ${prompt}
   7666: ${prompt}
   7667: ${prompt}
-  7668: '${color-alt: 15}Macan Gadangan''s whiskers begin to twitch slightly.${prompt}'
-  7669: '${color-alt: 15}Macan Gadangan''s whiskers begin to twitch rapidly.${prompt}'
-  7670: '${color-alt: 15}Macan Gadangan''s whiskers begin to twitch wildly.${prompt}'
-  7671: '${color-alt: 15}Macan Gadangan''s whiskers begin to twitch violently.${prompt}'
-  7672: '${color-alt: 15}Macan Gadangan''s whiskers begin to twitch uncontrollably!${prompt}'
-  7673: 'The ${keyitem-singular: 1[2]} reacts to the ${keyitem-singular: 0[2]}, sending a jolt of energy through your veins!'
+  7668: '${color-alt: 15}Les moustaches de Macan Gadangan commencent à frétiller légèrement.${prompt}'
+  7669: '${color-alt: 15}Les moustaches de Macan Gadangan commencent à frétiller rapidement.${prompt}'
+  7670: '${color-alt: 15}Les moustaches de Macan Gadangan commencent à frétiller follement.${prompt}'
+  7671: '${color-alt: 15}Les moustaches de Macan Gadangan commencent à frétiller violemment.${prompt}'
+  7672: '${color-alt: 15}Les moustaches de Macan Gadangan commencent à frétiller de manière incontrôlable!${prompt}'
+  7673: 'Le ${keyitem-singular: 1[2]} réagit au ${keyitem-singular: 0[2]}, envoyant une décharge d’énergie à travers vos veines!'
   7674: |-
-    Splendid. I knew you wouldn't disappointaru me, ${name-player}.
-    Now, it's time you lived up to your end of our contract.${prompt}
+    Splendide. Je savais que vous ne me décevriez pas, ${name-player}.
+    Maintenant, il est temps que vous teniez votre part du contrat.${prompt}
   7675: Heeeee-yah!!!
-  7676: 'The ${keyitem-singular: 0[2]} dematerializes before your eyes!'
+  7676: 'Le ${keyitem-singular: 0[2]} se dématérialise sous vos yeux!'
   7677: |-
-    Phew... You're not such a pushover aftaru all.
-    I almost broke a sweat.${prompt}
+    Ouf... Vous n'êtes pas si facile à vaincre, finalement.
+    J'ai presque transpiré.${prompt}
   7678: |-
-    You still haven't realized?
-    The Atori-Tutori you defeated was merely a part of me.
-    Specifically-wifically speaking, my shadow.${prompt}
-  7679: 'To splitaru it from my physical body, I borrowed the energy of your little ${keyitem-singular: 0[2]}, you see.${prompt}'
+    Vous n'avez toujours pas compris ?
+    L'Atori-Tutori que vous avez vaincu n'était qu'une partie de moi.
+    Plus précisément, mon ombre.${prompt}
+  7679: 'Pour la séparer de mon corps physique, j’ai emprunté l’énergie de votre petit ${keyitem-singular: 0[2]}, vous voyez.${prompt}'
   7680: |-
-    No small task, I'll have you know!
-    Whew... I might need a nap after this one.${prompt}
+    Pas une mince affaire, je vous le dis !
+    Whew... J'aurais peut-être besoin d'une sieste après ça.${prompt}
   7681: |-
-    But hey, you got your training, and I got my first decent workout in years.
-    Everybody wins, rightaru?${prompt}
+    Mais bon, vous avez eu votre entraînement, et j'ai eu mon premier vrai entraînement depuis des années.
+    Tout le monde y gagne, non ?${prompt}
   7682: |-
-    That ${keyitem-singular: 0[2]} acts as a catalyst of sorts to bring my shadow to the fore.
-    Now you know, and knowing is half the battaru.${prompt}
+    Ce ${keyitem-singular: 0[2]} agit comme un catalyseur pour faire ressortir mon ombre.
+    Maintenant, vous savez, et savoir c'est déjà la moitié de la battaru.${prompt}
   7683: |-
-    What's that?
-    You want to fight me for real, you say?${prompt}
+    Qu'est-ce que c'est que ça ?
+    Tu veux vraiment te battre contre moi, tu dis ?${prompt}
   7684: |-
-    Trust me, ${name-player}.
-    You're bettaru off quitting while you're ahead.${prompt}
+    Fais-moi confiance, ${name-player}.
+    Tu ferais mieux de t'arrêter tant que tu es en avance.${prompt}
   7685: |-
-    Of course, one never knows.
-    Work your buttaru off for the next few centuries or so, and you just might have the faintest chance of maybe, possibly (if ever improbably) giving me a run for my gil.${prompt}
+    Bien sûr, on ne sait jamais.
+    Travaille dur pendant les prochains siècles ou quelque chose comme ça, et tu pourrais avoir la plus infime chance de peut-être, éventuellement (si jamais c'est improbable) me donner du fil à retordre pour mon gil.${prompt}
   7686: |-
-    ...But that's a challenge for another day.
-    And with that, I'm off. Ta-taru!${prompt}
+    ...Mais c'est un défi pour un autre jour.
+    Et avec ça, je m'en vais. Au revoir !${prompt}
   7687: |-
-    And don't forget, ${name-player}.
-    Our contract is still in effect.${prompt}
-  7688: Promise you won't go down too easy, okay?${prompt}
-  7689: Haha! I'm just getting warmed up!${prompt}
+    Et n'oublie pas, ${name-player}.
+    Notre contrat est toujours en vigueur.${prompt}
+  7688: Promets que tu ne vas pas te laisser faire trop facilement, d'accord ?${prompt}
+  7689: Haha ! Je suis juste en train de me réchauffer !${prompt}
   7690: |-
-    Hah! You pack more of a punch than I thoughtaru.
-    But I won't go down as easy as old Maat!${prompt}
+    Hah ! Tu as plus de punch que ce que je pensaisaru.
+    Mais je ne vais pas me laisser faire aussi facilement qu'old Maat !${prompt}
   7691: |-
-    What's this strange feeling...?
-    It's not supposed to end...like...${prompt}
+    Qu'est-ce que ce drôle de sentiment... ?
+    Ça ne devrait pas finir... comme... ça...${prompt}
   7692: |-
-    Huh? Is that all?
-    I haven't even broken a sweataru...${prompt}
+    Hein ? C'est tout ?
+    Je n'ai même pas transpiré un peu...${prompt}
   7693: |-
-    Yikey-wikeys!
-    Get that thing away from meee!${prompt}
+    Yikey-wikeys !
+    Éloigne-moi ça de moi !${prompt}
   7694: |-
-    <Pant, wheeze>... What's the mattaru, ${name-player}?
-    Too much of a pansy-wansy to fight fair?${prompt}
-  7695: The fantastic feast has begun! Stock your stomach with stupendous sweets, and enjoy it to the last!${prompt}
-  7696: The fantastic feast has finished! I hope you had a hopping-good time, and we want you to wamble your way to the next one!${prompt}
-  7697: '${choice: 2}[You/Owing to the effects of treasure hunter, you] receive ${number: 0} fortune favor${choice-plurality: 0}[/s] for a total of ${number: 1}!${prompt}'
+    <Haleter, souffler>... Quel est le problème, ${name-player} ?
+    Trop peur de te battre loyalement ?${prompt}
+  7695: Le festin fantastique a commencé ! Remplissez votre estomac de sucreries stupéfiantes et profitez-en jusqu'au bout !${prompt}
+  7696: Le festin fantastique est terminé ! J'espère que vous avez passé un moment formidable, et nous vous invitons à vous diriger vers le prochain !${prompt}
+  7697: '${choice: 2}[Vous/En raison des effets du chasseur de trésors, vous] recevez ${number: 0} faveur${choice-plurality: 0} de la fortune pour un total de ${number: 1} !${prompt}'
   7698: '${number: 0}<${number: 1}.${prompt}'
-  7699: '${color-alt: 121}You hear a loud thud, as if a large amount of spoils spontaneously appeared.${prompt}'
-  7700: '${color-alt: 121}You hear a thud, as if a large amount of spoils spontaneously appeared.${prompt}'
-  7701: '${color-alt: 121}You hear a noise, as if a large amount of spoils spontaneously appeared.${prompt}'
-  7702: 'You receive ${number: 0} gil as a bonus reward!'
-  7703: '${color-alt: 121}You hear a belligerent bang from one of the remaining treasure chests.${prompt}'
-  7704: Let us see just how capable in battle you truly are.${prompt}
-  7705: I find your prowess to be most impressive. I shall happily welcome you as a Conflict combatant.${prompt}
-  7706: I'm Mythril Musketeer Number 5! You're about to see why I'm the best around!${prompt}
-  7707: You've got the touch, Adventurer! Please, don't tell Ayame that I was bested...${prompt}
-  7708: How dare you keep-weep the great Kupipi waiting! Hit me with your best shot!${prompt}
-  7709: You're a real to～ugh cookie. That's okay, see if I care.${prompt}
+  7699: '${color-alt: 121}Vous entendez un bruit sourd, comme si une grande quantité de butin apparaissait spontanément.${prompt}'
+  7700: '${color-alt: 121}Vous entendez un bruit sourd, comme si une grande quantité de butin apparaissait spontanément.${prompt}'
+  7701: '${color-alt: 121}Vous entendez un bruit, comme si une grande quantité de butin apparaissait spontanément.${prompt}'
+  7702: 'Vous recevez ${number: 0} gils comme récompense bonus !'
+  7703: '${color-alt: 121}Vous entendez un bruit belligérant provenant d’un des coffres au trésor restants.${prompt}'
+  7704: Voyons voir à quel point tu es capable en combat.${prompt}
+  7705: Je trouve ta prouesse très impressionnante. Je te souhaite la bienvenue en tant que combattant du conflit.${prompt}
+  7706: Je suis le Mousquetaire de Mythril Numéro 5 ! Tu vas voir pourquoi je suis le meilleur !${prompt}
+  7707: Tu as le coup de main, Aventurier ! S'il te plaît, ne dis pas à Ayame que j'ai été battu...${prompt}
+  7708: Comment oses-tu faire attendre la grande Kupipi ! Donne-moi tout ce que tu as !${prompt}
+  7709: Tu es vraiment un dur à cuire. C'est bon, fais comme tu veux.${prompt}
