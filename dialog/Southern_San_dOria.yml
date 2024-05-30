@@ -23274,9 +23274,9 @@ entries:
     Désolé, mais je ne distribuerai pas de récompense cette fois-ci, kupo.${prompt}
   10309: Mon sac est rempli de goodies pour les aventuriers serviables comme vous ! Choisissez ce qui vous plaît !${prompt}
   10310: |-
-    Which item would you like?
+    Quel objet désirez-vous ?
     ${selection-lines}
-    Let me think.
+    Laissez-moi réfléchir.
     ${lettercase: 1}${article} ${item-article: 1[2]}.
     ${lettercase: 1}${article} ${item-article: 2[2]}.
     ${lettercase: 1}${article} ${item-article: 3[2]}.
@@ -23293,61 +23293,61 @@ entries:
     ${lettercase: 1}${article} ${item-article: 14[2]}.
     ${lettercase: 1}${article} ${item-article: 15[2]}.
     ${lettercase: 1}${article} ${item-article: 16[2]}.
-    ${lettercase: 1}${article} ${item-article: 17[2]}.${prompt}
-  10311: Are you absolutely sure, kupo?${prompt}
+    ${lettercase: 1}${article} ${item-article: 17[2]}.
+  10311: Êtes-vous absolument sûr, kupo ?${prompt}
   10312: |-
-    You really want ${article} ${item-article: 0[2]}?
+    Vous voulez vraiment ${article} ${item-article: 0[2]} ?
     ${selection-lines}
-    Yes, that's the one!
-    On second thought...${prompt}
-  10313: You must wait a bit longer to try again, kupo.${prompt}
-  10314: You have to throw away all of your chocolates before playing again, kupo! It might seem a waste, but a rule is a rule!${prompt}
+    Oui, c'est celui-là !
+    En y réfléchissant...${prompt}
+  10313: Vous devez attendre un peu plus longtemps pour réessayer, kupo.${prompt}
+  10314: Vous devez jeter tous vos chocolats avant de jouer à nouveau, kupo ! Cela peut sembler être du gaspillage, mais une règle est une règle !${prompt}
   10315: |-
-    Oh, I've been waiting for this moment!
-    You'll help me find my perfect woman, right? Wow, thank you!!!${prompt}
+    Oh, j'attendais ce moment avec impatience !
+    Vous allez m'aider à trouver la femme parfaite, n'est-ce pas ? Wow, merci !!!${prompt}
   10316: |-
-    I really like ${choice: 2}[cheerful/kind/shy/modest] ${choice: 3}[Humes/Elvaan/Tarutaru/Mithra]! They're fantastic!
-    Here's a piece of chocolate. I hope you bring back the best chocolate ever! Good luck!${prompt}
+    J'aime vraiment les ${choice: 2}[joyeux/gentils/timides/modestes] ${choice: 3}[Humes/Elvaan/Tarutaru/Mithra] ! Ils sont fantastiques !
+    Voici un morceau de chocolat. J'espère que vous ramènerez le meilleur chocolat qui soit ! Bonne chance !${prompt}
   10317: |-
-    You still haven't brought any chocolate?
-    I've been waiting so long for this, so hurry up!${prompt}
+    Vous n'avez toujours pas apporté de chocolat ?
+    J'attendais depuis si longtemps, alors dépêchez-vous !${prompt}
   10318: |-
-    Hey, what do you want?
-    You could go see a moogle or something!${prompt}
+    Hé, qu'est-ce que vous voulez ?
+    Vous pourriez aller voir un moogle ou quelque chose comme ça !${prompt}
   10319: |-
     <gasp>!
-    Y-you brought me a chocolate!
-    I'm going to savor its delicate flavor...and then I'll let you know what I think! Thank you!${prompt}
-  10320: Hey. I heard you're playing the matchmaker around here.${prompt}
-  10321: 'Hmph, guess I might as well let you know my type. I like ${choice: 3}[Humes/Elvaan/Tarutaru/Mithra], and I like ''em ${choice: 2}[cheerful/kind/shy/modest]. I leave this chocolate, and my future, in your hands. Well, go on. Get on with it.${prompt}'
+    V-vous m'avez apporté un chocolat !
+    Je vais savourer sa saveur délicate... et ensuite je vous dirai ce que j'en pense ! Merci !${prompt}
+  10320: Hé. J'ai entendu dire que vous jouiez les entremetteurs par ici.${prompt}
+  10321: 'Hmph, je suppose que je pourrais vous dire quel est mon type. J’aime les ${choice: 3}[Humes/Elvaan/Tarutaru/Mithra], et je les aime ${choice: 2}[joyeux/gentils/timides/modestes]. Je laisse ce chocolat, et mon futur, entre vos mains. Bon, allez-y. Allez-y. Allez-y. Allez-y.${prompt}'
   10322: |-
-    What? Still...?
-    Oh well, keep it up. Looking forward to the results.${prompt}
+    Quoi ? Encore... ?
+    Eh bien, continuez comme ça. J'attends avec impatience les résultats.${prompt}
   10323: |-
-    What do you want?
-    I don't think I know you.${prompt}
+    Que veux-tu ?
+    Je ne pense pas te connaître.${prompt}
   10324: |-
-    Well, you were able to get a finished chocolate after all.
-    I need some time to think, though. After all, this could determine my future, so I will taste it later. Thank you.${prompt}
+    Eh bien, tu as quand même réussi à obtenir un chocolat fini.
+    J'ai besoin de temps pour réfléchir, cependant. Après tout, cela pourrait déterminer mon avenir, donc je le goûterai plus tard. Merci.${prompt}
   10325: |-
-    I have been waiting all my life for this!
-    You'll match me up with a girl, right? Wow! Me and a girl, together! Imagine!${prompt}
-  10326: 'Oh, oh, let''s see...I''ll tell you exactly what I want! I want a ${choice: 2}[cheerful/kind/shy/modest] ${choice: 3}[Hume/Elvaan/Tarutaru/Mithra]! She also must cook things like steamed catfish every night, love watching Ballista, and have an interest in airship mechanics...er, ignore those last few requests. Anyway, here''s some chocolate! Go get me a woman!${prompt}'
-  10327: Oh wow, thanks for doing this for me! I can't wait for my chocolate!${prompt}
-  10328: What? What do you need? Nothing? Okay, then!${prompt}
+    J'attendais cela toute ma vie !
+    Tu vas me caser avec une fille, n'est-ce pas ? Wow ! Moi et une fille, ensemble ! Imagine !${prompt}
+  10326: 'Oh, oh, voyons voir... Je vais te dire exactement ce que je veux ! Je veux une ${choice: 2}[joyeuse/gentille/timide/modeste] ${choice: 3}[Hume/Elvaan/Tarutaru/Mithra] ! Elle doit aussi cuisiner des choses comme du poisson-chat cuit à la vapeur tous les soirs, aimer regarder le Ballista, et s’intéresser à la mécanique des aéronefs... euh, ignore ces dernières demandes. Quoi qu’il en soit, voici du chocolat ! Trouve-moi une femme !${prompt}'
+  10327: Oh wow, merci d'avoir fait ça pour moi ! J'ai hâte de goûter mon chocolat !${prompt}
+  10328: Quoi ? De quoi as-tu besoin ? Rien ? D'accord, alors !${prompt}
   10329: |-
-    Wooow, you really got a chocolate for me!
-    I'll let you know how it tastes later! Oh, thank you, thank you! I hope you can get a real, live ${choice-player-gender}[girlfriend/boyfriend] someday, too!${prompt}
+    Wooow, tu as vraiment eu un chocolat pour moi !
+    Je te dirai comment il goûte plus tard ! Oh, merci, merci ! J'espère que tu pourras avoir un vrai ${choice-player-gender}[petit ami/petite amie] un jour, toi aussi !${prompt}
   10330: |-
-    N-no way!
-    I can meet...a woman? One that...likes me!? ...Oh, wow!${prompt}
+    N-non, impossible !
+    Je peux rencontrer... une femme ? Une qui... m'aime !? ...Oh, wow !${prompt}
   10331: |-
-    Okay, okay...I'm going to tell you my type. Let's see...I'd like an, um...ack, this is so embarrassing. I'd like a ${choice: 2}[cheerful/kind/shy/modest] ${choice: 3}[Hume/Elvaan/Tarutaru/Mithra]! Y-yes, that's my order! (Oops...maybe I went too far just now...)
-    Anyway, h-here's a chocolate!${prompt}
+    D'accord, d'accord... Je vais te dire mon type. Voyons voir... J'aimerais une, euh... aah, c'est tellement embarrassant. J'aimerais une ${choice: 2}[joyeuse/gentille/timide/modeste] ${choice:3}[Hume/Elvaan/Tarutaru/Mithra] ! O-oui, c'est ma commande ! (Oops... peut-être que j'ai été trop loin juste maintenant...)
+    Quoi qu'il en soit, v-voici un chocolat !${prompt}
   10332: |-
-    Ahhh!
-    By Altana, you scared me!
-    Not finished yet? O-oh, I'm sorry!${prompt}
+    Ahhh !
+    Par Altana, tu m'as fait peur !
+    Pas encore terminé ? O-oh, je suis désolé !${prompt}
   10333: |-
     What!?
     ...Oh, you want something? I-I'm fine!${prompt}
@@ -23501,45 +23501,45 @@ entries:
   10390: 'Vous obtenez ${number: 4} ${item-given-plurality: 4[2], 0[2]}, ${number: 4} ${item-given-plurality: 4[2], 1[2]}, ${number: 4} ${item-given-plurality: 4[2], 2[2]}, et ${number: 4} ${item-given-plurality: 4[2], 3[2]} !${prompt}'
   10391: |-
     Kupopopo～!
-    This is terrible!
-    Sneaky scoundrels have swiped the armor we brought in for the Feast of Swords, kupo!${prompt}
-  10392: The villains wearing the armor are invulnerable to normal weapons! And as if that wasn't enough, they're surrounded by a powerful aura that prevents them from being attacked at all, kupo!${prompt}
+    C'est terrible !
+    Des bandits sournois ont volé les armures que nous avons apportées pour la Fête des Épées, kupo !${prompt}
+  10392: Les mécréants portant ces armures sont invulnérables aux armes normales ! Et comme si cela ne suffisait pas, ils sont entourés d'une aura puissante qui les rend totalement invincibles, kupo !${prompt}
   10393: |-
-    But never fear!
-    Our top moogle researchers have created a weapon that can injure these armor-thieving hooligans!
-    Behold the wondrous ${item-singular: 0[2]}, kupo!${prompt}
-  10394: The nomad moogles have also developed a magic that will annul that anti-attack aura, so be sure to pay them a visit while wearing the weapon before you engage the enemy, kupo.${prompt}
-  10395: But be warned--this magic has the side-effect of preventing you from attacking any other monster for three whole days, kupo!${prompt}
+    Mais ne vous inquiétez pas !
+    Nos meilleurs chercheurs moogle ont créé une arme capable de blesser ces voyous voleurs d'armures !
+    Voici le merveilleux ${item-singular: 0[2]}, kupo !${prompt}
+  10394: Les moogles nomades ont également développé une magie qui annulera cette aura anti-attaque, alors assurez-vous de leur rendre visite tout en portant l'arme avant d'affronter l'ennemi, kupo.${prompt}
+  10395: Mais attention - cette magie a pour effet secondaire de vous empêcher d'attaquer tout autre monstre pendant trois jours entiers, kupo !${prompt}
   10396: |-
-    Here's your ${item-singular: 0[2]}.
-    Now you're ready to do battle, kupo!${prompt}
-  10397: 'If you want to cross swords with the invincible interlopers, equip the ${item-singular: 0[2]} and talk to a nomad moogle, kupo!${prompt}'
+    Voici votre ${item-singular: 0[2]}.
+    Vous êtes maintenant prêt à combattre, kupo !${prompt}
+  10397: 'Si vous souhaitez croiser le fer avec les intrus invincibles, équipez le ${item-singular: 0[2]} et parlez à un moogle nomade, kupo !${prompt}'
   10398: |-
-    Kupopo!
-    The Sunbreeze Festival's main event is back and better than ever!${prompt}
-  10399: And this time, it's called Azimuth Circle...II!${prompt}
-  10400: Would you like to know more, kupo?${prompt}
+    Kupopo !
+    L'événement principal du Festival de la Brise Solaire est de retour et meilleur que jamais !${prompt}
+  10399: Et cette fois, il s'appelle Cercle d'Azimut... II !${prompt}
+  10400: Voulez-vous en savoir plus, kupo ?${prompt}
   10401: |-
-    Want to know more?
+    Vous voulez en savoir plus ?
     ${selection-lines}
-    Fill me in!
-    I'm okay for now, kupo.${prompt}
-  10402: To play Azimuth Circle II, you'll need to team up with a partner and use a compass to search for a specific point.${prompt}
-  10403: So your first step is to find that special somebody and form a party!${prompt}
-  10404: Then talk to an event moogle, and we'll send you both out of town, kupo!${prompt}
-  10405: We've set up several checkpoints outside.${prompt}
-  10406: The goal is to find the correct one, kupo!${prompt}
-  10407: What's that? You want a hint to help you find your checkpoint? Never fear, kupo--that's where Azima's portable compass comes in!${prompt}
-  10408: And it couldn't be easier to use! All the adventurers have to do is sit there and wait!${prompt}
-  10409: Once the compass has stabilized, it will give you a hint to help you find your partner's checkpoint, kupo.${prompt}
-  10410: But be careful not to relax too much! Just sitting there staring at the clouds won't help you at all, kupo. You have to concentrate the way you do when healing your wounds!${prompt}
-  10411: And keep in mind that you will only learn about your partner's checkpoint.${prompt}
-  10412: So help each other out and nothing should go wrong!${prompt}
-  10413: Once you reach your checkpoint, you should find something buried there that will prove that you made it! You and your partner should trade your items with each other and then hand them to a moogle, kupo!${prompt}
-  10414: That's all there is to it, kupo! You'll get a prize if you succeed, so I hope you do well!${prompt}
-  10415: You'll need a partner, so come back when you have one!${prompt}
-  10416: Three makes a crowd, kupo! I'm looking for parties of two, and no more!${prompt}
-  10417: Do you want to go outside and try the event with the person you're in a party with now?${prompt}
+    Dites-moi tout !
+    Ça ira pour le moment, kupo.${prompt}
+  10402: Pour jouer à Azimuth Circle II, vous devrez vous associer à un partenaire et utiliser une boussole pour rechercher un point spécifique.${prompt}
+  10403: Votre première étape est donc de trouver cette personne spéciale et de former une équipe !${prompt}
+  10404: Ensuite, parlez à un moogle événementiel, et nous vous enverrons tous les deux hors de la ville, kupo !${prompt}
+  10405: Nous avons mis en place plusieurs points de contrôle à l'extérieur.${prompt}
+  10406: L'objectif est de trouver le bon, kupo !${prompt}
+  10407: Quoi ? Vous voulez un indice pour vous aider à trouver votre point de contrôle ? Ne vous inquiétez pas, kupo - c'est là qu'intervient la boussole portable d'Azima !${prompt}
+  10408: Et son utilisation est des plus simples ! Tout ce que les aventuriers ont à faire, c'est s'asseoir et attendre !${prompt}
+  10409: Une fois que la boussole s'est stabilisée, elle vous donnera un indice pour vous aider à trouver le point de contrôle de votre partenaire, kupo.${prompt}
+  10410: Mais attention à ne pas trop vous détendre ! Rester assis là à regarder les nuages ne vous aidera pas du tout, kupo. Vous devez vous concentrer comme lorsque vous soignez vos blessures !${prompt}
+  10411: Et gardez à l'esprit que vous ne connaîtrez que le point de contrôle de votre partenaire.${prompt}
+  10412: Aidez-vous mutuellement et rien ne devrait mal tourner !${prompt}
+  10413: Une fois que vous avez atteint votre point de contrôle, vous devriez y trouver quelque chose de enterré qui prouvera que vous y êtes arrivé ! Vous et votre partenaire devriez échanger vos objets et ensuite les remettre à un moogle, kupo !${prompt}
+  10414: C'est tout ce qu'il y a à faire, kupo ! Vous recevrez un prix si vous réussissez, alors j'espère que vous réussirez !${prompt}
+  10415: Vous aurez besoin d'un partenaire, alors revenez quand vous en aurez un !${prompt}
+  10416: Trois, c'est une foule, kupo ! Je recherche des groupes de deux personnes, et pas plus !${prompt}
+  10417: Voulez-vous sortir et essayer l'événement avec la personne avec laquelle vous êtes actuellement en groupe ?${prompt}
   10418: |-
     Is this partner okay with you?
     ${selection-lines}
@@ -37258,109 +37258,109 @@ entries:
     ${selection-lines}
     Yes. (${number: 33} mandy)
     No.${prompt}
-  16643: I show book that tells how to play!${prompt}
-  16644: '${color-alt: 151}--- Game ${number: 0} (${number: 1}W-${number: 2}L) ---'
-  16645: '${color-alt: 151}★☆★${choice: 0}[Adenium/Citrullus] bonus active! (${number: 1}x mandy)★☆★'
+  16643: J'ai un livre qui explique comment jouer !${prompt}
+  16644: '${color-alt: 151}--- Partie ${number: 0} (${number: 1}V-${number: 2}D) ---'
+  16645: '${color-alt: 151}★☆★${choice: 0}[Adenium/Citrullus] bonus actif ! (${number: 1}x mandy)★☆★'
   16646: |-
-    Place on which area?
+    Placer sur quelle zone ?
     ${selection-lines}
-    Area 1.
-    Area 2.
-    Area 3.
-    Area 4.
-    Area 5.
-    Area 6.
-    Area 7.
-    Area 8.
-    Area 9.
-    Area 10.
-    Area 11.
-    Area 12.
-    Area 13.
-    Area 14.
-    Area 15.
-    Area 16.
-    Pass.${prompt}
-  16647: '${color-alt: 123}There is already a piece in this location.'
-  16648: '${color-alt: 123}You will forfeit all mandy earned this game if you give up. Are you sure?'
+    Zone 1.
+    Zone 2.
+    Zone 3.
+    Zone 4.
+    Zone 5.
+    Zone 6.
+    Zone 7.
+    Zone 8.
+    Zone 9.
+    Zone 10.
+    Zone 11.
+    Zone 12.
+    Zone 13.
+    Zone 14.
+    Zone 15.
+    Zone 16.
+    Passer.${prompt}
+  16647: '${color-alt: 123}Il y a déjà une pièce à cet emplacement.'
+  16648: '${color-alt: 123}Vous perdrez tous les mandy gagnés dans cette partie si vous abandonnez. Êtes-vous sûr ?'
   16649: |-
-    Really give up?
+    Voulez-vous vraiment abandonner ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  16650: '${color-alt: 151}Game ${number: 0} Complete!'
-  16651: '${color-alt: 151}　　${choice: 0}[Victory!/Defeat!] - You receive ${number: 1} mandy for a total of ${number: 2}.'
-  16652: '${color-alt: 151}　 Draw! (restart from Game ${number: 0})'
-  16653: '${color-alt: 151}　 With a record of ${number: 1}W and ${number: 2}L, you ${choice: 0}[win!/lose!]'
-  16654: '${color-alt: 151}  You receive ${number: 0} mandy for a total of ${number: 1}.'
-  16655: '${color-alt: 123}You have reached the mandy cap of ${number: 0}. Any additional mandy will be lost.'
-  16656: '${color-alt: 151}A new opponent joins the fray!'
-  16657: '${color-alt: 151}You are now able to select a random opponent.'
-  16658: '${color-alt: 151}New prizes are available!'
-  16659: '${color-alt: 123}An error has occurred. Please try again.'
-  16660: '${color-alt: 200}DEBUG：${choice: 0}[Bonus Game Log/NPC Selection Controls/NPC Move Log/Specific Placement Confirmation 1 Log/Corners Log/Specific Placement Confirmation 2 Log] > ${choice: 3}[OFF/ON]'
+    Oui.
+    Non.${prompt}
+  16650: '${color-alt: 151}Partie ${number: 0} terminée !'
+  16651: '${color-alt: 151}  ${choice: 0}[Victoire!/Défaite!] - Vous recevez ${number: 1} mandy, pour un total de ${number: 2}.'
+  16652: '${color-alt: 151}  Match nul ! (redémarrage à partir de la partie ${number: 0})'
+  16653: '${color-alt: 151}  Avec un bilan de ${number: 1} victoire(s) et ${number: 2} défaite(s), vous ${choice: 0}[gagnez !/perdez !]'
+  16654: '${color-alt: 151}  Vous recevez ${number: 0} mandy, pour un total de ${number: 1}.'
+  16655: '${color-alt: 123}Vous avez atteint le plafond de mandy de ${number: 0}. Tout mandy supplémentaire sera perdu.'
+  16656: '${color-alt: 151}Un nouvel adversaire se joint à la bataille !'
+  16657: '${color-alt: 151}Vous pouvez maintenant choisir un adversaire aléatoire.'
+  16658: '${color-alt: 151}De nouveaux prix sont disponibles !'
+  16659: '${color-alt: 123}Une erreur s’est produite. Veuillez réessayer.'
+  16660: '${color-alt: 200}DEBUG : ${choice: 0}[Journal des jeux bonus/Contrôles de sélection NPC/Journal de mouvements NPC/Journal de confirmation de placement spécifique 1/Log des coins/Journal de confirmation de placement spécifique 2] > ${choice: 3}[DÉSACTIVÉ/ACTIVÉ]'
   16661: |-
-    ≪DEBUG≫Place on which area?
+    ≪DEBUG≫Placer sur quelle zone ?
     ${selection-lines}
-    Area 1.
-    Area 2.
-    Area 3.
-    Area 4.
-    Area 5.
-    Area 6.
-    Area 7.
-    Area 8.
-    Area 9.
-    Area 10.
-    Area 11.
-    Area 12.
-    Area 13.
-    Area 14.
-    Area 15.
-    Area 16.
-    Pass.${prompt}
-  16662: '${color-alt: 200}DEBUG(NPC Selection): Area ${number: 0} '
-  16663: '${color-alt: 200}RANDOM (${choice: 0}[Bonus Game Selection/Four Corners Selection]): 0-${number: 1} = ${number: 2}'
-  16664: '${color-alt: 200}DEBUG (Specific Placement Confirmation ${number: 3}): Area ${number: 0} > ${choice: 1}[A/B/C/D/E/F/G/H]${number: 2}'
+    Zone 1.
+    Zone 2.
+    Zone 3.
+    Zone 4.
+    Zone 5.
+    Zone 6.
+    Zone 7.
+    Zone 8.
+    Zone 9.
+    Zone 10.
+    Zone 11.
+    Zone 12.
+    Zone 13.
+    Zone 14.
+    Zone 15.
+    Zone 16.
+    Passer.${prompt}
+  16662: '${color-alt: 200}DEBUG(Sélection NPC) : Zone ${number: 0} '
+  16663: '${color-alt: 200}ALÉATOIRE (${choice: 0}[Sélection du jeu bonus/Sélection des quatre coins]) : 0-${number: 1} = ${number: 2}'
+  16664: '${color-alt: 200}DEBUG (Confirmation de placement spécifique ${number: 3}) : Zone ${number: 0} > ${choice: 1}[A/B/C/D/E/F/G/H]${number: 2}'
   16665: '${color-alt: 200}${number: 0} ${number: 1} ${number: 2} ${number: 3}'
-  16666: This is an explanation of the Assist Channel feature, which allows new and returning players to seek help from veteran adventurers.${prompt}
-  16667: 'You must take on the “${unknown: 0x01054082808080}” Records of Eminence objective before receiving the explanation.${prompt}'
-  16668: 'You must complete “${unknown: 0x01054082818080}” before taking on the “${unknown: 0x01054082808080}” Records of Eminence objective.${prompt}'
+  16666: Ceci est une explication de la fonctionnalité du Canal d'Assistance, qui permet aux nouveaux joueurs et aux joueurs de retour de demander de l'aide aux aventuriers vétérans.${prompt}
+  16667: 'Vous devez entreprendre l’objectif "Records of Eminence" ${unknown: 0x01054082808080} avant de recevoir l’explication.${prompt}'
+  16668: 'Vous devez terminer "${unknown: 0x01054082818080}" avant d’entreprendre l’objectif "Records of Eminence" ${unknown: 0x01054082808080}.${prompt}'
   16669: |-
-    What do you want to learn about?
+    Que souhaitez-vous apprendre ?
     ${selection-lines}
-    What is the Assist Channel?
-    How can I post a message?
-    What are the requirements?
-    Where can I access it?
-    Tell me about mentor messages.
-    Where can I find mentors?
-    What are Thumbs Up and Warnings?
-    What happens if I am muted?
-    When do my posting rights expire?
-    Nothing for now.${prompt}
-  16670: The Assist Channel is a special chat channel that allows adventurers to ask questions and receive advice from veteran players known as mentors.${prompt}
-  16671: Press the space bar to bring up the text window at the bottom of the screen and type “/assistj (your message)” or “/assiste (your message)” to post your message.${prompt}
-  16672: You can also use “/aj” for “/assistj”, and “/ae” for “/assiste”.${prompt}
-  16673: Additionally, pressing CTRL+Q will display “/assistj” or “/assiste” in the text window for you.${prompt}
-  16674: You can change the CTRL+Q shortcut command...${prompt}
-  16675: '...by going to Main Menu > Config > Misc. 2 > Key Assignment > Commands > Chat: /AssistE or /AssistJ.${prompt}'
-  16676: It is recommended that you use “/assistj (/aj)” when posting in Japanese, and “/assiste (/ae)” when posting in English.${prompt}
-  16677: You must meet one of the following conditions in order to post to the Assist Channel.${prompt}
+    Qu'est-ce que le Canal d'Assistance ?
+    Comment puis-je envoyer un message ?
+    Quels sont les prérequis ?
+    Où puis-je y accéder ?
+    Parlez-moi des messages des mentors.
+    Où puis-je trouver des mentors ?
+    Quels sont les pouces en l'air et les avertissements ?
+    Que se passe-t-il si je suis muet ?
+    Quand mes droits de publication expirent-ils ?
+    Rien pour le moment.${prompt}
+  16670: Le Canal d'Assistance est un canal de discussion spécial qui permet aux aventuriers de poser des questions et de recevoir des conseils de joueurs vétérans appelés mentors.${prompt}
+  16671: Appuyez sur la barre d'espace pour ouvrir la fenêtre de texte en bas de l'écran et saisissez "/assistj (votre message)" ou "/assiste (votre message)" pour envoyer votre message.${prompt}
+  16672: Vous pouvez également utiliser "/aj" pour "/assistj", et "/ae" pour "/assiste".${prompt}
+  16673: De plus, en appuyant sur CTRL+Q, "assistj" ou "assiste" s'affichera dans la fenêtre de texte pour vous.${prompt}
+  16674: Vous pouvez modifier la commande de raccourci CTRL+Q...${prompt}
+  16675: '...en allant dans Menu Principal > Configuration > Divers 2 > Attribution des touches > Commandes > Chat : /AssistE ou /AssistJ.${prompt}'
+  16676: Il est recommandé d'utiliser "/assistj (/aj)" lorsque vous postez en japonais, et "/assiste (/ae)" lorsque vous postez en anglais.${prompt}
+  16677: Vous devez remplir l'une des conditions suivantes pour pouvoir poster sur le Canal d'Assistance.${prompt}
   16678: |-
-    1. You are a new player
-    You may post messages from the moment you first set foot in Vana'diel.${prompt}
+    1. Vous êtes un nouveau joueur
+    Vous pouvez envoyer des messages dès que vous avez posé le pied dans Vana'diel.${prompt}
   16679: |-
-    2. You are a returnee
-    As a returning player, you may post messages upon logging in with a character that has not logged in for at least 48 days.${prompt}
+    2. Vous êtes un vétéran de retour
+    En tant que joueur de retour, vous pouvez envoyer des messages après vous être connecté avec un personnage qui n'a pas été connecté depuis au moins 48 jours.${prompt}
   16680: |-
-    3. You are a mentor
-    You may post messages as long as you remain a mentor to other players.${prompt}
-  16681: New players and returnees may post messages until they have been logged in for a total of 48 hours since first receiving their posting rights.${prompt}
-  16682: If you wish to check how long you can continue to post for, speak to an ${name-npc} and choose "When do my posting rights expire?" to see how much time you have left.${prompt}
-  16683: The Assist Channel can only be used in the following areas.${prompt}
+    3. Vous êtes un mentor
+    Vous pouvez envoyer des messages tant que vous restez mentor pour d'autres joueurs.${prompt}
+  16681: Les nouveaux joueurs et les vétérans de retour peuvent envoyer des messages jusqu'à ce qu'ils aient été connectés pendant un total de 48 heures depuis la réception de leurs droits de publication.${prompt}
+  16682: Si vous souhaitez vérifier combien de temps vous pouvez continuer à envoyer des messages, parlez à un ${name-npc} et choisissez "Quand mes droits de publication expirent-ils ?" pour voir combien de temps il vous reste.${prompt}
+  16683: Le canal d'assistance ne peut être utilisé que dans les zones suivantes.${prompt}
   16684: |-
-    Available areas:
+    Zones disponibles :
     ${unknown: 0x01053782F38180}, ${unknown: 0x01053782F48180},
     ${unknown: 0x01053782F58180}, ${unknown: 0x01053782F68180},
     ${unknown: 0x01053782E68180}, ${unknown: 0x01053782E78180}...${prompt}
@@ -37376,77 +37376,77 @@ entries:
     ${unknown: 0x01053782B58080}, ${unknown: 0x01053782808280}...${prompt}
   16687: |-
     ...${unknown: 0x01053782818280}, ${unknown: 0x010537829A8080},
-    ${unknown: 0x01053782C68080}, and your Mog House (Rent-a-Room).${prompt}
-  16688: You cannot post or read messages outside of the areas listed above.${prompt}
+    ${unknown: 0x01053782C68080}, et votre Mog House (Chambre à louer).${prompt}
+  16688: Vous ne pouvez ni envoyer ni lire de messages en dehors des zones mentionnées ci-dessus.${prompt}
   16689: |-
-    Even in areas where messages are allowed, you cannot post consecutive messages.
-    Please wait a while after posting a message.${prompt}
+    Même dans les zones où les messages sont autorisés, vous ne pouvez pas envoyer de messages consécutifs.
+    Veuillez attendre un moment après avoir envoyé un message.${prompt}
   16690: |-
-    Mentor messages are accompanied by a flag (${icon: 0xEF2F}) marker.
-    This marker indicates the mentor's reliability (Mentor Class) and experience as an adventurer (Mastery Rank).${prompt}
-  16691: 'As a mentor''s Mentor Class increases, the color and shape of the marker will change: ${icon: 0xEF2F} > ${icon: 0xEF39} > ${icon: 0xEF43}${prompt}'
-  16692: 'A ${icon: 0xEF43} marker is a sign that the mentor has earned the highest levels of trust from other adventurers.${prompt}'
-  16693: The number affixed to the marker is the mentor's Mastery Rank, and indicates how experienced the mentor is as an adventurer.${prompt}
-  16694: The higher the number, the more experienced the mentor is.${prompt}
-  16695: You can check your own Mastery Rank even if you do not serve as a mentor, so feel free to take a look every now and then if you are curious.${prompt}
-  16696: You can check your Mastery Rank by going to Main Menu > Status > Profile.${prompt}
-  16697: If you wish to speak directly to a mentor, you can search for mentors by going to Main Menu > Help Desk > Mentor Search.${prompt}
-  16698: The “Thumbs Up” feature enables you to let mentors know when their comments proved to be especially helpful.${prompt}
-  16699: Mentors who earn lots of “Thumbs Up” replies from other adventurers will see their Mentor Class increase.${prompt}
-  16700: Remember to give a “Thumbs Up” to any mentor you feel helped you out or taught you something useful.${prompt}
-  16701: A “Warning” is a feature that can only be used by mentors.${prompt}
-  16702: Please use this feature when a post's contents are insufficient or otherwise may be construed as harassment.${prompt}
-  16703: To send a “Thumbs Up” or “Warning” to another player, open the Chat Log Window and move the cursor over the relevant message and press the confirm button (Enter key) to bring up the evaluation menu.${prompt}
-  16704: Evaluations can be made for 10 minutes following the designated player's latest post to the Assist Channel.${prompt}
-  16705: You may send up to one “Thumbs Up” and one “Warning” per day (Earth time).${prompt}
-  16706: The “Mute” feature places restrictions on your ability to post, meaning that other players will be unable to see the messages you post to the Assist Channel.${prompt}
-  16707: Please refrain from posting unsuitable content so that the veteran adventurers are not forced to mute you.${prompt}
-  16708: Mute status can be removed by players that have the necessary Mute List access rights, or it will be removed automatically 24 hours (Earth time) after the mute status was enabled.${prompt}
-  16709: You are free to post messages to the Assist Channel until you decide to stop serving as a mentor.${prompt}
+    Les messages des mentors sont accompagnés d'un marqueur de drapeau (${icon: 0xEF2F}).
+    Ce marqueur indique la fiabilité du mentor (Classe de mentor) et l'expérience en tant qu'aventurier (Rang de maîtrise).${prompt}
+  16691: 'À mesure que la Classe de Mentor d’un mentor augmente, la couleur et la forme du marqueur changeront : ${icon: 0xEF2F} > ${icon: 0xEF39} > ${icon: 0xEF43}${prompt}'
+  16692: 'Un marqueur ${icon: 0xEF43} est un signe que le mentor a gagné les niveaux de confiance les plus élevés des autres aventuriers.${prompt}'
+  16693: Le nombre apposé sur le marqueur est le Rang de Maîtrise du mentor, et indique à quel point le mentor est expérimenté en tant qu'aventurier.${prompt}
+  16694: Plus le nombre est élevé, plus le mentor est expérimenté.${prompt}
+  16695: Vous pouvez vérifier votre propre Rang de Maîtrise même si vous ne servez pas en tant que mentor, alors n'hésitez pas à jeter un coup d'œil de temps en temps si vous êtes curieux.${prompt}
+  16696: Vous pouvez vérifier votre Rang de Maîtrise en accédant à Menu Principal > Statut > Profil.${prompt}
+  16697: Si vous souhaitez parler directement à un mentor, vous pouvez rechercher des mentors en accédant à Menu Principal > Bureau d'Aide > Recherche de Mentor.${prompt}
+  16698: La fonction “Pouce en l'air” vous permet de faire savoir aux mentors quand leurs commentaires se sont avérés particulièrement utiles.${prompt}
+  16699: Les mentors qui reçoivent beaucoup de réponses avec “Pouce en l'air” de la part des autres aventuriers verront leur Classe de Mentor augmenter.${prompt}
+  16700: N'oubliez pas de donner un “Pouce en l'air” à tout mentor qui vous a aidé ou vous a appris quelque chose d'utile.${prompt}
+  16701: Un “Avertissement” est une fonctionnalité qui ne peut être utilisée que par les mentors.${prompt}
+  16702: Veuillez utiliser cette fonctionnalité lorsque le contenu d'un message est insuffisant ou peut être interprété comme du harcèlement.${prompt}
+  16703: Pour envoyer un “Pouce en l'air” ou un “Avertissement” à un autre joueur, ouvrez la fenêtre de journal de discussion et déplacez le curseur sur le message concerné, puis appuyez sur le bouton de confirmation (touche Entrée) pour afficher le menu d'évaluation.${prompt}
+  16704: Les évaluations peuvent être effectuées pendant 10 minutes suivant la dernière publication du joueur désigné sur le Canal d'Assistance.${prompt}
+  16705: Vous pouvez envoyer jusqu'à un “Pouce en l'air” et un “Avertissement” par jour (heure terrestre).${prompt}
+  16706: La fonction “Muet” place des restrictions sur votre capacité à publier, ce qui signifie que les autres joueurs ne pourront pas voir les messages que vous publiez sur le Canal d'Assistance.${prompt}
+  16707: Veuillez vous abstenir de publier du contenu inapproprié afin que les aventuriers vétérans ne soient pas obligés de vous mettre en sourdine.${prompt}
+  16708: Le statut de muet peut être supprimé par les joueurs ayant les droits d'accès nécessaires à la liste de muets, ou il sera automatiquement supprimé 24 heures (heure terrestre) après que le statut de muet a été activé.${prompt}
+  16709: Vous êtes libre de publier des messages sur le Canal d'Assistance jusqu'à ce que vous décidiez de cesser de servir en tant que mentor.${prompt}
   16710: |-
-    You may post messages to the Assist Channel until ${ts-hour: 0}:${ts-minute: 0} on ${ts-month: 0}/${ts-day: 0}/${ts-year: 0}.
-    (Time remaining: Approx. ${number: 1} ${choice: 2}[sec./min./hr.])${prompt}
-  16711: If you log out while you still have time available, your remaining time will be carried over to the next time you log in.${prompt}
-  16712: You are about to lose the ability to post messages to the Assist Channel.${prompt}
-  16713: You are unable to post messages to the Assist Channel.${prompt}
-  16714: 'Take on the “${unknown: 0x01054082808080}” Records of Eminence objective from the Tutorial section of the Records of Eminence Menu and speak to the A.M.A.N. liaison.${prompt}'
-  16715: 'Good day, adventurer! I am able to repair any broken item data related to ${item-plural: 0[2]}.${prompt}'
-  16716: 'If you are unable to deliver ${article} ${item-article: 0[2]}, it''s possible that the item data has been corrupted.${prompt}'
-  16717: 'Please trade your ${item-singular: 0[2]} to me so that I may fix it.${prompt}'
-  16718: 'I have confirmed that the item data for your ${item-singular: 0[2]} has been corrupted. We apologize for the inconvenience.${prompt}'
-  16719: I have restored it to its intended functionality. Here you are!${prompt}
-  16720: It appears that your item is working as intended.${prompt}
-  16721: An error has occurred. Please try again later.
-  16722: Here you can play the game Mandragora Mania.
+    Vous pouvez publier des messages sur le Canal d'Assistance jusqu'à ${ts-hour: 0}:${ts-minute: 0} le ${ts-day: 0}/${ts-month: 0}/${ts-year: 0}.
+    (Temps restant : Environ ${number: 1} ${choice: 2}[sec./min./hr.])${prompt}
+  16711: Si vous vous déconnectez alors qu'il vous reste du temps disponible, le temps restant sera reporté à la prochaine connexion.${prompt}
+  16712: Vous êtes sur le point de perdre la possibilité de publier des messages sur le Canal d'Assistance.${prompt}
+  16713: Vous ne pouvez pas publier de messages sur le Canal d'Assistance.${prompt}
+  16714: 'Acceptez l’objectif “${unknown: 0x01054082808080}” dans la section Tutoriel du Menu des Registres de Renommée, puis parlez au représentant A.M.A.N.${prompt}'
+  16715: 'Bonjour, aventurier ! Je peux réparer n’importe quel élément de données d’objet lié à ${item-plural: 0[2]}.${prompt}'
+  16716: 'Si vous ne parvenez pas à livrer ${article} ${item-article: 0[2]}, il est possible que les données de l’objet aient été corrompues.${prompt}'
+  16717: 'Veuillez me donner votre ${item-singular: 0[2]} afin que je puisse le réparer.${prompt}'
+  16718: 'J’ai confirmé que les données de l’objet ${item-singular: 0[2]} ont été corrompues. Nous nous excusons pour le désagrément.${prompt}'
+  16719: Je l’ai restauré à sa fonctionnalité prévue. Voici !${prompt}
+  16720: Il semble que votre objet fonctionne comme prévu.${prompt}
+  16721: Une erreur s’est produite. Veuillez réessayer plus tard.${prompt}
+  16722: Ici, vous pouvez jouer au jeu Mandragora Mania.${prompt}
   16723: |-
-    Do which? (${number: 1} jingly)
+    Que voulez-vous faire ? (${number: 1} jingly)
     ${selection-lines}
-    Play (random opponent).
-    Play (select opponent).
-    Purchase prizes${choice: 4}[ (unavail.)./ (reset avail.).]
-    Set start pattern: (${choice: 2}[Random/A/B/C/D/E]).
-    Set starting player: (${choice: 3}[Random/You/Opponent]).
-    Read an explanation.
-    None of the above.${prompt}
+    Jouer (adversaire aléatoire).
+    Jouer (sélectionner l'adversaire).
+    Acheter des prix${choice: 4}[ (non disponible)./ (réinitialiser la disponibilité).]
+    Définir le motif de départ : (${choice: 2}[Aléatoire/A/B/C/D/E]).
+    Définir le joueur de départ : (${choice: 3}[Aléatoire/Vous/Adversaire]).
+    Lire une explication.
+    Aucune des options ci-dessus.${prompt}
   16724: |-
-    Play against whom?
+    Jouer contre qui ?
     ${selection-lines}
-    Green Thumb Moogle.
+    Moogle Pouce Verte.
     Monsieur Kupont.
     Susuroon.
-    A lamb.
+    Un agneau.
     Yeestog.
     Atelloune.
     Kuyin Hathdenna.
     Kupofried.
     Chacharoon.
     Sakura.
-    Back.${prompt}
-  16725: '${color-alt: 123}That option is currently unavailable. You will be able to select it again in ${number: 5} day${choice-plurality: 5}[/s] (Earth time).'
+    Retour.${prompt}
+  16725: '${color-alt: 123}Cette option n’est actuellement pas disponible. Vous pourrez la sélectionner à nouveau dans ${number: 5} jour${choice-plurality: 5}[/s] (heure de la Terre).${prompt}'
   16726: |-
-    Purchase which? (${number: 1} jingly).
+    Qu'acheter ? (${number: 1} jingly).
     ${selection-lines}
-    Reset rewards (${number: 38} gil).
+    Réinitialiser les récompenses (${number: 38} gil).
     ${lettercase: 1}${item-singular: 2[2]}: ${number: 3} j. ${choice: 4}[/★]
     ${lettercase: 1}${item-singular: 5[2]}: ${number: 6} j. ${choice: 7}[/★]
     ${lettercase: 1}${item-singular: 8[2]}: ${number: 9} j. ${choice: 10}[/★]
@@ -37457,141 +37457,141 @@ entries:
     ${lettercase: 1}${item-singular: 23[2]}: ${number: 24} j. ${choice: 25}[/★]
     ${lettercase: 1}${item-singular: 26[2]}: ${number: 27} j. ${choice: 28}[/★]
     ${lettercase: 1}${item-singular: 29[2]}: ${number: 30} j. ${choice: 31}[/★]
-    Back.${prompt}
-  16727: 'You may pay ${number: 38} gil to reset all rewards, enabling you to purchase them again.'
+    Retour.${prompt}
+  16727: 'Vous pouvez payer ${number: 38} gil pour réinitialiser toutes les récompenses, ce qui vous permettra de les acheter à nouveau.${prompt}'
   16728: |-
-    Reset rewards? (${number: 39} gil).
+    Réinitialiser les récompenses ? (${number: 39} gil).
     ${selection-lines}
-    Yes (${number: 38} gil).
-    No.${prompt}
-  16729: '${color-alt: 123}You do not have enough gil.'
-  16730: All rewards have been reset.
-  16731: '${color-alt: 123}You have already purchased the ${item-singular: 2[2]}.'
-  16732: '${color-alt: 123}You need at least ${number: 3} jingly to purchase the ${item-singular: 2[2]}.'
-  16733: The reward exchange period has turned over and all rewards have been reset.
-  16734: You may reset all rewards from the appropriate dialogue box.
+    Oui (${number: 38} gil).
+    Non.${prompt}
+  16729: '${color-alt: 123}Vous n’avez pas assez de gil.${prompt}'
+  16730: Toutes les récompenses ont été réinitialisées.${prompt}
+  16731: '${color-alt: 123}Vous avez déjà acheté le ${item-singular: 2[2]}.${prompt}'
+  16732: '${color-alt: 123}Vous avez besoin d’au moins ${number: 3} jingly pour acheter le ${item-singular: 2[2]}.${prompt}'
+  16733: La période d’échange de récompenses est terminée et toutes les récompenses ont été réinitialisées.${prompt}
+  16734: Vous pouvez réinitialiser toutes les récompenses depuis la boîte de dialogue appropriée.${prompt}
   16735: |-
-    Set starting pattern?
+    Définir le motif de départ ?
     ${selection-lines}
-    ${choice: 2}[/★] Random (A-E).
-    ${choice: 3}[/★] Pattern A.
-    ${choice: 4}[/★] Pattern B.
-    ${choice: 5}[/★] Pattern C.
-    ${choice: 6}[/★] Pattern D.
-    ${choice: 7}[/★] Pattern E.
-    No thanks.${prompt}
-  16736: '${color-alt: 151}Starting pattern set to ${choice: 8}[Random/Pattern A/Pattern B/Pattern C/Pattern D/Pattern E].'
+    ${choice: 2}[/★] Aléatoire (A-E).
+    ${choice: 3}[/★] Motif A.
+    ${choice: 4}[/★] Motif B.
+    ${choice: 5}[/★] Motif C.
+    ${choice: 6}[/★] Motif D.
+    ${choice: 7}[/★] Motif E.
+    Non merci.${prompt}
+  16736: '${color-alt: 151}Motif de départ défini sur ${choice: 8}[Aléatoire/Motif A/Motif B/Motif C/Motif D/Motif E].${prompt}'
   16737: |-
-    Set starting player?
+    Définir le joueur de départ ?
     ${selection-lines}
-    ${choice: 2}[/★] Random.
-    ${choice: 3}[/★] You.
-    ${choice: 4}[/★] Opponent.
-    No thanks.${prompt}
-  16738: '${color-alt: 151}Starting player set to ${choice: 5}[Random/You/Opponent].'
+    ${choice: 2}[/★] Aléatoire.
+    ${choice: 3}[/★] Vous.
+    ${choice: 4}[/★] Adversaire.
+    Non merci.${prompt}
+  16738: '${color-alt: 151}Joueur de départ défini sur ${choice: 5}[Aléatoire/Vous/Adversaire].${prompt}'
   16739: |-
-    Read the manual?
+    Lire le manuel ?
     ${selection-lines}
-    Sure.
-    No thanks.${prompt}
-  16740: Mandragora Mania is a game in which you battle for jingly by moving your mandragora pieces to the goal.${prompt}
-  16741: 'Your goal is the ${choice: 0}[red/blue/green] one on the right, while your opponent''s is the ${choice: 0}[blue/green/red] one on the left.${prompt}'
-  16742: At the start of the game, three mandragoras each will be placed on the eight game areas, excluding the goal.${prompt}
-  16743: There are five starting placements (A through E), and you are able to select which one you would like to employ. The default setting is "Random."${prompt}
-  16744: This explanation uses pattern A, but the basic rules are the same regardless of the starting pattern.${prompt}
-  16745: 'The three ${choice: 0}[red/blue/green] areas in front of you are yours,${wait-36: 2}the three ${choice: 0}[blue/green/red] areas at the back are your opponent''s,${wait-36: 2}and the remaining two are neutral.${prompt}'
-  16746: You must choose one area--either yours or a neutral one--to proceed.${prompt}
-  16747: The areas are numbered from one to five starting from the left, and any mandragoras in the area you select will move.${prompt}
-  16748: Conversely, your opponent must select either a neutral area or an area that belongs to them.${prompt}
-  16749: From the right, those areas are numbered 6, 4, 7, 2, and 8.${prompt}
-  16750: 'For example, if you select Area 1,${wait-36: 4}one mandragora will move to Area 2${wait-36: 1}and one will move to Area 3,${wait-36: 1}and one will move to Area 4.${prompt}'
-  16751: Note that the mandragoras will move from the back first--last in, first out.${prompt}
-  16752: You will receive points known as “jingly” each time one of your mandragoras reaches the goal.${prompt}
-  16753: You will enter your opponent's territory whenever you go past the goal.${prompt}
-  16754: If one of your mandragoras happens to reach the opponent's goal, the goal will be pushed back and your mandragora will return to your own area. You don't have to worry about your mandragora earning any jingly for your opponent.${prompt}
-  16755: The order in which players choose areas will be determined based on your turn settings. The default setting is random.${prompt}
-  16756: This explanation has skipped past your opponent's turn for demonstration purposes, but in the actual game you and your opponent will take turns choosing areas.${prompt}
-  16757: However, if the last mandragora to move reaches the goal, you will get to take an additional turn.${prompt}
-  16758: Mandragoras are a very diverse species, and the amount of jingly you earn is determined by the species of mandragora that crosses into the goal.${prompt}
-  16759: 'Adenium and citrullus: 3 jingly (first player)/4 jingly (second player).${prompt}'
-  16760: 'Korrigan and pachypodium: 2 jingly (first player)/3 jingly (second player).${prompt}'
-  16761: 'Standard mandragoras: 1 jingly (both players).${prompt}'
-  16762: The game is over when either you or your opponent no longer has any mandragoras that can move.${prompt}
-  16763: The player who has the most jingly at that point will be declared the winner.${prompt}
-  16764: The key to victory lies in taking advantage of the various mandragora subspecies bonuses while claiming multiple turns in a row.${prompt}
-  16765: '${color-alt: 151}∞∞∞∞∞ Pattern ${choice: 1}[A/B/C/D/E] - Your Turn (${choice: 0}[First Player/Second Player]) ∞∞∞∞∞'
-  16766: '${color-alt: 151}You have selected Area ${number: 0}.'
-  16767: '${color-alt: 151}You receive ${number: 0} jingly for a total of ${number: 1}.'
-  16768: '${color-alt: 161}∞∞∞∞∞ Pattern ${choice: 1}[A/B/C/D/E] - Your Turn (${choice: 0}[Second Player/First Player]) ∞∞∞∞∞'
-  16769: '${color-alt: 161}Your opponent has selected Area ${number: 0}.'
-  16770: '${color-alt: 161}Your opponent receives ${number: 0} jingly for a total of ${number: 1}.'
-  16771: '${color-alt: 151}Game Complete!'
-  16772: '${choice: 2}[Victory!/Defeat!/Draw!] (${number: 0} - ${number: 1})'
+    Bien sûr.
+    Non merci.${prompt}
+  16740: Mandragora Mania est un jeu où vous vous battez pour des jingly en déplaçant vos pièces mandragora vers le but.${prompt}
+  16741: 'Votre objectif est le ${choice: 0}[rouge/bleu/vert] à droite, tandis que celui de votre adversaire est le ${choice: 0}[bleu/vert/rouge] à gauche.${prompt}
+  16742: Au début du jeu, trois mandragoras chacune seront placées sur les huit zones de jeu, à l’exception du but.${prompt}
+  16743: Il y a cinq positions de départ (A à E), et vous pouvez sélectionner celle que vous souhaitez utiliser. Le paramètre par défaut est "Aléatoire".${prompt}
+  16744: Cette explication utilise le motif A, mais les règles de base sont les mêmes quel que soit le motif de départ.${prompt}
+  16745: 'Les trois zones ${choice: 0}[rouge/bleu/vert] devant vous sont les vôtres,${wait-36: 2}les trois zones ${choice: 0}[bleu/vert/rouge] à l'arrière sont celles de votre adversaire,${wait-36: 2}et les deux restantes sont neutres.${prompt}'
+  16746: Vous devez choisir une zone, soit la vôtre, soit une neutre, pour continuer.${prompt}
+  16747: Les zones sont numérotées de un à cinq en partant de la gauche, et toute mandragora dans la zone que vous sélectionnez se déplacera.${prompt}
+  16748: De même, votre adversaire doit sélectionner soit une zone neutre, soit une zone qui lui appartient.${prompt}
+  16749: De droite à gauche, ces zones sont numérotées 6, 4, 7, 2 et 8.${prompt} 
+  16750: 'Par exemple, si vous sélectionnez la zone 1,${wait-36: 4}une mandragora se déplacera vers la zone 2${wait-36: 1}et une autre se déplacera vers la zone 3,${wait-36: 1}et une autre vers la zone 4.${prompt}
+  16751: Notez que les mandragoras se déplaceront de l'arrière en premier - dernier entré, premier sorti.${prompt}
+  16752: Vous recevrez des points appelés "jingly" chaque fois qu'une de vos mandragoras atteindra le but.${prompt}
+  16753: Vous entrerez dans le territoire de votre adversaire chaque fois que vous dépasserez le but.${prompt}
+  16754: Si l'une de vos mandragoras parvient à atteindre le but de l'adversaire, le but sera repoussé et votre mandragora retournera dans votre propre zone. Vous n'avez pas à vous soucier du fait que votre mandragora rapporte des jingly à votre adversaire.${prompt}
+  16755: L'ordre dans lequel les joueurs choisissent les zones sera déterminé en fonction de vos paramètres de tour. Le paramètre par défaut est aléatoire.${prompt}
+  16756: Cette explication a sauté le tour de votre adversaire à des fins de démonstration, mais dans le jeu réel, vous et votre adversaire prendrez tour à tour des zones.${prompt}
+  16757: Cependant, si la dernière mandragora à se déplacer atteint le but, vous aurez droit à un tour supplémentaire.${prompt}
+  16758: Les mandragoras sont une espèce très diverse, et le montant de jingly que vous gagnez est déterminé par l'espèce de mandragora qui franchit le but.${prompt}
+  16759: 'Adenium et citrullus : 3 jingly (premier joueur)/4 jingly (deuxième joueur).${prompt}
+  16760: 'Korrigan et pachypodium : 2 jingly (premier joueur)/3 jingly (deuxième joueur).${prompt}
+  16761: 'Mandragoras standard : 1 jingly (les deux joueurs).${prompt}
+  16762: Le jeu se termine lorsque vous ou votre adversaire n'avez plus de mandragoras pouvant se déplacer.${prompt}
+  16763: Le joueur qui a le plus de jingly à ce moment-là sera déclaré vainqueur.${prompt}
+  16764: La clé de la victoire réside dans le fait de profiter des divers bonus de sous-espèces de mandragora tout en revendiquant plusieurs tours consécutifs.${prompt}
+  16765: '${color-alt: 151}∞∞∞∞∞ Motif ${choice: 1}[A/B/C/D/E] - Votre Tour (${choice: 0}[Premier Joueur/Deuxième Joueur]) ∞∞∞∞∞'
+  16766: '${color-alt: 151}Vous avez sélectionné la zone ${number: 0}.'
+  16767: '${color-alt: 151}Vous recevez ${number: 0} jingly, pour un total de ${number: 1}.'
+  16768: '${color-alt: 161}∞∞∞∞∞ Motif ${choice: 1}[A/B/C/D/E] - Votre Tour (${choice: 0}[Deuxième Joueur/Premier Joueur]) ∞∞∞∞∞'
+  16769: '${color-alt: 161}Votre adversaire a sélectionné la zone ${number: 0}.'
+  16770: '${color-alt: 161}Votre adversaire reçoit ${number: 0} jingly, pour un total de ${number: 1}.'
+  16771: '${color-alt: 151}Partie Terminée !'
+  16772: '${choice: 2}[Victoire!/Défaite!/Match nul !] (${number: 0} - ${number: 1})'
   16773: |-
-    Move mandragora from which area?
+    Déplacer une mandragora depuis quelle zone ?
     ${selection-lines}
-    Area 1. (${number: 0} mandragora)
-    Area 2. (${number: 1} mandragora)
-    Area 3. (${number: 2} mandragora)
-    Area 4. (${number: 3} mandragora)
-    Area 5. (${number: 4} mandragora)
-    Give up.${prompt}
-  16774: '${color-alt: 123}That area has no mandragora to move.'
-  16775: '${color-alt: 123}You will forfeit all jingly earned this game if you give up. Are you sure?'
+    Zone 1. (${number: 0} mandragora)
+    Zone 2. (${number: 1} mandragora)
+    Zone 3. (${number: 2} mandragora)
+    Zone 4. (${number: 3} mandragora)
+    Zone 5. (${number: 4} mandragora)
+    Abandonner.${prompt}
+  16774: '${color-alt: 123}Il n'y a pas de mandragora dans cette zone à déplacer.${prompt}'
+  16775: '${color-alt: 123}Vous perdrez tous les jingly gagnés dans ce jeu si vous abandonnez. Êtes-vous sûr ?${prompt}'
   16776: |-
-    Really give up?
+    Vraiment abandonner ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  16777: '${color-alt: 151}You receive ${number: 0} jingly for a total of ${number: 1}.'
-  16778: '${color-alt: 123}You have reached the jingly cap of ${number: 0}. Any additional jingly will be lost.'
-  16779: '${color-alt: 123}An error has occurred. Please try again.'
-  16780: '${color-alt: 200}DEBUG → ${choice: 3}[OFF/ON]'
-  16781: '${color-alt: 200}RANDOM：0-${number: 0} → ${number: 1}'
-  16782: '${color-alt: 200}Sakura：${choice: 0}[Citrullus/Pachypodium 1/Corrigan 1] → ${choice: 1}[OFF/ON] / ${choice: 0}[Adenium/Pachypodium 2/Corrigan 2] → ${choice: 2}[OFF/ON]'
-  16783: '${color-alt: 200}${choice: 0}[Citrullus/Adenium/Pchypodium 1/Pachypodium 2/Corrigan 1/Corrigan 2]： Placement 【${number: 1}-${number: 2}】 →  Area 【${choice: 4}[1/2/3/4/5/PC Goal/6/7/8/NPC Goal]】→ Evaluation: 【${number: 3}】'
-  16784: '${color-alt: 200}${choice: 0}[Citrullus/Adenium/Pachypodium 1/Pachypodium 2/Corrigan 1/Corrigan 2]： Placement: 【NPC Goal】 →  Evaluation: 【${number: 3}】'
+    Oui.
+    Non.${prompt}
+  16777: '${color-alt: 151}Vous recevez ${number: 0} jingly, pour un total de ${number: 1}.${prompt}'
+  16778: '${color-alt: 123}Vous avez atteint le plafond de jingly de ${number: 0}. Tout jingly supplémentaire sera perdu.${prompt}'
+  16779: '${color-alt: 123}Une erreur s'est produite. Veuillez réessayer.${prompt}'
+  16780: '${color-alt: 200}DEBUG → ${choice: 3}[DÉSACTIVÉ/ACTIVÉ]${prompt}'
+  16781: '${color-alt: 200}ALÉATOIRE : 0-${number: 0} → ${number: 1}${prompt}'
+  16782: '${color-alt: 200}Sakura：${choice: 0}[Citrullus/Pachypodium 1/Corrigan 1] → ${choice: 1}[DÉSACTIVÉ/ACTIVÉ] / ${choice: 0}[Adenium/Pachypodium 2/Corrigan 2] → ${choice: 2}[DÉSACTIVÉ/ACTIVÉ]${prompt}'
+  16783: '${color-alt: 200}${choice: 0}[Citrullus/Adenium/Pachypodium 1/Pachypodium 2/Corrigan 1/Corrigan 2]： Placement 【${number: 1}-${number: 2}】 →  Zone 【${choice: 4}[1/2/3/4/5/But PNJ/6/7/8/But NPC]】→ Évaluation : 【${number: 3}】${prompt}'
+  16784: '${color-alt: 200}${choice: 0}[Citrullus/Adenium/Pachypodium 1/Pachypodium 2/Corrigan 1/Corrigan 2]： Placement: 【But NPC】 →  Évaluation : 【${number: 3}】${prompt}'
   16785: ${prompt}
-  16786: '${color-alt: 200}Area 8【${number: 0}】 / Area 2【${number: 1}】 / Area 7【${number: 2}】 / Area 4【${number: 3}】 / Area 6【${number: 4}】'
-  16787: '${color-alt: 200}NPC Selection →  Area ${number: 0}'
-  16788: '${color-alt: 200}DEBUG：NPC Selection Controls → ${choice: 3}[OFF/ON]'
+  16786: '${color-alt: 200}Zone 8【${number: 0}】 / Zone 2【${number: 1}】 / Zone 7【${number: 2}】 / Zone 4【${number: 3}】 / Zone 6【${number: 4}】${prompt}'
+  16787: '${color-alt: 200}Sélection PNJ →  Zone ${number: 0}${prompt}'
+  16788: '${color-alt: 200}DEBUG：Contrôles de Sélection PNJ → ${choice: 3}[DÉSACTIVÉ/ACTIVÉ]${prompt}'
   16789: |-
-    ≪DEBUG≫ Move from which area?
+    ≪DEBUG≫ Déplacer depuis quelle zone ?
     ${selection-lines}
-    Area 8. (${number: 0} mandragoras).
-    Area 2. (${number: 1} mandragoras).
-    Area 7. (${number: 2} mandragoras).
-    Area 4. (${number: 3} mandragoras).
-    Area 6. (${number: 4} mandragoras).${prompt}
-  16790: Vous pouvez maintenant profiter d'une nouvelle histoire, Une Prophétie Cristalline.
+  Zone 8. (${number: 0} mandragoras).
+  Zone 2. (${number: 1} mandragoras).
+  Zone 7. (${number: 2} mandragoras).
+  Zone 4. (${number: 3} mandragoras).
+  Zone 6. (${number: 4} mandragoras).${prompt}
+  16790: Vous pouvez maintenant profiter d'une nouvelle histoire, Une Prophétie Cristalline.${prompt}
   16791: |-
     Commencer Une Prophétie Cristalline ?
     ${selection-lines}
     Oui (Voir la cinématique).
     Peut-être plus tard.${prompt}
-  16792: Examinez le Début des Contes à Jeuno Inférieur (G-9) lorsque vous souhaitez commencer Une Prophétie Cristalline.
+  16792: Examinez le Début des Contes à Jeuno Inférieur (G-9) lorsque vous souhaitez commencer Une Prophétie Cristalline}.${prompt}
   16793: Vous pouvez maintenant profiter d'une nouvelle histoire, Une Ascension de Shantotto.
   16794: |-
     Commencer Une Ascension de Shantotto ?
     ${selection-lines}
     Oui (Voir la cinématique).
     Peut-être plus tard.${prompt}
-  16795: Examinez le Début des Contes dans les Murs de Windurst (C-6) lorsque vous souhaitez commencer Une Ascension de Shantotto.
-  16796: Vous pouvez maintenant profiter d'une nouvelle histoire, Abyssea.
+  16795: Examinez le Début des Contes dans les Murs de Windurst (C-6) lorsque vous souhaitez commencer Une Ascension de Shantotto.${prompt}
+  16796: Vous pouvez maintenant profiter d'une nouvelle histoire, Abyssea.${prompt}
   16797: |-
     Commencer Abyssea ?
     ${selection-lines}
     Oui (Voir la cinématique).
     Peut-être plus tard.${prompt}
-  16798: Examinez le Début des Contes à Port Jeuno (F-8) lorsque vous souhaitez commencer Abyssea.
-  16799: Vous pouvez maintenant profiter d'une nouvelle histoire, Les Chaînes de Promathia.
+  16798: Examinez le Début des Contes à Port Jeuno (F-8) lorsque vous souhaitez commencer Abyssea.${prompt}
+  16799: Vous pouvez maintenant profiter d'une nouvelle histoire, Les Chaînes de Promathia.${prompt}
   16800: |-
     Commencer Les Chaînes de Promathia ?
     ${selection-lines}
     Oui (Voir la cinématique).
     Peut-être plus tard.${prompt}
-  16801: Examinez le Début des Contes dans la Tour de Delkfutt Inférieur (H-10) lorsque vous souhaitez commencer Les Chaînes de Promathia.
-  16802: Vous pouvez maintenant profiter d'une nouvelle histoire, Les Chercheurs d'Adoulin.
+  16801: Examinez le Début des Contes dans la Tour de Delkfutt Inférieur (H-10) lorsque vous souhaitez commencer Les Chaînes de Promathia.${prompt}
+  16802: Vous pouvez maintenant profiter d'une nouvelle histoire, Les Chercheurs d'Adoulin.${prompt}
   16803: |-
     Commencer Les Chercheurs d'Adoulin ?
     ${selection-lines}
@@ -37601,21 +37601,21 @@ entries:
     ${selection-lines}
     Oui (Voir la cinématique).
     Peut-être plus tard.${prompt}
-  16804: Examinez le Début des Contes dans le Nord de San d'Oria, les Marchés de Bastok ou les Bois de Windurst lorsque vous souhaitez commencer Les Chercheurs d'Adoulin.
-  16805: Vous pouvez maintenant profiter d'une nouvelle histoire, Les Rhapsodies de Vana'diel.
+  16804: Examinez le Début des Contes dans le Nord de San d'Oria, les Marchés de Bastok ou les Bois de Windurst lorsque vous souhaitez commencer Les Chercheurs d'Adoulin.${prompt}
+  16805: Vous pouvez maintenant profiter d'une nouvelle histoire, Les Rhapsodies de Vana'diel.${prompt}
   16806: |-
     Commencer Les Rhapsodies de Vana'diel ?
     ${selection-lines}
     Oui (Voir la cinématique).
     Peut-être plus tard.${prompt}
-  16807: Examinez le Début des Contes dans les trois nations lorsque vous souhaitez commencer Les Rhapsodies de Vana'diel.
-  16808: Vous pouvez maintenant profiter d'une nouvelle histoire, La Montée des Zilart.
+  16807: Examinez le Début des Contes dans les trois nations lorsque vous souhaitez commencer Les Rhapsodies de Vana'diel.${prompt}
+  16808: Vous pouvez maintenant profiter d'une nouvelle histoire, La Montée des Zilart.${prompt}
   16809: |-
     Commencer La Montée des Zilart ?
     ${selection-lines}
     Oui (Voir la cinématique).
     Peut-être plus tard.${prompt}
-  16810: Examinez le Début des Contes à Norg (H-9) lorsque vous souhaitez commencer La Montée des Zilart.
+  16810: Examinez le Début des Contes à Norg (H-9) lorsque vous souhaitez commencer La Montée des Zilart.${prompt}
   16811: Souhaitez-vous commencer une nouvelle histoire que vous avez précédemment reportée ?${prompt}
   16812: |-
     Commencer laquelle ?
