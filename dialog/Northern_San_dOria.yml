@@ -16542,94 +16542,94 @@ entries:
   6725: They need to be in therrre so your moogle can use his magic on 'em!${prompt}
   6726: Moogles are awesome!♪${prompt}
   6727: I wish I could fill my house with lots of prrretty flowers!${prompt}
-  6728: Can I interest you in some magical maps?${prompt}
+  6728: Puis-je vous intéresser par des cartes magiques ?${prompt}
   6729: |-
-    Buy a map?
+    Acheter une carte ?
     ${selection-lines}
-    Decline.
-    Inquire about maps.
-    ${lettercase: 1}${keyitem-singular: 1[2]} (${number: 17} gil).
-    ${lettercase: 1}${keyitem-singular: 2[2]} (${number: 18} gil).
-    ${lettercase: 1}${keyitem-singular: 3[2]} (${number: 19} gil).
-    ${lettercase: 1}${keyitem-singular: 4[2]} (${number: 20} gil).
-    ${lettercase: 1}${keyitem-singular: 5[2]} (${number: 21} gil).
-    ${lettercase: 1}${keyitem-singular: 6[2]} (${number: 22} gil).
-    ${lettercase: 1}${keyitem-singular: 7[2]} (${number: 23} gil).
-    ${lettercase: 1}${keyitem-singular: 8[2]} (${number: 24} gil).
-    ${lettercase: 1}${keyitem-singular: 9[2]} (${number: 25} gil).
-    ${lettercase: 1}${keyitem-singular: 10[2]} (${number: 26} gil).
-    ${lettercase: 1}${keyitem-singular: 11[2]} (${number: 27} gil).
-    ${lettercase: 1}${keyitem-singular: 12[2]} (${number: 28} gil).
-    ${lettercase: 1}${keyitem-singular: 13[2]} (${number: 29} gil).
-    ${lettercase: 1}${keyitem-singular: 14[2]} (${number: 30} gil).
-    ${lettercase: 1}${keyitem-singular: 15[2]} (${number: 31} gil).
-    ${lettercase: 1}${keyitem-singular: 16[2]} (${number: 32} gil).
-    Previous page.
-    Next page.${prompt}
-  6730: When you look at a map for your present area, you can see the lay of the land, as well as your current location.${prompt}
-  6731: Members of your party and alliance will appear on the map, too. Also, certain jobs let you find people and monsters from a distance.${prompt}
-  6732: They're especially handy because you can mark where you've been, and some people can mark them for you as well.${prompt}
+    Refuser.
+    Demander des informations sur les cartes.
+    ${lettercase: 1}${keyitem-singular: 1[2]} (${number: 17} gils).
+    ${lettercase: 1}${keyitem-singular: 2[2]} (${number: 18} gils).
+    ${lettercase: 1}${keyitem-singular: 3[2]} (${number: 19} gils).
+    ${lettercase: 1}${keyitem-singular: 4[2]} (${number: 20} gils).
+    ${lettercase: 1}${keyitem-singular: 5[2]} (${number: 21} gils).
+    ${lettercase: 1}${keyitem-singular: 6[2]} (${number: 22} gils).
+    ${lettercase: 1}${keyitem-singular: 7[2]} (${number: 23} gils).
+    ${lettercase: 1}${keyitem-singular: 8[2]} (${number: 24} gils).
+    ${lettercase: 1}${keyitem-singular: 9[2]} (${number: 25} gils).
+    ${lettercase: 1}${keyitem-singular: 10[2]} (${number: 26} gils).
+    ${lettercase: 1}${keyitem-singular: 11[2]} (${number: 27} gils).
+    ${lettercase: 1}${keyitem-singular: 12[2]} (${number: 28} gils).
+    ${lettercase: 1}${keyitem-singular: 13[2]} (${number: 29} gils).
+    ${lettercase: 1}${keyitem-singular: 14[2]} (${number: 30} gils).
+    ${lettercase: 1}${keyitem-singular: 15[2]} (${number: 31} gils).
+    ${lettercase: 1}${keyitem-singular: 16[2]} (${number: 32} gils).
+    Page précédente.
+    Page suivante.${prompt}
+  6730: Lorsque vous consultez une carte de votre zone actuelle, vous pouvez voir le relief, ainsi que votre position actuelle.${prompt}
+  6731: Les membres de votre groupe et de votre alliance apparaîtront également sur la carte. De plus, certains emplois vous permettent de localiser des personnes et des monstres à distance.${prompt}
+  6732: Elles sont particulièrement utiles car vous pouvez marquer les endroits que vous avez visités, et certaines personnes peuvent également les marquer pour vous.${prompt}
   6733: |-
-    The ${keyitem-singular: 1[2]} covers Ronfaure, the La Theine Plateau, the Valkurm Dunes, Jugner Forest, Selbina, and San d'Oria.
-    It costs ${number: 3} gil.${prompt}
+    La ${keyitem-singular: 1[2]} couvre Ronfaure, le plateau de La Theine, les Dunes de Valkurm, la forêt de Jugner, Selbina et San d'Oria.
+    Elle coûte ${number: 3} gils.${prompt}
   6734: |-
-    The ${keyitem-singular: 1[2]} covers Gustaberg, the Konschtat Highlands, the Pashhow Marshlands, and Bastok.
-    It costs ${number: 3} gil.${prompt}
+    La ${keyitem-singular: 1[2]} couvre Gustaberg, les Hautes terres de Konschtat, les Marais de Pashhow et Bastok.
+    Elle coûte ${number: 3} gils.${prompt}
   6735: |-
-    The ${keyitem-singular: 1[2]} covers Sarutabaruta, the Tahrongi Canyon, the Buburimu Peninsula, the Meriphataud Mountains, Mhaura, and Windurst.
-    It costs ${number: 3} gil.${prompt}
+    La ${keyitem-singular: 1[2]} couvre Sarutabaruta, le Canyon de Tahrongi, la Péninsule de Buburimu, les Montagnes de Meriphataud, Mhaura et Windurst.
+    Elle coûte ${number: 3} gils.${prompt}
   6736: |-
-    The ${keyitem-singular: 1[2]} covers Batallia Downs, Rolanberry Fields, the Sauromugue Champaign, and Jeuno.
-    It costs ${number: 3} gil.${prompt}
-  6737: 'This complete ${keyitem-singular: 1[2]}, which extend far beneath La Theine Plateau, costs ${number: 3} gil.${prompt}'
-  6738: '${lettercase: 1}${keyitem-plural: 1[2]} include layouts for both outpost and fortress of Ghelsba, as well as the Yughott Grotto. It costs ${number: 3} gil.${prompt}'
-  6739: 'The ${keyitem-singular: 1[2]} shows the notorious Orcish stronghold hidden within Jugner Forest. It is priced at ${number: 3} gil.${prompt}'
-  6740: 'This map shows the waterways and islands that make up Carpenters'' Landing. It is priced at ${number: 3} gil.${prompt}'
+    La ${keyitem-singular: 1[2]} couvre Batallia Downs, les Champs de Rolanberry, la Plaine de Sauromugue et Jeuno.
+    Elle coûte ${number: 3} gils.${prompt}
+  6737: 'Ce ${keyitem-singular: 1[2]} complet, qui s’étend bien au-dessous du plateau de La Theine, coûte ${number: 3} gils.${prompt}'
+  6738: 'Les ${lettercase: 1}${keyitem-plural: 1[2]} incluent les plans du poste avancé et de la forteresse de Ghelsba, ainsi que la grotte de Yughott. Ils coûtent ${number: 3} gils.${prompt}'
+  6739: 'La ${keyitem-singular: 1[2]} montre le repaire des Orcs notoirement caché dans la forêt de Jugner. Elle est au prix de ${number: 3} gils.${prompt}'
+  6740: 'Cette carte montre les cours d’eau et les îles qui composent la Terre des Charpentiers. Elle est au prix de ${number: 3} gils.${prompt}'
   6741: |-
-    The ${keyitem-singular: 1[2]}, as the name implies, contains the layout of Bastok's Zeruhn Mines.
-    It costs ${number: 3} gil.${prompt}
+    La ${keyitem-singular: 1[2]}, comme son nom l'indique, contient le plan des Mines de Zeruhn de Bastok.
+    Elle coûte ${number: 3} gils.${prompt}
   6742: |-
-    The ${keyitem-singular: 1[2]}, as the name implies, contains the layout of the Palborough Mines, which lie in North Gustaberg.
-    It costs ${number: 3} gil.${prompt}
+    La ${keyitem-singular: 1[2]}, comme son nom l'indique, contient le plan des Mines de Palborough, situées dans le nord de Gustaberg.
+    Elle coûte ${number: 3} gils.${prompt}
   6743: |-
-    The ${keyitem-singular: 1[2]}, as the name implies, contains the layout of the Quadav stronghold, Beadeaux, that is located in the Pashhow Marshlands.
-    It costs ${number: 3} gil.${prompt}
+    La ${keyitem-singular: 1[2]}, comme son nom l'indique, contient le plan du repaire des Quadavs, Beadeaux, situé dans les Marais de Pashhow.
+    Elle coûte ${number: 3} gils.${prompt}
   6744: |-
-    The ${keyitem-singular: 1[2]}, as the name implies, contains the layout of Giddeus, which you can reach from West Sarutabaruta.
-    It costs ${number: 3} gil.${prompt}
+    La ${keyitem-singular: 1[2]}, comme son nom l'indique, contient le plan de Giddeus, que vous pouvez atteindre depuis l'ouest de Sarutabaruta.
+    Elle coûte ${number: 3} gils.${prompt}
   6745: |-
-    The ${keyitem-singular: 1[2]} contains the layout of the Yagudo stronghold, Castle Oztroja, located in the Meriphataud Mountains.
-    It costs ${number: 3} gil.${prompt}
+    La ${keyitem-singular: 1[2]} contient le plan du repaire des Yagudos, le château Oztroja, situé dans les Montagnes de Meriphataud.
+    Elle coûte ${number: 3} gils.${prompt}
   6746: |-
-    The ${keyitem-singular: 1[2]} contains the layout of the underground maze of Shakhrami that can be found in the Tahrongi Canyon area.
-    It costs ${number: 3} gil.${prompt}
+    La ${keyitem-singular: 1[2]} contient le plan du labyrinthe souterrain de Shakhrami, qui se trouve dans la région du Canyon de Tahrongi.
+    Elle coûte ${number: 3} gils.${prompt}
   6747: |-
-    The ${keyitem-singular: 1[2]} covers the Sanctuary of Zi'Tah, Ro'Maeve, and the Hall of the Gods.
-    It costs ${number: 3} gil.${prompt}
+    La ${keyitem-singular: 1[2]} couvre le Sanctuaire de Zi'Tah, Ro'Maeve et le Hall des Dieux.
+    Elle coûte ${number: 3} gils.${prompt}
   6748: |-
-    This map covers Bibiki Bay and its nearby islands.
-    It costs ${number: 3} gil.${prompt}
-  6749: 'The ${keyitem-singular: 1[2]} outlines the geography of nearby Qufim Island. It costs ${number: 3} gil.${prompt}'
-  6750: 'Located beneath Batallia Downs, the Eldieme Necropolis is shown in detail on this map. The price is ${number: 3} gil.${prompt}'
-  6751: 'The Garlaige Citadel, which lies upon the Sauromugue Champaign, is illustrated in this map. Each copy costs ${number: 3} gil.${prompt}'
-  6752: '${lettercase: 1}${keyitem-plural: 1[2]} include Kazham, as well as both jungles of Yuhtunga and Yhoator for ${number: 3} gil.${prompt}'
-  6753: '${lettercase: 1}${keyitem-plural: 1[2]} include ${zone: 2[2]} for ${number: 3} gil.${prompt}'
-  6754: '${lettercase: 1}${keyitem-plural: 1[2]} include ${zone: 2[2]} as well as ${zone: 4[2]} for ${number: 3} gil.${prompt}'
-  6755: '${lettercase: 1}${keyitem-plural: 1[2]} include ${zone: 2[2]}, as well as ${zone: 4[2]} and ${zone: 5[2]} for ${number: 3} gil.${prompt}'
+    Cette carte couvre la Baie de Bibiki et ses îles environnantes.
+    Elle coûte ${number: 3} gils.${prompt}
+  6749: 'La ${keyitem-singular: 1[2]} présente la géographie de l’île de Qufim voisine. Elle coûte ${number: 3} gils.${prompt}'
+  6750: 'Située sous Batallia Downs, la Nécropole d’Eldieme est détaillée sur cette carte. Le prix est de ${number: 3} gils.${prompt}'
+  6751: 'La Citadelle de Garlaige, qui se trouve sur la Plaine de Sauromugue, est illustrée sur cette carte. Chaque exemplaire coûte ${number: 3} gils.${prompt}'
+  6752: '${lettercase: 1}${keyitem-plural: 1[2]} incluent Kazham, ainsi que les deux jungles de Yuhtunga et Yhoator pour ${number: 3} gils.${prompt}'
+  6753: '${lettercase: 1}${keyitem-plural: 1[2]} incluent ${zone: 2[2]} pour ${number: 3} gils.${prompt}'
+  6754: '${lettercase: 1}${keyitem-plural: 1[2]} incluent ${zone: 2[2]} ainsi que ${zone: 4[2]} pour ${number: 3} gils.${prompt}'
+  6755: '${lettercase: 1}${keyitem-plural: 1[2]} incluent ${zone: 2[2]}, ainsi que ${zone: 4[2]} et ${zone: 5[2]} pour ${number: 3} gils.${prompt}'
   6756: |-
-    Buy ${keyitem-article: 0[2]}?
+    Acheter ${keyitem-article: 0[2]} ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  6757: You haven't enough money, ${choice-player-gender}[sir/ma'am].${prompt}
-  6758: 'Maps of the Kuzotz region include Altepa Desert as well as Rabao for ${number: 3} gil.${prompt}'
-  6759: 'Maps of the Vollbow region include Cape Teriggan, as well as Valley of Sorrows and Gustav Tunnel for ${number: 3} gil.${prompt}'
-  6760: Maps of the Korroloka Tunnel are, as their names imply, maps of the Korroloka Tunnel, which connects Altepa Desert and Zeruhn Mines.${prompt}
-  6761: 'The map of Al Zahbi also includes Aht Urhgan Whitegate and the Colosseum. It costs ${number: 2} gil.${prompt}'
-  6762: 'This map shows the layout of the Azouph Isle town of Nashmau. It costs ${number: 3} gil.${prompt}'
-  6763: 'This map shows the forest tract stretching west of Al Zahbi. A map of the Wajaom Woodlands can be yours for ${number: 3} gil.${prompt}'
-  6764: 'This map shows Bhaflau Thickets, lying to the north of Al Zahbi. It costs ${number: 3} gil.${prompt}'
-  6765: '${keyitem-article: 1[2]} is an older map that was often used to depict ${zone: 2[2]}. It costs ${number: 3} gil.${prompt}'
+    Oui.
+    Non.${prompt}
+  6757: Vous n’avez pas assez d'argent, ${choice-player-gender}[monsieur/madame].${prompt}
+  6758: 'Les cartes de la région de Kuzotz incluent le Désert d’Altepa ainsi que Rabao pour ${number: 3} gils.${prompt}'
+  6759: 'Les cartes de la région de Vollbow incluent le Cap Teriggan, ainsi que la Vallée des Douleurs et le Tunnel de Gustav pour ${number: 3} gils.${prompt}'
+  6760: Les cartes du Tunnel de Korroloka sont, comme leur nom l’indique, des cartes du Tunnel de Korroloka, qui relie le Désert d’Altepa et les Mines de Zeruhn.${prompt}
+  6761: 'La carte d’Al Zahbi inclut également Aht Urhgan Whitegate et le Colisée. Elle coûte ${number: 2} gils.${prompt}'
+  6762: 'Cette carte montre la disposition de la ville d’Azouph sur l’île de Nashmau. Elle coûte ${number: 3} gils.${prompt}'
+  6763: 'Cette carte montre la zone forestière s’étendant à l’ouest d’Al Zahbi. Une carte des Bois de Wajaom peut être la vôtre pour ${number: 3} gils.${prompt}'
+  6764: 'Cette carte montre les Fourrés de Bhaflau, situés au nord d’Al Zahbi. Elle coûte ${number: 3} gils.${prompt}'
+  6765: '${keyitem-article: 1[2]} est une ancienne carte qui était souvent utilisée pour représenter ${zone: 2[2]}. Elle coûte ${number: 3} gils.${prompt}'
   6766: (DEBUG) Flag raised, kupo!${prompt}
   6767: Welcome, Master! This is your home, the “Mog House,” kupo!${prompt}
   6768: I'm a moogle! We moogles like taking care of houses and items! Nice to meet you, kupo!${prompt}
@@ -16642,32 +16642,32 @@ entries:
   6773: So I'll teach you about each one of them! Ask me what you want to know about, kupo!${prompt}
   6774: Choose the Mog House command you want to know about, kupo!${prompt}
   6775: |-
-    What do you want to know about?
+    Que souhaitez-vous savoir ?
     ${selection-lines}
-    The Mog Safe.
-    Storage.
-    The Delivery Box.
-    Changing jobs.
-    Gardening.
-    Changing the layout.
-    Mog House invitations.
-    I got it, thanks, kupo!${prompt}
-  6776: The Mog Safe is where I keep items that you can't carry! It's an especially secure and solid safe, kupo!${prompt}
-  6777: You can only put so many items in it, kupo... But I'll guard them even if it means my life, kupo!${prompt}
-  6778: The Delivery Box is where you can send letters to friends and receive items from various places, kupo!${prompt}
-  6779: You should take the items from your Delivery Box and put them in your inventory when they arrive, kupo!${prompt}
-  6780: If your Delivery Box is full, no more deliveries can be made, and you can't send any mail either, kupo!${prompt}
-  6781: You can send items and gil to your friends with the “Send” command, kupo!${prompt}
-  6782: (Sometimes, if a special force takes hold, you can even deliver items with the "Exclusive" attribute, kupo...!)${prompt}
-  6783: Changing people's jobs is a secret ability only we moogles can use, kupo!${prompt}
-  6784: I take off all your equipment and take you to a mysterious place, kupo!${prompt}
-  6785: And...the rest is a secret, kupo!${prompt}
-  6786: All moogles like taking care of plants, kupo!${prompt}
-  6787: As long as you have a flowerpot and seeds, I'll make it my personal responsibility to look after the plants you raise, kupo!${prompt}
-  6788: This Mog House is your very own room, kupo! But it's still a little bare, kupo...${prompt}
-  6789: It needs some furniture and maybe some paintings to make it more cozy, kupo!${prompt}
-  6790: If you find any during your travels, I'll help you lay them out, kupo! I can't wait, kupo!${prompt}
-  6791: Storage space becomes available when you place furniture in your Mog House using the “Layout” command, kupo!${prompt}
+    Le Coffre Mog.
+    Le Stockage.
+    La Boîte de Livraison.
+    Changer de métier.
+    Le Jardinage.
+    Changer la disposition.
+    Les invitations à la Maison Mog.
+    J'ai compris, merci, kupo !${prompt}
+  6776: Le Coffre Mog est l'endroit où je garde les objets que vous ne pouvez pas transporter ! C'est un coffre-fort particulièrement sécurisé et solide, kupo !${prompt}
+  6777: Vous ne pouvez mettre qu'un nombre limité d'objets dedans, kupo... Mais je les garderai même si ça met ma vie en danger, kupo !${prompt}
+  6778: La Boîte de Livraison est l'endroit où vous pouvez envoyer des lettres à vos amis et recevoir des objets de différents endroits, kupo !${prompt}
+  6779: Vous devriez prendre les objets de votre Boîte de Livraison et les mettre dans votre inventaire quand ils arrivent, kupo !${prompt}
+  6780: Si votre Boîte de Livraison est pleine, aucune livraison supplémentaire ne peut être effectuée, et vous ne pouvez pas non plus envoyer de courrier, kupo !${prompt}
+  6781: Vous pouvez envoyer des objets et des gils à vos amis avec la commande "Envoyer", kupo !${prompt}
+  6782: (Parfois, si une force spéciale s'empare de vous, vous pouvez même livrer des objets avec l'attribut "Exclusif", kupo... !)${prompt}
+  6783: Changer le métier des gens est une capacité secrète que seuls les moogles peuvent utiliser, kupo !${prompt}
+  6784: Je retire tout votre équipement et vous emmène dans un endroit mystérieux, kupo !${prompt}
+  6785: Et... le reste est un secret, kupo !${prompt}
+  6786: Tous les moogles aiment s'occuper des plantes, kupo !${prompt}
+  6787: Tant que vous avez un pot de fleurs et des graines, je ferai de mon mieux pour m'occuper des plantes que vous faites pousser, kupo !${prompt}
+  6788: Cette Maison Mog est votre propre chambre, kupo ! Mais elle est encore un peu vide, kupo...${prompt}
+  6789: Elle a besoin de quelques meubles et peut-être de quelques tableaux pour la rendre plus confortable, kupo !${prompt}
+  6790: Si vous en trouvez pendant vos voyages, je vous aiderai à les disposer, kupo ! Je suis impatient, kupo !${prompt}
+  6791: L'espace de stockage devient disponible lorsque vous placez des meubles dans votre Maison Mog en utilisant la commande "Disposition", kupo !${prompt}
   6792: |-
     It's almost exactly the same as using your Mog Safe, kupo!
     Leave your items here for me to look after, kupo!${prompt}
@@ -17726,35 +17726,35 @@ entries:
     ${selection-lines}
     Of course.
     Not now.${prompt}
-  7247: It's on the island south of Batallia Downs. Don't ask me how to get there, for I do not know.${prompt}
-  7248: What a world! I had little faith in our youth before, but now...${prompt}
-  7249: 'The floor plans should be here, locked inside. We need that ${item-singular: 2[2]} to open it and ensure the plans are safe!${prompt}'
-  7250: Search for the key on the island south of Batallia Downs. I've no idea how to get there, so ask me not!${prompt}
-  7251: Should the floor plans to Chateau d'Oraguille fall into enemy hands, our kingdom will be safe no more!${prompt}
-  7252: I heard the plans were torn into three sheets. Should the enemy find but one of them...I fear for us all!${prompt}
-  7253: I wonder if this really is the key to that old box, eh?${prompt}
-  7254: Ah! It opened! And inside...?${prompt}
-  7255: There it is! Our section of the plans, safe and sound. I smell a rat in the clergy...or perhaps the royal household?${prompt}
-  7256: No, forget what I just said. Here is your reward; may it serve you well in your adventures.${prompt}
-  7257: Our piece of the plans was safe. I smell a rat in the clergy...or perhaps the royal household?${prompt}
-  7258: Long have the Royal Knights and the Temple Knights watched over our kingdom. They are the sword and shield of San d'Oria.${prompt}
-  7259: But above all in the Kingdom of San d'Oria is the Dragon Knight. Alas, who knows what became of him?${prompt}
-  7260: 'Nearby is a large square with a fountain: the Parade Grounds. Each country has a consulate there.${prompt}'
-  7261: Where are the consulates? Really, you adventurers should learn to open your main menu and select “Map” before asking directions!${prompt}
-  7262: 'Nearby is a large square with a fountain: the Parade Grounds. Each country has a consulate there.${prompt}'
-  7263: You want to find the consulates? Really, you should go to Southern San d'Oria and buy a map from the lady in front the Westgate!${prompt}
-  7264: Ever heard of the Brugaire Consortium? They're the largest trading company in San d'Oria, with merchants traveling as far as Jeuno.${prompt}
-  7265: The vast cargo rooms down at the port belong to them, you know.${prompt}
-  7266: My big brother, he's a Royal Knight. He's off fighting Orcs, far, far away from here.${prompt}
-  7267: It's so lonely without him. But someday I'll be a Royal Knight, too, fighting by his side!${prompt}
-  7268: Always take care of your sword, the body that wields it, and the spirit that guides them!${prompt}
-  7269: Whether you lose your sword or lose your arm, never quit while you still have fight left in you!${prompt}
-  7270: You've been to the cathedral, have you not? Did you not find it magnificent?${prompt}
-  7271: All things are touched by the light of judgment. Ah, but it is hard to express faith in something so crude as words.${prompt}
-  7272: Only the honorable may serve San d'Oria in all her glory. We don't need vagabonds watering down our ranks.${prompt}
-  7273: Finish your business, and get out of our city!${prompt}
-  7274: It's been twenty years since my son joined the Temple Knights... And still Ronfaure is thick with Orcs!${prompt}
-  7275: It's all the fault of those Royal Knights! Does Prince Trion think to undo all that my son has wrought? Does he?${prompt}
+  7247: C'est sur l'île au sud de Batallia Downs. Ne me demandez pas comment y arriver, car je ne le sais pas.${prompt}
+  7248: Quel monde! J'avais peu confiance en notre jeunesse auparavant, mais maintenant...${prompt}
+  7249: 'Les plans d’étage devraient être ici, enfermés à l’intérieur. Nous avons besoin de ce ${item-singular: 2[2]} pour l’ouvrir et nous assurer que les plans sont en sécurité!${prompt}'
+  7250: Cherchez la clé sur l'île au sud de Batallia Downs. Je n'ai aucune idée de comment y arriver, alors ne me demandez pas!${prompt}
+  7251: Si les plans d'étage du Château d'Oraguille tombent entre les mains de l'ennemi, notre royaume ne sera plus en sécurité!${prompt}
+  7252: J'ai entendu dire que les plans ont été déchirés en trois feuilles. Si l'ennemi en trouve une seule... J'ai peur pour nous tous!${prompt}
+  7253: Je me demande si c'est vraiment la clé de cette vieille boîte, hein?${prompt}
+  7254: Ah! Elle s'est ouverte! Et à l'intérieur...?${prompt}
+  7255: Le voilà! Notre partie des plans, saine et sauve. Je sens un rat dans le clergé... ou peut-être dans la maison royale?${prompt}
+  7256: Non, oubliez ce que je viens de dire. Voici votre récompense; qu'elle vous serve bien dans vos aventures.${prompt}
+  7257: Notre partie des plans était en sécurité. Je sens un rat dans le clergé... ou peut-être dans la maison royale?${prompt}
+  7258: Les Chevaliers Royaux et les Chevaliers du Temple veillent depuis longtemps sur notre royaume. Ils sont l'épée et le bouclier de San d'Oria.${prompt}
+  7259: Mais par-dessus tout dans le Royaume de San d'Oria, il y a le Chevalier Dragon. Hélas, qui sait ce qu'il est devenu?${prompt}
+  7260: 'À proximité se trouve une grande place avec une fontaine: les Terrains de Parade. Chaque pays a un consulat là-bas.${prompt}'
+  7261: Où sont les consulats? Vraiment, vous, les aventuriers, devriez apprendre à ouvrir votre menu principal et sélectionner “Carte” avant de demander des directions!${prompt}
+  7262: 'À proximité se trouve une grande place avec une fontaine: les Terrains de Parade. Chaque pays a un consulat là-bas.${prompt}'
+  7263: Vous voulez trouver les consulats? Vraiment, vous devriez aller à San d'Oria Sud et acheter une carte à la dame devant la Porte Ouest!${prompt}
+  7264: Avez-vous déjà entendu parler du Consortium Brugaire? C'est la plus grande société de commerce de San d'Oria, avec des marchands voyageant jusqu'à Jeuno.${prompt}
+  7265: Les vastes salles de chargement du port leur appartiennent, vous savez.${prompt}
+  7266: Mon grand frère, c'est un Chevalier Royal. Il est en train de combattre des Orcs, loin, très loin d'ici.${prompt}
+  7267: C'est si solitaire sans lui. Mais un jour, je serai aussi un Chevalier Royal, combattant à ses côtés!${prompt}
+  7268: Prenez toujours soin de votre épée, du corps qui la manie et de l'esprit qui les guide!${prompt}
+  7269: Que vous perdiez votre épée ou votre bras, ne renoncez jamais tant qu'il vous reste de la combativité!${prompt}
+  7270: Vous êtes allé à la cathédrale, n'est-ce pas? Ne l'avez-vous pas trouvée magnifique?${prompt}
+  7271: Toutes les choses sont touchées par la lumière du jugement. Ah, mais il est difficile d'exprimer la foi en quelque chose d'aussi brut que des mots.${prompt}
+  7272: Seuls les honorables peuvent servir San d'Oria dans toute sa gloire. Nous n'avons pas besoin de vagabonds pour diluer nos rangs.${prompt}
+  7273: Terminez vos affaires et sortez de notre ville!${prompt}
+  7274: Cela fait vingt ans que mon fils a rejoint les Chevaliers du Temple... Et toujours Ronfaure est envahi par les Orcs!${prompt}
+  7275: C'est de la faute de ces Chevaliers Royaux! Est-ce que le Prince Trion pense annuler tout ce que mon fils a accompli? Le pense-t-il vraiment?${prompt}
   7276: Avez-vous entendu parler de la déesse de l'aube ?${prompt}
   7277: Quand les Portes du Paradis s'ouvriront, l'Éclatante guidera tous les San d'Oriens vers son utopie céleste.${prompt}
   7278: Dans la guerre d'il y a vingt ans, les chevaliers San d'Oriens ont écrasé le Seigneur des Ombres et ses hordes. Nous avons scellé les Terres du Nord d'où il venait.${prompt}
@@ -23783,31 +23783,31 @@ entries:
   11139: They are both like children, quick to insult and quicker to take offense! Really...${prompt}
   11140: I must apologize for that. But ours is truly a great kingdom, and I expect you to further her glory.${prompt}
   11141: Those two are a handful, but they truly are the closest of brothers.${prompt}
-  11142: You seem lost, recruit. Tell me if there's anything you wish to know.${prompt}
+  11142: Vous semblez perdu, recrue. Dites-moi s'il y a quelque chose que vous souhaitez savoir.${prompt}
   11143: |-
-    Something you'd like to know?
+    Quelque chose que vous aimeriez savoir ?
     ${selection-lines}
-    Nothing in particular.
-    I want to go out and fight!
-    I want to go shopping.
-    I want to know more about adventuring.${prompt}
-  11144: Just arrived and you're already aching to leave, eh? Listen, the land is wild beyond our gates, filled with fiends and their ilk.${prompt}
-  11145: If you must go outside, head through Ranperre Gate. Allow me to explain.${prompt}
-  11146: Right now we're on the Parade Grounds. Find the gate to the west.${prompt}
-  11147: Step through and pass the furniture store and the inn. Take the gate on the left.${prompt}
-  11148: Make another left down the stairs. You'll see Ranperre Gate beyond.${prompt}
-  11149: Should you need directions, ask those around you. Our citizens are friendly, for the most part.${prompt}
-  11150: Wait, wait--one more thing. If someone aids you, be sure to show them your gratitude. That is all.${prompt}
-  11151: For weapons and basic supplies, take a walk through the city and you'll find all that you need.${prompt}
-  11152: Recruits... Don't know which way to hold a sword and you think you're ready. Well, what would you like to know?${prompt}
-  11153: You really are a handful! You need to go to Novice's Hall. Head through Victory Arch, across the courtyard, and through the gate you'll see on the right.${prompt}
+    Rien en particulier.
+    Je veux sortir et combattre !
+    Je veux faire du shopping.
+    Je veux en savoir plus sur l'aventure.${prompt}
+  11144: Vous venez juste d'arriver et vous êtes déjà impatient de partir, hein ? Écoutez, la terre est sauvage au-delà de nos portes, remplie de démons et de leurs semblables.${prompt}
+  11145: Si vous devez sortir, dirigez-vous vers la Porte de Ranperre. Permettez-moi de vous expliquer.${prompt}
+  11146: Nous sommes actuellement sur le terrain de parade. Trouvez la porte à l'ouest.${prompt}
+  11147: Passez à travers et dépassez le magasin de meubles et l'auberge. Prenez la porte à gauche.${prompt}
+  11148: Faites encore un gauche en descendant les escaliers. Vous verrez la Porte de Ranperre au-delà.${prompt}
+  11149: Si vous avez besoin d'indications, demandez à ceux qui vous entourent. Nos citoyens sont amicaux, pour la plupart.${prompt}
+  11150: Attendez, attendez - une dernière chose. Si quelqu'un vous aide, assurez-vous de lui montrer votre gratitude. C'est tout.${prompt}
+  11151: Pour les armes et les fournitures de base, faites une promenade à travers la ville et vous trouverez tout ce dont vous avez besoin.${prompt}
+  11152: Recrues... Vous ne savez pas comment tenir une épée et vous pensez être prêt. Eh bien, que voulez-vous savoir ?${prompt}
+  11153: Vous êtes vraiment une poignée ! Vous devez vous rendre à la Salle des Novices. Traversez l'Arc de la Victoire, traversez la cour et passez par la porte que vous verrez sur la droite.${prompt}
   11154: |-
-    What would you like to know about?
+    Qu'aimeriez-vous savoir ?
     ${selection-lines}
-    Helping people.
-    Hunting monsters.
-    Making easy money.
-    Working for my country.${prompt}
+    Aider les gens.
+    Chasser des monstres.
+    Gagner de l'argent facilement.
+    Travailler pour mon pays.${prompt}
   11155: Ah, un choix louable ! J'ai vu une dame devant une maison sur le Chemin du Piquier qui pourrait avoir besoin d'aide.${prompt}
   11156: Novices... Vous ne connaissez pas vos propres limites jusqu'à ce qu'un démon vous les fasse comprendre. Très bien. Que diriez-vous de rassembler des peaux pour la Guilde des Tanneurs à San d'Oria Sud ?${prompt}
   11157: San d'Oria Sud est juste au-delà de l'Arche de la Victoire là-bas. Passez par là et allez vers l'ouest. Vous trouverez la Guilde des Tanneurs rapidement.${prompt}
@@ -29785,80 +29785,80 @@ entries:
   14310: |-
     What's the matter?
     I don't think there's anything I need...${prompt}
-  14311: I see you got a chocolate for me. I can't tell how good it will be until I taste it, but maybe there's hope for me after all. Thanks so much for helping me.${prompt}
-  14312: '${color-alt: 15}${name-player}''s badge flashes brightly.${prompt}'
+  14311: Je vois que vous avez un chocolat pour moi. Je ne peux pas dire à quel point il sera bon avant de le goûter, mais peut-être qu'il y a de l'espoir pour moi après tout. Merci beaucoup de m'avoir aidé.${prompt}
+  14312: '${color-alt: 15}L’insigne de ${name-player} brille intensément.${prompt}'
   14313: |-
-    Such blasphemy in our Goddess-blessed nation...
-    Is that not a symbol of those heathens?${prompt}
+    Un tel blasphème dans notre nation bénie par la Déesse...
+    N'est-ce pas un symbole de ces païens?${prompt}
   14314: |-
-    The people of Aht Urhgan put their faith in false gods.
-    You should be ashamed of yourself.${prompt}
-  14315: Yes, I know of the badge you wear.${prompt}
-  14316: I was in the port when the Brugaire Consortium was unloading a large shipment of the things.${prompt}
+    Les habitants d'Aht Urhgan placent leur foi dans de faux dieux.
+    Vous devriez avoir honte de vous.${prompt}
+  14315: Oui, je connais l'insigne que vous portez.${prompt}
+  14316: J'étais au port lorsque le Consortium Brugaire déchargeait une grande cargaison de ces choses.${prompt}
   14317: |-
-    I wonder if even the Brugaire Consortium goes too far, sometimes.
-    This strange foreign cargo will land them in deep water with the Temple Knights, you mark my words.${prompt}
-  14318: Have you heard much about the company distributing those badges?${prompt}
+    Je me demande si même le Consortium Brugaire ne va pas trop loin parfois.
+    Cette étrange cargaison étrangère les mettra dans de beaux draps avec les Chevaliers du Temple, vous pouvez me croire.${prompt}
+  14318: Avez-vous beaucoup entendu parler de la société qui distribue ces insignes?${prompt}
   14319: |-
-    Their headquarters are in a Near Eastern town called “Al Zahbi.”
-    Rumor has it that the company president is something of a miser.${prompt}
+    Leur siège social se trouve dans une ville du Moyen-Orient appelée “Al Zahbi.”
+    On raconte que le président de la société est quelque peu avare.${prompt}
   14320: |-
-    What could they possibly want with San d'Oria?
-    You may want to think twice before clipping on one of those things.${prompt}
+    Que peuvent-ils bien vouloir à San d'Oria?
+    Vous devriez peut-être réfléchir à deux fois avant d'accrocher l'un de ces trucs.${prompt}
   14321: |-
-    The other day I saw a man wandering around town wearing the most unusual clothing.
-    Is there some festival I am not aware of?${prompt}
+    L'autre jour, j'ai vu un homme se promener en ville portant des vêtements très inhabituels.
+    Y a-t-il une fête à laquelle je ne suis pas au courant?${prompt}
   14322: |-
-    How could you possibly not have heard?
-    The Near Eastern folk are recruiting soldiers on a massive scale to quell some war that is raging with the beastmen.${prompt}
+    Comment se fait-il que vous n'ayez pas entendu?
+    Les gens du Moyen-Orient recrutent des soldats à grande échelle pour réprimer une guerre qui fait rage avec les bêtes.${prompt}
   14323: |-
-    You cannot be serious!
-    Do you mean to tell me that another frightful Crystal War once more threatens our fair home?${prompt}
+    Vous ne pouvez pas être sérieux!
+    Voulez-vous me dire qu'une autre effroyable Guerre des Cristaux menace à nouveau notre belle patrie?${prompt}
   14324: |-
-    There is no need to be so dramatic, Anilla.
-    The Near East is not quite so near as to warrant an immediate descent into panic and despair.
-    The only people this news pertains to are those action-hungry adventurers.${prompt}
-  14325: Speaking of which, I had one of those unruly brutes burst into my home while I was dusting, and proceed to boast about some badge he'd received...${prompt}
-  14326: Simply unforgivable. If one must brag of some possession so badly, one should at least observe the common courtesy of knocking...${prompt}
+    Il n'y a pas besoin d'être si dramatique, Anilla.
+    Le Moyen-Orient n'est pas si proche pour justifier une descente immédiate dans la panique et le désespoir.
+    Les seules personnes concernées par cette nouvelle sont ces aventuriers assoiffés d'action.${prompt}
+  14325: En parlant de cela, l'un de ces brutes indisciplinées est entré chez moi alors que je faisais le ménage, et a commencé à se vanter d'un badge qu'il avait reçu...${prompt}
+  14326: Simplement impardonnable. Si l'on doit se vanter d'une possession de cette manière, on devrait au moins observer la courtoisie commune de frapper à la porte...${prompt}
   14327: |-
-    Oh my, I thought a shooting star had crossed my vision for a moment there.
-    I believe I just made a wish on your badge, ${choice-player-gender}[good sir/madame].${prompt}
+    Oh là là, j'ai cru voir une étoile filante traverser ma vision pendant un instant.
+    Je crois que je viens de faire un vœu sur votre insigne, ${choice-player-gender}[cher monsieur/chère madame].${prompt}
   14328: |-
-    It comes from the Near East, you say?
-    Such a captivating shine it has.
-    I wonder if the stars in that nation burn as brightly as they do here? Perhaps I shall go and see for myself...${prompt}
-  14329: Come and celebrate the Doll Festival with us, kupo!${prompt}
+    Vous dites qu'il vient du Proche-Orient ?
+    Il a une brillance si captivante.
+    Je me demande si les étoiles dans cette nation brillent aussi fort qu'ici ? Peut-être irai-je voir par moi-même...${prompt}
+  14329: Venez célébrer la Fête des Poupées avec nous, kupo !${prompt}
   14330: |-
-    We've got items for everyone!
-    Here you go, kupo!${prompt}
-  14331: Come again and bring your friends! Each of them will also get an item, kupo!${prompt}
-  14332: You can get items only once each day, so come back again tomorrow, kupo!${prompt}
-  14333: 'You obtain ${number: 4} ${item-given-plurality: 4[2], 0[2]}, ${number: 4} ${item-given-plurality: 4[2], 1[2]}, ${number: 4} ${item-given-plurality: 4[2], 2[2]}, and ${number: 4} ${item-given-plurality: 4[2], 3[2]}!${prompt}'
+    Nous avons des objets pour tout le monde !
+    Tenez, kupo !${prompt}
+  14331: Revenez et amenez vos amis ! Chacun d'eux recevra également un objet, kupo !${prompt}
+  14332: Vous ne pouvez obtenir des objets qu'une fois par jour, alors revenez demain, kupo !${prompt}
+  14333: 'Vous obtenez ${number: 4} ${item-given-plurality: 4[2], 0[2]}, ${number: 4} ${item-given-plurality: 4[2], 1[2]}, ${number: 4} ${item-given-plurality: 4[2], 2[2]}, et ${number: 4} ${item-given-plurality: 4[2], 3[2]} !${prompt}'
   14334: |-
-    Kupopopo～!
-    This is terrible!
-    Sneaky scoundrels have swiped the armor we brought in for the Feast of Swords, kupo!${prompt}
-  14335: The villains wearing the armor are invulnerable to normal weapons! And as if that wasn't enough, they're surrounded by a powerful aura that prevents them from being attacked at all, kupo!${prompt}
+    Kupopopo～ !
+    C'est terrible !
+    Des scélérats sournois ont dérobé l'armure que nous avions apportée pour la Fête des Épées, kupo !${prompt}
+  14335: Les méchants portant l'armure sont invulnérables aux armes normales ! Et comme si cela ne suffisait pas, ils sont entourés d'une puissante aura qui empêche toute attaque contre eux, kupo !${prompt}
   14336: |-
-    But never fear!
-    Our top moogle researchers have created a weapon that can injure these armor-thieving hooligans!
-    Behold the wondrous ${item-singular: 0[2]}, kupo!${prompt}
-  14337: The nomad moogles have also developed a magic that will annul that anti-attack aura, so be sure to pay them a visit while wearing the weapon before you engage the enemy, kupo.${prompt}
-  14338: But be warned--this magic has the side-effect of preventing you from attacking any other monster for three whole days, kupo!${prompt}
+    Mais ne craignez rien !
+    Nos meilleurs chercheurs moogles ont créé une arme capable de blesser ces voleurs d'armure !
+    Voici la merveilleuse ${item-singular: 0[2]}, kupo !${prompt}
+  14337: Les moogles nomades ont également développé une magie qui annulera cette aura anti-attaque, alors n'oubliez pas de leur rendre visite en portant l'arme avant d'affronter l'ennemi, kupo.${prompt}
+  14338: Mais attention—cette magie a pour effet secondaire de vous empêcher d'attaquer tout autre monstre pendant trois jours entiers, kupo !${prompt}
   14339: |-
-    Here's your ${item-singular: 0[2]}.
-    Now you're ready to do battle, kupo!${prompt}
-  14340: 'If you want to cross swords with the invincible interlopers, equip the ${item-singular: 0[2]} and talk to a nomad moogle, kupo!${prompt}'
+    Voici votre ${item-singular: 0[2]}.
+    Vous êtes maintenant prêt pour le combat, kupo !${prompt}
+  14340: 'Si vous voulez croiser le fer avec les intrus invincibles, équipez la ${item-singular: 0[2]} et parlez à un moogle nomade, kupo !${prompt}'
   14341: |-
-    Kupopo!
-    The Sunbreeze Festival's main event is back and better than ever!${prompt}
-  14342: And this time, it's called Azimuth Circle...II!${prompt}
-  14343: Would you like to know more, kupo?${prompt}
+    Kupopo !
+    L'événement principal du Festival de la Brise Solaire est de retour et mieux que jamais !${prompt}
+  14342: Et cette fois, il s'appelle Cercle Azimut... II !${prompt}
+  14343: Voulez-vous en savoir plus, kupo ?${prompt}
   14344: |-
-    Want to know more?
+    Vous voulez en savoir plus ?
     ${selection-lines}
-    Fill me in!
-    I'm okay for now, kupo.${prompt}
+    Racontez-moi tout !
+    Ça va pour l'instant, kupo.${prompt}
   14345: To play Azimuth Circle II, you'll need to team up with a partner and use a compass to search for a specific point.${prompt}
   14346: So your first step is to find that special somebody and form a party!${prompt}
   14347: Then talk to an event moogle, and we'll send you both out of town, kupo!${prompt}
