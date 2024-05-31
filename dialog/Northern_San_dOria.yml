@@ -17079,32 +17079,33 @@ entries:
   6927: |-
     The hallowed halls of your house are even more exciting!
     Why? Because now there's a second floor, kupo!${prompt}
-  6928: But before you bash your way in, I've got a trifling task for you to tackle.${prompt}
-  6929: Capricious Mithra cubs have cajoled critical information out of the M.H.M.U., and I want you to wrest it from them!${prompt}
-  6930: Visit the three nations and question them, kupo!${prompt}
-  6931: Now you know the nitty-gritty, so enjoy your new floor, kupo!${prompt}
-  6932: Kupopo? You mean you already know?${prompt}
-  6933: Magnificent and marvelous! Then proceed without delay!${prompt}
-  6934: Enjoy extra space to store your sundries!${prompt}
-  6935: Remodel your room to fit your finicky tastes!${prompt}
-  6936: Incorporate ostentatious overseas objects! All this and more!${prompt}
-  6937: But only on the second floor, kupo. I like the first floor as it is.${prompt}
-  6938: And as for your potted plants--they only persevere on the ground, kupo.${prompt}
-  6939: And moghancement effects only activate for furnishings fitted to the first floor.${prompt}
-  6940: Wish we could help more, but we spend enormous amounts of energy on one floor already!${prompt}
-  6941: Go forth and frolic in your new abode, kupo!${prompt}
-  6942: You can access the antechambers from the front door. Enjoy!${prompt}
-  6943: '${lettercase: 1}${item-plural: 3[2]} might bring a certain je ne sais quoi to your Mog House, kupo!${prompt}'
-  6944: Ah, I never thought that this day would come, kupo...${prompt}
-  6945: Indeed, it seems like just yesterday that we first met here.${prompt}
-  6946: I have watched with wonder as you grew before my very eyes, kupo.${prompt}
-  6947: In fact, I heard many tales of your boundless bravery from my friends across the world.${prompt}
-  6948: Every time, it made me feel much like a proud parent would.${prompt}
-  6949: It was like I was right there with you, kupo.${prompt}
-  6950: That is why I ceaselessly cleaned your Mog House, merrily managed your belongings, and watered your plants.${prompt}
-  6951: I couldn't really think of any other ways to help you, kupo.${prompt}
-  6952: However, I heard about the trials and tribulations that you've been through.${prompt}
-  6953: Valhalla, the Maelstrom Mage, Chaos...${prompt}
+  6928: |-
+    Mais avant que vous ne fonciez, j'ai une petite tâche à vous confier, kupo.${prompt}
+  6929: Des jeunes Mithras capricieuses ont réussi à obtenir des informations cruciales de la M.H.M.U., et je veux que vous les leur arrachiez, kupo !${prompt}
+  6930: Visitez les trois nations et interrogez-les, kupo !${prompt}
+  6931: Maintenant que vous connaissez les détails, profitez de votre nouvel étage, kupo !${prompt}
+  6932: Kupopo ? Vous voulez dire que vous le savez déjà ?${prompt}
+  6933: Magnifique et merveilleux ! Alors passez à l'action sans tarder !${prompt}
+  6934: Profitez d'un espace supplémentaire pour ranger vos babioles !${prompt}
+  6935: Remodèle votre chambre selon tes goûts exigeants !${prompt}
+  6936: Incorporez des objets ostentatoires venus d'outre-mer ! Tout cela et plus encore !${prompt}
+  6937: Mais seulement au deuxième étage, kupo. J'aime le premier étage tel qu'il est.${prompt}
+  6938: Et quant à vos plantes en pot, elles ne prospèrent que sur le sol, kupo.${prompt}
+  6939: Et les effets de moghancement ne s'activent que pour les meubles adaptés au premier étage, kupo.${prompt}
+  6940: J'aimerais pouvoir vous aider davantage, mais nous dépensons déjà énormément d'énergie pour un seul étage !${prompt}
+  6941: Allez, amusez-vous dans votre nouveau chez-vous, kupo !${prompt}
+  6942: Vous pouvez accéder aux antichambres depuis la porte d'entrée. Profitez-en !${prompt}
+  6943: 'Les ${lettercase: 1}${item-plural: 3[2]} pourraient apporter une certaine touche à votre Mog House, kupo !${prompt}'
+  6944: Ah, je n'aurais jamais pensé que ce jour arriverait, kupo...${prompt}
+  6945: En effet, on dirait que c'était hier que nous nous sommes rencontrés ici pour la première fois.${prompt}
+  6946: J'ai observé avec émerveillement votre croissance devant mes yeux, kupo.${prompt}
+  6947: En fait, j'ai entendu de nombreux récits sur votre bravoure sans limites de la part de mes amis à travers le monde.${prompt}
+  6948: Chaque fois, cela me rendait aussi fier qu'un parent le serait.${prompt}
+  6949: J'avais l'impression d'être là avec vous, kupo.${prompt}
+  6950: C'est pourquoi j'ai continuellement nettoyé votre Mog House, géré joyeusement vos affaires et arrosé vos plantes, kupo.${prompt}
+  6951: Je ne pouvais pas vraiment penser à d'autres façons de vous aider, kupo.${prompt}
+  6952: Cependant, j'ai entendu parler des épreuves et des tribulations que vous avez traversées.${prompt}
+  6953: Valhalla, le Mage du Maelstrom, Chaos...${prompt}
   6954: |-
     Kupopopo!
     Now I can actually assist you!${prompt}
@@ -17150,26 +17151,26 @@ entries:
     Yes.
     No.${prompt}
   6972: |-
-    I know it isn't an easy decision to make.
-    Please think it through before you decide.${prompt}
+    Je sais que ce n'est pas une décision facile à prendre.
+    Veuillez bien y réfléchir avant de décider.${prompt}
   6973: |-
-    Very well.
-    I will accept your application for ${choice: 3}[San d'Orian/Bastokan/Windurstian] citizenship.${prompt}
+    Très bien.
+    J'accepterai votre demande de citoyenneté ${choice: 3}[san d'oréenne/bastokienne/windurstienne].${prompt}
   6974: |-
-    I will now cast a spell to seal some of your memories away.
-    Close your eyes...${prompt}
-  6975: May your decision be a wise one...${prompt}
-  6976: 'You are now a citizen of ${choice: 3}[San d''Oria/Bastok/Windurst]!'
+    Je vais maintenant jeter un sort pour sceller certains de vos souvenirs.
+    Fermez les yeux...${prompt}
+  6975: Que votre décision soit sage...${prompt}
+  6976: 'Vous êtes désormais citoyen de ${choice: 3}[San d’Oria/Bastok/Windurst] !'
   6977: |-
-    This is where citizens of other nations apply for citizenship in ${choice: 3}[San d'Oria/Bastok/Windurst].
-    Since you are ${choice: 3}[San d'Orian/Bastokan/Windurstian], there is not much I can do for you.${prompt}
-  6978: 'I cannot accept applications for ${choice: 3}[San d''Orian/Bastokan/Windurstian] citizenship while you are on a mission.${prompt}'
-  6979: 'Your home country seems to be in trouble... I cannot accept ${choice: 3}[San d''Orian/Bastokan/Windurstian] citizenship applications at this time.${prompt}'
+    C'est ici que les citoyens des autres nations font une demande de citoyenneté à ${choice: 3}[San d'Oria/Bastok/Windurst].
+    Étant donné que vous êtes ${choice: 3}[san d'oréen/bastokien/windurstien], je ne peux pas faire grand-chose pour vous.${prompt}
+  6978: "Je ne peux pas accepter les demandes de citoyenneté ${choice: 3}[san d'oréenne/bastokienne/windurstienne] pendant que vous êtes en mission.${prompt}"
+  6979: "Votre pays d'origine semble avoir des problèmes... Je ne peux pas accepter les demandes de citoyenneté ${choice: 3}[san d'oréenne/bastokienne/windurstienne] pour le moment.${prompt}"
   6980: |-
-    Join the ${choice: 6}[Fishermen's/Carpenters'/Blacksmiths'/Goldsmiths'/Weavers'/Tanners'/Boneworkers'/Alchemists'/Culinarians'] Guild?
+    Rejoindre la guilde des ${choice: 6}[pêcheurs/charpentiers/forgerons/orfèvres/tisserands/tanneurs/artisanat osseux/alchimistes/cuisiniers] ?
     ${selection-lines}
-    Sign up.
-    That's not why you're here.${prompt}
+    S'inscrire.
+    Ce n'est pas pour ça que vous êtes ici.${prompt}
   6981: |-
     Request...?
     ${selection-lines}
@@ -23967,274 +23968,274 @@ entries:
     おお、そりゃ助かるよ。仲間の名前は
     （木こり）だ。東ロンフォールのどこかに
     いるはずだから${prompt}
-  11293: Greetings, faithful one. Have you come to hear the vicasque's sermons? Indeed they are the surest way to Paradise.${prompt}
-  11294: I study scripture so that I, too, may one day give sermons like Vicasque Arnau.${prompt}
-  11295: In this chamber we study the teachings of Altana. Through years of prayer and devotion have we earned this right.${prompt}
-  11296: By the way, I have heard of your deeds, and I would ask of you a trivial favor.${prompt}
-  11297: One of our order is on retreat at the Crag of Holla. Might you take him scrolls for his next circle?${prompt}
-  11298: How unfortunate! I fear your place in Paradise may be in jeopardy.${prompt}
-  11299: 'Great is the generosity in your heart! Take ${keyitem-article: 0[2]} and carry it to Friar Faurbellant at the Crag of Holla.${prompt}'
-  11300: 'Friar Faurbellant is on retreat at the Crag of Holla. Please give ${keyitem-article: 0[2]} to him.${prompt}'
-  11301: Gracious are we for your service. Receive this as acknowledgment of your devotion.${prompt}
-  11302: Friars spend every day in ascetic training. Greet them kindly; it will inspire them to strive ever harder.${prompt}
-  11303: How may I help you?${prompt}
-  11304: I'm in a hurry, my good fellow! I need five iron swords, and quick!${prompt}
-  11305: I can only do what I can do, no more.${prompt}
-  11306: I was ordered by the captain himself! We're sending a force to Batallia Downs tomorrow, and they need blades!${prompt}
-  11307: I don't care who's ordered what! I can't make blades without iron, now, can I? If you want them that badly, bring me metal!${prompt}
-  11308: Stop it right now, the both of you. This is a place of business!${prompt}
-  11309: Hmph... You're right. But how am I to get the iron?${prompt}
-  11310: Why don't you just cop some weapons from Orcs in Ghelsba? Kill two birds with one stone, that way.${prompt}
-  11311: You mean, melt down the Orcish weapons to make new ones? Now, that's an idea. How many would you need?${prompt}
-  11312: Hmm... I'd say about 10 knives, give or take a blade.${prompt}
-  11313: Then speed is our ally! Quick, you go to the forest and I will report back to the captain.${prompt}
-  11314: Eh? I'm a blacksmith! I make swords, not use 'em! I'm not fighting no Orcs.${prompt}
-  11315: Mind your tongue, insolent smith! Do you not know who I am? I am Lord Ancolain, officer of the Royal Knights!${prompt}
-  11316: Really, behave yourselves! Why don't you just go find an adventurer to do the job?${prompt}
-  11317: Things aren't usually this rough around here, really. Say, you look like a bit of an adventurer, yourself. How about it?${prompt}
-  11318: You're an adventurer, right? As you may have heard, we're in need of your services.${prompt}
+  11293: Salutations, fidèle. Es-tu venu écouter les sermons du vicasque ? Ils sont en effet la voie la plus sûre vers le Paradis.${prompt}
+  11294: J'étudie les écritures pour qu'un jour, moi aussi, je puisse donner des sermons comme le Vicasque Arnau.${prompt}
+  11295: Dans cette salle, nous étudions les enseignements d'Altana. Par des années de prière et de dévotion, nous avons mérité ce droit.${prompt}
+  11296: Au fait, j'ai entendu parler de tes exploits, et je te demanderais une faveur triviale.${prompt}
+  11297: Un de nos membres est en retraite au Cratère de Holla. Pourrais-tu lui apporter des parchemins pour son prochain cercle ?${prompt}
+  11298: Quelle malchance ! Je crains que ta place au Paradis ne soit en danger.${prompt}
+  11299: 'Grande est la générosité dans ton cœur ! Prends ${keyitem-article: 0[2]} et porte-le à Frère Faurbellant au Cratère de Holla.${prompt}'
+  11300: 'Frère Faurbellant est en retraite au Cratère de Holla. Veuillez lui donner ${keyitem-article: 0[2]}.${prompt}'
+  11301: Nous te sommes reconnaissants pour ton service. Reçois ceci en reconnaissance de ta dévotion.${prompt}
+  11302: Les frères passent chaque jour en entraînement ascétique. Salue-les gentiment ; cela les inspirera à s'efforcer toujours plus.${prompt}
+  11303: Comment puis-je t'aider ?${prompt}
+  11304: Je suis pressé, mon bon monsieur ! J'ai besoin de cinq épées de fer, et vite !${prompt}
+  11305: Je ne peux faire que ce que je peux faire, pas plus.${prompt}
+  11306: C'est un ordre du capitaine en personne ! Nous envoyons une force aux Abords de Batallia demain, et ils ont besoin de lames !${prompt}
+  11307: Je me fiche de qui a ordonné quoi ! Je ne peux pas fabriquer des lames sans fer, n'est-ce pas ? Si tu les veux tant, apporte-moi du métal !${prompt}
+  11308: Arrêtez immédiatement, vous deux. C'est un lieu de travail !${prompt}
+  11309: Hmph... Tu as raison. Mais comment vais-je obtenir le fer ?${prompt}
+  11310: Pourquoi ne pas prendre des armes aux Orcs de Ghelsba ? Tu ferais d'une pierre deux coups.${prompt}
+  11311: Tu veux dire, fondre les armes orques pour en faire des nouvelles ? Voilà une idée. Combien en aurais-tu besoin ?${prompt}
+  11312: Hmm... Je dirais environ 10 couteaux, plus ou moins une lame.${prompt}
+  11313: Alors, la vitesse est notre alliée ! Vite, tu vas dans la forêt et je fais mon rapport au capitaine.${prompt}
+  11314: Hein ? Je suis forgeron ! Je fais des épées, je ne les utilise pas ! Je ne combats pas les Orcs.${prompt}
+  11315: Surveille ton langage, forgeron insolent ! Ne sais-tu pas qui je suis ? Je suis le Seigneur Ancolain, officier des Chevaliers Royaux !${prompt}
+  11316: Vraiment, comportez-vous bien ! Pourquoi ne pas simplement trouver un aventurier pour faire le travail ?${prompt}
+  11317: Les choses ne sont généralement pas aussi agitées par ici, vraiment. Dis, tu as l'air d'un aventurier, toi-même. Qu'en dis-tu ?${prompt}
+  11318: Tu es un aventurier, n'est-ce pas ? Comme tu as pu l'entendre, nous avons besoin de tes services.${prompt}
   11319: |-
-    Listen to what he has to say?
+    Écouter ce qu'il a à dire ?
     ${selection-lines}
-    Listen.
-    Turn away.${prompt}
-  11320: My... Adventurers these days! Too busy to lend a helping hand.${prompt}
-  11321: Listen close, they are many Orcs in the camps of Ghelsba, and some carry knives.${prompt}
-  11322: Might you be able to gather ten of those knives and bring them here? We've not much time.${prompt}
-  11323: How fare you? Have you gotten the knives?${prompt}
-  11324: 'Looks like you''ve got ${number: 0} ${choice-plurality: 0}[knife/knives] so far. Bring ${number: 1} more, and please hurry!${prompt}'
-  11325: Our stalwart adventurer has returned! You've brought all ten! Let's have them, then.${prompt}
-  11326: That's 10 Orcish knives. Perfect, and thank you.${prompt}
-  11327: I...see.${prompt}
-  11328: I'm right in the middle of something important. Please be quiet.${prompt}
-  11329: Can't you see I'm busy? If you've some business, talk to me later.${prompt}
-  11330: It seems that officer is in a pickle. Maybe you could help him out, eh?${prompt}
-  11331: That officer was singing in praise of you. Aye, you've the makings of a fine adventurer!${prompt}
-  11332: It's a sign of troubled times when we're this busy. I appreciate the extra gil, but worrying for my skin isn't worth it.${prompt}
-  11333: A smith is not judged by his strength, but by his skill in his art!${prompt}
-  11334: This is the reliquary, where our late papsque, Muchavatte, is interred.${prompt}
-  11335: We continue our spiritual discipline here, so that we may reach Paradise like His Holiness before us.${prompt}
-  11336: Behold the candles on either side of the epitaph. Vigilantly their flames have burned since the departure of Papsque Muchavatte.${prompt}
-  11337: They are placed here to light his way to Paradise.${prompt}
-  11338: 'But many a candle are needed to keep his journey alight. Ever must the faithful bring ${item-plural: 0[2]} for candle-making.${prompt}'
-  11339: 'We humbly ask visitors to donate two ${item-plural: 0[2]}. Would you make an offering?${prompt}'
-  11340: 'Altana smiles on the generous. Once you have obtained two ${item-plural: 0[2]}, carry them hither.${prompt}'
-  11341: Surely the late papsque frowns upon you. Return hither when you remember charity.${prompt}
-  11342: May Paradise open its gates to you.${prompt}
-  11343: 'I thank you for offering two ${item-plural: 0[2]}. The late papsque would be pleased.${prompt}'
-  11344: 'In thanks for your service, the San d''Oria Cathedral presents you with this ${item-singular: 0[2]}. Wear it, and Altana''s providence will be yours.${prompt}'
-  11345: I thank you for your generous offering, but I am afraid I cannot accept this.${prompt}
-  11346: I await your offering.${prompt}
-  11347: Thank you for your generous service.${prompt}
-  11348: Ah, if it isn't our favorite adventurer! The guests were overjoyed, thanks to you.${prompt}
-  11349: Actually, we're in need of your help again...if you have the time, that is.${prompt}
-  11350: One of our guests from last night has caught cold. We'd like to help, but we've no medicine, you see.${prompt}
-  11351: There is an old woman named Amaura, a brewer of salves and medicines, in Southern San d'Oria. Might you be able to fetch one from her?${prompt}
-  11352: Of course there's something in it for you, too. What do you say?${prompt}
-  11353: So, you've decided to talk to Amaura for us?${prompt}
-  11354: I see... I'll just have to look for someone else. Come by again if you change your mind.${prompt}
-  11355: I knew you were the one to ask, as always!${prompt}
-  11356: Amaura makes her home on Watchdog Alley. If you can't find her, ask someone along the way. I'll be waiting here!${prompt}
-  11357: Ah, just the stuff! I'll buy it from you and give it to the guest right away!${prompt}
-  11358: You've been a great help, again. I don't know how to thank you!${prompt}
-  11359: Hrm... Mysteries... Why is this part different from all the rest?${prompt}
-  11360: A receipt, eh? I can't read this fancy writing. Who's it for? Prince Trion, or Prince Pieuje?${prompt}
+    Écouter.
+    Tourner le dos.${prompt}
+  11320: Mon... Les aventuriers de nos jours ! Trop occupés pour donner un coup de main.${prompt}
+  11321: Écoute bien, il y a beaucoup d'Orcs dans les camps de Ghelsba, et certains portent des couteaux.${prompt}
+  11322: Pourrais-tu rassembler dix de ces couteaux et les apporter ici ? Nous n'avons pas beaucoup de temps.${prompt}
+  11323: Comment ça va ? As-tu récupéré les couteaux ?${prompt}
+  11324: 'Il semble que tu aies ${number: 0} ${choice-plurality: 0}[couteau/couteaux] pour le moment. Apporte encore ${number: 1}, et fais vite, s’il te plaît !${prompt}'
+  11325: Notre vaillant aventurier est revenu ! Tu as apporté les dix ! Donne-les-nous, alors.${prompt}
+  11326: Voilà 10 couteaux orques. Parfait, et merci.${prompt}
+  11327: Je... vois.${prompt}
+  11328: Je suis en plein milieu de quelque chose d'important. S'il te plaît, sois silencieux.${prompt}
+  11329: Ne vois-tu pas que je suis occupé ? Si tu as une affaire, parle-moi plus tard.${prompt}
+  11330: On dirait que cet officier est dans le pétrin. Peut-être pourrais-tu l'aider, hein ?${prompt}
+  11331: Cet officier chantait tes louanges. Oui, tu as les qualités d'un bon aventurier !${prompt}
+  11332: C'est un signe des temps troublés quand nous sommes aussi occupés. J'apprécie les gils supplémentaires, mais m'inquiéter pour ma peau n'en vaut pas la peine.${prompt}
+  11333: Un forgeron n'est pas jugé par sa force, mais par son habileté dans son art !${prompt}
+  11334: Voici le reliquaire, où notre défunt papsque, Muchavatte, est enterré.${prompt}
+  11335: Nous continuons notre discipline spirituelle ici, pour que nous puissions atteindre le Paradis comme Sa Sainteté avant nous.${prompt}
+  11336: Regardez les bougies de chaque côté de l'épitaphe. Leurs flammes brûlent vigilamment depuis le départ du Papsque Muchavatte.${prompt}
+  11337: Elles sont placées ici pour éclairer son chemin vers le Paradis.${prompt}
+  11338: 'Mais beaucoup de bougies sont nécessaires pour éclairer son voyage. Les fidèles doivent toujours apporter ${item-plural: 0[2]} pour la fabrication de bougies.${prompt}'
+  11339: 'Nous demandons humblement aux visiteurs de donner deux ${item-plural: 0[2]}. Ferais-tu une offrande ?${prompt}'
+  11340: 'Altana sourit aux généreux. Une fois que tu as obtenu deux ${item-plural: 0[2]}, apporte-les ici.${prompt}'
+  11341: Assurément, le défunt papsque te désapprouve. Reviens ici quand tu te souviendras de la charité.${prompt}
+  11342: Que le Paradis t'ouvre ses portes.${prompt}
+  11343: 'Je te remercie pour avoir offert deux ${item-plural: 0[2]}. Le défunt papsque serait satisfait.${prompt}'
+  11344: 'En remerciement pour ton service, la cathédrale de San d’Oria te présente ce ${item-singular: 0[2]}. Porte-le, et la providence d’Altana sera tienne.${prompt}'
+  11345: Je te remercie pour ton généreux don, mais je crains de ne pouvoir l’accepter.${prompt}
+  11346: J'attends ton offrande.${prompt}
+  11347: Merci pour ton généreux service.${prompt}
+  11348: Ah, si ce n'est notre aventurier préféré ! Les invités étaient ravis, grâce à toi.${prompt}
+  11349: En fait, nous avons encore besoin de ton aide... si tu as le temps, bien sûr.${prompt}
+  11350: Un de nos invités d'hier soir a attrapé froid. Nous voudrions l'aider, mais nous n'avons pas de médicament, tu vois.${prompt}
+  11351: Il y a une vieille femme nommée Amaura, une préparatrice de baumes et de médicaments, dans le Sud de San d'Oria. Pourrais-tu en obtenir un d'elle ?${prompt}
+  11352: Bien sûr, il y a aussi quelque chose pour toi. Qu'en dis-tu ?${prompt}
+  11353: Alors, tu as décidé de parler à Amaura pour nous ?${prompt}
+  11354: Je vois... Je vais devoir chercher quelqu'un d'autre. Reviens si tu changes d'avis.${prompt}
+  11355: Je savais que tu étais la bonne personne à qui demander, comme toujours !${prompt}
+  11356: Amaura vit dans la ruelle du Chien de Garde. Si tu ne la trouves pas, demande à quelqu'un en chemin. Je t'attendrai ici !${prompt}
+  11357: Ah, juste ce qu'il faut ! Je vais te l'acheter et le donner à l'invité tout de suite !${prompt}
+  11358: Tu as été d'une grande aide, encore une fois. Je ne sais pas comment te remercier !${prompt}
+  11359: Hrm... Mystères... Pourquoi cette partie est-elle différente de toutes les autres ?${prompt}
+  11360: Un reçu, hein ? Je ne peux pas lire cette écriture élégante. Pour qui est-ce ? Le Prince Trion ou le Prince Pieuje ?${prompt}
   11361: |-
-    Who is it for?
+    Pour qui est-ce ?
     ${selection-lines}
     Prince Trion.
     Prince Pieuje.${prompt}
   11362: （トリオン様に渡してほしい。）${prompt}
   11363: （ピエージェ様に渡してほしい。）${prompt}
-  11364: All right, I'll deliver it for you. We can't let you in looking like that! Wait here.${prompt}
-  11365: 'I delivered the ${keyitem-singular: 0[2]} to Prince Trion. You''re dismissed.${prompt}'
-  11366: 'I delivered the ${keyitem-singular: 0[2]} to Prince Pieuje. You''re dismissed.${prompt}'
-  11367: Imbecile! That envelope was for Prince Trion, not Prince Pieuje! Such idiocy... Get out of here!${prompt}
-  11368: Imbecile! That envelope was for Prince Pieuje, not Prince Trion! Such idiocy... Get out of here!${prompt}
-  11369: Oh, and tell that shopkeeper to send someone respectable next time!${prompt}
-  11370: I've delivered the receipt. Give the prince's regards to that shopkeeper.${prompt}
-  11371: Nothing to report.${prompt}
-  11372: Behold Chateau d'Oraguille, the greatest fortress in the realm!${prompt}
-  11373: You stand before Chateau d'Oraguille. If you've no business here, begone!${prompt}
-  11374: Hey! Who said you could go in? Get back here, scum!${prompt}
-  11375: Proceed!${prompt}
-  11376: This is Victory Arch. Beyond lies Southern San d'Oria.${prompt}
-  11377: You stand before Victory Arch. Southern San d'Oria is on the other side.${prompt}
-  11378: This gate leads to Port San d'Oria.${prompt}
-  11379: This is Ranperre Gate. Fiends lurk in the lands beyond, so take caution!${prompt}
-  11380: Blessed are those who cherish Altana and heed the word of the papsque. To them the Gates of Paradise will open.${prompt}
-  11381: We're here to see the papsque address the faithful. He sometimes stands at the cathedral balcony beneath the steeple.${prompt}
-  11382: Hmm... His Holiness should appear soon.${prompt}
-  11383: I see him! The papsque!${prompt}
-  11384: Yes, there he is!${prompt}
-  11385: Beloved San d'Oria, Altana watches over us, always.${prompt}
-  11386: She is the ally of the weak. She feeds the hungry and clothes the needy.${prompt}
-  11387: She has given us the path to eternal Paradise. By this trial shall she judge us all.${prompt}
-  11388: May Paradise open its gates to all her children!${prompt}
-  11389: His words resound in my heart, long after they are spoken.${prompt}
-  11390: Every time I see the papsque, I feel as though I'm one step closer to Paradise!${prompt}
-  11391: Everyone should seek blessing from the papsque himself!${prompt}
-  11392: Welcome to the Consulate of Jeuno. I am Galahad, Consul to San d'Oria.${prompt}
-  11393: May I assist you?${prompt}
-  11394: If you have business with Consul Galahad, you'll find him inside.${prompt}
-  11395: Welcome to the Consulate of Jeuno.${prompt}
-  11396: Hello there. I'm the consul from Bastok. Name's Helaku.${prompt}
-  11397: 'I''m Consul Helaku. Didn''t you bring ${keyitem-article: 0[2]}? Oh well, just take a look around then. Might as well enjoy the place while you''re here.${prompt}'
-  11398: Pardon me, but we're in the middle of a very important discussion here.${prompt}
-  11399: You're here with business from the administration, correct? I believe you should talk to Consul Helaku.${prompt}
-  11400: You're here with business from the administration, correct? You should probably talk to Consul Helaku.${prompt}
-  11401: Welcome to the Consulate of Bastok.${prompt}
-  11402: A San d'Orian, huh? This is the Consulate of Bastok. We're here to serve travelers from Bastok.${prompt}
-  11403: A Windurstian, huh? This is the Consulate of Bastok. The Consulate of Windurst is right outside.${prompt}
-  11404: Consul Helaku? Go in.${prompt}
-  11405: 'Really? You don''t say... Thank you.${wait-animation: 3}${prompt}'
-  11406: You've come all the way from Bastok, have you? I'm Lion, a traveling adventurer, you might say.${prompt}
-  11407: You've come all the way from Windurst, have you? I'm Lion, a traveling adventurer, you might say.${prompt}
-  11408: Have you heard? The Orcs have a new forward base in Ghelsba, to the northwest. Now their greedy eyes are turned towards this land!${prompt}
-  11409: Orcs are cruel and violent. They attack wayfarers on the road, and steal children, all to inspire terror in the San d'Orian people.${prompt}
-  11410: But, there's one thing that just doesn't make sense.${prompt}
-  11411: Orcs never were known for their craft, but they carry even better armor and weapons lately.${prompt}
-  11412: I suspect there's someone behind the Orcs, pulling the strings, if you get me.${prompt}
-  11413: Someone has to figure out their plans and take action, before this country falls to an Orcish invasion!${prompt}
-  11414: People whisper in the streets of trouble in the royal house. They should focus on what's outside their walls first, if you ask me.${prompt}
-  11415: Well, I don't expect things will be getting any easier around here for a while yet, but you take care, all the same.${prompt}
-  11416: You must be tired from your trip. But first, let me get you up to speed on the situation here in San d'Oria.${prompt}
-  11417: Northwest of the city is an Orc village. They call it Ghelsba Outpost.${prompt}
-  11418: Our reports tell us that the Orcs are using Ghelsba as a forward base for an upcoming invasion of San d'Oria, but there's a few things that just don't fit.${prompt}
-  11419: We all know that Orcs are beastmen, right? To say they're low on brains would be an understatement.${prompt}
-  11420: Which is why I wonder how they came by the high-quality armor and weapons they've been using. Not to mention the ranged weapons and devices!${prompt}
-  11421: We suspect there's someone behind the beastmen calling the shots, but we've no idea who.${prompt}
-  11422: I wish I could send you to Ghelsba immediately, but in this region official missions require San d'Orian approval.${prompt}
-  11423: What I want you to do is go to Chateau d'Oraguille and speak to Monarlais Halver. He'll issue you a formal mission order.${prompt}
-  11424: Leave this building, and you'll see a great fortress to the right. That's Chateau d'Oraguille. And be polite; San d'Orians can be quite touchy.${prompt}
-  11425: Looks like Lord Halver gave you your orders. Good luck, and be careful out there.${prompt}
-  11426: It is good to see you are well! Lord Helaku will be pleased to see you again.${prompt}
-  11427: Welcome back! You didn't get hurt, did you?${prompt}
-  11428: Monarlais Halver tells me you went to defeat Warchief Vatgit, eh?${prompt}
-  11429: A lot of adventurers make their way into the Ghelsba Outpost, but most turn around once they get up to the higher encampment.${prompt}
-  11430: Well, you've done a great job. As consul, I'm honored to congratulate you on a mission well done.${prompt}
-  11431: I'll be sure San d'Oria makes you a certified adventurer, ${name-player}.${prompt}
-  11432: Now that that's settled, your next goal is Windurst! It's a wild world out there, so keep your wits about you.${prompt}
-  11433: What's this? Here, take it back.${prompt}
-  11434: 'Just the thing! I count ${number: 0}; no more, no less. Good job, ${name-player}.${prompt}'
-  11435: 'Next stop: Windurst, eh? Good luck, and watch yourself out there!${prompt}'
-  11436: Ah, ${name-player}, is it? I heard good things about you from Consul Melek in Windurst.${prompt}
-  11437: San d'Oria is locked in battle with the Orcish horde. It's tough on the townsfolk. They can't even go outside without fearing for their lives these days.${prompt}
-  11438: The royal house is trying to suppress the beastmen. But with so much intrigue in the royal family, they can't take decisive action!${prompt}
-  11439: But I shouldn't keep you here too long. I don't know the details of your special assignment, myself.${prompt}
-  11440: You are to head to Chateau d'Oraguille and speak to the San d'Orian monarlais Lord Halver. He'll tell you all you need to know.${prompt}
-  11441: You've done it again! You make me proud!${prompt}
-  11442: 'You''ve been officially certified by the King of San d''Oria. Now all there''s to do is to go home and get your ${keyitem-singular: 0[2]}, and you''ll be an official adventurer.${prompt}'
-  11443: Make haste back to the homeland and go to see Naji by the President's Office. He'll be waiting for you.${prompt}
-  11444: Also, I'd be much obliged if you could bring this report back when you go. Don't forget to give it to him, now.${prompt}
-  11445: You'd best get back to the homeland. Naji is probably wondering where you are by now.${prompt}
-  11446: Well, if it isn't ${name-player}! You look well! Stay as long as you like. You deserve a rest, my friend.${prompt}
-  11447: Greetings! I am Consul Kasaroro, at your service. How may I help you?${prompt}
-  11448: 'I am Consul Kasaroro. What? You don''t have ${keyitem-article: 0[2]}? You''ll have to bring one if you''ve business with me!${prompt}'
-  11449: Welcome to the Consulate of Windurst!${prompt}
-  11450: If it's the consul you're a-seeking, she's inside!${prompt}
-  11451: A San d'Orian, are you? This is the Consulate of Windurst. We provide all sorts of aid to our countrymen here.${prompt}
-  11452: A Bastoker, are you? This is the Consulate of Windurst. If you're looking for your consulate, it's out the door and across the way.${prompt}
-  11453: Welcome to the Consulate of Windurst. Consul Kasaroro is inside, if you're looking forrr her.${prompt}
-  11454: You've come on orders from the homeland, have you? You should speak with Consul Kasaroro.${prompt}
-  11455: Greetings, ${name-player}! I am Consul Kasaroro. Let me tell you about current events here in the Kingdom of San d'Oria.${prompt}
-  11456: Beastmen known as Orcs steadily grow in number outside San d'Oria.${prompt}
-  11457: They have set up a forward base in Ghelsba, northwest of San d'Oria. From here, they plan to launch an invasion!${prompt}
-  11458: Orcs love battle-wattle, but they aren't the brightest bunch. There's just one thing...${prompt}
-  11459: It seems their armor and weapons have been improving by the day-way! Now they're using traps and bows, too!${prompt}
-  11460: I, and a few others, think that there's somebody behind these Orcs, supplying them with the goods, and calling the shots. But there's not enough to go on right now.${prompt}
-  11461: If it were up to me, I'd send you to Ghelsba pronto! But this is San d'Oria, and missions are their jurisdiction.${prompt}
-  11462: So, first you should talk to Monarlais Halver in Chateau d'Oraguille. He'll give you official orders.${prompt}
-  11463: Step right outside, and you'll see a big castle on the left. That's Chateau d'Oraguille. They're a little touchy in there, so mind your manners!${prompt}
-  11464: So you've gotten an offer-woffer from Monarlais Halver? Excellent! Take care out there.${prompt}
-  11465: Welcome back. I trust you weren't hurtaru?${prompt}
-  11466: I heard from the monarlais that you went to fight-wight the great Warchief Vatgit!${prompt}
-  11467: A great many adventurers see Ghelsba Outpost on missions, but most turn back at the highland encampmentaru!${prompt}
-  11468: You've done swellsy-wellsy! I'm proud to be your consul.${prompt}
-  11469: I'll formally request the San d'Orian court to certify you, ${name-player}, as an official adventurer.${prompt}
-  11470: Now all you have to do is get recognition from Bastok. Keep your wits about you, and you'll be finey-shiney!${prompt}
-  11471: This isn't what I asked for. Take it backeddy-wackeddy!${prompt}
-  11472: 'Ah! ${number: 0}! Thank you very much. Your mission here is completaru!${prompt}'
-  11473: Now you just have to complete a mission for Bastok! It's a dangerous world out there, so take care-beware!${prompt}
-  11474: Why, it's ${name-player}! I heard about your success from Consul Patt-Pott in Bastok. Sounds like you've done a bang-up job!${prompt}
-  11475: That Patt-Pott talks a malm-a-minute, so it was hard to make out what he was saying at firstaru...${prompt}
-  11476: But that's neither here nor there-where! The war goes on here in San d'Oria, and the civilians are trying to cope.${prompt}
-  11477: I know the Kingdom wants to settle things quickly, but with all the hubbub going on in the royal family, they can't focus on the war!${prompt}
-  11478: There's a special mission waiting for you. Even I haven't heard what it's all aboutaru!${prompt}
-  11479: You'll have to head to Chateau d'Oraguille and ask Monarlais Halver. He'll fill you in, he will!${prompt}
-  11480: I've heard of what you did, and I have to say I'm impressed! You make me proud to be a Windurstian!${prompt}
-  11481: 'I hear you''ve been officially recognized by San d''Oria, too. The next time you return to the homeland, pick up your ${keyitem-singular: 0[2]}.${prompt}'
-  11482: Also, when you do go back, could you hand this report to Lady Kupipi, at the Heavens Tower? Don't forgetaru!${prompt}
-  11483: Now, back home you go! I'm sure Lady Kupipi eagerly awaits your return.${prompt}
-  11484: ${name-player}, right? You seem well-swell! Feel free to hang around as long as you like!${prompt}
-  11485: All right, once more!${prompt}
-  11486: One!${prompt}
-  11487: Two!${prompt}
-  11488: Stop!${prompt}
-  11489: What's the meaning of this? Don't interrupt!${prompt}
-  11490: Welcome. We have all kinds of furnishings here!${prompt}
-  11491: How can I help you?${prompt}
-  11492: A pickpocket, you say? Come to think of it, I did see a scoundrel skulking about...${prompt}
-  11493: Hmm... I've no idea what you're talking about.${prompt}
-  11494: A pickpocket? No, can't say I've seen anyone like that. I'll keep an eye out, though.${prompt}
-  11495: A pickpocket? I've got bigger fish to fry! Ask someone else.${prompt}
-  11496: A pickpocket, you say? Hmm... Come to think of it, I did spot a strange woman running across the bridge over there a bit ago.${prompt}
-  11497: She ran toward that gate, which would mean she could be at the Parade Grounds by now.${prompt}
-  11498: A pickpocket? Hey, I wonder if you mean that lady running helter-skelter over there just now...${prompt}
-  11499: A pickpocket? I did just see an undignified sort of woman just now. She was running toward Ranperre Gate.${prompt}
-  11500: This part of town is so lively, I like watching everybody just go about their business.${prompt}
-  11501: A pickpocket?${prompt}
-  11502: Well, I did see a stranger. She ran for the gate over there just now.${prompt}
-  11503: A pickpocket? Maybe it was that foul-mouthed woman just now. She called me a “spoony bard!” Unthinkable!${prompt}
-  11504: Good day. I am Ulycille. Have you an interest in woodworking?${prompt}
-  11505: San d'Orian woodworkers are blessed with an abundance of raw material, for our kingdom is surrounded by wooded hills.${prompt}
-  11506: 'Should you look to refine your skill in woodworking, heed this counsel: San d''Oria is the perfect place to start!${prompt}'
-  11507: An adventurer, are you? This is one of the finest workshops in the land. Of course, much depends on you.${prompt}
-  11508: Should you wish to refine your skill, craft the same thing over and over. Work hard, and you may become known among us.${prompt}
-  11509: Say, have you heard?${prompt}
-  11510: About the princes? Who has not? Things are getting worse, I hear!${prompt}
-  11511: Yes, but I trust Prince Trion more than Prince Pieuje. He's the elder, and stronger, of the two.${prompt}
-  11512: Oh, he's all brawn and no brains, unfit to decide the fate of our kingdom. I would follow Prince Pieuje, personally.${prompt}
-  11513: Is it just me, or are there more strangers in town these days? Whatever could it mean?${prompt}
-  11514: What, have you not heard? They are recruiting adventurers in droves!${prompt}
-  11515: I hear they're taking any who will come--foreigners, even!${prompt}
-  11516: Well, guess what happened to me. I was tidying the house yesterday, when a strange man walked in. He then ran out the veranda without even saying hello!${prompt}
-  11517: Shame on those adventurers! At least they could knock before barging into our homes.${prompt}
-  11518: Are you a new recruit? Hello, I am Matildie.${prompt}
-  11519: You seem nice--much nicer than the other adventurers. Remember, ask for help if you lose your way!${prompt}
-  11520: 'Why don''t I give you a little money for your ${item-singular: 0[2]} there, just to get you started. Spend it wisely!${prompt}'
-  11521: Should you lose your way, just check your “Map” from the main menu.${prompt}
-  11522: Farewell, and good luck to you!${prompt}
-  11523: Goodbye!${prompt}
-  11524: 'These sluice gates divide Northern San d''Oria into two parts: the Parade Grounds, and Laborman''s Way.${prompt}'
-  11525: Laborman's Way is much lower than the rest of the city. So to prevent flooding, we use these sluice gates to adjust the water for the entire district!${prompt}
-  11526: Wait, you're an adventurer, aren't you? I have a request, if you've the time...${prompt}
-  11527: Don't tell anyone, but someone sent me a letter saying they poisoned the water here! We're looking into the veracity of that claim now.${prompt}
-  11528: In the meantime, we must prepare a neutralizer to eliminate the poison. Might you be willing to obtain one?${prompt}
-  11529: |-
-    Go fetch the neutralizer?
+  11364: D'accord, je vais le livrer pour vous. Nous ne pouvons pas vous laisser entrer dans cet état ! Attendez ici.${prompt}
+  11365: 'J''ai livré ${keyitem-singular: 0[2]} au Prince Trion. Vous êtes congédié.${prompt}'
+  11366: 'J''ai livré ${keyitem-singular: 0[2]} au Prince Pieuje. Vous êtes congédié.${prompt}'
+  11367: Imbécile ! Cette enveloppe était pour le Prince Trion, pas le Prince Pieuje ! Quelle idiotie... Sortez d'ici !${prompt}
+  11368: Imbécile ! Cette enveloppe était pour le Prince Pieuje, pas le Prince Trion ! Quelle idiotie... Sortez d'ici !${prompt}
+  11369: Oh, et dites à ce commerçant d'envoyer quelqu'un de respectable la prochaine fois !${prompt}
+  11370: J'ai livré le reçu. Transmettez les salutations du prince à ce commerçant.${prompt}
+  11371: Rien à signaler.${prompt}
+  11372: Voici le Château d'Oraguille, la plus grande forteresse du royaume !${prompt}
+  11373: Vous êtes devant le Château d'Oraguille. Si vous n'avez pas d'affaire ici, partez !${prompt}
+  11374: Hé ! Qui vous a dit que vous pouviez entrer ? Revenez ici, vaurien !${prompt}
+  11375: Allez-y !${prompt}
+  11376: Voici l'Arche de la Victoire. Au-delà se trouve la San d'Oria Sud.${prompt}
+  11377: Vous êtes devant l'Arche de la Victoire. La San d'Oria Sud est de l'autre côté.${prompt}
+  11378: Ce portail mène au Port de San d'Oria.${prompt}
+  11379: Voici la Porte de Ranperre. Des monstres rôdent dans les terres au-delà, alors soyez prudents !${prompt}
+  11380: Bénis sont ceux qui chérissent Altana et écoutent la parole du papsque. Pour eux, les Portes du Paradis s'ouvriront.${prompt}
+  11381: Nous sommes ici pour voir le papsque s'adresser aux fidèles. Il se tient parfois sur le balcon de la cathédrale sous le clocher.${prompt}
+  11382: Hmm... Sa Sainteté devrait bientôt apparaître.${prompt}
+  11383: Je le vois ! Le papsque !${prompt}
+  11384: Oui, le voilà !${prompt}
+  11385: Bien-aimée San d'Oria, Altana veille toujours sur nous.${prompt}
+  11386: Elle est l'alliée des faibles. Elle nourrit les affamés et habille les nécessiteux.${prompt}
+  11387: Elle nous a donné le chemin vers le Paradis éternel. Par cette épreuve, elle nous jugera tous.${prompt}
+  11388: Que les portes du Paradis s'ouvrent à tous ses enfants !${prompt}
+  11389: Ses mots résonnent dans mon cœur, longtemps après qu'ils soient prononcés.${prompt}
+  11390: Chaque fois que je vois le papsque, j'ai l'impression de me rapprocher d'un pas de plus vers le Paradis !${prompt}
+  11391: Tout le monde devrait chercher la bénédiction du papsque lui-même !${prompt}
+  11392: Bienvenue au Consulat de Jeuno. Je suis Galahad, Consul à San d'Oria.${prompt}
+  11393: Puis-je vous aider ?${prompt}
+  11394: Si vous avez des affaires avec le Consul Galahad, vous le trouverez à l'intérieur.${prompt}
+  11395: Bienvenue au Consulat de Jeuno.${prompt}
+  11396: Bonjour. Je suis le consul de Bastok. Je m'appelle Helaku.${prompt}
+  11397: 'Je suis le Consul Helaku. Vous n''avez pas apporté ${keyitem-article: 0[2]}? Bon, regardez autour de vous alors. Autant profiter de l’endroit pendant que vous êtes ici.${prompt}'
+  11398: Pardonnez-moi, mais nous sommes en pleine discussion très importante.${prompt}
+  11399: Vous êtes ici pour des affaires de l'administration, n'est-ce pas ? Je crois que vous devriez parler au Consul Helaku.${prompt}
+  11400: Vous êtes ici pour des affaires de l'administration, n'est-ce pas ? Vous devriez probablement parler au Consul Helaku.${prompt}
+  11401: Bienvenue au Consulat de Bastok.${prompt}
+  11402: Un San d'Orian, hein ? Ici, c'est le Consulat de Bastok. Nous sommes là pour servir les voyageurs de Bastok.${prompt}
+  11403: Un Windurstien, hein ? Ici, c'est le Consulat de Bastok. Le Consulat de Windurst est juste à l'extérieur.${prompt}
+  11404: Consul Helaku ? Entrez.${prompt}
+  11405: 'Vraiment ? Vous ne dites pas... Merci.${wait-animation: 3}${prompt}'
+  11406: Vous venez de Bastok, n'est-ce pas ? Je suis Lion, un aventurier itinérant, pourrait-on dire.${prompt}
+  11407: Vous venez de Windurst, n'est-ce pas ? Je suis Lion, un aventurier itinérant, pourrait-on dire.${prompt}
+  11408: Avez-vous entendu ? Les Orcs ont une nouvelle base avancée à Ghelsba, au nord-ouest. Maintenant, leurs yeux avides sont tournés vers cette terre !${prompt}
+  11409: Les Orcs sont cruels et violents. Ils attaquent les voyageurs sur la route et volent des enfants, tout cela pour inspirer la terreur chez les gens de San d'Oria.${prompt}
+  11410: Mais, il y a une chose qui n'a tout simplement pas de sens.${prompt}
+  11411: Les Orcs n'étaient jamais connus pour leur artisanat, mais ils portent des armures et des armes encore meilleures dernièrement.${prompt}
+  11412: Je soupçonne qu'il y a quelqu'un derrière les Orcs, tirant les ficelles, si vous voyez ce que je veux dire.${prompt}
+  11413: Quelqu'un doit découvrir leurs plans et agir, avant que ce pays ne tombe sous une invasion orc !${prompt}
+  11414: Les gens murmurent dans les rues des troubles dans la maison royale. Ils devraient se concentrer sur ce qui se passe à l'extérieur de leurs murs d'abord, si vous voulez mon avis.${prompt}
+  11415: Eh bien, je ne m'attends pas à ce que les choses deviennent plus faciles par ici avant un moment, mais prenez soin de vous, tout de même.${prompt}
+  11416: Vous devez être fatigué de votre voyage. Mais d'abord, laissez-moi vous mettre au courant de la situation ici à San d'Oria.${prompt}
+  11417: Au nord-ouest de la ville se trouve un village orc. Ils l'appellent le Poste de Ghelsba.${prompt}
+  11418: Nos rapports indiquent que les Orcs utilisent Ghelsba comme base avancée pour une invasion prochaine de San d'Oria, mais certaines choses ne collent pas.${prompt}
+  11419: Nous savons tous que les Orcs sont des bêtes, non ? Dire qu'ils manquent de cervelle serait un euphémisme.${prompt}
+  11420: C'est pourquoi je me demande comment ils ont obtenu les armures et armes de haute qualité qu'ils utilisent. Sans parler des armes à distance et des dispositifs !${prompt}
+  11421: Nous soupçonnons qu'il y a quelqu'un derrière les bêtes qui tire les ficelles, mais nous n'avons aucune idée de qui.${prompt}
+  11422: J'aimerais pouvoir vous envoyer à Ghelsba immédiatement, mais dans cette région, les missions officielles nécessitent l'approbation de San d'Oria.${prompt}
+  11423: Ce que je veux que vous fassiez, c'est aller au Château d'Oraguille et parler à Monarlais Halver. Il vous délivrera un ordre de mission officiel.${prompt}
+  11424: Sortez de ce bâtiment, et vous verrez une grande forteresse sur la droite. C'est le Château d'Oraguille. Et soyez poli ; les San d'Orians peuvent être assez sensibles.${prompt}
+  11425: On dirait que Lord Halver vous a donné vos ordres. Bonne chance, et soyez prudent là-bas.${prompt}
+  11426: C'est bon de vous voir en forme ! Lord Helaku sera ravi de vous revoir.${prompt}
+  11427: Bienvenue ! Vous ne vous êtes pas blessé, n'est-ce pas ?${prompt}
+  11428: Monarlais Halver me dit que vous êtes allé vaincre le Chef de Guerre Vatgit, hein ?${prompt}
+  11429: Beaucoup d'aventuriers se dirigent vers le Poste de Ghelsba, mais la plupart font demi-tour une fois qu'ils atteignent le campement supérieur.${prompt}
+  11430: Eh bien, vous avez fait un excellent travail. En tant que consul, je suis honoré de vous féliciter pour une mission bien accomplie.${prompt}
+  11431: Je veillerai à ce que San d'Oria fasse de vous un aventurier certifié, ${name-player}.${prompt}
+  11432: Maintenant que c'est réglé, votre prochain objectif est Windurst ! Le monde est sauvage là-bas, alors restez sur vos gardes.${prompt}
+  11433: Qu'est-ce que c'est ? Tenez, reprenez-le.${prompt}
+  11434: 'Juste ce qu’il faut ! Je compte ${number: 0}; pas plus, pas moins. Bon travail, ${name-player}.${prompt}'
+  11435: 'Prochain arrêt : Windurst, hein ? Bonne chance, et faites attention !${prompt}'
+  11436: Ah, ${name-player}, c'est bien ça ? J'ai entendu de bonnes choses à votre sujet de la part du Consul Melek à Windurst.${prompt}
+  11437: San d'Oria est en guerre contre la horde orc. C'est difficile pour les habitants. Ils ne peuvent même pas sortir sans craindre pour leur vie de nos jours.${prompt}
+  11438: La maison royale essaie de réprimer les bêtes. Mais avec tant d'intrigues dans la famille royale, ils ne peuvent pas agir de manière décisive !${prompt}
+  11439: Mais je ne devrais pas vous retenir trop longtemps. Je ne connais pas les détails de votre mission spéciale, moi-même.${prompt}
+  11440: Vous devez vous rendre au Château d'Oraguille et parler au monarlais de San d'Oria, Lord Halver. Il vous dira tout ce que vous devez savoir.${prompt}
+  11441: Vous l'avez encore fait ! Vous me rendez fier !${prompt}
+  11442: 'Vous avez été officiellement certifié par le Roi de San d''Oria. Maintenant, tout ce qu’il reste à faire est de rentrer chez vous et d’obtenir votre ${keyitem-singular: 0[2]}, et vous serez un aventurier officiel.${prompt}'
+  11443: Hâtez-vous de rentrer au pays et allez voir Naji au Bureau du Président. Il vous attendra.${prompt}
+  11444: Aussi, je vous serais très reconnaissant si vous pouviez rapporter ce rapport quand vous rentrerez. N'oubliez pas de le lui donner.${prompt}
+  11445: Vous feriez mieux de retourner au pays. Naji se demande probablement où vous êtes maintenant.${prompt}
+  11446: Eh bien, si ce n'est pas ${name-player}! Vous avez bonne mine ! Restez aussi longtemps que vous le souhaitez. Vous méritez un repos, mon ami.${prompt}
+  11447: Salutations ! Je suis le Consul Kasaroro, à votre service. Comment puis-je vous aider ?${prompt}
+  11448: 'Je suis le Consul Kasaroro. Quoi ? Vous n''avez pas apporté ${keyitem-article: 0[2]}? Vous devrez en apporter un si vous avez des affaires avec moi !${prompt}'
+  11449: Bienvenue au Consulat de Windurst !${prompt}
+  11450: Si vous cherchez le consul, elle est à l'intérieur !${prompt}
+  11451: Un San d'Orian, n'est-ce pas ? Ici, c'est le Consulat de Windurst. Nous fournissons toutes sortes d'aide à nos compatriotes.${prompt}
+  11452: Un Bastoker, n'est-ce pas ? Ici, c'est le Consulat de Windurst. Si vous cherchez votre consulat, il est dehors, juste en face.${prompt}
+  11453: Bienvenue au Consulat de Windurst. La Consule Kasaroro est à l'intérieur, si vous la cherchez.${prompt}
+  11454: Vous êtes venu sur ordre de la patrie, n'est-ce pas ? Vous devriez parler avec la Consule Kasaroro.${prompt}
+  11455: Salutations, ${name-player}! Je suis la Consule Kasaroro. Laissez-moi vous parler des événements actuels ici dans le Royaume de San d'Oria.${prompt}
+  11456: Les bêtes connues sous le nom d'Orcs augmentent régulièrement en nombre à l'extérieur de San d'Oria.${prompt}
+  11457: Ils ont installé une base avancée à Ghelsba, au nord-ouest de San d'Oria. De là, ils prévoient de lancer une invasion !${prompt}
+  11458: Les Orcs adorent la bataille, mais ils ne sont pas très malins. Il y a juste une chose...${prompt}
+  11459: Il semble que leurs armures et armes s'améliorent de jour en jour ! Maintenant, ils utilisent aussi des pièges et des arcs !${prompt}
+  11460: Moi et quelques autres pensons qu'il y a quelqu'un derrière ces Orcs, qui leur fournit le matériel et donne les ordres. Mais il n'y a pas assez d'éléments pour l'instant.${prompt}
+  11461: Si ça ne tenait qu'à moi, je vous enverrais à Ghelsba immédiatement ! Mais ici, c'est San d'Oria, et les missions sont de leur juridiction.${prompt}
+  11462: Donc, vous devriez d'abord parler à Monarlais Halver au Château d'Oraguille. Il vous donnera des ordres officiels.${prompt}
+  11463: Sortez tout de suite, et vous verrez un grand château sur la gauche. C'est le Château d'Oraguille. Ils sont un peu sensibles là-dedans, alors surveillez vos manières !${prompt}
+  11464: Alors, vous avez reçu une offre de Monarlais Halver ? Excellent ! Faites attention là-bas.${prompt}
+  11465: Bon retour. J'espère que vous ne vous êtes pas blessé ?${prompt}
+  11466: J'ai entendu du monarlais que vous êtes allé combattre le grand Chef de Guerre Vatgit !${prompt}
+  11467: Beaucoup d'aventuriers voient le Poste de Ghelsba en mission, mais la plupart rebroussent chemin au campement des hauteurs !${prompt}
+  11468: Vous avez fait un excellent travail ! Je suis fier d'être votre consul.${prompt}
+  11469: Je demanderai formellement à la cour de San d'Oria de vous certifier, ${name-player}, comme aventurier officiel.${prompt}
+  11470: Maintenant, tout ce que vous avez à faire est d'obtenir la reconnaissance de Bastok. Restez sur vos gardes, et tout ira bien !${prompt}
+  11471: Ce n'est pas ce que j'ai demandé. Reprenez-le !${prompt}
+  11472: 'Ah ! ${number: 0}! Merci beaucoup. Votre mission ici est terminée !${prompt}'
+  11473: Maintenant, vous devez simplement accomplir une mission pour Bastok ! Le monde est dangereux dehors, alors soyez prudent !${prompt}
+  11474: Pourquoi, c'est ${name-player} ! J'ai entendu parler de votre succès de la part du Consul Patt-Pott à Bastok. On dirait que vous avez fait un excellent travail !${prompt}
+  11475: Ce Patt-Pott parle à un mille à la minute, alors il était difficile de comprendre ce qu'il disait au début...${prompt}
+  11476: Mais ça n'a pas d'importance ! La guerre continue ici à San d'Oria, et les civils essaient de faire face.${prompt}
+  11477: Je sais que le Royaume veut régler les choses rapidement, mais avec tout le remue-ménage dans la famille royale, ils ne peuvent pas se concentrer sur la guerre !${prompt}
+  11478: Il y a une mission spéciale qui vous attend. Même moi, je n'ai pas entendu de quoi il s'agit !${prompt}
+  11479: Vous devrez vous rendre au Château d'Oraguille et demander à Monarlais Halver. Il vous expliquera tout !${prompt}
+  11480: J'ai entendu parler de ce que vous avez fait, et je dois dire que je suis impressionné ! Vous me rendez fier d'être Windurstien !${prompt}
+  11481: 'J’ai entendu dire que vous avez été officiellement reconnu par San d''Oria. La prochaine fois que vous retournerez au pays, récupérez votre ${keyitem-singular: 0[2]}.${prompt}'
+  11482: De plus, lorsque vous rentrerez, pourriez-vous remettre ce rapport à Lady Kupipi, à la Tour des Cieux ? N'oubliez pas !${prompt}
+  11483: Maintenant, rentrez chez vous ! Je suis sûr que Lady Kupipi attend impatiemment votre retour.${prompt}
+  11484: ${name-player}, c'est bien ça ? Vous semblez en forme ! Restez aussi longtemps que vous le souhaitez !${prompt}
+  11485: Très bien, encore une fois !${prompt}
+  11486: Un !${prompt}
+  11487: Deux !${prompt}
+  11488: Arrêtez !${prompt}
+  11489: Qu'est-ce que cela signifie ? Ne m'interrompez pas !${prompt}
+  11490: Bienvenue. Nous avons toutes sortes de meubles ici !${prompt}
+  11491: Comment puis-je vous aider ?${prompt}
+  11492: Un pickpocket, dites-vous ? Maintenant que j'y pense, j'ai bien vu un vaurien rôder...${prompt}
+  11493: Hmm... Je n'ai aucune idée de ce dont vous parlez.${prompt}
+  11494: Un pickpocket ? Non, je n'ai vu personne de ce genre. Mais je vais garder un œil ouvert.${prompt}
+  11495: Un pickpocket ? J'ai des affaires plus importantes à régler ! Demandez à quelqu'un d'autre.${prompt}
+  11496: Un pickpocket, dites-vous ? Hmm... Maintenant que j'y pense, j'ai aperçu une femme étrange courir sur le pont là-bas il y a peu.${prompt}
+  11497: Elle a couru vers cette porte, ce qui signifie qu'elle pourrait être sur le terrain de parade maintenant.${prompt}
+  11498: Un pickpocket ? Je me demande si vous parlez de cette dame qui courait comme une folle tout à l'heure...${prompt}
+  11499: Un pickpocket ? J'ai effectivement vu une femme peu digne tout à l'heure. Elle courait vers la porte de Ranperre.${prompt}
+  11500: Cette partie de la ville est si animée, j'aime bien regarder tout le monde vaquer à ses occupations.${prompt}
+  11501: Un pickpocket ?${prompt}
+  11502: Eh bien, j'ai vu un étranger. Elle a couru vers la porte là-bas à l'instant.${prompt}
+  11503: Un pickpocket ? Peut-être que c'était cette femme grossière tout à l'heure. Elle m'a traité de “barde idiot” ! Inconcevable !${prompt}
+  11504: Bonjour. Je suis Ulycille. Vous vous intéressez à la menuiserie ?${prompt}
+  11505: Les menuisiers de San d'Oria sont bénis par une abondance de matières premières, car notre royaume est entouré de collines boisées.${prompt}
+  11506: 'Si vous cherchez à perfectionner votre compétence en menuiserie, écoutez ce conseil : San d''Oria est l’endroit idéal pour commencer !${prompt}'
+  11507: Un aventurier, n'est-ce pas ? Ceci est l'un des meilleurs ateliers du pays. Bien sûr, beaucoup dépend de vous.${prompt}
+  11508: Si vous souhaitez affiner votre compétence, fabriquez la même chose encore et encore. Travaillez dur, et vous pourriez être connu parmi nous.${prompt}
+  11509: Dites, avez-vous entendu ?${prompt}
+  11510: À propos des princes ? Qui ne l'a pas entendu ? Les choses empirent, à ce qu'on dit !${prompt}
+  11511: Oui, mais j'ai plus confiance en le Prince Trion qu'en le Prince Pieuje. Il est l'aîné, et le plus fort des deux.${prompt}
+  11512: Oh, il est tout en muscles et sans cervelle, inapte à décider du sort de notre royaume. Personnellement, je suivrais le Prince Pieuje.${prompt}
+  11513: Est-ce que je me trompe, ou y a-t-il plus d'étrangers en ville ces jours-ci ? Qu'est-ce que cela peut bien signifier ?${prompt}
+  11514: Quoi, vous n'avez pas entendu ? Ils recrutent des aventuriers en masse !${prompt}
+  11515: J'entends dire qu'ils prennent n'importe qui--même des étrangers !${prompt}
+  11516: Eh bien, devinez ce qui m'est arrivé. Je rangeais la maison hier, quand un homme étrange est entré. Il a ensuite couru dehors par la véranda sans même dire bonjour !${prompt}
+  11517: Honte à ces aventuriers ! Ils pourraient au moins frapper avant de s'introduire dans nos maisons.${prompt}
+  11518: Êtes-vous une nouvelle recrue ? Bonjour, je suis Matildie.${prompt}
+  11519: Vous avez l'air gentil--bien plus gentil que les autres aventuriers. N'oubliez pas, demandez de l'aide si vous perdez votre chemin !${prompt}
+  11520: 'Pourquoi ne pas vous donner un peu d’argent pour votre ${item-singular: 0[2]} là, juste pour bien commencer. Dépensez-le sagement !${prompt}'
+  11521: Si vous perdez votre chemin, consultez simplement votre “Carte” depuis le menu principal.${prompt}
+  11522: Adieu, et bonne chance !${prompt}
+  11523: Au revoir !${prompt}
+  11524: "Ces écluses divisent le Nord de San d'Oria en deux parties : le Terrain de Parade et le Chemin des Ouvriers.${prompt}"
+  11525: "Le Chemin des Ouvriers est bien plus bas que le reste de la ville. Ainsi, pour éviter les inondations, nous utilisons ces écluses pour réguler l'eau de tout le quartier !${prompt}"
+  11526: Attendez, vous êtes un aventurier, n'est-ce pas ? J'ai une demande, si vous avez le temps...${prompt}
+  11527: Ne le dites à personne, mais quelqu'un m'a envoyé une lettre disant qu'il avait empoisonné l'eau ici ! Nous vérifions maintenant la véracité de cette affirmation.${prompt}
+  11528: En attendant, nous devons préparer un neutralisant pour éliminer le poison. Seriez-vous prêt à en obtenir un ?${prompt}
+  11529: |- 
+    Aller chercher le neutralisant ?
     ${selection-lines}
-    Let's do it.
-    Not right now.${prompt}
-  11530: That is good news, indeed! Now, all we need is someone versed in the ways of poison, but they're a hard lot to find...${prompt}
-  11531: Oh, we can't just let innocent people die from poisoned water now, can we?${prompt}
-  11532: It's no easy task, finding a neutralizer, is it? Few are skilled in the arts of poison, though that's a good thing, I suppose.${prompt}
-  11533: You've got the neutralizer! But, the thing is...it turns out it was all just a hoax. But we'll reward you anyway.${prompt}
-  11534: That's funny. I could have sworn she asked me to meet her here...${prompt}
-  11535: He's late! I do hope he hasn't forgotten.${prompt}
-  11536: Stars are more beautiful up close. Don't you agree?${prompt}
-  11537: At night, the starry sky here is a sight to behold! If it weren't for all those chimneys, it'd be a finer sight still!${prompt}
-  11538: Hello.${prompt}
-  11539: Ah, good day. I am Morjean, a researcher here studying the rich past of our kingdom.${prompt}
-  11540: '${lettercase: 1}${keyitem-article: 0[2]}?${prompt}'
-  11541: I'm not entirely certain, but perhaps I have heard a story about this thing you seek.${prompt}
-  11542: 'In order to get ${keyitem-article: 0[2]}, your hands must not be dry... I''m sure that''s what I read. But it was so many years ago...${prompt}'
-  11543: That's all I know... I do hope it will be of some use to you.${prompt}
-  11544: Did you find the dew? No, no, there's no need to thank me. It is my job to delve into the mysteries of this land, one at a time.${prompt}
-  11545: It's locked.${prompt}
-  11546: You cannot reach the doorknob.${prompt}
-  11547: You can't possibly carry any more gil.${prompt}
-  11548: Your flyer is refused.${prompt}
+    Allons-y.
+    Pas maintenant.${prompt}
+  11530: C'est une bonne nouvelle, en effet ! Maintenant, tout ce dont nous avons besoin, c'est de quelqu'un versé dans les arts du poison, mais ils sont difficiles à trouver...${prompt}
+  11531: Oh, nous ne pouvons pas laisser des innocents mourir d'eau empoisonnée, n'est-ce pas ?${prompt}
+  11532: Ce n'est pas une tâche facile de trouver un neutralisant, n'est-ce pas ? Peu sont doués dans les arts du poison, bien que ce soit une bonne chose, je suppose.${prompt}
+  11533: Vous avez le neutralisant ! Mais, le truc, c'est que... il s'est avéré que c'était juste un canular. Mais nous vous récompenserons quand même.${prompt}
+  11534: C'est drôle. J'aurais juré qu'elle m'avait demandé de la retrouver ici...${prompt}
+  11535: Il est en retard ! J'espère qu'il n'a pas oublié.${prompt}
+  11536: Les étoiles sont plus belles de près. Vous êtes d'accord ?${prompt}
+  11537: La nuit, le ciel étoilé ici est un spectacle à voir ! Si ce n'était pas pour toutes ces cheminées, ce serait encore plus beau !${prompt}
+  11538: Bonjour.${prompt}
+  11539: Ah, bonjour. Je suis Morjean, un chercheur étudiant le riche passé de notre royaume.${prompt}
+  11540: '${lettercase: 1}${keyitem-article: 0[2]} ?${prompt}'
+  11541: Je ne suis pas tout à fait certain, mais peut-être que j'ai entendu une histoire à propos de cette chose que vous cherchez.${prompt}
+  11542: 'Pour obtenir ${keyitem-article: 0[2]}, vos mains ne doivent pas être sèches... Je suis sûr que c’est ce que j’ai lu. Mais c’était il y a tant d’années...${prompt}'
+  11543: C'est tout ce que je sais... J'espère que cela vous sera utile.${prompt}
+  11544: Avez-vous trouvé la rosée ? Non, non, il n'y a pas besoin de me remercier. C'est mon travail de percer les mystères de cette terre, un par un.${prompt}
+  11545: C'est verrouillé.${prompt}
+  11546: Vous ne pouvez pas atteindre la poignée de porte.${prompt}
+  11547: Vous ne pouvez pas transporter plus de gils.${prompt}
+  11548: Votre flyer est refusé.${prompt}
   11549: |-
     テストするモーションはどれ？
     ${selection-lines}
@@ -24245,14 +24246,14 @@ entries:
     話す
     本持ち話す${prompt}
   11550: 【デバッグ】✕ボタンキャンセルされました。${prompt}
-  11551: Please accept this.${prompt}
-  11552: Hmm...I know not.${prompt}
-  11553: Welcome to the San d'Oria Cathedral.${prompt}
-  11554: We will do anything in our power to see everyone through the gates of Paradise.${prompt}
-  11555: Hello there!${prompt}
-  11556: Welcome!${prompt}
-  11557: Nothing to report!${prompt}
-  11558: May the Gates of Paradise open to all San d'Orians!${prompt}
+  11551: Veuillez accepter ceci.${prompt}
+  11552: Hmm... Je ne sais pas.${prompt}
+  11553: Bienvenue à la cathédrale de San d'Oria.${prompt}
+  11554: Nous ferons tout ce qui est en notre pouvoir pour conduire chacun à travers les portes du Paradis.${prompt}
+  11555: Salut !${prompt}
+  11556: Bienvenue !${prompt}
+  11557: Rien à signaler !${prompt}
+  11558: Que les portes du Paradis s'ouvrent à tous les San d'Oriens !${prompt}
   11559: '【デバッグ用】現在の時刻：${number: 3}時${prompt}'
   11560: |-
     【テストメッセージ】
@@ -24275,11 +24276,11 @@ entries:
   11564: （跳ね橋１　のRECTが反応！）${prompt}
   11565: （シュヴァル川から水を汲んだ）${prompt}
   11566: （------ＯＫ------）${prompt}
-  11567: Hello, young adventurer. I am Grand Master Ulycille.${prompt}
-  11568: Welcome to the Carpenters' Guild shop!${prompt}
-  11569: Looking for something in particular?${prompt}
-  11570: Welcome to the Blacksmiths' Guild shop.${prompt}
-  11571: Blacksmiths' Guild shop, at your service!${prompt}
+  11567: Bonjour, jeune aventurier. Je suis le Grand Maître Ulycille.${prompt}
+  11568: Bienvenue dans la boutique de la Guilde des Menuisiers !${prompt}
+  11569: Vous cherchez quelque chose en particulier ?${prompt}
+  11570: Bienvenue dans la boutique de la Guilde des Forgerons.${prompt}
+  11571: Boutique de la Guilde des Forgerons, à votre service !${prompt}
   11572: トレース０${prompt}
   11573: トレース１${prompt}
   11574: トレース２${prompt}
@@ -24409,75 +24410,75 @@ entries:
     （デバッグ）PCの人種＝「${number: 0}」
     1=HUME(M) 2=HUME(W) 3=ELV(M) 4=ELV(W)
     5=TARU(M) 6=TARU(W) 7=MITH   8=GALK${prompt}
-  11619: Hello there! Through my teachings I seek to raise the awareness of San d'Oria's fine citizens.${prompt}
-  11620: My specialty is the elements and their correlations. Of course, those from abroad are welcome to my knowledge, too.${prompt}
+  11619: Bonjour ! À travers mes enseignements, je cherche à élever la conscience des fins citoyens de San d'Oria.${prompt}
+  11620: Ma spécialité est les éléments et leurs corrélations. Bien sûr, ceux venus de l'étranger sont également les bienvenus à ma connaissance.${prompt}
   11621: |-
-    View the chart of elemental correlations?
+    Voir le tableau des corrélations élémentaires ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  11622: Ah...that is a shame. You've been taught all you need to know, have you?${prompt}
-  11623: Excellent choice, friend. This may not be the best place for study, but let's get started!${prompt}
-  11624: Ever heard of the elements, the most primal forms of energy? There are eight in all.${prompt}
-  11625: Behold, they are like a wheel, with arrows forming a circle. This shows how the myriad elements relate to one another.${prompt}
-  11626: They are like six serpents in a circle, each biting the tail of the one before it.${prompt}
-  11627: I will explain simply. Water puts out fire, whilst the heat of fire melts ice.${prompt}
-  11628: Ice blocks wind, whilst wind wears away at earth. Can you see it right there?${prompt}
-  11629: Earth steals energy from lightning, whilst lightning throws its bolts into water.${prompt}
-  11630: Light and darkness occupy the center. They are in mutual opposition, for one cannot be both at once.${prompt}
-  11631: 'Ah, yes! There''s one more thing you should know: the elements are tied closely to the status of your health.${prompt}'
-  11632: If you'd like to learn more, I am willing to continue.${prompt}
+    Oui.
+    Non.${prompt}
+  11622: Ah...c'est dommage. On t'a enseigné tout ce que tu avais besoin de savoir, n'est-ce pas?${prompt}
+  11623: Excellent choix, mon ami. Ce n'est peut-être pas le meilleur endroit pour étudier, mais commençons!${prompt}
+  11624: As-tu déjà entendu parler des éléments, les formes les plus primaires d'énergie? Il y en a huit en tout.${prompt}
+  11625: Voici, ils sont comme une roue, avec des flèches formant un cercle. Cela montre comment les myriades d'éléments sont liés les uns aux autres.${prompt}
+  11626: Ils sont comme six serpents en cercle, chacun mordant la queue de celui qui le précède.${prompt}
+  11627: Je vais expliquer simplement. L'eau éteint le feu, tandis que la chaleur du feu fait fondre la glace.${prompt}
+  11628: La glace bloque le vent, tandis que le vent érode la terre. Pouvez-vous le voir clairement là?${prompt}
+  11629: La terre vole l'énergie à la foudre, tandis que la foudre lance ses éclairs dans l'eau.${prompt}
+  11630: La lumière et les ténèbres occupent le centre. Ils sont en opposition mutuelle, car on ne peut pas être les deux à la fois.${prompt}
+  11631: 'Ah, oui! Il y a une autre chose que vous devriez savoir: les éléments sont étroitement liés à l’état de votre santé.${prompt}'
+  11632: Si vous voulez en savoir plus, je suis prêt à continuer.${prompt}
   11633: |-
-    Are you ready to hear more?
+    Êtes-vous prêt à en entendre plus?
     ${selection-lines}
-    Yes, please.
-    No, that will be enough.${prompt}
-  11634: Very good! Fire causes disease, ice paralysis, wind silence, earth petrification, lightning stun, and water poison.${prompt}
-  11635: Then there is charm, which is caused by light, whilst blindness, curse, and sleep are all the domain of darkness.${prompt}
-  11636: Therefore, armor and accessories that resist certain elements also help you avoid status ailments caused by those elements.${prompt}
-  11637: That will be all for today's lecture. Should you wish to review, just ask! I teach all who wish to learn.${prompt}
-  11638: Welcome! San d'Oria Carpenters' Guild shop, at your service.${prompt}
-  11639: San d'Oria Blacksmiths' Guild shop, at your service!${prompt}
-  11640: Finding your way around Northern San d'Oria? Let me show you what's where!${prompt}
+    Oui, s'il vous plaît.
+    Non, cela suffira.${prompt}
+  11634: Très bien! Le feu cause des maladies, la glace la paralysie, le vent le silence, la terre la pétrification, la foudre l'étourdissement et l'eau le poison.${prompt}
+  11635: Ensuite, il y a le charme, qui est causé par la lumière, tandis que la cécité, la malédiction et le sommeil relèvent tous du domaine des ténèbres.${prompt}
+  11636: Par conséquent, les armures et accessoires qui résistent à certains éléments vous aident également à éviter les affections causées par ces éléments.${prompt}
+  11637: C'est tout pour la conférence d'aujourd'hui. Si vous souhaitez revoir, il suffit de demander! J'enseigne à tous ceux qui veulent apprendre.${prompt}
+  11638: Bienvenue! Magasin de la Guilde des Charpentiers de San d'Oria, à votre service.${prompt}
+  11639: Bienvenue! Magasin de la Guilde des Forgerons de San d'Oria, à votre service!${prompt}
+  11640: Vous cherchez votre chemin autour de San d'Oria Nord? Laissez-moi vous montrer ce qui se trouve où!${prompt}
   11641: |-
-    View his map?
+    Voulez-vous voir sa carte?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  11642: In the center lie the Parade Grounds and its fountain. Round them stand Chateau d'Oraguille, the San d'Oria Cathedral, and the consulates of our allies.${prompt}
-  11643: Laborman's Way runs to the northwest. Down there you can find great centers of industry, like the Carpenters' Guild and the Blacksmiths' Guild.${prompt}
-  11644: Fine, have it your way.${prompt}
-  11645: I'm glad you brought a letter of introduction, but you haven't finished your duty to Consul Melek yet. You'll need to come back once that's out of the way.${prompt}
-  11646: Nice letter of introduction you have there, but you've accepted a job from Consul Patt-Pott, right? Finish your work, then we'll talk! Ta-taru!${prompt}
-  11647: I'll admit, you're one of my favorite recruits, so I've always had new missions for you. But I'm responsible for other adventurers, too!${prompt}
-  11648: Henceforth I will check your rank points to determine whether you're ready for the next mission.${prompt}
-  11649: The best way to earn rank points is to join the conquest and thereby obtain crystals.${prompt}
-  11650: If you want to know more about the conquest, ask the lord knight at any gatehouse.${prompt}
-  11651: You need to receive orders from Monarlais Halver in Chateau d'Oraguille for your mission to be deemed official.${prompt}
-  11652: Before heading out for Ghelsba, be sure to receive orders from Monarlais Halver in Chateau d'Oraguille. Otherwise, your service won't be deemed official.${prompt}
-  11653: Interested in goods from Aragoneu?${prompt}
-  11654: Welcome to the Phoenix Perch!${prompt}
-  11655: Care to see what I have?${prompt}
-  11656: I've got a shipment straight from Valdeaunia!${prompt}
-  11657: Fauregandi produce for sale!${prompt}
-  11658: Welcome to the Royal Armory!${prompt}
-  11659: Looking for a weapon? We've got many in stock!${prompt}
-  11660: Well done, ${name-player}! You have our gratitude. With this, our Kingdom of San d'Oria will surely know peace at last.${prompt}
-  11661: Hello!${prompt}
+    Oui.
+    Non.${prompt}
+  11642: Au centre se trouvent les terrains de parade et leur fontaine. Autour d'eux se dressent le Château d'Oraguille, la Cathédrale de San d'Oria et les consulats de nos alliés.${prompt}
+  11643: La Rue des Ouvriers s'étend vers le nord-ouest. Là-bas, vous pouvez trouver de grands centres industriels, comme la Guilde des Charpentiers et la Guilde des Forgerons.${prompt}
+  11644: Bien, comme vous voulez.${prompt}
+  11645: Je suis content que vous ayez apporté une lettre de recommandation, mais vous n'avez pas encore terminé votre devoir envers le consul Melek. Vous devrez revenir une fois que ce sera fait.${prompt}
+  11646: Belle lettre de recommandation que vous avez là, mais vous avez accepté un travail du consul Patt-Pott, n'est-ce pas? Terminez votre travail, puis nous parlerons! Ta-taru!${prompt}
+  11647: Je dois admettre que vous êtes l'un de mes recrues préférées, donc j'ai toujours de nouvelles missions pour vous. Mais je suis aussi responsable d'autres aventuriers!${prompt}
+  11648: Désormais, je vérifierai vos points de rang pour déterminer si vous êtes prêt pour la prochaine mission.${prompt}  
+  11649: La meilleure façon de gagner des points de rang est de rejoindre la conquête et ainsi obtenir des cristaux.${prompt}
+  11650: Si vous voulez en savoir plus sur la conquête, demandez au chevalier seigneur à n'importe quelle maison de garde.${prompt}
+  11651: Vous devez recevoir des ordres de Monarlais Halver au Château d'Oraguille pour que votre mission soit officielle.${prompt}
+  11652: Avant de partir pour Ghelsba, assurez-vous de recevoir des ordres de Monarlais Halver au Château d'Oraguille. Sinon, votre service ne sera pas considéré comme officiel.${prompt}
+  11653: Intéressé par des marchandises d'Aragoneu?${prompt}
+  11654: Bienvenue au Perchoir du Phénix!${prompt}
+  11655: Envie de voir ce que j'ai?${prompt}
+  11656: J'ai reçu un envoi direct de Valdeaunia!${prompt}
+  11657: Produits de Fauregandi en vente!${prompt}
+  11658: Bienvenue à l'Armurerie Royale!${prompt}
+  11659: Vous cherchez une arme? Nous en avons beaucoup en stock!${prompt}
+  11660: Bien joué, ${name-player}! Vous avez notre gratitude. Avec cela, notre Royaume de San d'Oria connaîtra sûrement enfin la paix.${prompt}
+  11661: Bonjour!${prompt}
   11662: |-
-    Do you accept the mission?
+    Acceptez-vous la mission?
     ${selection-lines}
-    I accept.
-    No, thanks.${prompt}
-  11663: The Kingdom's influence is waning in Aragoneu. I cannot import goods from that region, though I long to.${prompt}
-  11664: Would that Valdeaunia came again under San d'Orian dominion, I could then import its goods!${prompt}
-  11665: I'd make a killing selling Fauregandi produce here, but that region's not under San d'Orian control!${prompt}
-  11666: Once all of Li'Telor is back under San d'Orian influence, I'll fill my stock with unique goods from there!${prompt}
-  11667: I'd be making a fortune selling goods from Qufim Island...if it were only under San d'Orian control!${prompt}
-  11668: Have a look at these goods imported direct from Qufim Island!${prompt}
-  11669: San d'Orian woodcraft is the finest in the land!${prompt}
-  11670: Hello there! You're the one with the introduction, eh? I'm bizzy-wizzy right now. Perhaps you'd like to talk to one of the staff?${prompt}
-  11671: Ah, the one with the introduction, are you? I'm quite busy, you see. Perhaps one of our staff can help you?${prompt}
+    J'accepte.
+    Non, merci.${prompt}
+  11663: L'influence du Royaume diminue en Aragoneu. Je ne peux pas importer de marchandises de cette région, même si j'en ai très envie.${prompt}
+  11664: Si seulement Valdeaunia revenait sous la domination de San d'Oria, je pourrais importer ses marchandises!${prompt}
+  11665: Je ferais fortune en vendant des produits de Fauregandi ici, mais cette région n'est pas sous contrôle de San d'Oria!${prompt}
+  11666: Une fois que tout Li'Telor sera de retour sous l'influence de San d'Oria, je remplirai mon stock de marchandises uniques de là-bas!${prompt}
+  11667: Je ferais une fortune en vendant des marchandises de l'île de Qufim... si elle était seulement sous contrôle de San d'Oria!${prompt}
+  11668: Jetez un œil à ces marchandises importées directement de l'île de Qufim!${prompt}
+  11669: L'artisanat du bois de San d'Oria est le meilleur du pays!${prompt}
+  11670: Bonjour! Vous êtes celui avec l'introduction, hein? Je suis très occupé en ce moment. Peut-être que vous voudriez parler à l'un de mes collègues?${prompt}
+  11671: Ah, celui avec l'introduction, n'est-ce pas? Je suis assez occupé, vous voyez. Peut-être que l'un de nos collègues peut vous aider?${prompt}
   11672: ${prompt}
   11673: ${prompt}
   11674: ${prompt}
@@ -24532,144 +24533,144 @@ entries:
   11723: ${prompt}
   11724: ${prompt}
   11725: ${prompt}
-  11726: 'Good luck, ${choice: 0}[citizen/comrade]. I will bestow upon you your nation''s Signet.${wait-animation: 0}${prompt}'
-  11727: I cannot help you. You should go find a guard from your own country.${prompt}
+  11726: 'Bonne chance, ${choice: 0}[citoyen/camarade]. Je vous accorderai le Sceau de votre nation.${wait-animation: 0}${prompt}'
+  11727: Je ne peux pas vous aider. Vous devriez trouver un garde de votre propre pays.${prompt}
   11728: |-
-    I cannot accept crystals from someone whose rank is still 1.
-    I advise you to either keep them until your reach rank 2, or to use them in craftwork.${prompt}
-  11729: 'Since we are allied with San d''Oria...${wait-animation: 0}${prompt}'
-  11730: 'Since we are allied with Bastok...${wait-animation: 0}${prompt}'
-  11731: 'Since we are allied with Windurst...${wait-animation: 0}${prompt}'
+    Je ne peux pas accepter de cristaux d'une personne dont le rang est encore 1.
+    Je vous conseille soit de les garder jusqu'à ce que vous atteigniez le rang 2, soit de les utiliser dans l'artisanat.${prompt}
+  11729: 'Puisque nous sommes alliés avec San d''Oria...${wait-animation: 0}${prompt}'
+  11730: 'Puisque nous sommes alliés avec Bastok...${wait-animation: 0}${prompt}'
+  11731: 'Puisque nous sommes alliés avec Windurst...${wait-animation: 0}${prompt}'
   11732: |-
-    I am sorry.
-    I am too busy with other matters to be speaking with you.${wait-animation: 0}${prompt}
-  11733: Ah, you have brought us supplies. These will help us indeed. I thank you.${prompt}
+    Je suis désolé.
+    Je suis trop occupé avec d'autres affaires pour parler avec vous.${wait-animation: 0}${prompt}
+  11733: Ah, vous nous avez apporté des fournitures. Celles-ci nous aideront effectivement. Je vous remercie.${prompt}
   11734: |-
-    Hmm... These supplies you have brought us are too old to be of any use. We will dispose of them promptly.
-    I do commend you for your effort. May you succeed next time.${prompt}
-  11735: You've earned conquest points!${prompt}
+    Hmm... Ces fournitures que vous nous avez apportées sont trop anciennes pour être d'une quelconque utilité. Nous les éliminerons rapidement.
+    Je vous félicite pour vos efforts. Puissiez-vous réussir la prochaine fois.${prompt}
+  11735: Vous avez gagné des points de conquête!${prompt}
   11736: |-
-    You've received your nation's Signet.
-    You are now taking part in your nation's conquest campaign!${prompt}
+    Vous avez reçu le Sceau de votre nation.
+    Vous participez désormais à la campagne de conquête de votre nation!${prompt}
   11737: |-
-    I am ${name-npc}, a Temple Knight.
-    I am one of the guards charged with overseeing San d'Oria's conquest campaign.${prompt}
+    Je suis ${name-npc}, un Chevalier du Temple.
+    Je suis l'un des gardes chargés de superviser la campagne de conquête de San d'Oria.${prompt}
   11738: |-
-    I am ${name-npc}, an Iron Musketeer.
-    I am one of the guards charged with overseeing Bastok's conquest campaign.${prompt}
+    Je suis ${name-npc}, un Mousquetaire de Fer.
+    Je suis l'un des gardes chargés de superviser la campagne de conquête de Bastok.${prompt}
   11739: |-
-    I am ${name-npc}, a War Warlock.
-    I am one of the guards charged with overseeing Windurst's conquest campaign.${prompt}
+    Je suis ${name-npc}, un Guerrier Sorcier.
+    Je suis l'un des gardes chargés de superviser la campagne de conquête de Windurst.${prompt}
   11740: |-
-    What is your business?
+    Quel est votre besoin?
     ${selection-lines}
-    Would you cast Signet on me?
-    I want to spend my conquest points.
-    ${choice: 0}[I want to join the Expeditionary Force./Teleport me to the E.F. area.]
-    I want to quit the E.F./change my E.F.
-    I want to go on a supplies quest.
-    I have some questions...
-    Nothing, sorry to bother you.${prompt}
+    Voulez-vous que je vous lance le Sceau?
+    Je veux dépenser mes points de conquête.
+    ${choice: 0}[Je veux rejoindre la Force Expéditionnaire./Téléportez-moi dans la zone de la F.E.]
+    Je veux quitter la F.E./changer ma F.E.
+    Je veux partir en quête de fournitures.
+    J'ai quelques questions...
+    Rien, désolé de vous déranger.${prompt}
   11741: |-
-    What do you wish to know about?
+    Que souhaitez-vous savoir?
     ${selection-lines}
-    Nothing.
-    Conquests.
-    Conquest results.
-    Donating crystals.
-    Conquest points.
-    The effects of controlling regions.
-    Regions controlled by other nations.
-    Regions under beastman control.${prompt}
-  11742: All three nations are striving daily to put more regions under their control. This is what we call “conquests.” You can take part in it and serve your country by defeating enemies while you have Signet cast on you.${prompt}
-  11743: Each region comprises several areas, and the nation that rids those areas of the most monsters gains control of the region.${prompt}
-  11744: Nations receive goods and resources from regions under their control.${prompt}
-  11745: So, the more regions we control, the richer our nation becomes.${prompt}
+    Rien.
+    Conquêtes.
+    Résultats des conquêtes.
+    Don de cristaux.
+    Points de conquête.
+    Les effets de contrôler des régions.
+    Régions contrôlées par d'autres nations.
+    Régions sous le contrôle des bêtes.${prompt}
+  11742: Les trois nations s'efforcent quotidiennement de prendre le contrôle de plus de régions. C'est ce que nous appelons les "conquêtes". Vous pouvez y participer et servir votre pays en vainquant des ennemis tant que vous avez le Sceau de votre nation.${prompt}
+  11743: Chaque région comprend plusieurs zones, et la nation qui débarrasse ces zones du plus grand nombre de monstres prend le contrôle de la région.${prompt}
+  11744: Les nations reçoivent des biens et des ressources des régions qu'elles contrôlent.${prompt}
+  11745: Ainsi, plus nous contrôlons de régions, plus notre nation devient riche.${prompt}
   11746: |-
-    Border guards are also placed in outposts within regions under our control.
-    They are there to cast Signet on adventurers like yourself.${prompt}
-  11747: Once you have your nation's Signet, you will be able to acquire crystals from enemies you defeat.${prompt}
-  11748: Not only that, but you will also receive conquest points. You get more conquest points if you defeat enemies in regions that are not under your nation's control. These points can be used to purchase items from guards like myself.${prompt}
+    Des gardes-frontières sont également placés dans des avant-postes à l'intérieur des régions sous notre contrôle.
+    Ils sont là pour lancer le Sceau sur des aventuriers comme vous.${prompt}
+  11747: Une fois que vous avez le Sceau de votre nation, vous pourrez acquérir des cristaux en vainquant des ennemis.${prompt}
+  11748: Non seulement cela, mais vous recevrez également des points de conquête. Vous obtenez plus de points de conquête si vous vainquez des ennemis dans des régions qui ne sont pas sous le contrôle de votre nation. Ces points peuvent être utilisés pour acheter des objets auprès de gardes comme moi.${prompt}
   11749: |-
-    So you see...conquests benefit nations and adventurers alike.
-    We expect you to do your best to serve your country.${prompt}
+    Vous voyez donc... les conquêtes bénéficient aux nations et aux aventuriers.
+    Nous nous attendons à ce que vous fassiez de votre mieux pour servir votre pays.${prompt}
   11750: |-
-    You can see the current state of conquests by selecting “Region Info” from the main menu.
-    Conquest results in all regions are regularly recalculated, so you may want to check them from time to time.${prompt}
+    Vous pouvez voir l'état actuel des conquêtes en sélectionnant "Infos Région" dans le menu principal.
+    Les résultats des conquêtes dans toutes les régions sont régulièrement recalculés, donc vous voudrez peut-être les vérifier de temps en temps.${prompt}
   11751: |-
-    Shops in our city will be selling different items according to our conquest rank.
-    The Troupe Valeriano will also visit the nation that finishes first and bring a little joy to its citizens.${prompt}
+    Les boutiques de notre ville vendront différents articles en fonction de notre rang de conquête.
+    La Troupe Valeriano visitera également la nation qui termine en premier et apportera un peu de joie à ses citoyens.${prompt}
   11752: |-
-    You can donate crystals to your nation once you achieve rank 2.
-    Just trade them to guards like myself, and we will ensure they are sent to the proper place.${prompt}
+    Vous pouvez faire un don de cristaux à votre nation une fois que vous atteignez le rang 2.
+    Il vous suffit de les échanger avec des gardes comme moi, et nous veillerons à ce qu'ils soient envoyés à la bonne destination.${prompt}
   11753: |-
-    We would like you to donate crystals to your nation from now on.
-    Just trade them to guards like myself, and we will ensure they are sent to the proper place.${prompt}
+    Nous aimerions que vous fassiez un don de cristaux à votre nation à partir de maintenant.
+    Il vous suffit de les échanger avec des gardes comme moi, et nous veillerons à ce qu'ils soient envoyés à la bonne destination.${prompt}
   11754: |-
-    You can acquire crystals by defeating enemies while you have your nation's Signet.
-    Having Signet cast on you is also the only way of taking part in conquests.${prompt}
-  11755: Rank points will be awarded to you for each crystal you donate, and you may be offered new missions as your rank goes up.${prompt}
+    Vous pouvez acquérir des cristaux en vainquant des ennemis tant que vous avez le Sceau de votre nation.
+    Avoir le Sceau lancé sur vous est également la seule façon de participer aux conquêtes.${prompt}
+  11755: Des points de rang vous seront attribués pour chaque cristal que vous donnez, et vous pourriez vous voir offrir de nouvelles missions à mesure que votre rang augmente.${prompt}
   11756: |-
-    You also receive rank points for completing missions.
-    Complete missions and take part in conquests to raise your rank and serve your country.${prompt}
+    Vous recevez également des points de rang pour avoir accompli des missions.
+    Accomplissez des missions et participez aux conquêtes pour augmenter votre rang et servir votre pays.${prompt}
   11757: |-
-    You are awarded conquest points when you defeat monsters while you are taking part in conquests.
-    Select "Region Info" from the menu to check your current number of conquest points.${prompt}
-  11758: You can purchase items from guards like myself with your conquest points, but be warned that the number of points you spend will be subtracted from your current total.${prompt}
-  11759: When conquest results are announced, you will be told which country controls the region you are in at that time. Sometimes regions may become neutral, or beastmen may even gain control of regions.${prompt}
-  11760: If we gain control of a region, border guards will be placed at its outposts to help adventurers like you.${prompt}
-  11761: Merchants will also be placed there, and goods from that region will find their way to the local shops here.${prompt}
-  11762: Gaining control of regions is the basic principle behind conquests. We need each of you to do your best, and bring our nation to the top of the ranks.${prompt}
-  11763: Of course, sometimes we lose regions to other nations...so we must try to take them back before the next conquest results are announced.${prompt}
-  11764: As an incentive, we will award you with more conquest points for defeating monsters in those regions.${prompt}
-  11765: But if we are allied with another nation, you will only be awarded the regular rate for defeating monsters in our allies' regions. On the other hand, we will award you with more points for fighting in the top-ranked nation's regions.${prompt}
+    Vous recevez des points de conquête lorsque vous vainquez des monstres tout en participant aux conquêtes.
+    Sélectionnez "Infos Région" dans le menu pour vérifier votre nombre actuel de points de conquête.${prompt}
+  11758: Vous pouvez acheter des objets auprès de gardes comme moi avec vos points de conquête, mais sachez que le nombre de points que vous dépensez sera soustrait de votre total actuel.${prompt}
+  11759: Lorsque les résultats des conquêtes sont annoncés, vous serez informé du pays qui contrôle la région dans laquelle vous vous trouvez à ce moment-là. Parfois, les régions peuvent devenir neutres, ou même les bêtes peuvent prendre le contrôle des régions.${prompt}
+  11760: Si nous prenons le contrôle d'une région, des gardes-frontières seront placés dans ses avant-postes pour aider des aventuriers comme vous.${prompt}
+  11761: Des marchands seront également placés là-bas, et les marchandises de cette région trouveront leur chemin vers les boutiques locales ici.${prompt}
+  11762: Prendre le contrôle des régions est le principe de base des conquêtes. Nous avons besoin que chacun de vous fasse de son mieux, et amène notre nation au sommet du classement.${prompt}
+  11763: Bien sûr, parfois nous perdons des régions au profit d'autres nations... donc nous devons essayer de les reprendre avant que les prochains résultats des conquêtes ne soient annoncés.${prompt}
+  11764: En guise d'incitation, nous vous attribuerons plus de points de conquête pour avoir vaincu des monstres dans ces régions.${prompt}
+  11765: Mais si nous sommes alliés avec une autre nation, vous ne recevrez que le taux régulier pour avoir vaincu des monstres dans les régions de nos alliés. En revanche, nous vous attribuerons plus de points pour combattre dans les régions de la nation la mieux classée.${prompt}
   11766: |-
-    Our paramount concern lies in the beastmen gaining control of our regions.
-    If too many of us are defeated in a region, the beastmen will gain control of it.${prompt}
-  11767: If this happens, not only is it a great blow to our pride, but you will be unable to acquire any crystals in that region.${prompt}
-  11768: The beastmen are a menace to all nations. If they rise to power, we must all unite and drive those vile creatures from that region.${prompt}
-  11769: We need you to bring supplies to the outpost border guards who are placed in regions under our control.${prompt}
-  11770: There is one outpost in each region. Select “Region Info” from the menu, and look for the areas with a small flag mark on the map. That is where they are.${prompt}
+    Notre principale préoccupation réside dans le fait que les bêtes prennent le contrôle de nos régions.
+    Si trop d'entre nous sont vaincus dans une région, les bêtes en prendront le contrôle.${prompt}
+  11767: Si cela se produit, non seulement c'est un coup dur pour notre fierté, mais vous ne pourrez pas acquérir de cristaux dans cette région.${prompt}
+  11768: Les bêtes sont une menace pour toutes les nations. Si elles prennent le pouvoir, nous devons tous nous unir et chasser ces vilaines créatures de cette région.${prompt}
+  11769: Nous avons besoin que vous apportiez des fournitures aux gardes-frontières des avant-postes qui sont placés dans les régions sous notre contrôle.${prompt}
+  11770: Il y a un avant-poste dans chaque région. Sélectionnez "Infos Région" dans le menu, et recherchez les zones avec un petit drapeau sur la carte. C'est là qu'ils se trouvent.${prompt}
   11771: |-
-    Here are the supplies. Just give them to the guard at the outpost and your mission will be complete.
-    Now, choose which outpost you want to go to. We give different rewards for each region, so choose carefully.${prompt}
+    Voici les fournitures. Donnez-les simplement au garde à l'avant-poste et votre mission sera terminée.
+    Maintenant, choisissez à quel avant-poste vous voulez aller. Nous offrons des récompenses différentes pour chaque région, alors choisissez soigneusement.${prompt}
   11772: |-
-    Where do you wish to take the supplies?
+    Où souhaitez-vous emmener les fournitures?
     ${selection-lines}
     　
     　
     　
     　
     　
-    The Ronfaure Region.${choice: 5}[/ (Done)]
-    The Zulkheim Region.${choice: 6}[/ (Done)]
-    The Norvallen Region.${choice: 7}[/ (Done)]
-    The Gustaberg Region.${choice: 8}[/ (Done)]
-    The Derfland Region.${choice: 9}[/ (Done)]
-    The Sarutabaruta Region.${choice: 10}[/ (Done)]
-    The Kolshushu Region.${choice: 11}[/ (Done)]
-    The Aragoneu Region.${choice: 12}[/ (Done)]
-    The Fauregandi Region.${choice: 13}[/ (Done)]
-    The Valdeaunia Region.${choice: 14}[/ (Done)]
-    Qufim Island.${choice: 15}[/ (Done)]
-    The Li'Telor Region.${choice: 16}[/ (Done)]
-    The Kuzotz Region.${choice: 17}[/ (Done)]
-    The Vollbow Region.${choice: 18}[/ (Done)]
-    The Elshimo Lowlands Region.${choice: 19}[/ (Done)]
-    The Elshimo Uplands Region.${choice: 20}[/ (Done)]
-    Tu'Lia.${choice: 21}[/ (Done)]
+    La région de Ronfaure.${choice: 5}[/ (Terminé)]
+    La région de Zulkheim.${choice: 6}[/ (Terminé)]
+    La région de Norvallen.${choice: 7}[/ (Terminé)]
+    La région de Gustaberg.${choice: 8}[/ (Terminé)]
+    La région de Derfland.${choice: 9}[/ (Terminé)]
+    La région de Sarutabaruta.${choice: 10}[/ (Terminé)]
+    La région de Kolshushu.${choice: 11}[/ (Terminé)]
+    La région d'Aragoneu.${choice: 12}[/ (Terminé)]
+    La région de Fauregandi.${choice: 13}[/ (Terminé)]
+    La région de Valdeaunia.${choice: 14}[/ (Terminé)]
+    L'île de Qufim.${choice: 15}[/ (Terminé)]
+    La région de Li'Telor.${choice: 16}[/ (Terminé)]
+    La région de Kuzotz.${choice: 17}[/ (Terminé)]
+    La région de Vollbow.${choice: 18}[/ (Terminé)]
+    La région des Basses-terres d'Elshimo.${choice: 19}[/ (Terminé)]
+    La région des Hautes-terres d'Elshimo.${choice: 20}[/ (Terminé)]
+    Tu'Lia.${choice: 21}[/ (Terminé)]
     　
-    The Tavnazian Archipelago.${choice: 23}[/ (Done)]
-    　
-    　
+    L'archipel de Tavnazia.${choice: 23}[/ (Terminé)]
     　
     　
     　
     　
     　
-    Cancel.${prompt}
+    　
+    　
+    Annuler.${prompt}
   11773: |-
-    Which E.F. would you like to join?
+    À quelle F.E. souhaitez-vous vous joindre?
     ${selection-lines}
     .
     .
@@ -24677,23 +24678,21 @@ entries:
     .
     .
     .
-    The Zulkheim Region (Lv.20～).
-    The Norvallen Region (Lv.25～).
+    La région de Zulkheim (Nv.20～).
+    La région de Norvallen (Nv.25～).
     .
-    The Derfland Region (Lv.25～).
+    La région de Derfland (Nv.25～).
     .
-    The Kolshushu Region (Lv.20～).
-    The Aragoneu Region (Lv.25～).
-    The Fauregandi Region (Lv.35～).
-    The Valdeaunia Region (Lv.40～).
-    The Qufim Region (Lv.25～).
-    The Li'Telor Region (Lv.35～).
-    The Kuzotz Region (Lv.40～).
-    The Vollbow Region (Lv.65～).
-    The Elshimo Lowlands Region (Lv.35～).
-    The Elshimo Uplands Region (Lv.45～).
-    .
-    .
+    La région de Kolshushu (Nv.20～).
+    La région d'Aragoneu (Nv.25～).
+    La région de Fauregandi (Nv.35～).
+    La région de Valdeaunia (Nv.40～).
+    La région de Qufim (Nv.25～).
+    La région de Li'Telor (Nv.35～).
+    La région de Kuzotz (Nv.40～).
+    La région de Vollbow (Nv.65～).
+    La région des Basses-terres d'Elshimo (Nv.35～).
+    La région des Hautes-terres d'Elshimo (Nv.45～).
     .
     .
     .
@@ -24702,96 +24701,98 @@ entries:
     .
     .
     .
-    None.${prompt}
+    .
+    .
+    Aucun.${prompt}
   11774: |-
-    So be it.
-    You have until the next conquest results announcement to complete this mission.
-    Good luck.${prompt}
-  11775: We will dispose of those unusable supplies.${prompt}
+    Ainsi soit-il.
+    Vous avez jusqu'à l'annonce des prochains résultats des conquêtes pour accomplir cette mission.
+    Bonne chance.${prompt}
+  11775: Nous allons nous débarrasser de ces fournitures inutilisables.${prompt}
   11776: |-
-    You can only undertake one supply mission per day.
-    Come back later.${prompt}
-  11777: I am sorry. We seem to have a problem. Let me cancel it.${prompt}
+    Vous ne pouvez entreprendre qu'une mission d'approvisionnement par jour.
+    Revenez plus tard.${prompt}
+  11777: Je suis désolé. Nous semblons avoir un problème. Laissez-moi l'annuler.${prompt}
   11778: |-
-    You do not need to donate any more crystals at your current rank.
-    Speak to the guard at the gatehouse for further instructions.${prompt}
+    Vous n'avez plus besoin de faire de don de cristaux à votre rang actuel.
+    Parlez au garde de la maison de guilde pour de plus amples instructions.${prompt}
   11779: |-
-    Your rank points are full. We've added the excess to your conquest points.
-    You do not need to donate any more crystals. Go to the gatehouse for further instructions.${prompt}
+    Vos points de rang sont pleins. Nous avons ajouté l'excédent à vos points de conquête.
+    Vous n'avez plus besoin de faire de don de cristaux. Rendez-vous à la maison de guilde pour de plus amples instructions.${prompt}
   11780: |-
-    Good work, citizen.
-    We've awarded you rank points for the crystals you've donated.${prompt}
+    Bon travail, citoyen.
+    Nous vous avons attribué des points de rang pour les cristaux que vous avez donnés.${prompt}
   11781: |-
-    You currently have ${number: 0} conquest points.
-    Would you like to use them to purchase items?${prompt}
+    Vous avez actuellement ${number: 0} points de conquête.
+    Souhaitez-vous les utiliser pour acheter des objets?${prompt}
   11782: |-
-    Which item do you wish to purchase?
+    Quel objet souhaitez-vous acheter?
     ${selection-lines}
-    Common items (all ranks).
-    1000-pt. items (rank 1 required).
-    2000-pt. items (rank 2 required).
-    4000-pt. items (rank 3 required).
-    8000-pt. items (rank 4 required).
-    16000-pt. items (rank 5 required).
-    24000-pt. items (rank 6 required).
-    32000-pt. items (rank 7 required).
-    40000-pt. items (rank 8 required).
-    48000-pt. items (rank 9 required).
-    56000-pt. items (rank 10 required).
-    Cancel.${prompt}
+    Objets communs (tous les rangs).
+    Objets de 1000 points (rang 1 requis).
+    Objets de 2000 points (rang 2 requis).
+    Objets de 4000 points (rang 3 requis).
+    Objets de 8000 points (rang 4 requis).
+    Objets de 16000 points (rang 5 requis).
+    Objets de 24000 points (rang 6 requis).
+    Objets de 32000 points (rang 7 requis).
+    Objets de 40000 points (rang 8 requis).
+    Objets de 48000 points (rang 9 requis).
+    Objets de 56000 points (rang 10 requis).
+    Annuler.${prompt}
   11783: |-
-    Which item do you wish to purchase?
+    Quel article souhaitez-vous acheter?
     ${selection-lines}
-    Common items (all ranks).
-    2000-pt. items (rank 1 required).
-    4000-pt. items (rank 2 required).
-    8000-pt. items (rank 3 required).
-    16000-pt. items (rank 4 required).
-    24000-pt. items (rank 5 required).
-    32000-pt. items (rank 6 required).
-    40000-pt. items (rank 7 required).
-    48000-pt. items (rank 8 required).
-    56000-pt. items (rank 9 required).
+    Articles communs (tous les rangs).
+    Articles de 2000 points (rang 1 requis).
+    Articles de 4000 points (rang 2 requis).
+    Articles de 8000 points (rang 3 requis).
+    Articles de 16000 points (rang 4 requis).
+    Articles de 24000 points (rang 5 requis).
+    Articles de 32000 points (rang 6 requis).
+    Articles de 40000 points (rang 7 requis).
+    Articles de 48000 points (rang 8 requis).
+    Articles de 56000 points (rang 9 requis).
     .
-    Cancel.${prompt}
-  11784: Currently there are no items available for that rank.${prompt}
+    Annuler.${prompt}
+  11784: Actuellement, il n'y a aucun article disponible pour ce rang.${prompt}
   11785: |-
-    Due to its special nature, you can only purchase or recharge ${article} ${item-article: 2[2]} once until the conquest results tally is performed.
-    Also, you cannot purchase this item if a similar item is already in your possession.${prompt}
-  11786: 'It is possible to fully recharge ${article} ${item-article: 2[2]} by trading it to one of your nation''s guards, including outpost guards. One charge requires 50 conquest points.${prompt}'
-  11787: 'It is possible to fully recharge ${article} ${item-article: 2[2]} by trading it to one of your nation''s guards, including outpost guards. One charge requires 100 conquest points.${prompt}'
-  11788: 'It is possible to fully recharge ${article} ${item-article: 2[2]} by trading it to one of your nation''s guards, including outpost guards. One charge requires 200 conquest points.${prompt}'
-  11789: During the time of the Great War, it was possible to have this item recharged in exchange for Allied Notes. From my understanding, that practice has recently become commonplace in the Near East. Though you'll be needing Imperial Standing credits if you wish to use the service there.${prompt}
-  11790: 'You do not possess the ${number: 1} ${choice-plurality: 1}[conquest point/conquest points] required to fully recharge the ${item-singular: 0[2]}.${prompt}'
-  11791: 'Please be aware that you can only purchase or recharge ${article} ${item-article: 0[2]} once during the period between each conquest results tally.${prompt}'
-  11792: 'The ${item-singular: 0[2]} is already fully charged.${prompt}'
-  11793: 'Your ${item-singular: 0[2]} has received ${number: 2} ${choice-plurality: 2}[charge/charges] in exchange for ${number: 1} ${choice-plurality: 1}[conquest point/conquest points]. It is now fully recharged.${prompt}'
-  11794: 'I will trade you ${article} ${item-article: 0[2]} for your ${item-singular: 1[2]}. May it serve you well.${prompt}'
-  11795: 'You do not meet the requirements to purchase the ${item-singular: 2[2]}.${prompt}'
-  11796: 'Your rank is too low to purchase the ${item-singular: 2[2]}.${prompt}'
-  11797: 'You do not have enough conquest points to purchase the ${item-singular: 2[2]}.${prompt}'
+    En raison de sa nature spéciale, vous ne pouvez acheter ou recharger ${article} ${item-article: 2[2]} qu'une seule fois jusqu'à ce que les résultats des conquêtes soient comptabilisés.
+    De plus, vous ne pouvez pas acheter cet article s'il en existe déjà un similaire en votre possession.${prompt}
+  11786: 'Il est possible de recharger complètement ${article} ${item-article: 2[2]} en le remettant à l’un des gardes de votre nation, y compris les gardes des avant-postes. Une recharge nécessite 50 points de conquête.${prompt}'
+  11787: 'Il est possible de recharger complètement ${article} ${item-article: 2[2]} en le remettant à l’un des gardes de votre nation, y compris les gardes des avant-postes. Une recharge nécessite 100 points de conquête.${prompt}'
+  11788: 'Il est possible de recharger complètement ${article} ${item-article: 2[2]} en le remettant à l’un des gardes de votre nation, y compris les gardes des avant-postes. Une recharge nécessite 200 points de conquête.${prompt}'
+  11789: Pendant la période de la Grande Guerre, il était possible de recharger cet article en échange de Notes Alliées. D'après ce que je comprends, cette pratique est récemment devenue courante au Proche-Orient. Bien que vous ayez besoin de crédits de Standing Impérial si vous souhaitez utiliser le service là-bas.${prompt}
+  11790: 'Vous ne possédez pas les ${number: 1} ${choice-plurality: 1}[point de conquête/points de conquête] requis pour recharger complètement le ${item-singular: 0[2]}.${prompt}'
+  11791: 'Veuillez noter que vous ne pouvez acheter ou recharger ${article} ${item-article: 0[2]} qu’une seule fois pendant la période entre chaque comptabilisation des résultats des conquêtes.${prompt}'
+  11792: 'Le ${item-singular: 0[2]} est déjà complètement chargé.${prompt}'
+  11793: 'Votre ${item-singular: 0[2]} a reçu ${number: 2} ${choice-plurality: 2}[charge/charges] en échange de ${number: 1} ${choice-plurality: 1}[point de conquête/points de conquête]. Il est maintenant complètement rechargé.${prompt}'
+  11794: 'Je vous échangerai ${article} ${item-article: 0[2]} contre votre ${item-singular: 1[2]}. Qu’il vous soit utile.${prompt}'
+  11795: 'Vous ne remplissez pas les conditions requises pour acheter le ${item-singular: 2[2]}.${prompt}'
+  11796: 'Votre rang est trop bas pour acheter le ${item-singular: 2[2]}.${prompt}'
+  11797: 'Vous n’avez pas assez de points de conquête pour acheter le ${item-singular: 2[2]}.${prompt}'
   11798: |-
-    You cannot equip the ${item-singular: 2[2]}.
-    Do you still wish to proceed?${prompt}
+    Vous ne pouvez pas équiper le ${item-singular: 2[2]}.
+    Souhaitez-vous tout de même procéder?${prompt}
   11799: |-
-    Your level is too low to equip the ${item-singular: 2[2]}.
-    Do you still wish to proceed?${prompt}
+    Votre niveau est trop bas pour équiper le ${item-singular: 2[2]}.
+    Souhaitez-vous tout de même procéder?${prompt}
   11800: |-
-    You seem to be able to equip the ${item-singular: 2[2]}.
-    Do you wish to proceed?${prompt}
-  11801: 'Are you sure you want to purchase the ${item-singular: 2[2]}?${prompt}'
+    Il semble que vous puissiez équiper le ${item-singular: 2[2]}.
+    Souhaitez-vous tout de même procéder?${prompt}
+  11801: 'Êtes-vous sûr de vouloir acheter le ${item-singular: 2[2]}?${prompt}'
   11802: |-
-    Proceed?
+    Procéder?
     ${selection-lines}
-    Yes, purchase item.
-    Cancel purchase.${prompt}
+    Oui, acheter l'article.
+    Annuler l'achat.${prompt}
   11803: |-
-    Proceed?
+    Procéder?
     ${selection-lines}
-    Yes, even though I can't equip it.
-    Cancel purchase.${prompt}
+    Oui, même si je ne peux pas l'équiper.
+    Annuler l'achat.${prompt}
   11804: |-
-    Which item do you wish to purchase?
+    Quel article souhaitez-vous acheter?
     ${selection-lines}
     ${lettercase: 1}${item-singular: 0[2]}.
     ${lettercase: 1}${item-singular: 1[2]}.
@@ -24801,11 +24802,11 @@ entries:
     ${lettercase: 1}${item-singular: 5[2]}.
     ${lettercase: 1}${item-singular: 6[2]}.
     ${lettercase: 1}${item-singular: 7[2]}.
-    Next page.
-    Previous page.
-    Back.${prompt}
+    Page suivante.
+    Page précédente.
+    Retour.${prompt}
   11805: |-
-    Which item do you wish to purchase?
+    Quel article souhaitez-vous acheter?
     ${selection-lines}
     ${lettercase: 1}${item-singular: 0[2]}...${number: 8} pts.
     ${lettercase: 1}${item-singular: 1[2]}...${number: 9} pts.
@@ -24815,76 +24816,76 @@ entries:
     ${lettercase: 1}${item-singular: 5[2]}...${number: 13} pts.
     ${lettercase: 1}${item-singular: 6[2]}...${number: 14} pts.
     ${lettercase: 1}${item-singular: 7[2]}...${number: 15} pts.
-    Next page.
-    Previous page.
-    Back.${prompt}
+    Page suivante.
+    Page précédente.
+    Retour.${prompt}
   11806: 'ENDPARA：${number: 0}${prompt}'
   11807: |-
-    Which service do you request?
+    Quel service demandez-vous?
     ${selection-lines}
-    Buy/Sell items.
-    Teleportation.
-    Nothing.${prompt}
+    Acheter/Vendre des articles.
+    Téléportation.
+    Rien.${prompt}
   11808: |-
-    Do you really wish to be teleported?
+    Voulez-vous vraiment être téléporté?
     ${selection-lines}
-    Yes.
-    Teleport with gil.
-    Teleport with conquest points.
-    No.${prompt}
-  11809: Welcome to the border shop! If you trade me unused equipment, I'll add their value to your country's region points!${prompt}
+    Oui.
+    Téléportation avec des gils.
+    Téléportation avec des points de conquête.
+    Non.${prompt}
+  11809: Bienvenue à la boutique frontalière ! Si vous me donnez des équipements inutilisés, j'ajouterai leur valeur aux points de la région de votre pays !${prompt}
   11810: |-
-    It should please you to know that I now also deal in ${item-plural: 0[2]}.
-    Bigger pieces will earn you more points for your nation, and I'll even toss some gil into the equation!${prompt}
-  11811: I see that your home country has control of this region. Feel free to browse through my wares.${prompt}
-  11812: I see that your home country is allies with the country in control of this region. Feel free to browse through my wares.${prompt}
-  11813: 'I can teleport you to your home country for ${number: 1} gil or ${number: 3} conquest ${choice-plurality: 3}[point/points].${prompt}'
-  11814: "Word has it that the entire set of mog tablets has been recovered. \nOh, happy day! In honor of the occasion, I can teleport you to your home country free of charge.${prompt}"
-  11815: I am terribly sorry, but it seems as if you do not have enough gil.${prompt}
-  11816: I am terribly sorry, but it seems as if you do not have enough conquest points.${prompt}
-  11817: However, due to your home country's lack of influence in the region, this is the only transaction I am authorized to perform with you at the moment.${prompt}
-  11818: I am looking forward to doing business with you again in the future!${prompt}
-  11819: Thank you. This will increase your nation's region points by a small amount. If you have anything else, by all means, trade them to me.${prompt}
-  11820: Thank you. This will increase your nation's region points moderately. If you have anything else, by all means, trade them to me.${prompt}
-  11821: Thank you. This will increase your nation's region points greatly. If you have anything else, by all means, trade them to me.${prompt}
-  11822: I could not accept one or more items you tried to trade me. Please remove those items and try again.${prompt}
-  11823: Sorry. I can only take certain types of weapons, shields, or armor.${prompt}
+    Je suis heureux de vous informer que je traite désormais également avec les ${item-plural: 0[2]}.
+    Les pièces plus grandes vous rapporteront davantage de points pour votre nation, et je jetterai même quelques gils dans l'équation !${prompt}
+  11811: Je constate que votre pays d'origine contrôle cette région. N'hésitez pas à parcourir mes marchandises.${prompt}
+  11812: Je constate que votre pays d'origine est allié avec le pays contrôlant cette région. N'hésitez pas à parcourir mes marchandises.${prompt}
+  11813: 'Je peux vous téléporter dans votre pays d’origine pour ${number: 1} gils ou ${number: 3} ${choice-plurality: 3}[point/points] de conquête.${prompt}'
+  11814: "On dit que l'ensemble complet des tablettes mog a été retrouvé. \nOh, jour heureux ! En l'honneur de cette occasion, je peux vous téléporter dans votre pays d'origine gratuitement.${prompt}"
+  11815: Je suis désolé, mais il semble que vous n’ayez pas assez de gils.${prompt}
+  11816: Je suis désolé, mais il semble que vous n’ayez pas assez de points de conquête.${prompt}
+  11817: Cependant, en raison du manque d'influence de votre pays d'origine dans la région, c'est la seule transaction que je suis autorisé à effectuer avec vous pour le moment.${prompt}
+  11818: J'ai hâte de faire à nouveau des affaires avec vous à l'avenir !${prompt}
+  11819: Merci. Cela augmentera légèrement les points de région de votre nation. Si vous avez d’autres choses, n'hésitez pas à me les échanger.${prompt}
+  11820: Merci. Cela augmentera modérément les points de région de votre nation. Si vous avez d’autres choses, n'hésitez pas à me les échanger.${prompt}
+  11821: Merci. Cela augmentera grandement les points de région de votre nation. Si vous avez d’autres choses, n'hésitez pas à me les échanger.${prompt}
+  11822: Je n'ai pas pu accepter un ou plusieurs articles que vous avez essayé de m'échanger. Veuillez retirer ces articles et réessayer.${prompt}
+  11823: Désolé. Je ne peux accepter que certains types d'armes, boucliers ou armures.${prompt}
   11824: |-
-    Thank you. This will increase your nation's region points ${choice: 1}[by a small amount/moderately/greatly].
-    For this transaction I will also furnish you with ${number: 0} gil.${prompt}
-  11825: My apologies, but this type of item needs to be individually appraised. Please trade them to me one at a time.${prompt}
-  11826: (DEBUG) Back to hometown!${prompt}
+    Merci. Cela augmentera les points de région de votre nation ${choice: 1}[légèrement/modérément/grandement].
+    Pour cette transaction, je vous fournirai également ${number: 0} gils.${prompt}
+  11825: Mes excuses, mais ce type d'article doit être évalué individuellement. Veuillez me les échanger un par un.${prompt}
+  11826: (DEBUG) De retour à la ville natale !${prompt}
   11827: |-
-    What do you want?
+    Que voulez-vous ?
     ${selection-lines}
-    Would you cast Signet on me?
-    I'd like to set my home point here.
-    Nothing.${prompt}
+    Voulez-vous me lancer le Sceau ?
+    Je voudrais définir mon point de retour ici.
+    Rien.${prompt}
   11828: |-
-    What do you want?
+    Que voulez-vous ?
     ${selection-lines}
-    Pay ${number: 7} gil and set my home point here.
-    Nothing.${prompt}
-  11829: Your home point has been set.${prompt}
-  11830: You do not have enough gil to set your home point here.${prompt}
-  11831: 'I will set your home point here.${wait-animation: 0}${prompt}'
+    Payer ${number: 7} gil et définir mon point de retour ici.
+    Rien.${prompt}
+  11829: Votre point de retour a été défini.${prompt}
+  11830: Vous n'avez pas assez de gils pour définir votre point de retour ici.${prompt}
+  11831: 'Je vais définir votre point de retour ici.${wait-animation: 0}${prompt}'
   11832: |-
-    We are currently on a beastman-purging campaign. We support adventurers from all nations.
-    Do your best to rid the world of those vile creatures.${prompt}
+    Nous sommes actuellement en campagne de purification des bêtes. Nous soutenons les aventuriers de toutes les nations.
+    Faites de votre mieux pour débarrasser le monde de ces créatures viles.${prompt}
   11833: |-
-    We are currently conducting an international exchange campaign.
-    You may spend your conquest points to purchase items from foreign guards.${prompt}
+    Nous menons actuellement une campagne d'échange international.
+    Vous pouvez dépenser vos points de conquête pour acheter des articles auprès des gardes étrangers.${prompt}
   11834: |-
-    Thanks to you, our nation is now first in the conquest race!
-    Here is a small token of our appreciation.${prompt}
-  11835: Adventurers from nations that are ranked higher than ours in the conquest race may purchase items from us, but at a higher rate.${prompt}
+    Grâce à vous, notre nation est maintenant en tête de la course à la conquête !
+    Voici un petit geste de notre appréciation.${prompt}
+  11835: Les aventuriers des nations mieux classées que la nôtre dans la course à la conquête peuvent acheter des articles chez nous, mais à un tarif plus élevé.${prompt}
   11836: |-
-    You cannot currently purchase this item.
-    Please choose another.${prompt}
-  11837: Currently our nation is dispatching Expeditionary Forces across Vana'diel, and requests the participation of brave adventurers such as yourself.${prompt}
-  11838: 'Requirements for participating in an E.F. are simple. Your party must consist of ${number: 5} members. Each member must be from this country, rank 3 or higher, and have reached a sufficient level.${prompt}'
-  11839: Once your party is ready, come to me and I will teleport you to the nearest outpost.${prompt}
-  11840: There, you will receive an insignia of the Expeditionary Force. When you succeed in taking control of the area, you can exchange the insignia for your reward.${prompt}
+    Vous ne pouvez pas acheter cet article pour le moment.
+    Veuillez en choisir un autre.${prompt}
+  11837: Actuellement, notre nation envoie des Forces Expéditionnaires à travers Vana'diel et demande la participation de braves aventuriers comme vous.${prompt}
+  11838: 'Les conditions de participation à une F.E. sont simples. Votre groupe doit comprendre ${number: 5} membres. Chaque membre doit être de ce pays, de rang 3 ou plus, et avoir atteint un niveau suffisant.${prompt}'
+  11839: Une fois votre groupe prêt, venez me voir et je vous téléporterai jusqu'au poste avancé le plus proche.${prompt}
+  11840: Là-bas, vous recevrez un insigne de la Force Expéditionnaire. Lorsque vous réussirez à prendre le contrôle de la zone, vous pourrez échanger l'insigne contre votre récompense.${prompt}
   11841: |-
     Join the E.F. in ${choice: 7}[Ronfaure/Zulkheim/Norvallen/Gustaberg/Derfland/Sarutabaruta/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/The Elshimo Lowlands/The Elshimo Uplands]?
     ${selection-lines}
@@ -37794,103 +37795,103 @@ entries:
     Hmph.
     It seems you ${choice: 1}[are hardly fit to be disemboweled by these fiends, so superior are they to you/can hold your own against these colossi of combat/have transcended even these ferocities and reign over all with an iron fist].${prompt}
   18342: '${number: 39}${prompt}'
-  18343: I am Excenmille M Aurchiat, overseer of all Conflict-related matters.${prompt}
-  18344: I see. You wish to try your hand at Trust.${prompt}
-  18345: In bygone times, I might have said that adventurers were to be kept at an arm's distance like the deranged mother of one's partner.${prompt}
-  18346: Yet when I chose to revive the ancient traditions of Conflict and Ballista, it was you--the adventurers--who heeded the call to battle.${prompt}
-  18347: As such, I shall permit you to engage in the Trust ritual with me.${prompt}
-  18348: You...are not aware of what Trust magic is?${prompt}
-  18349: Sometimes I wonder if Gondebaud's head is filled with naught but cobwebs.${prompt}
-  18350: The Trust ritual draws forth energy from ardent bonds of trust and camaraderie as are forged betwixt brothers-in-arms upon the battlefield.${prompt}
-  18351: To cut to the quick, if a strong bond exists between the two of us, you will be able to summon an “alter ego” of me.${prompt}
-  18352: Indeed, I could drive your foes into the sea as I did the Orcs of Rhazowa.${prompt}
-  18353: The problem is, I could hardly pick you out of a lineup with similarly built individuals.${prompt}
-  18354: Yet if our bonds are not strong enough, then the magic is doomed to certain failure.${prompt}
-  18355: Let us reflect not just on how the two of us came to know each other, but also on how our mutual experiences have shaped us.${prompt}
-  18356: I remember the honorable efforts you put forth in Ballista.${prompt}
-  18357: When the sun grows dim and I retire to my quarters, drips of wax gather on my desk as I pore over the day's results. Never could I forget those whose accomplishments stood out from the rest.${prompt}
-  18358: '${choice: 4}[I/I also] remember your exploits in the arena of chocobo races. Your impressive flexibility turned more than one head.${prompt}'
-  18359: 'I${choice: 2}[/, too,] remember meeting you when I was younger. Or perhaps it was one just like you.${prompt}'
-  18360: Yes, I recall it clearly now. You remind me of an adventurer I once had a grand time with...hohoho.${prompt}
-  18361: 'I am reminded of those I fought with side by side...and of my ${choice: 0}[other/father].${prompt}'
-  18362: House Aurchiat is known to look toward the future, using the past as lessons rather than memories...but I would be remiss if I did not admit that your presence has stirred wonderful feelings within me.${prompt}
-  18363: Yes...I am ready to commit to the ritual.${prompt}
-  18364: Come. Take my hand and concentrate on the bonds that the two of us have forged.${prompt}
-  18365: Disgraceful!${prompt}
-  18366: Hmmm...? No, I'm not displeased. I'm rather pleasantly surprised at our joint success.${prompt}
-  18367: What is disgraceful is the very thought that there could be two of me! How can my power be unmatched when there are two Excenmilles?${prompt}
-  18368: Think of it, ${name-player}! Think of the possibilities this magic could open up if only we harness it properly! A whole army of Excenmilles could even...${prompt}
-  18369: Yes, the Orc Empire would be like a prostrate babe crying out for its mother's milk.${prompt}
-  18370: Hahahaha, would you fancy that? Tonight we drink, tomorrow we vanquish!${prompt}
-  18371: I am warming to the idea of this “Trust” more and more!${prompt}
-  18372: Though I must admit, I barely expected success to come so easily.${prompt}
-  18373: I triumphed in the bonding only once before. It was with my old friend Rahal, leader of the Royal Knights, but all those who came after have failed spectacularly.${prompt}
-  18374: But that man can be so infuriating! “Go here!” “Hold your sword like this!” “Turn ninety degrees and touch your nose!”${prompt}
-  18375: Make sure you do not fall into the same trap.${prompt}
-  18376: In commemoration of this monumental event, I hereby present you with a scroll containing all we have achieved. Using this should enable you to summon my alter ego.${prompt}
-  18377: I advise you to try your hand at your nearest convenience--outside of town, that is.${prompt}
-  18378: May I suggest East or West Ronfaure? They are both nearby, and provide ideal conditions for you to try out this newfound power. When you are finished, return here and inform me as to how you are progressing.${prompt}
-  18379: Were you successful? Please, tell me everything.${prompt}
+  18343: Je suis Excenmille M Aurchiat, superviseur de tous les sujets liés aux conflits.${prompt}
+  18344: Je vois. Vous souhaitez tenter votre chance avec la Confiance.${prompt}
+  18345: Autrefois, j'aurais pu dire que les aventuriers devaient être tenus à distance comme la mère dérangée du partenaire.${prompt}
+  18346: Pourtant, lorsque j'ai choisi de raviver les anciennes traditions du Conflit et de la Ballista, c'est vous, les aventuriers, qui avez répondu à l'appel au combat.${prompt}
+  18347: En tant que tel, je vous autoriserai à participer au rituel de Confiance avec moi.${prompt}
+  18348: ...Vous n'êtes pas au courant de ce qu'est la magie de la Confiance ?${prompt}
+  18349: Parfois, je me demande si la tête de Gondebaud n'est remplie que de toiles d'araignée.${prompt}
+  18350: Le rituel de la Confiance puise son énergie dans les liens ardents de confiance et de camaraderie tissés entre frères d'armes sur le champ de bataille.${prompt}
+  18351: Pour être bref, si un lien fort existe entre nous deux, vous pourrez invoquer un "double" de moi.${prompt}
+  18352: En effet, je pourrais chasser vos ennemis jusqu'à la mer comme j'ai fait avec les Orcs de Rhazowa.${prompt}
+  18353: Le problème est que je pourrais à peine vous distinguer d'une personne de construction similaire.${prompt}
+  18354: Mais si nos liens ne sont pas assez forts, alors la magie est condamnée à l'échec.${prompt}
+  18355: Réfléchissons non seulement à la façon dont nous nous sommes rencontrés, mais aussi à la manière dont nos expériences mutuelles nous ont façonnés.${prompt}
+  18356: Je me souviens des efforts honorables que vous avez déployés en Ballista.${prompt}
+  18357: Quand le soleil décline et que je me retire dans mes quartiers, des gouttes de cire se rassemblent sur mon bureau alors que je passe en revue les résultats de la journée. Jamais je ne pourrais oublier ceux dont les réalisations se sont démarquées du reste.${prompt}
+  18358: 'Je${choice: 4}[/, moi aussi,] me souviens de vos exploits dans l’arène des courses de chocobos. Votre flexibilité impressionnante a attiré plus d’un regard.${prompt}'
+  18359: 'Je${choice: 2}[ aussi,] me souviens vous avoir rencontré quand j’étais plus jeune. Ou peut-être était-ce quelqu’un de semblable à vous.${prompt}'
+  18360: Oui, je m’en souviens clairement maintenant. Vous me rappelez un aventurier avec qui j’ai passé un bon moment...hohoho.${prompt}
+  18361: 'Je me rappelle ceux avec qui j’ai combattu côte à côte... et de mon${choice: 0} autre/père.${prompt}'
+  18362: La Maison Aurchiat est connue pour regarder vers l'avenir, utilisant le passé comme des leçons plutôt que des souvenirs... mais je serais négligent si je n'admettais pas que votre présence a éveillé en moi de merveilleux sentiments.${prompt}
+  18363: Oui... je suis prêt à m'engager dans le rituel.${prompt}
+  18364: Venez. Prenez ma main et concentrez-vous sur les liens que nous avons forgés.${prompt}
+  18365: Honteux !${prompt}
+  18366: Hmmm...? Non, je ne suis pas mécontent. Je suis plutôt agréablement surpris de notre succès commun.${prompt}
+  18367: Ce qui est honteux, c'est la simple idée qu'il puisse y avoir deux fois moi ! Comment ma puissance pourrait-elle être inégalée s'il y a deux Excenmille ?${prompt}
+  18368: Imaginez, ${name-player} ! Imaginez les possibilités que cette magie pourrait ouvrir si seulement nous la maîtrisions correctement ! Une armée entière d'Excenmilles pourrait même...${prompt}
+  18369: Oui, l'Empire Orc serait comme un bébé prosterné réclamant le lait de sa mère.${prompt}
+  18370: Hahaha, tu aimerais ça ? Ce soir, nous buvons, demain nous vainquons !${prompt}
+  18371: Je me réchauffe de plus en plus à l'idée de cette "Confiance" !${prompt}
+  18372: Bien que je doive admettre que je n'attendais guère que le succès vienne si facilement.${prompt}
+  18373: J'ai triomphé de l'union qu'une seule fois auparavant. C'était avec mon vieux compagnon Rahal, chef des Chevaliers Royaux, mais tous ceux qui sont venus après ont échoué de manière spectaculaire.${prompt}
+  18374: Mais cet homme peut être tellement exaspérant ! "Va là !" "Tiens ton épée comme ça !" "Tourne à quatre-vingt-dix degrés et touche ton nez !"${prompt}
+  18375: Assurez-vous de ne pas tomber dans le même piège.${prompt}
+  18376: En commémoration de cet événement monumental, je vous présente par la présente un parchemin contenant tout ce que nous avons accompli. En l'utilisant, vous devriez pouvoir invoquer mon double.${prompt}
+  18377: Je vous conseille d'essayer dès que possible, en dehors de la ville, bien sûr.${prompt}
+  18378: Puis-je vous suggérer Est ou Ouest de Ronfaure ? Ils sont tous deux à proximité et offrent des conditions idéales pour que vous testiez ce nouveau pouvoir. Lorsque vous aurez terminé, revenez ici et informez-moi de vos progrès.${prompt}
+  18379: Avez-vous réussi ? S'il vous plaît, racontez-moi tout.${prompt}
   18380: |-
-    How did things go?
+    Comment ça s'est passé ?
     ${selection-lines}
-    Swimmingly.
-    Drowningly.${prompt}
-  18381: It is wonderful to hear that you are getting along well with my alter ego. Good things come in threes, so one more positive thing must await you yet!${prompt}
+    À merveille.
+    Catastrophiquement.${prompt}
+  18381: C'est merveilleux d'entendre que vous vous entendez bien avec mon double. Les bonnes choses viennent par trois, donc une autre chose positive doit encore vous attendre !${prompt}
   18382: |-
-    I see...
-    Well, San d'Oria was not built in a day. Keep at it, and I am certain your efforts will be rewarded once more.${prompt}
-  18383: 'The ${keyitem-singular: 1[2]} I have bequeathed to you will surely be of interest to Gondebaud. He can tell you more--and please, treat my alter ego well. Don''t go barking inane orders like Rahal did.${prompt}'
-  18384: All of us involved in this grand experiment are attempting to figure out the exact methodology behind it. This is bigger than San d'Oria. The nations of Bastok and Windurst are as serious as we are.${prompt}
-  18385: 'This ${keyitem-singular: 1[2]} is intended not just for your own betterment, but for the betterment of us all. Go forth, and discover all there is to be learned.${prompt}'
-  18386: '${choice: 2}[By the way/While I have your attention], Curilla of the Temple Knights is also participating in this initiative.${prompt}'
-  18387: I must warn you, however, that she has little time for those who have done her no favors. I highly doubt she would consent to undergoing the ritual with you.${prompt}
-  18388: 'Increase your reputation around Vana''diel and do all you can for ${choice: 4}[San d''Oria/your home nation] first.${prompt}'
-  18389: I cannot say for certain whether she would accept you or not, but it could do no harm to make an official visit and make your intentions clear.${prompt}
+    Je vois...
+    Eh bien, San d'Oria ne s'est pas construit en un jour. Continuez ainsi, et je suis certain que vos efforts seront à nouveau récompensés.${prompt}
+  18383: 'Le ${keyitem-singular: 1[2]} que je vous ai légué intéressera sûrement Gondebaud. Il peut vous en dire plus - et s’il vous plaît, traitez bien mon double. Ne donnez pas d’ordres absurdes comme l’a fait Rahal.${prompt}'
+  18384: Tous ceux impliqués dans cette grande expérience tentent de comprendre la méthodologie exacte derrière cela. C’est plus grand que San d'Oria. Les nations de Bastok et Windurst sont aussi sérieuses que nous.${prompt}
+  18385: 'Ce ${keyitem-singular: 1[2]} est destiné non seulement à votre propre amélioration, mais aussi à l’amélioration de nous tous. Allez-y et découvrez tout ce qu’il y a à apprendre.${prompt}'
+  18386: '${choice: 2}[En passant/Alors que j’ai votre attention], Curilla des Chevaliers du Temple participe également à cette initiative.${prompt}'
+  18387: Je dois cependant vous avertir qu'elle n'a que peu de temps pour ceux qui ne lui ont rendu aucun service. Je doute fortement qu'elle accepterait de subir le rituel avec vous.${prompt}
+  18388: 'Augmentez votre réputation à travers Vana''diel et faites tout votre possible pour ${choice: 4}[San d''Oria/votre nation d’origine] en premier.${prompt}'
+  18389: Je ne peux pas dire avec certitude si elle vous accepterait ou non, mais cela ne ferait pas de mal de faire une visite officielle et de clarifier vos intentions.${prompt}
   18390: |-
     Hm?
-    You wish to know where Curilla is${choice: 3}[ anyway?/?]${prompt}
-  18391: 'Why, she can be found in Chateau d''Oraguille, located to the northeast of here. ${choice: 3}[However, I would not expect the guards there to let you pass./You cannot miss it.]${prompt}'
+    Vous voulez savoir où se trouve Curilla${choice: 3}[ de toute façon?/?]${prompt}
+  18391: 'Eh bien, elle se trouve au Château d''Oraguille, situé au nord-est d’ici. ${choice: 3}[Cependant, je ne m’attendrais pas à ce que les gardes là-bas vous laissent passer./Vous ne pouvez pas le manquer.]${prompt}'
   18392: |-
-    I must bid you adieu.
-    May glory shine upon you, and on the grand nation of San d'Oria!${prompt}
-  18393: I am not the only one participating in the Trust initiative here in San d'Oria. You would do well to speak with Curilla, leader of the Temple Knights.${prompt}
-  18394: Perhaps it would behoove you to speak with Rolandienne in Southern San d'Oria (G-10).
-  18395: Perhaps it would behoove you to speak with Isakoth in Bastok Markets (E-11).
-  18396: Perhaps it would behoove you to speak with Fhelm Jobeizat in Windurst Woods (J-10).
-  18397: Perhaps it would behoove you to speak with Eternal Flame in Western Adoulin (H-11).
-  18398: Perhaps it would behoove you to speak with Nantoto in Lower Jeuno (H-8).
-  18399: Invisible eyes upon you cause the hairs on the back of your neck to rise.${prompt}
-  18400: '${color-alt: 15}The ${keyitem-singular: 0[2]} nods in agreement.'
-  18401: '${color-alt: 138}A new Records of Eminence objective is now available!'
-  18402: '${color-alt: 138}A new Records of Eminence objective, “${unknown: 0x01054082808080},” is now available!'
-  18403: You wish to exchange your sparks?
+    Je dois vous dire adieu.
+    Que la gloire brille sur vous et sur la grande nation de San d'Oria !${prompt}
+  18393: Je ne suis pas le seul à participer à l'initiative Trust ici à San d'Oria. Vous feriez bien de parler à Curilla, chef des Chevaliers du Temple.${prompt}
+  18394: Peut-être vous serait-il utile de parler à Rolandienne dans le sud de San d'Oria (G-10).
+  18395: Peut-être vous serait-il utile de parler à Isakoth dans les Marchés de Bastok (E-11). 
+  18396: Peut-être vous serait-il utile de parler à Fhelm Jobeizat dans les Bois de Windurst (J-10).
+  18397: Peut-être vous serait-il utile de parler à Eternal Flame dans l'Ouest d'Adoulin (H-11).
+  18398: Peut-être vous serait-il utile de parler à Nantoto dans le Bas-Jeuno (H-8).
+  18399: Des yeux invisibles posés sur vous font se dresser les poils de votre nuque.${prompt}
+  18400: '${color-alt: 15}Le ${keyitem-singular: 0[2]} acquiesce.'
+  18401: '${color-alt: 138}Un nouvel objectif Records of Eminence est maintenant disponible !'
+  18402: '${color-alt: 138}Un nouvel objectif Records of Eminence, “${unknown: 0x01054082808080},” est maintenant disponible !'
+  18403: Vous voulez échanger vos étincelles ?
   18404: |-
-    Wait but a moment.
-    Here, follow this command--er, compendium to the letter and you should be able to learn a thing or two.${prompt}
+    Attendez un instant.
+    Ici, suivez cette commande - euh, compendium - à la lettre et vous devriez pouvoir apprendre une chose ou deux.${prompt}
   18405: |-
-    Ah, this almost slipped my mind.
-    Should you receive any distinct sorts of artifacts for completing an objective, I will be happy to take them off your hands.${prompt}
-  18406: Worry not, for I am not out to rob you of your glory. Quite the opposite, in fact. I will provide you with a worthwhile reward for collecting them.${prompt}
-  18407: 'Thanks to your donation, I now have ${number: 1} ${item-given-plurality: 1[2], 0[2]} in safekeeping.${prompt}'
-  18408: Ohohoho... Turning in sparks, I see.
+    Ah, cela m'a presque échappé.
+    Si vous recevez des sortes d'artefacts distincts pour avoir accompli un objectif, je serai heureux de les prendre en charge.${prompt}
+  18406: Ne vous inquiétez pas, car je ne suis pas là pour vous dérober votre gloire. Bien au contraire, en fait. Je vous fournirai une récompense intéressante pour les collecter.${prompt}
+  18407: 'Grâce à votre donation, j’ai maintenant ${number: 1} ${item-given-plurality: 1[2], 0[2]} en sécurité.${prompt}'
+  18408: Ohohoho... Échanger des étincelles, je vois.
   18409: |-
-    Hold your hoarder hares, ${choice-player-gender}[hero/heroine]. I love your enthusiasm, but you're not going to learn a thing without a primer.
-    Ahhh, here it is. Have a look-see.${prompt}
+    Retenez vos lapins accumulés, ${choice-player-gender}[héros/héroïne]. J'apprécie votre enthousiasme, mais vous n'apprendrez rien sans un manuel.
+    Ahhh, le voilà. Jetez un coup d'œil.${prompt}
   18410: |-
-    Oh, crud, that's right.
-    You should trade me any special artifacts you get from completing objectives.${prompt}
+    Oh, zut, c'est vrai.
+    Vous devriez me donner les artefacts spéciaux que vous obtenez en accomplissant des objectifs.${prompt}
   18411: |-
-    “Why?” What a good question!
-    Because I'll give you a nifty-difty reward at some point, that's why.${prompt}
-  18412: 'Thanks for doing what I asked. Now I have a total of ${number: 1} ${item-given-plurality: 1[2], 0[2]} from you.${prompt}'
-  18413: You want to trrrade in sparks, do you?
+    "Pourquoi ?" Quelle bonne question !
+    Parce que je vous donnerai une récompense sympa à un moment donné, voilà pourquoi.${prompt}
+  18412: 'Merci d’avoir fait ce que je vous ai demandé. Maintenant, j’ai un total de ${number: 1} ${item-given-plurality: 1[2], 0[2]} de votre part.${prompt}'
+  18413: Vous voulez échanger des étincelles, n'est-ce pas ?
   18414: |-
-    Let me wake up from my catnap first...${wait-36: 1}
-    Alright, now rrread this.${prompt}
+    Laissez-moi d'abord me réveiller de ma sieste...${wait-36: 1}
+    D'accord, maintenant, lisez ceci.${prompt}
   18415: |-
-    Wait, wait, wait!
-    If you happen to get any purrrticularly interesting items from completing objectives, send them my way.${prompt}
+    Attendez, attendez, attendez !
+    Si vous obtenez des objets particulièrement intéressants en accomplissant des objectifs, envoyez-les-moi.${prompt}
   18416: Don't worry, I'm as honest as a cat when the meat's out of reach. I thought of taking them all for myself...${prompt}
   18417: '...but I don''t want to make fur fly with the Adventurers'' Mutual Aid Network, so I''ll do my job like a good little kitty.${prompt}'
   18418: 'Grrreat! Now I have ${number: 1} ${item-given-plurality: 1[2], 0[2]} from you. Thanks!${prompt}'
