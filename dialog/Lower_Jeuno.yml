@@ -17759,64 +17759,64 @@ entries:
   7239: |-
     Well, I hate to lose one of my volunteers.
     Speak to me again if you ever miss lamp-lighting duty.${prompt}
-  7240: 'You return the ${keyitem-singular: 0[2]}.${prompt}'
-  7241: Darkness falls soon. It's time to light the lamps. Maybe you could help? I could always use a hand.${prompt}
-  7242: Soon darkness falls. It's time to light the lamps. Do you want to help me again?${prompt}
+  7240: 'Vous rendez le ${keyitem-singular: 0[2]}.${prompt}'
+  7241: La nuit tombe bientôt. Il est temps d'allumer les lampes. Peut-être pourriez-vous aider ? J'aurais toujours besoin d'un coup de main.${prompt}
+  7242: Bientôt la nuit tombe. Il est temps d'allumer les lampes. Voulez-vous m'aider à nouveau ?${prompt}
   7243: |-
-    Will you help out?
+    Allez-vous aider ?
     ${selection-lines}
-    Of course.
-    No, not now.${prompt}
-  7244: Don't worry. It's easy. See the twelve lamps on the sea side? Just light them for me.${prompt}
-  7245: It's no big task, but seeing the streets lit up at night brings warmth to my heart.${prompt}
-  7246: Heh. Poetic, isn't it? Well, you better get started. Try to finish before one in the morning.${prompt}
-  7247: Light the twelve lamps facing the ocean. I know you've done it before, but try to finish by one in the morning.${prompt}
-  7248: Oh? It's not hard. Come back if you change your mind.${prompt}
-  7249: Sorry. I already have a helper tonight. Maybe tomorrow.${prompt}
-  7250: It's too early. Lights on at nine o'clock.${prompt}
-  7251: Now you can begin. Do your best to finish by one o'clock. Thank you for your cooperation.${prompt}
-  7252: Good work. I can't pay you, but I hope you found the experience rewarding.${prompt}
-  7253: Good work. It's rewarding each and every time, isn't it? You know I can't pay you, but I'm always glad to see people come back.${prompt}
-  7254: Next time you come to Jeuno, think of the special evening when you gave light to its streets.${prompt}
-  7255: And if the lamps happen to be lit then, it means that others are doing their best for Jeuno. You'd make me happy if you remember that.${prompt}
-  7256: I am disappointed. Stay sharp next time.${prompt}
-  7257: Ahh, there's nothing like city streets lit up at night.${prompt}
-  7258: 'The lamps were lit by ${entity: 0} today. If you happen to run across the person who took time out to bring light to our city, don''t forget to say a word of thanks.${prompt}'
-  7259: Sorry. I'm busy.${prompt}
-  7260: It seems too early to light the lamps.${prompt}
+    Bien sûr.
+    Non, pas maintenant.${prompt}
+  7244: Ne vous inquiétez pas. C'est facile. Voyez les douze lampes du côté de la mer ? Il vous suffit de les allumer pour moi.${prompt}
+  7245: Ce n'est pas une grande tâche, mais voir les rues éclairées la nuit réchauffe mon cœur.${prompt}
+  7246: Heh. Poétique, n'est-ce pas ? Eh bien, vous feriez mieux de commencer. Essayez de finir avant une heure du matin.${prompt}
+  7247: Allumez les douze lampes qui font face à l'océan. Je sais que vous l'avez déjà fait, mais essayez de finir avant une heure du matin.${prompt}
+  7248: Oh ? Ce n'est pas difficile. Revenez si vous changez d'avis.${prompt}
+  7249: Désolé. J'ai déjà un assistant ce soir. Peut-être demain.${prompt}
+  7250: Il est trop tôt. Les lumières s'allument à neuf heures.${prompt}
+  7251: Maintenant, vous pouvez commencer. Faites de votre mieux pour terminer avant une heure du matin. Merci pour votre coopération.${prompt}
+  7252: Bon travail. Je ne peux pas vous payer, mais j'espère que vous avez trouvé l'expérience enrichissante.${prompt}
+  7253: Bon travail. C'est toujours gratifiant, n'est-ce pas ? Vous savez que je ne peux pas vous payer, mais je suis toujours heureux de voir les gens revenir.${prompt}
+  7254: La prochaine fois que vous viendrez à Jeuno, pensez à cette soirée spéciale où vous avez illuminé ses rues.${prompt}
+  7255: Et si les lampes sont allumées alors, cela signifie que d'autres font de leur mieux pour Jeuno. Cela me ferait plaisir que vous vous en souveniez.${prompt}
+  7256: Je suis déçu. Soyez plus attentif la prochaine fois.${prompt}
+  7257: Ahh, rien de tel que les rues de la ville éclairées la nuit.${prompt}
+  7258: 'Les lampes ont été allumées par ${entity: 0} aujourd’hui. Si vous croisez la personne qui a pris le temps d’apporter de la lumière à notre ville, n’oubliez pas de lui dire merci.${prompt}'
+  7259: Désolé, je suis occupé.${prompt}
+  7260: Il semble trop tôt pour allumer les lampes.${prompt}
   7261: |-
-    Light the lamp?
+    Allumer la lampe ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  7262: You light the lamp.${prompt}
-  7263: All the lamps are lit.${prompt}
-  7264: 'You have ${number: 0} more ${choice-plurality: 0}[lamp/lamps] to go.${prompt}'
-  7265: The lamp is already lit.${prompt}
-  7266: The lamp is already lit.${prompt}
-  7267: The lamp is lit.${prompt}
-  7268: You examine the lamp. It seems that it must be lit manually.${prompt}
-  7269: It is too early to light it. You must wait until nine o'clock.${prompt}
-  7270: You have failed to light all the lamps in time.${prompt}
-  7271: Zauko is recruiting an adventurer to light the lamps.${prompt}
-  7272: What? They're going to tear down the clock tower? Not if I can help it. What could they be thinking?${prompt}
-  7273: Damn the politicians! Of course I'll sign.${prompt}
-  7274: Good luck with those signatures!${prompt}
-  7275: Hm? Oh, I thought you were Two. He should be back any minutaru...${prompt}
-  7276: Two should be back soon. He's so handy-dandy!${prompt}
-  7277: He should show up any minute now.${prompt}
-  7278: HeLLo. I aM★hOmE.${prompt}
-  7279: EgGs, ★caRroTs, cOrrEct? HeRe★chaNge.${prompt}
-  7280: Why thank you, Two. You're an angel. Unlike someone else I know.${prompt}
-  7281: I heard that! Anyway, Two... I want you to deliver this letter.${prompt}
-  7282: I wOuLd★be hAppY tO.${prompt}
-  7283: Panta-Putta! Deliver it yourself!${prompt}
-  7284: No★iT aLl★riGht. I hAppY★to SeRve. I★lEaVe noW.${prompt}
-  7285: Well, isn't he something! Maybe we can rinse his gears in oil and make Panta drink it! How 'bout that?${prompt}
-  7286: Eww! I'd get sick!${prompt}
-  7287: Hahoho!${prompt}
-  7288: You're all bark and no bite.${prompt}
-  7289: Whatever-wever!${prompt}
+    Oui.
+    Non.${prompt}
+  7262: Vous allumez la lampe.${prompt}
+  7263: Toutes les lampes sont allumées.${prompt}
+  7264: 'Il vous reste ${number: 0} ${choice-plurality: 0}[lampe/lampes] à allumer.${prompt}'
+  7265: La lampe est déjà allumée.${prompt}
+  7266: La lampe est déjà allumée.${prompt}
+  7267: La lampe est allumée.${prompt}
+  7268: Vous examinez la lampe. Il semble qu'elle doit être allumée manuellement.${prompt}
+  7269: Il est trop tôt pour l'allumer. Vous devez attendre neuf heures.${prompt}
+  7270: Vous n'avez pas réussi à allumer toutes les lampes à temps.${prompt}
+  7271: Zauko recrute un aventurier pour allumer les lampes.${prompt}
+  7272: Quoi ? Ils vont démolir la tour de l'horloge ? Pas si je peux l'empêcher. Que peuvent-ils bien penser ?${prompt}
+  7273: Maudits politiciens ! Bien sûr que je vais signer.${prompt}
+  7274: Bonne chance pour ces signatures !${prompt}
+  7275: Hm ? Oh, je pensais que tu étais Two. Il devrait revenir d'une minutaru...${prompt}
+  7276: Two devrait revenir bientôt. Il est si pratique !${prompt}
+  7277: Il devrait arriver d'une minute à l'autre.${prompt}
+  7278: BoNjOuR. jE sUiS★rEnTrÉ.$ {prompt}
+  7279: OeUfS, ★cArOtTes, cOrReCt? IcI★cHaNgEr.${prompt}
+  7280: Merci beaucoup, Two. Tu es un ange. Contrairement à quelqu'un d'autre que je connais.${prompt}
+  7281: J'ai entendu ça ! Quoi qu'il en soit, Two... Je veux que tu livres cette lettre.${prompt}
+  7282: Je sEraIs★HeUreUx dE.${prompt}
+  7283: Panta-Putta ! Livrez-la vous-même !${prompt}
+  7284: Non★c'eSt bOn★. jE sUiS★hEuReUx★dE sErViR. jE★PaRt mAiNtEnAnT.${prompt}
+  7285: Eh bien, n'est-il pas quelque chose ! Peut-être pouvons-nous rincer ses engrenages dans de l'huile et faire boire ça à Panta ! Qu'est-ce que tu en dis ?${prompt}
+  7286: Beurk ! Je serais malade !${prompt}
+  7287: Hahoho !${prompt}
+  7288: Vous aboyez beaucoup mais vous ne mordez pas.${prompt}
+  7289: Peu importe !${prompt}
   7290: 'Well, I''d best start fixing something. Today we''re having Tarutaru soup. I have to boil it in ${keyitem-article: 7[2]}! It''s good food, I say!${prompt}'
   7291: But I don't see it anywhere! Oh, dear... Where could it be?${prompt}
   7292: Dangit, I need that soup pot if I'm going to beat him. How can I get another-wother one...${prompt}
