@@ -256,64 +256,64 @@ entries:
   158: |-
     増えたポイント　${number: 0}
     増えたカウント　${number: 1}${prompt}
-  159: The door is firmly shut. You might be able to open it if you had the key.${prompt}
-  160: The door is firmly shut.${prompt}
-  161: You see nothing of particular interest.${prompt}
-  162: The key doesn't seem to fit.${prompt}
+  159: La porte est fermement verrouillée. Vous pourriez peut-être l'ouvrir si vous aviez la clé.${prompt}
+  160: La porte est fermement verrouillée.${prompt}
+  161: Vous ne voyez rien d'intéressant en particulier.${prompt}
+  162: La clé semble ne pas correspondre.${prompt}
   163: Unh... Ungh...${prompt}
   164: |-
-    Who are you...? Not a foe, it seems...
-    I am glad you've found me.
-    I am Jima, Ambassador of San d'Oria.${prompt}
+    Qui êtes-vous...? Pas un ennemi, semble-t-il...
+    Je suis heureux que vous m'ayez trouvé.
+    Je suis Jima, Ambassadeur de San d'Oria.${prompt}
   165: |-
-    So you were sent on a mission to the embassy in Jeuno?
-    I see. I am truly sorry you had to come to such a dangerous place as this.${prompt}
-  166: Sorrier still am I that I was fool enough to let down my guard. I was struck from behind, and I woke to find myself here. To think, if you hadn't happened by...${prompt}
-  167: This is a truly dangerous place, and not just because of the monsters. There is an ominous feel to the air...${prompt}
+    Vous avez donc été envoyé en mission à l'ambassade de Jeuno?
+    Je vois. Je suis vraiment désolé que vous ayez dû venir dans un endroit aussi dangereux que celui-ci.${prompt}
+  166: Je suis encore plus désolé d'avoir été assez fou pour baisser ma garde. J'ai été frappé par derrière et je me suis réveillé ici. Penser que si vous n'étiez pas passé par là...${prompt}
+  167: C'est un endroit vraiment dangereux, et pas seulement à cause des monstres. Il y a une atmosphère sinistre dans l'air...${prompt}
   168: |-
-    Going deeper would be folly.
-    Take care, kind adventurer. I will leave this place while I still can, and we shall meet again at the embassy.${prompt}
+    S'enfoncer davantage serait de la folie.
+    Prenez soin de vous, cher aventurier. Je vais quitter cet endroit tant que je le peux encore, et nous nous retrouverons à l'ambassade.${prompt}
   169: Un... Ungh...${prompt}
   170: |-
-    Who are you? Not an enemy, at any rate.
-    I'm glad you found me.
-    I am ambassador Altair from Bastok.${prompt}
+    Qui êtes-vous? En tout cas, pas un ennemi.
+    Je suis heureux que vous m'ayez trouvé.
+    Je suis l'ambassadeur Altair de Bastok.${prompt}
   171: |-
-    What? You were sent on a mission for the embassy...?
-    I see. My apologies...if it weren't for me, you wouldn't have had to come to such a dangerous place.${prompt}
+    Quoi? Vous étiez envoyé en mission pour l'ambassade...?
+    Je vois. Mes excuses... si ce n'était pas pour moi, vous n'auriez pas eu à venir dans un endroit aussi dangereux.${prompt}
   172: |-
-    I should never have let my guard down...I was struck from behind, and the next thing I knew, I woke up here.
-    I shudder to think at what would have happened to me if you hadn't come.${prompt}
-  173: This place is dangerous...but not only because of the monsters. I sense something more ominous in the air...${prompt}
+    Je n'aurais jamais dû baisser ma garde... J'ai été frappé par derrière, et la prochaine chose que je savais, je me suis réveillé ici.
+    Je frissonne à l'idée de ce qui me serait arrivé si vous n'étiez pas venu.${prompt}
+  173: Cet endroit est dangereux... mais pas seulement à cause des monstres. Je sens quelque chose de plus sinistre dans l'air...${prompt}
   174: |-
-    In any case, we should get out of here as soon as possible.
-    I can find my way out. Come meet me at the embassy when you can.${prompt}
+    En tout cas, nous devrions sortir d'ici dès que possible.
+    Je peux trouver mon chemin. Venez me retrouver à l'ambassade quand vous le pourrez.${prompt}
   175: Oooh...${prompt}
   176: |-
-    Who...? Oh, I'm so glad you're not one of the baddies.
-    Thank you for saving me! I'm the Windurstian ambassador to Jeuno, Heimji-Keimji.${prompt}
+    Qui...? Oh, je suis tellement content que vous ne soyez pas un des méchants.
+    Merci de m'avoir sauvé ! Je suis l'ambassadeur de Windurst à Jeuno, Heimji-Keimji.${prompt}
   177: |-
-    They sent you on a mission to the embassy?
-    Oh... I'm sorry-worry you had to come to such a dangerous place because of me.${prompt}
-  178: I should have been more careful... Someone bonky-wonked me on the head from behind, and I woke up in this hairy-scary place. If you hadn't come... It makes me shudder-budder to think what would've happened to me!${prompt}
-  179: This place is dangerous! Aside from all the monsters, I feel something nasty-wasty in the air.${prompt}
+    Ils vous ont envoyé en mission à l'ambassade?
+    Oh... Je suis désolé-inquiet que vous ayez dû venir dans un endroit aussi dangereux à cause de moi.${prompt}
+  178: Je aurais dû être plus prudent... Quelqu'un m'a tapé sur la tête par derrière, et je me suis réveillé dans cet endroit poilu-qui fait peur. Si vous n'étiez pas venu... Cela me fait frissonner à l'idée de ce qui me serait arrivé !${prompt}
+  179: Cet endroit est dangereux! Mis à part tous les monstres, je sens quelque chose de méchant dans l'air.${prompt}
   180: |-
-    We should go back as soon as possible!
-    Don't worry about me, as I can run super-duper fast! I'll meet you back at the embassy!${prompt}
-  181: DEBUG:Used portal to zone change.${prompt}
-  182: DEBUG:Portal warp flag ON!${prompt}
-  183: The door doesn't seem to open from this side.${prompt}
-  184: The door only allows passage in one direction.${prompt}
+    Nous devrions retourner dès que possible !
+    Ne vous inquiétez pas pour moi, car je peux courir super-duper vite ! Je vous retrouverai à l'ambassade !${prompt}
+  181: DEBUG:Utilisé le portail pour changer de zone.${prompt}
+  182: DEBUG:Indicateur de téléportation activé !${prompt}
+  183: La porte ne semble pas s'ouvrir de ce côté.${prompt}
+  184: La porte ne permet le passage que dans un seul sens.${prompt}
   185: |-
-    Open the door?
+    Ouvrir la porte ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
+    Oui.
+    Non.${prompt}
   186: |-
-    Use the device?
+    Utiliser l'appareil ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
+    Oui.
+    Non.${prompt}
   187: DEBUG:Battle OFF mode.${prompt}
   188: DEBUG:Battle ON mode.${prompt}
   189: '${color-alt: 161}A mog tablet has been discovered in ${choice: 0}[West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth''s Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi''Tah/Ro''Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!'
