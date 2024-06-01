@@ -18168,61 +18168,61 @@ entries:
   7598: Well, thanks for taking care of all thataru! Now I can sleep soundly. Here, perhaps you'll find this useful.${prompt}
   7599: You are now ready to have your fortune told by Kurou-Morou.${prompt}
   7600: You are now ready to have your fortune told by Chululu.${prompt}
-  7601: It's locked.${prompt}
-  7602: Welcome to Neptune's Spire!${prompt}
+  7601: C'est verrouillé.${prompt}
+  7602: Bienvenue à l'Éperon de Neptune !${prompt}
   7603: |-
-    Well?
+    Alors ?
     ${selection-lines}
-    Show me your goods.
-    I'm fine.
+    Montrez-moi vos marchandises.
+    Ça va, merci.
        ${prompt}
-  7604: Have a nice day.${prompt}
-  7605: Ordinary travelers don't ask about Tenshodo. You really want to know? Fine, allow me to explain.${prompt}
-  7606: Tenshodo is a, er, special trading organization, founded years ago by Grandmaster Aldo's father. We only conduct trades with our exclusive membership.${prompt}
-  7607: Thanks to our monopolies on certain trade routes, we offer a wide selection of rare goods.${prompt}
-  7608: 'Applicants for membership are required to obtain ${article} ${item-article: 1[2]} from an active member in good standing, or acquire ${keyitem-article: 0[2]} from our branch in Bastok.${prompt}'
-  7609: 'Please show me your ${item-singular: 1[2]}, or your ${keyitem-singular: 0[2]}, and I will issue ${keyitem-article: 2[2]}.${prompt}'
-  7610: 'Yes, that ${keyitem-singular: 0[2]} is valid. You are now a member of the Tenshodo. Feel free to browse our Jeuno headquarters, or our convenient Bastok branch.${prompt}'
-  7611: 'Yes, that ${item-singular: 1[2]} is valid. You are now a member of the Tenshodo. In addition to our Jeuno headquarters, we also have a branch in Bastok.${prompt}'
-  7612: 'Please take the door in the back. You may invite a new member with your ${item-singular: 1[2]}, or you may dispose of it in any way you please.${prompt}'
-  7613: We look forward to serving you.${prompt}
-  7614: Hey, we finally set up shop here in Jeuno.${prompt}
-  7615: The locals ain't friendly, but they'll get used to us someday.${prompt}
-  7616: Right now, we just ply our trades as best we can. Come on, see if there's somethin' you like.${prompt}
-  7617: Magic's my game! Watch your money disappear! Hey, it's a joke. Sheesh.${prompt}
-  7618: Gobbiebags are the bomb! They carry lotsa loot! Ya want one too, don'tcha?${prompt}
-  7619: Us Gobbies got bigger bags than you. Ya want one, don'tcha?${prompt}
-  7620: Hey, your bag's bigger than before, but compared to our gobbiebags, it's still puny. You jealous, right?${prompt}
-  7621: Whoa, your bag's just as big as our gobbiebags! Wait a minute... You ain't thinkin' what I think you're thinkin', are ya?${prompt}
-  7622: Well, well, well... If it isn't the local Greedalox and ${choice-player-gender}[his/her] big bag. Wait a minute... You ain't thinkin' what I think you're thinkin', are ya?${prompt}
+  7604: Bonne journée.${prompt}
+  7605: Les voyageurs ordinaires ne demandent pas pour le Tenshodo. Vous voulez vraiment savoir ? Très bien, laissez-moi vous expliquer.${prompt}
+  7606: Le Tenshodo est une organisation commerciale, euh, spéciale, fondée il y a des années par le père du Grand Maître Aldo. Nous ne menons des échanges qu'avec nos membres exclusifs.${prompt}
+  7607: Grâce à nos monopoles sur certaines routes commerciales, nous offrons une large sélection de biens rares.${prompt} 
+  7608: 'Les candidats à l’adhésion doivent obtenir ${article} ${item-article: 1[2]} auprès d’un membre actif en règle, ou acquérir ${keyitem-article: 0[2]} auprès de notre succursale à Bastok.${prompt}'
+  7609: 'Veuillez me montrer votre ${item-singular: 1[2]} ou votre ${keyitem-singular: 0[2]}, et je vous délivrerai ${keyitem-article: 2[2]}.${prompt}'
+  7610: 'Oui, ce ${keyitem-singular: 0[2]} est valide. Vous êtes maintenant membre du Tenshodo. N’hésitez pas à parcourir notre siège à Jeuno, ou notre succursale pratique à Bastok.${prompt}'
+  7611: 'Oui, ce ${item-singular: 1[2]} est valide. Vous êtes maintenant membre du Tenshodo. En plus de notre siège à Jeuno, nous avons également une succursale à Bastok.${prompt}'
+  7612: 'Veuillez prendre la porte à l’arrière. Vous pouvez inviter un nouveau membre avec votre ${item-singular: 1[2]}, ou vous pouvez vous en débarrasser comme bon vous semble.${prompt}'
+  7613: Nous avons hâte de vous servir.${prompt}
+  7614: Hé, nous avons enfin ouvert boutique ici à Jeuno.${prompt}
+  7615: Les habitants ne sont pas amicaux, mais ils s'habitueront à nous un jour.${prompt}
+  7616: Pour l'instant, nous exerçons nos métiers du mieux que nous pouvons. Allez, voyez s'il y a quelque chose que vous aimez.${prompt}
+  7617: La magie, c'est mon truc ! Regardez votre argent disparaître ! Hé, c'est une blague. Pff.${prompt}
+  7618: Les sacs de gobelins sont super ! Ils transportent plein de butin ! Vous en voulez un aussi, hein ?${prompt}
+  7619: Nous, les gobelins, avons des sacs plus grands que vous. Vous en voulez un, hein ?${prompt}
+  7620: Hé, votre sac est plus grand qu'avant, mais comparé à nos sacs de gobelins, il est encore petit. Vous êtes jaloux, non ?${prompt}
+  7621: Whoa, votre sac est aussi grand que nos sacs de gobelins ! Attendez une minute... Vous ne pensez pas à ce que je pense que vous pensez, n'est-ce pas ?${prompt}
+  7622: Eh bien, eh bien, eh bien... Si ce n'est pas le Greedalox local et son grand sac. Attendez une minute... Vous ne pensez pas à ce que je pense que vous pensez, n'est-ce pas ?${prompt}
   7623: |-
-    I bet you want a bigger bag, don'tcha?
+    Je parie que vous voulez un sac plus grand, hein ?
     ${selection-lines}
-    Yes, very much.
-    Not at all.${prompt}
+    Oui, beaucoup.
+    Pas du tout.${prompt}
   7624: |-
-    I bet you want a bigger bag, don'tcha?
+    Je parie que vous voulez un sac plus grand, hein ?
     ${selection-lines}
-    Yes, very much.
-    Not at all.${prompt}
-  7625: No? And here I was, thinkin' I might bump up your bag size. Too bad!${prompt}
+    Oui, beaucoup.
+    Pas du tout.${prompt}
+  7625: Non ? Et moi qui pensais que vous voudriez une taille de sac plus grande. Dommage !${prompt}
   7626: |-
-    Finally come to your senses, huh? It's about time!
-    We Gobs have an old saying...${prompt}
+    Vous venez enfin de vous rendre compte, hein ? Il était temps !
+    Nous les Gobs avons un vieil adage...${prompt}
   7627: |-
-    “If ya don't use it, sell it!
-     If ya don't want it, sell it!
-     If ya can't sell it, eat it!”
-    Ya got it?${prompt}
-  7628: Oh, yeah? Well, hook me up with these, and I'll bump up your bag size a smidgen.${prompt}
-  7629: You like the gobbiebags, don'tcha? I'll tell ya what. Hook me up with these, and I'll bump up your bag size a smidgen.${prompt}
-  7630: Hook me up with these, and I'll bump up your bag size some more.${prompt}
-  7631: You like the gobbiebags, don'tcha? Well, hook me up with these, and I'll bump up your bag size some more.${prompt}
-  7632: Well, hook me up with these, and I'll max out your bag size.${prompt}
-  7633: You like the gobbiebags, don'tcha? Well, hook me up with these, and I'll max out your bag size.${prompt}
-  7634: Well, hook me up with these, and I'll make your bag as big as a gobbiebag.${prompt}
-  7635: You like the gobbiebags, don'tcha? Well, hook me up with these, and I'll make your bag as big as a gobbiebag.${prompt}
-  7636: "We Gobs have an old saying:\n“If ya don't use it, sell it! \n If ya don't want it, sell it!\n If ya can't sell it, eat it!”${prompt}"
+    "Si tu ne l'utilises pas, vends-le !
+     Si tu ne le veux pas, vends-le !
+     Si tu ne peux pas le vendre, mange-le !"
+    Tu as compris ?${prompt}
+  7628: Oh, ouais ? Eh bien, donnez-moi ceux-là, et je vais augmenter un peu la taille de votre sac.${prompt}
+  7629: Vous aimez les gobbiebags, hein ? Je vais vous dire quoi. Donnez-moi ceux-là, et je vais augmenter un peu la taille de votre sac.${prompt}
+  7630: Donnez-moi ceux-là, et je vais augmenter encore la taille de votre sac.${prompt}
+  7631: Vous aimez les gobbiebags, hein ? Eh bien, donnez-moi ceux-là, et je vais augmenter encore la taille de votre sac.${prompt}
+  7632: Eh bien, donnez-moi ceux-là, et je vais maximiser la taille de votre sac.${prompt}
+  7633: Vous aimez les gobbiebags, hein ? Eh bien, donnez-moi ceux-là, et je vais maximiser la taille de votre sac.${prompt}
+  7634: Eh bien, donnez-moi ceux-là, et je vais faire de votre sac aussi grand qu'un gobbiebag.${prompt}
+  7635: Vous aimez les gobbiebags, hein ? Eh bien, donnez-moi ceux-là, et je vais faire de votre sac aussi grand qu'un gobbiebag.${prompt}
+  7636: "Nous, les Gobs, avons un vieil adage:\n“Si tu ne l'utilises pas, vends-le! \n Si tu ne le veux pas, vends-le!\n Si tu ne peux pas le vendre, mange-le!”${prompt}"
   7637: |-
     We call Gobs that don't live by that rule, “Greedaloxes.”
     Ya sure smell like a Greedalox, but you ain't a Gob, so I guess our rules don't apply.${prompt}
@@ -18358,135 +18358,135 @@ entries:
     ${selection-lines}
     Yeah.
     No, I'm all right.${prompt}
-  7738: Very well. I'll prepare the necessary paperwork.${prompt}
-  7739: 'You still need ${number: 0} more ${choice-plurality: 0}[signature/signatures].${prompt}'
-  7740: How's the petition going? Wow, you have quite a lot of signatures here. I'll submit this to the chamber board. I doubt they'll demolish the clock tower now.${prompt}
-  7741: You know, I came to Jeuno to shop at a splendid store called the “Tenshodo,” but I can't find it anywhere! Where could it be?${prompt}
-  7742: I can't wait to see their selection of fine jewelry and accessories. I'm not going home till I find it!${prompt}
-  7743: They say it can be found “right under your nose.” But what could they mean?${prompt}
-  7744: 'Oh, yes... I''ve seen people pass ${item-plural: 0[2]} to the front desk here, but they won''t tell me where they got them. Where can I get one?${prompt}'
-  7745: What? You're a Tenshodo member now, too? And you're not going to give me an invite? How dare you!${prompt}
-  7746: I don't believe this! Well, fine! I'll find one myself!${prompt}
-  7747: Great bridges from the days of old span the straits below. Jeuno merely sprang up atop their ruins.${prompt}
-  7748: No one knows how--or even why--our ancestors built the bridges. Of course, that doesn't stop us from living our lives atop them.${prompt}
-  7749: And they're a great way to break the ice with strangers, don't you think?${prompt}
-  7750: I heard Jeuno began about eighty years ago when fishermen settled here. It was just a tiny fishing village back then.${prompt}
-  7751: As you can see from any map, Jeuno lies on a crossroads binding the three nations together. A hub of commerce, Jeuno grew wealthy.${prompt}
-  7752: Soon it was filled with the bustle of buyer and seller. Our humble district captures that particular energy better than any other.${prompt}
-  7753: Huh? What am I doing here? I'm looking for work! I got fired from my last place. Something about talking too much...${prompt}
-  7754: “Do Not Disturb”${prompt}
-  7755: We just got our compatibility read by that fortune-teller over there...${prompt}
-  7756: You won't believe it. Zero compatibility! I thought we were a perfect match for each other!${prompt}
-  7757: Come on, honey... It's just a fortune! Cheer up, okay?${prompt}
-  7758: She won't listen to me. I'd be careful with fortunes if I were you.${prompt}
-  7759: Hey! I'm changing!${prompt}
-  7760: Oh, dear... There are so many to choose from! I don't know what to pick. By the way, do you think this looks good on me?${prompt}
-  7761: I don't think it does. I need something that jumps out and screams “me.” Hmm... What to choose...${prompt}
-  7762: Oh, I love jewelry. I could stay and look at diamonds all day long. Why don't men understand?${prompt}
-  7763: Why do women always go gaga over diamonds? I don't get it at all.${prompt}
-  7764: She's having fun, so that's fine. I just wish she'd hurry up and pick something out already!${prompt}
-  7765: Goblins run this shop, but don't worry. They're not hostile. I guess they're not all the same...${prompt}
-  7766: I like diversity, but I get chills just stepping in there. Still, they carry things you can't find anywhere else.${prompt}
-  7767: This shop's famous among locals for the three beautiful women behind the counter. Which one's my favorite? Well, that's a secret.${prompt}
-  7768: I wonder which one is the prettiest from a woman's standpoint...${prompt}
-  7769: Hmm... So you prefer classical beauty. Don't tell anyone, but I like her the best, too.${prompt}
-  7770: Whoa, so you go for older women, huh? You like a lady who takes charge... Well, she is stunning.${prompt}
-  7771: Wow, so you're into the pure and innocent type, huh? Yeah, she sure is cute.${prompt}
-  7772: I must never-ever tell a soul. No one can know how fat I looked when I bought a size too small...${prompt}
-  7773: Huh? No! I didn't mean that! See, I bought something I couldn't wear for my current job! You always have to watch out for that, you know. Ahahaha!${prompt}
-  7774: Collet hasn't been to school in ages! I hope she's doing okay.${prompt}
-  7775: Galmut always tells herrr, “Leave it to me.” But what could it be? I do hope she comes back soon.${prompt}
-  7776: Would you like to see a map of Jeuno?${prompt}
+  7738: Très bien. Je vais préparer les documents nécessaires.${prompt}
+  7739: 'Il vous manque encore ${number: 0} ${choice-plurality: 0}[signature/signatures].${prompt}'
+  7740: Comment se passe la pétition ? Wow, vous avez pas mal de signatures ici. Je vais soumettre cela au conseil municipal. Je doute qu'ils démolissent maintenant la tour de l'horloge.${prompt}
+  7741: Vous savez, je suis venu à Jeuno pour faire des achats dans un magasin splendide appelé le "Tenshodo", mais je ne le trouve nulle part ! Où pourrait-il être ?${prompt}
+  7742: Je suis impatient de voir leur sélection de bijoux et accessoires de luxe. Je ne rentrerai pas chez moi tant que je ne l'aurai pas trouvé !${prompt}
+  7743: On dit qu'il peut être trouvé "juste sous votre nez". Mais que peuvent-ils vouloir dire ?${prompt}
+  7744: 'Oh, oui... J’ai vu des gens passer ${item-plural: 0[2]} au bureau d’accueil ici, mais ils ne veulent pas me dire où ils les ont obtenus. Où puis-je en obtenir un ?${prompt}'
+  7745: Quoi ? Vous êtes aussi membre du Tenshodo maintenant ? Et vous ne allez pas me donner une invitation ? Comment osez-vous !${prompt}
+  7746: Je n'en crois pas mes yeux ! Eh bien, très bien ! Je vais en trouver un moi-même !${prompt}
+  7747: De grands ponts des temps anciens enjambent les détroits en dessous. Jeuno a simplement surgi au sommet de leurs ruines.${prompt}
+  7748: Personne ne sait comment--ou même pourquoi--nos ancêtres ont construit les ponts. Bien sûr, cela ne nous empêche pas de vivre nos vies au-dessus.${prompt}
+  7749: Et ils sont un excellent moyen de briser la glace avec des étrangers, vous ne trouvez pas ?${prompt}
+  7750: J'ai entendu dire que Jeuno a commencé il y a environ quatre-vingts ans lorsque des pêcheurs se sont installés ici. C'était juste un petit village de pêcheurs à l'époque.${prompt}
+  7751: Comme vous pouvez le voir sur n'importe quelle carte, Jeuno se trouve à un carrefour reliant les trois nations. Un centre commercial, Jeuno est devenu riche.${prompt}
+  7752: Bientôt, il était rempli de l'agitation de l'acheteur et du vendeur. Notre humble quartier capture cette énergie particulière mieux que tout autre.${prompt}
+  7753: Hein ? Qu'est-ce que je fais ici ? Je cherche du travail ! J'ai été viré de mon dernier emploi. Quelque chose à propos de parler trop...${prompt}
+  7754: “Ne pas déranger”${prompt}
+  7755: Nous venons de faire lire notre compatibilité par cette diseuse de bonne aventure là-bas...${prompt}
+  7756: Vous n'allez pas le croire. Zéro compatibilité ! Je pensais que nous étions parfaitement faits l'un pour l'autre !${prompt}
+  7757: Allez, chérie... Ce n'est qu'une prédiction ! Remonte-toi le moral, d'accord ?${prompt}
+  7758: Elle ne m'écoute pas. Je serais prudent avec les prédictions si j'étais toi.${prompt}
+  7759: Hé ! Je me change !${prompt}
+  7760: Oh, mon Dieu... Il y en a tellement à choisir ! Je ne sais pas quoi choisir. Au fait, est-ce que ça me va bien ?${prompt}
+  7761: Je ne pense pas. J'ai besoin de quelque chose qui ressorte et crie "moi". Hmm... Que choisir...${prompt}
+  7762: Oh, j'adore les bijoux. Je pourrais rester là et regarder des diamants toute la journée. Pourquoi les hommes ne comprennent-ils pas ?${prompt}
+  7763: Pourquoi les femmes s'extasient-elles toujours sur les diamants ? Je ne comprends pas du tout.${prompt}
+  7764: Elle s'amuse, alors c'est bien. J'aimerais juste qu'elle se dépêche de choisir quelque chose !${prompt}
+  7765: Des gobelins tiennent cette boutique, mais ne vous inquiétez pas. Ils ne sont pas hostiles. Je suppose qu'ils ne sont pas tous pareils...${prompt}
+  7766: J'aime la diversité, mais j'ai des frissons juste en y entrant. Pourtant, ils ont des choses que vous ne pouvez trouver nulle part ailleurs.${prompt}
+  7767: Ce magasin est célèbre parmi les habitants pour les trois belles femmes derrière le comptoir. Laquelle est ma préférée ? Eh bien, c'est un secret.${prompt}
+  7768: Je me demande laquelle est la plus jolie du point de vue d'une femme...${prompt}
+  7769: Hmm... Donc, vous préférez la beauté classique. Ne le dites à personne, mais je l'aime aussi le mieux.${prompt}
+  7770: Whoa, donc vous aimez les femmes plus âgées, hein ? Vous aimez une dame qui prend les choses en main... Eh bien, elle est superbe.${prompt}
+  7771: Wow, donc vous êtes attiré par le type pur et innocent, hein ? Ouais, elle est vraiment mignonne.${prompt}
+  7772: Je ne dois jamais, jamais révéler cela à qui que ce soit. Personne ne peut savoir à quel point j'avais l'air gros quand j'ai acheté une taille trop petite...${prompt}
+  7773: Hein ? Non ! Je ne voulais pas dire ça ! Voyez-vous, j'ai acheté quelque chose que je ne pouvais pas porter pour mon travail actuel ! Vous devez toujours faire attention à ça, vous savez. Ahahaha !${prompt}
+  7774: Collet n'est pas allée à l'école depuis des lustres ! J'espère qu'elle va bien.${prompt}
+  7775: Galmut lui dit toujours, “Laisse-moi faire.” Mais que pourrait-ce être ? J'espère qu'elle revient bientôt.${prompt}
+  7776: Voulez-vous voir une carte de Jeuno ?${prompt}
   7777: |-
-    See a map of Jeuno?
+    Voulez-vous voir une carte de Jeuno ?
     ${selection-lines}
-    Show me.
-    I'm fine.${prompt}
-  7778: We're currently standing in Lower Jeuno, the third level from the top.${prompt}
-  7779: I used to watch the harbor filled with ships. But ever since the airships came, those days are gone.${prompt}
-  7780: Progress is a good thing, but it's still sad.${prompt}
-  7781: I'm searching for the perfect fishing spot. Thing is, I've been looking so long, I don't have time to fish!${prompt}
-  7782: I bought a home here in Jeuno, but I wish I'd known about that awful bar downstairs. Every night those bards carouse till dawn. What am I to do?${prompt}
-  7783: Jeuno's a special city. We're a melting pot of all different kinds of people. I love this town.${prompt}
-  7784: Of course, sometimes we fail to understand how different we all are. That's just the kind of thing we need to avoid.${prompt}
-  7785: I like to stand here and watch you people rrrun back and forth all day. I wonder what the hurry is...${prompt}
-  7786: Sometimes you should slow down and walk for a change. You know, stop and smell the rrroses!${prompt}
-  7787: Good day, and welcome to Lower Jeuno. Our neighborhood is the city's premier retail destination, handling a broad range of merchandise.${prompt}
-  7788: We hope you enjoy the unique shopping experience of Lower Jeuno. What, you were expecting someone younger? Away with you!${prompt}
-  7789: To me, the auction's like a game of wits between me and the other bidders.${prompt}
-  7790: You always have to keep tabs on what you really want, and how much you want to pay for it. It's so easy to get carried away!${prompt}
-  7791: When I was but a lass, I oft would follow my lover to this fountain. He would speak barely a word, so shy was he!${prompt}
-  7792: To love someone is a wonderful thing. Only now, at my age, does that seem so clear.${prompt}
-  7793: Oh, my husband? Yes, he's quite well. He's so full of life, I know not what to do!${prompt}
-  7794: You must examine all the advertisements to find the very best deals!${prompt}
-  7795: Little may be the difference between these shops, but ever am I thrilled to save some gil. Oh, such a miser am I!${prompt}
-  7796: Your inventory capacity has increased.${prompt}
-  7797: Now offering quick and easy delivery of packages to residences everywhere!${prompt}
-  7798: You don't deserve no bigger bag...yet.${prompt}
-  7799: I instruct Tenshodo members in the way of the fist and foot. In their line of work, there are times they must defend themselves, you see.${prompt}
-  7800: I'd watch out if I were you. Stick your nose into places you don't belong, and you could find yourself in trouble.${prompt}
-  7801: 'Well, well... I see you have attained your ${item-singular: 0[2]}. But you still need more training, child. You must seek the rank of ${item-singular: 1[2]}.${prompt}'
-  7802: 'When you are ready, I will test you. If you prove yourself worthy of promotion, the ${item-singular: 1[2]} will be yours.${prompt}'
+    Montrez-moi.
+    Ça va.${prompt}
+  7778: Nous nous trouvons actuellement dans Lower Jeuno, le troisième niveau depuis le sommet.${prompt}
+  7779: Autrefois, je regardais le port rempli de bateaux. Mais depuis l'arrivée des aéronefs, ces jours sont révolus.${prompt}
+  7780: Le progrès est une bonne chose, mais c'est quand même triste.${prompt}
+  7781: Je suis à la recherche de l'endroit de pêche parfait. Le problème, c'est que je cherche depuis si longtemps que je n'ai pas le temps de pêcher !${prompt}
+  7782: J'ai acheté une maison ici à Jeuno, mais j'aurais aimé savoir pour ce terrible bar en bas. Chaque nuit, ces bardes font la fête jusqu'à l'aube. Que puis-je faire ?${prompt}
+  7783: Jeuno est une ville spéciale. Nous sommes un melting-pot de toutes sortes de gens différents. J'adore cette ville.${prompt}
+  7784: Bien sûr, parfois, nous échouons à comprendre à quel point nous sommes tous différents. C'est juste le genre de chose que nous devons éviter.${prompt}
+  7785: J'aime me tenir ici et regarder les gens courir de long en large toute la journée. Je me demande quelle est la précipitation...${prompt}
+  7786: Parfois, vous devriez ralentir et marcher pour changer. Vous savez, vous arrêter et sentir les roses !${prompt}
+  7787: Bonjour et bienvenue à Lower Jeuno. Notre quartier est la destination commerciale de premier choix de la ville, offrant une large gamme de marchandises.${prompt}
+  7788: Nous espérons que vous apprécierez l'expérience de shopping unique de Lower Jeuno. Quoi, vous vous attendiez à quelqu'un de plus jeune ? Allez-vous-en !${prompt}
+  7789: Pour moi, la vente aux enchères est comme un jeu d'intelligence entre moi et les autres enchérisseurs.${prompt}
+  7790: Vous devez toujours surveiller ce que vous voulez vraiment et combien vous êtes prêt à payer pour cela. Il est si facile de se laisser emporter !${prompt}
+  7791: Quand j'étais jeune fille, je suivais souvent mon amoureux jusqu'à cette fontaine. Il ne disait presque rien, tellement il était timide !${prompt}
+  7792: Aimer quelqu'un est une chose merveilleuse. Ce n'est que maintenant, à mon âge, que cela semble si clair.${prompt}
+  7793: Oh, mon mari ? Oui, il va très bien. Il est tellement plein de vie, je ne sais pas quoi faire !${prompt}
+  7794: Vous devez examiner toutes les annonces pour trouver les meilleures offres !${prompt}
+  7795: Il peut y avoir peu de différence entre ces magasins, mais je suis toujours ravi d'économiser quelques gils. Oh, je suis si avare !${prompt}
+  7796: Votre capacité d'inventaire a augmenté.${prompt}
+  7797: Offre maintenant une livraison rapide et facile de colis à toutes les résidences !${prompt}
+  7798: Vous ne méritez pas un sac plus grand... pour l'instant.${prompt}
+  7799: J'enseigne aux membres de Tenshodo la voie du poing et du pied. Dans leur domaine, il arrive parfois qu'ils doivent se défendre, vous comprenez.${prompt}
+  7800: Je ferais attention si j'étais vous. Mettez votre nez là où vous ne devriez pas, et vous pourriez vous retrouver dans des ennuis.${prompt}
+  7801: 'Eh bien, eh bien... Je vois que vous avez obtenu votre ${item-singular: 0[2]}. Mais vous avez encore besoin de plus d’entraînement, jeune enfant. Vous devez atteindre le grade de ${item-singular: 1[2]}.${prompt}'
+  7802: 'Quand vous serez prêt, je vous testerai. Si vous vous révélez digne de la promotion, le ${item-singular: 1[2]} sera à vous.${prompt}'
   7803: |-
-    Are you ready for the test?
+    Êtes-vous prêt pour le test ?
     ${selection-lines}
-    Bring it on.
-    No, not yet.${prompt}
-  7804: Very good, child. A true martial artist always conquers fear. Defeat the following opponents in mortal combat, and bring me proof of their demise.${prompt}
-  7805: 'Slay a nue for its ${item-singular: 2[2]}, a morbolger for its ${item-singular: 3[2]}, and a deadly dodo for its ${item-singular: 4[2]}. Gather these and bring them to me.${prompt}'
-  7806: Only then will you be worthy of promotion. Now, go!${prompt}
-  7807: What are you afraid of? The true martial artist does not fear.${prompt}
-  7808: 'Oh... The circle is now complete. Wear this ${item-singular: 1[2]} with pride and honor. Always remember the trials you faced to claim it.${prompt}'
-  7809: Perhaps one day we can face each other in open-hand combat. A glorious fight that would be, don't you think?${prompt}
-  7810: You call yourself ${name-player}? Well, I've never heard of you. You may be somebody in your little hometown, but things are different here.${prompt}
-  7811: All roads lead to Jeuno. It's not easy to make a name for yourself with all these people here.${prompt}
-  7812: If you're really so famous back home, then word should reach here eventually. For now, just finish what you've started. Fame and fortune should follow.${prompt}
-  7813: ${name-player}, eh? Hmm... That name is vaguely familiar...${prompt}
-  7814: But I'm afraid few in this town have heard of you. Just keep working at it. You'll make a name for yourself eventually.${prompt}
-  7815: Oh, so you're ${name-player}... Yes, I heard some travelers in a tavern talk about you. It seems you've a fair reputation.${prompt}
-  7816: If you keep doing whatever you're doing, I'm sure more Jeunoans will come seeking your help. Good luck.${prompt}
-  7817: Hello, ${name-player}! I hear your name mentioned quite often these days. You've done well, my friend. Keep at it.${prompt}
-  7818: Hello, ${name-player}! A good deal of people here in Jeuno know about you!${prompt}
-  7819: And they all say you're quite the do-gooder! Thank you for serving our fair city. Keep up the good work!${prompt}
-  7820: Why, it's ${name-player}! Your growing reputation precedes you.${prompt}
-  7821: We hope your already substantial contributions to our humble city will continue to grow with time.${prompt}
-  7822: Why, hello, ${name-player}. I say, literally everyone in Jeuno knows your name.${prompt}
-  7823: It is my pleasure to inform you how impressed we are with your service to Jeuno. We hope to see more of your commendable generosity in the future!${prompt}
-  7824: ${choice-player-gender}[Lord/Lady] ${name-player}! To all citizens here, your name is synonymous with courage and sacrifice. Not a day goes by without hearing of your saintlike service to Jeuno.${prompt}
-  7825: I speak for all of Jeuno when I express my sincerest appreciation for your generosity. Indeed, bards shall sing of your virtues for ages to come!${prompt}
+    Que ça commence.
+    Non, pas encore.${prompt}
+  7804: Très bien, mon enfant. Un véritable artiste martial surmonte toujours la peur. Terrassez les adversaires suivants dans un combat mortel et apportez-moi la preuve de leur disparition.${prompt}
+  7805: 'Tuez un nue pour son ${item-singular: 2[2]}, un morbolger pour son ${item-singular: 3[2]}, et un dodo mortel pour son ${item-singular: 4[2]}. Rassemblez-les et apportez-les-moi.${prompt}'
+  7806: Seulement alors serez-vous digne de promotion. Allez maintenant !${prompt}
+  7807: De quoi avez-vous peur ? Le véritable artiste martial ne craint pas.${prompt}
+  7808: 'Oh... Le cercle est maintenant complet. Portez ce ${item-singular: 1[2]} avec fierté et honneur. N’oubliez jamais les épreuves que vous avez affrontées pour le récupérer.${prompt}'
+  7809: Peut-être qu'un jour nous pourrons nous affronter en combat à mains nues. Un combat glorieux, n'est-ce pas ?${prompt}
+  7810: Vous vous appelez ${name-player} ? Eh bien, je n'ai jamais entendu parler de vous. Vous êtes peut-être quelqu'un dans votre petite ville, mais les choses sont différentes ici.${prompt}
+  7811: Tous les chemins mènent à Jeuno. Ce n'est pas facile de se faire un nom avec tous ces gens ici.${prompt}
+  7812: Si vous êtes vraiment si célèbre chez vous, alors tôt ou tard, le mot devrait parvenir ici. Pour l'instant, terminez simplement ce que vous avez commencé. La gloire et la fortune suivront.${prompt}
+  7813: ${name-player}, hein ? Hmm... Ce nom me dit vaguement quelque chose...${prompt}
+  7814: Mais j'ai bien peur que peu de gens dans cette ville n'aient entendu parler de vous. Continuez simplement. Vous vous ferez un nom tôt ou tard.${prompt}
+  7815: Oh, donc vous êtes ${name-player}... Oui, j'ai entendu quelques voyageurs dans une taverne parler de vous. Il semble que vous ayez une bonne réputation.${prompt}
+  7816: Si vous continuez à faire ce que vous faites, je suis sûr que davantage de Jeunoans viendront chercher votre aide. Bonne chance.${prompt}
+  7817: Bonjour, ${name-player} ! J'entends votre nom mentionné assez souvent ces jours-ci. Vous avez bien réussi, mon ami. Continuez comme ça.${prompt}
+  7818: Bonjour, ${name-player} ! Un bon nombre de personnes ici à Jeuno connaissent votre nom !${prompt}
+  7819: Et ils disent tous que vous êtes un vrai bienfaiteur ! Merci de servir notre belle ville. Continuez votre bon travail !${prompt}
+  7820: Tiens, voilà ${name-player} ! Votre réputation grandissante vous précède.${prompt}
+  7821: Nous espérons que vos contributions déjà substantielles à notre modeste ville continueront de croître avec le temps.${prompt}
+  7822: Tiens, bonjour, ${name-player}. Je vous assure, littéralement tout le monde à Jeuno connaît votre nom.${prompt}
+  7823: C'est avec plaisir que je vous informe combien nous sommes impressionnés par votre service à Jeuno. Nous espérons voir davantage de votre générosité louable à l'avenir !${prompt}
+  7824: ${choice-player-gender}[Seigneur/Dame] ${name-player} ! Pour tous les citoyens d'ici, votre nom est synonyme de courage et de sacrifice. Pas un jour ne se passe sans entendre parler de votre service quasi-saint à Jeuno.${prompt}
+  7825: Je parle au nom de tout Jeuno lorsque j'exprime ma sincère appréciation pour votre générosité. En effet, les bardes chanteront vos vertus pour les siècles à venir !${prompt}
   7826: |-
-    Welcome to the auction house.
-    Do you have any questions about our establishment?${prompt}
+    Bienvenue à la maison des enchères.
+    Avez-vous des questions sur notre établissement ?${prompt}
   7827: |-
-    What do you want to know?
+    Que voulez-vous savoir ?
     ${selection-lines}
-    What is the auction house?
-    How are auctions run?
-    Are there any fees?
-    Are there any limits?
-    How do you check up on merchandise?
-    How do you remove an item?
-    My “Sales Status” list is full!
-    Nothing right now.${prompt}
-  7828: Auction houses can be found in all of Vana'diel's major cities. Here adventurers gather to bid on battle spoils, unwanted items, old armor...almost anything.${prompt}
-  7829: Currently, the auction houses in Bastok, San d'Oria, Windurst, and Jeuno all work independently. Therefore, prices differ from city to city.${prompt}
-  7830: Adventurers may use any auction house regardless of nationality.${prompt}
-  7831: The first adventurer to bid at or above the asking price will automatically purchase the product.${prompt}
-  7832: Once put up for auction, merchandise will remain there for a maximum of thirty weeks Vana'diel time (nine-and-a-half days Earth time).${prompt}
-  7833: If merchandise does not sell within this time limit, it will be returned to the seller's current residence.${prompt}
-  7834: Transaction fees are proportional to the amount for which an item is put up on auction. The method of calculating this fee is different for single items and stackable items.${prompt}
-  7835: A transaction fee is collected when any merchandise is put up for auction. This fee is nonrefundable.${prompt}
-  7836: The International Auction House Committee, or IAHC, has declared that a maximum of seven items may be put up for auction at one time.${prompt}
-  7837: However, the IAHC has recently removed the limit to how many items one may purchase.${prompt}
-  7838: A small amount of time is required before new merchandise appears on our bid list.${prompt}
-  7839: Once an item appears on your “Sales Status” list, it may not immediately appear on the bid list. If you do not see your item on the bid list, try looking again at a later time.${prompt}
-  7840: If you would like to withdraw an item from an auction, you must travel to the auction house, and select “Stop Sale” from the “Sales Status” menu.${prompt}
-  7841: To remove an item from your “Sales Status” list, you must visit an auction counter to acknowledge the sale or return of your merchandise.${prompt}
-  7842: Otherwise, previously sold or returned items will fill up your list and prevent you from selling any more merchandise.${prompt}
-  7843: At any auction counter, open the “Sales Status” menu and acknowledge the transaction to clear it from the list.${prompt}
-  7844: Press the confirm button to remove any transaction colored yellow (sold) or red (returned).${prompt}
-  7845: Is there anything else you would like to know?${prompt}
-  7846: In the past, many have amassed great wealth through the auction house. I hope you find fortune, too!${prompt}
+    Qu'est-ce que la maison des enchères ?
+    Comment se déroulent les enchères ?
+    Y a-t-il des frais ?
+    Y a-t-il des limites ?
+    Comment vérifiez-vous les marchandises ?
+    Comment supprimez-vous un article ?
+    Ma liste de "Statut des ventes" est pleine !
+    Rien pour le moment.${prompt}
+  7828: Les maisons de vente aux enchères se trouvent dans toutes les principales villes de Vana'diel. C'est là que les aventuriers se rassemblent pour enchérir sur les butins de bataille, les objets indésirables, les vieilles armures... presque tout.${prompt}
+  7829: Actuellement, les maisons de vente aux enchères à Bastok, San d'Oria, Windurst et Jeuno fonctionnent toutes de manière indépendante. Par conséquent, les prix diffèrent d'une ville à l'autre.${prompt}
+  7830: Les aventuriers peuvent utiliser n'importe quelle maison de vente aux enchères, quelle que soit leur nationalité.${prompt}
+  7831: Le premier aventurier à enchérir au prix demandé ou plus achètera automatiquement le produit.${prompt}
+  7832: Une fois mis en vente aux enchères, un article restera là pendant un maximum de trente semaines, temps Vana'diel (neuf jours et demi, temps terrestre).${prompt}
+  7833: Si un article ne se vend pas dans ce délai, il sera renvoyé à la résidence actuelle du vendeur.${prompt}
+  7834: Les frais de transaction sont proportionnels au montant pour lequel un article est mis en vente aux enchères. La méthode de calcul de ces frais est différente pour les articles simples et les articles empilables.${prompt}
+  7835: Des frais de transaction sont prélevés lorsque n'importe quelle marchandise est mise en vente aux enchères. Ces frais ne sont pas remboursables.${prompt}
+  7836: Le Comité international des maisons de vente aux enchères, ou CIHVE, a déclaré qu'un maximum de sept articles pouvaient être mis aux enchères en même temps.${prompt}
+  7837: Cependant, le CIHVE a récemment supprimé la limite du nombre d'articles qu'une personne peut acheter.${prompt}
+  7838: Un petit laps de temps est nécessaire avant que de nouveaux articles n'apparaissent sur notre liste d'enchères.${prompt}
+  7839: Une fois qu'un article apparaît sur votre liste "Statut des ventes", il peut ne pas apparaître immédiatement sur la liste des enchères. Si vous ne voyez pas votre article sur la liste des enchères, essayez de regarder à nouveau plus tard.${prompt}
+  7840: Si vous souhaitez retirer un article d'une vente aux enchères, vous devez vous rendre à la maison de vente aux enchères et sélectionner "Arrêter la vente" dans le menu "Statut des ventes".${prompt}
+  7841: Pour supprimer un article de votre liste "Statut des ventes", vous devez visiter un comptoir de vente aux enchères pour confirmer la vente ou le retour de votre marchandise.${prompt}
+  7842: Sinon, les articles précédemment vendus ou retournés rempliront votre liste et vous empêcheront de vendre d'autres marchandises.${prompt}
+  7843: À n'importe quel comptoir de vente aux enchères, ouvrez le menu "Statut des ventes" et confirmez la transaction pour la supprimer de la liste.${prompt}
+  7844: Appuyez sur le bouton de confirmation pour supprimer toute transaction colorée en jaune (vendue) ou en rouge (retournée).${prompt}
+  7845: Y a-t-il autre chose que vous aimeriez savoir ?${prompt}
+  7846: Dans le passé, beaucoup ont accumulé une grande richesse grâce à la maison de vente aux enchères. J'espère que vous trouverez également la fortune !${prompt}
   7847: |-
     Return to which title?
     ${selection-lines}
@@ -20101,49 +20101,49 @@ entries:
   8758: But I'll warn you one last time--the central tower ruins are still under investigation.${prompt}
   8759: Don't expect any search parties if you happen to get lost.${prompt}
   8760: |-
-    Welcome to Neptune's Spire!
-    Hm? Oh, I remember you. You're the one that brought us that gem from Pso'Xja.
-    After you brought it in, we learned that... Wait, how do I know I can trust you?${prompt}
+    Bienvenue à Neptune's Spire !
+    Hm ? Oh, je me souviens de vous. Vous êtes celui/celle qui nous a apporté ce joyau de Pso'Xja.
+    Après l'avoir apporté, nous avons appris que... Attendez, comment puis-je savoir si je peux vous faire confiance ?${prompt}
   8761: |-
-    Can you keep a secret?
+    Pouvez-vous garder un secret ?
     ${selection-lines}
-    My lips are sealed.
-    I can't guarantee anything.${prompt}
+    Mes lèvres sont scellées.
+    Je ne peux rien garantir.${prompt}
   8762: |-
-    Then the Tenshodo can't trust you with this info.
-    See you around, ${choice-player-gender}[mister/lady].${prompt}
+    Alors, le Tenshodo ne peut pas vous faire confiance avec cette information.
+    Au revoir, ${choice-player-gender}[monsieur/madame].${prompt}
   8763: |-
-    Welcome to Neptune's...
-    Ah, look who's back. Did you find some glue for your loose lips?${prompt}
+    Bienvenue à Neptune's...
+    Ah, regardez qui est de retour. Avez-vous trouvé de la colle pour vos lèvres lâches ?${prompt}
   8764: |-
-    If I find out you told anyone about this, I'll... Well, you know what we'll do to you.
-    Anyway, about those Pso'Xja gems...${prompt}
-  8765: Well, it looks like those jewels aren't just any rocks that fell out of some hole in a mountain.${prompt}
-  8766: 'Thanks to adventurers like you, we''ve learned that there are three types: gray, cyan, and carmine--and they all harbor some kind of strange energy that''s not found anywhere else on Vana''diel.${prompt}'
-  8767: Also, we've recently received reports from our colleagues in Bastok that the chief Republican engineer, Cid, has been collecting the gems.${prompt}
-  8768: Now, if we can find out what power those chips truly hold, the Tenshodo could make a killing!${prompt}
-  8769: Oh, and of course you'll get your cut. You're not thinking we'd short-change you, are you?${prompt}
-  8770: The IRNC has dispatched me to help support all those who wish to participate in Conflict.${prompt}
-  8771: 'Before you can take part in this Conflict event, you must first possess ${keyitem-article: 0[2]}. You can obtain one from your nation''s Conflict Commander, ${choice: 1}[Excenmille, stationed in Northern San d''Oria./Invincible Shield, stationed in the Metalworks in Bastok./Mhabi Molkot, stationed in Heavens Tower in Windurst.]${prompt}'
-  8772: Only adventurers who have achieved rank 3 or higher may take part in official Ballista matches. Please return when you have proven your loyalty to your home nation.${prompt}
-  8773: However, if you still wish to take part in Ballista, participation in matches held within Diorama Abdhaljs-Ghelsba is open to all citizens of Vana'diel.${prompt}
-  8774: What services do you require?${prompt}
+    Si je découvre que vous avez dit à quelqu'un cette information, je... Eh bien, vous savez ce que nous vous ferons.
+    Quoi qu'il en soit, à propos de ces joyaux de Pso'Xja...${prompt}
+  8765: Il semblerait que ces joyaux ne soient pas juste des roches tombées d'un trou dans une montagne.${prompt}
+  8766: 'Grâce aux aventuriers comme vous, nous avons appris qu’il existe trois types : gris, cyan et carmin - et ils renferment tous une sorte d’énergie étrange qui n’est trouvée nulle part ailleurs sur Vana’diel.${prompt}'
+  8767: De plus, nous avons récemment reçu des rapports de nos collègues à Bastok indiquant que le chef ingénieur républicain, Cid, collectait les joyaux.${prompt}
+  8768: Maintenant, si nous pouvions découvrir quelle puissance ces éclats détiennent vraiment, le Tenshodo pourrait faire une fortune !${prompt}
+  8769: Oh, et bien sûr, vous aurez votre part. Vous ne pensez pas que nous allons vous court-circuiter, n'est-ce pas ?${prompt}
+  8770: L'IRNC m'a envoyé pour soutenir tous ceux qui souhaitent participer au Conflit.${prompt}
+  8771: 'Avant de pouvoir participer à cet événement de Conflit, vous devez d’abord posséder ${keyitem-article: 0[2]}. Vous pouvez en obtenir un auprès du Commandant du Conflit de votre nation, ${choice: 1}[Excenmille, stationné dans le Nord de San d’Oria./Invincible Shield, stationné dans les Forges de Bastok./Mhabi Molkot, stationné dans la Tour des Cieux à Windurst.]${prompt}'
+  8772: Seuls les aventuriers ayant atteint le rang 3 ou plus peuvent participer aux matchs officiels de Ballista. Revenez lorsque vous aurez prouvé votre loyauté envers votre nation d'origine.${prompt}
+  8773: Cependant, si vous souhaitez toujours participer à la Ballista, la participation aux matchs se déroulant dans le Diorama Abdhaljs-Ghelsba est ouverte à tous les citoyens de Vana'diel.${prompt}
+  8774: De quoi avez-vous besoin ?${prompt}
   8775: |-
-    What can I help you with?
+    Comment puis-je vous aider ?
     ${selection-lines}
-    Nothing.
-    The upcoming Ballista matches.
-    The Ballista schedule.
-    A teleport to the Ballista match.
-    The rules of Ballista.
-    Borrow/Return ${keyitem-article: 0[2]}.
-    Borrow/Return ${keyitem-article: 1[2]}.
-    Borrow/Return ${keyitem-article: 2[2]}.
-    The upcoming Brenner matches.
-    A teleport to the Brenner match (Lv ${number: 7}).
-    The rules of Brenner.
-    Borrow/Return ${keyitem-article: 3[2]}.
-    Borrow/Return ${keyitem-article: 4[2]}.${prompt}
+    Rien.
+    Les prochains matchs de Ballista.
+    Le calendrier de la Ballista.
+    Un téléport vers le match de Ballista.
+    Les règles de la Ballista.
+    Emprunter/Retourner ${keyitem-article: 0[2]}.
+    Emprunter/Retourner ${keyitem-article: 1[2]}.
+    Emprunter/Retourner ${keyitem-article: 2[2]}.
+    Les prochains matchs de Brenner.
+    Un téléport vers le match de Brenner (Nv ${number: 7}).
+    Les règles du Brenner.
+    Emprunter/Retourner ${keyitem-article: 3[2]}.
+    Emprunter/Retourner ${keyitem-article: 4[2]}.${prompt}
   8776: 'I am allowed to teleport Ballista participants to the site of the next match in exchange for ${keyitem-article: 0[2]} or ${number: 1} Ballista ${choice-plurality: 1}[Point/Points]. This service is available from twenty-four hours before the start of the match, up until the end of the match.${prompt}'
   8777: '${lettercase: 1}${keyitem-article: 0[2]} can be received after participating in Ballista, or in the event one is not able to participate due to an influx (or lack) of entries.${prompt}'
   8778: I'm sorry, but I am not authorized to teleport persons who do not meet the level requirement for the match.${prompt}
@@ -22065,204 +22065,204 @@ entries:
   9671: 'You now have ${number: 0} Moblin ${choice-plurality: 0}[Marble/Marbles]!${prompt}'
   9672: 'Your ${choice: 0}[Maze Rune was/Maze Runes were] returned to you.${prompt}'
   9673: 'You obtained ${number: 0} Moblin ${choice-plurality: 0}[Marble/Marbles]!'
-  9674: I say, do you see that!?${prompt}
+  9674: Je dis, tu vois ça !?${prompt}
   9675: |-
-    It looks like...but could it truly be?
-    A giant...crystal?${prompt}
-  9676: This light...it's like n-nothing I've ever seen!${prompt}
-  9677: Aldo... Whatever could this mean?${prompt}
+    On dirait...mais pourrait-ce vraiment être ?
+    Un énorme...cristal ?${prompt}
+  9676: Cette lumière...c'est comme rien de ce que j'ai jamais vu !${prompt}
+  9677: Aldo... Qu'est-ce que cela pourrait bien signifier ?${prompt}
   9678: |-
-    I haven't a clue, Verena.
-    ...But I'd wager it doesn't bode well for us.${prompt}
+    Je n'en ai aucune idée, Verena.
+    ...Mais je parierais que cela ne présage rien de bon pour nous.${prompt}
   9679: |-
-    What is that thing!?
-    And why do I have a feeling that it doesn't bode well for us...?${prompt}
+    Qu'est-ce que c'est que cette chose !?
+    Et pourquoi ai-je l'impression que cela ne présage rien de bon pour nous...?${prompt}
   9680: |-
-    What could this mean, brother?
-    Is it some sort of omen...?${prompt}
-  9681: I only wish I had answers for you, Claidie...${prompt}
-  9682: One thing is for certain, though...we've not seen the likes of this crystal before.${prompt}
+    Que pourrait signifier cela, frère ?
+    Est-ce une sorte de présage...?${prompt}
+  9681: J'aimerais seulement avoir des réponses pour toi, Claidie...${prompt}
+  9682: Une chose est certaine, cependant...nous n'avons jamais vu un cristal de ce genre auparavant.${prompt}
   9683: |-
-    That otherworldly light...
-    Could it be a visitant from Paradise...?${prompt}
+    Cette lumière d'un autre monde...
+    Pourrait-elle être une visiteuse du Paradis...?${prompt}
   9684: |-
     　
-         It all began with a stone...
+         Tout a commencé par une pierre...
   9685: |-
     　
-         ...or so the legend says...
+         ...du moins, c'est ce que dit la légende...
   9686: |-
-    Shh! Listen...!
-    Do you hear something?${prompt}
+    Chut ! Écoute...!
+    Entends-tu quelque chose ?${prompt}
   9687: |-
-    Do my ears deceive me?
-    This ethereal voice...${prompt}
+    Mes oreilles me trompent-elles ?
+    Cette voix éthérée...${prompt}
   9688: |-
-    It's coming from the crystal...
-    The crystal is...singing?${prompt}
-  9689: The beckoning call of a preternatural stone...${prompt}
+    Elle vient du cristal...
+    Le cristal...chante ?${prompt}
+  9689: L'appel envoûtant d'une pierre surnaturelle...${prompt}
   9690: |-
-    I'll be damned if I know where that slab of rock came from, or what it's doing here.
-    But one thing's for sure--that's no ordinary energy it's giving off!${prompt}
-  9691: No, I don't like the looks of this one bit.${prompt}
+    Je serais bien en peine de dire d'où vient ce morceau de roche, ou ce qu'il fait ici.
+    Mais une chose est sûre : ce n'est pas une énergie ordinaire qu'il dégage !${prompt}
+  9691: Non, je n'aime pas du tout l'apparence de cette situation.${prompt}
   9692: |-
     　
-    　　 In ages past...
+    　　 Il y a des âges de cela...
   9693: |-
     　
-         ...a sentient jewel, enormous and beautiful...
+         ...un joyau sentient, immense et magnifique...
   9694: |-
     　
-         ...banished the darkness.
+         ...bannit les ténèbres.
   9695: |-
     　
-         Its many-colored light filled the world with life and brought forth mighty gods.
+         Sa lumière multicolore remplit le monde de vie et fit surgir des dieux puissants.
   9696: |-
-    I sense...such immense power.
-    This crystal harbors an unbelievably strong will...${prompt}
-  9697: It would seem that we've got ourselves another trrroublesome situation on our hands...${prompt}
+    Je sens...une puissance immense.
+    Ce cristal renferme une volonté incroyablement forte...${prompt}
+  9697: Il semblerait que nous ayons une autre situation prrroblématique sur les bras...${prompt}
   9698: |-
-    And so we face a most curious plight.
-    What a perfect occasion for me to brandish my intellectual might!
-    O～hohoho!${prompt}
+    Et ainsi nous faisons face à une situation des plus curieuses.
+    Quelle occasion parfaite pour moi de brandir ma puissance intellectuelle !
+    O～hohoho !${prompt}
   9699: |-
-    Stand back!
-    You must not draw near!${prompt}
+    Reculez !
+    Vous ne devez pas vous approcher !${prompt}
   9700: |-
-    That...thing. You must not approach it.
-    It is...not meant to exist in this world.${prompt}
-  9701: Star Sibyl!
+    Cette...chose. Vous ne devez pas vous en approcher.
+    Elle...n'est pas censée exister dans ce monde.${prompt}
+  9701: Grande Prêtresse !
   9702: |-
-    Not meant to exist in our worrrld?
-    But that means--${prompt}
+    Pas censée exister dans notre monde ?
+    Mais cela signifie--${prompt}
   9703: |-
-    That stone...
-    It is...
-  9704: It is--${prompt}
+    Cette pierre...
+    Elle est...
+  9704: Elle est--${prompt}
   9705: |-
-    No!!! The horror! The pain!
-    Love! Love will be the ruin of us all!
-  9706: Star Sibyl!?
-  9707: Are you outaru of your gourd, Professor!?${prompt}
-  9708: Surely you don't intend to tamperrr with that thing?${prompt}
-  9709: As if we didn't have enough trrrouble on our hands with the Star Sibyl's untimely abduction!${prompt}
+    Non !!! L'horreur ! La douleur !
+    L'amour ! L'amour sera notre perte à tous !
+  9706: Grande Prêtresse !?
+  9707: Êtes-vous totalement hors de vous, Professeur !?${prompt}
+  9708: Vous n'avez tout de même pas l'intention de trifouiller cette chose ?${prompt}
+  9709: Comme si nous n'avions pas déjà assez de prrroblèmes avec l'enlèvement intempestif de la Grande Prêtresse !${prompt}
   9710: |-
-    Do I make myself clear, Professor?
-    You are not, under any circumstances, to create any further disturbances!${prompt}
+    Est-ce bien clair, Professeur ?
+    Vous ne devez en aucun cas créer d'autres perturbations !${prompt}
   9711: |-
-    But my dear Apururu, by the Goddess above.
-    We must act swiftly, lest our world be undone by the fury of love!${prompt}
+    Mais ma chère Apururu, par la Déesse au-dessus de nous.
+    Nous devons agir rapidement, de peur que notre monde ne soit détruit par la fureur de l'amour !${prompt}
   9712: |-
-    I'll hear nothing of it!
-    It's absolutely outaru of the question!${prompt}
-  9713: Vana'diel come to rrruin?${prompt}
-  9714: By...love?
+    Je n'en veux rien entendre !
+    C'est absolument hors de question !${prompt}
+  9713: Vana'diel réduit à rrruin ?
+  9714: Par...l'amour ?
   9715: |-
     　
-         Bathed in that light, the world entered an age of bliss...${wait-animation: 4}
+         Baigné dans cette lumière, le monde entra dans un âge de félicité...${wait-animation: 4}
   9716: |-
     　
-         ...until, after a time, the gods fell into slumber.${wait-animation: 6}
+         ...jusqu'à ce qu'après un certain temps, les dieux tombent dans le sommeil.${wait-animation: 6}
   9717: |-
     　
-         That world was called Vana'diel.${wait-animation: 7}
+         Ce monde s'appelait Vana'diel.${wait-animation: 7}
   9718: |-
     　
-         Our world, Vana'diel...${wait-animation: 8}
+         Notre monde, Vana'diel...${wait-animation: 8}
   9719: |-
     　
-         A Crystalline Prophecy ～Ode of Life Bestowing～${wait-animation: 12}
-  9720: "What the--? \nWhat am I doing here?${prompt}"
+         A Crystalline Prophecy ～Ode de la Vie～${wait-animation: 12}
+  9720: "Qu'est-ce que--? \nQue fais-je ici ?${prompt}"
   9721: |-
-    Why, I could've sworn I just saw a--
-    Must just be my ol' noggin playin' tricks on me again...${prompt}
+    Pourquoi, j'aurais juré avoir vu un--
+    Ça doit être mon vieux cerveau qui me joue des tours encore une fois...${prompt}
   9722: |-
-    Good heavens! This is no time for daydreaming!
-    I must get back to work before the master scolds me!${prompt}
+    Bon sang ! Ce n'est pas le moment de rêvasser !
+    Je dois retourner au travail avant que le maître ne me gronde !${prompt}
   9723: |-
     Aldo...?
-    Was that--${prompt}
+    Était-ce--${prompt}
   9724: |-
-    No...it wasn't a dream, Verena.
-    I saw it too, plain as day.${prompt}
-  9725: A massive crystal floating majestically, and yet somehow ominously, like a star in the sky...${prompt}
+    Non...ce n'était pas un rêve, Verena.
+    Je l'ai vu aussi, clair comme le jour.${prompt}
+  9725: Un cristal massif flottant majestueusement, et pourtant d'une manière inquiétante, comme une étoile dans le ciel...${prompt}
   9726: |-
-    And yet, look at these people's faces.
-    Blissful and unaware, as if they have no recollection of what they saw mere moments ago.${prompt}
-  9727: Not even a fleeting memory of that enormous jewel...${prompt}
-  9728: '...and its many-colored lights.'
+    Et pourtant, regardez les visages de ces gens.
+    Heureux et inconscients, comme s'ils n'avaient aucun souvenir de ce qu'ils ont vu il y a quelques instants.${prompt}
+  9727: Pas même un souvenir fugace de ce joyau énorme...${prompt}
+  9728: '...et de ses lumières multicolores.'
   9729: |-
-    My eyes don't lie, and that was no idle hallucination just now.
-    A massive crystal...floating majestically, yet ominously, like a star in the sky....${prompt}
-  9730: Did you see them, ${choice-player-gender}[mister/lady]? The many-colored beams of light...${prompt}
-  9731: Did you hear the ancient song?${prompt}
+    Mes yeux ne mentent pas, et ce n'était pas une simple hallucination tout à l'heure.
+    Un cristal massif...flottant majestueusement, mais d'une manière inquiétante, comme une étoile dans le ciel....${prompt}
+  9730: Avez-vous vu les faisceaux de lumière multicolores, ${choice-player-gender}[monsieur/madame] ?${prompt}
+  9731: Avez-vous entendu la chanson ancienne ?${prompt}
   9732: |-
-    That was the memory of the crystal, the “Memoria de la S^tona.”
-    The song of ages past that heralded the birth of the gods...${prompt}
+    C'était la mémoire du cristal, le “Memoria de la S^tona.”
+    La chanson des temps anciens qui annonçait la naissance des dieux...${prompt}
   9733: |-
-    And yet, look at the townsfolk around you.
-    How strange... It's as if they never noticed a thing.${prompt}
-  9734: Or perhaps they did, but don't recall...?${prompt}
+    Et pourtant, regardez les habitants autour de vous.
+    Comme c'est étrange... C'est comme s'ils n'avaient rien remarqué.${prompt}
+  9734: Ou peut-être l'ont-ils fait, mais ne s'en souviennent-ils pas...?${prompt}
   9735: |-
-    No memory of what they heard and saw.
-    How curious indeed.${prompt}
+    Aucun souvenir de ce qu'ils ont entendu et vu.
+    Comme c'est curieux.
   9736: |-
-    Doesn't this make you wonder, ${choice-player-gender}[mister/lady]?
-    Aren't you troubled by what you're seeing?${prompt}
-  9737: Don't you wonder what's happening to your precious Vana'diel?${prompt}
+    Cela ne vous fait-il pas réfléchir, ${choice-player-gender}[monsieur/madame] ?
+    Cela ne vous trouble-t-il pas ce que vous voyez ?${prompt}
+  9737: Ne vous demandez-vous pas ce qui arrive à votre précieuse Vana'diel ?${prompt}
   9738: |-
-    Like it or not, it would seem you've been chosen.
-    Chosen by the echo of the crystal.${prompt}
+    Qu'on le veuille ou non, il semblerait que vous ayez été choisi.
+    Choisi par l'écho du cristal.${prompt}
   9739: |-
-    Chosen for what, you ask?
-    That's not for me to say...${prompt}
+    Choisi pour quoi, vous demandez ?
+    Ce n'est pas à moi de le dire...${prompt}
   9740: |-
-    Sure, you could just turn and walk away from your fate.
-    But if you care for the future of your world, seek out the ${item-singular: 0[2]}, the ${item-singular: 1[2]}, and the ${item-singular: 2[2]}...${prompt}
+    Bien sûr, vous pourriez simplement tourner le dos et vous éloigner de votre destin.
+    Mais si vous tenez à l'avenir de votre monde, cherchez le ${item-singular: 0[2]}, le ${item-singular: 1[2]}, et le ${item-singular: 2[2]}...${prompt}
   9741: |-
-    What are they? Why, the rays of light you just saw, of course. Or what remains of them, at least.
-    Raining down from the heavens, they settled in forests, marshes, and mountains...${prompt}
+    Qu'est-ce que c'est ? Eh bien, les rayons de lumière que vous venez de voir, bien sûr. Ou ce qu'il en reste, au moins.
+    Tombant du ciel, ils se sont installés dans les forêts, les marais et les montagnes...${prompt}
   9742: |-
-    Where did the crystal come from?
-    For what purpose has it come to our world?${prompt}
-  9743: Open your ears to the echo of the ancient melody...${prompt}
-  9744: And you just might find the answers you seek.${prompt}
+    D'où vient le cristal ?
+    Dans quel but est-il venu dans notre monde ?${prompt}
+  9743: Ouvrez vos oreilles à l'écho de l'ancienne mélodie...${prompt}
+  9744: Et vous pourriez bien trouver les réponses que vous cherchez.${prompt}
   9745: |-
-    I'll be waiting for you at Qufim Island.
-    Bring the shards to me there, and we will see what mysteries they hold.${prompt}
+    Je vous attendrai à l'île de Qufim.
+    Apportez-moi les éclats là-bas, et nous verrons quels mystères ils détiennent.${prompt}
   9746: |-
-    And now, you'd best be on your way, adventurer.
-    It would appear that the wheels have long since been set in motion.${prompt}
-  9747: By the way, you can call me Aldo.${prompt}
+    Et maintenant, vous feriez mieux de vous mettre en route, aventurier.
+    Il semblerait que les rouages soient en mouvement depuis longtemps.${prompt}
+  9747: Au fait, vous pouvez m'appeler Aldo.${prompt}
   9748: |-
-    You? Oh, I know you all too well, ${name-player}.
-    Do take care, now.${prompt}
+    Vous ? Oh, je vous connais très bien, ${name-player}.
+    Prenez soin de vous, maintenant.${prompt}
   9749: |-
-    (debug flag) Verena present?
+    (flag de débogage) Verena présente ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  9750: |2-
-            (debug flag) Star Sibyl present?
-            ${selection-lines}
-    Yes.
-            No.${prompt}
-  9751: There is no response...${prompt}
-  9752: Your party leader is in the process of ordering a maze.${prompt}
-  9753: Only the party leader is able to order a maze.${prompt}
+    Oui.
+    Non.${prompt}
+  9750: |-
+    (flag de débogage) Star Sibyl présente ?
+    ${selection-lines}
+    Oui.
+    Non.${prompt}
+  9751: Il n'y a pas de réponse...${prompt}
+  9752: Votre chef de groupe est en train de commander un labyrinthe.${prompt}
+  9753: Seul le chef de groupe peut commander un labyrinthe.${prompt}
   9754: |-
-    You are about to order a maze with your specified settings.
-    Proceed? (You have accumulated ${number: 8} C.C. ${choice-plurality: 8}[point/points].)${prompt}
+    Vous êtes sur le point de commander un labyrinthe avec les paramètres spécifiés.
+    Procéder ? (Vous avez accumulé ${number: 8} P.C. ${choice-plurality: 8}[point/points].)${prompt}
   9755: |-
-    Order this maze?
+    Commander ce labyrinthe ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
+    Oui.
+    Non.${prompt}
   9756: |-
-    This transaction will require ${number: 6} gil.
+    Cette transaction nécessitera ${number: 6} gil.
     ${selection-lines}
-    Proceed.
-    Cancel.${prompt}
+    Procéder.
+    Annuler.${prompt}
   9757: Now entering the maze.
   9758: You have canceled your maze order.
   9759: The hands of darkness have impeded your progress into the maze.
@@ -23501,58 +23501,58 @@ entries:
     Synergy furnaces themselves may be used free of charge.${prompt}
   10165: Should you wish to learn more about the science of synergy, seek out one of the engineers stationed throughout the town.${prompt}
   10166: |-
-    Welcome to the MHMU's porter service, kupo!
-    Which of your burdensome belongings shall I take off your hands today?${prompt}
+    Bienvenue au service de porteur de l'MHMU, kupo !
+    Quel fardeau de vos biens puis-je prendre en charge aujourd'hui ?${prompt}
   10167: |-
-    Do something, kupo?
+    Besoin d'aide, kupo ?
     ${selection-lines}
-    Porter service?
-    Buy a storage slip.
-    No, thank you.${prompt}
+    Service de porteur ?
+    Acheter un bon pour le stockage.
+    Non, merci.${prompt}
   10168: |-
-    Is your gobbiebag splitting at the seams? Mog Safe spilling over?
-    Why, an accomplished adventurer like yourself surely has more stuff than you know what to do with.${prompt}
+    Votre gobbiebag déborde-t-il de ses coutures ? Votre Mog Safe déborde-t-il ?
+    Eh bien, un aventurier accompli comme vous a sûrement plus de choses qu'il ne sait qu'en faire.${prompt}
   10169: |-
-    That's where I come in, kupo.
-    I'll gladly hold onto your prized possessions, freeing you space to gather up even grander goodies.${prompt}
-  10170: 'To make use of my services, first you''ll need to buy one of these storage slips for the low, low fee of ${number: 19} gil.${prompt}'
-  10171: Storage slips come in numerous varieties, kupo, each corresponding to a different type of item.${prompt}
-  10172: You'll want to peruse the fine print closely, so you don't end up paying good gil for a scrap of parchment useless for the particular item you wish to store.${prompt}
-  10173: Not that we moogles would object to that sort of donation, kupo.${prompt}
+    C'est là que j'interviens, kupo.
+    Je me ferai un plaisir de garder vos biens précieux, vous laissant de l'espace pour rassembler encore de plus grands trésors.${prompt}
+  10170: 'Pour profiter de mes services, vous devrez d’abord acheter l’un de ces bons pour le stockage pour le modique montant de ${number: 19} gils, kupo.${prompt}'
+  10171: Les bons pour le stockage sont disponibles dans de nombreuses variétés, kupo, chacune correspondant à un type différent d'objet.${prompt}
+  10172: Vous voudrez examiner de près les petits caractères, afin de ne pas dépenser de bons gils pour un bout de parchemin inutile pour l'objet particulier que vous souhaitez stocker.${prompt}
+  10173: Bien que nous, les moogles, ne nous opposions pas à ce genre de don, kupo.${prompt}
   10174: |-
-    Choose the item you wish to entrust, then trade it to me along with a single storage slip.
-    I will take the item and return the slip to you, marked with an invisible seal.${prompt}
+    Choisissez l'objet que vous souhaitez confier, puis échangez-le avec moi ainsi qu'un seul bon pour le stockage.
+    Je prendrai l'objet et vous retournerai le bon, marqué d'un sceau invisible.${prompt}
   10175: |-
-    Invisible to you, at least.
-    It's plain as day to us moogles, so don't even think of trying to pull one over on us, kupo.${prompt}
-  10176: When it comes time to retrieve your item, just trade to me a single storage slip--any slip--once again.${prompt}
+    Invisible pour vous, du moins.
+    C'est clair comme de l'eau de roche pour nous, les moogles, alors ne pensez même pas à essayer de nous berner, kupo.${prompt}
+  10176: Lorsqu'il sera temps de récupérer votre objet, échangez simplement avec moi un seul bon pour le stockage -- n'importe quel bon -- une fois de plus.${prompt}
   10177: |-
-    I will present you with a list of all the items currently in my care, and you may choose the one you wish to withdraw.
-    Simple as that, kupo!${prompt}
+    Je vous présenterai une liste de tous les objets actuellement sous ma garde, et vous pourrez choisir celui que vous souhaitez retirer.
+    Aussi simple que cela, kupo !${prompt}
   10178: |-
-    What's more, no additional transaction fees will be incurred!
-    Pretty generous of us for a change, no?${prompt}
+    De plus, aucun frais de transaction supplémentaire ne sera engagé !
+    Plutôt généreux de notre part pour une fois, non ?${prompt}
   10179: |-
-    Now I bet you're wondering what the catch is, kupo.
-    So as not to disappoint you, there are a few!${prompt}
-  10180: For one, any signed items will lose their signatures if you store them with me.${prompt}
+    Maintenant, je parie que vous vous demandez quel est le piège, kupo.
+    Pour ne pas vous décevoir, il y en a quelques-uns !${prompt}
+  10180: Pour commencer, tous les objets signés perdront leurs signatures si vous les stockez avec moi.${prompt}
   10181: |-
-    Why, you say? Hey, even we moogles aren't perfect!
-    It's better for both of us if you keep your most precious possessions close at hand, kupo.${prompt}
-  10182: Now listen up, because there's another catch, and it's a doozy.${prompt}
+    Pourquoi, dites-vous ? Hé, même nous, les moogles, ne sommes pas parfaits !
+    Il vaut mieux pour nous deux que vous gardiez vos possessions les plus précieuses à portée de main, kupo.${prompt}
+  10182: Maintenant, écoutez bien, car il y a un autre piège, et c'est un gros.${prompt}
   10183: |-
-    If you lose your storage slip, I won't be able to return your item. Ever. No ifs, ands, or buts!
-    No “I'm sorry, Mister Porter Moogle, it'll never happen again!”
-    Rules are rules, kupo, and someone has to keep them.${prompt}
-  10184: Last, but not least, I can't accept equipment bearing Magian trial insignia.${prompt}
-  10185: If you have such an item that you're simply dying to entrust to me, you'll have to abandon your trial first, kupo.${prompt}
+    Si vous perdez votre bon pour le stockage, je ne pourrai pas vous rendre votre objet. Jamais. Pas de si, de et de mais !
+    Pas de "Je suis désolé, Monsieur Moogle Porteur, cela ne se reproduira jamais !"
+    Les règles sont les règles, kupo, et quelqu'un doit les respecter.${prompt}
+  10184: Enfin, mais non des moindres, je ne peux pas accepter d'équipement portant l'insigne d'essai de Magian.${prompt}
+  10185: Si vous avez un tel objet que vous mourrez d'envie de me confier, vous devrez abandonner votre essai d'abord, kupo.${prompt}
   10186: |-
-    And that's all there is to it.
-    This humble moogle can hardly wait to serve you!${prompt}
+    Et c'est tout.
+    Ce modeste moogle a hâte de vous servir !${prompt}
   10187: |-
-    Buy something? (p. ${number: 16}/${number: 17}).
+    Acheter quelque chose ? (p. ${number: 16}/${number: 17}).
     ${selection-lines}
-    Previous page.
+    Page précédente.
     ${lettercase: 1}${article} ${item-article: 0[2]}.
     ${lettercase: 1}${article} ${item-article: 1[2]}.
     ${lettercase: 1}${article} ${item-article: 2[2]}.
@@ -23569,25 +23569,25 @@ entries:
     ${lettercase: 1}${article} ${item-article: 13[2]}.
     ${lettercase: 1}${article} ${item-article: 14[2]}.
     ${lettercase: 1}${article} ${item-article: 15[2]}.
-    Next page.
-    Cancel.${prompt}
+    Page suivante.
+    Annuler.${prompt}
   10188: |-
-    ${lettercase: 1}${article} ${item-article: 32[2]} will cost you ${number: 19} gil.
-    Do we have a deal, kupo?${prompt}
+    ${lettercase: 1}${article} ${item-article: 32[2]} vous coûtera ${number: 19} gil.
+    Nous faisons affaire, kupo ?${prompt}
   10189: |-
-    Deal, kupo? (Current gil: ${number: 18}).
+    Accord, kupo ? (Gil actuel : ${number: 18}).
     ${selection-lines}
-    Check storable items.
-    Deal.
-    No deal.${prompt}
-  10190: 'The ${item-singular: 32[2]} will allow you to store the following items:${prompt}'
+    Vérifier les objets stockables.
+    Accord.
+    Pas d'accord.${prompt}
+  10190: 'Le ${item-singular: 32[2]} vous permettra de stocker les objets suivants:${prompt}'
   10191: '${lettercase: 1}${article} ${item-article: 33[2]}.'
   10192: '${lettercase: 1}${article} ${item-article: 33[2]}.${prompt}'
-  10193: '...and that''s all.${prompt}'
+  10193: '...et c’est tout.${prompt}'
   10194: |-
     ${lettercase: 1}${item-singular: 32[2]} (p. ${number: 16}/${number: 17}).
     ${selection-lines}
-    Previous page.
+    Page précédente.
     ${lettercase: 1}${article} ${item-article: 0[2]}.
     ${lettercase: 1}${article} ${item-article: 1[2]}.
     ${lettercase: 1}${article} ${item-article: 2[2]}.
@@ -23604,22 +23604,22 @@ entries:
     ${lettercase: 1}${article} ${item-article: 13[2]}.
     ${lettercase: 1}${article} ${item-article: 14[2]}.
     ${lettercase: 1}${article} ${item-article: 15[2]}.
-    Next page.
-    Cancel.${prompt}
+    Page suivante.
+    Annuler.${prompt}
   10195: |-
-    ${color-alt: 121}Warning!
-    If you lose your ${item-singular: 0[2]} while storing a corresponding item, you will be forever unable to retrieve that item!${prompt}
-  10196: 'Is that ${article} ${item-article: 3[2]} I see, kupo?${prompt}'
+    ${color-alt: 121}Attention !
+    Si vous perdez votre ${item-singular: 0[2]} lors du stockage d'un objet correspondant, vous ne pourrez jamais récupérer cet objet !${prompt}
+  10196: 'Est-ce ${article} ${item-article: 3[2]} que je vois, kupo ?${prompt}'
   10197: |-
-    What will you do?
+    Que ferez-vous ?
     ${selection-lines}
-    Retrieve an item.
-    Confirm storable items.
-    Nothing.${prompt}
+    Récupérer un objet.
+    Confirmer les objets stockables.
+    Rien.${prompt}
   10198: |-
-    Retrieve an item? (p. ${number: 16}/${number: 17}).
+    Récupérer un objet ? (p. ${number: 16}/${number: 17}).
     ${selection-lines}
-    Previous page.
+    Page précédente.
     ${lettercase: 1}${article} ${item-article: 0[2]}.
     ${lettercase: 1}${article} ${item-article: 1[2]}.
     ${lettercase: 1}${article} ${item-article: 2[2]}.
@@ -23636,47 +23636,47 @@ entries:
     ${lettercase: 1}${article} ${item-article: 13[2]}.
     ${lettercase: 1}${article} ${item-article: 14[2]}.
     ${lettercase: 1}${article} ${item-article: 15[2]}.
-    Next page.
-    Cancel.${prompt}
+    Page suivante.
+    Annuler.${prompt}
   10199: |-
-    Retrieve ${article} ${item-article: 32[2]}?
+    Récupérer ${article} ${item-article: 32[2]} ?
     ${selection-lines}
-    Retrieve it.
-    Leave it.${prompt}
-  10200: 'You retrieve ${article} ${item-article: 0[2]} from the porter moogle''s care.${prompt}'
-  10201: Kupo? I'm already taking care of that item for you.${prompt}
+    Récupérez-le.
+    Laissez-le.${prompt}
+  10200: 'Vous récupérez ${article} ${item-article: 0[2]} des mains du moogle porte-bagages.${prompt}'
+  10201: Kupo ? Je m'occupe déjà de cet objet pour vous.${prompt}
   10202: |-
-    ${lettercase: 1}${article} ${item-article: 0[2]}, yes?
-    Very well! Your precious property is safe with me, kupo!${prompt}
+    ${lettercase: 1}${article} ${item-article: 0[2]}, n'est-ce pas ?
+    Très bien ! Votre précieuse propriété est en sécurité avec moi, kupo !${prompt}
   10203: |-
-    ${number: 0} ${choice-plurality: 0}[variety/varieties] of item, is it?
-    Very well! Your precious property is safe with me, kupo!${prompt}
+    ${number: 0} ${choice-plurality: 0}[variété/variétés] d'objet, n'est-ce pas ?
+    Très bien ! Votre précieuse propriété est en sécurité avec moi, kupo !${prompt}
   10204: |-
-    Is that a Magian insignia I see on that ${item-singular: 0[2]}?
-    You'll have to abandon your trial before I can take it off your hands, kupo.${prompt}
+    Est-ce une insigne Magian que je vois sur ce ${item-singular: 0[2]} ?
+    Vous devrez abandonner votre essai avant que je puisse le prendre en charge, kupo.${prompt}
   10205: |-
-    That ${item-singular: 0[2]} appears to be augmented.
-    I'm sorry, but I can't accept such specialized gear, kupo.${prompt}
-  10206: Curious as to whether I can accept that item? Let me check my annals.${prompt}
-  10207: 'Why, yes I can! ${lettercase: 1}${item-plural: 0[2]} can be stored with ${article} ${item-article: 1[2]}.${prompt}'
-  10208: 'Why, it looks as if you have ${article} ${item-article: 1[2]} located in your ${choice: 2}[inventory/Mog Safe/Mog Safe 2/Mog House storage/Mog Locker/Mog Satchel/Mog Sack/Mog Case/Mog Wardrobe/Mog Wardrobe 2/Mog Wardrobe 3/Mog Wardrobe 4/Mog Wardrobe 5/Mog Wardrobe 6/Mog Wardrobe 7/Mog Wardrobe 8/Recycle Bin]!${prompt}'
-  10209: 'Storable item: ${item-singular: 33[2]} (${number: 33})'
-  10210: 'Storable item: ${item-singular: 33[2]} (${number: 33})${prompt}'
-  10211: '0: ${number: 0} 1: ${number: 1} 2: ${number: 2} 3: ${number: 3}${prompt}'
-  10212: '4: ${number: 4} 5: ${number: 5} 6: ${number: 6} 7: ${number: 7}${prompt}'
-  10213: 'no: ${number: 0} id: ${number: 1}${prompt}'
-  10214: 'no: ${number: 0} id: ${number: 1} res: ${number: 2}${prompt}'
-  10215: 'TB: ${number: 31}${prompt}'
-  10216: NPC index out of range.${prompt}
-  10217: 'ERROR CODE: ${number: 0} / ${number: 1}${prompt}'
+    Ce ${item-singular: 0[2]} semble être augmenté.
+    Je suis désolé, mais je ne peux pas accepter un équipement aussi spécialisé, kupo.${prompt}
+  10206: Curieux de savoir si je peux accepter cet objet ? Laissez-moi vérifier mes annales.${prompt}
+  10207: 'Eh bien oui ! ${lettercase: 1}${item-plural: 0[2]} peuvent être stockés avec ${article} ${item-article: 1[2]}.${prompt}'
+  10208: 'Eh bien, il semblerait que vous ayez ${article} ${item-article: 1[2]} situé dans votre ${choice: 2}[inventaire/Coffre Mog/Coffre Mog 2/Rangement de la Maison Mog/Casier Mog/Sacoche Mog/Sac Mog/Valise Mog/Garde-robe Mog/Garde-robe Mog 2/Garde-robe Mog 3/Garde-robe Mog 4/Garde-robe Mog 5/Garde-robe Mog 6/Garde-robe Mog 7/Garde-robe Mog 8/Corbeille de recyclage] !${prompt}'
+  10209: 'Objet stockable : ${item-singular: 33[2]} (${number: 33})'
+  10210: 'Objet stockable : ${item-singular: 33[2]} (${number: 33})${prompt}'
+  10211: '0 : ${number: 0} 1 : ${number: 1} 2 : ${number: 2} 3 : ${number: 3}${prompt}'
+  10212: '4 : ${number: 4} 5 : ${number: 5} 6 : ${number: 6} 7 : ${number: 7}${prompt}'
+  10213: 'non : ${number: 0} id : ${number: 1}${prompt}'
+  10214: 'non : ${number: 0} id : ${number: 1} res : ${number: 2}${prompt}'
+  10215: 'TB : ${number: 31}${prompt}'
+  10216: Indice NPC hors de portée.${prompt}
+  10217: 'CODE ERREUR : ${number: 0} / ${number: 1}${prompt}'
   10218: |-
-    Hail, soldier. I am a purveyor tasked with furnishing the brave men and women of the Voidwatch with essential supplies.
-    My wares can be yours, provided you've got ${choice: 0}[Conquest Points/Imperial Standing/Allied Notes] to trade.
-    After all, we can't afford to let our limited resources go to waste in the hands of some unproven rookie.${prompt}
+    Salut, soldat. Je suis un fournisseur chargé de fournir aux courageux hommes et femmes de la Voidwatch des fournitures essentielles.
+    Mes marchandises peuvent être à vous, à condition que vous ayez ${choice: 0}[Points de conquête/Notoriété impériale/Notes alliées] à échanger.
+    Après tout, nous ne pouvons pas nous permettre de laisser nos ressources limitées entre les mains d'un novice non éprouvé.${prompt}
   10219: |-
-    Procure supplies? (${choice: 0}[Points/Standing/Notes]: ${number: 1})
+    Acheter des fournitures ? (${choice: 0}[Points/Notoriété/Notes] : ${number: 1})
     ${selection-lines}
-    Not now.
+    Pas maintenant.
     ${lettercase: 1}${article} ${item-article: 2[2]} (${number: 3}).
     ${lettercase: 1}${article} ${item-article: 4[2]} (${number: 5}).
     ${lettercase: 1}${article} ${item-article: 6[2]} (${number: 7}).
@@ -23693,30 +23693,30 @@ entries:
     ${lettercase: 1}${article} ${item-article: 28[2]} (${number: 29}).
     ${lettercase: 1}${article} ${item-article: 30[2]} (${number: 31}).${prompt}
   10220: |-
-    How many? (${choice: 0}[Points/Standing/Notes]: ${number: 1})
+    Combien ? (${choice: 0}[Points/Notoriété/Notes] : ${number: 1})
     ${selection-lines}
-    None, actually.
-    One (Cost: ${number: 2}).
-    Three (Cost: ${number: 3}),
-    Six (Cost: ${number: 4}).
-    Nine (Cost: ${number: 5}).
-    Twelve (Cost: ${number: 6}).${prompt}
-  10221: 'This ${item-singular: 0[2]} will cost you ${number: 1} ${choice: 2}[Conquest Points/credits of Imperial Standing/Allied Notes].${prompt}'
+    Aucun, en fait.
+    Un (Coût : ${number: 2}).
+    Trois (Coût : ${number: 3}),
+    Six (Coût : ${number: 4}).
+    Neuf (Coût : ${number: 5}).
+    Douze (Coût : ${number: 6}).${prompt}
+  10221: 'Cet ${item-singular: 0[2]} vous coûtera ${number: 1} ${choice: 2}[Points de conquête/crédits de Notoriété impériale/Notes alliées].${prompt}'
   10222: |-
-    It seems you're short on ${choice: 0}[Conquest Points/Imperial Standing credits/Allied Notes], soldier.
-    Come back when you've got a bit more seasoning under your belt.${prompt}
+    Il semble que vous soyez à court de ${choice: 0}[Points de conquête/crédits de Notoriété impériale/Notes alliées], soldat.
+    Revenez quand vous aurez un peu plus d'expérience sous la ceinture.${prompt}
   10223: |-
-    Proceed? (Required ${choice: 0}[Points/Standing/Notes]: ${number: 1})
+    Continuer ? (Requis ${choice: 0}[Points/Notoriété/Notes] : ${number: 1})
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  10224: '${name-player} obtains ${article} ${item-article: 1[2]} in exchange for ${number: 0} ${choice: 3}[Conquest Points/credits of Imperial Standing/Allied Notes].${prompt}'
-  10225: '${name-player} obtains ${number: 2} ${item-plural: 1[2]} in exchange for ${number: 0} ${choice: 3}[Conquest Points/credits of Imperial Standing/Allied Notes].${prompt}'
-  10226: '${name-player} obtains ${keyitem-article: 1[2]} in exchange for ${number: 0} ${choice: 3}[Conquest Points/credits of Imperial Standing/Allied Notes].${prompt}'
-  10227: 'This ${keyitem-singular: 0[2]} will cost you ${number: 1} ${choice: 2}[Conquest Points/credits of Imperial Standing/Allied Notes].${prompt}'
+    Oui.
+    Non.${prompt}
+  10224: '${name-player} obtient ${article} ${item-article: 1[2]} en échange de ${number: 0} ${choice: 3}[Points de conquête/crédits de Notoriété impériale/Notes alliées].${prompt}'
+  10225: '${name-player} obtient ${number: 2} ${item-plural: 1[2]} en échange de ${number: 0} ${choice: 3}[Points de conquête/crédits de Notoriété impériale/Notes alliées].${prompt}'
+  10226: '${name-player} obtient ${keyitem-article: 1[2]} en échange de ${number: 0} ${choice: 3}[Points de conquête/crédits de Notoriété impériale/Notes alliées].${prompt}'
+  10227: 'Cet ${keyitem-singular: 0[2]} vous coûtera ${number: 1} ${choice: 2}[Points de conquête/crédits de Notoriété impériale/Notes alliées].${prompt}'
   10228: |-
-    You already have ${keyitem-article: 0[2]}, and I'm not authorized to furnish you with another.
-    Resources are in short supply. You'll have to make do with what you've already got.${prompt}
+    Vous possédez déjà ${keyitem-article: 0[2]}, et je ne suis pas autorisé à vous fournir un autre.
+    Les ressources sont rares. Vous devrez vous contenter de ce que vous avez déjà.${prompt}
   10229: ${prompt}
   10230: ${prompt}
   10231: ${prompt}
@@ -23725,63 +23725,63 @@ entries:
   10234: ${prompt}
   10235: ${prompt}
   10236: ${prompt}
-  10237: 'How many? (${choice: 0} [Conquest Points/Imperial Standing/Allied Notes]: ${number: 1})'
-  10238: 'You may purchase up to ${number: 2} at a time.'
+  10237: 'Combien ? (${choice: 0} [Points de conquête/crédits de Notoriété impériale/Notes alliées] : ${number: 1})'
+  10238: 'Vous pouvez en acheter jusqu’à ${number: 2} à la fois.'
   10239: |-
-    Oh, what a crying-wying shame!
-    The cards open our eyes to the truth, yet so many still wander aimlessly through life, blind as batarus.${prompt}
+    Oh, quelle honte ! 
+    Les cartes nous ouvrent les yeux sur la vérité, et pourtant tant de gens errent encore sans but dans la vie, aveugles comme des batarus.${prompt}
   10240: |-
-    But it doesn't have to be this way!
-    I just need someone to help me spread the wonders of fortune-wortune-telling across the land!${prompt}
+    Mais cela ne doit pas être ainsi ! 
+    J'ai juste besoin de quelqu'un pour m'aider à répandre les merveilles de la divination à travers le pays !${prompt}
   10241: |-
-    I predict that it would be a most fruitaruful career choice!
-    What do you say?${prompt}
+    Je prédis que ce serait un choix de carrière très fructueux ! 
+    Que dites-vous ?${prompt}
   10242: |-
-    What do you say?
+    Que dites-vous ?
     ${selection-lines}
-    Sure, I'll help.
-    Not today.${prompt}
+    Bien sûr, je vais aider.
+    Pas aujourd'hui.${prompt}
   10243: |-
-    I see dark clouds and stormy-wormy seas on the horizon for ${choice-player-gender}[he/she] who refuses to aid me!
-    But oh well, it's your life...or death, as the case may be.${prompt}
+    Je vois des nuages sombres et des mers agitées à l'horizon pour ${choice-player-gender}[lui/elle] qui refuse de m'aider ! 
+    Mais bon, c'est votre vie... ou votre mort, selon le cas.${prompt}
   10244: |-
-    Oh, thank you ever so much!
-    I see naughtaru but rainbows and rosy-woses in your future!${prompt}
-  10245: I'm sure you already know about tarut cards, but let's not take any chances with such a vital-wital task, shall we?${prompt}
+    Oh, merci infiniment ! 
+    Je ne vois que des arcs-en-ciel et des roses dans votre futur !${prompt}
+  10245: Je suis sûr que vous connaissez déjà les cartes tarut, mais ne prenons aucun risque avec une tâche aussi vitale, n'est-ce pas ?${prompt}
   10246: |-
-    There are four types of cards.
-    To witaru, we have the Hermit, the King, Death, and the Fool.${prompt}
+    Il existe quatre types de cartes.
+    Pour Witaru, nous avons l'Ermite, le Roi, la Mort et le Fou.${prompt}
   10247: |-
-    This means that you'll end up with an extra-wextra card, but no need to fretaru!
-    You can give it to a friend, or simply toss it aside and spread the joy to a lucky anonymous passerby!${prompt}
-  10248: Got all that? Then off you go!${prompt}
+    Cela signifie que vous vous retrouverez avec une carte supplémentaire, mais pas de souci ! 
+    Vous pouvez la donner à un ami, ou simplement la jeter et répandre la joie à un passant anonyme chanceux !${prompt}
+  10248: Vous avez tout compris ? Alors allez-y !${prompt}
   10249: |-
-    I'm not in any rush, but should you find yourself shortaru on luck after a time, just come back here, okay?
-    I'll see what I can do to turn your fortune-wortunes around.${prompt}
+    Je ne suis pas pressé, mais si vous vous retrouvez à court de chance après un certain temps, revenez ici, d'accord ? 
+    Je verrai ce que je peux faire pour changer votre destinée en bien.${prompt}
   10250: |-
-    You've done much to spread truth and wisdom in Vana'diel today, my friend!
-    Take this as a small token of my gratitude and come back whenever you need your fortune told. Ta-taru!${prompt}
+    Vous avez beaucoup fait pour répandre la vérité et la sagesse à Vana'diel aujourd'hui, mon ami !
+    Prenez ceci comme un petit témoignage de ma gratitude et revenez quand vous avez besoin de connaître votre destinée. Ta-taru !${prompt}
   10251: |-
-    Oh, look who's back! Returned to help me spread the wonder of tarut cards across the realm, have you?
-    I see not-insignificantaru rewards in the future of the generous adventurer who says yes!${prompt}
+    Oh, regardez qui est de retour ! Revenu pour m'aider à répandre l'émerveillement des cartes tarut à travers le royaume, n'est-ce pas ?
+    Je vois des récompenses significatives dans l'avenir du généreux aventurier qui dit oui !${prompt}
   10252: |-
-    No, don't tell me...!
-    I sense this hasn't been your lucky-wucky week.${prompt}
+    Non, ne me dites pas... !
+    Je sens que ce n'a pas été votre semaine de chance.${prompt}
   10253: |-
-    Perhaps a new setaru of cards will change your fortunes.
-    Here you go, and may fate smile upon you!${prompt}
+    Peut-être qu'un nouvel ensemble de cartes changera votre destin.
+    Tenez, et que le destin vous sourie !${prompt}
   10254: |-
-    Hm? I got no business with the likes of you.
-    Now get outta here.${prompt}
+    Hm ? Je n'ai pas affaire à des gens comme vous.
+    Maintenant, dégagez d'ici.${prompt}
   10255: |-
-    Psst, you. Yeah, you.
-    I got a special deal for ya.${prompt}
+    Psst, toi. Ouais, toi.
+    J'ai une offre spéciale pour toi.${prompt}
   10256: |-
-    For a nominal fee, I can warp ya to some outta-the-way battlefield entrances. No questions asked.
-    Mind ya, I don't do this for just anyone, so ya'd better appreciate it.${prompt}
+    Pour une somme modique, je peux te téléporter à certaines entrées de champs de bataille éloignées. Pas de questions posées.
+    Mais écoute, je ne fais pas ça pour n'importe qui, alors tu ferais mieux d'apprécier.${prompt}
   10257: |-
-    As for gettin' back, you're on yer own.
-    I ain't runnin' a charity here, after all.${prompt}
+    Quant à revenir, tu te débrouilles tout seul.
+    Je ne dirige pas une œuvre de charité, après tout.${prompt}
   10258: |-
     Where ya headin' today?
     ${selection-lines}
@@ -25970,70 +25970,70 @@ entries:
   11273: |-
     The problem is what role can I have her play...
     Hmm... What if she played Chaos...?${prompt}
-  11274: You are now able to enjoy a new storyline, A Crystalline Prophecy.
+  11274: Vous pouvez désormais profiter d'une nouvelle histoire, Une Prophétie Cristalline.
   11275: |-
-    Start A Crystalline Prophecy?
+    Commencer Une Prophétie Cristalline ?
     ${selection-lines}
-    Yes (View cutscene).
-    Maybe later.${prompt}
-  11276: Examine the Tales' Beginning in Lower Jeuno (G-9) when you wish to start A Crystalline Prophecy.
-  11277: You are now able to enjoy a new storyline, A Shantotto Ascension.
+    Oui (Voir la scène).
+    Peut-être plus tard.${prompt}
+  11276: Examinez le Commencement des Contes à Jeuno Inférieur (G-9) lorsque vous souhaitez commencer Une Prophétie Cristalline.
+  11277: Vous pouvez désormais profiter d'une nouvelle histoire, Une Ascension de Shantotto.
   11278: |-
-    Start A Shantotto Ascension?
+    Commencer Une Ascension de Shantotto ?
     ${selection-lines}
-    Yes (View cutscene).
-    Maybe later.${prompt}
-  11279: Examine the Tales' Beginning in Windurst Walls (C-6) when you wish to start A Shantotto Ascension.
-  11280: You are now able to enjoy a new storyline, Abyssea.
+    Oui (Voir la scène).
+    Peut-être plus tard.${prompt}
+  11279: Examinez le Commencement des Contes à Murailles de Windurst (C-6) lorsque vous souhaitez commencer Une Ascension de Shantotto.
+  11280: Vous pouvez désormais profiter d'une nouvelle histoire, Abyssea.
   11281: |-
-    Start Abyssea?
+    Commencer Abyssea ?
     ${selection-lines}
-    Yes (View cutscene).
-    Maybe later.${prompt}
-  11282: Examine the Tales' Beginning in Port Jeuno (F-8) when you wish to start Abyssea.
-  11283: You are now able to enjoy a new storyline, Chains of Promathia.
+    Oui (Voir la scène).
+    Peut-être plus tard.${prompt}
+  11282: Examinez le Commencement des Contes à Port Jeuno (F-8) lorsque vous souhaitez commencer Abyssea.
+  11283: Vous pouvez désormais profiter d'une nouvelle histoire, Les Chaînes de Promathia.
   11284: |-
-    Start Chains of Prromathia?
+    Commencer Les Chaînes de Promathia ?
     ${selection-lines}
-    Yes (View cutscene).
-    Maybe later.${prompt}
-  11285: Examine the Tales' Beginning in Lower Delkfutt's Tower (H-10) when you wish to start Chains of Promathia.
-  11286: You are now able to enjoy a new storyline, Seekers of Adoulin.
+    Oui (Voir la scène).
+    Peut-être plus tard.${prompt}
+  11285: Examinez le Commencement des Contes à Tour de Delkfutt Inférieure (H-10) lorsque vous souhaitez commencer Les Chaînes de Promathia.
+  11286: Vous pouvez désormais profiter d'une nouvelle histoire, Les Chercheurs d'Adoulin.
   11287: |-
-    Start Seekers of Adoulin?
+    Commencer Les Chercheurs d'Adoulin ?
     ${selection-lines}
-    Yes (View cutscene).
-    Maybe later.${prompt}
-  11288: Examine the Tales' Beginning in Northern San d'Oria, Bastok Market,s or Windurst Woods when you wish to start Seekers of Adoulin.
-  11289: You are now able to enjoy a new storyline, Rhapsodies of Vana'diel.
+    Oui (Voir la scène).
+    Peut-être plus tard.${prompt}
+  11288: Examinez le Commencement des Contes à San d'Oria Nord, Marchés de Bastok, ou Bois de Windurst lorsque vous souhaitez commencer Les Chercheurs d'Adoulin.
+  11289: Vous pouvez désormais profiter d'une nouvelle histoire, Les Rhapsodies de Vana'diel.
   11290: |-
-    Start Rhapsodies of Vana'diel?
+    Commencer Les Rhapsodies de Vana'diel ?
     ${selection-lines}
-    Yes (View cutscene).
-    Maybe later.${prompt}
-  11291: Examine the Tales' Beginning in the three nations when you wish to start Rhapsodies of Vana'diel.
-  11292: You are now able to enjoy a new storyline, Rise of the Zilart.
+    Oui (Voir la scène).
+    Peut-être plus tard.${prompt}
+  11291: Examinez le Commencement des Contes dans les trois nations lorsque vous souhaitez commencer Les Rhapsodies de Vana'diel.
+  11292: Vous pouvez désormais profiter d'une nouvelle histoire, La Résurgence des Zilart.
   11293: |-
-    Start Rise of the zilart?
+    Commencer La Résurgence des Zilart ?
     ${selection-lines}
-    Yes (View cutscene).
-    Maybe later.${prompt}
-  11294: Examine the Tales' Beginning in Norg (H-9) when you wish to start Rise of the Zilart.
-  11295: Would you like to start a new storyline that you previously postponed?${prompt}
+    Oui (Voir la scène).
+    Peut-être plus tard.${prompt}
+  11294: Examinez le Commencement des Contes à Norg (H-9) lorsque vous souhaitez commencer La Résurgence des Zilart.
+  11295: Voulez-vous commencer une nouvelle histoire que vous aviez précédemment reportée ?${prompt}
   11296: |-
-    Start which?
+    Commencer laquelle ?
     ${selection-lines}
-    None for now.
-    Rise of the Zilart.
-    A Crystallinbe Prophecy.
-    A Shantotto Ascension.
-    Chains of Promathia.
+    Aucune pour l'instant.
+    La Résurgence des Zilart.
+    Une Prophétie Cristalline.
+    Une Ascension de Shantotto.
+    Les Chaînes de Promathia.
     Abyssea.
-    Seekers of Adoulin.
-    Rhapsodies of Vana'diel.${prompt}
-  11297: 'Start the previously postponed storyline ${choice: 0}[Rise of the Zilart/A Crystalline Prophecy/A Shantotto Ascenaion/Chains of Promthia/Abyssea/Seekers of Adoulin/Rhapsodies of Vana''diel]?${prompt}'
+    Les Chercheurs d'Adoulin.
+    Les Rhapsodies de Vana'diel.${prompt}
+  11297: 'Commencer l’histoire précédemment reportée ${choice: 0}[La Résurgence des Zilart/Une Prophétie Cristalline/Une Ascension de Shantotto/Les Chaînes de Promathia/Abyssea/Les Chercheurs d’Adoulin/Les Rhapsodies de Vana''diel] ?${prompt}'
   11298: |-
-    Start the storyline?
+    Commencer l'histoire ?
     ${selection-lines}
-    Yes, please.
-    No, thank you.${prompt}
+    Oui, s'il vous plaît.
+    Non, merci.${prompt}
