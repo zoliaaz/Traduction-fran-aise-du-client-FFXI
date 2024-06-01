@@ -17635,19 +17635,19 @@ entries:
   7140: |-
     Goodness g-g-gracious me!
     The energy within is threatening to b-b-burst forth! It won't be long now, hee hee hee...${prompt}
-  7141: You've done it! Energy is overflowing as though the floodg-g-gates have burst open!${prompt}
-  7142: 'Using the surplus energy from the ${item-singular: 8[2]}, I will imbue a new power within you. This might sting a little, hee hee hee!${prompt}'
-  7143: Each step brings me closer to being reinstated to my post in the Imperial Court. Ahee hee hee...${prompt}
-  7144: 'You have learned the weapon skill “${choice: 0}[Nothing/King''s Justice/Ascetic''s Fury/Mystic Boon/Vidohunir/Death Blossom/Mandalic Stab/Atonement/Insurgency/Primal Rend/Mordant Rime/Trueflight/Tachi: Rana/Blade: Kamu/Drakesbane/Garland of Bliss/Expiacion/Leaden Salute/Stringing Pummel/Pyrrhic Kleos/Omniscience]”!${prompt}'
-  7145: Hey, how ya doin'? We got the best junk in town.${prompt}
-  7146: Welcome to Waag-Deeg's Magic Shop.${prompt}
-  7147: Welcome to Othon's Garments.${prompt}
-  7148: Welcome to the Merry Minstrel's Meadhouse. What'll it be?${prompt}
-  7149: Here at Gems by Kshama, we aim to please.${prompt}
-  7150: Welcome to the Tenshodo.${prompt}
-  7151: Hello.${prompt}
-  7152: Howdy! Thanks for visiting the Chocobo Shop!${prompt}
-  7153: Hi, there! I've got produce from Valdeaunia.${prompt}
+  7141: Tu l'as fait ! L'énergie déborde comme si les écluses s'étaient ouvertes !${prompt} 
+  7142: 'En utilisant le surplus d’énergie du ${item-singular: 8[2]}, je vais insuffler un nouveau pouvoir en toi. Cela pourrait piquer un peu, hihi !${prompt}'
+  7143: Chaque étape me rapproche de ma réintégration à la cour impériale. Ahee hee hee...${prompt}
+  7144: 'Vous avez appris la technique de l’arme « ${choice: 0}[Aucune/Justice du Roi/Furie Ascétique/Don Mystique/Vidohunir/Fleur de la Mort/Coup Mandalique/Expiation/Insurrection/Rendement Primitif/Rime Mordante/Vol Vrai/Tachi: Rana/Lame : Kamu/Destructeur de Dragon/Garland de Félicité/Expiation/Salve de Plomb/Pummel de Corde/Kleos Pyrrique/Omniscience] » !${prompt}'
+  7145: Salut, comment ça va ? Nous avons les meilleures babioles en ville.${prompt}
+  7146: Bienvenue à la boutique de magie de Waag-Deeg.${prompt}
+  7147: Bienvenue chez Othon's Garments.${prompt}
+  7148: Bienvenue à la Taverne du Joyeux Ménestrel. Que désirez-vous ?${prompt}
+  7149: Chez Gems par Kshama, nous visons à plaire.${prompt}
+  7150: Bienvenue au Tenshodo.${prompt}
+  7151: Bonjour.${prompt}
+  7152: Salut ! Merci de visiter la Boutique Chocobo !${prompt}
+  7153: Bonjour ! J'ai des produits de Valdeaunia.${prompt}
   7154: |-
     En Haut : Haut-Jeuno (${selection-lines}
     face à San d'Oria)
@@ -18175,7 +18175,7 @@ entries:
     ${selection-lines}
     Montrez-moi vos marchandises.
     Ça va, merci.
-       ${prompt}
+          ${prompt}
   7604: Bonne journée.${prompt}
   7605: Les voyageurs ordinaires ne demandent pas pour le Tenshodo. Vous voulez vraiment savoir ? Très bien, laissez-moi vous expliquer.${prompt}
   7606: Le Tenshodo est une organisation commerciale, euh, spéciale, fondée il y a des années par le père du Grand Maître Aldo. Nous ne menons des échanges qu'avec nos membres exclusifs.${prompt}
@@ -18235,79 +18235,79 @@ entries:
   7644: |-
     You people are all the same--Greedaloxes! The whole stinkin' lot of ya!
     But, ya know, I never can turn down a tasty business proposal.${prompt}
-  7645: You hook me up with the following goods, and I'll throw ya together a bag so big, it can double as a summer home!${prompt}
-  7646: So, ya want me to bag that bag of yours bigger in exchange for this? How'd ya know what we goblins like?${prompt}
-  7647: We goblins aren't inta that kinda trading. Not like the lot of ya, with all your stuff and your things.${prompt}
-  7648: '...Okay, but just this once.${prompt}'
-  7649: Hey, we're fixin' up some stew. Gobbie food's good food!${prompt}
-  7650: I knew that wild chocobos smell, but even domesticated ones reek terribly!${prompt}
-  7651: Don't say thataru! The chocobo'll get mad.${prompt}
-  7652: Nonsense! Chocobos cannot understand us.${prompt}
-  7653: Uh-oh...${prompt}
-  7654: What is it?${prompt}
-  7655: Yaaah!${prompt}
-  7656: Why, that chocobo bit me! Curse him and all his flock!${prompt}
-  7657: I like how chocobos smell.${prompt}
-  7658: That man from the chocobo corral sure was scary.${prompt}
-  7659: He started yelling at the chocobos for no reason. I'm sure they were terrified of him.${prompt}
-  7660: But he obviously loves his son a lot. How strange...${prompt}
-  7661: I heard that poor chocobo master's son got sick. Now he's got to watch over both his son and his chocobos. Poor guy...${prompt}
-  7662: Did you hear? He lost his wife after she got sick a long time ago. He was so poor, he couldn't afford any medicine for her.${prompt}
-  7663: He got so scary after she died.${prompt}
-  7664: I heard that the chocobo master's son got better. Sometimes I hear him laughing again.${prompt}
-  7665: I'm so surprised. That chocobo master doesn't get angry at the chocobos anymore. I hope he stays that way forever.${prompt}
-  7666: Yeah, really!${prompt}
-  7667: This leads straight to the pier, where we launch ships overseas.${prompt}
-  7668: Our boss has dreamed of sailing all over the world. To him, this business is just something he promised his dad he'd do.${prompt}
-  7669: 'Oh, you want ${keyitem-article: 6[2]}, do ya? Sorry, but we ain''t comfortable doin'' business with ya. Come back once you''ve made a name for yourself.${prompt}'
-  7670: 'So, you''re looking for ${keyitem-article: 6[2]}? Beastmen have all the trade routes shut tight for now.${prompt}'
-  7671: But not Tenshodo! We always got the hard-to-find goods in stock. Come on, let's make a deal.${prompt}
-  7672: 'Right now, we''re looking for ${article} ${item-article: 7[2]}. Get us one, and the ${keyitem-singular: 6[2]} is yours. Whaddaya say?${prompt}'
-  7673: Well, look what we have here... Alrighty, here you go, pal!${prompt}
-  7674: Hey, have you seen Lady Verena around? She usually doesn't stay out this late...${prompt}
-  7675: Lion came, so something must be up. I'd like to get out there and do some fighting myself, but I'm stuck here until Boss gives the order.${prompt}
-  7676: I couldn't believe it when Boss came back carrying Lady Verena. He looked like he had been run over by a stampede of chocobos.${prompt}
-  7677: I wonder what the hell happened up there at Delkfutt's Tower... No, on second thought, don't tell me. I don't want to know.${prompt}
-  7678: Lately, Boss has got that look in his eyes... You know, the one that makes your spine tingle with fear.${prompt}
+  7645: Tu veux que je t'aide avec ces marchandises, et je te ferai un sac tellement grand qu'il pourrait servir de résidence d'été !${prompt}
+  7646: Alors, tu veux que je fasse ton sac plus grand en échange de ça ? Comment savais-tu ce que nous, les gobelins, aimons ?${prompt}
+  7647: Nous, les gobelins, nous ne sommes pas dans ce genre d'échanges. Pas comme vous autres, avec toutes vos affaires et vos choses.${prompt}
+  7648: '...D’accord, mais juste cette fois.${prompt}'
+  7649: Hé, nous cuisinons un ragoût. La nourriture gobeline, c'est de la bonne nourriture !${prompt}
+  7650: Je savais que les chocobos sauvages sentent mauvais, mais même les domestiqués puent terriblement !${prompt}
+  7651: Ne dis pas ça ! Le chocobo va se fâcher.${prompt}
+  7652: N'importe quoi ! Les chocobos ne peuvent pas nous comprendre.${prompt}
+  7653: Oh-oh...${prompt}
+  7654: Qu'est-ce qui se passe ?${prompt}
+  7655: Yaaah !${prompt}
+  7656: Pourquoi, ce chocobo m'a mordu ! Maudissez-le, lui et tout son troupeau !${prompt}
+  7657: J'aime l'odeur des chocobos.${prompt}
+  7658: Cet homme de l'enclos à chocobos était vraiment effrayant.${prompt}
+  7659: Il a commencé à crier sur les chocobos pour aucune raison. Je suis sûr qu'ils étaient terrifiés par lui.${prompt}
+  7660: Mais il aime évidemment beaucoup son fils. C'est étrange...${prompt}
+  7661: J'ai entendu dire que le pauvre fils du maître chocobo était tombé malade. Maintenant, il doit veiller sur son fils et ses chocobos. Pauvre type...${prompt}
+  7662: Tu as entendu ? Il a perdu sa femme après qu'elle soit tombée malade il y a longtemps. Il était si pauvre qu'il ne pouvait pas se permettre de lui acheter des médicaments.${prompt}
+  7663: Il est devenu si effrayant après sa mort.${prompt}
+  7664: J'ai entendu dire que le fils du maître chocobo allait mieux. Parfois, je l'entends rire à nouveau.${prompt}
+  7665: Je suis tellement surpris. Ce maître chocobo ne s'énerve plus contre les chocobos. J'espère qu'il restera ainsi pour toujours.${prompt}
+  7666: Oui, vraiment !${prompt}
+  7667: Ce chemin mène droit vers le quai, où nous lançons des navires à l'étranger.${prompt}
+  7668: Notre patron rêve de naviguer partout dans le monde. Pour lui, cette entreprise est simplement quelque chose qu'il a promis à son père de faire.${prompt}
+  7669: 'Oh, tu veux ${keyitem-article: 6[2]}, hein ? Désolé, mais nous ne sommes pas à l’aise de faire affaire avec toi. Reviens une fois que tu t’es fait un nom.${prompt}'
+  7670: 'Alors, tu cherches ${keyitem-article: 6[2]} ? Les bêtes bloquent tous les itinéraires commerciaux pour l’instant.${prompt}'
+  7671: Mais pas Tenshodo ! Nous avons toujours en stock les marchandises difficiles à trouver. Allez, faisons affaire.${prompt}
+  7672: 'En ce moment, nous cherchons ${article} ${item-article: 7[2]}. Apporte-nous-en un, et le ${keyitem-singular: 6[2]} est à toi. Qu’est-ce que tu en dis ?${prompt}'
+  7673: Eh bien, regarde ce que nous avons ici... D'accord, voilà, mon pote !${prompt}
+  7674: Hé, as-tu vu Lady Verena quelque part ? Elle ne reste généralement pas dehors aussi tard...${prompt}
+  7675: Lion est venu, donc quelque chose doit se tramer. J'aimerais sortir là-bas et me battre moi-même, mais je suis coincé ici jusqu'à ce que le Boss donne l'ordre.${prompt}
+  7676: Je n'arrivais pas à croire quand le Boss est revenu en portant Lady Verena. Il avait l'air d'avoir été écrasé par un troupeau de chocobos.${prompt}
+  7677: Je me demande ce qui s'est passé là-haut à la Tour de Delkfutt... Non, à y réfléchir, ne me le dis pas. Je ne veux pas le savoir.${prompt}
+  7678: Dernièrement, le patron a ce regard dans les yeux... Vous savez, celui qui vous fait frissonner de peur.${prompt}
   7679: |-
-    Well, all's well that ends well.
-    I like you and all, but just between you and me, I'm against you joining us. I don't want to have to compete against an adventurer of your caliber!${prompt}
-  7680: Watch your back. Our boss, Aldo, is a rrreal pirate. I can be quite a scoundrel, too, but I ain't nothing compared to him.${prompt}
-  7681: You follow me, ${choice-player-gender}[mister/lady]? Whenever Aldo's deep in thought, it's best to just look the other way.${prompt}
-  7682: After all, he's seen hell with those eyes. Of course, lots of people suffered in the wars twenty years ago, but most of them never came back.${prompt}
-  7683: Somehow Verena seems different than the other girls. Some folks say she can rrread animals' minds.${prompt}
-  7684: She's a fine chocobo rrrider, and unlike my boss, she gets along fine with those beastmen. Those two always fight about that.${prompt}
-  7685: Hey, you made it through! Thanks for the package. Now, go back and get paid.${prompt}
-  7686: Hey, you made it through! But look at this junk. It's trash! Next time go easier on the goods, okay?${prompt}
-  7687: 'You have completed your delivery of the ${keyitem-singular: 0[2]}.${prompt}'
-  7688: 'Due to extensive damage, the ${keyitem-singular: 0[2]} are thrown away.${prompt}'
-  7689: Hey, did you hear? Verena is missing and our boss is in a mess over it. If you ask me, I think they just had another one of their sibling quarrels.${prompt}
-  7690: The other day when Lion came, she was in and out of here like a white rrrabbit on a full moon. I wonder what she could be up to?${prompt}
-  7691: Verena was at Delkfutt's Tower!? And I thought that she and the boss had just had a fight... Boy, am I an idiot!${prompt}
-  7692: Boss is talking about setting off on some adventure. You're going too, aren't you? It must be something rrreally big if they didn't ask me to come along.${prompt}
-  7693: I can't do much for you, but good luck out there. Wouldn't want to see you lose any of your nine lives.${prompt}
-  7694: Welcome back. From the looks of it, you had a pretty tough time out there... But that's about all I know. Boss never tells us about anything that goes on...${prompt}
+    Tout est bien qui finit bien.
+    Je t'aime bien et tout, mais entre nous, je suis contre le fait que tu te joignes à nous. Je ne veux pas avoir à me mesurer à un aventurier de ton calibre!${prompt}
+  7680: Surveillez vos arrières. Notre patron, Aldo, est un vrai pirate. Je peux être un sacré vaurien aussi, mais je ne suis rien comparé à lui.${prompt}
+  7681: Vous me suivez, ${choice-player-gender}[monsieur/madame]? Quand Aldo est perdu dans ses pensées, il vaut mieux regarder ailleurs.${prompt}
+  7682: Après tout, il a vu l'enfer de ses propres yeux. Bien sûr, beaucoup de gens ont souffert pendant les guerres il y a vingt ans, mais la plupart d'entre eux ne sont jamais revenus.${prompt}
+  7683: D'une certaine manière, Verena semble différente des autres filles. Certains disent qu'elle peut lire les pensées des animaux.${prompt}
+  7684: C'est une excellente cavalière de chocobo, et contrairement à mon patron, elle s'entend bien avec les hommes-bêtes. Ces deux-là se disputent toujours à ce sujet.${prompt}
+  7685: Hé, tu as réussi ! Merci pour le colis. Maintenant, retourne te faire payer.${prompt}
+  7686: Hé, tu as réussi ! Mais regarde cette camelote. C'est de la poubelle ! La prochaine fois, prends plus soin des marchandises, d'accord ?${prompt}
+  7687: 'Vous avez complété la livraison de ${keyitem-singular: 0[2]}.${prompt}'
+  7688: 'En raison des dégâts importants, ${keyitem-singular: 0[2]} sont jetés.${prompt}'
+  7689: Hé, tu as entendu ? Verena a disparu et notre patron est dans tous ses états à cause de ça. Si tu veux mon avis, je pense qu'ils ont juste eu une autre de leurs querelles fraternelles.${prompt}
+  7690: L'autre jour, quand Lion est venue, elle est entrée et sortie d'ici comme un lapin blanc par une nuit de pleine lune. Je me demande ce qu'elle mijote ?${prompt}
+  7691: Verena était à la tour de Delkfutt!? Et moi qui pensais qu'elle et le patron s'étaient juste disputés... Quel idiot je suis !${prompt}
+  7692: Le patron parle de partir à l'aventure. Tu y vas aussi, n'est-ce pas ? Ça doit être quelque chose de vraiment gros s'ils ne m'ont pas demandé de venir.${prompt}
+  7693: Je ne peux pas faire grand-chose pour toi, mais bonne chance là-bas. Je ne voudrais pas te voir perdre une de tes neuf vies.${prompt}
+  7694: Bon retour. À en juger par ton apparence, tu as eu des moments difficiles là-bas... Mais c'est à peu près tout ce que je sais. Le patron ne nous dit jamais rien de ce qui se passe...${prompt}
   7695: |-
-    But as long as you are okay...
-    Ahem! Don't be a stranger, ${name-player}!${prompt}
-  7696: If only Lion were okay, as well...${prompt}
-  7697: Welcome to the Tenshodo. You want something, we got it. We got all kinds of special merchandise you won't find anywhere else!${prompt}
-  7698: We ain't cheap, but you get what you pay for! Take your time, have a look around, see if there's somethin' you like.${prompt}
-  7699: Our boss looks all hairy-scary, but he caves in to his sister Verena all the time.${prompt}
-  7700: Verena's a really nice girl. We all think she's super-duper swell.${prompt}
-  7701: But don't you lay a single-wingle finger on her. People who do... Well, they have a tendency to be found dead, floating off the pier. So please, keep that in mind.${prompt}
-  7702: 'Wait, so all you got from Aldo was ${keyitem-article: 0[2]}? Kinda stingy-winjy of him, don''t you think?${prompt}'
-  7703: 'There''s a place in Beadeaux where you need ${keyitem-article: 4[2]} and ${keyitem-article: 6[2]} just to get in. If you want, we can try to hook you up.${prompt}'
-  7704: 'Tell you what. I''ll trade you ${keyitem-article: 4[2]} for ${article} ${item-article: 5[2]}, and I''ll let you have ${keyitem-article: 6[2]} if you find me ${article} ${item-article: 7[2]}.${prompt}'
-  7705: Okey-dokey, here you go.${prompt}
-  7706: Hey, how'd you know we were lookin' for this? Well, anyway... Here you go!${prompt}
-  7707: Okey-dokey, here you go.${prompt}
-  7708: Hey, how'd you know we were lookin' for this? Well, anyway... Here you go!${prompt}
-  7709: I'm shocked... I'm stunned... I can't believe that Lady-wady Verena is missing. If I had the time, I'd be out there searching...${prompt}
-  7710: If anything happened to her, what would I do!?${prompt}
-  7711: That cutie-wootie Lion was here the other day talking to the boss. A lucky man, he is...${prompt}
-  7712: Lady-wady Verena is back, but she's not doing that good... What did she do to deserve this!?${prompt}
-  7713: What happened in Delkfutt's Tower!? You can tell me, we're buddy-wuddies!${prompt}
+    Mais tant que tu vas bien...
+    Hum ! Ne sois pas un étranger, ${name-player}!${prompt}
+  7696: Si seulement Lion allait bien aussi...${prompt}
+  7697: Bienvenue au Tenshodo. Vous cherchez quelque chose, nous l'avons. Nous avons toutes sortes de marchandises spéciales que vous ne trouverez nulle part ailleurs !${prompt}
+  7698: Nous ne sommes pas bon marché, mais vous en avez pour votre argent ! Prenez votre temps, jetez un coup d'œil, voyez s'il y a quelque chose qui vous plaît.${prompt}
+  7699: Notre patron a l'air effrayant, mais il cède toujours à sa sœur Verena.${prompt}
+  7700: Verena est une fille vraiment gentille. Nous pensons tous qu'elle est super chouette.${prompt}
+  7701: Mais ne posez pas un seul doigt sur elle. Les gens qui le font... Eh bien, ils ont tendance à être retrouvés morts, flottant au large de la jetée. Alors, gardez cela à l'esprit.${prompt}
+  7702: 'Attends, tout ce que tu as eu d’Aldo, c’est ${keyitem-article: 0[2]} ? Un peu radin de sa part, tu ne trouves pas ?${prompt}'
+  7703: 'Il y a un endroit à Beadeaux où vous avez besoin de ${keyitem-article: 4[2]} et de ${keyitem-article: 6[2]} juste pour entrer. Si vous voulez, on peut essayer de vous arranger ça.${prompt}'
+  7704: 'Je te propose un marché. Je te donne ${keyitem-article: 4[2]} en échange de ${article} ${item-article: 5[2]}, et je te laisserai avoir ${keyitem-article: 6[2]} si tu me trouves ${article} ${item-article: 7[2]}.${prompt}'
+  7705: Okidoki, voilà.${prompt}
+  7706: Hé, comment as-tu su que nous cherchions ça ? Bon, de toute façon... Voilà !${prompt}
+  7707: Okidoki, voilà.${prompt}
+  7708: Hé, comment as-tu su que nous cherchions ça ? Bon, de toute façon... Voilà !${prompt}
+  7709: Je suis choqué... Je suis abasourdi... Je ne peux pas croire que Lady Verena soit disparue. Si j'avais le temps, je serais dehors à chercher...${prompt}
+  7710: Si quelque chose lui arrivait, que ferais-je ?${prompt}
+  7711: Cette adorable Lion était ici l'autre jour, parlant avec le patron. Un homme chanceux, il est...${prompt}
+  7712: Lady Verena est de retour, mais elle ne va pas très bien... Qu'a-t-elle fait pour mériter ça ?${prompt}
+  7713: Que s'est-il passé dans la tour de Delkfutt ? Tu peux me le dire, nous sommes amis !${prompt}
   7714: |-
     Tell him about what happened?
     ${selection-lines}
@@ -21632,173 +21632,173 @@ entries:
     What's going on?
     The boss is walking around like he's seen the Gates of Paradise, or something.${prompt}
   9509: |-
-    He always gets like that when you're around.
-    I don't get it, you don't look that special to me.
-    It's starting to give me the heebie-jeebies...${prompt}
-  9510: Being part of the Tenshodo means you'll sell your soul for the right amount of gil.${prompt}
-  9511: Besides, taking risks is good for business, I always say.${prompt}
-  9512: This time, we 'ave got quite a special customer, so we can't go prattling off about the details of their request to just anyone.${prompt}
-  9513: Getting wind of such a thing could make our client a mite angry, and we certainly wouldn't want that.${prompt}
-  9514: That's why I 'ave been mixing up the orders with random bits o' information and givin' out mere snippets at a time. Those o' you with sense should be able to put it all together, is what I think.${prompt}
-  9515: I dare say I think you may fit into tha' category, as well.${prompt}
+    Il est toujours comme ça quand tu es là.
+    Je ne comprends pas, tu n'as pas l'air si spécial pour moi.
+    Ça commence à me donner la chair de poule...${prompt}
+  9510: Faire partie des Tenshodo signifie que tu vendrais ton âme pour la bonne somme de gil.${prompt}
+  9511: De plus, prendre des risques est bon pour les affaires, je dis toujours.${prompt}
+  9512: Cette fois, nous avons un client très spécial, alors nous ne pouvons pas révéler les détails de sa demande à n'importe qui.${prompt}
+  9513: Si cela venait à se savoir, notre client pourrait se mettre en colère, et nous ne voudrions certainement pas cela.${prompt}
+  9514: C'est pourquoi j'ai mélangé les commandes avec des informations aléatoires et donné de simples bribes à la fois. Ceux qui ont du sens devraient pouvoir tout assembler, à mon avis.${prompt}
+  9515: Je dirais que tu pourrais aussi appartenir à cette catégorie.${prompt}
   9516: |-
-    Anyway, that's how things are standing at the moment.
-    Well, what need you? Speak up now.${prompt}
+    Quoi qu'il en soit, c'est ainsi que les choses se présentent pour le moment.
+    Eh bien, que veux-tu ? Parle maintenant.${prompt}
   9517: |-
-    Ask about what?
+    Demander à propos de quoi ?
     ${selection-lines}
-    Goods for sale.
-    Nothing.
+    Marchandises à vendre.
+    Rien.
      ${prompt}
   9518: |-
-    Looks like I was wrong about you.
-    Anyway, if you want to buy goods, hop on over to Ghebi Damomohe at the entrance or jus' talk to the two at the counter.${prompt}
-  9519: That's all I have t' say to you. Now get out o' here and let me do my business in peace.${prompt}
-  9520: If you do not need anything, wha' in blazes are you doing hangin' about here in the first place?${prompt}
+    On dirait que je me suis trompé à ton sujet.
+    Quoi qu'il en soit, si tu veux acheter des marchandises, va voir Ghebi Damomohe à l'entrée ou parle juste aux deux au comptoir.${prompt}
+  9519: C'est tout ce que j'ai à te dire. Maintenant, sors d'ici et laisse-moi faire mes affaires en paix.${prompt}
+  9520: Si tu n'as besoin de rien, que fais-tu donc ici à traîner dans les parages ?${prompt}
   9521: |-
-    Why, I must say you're even brighter than you look.
-    You got 'ere the same way, didn't you?${prompt}
-  9522: 'Lately, people ''ave been strewing about ${item-plural: 0[2]} like there''s no tomorrow, so a lot o'' Tenshodo members don''t know that trick.${prompt}'
-  9523: O' course, me and the boss are on a whole different plane o' thinking.${prompt}
-  9524: Still, the notion of “seeing the unseen” was one o' the main draws of the Tenshodo for me in the beginning. I've got high hopes for you...${prompt}
-  9525: Eh?${prompt}
-  9526: Ah, sorry. I left out the most important part, didn't I? Sorry t' leave you hanging there.${prompt}
+    Eh bien, je dois dire que tu es encore plus intelligent que tu n'en as l'air.
+    Tu es arrivé ici de la même manière, n'est-ce pas ?${prompt}
+  9522: 'Dernièrement, les gens ont éparpillé des ${item-plural: 0[2]} comme s’il n’y avait pas de lendemain, donc beaucoup de membres du Tenshodo ne connaissent pas ce tour.${prompt}'
+  9523: Bien sûr, moi et le patron sommes sur un tout autre plan de réflexion.${prompt}
+  9524: Pourtant, la notion de « voir l'invisible » était l'une des principales attractions du Tenshodo pour moi au début. J'ai de grands espoirs pour toi...${prompt}
+  9525: Hein ?${prompt}
+  9526: Ah, désolé. J'ai laissé de côté la partie la plus importante, n’est-ce pas ? Désolé de te laisser en suspens.${prompt}
   9527: |-
-    Um... What was I saying, again?
-    Oh, yeah...the Empire of Aht Urhgan. You want t' see the Near East, don't you? I can see it in your eyes.${prompt}
+    Euh... Qu'est-ce que je disais, déjà ?
+    Oh, oui... l'Empire d'Aht Urhgan. Tu veux voir le Proche-Orient, n'est-ce pas ? Je le vois dans tes yeux.${prompt}
   9528: |-
-    How does Aht Urhgan sound to you?
+    Que penses-tu d'Aht Urhgan ?
     ${selection-lines}
-    I want to go!
-    Psh, not interested.
+    Je veux y aller !
+    Bof, pas intéressé.
      ${prompt}
-  9529: Heheh, I appreciate your honesty.${prompt}
-  9530: Is 'at so? That's all I 'ave to say to you then, so get out o' here.${prompt}
-  9531: Well, aren't you clever? But once is enough. Seriously.${prompt}
-  9532: Anyway, that's enough batting aroun' the bush for now. Let's dig straight in t' the juicy details, shall we?${prompt}
-  9533: You know the ships at Mhaura used t' transport prospective mercenaries to the Near East? If you want t' climb aboard one o' those vessels, you 'ave got to go through none other than the Tenshodo here.${prompt}
-  9534: We received a request from the Empire 'erself. Getting those ships t' port was a royal pain. We finally managed t' bargain a cheap price on some rickety old vessels, and...${prompt}
-  9535: And you don't care. Sorry abou' that. A man's got to vent sometimes.${prompt}
-  9536: Anyway, you should know by now how things work around 'ere. If you want something, you 'ave to bring me something I want, first.${prompt}
-  9537: If you aren't in the mood t' scavenge up what I want, you can always cough up gil instead. O' course, that would be quickest.${prompt}
-  9538: Let's make this explanation brief, shall we?${prompt}
-  9539: You see, prices are a mite different in the Near East. Something that sells for a gil a dozen here might be a luxury item in Aht Urhgan.${prompt}
+  9529: Heheh, j'apprécie ton honnêteté.${prompt}
+  9530: Est-ce que c'est ça ? C'est tout ce que j'ai à te dire alors, sors d'ici.${prompt}
+  9531: Eh bien, n'es-tu pas intelligent ? Mais une fois, c'est suffisant. Sérieusement.${prompt}
+  9532: Quoi qu'il en soit, assez tourné autour du pot pour l'instant. Passons directement aux détails croustillants, d'accord ?${prompt}
+  9533: Tu sais que les navires à Mhaura transportaient autrefois des mercenaires potentiels vers le Proche-Orient ? Si tu veux monter à bord de l'un de ces navires, tu dois passer par le Tenshodo ici.${prompt}
+  9534: Nous avons reçu une demande de l'Empire elle-même. Faire accoster ces navires était un véritable casse-tête. Nous avons finalement réussi à négocier un prix avantageux sur quelques vieux navires délabrés, et...${prompt}
+  9535: Et tu t'en fiches. Désolé pour ça. Un homme doit parfois se défouler.${prompt}
+  9536: Quoi qu'il en soit, tu devrais savoir maintenant comment les choses fonctionnent ici. Si tu veux quelque chose, tu dois d'abord m'apporter quelque chose que je veux.${prompt}
+  9537: Si tu n'as pas envie de chercher ce que je veux, tu peux toujours donner des gils à la place. Bien sûr, ce serait plus rapide.${prompt}
+  9538: Rendons cette explication brève, d'accord ?${prompt}
+  9539: Tu vois, les prix sont un peu différents au Proche-Orient. Quelque chose qui se vend une gil la douzaine ici pourrait être un article de luxe à Aht Urhgan.${prompt}
   9540: |-
-    Jumping straigh' to the point, now.
-    I want you t' bring me some common items from this side o' Vana'diel, and I'll give you the ${keyitem-singular: 0[2]} in exchange.${prompt}
-  9541: The more you bring me, the better. I 'ave put together a few lists if you'd like to take a look. I will leave it t' you which to bring me.${prompt}
+    Passons directement au but, maintenant.
+    Je veux que tu m'apportes des articles courants de ce côté de Vana'diel, et je te donnerai ${keyitem-singular: 0[2]} en échange.${prompt}
+  9541: Plus tu m'apportes, mieux c'est. J'ai préparé quelques listes si tu veux y jeter un œil. Je te laisse choisir quoi m'apporter.${prompt}
   9542: |-
-    Ah yes, and there is gil, too. Righto.
-    You can buy your way out if you choose.${prompt}
-  9543: 'If you decide t'' go the gil route, I will need ${number: 0} gil up front. That''s nothing for adventurers nowadays, righ''? You can also consider it your price o'' failure, heheh.${prompt}'
+    Ah oui, et il y a aussi les gils, bien sûr.
+    Tu peux acheter ton passage si tu choisis cette option.${prompt}
+  9543: 'Si tu choisis la route des gils, j’aurai besoin de ${number: 0} gils à l’avance. Ce n’est rien pour les aventuriers de nos jours, n’est-ce pas ? Tu peux aussi considérer cela comme le prix de ton échec, heheh.${prompt}'
   9544: |-
-    So what'll it be?
-    I'll read the list now, so decide which set is in your budget and make a note o' what you need.${prompt}
+    Alors, qu'est-ce que ce sera ?
+    Je vais lire la liste maintenant, décide quel ensemble est dans ton budget et prends note de ce dont tu as besoin.${prompt}
   9545: |-
-    What'll it be?
+    Qu'est-ce que ce sera ?
     ${selection-lines}
-    Beginner list.
-    Intermediate list.
-    Advanced list.
-    Pay the ${number: 0} gil.
-    Please explain again.
-    Let me think about it.${prompt}
-  9546: It's going t' take you some work if you want to go to Aht Urhgan, but you cannot get there through anyone but us.${prompt}
+    Liste débutant.
+    Liste intermédiaire.
+    Liste avancée.
+    Payer les ${number: 0} gils.
+    Veuillez expliquer à nouveau.
+    Laisse-moi réfléchir.${prompt}
+  9546: Ça va te demander du travail si tu veux aller à Aht Urhgan, mais tu ne peux pas y aller autrement que par nous.${prompt}
   9547: Heh heh heh...${prompt}
   9548: |-
-    The advanced list, eh? A superb choice. The items on this list are few, so they should fit nicely in your bag, but they are quite difficult t' come by.
-    You can choose from the following:${prompt}
-  9549: One coffer key from a beastman stronghold--Davoi, Beadeaux, Castle Oztroja, the Temple of Uggalepih, the Den of Rancor, the Quicksand Caves, or the Sea Serpent Grotto.${prompt}
-  9550: A “testimony.” Those ancient scraps of papyrus seem t' be quite popular with collectors these days. I don't know all the details, but apparently there's a testimony for any o' the jobs an adventurer can be. Anyway, I just need one.${prompt}
-  9551: Your last option is t' bring me chips from Pso'Xja.${prompt}
-  9552: 'I''ll need a set o'' those, though. You''ll ''ave to bring me ${article} ${item-article: 0[2]}, ${article} ${item-article: 1[2]}, and ${article} ${item-article: 2[2]}, all three.${prompt}'
+    La liste avancée, hein ? Un choix superbe. Les articles sur cette liste sont peu nombreux, donc ils devraient bien tenir dans ton sac, mais ils sont assez difficiles à trouver.
+    Tu peux choisir parmi les suivants:${prompt}
+  9549: Une clé de coffre provenant d'un bastion des hommes-bêtes--Davoi, Beadeaux, Château Oztroja, le Temple d'Uggalepih, la Tanière du Rancor, les Cavernes de Sable, ou la Grotte du Serpent de Mer.${prompt}
+  9550: Un “témoignage”. Ces vieux morceaux de papyrus semblent être très populaires auprès des collectionneurs ces jours-ci. Je ne connais pas tous les détails, mais apparemment, il existe un témoignage pour chacun des métiers d'un aventurier. Quoi qu'il en soit, j'ai juste besoin d'un seul.${prompt}
+  9551: Ta dernière option est de m'apporter des fragments de Pso'Xja.${prompt}
+  9552: 'J’aurai besoin d’un ensemble de ceux-ci, cependant. Tu devras m’apporter ${article} ${item-article: 0[2]}, ${article} ${item-article: 1[2]}, et ${article} ${item-article: 2[2]}, les trois.${prompt}'
   9553: |-
-    That's it for the advanced list.
-    You can bring me any one o' the above requests, but if you decide t' bring Pso'Xja chips, I'll need 'em in a set o' three.${prompt}
+    C'est tout pour la liste avancée.
+    Tu peux m'apporter l'une des requêtes ci-dessus, mais si tu décides d'apporter des fragments de Pso'Xja, il me les faudra en lot de trois.${prompt}
   9554: |-
-    Intermediate, eh?
-    This one is quite a bother.${prompt}
-  9555: Beastmen 'ave been a real plague t' the Near East as of late. Not that we haven't been having problems here, too.${prompt}
-  9556: But anyway, the situation 'as driven up the demand for beastman spoils.${prompt}
-  9557: 'I want you t'' bring me ${article} ${item-article: 0[2]}, ${article} ${item-article: 1[2]}, and ${article} ${item-article: 2[2]}.${prompt}'
-  9558: The beastmen have been using those t' relay orders. I require all three.${prompt}
+    Intermédiaire, hein ?
+    Celle-ci est assez ennuyeuse.${prompt}
+  9555: Les hommes-bêtes ont été un vrai fléau pour le Proche-Orient ces derniers temps. Non pas que nous n'ayons pas eu de problèmes ici aussi.${prompt}
+  9556: Mais quoi qu'il en soit, la situation a fait monter la demande pour les dépouilles des hommes-bêtes.${prompt}
+  9557: 'Je veux que tu m’apportes ${article} ${item-article: 0[2]}, ${article} ${item-article: 1[2]}, et ${article} ${item-article: 2[2]}.${prompt}'
+  9558: Les hommes-bêtes les utilisent pour relayer des ordres. J’ai besoin des trois.${prompt}
   9559: |-
-    That's all for the intermediate list.
-    It may sound simple, but those items are scattered all about the strongholds and are rather difficult t' get a hold of.${prompt}
-  9560: You say you want t' go to Aht Urhgan, but you're too big o' a coward to face a challenge, eh? That attitude will get you nowhere in the Empire, I tell you. Ah well, it's all the same t' me, as long as I make a profit.${prompt}
-  9561: This will be more like running errands, but there are a lot o' things for you to collect on this list.${prompt}
-  9562: 'There are a lot o'' curious items here. I need you to bring me ${article} ${item-article: 0[2]}, ${article} ${item-article: 1[2]}, and ${article} ${item-article: 2[2]}.${prompt}'
+    C'est tout pour la liste intermédiaire.
+    Cela peut sembler simple, mais ces objets sont dispersés dans tous les bastions et sont assez difficiles à obtenir.${prompt}
+  9560: Tu dis vouloir aller à Aht Urhgan, mais tu es trop lâche pour affronter un défi, hein ? Cette attitude ne te mènera nulle part dans l'Empire, je te le dis. Ah bien, c'est tout pareil pour moi, tant que je fais du profit.${prompt}
+  9561: Ce sera plus comme des courses, mais il y a beaucoup de choses à collecter sur cette liste.${prompt}
+  9562: 'Il y a beaucoup d’objets curieux ici. Je veux que tu m’apportes ${article} ${item-article: 0[2]}, ${article} ${item-article: 1[2]}, et ${article} ${item-article: 2[2]}.${prompt}'
   9563: |-
-    Wait, there's more. I also require ${article} ${item-article: 3[2]} and ${article} ${item-article: 4[2]}.
-    ...Oh, and one last thing--${article} ${item-article: 5[2]}. Hand me these six items at one time, and I will be satisfied.${prompt}
+    Attends, il y a plus. J'ai aussi besoin de ${article} ${item-article: 3[2]} et de ${article} ${item-article: 4[2]}.
+    ...Oh, et une dernière chose--${article} ${item-article: 5[2]}. Apporte-moi ces six objets en une fois, et je serai satisfait.${prompt}
   9564: |-
-    Hoho!
-    So this high and mighty adventurer refuses t' be reduced to running errands!${prompt}
+    Hoho !
+    Alors ce grand et noble aventurier refuse d'être réduit à faire des courses !${prompt}
   9565: |-
-    Ah, sorry abou' that.${wait-36: 1}
-    I'm not picking on you, so don't get your feathers in a ruffle.${prompt}
-  9566: 'So you are going t'' pay me ${number: 0} gil. Is that correct?${prompt}'
-  9567: You won't receive the permit immediately, you know. Are you okay with that?${prompt}
+    Ah, désolé pour ça.${wait-36: 1}
+    Je ne te taquine pas, alors ne te mets pas en colère.${prompt}
+  9566: 'Donc tu vas me payer ${number: 0} gils. C’est correct ?${prompt}'
+  9567: Tu ne recevras pas le permis immédiatement, tu sais. Est-ce que ça te va ?${prompt}
   9568: |-
-    Pay ${number: 0} gil for the permit?
+    Payer ${number: 0} gils pour le permis ?
     ${selection-lines}
-    On second thought, no.
-    Yes.${prompt}
-  9569: You're not going t' regret this later, are you?${prompt}
+    En y réfléchissant, non.
+    Oui.${prompt}
+  9569: Tu ne vas pas le regretter plus tard, n'est-ce pas ?${prompt}
   9570: |-
-    Be honest.
+    Sois honnête.
     ${selection-lines}
-    Now that you mention it...
-    Regret? I know the word not!${prompt}
+    Maintenant que tu le mentionnes...
+    Regretter ? Je ne connais pas ce mot !${prompt}
   9571: |-
-    Blimey! You've only got ${number: 6} gil?${wait-36: 2}
-    Come back when your pockets are a little heavier!${prompt}
+    Sapristi ! Tu n'as que ${number: 6} gils ?${wait-36: 2}
+    Reviens quand tes poches seront un peu plus lourdes !${prompt}
   9572: |-
-    Congratulations, ${choice-player-gender}[sir/ma'am], we have a deal!
-    Come back tomorrow and I will give you the ${keyitem-singular: 0[2]}.${prompt}
-  9573: And don't you worry, because the Tenshodo is true t' its word!${prompt}
-  9574: '${color-alt: 138}You pay Faursel ${number: 0} gil!${prompt}'
+    Félicitations, ${choice-player-gender}[monsieur/madame], nous avons un accord !
+    Reviens demain et je te donnerai le ${keyitem-singular: 0[2]}.${prompt}
+  9573: Et ne t'en fais pas, car le Tenshodo est fidèle à sa parole !${prompt}
+  9574: '${color-alt: 138}Tu paies Faursel ${number: 0} gils !${prompt}'
   9575: |-
-    Exactly what I asked for!
-    Congratulations, ${choice-player-gender}[sir/ma'am], we have a deal!
-    Come back tomorrow and I will give you the ${keyitem-singular: 0[2]}.${prompt}
-  9576: And don't you worry, because the Tenshodo is true t' its word!${prompt}
+    Exactement ce que j'ai demandé !
+    Félicitations, ${choice-player-gender}[monsieur/madame], nous avons un accord !
+    Reviens demain et je te donnerai le ${keyitem-singular: 0[2]}.${prompt}
+  9576: Et ne t'en fais pas, car le Tenshodo est fidèle à sa parole !${prompt}
   9577: |-
-    What's done is done. Sorry, but I'm not giving any refunds.
-    Come back tomorrow and I will give you the ${keyitem-singular: 0[2]}.${prompt}
+    Ce qui est fait est fait. Désolé, mais je ne fais pas de remboursements.
+    Reviens demain et je te donnerai le ${keyitem-singular: 0[2]}.${prompt}
   9578: |-
-    Good day t' you.
-    You can 'ave your ${keyitem-singular: 0[2]} now!${prompt}
-  9579: With this, you can ride t' the Near East from the port at Mhaura.${prompt}
-  9580: I 'ave got t' tell you up front, though, that the high seas are a dangerous place. I can't guarantee your safety, so travel at your own risk.${prompt}
-  9581: If I were you, I'd be praying for the ship t' simply stay afloat.${prompt}
+    Bonne journée à toi.
+    Tu peux avoir ton ${keyitem-singular: 0[2]} maintenant !${prompt}
+  9579: Avec ça, tu peux voyager vers le Proche-Orient depuis le port de Mhaura.${prompt}
+  9580: Je dois vous prévenir dès le départ que les hautes mers sont un endroit dangereux. Je ne peux pas garantir votre sécurité, alors voyagez à vos risques et périls.${prompt}
+  9581: Si j'étais à votre place, je prierais pour que le navire reste simplement à flot.${prompt}
   9582: Heh heh heh...${prompt}
-  9583: 'With ${keyitem-article: 0[2]}, you can ride t'' the Near East from the port at Mhaura.${prompt}'
+  9583: 'Avec ${keyitem-article: 0[2]}, vous pouvez voyager vers le Proche-Orient depuis le port de Mhaura.${prompt}'
   9584: |-
-    Good day t' you.
-    I 'ave got your ${keyitem-singular: 0[2]} here. Unfortunately, I cannot hand it t' you just yet.${prompt}
-  9585: Righto. Here goes nothing.${prompt}
-  9586: Being o' the Tenshodo, I couldn't accept such an exorbitant price for a simple permit without including some type o' extra service.${prompt}
+    Bonjour à vous.
+    J'ai votre ${keyitem-singular: 0[2]} ici. Malheureusement, je ne peux pas vous le remettre pour le moment.${prompt}
+  9585: Allons-y.${prompt}
+  9586: Étant donné que je fais partie du Tenshodo, je ne pourrais accepter un prix aussi exorbitant pour un simple permis sans inclure un type de service supplémentaire.${prompt}
   9587: |-
-    Can you hear me, anyway...?
-    Well, when you open your eyes, you're in for a surprise. Heheh.${prompt}
+    Est-ce que vous m'entendez, quand même...?
+    Eh bien, quand vous ouvrirez les yeux, vous serez surpris. Heheh.${prompt}
   9588: |-
-    Ah, it's you again.
-    Did you make it t' Aht Urhgan in one piece? Sorry for catching you by surprise earlier.${prompt}
-  9589: I'm not sure if you know this or not, but Aht Urhgan has a pact forbidding airships from flying over their nation.${prompt}
-  9590: O' course, we found a way around that, and dropped you into that ginormous forest from the sky. The Tenshodo'll always give you your money's worth.${prompt}
-  9591: We didn't want anyone else t' know about that route, so we had t' bail you out from midair and keep the operation secret. Sorry, but it was the only way.${prompt}
+    Ah, c'est encore vous.
+    Êtes-vous arrivé à Aht Urhgan en un seul morceau ? Désolé de vous avoir pris par surprise plus tôt.${prompt}
+  9589: Je ne suis pas sûr que vous le sachiez ou non, mais Aht Urhgan a un pacte interdisant aux aéronefs de survoler leur nation.${prompt}
+  9590: Bien sûr, nous avons trouvé un moyen de contourner cela, et nous vous avons largué dans cette immense forêt depuis le ciel. Le Tenshodo vous donnera toujours votre argent en valeur.${prompt}
+  9591: Nous ne voulions pas que quelqu'un d'autre connaisse cette route, alors nous avons dû vous secourir en plein vol et maintenir l'opération secrète. Désolé, mais c'était le seul moyen.${prompt}
   9592: '  ${wait-animation: 1}'
   9593: |-
-    You see a single, ivory ${color: 5}venture roll${color: 1} die on the table.
-    There are currently ${number: 0}/${number: 1} other players wishing to participate.${prompt}
+    Vous voyez un seul dé d'aventure en ivoire sur la table.
+    Il y a actuellement ${number: 0}/${number: 1} autres joueurs souhaitant participer.${prompt}
   9594: |-
-    What would you like to do?
+    Que souhaitez-vous faire ?
     ${selection-lines}
-    Join table (${number: 2} gil).
-    Leave.
-    Read manual.${prompt}
-  9595: 'There are currently ${number: 0}/${number: 8} players at the table. Please wait a moment until the remaining participants have arrived. (You may still leave the table at any time.)'
+    Rejoindre la table (${number: 2} gil).
+    Partir.
+    Lire le manuel.${prompt}
+  9595: 'Il y a actuellement ${number: 0}/${number: 8} joueurs à la table. Veuillez patienter un moment jusqu’à ce que les autres participants arrivent. (Vous pouvez toujours quitter la table à tout moment.)'
   9596: 'You place ${number: 6} gil in the pot.${prompt}'
   9597: |-
     The final participant has arrived.
@@ -22691,21 +22691,21 @@ entries:
     ${selection-lines}
     Nothing.${prompt}
   9907: |-
-    Let me guess. That trrreasure chest over there has caught your eye, hasn't it?
-    That's something the boss brought back from her latest scouting excurrrsion.${prompt}
+    Laissez-moi deviner. Ce coffre au trésor là-bas a attiré votre regard, n'est-ce pas ?
+    C'est quelque chose que le patron a ramené de sa dernière excursion d'exploration.${prompt}
   9908: |-
-    But would you believe it? We've trrried all of our keys and lockpicks, but to no avail.
-    It just sits there sealed tight, mocking us all!${prompt}
+    Mais vous le croiriez-vous ? Nous avons essayé toutes nos clés et nos crochets, mais en vain.
+    Il reste juste là, scellé hermétiquement, nous narguant tous !${prompt}
   9909: |-
-    In fact, I'm so sick of looking at the darrrn thing that I'll make you a deal.
-    Figure out how to open it, and you can help yourself to the contents, no questions asked!${prompt}
+    En fait, j'en ai tellement marre de regarder ce fichu truc que je vais vous faire une offre.
+    Trouvez comment l'ouvrir, et vous pourrez vous aider du contenu, sans poser de questions !${prompt}
   9910: |-
-    Wh-wh-wh-what? Are my eyes to be trrrusted?
-    How in the name of the Goddess did you manage to open that thing?${prompt}
-  9911: No, no...you'd better not tell me.${prompt}
+    Qu-quoi ? Mes yeux peuvent-ils être dignes de confiance ?
+    Comment diable avez-vous réussi à ouvrir cette chose ?${prompt}
+  9911: Non, non... vous feriez mieux de ne pas me le dire.${prompt}
   9912: |-
-    This is one rrriddle that I need to figure out for myself.
-    That's Mithra pride, you know? You just run along with your trrreasure now.${prompt}
+    C'est une énigme que je dois résoudre moi-même.
+    C'est une fierté mithra, vous savez ? Vous feriez mieux de partir avec votre trésor maintenant.${prompt}
   9913: ',,${prompt}'
   9914: |-
     デバッグメニュー
