@@ -17649,92 +17649,92 @@ entries:
   7152: Howdy! Thanks for visiting the Chocobo Shop!${prompt}
   7153: Hi, there! I've got produce from Valdeaunia.${prompt}
   7154: |-
-    Up: Upper Jeuno (${selection-lines}
-    facing San d'Oria)
-    Down: Port Jeuno (${selection-lines}
-    facing Windurst)${prompt}
-  7155: '${number: 0}, ${number: 1}, and ${number: 2}.${prompt}'
-  7156: '${number: 0}, ${number: 1}, ${number: 2}, and ${number: 3}.${prompt}'
-  7157: The petition is complete!${prompt}
-  7158: 'You have ${number: 0} more ${choice-plurality: 0}[signature/signatures] to go.${prompt}'
-  7159: Hi. I'm Aldo, head of Tenshodo. We deal in things you can't buy anywhere else. Take your time and have a look around.${prompt}
-  7160: So you're the new diplomatic attaché. What, you've got a secret message from the archduke? Well, let me see it.${prompt}
-  7161: I see. Thanks for getting this to me. It says I'm supposed to tell you about magicite.${prompt}
-  7162: Magicite is found deep inside Castle Oztroja, Davoi, and Beadeaux. But those places are thick with beastmen, and those beastmen are quite cunning.${prompt}
-  7163: You'll need this to get inside Beadeaux.${prompt}
+    En Haut : Haut-Jeuno (${selection-lines}
+    face à San d'Oria)
+    En Bas : Port-Jeuno (${selection-lines}
+    face à Windurst)${prompt}
+  7155: '${number: 0}, ${number: 1}, et ${number: 2}.${prompt}'
+  7156: '${number: 0}, ${number: 1}, ${number: 2}, et ${number: 3}.${prompt}'
+  7157: La pétition est complète !${prompt}
+  7158: 'Il vous reste ${number: 0} ${choice-plurality: 0}[signature/signatures].${prompt}'
+  7159: Salut. Je suis Aldo, le chef de la Tenshodo. Nous traitons des choses que vous ne pouvez trouver nulle part ailleurs. Prenez votre temps et regardez autour de vous.${prompt}
+  7160: Alors, vous êtes le nouveau attaché diplomatique. Quoi, vous avez un message secret de l'archiduc ? Bon, laissez-moi voir ça.${prompt}
+  7161: Je vois. Merci de me l'avoir apporté. Ça dit que je suis censé vous parler du magicite.${prompt}
+  7162: La magicite se trouve au fin fond du château d'Oztroja, de Davoi et de Beadeaux. Mais ces endroits grouillent de bêtes, et ces bêtes sont plutôt rusées.${prompt}
+  7163: Vous aurez besoin de ceci pour entrer dans Beadeaux.${prompt}
   7164: Aldo...${prompt}
-  7165: What is it, Verena? Can't you see I have a guest?${prompt}
-  7166: I know. That's what it's about.${prompt}
-  7167: I heard that the archduke has made a statement...${prompt}
-  7168: He's ordered all beastmen out of Jeuno. He must not think it's safe to have them around anymore.${prompt}
-  7169: What? I think those creeps in the palace are a lot worse than any beastmen we have here!${prompt}
-  7170: It's like they're wearing masks...you can't tell what they're thinking. And their eyes are like cold stones. You're not gonna follow that order, are you?${prompt}
-  7171: Well, I know how you feel, but with beastmen on the rampage out there, you can't blame people for feeling jittery about the ones in here.${prompt}
-  7172: You've heard about all that, haven't you?${prompt}
-  7173: Yeah, I've heard. But the beastmen in town haven't ever hurt anybody!${prompt}
-  7174: I know that, Verena... But I don't think the average Jeunoan would agree.${prompt}
-  7175: No...${prompt}
-  7176: Maybe it's the wise thing to do. You know, taking action before things get out of hand.${prompt}
-  7177: Well, I'll see if I can think up a better alternative. Don't worry. I'd be the last guy to chase them out of town.${prompt}
-  7178: Okay. You promised, remember!${prompt}
+  7165: Qu'est-ce que c'est, Verena ? Ne vois-tu pas que j'ai un invité ?${prompt}
+  7166: Je sais. C'est à propos de ça.${prompt}
+  7167: J'ai entendu dire que l'archiduc a fait une déclaration...${prompt}
+  7168: Il a ordonné à toutes les bêtes de Jeuno de partir. Il doit penser que ce n'est plus sûr de les avoir ici.${prompt}
+  7169: Quoi ? Je pense que ces idiots dans le palais sont bien pires que n'importe quelle bête que nous avons ici !${prompt}
+  7170: C'est comme s'ils portaient des masques... on ne peut pas savoir ce qu'ils pensent. Et leurs yeux sont comme des pierres froides. Tu ne vas pas suivre cet ordre, n'est-ce pas ?${prompt}
+  7171: Eh bien, je comprends ce que tu ressens, mais avec les bêtes qui font des ravages là-bas, on ne peut pas blâmer les gens de se sentir nerveux à propos de celles qui sont ici.${prompt}
+  7172: Tu as entendu parler de tout ça, n'est-ce pas ?${prompt}
+  7173: Oui, j'ai entendu. Mais les bêtes en ville n'ont jamais fait de mal à personne !${prompt}
+  7174: Je le sais, Verena... Mais je ne pense pas que le Jeunoan moyen serait d'accord.${prompt}
+  7175: Non...${prompt}
+  7176: Peut-être que c'est la chose sage à faire. Vous savez, agir avant que les choses ne dégénèrent.${prompt}
+  7177: Eh bien, je verrai si je peux penser à une meilleure alternative. Ne vous inquiétez pas. Je serais le dernier à les chasser de la ville.${prompt}
+  7178: D'accord. Vous avez promis, souvenez-vous-en !${prompt}
   7179: Verena...${prompt}
-  7180: Fickie!${prompt}
-  7181: 'Oh!${wait-animation: 1}${prompt}'
-  7182: Fickie... Are you all right?${prompt}
-  7183: That's a weird thing to ask. I'm always all right. How about you? You look pale!${prompt}
-  7184: Oh, um... No. No, I'm fine.${prompt}
-  7185: Oh, all right. Well, let's get going!${prompt}
-  7186: Um, okay.${prompt}
-  7187: Magicite is found deep inside Castle Oztroja, Davoi, and Beadeaux. Those places are thick with murderous beastmen, and their traps are cunning.${prompt}
-  7188: There's not a rumor that doesn't find its way to Jeuno. I bet you can find what you need from other adventurers. May your strength never falter!${prompt}
-  7189: What? You say the beastmen might be plotting something else? Yeah, it wouldn't be like them to just give up.${prompt}
-  7190: I don't want anything to do with beastmen anymore. I bet the old Goblin Muckvix knows more, but you'd have to ask him yourself.${prompt}
-  7191: Verena's really worried about Fickblix. Better not mention beastmen around her.${prompt}
-  7192: I wonder who's worse, us or them? Fickie's never done anything bad at all.${prompt}
-  7193: Just 'cause they're not human doesn't mean we should hate them. Even a kid like Fickie gets treated like dirt.${prompt}
-  7194: I don't know what's right or wrong anymore. I can't help anybody. I'm sorry.${prompt}
-  7195: What? Fickie's seeds started to grow? Hey, what's that gotta do with me, huh?${prompt}
-  7196: '''Course I don''t like war. But that ain''t the same thing.${prompt}'
-  7197: Hey, I'm a beastie. I ain't tellin' you zilch if it'd hurt my peoples.${prompt}
-  7198: So, Fickblix's seeds started to sprout...${prompt}
-  7199: Aldo, I...${prompt}
-  7200: Verena, I heard your flowers started to sprout. I bet all you kids gave it lots of water. That kind of seed doesn't take root that easily.${prompt}
-  7201: Maybe everything you and Fickblix acomplished really did mean something.${prompt}
-  7202: Recently I... I haven't been watering it. I thought of nothing but myself. I'm so sorry, Fickie.${prompt}
-  7203: Yeah, maybe it's not a question of what's right and what's wrong.${prompt}
-  7204: Nothing would be better than averting another conflict... For us, and for them.${prompt}
-  7205: All right! I don't know what we can do, but I'll help. Fickie would never forgive us if we just stood silent.${prompt}
-  7206: That's right! The least we can do is try.${prompt}
-  7207: But I don't know if we can find out what their little group is up to.${prompt}
-  7208: I guess we could ask Muckvix.${prompt}
-  7209: But would he help? He always tries to stay out of these racial matters.${prompt}
-  7210: And if he told us anything, he'd be betraying his own kind.${prompt}
-  7211: Yeah, I know. But there's nothing else we can do. ${name-player}, would you mind asking Muckvix? We'll head there later.${prompt}
-  7212: Hey, I ain't got nuttin' to say to ya. Scram.${prompt}
-  7213: We need your help, too, Muckvix.${prompt}
-  7214: Oh, so you're in this too, huh? Whaddaya tryin' to pull here?${prompt}
-  7215: Please, Muck. You're our only hope. Jeuno--no, the entire world is in danger unless you tell us.${prompt}
-  7216: Hey, I've been livin' here for ages, but when it comes down to it, I'm just a beastie, ain't I?${prompt}
-  7217: You ain't gonna get nuttin' outta me. See, we beasties are all brudders.${prompt}
-  7218: Muck, you don't think of us as your own, but those kids and I helped Fickie's seeds grow... To us, people and beastmen are the same. We're all one and the same!${prompt}
-  7219: And now, the chance for peace is in danger. Please, Muck, tell us!${prompt}
-  7220: Chance for peace, huh? Aw, that Fickie... What would he do if he was here?${prompt}
-  7221: Aw, what the hell. But just this once! And only 'cause I owe your father. May my peoples forgive me...${prompt}
-  7222: Okay, so the crew you're lookin' for's always been kinda cold to us.${prompt}
-  7223: They're just a bunch of tough guys, but sometimes they go buck wild. I heard they're growin' into a big mob, so they must be up to somethin'!${prompt}
-  7224: Try lookin' around the Eldieme Necropolis. I heard the bums who left Davoi are layin' low there. And I ain't gonna say nuttin' more!${prompt}
-  7225: Thanks, Muck!${prompt}
-  7226: Muckvix, thanks a million.${prompt}
-  7227: I am Zauko. I patrol Lower Jeuno.${prompt}
-  7228: We guards need more than muscle. We need the residents' trust.${prompt}
-  7229: Come see me if you're ever in trouble.${prompt}
+  7180: Fickie !${prompt}
+  7181: 'Oh !${wait-animation: 1}${prompt}'
+  7182: Fickie... Ça va ?${prompt}
+  7183: C'est bizarre de poser cette question. Je vais toujours bien. Et vous ? Vous avez l'air pâle !${prompt}
+  7184: Oh, euh... Non. Non, ça va.${prompt}
+  7185: Oh, très bien. Eh bien, allons-y !${prompt}
+  7186: Euh, d'accord.${prompt}
+  7187: La magicite se trouve au fin fond du château d'Oztroja, de Davoi et de Beadeaux. Ces endroits sont infestés de bêtes meurtrières, et leurs pièges sont rusés.${prompt}
+  7188: Aucune rumeur n'échappe à Jeuno. Je parie que vous pouvez trouver ce dont vous avez besoin auprès d'autres aventuriers. Que votre force ne défaille jamais !${prompt}
+  7189: Quoi ? Vous dites que les bêtes pourraient comploter quelque chose d'autre ? Ouais, ça ne serait pas dans leurs habitudes de simplement abandonner.${prompt}
+  7190: Je ne veux plus avoir affaire aux bêtes. Je parie que le vieux Goblin Muckvix en sait plus, mais vous devrez lui demander vous-même.${prompt}
+  7191: Verena est vraiment inquiète pour Fickblix. Mieux vaut ne pas mentionner les bêtes en sa présence.${prompt}
+  7192: Je me demande qui est pire, nous ou eux ? Fickie n'a jamais fait de mal à personne.${prompt}
+  7193: Juste parce qu'ils ne sont pas humains ne veut pas dire que nous devrions les détester. Même un enfant comme Fickie est traité comme de la saleté.${prompt}
+  7194: Je ne sais plus ce qui est juste ou faux. Je ne peux aider personne. Je suis désolé.${prompt}
+  7195: Quoi ? Les graines de Fickie ont commencé à pousser ? Hé, qu'est-ce que ça a à voir avec moi, hein ?${prompt}
+  7196: 'Bien sûr que j’aime pas la guerre. Mais ça veut pas dire la même chose.${prompt}'
+  7197: Hé, je suis une bestiole. Je vous dis rien si ça blesse mes gens.${prompt}
+  7198: Alors, les graines de Fickblix ont commencé à germer...${prompt}
+  7199: Aldo, je...${prompt}
+  7200: Verena, j'ai entendu dire que vos fleurs ont commencé à pousser. Je parie que vous les avez arrosées généreusement, tous les enfants. Ce genre de graine ne prend pas racine si facilement.${prompt}
+  7201: Peut-être que tout ce que vous et Fickblix avez accompli signifie vraiment quelque chose.${prompt}
+  7202: Récemment, je... Je ne l'ai pas arrosé. Je n'ai pensé qu'à moi-même. Je suis tellement désolé, Fickie.${prompt}
+  7203: Oui, peut-être que ce n'est pas une question de ce qui est bien et ce qui est mal.${prompt}
+  7204: Rien ne serait mieux que d'éviter un autre conflit... Pour nous, et pour eux.${prompt}
+  7205: D'accord ! Je ne sais pas ce que nous pouvons faire, mais j'aiderai. Fickie ne nous pardonnerait jamais si nous restions silencieux.${prompt}
+  7206: C'est vrai ! Le moins que nous puissions faire, c'est essayer.${prompt}
+  7207: Mais je ne sais pas si nous pouvons découvrir ce que leur petit groupe manigance.${prompt}
+  7208: Je suppose que nous pourrions demander à Muckvix.${prompt}
+  7209: Mais est-ce qu'il aiderait ? Il essaie toujours de rester en dehors de ces affaires raciales.${prompt}
+  7210: Et s'il nous disait quelque chose, il trahirait les siens.${prompt}
+  7211: Ouais, je sais. Mais il n'y a rien d'autre que nous puissions faire. ${name-player}, est-ce que ça vous dérangerait de demander à Muckvix ? Nous irons là-bas plus tard.${prompt}
+  7212: Hé, j'ai rien à vous dire. Dégagez.${prompt}
+  7213: Nous avons aussi besoin de votre aide, Muckvix.${prompt}
+  7214: Oh, donc vous êtes là-dedans aussi, hein ? Qu'est-ce que vous essayez de faire ?${prompt}
+  7215: S'il te plaît, Muck. Tu es notre seul espoir. Jeuno - non, le monde entier est en danger à moins que tu ne nous dises.${prompt}
+  7216: Hé, je vis ici depuis des lustres, mais quand ça compte vraiment, je ne suis qu'une bestiole, pas vrai ?${prompt}
+  7217: Vous n'allez rien obtenir de moi. Voyez-vous, nous les bestioles, nous sommes tous frères.${prompt}
+  7218: Muck, tu ne nous considères pas comme les tiens, mais ces enfants et moi avons aidé les graines de Fickie à pousser... Pour nous, les gens et les bêtes sont les mêmes. Nous sommes tous un et le même !${prompt}
+  7219: Et maintenant, la chance pour la paix est en danger. S'il te plaît, Muck, dis-nous !${prompt}
+  7220: La chance pour la paix, hein ? Oh, ce Fickie... Que ferait-il s'il était ici ?${prompt}
+  7221: Oh, bon sang. Mais juste cette fois ! Et seulement parce que je dois ça à ton père. Que mes gens me pardonnent...${prompt}
+  7222: D'accord, donc l'équipage que vous cherchez a toujours été un peu froid envers nous.${prompt}
+  7223: Ce ne sont que des durs à cuire, mais parfois ils deviennent fous. J'ai entendu dire qu'ils devenaient une grande bande, donc ils doivent être en train de préparer quelque chose !${prompt}
+  7224: Essayez de regarder autour du Nécropole d'Eldieme. J'ai entendu dire que les clochards qui ont quitté Davoi se cachent là-bas. Et je ne vais pas en dire plus !${prompt}
+  7225: Merci, Muck !${prompt}
+  7226: Muckvix, mille mercis.${prompt}
+  7227: Je suis Zauko. Je patrouille dans le Bas-Jeuno.${prompt}
+  7228: Nous, les gardes, avons besoin de plus que de la force. Nous avons besoin de la confiance des résidents.${prompt}
+  7229: Venez me voir si vous êtes jamais en difficulté.${prompt}
   7230: |-
-    Oh, I meant to tell you.
-    If you're interested in helping out on a regular basis, I have something for you.${prompt}
+    Oh, j'ai oublié de vous dire.
+    Si vous êtes intéressé à aider régulièrement, j'ai quelque chose pour vous.${prompt}
   7231: |-
-    It's ${keyitem-article: 7[2]}.
-    If you have this with you in Lower Jeuno, you'll know when I'm looking for someone to light the lamps.${prompt}
-  7232: How about it? You can always give it back when you get tired of hearing the announcement. Go ahead, take it.${prompt}
+    C'est ${keyitem-article: 7[2]}.
+    Si vous l'avez avec vous dans le Bas-Jeuno, vous saurez quand je cherche quelqu'un pour allumer les lampes.${prompt}
+  7232: Qu'en dites-vous ? Vous pouvez toujours le rendre quand vous en aurez assez d'entendre l'annonce. Allez-y, prenez-le.${prompt}
   7233: |-
     Take the ${keyitem-singular: 7[2]}?
     ${selection-lines}
