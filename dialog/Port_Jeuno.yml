@@ -20352,137 +20352,137 @@ entries:
   8388: Press confirm to proceed.${prompt}
   8389: '　　 ${wait-animation: 1}'
   8390: O...i...!
-  8391: C'mon now, open yer eyes!
+  8391: Allez, ouvre les yeux !
   8392: |-
-    Ye all right, ${choice-player-gender}[mate/lass]?
-    Gave me a right fright, crumplin' to the ground without warnin' as ye did.${prompt}
-  8393: Eh? A pink flash of light in the sky, ye say?${prompt}
+    Ça va, ${choice-player-gender}[mon ami/ma fille] ?
+    Tu m'as donné une belle frayeur en t'écroulant par terre sans prévenir.${prompt}
+  8393: Hein ? Un éclair rose dans le ciel, tu dis ?${prompt}
   8394: |-
-    Took a knock on the ol' noggin when ye fell, most like.
-    No one from 'round here's seen anythin' of the sort.${prompt}
-  8395: What're ye called, if I might ask?${prompt}
-  8396: ${name-player}, eh? Me name's Joachim, an' the fact ye remember yer own means yer wits're intact, I'd say.${prompt}
+    Tu as dû te cogner la tête en tombant.
+    Personne d'ici n'a vu une chose pareille.${prompt}
+  8395: Comment tu t'appelles, si je peux demander ?${prompt}
+  8396: ${name-player}, hein ? Moi, c'est Joachim, et le fait que tu te souviennes de ton nom montre que tu as encore toute ta tête.${prompt}
   8397: ${name-player}.${prompt}
-  8398: What ye witnessed jus' now was no trick of the mind, but as real a thing as the folk in this bustlin' port.${prompt}
+  8398: Ce que tu as vu n'était pas une illusion, mais aussi réel que les gens de ce port animé.${prompt}
   8399: |-
-    Ye saw what ye did 'cause ye've got “potential.” Aye, that ye do.
-    But whether this potential'll serve ye good or ill's not somethin' I can say.${prompt}
+    Tu as vu ce que tu as vu parce que tu as du “potentiel”. Oui, c'est ça.
+    Mais si ce potentiel te servira bien ou mal, ça, je ne peux pas le dire.${prompt}
   8400: |-
-    Remember what I jus' told ye, though.
-    An' if ye ever start wantin' answers, come an' seek me out.${prompt}
-  8401: Sorry, ${choice-player-gender}[mate/lass], but would ye mind leavin' me in peace?${prompt}
-  8402: CHECK${prompt}
-  8403: ERROR${prompt}
+    Souviens-toi de ce que je viens de te dire.
+    Et si tu veux des réponses, viens me chercher.${prompt}
+  8401: Désolé, ${choice-player-gender}[mon ami/ma fille], mais tu pourrais me laisser en paix ?${prompt}
+  8402: VÉRIFIER${prompt}
+  8403: ERREUR${prompt}
   8404: '${number: 0}${prompt}'
   8405: |-
-    Well, if it isn't ${name-player}.
-    I knew ye'd come seekin' answers sooner or later.${prompt}
-  8406: So ye be wantin' t' know 'bout the strange flash of light ye saw...${prompt}
-  8407: I'm not one fer beatin' 'round the bush, so I'll say it straight. What ye witnessed was a phenomenon called “noise”--the irregular brushin' of one dimension against another. Ordinary folk don't see such things, mind ye. So I s'pose that makes ye extra-ordinary.${prompt}
-  8408: Me theory's that ye've got a natural attunement t' the phasic alignment of our dimensions. That be the potential I spoke of when I found ye sprawled on the ground.${prompt}
+    Eh bien, si ce n'est pas ${name-player}.
+    Je savais que tu viendrais chercher des réponses tôt ou tard.${prompt}
+  8406: Donc tu veux savoir à propos de l'étrange éclair de lumière que tu as vu...${prompt}
+  8407: Je ne suis pas du genre à tourner autour du pot, alors je vais le dire clairement. Ce que tu as vu était un phénomène appelé “bruit”--le frottement irrégulier d'une dimension contre une autre. Les gens ordinaires ne voient pas ces choses, tu sais. Donc je suppose que cela te rend extraordinaire.${prompt}
+  8408: Ma théorie est que tu as une affinité naturelle avec l'alignement phasique de nos dimensions. C'est le potentiel dont je parlais quand je t'ai trouvé étalé par terre.${prompt}
   8409: '...${prompt}'
-  8410: Ye look a bit out o' sorts, an' I don't blame ye. The truth can be a bitter draught t' swallow, I know.${prompt}
-  8411: I'd love nothin' more than to say this is jus' some hearth tale, I would. We'd all be happier that way, t' be sure. But what's an adventurer if ${choice-player-gender}[he/she] turns ${choice-player-gender}[his/her] back t' reality?${prompt}
-  8412: Now, this isn't t' say that I take ye fer a faithless type, but I've got a feelin' that simple words won't do. Some things a ${choice-player-gender}[man/woman]'s jus' got t' see with ${choice-player-gender}[his/her] own two eyes.${prompt}
-  8413: So I want ye to have this.${prompt}
-  8414: 'It''s ${keyitem-article: 0[2]}.${prompt}'
+  8410: Tu as l'air un peu déconcerté, et je ne te blâme pas. La vérité peut être difficile à avaler, je le sais.${prompt}
+  8411: Je voudrais dire que ce n'est qu'une histoire de cheminée, je le voudrais vraiment. Nous serions tous plus heureux ainsi, c'est sûr. Mais qu'est-ce qu'un aventurier s'il tourne le dos à la réalité ?${prompt}
+  8412: Maintenant, ce n'est pas pour dire que je te prends pour un incrédule, mais j'ai l'impression que de simples mots ne suffiront pas. Il y a des choses qu'un ${choice-player-gender}[homme/femme] doit voir de ses propres yeux.${prompt}
+  8413: Alors je veux que tu prennes ceci.${prompt}
+  8414: 'C'est ${keyitem-article: 0[2]}.${prompt}'
   8415: |-
-    If ye've truly got the potential I marked ye fer, that stone there'll guide ye on yer way.
-    Take it with ye an' pay a visit t' one of them cavernous maws.${prompt}
-  8416: Ye know of those ghastly things, aye?${prompt}
-  8417: Mind ye, the ones that're frozen like stiffs won't serve.${prompt}
-  8418: La Theine Plateau, Konschtat Highlands, Tahrongi Canyon...${prompt}
-  8419: Jugner Forest, Valkurm Dunes, Buburimu Peninsula...${prompt}
-  8420: Xarcabard, North Gustaberg, South Gustaberg...${prompt}
+    Si tu as vraiment le potentiel que j'ai remarqué en toi, cette pierre-là te guidera sur ton chemin.
+    Prends-la avec toi et rends visite à l'un de ces gouffres cavernicoles.${prompt}
+  8416: Tu connais ces choses horribles, hein ?${prompt}
+  8417: Attention, celles qui sont figées comme des statues ne serviront à rien.${prompt}
+  8418: Plateau de La Theine, Hautes Terres de Konschtat, Canyon de Tahrongi...${prompt}
+  8419: Forêt de Jugner, Dunes de Valkurm, Péninsule de Buburimu...${prompt}
+  8420: Xarcabard, Gustaberg Nord, Gustaberg Sud...${prompt}
   8421: |-
-    There be maws in these areas what've been freed from their inanimate state.
-    What be the reason fer this, though, yer coin's as good as mine.${prompt}
-  8422: Now that ye know where the answer awaits, the rest is in yer hands.${prompt}
+    Il y a des gouffres dans ces zones qui ont été libérés de leur état inanimé.
+    Quelle en est la raison, cependant, ton avis vaut autant que le mien.${prompt}
+  8422: Maintenant que tu sais où la réponse t'attend, le reste est entre tes mains.${prompt}
   8423: |-
-    But I leave ye with a word of warnin'.
-    Seek the truth with frivolous intent, and it'll cost ye yer life.${prompt}
-  8424: That's no idle threat, but simply the way it is.${prompt}
-  8425: Never ye be forgettin' my words.${prompt}
-  8426: Well met, ${name-player}. Anythin' I can help ye with?${prompt}
+    Mais je te laisse avec un mot d'avertissement.
+    Cherche la vérité avec une intention frivole, et cela te coûtera la vie.${prompt}
+  8424: Ce n'est pas une menace en l'air, mais simplement la réalité.${prompt}
+  8425: N'oublie jamais mes paroles.${prompt}
+  8426: Bien rencontré, ${name-player}. Y a-t-il quelque chose avec lequel je peux t'aider ?${prompt}
   8427: |-
-    What do you want to know?
+    Que veux-tu savoir ?
     ${selection-lines}
-    I want ${keyitem-article: 0[2]}.
-    About the cavernous maws.
-    Nothing.${prompt}
-  8428: Nothin' I can do? I'll be right here if ye change yer mind.${prompt}
-  8429: The maws tickle yer fancy, eh?${prompt}
-  8430: 'These ${choice: 1}[zero/three/six/nine] areas''re where ye''ll find the thawed maws.${prompt}'
-  8431: 'All in good time, ${choice-player-gender}[mate/lass]. Whether yer potential''s equal the ${keyitem-singular: 0[2]}''s worth remains t'' be seen. One should be more than enough fer the nonce.${prompt}'
-  8432: Me apologies, ${choice-player-gender}[mate/lass].${prompt}
-  8433: I could've jus' told ye everythin', but there's naught quite like havin' cold, hard reality shoved in yer face.${prompt}
+    Je veux ${keyitem-article: 0[2]}.
+    À propos des gueules caverniques.
+    Rien.${prompt}
+  8428: Rien que je puisse faire ? Je serai ici si tu changes d'avis.${prompt}
+  8429: Les gueules te titillent l'intérêt, hein ?${prompt}
+  8430: 'Ces ${choice: 1}[zéro/trois/six/neuf] zones sont là où tu trouveras les gueules dégivrées.${prompt}'
+  8431: 'Tout à son temps, ${choice-player-gender}[camarade/ma fille]. Que ton potentiel égale la valeur de ${keyitem-singular: 0[2]} reste à voir. Un devrait suffire pour l'instant.${prompt}'
+  8432: Mes excuses, ${choice-player-gender}[camarade/ma fille].${prompt}
+  8433: J'aurais pu tout te dire, mais rien ne vaut une bonne dose de réalité brutale.${prompt}
   8434: |-
-    Ye've got a quick head restin' on yer shoulders, so no doubt ye've already pieced it together.
-    I'm not of this world, but a visitor come from the plane ye've jus' paid visit to. “Abyssea,” we call it.${prompt}
+    Tu as une tête bien faite sur tes épaules, donc nul doute que tu as déjà compris.
+    Je ne suis pas de ce monde, mais un visiteur venu du plan que tu viens de visiter. Nous l'appelons "Abyssea".${prompt}
   8435: |-
-    Havin' now seen it with yer own two eyes, it's needless t' tell ye the shoddy state Abyssea's in.
-    Without so much as a howl of warnin', we were overrun by fell creatures that'd put nightmares t' shame. Whole nations were reduced t' piles of rubble.${prompt}
+    Maintenant que tu l'as vu de tes propres yeux, il est inutile de te dire l'état pitoyable dans lequel se trouve Abyssea.
+    Sans même un hurlement d'avertissement, nous avons été envahis par des créatures maléfiques qui feraient honte aux cauchemars. Des nations entières ont été réduites en tas de décombres.${prompt}
   8436: |-
-    The once-blue sky turned a blood-red, an' the saviors we'd prayed fer were all felled, one after the other.
-    Those that weren't taken in the first wave of destruction were left t' live in despair, cowerin' in fear if so much as a shadow flickered past.${prompt}
+    Le ciel autrefois bleu est devenu rouge sang, et les sauveurs que nous avions priés sont tous tombés, un par un.
+    Ceux qui n'ont pas été pris dans la première vague de destruction ont été laissés pour vivre dans le désespoir, tremblant de peur à la moindre ombre qui passait.${prompt}
   8437: |-
-    I know full well I've no right to ask this of ye, but I must.
-    Please help us. We've got no hope left save what we can find in brave souls such as ye.${prompt}
-  8438: I beg ye, be the glimmer of hope me folk an' I so badly need...${prompt}
+    Je sais bien que je n'ai aucun droit de te demander ça, mais je dois le faire.
+    S'il te plaît, aide-nous. Nous n'avons plus d'espoir, sauf ce que nous pouvons trouver chez des âmes courageuses comme toi.${prompt}
+  8438: Je te supplie, sois la lueur d'espoir dont mon peuple et moi avons tellement besoin...${prompt}
   8439: |-
-    Be their glimmer of hope?
+    Être leur lueur d'espoir ?
     ${selection-lines}
-    You betcha!
-    Uhrrrm...all right.${prompt}
-  8440: Y-ye've no idea what this means to us, ${name-player}! We're forever in yer debt.${prompt}
-  8441: To help ye help us, it'll be me pleasure t' share all I know.${prompt}
+    Bien sûr !
+    Euh... d'accord.${prompt}
+  8440: T-tu n'as pas idée de ce que cela signifie pour nous, ${name-player} ! Nous te serons à jamais redevables.${prompt}
+  8441: Pour t'aider à nous aider, ce sera un plaisir pour moi de partager tout ce que je sais.${prompt}
   8442: |-
-    To recap what I've already told ye, the cavernous maws are portals to Abyssea.
-    But the door won't open unless ye've got one of them ${keyitem-plural: 0[2]}.${prompt}
-  8443: That's not their only purpose, mind ye.${prompt}
+    Pour récapituler ce que je t'ai déjà dit, les gueules caverniques sont des portails vers Abyssea.
+    Mais la porte ne s'ouvrira que si tu as l'un de ces ${keyitem-plural: 0[2]}.${prompt}
+  8443: Ce n'est pas leur seul but, attention.${prompt}
   8444: |-
-    Besides bein' keys, they also serve as anchors what secure yer essence t' foreign dimensions.
-    In simpler terms, they allow you t' stay within Abyssea, though not indefinitely.${prompt}
+    En plus d'être des clés, elles servent également d'ancrages qui sécurisent ton essence dans des dimensions étrangères.
+    En termes plus simples, elles te permettent de rester dans Abyssea, mais pas indéfiniment.${prompt}
   8445: |-
-    One's good fer a ${number: 1}-minute stay (Earth time), and ${number: 2} of them is the most ye can hold at once.
-    Do the math, and ye'll get the longest stretch of time folk of yer world can stay in Abyssea.${prompt}
+    Une est bonne pour un séjour de ${number: 1} minutes (temps terrestre), et tu peux en avoir au maximum ${number: 2} à la fois.
+    Fais le calcul, et tu obtiendras la durée maximale pendant laquelle les gens de ton monde peuvent rester dans Abyssea.${prompt}
   8446: |-
-    Now, what I'm about t' tell ye is deathly crucial, so take it t' heart.
-    Stay anchored in another dimension overlong, an' what was temporary will become permanent. In other words, ye risk losin' fer good the means t' return home.${prompt}
-  8447: A bunch of me mates an' I are livin', walkin' proof of such a tragedy.${prompt}
+    Maintenant, ce que je vais te dire est extrêmement crucial, alors prends-le à cœur.
+    Rester ancré dans une autre dimension trop longtemps, et ce qui était temporaire deviendra permanent. En d'autres termes, tu risques de perdre définitivement le moyen de retourner chez toi.${prompt}
+  8447: Un tas de mes camarades et moi sommes la preuve vivante de cette tragédie.${prompt}
   8448: |-
-    But ye can rest assured, fer ${keyitem-plural: 0[2]} these days are worked with a safety measure.
-    At the first sign of trouble it'll catapult ye back home safe an' sound.${prompt}
+    Mais tu peux être assuré, car ${keyitem-plural: 0[2]} de nos jours sont munis d'une mesure de sécurité.
+    Au premier signe de problème, cela te catapultera de retour chez toi, sain et sauf.${prompt}
   8449: |-
-    Well, that's jus' about the beef of it. Come see me whenever ye want ${keyitem-article: 0[2]}, aye?
-    I might not always have one on hand, though, as it takes a bloody long time--twenty hours, t 'be precise (Earth time)--t' infuse one with energy. Any less an' they're about as useful as skippin' stones.${prompt}
-  8450: Ah, ${name-player}. Good t' lay eyes, ${choice-player-gender}[mate/lass].${prompt}
+    Eh bien, c'est à peu près tout. Viens me voir chaque fois que tu veux ${keyitem-article: 0[2]}, d'accord ?
+    Je n'en aurai peut-être pas toujours sous la main, car il faut un sacré long temps--vingt heures, pour être précis (temps terrestre)--pour en infuser une avec de l'énergie. Moins que ça et elles sont aussi utiles que des pierres à ricochet.${prompt}
+  8450: Ah, ${name-player}. Ça fait plaisir de te voir, ${choice-player-gender}[camarade/ma fille].${prompt}
   8451: |-
-    What would like to ask about?
+    Que voudrais-tu savoir ?
     ${selection-lines}
-    I want ${keyitem-article: 0[2]}.
-    Learn about ${keyitem-plural: 0[2]}.
-    Current ${keyitem-singular: 0[2]} stock.
-    Cavernous maw locations.
-    Teleporting to a cavernous maw.
-    Nothing right now.${prompt}
+    Je veux ${keyitem-article: 0[2]}.
+    En savoir plus sur ${keyitem-plural: 0[2]}.
+    Stock actuel de ${keyitem-singular: 0[2]}.
+    Emplacements des gueules caverniques.
+    Se téléporter à une gueule cavernique.
+    Rien pour le moment.${prompt}
   8452: |-
-    Nothin' ye need?
-    Ye jus' let Joachim here know if ever ye need more ${keyitem-plural: 0[2]}, aye?${prompt}
-  8453: The maws tickle yer fancy, eh?${prompt}
-  8454: 'Make sure ye''ve got enough ${keyitem-plural: 0[2]} b''fore ye go divin'' into maws.${prompt}'
-  8455: '${lettercase: 1}${keyitem-plural: 0[2]} aren''t jus'' keys t'' open the portal t'' Abyssea.${prompt}'
-  8456: They also serve as anchors what secure yer essence t' foreign dimensions.${prompt}
-  8457: In other words, they allow you t' stay within Abyssea, though not indefinitely.${prompt}
+    Rien dont tu as besoin ?
+    Fais savoir à Joachim ici si jamais tu as besoin de plus de ${keyitem-plural: 0[2]}, d'accord ?${prompt}
+  8453: Les gueules te titillent l'intérêt, hein ?${prompt}
+  8454: 'Assure-toi d'avoir assez de ${keyitem-plural: 0[2]} avant de plonger dans les gueules.${prompt}'
+  8455: '${lettercase: 1}${keyitem-plural: 0[2]} ne sont pas seulement des clés pour ouvrir le portail vers Abyssea.${prompt}'
+  8456: Elles servent également d'ancrages qui sécurisent ton essence dans des dimensions étrangères.${prompt}
+  8457: En d'autres termes, elles te permettent de rester dans Abyssea, mais pas indéfiniment.${prompt}
   8458: |-
-    Ye be wantin' another ${keyitem-singular: 0[2]}?
-    Let me jus' quickly check what I've got in store.${prompt}
+    Tu veux une autre ${keyitem-singular: 0[2]} ?
+    Laisse-moi vérifier rapidement ce que j'ai en réserve.${prompt}
   8459: |-
-    Eh? Looks like ye've already got yerself ${number: 2} of them.
-    Sorry, ${choice-player-gender}[mate/lass], but no sane ${choice-player-gender}[man/woman] ought have more, lest ${choice-player-gender}[he/she] risk gettin' ${choice-player-gender}[hisself/herself] stranded in Abyssea.${prompt}
+    Hein ? On dirait que tu en as déjà ${number: 2}.
+    Désolé, ${choice-player-gender}[camarade/ma fille], mais aucun ${choice-player-gender}[homme/femme] sensé ne devrait en avoir plus, de peur de risquer de se retrouver coincé(e) dans Abyssea.${prompt}
   8460: |-
-    Ah, sorry, ${choice-player-gender}[mate/lass], but I've got nothin' fully charged right now.
-    Check back in a wee while, would ye?${prompt}
+    Ah, désolé, ${choice-player-gender}[camarade/ma fille], mais je n'ai rien de complètement chargé en ce moment.
+    Reviens dans un petit moment, d'accord ?${prompt}
   8461: Here ye go, ${choice-player-gender}[mate/lass]. That should be enough fer now.${prompt}
   8462: I see ye've hooked yerself up with some cruor. In case ye didn't already know, these red granules first appeared when the cataclysm befell Abyssea.${prompt}
   8463: We've yet t' uncover the mystery of this strange mineral--what the hell it is, fer instance--but thanks t' its gem-like appearance, folk quickly adopted it as currency in Abyssea. ${prompt}
@@ -22678,79 +22678,79 @@ entries:
   9497: I'm sorry. My services don't apply to that item.${prompt}
   9498: 'This will be your one and only retrieval of your ${item-singular: 0[2]}. Are you sure?${prompt}'
   9499: |-
-    Retrieve your ${item-singular: 0[2]}?
+    Récupérer votre ${item-singular: 0[2]}?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  9500: Here you are. Make sure not to lose it again!${prompt}
-  9501: Understood. Let me know if you change your mind.${prompt}
+    Oui.
+    Non.${prompt}
+  9500: La voici. Ne la perdez pas encore une fois !${prompt}
+  9501: Compris. Faites-le moi savoir si vous changez d'avis.${prompt}
   9502: |-
-    So the gate in the north has been opened.
-    Perhaps the day I am to be recalled is near at last...${prompt}
-  9503: You are now able to enjoy a new storyline, A Crystalline Prophecy.
+    Donc la porte au nord a été ouverte.
+    Peut-être que le jour de mon rappel est enfin proche...${prompt}
+  9503: Vous pouvez désormais profiter d'une nouvelle histoire, A Crystalline Prophecy.
   9504: |-
-    Start A Crystalline Prophecy?
+    Commencer A Crystalline Prophecy ?
     ${selection-lines}
-    Yes (View cutscene).
-    Maybe later.${prompt}
-  9505: Examine the Tales' Beginning in Lower Jeuno (G-9) when you wish to start A Crystalline Prophecy.
-  9506: You are now able to enjoy a new storyline, A Shantotto Ascension.
+    Oui (Voir la cinématique).
+    Peut-être plus tard.${prompt}
+  9505: Examinez le Début des Contes à Lower Jeuno (G-9) lorsque vous souhaitez commencer A Crystalline Prophecy.
+  9506: Vous pouvez désormais profiter d'une nouvelle histoire, A Shantotto Ascension.
   9507: |-
-    Start A Shantotto Ascension?
+    Commencer A Shantotto Ascension ?
     ${selection-lines}
-    Yes (View cutscene).
-    Maybe later.${prompt}
-  9508: Examine the Tales' Beginning in Windurst Walls (C-6) when you wish to start A Shantotto Ascension.
-  9509: You are now able to enjoy a new storyline, Abyssea.
+    Oui (Voir la cinématique).
+    Peut-être plus tard.${prompt}
+  9508: Examinez le Début des Contes à Windurst Walls (C-6) lorsque vous souhaitez commencer A Shantotto Ascension.
+  9509: Vous pouvez désormais profiter d'une nouvelle histoire, Abyssea.
   9510: |-
-    Start Abyssea?
+    Commencer Abyssea ?
     ${selection-lines}
-    Yes (View cutscene).
-    Maybe later.${prompt}
-  9511: Examine the Tales' Beginning in Port Jeuno (F-8) when you wish to start Abyssea.
-  9512: You are now able to enjoy a new storyline, Chains of Promathia.
+    Oui (Voir la cinématique).
+    Peut-être plus tard.${prompt}
+  9511: Examinez le Début des Contes à Port Jeuno (F-8) lorsque vous souhaitez commencer Abyssea.
+  9512: Vous pouvez désormais profiter d'une nouvelle histoire, Chains of Promathia.
   9513: |-
-    Start Chains of Prromathia?
+    Commencer Chains of Promathia ?
     ${selection-lines}
-    Yes (View cutscene).
-    Maybe later.${prompt}
-  9514: Examine the Tales' Beginning in Lower Delkfutt's Tower (H-10) when you wish to start Chains of Promathia.
-  9515: You are now able to enjoy a new storyline, Seekers of Adoulin.
+    Oui (Voir la cinématique).
+    Peut-être plus tard.${prompt}
+  9514: Examinez le Début des Contes dans la Tour de Delkfutt inférieure (H-10) lorsque vous souhaitez commencer Chains of Promathia.
+  9515: Vous pouvez désormais profiter d'une nouvelle histoire, Seekers of Adoulin.
   9516: |-
-    Start Seekers of Adoulin?
+    Commencer Seekers of Adoulin ?
     ${selection-lines}
-    Yes (View cutscene).
-    Maybe later.${prompt}
-  9517: Examine the Tales' Beginning in Northern San d'Oria, Bastok Market,s or Windurst Woods when you wish to start Seekers of Adoulin.
-  9518: You are now able to enjoy a new storyline, Rhapsodies of Vana'diel.
+    Oui (Voir la cinématique).
+    Peut-être plus tard.${prompt}
+  9517: Examinez le Début des Contes à Northern San d'Oria, Bastok Markets ou Windurst Woods lorsque vous souhaitez commencer Seekers of Adoulin.
+  9518: Vous pouvez désormais profiter d'une nouvelle histoire, Rhapsodies of Vana'diel.
   9519: |-
-    Start Rhapsodies of Vana'diel?
+    Commencer Rhapsodies of Vana'diel ?
     ${selection-lines}
-    Yes (View cutscene).
-    Maybe later.${prompt}
-  9520: Examine the Tales' Beginning in the three nations when you wish to start Rhapsodies of Vana'diel.
-  9521: You are now able to enjoy a new storyline, Rise of the Zilart.
+    Oui (Voir la cinématique).
+    Peut-être plus tard.${prompt}
+  9520: Examinez le Début des Contes dans les trois nations lorsque vous souhaitez commencer Rhapsodies of Vana'diel.
+  9521: Vous pouvez désormais profiter d'une nouvelle histoire, Rise of the Zilart.
   9522: |-
-    Start Rise of the zilart?
+    Commencer Rise of the Zilart ?
     ${selection-lines}
-    Yes (View cutscene).
-    Maybe later.${prompt}
-  9523: Examine the Tales' Beginning in Norg (H-9) when you wish to start Rise of the Zilart.
-  9524: Would you like to start a new storyline that you previously postponed?${prompt}
+    Oui (Voir la cinématique).
+    Peut-être plus tard.${prompt}
+  9523: Examinez le Début des Contes à Norg (H-9) lorsque vous souhaitez commencer Rise of the Zilart.
+  9524: Voulez-vous commencer une nouvelle histoire que vous avez précédemment reportée ?${prompt}
   9525: |-
-    Start which?
+    Commencer laquelle ?
     ${selection-lines}
-    None for now.
+    Aucune pour l'instant.
     Rise of the Zilart.
-    A Crystallinbe Prophecy.
+    A Crystalline Prophecy.
     A Shantotto Ascension.
     Chains of Promathia.
     Abyssea.
     Seekers of Adoulin.
     Rhapsodies of Vana'diel.${prompt}
-  9526: 'Start the previously postponed storyline ${choice: 0}[Rise of the Zilart/A Crystalline Prophecy/A Shantotto Ascenaion/Chains of Promthia/Abyssea/Seekers of Adoulin/Rhapsodies of Vana''diel]?${prompt}'
+  9526: 'Commencer l'histoire précédemment reportée ${choice: 0}[Rise of the Zilart/A Crystalline Prophecy/A Shantotto Ascension/Chains of Promathia/Abyssea/Seekers of Adoulin/Rhapsodies of Vana''diel] ?${prompt}'
   9527: |-
-    Start the storyline?
+    Commencer l'histoire ?
     ${selection-lines}
-    Yes, please.
-    No, thank you.${prompt}
+    Oui, s'il vous plaît.
+    Non, merci.${prompt}
