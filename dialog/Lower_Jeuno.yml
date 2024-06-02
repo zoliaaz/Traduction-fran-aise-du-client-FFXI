@@ -16059,12 +16059,12 @@ entries:
   6486: '${color-alt: 161}Word has been received of a Mamool Ja threat in Wajaom Woodlands.${prompt}'
   6487: '${color-alt: 161}Word has been received of a Troll threat in Wajaom Woodlands.${prompt}'
   6488: '${color-alt: 161}Word has been received of an undead threat in Bhaflau Thickets.${prompt}'
-  6489: Magical maps for sale!${prompt}
+  6489: Cartes magiques en vente ! ${prompt}
   6490: |-
-    Interested in a map?
+    Intéressé par une carte ?
     ${selection-lines}
-    No, thanks.
-    Tell me about your maps.
+    Non, merci.
+    Parlez-moi de vos cartes.
     ${lettercase: 1}${keyitem-singular: 1[2]} (${number: 17} gil).
     ${lettercase: 1}${keyitem-singular: 2[2]} (${number: 18} gil).
     ${lettercase: 1}${keyitem-singular: 3[2]} (${number: 19} gil).
@@ -16081,97 +16081,97 @@ entries:
     ${lettercase: 1}${keyitem-singular: 14[2]} (${number: 30} gil).
     ${lettercase: 1}${keyitem-singular: 15[2]} (${number: 31} gil).
     ${lettercase: 1}${keyitem-singular: 16[2]} (${number: 32} gil).
-    Previous page.
-    Next page.${prompt}
-  6491: When you look at a map for your present area, you can see the lay of the land, as well as your current location.${prompt}
-  6492: Members of your party will appear on the map, too. Also, certain jobs let you track people and monsters on them.${prompt}
-  6493: They're especially handy because you can mark where you've been, and some people can mark them for you as well.${prompt}
+    Page précédente.
+    Page suivante. ${prompt}
+  6491: Quand vous consultez une carte pour votre zone actuelle, vous pouvez voir la topographie, ainsi que votre emplacement actuel. ${prompt}
+  6492: Les membres de votre groupe apparaîtront également sur la carte. De plus, certains emplois vous permettent de suivre les personnes et les monstres sur celles-ci. ${prompt}
+  6493: Elles sont particulièrement pratiques car vous pouvez marquer où vous êtes allé, et certaines personnes peuvent également les marquer pour vous. ${prompt}
   6494: |-
-    The ${keyitem-singular: 1[2]} covers Ronfaure, the La Theine Plateau, the Valkurm Dunes, Jugner Forest, Selbina, and San d'Oria.
-    It costs ${number: 3} gil.${prompt}
-  6495: |-
-    The ${keyitem-singular: 1[2]} covers Gustaberg, the Konschtat Highlands, the Pashhow Marshlands, and Bastok.
-    It costs ${number: 3} gil.${prompt}
+    La ${keyitem-singular: 1[2]} couvre Ronfaure, le Plateau de La Thène, les Dunes de Valkurm, la Forêt de Jugner, Selbina et San d'Oria.
+    Elle coûte ${number: 3} gil. ${prompt}
+  6495: |-  
+    La ${keyitem-singular: 1[2]} couvre Gustaberg, les Hautes-Terres de Konschtat, les Marais de Pashhow et Bastok.
+    Elle coûte ${number: 3} gil. ${prompt}
   6496: |-
-    The ${keyitem-singular: 1[2]} covers Sarutabaruta, the Tahrongi Canyon, the Buburimu Peninsula, the Meriphataud Mountains, Mhaura, and Windurst.
-    It costs ${number: 3} gil.${prompt}
+    La ${keyitem-singular: 1[2]} couvre Sarutabaruta, le Canyon de Tahrongi, la Péninsule de Buburimu, les Montagnes de Meriphataud, Mhaura et Windurst.
+    Elle coûte ${number: 3} gil. ${prompt}
   6497: |-
-    The ${keyitem-singular: 1[2]} covers Batallia Downs, Rolanberry Fields, the Sauromugue Champaign, and Jeuno.
-    It costs ${number: 3} gil.${prompt}
-  6498: 'This complete ${keyitem-singular: 1[2]}, which extend far beneath La Theine Plateau, costs ${number: 3} gil.${prompt}'
-  6499: '${lettercase: 1}${keyitem-plural: 1[2]} include layouts for both outpost and fortress of Ghelsba, as well as the Yughott Grotto. It costs ${number: 3} gil.${prompt}'
-  6500: 'The ${keyitem-singular: 1[2]} shows the notorious Orcish stronghold hidden within Jugner Forest. It is priced at ${number: 3} gil.${prompt}'
-  6501: 'This map shows the waterways and islands that make up Carpenters'' Landing. It is priced at ${number: 3} gil.${prompt}'
+    La ${keyitem-singular: 1[2]} couvre les Plaines de Batallia, les Champs de Ronfaure, la Plaine de Sauromugue et Jeuno.
+    Elle coûte ${number: 3} gil. ${prompt}
+  6498: 'Cette ${keyitem-singular: 1[2]} complète, qui s’étend bien en dessous du Plateau de La Thène, coûte ${number: 3} gil. ${prompt}' 
+  6499: 'Les ${lettercase: 1}${keyitem-plural: 1[2]} incluent les plans à la fois du poste avancé et de la forteresse de Ghelsba, ainsi que la Grotte de Yughott. Elle coûte ${number: 3} gil. ${prompt}'
+  6500: 'Cette carte montre le repaire notoire des Orcs caché dans la forêt de Jugner. Elle est au prix de ${number: 3} gil.${prompt}'
+  6501: 'Cette carte montre les voies navigables et les îles qui composent le Rivage des charpentiers. Elle est au prix de ${number: 3} gil.${prompt}'
   6502: |-
-    The ${keyitem-singular: 1[2]}, as the name implies, contains the layout of Bastok's Zeruhn Mines.
-    It costs ${number: 3} gil.${prompt}
+    La ${keyitem-singular: 1[2]}, comme son nom l'indique, contient le plan des Mines de Zeruhn de Bastok.
+    Elle coûte ${number: 3} gil.${prompt}
   6503: |-
-    The ${keyitem-singular: 1[2]}, as the name implies, contains the layout of the Palborough Mines, which lie in North Gustaberg.
-    It costs ${number: 3} gil.${prompt}
+    La ${keyitem-singular: 1[2]}, comme son nom l'indique, contient le plan des Mines de Palborough, situées dans le nord de Gustaberg.
+    Elle coûte ${number: 3} gil.${prompt}
   6504: |-
-    The ${keyitem-singular: 1[2]}, as the name implies, contains the layout of the Quadav stronghold, Beadeaux, that is located in the Pashhow Marshlands.
-    It costs ${number: 3} gil.${prompt}
+    La ${keyitem-singular: 1[2]}, comme son nom l'indique, contient le plan du repaire Quadav, Beadeaux, situé dans les marais de Pashhow.
+    Elle coûte ${number: 3} gil.${prompt}
   6505: |-
-    The ${keyitem-singular: 1[2]}, as the name implies, contains the layout of Giddeus, which you can reach from West Sarutabaruta.
-    It costs ${number: 3} gil.${prompt}
+    La ${keyitem-singular: 1[2]}, comme son nom l'indique, contient le plan de Giddeus, que vous pouvez atteindre depuis l'ouest de Sarutabaruta.
+    Elle coûte ${number: 3} gil.${prompt}
   6506: |-
-    The ${keyitem-singular: 1[2]} contains the layout of the Yagudo stronghold, Castle Oztroja, located in the Meriphataud Mountains.
-    It costs ${number: 3} gil.${prompt}
+    La ${keyitem-singular: 1[2]} contient le plan du repaire Yagudo, le château Oztroja, situé dans les montagnes de Meriphataud.
+    Elle coûte ${number: 3} gil.${prompt}
   6507: |-
-    The ${keyitem-singular: 1[2]} contains the layout of the underground maze of Shakhrami that can be found in the Tahrongi Canyon area.
-    It costs ${number: 3} gil.${prompt}
+    La ${keyitem-singular: 1[2]} contient le plan du labyrinthe souterrain de Shakhrami, qui se trouve dans la zone du canyon de Tahrongi.
+    Elle coûte ${number: 3} gil.${prompt}
   6508: |-
-    The ${keyitem-singular: 1[2]} covers the Sanctuary of Zi'Tah, Ro'Maeve, and the Hall of the Gods.
-    It costs ${number: 3} gil.${prompt}
+    La ${keyitem-singular: 1[2]} couvre le Sanctuaire de Zi'Tah, Ro'Maeve et la Salle des Dieux.
+    Elle coûte ${number: 3} gil.${prompt}
   6509: |-
-    This map covers Bibiki Bay and its nearby islands.
-    It costs ${number: 3} gil.${prompt}
-  6510: 'The ${keyitem-singular: 1[2]} outlines the geography of nearby Qufim Island. It costs ${number: 3} gil.${prompt}'
-  6511: 'Located beneath Batallia Downs, the Eldieme Necropolis is shown in detail on this map. The price is ${number: 3} gil.${prompt}'
-  6512: 'The Garlaige Citadel, which lies upon the Sauromugue Champaign, is illustrated in this map. Each copy costs ${number: 3} gil.${prompt}'
-  6513: '${lettercase: 1}${keyitem-plural: 1[2]} include Kazham, as well as both jungles of Yuhtunga and Yhoator for ${number: 3} gil.${prompt}'
-  6514: '${lettercase: 1}${keyitem-plural: 1[2]} include ${zone: 2[2]} for ${number: 3} gil.${prompt}'
-  6515: '${lettercase: 1}${keyitem-plural: 1[2]} include ${zone: 2[2]} as well as ${zone: 4[2]} for ${number: 3} gil.${prompt}'
-  6516: '${lettercase: 1}${keyitem-plural: 1[2]} include ${zone: 2[2]}, as well as ${zone: 4[2]} and ${zone: 5[2]} for ${number: 3} gil.${prompt}'
+    Cette carte couvre la baie de Bibiki et ses îles environnantes.
+    Elle coûte ${number: 3} gil.${prompt}
+  6510: 'La ${keyitem-singular: 1[2]} donne un aperçu de la géographie de l’île de Qufim voisine. Elle coûte ${number: 3} gil.${prompt}'
+  6511: 'Située sous les Plaines de Batallia, la Nécropole d’Eldieme est détaillée sur cette carte. Le prix est de ${number: 3} gil.${prompt}'
+  6512: 'La Citadelle de Garlaige, qui se trouve sur la Plaine de Sauromugue, est illustrée sur cette carte. Chaque exemplaire coûte ${number: 3} gil.${prompt}'
+  6513: '${lettercase: 1}${keyitem-plural: 1[2]} incluent Kazham, ainsi que les deux jungles de Yuhtunga et Yhoator pour ${number: 3} gil.${prompt}'
+  6514: '${lettercase: 1}${keyitem-plural: 1[2]} incluent ${zone: 2[2]} pour ${number: 3} gil.${prompt}'
+  6515: '${lettercase: 1}${keyitem-plural: 1[2]} incluent ${zone: 2[2]} ainsi que ${zone: 4[2]} pour ${number: 3} gil.${prompt}'
+  6516: '${lettercase: 1}${keyitem-plural: 1[2]} incluent ${zone: 2[2]}, ainsi que ${zone: 4[2]} et ${zone: 5[2]} pour ${number: 3} gil.${prompt}'
   6517: |-
-    Buy ${keyitem-article: 0[2]}?
+    Acheter ${keyitem-article: 0[2]} ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  6518: Hey, you don't have enough money.${prompt}
-  6519: 'Maps of the Kuzotz region include Altepa Desert as well as Rabao for ${number: 3} gil.${prompt}'
-  6520: 'Maps of the Vollbow region include Cape Teriggan, as well as Valley of Sorrows and Gustav Tunnel for ${number: 3} gil.${prompt}'
-  6521: Maps of the Korroloka Tunnel are, as their names imply, maps of the Korroloka Tunnel, which connects Altepa Desert and Zeruhn Mines.${prompt}
-  6522: 'The map of Al Zahbi also includes Aht Urhgan Whitegate and the Colosseum. It costs ${number: 2} gil.${prompt}'
-  6523: 'This map shows the layout of the Azouph Isle town of Nashmau. It costs ${number: 3} gil.${prompt}'
-  6524: 'This map shows the forest tract stretching west of Al Zahbi. A map of the Wajaom Woodlands can be yours for ${number: 3} gil.${prompt}'
-  6525: 'This map shows Bhaflau Thickets, lying to the north of Al Zahbi. It costs ${number: 3} gil.${prompt}'
-  6526: '${keyitem-article: 1[2]} is an older map that was often used to depict ${zone: 2[2]}. It costs ${number: 3} gil.${prompt}'
+    Oui.
+    Non.${prompt}
+  6518: Hé, tu n'as pas assez d'argent.${prompt}
+  6519: 'Les cartes de la région de Kuzotz comprennent le désert d’Altepa ainsi que Rabao pour ${number: 3} gil.${prompt}'
+  6520: 'Les cartes de la région de Vollbow comprennent le cap Teriggan, ainsi que la vallée des Lamentations et le tunnel de Gustav pour ${number: 3} gil.${prompt}'
+  6521: Les cartes du tunnel de Korroloka sont, comme leur nom l'indique, des cartes du tunnel de Korroloka, qui relie le désert d'Altepa et les Mines de Zeruhn.${prompt}
+  6522: 'La carte d’Al Zahbi comprend également Aht Urhgan Whitegate et le Colisée. Elle coûte ${number: 2} gil.${prompt}'
+  6523: 'Cette carte montre la disposition de la ville d’Azouph Isle de Nashmau. Elle coûte ${number: 3} gil.${prompt}'
+  6524: 'Cette carte montre la bande forestière s’étendant à l’ouest d’Al Zahbi. Une carte des bois de Wajaom peut être la vôtre pour ${number: 3} gil.${prompt}'
+  6525: 'Cette carte montre les fourrés de Bhaflau, situés au nord d’Al Zahbi. Elle coûte ${number: 3} gil.${prompt}'
+  6526: '${keyitem-article: 1[2]} est une vieille carte qui était souvent utilisée pour représenter ${zone: 2[2]}. Elle coûte ${number: 3} gil.${prompt}'
   6527: |-
-    You can set this as your current home point.
-    Once you set a home point, you will return there whenever you are incapacitated.
+    Vous pouvez définir ceci comme votre point de retour actuel.
+    Une fois que vous avez défini un point de retour, vous y retournerez chaque fois que vous serez K.O.
   6528: |-
-    Set this as current home point?
+    Définir cela comme point de retour actuel ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  6529: Home point set!${prompt}
-  6530: A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.
+    Oui.
+    Non.${prompt}
+  6529: Point de retour défini !${prompt}
+  6530: Un point de retour peut être défini comme un endroit où vous revenez à Vana'diel lorsque vous êtes K.O. Vous pouvez également utiliser un point de retour pour vous téléporter vers d'autres points de retour.
   6531: |-
-    What will you do?
+    Que ferez-vous ?
     ${selection-lines}
-    Travel to another home point.
-    Set this as your home point.
-    Other settings.
-    On second thought, never mind.${prompt}
+    Voyager vers un autre point de retour.
+    Définir ceci comme votre point de retour.
+    Autres réglages.
+    En y réfléchissant bien, laissez tomber.${prompt}
   6532: |-
-    You have registered a new home point!
-    You are now able to teleport here from any other home point.${prompt}
-  6533: You may teleport from here to any other home point you have registered.
+    Vous avez enregistré un nouveau point de retour !
+    Vous pouvez maintenant vous téléporter ici depuis n'importe quel autre point de retour.${prompt}
+  6533: Vous pouvez vous téléporter d'ici vers n'importe quel autre point de retour que vous avez enregistré.
   6534: |-
-    Teleport where?
+    Téléporter où ?
     ${selection-lines}
-    Never mind.
+    Laissez tomber.
     ${zone: 1[2]}.
     ${zone: 2[2]}.
     ${zone: 3[2]}.
@@ -16188,32 +16188,32 @@ entries:
     ${zone: 14[2]}.
     ${zone: 15[2]}.
     ${zone: 16[2]}.
-    Previous page.
-    Next page.${prompt}
+    Page précédente.
+    Page suivante.${prompt}
   6535: |-
-    Teleport where?（${zone: 33[2]}）
+    Téléporter où? (${zone: 33[2]})
     ${selection-lines}
-    Nowhere.
-    Home Point #1${choice: 1}[/ (M)/ (A)/ (E)].
-    Home Point #2${choice: 2}[/ (M)/ (A)/ (E)].
-    Home Point #3${choice: 3}[/ (M)/ (A)/ (E)].
-    Home Point #4${choice: 4}[/ (M)/ (A)/ (E)].
-    Home Point #5${choice: 5}[/ (M)/ (A)/ (E)].${prompt}
-  6536: You have not yet registered any other home points, and thus are unable to teleport.${prompt}
-  6537: 'It costs ${number: 3} gil to teleport to Home Point #${number: 2} in ${zone: 1[2]}.'
-  6538: 'There is no fee for teleporting to Home Point #${number: 2} in ${zone: 1[2]}.'
+    Nulle part.
+    Point de retour #1${choice: 1}[/ (M)/ (A)/ (E)].
+    Point de retour #2${choice: 2}[/ (M)/ (A)/ (E)].
+    Point de retour #3${choice: 3}[/ (M)/ (A)/ (E)].
+    Point de retour #4${choice: 4}[/ (M)/ (A)/ (E)].
+    Point de retour #5${choice: 5}[/ (M)/ (A)/ (E)].${prompt}
+  6536: Vous n'avez pas encore enregistré d'autres points de retour, vous ne pouvez donc pas vous téléporter.${prompt}
+  6537: 'Il en coûte ${number: 3} gil pour se téléporter au Point de retour #${number: 2} dans ${zone: 1[2]}.'
+  6538: 'Il n’y a pas de frais pour se téléporter au Point de retour #${number: 2} dans ${zone: 1[2]}.'
   6539: |-
-    Teleport? (Current gil: ${number: 0})
+    Téléporter ? (Gil actuel : ${number: 0})
     ${selection-lines}
-    ${choice: 33}[Add to favorites/Remove from favorites].
-    Yes, please.
-    No, thank you.${prompt}
+    ${choice: 33}[Ajouter aux favoris/Retirer des favoris].
+    Oui, s'il vous plaît.
+    Non, merci.${prompt}
   6540: |-
-    Teleport to which region?
+    Téléporter vers quelle région ?
     ${selection-lines}
-    On second thought, none.
-    Select from favorites.
-    Current region.
+    En y réfléchissant bien, aucune.
+    Sélectionner depuis les favoris.
+    Région actuelle.
     ${choice: 1}[San d'Oria/Movalpolos].
     ${choice: 1}[Bastok/Tavnazian Arch].
     ${choice: 1}[Windurst/Lumoria].
@@ -16238,31 +16238,31 @@ entries:
     ${choice: 1}[Elshimo Low/].
     ${choice: 1}[Elshimo Up/].
     ${choice: 1}[Tu'Lia/].
-    Previous page.
-    Next page.${prompt}
+    Page précédente.
+    Page suivante.${prompt}
   6541: |-
-    Teleport where?
+    Téléporter où ?
     ${selection-lines}
-    None of these.
-    A favorited location.
-    An original area.
-    A Rise of the Zilart area.
-    A Chains of Promathia area.
-    A Treasures of Aht Urhgan area.
-    A Wings of the Goddess area.
-    A Seekers of Adoulin area.${prompt}
-  6542: You may change the method of selecting the area of your desired home point to teleport to.
+    Aucun de ceux-ci.
+    Un emplacement favori.
+    Une région originale.
+    Une zone de l'extension La Montée de Zilart.
+    Une zone de l'extension Les Chaînes de Promathia.
+    Une zone de l'extension Les Trésors d'Aht Urhgan.
+    Une zone de l'extension Les Ailes de la Déesse.
+    Une zone de l'extension Les Explorateurs d'Adoulin.${prompt}
+  6542: Vous pouvez modifier la méthode de sélection de la région de votre point de retour désiré pour vous téléporter.
   6543: |-
-    Which setting would you like?
+    Quel réglage souhaitez-vous ?
     ${selection-lines}
-    My current setting.
-    Select by region.
-    Select by expansion.${prompt}
-  6544: 'You are now selecting by ${choice: 1}[region/expansion].'
+    Mon réglage actuel.
+    Sélectionner par région.
+    Sélectionner par extension.${prompt}
+  6544: 'Vous sélectionnez maintenant par ${choice: 1}[région/extension].'
   6545: |-
-    Teleport where?
+    Où téléporter ?
     ${selection-lines}
-    None of these.
+    Aucun de ceux-ci.
     ${zone: 1[2]} #${number: 17}.
     ${zone: 2[2]} #${number: 18}.
     ${zone: 3[2]} #${number: 19}.
@@ -16272,13 +16272,13 @@ entries:
     ${zone: 7[2]} #${number: 23}.
     ${zone: 8[2]} #${number: 24}.
     ${zone: 9[2]} #${number: 25}.
-    ${choice: 33}[Add to favorites/Remove from favorites].${prompt}
-  6546: 'Home Point #${number: 2} in ${zone: 1[2]} has been ${choice: 33}[registered to/removed from] your list of favorite locations.'
-  6547: Your list of favorite locations is full. You must delete an existing entry in order to register a new one.
+    ${choice: 33}[Ajouter aux favoris/Retirer des favoris].${prompt}
+  6546: 'Le Point de retour #${number: 2} dans ${zone: 1[2]} a été ${choice: 33}[enregistré dans/supprimé de] votre liste d’emplacements favoris.'
+  6547: Votre liste d’emplacements favoris est pleine. Vous devez supprimer une entrée existante pour enregistrer une nouvelle.
   6548: |-
-    Delete which?
+    Supprimer lequel ?
     ${selection-lines}
-    None of these.
+    Aucun de ceux-ci.
     ${zone: 1[2]} #${number: 17}.
     ${zone: 2[2]} #${number: 18}.
     ${zone: 3[2]} #${number: 19}.
@@ -16288,18 +16288,18 @@ entries:
     ${zone: 7[2]} #${number: 23}.
     ${zone: 8[2]} #${number: 24}.
     ${zone: 9[2]} #${number: 25}.${prompt}
-  6549: I have nothing to sell you.${prompt}
+  6549: Je n'ai rien à vous vendre.${prompt}
   6550: |-
-    Ah, you have come from headquarters.
-    I will entrust you with ${keyitem-article: 7[2]}.
-    Take it back to headquarters.${prompt}
-  6551: You must leave your past behind--that is the way of the underworld.${prompt}
+    Ah, vous venez du quartier général.
+    Je vais vous confier ${keyitem-article: 7[2]}.
+    Ramenez-le au quartier général.${prompt}
+  6551: Vous devez laisser votre passé derrière vous, c'est la voie de la pègre.${prompt}
   6552: |-
-    Take ${keyitem-article: 7[2]} back to headquarters.
-    You must leave your past behind--that is the way of the underworld.${prompt}
+    Ramenez ${keyitem-article: 7[2]} au quartier général.
+    Vous devez laisser votre passé derrière vous, c'est la voie de la pègre.${prompt}
   6553: |-
-    Ah, one of our members.
-    Welcome to the Tenshodo shop.${prompt}
+    Ah, l'un de nos membres.
+    Bienvenue dans la boutique Tenshodo.${prompt}
   6554: Tallying conquest results...${prompt}
   6555: Conquest results tallied.${prompt}
   6556: This region is currently under San d'Orian control.${prompt}
@@ -18309,55 +18309,55 @@ entries:
   7712: Lady Verena est de retour, mais elle ne va pas très bien... Qu'a-t-elle fait pour mériter ça ?${prompt}
   7713: Que s'est-il passé dans la tour de Delkfutt ? Tu peux me le dire, nous sommes amis !${prompt}
   7714: |-
-    Tell him about what happened?
+    Lui parler de ce qui s'est passé ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
+    Oui.
+    Non.${prompt}
   7715: |-
-    No, wait...
-    Maybe it's better that I don't know.  I'll just pray for Lady-wady Verena's recovery, and ask her myself.${prompt}
+    Non, attends...
+    Peut-être vaut-il mieux que je ne sache pas. Je vais juste prier pour le rétablissement de Dame Verena et lui demander moi-même.${prompt}
   7716: |-
-    You mean, it was that bad...?
-    Okay, just forget that I asked.${prompt}
-  7717: Lady-wady Verena's bak in tip-top shape? That's great! Maybe I should go in and see how she's doing... But what if she's forgotten who I was!?${prompt}
-  7718: The boss told me to get his equipment ready-steady. But, when I asked him where he was going, he told me to mind my own busy-business!${prompt}
-  7719: This is great! This is stupendous! I have a feeling that everything will finally-winally go back to being the way it was!${prompt}
-  7720: But I'm still kinda worried about Verena... She's growing up so fast!${prompt}
-  7721: Welcome to the Chamber of Commerce and Industry. We assist the community with job placement and labor arbitration.${prompt}
+    Tu veux dire que c'était si grave... ?
+    D'accord, oublie que j'ai posé la question.${prompt}
+  7717: Dame Verena est de retour en pleine forme ? C'est génial ! Peut-être que je devrais aller la voir... Mais et si elle avait oublié qui j'étais ?${prompt}
+  7718: Le patron m'a dit de préparer son équipement. Mais quand je lui ai demandé où il allait, il m'a dit de m'occuper de mes affaires !${prompt}
+  7719: C'est génial ! C'est stupéfiant ! J'ai le sentiment que tout va enfin redevenir comme avant !${prompt}
+  7720: Mais je suis quand même un peu inquiet pour Verena... Elle grandit tellement vite !${prompt}
+  7721: Bienvenue à la Chambre de commerce et d'industrie. Nous aidons la communauté avec le placement professionnel et l'arbitrage du travail.${prompt}
   7722: |-
-    What can I help you with?
+    En quoi puis-je vous aider ?
     ${selection-lines}
-    Oh, nothing.
-    I'd like ${keyitem-article: 6[2]}.
-    I'd like to start a petition.
-    I want to learn about petitions.${prompt}
-  7723: Have a nice day. Next!${prompt}
-  7724: 'The ${keyitem-singular: 6[2]} costs ${number: 7} gil. Convenient routes connect Jeuno with the three allied nations. Passes are non-transferable, but never expire.${prompt}'
-  7725: The archduke occasionally issues them, but His Grace is not an easy man to meet.${prompt}
+    Oh, rien.
+    Je voudrais ${keyitem-article: 6[2]}.
+    Je voudrais commencer une pétition.
+    Je veux en savoir plus sur les pétitions.${prompt}
+  7723: Passez une bonne journée. Suivant !${prompt}
+  7724: 'Le ${keyitem-singular: 6[2]} coûte ${number: 7} gil. Des itinéraires pratiques relient Jeuno aux trois nations alliées. Les laissez-passer sont incessibles mais n’expirent jamais.${prompt}'
+  7725: L'archiduc les délivre occasionnellement, mais Son Altesse n'est pas facile à rencontrer.${prompt}
   7726: |-
-    Purchase ${keyitem-article: 6[2]}?
+    Acheter ${keyitem-article: 6[2]} ?
     ${selection-lines}
-    Yes, please.
-    No, not right now.${prompt}
-  7727: Thank you very much. Safe and pleasant journeys to you!${prompt}
-  7728: Um, you don't have enough money.${prompt}
-  7729: Oh, that clock tower? Yes, it's quite run down, so it's scheduled for demolition. The city needs a crane there, as ships anchor right beneath it.${prompt}
-  7730: 'Of course, if enough people oppose the plan, the authorities might reconsider. You''ll need at least ${number: 1} signatories for the petition to be accepted.${prompt}'
+    Oui, s'il vous plaît.
+    Non, pas maintenant.${prompt}
+  7727: Merci beaucoup. Je vous souhaite un bon voyage!${prompt}
+  7728: Vous n'avez pas assez d'argent.${prompt}
+  7729: Oh, cette tour de l'horloge ? Oui, elle est assez délabrée et sa démolition est prévue. La ville a besoin d'une grue à cet endroit, car les navires jettent l'ancre juste en dessous.${prompt}
+  7730: 'Bien entendu, si un nombre suffisant de personnes s’opposent au projet, les autorités pourraient reconsidérer leur position. Il vous faudra au moins ${number : 1} signataires pour que la pétition soit acceptée.${prompt}'
   7731: |-
-    Would you like a petition ledger?
+    Souhaitez-vous un registre des pétitions ?
     ${selection-lines}
-    Yes.
-    No, thanks.${prompt}
-  7732: 'Okay. Come back and submit the ledger once you have ${number: 1} signatures.${prompt}'
-  7733: Find people who are interested in your cause. Of course, please try to respect people who don't share your views.${prompt}
-  7734: Um, I don't think you can carry any more.${prompt}
-  7735: 'Gather ${number: 1} signatures for the petition. People who are interested in your cause should sign. And please respect those of differing views.${prompt}'
-  7736: 'We can issue you a new ${item-singular: 7[2]} if you like. Of course, you''ll have to start over with any signatures you''ve collected.${prompt}'
+    Oui.
+    Non, merci.${prompt}
+  7732: "D'accord. Revenez et soumettez le registre une fois que vous avez ${number: 1} signatures.${prompt}"
+  7733: Trouvez des personnes intéressées par votre cause. Bien sûr, veuillez respecter ceux qui ne partagent pas vos opinions.${prompt}
+  7734: Eh bien, je ne pense pas que vous puissiez en porter plus.${prompt}
+  7735: "Rassemblez ${number: 1} signatures pour la pétition. Les personnes intéressées par votre cause devraient signer. Et veuillez respecter ceux qui ont des opinions différentes.${prompt}"
+  7736: "Nous pouvons vous fournir un nouveau ${item-singular: 7[2]} si vous le souhaitez. Bien sûr, vous devrez recommencer avec toutes les signatures que vous avez collectées.${prompt}"
   7737: |-
-    Would you like another petition ledger?
+    Souhaitez-vous un autre registre de pétition ?
     ${selection-lines}
-    Yeah.
-    No, I'm all right.${prompt}
+    Oui.
+    Non, ça va.${prompt}
   7738: Très bien. Je vais préparer les documents nécessaires.${prompt}
   7739: 'Il vous manque encore ${number: 0} ${choice-plurality: 0}[signature/signatures].${prompt}'
   7740: Comment se passe la pétition ? Wow, vous avez pas mal de signatures ici. Je vais soumettre cela au conseil municipal. Je doute qu'ils démolissent maintenant la tour de l'horloge.${prompt}
