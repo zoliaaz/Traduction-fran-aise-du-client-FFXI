@@ -29492,19 +29492,19 @@ entries:
   12987: And this Walk of Echoes...we can get there from a cavernous maw?${prompt}
   12988: Got it! I'll meet you there!${prompt}
   12989: <Mumble> <Mumble> If you can't even handle a tiger, then how do you expect to...${prompt}
-  12990: Expertly done! Never have I seen anyone mount a raptor with such aplomb, and I daresay I never will again!${prompt}
-  12991: Your skill is so impressive, in fact, that I'll let this one take you all the way back to Jeuno.${prompt}
-  12992: You see, our current research involves not only training the raptors in following commands of the common man, but also in having them reach their destinations without any input from their masters.${prompt}
-  12993: I'll use my linkpearl to apprise Mapitoto of the situation so that she can prepare a suitable reward for you.${prompt}
-  12994: Have a safe journey back!${prompt}
-  12995: 'Glad to see you made it in one piece! It took you a total of ${number: 0} minute${choice-plurality: 0}[/s] and ${number: 1} second${choice-plurality: 1}[/s] to complete the course.${prompt}'
-  12996: Congratulations are in order--you've beaten the best time!${prompt}
-  12997: Let me send you off safely to Jeuno. Hopefully you'll participate again soon!${prompt}
-  12998: 'The best time for the course is ${number: 0} minute${choice-plurality: 0}[/s] and ${number: 1} second${choice-plurality: 1}[/s].${prompt}'
-  12999: 'The raptor has overcome the munchies! (${number: 0}/${number: 1})${prompt}'
-  13000: The raptor has gained a second wind!${prompt}
-  13001: Meet up with Syrillia.${prompt}
-  13002: The raptor speeds off into the sunset...${prompt}
+  12990: Admirable ! Je n'ai jamais vu personne monter un raptor avec autant d'aplomb, et je dois dire que je ne le verrai probablement plus jamais !
+  12991: Votre compétence est si impressionnante, en fait, que je vais laisser celui-ci vous ramener tout le chemin jusqu'à Jeuno.
+  12992: Vous voyez, nos recherches actuelles consistent non seulement à entraîner les raptors à suivre les commandes de l'homme ordinaire, mais aussi à les amener à atteindre leurs destinations sans aucune intervention de leurs maîtres.
+  12993: J'utiliserai ma perle de lien pour informer Mapitoto de la situation afin qu'elle puisse préparer une récompense appropriée pour vous.
+  12994: Bon voyage de retour !
+  12995: 'Je suis content de voir que vous avez réussi à revenir entier ! Il vous a fallu un total de ${number: 0} minute${choice-plurality: 0}[/s] et ${number: 1} seconde${choice-plurality: 1}[/s] pour terminer le parcours.'
+  12996: Félicitations - vous avez battu le meilleur temps !
+  12997: Laissez-moi vous envoyer en toute sécurité à Jeuno. J'espère que vous participerez à nouveau bientôt !
+  12998: 'Le meilleur temps pour le parcours est de ${number: 0} minute${choice-plurality: 0}[/s] et ${number: 1} seconde${choice-plurality: 1}[/s].'
+  12999: 'Le raptor a surmonté sa fringale ! (${number: 0}/${number: 1})'
+  13000: Le raptor a retrouvé sa vigueur !
+  13001: Retrouvez Syrillia.
+  13002: Le raptor file vers le coucher du soleil...
   13003: |-
     Reattempt the course?
     ${selection-lines}

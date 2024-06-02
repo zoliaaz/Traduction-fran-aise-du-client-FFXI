@@ -30392,73 +30392,73 @@ entries:
     ${selection-lines}
     Definitely.
     No way.${prompt}
-  13675: Stupid place sounds like it's too far away for me, too--and you think we've got time to run off chasing after some stupid toy?${prompt}
-  13676: I fear I have not the constitution to make such a journey. And besides, isn't there stuff to take care of here in the Middle Lands first?${prompt}
-  13677: Lady Prishe, I understand that you may have your hands full, but you, ${choice-player-gender}[Lord/Lady] ${name-player}!${prompt}
-  13678: Ugh. Do what you will!${prompt}
-  13679: Let us waste not a breath!${prompt}
-  13680: I've got a couple...errands to take care of here, but save me a piece of that masked bugger for later!${prompt}
-  13681: I'll catch up with the two of you later. There's some unfinished business here I must take care of.${prompt}
-  13682: I can't help but wonder if someone...or something...is controlling him.${prompt}
-  13683: There's somethin' off about that guy, but I can't place my finger on it...${prompt}
-  13684: I can't help but wonder if there isn't more to this masked man than meets the eye...${prompt}
-  13685: ${name-player}, may your journey be a safe one.${prompt}
-  13686: Oh, how I yearn-wearn for the ability to work in peace and quiet, free of this horrible facial constraint!${prompt}
-  13687: Aha! You over there--I bet you know your way around chocobo riding, don'tcha?${prompt}
+  13675: Il semble que cet endroit stupide soit trop loin pour moi aussi... et tu penses qu'on a le temps de partir à la poursuite de quelque stupide jouet ?
+  13676: Je crains de ne pas avoir la constitution pour entreprendre un tel voyage. Et d'ailleurs, n'y a-t-il pas des choses à régler ici dans les Terres du Milieu d'abord ?
+  13677: Dame Prishe, je comprends que vous soyez débordée, mais vous, ${choice-player-gender}[Seigneur/Seigneur] ${name-player} !
+  13678: Urgh. Faises comme bon vous semble !
+  13679: Ne perdons pas une seule seconde !
+  13680: J'ai quelques... tâches à régler ici, mais gardez-moi un morceau de ce foutu masqué pour plus tard !
+  13681: Je vous rattraperai plus tard tous les deux. Il y a des affaires en suspens ici que je dois régler.
+  13682: Je ne peux m'empêcher de me demander si quelqu'un... ou quelque chose... le contrôle.
+  13683: Il y a quelque chose qui cloche chez ce type, mais je n'arrive pas à mettre le doigt dessus...
+  13684: Je ne peux m'empêcher de penser qu'il y a plus derrière cet homme masqué qu'il n'y paraît...
+  13685: ${name-player}, que votre voyage soit sûr.
+  13686: Oh, comme je désire ardemment pouvoir travailler en paix et tranquillité, libéré de cette horrible contrainte faciale !
+  13687: Aha ! Toi là-bas, je parie que tu sais monter à chocobo, n'est-ce pas ?
   13688: |-
-    How are your chocobo riding skills?
+    Comment se portent tes compétences en monte de chocobo ?
     ${selection-lines}
-    Absolutely stellar.
-    I've got a ways to go.${prompt}
-  13689: I knew it! Then you're justaru the ${choice-player-gender}[man/woman] I've been looking for.${prompt}
-  13690: Oh, come now. Humility doesn't suit-wuit you.${prompt}
-  13691: '${color-alt: 15}${name-npc} stares you down. Hard.'
+    Absolument remarquables.
+    J'ai encore du chemin à faire.
+  13689: Je le savais ! Alors tu es justaru la ${choice-player-gender}[homme/femme] que je cherchais.
+  13690: Oh, allez. L'humilité ne te convient pas.
+  13691: '${color-alt: 15}${name-npc} te fixe intensément. Fort.'
   13692: '...${prompt}'
-  13693: Give me just a moment.${prompt}
-  13694: '${color-alt: 15}${name-npc} blows on a whistle of some sort.'
+  13693: Accordez-moi juste un moment.
+  13694: '${color-alt: 15}${name-npc} souffle dans un sifflet de quelque sorte.'
   13695: |-
-    Now all we do is waitaru, and...${wait-36: 2}
-    ...Darn it all!${prompt}
+    Maintenant, tout ce que nous avons à faire est d'attendrearu, et...
+    ...Mince alors !
   13696: |-
     Urk...
-    Every time they see me they try to bite my nose off like it's a little-wittle sausage!${prompt}
+    Chaque fois qu'ils me voient, ils essaient de me mordre le nez comme s'il s'agissait d'une petite-saucisse !${prompt}
   13697: |-
-    You see, that's why I've got this mask...
-    Ah! Here we go.${prompt}
-  13698: While Vana'dielians have long since mastarued the art of taming the chocobo, a few of us have been working on domesticating some more...exotic beasts.${prompt}
-  13699: We think we've finally stumbled upon something, but we're loath to release it upon the populace without taking it for a <ahem> test drive. And that's where adventurers come in!${prompt}
-  13700: We figure that if chocobos can run fast, then how about some muscular raptors? We've been toiling day and night, but it's hard to get them to obey anyone other than their handler-wandler.${prompt}
-  13701: And this cute little thing here is no differentaru!${prompt}
-  13702: That's where you come in--we want her to get used to being around people of all sorts.${prompt}
-  13703: So I propose a little deal--if you take her around Batallia Downs, then I'll give you this whistle as a little presentaru.${prompt}
-  13704: That's as good a deal as any, I'll say!${prompt}
-  13705: What say you?${prompt}
+    Tu vois, c'est pourquoi j'ai ce masque...
+    Ah ! Nous y voilà.${prompt}
+  13698: Alors que les Vana'dieliens ont depuis longtemps maîtrisé l'art d'apprivoiser le chocobo, quelques-uns d'entre nous travaillent à domestiquer des bêtes plus... exotiques.${prompt}
+  13699: Nous pensons avoir enfin découvert quelque chose, mais nous sommes réticents à le relâcher sur la population sans l'avoir testé. Et c'est là que les aventuriers interviennent !${prompt}
+  13700: Nous pensons que si les chocobos peuvent courir vite, alors que diriez-vous de quelques raptors musclés ? Nous avons travaillé jour et nuit, mais il est difficile de les faire obéir à quiconque autre que leur dresseur.${prompt}
+  13701: Et cette petite chose mignonne ici n'est pas différente !${prompt}
+  13702: C'est là que vous intervenez - nous voulons qu'elle s'habitue à être autour de personnes de toutes sortes.${prompt}
+  13703: Je propose donc un petit marché - si vous l'emmenez autour de Batallia Downs, alors je vous donnerai ce sifflet en guise de petit cadeau.${prompt}
+  13704: C'est un bon marché, je dirais !${prompt}
+  13705: Que dites-vous ?${prompt}
   13706: |-
-    Ride the raptor?
+    Monter le raptor ?
     ${selection-lines}
-    Sure! This sounds fun!
-    Maybe later.${prompt}
-  13707: Aw, shucks. I'll be here should you change your mind-wind.${prompt}
-  13708: Wheeeeee! Finally, someone says yes!${prompt}
+    Bien sûr ! Ça a l'air amusant !
+    Peut-être plus tard.${prompt}
+  13707: Oh, zut. Je serai là si jamais vous changez d'avis.${prompt}
+  13708: Wheeeeee ! Enfin, quelqu'un dit oui !${prompt}
   13709: |-
-    Okay, you put your hands here...${wait-36: 1}
-    And your feet here...${prompt}
-  13710: Picture perfectaru!${prompt}
-  13711: Awww, run into a little bit of trouble?${prompt}
-  13712: That's okay--why don't you try again?${prompt}
-  13713: Then allow me to make the proper preparations-wations!${prompt}
-  13714: Now be a doll, would you, and open-wopen up your map of Batallia Downs?${prompt}
-  13715: Okay. See these eightaru spots I've marked? They're locations within the downs that I need you to visit. There's a few hollows there, you see...${prompt}
-  13716: '...and in those hollows I''ve left some of our erstwhile companions'' favorite treats for you to give to her. If you''ll forgive the saying--you''ll have her eating out of your hands.${prompt}'
-  13717: But eight spots is a trifle much, hmm? So let's cut it down-wown to five. That should be enough to make her cuddle up to you like a puppy.${prompt}
-  13718: And when you're done with that, I need you to go over here.${prompt}
-  13719: My good friend Syrillia will be waiting for you to return that raptor-waptor.${prompt}
-  13720: '${choice: 2}[Like I just said,/You may recall that] sometimes our friend here can be...less than cooperative.${prompt}'
-  13721: She can get tired--or is it better to say sick of it?--and slow down, and may even shake-wake you off her back.${prompt}
-  13722: But she's a sucker for encouragementaru, so if that happens, just /cheer her up.${prompt}
-  13723: 'Another thing: she''ll go bolting off home if you dismount, so if that happens just amble-wamble your way back here.${prompt}'
-  13724: Have a safe trip!${prompt}
-  13725: Do you need another explanation of what it is I wantaru you to do?${prompt}
+    D'accord, vous mettez vos mains ici...${wait-36: 1}
+    Et vos pieds ici...${prompt}
+  13710: Parfait comme sur une photo !${prompt}
+  13711: Oh, vous avez rencontré un petit problème ?${prompt}
+  13712: Ce n'est pas grave - pourquoi ne pas essayer à nouveau ?${prompt}
+  13713: Permettez-moi alors de prendre les préparatifs nécessaires !${prompt}
+  13714: Maintenant, soyez un amour, voulez-vous, et ouvrez votre carte de Batallia Downs ?${prompt}
+  13715: D'accord. Vous voyez ces huit emplacements que j'ai marqués ? Ce sont des endroits dans les plaines que je veux que vous visitiez. Il y a quelques creux là-bas, vous voyez...${prompt}
+  13716: '...et dans ces creux, j’ai laissé quelques friandises préférées de nos compagnons pour que vous les lui donniez. Si vous me permettez l’expression - vous l’aurez à vos pieds.${prompt}'
+  13717: Mais huit emplacements, c'est un peu trop, non ? Alors réduisons ça à cinq. Ça devrait suffire à la rendre aussi câline qu'un chiot.${prompt}
+  13718: Et lorsque vous en aurez fini avec ça, j'ai besoin que vous alliez ici.${prompt}
+  13719: Ma bonne amie Syrillia vous attendra pour que vous rameniez ce raptor.${prompt}
+  13720: '${choice: 2}[Comme je viens de le dire,/Vous vous souvenez peut-être que] parfois notre amie ici peut être... moins coopérative.${prompt}'
+  13721: Elle peut se fatiguer - ou est-il préférable de dire qu'elle en a marre ? - et ralentir, voire même vous secouer de son dos.${prompt}
+  13722: Mais elle est friande d'encouragement, donc si cela arrive, /remontez-lui le moral.${prompt}
+  13723: 'Autre chose : elle filera à toute allure vers la maison si vous descendez, donc si cela arrive, il vous suffit de revenir ici.${prompt}'
+  13724: Bon voyage !${prompt}
+  13725: Avez-vous besoin d'une autre explication sur ce que je veux que vous fassiez ?${prompt}
   13726: |-
     Do you require an explanation?
     ${selection-lines}
