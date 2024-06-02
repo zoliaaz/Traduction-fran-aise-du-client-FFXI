@@ -17341,137 +17341,137 @@ entries:
   7092: Looks like it's full. Perhaps it will eat later.${prompt}
   7093: I guess it ain't hungry. Try feeding it later.${prompt}
   7094: Give us a break! What do we gotta do to get you to eat? I'm all out of ideas.${prompt}
-  7095: How am I supposed to work with you standin' there, huh? Scoot! You ain't got what it takes to handle chocobos.${prompt}
-  7096: How am I supposed to work with you standin' there, huh? Scoot! Or do you want to go chocobo ridin'?${prompt}
+  7095: Comment suis-je censé travailler avec toi planté là, hein ? Dégage ! T'as pas ce qu'il faut pour gérer des chocobos.${prompt}
+  7096: Comment suis-je censé travailler avec toi planté là, hein ? Dégage ! Ou tu veux faire du chocobo, peut-être ?${prompt}
   7097: |-
-    You wanna ride a chocobo?
+    Tu veux monter un chocobo ?
     ${selection-lines}
-    I sure do!
-    Not now.${prompt}
-  7098: No offense, but would you mind not hangin' around here? I'm busy! I've got a flock to watch!${prompt}
-  7099: Not again... I see this a lot these days. Look, there's more than meets the eye when it comes to chocobos!${prompt}
-  7100: But a lot of folks abandon them nowadays. That's why there's so many wild chocobos now. It's all their fault. But you've never abandoned a chocobo, right?${prompt}
+    Bien sûr !
+    Pas maintenant.${prompt}
+  7098: Sans vouloir t'offenser, tu pourrais pas traîner ailleurs ? Je suis occupé ! J'ai un troupeau à surveiller !${prompt}
+  7099: Pas encore... Je vois ça souvent ces jours-ci. Écoute, il y a plus qu'il n'y paraît quand il s'agit de chocobos !${prompt}
+  7100: Mais beaucoup de gens les abandonnent de nos jours. C'est pourquoi il y a tant de chocobos sauvages maintenant. C'est de leur faute. Mais toi, tu n'as jamais abandonné un chocobo, n'est-ce pas ?${prompt}
   7101: |-
-    Have you ever abandoned a chocobo?
+    As-tu déjà abandonné un chocobo ?
     ${selection-lines}
-    Yes, I have.
-    Nope, never.${prompt}
-  7102: I knew it! You'll never ride a chocobo, ever! Step down, if you know what's good for you.${prompt}
-  7103: Yeah? Well, talk is cheap, buckaroo.${prompt}
-  7104: All right, then... See that chocobo? If it takes to you, I'll let you ride.${prompt}
-  7105: Now's your chance to show me what you're made of, buster!${prompt}
+    Oui, j'en ai déjà abandonné un.
+    Non, jamais.${prompt}
+  7102: Je le savais ! Tu ne monteras jamais un chocobo, jamais ! Dégage, si tu sais ce qui est bon pour toi.${prompt}
+  7103: Ouais ? Eh bien, les paroles ne coûtent pas cher, mon gars.${prompt}
+  7104: Très bien, alors... Tu vois ce chocobo ? S'il s'attache à toi, je te laisserai monter.${prompt}
+  7105: C'est ton moment de me montrer ce dont tu es fait, petit malin !${prompt}
   7106: |-
-    Eh? So you wanna ride a chocobo, do ya?
-    Ha! You don't look strong enough to even stay in the saddle!${prompt}
-  7107: What's your problem? You wanna ride a chocobo?${prompt}
-  7108: '''Zat so? I guess it wouldn''t hurt to give it a try, now would it?${prompt}'
-  7109: Of course ya do! Nowadays everyone wants to ride a chocobo! Why, this is a golden opportunity for you to step into the wide, wonderful world of avian delight...${prompt}
-  7110: Then again, you young people have a tendency to throw creatures away without a moment's thought. That's why there're more chocobos living out in the wild now than I ever dreamed of as a kid. You wouldn't dream of commiting such a terrifyin' act though, would ya?${prompt}
-  7111: You can't fool me. I know a good kid when I see one. The eyes give it away.${prompt}
-  7112: Of course you wouldn't!${prompt}
-  7113: Still, I can't grant you permission to ride so easily. The Vana'diel Chocobo Society'd never allow it.${prompt}
-  7114: I've got it... See that fine creature over yonder? If she takes to you, I'll let you ride her. Good luck, kid.${prompt}
-  7115: The master found this chocobo collapsed out on Rolanberry Fields. I bet it ran away from its last owner.${prompt}
-  7116: It seems it was whipped and worked to exhaustion. It's so scared of people, it cowers from everybody.${prompt}
-  7117: Those savages! That's no way to treat a chocobo... I try my best for him, but he won't eat a thing.${prompt}
-  7118: 'But I wonder... It just might eat ${article} ${item-article: 7[2]}. You know, the stuff that heals chocobo wounds.${prompt}'
-  7119: Chocobos like to be fed by hand. See? Like this.${prompt}
-  7120: They learn your scent after you feed them by hand each and every day for a really long time.${prompt}
-  7121: Little by little, you gain their trust. And you pick up what kind of personality your chocobo has.${prompt}
-  7122: Well, bust my buttons! You still here? You ain't got what it takes, punk. Hit the road!${prompt}
-  7123: If that chocobo takes to you, I'll let you ride.${prompt}
-  7124: They don't eat nothin' until they start to recognize you. Just keep at it, bucko.${prompt}
-  7125: He's afraid of you. They're like that with people they don't know.${prompt}
+    Hein ? Alors tu veux monter un chocobo, hein ?
+    Ha ! Tu n'as même pas l'air assez fort pour rester en selle !${prompt}
+  7107: Quel est ton problème ? Tu veux monter un chocobo ?${prompt}
+  7108: '''C’est vrai ? Je suppose que ça ne ferait pas de mal d’essayer, n’est-ce pas ?${prompt}'
+  7109: Bien sûr que tu veux ! De nos jours, tout le monde veut monter un chocobo ! Pourquoi, c'est une occasion en or pour toi de découvrir le vaste et merveilleux monde des délices aviaires...${prompt}
+  7110: D'un autre côté, vous, les jeunes, avez tendance à jeter les créatures sans réfléchir. C'est pourquoi il y a plus de chocobos vivant à l'état sauvage maintenant que je n'aurais jamais imaginé quand j'étais enfant. Tu n'oserais pas commettre un acte aussi terrifiant, n'est-ce pas ?${prompt}
+  7111: Tu ne peux pas me tromper. Je reconnais un bon gamin quand j'en vois un. Les yeux le révèlent.${prompt}
+  7112: Bien sûr que non !${prompt}
+  7113: Pourtant, je ne peux pas te donner la permission de monter aussi facilement. La Société des Chocobos de Vana'diel ne le permettrait jamais.${prompt}
+  7114: J'ai une idée... Tu vois cette magnifique créature là-bas ? Si elle t'accepte, je te laisserai la monter. Bonne chance, gamin.${prompt}
+  7115: Le maître a trouvé ce chocobo effondré dans les champs de Rolanberry. Je parie qu'il s'est enfui de son dernier propriétaire.${prompt}
+  7116: Il semble qu'il ait été fouetté et travaillé jusqu'à l'épuisement. Il a tellement peur des gens qu'il se recroqueville devant tout le monde.${prompt}
+  7117: Ces sauvages ! Ce n'est pas une façon de traiter un chocobo... Je fais de mon mieux pour lui, mais il ne mange rien.${prompt}
+  7118: 'Mais je me demande... Il pourrait peut-être manger ${article} ${item-article: 7[2]}. Tu sais, les trucs qui guérissent les blessures des chocobos.${prompt}'
+  7119: Les chocobos aiment être nourris à la main. Regarde ? Comme ça.${prompt}
+  7120: Ils apprennent ton odeur après que tu les aies nourris à la main chaque jour pendant longtemps.${prompt}
+  7121: Petit à petit, tu gagnes leur confiance. Et tu découvres quel genre de personnalité a ton chocobo.${prompt}
+  7122: Eh bien, casse-toi ! Tu es encore là ? Tu n'as pas ce qu'il faut, morveux. Dégage !${prompt}
+  7123: Si ce chocobo t'accepte, je te laisserai monter.${prompt}
+  7124: Ils ne mangent rien tant qu'ils ne commencent pas à te reconnaître. Continue d'essayer, mon pote.${prompt}
+  7125: Il a peur de toi. Ils sont comme ça avec les gens qu'ils ne connaissent pas.${prompt}
   7126: |-
     Kweh...
-    (He still looks terrified of you.)${prompt}
-  7127: They won't eat a thing until they're comfortable with you. Just keep at it, okay?${prompt}
+    (Il semble encore terrifié par toi.)${prompt}
+  7127: Ils ne mangeront rien tant qu'ils ne sont pas à l'aise avec toi. Continue d'essayer, d'accord ?${prompt}
   7128: |-
     Kweh...
-    (He still looks a little wary of you.)${prompt}
-  7129: Nope, still no go. A friendly chocobo would be eating already, but this one's different.${prompt}
+    (Il a encore l'air un peu méfiant envers toi.)${prompt}
+  7129: Non, toujours rien. Un chocobo amical serait déjà en train de manger, mais celui-ci est différent.${prompt}
   7130: |-
-    Kweh!
-    (He still looks slightly uncomfortable with you.)${prompt}
-  7131: Wow, I thought it would take longer. I think we've almost won him over!${prompt}
-  7132: Well, look what we have here! He's already munchin' away. Looks like he's almost ready.${prompt}
-  7133: Right when I thought I'd lost you, I find your sorry face here.${prompt}
-  7134: Who the heck are you!? It ain't polite to barge into a chocobo corral, partner.${prompt}
-  7135: Don't talk like that to me, thief. I'm here to take back what's rightfully mine.${prompt}
-  7136: We don't house thieves here, mister. And I don't recall taking anyone's property.${prompt}
-  7137: This chocobo belongs to me. Can't you see the brand? Now give him back.${prompt}
-  7138: Wait, that means--Master, come quickly!${prompt}
-  7139: Mister, you may be a chocobo handler, but I reckon you handle 'em roughly!${prompt}
-  7140: So? You got a problem with that? Spoil your animals and they'll never obey.${prompt}
-  7141: You gotta instill 'em with fear! I mean, come on... They're just animals! You eat meat, don't you?${prompt}
-  7142: So don't lecture me over what I do with 'em.${prompt}
-  7143: Come on, let's go.${prompt}
-  7144: Kweh!${prompt}
-  7145: Lay off, mister! You're scaring him!${prompt}
-  7146: Yeah? Well, that's 'cause you've spoiled him rotten!${prompt}
-  7147: I'll be back for what's mine. You mark my words!${prompt}
-  7148: That kind of scum is the worst!${prompt}
-  7149: Ah, well. This doesn't really concern you.${prompt}
-  7150: So look, kiddo... You've got talent. This birdie here's almost yours. Keep up the good work, okay?${prompt}
-  7151: Aw, that brute doesn't scare me. Anyway...look at you! The master said you got talent! I'm so jealous.${prompt}
-  7152: 'You got the right stuff, kiddo. So I''m sure he''ll learn to like you. Just keep at it and you''ll have your ${keyitem-singular: 7[2]} in no time.${prompt}'
-  7153: Looks like he's used to you. He's not scared at all anymore.${prompt}
+    Kweh !
+    (Il semble encore légèrement mal à l'aise avec toi.)${prompt}
+  7131: Wow, je pensais que cela prendrait plus de temps. Je pense que nous l'avons presque conquis !${prompt}
+  7132: Eh bien, regarde ce que nous avons là ! Il est déjà en train de grignoter. On dirait qu'il est presque prêt.${prompt}
+  7133: Juste au moment où je pensais t'avoir perdu, je retrouve ta sale tête ici.${prompt}
+  7134: Qui diable es-tu !? Ce n'est pas poli d'entrer dans un enclos à chocobos, partenaire.${prompt}
+  7135: Ne me parle pas comme ça, voleur. Je suis ici pour reprendre ce qui m'appartient de droit.${prompt}
+  7136: Nous n'hébergeons pas de voleurs ici, monsieur. Et je ne me souviens pas avoir pris la propriété de qui que ce soit.${prompt}
+  7137: Ce chocobo m'appartient. Tu ne vois pas la marque ? Maintenant, rends-le moi.${prompt}
+  7138: Attends, ça veut dire... Maître, viens vite !${prompt}
+  7139: Monsieur, vous êtes peut-être un soigneur de chocobos, mais je suppose que vous les traitez brutalement !${prompt}
+  7140: Et alors ? Tu as un problème avec ça ? Gâte tes animaux et ils n'obéiront jamais.${prompt}
+  7141: Il faut leur inspirer de la peur ! Je veux dire, voyons... Ce sont juste des animaux ! Tu manges de la viande, n'est-ce pas ?${prompt}
+  7142: Alors ne me fais pas la leçon sur ce que je fais avec eux.${prompt}
+  7143: Allez, on s'en va.${prompt}
+  7144: Kweh !${prompt}
+  7145: Lâche-le, monsieur ! Vous lui faites peur !${prompt}
+  7146: Ouais ? Eh bien, c'est parce que tu l'as gâté pourri !${prompt}
+  7147: Je reviendrai pour ce qui m'appartient. Tu peux en être sûr !${prompt}
+  7148: Ce genre de racaille est la pire !${prompt}
+  7149: Ah, bien. Ça ne te concerne pas vraiment.${prompt}
+  7150: Alors écoute, gamin... Tu as du talent. Ce petit oiseau est presque à toi. Continue le bon travail, d'accord ?${prompt}
+  7151: Oh, ce brute ne me fait pas peur. Quoi qu'il en soit... regarde-toi ! Le maître a dit que tu avais du talent ! Je suis tellement jaloux.${prompt}
+  7152: 'Tu as ce qu’il faut, gamin. Donc je suis sûr qu’il apprendra à t’aimer. Continue d’essayer et tu auras ton ${keyitem-singular: 7[2]} en un rien de temps.${prompt}'
+  7153: On dirait qu'il s'est habitué à toi. Il n'a plus du tout peur.${prompt}
   7154: |-
-    Kweh!
-    (He seems to be comfortable with you.)${prompt}
-  7155: Just a little bit more! Thanks to you, he's eating more, and his feathers have a healthier glow!${prompt}
+    Kweh !
+    (Il semble être à l'aise avec toi.)${prompt}
+  7155: Encore un petit effort ! Grâce à toi, il mange plus, et ses plumes ont une lueur plus saine !${prompt}
   7156: |-
-    Kweh!
-    (He's eating joyfully.)${prompt}
-  7157: Hah! I've never heard him squeal so happily!${prompt}
-  7158: 'Oh, sorry. He won''t eat ${item-plural: 6[2]}. But he might like ${article} ${item-article: 7[2]} .${prompt}'
-  7159: 'I''m sorry. Except for feeding time, the master scolds us when we give them ${item-plural: 6[2]}. I know... It''s the thought that counts.${prompt}'
-  7160: Well, looks like he's used to you now!${prompt}
-  7161: Good job! Now you're a qualified chocobo rider.${prompt}
-  7162: Now that you can read animals' minds, maybe you can become a beastmaster. Of course, I can't teach you how... You'll just have to practice.${prompt}
-  7163: The rest is up to you, kiddo. For now, take this to the stables.${prompt}
-  7164: The rest is up to you, kiddo. For now, take this to the stables.${prompt}
-  7165: The master sure was profound, talking about reading their minds... At least we know the last owner didn't have that gift!${prompt}
-  7166: The master sure was profound, talking about reading their minds... At least we know the last owner didn't have that gift!${prompt}
-  7167: If you can read their minds, you might have what it takes to be a beastmaster. But no teachin' can help you there... No sirree!${prompt}
-  7168: Come to think of it, I wonder what happened to that cowardly chocobo handler?${prompt}
-  7169: Oh, haven't you heard? He's been home taking care of his son ever since he got sick.${prompt}
-  7170: Well, that's what he gets for treating his chocobos so badly. Serves him right!${prompt}
-  7171: What are you talking about? He was out of control, but his poor little boy never hurt anybody!${prompt}
-  7172: Yeah. you're right. I heard his kid was shocked at what his dad was doing, too.${prompt}
-  7173: Maybe if that brute was softer on his chocobos, his kid would get better. What do you think?${prompt}
-  7174: Well, look at who you're talking about. I don't think it's even possible... Feel bad about the kid, though.${prompt}
-  7175: Kweh!${prompt}
-  7176: Aw, what's the matter?${prompt}
-  7177: That was a sad chirp. Why are you so down all of a sudden?${prompt}
-  7178: Ha-ha! He's so docile now.${prompt}
-  7179: I'd hate to see him go, but maybe sending him back would be the best thing for him.${prompt}
-  7180: He just got up and ran away. We were so worried. He came right back, covered in mud. But I wonder where he went?${prompt}
-  7181: Why, howdy there! How you been, huh? You look fit as a fiddle! So, what can I...${prompt}
-  7182: Master!${prompt}
-  7183: 'Hey, what do you think you''re... ${wait-animation: 2}${prompt}'
-  7184: Look, he's afraid of you!${prompt}
-  7185: Wait... He's happy about something. What could this mean?${prompt}
-  7186: There you are... Thank you! You're the reason my son's recovered.${prompt}
-  7187: I beat you and whipped you for so long. Why did you decide to help me?${prompt}
-  7188: Do you understand me? No, I can't thank you enough for all you've done for me. I truly thank you.${prompt}
-  7189: And you, too! Thanks.${prompt}
-  7190: I'm a beastmaster no more. But I bet you can become a great beastmaster if you keep at it.${prompt}
-  7191: And I'm sorry I said those things to you before.${prompt}
-  7192: Hey, don't worry about it.${prompt}
-  7193: I'm not worthy of chocobos anymore. Please, take care of him for me.${prompt}
-  7194: You got it. He'll grow up big and strong.${prompt}
-  7195: You stay right there.${prompt}
-  7196: Mark my words. Someday, he'll come back for his chocobo.${prompt}
-  7197: And the chocobo will gladly go with him. After all, he's a beastmaster.${prompt}
-  7198: All's well that ends well, right? Now you can call yourself a beastmaster. Stand tall, kiddo!${prompt}
-  7199: You can now become a beastmaster.${prompt}
-  7200: Aw, man! I wanna be a beastmaster someday, too!${prompt}
-  7201: What? Oh, that guy's kid got better? Well, that's good to hear. I'd like to have him over sometime.${prompt}
-  7202: Looks like no one's home.${prompt}
-  7203: Hi, Galmut!${prompt}
-  7204: Hey, Collet! Stay right there. I'm almost done!${prompt}
-  7205: Okay!${prompt}
+    Kweh !
+    (Il mange joyeusement.)${prompt}
+  7157: Ha ! Je ne l'ai jamais entendu piailler si joyeusement !${prompt}
+  7158: 'Oh, désolé. Il ne mangera pas ${item-plural: 6[2]}. Mais il pourrait aimer ${article} ${item-article: 7[2]} .${prompt}'
+  7159: 'Je suis désolé. Sauf à l’heure des repas, le maître nous gronde quand nous leur donnons ${item-plural: 6[2]}. Je sais... C’est l’intention qui compte.${prompt}'
+  7160: Eh bien, on dirait qu’il s’est habitué à toi maintenant !${prompt}
+  7161: Bon travail ! Maintenant, tu es un cavalier de chocobo qualifié.${prompt}
+  7162: Maintenant que tu peux lire dans l'esprit des animaux, peut-être que tu pourrais devenir un maître des bêtes. Bien sûr, je ne peux pas t'apprendre comment... Tu devras juste t'entraîner.${prompt}
+  7163: Le reste dépend de toi, gamin. Pour l'instant, apporte ça aux écuries.${prompt}
+  7164: Le reste dépend de toi, gamin. Pour l'instant, apporte ça aux écuries.${prompt}
+  7165: Le maître était vraiment profond en parlant de lire dans leur esprit... Au moins, nous savons que le dernier propriétaire n'avait pas ce don !${prompt}
+  7166: Le maître était vraiment profond en parlant de lire dans leur esprit... Au moins, nous savons que le dernier propriétaire n'avait pas ce don !${prompt}
+  7167: Si tu peux lire dans leur esprit, tu pourrais avoir ce qu'il faut pour être un maître des bêtes. Mais aucun enseignement ne peut t'aider là... Non monsieur !${prompt}
+  7168: En y repensant, je me demande ce qui est arrivé à ce soigneur de chocobos peureux ?${prompt}
+  7169: Oh, tu n'as pas entendu ? Il est resté chez lui pour s'occuper de son fils depuis qu'il est tombé malade.${prompt}
+  7170: Eh bien, c'est ce qu'il mérite pour avoir si mal traité ses chocobos. Bien fait pour lui !${prompt}
+  7171: De quoi parles-tu ? Il était incontrôlable, mais son pauvre petit garçon n'a jamais fait de mal à personne !${prompt}
+  7172: Oui, tu as raison. J'ai entendu dire que son enfant était choqué par ce que faisait son père, aussi.${prompt}
+  7173: Peut-être que si ce brute était plus doux avec ses chocobos, son enfant irait mieux. Qu'en penses-tu ?${prompt}
+  7174: Eh bien, regarde de qui tu parles. Je ne pense même pas que ce soit possible... Ça me fait de la peine pour le gamin, cependant.${prompt}
+  7175: Kweh !${prompt}
+  7176: Oh, qu'est-ce qu'il y a ?${prompt}
+  7177: C'était un piaillement triste. Pourquoi es-tu si abattu tout d'un coup ?${prompt}
+  7178: Ha-ha ! Il est si docile maintenant.${prompt}
+  7179: Je détesterais le voir partir, mais peut-être que le renvoyer serait la meilleure chose pour lui.${prompt}
+  7180: Il s'est juste levé et s'est enfui. Nous étions si inquiets. Il est revenu couvert de boue. Mais je me demande où il est allé ?${prompt}
+  7181: Eh bien, salut ! Comment ça va, hein ? Tu as l'air en pleine forme ! Alors, qu'est-ce que je...${prompt}
+  7182: Maître !${prompt}
+  7183: 'Hé, que penses-tu que tu... ${wait-animation: 2}${prompt}'
+  7184: Regarde, il a peur de toi !${prompt}
+  7185: Attends... Il est content de quelque chose. Qu'est-ce que cela peut signifier ?${prompt}
+  7186: Te voilà... Merci ! Tu es la raison pour laquelle mon fils s'est rétabli.${prompt}
+  7187: Je t'ai battu et fouetté pendant si longtemps. Pourquoi as-tu décidé de m'aider ?${prompt}
+  7188: Est-ce que tu me comprends ? Non, je ne peux pas te remercier assez pour tout ce que tu as fait pour moi. Je te remercie sincèrement.${prompt}
+  7189: Et toi aussi ! Merci.${prompt}
+  7190: Je ne suis plus un maître des bêtes. Mais je parie que tu peux devenir un grand maître des bêtes si tu continues comme ça.${prompt}
+  7191: Et je suis désolé de t'avoir dit ces choses avant.${prompt}
+  7192: Hé, ne t'en fais pas.${prompt}
+  7193: Je ne suis plus digne des chocobos. S'il te plaît, prends soin de lui pour moi.${prompt}
+  7194: Tu peux compter sur moi. Il deviendra grand et fort.${prompt}
+  7195: Reste là où tu es.${prompt}
+  7196: Souviens-toi de mes paroles. Un jour, il reviendra pour son chocobo.${prompt}
+  7197: Et le chocobo ira volontiers avec lui. Après tout, c'est un maître des bêtes.${prompt}
+  7198: Tout est bien qui finit bien, non ? Maintenant, tu peux te dire maître des bêtes. Tiens-toi droit, gamin !${prompt}
+  7199: Tu peux maintenant devenir un maître des bêtes.${prompt}
+  7200: Oh, mince ! Je veux devenir un maître des bêtes un jour, moi aussi !${prompt}
+  7201: Quoi ? Oh, le fils de ce type va mieux ? Eh bien, c'est bon à entendre. J'aimerais bien l'inviter un jour.${prompt}
+  7202: On dirait qu'il n'y a personne à la maison.${prompt}
+  7203: Salut, Galmut !${prompt}
+  7204: Hé, Collet ! Reste là. J'ai presque fini !${prompt}
+  7205: D'accord !${prompt}
   7206: The clock is always spot on, thanks to Galmut. He gives the gears a good oiling each and every day.${prompt}
   7207: Whew... Well, how've you been? You've been going to school, right?${prompt}
   7208: Uh, yeah... Sorta.${prompt}
@@ -18974,7 +18974,7 @@ entries:
     <Soupir>
     Permettez-moi de reformuler ma question. ${prompt}
   8226: Entre amis, que s'est-il réellement passé ce jour-là ? ${prompt}
-  8227: ... Je... je ne sais vraiment pas. C'est pourquoi il est crucial que nous interrogions ce garçon. ${prompt}
+  8227: '... Je... je ne sais vraiment pas. C''est pourquoi il est crucial que nous interrogions ce garçon. ${prompt}'
   8228: S'il n'y a rien de mal avec lui, alors il n'y a aucune raison pour que nous ne puissions pas le transférer immédiatement au Palais du Grand Duc. Monberaux, préparez le transport. ${prompt}
   8229: |-
     Ah, c'est vous...
@@ -24657,89 +24657,89 @@ entries:
   11124: |-
     Still, the light of the Goddess shines upon all without favor.
     I am sure that someday they will also come to know Altana's compassion.${prompt}
-  11125: Hey, what're you starin' at? Haven't ya ever seen a chocobo before?${prompt}
-  11126: Chocobos may be tame creatures now, but they originally came from the wild.${prompt}
-  11127: La Theine was once covered in wild chocobos. Flocks of 'em used to dart about the plains.${prompt}
-  11128: That's why they love it when you take 'em back there. It runs through their blood.${prompt}
-  11129: Kweh!${prompt}
-  11130: Looks like it's feedin' time.${prompt}
-  11131: It looks like the chocobo wants to venture outside town...${prompt}
+  11125: Hé, qu'est-ce que tu regardes ? T'as jamais vu de chocobo avant ?${prompt}
+  11126: Les chocobos peuvent être des créatures apprivoisées maintenant, mais à l'origine, ils venaient de la nature sauvage.${prompt}
+  11127: La Theine était autrefois couverte de chocobos sauvages. Des troupeaux d'entre eux couraient à travers les plaines.${prompt}
+  11128: C'est pourquoi ils adorent quand tu les ramènes là-bas. Cela coule dans leurs veines.${prompt}
+  11129: Kweh !${prompt}
+  11130: On dirait que c'est l'heure de manger.${prompt}
+  11131: Il semble que le chocobo veuille s'aventurer en dehors de la ville...${prompt}
   11132: |-
-    Sneak the chocobo outside?
+    Faire sortir le chocobo en douce ?
     ${selection-lines}
-    Free the chocobo!
-    No. Think of Brutus!${prompt}
+    Libérer le chocobo !
+    Non. Pense à Brutus !${prompt}
   11133: Kweh...${prompt}
-  11134: Whew, these chocobos always act like they're starving...${prompt}
-  11135: '...What''s this?${prompt}'
+  11134: Ouah, ces chocobos agissent toujours comme s'ils mouraient de faim...${prompt}
+  11135: '...Qu’est-ce que c’est que ça ?${prompt}'
   11136: |-
-    One of the chocobos is gone!
-    I never thought I'd see the day!${prompt}
-  11137: Could he have understood what we were talking about earlier?${prompt}
-  11138: That chocobo always was a smart one. I wouldn't be surprised if he did understand, and went off in search of his wild companions...${prompt}
-  11139: But wild chocobos don't exist anymore.${prompt}
-  11140: That chocobo was raised in a stable. He doesn't realize how harsh the world out there is! What if he were attacked by some despicable creature?${prompt}
-  11141: Please help me bring him back!${prompt}
-  11142: The chocobo that escaped probably headed for La Theine... Good luck finding him.${prompt}
-  11143: Thanks for bringing the chocobo back.${prompt}
-  11144: He's been acting a bit strange ever since returning, though.${prompt}
-  11145: He used to be so responsive to commands, but lately he's become rather stubborn. It's not a good influence on the other chocobos.${prompt}
-  11146: I wonder what happened at La Theine...${prompt}
-  11147: So it is happening even here...${prompt}
-  11148: Hm? You're from San d'Oria, aren't you? So the chocobos are acting strangely there too?${prompt}
+    Un des chocobos a disparu !
+    Je n'aurais jamais cru voir ça un jour !${prompt}
+  11137: Aurait-il compris ce dont nous parlions plus tôt ?${prompt}
+  11138: Ce chocobo a toujours été malin. Je ne serais pas surpris s'il avait compris et était parti à la recherche de ses compagnons sauvages...${prompt}
+  11139: Mais les chocobos sauvages n'existent plus.${prompt}
+  11140: Ce chocobo a été élevé dans une écurie. Il ne se rend pas compte de la dureté du monde là-bas ! Et s'il était attaqué par une créature abjecte ?${prompt}
+  11141: S'il te plaît, aide-moi à le ramener !${prompt}
+  11142: Le chocobo qui s'est échappé est probablement parti pour La Theine... Bonne chance pour le retrouver.${prompt}
+  11143: Merci d'avoir ramené le chocobo.${prompt}
+  11144: Il a agi un peu étrangement depuis son retour, cependant.${prompt}
+  11145: Il était si réactif aux commandes, mais dernièrement, il est devenu plutôt têtu. Ce n'est pas une bonne influence sur les autres chocobos.${prompt}
+  11146: Je me demande ce qu'il s'est passé à La Theine...${prompt}
+  11147: Donc, cela se produit même ici...${prompt}
+  11148: Hein ? Tu viens de San d'Oria, n'est-ce pas ? Donc les chocobos agissent bizarrement là-bas aussi ?${prompt}
   11149: |-
-    That is correct, sir.
-    Something appears to be stirring among the chocobos... We must call the Vana'diel Chocobo Society into session immediately.${prompt}
-  11150: I shall rally the members from the nations of Vana'diel myself. As soon as you have made your preparations, please make haste to the chocobo stables in San d'Oria.${prompt}
-  11151: What a mess...${prompt}
-  11152: Sorry, but I think you should also attend the session. You're the one who last saw the chocobo before the change...${prompt}
-  11153: Kweh!!!${prompt}
-  11154: What a travesty...${prompt}
-  11155: Is this how chocobos would behave without our intervention?${prompt}
-  11156: I apologize for the delay.${prompt}
-  11157: Kweh!${prompt}
-  11158: Kweh!${prompt}
-  11159: Kweh!!!${prompt}
-  11160: Kweh!!!${prompt}
-  11161: Could these chocobos already know each other!?${prompt}
-  11162: ${name-player}, what is the meaning of this?${prompt}
-  11163: I see... So the two met on the La Theine Plateau, each believing they had met a wild chocobo...${prompt}
-  11164: They had us all worked up over nothing...${prompt}
+    C'est exact, monsieur.
+    Il semble se passer quelque chose parmi les chocobos... Nous devons convoquer immédiatement la Société des Chocobos de Vana'diel en session.${prompt}
+  11150: Je vais rassembler moi-même les membres des nations de Vana'diel. Dès que vous aurez fait vos préparatifs, hâtez-vous vers les écuries de chocobos à San d'Oria.${prompt}
+  11151: Quel désordre...${prompt}
+  11152: Désolé, mais je pense que vous devriez également assister à la session. Vous êtes le dernier à avoir vu le chocobo avant le changement...${prompt}
+  11153: Kweh !!!${prompt}
+  11154: Quelle catastrophe...${prompt}
+  11155: Est-ce ainsi que se comporteraient les chocobos sans notre intervention ?${prompt}
+  11156: Je m'excuse pour le retard.${prompt}
+  11157: Kweh !${prompt}
+  11158: Kweh !${prompt}
+  11159: Kweh !!!${prompt}
+  11160: Kweh !!!${prompt}
+  11161: Ces chocobos se connaîtraient-ils déjà !?${prompt}
+  11162: ${name-player}, que signifie ceci ?${prompt}
+  11163: Je vois... Donc les deux se sont rencontrés sur le Plateau de La Theine, chacun croyant avoir rencontré un chocobo sauvage...${prompt}
+  11164: Ils nous ont tous excités pour rien...${prompt}
   11165: Kweh...${prompt}
   11166: Kweeeh...${prompt}
-  11167: Kweh!${prompt}
+  11167: Kweh !${prompt}
   11168: Kweeeh♪${prompt}
-  11169: Looks like they're already doing better. Chocobos are really somethin', aren't they?${prompt}
-  11170: They're much cuter like this.${prompt}
-  11171: Thanks to you, the chocobo stables are doing better than ever before. You adventurers are doin' a great job... I've never seen such fine-lookin' animals!${prompt}
+  11169: On dirait qu'ils vont déjà mieux. Les chocobos sont vraiment quelque chose, n'est-ce pas ?${prompt}
+  11170: Ils sont tellement plus mignons comme ça.${prompt}
+  11171: Grâce à vous, les écuries de chocobos se portent mieux que jamais. Vous, aventuriers, faites un excellent travail... Je n'ai jamais vu d'animaux aussi magnifiques !${prompt}
   11172: |-
-    Here's a little token of my gratitude.
-    I'm sure you can raise a winner!${prompt}
-  11173: It's thanks to you that the chocobo stables are still thriving.${prompt}
-  11174: I'm going to have another talk with the VCS about everything that has happened. Come back later and I'll tell you how it went.${prompt}
-  11175: Great timing, ${name-player}! I have something good to tell you! The Vana'diel Chocobo Society made a big decision...${prompt}
-  11176: Thanks to ${name-player}, the chocobos' behavior has returned to normal.${prompt}
-  11177: In all probability, we will require the aid of the adventurers in other matters from now on.${prompt}
-  11178: And thus, I would like to propose that we allow adventurers to participate in chocobo raising.${prompt}
-  11179: Adventurers!?${prompt}
-  11180: Raising chocobos!?${prompt}
-  11181: Now there's an idea...${prompt}
-  11182: I am confident that one such as ${name-player} could raise a fine chocobo! What say you?${prompt}
-  11183: Well then, by unanimous consent, I now approve adventurers to take part in chocobo raising!${prompt}
-  11184: Session adjourned!${prompt}
+    Voici un petit geste de ma gratitude.
+    Je suis sûr que vous pouvez élever un champion !${prompt}
+  11173: C'est grâce à vous si les écuries de chocobos prospèrent toujours.${prompt}
+  11174: Je vais avoir une autre discussion avec la VCS à propos de tout ce qui s'est passé. Revenez plus tard et je vous dirai comment ça s'est passé.${prompt}
+  11175: Excellent timing, ${name-player} ! J'ai quelque chose de bon à vous dire ! La Société des Chocobos de Vana'diel a pris une grande décision...${prompt}
+  11176: Grâce à ${name-player}, le comportement des chocobos est revenu à la normale.${prompt}
+  11177: Il est fort probable que nous ayons besoin de l'aide des aventuriers pour d'autres affaires à l'avenir.${prompt}
+  11178: Et donc, je propose que nous autorisions les aventuriers à participer à l'élevage de chocobos.${prompt}
+  11179: Des aventuriers !?${prompt}
+  11180: Élever des chocobos !?${prompt}
+  11181: Voilà une idée...${prompt}
+  11182: Je suis convaincu qu'une personne comme ${name-player} pourrait élever un excellent chocobo ! Qu'en dites-vous ?${prompt}
+  11183: Eh bien, par consentement unanime, j'approuve maintenant la participation des aventuriers à l'élevage de chocobos !${prompt}
+  11184: Séance levée !${prompt}
   11185: |-
-    ...And that's how it went.
-    Letting adventurers participate should really liven things up around the chocobo stables!${prompt}
-  11186: I'll let this be your first one. Bring it to a stable and I'm sure ya can raise 'er to be a fine chocobo.${prompt}
-  11187: Be sure to give your chocobo lots of loving care. When it comes down to it, that's what's most important.${prompt}
-  11188: I'm Finbarr, the chocoguy!${prompt}
-  11189: Thanks!${prompt}
-  11190: The chick hasn't been born yet...${prompt}
-  11191: A chick was born!${prompt}
-  11192: 'You obtain ${article} ${item-article: 1[2]}!${prompt}'
+    ...Et voilà comment ça s'est passé.
+    Permettre aux aventuriers de participer devrait vraiment dynamiser les choses autour des écuries de chocobos !${prompt}
+  11186: Je vais vous laisser celle-ci en premier. Apportez-la à une écurie et je suis sûr que vous pourrez l'élever pour en faire un excellent chocobo.${prompt}
+  11187: Assurez-vous de donner beaucoup d'amour et de soins à votre chocobo. En fin de compte, c'est ce qui importe le plus.${prompt}
+  11188: Je suis Finbarr, le gars aux chocobos !${prompt}
+  11189: Merci !${prompt}
+  11190: Le poussin n'est pas encore né...${prompt}
+  11191: Un poussin est né !${prompt}
+  11192: 'Vous obtenez ${article} ${item-article: 1[2]} !${prompt}'
   11193: |-
-    Hello there!
-    Your chocobo should be fully grown in no time!${prompt}
+    Bonjour !
+    Votre chocobo devrait être entièrement grandi en un rien de temps !${prompt}
   11194: |-
     This week's schedule:
     ${selection-lines}
