@@ -17053,287 +17053,287 @@ entries:
     Your fate rides on the changing winds of Vana'diel.
     I can give you insight on the local weather.${prompt}
   6905: |-
-    What area's weather do you wish to know?
+    De quelle région souhaitez-vous connaître le temps ?
     ${selection-lines}
-    Nowhere.
+    Nulle part.
     Ronfaure.
-    La Theine Plateau.
-    Valkurm Dunes.
-    Jugner Forest.
-    Batallia Downs.
+    Plateau de La Theine.
+    Dunes de Valkurm.
+    Forêt de Jugner.
+    Plaines de Batallia.
     Gustaberg.
-    Konschtat Highlands.
-    Pashhow Marshlands.
-    Rolanberry Fields.
-    Beaucedine Glacier.
+    Hautes terres de Konschtat.
+    Marais de Pashhow.
+    Champs de Rolanberry.
+    Glacier de Beaucedine.
     Xarcabard.
-    Cape Teriggan.
-    Altepa Desert.
+    Cap Teriggan.
+    Désert d'Altepa.
     Sarutabaruta.
-    Tahrongi Canyon.
-    Buburimu Peninsula.
-    Meriphataud Mountains.
-    Sauromugue Champaign.
-    The Sanctuary of Zi'Tah.
-    Yuhtunga & Yhoator Jungles.
-    Qufim Island.
+    Canyon de Tahrongi.
+    Péninsule de Buburimu.
+    Montagnes de Meriphataud.
+    Champagne de Sauromugue.
+    Sanctuaire de Zi'Tah.
+    Jungles de Yuhtunga & Yhoator.
+    Île de Qufim.
     Tu'Lia.
     Ferry.
-    Airship.
+    Vaisseau volant.
     Jeuno.
-    Uleguerand Range.
-    Tavnazian Archipelago.
+    Chaîne d'Uleguerand.
+    Archipel de Tavnazian.
     Riverne - Sites #A01 & #B01.${prompt}
-  6906: 'That area''s forecast for today is for ${weather-noun: 0[2]} with occasional ${weather-noun: 1[2]}. There is also a slight chance of ${weather-noun: 2[2]}, so caution is advised.${prompt}'
-  6907: 'The forecast for tomorrow is for ${weather-noun: 0[2]} with occasional ${weather-noun: 1[2]}. There is also a slight chance of ${weather-noun: 2[2]}, so caution is advised.${prompt}'
-  6908: 'And, the forecast for the day after tomorrow is for ${weather-noun: 0[2]} with occasional ${weather-noun: 1[2]}. There is also a slight chance of ${weather-noun: 2[2]}, so caution is advised.${prompt}'
-  6909: 'Today, that area''s weather will be ${weather-adjective: 0[2]} with a chance of ${weather-noun: 1[2]}.${prompt}'
-  6910: 'Tomorrow, the weather will be ${weather-adjective: 0[2]} with a chance of ${weather-noun: 1[2]}.${prompt}'
-  6911: 'And, the day after tomorrow, the weather will be ${weather-adjective: 0[2]} with a chance of ${weather-noun: 1[2]}.${prompt}'
-  6912: 'Today, the weather in that area will be ${weather-adjective: 0[2]}. There is also the possibility of ${weather-noun: 2[2]}, so caution is advised.${prompt}'
-  6913: 'Tomorrow, the weather will be ${weather-adjective: 0[2]}. There is also the possibility of ${weather-noun: 2[2]}, so caution is advised.${prompt}'
-  6914: 'And, the day after tomorrow, the weather will be ${weather-adjective: 0[2]}. There is also the possibility of ${weather-noun: 2[2]}, so caution is advised.${prompt}'
-  6915: 'The weather in that area today will be ${weather-adjective: 0[2]}.${prompt}'
-  6916: 'The weather tomorrow will be ${weather-adjective: 0[2]}.${prompt}'
-  6917: 'The weather the day after tomorrow will be ${weather-adjective: 0[2]}.${prompt}'
-  6918: And that's the report, straight from Vana'diel's official weather linkshell.${prompt}
+  6906: 'La prévision pour cette région aujourd’hui est de ${weather-noun: 0[2]} avec des ${weather-noun: 1[2]} occasionnels. Il y a aussi une légère chance de ${weather-noun: 2[2]}, donc la prudence est conseillée.${prompt}'
+  6907: 'La prévision pour demain est de ${weather-noun: 0[2]} avec des ${weather-noun: 1[2]} occasionnels. Il y a aussi une légère chance de ${weather-noun: 2[2]}, donc la prudence est conseillée.${prompt}'
+  6908: 'Et la prévision pour après-demain est de ${weather-noun: 0[2]} avec des ${weather-noun: 1[2]} occasionnels. Il y a aussi une légère chance de ${weather-noun: 2[2]}, donc la prudence est conseillée.${prompt}'
+  6909: 'Aujourd’hui, le temps dans cette région sera ${weather-adjective: 0[2]} avec une chance de ${weather-noun: 1[2]}.${prompt}'
+  6910: 'Demain, le temps sera ${weather-adjective: 0[2]} avec une chance de ${weather-noun: 1[2]}.${prompt}'
+  6911: 'Et après-demain, le temps sera ${weather-adjective: 0[2]} avec une chance de ${weather-noun: 1[2]}.${prompt}'
+  6912: 'Aujourd’hui, le temps dans cette région sera ${weather-adjective: 0[2]}. Il y a aussi la possibilité de ${weather-noun: 2[2]}, donc la prudence est conseillée.${prompt}'
+  6913: 'Demain, le temps sera ${weather-adjective: 0[2]}. Il y a aussi la possibilité de ${weather-noun: 2[2]}, donc la prudence est conseillée.${prompt}'
+  6914: 'Et après-demain, le temps sera ${weather-adjective: 0[2]}. Il y a aussi la possibilité de ${weather-noun: 2[2]}, donc la prudence est conseillée.${prompt}'
+  6915: 'Le temps dans cette région aujourd’hui sera ${weather-adjective: 0[2]}.${prompt}'
+  6916: 'Le temps demain sera ${weather-adjective: 0[2]}.${prompt}'
+  6917: 'Le temps après-demain sera ${weather-adjective: 0[2]}.${prompt}'
+  6918: Et c'est le rapport, directement de la linkshell météorologique officielle de Vana'diel.${prompt}
   6919: |-
-    What area's weather do you wish to know?
-    ${selection-lines}
-    Nowhere.
-    Wajaom Woodlands.
-    Bhaflau Thickets.
-    Mount Zhayolm.
-    Caedarva Mire.${prompt}
+      De quelle région souhaitez-vous connaître le temps ?
+      ${selection-lines}
+      Nulle part.
+      Forêt de Wajaom.
+      Fourrés de Bhaflau.
+      Mont Zhayolm.
+      Marais de Caedarva.${prompt}
   6920: |-
-    What area's weather do you wish to know?
-    ${selection-lines}
-    Nowhere.
-    Ceizak Battlegrounds.
-    Yahse Hunting Grounds.
-    Foret de Hennetiel.
-    Morimar Basalt Fields.
-    Yorcia Weald.
-    Marjami Ravine.
-    Kamihr Drifts.${prompt}
-  6921: (...Yeah, that's what I said!)${prompt}
-  6922: (But you know what? Oh, wait. Hold on...)${prompt}
-  6923: I'm sorry, can I help you?${prompt}
-  6924: '${color-alt: 15}${name-player} points to the item in ${name-npc}''s hand.'
-  6925: 'Oh, this? It''s a magical shell called ${article} ${item-article: 1[2]}.${prompt}'
+      De quelle région souhaitez-vous connaître le temps ?
+      ${selection-lines}
+      Nulle part.
+      Champs de bataille de Ceizak.
+      Terrains de chasse de Yahse.
+      Forêt de Hennetiel.
+      Champs de basalte de Morimar.
+      Weald de Yorcia.
+      Ravin de Marjami.
+      Drifts de Kamihr.${prompt}
+  6921: (...Ouais, c'est ce que j'ai dit !)${prompt}
+  6922: (Mais tu sais quoi ? Oh, attends. Un instant...)${prompt}
+  6923: Désolé, puis-je vous aider ?${prompt}
+  6924: '${color-alt: 15}${name-player} pointe vers l’objet dans la main de ${name-npc}.'
+  6925: 'Oh, ça ? C’est une coquille magique appelée ${article} ${item-article: 1[2]}.${prompt}'
   6926: |-
-    You want to know about ${item-plural: 1[2]}?
-    Let me tell you all about them!${prompt}
+      Vous voulez en savoir plus sur ${item-plural: 1[2]} ?
+      Laissez-moi tout vous expliquer !${prompt}
   6927: |-
-    What do you want to ask?
-    ${selection-lines}
-    What's ${article} ${item-article: 1[2]}?
-    What types of ${item-plural: 1[2]} are there?
-    How do you use them?
-    Never mind.${prompt}
-  6928: These magic shells are full of mysteries...${prompt}
+      Que voulez-vous demander ?
+      ${selection-lines}
+      Qu'est-ce que ${article} ${item-article: 1[2]} ?
+      Quels types de ${item-plural: 1[2]} existe-t-il ?
+      Comment les utiliser ?
+      Peu importe.${prompt}
+  6928: Ces coquilles magiques sont pleines de mystères...${prompt}
   6929: |-
-    You can get beautiful pearls from them.
-    Some say these are some new form of shall shells, but...${prompt}
+      Vous pouvez en obtenir de belles perles.
+      Certains disent que ce sont de nouvelles sortes de coquilles de shall, mais...${prompt}
   6930: |-
-    Even if you take out a pearl, they make more and more of them.
-    Strange, isn't it?${prompt}
-  6931: What's more strange is that pearls taken from the same shell actually transmit sound, no matter how far apart they are!${prompt}
-  6932: So, if you speak into one of the pearls, people who hold other pearls or the shell they were made from can hear you!${prompt}
-  6933: It's as if they were linked by an invisible thread... Huh. I guess that's why they have "link" in their names.${prompt}
-  6934: 'So anyway, the shells are called ${item-plural: 1[2]}, and the pearls ${item-plural: 2[2]}.${prompt}'
-  6935: 'There are also different types of ${item-plural: 1[2]}.${prompt}'
-  6936: Is there anything else you want to know?
+      Même si vous sortez une perle, elles en produisent de plus en plus.
+      Étrange, non ?${prompt}
+  6931: Ce qui est encore plus étrange, c'est que les perles provenant de la même coquille transmettent le son, peu importe la distance qui les sépare !${prompt}
+  6932: Donc, si vous parlez dans l'une des perles, les personnes qui possèdent d'autres perles ou la coquille dont elles proviennent peuvent vous entendre !${prompt}
+  6933: C'est comme si elles étaient liées par un fil invisible... Hein. Je suppose que c'est pour cela qu'elles ont "link" dans leurs noms.${prompt}
+  6934: 'Donc, les coquilles sont appelées ${item-plural: 1[2]}, et les perles ${item-plural: 2[2]}.${prompt}'
+  6935: 'Il existe également différents types de ${item-plural: 1[2]}.${prompt}'
+  6936: Y a-t-il autre chose que vous voulez savoir ?
   6937: |-
-    What do you want to ask about?
-    ${selection-lines}
-    ${lettercase: 1}${item-plural: 0[2]}.
-    ${lettercase: 1}${item-plural: 1[2]}.
-    ${lettercase: 1}${item-plural: 2[2]}.
-    ${lettercase: 1}${item-plural: 3[2]}.
-    Back.${prompt}
-  6938: '${lettercase: 1}${item-plural: 0[2]} are ${item-plural: 1[2]} when you first buy them at the store.${prompt}'
-  6939: 'Once opened, they start making ${item-plural: 2[2]} and become the communications tool everyone''s using.${prompt}'
-  6940: 'You can set the color and name of your ${item-singular: 1[2]} when you open it. Make sure to set the ones you like because you can''t change them afterwards!${prompt}'
-  6941: '${lettercase: 1}${item-plural: 1[2]} are ${item-plural: 0[2]} that have been opened and function as a communications tool.${prompt}'
+      Sur quoi voulez-vous poser une question ?
+      ${selection-lines}
+      ${lettercase: 1}${item-plural: 0[2]}.
+      ${lettercase: 1}${item-plural: 1[2]}.
+      ${lettercase: 1}${item-plural: 2[2]}.
+      ${lettercase: 1}${item-plural: 3[2]}.
+      Retour.${prompt}
+  6938: '${lettercase: 1}${item-plural: 0[2]} sont des ${item-plural: 1[2]} lorsque vous les achetez pour la première fois au magasin.${prompt}'
+  6939: 'Une fois ouverts, ils commencent à créer des ${item-plural: 2[2]} et deviennent l’outil de communication que tout le monde utilise.${prompt}'
+  6940: 'Vous pouvez définir la couleur et le nom de votre ${item-singular: 1[2]} lors de son ouverture. Assurez-vous de choisir ceux que vous aimez car vous ne pourrez pas les changer par la suite !${prompt}'
+  6941: '${lettercase: 1}${item-plural: 1[2]} sont des ${item-plural: 0[2]} qui ont été ouverts et qui fonctionnent comme un outil de communication.${prompt}'
   6942: |-
-    You can make ${item-plural: 2[2]} and ${item-plural: 3[2]} from those shells.
-    They're like the party leader of an adventuring party.${prompt}
-  6943: 'All items created by your ${item-singular: 1[2]} retain the ${item-singular: 1[2]}''s color and name.${prompt}'
-  6944: Make the name something unique so that it's easy to remember.${prompt}
-  6945: '${lettercase: 1}${item-plural: 2[2]} are pearls that ${item-plural: 1[2]} make.${prompt}'
-  6946: 'If you equip one, you can communicate with people who have the same ${item-plural: 2[2]} and the ${item-singular: 1[2]} they were made from.${prompt}'
-  6947: They're like the party members in an adventuring party.${prompt}
-  6948: '${lettercase: 1}${article} ${item-article: 3[2]} is a bag full of ${item-plural: 2[2]}. You can make one by metamorphosing a ${item-singular: 2[2]} for that purpose.${prompt}'
-  6949: 'It won''t have all the features of ${article} ${item-article: 1[2]}, but you can take out an endless amount of ${item-plural: 2[2]} like ${article} ${item-article: 1[2]}.${prompt}'
-  6950: 'You have to use ${article} ${item-article: 1[2]} to make ${article} ${item-article: 3[2]}. The same goes if you want to turn it back into ${article} ${item-article: 2[2]}.${prompt}'
-  6951: They're like the party leaders of an alliance of adventuring parties...${prompt}
+      Vous pouvez créer des ${item-plural: 2[2]} et des ${item-plural: 3[2]} à partir de ces coquilles.
+      Elles sont comme le chef de groupe d'une équipe d'aventuriers.${prompt}
+  6943: 'Tous les objets créés par votre ${item-singular: 1[2]} conservent la couleur et le nom de la ${item-singular: 1[2]}.${prompt}'
+  6944: Choisissez un nom unique afin qu'il soit facile à retenir.${prompt}
+  6945: '${lettercase: 1}${item-plural: 2[2]} sont des perles que ${item-plural: 1[2]} fabriquent.${prompt}'
+  6946: 'Si vous en équipez une, vous pouvez communiquer avec les personnes qui possèdent les mêmes ${item-plural: 2[2]} et la ${item-singular: 1[2]} dont elles proviennent.${prompt}'
+  6947: Elles sont comme les membres du groupe dans une équipe d'aventuriers.${prompt}
+  6948: '${lettercase: 1}${article} ${item-article: 3[2]} est un sac rempli de ${item-plural: 2[2]}. Vous pouvez en créer un en métamorphosant une ${item-singular: 2[2]} à cet effet.${prompt}'
+  6949: 'Il n’aura pas toutes les fonctionnalités de ${article} ${item-article: 1[2]}, mais vous pouvez sortir une quantité infinie de ${item-plural: 2[2]} comme ${article} ${item-article: 1[2]}.${prompt}'
+  6950: 'Vous devez utiliser ${article} ${item-article: 1[2]} pour créer ${article} ${item-article: 3[2]}. Il en va de même si vous souhaitez le reconvertir en ${article} ${item-article: 2[2]}.${prompt}'
+  6951: Elles sont comme les chefs de groupe d'une alliance d'équipes d'aventuriers...${prompt}'
   6952: |-
-    You want to know how to use them?
-    Where should I start?${prompt}
+      Vous voulez savoir comment les utiliser ?
+      Par où devrais-je commencer ?${prompt}
   6953: |-
-    What do you want to know about?
-    ${selection-lines}
-    Where to get one.
-    Assigning a color and name.
-    Making ${item-plural: 2[2]}.
-    Equipping them.
-    Speaking into them.
-    Metamorphosing ${article} ${item-article: 2[2]}.
-    Throwing them away.
-    Back.${prompt}
-  6954: 'You can buy ${item-plural: 1[2]} in shops. They''re a little pricey, though.${prompt}'
-  6955: It might be best if you ask friends who want pearls to chip in.${prompt}
-  6956: 'A freshly bought ${item-singular: 0[2]} has neither a color nor a name.${prompt}'
-  6957: '${lettercase: 1}${article} ${item-article: 1[2]} becomes usable only after you''ve chosen its color and given it a name. Then you can use it to make ${item-plural: 2[2]}.${prompt}'
+      Que voulez-vous savoir ?
+      ${selection-lines}
+      Où en obtenir un.
+      Assigner une couleur et un nom.
+      Fabriquer des ${item-plural: 2[2]}.
+      Les équiper.
+      Parler dedans.
+      Métamorphoser ${article} ${item-article: 2[2]}.
+      Les jeter.
+      Retour.${prompt}
+  6954: 'Vous pouvez acheter des ${item-plural: 1[2]} dans les magasins. Ils sont un peu chers, cependant.${prompt}'
+  6955: Il serait peut-être préférable de demander à des amis qui veulent des perles de participer aux frais.${prompt}
+  6956: 'Une ${item-singular: 0[2]} fraîchement achetée n’a ni couleur ni nom.${prompt}'
+  6957: '${lettercase: 1}${article} ${item-article: 1[2]} devient utilisable seulement après avoir choisi sa couleur et lui avoir donné un nom. Ensuite, vous pouvez l’utiliser pour créer des ${item-plural: 2[2]}.${prompt}'
   6958: |-
-    You can combine different amounts of blue, red, and green to make your shell's color.
-    You can only use alphabet letters for the name, but you can use capital and lowercase letters anywhere you want.${prompt}
-  6959: '${lettercase: 1}${item-plural: 2[2]} are made from ${item-plural: 1[2]}.${prompt}'
-  6960: 'Making them is easy. Just equip your ${item-singular: 1[2]}, then go to “Linkshell” in the menu and select “Create Pearl”!${prompt}'
-  6961: 'All ${item-plural: 2[2]} made this way retain the ${item-singular: 1[2]}''s color and name, so it''s easy to tell who can hear you!${prompt}'
-  6962: 'You can make as many ${item-plural: 2[2]} as you want, whenever you want, so don''t worry about making too many of them!${prompt}'
-  6963: 'You can also make ${item-plural: 2[2]} with ${article} ${item-article: 3[2]} the same way.${prompt}'
-  6964: 'Oh, and...you use your ${item-singular: 1[2]} to make ${item-plural: 3[2]}, too, but it''s a little complicated so I''ll tell you later.${prompt}'
-  6965: 'You have to equip ${article} ${item-article: 1[2]} for it to have any effect.${prompt}'
-  6966: 'Go to “Linkshell” from the menu, choose the ${item-singular: 1[2]} you want to equip, and you''re all ready to go.${prompt}'
-  6967: It's a little different from equipping weapons and armor.${prompt}
-  6968: After you've done this, an icon that represents what you've equipped will appear beside your name. This is where the color you chose becomes visible.${prompt}
-  6969: 'If someone “checks” you in this state, they will be able to see the name of the ${item-singular: 1[2]} you have on.${prompt}'
-  6970: 'Follow the same steps to equip ${item-plural: 2[2]} and ${item-plural: 3[2]}.${prompt}'
-  6971: 'To speak into ${article} ${item-article: 1[2]}, change your chat mode to “linkshell,” and whatever you say will be heard by everyone who has the same “link.”${prompt}'
-  6972: You can also type “/linkshell” and type your message. The shorter version is “/l” (lowercase “L” for “linkshell”).${prompt}
-  6973: 'Ah, but of course, you have to have ${article} ${item-article: 1[2]}, ${item-singular: 2[2]}, or ${item-singular: 3[2]} equipped first.${prompt}'
-  6974: 'Whatever you say will only be heard by people who have the ${item-singular: 1[2]}, ${item-singular: 2[2]}, or ${item-singular: 3[2]} with the same link.${prompt}'
-  6975: 'So if you want to stop listening to your link, all you have to do is unequip your ${item-singular: 1[2]}, ${item-singular: 2[2]}, or ${item-singular: 3[2]}.${prompt}'
-  6976: '${lettercase: 1}${article} ${item-article: 1[2]} can metamorphose other people''s ${item-plural: 2[2]} and ${item-plural: 3[2]}. Of course, it can only affect those that were made from the same ${item-singular: 1[2]}.${prompt}'
+      Vous pouvez combiner différentes quantités de bleu, rouge et vert pour créer la couleur de votre coquille.
+      Vous ne pouvez utiliser que des lettres de l'alphabet pour le nom, mais vous pouvez utiliser des majuscules et des minuscules où vous voulez.${prompt}
+  6959: '${lettercase: 1}${item-plural: 2[2]} sont fabriqués à partir des ${item-plural: 1[2]}.${prompt}'
+  6960: 'Les fabriquer est facile. Il suffit d’équiper votre ${item-singular: 1[2]}, puis d’aller dans "Linkshell" dans le menu et de sélectionner "Créer une perle"!${prompt}'
+  6961: 'Toutes les ${item-plural: 2[2]} fabriquées de cette manière conservent la couleur et le nom de la ${item-singular: 1[2]}, donc il est facile de savoir qui peut vous entendre!${prompt}'
+  6962: 'Vous pouvez créer autant de ${item-plural: 2[2]} que vous le souhaitez, quand vous le souhaitez, alors ne vous inquiétez pas d’en faire trop!${prompt}'
+  6963: 'Vous pouvez également fabriquer des ${item-plural: 2[2]} avec ${article} ${item-article: 3[2]} de la même manière.${prompt}'
+  6964: 'Oh, et... vous utilisez votre ${item-singular: 1[2]} pour créer des ${item-plural: 3[2]}, mais c’est un peu compliqué donc je vous l’expliquerai plus tard.${prompt}'
+  6965: 'Vous devez équiper ${article} ${item-article: 1[2]} pour qu’il ait un effet.${prompt}'
+  6966: 'Allez dans "Linkshell" depuis le menu, choisissez la ${item-singular: 1[2]} que vous souhaitez équiper, et vous êtes prêt à partir.${prompt}'
+  6967: C'est un peu différent de l'équipement des armes et des armures.${prompt}
+  6968: Après avoir fait cela, une icône représentant ce que vous avez équipé apparaîtra à côté de votre nom. C'est là que la couleur que vous avez choisie devient visible.${prompt}
+  6969: 'Si quelqu’un vous "vérifie" dans cet état, il pourra voir le nom de la ${item-singular: 1[2]} que vous portez.${prompt}'
+  6970: 'Suivez les mêmes étapes pour équiper des ${item-plural: 2[2]} et des ${item-plural: 3[2]}.${prompt}'
+  6971: 'Pour parler dans ${article} ${item-article: 1[2]}, changez votre mode de chat en "linkshell", et tout ce que vous dites sera entendu par tous ceux qui ont le même "lien".${prompt}'
+  6972: Vous pouvez également taper "/linkshell" et taper votre message. La version plus courte est "/l" (lettre minuscule "L" pour "linkshell").${prompt}'
+  6973: 'Ah, mais bien sûr, vous devez avoir ${article} ${item-article: 1[2]}, ${item-singular: 2[2]}, ou ${item-singular: 3[2]} équipé d’abord.${prompt}'
+  6974: 'Tout ce que vous dites ne sera entendu que par les personnes qui ont la ${item-singular: 1[2]}, ${item-singular: 2[2]}, ou ${item-singular: 3[2]} avec le même lien.${prompt}'
+  6975: 'Donc, si vous voulez arrêter d’écouter votre lien, il vous suffit de déséquiper votre ${item-singular: 1[2]}, ${item-singular: 2[2]}, ou ${item-singular: 3[2]}.${prompt}'
+  6976: '${lettercase: 1}${article} ${item-article: 1[2]} peut métamorphoser les ${item-plural: 2[2]} et ${item-plural: 3[2]} des autres. Bien sûr, il ne peut affecter que ceux qui ont été fabriqués à partir de la même ${item-singular: 1[2]}.${prompt}'
   6977: |-
-    There are two types of metamorphoses, which are:
-     1: Make into sack / Make into pearl
-     2: Kick.${prompt}
-  6978: 'Both need the target ${item-singular: 2[2]} or ${item-singular: 3[2]} to be equipped at the time.${prompt}'
-  6979: '“Make into sack / Make into pearl” makes the target ${item-singular: 2[2]} into ${article} ${item-article: 3[2]} and vice-versa.${prompt}'
-  6980: 'It''s useful if you want someone else to take care of handing out ${item-plural: 2[2]} in your place.${prompt}'
-  6981: '“Kick” actually breaks the link with the target ${item-singular: 2[2]} or ${item-singular: 3[2]} and turns it into junk.${prompt}'
+      Il y a deux types de métamorphoses, qui sont :
+       1 : Transformer en sac / Transformer en perle
+       2 : Expulser.${prompt}
+  6978: 'Les deux nécessitent que la ${item-singular: 2[2]} ou la ${item-singular: 3[2]} cible soit équipée au moment de la transformation.${prompt}'
+  6979: '“Transformer en sac / Transformer en perle” transforme la ${item-singular: 2[2]} cible en ${article} ${item-article: 3[2]} et vice-versa.${prompt}'
+  6980: 'C’est utile si vous voulez que quelqu’un d’autre s’occupe de distribuer des ${item-plural: 2[2]} à votre place.${prompt}'
+  6981: '“Expulser” casse réellement le lien avec la ${item-singular: 2[2]} ou la ${item-singular: 3[2]} cible et la transforme en déchet.${prompt}'
   6982: |-
-    Once kicked, the ${item-singular: 2[2]} will become broken and unusable...
-    Only use this in extreme cases!${prompt}
-  6983: '${lettercase: 1}${item-plural: 3[2]} can also be used to “kick” but they can only affect ${item-plural: 2[2]}.${prompt}'
-  6984: '${lettercase: 1}${item-plural: 1[2]}, ${item-plural: 2[2]}, and ${item-plural: 3[2]} are normal items, so they can be thrown away easily.${prompt}'
-  6985: But as normal items, you'll lose them permanently if you throw them away.${prompt}
-  6986: 'It won''t really matter if it''s ${article} ${item-article: 2[2]}, but throwing away ${article} ${item-article: 1[2]} is not a good idea!${prompt}'
+      Une fois expulsée, la ${item-singular: 2[2]} devient cassée et inutilisable...
+      N'utilisez cela qu'en cas extrême !${prompt}
+  6983: '${lettercase: 1}${item-plural: 3[2]} peuvent également être utilisés pour "expulser", mais ils ne peuvent affecter que des ${item-plural: 2[2]}.${prompt}'
+  6984: '${lettercase: 1}${item-plural: 1[2]}, ${item-plural: 2[2]}, et ${item-plural: 3[2]} sont des objets normaux, donc ils peuvent être facilement jetés.${prompt}'
+  6985: Mais comme ce sont des objets normaux, vous les perdrez définitivement si vous les jetez.${prompt}
+  6986: 'Cela n’aura pas vraiment d’importance si c’est ${article} ${item-article: 2[2]}, mais jeter ${article} ${item-article: 1[2]} n’est pas une bonne idée !${prompt}'
   6987: |-
-    Oh, are you sure?
-    Well, if you ever have any questions about ${item-plural: 1[2]} you know where to find me!${prompt}
-  6988: (So anyway, as I was saying...)
-  6989: Can I help you?${prompt}
-  6990: Welcome to the Chocobo Shop.${prompt}
-  6991: Welcome to Viette's Finest Weapons.${prompt}
-  6992: Welcome to Durable Shields.${prompt}
-  6993: Welcome to M & P's Market.${prompt}
+      Oh, êtes-vous sûr ?
+      Eh bien, si vous avez des questions sur les ${item-plural: 1[2]}, vous savez où me trouver !${prompt}
+  6988: (Quoi qu'il en soit, comme je le disais...)
+  6989: Puis-je vous aider ?${prompt}
+  6990: Bienvenue à la Boutique des Chocobos.${prompt}
+  6991: Bienvenue chez les Meilleures Armes de Viette.${prompt}
+  6992: Bienvenue chez les Boucliers Durables.${prompt}
+  6993: Bienvenue au Marché de M & P.${prompt}
   6994: |-
-    Up: Ru'Lude Gardens
-    Down: Lower Jeuno (${selection-lines}
-    facing Bastok)${prompt}
+      Haut : Jardins de Ru'Lude
+      Bas : Basse Jeuno (${selection-lines}
+      face à Bastok)${prompt}
   6995: '${number: 0}${prompt}'
-  6996: It reads, “Staff Only.”${prompt}
-  6997: It's locked.${prompt}
-  6998: The petition is complete!${prompt}
-  6999: 'You have ${number: 0} more ${choice-plurality: 0}[signature/signatures] to go.${prompt}'
-  7000: Good luck with the petition, young one!${prompt}
-  7001: I hope you get enough signatures.${prompt}
-  7002: Best of luck with the petition.${prompt}
-  7003: Hey, how's the petition goin'?${prompt}
-  7004: Good luck with those signatures!${prompt}
-  7005: 'Your current HP: ${number: 0}.${prompt}'
-  7006: Hello. This must be your first visit.${prompt}
-  7007: I am Monberaux, chief physician here at Monberaux Infirmary. My services are available for any affliction.${prompt}
-  7008: I can give advice for general matters as well.${prompt}
-  7009: So feel free to stop by for a quick chat. I'm always in.${prompt}
-  7010: Why, hello there. Are you feeling all right? You seem well enough to me.${prompt}
-  7011: Remember to stop by if you're not feeling well.${prompt}
-  7012: Sorry for all the commotion at the embassy. Let me apologize. Wolfgang and I are old friends, and both of us are quite stubborn, I'm afraid. I hope you'll forgive me.${prompt}
-  7013: The ambassador has returned? I shall stop by for a check up later.${prompt}
+  6996: 'Cela dit: "Réservé au personnel."${prompt}'
+  6997: C'est fermé à clé.${prompt}
+  6998: La pétition est terminée !${prompt}
+  6999: 'Il vous reste ${number: 0} ${choice-plurality: 0}[signature/signatures] à obtenir.${prompt}'
+  7000: Bonne chance avec la pétition, jeune !${prompt}
+  7001: J'espère que vous obtiendrez suffisamment de signatures.${prompt}
+  7002: Bonne chance avec la pétition.${prompt}
+  7003: Hé, comment ça se passe avec la pétition ?${prompt}
+  7004: Bonne chance pour obtenir ces signatures !${prompt}
+  7005: 'Votre HP actuel : ${number: 0}.${prompt}'
+  7006: Bonjour. C'est probablement votre première visite ici.${prompt}
+  7007: Je suis Monberaux, médecin-chef ici à l'infirmerie Monberaux. Mes services sont disponibles pour toute affection.${prompt}
+  7008: Je peux aussi donner des conseils pour des questions générales.${prompt}
+  7009: Alors n'hésitez pas à passer pour une petite discussion. Je suis toujours là.${prompt}
+  7010: Bonjour. Vous avez l'air en forme aujourd'hui. Comment vous sentez-vous ?${prompt}
+  7011: N'oubliez pas de passer si vous ne vous sentez pas bien.${prompt}
+  7012: Désolé pour tout le remue-ménage à l'ambassade. Permettez-moi de m'excuser. Wolfgang et moi sommes de vieux amis, et nous sommes tous les deux assez têtus, je le crains. J'espère que vous me pardonnerez.${prompt}
+  7013: L'ambassadeur est revenu ? Je passerai pour un contrôle plus tard.${prompt}
   7014: |-
-    The ambassador comes by often.
-    It must be stressful knowing that international relations hinge upon your performance.${prompt}
-  7015: Take care of yourself, all right? You're always welcome as a friend, but I don't like seeing you as a patient.${prompt}
-  7016: The clock tower? Of course I object! Every time its bells ring, the town feels so alive. I shall sign the petition, too.${prompt}
-  7017: Galmut used to come all the time. He'd limp in here after each fight so I could tend to his wounds. He was quite a little crybaby, too!${prompt}
-  7018: Good luck with the petition.${prompt}
-  7019: Hello. Are you feeling all right?${prompt}
-  7020: (Dr. Monberaux is a fine doctor and I really respect him, but he tries to care for people, beastmen, animals, and even machines.)${prompt}
-  7021: (I think that's noble and all, but it's so hard being a nurse here. I wish I got paid. The doctor often doesn't charge for his services, you see...)${prompt}
-  7022: Oh, and please don't mention that to anyone, all right?${prompt}
-  7023: Monberaux and Wolfgang have known each other since they were lads. Indeed, they were like brothers, watching the airships come and go.${prompt}
-  7024: And now one's a doctor and the other the captain of the guard. I'm so proud of both of them!${prompt}
-  7025: But you know, I hardly see them together anymore. I'm sure they're both very busy.${prompt}
-  7026: What, no more clock tower? No! The pride of Jeuno, she saw us through the war! What about Galmut? Good heavens, where do I sign!?${prompt}
-  7027: Galmut used to be a regular hooligan, but once he became the clockmaster, he turned over a new leaf and began doing repairs for us, too.${prompt}
-  7028: Monberaux's a fine lad. Aye, I wish every doctor was more like him. Why, today I'm fit as a fiddle, but I stopped by all the same.${prompt}
-  7029: That doctor, bless his heart, always greets us with a smile. The ladies like him so much, they've put a fan club together.${prompt}
-  7030: Come to think of it, Narihira doesn't stop by anymore. I suppose he's been feeling better ever since Galmut took over as clockmaster.${prompt}
-  7031: It would be tough at his age. But not a day goes by without hearing its glorious ring now that Galmut is on the job.${prompt}
-  7032: What!? They're going to tear it down? Well, of all the hare-brained ideas... I'll sign yer petition. You betcha!${prompt}
-  7033: Back when Galmut first started, you couldn't get Narihira to stop talking about him. That old gearhead looked mighty happy to find a youth who would follow in his footsteps.${prompt}
-  7034: Well, I guess those two mules had enough in common to get along. Now, run back out there and get some more signatures!${prompt}
-  7035: So the clock tower's safe? Well, bless my buttons! I bet Narihira's happy as a goat!${prompt}
-  7036: Hello again. I have a special patient right now. But there's nothing I can do for, er, it... Please, would you mind helping me?${prompt}
-  7037: The patient is in this room.${prompt}
-  7038: Nobody is in the room.${prompt}
-  7039: This way, please.${prompt}
-  7040: I...★I...${prompt}
-  7041: Why don't you fight, you disgusting defect! Your brave brothers are putting their lives on the line fighting for our country!${prompt}
-  7042: WhY...★WhY must★fIghT? NOt WiSh★hArM aNyoNe.${prompt}
-  7043: That's really-willy ridiculous! Cardians are built to fight!${prompt}
-  7044: You're worthless! Go anywhere you want, but don't ever show your failure of a face around here. You're bad for morale!${prompt}
-  7045: Nobody needs a spic-n-spineless defect like you.${prompt}
-  7046: I★cOwArd? NoBoDy neeD★me? I... I...${prompt}
-  7047: I★uNwaNteD.${prompt}
-  7048: A Goblin brought him. They say that Cardians come to a stop once their magic runs out, but it looks like this one shut himself down.${prompt}
-  7049: I heard that the Manustery in Windurst can bring back Cardians that have come to a stop.${prompt}
+      L'ambassadeur vient souvent.
+      Cela doit être stressant de savoir que les relations internationales dépendent de vos performances.${prompt}
+  7015: Prends soin de toi, d'accord ? Tu es toujours le bienvenu en tant qu'ami, mais je n'aime pas te voir en tant que patient.${prompt}
+  7016: La tour de l'horloge ? Bien sûr, je m'y oppose ! Chaque fois que ses cloches sonnent, la ville semble si vivante. Je vais signer la pétition, moi aussi.${prompt}
+  7017: Galmut venait tout le temps. Il venait boitant ici après chaque combat pour que je puisse soigner ses blessures. Il était vraiment un vrai pleurnicheur, aussi !${prompt}
+  7018: Bonne chance avec la pétition.${prompt}
+  7019: Bonjour. Tu te sens bien ?${prompt}
+  7020: (Le Dr Monberaux est un bon médecin et je le respecte vraiment, mais il essaie de prendre soin des gens, des bêtes, des animaux et même des machines.)${prompt}
+  7021: (Je trouve ça noble et tout, mais c'est tellement difficile d'être infirmière ici. J'aimerais être payée. Le docteur ne facture souvent pas ses services, tu vois...)${prompt}
+  7022: Oh, et s'il te plaît, ne le dis à personne, d'accord ?${prompt}
+  7023: Monberaux et Wolfgang se connaissent depuis qu'ils sont gamins. En effet, ils étaient comme des frères, regardant les aéronefs venir et partir.${prompt}
+  7024: Et maintenant l'un est médecin et l'autre capitaine de la garde. Je suis tellement fière des deux !${prompt}
+  7025: Mais tu sais, je ne les vois presque plus ensemble. Je suis sûr qu'ils sont tous les deux très occupés.${prompt}
+  7026: Quoi, plus de tour de l'horloge ? Non ! La fierté de Jeuno, elle nous a accompagnés à travers la guerre ! Et Galmut ? Bon sang, où est-ce que je signe !?${prompt}
+  7027: Galmut était autrefois un voyou ordinaire, mais une fois qu'il est devenu maître de l'horloge, il a tourné la page et a commencé à faire des réparations pour nous aussi.${prompt}
+  7028: Monberaux est un brave garçon. Oui, j'aimerais que tous les médecins lui ressemblent davantage. Pourquoi, aujourd'hui je me sens en forme comme un violon, mais je suis passé quand même.${prompt}
+  7029: Ce médecin, bénis son cœur, nous accueille toujours avec le sourire. Les dames l'apprécient tellement, elles ont créé un fan club.${prompt}
+  7030: Maintenant que j'y pense, Narihira ne passe plus. Je suppose qu'il se sent mieux depuis que Galmut a pris la relève en tant que maître de l'horloge.${prompt}
+  7031: Ce serait difficile à son âge. Mais pas un jour ne passe sans entendre sa sonnerie glorieuse maintenant que Galmut est en poste.${prompt}
+  7032: Quoi !? Ils vont la démolir ? Eh bien, quelle idée stupide... Je vais signer votre pétition. Vous pouvez compter sur moi !${prompt}
+  7033: Au tout début de la carrière de Galmut, on ne pouvait pas arrêter Narihira de parler de lui. Ce vieux fan de mécanique avait l'air très heureux de trouver un jeune qui suivrait ses traces.${prompt}
+  7034: Eh bien, je suppose que ces deux mules avaient assez de points communs pour s'entendre. Maintenant, retourne là-bas et récolte encore quelques signatures !${prompt}
+  7035: Donc la tour de l'horloge est sauvée ? Eh bien, que Dieu me pardonne ! Je parie que Narihira est heureux comme un roi !${prompt}
+  7036: Bonjour à nouveau. J'ai un patient spécial en ce moment. Mais il n'y a rien que je puisse faire pour lui... Pourrais-tu m'aider, s'il te plaît ?${prompt}
+  7037: Le patient est dans cette pièce.${prompt}
+  7038: Personne n'est dans la pièce.${prompt}
+  7039: Par ici, s'il te plaît.${prompt}
+  7040: Je...★Je...${prompt}
+  7041: Pourquoi ne te bats-tu pas, toi, répugnante défectuosité ! Tes braves frères risquent leur vie en se battant pour notre pays !${prompt}
+  7042: Pourquoi...★Pourquoi dois-je★combattre ? Ne pas souhaiter★du mal à personne.${prompt}
+  7043: C'est vraiment ridicule ! Les Cardians sont construits pour se battre !${prompt}
+  7044: Tu es sans valeur ! Vas où tu veux, mais ne montre jamais ton visage raté par ici. Tu es mauvais pour le moral !${prompt}
+  7045: Personne n'a besoin d'une défectuosité aussi lâche.${prompt}
+  7046: Je★lâche ? Personne ne★me veut ? Je... je...${prompt}
+  7047: Je★non★désiré.${prompt}
+  7048: Un Goblin l'a amené. On dit que les Cardians s'arrêtent une fois que leur magie est épuisée, mais il semble que celui-ci se soit arrêté de lui-même.${prompt}
+  7049: J'ai entendu dire que le Manustery à Windurst peut ramener les Cardians qui se sont arrêtés.${prompt}
   7050: |-
-    Take the Cardian to the Manustery?
+    Emmener le Cardian au Manustery ?
     ${selection-lines}
-    Of course.
-    No, I cannot.${prompt}
-  7051: Quite noble of you. I wish you luck.${prompt}
-  7052: Well, if it's beyond even your ability, I wonder what we should do...${prompt}
-  7053: Hello! Is Two in here? I heard he's here!${prompt}
-  7054: There you are...${prompt}
-  7055: Well, say something! Give me another lecture!${prompt}
-  7056: What's the matty-matter with Two? Can't you do anything?${prompt}
-  7057: Well, we can take him to Windurst and replenish his supply of magic.${prompt}
-  7058: And, that will make him bettaru, right?${prompt}
-  7059: Yes, he will start moving again. However...${prompt}
-  7060: However?${prompt}
-  7061: I believe he will lose his memory.${prompt}
-  7062: What? Wait, that means...${prompt}
-  7063: That's right. He won't remember you when he awakens. He'll live, but as a completely different Cardian.${prompt}
-  7064: No way!${prompt}
-  7065: But I'm for it. I don't care if Two forgets about me!${prompt}
-  7066: I see...${prompt}
-  7067: I just don't want to lose you, Two. I have to tell him I'm sorry.${prompt}
-  7068: 'Well, let''s leave the rest up to ${choice: 0}[her/him]. You just pray for them. That''s all you can do right now.${prompt}'
-  7069: O-okay.${prompt}
-  7070: We'll see each other again, okay? You promise me, Two.${prompt}
-  7071: All you need to do is take the Cardian to the Manustery in Windurst. I wish you luck, friend.${prompt}
-  7072: Oh, so you made it to the Manustery with that Cardian. You have my thanks. The rest depends on him, I suppose.${prompt}
-  7073: I hope he does not forget all the happy times he spent with that kind Tarutaru family.${prompt}
-  7074: Oh, so he got back home safe. He is yet another victim of the tragedy of war. But...now, now...he should be fine... Just fine.${prompt}
-  7075: In this temple we pray to Altana. You should pray for forgiveness, too.${prompt}
-  7076: Oh, Father...${prompt}
-  7077: I've seen no signs of recovery. What should I do?${prompt}
-  7078: Albrecht, my child... Surely your prayers will be answered.${prompt}
-  7079: Pray, and all will be forgiven.${prompt}
-  7080: Y-yes, Father.${prompt}
-  7081: Goddess of the Dawn! Please help me! All I can do now is pray.${prompt}
-  7082: You, too, should pray as that faithful one does.${prompt}
-  7083: Only then will you receive her blessing.${prompt}
+    Bien sûr.
+    Non, je ne peux pas.${prompt}
+  7051: Tout à fait noble de votre part. Je vous souhaite bonne chance.${prompt}
+  7052: Eh bien, si c'est même au-delà de vos capacités, je me demande ce que nous devrions faire...${prompt}
+  7053: Bonjour ! Est-ce que Deux est ici ? J'ai entendu dire qu'il est ici !${prompt}
+  7054: Te voilà...${prompt}
+  7055: Eh bien, dis quelque chose ! Donne-moi une autre leçon !${prompt}
+  7056: Quel est le problème avec Deux ? Tu ne peux rien faire ?${prompt}
+  7057: Eh bien, nous pouvons l'emmener à Windurst et reconstituer son stock de magie.${prompt}
+  7058: Et, cela le rendra meilleur, n'est-ce pas ?${prompt}
+  7059: Oui, il recommencera à bouger. Cependant...${prompt}
+  7060: Cependant ?${prompt}
+  7061: Je crois qu'il perdra sa mémoire.${prompt}
+  7062: Quoi ? Attends, cela signifie...${prompt}
+  7063: C'est ça. Il ne se souviendra pas de toi quand il se réveillera. Il vivra, mais en tant que Cardian complètement différent.${prompt}
+  7064: Pas possible !${prompt}
+  7065: Mais je suis pour. Peu m'importe si Deux m'oublie !${prompt}
+  7066: Je comprends...${prompt}
+  7067: Je ne veux juste pas te perdre, Deux. Je dois lui dire que je suis désolé.${prompt}
+  7068: 'Eh bien, laissons le reste à ${choice: 0}[elle/lui]. Tu n’as qu’à prier pour eux. C’est tout ce que tu peux faire pour l’instant.${prompt}'
+  7069: D-d'accord.${prompt}
+  7070: On se reverra, d'accord ? Tu me le promets, Deux.${prompt}
+  7071: Tout ce que vous avez à faire, c'est d'emmener le Cardian au Manustery à Windurst. Je vous souhaite bonne chance, mon ami.${prompt}
+  7072: Oh, donc vous êtes arrivé au Manustery avec ce Cardian. Vous avez ma gratitude. Le reste dépend de lui, je suppose.${prompt}
+  7073: J'espère qu'il n'oubliera pas tous les moments heureux passés avec cette gentille famille de Tarutaru.${prompt}
+  7074: Oh, donc il est rentré chez lui en sécurité. Il est encore une autre victime de la tragédie de la guerre. Mais... maintenant, maintenant... il devrait aller bien... Tout ira bien.${prompt}
+  7075: Dans ce temple, nous prions Altana. Vous devriez aussi prier pour obtenir le pardon.${prompt}
+  7076: Oh, Père...${prompt}
+  7077: Je n'ai vu aucun signe de rétablissement. Que dois-je faire ?${prompt}
+  7078: Albrecht, mon enfant... Vos prières seront sûrement exaucées.${prompt}
+  7079: Priez, et tout sera pardonné.${prompt}
+  7080: O-oui, Père.${prompt}
+  7081: Déesse de l'Aube ! S'il vous plaît, aidez-moi ! Tout ce que je peux faire maintenant, c'est prier.${prompt}
+  7082: Vous aussi, devriez prier comme le fidèle le fait.${prompt}
+  7083: Ce n'est qu'alors que vous recevrez sa bénédiction.${prompt}
   7084: Albrecht...${prompt}
-  7085: The Temple of the Goddess welcomes you. If you seek guidance, join us in prayer. Her divine wisdom will light the path.${prompt}
-  7086: 'Oh, all you want is a candle? Very well. Fetch me ${article} ${item-article: 7[2]}, and a candle will be yours.${prompt}'
-  7087: Excellent. As promised, I bestow upon you this holy candle. May its light guide you along the path of righteousness!${prompt}
+  7085: Le Temple de la Déesse vous accueille. Si vous cherchez des conseils, rejoignez-nous dans la prière. Sa sagesse divine éclairera le chemin.${prompt}
+  7086: 'Oh, tout ce que vous voulez, c’est une bougie ? Très bien. Apportez-moi ${article} ${item-article: 7[2]}, et une bougie sera à vous.${prompt}'
+  7087: Excellent. Comme promis, je vous confère cette bougie sacrée. Que sa lumière vous guide sur le chemin de la droiture !${prompt}
   7088: Kweh!${prompt}
   7089: Kweeeeh...${prompt}
   7090: Kweh!!!${prompt}
@@ -17472,115 +17472,115 @@ entries:
   7203: Salut, Galmut !${prompt}
   7204: Hé, Collet ! Reste là. J'ai presque fini !${prompt}
   7205: D'accord !${prompt}
-  7206: The clock is always spot on, thanks to Galmut. He gives the gears a good oiling each and every day.${prompt}
-  7207: Whew... Well, how've you been? You've been going to school, right?${prompt}
-  7208: Uh, yeah... Sorta.${prompt}
-  7209: Sorta? What's that supposed to mean? Sounds to me like you're playing hooky!${prompt}
-  7210: Yeah... But your voice always brings a smile to my face.${prompt}
-  7211: Is that so? Well, childhood ain't all about studying. Isn't that right?${prompt}
-  7212: ★★★★★★Bell Rings★★★★★★${prompt}
-  7213: She's right on time! Heh, I maintain that clock.${prompt}
-  7214: At first it was a boring job, but now I see how fun it really is.${prompt}
-  7215: That clock needs lots of attention, or else she goes off right away. She's such a delicate creature.${prompt}
-  7216: Every time I hear her ring, I feel like I've woken this town up.${prompt}
-  7217: Every day, I see the same people pass by when I clean the gears, and they stop and wave hello.${prompt}
-  7218: Sometimes, when I don't see one of them, I start to worry if they're okay.${prompt}
-  7219: I had my eye on a certain girl...${prompt}
-  7220: Till one day, I saw her with some other guy. Man, that hurt.${prompt}
-  7221: Well, anyway... The longer I worked, the more I felt like I was actually helping everyone. That made me happy.${prompt}
-  7222: I'm having too much fun, aren't I?${prompt}
-  7223: Yeah, way too much!${prompt}
-  7224: Hey, I wasn't asking you.${prompt}
-  7225: Well, I'd better get home soon. Take care!${prompt}
-  7226: Nice meeting you. See you tomorrow!${prompt}
-  7227: Galmut's working on the clock. Don't interrupt him.${prompt}
-  7228: I'm so scared of school. I told Galmut I think everyone hates me. But he said that couldn't be true.${prompt}
-  7229: Oh, it's you... Sorry, but I'm right in the middle of something. Could you come back later?${prompt}
-  7230: Well, look who's here! Welcome to my humble abode.${prompt}
-  7231: I've got lots of wacky stuff, don't I?${prompt}
-  7232: Heh. They may be scrap, but they're all priceless things a certain person gave me.${prompt}
-  7233: Hey, what are you doin'? That's my bed!${prompt}
-  7234: Anybody home?${prompt}
-  7235: Well, speak of the devil... It's Mr. Narihira!${prompt}
-  7236: I see you're still kickin'.${prompt}
-  7237: Hah! You post-war youngsters ain't got nothin' on my generation!${prompt}
-  7238: Well, it's good to see you.${prompt}
-  7239: How's the clock, Galmut?${prompt}
-  7240: I've been taking good care of her. Don't tell me you can't hear her ring!${prompt}
-  7241: Huh? What did you say? Just kiddin'. Of course I hear her fine!${prompt}
-  7242: But I hear the gears struggling a little. Might be time to give her some oil.${prompt}
-  7243: Well, you haven't changed a bit!${prompt}
-  7244: And I see you've got a friend over!${prompt}
-  7245: Listen here, young one. Galmut's a model citizen now, but he was a regular hooligan before!${prompt}
-  7246: Oh, no, not that again!${prompt}
-  7247: Ohohoho! Defensive, aren't we? Anyway, Galmut came to Jeuno about three years ago...${prompt}
-  7248: He came to the big city to make his mark. Every day he worked from sunrise to sunset!${prompt}
-  7249: And when I finally got enough dough to open my own shop...${prompt}
-  7250: I got conned out of all of it. I lost every last gil...${prompt}
-  7251: And that really shook him! He lost faith in his fellow man...scowling at everyone like a starving dog.${prompt}
-  7252: That's when Mr. Narihira offered me a job in the clock tower.${prompt}
-  7253: At first I thought he was just another con man. But once I started, I really enjoyed it.${prompt}
-  7254: You know, you work so hard in there that when you finally hear the bell ring... Man, it echoes right to the heart!${prompt}
-  7255: And I was glad to find someone who'd carry on in my place.${prompt}
-  7256: Oh yeah... I almost forgot!${prompt}
-  7257: 'We need ${keyitem-article: 7[2]}. And with the beastmen on the rampage, the store''s almost out.${prompt}'
-  7258: No way, really? Without oil, we...${prompt}
-  7259: Maybe the Tenshodo still has some. I hate doing business with their kind, though.${prompt}
-  7260: 'Me, too... Hey, I know! Would you mind bringing us ${keyitem-article: 7[2]}?${prompt}'
-  7261: We'd be so grateful. She's such a delicate machine... Without it, I'm afraid she'd go haywire!${prompt}
+  7206: L'horloge est toujours parfaitement réglée, grâce à Galmut. Il huile les engrenages chaque jour, sans exception.${prompt}
+  7207: Ouf... Alors, comment ça va ? Tu vas à l'école, n'est-ce pas ?${prompt}
+  7208: Euh, oui... En quelque sorte.${prompt}
+  7209: En quelque sorte ? Que veux-tu dire par là ? On dirait que tu séchais les cours !${prompt}
+  7210: Ouais... Mais ta voix me met toujours un sourire aux lèvres.${prompt}
+  7211: Vraiment ? Eh bien, l'enfance ce n'est pas que des études. N'est-ce pas ?${prompt}
+  7212: ★★★★★★Sonnerie de cloche★★★★★★${prompt}
+  7213: Elle est pile à l'heure ! Haha, je suis celui qui entretient cette horloge.${prompt}
+  7214: Au début, c'était un travail ennuyeux, mais maintenant je vois à quel point c'est amusant.${prompt}
+  7215: Cette horloge a besoin de beaucoup d'attention, sinon elle se dérègle tout de suite. C'est une créature si délicate.${prompt}
+  7216: Chaque fois que j'entends sa sonnerie, j'ai l'impression de réveiller cette ville.${prompt}
+  7217: Chaque jour, je vois les mêmes personnes passer quand je nettoie les engrenages, et ils s'arrêtent pour me saluer.${prompt}
+  7218: Parfois, quand je n'en vois pas un, je commence à m'inquiéter s'il va bien.${prompt}
+  7219: J'avais un œil sur une certaine fille...${prompt}
+  7220: Jusqu'au jour où je l'ai vue avec un autre gars. Ça fait mal.${prompt}
+  7221: Bon, quoi qu'il en soit... Plus je travaillais, plus j'avais l'impression d'aider tout le monde. Cela me rendait heureux.${prompt}
+  7222: Je m'amuse trop, n'est-ce pas ?${prompt}
+  7223: Oui, beaucoup trop !${prompt}
+  7224: Hé, je ne te posais pas la question.${prompt}
+  7225: Bon, je ferais mieux de rentrer bientôt à la maison. Prends soin de toi !${prompt}
+  7226: Ravi de t'avoir rencontré. À demain !${prompt}
+  7227: Galmut travaille sur l'horloge. Ne le dérange pas.${prompt}
+  7228: J'ai tellement peur de l'école. J'ai dit à Galmut que je pense que tout le monde me déteste. Mais il a dit que cela ne pouvait pas être vrai.${prompt}
+  7229: Oh, c'est toi... Désolé, mais je suis en plein milieu de quelque chose. Pourrais-tu revenir plus tard ?${prompt}
+  7230: Eh bien, regarde qui est là ! Bienvenue dans mon humble demeure.${prompt}
+  7231: J'ai plein de trucs bizarres, n'est-ce pas ?${prompt}
+  7232: Heh. Ils peuvent être de la ferraille, mais ce sont toutes des choses précieuses qu'une certaine personne m'a données.${prompt}
+  7233: Hé, qu'est-ce que tu fais ? C'est mon lit !${prompt}
+  7234: Y a-t-il quelqu'un à la maison ?${prompt}
+  7235: Tiens donc, le voilà... C'est M. Narihira !${prompt}
+  7236: Je vois que tu es toujours en forme.${prompt}
+  7237: Haha ! Vous, les jeunes de l'après-guerre, vous n'avez rien à envier à notre génération !${prompt}
+  7238: Eh bien, ça fait plaisir de te voir.${prompt}
+  7239: Comment va l'horloge, Galmut ?${prompt}
+  7240: Je prends bien soin d'elle. Tu ne peux pas entendre sa sonnerie ?${prompt}
+  7241: Hein ? Qu'est-ce que tu as dit ? Je plaisante. Bien sûr que je l'entends bien !${prompt}
+  7242: Mais j'entends les engrenages peiner un peu. Il est peut-être temps de lui donner un peu d'huile.${prompt}
+  7243: Eh bien, tu n'as pas changé d'un poil !${prompt}
+  7244: Et je vois que tu as un ami avec toi !${prompt}
+  7245: Écoute ici, jeune. Galmut est maintenant un citoyen modèle, mais il était un vrai voyou avant !${prompt}
+  7246: Oh non, pas ça encore !${prompt}
+  7247: Ohohoho ! Tu te défends, hein ? Quoi qu'il en soit, Galmut est arrivé à Jeuno il y a environ trois ans...${prompt}
+  7248: Il est venu dans la grande ville pour faire sa marque. Il travaillait chaque jour du lever au coucher du soleil !${prompt}
+  7249: Et quand j'ai enfin eu assez de fric pour ouvrir ma propre boutique...${prompt}
+  7250: Je me suis fait escroquer tout ce que j'avais. J'ai perdu jusqu'au dernier gil...${prompt}
+  7251: Et ça l'a vraiment secoué ! Il a perdu foi en ses semblables... Fusillant du regard tout le monde comme un chien affamé.${prompt}
+  7252: C'est à ce moment-là que M. Narihira m'a offert un emploi dans la tour de l'horloge.${prompt}
+  7253: Au début, je pensais qu'il était juste un autre escroc. Mais une fois que j'ai commencé, j'ai vraiment aimé ça.${prompt}
+  7254: Tu sais, tu travailles si dur là-dedans que quand tu entends enfin la cloche sonner... Putain, ça résonne jusqu'au cœur !${prompt}
+  7255: Et j'étais content de trouver quelqu'un qui prendrait ma place.${prompt}
+  7256: Oh oui... J'ai presque oublié !${prompt}
+  7257: 'Nous avons besoin de ${keyitem-article: 7[2]}. Et avec les bêtes sauvages qui font des ravages, le magasin est presque à court.${prompt}'
+  7258: Pas possible, vraiment ? Sans huile, nous...${prompt}
+  7259: Peut-être que le Tenshodo en a encore. Je déteste faire affaire avec leur genre, cependant.${prompt}
+  7260: 'Moi aussi... Hé, je sais ! Pourrais-tu nous apporter ${keyitem-article: 7[2]} ?${prompt}'
+  7261: Nous t'en serions tellement reconnaissants. Elle est une machine si délicate... Sans cela, j'ai peur qu'elle ne devienne folle !${prompt}
   7262: |-
-    Will you help them?
+    Vas-tu les aider ?
     ${selection-lines}
-    Yes.
-    Not right now.${prompt}
-  7263: All right! Thanks a bunch!${prompt}
-  7264: First, head over to the Tenshodo, here in Jeuno.${prompt}
-  7265: Oh, yeah? Well, tell me if you change your mind. We've gotta do something.${prompt}
-  7266: 'Oh, it''s you. We still can''t find any ${keyitem-singular: 7[2]}.${prompt}'
-  7267: Mr. Narihira said that the Tenshodo has some. Without it, sooner or later the gears will come to a stop!${prompt}
-  7268: Who's there!?${prompt}
-  7269: Oh, you... Thanks for bringing the oil, but we don't need it anymore!${prompt}
-  7270: I heard they're gonna tear her down and make her into some kinda crane to lift cargo from ships.${prompt}
-  7271: The plan's already passed. Ain't nothing I can do now!${prompt}
-  7272: 'Well, I''ll go ahead and take that ${keyitem-singular: 7[2]}. Thanks for trying, ${choice-player-gender}[pal/though]. This is for you.${prompt}'
-  7273: I try to believe in something, and look what happens!${prompt}
-  7274: Galmut, it's me! You here?${prompt}
-  7275: Oh, it's you. Where's Galmut?${prompt}
-  7276: He's out, huh? And he heard about the clock? He must've been shocked.${prompt}
-  7277: 'That''s Galmut for you. Look, if we get enough signatures with ${article} ${item-article: 6[2]}, we might be able to stop the plan!${prompt}'
-  7278: 'They''re going to take down the clock. Narihira said we could get ${article} ${item-article: 6[2]} from the Chamber of Commerce and Industry but I don''t know what he means.${prompt}'
-  7279: Galmut was so shocked. But there's nothing I can do. He's the one who always cheers me up.${prompt}
-  7280: Galmut won't come out, no matter how much I call for him. I wonder what's wrong...${prompt}
-  7281: But the clock seem to be working all right. I wonder who's keeping it running... It's one of the seven wonders of Jeuno!${prompt}
-  7282: Huh? You want me to sign? If it'll help Galmut, you bet!${prompt}
-  7283: What's that?${prompt}
-  7284: What!? You've...${prompt}
-  7285: I heard somebody started a petition. But it was you? Galmut should be happy to have such a good friend.${prompt}
-  7286: I wonder where he ran off to, anyway. How pathetic!${prompt}
-  7287: 'Everyone''s out to get me! It''s all over!${wait-animation: 3}${prompt}'
-  7288: Mr. Narihira... And you... What are you doing here?${prompt}
-  7289: Shut your trap and listen for once! Your friend here's gathered so many signatures, the petition to save the clock tower was a success!${prompt}
-  7290: Huh? Petition? Does that mean her gears'll keep turning?${prompt}
-  7291: Of course, you fool! Right now, you're the stopped clock.${prompt}
-  7292: You know what that means, don'tcha? No more resounding rings. Catch my drift, sonny?${prompt}
-  7293: Mr. Narihira... I'm sorry.${prompt}
-  7294: Hell, I don't care how you feel!${prompt}
-  7295: You gotta face all the people out there who count on that clock! Without the bells each day...${prompt}
-  7296: 'Ugh...${wait-animation: 1}${prompt}'
-  7297: Mr. Narihira!${prompt}
-  7298: Oh, I'm all right. I just kept the clock going while you were gone. And by golly, I was rustier than she was!${prompt}
-  7299: I don't know how to thank you. Nobody's ever cared enough to talk straight to me.${prompt}
-  7300: Hah! What kinda moron likes getting chewed out!?${prompt}
-  7301: Besides, I think there's someone else you should be thankin'. Your precious clock'd be scrap if it weren't for ${choice-player-gender}[him/her].${prompt}
-  7302: I don't know what to say... Or how to thank you... This ain't much, but it means a lot to me. Please, I want you to have it.${prompt}
-  7303: I'm so grateful. I'll make sure nothing ever happens to that clock, because it's what binds all the people together.${prompt}
-  7304: I believe you, Galmut.${prompt}
-  7305: Well, you got your work cut out for you. Get to it, kiddo!${prompt}
-  7306: Hi, Galmut!${prompt}
-  7307: Hey, Collet! I gotta stay and finish up.. And is that ${name-player} next to you? Thanks to you, I know how happy I am!${prompt}
-  7308: Galmut's got back into the swing of things. And I'm feeling better, too! Hmm, I think I'll head back to school again.${prompt}
-  7309: Oh, it's you, huh? Galmut's workin' hard as ever, thanks to you. Do me a favor and check up on him once in a while, okay?${prompt}
-  7310: Hmm, maybe I could ask ${choice-player-gender}[him/her]... Oh, it's nothing! Never mind.${prompt}
+    Oui.
+    Pas pour le moment.${prompt}
+  7263: Très bien ! Merci beaucoup !${prompt}
+  7264: Tout d'abord, rendez-vous au Tenshodo, ici à Jeuno.${prompt}
+  7265: Ah bon ? Eh bien, dis-moi si tu changes d'avis. Nous devons faire quelque chose.${prompt}
+  7266: 'Oh, c’est toi. Nous ne pouvons toujours pas trouver ${keyitem-singular: 7[2]}.${prompt}'
+  7267: Monsieur Narihira a dit que le Tenshodo en a. Sans cela, tôt ou tard, les engrenages s'arrêteront !${prompt}
+  7268: Qui est là !?${prompt}
+  7269: Oh, toi... Merci d'avoir apporté l'huile, mais nous n'en avons plus besoin !${prompt}
+  7270: J'ai entendu dire qu'ils vont la démolir et en faire une sorte de grue pour charger les cargos depuis les navires.${prompt}
+  7271: Le plan est déjà passé. Il n'y a rien que je puisse faire maintenant !${prompt}
+  7272: 'Eh bien, je vais prendre ce ${keyitem-singular: 7[2]}. Merci d’avoir essayé, ${choice-player-gender}[mon ami/ma chère]. Ceci est pour toi.${prompt}'
+  7273: J'essaie de croire en quelque chose, et regarde ce qui arrive !${prompt}
+  7274: Galmut, c'est moi ! Tu es là ?${prompt}
+  7275: Oh, c'est toi. Où est Galmut ?${prompt}
+  7276: Il est sorti, hein ? Et il a entendu parler de l'horloge ? Il a dû être choqué.${prompt}
+  7277: 'C’est Galmut pour toi. Regarde, si nous obtenons suffisamment de signatures avec ${article} ${item-article: 6[2]}, nous pourrions peut-être arrêter le plan !${prompt}'
+  7278: 'Ils vont démonter l’horloge. Narihira a dit que nous pourrions obtenir ${article} ${item-article: 6[2]} de la Chambre de commerce et d’industrie, mais je ne sais pas ce qu’il veut dire.${prompt}'
+  7279: Galmut était tellement choqué. Mais je ne peux rien faire. C'est lui qui me remonte toujours le moral.${prompt}
+  7280: Galmut ne sortira pas, peu importe combien je l'appelle. Je me demande ce qui ne va pas...${prompt}
+  7281: Mais l'horloge semble fonctionner normalement. Je me demande qui la maintient en marche... C'est l'une des sept merveilles de Jeuno !${prompt}
+  7282: Hein ? Tu veux que je signe ? Si ça peut aider Galmut, tu peux compter sur moi !${prompt}
+  7283: Qu'est-ce que c'est que ça ?${prompt}
+  7284: Quoi !? Tu as...${prompt}
+  7285: J'ai entendu dire que quelqu'un avait lancé une pétition. Mais c'était toi ? Galmut devrait être heureux d'avoir un tel bon ami.${prompt}
+  7286: Je me demande où il est parti, de toute façon. Pathétique !${prompt}
+  7287: 'Tout le monde est contre moi ! Tout est fini !${wait-animation: 3}${prompt}'
+  7288: Monsieur Narihira... Et toi... Que faites-vous ici ?${prompt}
+  7289: Tais-toi et écoute pour une fois ! Ton ami ici a rassemblé tellement de signatures que la pétition pour sauver la tour de l'horloge a réussi !${prompt}
+  7290: Hein ? Pétition ? Est-ce que cela signifie que ses engrenages continueront de tourner ?${prompt}
+  7291: Bien sûr, imbécile ! En ce moment, tu es l'horloge arrêtée.${prompt}
+  7292: Tu sais ce que ça veut dire, pas vrai ? Plus de sonneries retentissantes. Tu comprends, mon garçon ?${prompt}
+  7293: Monsieur Narihira... Je suis désolé.${prompt}
+  7294: Peu m'importe ce que tu ressens !${prompt}
+  7295: Tu dois affronter toutes les personnes qui comptent sur cette horloge ! Sans les cloches chaque jour...${prompt}
+  7296: 'Argh...${wait-animation: 1}${prompt}'
+  7297: Monsieur Narihira !${prompt}
+  7298: Oh, ça va. J'ai juste gardé l'horloge en marche pendant que vous étiez parti. Et parbleu, j'étais plus rouillé qu'elle !${prompt}
+  7299: Je ne sais pas comment vous remercier. Personne n'a jamais eu assez d'attention pour me parler franchement.${prompt}
+  7300: Hé ! Quel genre d'idiot aime se faire engueuler !?${prompt}
+  7301: En plus, je pense qu'il y a quelqu'un d'autre que tu devrais remercier. Ton précieux horloge serait de la ferraille sans ${choice-player-gender}[lui/elle].${prompt}
+  7302: Je ne sais pas quoi dire... Ou comment te remercier... Ce n'est pas grand-chose, mais ça signifie beaucoup pour moi. S'il te plaît, je veux que tu l'aies.${prompt}
+  7303: Je suis tellement reconnaissant. Je veillerai à ce qu'il n'arrive jamais rien à cette horloge, car c'est ce qui unit toutes les personnes.${prompt}
+  7304: Je te crois, Galmut.${prompt}
+  7305: Eh bien, tu as du pain sur la planche. Au boulot, mon gars !${prompt}
+  7306: Salut, Galmut !${prompt}
+  7307: Salut, Collet ! Je dois rester et finir... Et est-ce que c'est ${name-player} à côté de toi ? Grâce à toi, je sais à quel point je suis heureux !${prompt}
+  7308: Galmut s'est remis dans le bain. Et moi, je me sens mieux aussi ! Hmm, je pense que je vais retourner à l'école encore une fois.${prompt}
+  7309: Oh, c'est toi, hein ? Galmut travaille dur comme toujours, grâce à toi. Fais-moi une faveur et viens le voir de temps en temps, d'accord ?${prompt}
+  7310: Hmm, peut-être que je pourrais demander à ${choice-player-gender}[lui/elle]... Oh, ce n'est rien ! Laisse tomber.${prompt}
   7311: Dites, vous dirigez-vous vers Davoi ?${prompt} 
   7312: 'Alors vous aurez besoin de ce ${keyitem-singular: 7[2]}. Vous ne pouvez pas briser le sceau intérieur sans ça.${prompt}'
   7313: 'Je veux échanger cela contre ${article} ${item-article: 6[2]}. Qu’est-ce que vous en dites ?${prompt}'
