@@ -23783,254 +23783,251 @@ entries:
     Quant à revenir, tu te débrouilles tout seul.
     Je ne dirige pas une œuvre de charité, après tout.${prompt}
   10258: |-
-    Where ya headin' today?
+    Où est-ce que tu vas aujourd'hui ?
     ${selection-lines}
-    Nowhere.
-    Ghelsba Outpost.
-    Horlais Peak.
-    Waughroon Shrine.
-    Balga's Dais.
-    Qu'Bia Arena.${prompt}
+    Nulle part.
+    Avant-poste de Ghelsba.
+    Pic de Horlais.
+    Sanctuaire de Waughroon.
+    Dais de Balga.
+    Arène de Qu'Bia.${prompt}
   10259: |-
-    ${choice: 2}[/Ghelsba Outpost/Horlais Peak/Waughroon Shrine/Balga's Dais/Qu'Bia Arena], ya say?
-    That'll run ya ${number: 1} gil. Whaddaya say?${prompt}
+    ${choice: 2}[/Avant-poste de Ghelsba/Pic de Horlais/Sanctuaire de Waughroon/Dais de Balga/Arène de Qu'Bia], tu dis ?
+    Ça te coûtera ${number: 1} gils. Qu'est-ce que tu en dis ?${prompt}
   10260: |-
-    Whaddaya say? (Current gil: ${number: 0})
+    Qu'est-ce que tu en dis ? (Gils actuels : ${number: 0})
     ${selection-lines}
-    Pay and teleport.
-    On second thought...${prompt}
+    Payer et téléporter.
+    En y réfléchissant...${prompt}
   10261: |-
-    Alright, now we just gotta put this blindfold on ya.
-    A businessman's gotta protect his trade secrets, after all...${prompt}
-  10262: '...Then whaddaya wastin'' my time for? Get lost!${prompt}'
-  10263: A fine day to you, good ${choice-player-gender}[sir/madam], and welcome to the Chamber of Commerce and Industry's Adoulin Pioneer Consultation Desk. How may I help you?${prompt}
+    D'accord, maintenant on va juste te mettre ce bandeau sur les yeux.
+    Un homme d'affaires doit protéger ses secrets commerciaux, après tout...${prompt}
+  10262: "...Alors pourquoi me faire perdre mon temps ? Dégage !${prompt}"
+  10263: Bonne journée à vous, cher ${choice-player-gender}[monsieur/madame], et bienvenue au bureau de consultation des pionniers de la Chambre de commerce et de l'industrie d'Adoulin. Comment puis-je vous aider ?${prompt}
   10264: |-
-    What assistance do you seek?
+    Quelle assistance recherchez-vous ?
     ${selection-lines}
-    You know what? Nevermind.
-    I would like to apply.
-    Tell me more about the system.
-    Tell me more about the dungeons.
-    I would like ${keyitem-article: 0[2]}.
-    Do you have any work for me?${prompt}
-  10265: Should you have any questions in the future, we would be pleased to assist you.${prompt}
-  10266: Thank you for your interest in our Pioneer Partnership Program.${prompt}
-  10267: 'As part of the application process, you will need this ${keyitem-singular: 0[2]}.${prompt}'
-  10268: Take it with you and visit one of the dungeons from the list that I am about to give you. Which one you visit is your choice.${prompt}
-  10269: Our survey staff has inspected each of the areas in question and placed special markings at a particular location past the entrance.${prompt}
-  10270: 'Hold up the ${keyitem-singular: 0[2]} I have just given you and return it to me.${prompt}'
-  10271: And now, allow me to present you with the list of applicable dungeons.${prompt}
+    Vous savez quoi ? Laissez tomber.
+    J'aimerais postuler.
+    Dites-moi en plus sur le système.
+    Parlez-moi des donjons.
+    J'aimerais ${keyitem-article: 0[2]}.
+    Avez-vous du travail pour moi ?${prompt}
+  10265: Si vous avez des questions à l'avenir, nous serons ravis de vous aider.${prompt}
+  10266: Merci pour votre intérêt pour notre programme de partenariat pionnier.${prompt}
+  10267: "Dans le cadre du processus de candidature, vous aurez besoin de ce ${keyitem-singular: 0[2]}.${prompt}"
+  10268: Prenez-le avec vous et visitez l'un des donjons de la liste que je m'apprête à vous donner. Lequel vous visitez est votre choix.${prompt}
+  10269: Notre équipe d'experts a inspecté chacune des zones en question et a placé des marques spéciales à un endroit particulier après l'entrée.${prompt}
+  10270: "Tenez le ${keyitem-singular: 0[2]} que je viens de vous donner et rendez-le-moi.${prompt}"
+  10271: Et maintenant, permettez-moi de vous présenter la liste des donjons applicables.${prompt}
   10272: |-
-    In the ${choice: 0}[Fauregandi/Ronfaure/Norvallen/Zulkheim/Gustaberg/Vollbow/Kolshushu/Aragoneu/Derfland/Sarutabaruta] region:
-    ${choice: 0}[Ranguemont Pass/Yughott Grotto, King Ranperre's Tomb/Monastic Cavern, Eldieme Necropolis/Ordelle's Caves, Gusgen Mines/Dangruf Wadi, Korroloka Tunnel,/Gustav Tunnel/Labyrinth of Onzozo, Maze of Shakhrami/Garlaige Citadel/Crawlers' Nest/Outer Horutoto Ruins, Inner Horutoto Ruins,]
-    ${choice: 0}[////Palborough Mines/////Toraimarai Canal]${prompt}
-  10273: This list looks daunting, to be sure, but we have faith that you will be able to complete this challenge.${prompt}
-  10274: Some of these markings are located close to the entrance, while others are deep within.${prompt}
-  10275: I wish you the best of luck in this endeavor.${prompt}
-  10276: The government of Jeuno has promulgated a system for adventurers to pioneer uncharted lands.${prompt}
-  10277: This system was proposed by the leaders of the Sacred City of Adoulin, an overseas trading capital whose volume of trade rivals Jeuno's.${prompt}
-  10278: Pioneers are to traverse the waters of the Sea of Zafmlug, far to the west, and assist in colonizing the untamed wilds of Ulbuka.${prompt}
-  10279: Once word of this proposal reached San d'Oria through various trade routes, it introduced Jeuno to the idea, which led to its eventual implementation.${prompt}
-  10280: Adoulin is not a place for the weak or uninitiated. Harsh wildlands surround the city, and simple layfolk stand no chance of surviving. It is due to these unique circumstances that Adoulin has begun recruiting highly seasoned adventurers to assist in seeing out its goals.${prompt}
-  10281: Here at the Consultation Desk, we issue permits that allow proactive adventurers to cross over to Adoulin.${prompt}
-  10282: However, neophytes cannot provide the services Adoulin requires. As such, the Chamber has commissioned a simple test for those seeking to make the perilous journey.${prompt}
-  10283: Those seasoned in battle should find it to be a relatively painless affair.${prompt}
-  10284: 'Adoulin has prepared a multitude of ${keyitem-plural: 0[2]}, of which one will be given to each adventurer seeking to prove their worth.${prompt}'
-  10285: 'These ${keyitem-plural: 0[2]} are attuned to the land, and are able to record markings located in specific locations. Further details will be provided once we have issued you the appropriate certifications.${prompt}'
-  10286: For the time being, let us return to the task you will have to face.${prompt}
-  10287: Bring this object with you and take it to one out of a list of several areas located throughout Vana'diel. Which place you choose to explore is for you to decide.${prompt}
-  10288: 'You must simply pass the ${keyitem-singular: 0[2]} over the markings located in the area to finish your assignment.${prompt}'
-  10289: 'Once you have completed this task, simply return the ${keyitem-singular: 0[2]} to us here and we will analyze the results.${prompt}'
-  10290: 'Should your trial be completed appropriately, you will be deemed to have passed, and will be issued ${keyitem-article: 0[2]}, enabling you to travel to Adoulin.${prompt}'
-  10291: That should constitute a sufficient explanation. Should you choose to undertake the test, I wish you the greatest of fortunes.${prompt}
-  10292: As you may remember, the test requires you to visit one of several different dungeons.${prompt}
-  10293: To be quite frank, we have received a large number of signatures from the Adventurers' Mutual Aid Network. Evidently, what with all the adventurers coming and going, they need some help with non-battle activities as well.${prompt}
-  10294: 'Given that, the committee deliberated day and night to come up with a solution. As a result of this grueling debacle, an executive decision was made to issue special tickets for the price of ${number: 1} gil.${prompt}'
-  10295: The committee based its judgment on the idea that accumulating funds is yet another sign of a stalwart adventurer.${prompt}
-  10296: After all, Adoulin is a city of maritime trade, just like our beloved Jeuno. We recognize that it welcomes business skill in all its forms, without regard to race or creed.${prompt}
-  10297: 'As I have previously mentioned, issuing ${keyitem-article: 0[2]} will incur a fee of ${number: 1} gil.${prompt}'
-  10298: Begin filling out the paperwork?${prompt}
+    Dans la région de ${choice: 0}[Fauregandi/Ronfaure/Norvallen/Zulkheim/Gustaberg/Vollbow/Kolshushu/Aragoneu/Derfland/Sarutabaruta] :
+    ${choice: 0}[Col de Ranguemont/Grotte de Yughott, Tombeau du roi Ranperre/Caverne Monastique, Nécropole d'Eldieme/Grottes d'Ordelle, Mines de Gusgen/Vadi de Dangruf, Tunnel de Korroloka,/Tunnel de Gustav/Labyrinthe d'Onzozo, Labyrinthe de Shakhrami/Citadelle de Garlaige/Nid des Érinyes/Ruines extérieures d'Horutoto, Ruines intérieures d'Horutoto,]
+    ${choice: 0}[////Mines de Palborough/////Canal de Toraimarai]${prompt}
+  10273: Cette liste peut sembler intimidante, mais nous avons confiance en votre capacité à relever ce défi.${prompt}
+  10274: Certains de ces repères sont situés près de l'entrée, tandis que d'autres sont plus profonds à l'intérieur.${prompt}
+  10275: Je vous souhaite bonne chance dans cette entreprise.${prompt}
+  10276: Le gouvernement de Jeuno a promulgué un système permettant aux aventuriers de pionniers des terres inexplorées.${prompt}
+  10277: Ce système a été proposé par les dirigeants de la Ville Sacrée d'Adoulin, une capitale commerciale d'outre-mer dont le volume d'échanges rivalise avec celui de Jeuno.${prompt}
+  10278: Les pionniers sont appelés à traverser les eaux de la Mer de Zafmlug, loin à l'ouest, et à aider à coloniser les terres sauvages d'Ulbuka.${prompt}
+  10279: Lorsque cette proposition est parvenue à San d'Oria par diverses routes commerciales, elle a introduit Jeuno à l'idée, ce qui a conduit à sa mise en œuvre.${prompt}
+  10280: Adoulin n'est pas un endroit pour les faibles ou les non-initiés. Des terres sauvages impitoyables entourent la ville, et les simples laïcs n'ont aucune chance de survie. C'est en raison de ces circonstances uniques qu'Adoulin a commencé à recruter des aventuriers hautement expérimentés pour l'aider à atteindre ses objectifs.${prompt}
+  10281: Ici, au Bureau de Consultation, nous délivrons des permis permettant aux aventuriers proactifs de passer à Adoulin.${prompt}
+  10282: Cependant, les néophytes ne peuvent pas fournir les services qu'Adoulin demande. En conséquence, la Chambre a commandé un test simple pour ceux qui souhaitent entreprendre le voyage périlleux.${prompt}
+  10283: Ceux qui sont chevronnés dans le combat devraient trouver cela relativement indolore.${prompt}
+  10284: 'Adoulin a préparé une multitude de ${keyitem-plural: 0[2]}, dont une sera remise à chaque aventurier cherchant à prouver sa valeur.${prompt}'
+  10285: 'Ces ${keyitem-plural: 0[2]} sont accordés à la terre et sont capables d’enregistrer des repères situés à des emplacements spécifiques. Des détails supplémentaires seront fournis une fois que nous vous aurons délivré les certifications appropriées.${prompt}'
+  10286: Pour l'instant, revenons à la tâche que vous aurez à affronter.${prompt}
+  10287: Apportez cet objet avec vous et emmenez-le dans l'une des plusieurs zones réparties dans tout Vana'diel. Le choix de l'endroit que vous souhaitez explorer vous appartient.${prompt}
+  10288: 'Il vous suffit de passer le ${keyitem-singular: 0[2]} sur les marques situées dans la zone pour terminer votre mission.${prompt}'
+  10289: 'Une fois cette tâche terminée, il vous suffit de nous rapporter le ${keyitem-singular: 0[2]} ici et nous analyserons les résultats.${prompt}'
+  10290: 'Si votre épreuve est menée à bien, vous serez considéré comme ayant réussi et vous recevrez ${keyitem-article: 0[2]}, ce qui vous permettra de voyager jusqu’à Adoulin.${prompt}'
+  10291: Cela devrait constituer une explication suffisante. Si vous choisissez de passer le test, je vous souhaite la meilleure des chances.${prompt}
+  10292: Comme vous vous en souviendrez peut-être, le test consiste à visiter l'un des différents donjons.${prompt}
+  10293: Pour être tout à fait franc, nous avons reçu un grand nombre de signatures de la part du Réseau d'Aide Mutuelle des Aventuriers. Manifestement, avec tous les aventuriers qui vont et viennent, ils ont également besoin d'aide pour des activités non combatives.${prompt}
+  10294: 'Compte tenu de cela, le comité a délibéré jour et nuit pour trouver une solution. À la suite de cette difficile délibération, une décision exécutive a été prise d’émettre des billets spéciaux au prix de ${number: 1} gil.${prompt}'
+  10295: Le comité a fondé son jugement sur l'idée que l'accumulation de fonds est un autre signe d'un aventurier intrépide.${prompt}
+  10296: Après tout, Adoulin est une ville de commerce maritime, tout comme notre bien-aimée Jeuno. Nous reconnaissons qu'elle accueille les compétences commerciales sous toutes leurs formes, sans distinction de race ou de croyance.${prompt}
+  10297: 'Comme je l’ai mentionné précédemment, l’émission de ${keyitem-article: 0[2]} entraînera des frais de ${number: 1} gil.${prompt}'
+  10298: Commencer à remplir les formalités ?${prompt}
   10299: |-
-    Pay for the issuance of your documents?
+    Payer pour l'émission de vos documents ?
     ${selection-lines}
-    No time like the present!
-    I need more time to think.${prompt}
-  10300: Are you sure?${prompt}
+    Il n'y a pas de moment comme le présent !
+    J'ai besoin de plus de temps pour réfléchir.${prompt}
+  10300: Êtes-vous sûr ?${prompt}
   10301: |-
-    Ready for issuance?
+    Prêt pour l'émission ?
     ${selection-lines}
-    You bet!
-    Not quite.${prompt}
-  10302: Unfortunately, you do not appear to have the required gil. Please come back once you can pay the handling fee.${prompt}
-  10303: 'Let me see...dot the I''s here, cross the T''s there...and...we are finished. Here is your ${keyitem-singular: 0[2]}.${prompt}'
-  10304: 'There is one more thing. Take this ${keyitem-singular: 0[2]} with you.${prompt}'
-  10305: It will let you teleport to Adoulin. You may have noticed that there is a mystic portal located here in Lower Jeuno. That will lead you there.${prompt}
-  10306: 'These ${keyitem-plural: 0[2]} record founts of power in specific places and allow instantaneous travel between two locations.${prompt}'
-  10307: I have been informed that this form of transportation is called “warping.”${prompt}
-  10308: 'The ${keyitem-singular: 0[2]} I have presented you with is already attuned to the locus in Lower Jeuno and to Western Adoulin.${prompt}'
-  10309: Passing it over the surface of the portal will enable you to warp to Adoulin.${prompt}
-  10310: Warping is not free, however; the process requires a certain type of energy.${prompt}
-  10311: According to my materials, trading crystals to a waypoint will convert them into energy. This process is called “charging.”${prompt}
-  10312: 'The energy, referred to as “kinetic units,” is recorded on the ${keyitem-singular: 0[2]} I have given you.${prompt}'
-  10313: Utilizing the waypoints will deplete a portion of these kinetic units each time, so I recommend periodic recharging.${prompt}
-  10314: It says here that all I have imparted to you may be reviewed at any time from any waypoint.${prompt}
-  10315: Of course, in consideration of all your help, the one I have given you is fully charged. I hope that you put it to good use.${prompt}
-  10316: That is all the information with which I can provide you. Your adventures in Adoulin will be what you make of them--and we have high hopes you will make a positive contribution to the development of the nation and the success of the pioneering initiative.${prompt}
-  10317: Our records show that you have already declared your desire to participate in the initiative.${prompt}
-  10318: 'When we issue your ${keyitem-singular: 0[2]}, we will collect your ${keyitem-singular: 1[2]}. Make sure you choose your path wisely.${prompt}'
-  10319: Allow me to explain the initiative to you in further detail.${prompt}
-  10320: 'You wish for me to examine your ${keyitem-singular: 0[2]}, correct? Then please, let me take a look.${prompt}'
+    Absolument !
+    Pas tout à fait.${prompt}
+  10302: Malheureusement, vous ne semblez pas avoir le gil nécessaire. Revenez une fois que vous pourrez payer les frais de traitement.${prompt}
+  10303: 'Voyons voir... ponctuez les i ici, croisez les t là... et... nous avons terminé. Voici votre ${keyitem-singular: 0[2]}.${prompt}'
+  10304: 'Il y a encore une chose. Prenez également ce ${keyitem-singular: 0[2]} avec vous.${prompt}'
+  10305: Cela vous permettra de vous téléporter à Adoulin. Vous avez peut-être remarqué qu'il y a un portail mystique situé ici à Basse Jeuno. Celui-ci vous mènera là-bas.${prompt} 
+  10306: 'Ces ${keyitem-plural: 0[2]} enregistrent des sources de puissance en des endroits spécifiques et permettent un voyage instantané entre deux lieux.${prompt}'
+  10307: On m'a informé que cette forme de transport s'appelle le "warping".${prompt}
+  10308: 'Le ${keyitem-singular: 0[2]} que je vous ai présenté est déjà accordé au lieu à Basse Jeuno et à l’ouest d’Adoulin.${prompt}'
+  10309: Le faire passer sur la surface du portail vous permettra de vous téléporter à Adoulin.${prompt}
+  10310: Cependant, le Warping n'est pas gratuit ; le processus nécessite un certain type d'énergie.${prompt}
+  10311: Selon mes informations, échanger des cristaux contre un waypoint les convertira en énergie. Ce processus s'appelle le "charging".${prompt}
+  10312: 'L’énergie, appelée "unités cinétiques", est enregistrée sur le ${keyitem-singular: 0[2]} que je vous ai donné.${prompt}'
+  10313: Utiliser les waypoints épuisera une partie de ces unités cinétiques à chaque fois, je recommande donc une recharge périodique.${prompt}
+  10314: Il est indiqué ici que tout ce que je vous ai transmis peut être consulté à tout moment à partir de n'importe quel point de passage.${prompt}
+  10315: Bien sûr, en considération de toute votre aide, celui que je vous ai donné est entièrement chargé. J'espère que vous en ferez bon usage.${prompt}
+  10316: C'est toutes les informations que je peux vous fournir. Vos aventures à Adoulin dépendront de ce que vous en ferez, et nous espérons que vous apporterez une contribution positive au développement de la nation et au succès de l'initiative pionnière.${prompt}
+  10317: Nos archives montrent que vous avez déjà déclaré votre désir de participer à l'initiative.${prompt}
+  10318: 'Lorsque nous émettrons votre ${keyitem-singular: 0[2]}, nous collecterons votre ${keyitem-singular: 1[2]}. Assurez-vous de choisir votre chemin judicieusement.${prompt}'
+  10319: Permettez-moi de vous expliquer l'initiative plus en détail.${prompt}
+  10320: 'Vous souhaitez que j’examine votre ${keyitem-singular: 0[2]}, n’est-ce pas ? Alors s’il vous plaît, laissez-moi jeter un œil.${prompt}'
   10321: '...${prompt}'
-  10322: Having analyzed the sample you retrieved, we are pleased to inform you that you have passed the test.${prompt}
-  10323: 'I shall now return your ${keyitem-singular: 0[2]} to you.${prompt}'
-  10324: 'Your ${keyitem-singular: 0[2]} is attuned not just to the location you visited, but also to locations throughout Adoulin.${prompt}'
-  10325: 'We have a task that we would like to request of all adventurers who possess ${keyitem-plural: 0[2]}.${prompt}'
-  10326: This request comes directly from the Adventurers' Mutual Aid Network, with the reward to be paid out by them as well.${prompt}
-  10327: 'The content of this request is simple. The Association wants adventurers to record loci of power for them using the ${keyitem-singular: 0[2]}. Of course, they are indeed aware that different adventurers will have different wants and priorities.${prompt}'
-  10328: 'In order to support adventurers whose skills are best utilized outside the field of battle, the Association is searching for people to attune these ${keyitem-plural: 0[2]} in their stead.${prompt}'
-  10329: Will you accept this task?${prompt}
+  10322: Après avoir analysé l'échantillon que vous avez récupéré, nous sommes heureux de vous informer que vous avez réussi le test.${prompt}
+  10323: 'Je vais maintenant vous rendre votre ${keyitem-singular: 0[2]}.${prompt}'
+  10324: 'Votre ${keyitem-singular: 0[2]} est accordé non seulement à l’emplacement que vous avez visité, mais aussi à des emplacements à travers Adoulin.${prompt}'
+  10325: 'Nous avons une tâche que nous aimerions demander à tous les aventuriers qui possèdent ${keyitem-plural: 0[2]}.${prompt}'
+  10326: Cette demande provient directement du Réseau d'Aide Mutuelle des Aventuriers, avec la récompense à être versée par eux également.${prompt}
+  10327: 'Le contenu de cette demande est simple. L’Association veut que les aventuriers enregistrent des lieux de pouvoir pour eux en utilisant le ${keyitem-singular: 0[2]}. Bien sûr, ils sont conscients que différents aventuriers auront des envies et des priorités différentes.${prompt}'
+  10328: 'Afin de soutenir les aventuriers dont les compétences sont mieux utilisées en dehors du champ de bataille, l’Association recherche des personnes pour accorder ces ${keyitem-plural: 0[2]} à leur place.${prompt}'
+  10329: Acceptez-vous cette tâche ?${prompt}
   10330: |-
-    How about it?
+    Qu'en pensez-vous ?
     ${selection-lines}
-    Sounds like a good time!
-    Nah, not for me.${prompt}
-  10331: 'I''m sure the Association appreciates your assistance in this matter. Here is the ${keyitem-singular: 0[2]} they would like you to use.${prompt}'
-  10332: Thank you for your outstanding work. Here is the reward the Association has set aside for you.${prompt}
-  10333: 'Additionally, I will make sure that your ${keyitem-singular: 0[2]} gets sent to the proper authorities.${prompt}'
-  10334: Hmm...I see here in the files that you have already accepted this request. Would you like to cancel?${prompt}
+    Ça a l'air amusant !
+    Non, pas pour moi.${prompt}
+  10331: 'Je suis sûr que l’Association apprécie votre aide dans cette affaire. Voici le ${keyitem-singular: 0[2]} qu’ils aimeraient que vous utilisiez.${prompt}'
+  10332: Merci pour votre travail exceptionnel. Voici la récompense que l'Association a réservée pour vous.${prompt}
+  10333: 'De plus, je veillerai à ce que votre ${keyitem-singular: 0[2]} soit envoyé aux autorités compétentes.${prompt}'
+  10334: Hmm... Je vois ici dans les fichiers que vous avez déjà accepté cette demande. Souhaitez-vous l'annuler ?${prompt}
   10335: |-
-    Abandon the quest or press forward?
+    Abandonner la quête ou continuer ?
     ${selection-lines}
-    I suppose it's not my thing.
-    I'm not giving up that easily!${prompt}
-  10336: 'I am sorry to hear that. If that is the case, then I must ask that you return your ${keyitem-singular: 0[2]}. The Association was truly looking forward to working with you.${prompt}'
-  10337: 'You returned your Key Item: ${keyitem-singular: 0[2]} to the clerk.${prompt}'
-  10338: Welcome to the Jeuno Chamber of Commerce and Industry's Adoulin Pioneer Consultation Desk. We are currently handling large volumes of paperwork and will be unable to process any requests at this time. Please come back later.${prompt}
+    Je suppose que ce n'est pas pour moi.
+    Je n'abandonne pas si facilement !${prompt}
+  10336: 'Je suis désolé d’apprendre cela. Si c’est le cas, je dois vous demander de restituer votre ${keyitem-singular: 0[2]}. L’Association était vraiment impatiente de travailler avec vous.${prompt}'
+  10337: 'Vous avez rendu votre Objet-Clé : ${keyitem-singular: 0[2]} au commis.${prompt}'
+  10338: Bienvenue au Bureau de Consultation des Pionniers d'Adoulin de la Chambre de Commerce et d'Industrie de Jeuno. Nous traitons actuellement de gros volumes de paperasse et nous serons incapables de traiter toute demande pour le moment. Merci de revenir plus tard.${prompt}
   10339: |-
-    Activate this waypoint?
+    Activer ce point de passage ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  10340: A waypoint lies before you in all its mystery.
-  10341: You were unable to warp to your desired destination.
+    Oui.
+    Non.${prompt}
+  10340: Un point de passage se dresse devant vous dans tout son mystère.
+  10341: Vous n'avez pas pu vous téléporter vers votre destination souhaitée.
   10342: |-
-    What will you do? (Kinetic Units: ${number: 3})
+    Que ferez-vous ? (Unités cinétiques : ${number: 3})
     ${selection-lines}
-    Nothing.
-    Read an explanation!
-    Go to Western Adoulin.
-    Go to Eastern Adoulin.
-    Go to Ceizak Battlegrounds.
-    Go to Yahse Hunting Grounds.
-    Go to Foret de Hennetiel.
-    Go to Morimar Basalt Fields.
-    Go to Yorcia Weald.
-    Go to Marjami Ravine.
-    Go to Kamihr Drifts.
-    Go to Jeuno. (${number: 4} unit${choice-plurality: 4}[/s])
-    Go to an enigmatic device.
-    Use runes.
-    Decline destination confirmation.
-    Accept destination confirmation.${prompt}
+    Rien.
+    Lire une explication !
+    Aller à Adoulin Ouest.
+    Aller à Adoulin Est.
+    Aller au Champ de bataille de Ceizak.
+    Aller au Territoire de chasse de Yahse.
+    Aller à la Forêt de Hennetiel.
+    Aller au Plateau de basalte de Morimar.
+    Aller à la Clairière de Yorcia.
+    Aller au Ravin de Marjami.
+    Aller au Glacier de Kamihr.
+    Aller à Jeuno. (${number: 4} unité${choice-plurality: 4}[/s])
+    Aller vers un appareil énigmatique.
+    Utiliser des runes.
+    Refuser la confirmation de la destination.
+    Accepter la confirmation de la destination.${prompt}
   10343: |-
-    What will you do? (Kinetic Units: ${number: 3})
+    Que ferez-vous ? (Unités cinétiques : ${number: 3})
     ${selection-lines}
-    Nothing.
-    Read an explanation.
-    Go to Western Adoulin. (${number: 4} unit${choice-plurality: 4}[/s])
-    Decline destination confirmation.
-    Accept destination confirmation.${prompt}
+    Rien.
+    Lire une explication.
+    Aller à Adoulin Ouest. (${number: 4} unité${choice-plurality: 4}[/s])
+    Refuser la confirmation de la destination.
+    Accepter la confirmation de la destination.${prompt}
   10344: |-
-    Choose a destination. (Kinetic Units: ${number: 3})
+    Choisissez une destination. (Unités cinétiques : ${number: 3})
     ${selection-lines}
-    Back.
-    Northern San d'Oria. (${number: 4} unit${choice-plurality: 4}[/s])
-    Bastok Markets. (${number: 4} unit${choice-plurality: 4}[/s])
-    Windurst Woods. (${number: 4} unit${choice-plurality: 4}[/s])
-    Selbina. (${number: 4} unit${choice-plurality: 4}[/s])
-    Mhaura. (${number: 4} unit${choice-plurality: 4}[/s])
-    Kazham. (${number: 4} unit${choice-plurality: 4}[/s])
-    Rabao. (${number: 4} unit${choice-plurality: 4}[/s])
-    Norg. (${number: 4} unit${choice-plurality: 4}[/s])
-    Tavnazian Safehold. (${number: 4} unit${choice-plurality: 4}[/s])
-    Aht Urhgan Whitegate. (${number: 4} unit${choice-plurality: 4}[/s])
-    Nashmau. (${number: 4} unit${choice-plurality: 4}[/s])
-    (${number: 4} unit${choice-plurality: 4}[/s])
-    (${number: 4} unit${choice-plurality: 4}[/s])
-    (${number: 4} unit${choice-plurality: 4}[/s])
-    (${number: 4} unit${choice-plurality: 4}[/s])
-    (${number: 4} unit${choice-plurality: 4}[/s])
-    (${number: 4} unit${choice-plurality: 4}[/s])
-    (${number: 4} unit${choice-plurality: 4}[/s])
-    (${number: 4} unit${choice-plurality: 4}[/s])
-    (${number: 4} unit${choice-plurality: 4}[/s])
-    (${number: 4} unit${choice-plurality: 4}[/s])
-    (${number: 4} unit${choice-plurality: 4}[/s])
-    (${number: 4} unit${choice-plurality: 4}[/s])
-    (${number: 4} unit${choice-plurality: 4}[/s])
-    (${number: 4} unit${choice-plurality: 4}[/s])
-    (${number: 4} unit${choice-plurality: 4}[/s])
-    (${number: 4} unit${choice-plurality: 4}[/s])
-    (${number: 4} unit${choice-plurality: 4}[/s])
-    (${number: 4} unit${choice-plurality: 4}[/s])
-    (${number: 4} unit${choice-plurality: 4}[/s])${prompt}
-  10345: 'Your ${keyitem-singular: 1[2]} has been attuned to a geomagnetic fount${choice: 0}[/ in front of the Peacekeepers'' Coalition/ in front of the Scouts'' Coalition/ at the Statue of the Goddess/ at the wharf to Yahse Hunting Grounds/ in front of your Rent-a-Room/ in front of the auction house/ on Sverdhried Hillock/ in the Coronal Esplanade/ at the gates of Castle Adoulin]!${prompt}'
+    Retour.
+    San d'Oria Nord. (${number: 4} unité${choice-plurality: 4}[/s])
+    Marché de Bastok. (${number: 4} unité${choice-plurality: 4}[/s])
+    Forêt de Windurst. (${number: 4} unité${choice-plurality: 4}[/s])
+    Selbina. (${number: 4} unité${choice-plurality: 4}[/s])
+    Mhaura. (${number: 4} unité${choice-plurality: 4}[/s])
+    Kazham. (${number: 4} unité${choice-plurality: 4}[/s])
+    Rabao. (${number: 4} unité${choice-plurality: 4}[/s])
+    Norg. (${number: 4} unité${choice-plurality: 4}[/s])
+    Refuge de Tavnazia. (${number: 4} unité${choice-plurality: 4}[/s])
+    Aht Urhgan Blanc. (${number: 4} unité${choice-plurality: 4}[/s])
+    Nashmau. (${number: 4} unité${choice-plurality: 4}[/s])
+    (${number: 4} unité${choice-plurality: 4}[/s])
+    (${number: 4} unité${choice-plurality: 4}[/s])
+    (${number: 4} unité${choice-plurality: 4}[/s])
+    (${number: 4} unité${choice-plurality: 4}[/s])
+    (${number: 4} unité${choice-plurality: 4}[/s])
+    (${number: 4} unité${choice-plurality: 4}[/s])
+    (${number: 4} unité${choice-plurality: 4}[/s])
+    (${number: 4} unité${choice-plurality: 4}[/s])
+    (${number: 4} unité${choice-plurality: 4}[/s])
+    (${number: 4} unité${choice-plurality: 4}[/s])
+    (${number: 4} unité${choice-plurality: 4}[/s])
+    (${number: 4} unité${choice-plurality: 4}[/s])
+    (${number: 4} unité${choice-plurality: 4}[/s])
+    (${number: 4} unité${choice-plurality: 4}[/s])
+    (${number: 4} unité${choice-plurality: 4}[/s])
+    (${number: 4} unité${choice-plurality: 4}[/s])${prompt}
+  10345: 'Votre ${keyitem-singular: 1[2]} a été accordé à une source géomagnétique${choice: 0}[/ devant la Coalition des Gardiens de la Paix/ devant la Coalition des Éclaireurs/ près de la Statue de la Déesse/ sur le quai menant au Territoire de chasse de Yahse/ devant votre Chambre à Louer/ devant la maison des enchères/ sur la colline de Sverdhried/ dans l’Esplanade Coronal/ aux portes du château d’Adoulin]!${prompt}'
   10346: |-
-    Choose a destination. (Kinetic Units: ${number: 3})
+    Choisissez une destination. (Unités cinétiques : ${number: 3})
     ${selection-lines}
-    Nowhere, thanks.
-    Peacekeepers' Coalition. (${number: 4} unit${choice-plurality: 4}[/s])
-    Scouts' Coalition. (${number: 4} unit${choice-plurality: 4}[/s])
-    Statue of the Goddess. (${number: 4} unit${choice-plurality: 4}[/s])
-    The wharf to Yahse. (${number: 4} unit${choice-plurality: 4}[/s])
-    Your Rent-a-Room. (${number: 4} unit${choice-plurality: 4}[/s])
-    The auction house. (${number: 4} unit${choice-plurality: 4}[/s])
-    Sverdhried Hillock. (${number: 4} unit${choice-plurality: 4}[/s])
-    The Coronal Esplanade. (${number: 4} unit${choice-plurality: 4}[/s])
-    Castle Adoulin gates. (${number: 4} unit${choice-plurality: 4}[/s])${prompt}
-  10347: 'Your ${keyitem-singular: 1[2]} has been attuned to a geomagnetic fount${choice: 0}[/ in Platea Triumphus (Couriers'' Coalition)/ in front of the Pioneers'' Coalition/ in front of the Mummers'' Coalition/ in front of the Inventors'' Coalition/ in front of the auction house/ in front of your Rent-a-Room/ by Big Bridge/ by the airship docks/ on the Adoulin Waterfront]!${prompt}'
+    Nulle part, merci.
+    Coalition des Gardiens de la Paix. (${number: 4} unité${choice-plurality: 4}[/s])
+    Coalition des Éclaireurs. (${number: 4} unité${choice-plurality: 4}[/s])
+    Statue de la Déesse. (${number: 4} unité${choice-plurality: 4}[/s])
+    Le quai menant au Territoire de chasse de Yahse. (${number: 4} unité${choice-plurality: 4}[/s])
+    Votre Chambre à Louer. (${number: 4} unité${choice-plurality: 4}[/s])
+    La maison des enchères. (${number: 4} unité${choice-plurality: 4}[/s])
+    Colline de Sverdhried. (${number: 4} unité${choice-plurality: 4}[/s])
+    L'Esplanade Coronal. (${number: 4} unité${choice-plurality: 4}[/s])
+    Portes du château d'Adoulin. (${number: 4} unité${choice-plurality: 4}[/s])${prompt}
+  10347: 'Votre ${keyitem-singular: 1[2]} a été accordé à une source géomagnétique${choice: 0}[/ sur Platea Triumphus (Coalition des Courriers)/ devant la Coalition des Pionniers/ devant la Coalition des Farceurs/ devant la Coalition des Inventeurs/ devant la maison des enchères/ devant votre Chambre à Louer/ près du Grand Pont/ près des quais des aéronefs/ sur le front de mer d’Adoulin]!${prompt}'
   10348: |-
-    Choose a destination. (Kinetic Units: ${number: 3})
+    Choisissez une destination. (Unités cinétiques : ${number: 3})
     ${selection-lines}
-    Nowhere, thanks.
-    Platea Triumphus (COU Co.). (${number: 4} unit${choice-plurality: 4}[/s])
-    Pioneers' Coalition. (${number: 4} unit${choice-plurality: 4}[/s])
-    Mummers' Coalition. (${number: 4} unit${choice-plurality: 4}[/s])
-    Inventors' Coalition. (${number: 4} unit${choice-plurality: 4}[/s])
-    Auction house. (${number: 4} unit${choice-plurality: 4}[/s])
-    Your Rent-a-Room. (${number: 4} unit${choice-plurality: 4}[/s])
-    Big Bridge. (${number: 4} unit${choice-plurality: 4}[/s])
-    Airship docks. (${number: 4} unit${choice-plurality: 4}[/s])
-    Adoulin Waterfront. (${number: 4} unit${choice-plurality: 4}[/s])${prompt}
-  10349: 'Your ${keyitem-singular: 1[2]} has been attuned to a geomagnetic fount${choice: 0}[/ at the frontier station/ at Frontier Bivouac #1/ at Frontier Bivouac #2/ at Frontier Bivouac #3]!${prompt}'
+    Nulle part, merci.
+    Platea Triumphus (COU Co.). (${number: 4} unité${choice-plurality: 4}[/s])
+    Coalition des Pionniers. (${number: 4} unité${choice-plurality: 4}[/s])
+    Coalition des Farceurs. (${number: 4} unité${choice-plurality: 4}[/s])
+    Coalition des Inventeurs. (${number: 4} unité${choice-plurality: 4}[/s])
+    Maison des enchères. (${number: 4} unité${choice-plurality: 4}[/s])
+    Votre Chambre à Louer. (${number: 4} unité${choice-plurality: 4}[/s])
+    Grand Pont. (${number: 4} unité${choice-plurality: 4}[/s])
+    Quais des aéronefs. (${number: 4} unité${choice-plurality: 4}[/s])
+    Front de mer d'Adoulin. (${number: 4} unité${choice-plurality: 4}[/s])${prompt}
+  10349: 'Votre ${keyitem-singular: 1[2]} a été accordé à une source géomagnétique${choice: 0}[/ au poste frontière/ au bivouac de la Frontière n°1/ au bivouac de la Frontière n°2/ au bivouac de la Frontière n°3]!${prompt}'
   10350: |-
-    Choose a destination. (Kinetic Units: ${number: 3})
+    Choisissez une destination. (Unités cinétiques : ${number: 3})
     ${selection-lines}
-    Nowhere.
-    Frontier Station. (${number: 4} unit${choice-plurality: 4}[/s])
-    Frontier Bivouac #1. (${number: 4} unit${choice-plurality: 4}[/s])
-    Frontier Bivouac #2. (${number: 4} unit${choice-plurality: 4}[/s])
-    Frontier Bivouac #3. (${number: 4} unit${choice-plurality: 4}[/s])${prompt}
-  10351: 'Your ${keyitem-singular: 1[2]} has been attuned to a geomagnetic fount${choice: 0}[/ at the frontier station/ at Frontier Bivouac #1/ at Frontier Bivouac #2/ at Frontier Bivouac #3]!${prompt}'
+    Nulle part.
+    Poste frontière. (${number: 4} unité${choice-plurality: 4}[/s])
+    Bivouac de la Frontière n°1. (${number: 4} unité${choice-plurality: 4}[/s])
+    Bivouac de la Frontière n°2. (${number: 4} unité${choice-plurality: 4}[/s])
+    Bivouac de la Frontière n°3. (${number: 4} unité${choice-plurality: 4}[/s])${prompt}
+  10351: 'Votre ${keyitem-singular: 1[2]} a été accordé à une source géomagnétique${choice: 0}[/ au poste frontière/ au bivouac de la Frontière n°1/ au bivouac de la Frontière n°2/ au bivouac de la Frontière n°3]!${prompt}'
   10352: |-
-    Choose a destination. (Kinetic Units: ${number: 3})
+    Choisissez une destination. (Unités cinétiques : ${number: 3})
     ${selection-lines}
-    Nowhere.
-    Frontier Station. (${number: 4} unit${choice-plurality: 4}[/s])
-    Frontier Bivouac #1. (${number: 4} unit${choice-plurality: 4}[/s])
-    Frontier Bivouac #2. (${number: 4} unit${choice-plurality: 4}[/s])
-    Frontier Bivouac #3. (${number: 4} unit${choice-plurality: 4}[/s])${prompt}
-  10353: 'Your ${keyitem-singular: 1[2]} has been attuned to a geomagnetic fount${choice: 0}[/ at the frontier station/ at Frontier Bivouac #1/ at Frontier Bivouac #2/ at Frontier Bivouac #3/ at Frontier Bivouac #4]!${prompt}'
+    Nulle part.
+    Poste frontière. (${number: 4} unité${choice-plurality: 4}[/s])
+    Bivouac de la Frontière n°1. (${number: 4} unité${choice-plurality: 4}[/s])
+    Bivouac de la Frontière n°2. (${number: 4} unité${choice-plurality: 4}[/s])
+    Bivouac de la Frontière n°3. (${number: 4} unité${choice-plurality: 4}[/s])${prompt}
+  10353: 'Votre ${keyitem-singular: 1[2]} a été accordé à une source géomagnétique${choice: 0}[/ au poste frontière/ au bivouac de la Frontière n°1/ au bivouac de la Frontière n°2/ au bivouac de la Frontière n°3/ au bivouac de la Frontière n°4]!${prompt}'
   10354: |-
-    Choose a destination. (Kinetic Units: ${number: 3})
+    Choisissez une destination. (Unités cinétiques : ${number: 3})
     ${selection-lines}
-    Nowhere.
-    Frontier Station. (${number: 4} unit${choice-plurality: 4}[/s])
-    Frontier Bivouac #1. (${number: 4} unit${choice-plurality: 4}[/s])
-    Frontier Bivouac #2. (${number: 4} unit${choice-plurality: 4}[/s])
-    Frontier Bivouac #3. (${number: 4} unit${choice-plurality: 4}[/s])
-    Frontier Bivouac #4. (${number: 4} unit${choice-plurality: 4}[/s])${prompt}
-  10355: 'Your ${keyitem-singular: 1[2]} has been attuned to a geomagnetic fount${choice: 0}[/ at the frontier station/ at Frontier Bivouac #1/ at Frontier Bivouac #2/ at Frontier Bivouac #3/ at Frontier Bivouac #4/ at Frontier Bivouac #5]!${prompt}'
+    Nulle part.
+    Poste frontière. (${number: 4} unité${choice-plurality: 4}[/s])
+    Bivouac de la Frontière n°1. (${number: 4} unité${choice-plurality: 4}[/s])
+    Bivouac de la Frontière n°2. (${number: 4} unité${choice-plurality: 4}[/s])
+    Bivouac de la Frontière n°3. (${number: 4} unité${choice-plurality: 4}[/s])
+    Bivouac de la Frontière n°4. (${number: 4} unité${choice-plurality: 4}[/s])${prompt}
+  10355: 'Votre ${keyitem-singular: 1[2]} a été accordé à une source géomagnétique${choice: 0}[/ au poste frontière/ au bivouac de la Frontière n°1/ au bivouac de la Frontière n°2/ au bivouac de la Frontière n°3/ au bivouac de la Frontière n°4/ au bivouac de la Frontière n°5]!${prompt}'
   10356: |-
     Choose a destination. (Kinetic Units: ${number: 3})
     ${selection-lines}
