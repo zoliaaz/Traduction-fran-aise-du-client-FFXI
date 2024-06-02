@@ -23970,6 +23970,9 @@ entries:
     (${number: 4} unité${choice-plurality: 4}[/s])
     (${number: 4} unité${choice-plurality: 4}[/s])
     (${number: 4} unité${choice-plurality: 4}[/s])
+    (${number: 4} unité${choice-plurality: 4}[/s])
+    (${number: 4} unité${choice-plurality: 4}[/s])
+    (${number: 4} unité${choice-plurality: 4}[/s])
     (${number: 4} unité${choice-plurality: 4}[/s])${prompt}
   10345: 'Votre ${keyitem-singular: 1[2]} a été accordé à une source géomagnétique${choice: 0}[/ devant la Coalition des Gardiens de la Paix/ devant la Coalition des Éclaireurs/ près de la Statue de la Déesse/ sur le quai menant au Territoire de chasse de Yahse/ devant votre Chambre à Louer/ devant la maison des enchères/ sur la colline de Sverdhried/ dans l’Esplanade Coronal/ aux portes du château d’Adoulin]!${prompt}'
   10346: |-
@@ -25788,185 +25791,185 @@ entries:
     Wait, what!?
     You're totally making me out to be the villain here!${prompt}
   11164: |-
-    Yeah, that's the point.
-    I've been tellin' ya that from the very beginning.${prompt}
+    Oui, c'est ça.
+    Je vous le dis depuis le tout début.${prompt}
   11165: |-
-    Hey, it's ${name-player}!
-    What are you doing here!?${prompt}
-  11166: Ah! It's the brave hero, Gloom Phantom!${prompt}
-  11167: Brave hero...?${prompt}
-  11168: I came as soon as I received your message!${prompt}
-  11169: So the “World Eater Egg” was found right in the middle of Jeuno!${prompt}
+    Hé, c'est ${name-player} !
+    Que fais-tu ici !?${prompt}
+  11166: Ah ! C'est le brave héros, Gloom Phantom !${prompt}
+  11167: Brave héros... ?${prompt}
+  11168: Je suis venu dès que j'ai reçu votre message !${prompt}
+  11169: Donc l'« Œuf Dévoreur de Mondes » a été trouvé en plein cœur de Jeuno !${prompt}
   11170: |-
-    That's right.
-    Before anyone realized it was the “World Eater Egg,” it went from being in a Goblin's capable hands to someone eating it...${prompt}
-  11171: Wha!? The shell was cracked open without needing my sword!?${prompt}
+    C'est exact.
+    Avant que quiconque ne réalise qu'il s'agissait de l'« Œuf Dévoreur de Mondes », il est passé des mains capables d'un gobelin à quelqu'un qui l'a mangé...${prompt}
+  11171: Quoi !? La coquille s'est cassée sans avoir besoin de mon épée !?${prompt}
   11172: |-
-    Yeah, it's a total mystery.
-    It's also unclear where this “World Eater Egg” originally came from.${prompt}
-  11173: The World Eater...Egg...?${prompt}
-  11174: Ultimately, it was that girl there who gave the egg to the man known as Maat, who then promptly ate it.${prompt}
+    Oui, c'est un véritable mystère.
+    On ne sait pas non plus d'où venait cet « Œuf Dévoreur de Mondes » à l'origine.${prompt}
+  11173: L'Œuf Dévoreur de Mondes... ?${prompt}
+  11174: Au final, c'est cette fille là-bas qui a donné l'œuf à l'homme connu sous le nom de Maat, qui l'a ensuite mangé sans plus tarder.${prompt}
   11175: |-
-    W-well, I, uh...
-    He told me he was hungry, and so I simply brought him ${article} ${item-article: 1[2]} I found nearby...${prompt}
-  11176: What I want to know is where was the egg before that?${prompt}
-  11177: I don't know the details, but I heard a monster near Delkfutt's Tower was carryin' it.${prompt}
+    Euh... eh bien, je...
+    Il m'a dit qu'il avait faim, alors j'ai simplement apporté ${article} ${item-article: 1[2]} que j'ai trouvé à proximité...${prompt}
+  11176: Ce que je veux savoir, c'est où était l'œuf avant cela ?${prompt}
+  11177: Je ne connais pas les détails, mais j'ai entendu qu'un monstre près de la Tour de Delkfutt le transportait.${prompt}
   11178: |-
-    Delkfutt?
-    Where have I heard that name before...${prompt}
+    Delkfutt ?
+    Où ai-je déjà entendu ce nom...${prompt}
   11179: |-
-    Delkfutt's Tower is on Qufim Island, which is in Gigas territory.
-    Clearly, certain death awaits us there.${prompt}
-  11180: Can I ask for your help in this matter, brave hero?${prompt}
+    La Tour de Delkfutt se trouve sur l'île de Qufim, qui est sur le territoire des Gigas.
+    Il est clair que la mort certaine nous attend là-bas.${prompt}
+  11180: Puis-je demander votre aide dans cette affaire, brave héros ?${prompt}
   11181: |-
-    That's why I'm here!
-    Leave everything to us!${prompt}
-  11182: Hmm... Maybe one of the Gigas knows about the egg and the monster that had it...${prompt}
+    C'est pourquoi je suis là !
+    Laissez tout nous à nous !${prompt}
+  11182: Hmm... Peut-être qu'un des Gigas sait quelque chose sur l'œuf et le monstre qui l'avait...${prompt}
   11183: |-
-    I got it!
-    We'll go to Qufim Island and capture one of the Gigas there and question it!${prompt}
-  11184: You can help us too, ${name-player}!${prompt}
+    J'ai compris !
+    Nous irons sur l'île de Qufim et capturerons l'un des Gigas là-bas pour l'interroger !${prompt}
+  11184: Vous pouvez aussi nous aider, ${name-player} !${prompt}
   11185: |-
-    Will you help?
+    Allez-vous nous aider ?
     ${selection-lines}
-    Sure, count me in!
-    Sorry, I'm busy.${prompt}
-  11186: Naturally, Dazbog and Magh Bihu'll be going to Qufim Island as well!${prompt}
-  11187: Where's your sense of adventure!?${prompt}
-  11188: Dazbog and Magh Bihu'll be going to Qufim Island too, so there's no need to be afraid!${prompt}
-  11189: Okay, we'll be waiting for you in front of Delkfutt's Tower!${prompt}
+    Bien sûr, comptez sur moi !
+    Désolé, je suis occupé.${prompt}
+  11186: Bien sûr, Dazbog et Magh Bihu se rendront également sur l'île de Qufim !${prompt}
+  11187: Où est passée votre soif d'aventure !?${prompt}
+  11188: Dazbog et Magh Bihu se rendront également sur l'île de Qufim, alors pas besoin d'avoir peur !${prompt}
+  11189: D'accord, nous vous attendrons devant la Tour de Delkfutt !${prompt}
   11190: |-
-    It's rare that you meet such a mighty hero in person.
-    There aren't many who can draw others to their cause so effortlessly.${prompt}
+    C'est rare de rencontrer un tel héros puissant en personne.
+    Il n'y en a pas beaucoup qui peuvent attirer les autres à leur cause aussi facilement.${prompt}
   11191: |-
-    As for you...
-    I believe people called ya "that horror from the holdfast" before, yes?${prompt}
-  11192: So clearly, that makes ya the perfect villain for our story.${prompt}
+    Quant à vous...
+    Je crois que les gens vous appelaient "cette horreur de la tour" auparavant, n'est-ce pas ?${prompt}
+  11192: Donc clairement, cela fait de vous le parfait méchant pour notre histoire.${prompt}
   11193: |-
-    I resent that remark!
-    You obviously don't know what's important in a Heroine Stage Show!${prompt}
-  11194: Wh-what did you say!?${prompt}
-  11195: If you don't know how a show is supposed to resonate with its fans, then I guess I'll just have to teach you!${prompt}
-  11196: Phew! That was intense.${prompt}
-  11197: She said she's goin' back home to grab an old script or somethin' like that.${prompt}
-  11198: I think I'd better take this chance to get as far away from here as possible...${prompt}
+    Je prends cela comme une insulte !
+    Vous ne savez évidemment pas ce qui est important dans un spectacle de l'héroïne !${prompt}
+  11194: Q-quoi avez-vous dit !?${prompt}
+  11195: Si vous ne savez pas comment un spectacle est censé résonner avec ses fans, alors je suppose que je vais juste devoir vous enseigner !${prompt}
+  11196: Ouf ! C'était intense.${prompt}
+  11197: Elle a dit qu'elle rentrerait chez elle chercher un vieux script ou quelque chose comme ça.${prompt}
+  11198: Je crois qu'il vaudrait mieux que je saisisse cette chance pour m'éloigner d'ici le plus loin possible...${prompt}
   11199: |-
-    As for you, you need to go help Gloom Phantom at Delkfutt's Tower on Qufim Island.
-    Got it?${prompt}
-  11200: So anyway, that Gigas known as Echion knew some things, but not others.${prompt}
+    En ce qui vous concerne, vous devez aller aider Gloom Phantom à la Tour de Delkfutt sur l'île de Qufim.
+    Vous avez compris ?${prompt}
+  11200: Quoi qu'il en soit, ce Gigas nommé Echion connaissait certaines choses, mais pas d'autres.${prompt}
   11201: |-
-    I see...
-    Although, we still don't know how the “World Eater Egg” was cracked open without using your sword.${prompt}
-  11202: Indeed. Not even the undead themselves should be able to break it open.${prompt}
-  11203: However, they do seem to have the ability to find the “World Eater Egg.”${prompt}
+    Je vois...
+    Bien que, nous ne savons toujours pas comment l'“Œuf Dévoreur de Mondes” a été ouvert sans utiliser ton épée.${prompt}
+  11202: En effet. Même les morts-vivants eux-mêmes ne devraient pas pouvoir l'ouvrir.${prompt}
+  11203: Cependant, ils semblent avoir la capacité de trouver l'“Œuf Dévoreur de Mondes”.${prompt}
   11204: |-
-    Still, I'm amazed by the Gigas's stupidity.
-    This all happened because they found the “World Eater Egg” and just let it be.${prompt}
-  11205: They just ignore whatever we have to say!${prompt}
-  11206: Furthermore, they have no idea just how terrifying Chaos truly is!${prompt}
-  11207: Five thousand years ago, the one known as Chaos sought to destroy all that was new, even the world itself...${prompt}
+    Néanmoins, je suis stupéfait par la stupidité des Gigas.
+    Tout cela est arrivé parce qu'ils ont trouvé l'“Œuf Dévoreur de Mondes” et l'ont laissé tranquille.${prompt}
+  11205: Ils ignorent simplement tout ce que nous avons à dire !${prompt}
+  11206: De plus, ils ne se rendent pas compte à quel point Chaos est vraiment terrifiant !${prompt}
+  11207: Il y a cinq mille ans, celui connu sous le nom de Chaos cherchait à détruire tout ce qui était nouveau, même le monde lui-même...${prompt}
   11208: |-
-    That included Goblins, Yagudo, Orcs, Quadav...
-    Anything that was different from itself.
-  11209: A great number of species went extinct before the strongest of those that remained banded together.
-  11210: The Gigas feel that way because during the battle against Chaos five thousand years ago, they hadn't even been born yet.${prompt}
-  11211: So there's no way they could've known about the hatred from those that were devoured by Chaos.${prompt}
-  11212: Well, I don't like how they don't believe us just because they haven't seen something themselves.${prompt}
-  11213: By the way, about that undead who was carrying the World Eater Egg...${prompt}
-  11214: Is the mage known as Garazu-Horeizu that can control the undead involved somehow?${prompt}
-  11215: Actually, we don't really know the answer to that ourselves.${prompt}
-  11216: Well, someone must know something!${prompt}
-  11217: M-maybe this one here knows s-something?${prompt}
+    Cela incluait les Gobelins, les Yagudo, les Orcs, les Quadav...
+    Tout ce qui était différent de lui-même.
+  11209: Un grand nombre d'espèces se sont éteintes avant que les plus forts de ceux qui restaient ne se rassemblent.
+  11210: Les Gigas se sentent ainsi parce que lors de la bataille contre Chaos il y a cinq mille ans, ils n'étaient même pas encore nés.${prompt}
+  11211: Donc, il est impossible qu'ils aient pu connaître la haine de ceux qui ont été dévorés par Chaos.${prompt}
+  11212: Eh bien, je n'aime pas qu'ils ne nous croient pas juste parce qu'ils n'ont pas vu quelque chose eux-mêmes.${prompt}
+  11213: Au fait, à propos de ce mort-vivant qui transportait l'Œuf Dévoreur de Mondes...${prompt}
+  11214: Le mage connu sous le nom de Garazu-Horeizu qui peut contrôler les morts-vivants est-il impliqué d'une manière ou d'une autre ?${prompt}
+  11215: En fait, nous ne connaissons pas vraiment la réponse à cela nous-mêmes.${prompt}
+  11216: Eh bien, quelqu'un doit bien savoir quelque chose !${prompt}
+  11217: P-peut-être que celui-ci sait q-quelque chose ?${prompt}
   11218: |-
-    How about Garazu-Horeizu and Chaos?
+    Que penses-tu de Garazu-Horeizu et Chaos ?
     ${selection-lines}
-    The book on maelstrom theory...?
-    The Fourth Yagudo War...?
-    Sorry, I forgot.${prompt}
+    Le livre sur la théorie des tourbillons... ?
+    La Quatrième Guerre Yagudo... ?
+    Désolé, j'ai oublié.${prompt}
   11219: |-
-    What do you mean you forgot!?
-    I'm gonna yank your petals out myself!${prompt}
+    Comment ça, tu as oublié !?
+    Je vais t'arracher tes pétales moi-même !${prompt}
   11220: |-
-    How about Garazu-Horeizu and Chaos?
+    Que penses-tu de Garazu-Horeizu et Chaos ?
     ${selection-lines}
-    Like the maelstrom theory?
-    How about the Yagudo War?
-    Was it the “new discoveries”?${prompt}
-  11221: Hmm... I'm not sure if that makes it any clearer or not.${prompt}
+    Comme la théorie du tourbillon ?
+    Que dirais-tu de la Guerre Yagudo ?
+    Était-ce les “découvertes nouvelles” ?${prompt}
+  11221: Hmm... Je ne suis pas sûr si ça rend les choses plus claires ou non.${prompt}
   11222: |-
-    I think I got a pretty good idea.
-    We can have Dazbog explain the rest later.${prompt}
-  11223: Th-that's fine, but we still haven't solved the m-mystery yet...${prompt}
-  11224: We haven't!?${prompt}
-  11225: C-clearly, Garazu-Horeizu wanted info on Chaos in order to l-learn a new kind of magic.${prompt}
-  11226: H-he looked into Chaos even after his death and journey to V-Valhalla...${prompt}
-  11227: B-but Chaos was defeated in Valhalla...${prompt}
+    Je pense que j'ai une assez bonne idée.
+    On peut demander à Dazbog d'expliquer le reste plus tard.${prompt}
+  11223: C-c'est bien, mais nous n'avons toujours pas résolu le mystère...${prompt}
+  11224: Nous ne l'avons pas !?${prompt}
+  11225: C-clairement, Garazu-Horeizu voulait des informations sur Chaos afin d'apprendre un nouveau type de magie.${prompt}
+  11226: I-il a enquêté sur Chaos même après sa mort et son voyage à V-Valhalla...${prompt}
+  11227: M-mais Chaos a été vaincu à Valhalla...${prompt}
   11228: |-
-    Yeah, that's right!
-    Odin dealt the finishing blow personally!${prompt}
-  11229: Wait, I thought it was a brave Goblin hero that delivered that blow five thousand years ago?${prompt}
-  11230: Huh? In the battle for the Middle Lands, it was my ancestor who dealt the finishing blow.${prompt}
-  11231: However, Chaos was no ordinary opponent.${prompt}
-  11232: Chaos was resurrected in a world beyond this one...${prompt}
-  11233: So my ancestor and numerous other brave warriors journeyed to Valhalla and continued the fight, even beyond death.${prompt}
-  11234: Ah, so those are the warriors whose death we mourn as part of the Festival of Brave Souls.${prompt}
-  11235: So at the very end, Odin dealt the final blow.${prompt}
-  11236: Hmm... So clearly, Chaos met its end long, long ago.${prompt}
+    Oui, c'est vrai !
+    Odin a porté le coup final en personne !${prompt}
+  11229: Attends, je croyais que c'était un brave héros gobelin qui avait porté ce coup il y a cinq mille ans ?${prompt}
+  11230: Hein ? Dans la bataille pour les Terres du Milieu, c'est mon ancêtre qui a porté le coup final.${prompt}
+  11231: Cependant, Chaos n'était pas un adversaire ordinaire.${prompt}
+  11232: Chaos a été ressuscité dans un monde au-delà de celui-ci...${prompt}
+  11233: Ainsi, mon ancêtre et de nombreux autres vaillants guerriers ont voyagé jusqu'à Valhalla et ont poursuivi le combat, même après la mort.${prompt}
+  11234: Ah, ce sont donc les guerriers dont nous pleurons la mort dans le cadre du Festival des Braves Âmes.${prompt}
+  11235: Ainsi, à la toute fin, c'est Odin qui a porté le coup final.${prompt}
+  11236: Hmm... Donc clairement, Chaos a trouvé sa fin il y a bien longtemps.${prompt}
   11237: |-
-    That's a relief.
-    I was worried about what I'd do if Chaos was still alive today.${prompt}
+    C'est un soulagement.
+    J'étais inquiet de ce que je ferais si Chaos était encore en vie aujourd'hui.${prompt}
   11238: |-
-    It's not just me, either. All Goblins carry this sense of dread.
-    That's why we started the Festival of Brave Souls.${prompt}
-  11239: I wholeheartedly support this festival as well!${prompt}
+    Ce n'est pas juste moi non plus. Tous les gobelins ressentent cette crainte.
+    C'est pourquoi nous avons commencé le Festival des Braves Âmes.${prompt}
+  11239: Je soutiens entièrement ce festival aussi !${prompt}
   11240: |-
-    I've got it!
-    We can call it the “Mighty Maidens Heroine Stage Show: Remember the Battle against Chaos”!${prompt}
-  11241: Say that again?${prompt}
-  11242: It's a show we can put on at the Festival of Brave Souls!${prompt}
-  11243: 'Or, we can simplify the name a bit and just call it the “Mighty Maidens Heroine Stage Show: Defeat Chaos”!${prompt}'
-  11244: What is she talking about!?${prompt}
-  11245: She's not happy with the show for the festival, so she's been trying to convince me to change it.${prompt}
+    Je l'ai !
+    On peut l'appeler le “Spectacle de Scène Héroïque des Mighty Maidens : Souvenez-vous de la Bataille contre Chaos” !${prompt}
+  11241: Répète ça ?${prompt}
+  11242: C'est un spectacle que nous pouvons présenter lors du Festival des Braves Âmes !${prompt}
+  11243: 'Ou, nous pouvons simplifier un peu le nom et l’appeler simplement le “Spectacle de Scène Héroïque des Mighty Maidens : Vaincre Chaos” !${prompt}'
+  11244: De quoi elle parle !?${prompt}
+  11245: Elle n'est pas satisfaite du spectacle pour le festival, donc elle essaie de me convaincre de le changer.${prompt}
   11246: |-
-    You're right...
-    She's been here the whole time.${prompt}
-  11247: It came to me after hearing all of you talk!${prompt}
-  11248: This evil being known as Chaos tried to eradicate anyone who was different from it, so various beings worked together to oppose it, right?${prompt}
+    Tu as raison...
+    Elle est là depuis le début.${prompt}
+  11247: Cela m'est venu après vous avoir tous entendus parler !${prompt}
+  11248: Cet être maléfique connu sous le nom de Chaos a essayé d'éradiquer quiconque était différent de lui, donc diverses créatures ont travaillé ensemble pour s'y opposer, n'est-ce pas ?${prompt}
   11249: |-
-    And afterwards, this enemy rose up once again to put the land in danger!
-    This story has it all--a real tearjerker followed by everyone living happily ever after!${prompt}
-  11250: A story like that contains everything that fans want to see in a Heroine Stage Show!${prompt}
-  11251: 'First: everyone is made stronger due to their differences!${prompt}'
-  11252: 'Second: they overcome their differences and work together!${prompt}'
-  11253: 'Third: there are moments of sadness, but people rise up in a spirit of hope!${prompt}'
-  11254: Hmm... When you put it like that...${prompt}
-  11255: Furthermore, once everyone sees the show, they won't be like the Gigas and not believe in something because they've never seen it before!${prompt}
-  11256: Yes, I suppose you have a point...${prompt}
-  11257: Okay! I'll give it some thought!${prompt}
-  11258: You will!?${prompt}
-  11259: However, in regards to Valhalla...${prompt}
-  11260: Chaos may have hidden the egg before its death.${prompt}
+    Et ensuite, cet ennemi s'est levé de nouveau pour mettre la terre en danger !
+    Cette histoire a tout ce qu'il faut - de vraies larmes, suivies de tout le monde vivant heureux pour toujours !${prompt}
+  11250: Une histoire comme celle-là contient tout ce que les fans veulent voir dans un spectacle de scène héroïque !${prompt}
+  11251: 'Premièrement: tout le monde devient plus fort grâce à leurs différences !${prompt}'
+  11252: 'Deuxièmement: ils surmontent leurs différences et travaillent ensemble !${prompt}'
+  11253: 'Troisièmement: il y a des moments de tristesse, mais les gens se relèvent dans un esprit d’espoir !${prompt}'
+  11254: Hmm... Quand on le dit comme ça...${prompt}
+  11255: De plus, une fois que tout le monde aura vu le spectacle, ils ne seront pas comme les Gigas et ne croiront pas en quelque chose parce qu'ils ne l'ont jamais vu auparavant !${prompt}
+  11256: Oui, je suppose que tu as raison...${prompt}
+  11257: D'accord ! J'y réfléchirai sérieusement !${prompt}
+  11258: Vraiment !?${prompt}
+  11259: Cependant, en ce qui concerne Valhalla...${prompt}
+  11260: Le Chaos a peut-être caché l'œuf avant sa mort.${prompt}
   11261: |-
-    Yes, that's totally possible!
-    However, I think Odin would've noticed...${prompt}
-  11262: Maybe his nose was stuffed up, or he had something else on his mind at the time.${prompt}
+    Oui, c'est totalement possible !
+    Cependant, je pense qu'Odin aurait remarqué...${prompt}
+  11262: Peut-être que son nez était bouché, ou qu'il avait autre chose en tête à ce moment-là.${prompt}
   11263: |-
-    I-it's definitely a mystery...
-    I wish I could ask Odin p-personally.${prompt}
-  11264: Wha!? You realize that means you'd have to be dead, right!?${prompt}
-  11265: Of course I don't want to die, but I don't want to go back to Hazhalm either!${prompt}
-  11266: I-in that case, we could always ask one of Odin's demons...${prompt}
-  11267: Oh! You're right! That's a great idea!${prompt}
-  11268: Is there one that we can easily talk to?${prompt}
+    C'est vraiment un mystère...
+    J'aimerais pouvoir demander à Odin personnellement.${prompt}
+  11264: Quoi !? Tu réalises que cela signifie que tu devrais être morte, n'est-ce pas !?${prompt}
+  11265: Bien sûr que je ne veux pas mourir, mais je ne veux pas non plus retourner à Hazhalm !${prompt}
+  11266: D-dans ce cas, on pourrait toujours demander à l'un des démons d'Odin...${prompt}
+  11267: Oh ! Tu as raison ! C'est une excellente idée !${prompt}
+  11268: Y en a-t-il un avec qui nous pouvons facilement parler ?${prompt}
   11269: |-
-    There are a few like that here in Jeuno.
-    They're disguised as regular people.${prompt}
-  11270: Okay then! Let's get going!${prompt}
-  11271: After hearing that girl's excitement, I've decided to give her proposal some serious thought.${prompt}
-  11272: With a show based on the battle against Chaos, we can reach people that might not know anything about it.${prompt}
+    Il y en a quelques-uns ici à Jeuno.
+    Ils se déguisent en personnes ordinaires.${prompt}
+  11270: D'accord alors ! Allons-y !${prompt}
+  11271: Après avoir entendu l'enthousiasme de cette fille, j'ai décidé de prendre sérieusement en considération sa proposition.${prompt}
+  11272: Avec un spectacle basé sur la bataille contre le Chaos, nous pouvons toucher des gens qui pourraient ne rien savoir à ce sujet.${prompt}
   11273: |-
-    The problem is what role can I have her play...
-    Hmm... What if she played Chaos...?${prompt}
+    Le problème est quel rôle je peux lui faire jouer...
+    Hmm... Et si elle jouait le Chaos...?${prompt}
   11274: Vous pouvez désormais profiter d'une nouvelle histoire, Une Prophétie Cristalline.
   11275: |-
     Commencer Une Prophétie Cristalline ?
