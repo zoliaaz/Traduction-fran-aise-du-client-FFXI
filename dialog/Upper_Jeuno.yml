@@ -18251,42 +18251,42 @@ entries:
     Voici les fournitures. Il vous suffit de les donner au garde à l'avant-poste et votre mission sera accomplie.
     Maintenant, choisissez quel avant-poste vous voulez aller. Nous offrons des récompenses différentes pour chaque région, alors choisissez soigneusement.${prompt}
   7792: |-
-    Where do you wish to take the supplies?
+    Où souhaitez-vous apporter les fournitures ?
     ${selection-lines}
     　
     　
     　
     　
     　
-    The Ronfaure Region.${choice: 5}[/ (Done)]
-    The Zulkheim Region.${choice: 6}[/ (Done)]
-    The Norvallen Region.${choice: 7}[/ (Done)]
-    The Gustaberg Region.${choice: 8}[/ (Done)]
-    The Derfland Region.${choice: 9}[/ (Done)]
-    The Sarutabaruta Region.${choice: 10}[/ (Done)]
-    The Kolshushu Region.${choice: 11}[/ (Done)]
-    The Aragoneu Region.${choice: 12}[/ (Done)]
-    The Fauregandi Region.${choice: 13}[/ (Done)]
-    The Valdeaunia Region.${choice: 14}[/ (Done)]
-    Qufim Island.${choice: 15}[/ (Done)]
-    The Li'Telor Region.${choice: 16}[/ (Done)]
-    The Kuzotz Region.${choice: 17}[/ (Done)]
-    The Vollbow Region.${choice: 18}[/ (Done)]
-    The Elshimo Lowlands Region.${choice: 19}[/ (Done)]
-    The Elshimo Uplands Region.${choice: 20}[/ (Done)]
-    Tu'Lia.${choice: 21}[/ (Done)]
+    La région de Ronfaure.${choice: 5}[/ (Terminé)]
+    La région de Zulkheim.${choice: 6}[/ (Terminé)]
+    La région de Norvallen.${choice: 7}[/ (Terminé)]
+    La région de Gustaberg.${choice: 8}[/ (Terminé)]
+    La région de Derfland.${choice: 9}[/ (Terminé)]
+    La région de Sarutabaruta.${choice: 10}[/ (Terminé)]
+    La région de Kolshushu.${choice: 11}[/ (Terminé)]
+    La région de Aragoneu.${choice: 12}[/ (Terminé)]
+    La région de Fauregandi.${choice: 13}[/ (Terminé)]
+    La région de Valdeaunia.${choice: 14}[/ (Terminé)]
+    L'île de Qufim.${choice: 15}[/ (Terminé)]
+    La région de Li'Telor.${choice: 16}[/ (Terminé)]
+    La région de Kuzotz.${choice: 17}[/ (Terminé)]
+    La région de Vollbow.${choice: 18}[/ (Terminé)]
+    La région des basses terres d'Elshimo.${choice: 19}[/ (Terminé)]
+    La région des hautes terres d'Elshimo.${choice: 20}[/ (Terminé)]
+    Tu'Lia.${choice: 21}[/ (Terminé)]
     　
-    The Tavnazian Archipelago.${choice: 23}[/ (Done)]
-    　
-    　
+    L'archipel de Tavnazia.${choice: 23}[/ (Terminé)]
     　
     　
     　
     　
     　
-    Cancel.${prompt}
+    　
+    　
+    Annuler.${prompt}
   7793: |-
-    Which E.F. would you like to join?
+    À quelle force expéditionnaire souhaitez-vous vous joindre ?
     ${selection-lines}
     .
     .
@@ -18294,23 +18294,21 @@ entries:
     .
     .
     .
-    The Zulkheim Region (Lv.20～).
-    The Norvallen Region (Lv.25～).
+    La région de Zulkheim (Nv. 20～).
+    La région de Norvallen (Nv. 25～).
     .
-    The Derfland Region (Lv.25～).
+    La région de Derfland (Nv. 25～).
     .
-    The Kolshushu Region (Lv.20～).
-    The Aragoneu Region (Lv.25～).
-    The Fauregandi Region (Lv.35～).
-    The Valdeaunia Region (Lv.40～).
-    The Qufim Region (Lv.25～).
-    The Li'Telor Region (Lv.35～).
-    The Kuzotz Region (Lv.40～).
-    The Vollbow Region (Lv.65～).
-    The Elshimo Lowlands Region (Lv.35～).
-    The Elshimo Uplands Region (Lv.45～).
-    .
-    .
+    La région de Kolshushu (Nv. 20～).
+    La région de Aragoneu (Nv. 25～).
+    La région de Fauregandi (Nv. 35～).
+    La région de Valdeaunia (Nv. 40～).
+    La région de Qufim (Nv. 25～).
+    La région de Li'Telor (Nv. 35～).
+    La région de Kuzotz (Nv. 40～).
+    La région de Vollbow (Nv. 65～).
+    La région des basses terres d'Elshimo (Nv. 35～).
+    La région des hautes terres d'Elshimo (Nv. 45～).
     .
     .
     .
@@ -18319,59 +18317,61 @@ entries:
     .
     .
     .
-    None.${prompt}
+    .
+    .
+    Aucun.${prompt}
   7794: |-
-    So be it.
-    You have until the next conquest results announcement to complete this mission.
-    Good luck.${prompt}
-  7795: We will dispose of those unusable supplies.${prompt}
+    Ainsi soit-il.
+    Vous avez jusqu'à l'annonce des prochains résultats des conquêtes pour accomplir cette mission.
+    Bonne chance.${prompt}
+  7795: Nous allons nous débarrasser de ces fournitures inutilisables.${prompt}
   7796: |-
-    You can only undertake one supply mission per day.
-    Come back later.${prompt}
-  7797: I am sorry. We seem to have a problem. Let me cancel it.${prompt}
+    Vous ne pouvez entreprendre qu'une mission d'approvisionnement par jour.
+    Revenez plus tard.${prompt}
+  7797: Je suis désolé. Nous semblons avoir un problème. Laissez-moi l'annuler.${prompt}
   7798: |-
-    You do not need to donate any more crystals at your current rank.
-    Speak to the guard at the gatehouse for further instructions.${prompt}
+    Vous n'avez plus besoin de faire de don de cristaux à votre rang actuel.
+    Parlez au garde à la maison de garde pour plus d'instructions.${prompt}
   7799: |-
-    Your rank points are full. We've added the excess to your conquest points.
-    You do not need to donate any more crystals. Go to the gatehouse for further instructions.${prompt}
+    Vos points de rang sont pleins. Nous avons ajouté l'excédent à vos points de conquête.
+    Vous n'avez plus besoin de faire de don de cristaux. Rendez-vous à la maison de garde pour plus d'instructions.${prompt}
   7800: |-
-    Good work, citizen.
-    We've awarded you rank points for the crystals you've donated.${prompt}
+    Bon travail, citoyen.
+    Nous vous avons accordé des points de rang pour les cristaux que vous avez donnés.${prompt}
   7801: |-
-    You currently have ${number: 0} conquest points.
-    Would you like to use them to purchase items?${prompt}
+    Vous avez actuellement ${number: 0} points de conquête.
+    Souhaitez-vous les utiliser pour acheter des objets ?${prompt}
   7802: |-
-    Which item do you wish to purchase?
+    Quel article souhaitez-vous acheter ?
     ${selection-lines}
-    Common items (all ranks).
-    1000-pt. items (rank 1 required).
-    2000-pt. items (rank 2 required).
-    4000-pt. items (rank 3 required).
-    8000-pt. items (rank 4 required).
-    16000-pt. items (rank 5 required).
-    24000-pt. items (rank 6 required).
-    32000-pt. items (rank 7 required).
-    40000-pt. items (rank 8 required).
-    48000-pt. items (rank 9 required).
-    56000-pt. items (rank 10 required).
-    Cancel.${prompt}
+    Articles courants (tous les rangs).
+    Articles à 1000 points (rang 1 requis).
+    Articles à 2000 points (rang 2 requis).
+    Articles à 4000 points (rang 3 requis).
+    Articles à 8000 points (rang 4 requis).
+    Articles à 16000 points (rang 5 requis).
+    Articles à 24000 points (rang 6 requis).
+    Articles à 32000 points (rang 7 requis).
+    Articles à 40000 points (rang 8 requis).
+    Articles à 48000 points (rang 9 requis).
+    Articles à 56000 points (rang 10 requis).
+    Annuler.${prompt}
   7803: |-
-    Which item do you wish to purchase?
+    Quel article souhaitez-vous acheter ?
     ${selection-lines}
-    Common items (all ranks).
-    2000-pt. items (rank 1 required).
-    4000-pt. items (rank 2 required).
-    8000-pt. items (rank 3 required).
-    16000-pt. items (rank 4 required).
-    24000-pt. items (rank 5 required).
-    32000-pt. items (rank 6 required).
-    40000-pt. items (rank 7 required).
-    48000-pt. items (rank 8 required).
-    56000-pt. items (rank 9 required).
+    Articles courants (tous les rangs).
+    Articles à 2000 points (rang 1 requis).
+    Articles à 4000 points (rang 2 requis).
+    Articles à 8000 points (rang 3 requis).
+    Articles à 16000 points (rang 4 requis).
+    Articles à 24000 points (rang 5 requis).
+    Articles à 32000 points (rang 6 requis).
+    Articles à 40000 points (rang 7 requis).
+    Articles à 48000 points (rang 8 requis).
+    Articles à 56000 points (rang 9 requis).
     .
-    Cancel.${prompt}
-  7804: Currently there are no items available for that rank.${prompt}
+    Annuler.${prompt}
+  7804: Actuellement, il n'y a aucun article disponible pour ce rang.${prompt}
   7805: |-
     Due to its special nature, you can only purchase or recharge ${article} ${item-article: 2[2]} once until the conquest results tally is performed.
     Also, you cannot purchase this item if a similar item is already in your possession.${prompt}
