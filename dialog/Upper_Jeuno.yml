@@ -18078,179 +18078,178 @@ entries:
     ${selection-lines}
     Yes, tell me.
     No, thank you.${prompt}
-  7682: Thirty years ago, the legendary craftsman Borghertz wrought gauntlets, one pair for each job.${prompt}
-  7683: So great was his craft, they say he must have sold his spirit to fiends. His gauntlets were strong as steel, but light as a feather!${prompt}
-  7684: But, those masterpieces were lost in the great war twenty years ago.${prompt}
-  7685: Oh? It seems all adventurers know of him and his gauntlets.${prompt}
-  7686: Of course, it's all hearsay. Much is told of Borghertz, but most of it is just legend.${prompt}
-  7687: I once met a man who found a pair of Borghertz's gauntlets. And where there's smoke, there's fire.${prompt}
-  7688: 'The hands of Borghertz were lost in the war, but people say they now rest somewhere in ${choice: 7}[a dungeon somewhere/the Eldieme Necropolis/the Crawlers'' Nest/Beadeaux/Garlaige Citadel/the Eldieme Necropolis/Davoi/the Eldieme Necropolis/the Eldieme Necropolis/the Crawlers'' Nest/Castle Zvahl/Garlaige Citadel/the Kuftal Tunnel/Ifrit''s Cauldron/the Boyahda Tree/the Sea Serpent Grotto].${prompt}'
-  7689: Well, you can believe what you want, but don't go trumpeting to the customers. Now, I must get back to work!${prompt}
-  7690: That's about all I know. You can go search that dungeon for yourself if you've got nothing better to do.${prompt}
-  7691: We artisans believe that artifacts like the hands of Borghertz still rest in dungeons across Vana'diel. An adventurer like you should be able to find them.${prompt}
-  7692: Much is told of Borghertz, but it's all just a legend. Don't let greed cloud your judgment.${prompt}
-  7693: Could it be!? Why, they're soiled and rusty, but the craftsmanship! Indeed these are the work of Borghertz!${prompt}
-  7694: But they are beyond my skill. I cannot repair them.${prompt}
-  7695: Wait. I heard that a Mithra working for the Tenshodo acquired a strange toolbox long ago.${prompt}
-  7696: Some mysterious device held it shut; nobody could open it!${prompt}
-  7697: Even if it held some magical tool, I doubt anybody has the skill to repair these gauntlets.${prompt}
-  7698: You found the gauntlets? Amazing!${prompt}
-  7699: So, I have seen the hands of Borghertz. I'm glad I work here now!${prompt}
-  7700: I must strive for greatness, too! Someday I'll be known as a legendary craftsman!${prompt}
-  7701: 'You obtain ${keyitem-article: 0[2]}.${prompt}'
-  7702: So, how ya been? What, do I look sad? Well, one of my chocobos passed away.${prompt}
-  7703: No, don't worry. It wasn't the one you saved. He's still kickin'!${prompt}
-  7704: It was the oldest bird in my flock. I got her way back when I was just learning, like you are now.${prompt}
-  7705: She was getting up there, after all. It's so sad to see one of your own go. You're a beastmaster. You understand, right?${prompt}
-  7706: 'Oh, that''s right! If you''re looking for work, I''ve got something for ya! I need someone to get ${keyitem-article: 0[2]} from Delkfutt''s Tower.${prompt}'
-  7707: 'What do you say? I need someone to get ${keyitem-article: 0[2]} that''s hidden somewhere inside Delkfutt''s Tower.${prompt}'
-  7708: They say that a chocobo who wears one will go straight to Paradise. I never believe in such things except in times like these!${prompt}
+  7682: Il y a trente ans, le légendaire artisan Borghertz forgea des gantelets, une paire pour chaque job.${prompt}
+  7683: Tel était son art, dit-on, qu'il aurait dû vendre son âme aux démons. Ses gantelets étaient solides comme l'acier, mais légers comme une plume !${prompt}
+  7684: Mais ces chefs-d'œuvre furent perdus dans la grande guerre il y a vingt ans.${prompt}
+  7685: Oh ? Il semble que tous les aventuriers connaissent Borghertz et ses gantelets.${prompt}
+  7686: Bien sûr, tout cela n'est que rumeur. On raconte beaucoup de choses sur Borghertz, mais la plupart ne sont que légendes.${prompt}
+  7687: J'ai rencontré un jour un homme qui avait trouvé une paire de gantelets de Borghertz. Où il y a de la fumée, il y a du feu.${prompt}
+  7688: 'Les mains de Borghertz ont été perdues dans la guerre, mais les gens disent qu’elles reposent maintenant quelque part dans ${choice: 7}[un donjon quelque part/dans la nécropole d’Eldieme/dans le nid des Crawler/à Beadeaux/dans la citadelle de Garlaige/dans la nécropole d’Eldieme/à Davoi/dans la nécropole d’Eldieme/dans la nécropole d’Eldieme/dans le nid des Crawler/au château de Zvahl/dans la citadelle de Garlaige/dans le tunnel de Kuftal/dans le chaudron d’Ifrit/dans l’arbre de Boyahda/dans la grotte du serpent de mer].${prompt}'
+  7689: Vous pouvez croire ce que vous voulez, mais ne le répétez pas aux clients. Maintenant, je dois retourner au travail !${prompt}
+  7690: C'est à peu près tout ce que je sais. Vous pouvez aller chercher ce donjon par vous-même si vous n'avez rien de mieux à faire.${prompt}
+  7691: Nous, artisans, croyons que des artefacts comme les mains de Borghertz reposent toujours dans des donjons à travers Vana'diel. Un aventurier comme vous devrait être capable de les trouver.${prompt}
+  7692: Beaucoup de choses sont dites sur Borghertz, mais ce n'est que de la légende. Ne laissez pas la cupidité obscurcir votre jugement.${prompt}
+  7693: Pourrait-ce être !? Pourtant, elles sont sales et rouillées, mais l'artisanat ! En effet, ce sont les œuvres de Borghertz !${prompt}
+  7694: Mais elles sont au-delà de mes compétences. Je ne peux pas les réparer.${prompt}
+  7695: Attendez. J'ai entendu dire qu'une Mithra travaillant pour le Tenshodo a acquis une étrange boîte à outils il y a longtemps.${prompt}
+  7696: Un dispositif mystérieux la maintenait fermée ; personne ne pouvait l'ouvrir !${prompt}
+  7697: Même s'il contenait un outil magique, je doute que quiconque ait les compétences pour réparer ces gantelets.${prompt}
+  7698: Vous avez trouvé les gantelets ? Incroyable !${prompt}
+  7699: Ainsi, j'ai vu les mains de Borghertz. Je suis content de travailler ici maintenant !${prompt}
+  7700: Je dois aspirer à la grandeur, moi aussi ! Un jour, je serai connu comme un artisan légendaire !${prompt}
+  7701: 'Vous obtenez ${keyitem-article: 0[2]}.${prompt}'
+  7702: Alors, comment ça va ? Quoi, est-ce que j'ai l'air triste ? Eh bien, l'un de mes chocobos est décédé.${prompt}
+  7703: Non, ne vous inquiétez pas. Ce n'était pas celui que vous avez sauvé. Il est toujours en vie !${prompt}
+  7704: C'était le plus vieux de ma volière. Je l'ai eu quand j'étais encore débutant, comme vous l'êtes maintenant.${prompt}
+  7705: Elle commençait à se faire vieille, après tout. C'est tellement triste de voir l'un des siens partir. Vous êtes un maître de bête. Vous comprenez, n'est-ce pas ?${prompt}
+  7706: 'Oh, c’est vrai ! Si vous cherchez du travail, j’ai quelque chose pour vous ! J’ai besoin de quelqu’un pour récupérer ${keyitem-article: 0[2]} à la Tour de Delkfutt.${prompt}'
+  7707: 'Que dites-vous ? J’ai besoin de quelqu’un pour récupérer ${keyitem-article: 0[2]} qui est caché quelque part à l’intérieur de la Tour de Delkfutt.${prompt}'
   7709: |-
-    Do you accept?
+    Acceptez-vous ?
     ${selection-lines}
-    Of course I do.
-    Well, not right now.${prompt}
-  7710: Thanks! I'm so sad over her death that I can't even muster the will to get out there myself.${prompt}
-  7711: Don't worry about it. Come back if you change your mind.${prompt}
-  7712: I've never see him look so depressed. But I guess it makes sense. Chocobos are like family to us!${prompt}
-  7713: When I think that someday I'll be parted from this chocobo... Oh, it's so sad!${prompt}
-  7714: 'Please, find ${keyitem-article: 0[2]} hidden somewhere in Delkfutt''s Tower.${prompt}'
-  7715: Now we're talking! This'll make the chocobo's spirit happy! Here, this is all I have to give.${prompt}
-  7716: She may be gone, but her memory will always be here with us.${prompt}
-  7717: Hello there! You gettin' along with your animals? Of course you are! I can tell just by lookin' at ya!${prompt}
-  7718: Matter of fact, I got something else I wanna ask ya. Just listen, okay?${prompt}
-  7719: You know about the war twenty years ago, right? They called up all kinds of animals for duty, and a lot of 'em didn't make it.${prompt}
-  7720: 'So, to help calm their spirits, I want you to find three ponds in Fei''Yin. Once there, toss ${keyitem-article: 0[2]} into each one of ''em.${prompt}'
-  7721: What do you say? It's all we can do to help the spirits of the fallen beasts rest in peace.${prompt}
+    Bien sûr que oui.
+    Eh bien, pas tout de suite.${prompt}
+  7710: Merci ! Je suis tellement triste de sa mort que je n'ai même pas la volonté d'y aller moi-même.${prompt}
+  7711: Ne vous en faites pas. Revenez si vous changez d'avis.${prompt}
+  7712: Je ne l'ai jamais vu aussi déprimé. Mais je suppose que ça a du sens. Les chocobos sont comme une famille pour nous !${prompt}
+  7713: Quand je pense que quelque jour je serai séparé de ce chocobo... Oh, c'est tellement triste !${prompt}
+  7714: 'S’il vous plaît, trouvez ${keyitem-article: 0[2]} caché quelque part dans la Tour de Delkfutt.${prompt}'
+  7715: Maintenant on parle ! Ça réchauffera le cœur du chocobo ! Tenez, c'est tout ce que j'ai à donner.${prompt}
+  7716: Elle peut être partie, mais son souvenir restera toujours avec nous.${prompt}
+  7717: Bonjour ! Vous vous entendez bien avec vos animaux ? Bien sûr que oui ! Je peux le dire rien qu'en vous regardant !${prompt}
+  7718: En fait, j'ai autre chose à vous demander. Écoutez, d'accord ?${prompt}
+  7719: Vous savez à propos de la guerre il y a vingt ans, n'est-ce pas ? Ils ont appelé toutes sortes d'animaux au service, et beaucoup d'entre eux n'ont pas survécu.${prompt}
+  7720: 'Donc, pour aider à apaiser leurs esprits, je veux que vous trouviez trois étangs à Fei''Yin. Une fois là-bas, jetez ${keyitem-article: 0[2]} dans chacun d’eux.${prompt}'
+  7721: Qu'est-ce que vous en dites ? C'est tout ce que nous pouvons faire pour aider les esprits des bêtes tombées à trouver la paix.${prompt}
   7722: |-
-    Well? How 'bout it?
+    Eh bien ? Qu'en pensez-vous ?
     ${selection-lines}
-    I'll do it.
-    No, I'm too busy right now.${prompt}
-  7723: I thought you'd say that. Here, take these. And remember, this is serious business!${prompt}
-  7724: Well, you already know it won't be easy, so I can't make ya go, kiddo. I don't know any other beastmasters to turn to!${prompt}
-  7725: 'Find the three ponds of Fei''Yin and toss ${keyitem-article: 0[2]} into each one of ''em. This is a serious task, so no monkeyin'' around!${prompt}'
-  7726: 'You are given three sprigs of ${keyitem-singular: 0[2]}.${prompt}'
-  7727: Why, thanks a gillion! I'm sure the spirit of that fallen animal can rest peacefully now.${prompt}
-  7728: What, you saw a ghost there? In a place like that?${prompt}
-  7729: Oh, yeah... I heard somethin' strange while you were away... Somethin' about the ghost of an Opo-opo in Castle Oztroja.${prompt}
-  7730: They say that it doesn't attack, so maybe it was domesticated before it died. As a beastmaster you wanna know more, right?${prompt}
-  7731: Maybe it is one that died in the war... I'd be grateful if you could go look into that. I'll have a reward for you when you get back.${prompt}
-  7732: Did you know that one of the street performers who used to come here was a beastmaster. Everyone loved his Opo-opo!${prompt}
-  7733: Somehow he made his Opo-opo do all kinds of things. I wish I could command this chocobo like that!${prompt}
-  7734: Anyway, his Opo-opo loved his spiffy collar. I think that the little bugger was named Tebhi.${prompt}
-  7735: 'I heard that ${article} ${item-article: 0[2]} is hidden somewhere deep inside Castle Oztroja! Huh? You don''t know what that is?${prompt}'
-  7736: It's a really nice collar. I bet our chocobos would love to wear one, but maybe that one isn't for chocobos.${prompt}
-  7737: So, did that ghost finally go to rest? That's good. Here, I want you to have this.${prompt}
-  7738: But I still wonder... What was that Opo-opo spirit doing there?${prompt}
-  7739: 'Huh? ${lettercase: 1}${keyitem-article: 0[2]}? Nobody uses them anymore. But, if you bring me ${article} ${item-article: 1[2]}, I''ll make it for you.${prompt}'
-  7740: 'Good. ${lettercase: 1}${article} ${item-article: 1[2]} like this should work. Hang on a second.${prompt}'
-  7741: There, it's done! Not bad if I say so myself. But what are you going to use this for?${prompt}
-  7742: Not bad if I say so myself. What are you going to use it for?${prompt}
-  7743: Looks like the old wounds have healed. War's an awful thing, so we can't let it happen again. The animals would thank us, too.${prompt}
-  7744: That street performer must have been a fantastic person! I want to be like him when I grow up!${prompt}
-  7745: Even when they're gone forever, your memory of them stays. I want to treasure every moment with this chocobo.${prompt}
-  7746: 'Good luck, ${choice: 0}[citizen/comrade]. I will bestow upon you your nation''s Signet.${wait-animation: 0}${prompt}'
-  7747: I cannot help you. You should go find a guard from your own country.${prompt}
+    Je le ferai.
+    Non, je suis trop occupé en ce moment.${prompt}
+  7723: Je savais que tu dirais ça. Tiens, prends ça. Et souviens-toi, c'est du sérieux !${prompt}
+  7724: Eh bien, tu sais déjà que ce ne sera pas facile, donc je ne peux pas te forcer, gamin. Je ne connais aucun autre maître des bêtes vers qui me tourner !${prompt}
+  7725: 'Trouve les trois étangs de Fei''Yin et jette ${keyitem-article: 0[2]} dans chacun d’eux. C’est une tâche sérieuse, alors pas de singeries !${prompt}'
+  7726: 'Tu reçois trois brins de ${keyitem-singular: 0[2]}.${prompt}'
+  7727: Merci infiniment ! Je suis sûr que l'esprit de cet animal disparu peut maintenant reposer en paix.${prompt}
+  7728: Quoi, tu as vu un fantôme là-bas ? Dans un endroit comme ça ?${prompt}
+  7729: Oh, ouais... J'ai entendu quelque chose d'étrange pendant que tu étais parti... Quelque chose à propos du fantôme d'un Opo-opo dans le château d'Oztroja.${prompt}
+  7730: On dit qu'il n'attaque pas, alors peut-être qu'il était apprivoisé avant de mourir. En tant que maître des bêtes, tu veux en savoir plus, non ?${prompt}
+  7731: Peut-être est-ce un qui est mort pendant la guerre... Je te serais reconnaissant si tu pouvais aller voir ça. J'aurai une récompense pour toi quand tu reviendras.${prompt}
+  7732: Savais-tu qu'un des artistes de rue qui venait ici était un maître des bêtes. Tout le monde adorait son Opo-opo !${prompt}
+  7733: D'une manière ou d'une autre, il faisait faire toutes sortes de choses à son Opo-opo. J'aimerais pouvoir commander ce chocobo comme ça !${prompt}
+  7734: De toute façon, son Opo-opo aimait son collier chic. Je pense que le petit salopiaud s'appelait Tebhi.${prompt}
+  7735: 'J’ai entendu dire que ${article} ${item-article: 0[2]} est caché quelque part au fond du château d’Oztroja ! Hein ? Tu ne sais pas ce que c’est ?${prompt}'
+  7736: C'est un collier vraiment sympa. Je parie que nos chocobos aimeraient le porter, mais peut-être que celui-là n'est pas pour les chocobos.${prompt}
+  7737: Alors, ce fantôme est-il enfin allé se reposer ? C'est bien. Tiens, je veux que tu aies ça.${prompt}
+  7738: Mais je me demande toujours... Que faisait cet esprit d'Opo-opo là-bas ?${prompt}
+  7739: 'Hein ? ${lettercase: 1}${keyitem-article: 0[2]} ? Personne ne les utilise plus. Mais, si tu m’apportes ${article} ${item-article: 1[2]}, je te le fabriquerai.${prompt}'
+  7740: 'Bien. ${lettercase: 1}${article} ${item-article: 1[2]} comme ça devrait faire l’affaire. Attends une seconde.${prompt}'
+  7741: Voilà, c’est fait ! Pas mal si je puis dire. Mais à quoi vas-tu utiliser ça ?${prompt}
+  7742: Pas mal si je puis dire. À quoi vas-tu l’utiliser ?${prompt}
+  7743: Il semble que les anciennes blessures se sont refermées. La guerre est une chose terrible, alors nous ne pouvons pas laisser cela se reproduire. Les animaux nous remercieraient aussi.${prompt}
+  7744: Cet artiste de rue devait être une personne fantastique ! Je veux être comme lui quand je serai grand !${prompt}
+  7745: Même quand ils sont partis pour toujours, votre souvenir d'eux reste. Je veux chérir chaque moment avec ce chocobo.${prompt}
+  7746: 'Bonne chance, ${choice: 0}[citoyen/camarade]. Je te confère le Sceau de ta nation.${wait-animation: 0}${prompt}'
+  7747: Je ne peux pas t’aider. Tu devrais aller trouver un garde de ton propre pays.${prompt}
   7748: |-
-    I cannot accept crystals from someone whose rank is still 1.
-    I advise you to either keep them until your reach rank 2, or to use them in craftwork.${prompt}
-  7749: 'Since we are allied with San d''Oria...${wait-animation: 0}${prompt}'
-  7750: 'Since we are allied with Bastok...${wait-animation: 0}${prompt}'
-  7751: 'Since we are allied with Windurst...${wait-animation: 0}${prompt}'
+    Je ne peux pas accepter des cristaux d'une personne dont le rang est encore 1.
+    Je vous conseille soit de les conserver jusqu'à ce que vous atteigniez le rang 2, soit de les utiliser dans l'artisanat.${prompt}
+  7749: 'Puisque nous sommes alliés avec San d''Oria...${wait-animation: 0}${prompt}'
+  7750: 'Puisque nous sommes alliés avec Bastok...${wait-animation: 0}${prompt}'
+  7751: 'Puisque nous sommes alliés avec Windurst...${wait-animation: 0}${prompt}'
   7752: |-
-    I am sorry.
-    I am too busy with other matters to be speaking with you.${wait-animation: 0}${prompt}
-  7753: Ah, you have brought us supplies. These will help us indeed. I thank you.${prompt}
+    Je suis désolé.
+    Je suis trop occupé avec d'autres affaires pour discuter avec vous.${wait-animation: 0}${prompt}
+  7753: Ah, vous nous avez apporté des provisions. Celles-ci nous aideront en effet. Je vous remercie.${prompt}
   7754: |-
-    Hmm... These supplies you have brought us are too old to be of any use. We will dispose of them promptly.
-    I do commend you for your effort. May you succeed next time.${prompt}
-  7755: You've earned conquest points!${prompt}
+    Hmm... Ces provisions que vous nous avez apportées sont trop anciennes pour être utiles. Nous allons nous en débarrasser rapidement.
+    Je vous félicite pour vos efforts. Puissiez-vous réussir la prochaine fois.${prompt}
+  7755: Vous avez gagné des points de conquête !${prompt}
   7756: |-
-    You've received your nation's Signet.
-    You are now taking part in your nation's conquest campaign!${prompt}
+    Vous avez reçu le Sceau de votre nation.
+    Vous participez désormais à la campagne de conquête de votre nation !${prompt}
   7757: |-
-    I am ${name-npc}, a Temple Knight.
-    I am one of the guards charged with overseeing San d'Oria's conquest campaign.${prompt}
+    Je suis ${name-npc}, un Chevalier du Temple.
+    Je suis l'un des gardes chargés de superviser la campagne de conquête de San d'Oria.${prompt}
   7758: |-
-    I am ${name-npc}, an Iron Musketeer.
-    I am one of the guards charged with overseeing Bastok's conquest campaign.${prompt}
+    Je suis ${name-npc}, un Mousquetaire de Fer.
+    Je suis l'un des gardes chargés de superviser la campagne de conquête de Bastok.${prompt}
   7759: |-
-    I am ${name-npc}, a War Warlock.
-    I am one of the guards charged with overseeing Windurst's conquest campaign.${prompt}
+    Je suis ${name-npc}, un Sorcier de Guerre.
+    Je suis l'un des gardes chargés de superviser la campagne de conquête de Windurst.${prompt}
   7760: |-
-    What is your business?
+    Quel est votre dessein ?
     ${selection-lines}
-    Would you cast Signet on me?
-    I want to spend my conquest points.
-    ${choice: 0}[I want to join the Expeditionary Force./Teleport me to the E.F. area.]
-    I want to quit the E.F./change my E.F.
-    I want to go on a supplies quest.
-    I have some questions...
-    Nothing, sorry to bother you.${prompt}
+    Pourriez-vous me lancer un Sceau ?
+    Je veux dépenser mes points de conquête.
+    ${choice: 0}[Je veux rejoindre la Force Expéditionnaire./Téléportez-moi dans la zone de la F.E.]
+    Je veux quitter la F.E./changer ma F.E.
+    Je veux partir en quête de provisions.
+    J'ai quelques questions...
+    Rien, désolé de vous déranger.${prompt}
   7761: |-
-    What do you wish to know about?
+    Que souhaitez-vous savoir ?
     ${selection-lines}
-    Nothing.
-    Conquests.
-    Conquest results.
-    Donating crystals.
-    Conquest points.
-    The effects of controlling regions.
-    Regions controlled by other nations.
-    Regions under beastman control.${prompt}
-  7762: All three nations are striving daily to put more regions under their control. This is what we call “conquests.” You can take part in it and serve your country by defeating enemies while you have Signet cast on you.${prompt}
-  7763: Each region comprises several areas, and the nation that rids those areas of the most monsters gains control of the region.${prompt}
-  7764: Nations receive goods and resources from regions under their control.${prompt}
-  7765: So, the more regions we control, the richer our nation becomes.${prompt}
+    Rien.
+    Conquêtes.
+    Résultats des conquêtes.
+    Don de cristaux.
+    Points de conquête.
+    Les effets du contrôle des régions.
+    Régions contrôlées par d'autres nations.
+    Régions sous le contrôle des bêtes.${prompt}
+  7762: Toutes les trois nations s'efforcent quotidiennement de mettre plus de régions sous leur contrôle. C'est ce que nous appelons les “conquêtes”. Vous pouvez y participer et servir votre pays en vainquant des ennemis lorsque vous avez le Sceau de votre nation.${prompt}
+  7763: Chaque région comprend plusieurs zones, et la nation qui se débarrasse du plus grand nombre de monstres dans ces zones prend le contrôle de la région.${prompt}
+  7764: Les nations reçoivent des biens et des ressources des régions sous leur contrôle.${prompt}
+  7765: Ainsi, plus nous contrôlons de régions, plus notre nation devient riche.${prompt}
   7766: |-
-    Border guards are also placed in outposts within regions under our control.
-    They are there to cast Signet on adventurers like yourself.${prompt}
-  7767: Once you have your nation's Signet, you will be able to acquire crystals from enemies you defeat.${prompt}
-  7768: Not only that, but you will also receive conquest points. You get more conquest points if you defeat enemies in regions that are not under your nation's control. These points can be used to purchase items from guards like myself.${prompt}
+    Des gardes-frontières sont également placés dans les avant-postes des régions sous notre contrôle.
+    Ils sont là pour lancer le Sceau sur des aventuriers comme vous.${prompt}
+  7767: Une fois que vous avez le Sceau de votre nation, vous pourrez obtenir des cristaux des ennemis que vous vainquez.${prompt}
+  7768: Non seulement cela, mais vous recevrez également des points de conquête. Vous obtiendrez plus de points de conquête si vous battez des ennemis dans des régions qui ne sont pas sous le contrôle de votre nation. Ces points peuvent être utilisés pour acheter des objets auprès de gardes comme moi.${prompt}
   7769: |-
-    So you see...conquests benefit nations and adventurers alike.
-    We expect you to do your best to serve your country.${prompt}
+    Vous voyez donc... les conquêtes bénéficient aux nations et aux aventuriers.
+    Nous attendons de vous que vous fassiez de votre mieux pour servir votre pays.${prompt}
   7770: |-
-    You can see the current state of conquests by selecting “Region Info” from the main menu.
-    Conquest results in all regions are regularly recalculated, so you may want to check them from time to time.${prompt}
+    Vous pouvez voir l'état actuel des conquêtes en sélectionnant “Info Région” dans le menu principal.
+    Les résultats des conquêtes dans toutes les régions sont régulièrement recalculés, donc vous voudrez peut-être les vérifier de temps en temps.${prompt}
   7771: |-
-    Shops in our city will be selling different items according to our conquest rank.
-    The Troupe Valeriano will also visit the nation that finishes first and bring a little joy to its citizens.${prompt}
+    Les boutiques de notre ville vendront différents objets en fonction de notre rang de conquête.
+    La Troupe Valeriano visitera également la nation qui finira première et apportera un peu de joie à ses citoyens.${prompt}
   7772: |-
-    You can donate crystals to your nation once you achieve rank 2.
-    Just trade them to guards like myself, and we will ensure they are sent to the proper place.${prompt}
+    Vous pouvez faire don de cristaux à votre nation une fois que vous avez atteint le rang 2.
+    Il vous suffit de les échanger avec des gardes comme moi, et nous veillerons à ce qu'ils soient envoyés à l'endroit approprié.${prompt}
   7773: |-
-    We would like you to donate crystals to your nation from now on.
-    Just trade them to guards like myself, and we will ensure they are sent to the proper place.${prompt}
+    Nous aimerions que vous fassiez don de cristaux à votre nation à partir de maintenant.
+    Il vous suffit de les échanger avec des gardes comme moi, et nous veillerons à ce qu'ils soient envoyés à l'endroit approprié.${prompt}
   7774: |-
-    You can acquire crystals by defeating enemies while you have your nation's Signet.
-    Having Signet cast on you is also the only way of taking part in conquests.${prompt}
-  7775: Rank points will be awarded to you for each crystal you donate, and you may be offered new missions as your rank goes up.${prompt}
+    Vous pouvez acquérir des cristaux en vainquant des ennemis lorsque vous avez le Sceau de votre nation.
+    Avoir le Sceau de votre nation est également le seul moyen de participer aux conquêtes.${prompt}
+  7775: Des points de rang vous seront attribués pour chaque cristal que vous donnez, et vous pourriez vous voir offrir de nouvelles missions à mesure que votre rang augmente.${prompt}
   7776: |-
-    You also receive rank points for completing missions.
-    Complete missions and take part in conquests to raise your rank and serve your country.${prompt}
+    Vous recevez également des points de rang pour avoir accompli des missions.
+    Accomplissez des missions et participez aux conquêtes pour augmenter votre rang et servir votre pays.${prompt}
   7777: |-
-    You are awarded conquest points when you defeat monsters while you are taking part in conquests.
-    Select "Region Info" from the menu to check your current number of conquest points.${prompt}
-  7778: You can purchase items from guards like myself with your conquest points, but be warned that the number of points you spend will be subtracted from your current total.${prompt}
-  7779: When conquest results are announced, you will be told which country controls the region you are in at that time. Sometimes regions may become neutral, or beastmen may even gain control of regions.${prompt}
-  7780: If we gain control of a region, border guards will be placed at its outposts to help adventurers like you.${prompt}
-  7781: Merchants will also be placed there, and goods from that region will find their way to the local shops here.${prompt}
-  7782: Gaining control of regions is the basic principle behind conquests. We need each of you to do your best, and bring our nation to the top of the ranks.${prompt}
-  7783: Of course, sometimes we lose regions to other nations...so we must try to take them back before the next conquest results are announced.${prompt}
-  7784: As an incentive, we will award you with more conquest points for defeating monsters in those regions.${prompt}
-  7785: But if we are allied with another nation, you will only be awarded the regular rate for defeating monsters in our allies' regions. On the other hand, we will award you with more points for fighting in the top-ranked nation's regions.${prompt}
+    Vous recevez des points de conquête lorsque vous vainquez des monstres tout en participant aux conquêtes.
+    Sélectionnez "Info Région" dans le menu pour vérifier votre nombre actuel de points de conquête.${prompt}
+  7778: Vous pouvez acheter des objets auprès de gardes comme moi avec vos points de conquête, mais sachez que le nombre de points que vous dépensez sera déduit de votre total actuel.${prompt}
+  7779: Lorsque les résultats des conquêtes sont annoncés, vous saurez quel pays contrôle la région dans laquelle vous vous trouvez à ce moment-là. Parfois, les régions peuvent devenir neutres, ou même les bêtes peuvent prendre le contrôle de régions.${prompt}
+  7780: Si nous prenons le contrôle d'une région, des gardes-frontières seront placés dans ses avant-postes pour aider des aventuriers comme vous.${prompt}
+  7781: Des marchands seront également placés là-bas, et des biens de cette région trouveront leur chemin vers les boutiques locales ici.${prompt}
+  7782: Prendre le contrôle des régions est le principe de base derrière les conquêtes. Nous avons besoin que chacun d'entre vous fasse de son mieux, et amène notre nation au sommet du classement.${prompt}
+  7783: Bien sûr, parfois nous perdons des régions face à d'autres nations... donc nous devons essayer de les reprendre avant que les prochains résultats des conquêtes soient annoncés.${prompt}
+  7784: En guise d'incitation, nous vous accorderons plus de points de conquête pour avoir vaincu des monstres dans ces régions.${prompt}
+  7785: Mais si nous sommes alliés avec un autre pays, vous ne recevrez que le taux régulier pour avoir vaincu des monstres dans les régions de nos alliés. En revanche, nous vous accorderons plus de points pour combattre dans les régions du pays classé en tête.${prompt}
   7786: |-
-    Our paramount concern lies in the beastmen gaining control of our regions.
-    If too many of us are defeated in a region, the beastmen will gain control of it.${prompt}
-  7787: If this happens, not only is it a great blow to our pride, but you will be unable to acquire any crystals in that region.${prompt}
-  7788: The beastmen are a menace to all nations. If they rise to power, we must all unite and drive those vile creatures from that region.${prompt}
-  7789: We need you to bring supplies to the outpost border guards who are placed in regions under our control.${prompt}
-  7790: There is one outpost in each region. Select “Region Info” from the menu, and look for the areas with a small flag mark on the map. That is where they are.${prompt}
+    Notre préoccupation principale réside dans les bêtes prenant le contrôle de nos régions.
+    Si trop d'entre nous sont vaincus dans une région, les bêtes en prendront le contrôle.${prompt}
+  7787: Si cela se produit, non seulement c'est un grand coup porté à notre fierté, mais vous serez également incapable d'acquérir des cristaux dans cette région.${prompt}
+  7788: Les bêtes sont une menace pour toutes les nations. S'ils prennent le pouvoir, nous devons tous nous unir et chasser ces créatures viles de cette région.${prompt}
+  7789: Nous avons besoin que vous apportiez des fournitures aux gardes-frontières des avant-postes qui sont placés dans les régions sous notre contrôle.${prompt}
+  7790: Il y a un avant-poste dans chaque région. Sélectionnez “Info Région” dans le menu, et recherchez les zones avec un petit drapeau sur la carte. C'est là qu'ils sont.${prompt}
   7791: |-
-    Here are the supplies. Just give them to the guard at the outpost and your mission will be complete.
-    Now, choose which outpost you want to go to. We give different rewards for each region, so choose carefully.${prompt}
+    Voici les fournitures. Il vous suffit de les donner au garde à l'avant-poste et votre mission sera accomplie.
+    Maintenant, choisissez quel avant-poste vous voulez aller. Nous offrons des récompenses différentes pour chaque région, alors choisissez soigneusement.${prompt}
   7792: |-
     Where do you wish to take the supplies?
     ${selection-lines}
