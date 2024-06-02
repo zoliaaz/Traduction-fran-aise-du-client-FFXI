@@ -17581,14 +17581,14 @@ entries:
   7308: Galmut's got back into the swing of things. And I'm feeling better, too! Hmm, I think I'll head back to school again.${prompt}
   7309: Oh, it's you, huh? Galmut's workin' hard as ever, thanks to you. Do me a favor and check up on him once in a while, okay?${prompt}
   7310: Hmm, maybe I could ask ${choice-player-gender}[him/her]... Oh, it's nothing! Never mind.${prompt}
-  7311: Say, are you heading to Davoi?${prompt}
-  7312: 'Then you''ll need this ${keyitem-singular: 7[2]}. You can''t break the inner seal without it.${prompt}'
-  7313: 'I want to trade this for ${article} ${item-article: 6[2]}. What do you say?${prompt}'
+  7311: Dites, vous dirigez-vous vers Davoi ?${prompt} 
+  7312: 'Alors vous aurez besoin de ce ${keyitem-singular: 7[2]}. Vous ne pouvez pas briser le sceau intérieur sans ça.${prompt}'
+  7313: 'Je veux échanger cela contre ${article} ${item-article: 6[2]}. Qu’est-ce que vous en dites ?${prompt}'
   7314: |-
-    Will you bring me ${article} ${item-article: 6[2]}?
+    Allez-vous me rapporter ${article} ${item-article: 6[2]} ?
     ${selection-lines}
-    I'll do it for the crest.
-    Not right now.${prompt}
+    Je le ferai pour le blason.
+    Pas tout de suite.${prompt}
   7315: All right! Thanks! You can find coeurls on the Sauromugue Champaign.${prompt}
   7316: Aw, man! Well, come back if you change your mind.${prompt}
   7317: 'Did you find ${article} ${item-article: 6[2]}? I''ve heard there are coeurls on the Sauromugue Champaign. Be careful!${prompt}'
