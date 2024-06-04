@@ -17890,55 +17890,55 @@ entries:
     ${selection-lines}
     はい
     いいえ${prompt}
-  7328: I am Myffore. I watch this door, for unspeakable terrors lurk on the far side.${prompt}
-  7329: I can open the door for you, but quickly I must close it. Once inside, you must find some other way out.${prompt}
-  7330: The door is locked tight.${prompt}
-  7331: The door is open.${prompt}
+  7328: Je suis Myffore. Je garde cette porte, car des terreurs indicibles se cachent de l'autre côté.${prompt}
+  7329: Je peux ouvrir la porte pour vous, mais je devrai rapidement la refermer. Une fois à l'intérieur, vous devrez trouver une autre sortie.${prompt}
+  7330: La porte est fermée à clé.${prompt}
+  7331: La porte est ouverte.${prompt}
   7332: |-
-    Do you want me to open the door?
+    Voulez-vous que j'ouvre la porte ?
     ${selection-lines}
-    Yes. I am not afraid.
-    No, thank you.${prompt}
-  7333: Beware, as the pass before you is extremely dangerous. Even the most traveled adventurers have stepped through that door, never to return.${prompt}
-  7334: A Sibyl Guard from Windurst, you say?${prompt}
-  7335: "Ah, I know the one. \nShe was here. Came all the way from Windurst to ask me questions about a strange, dark shadow.${prompt}"
+    Oui. Je n'ai pas peur.
+    Non, merci.${prompt}
+  7333: Méfiez-vous, car le passage devant vous est extrêmement dangereux. Même les aventuriers les plus expérimentés ont franchi cette porte, pour ne jamais revenir.${prompt}
+  7334: Un Garde Sibylle de Windurst, dites-vous ?${prompt}
+  7335: "Ah, je connais celui-là.. \nElle était là. Elle est venue de Windurst pour me poser des questions sur une ombre étrange et sombre.${prompt}"
   7336: |-
-    In the depths of Ranguemont Pass there is a small pond.
-    I remember...it was almost dawn after a night of the full moon.
-    It was there that I saw the shadow.${prompt}
+    Dans les profondeurs du passage de Ranguemont, il y a un petit étang.
+    Je me souviens... c'était presque l'aube après une nuit de pleine lune.
+    C'est là que j'ai vu l'ombre.${prompt}
   7337: |-
-    In the depths of Ranguemont Pass there is a small pond.
-    Though much time has passed, I remember...it was almost dawn after a night of the full moon.
-    It was there that I saw the shadow.${prompt}
+    Dans les profondeurs du passage de Ranguemont, il y a un petit étang.
+    Bien que beaucoup de temps ait passé, je me souviens... c'était presque l'aube après une nuit de pleine lune.
+    C'est là que j'ai vu l'ombre.${prompt}
   7338: |-
-    At first, I thought it was just one of those slime creatures.
-    But it was far too big for that, and seemed to be wrapped in robes...${prompt}
+    Au début, je pensais que c'était juste une de ces créatures de type gelée.
+    Mais c'était beaucoup trop grand pour cela, et semblait être enveloppé dans des robes...${prompt}
   7339: |-
-    Sensing that this was no monster, I began to edge closer...
-    The shadow turned towards me...
+    Sentant que ce n'était pas un monstre, j'ai commencé à me rapprocher...
+    L'ombre s'est tournée vers moi...
   7340: |-
-    That dreadful countenance!
-    It was like a creature born from nightmares...
-    I drew my sword, only to have it wrenched from my grasp by some unknown power.${prompt}
-  7341: But I have trained as a knight.${prompt}
+    Ce visage effrayant !
+    C'était comme une créature née de cauchemars...
+    J'ai dégainé mon épée, seulement pour qu'elle soit arrachée de ma main par une force inconnue.${prompt}
+  7341: Mais je me suis entraîné en tant que chevalier.${prompt}
   7342: |-
-    I quickly recovered and drew my lesser blade, slicing into the thing's robes.
-    What spilled from its body was not the blood I expected, but light!${prompt}
-  7343: Was this creature some kind of new fiend, or a species of beastman that we have yet to discover?${prompt}
+    Je me suis rapidement repris et ai dégainé ma lame secondaire, tailladant dans les robes de la chose.
+    Ce qui s'est écoulé de son corps n'était pas le sang que j'attendais, mais de la lumière !${prompt}
+  7343: Cette créature était-elle un nouveau type de démon, ou une espèce de bête que nous n'avons pas encore découverte ?${prompt}
   7344: |-
-    In the next moment, morning light touched the land, and the shadow disappeared with the coming of the dawn...
-    I reported the encounter to my captain, but he didn't believe my story.${prompt}
-  7345: But your Sibyl Guard, after hearing my tale told elsewhere, came to see me.${prompt}
+    Au moment suivant, la lumière du matin a touché la terre, et l'ombre a disparu avec l'arrivée de l'aube...
+    J'ai rapporté la rencontre à mon capitaine, mais il n'a pas cru à mon histoire.${prompt}
+  7345: Mais votre Garde Sibylle, après avoir entendu mon récit ailleurs, est venue me voir.${prompt}
   7346: |-
-    The Mithra called the creature I had seen the “bearer of darkness.”
-    She searched around the pond for ${article} ${item-article: 1[2]} that may have fallen from the creature after I had slashed it, but was unable to find any.${prompt}
-  7347: 'Thinking about it now, I wonder if that ${item-singular: 1[2]} wasn''t just something the creature had been carrying...${prompt}'
-  7348: Travel to the pond and see what you can find.${prompt}
-  7349: 'Thinking about it now, I wonder if that ${item-singular: 1[2]} wasn''t just something the creature had been carrying...${prompt}'
-  7350: Travel to the pond and see what you can find. I'm counting on you.${prompt}
+    La Mithra a appelé la créature que j'avais vue le “porteur de ténèbres.”
+    Elle a cherché autour de l'étang un ${item-singular: 1[2]} qui aurait pu tomber de la créature après que je l'ai tailladée, mais n'a rien trouvé.${prompt}
+  7347: 'En y repensant, je me demande si cet ${item-singular: 1[2]} n’était pas simplement quelque chose que la créature portait...${prompt}'
+  7348: Voyagez jusqu'à l'étang et voyez ce que vous pouvez trouver.${prompt}
+  7349: 'En y repensant, je me demande si cet ${item-singular: 1[2]} n’était pas simplement quelque chose que la créature portait...${prompt}'
+  7350: Voyagez jusqu’à l’étang et voyez ce que vous pouvez trouver. Je compte sur vous.${prompt}
   7351: |-
-    Yes, this is it!
-    Even now, the aura of dread still lingers.${prompt}
+    Oui, c'est ça !
+    Même maintenant, l'aura de terreur persiste.${prompt}
   7352: At the time, I wasn't able to gather any, but I knew it would be necessary to unravel this mystery.${prompt}
   7353: |-
     I have a request for you.
