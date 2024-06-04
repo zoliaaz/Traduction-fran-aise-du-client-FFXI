@@ -17697,66 +17697,66 @@ entries:
     増えたポイント　${number: 0}
     増えたカウント　${number: 1}${prompt}
   7220: |-
-    Enter the battlefield?
+    Entrez sur le champ de bataille?
     ${selection-lines}
-    Enter.
-    Decline.${prompt}
+    Entrer.
+    Refuser.${prompt}
   7221: |-
-    Leave the battlefield?
+    Quittez le champ de bataille?
     ${selection-lines}
-    Run away.
-    Stay.${prompt}
-  7222: 'You cannot enter the battlefield at present. Please wait a little longer.${wait-animation: 1}${prompt}'
-  7223: 'You cannot enter the battlefield at present. Please wait a little longer.${wait-animation: 1}${prompt}'
-  7224: You have already cleared this battlefield. You may not enter unless you are assisting a player who has not defeated this boss.${prompt}
+    S'enfuir.
+    Rester.${prompt}
+  7222: 'Vous ne pouvez pas entrer sur le champ de bataille pour le moment. Veuillez patienter un peu plus longtemps.${wait-animation: 1}${prompt}'
+  7223: 'Vous ne pouvez pas entrer sur le champ de bataille pour le moment. Veuillez patienter un peu plus longtemps.${wait-animation: 1}${prompt}'
+  7224: Vous avez déjà vaincu cet ennemi. Vous ne pouvez entrer que pour aider un joueur qui ne l'a pas encore battu.${prompt}
   7225: |-
-    Your time in the battlefield is up!
-    Now exiting...${wait-animation: 1}${prompt}
-  7226: 'You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.${wait-animation: 1}${prompt}'
-  7227: 'You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.${wait-animation: 1}${prompt}'
-  7228: 'You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.${wait-animation: 1}${prompt}'
-  7229: 'You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.${wait-animation: 1}${prompt}'
-  7230: 'You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.${wait-animation: 1}${prompt}'
-  7231: 'You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.${wait-animation: 1}${prompt}'
-  7232: 'You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.${wait-animation: 1}${prompt}'
-  7233: 'You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.${wait-animation: 1}${prompt}'
-  7234: 'You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.${wait-animation: 1}${prompt}'
-  7235: 'You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.${wait-animation: 1}${prompt}'
-  7236: 'You have been enchanted so that you may enter!${wait-animation: 1}${prompt}'
-  7237: 'Your entry enchantment has expired!${wait-animation: 1}${prompt}'
+    Votre temps sur le champ de bataille est écoulé !
+    Sortie en cours...${wait-animation: 1}${prompt}
+  7226: 'Vous êtes autorisé à entrer sur le champ de bataille, mais vous ne pouvez pas pendant que les membres de votre groupe sont en combat.${wait-animation: 1}${prompt}'
+  7227: 'Vous êtes autorisé à entrer sur le champ de bataille, mais vous ne pouvez pas pendant que les membres de votre groupe sont en combat.${wait-animation: 1}${prompt}'
+  7228: 'Vous êtes autorisé à entrer sur le champ de bataille, mais vous ne pouvez pas pendant que les membres de votre groupe sont en combat.${wait-animation: 1}${prompt}'
+  7229: 'Vous êtes autorisé à entrer sur le champ de bataille, mais vous ne pouvez pas pendant que les membres de votre groupe sont en combat.${wait-animation: 1}${prompt}'
+  7230: 'Vous êtes autorisé à entrer sur le champ de bataille, mais vous ne pouvez pas pendant que les membres de votre groupe sont en combat.${wait-animation: 1}${prompt}'
+  7231: 'Vous êtes autorisé à entrer sur le champ de bataille, mais vous ne pouvez pas pendant que les membres de votre groupe sont en combat.${wait-animation: 1}${prompt}'
+  7232: 'Vous êtes autorisé à entrer sur le champ de bataille, mais vous ne pouvez pas pendant que les membres de votre groupe sont en combat.${wait-animation: 1}${prompt}'
+  7233: 'Vous êtes autorisé à entrer sur le champ de bataille, mais vous ne pouvez pas pendant que les membres de votre groupe sont en combat.${wait-animation: 1}${prompt}'
+  7234: 'Vous êtes autorisé à entrer sur le champ de bataille, mais vous ne pouvez pas pendant que les membres de votre groupe sont en combat.${wait-animation: 1}${prompt}'
+  7235: 'Vous êtes autorisé à entrer sur le champ de bataille, mais vous ne pouvez pas pendant que les membres de votre groupe sont en combat.${wait-animation: 1}${prompt}'
+  7236: 'Vous avez été enchanté pour pouvoir entrer !${wait-animation: 1}${prompt}'
+  7237: 'Votre enchantement d’entrée a expiré !${wait-animation: 1}${prompt}'
   7238: |-
-    You are not cleared to enter the battlefield.
-    Now exiting...${wait-animation: 1}${prompt}
-  7239: A cursed seal has been placed upon this platform.${prompt}
-  7240: The battlefield where your party members are engaged in combat is locked. Access is denied.${prompt}
-  7241: There is no response. You cannot escape!${prompt}
-  7242: The door is sealed shut with an evil curse.${prompt}
-  7243: A mysterious force is sealing the platform.${prompt}
-  7244: The old wooden door is locked tight.${prompt}
-  7245: The door is sealed with a mysterious energy.${prompt}
-  7246: It is a giant crystal.${prompt}
-  7247: A strong magical force is whirling up from the platform.${prompt}
-  7248: A fierce column of wind blocks your path. You cannot proceed any further...${prompt}
-  7249: An ominous veil of pitch-black gas blocks your path. You cannot proceed any further...${prompt}
-  7250: An unfathomable light is rising from this strangely marked platform...${prompt}
-  7251: A heavy wooden gate. It is tightly locked...${prompt}
-  7252: You can hear a faint scraping sound from within, but the way is barred by some strange membrane...${prompt}
-  7253: You can hear a faint scraping sound from within, but the way is barred by some strange membrane...${prompt}
-  7254: You can hear a faint scraping sound from within, but the way is barred by some strange membrane...${prompt}
-  7255: You can hear a faint scraping sound from within, but the way is barred by some strange membrane...${prompt}
-  7256: A glowing mist of ever-changing proportions floats before you...${prompt}
-  7257: A solid iron gate. It is tightly locked...${prompt}
-  7258: You see a gigantic crystal, glowing with amber light...${prompt}
-  7259: You see a gigantic crystal, glowing with amber light...${prompt}
-  7260: Looking closely, you see two bell-type symbols painted on the wood, one in red and one in blue...${prompt}
-  7261: Looking closely at the surface of the gate, you can see what appears to be the imprints of a Troll's fist...${prompt}
-  7262: If you listen closely, you can faintly hear female voices singing in rounds...${prompt}
-  7263: It appears as if something had been thrust into the rockface here...${prompt}
-  7264: A decorative door. It appears to be locked...${prompt}
-  7265: The door is locked.${prompt}
-  7266: The gate is locked.${prompt}
-  7267: The door is locked.${prompt}
-  7268: The door is locked.${prompt}
+    Vous n'êtes pas autorisé à entrer sur le champ de bataille.
+    Sortie en cours...${wait-animation: 1}${prompt}
+  7239: Un sceau maudit a été placé sur cette plateforme.${prompt}
+  7240: Le champ de bataille où les membres de votre groupe sont en combat est verrouillé. Accès refusé.${prompt}
+  7241: Il n'y a pas de réponse. Vous ne pouvez pas vous échapper!${prompt}
+  7242: La porte est scellée par une malédiction maléfique.${prompt}
+  7243: Une force mystérieuse scelle la plateforme.${prompt}
+  7244: La vieille porte en bois est fermée à clé.${prompt}
+  7245: La porte est scellée par une énergie mystérieuse.${prompt}
+  7246: C'est un cristal géant.${prompt}
+  7247: Une force magique puissante tourbillonne de la plateforme.${prompt}
+  7248: Une colonne de vent féroce bloque votre chemin. Vous ne pouvez pas aller plus loin...${prompt}
+  7249: Un voile menaçant de gaz noir bloque votre chemin. Vous ne pouvez pas aller plus loin...${prompt}
+  7250: Une lumière insondable s'élève de cette plateforme étrangement marquée...${prompt}
+  7251: Une lourde porte en bois. Elle est fermée à clé...${prompt}
+  7252: Vous entendez un léger grattement de l'intérieur, mais le passage est obstrué par une étrange membrane...${prompt}
+  7253: Vous entendez un léger grattement de l'intérieur, mais le passage est obstrué par une étrange membrane...${prompt}
+  7254: Vous entendez un léger grattement de l'intérieur, mais le passage est obstrué par une étrange membrane...${prompt}
+  7255: Vous entendez un léger grattement de l'intérieur, mais le passage est obstrué par une étrange membrane...${prompt}
+  7256: Une brume lumineuse de proportions changeantes flotte devant vous...${prompt}
+  7257: Une porte en fer solide. Elle est fermée à clé...${prompt}
+  7258: Vous voyez un cristal gigantesque, brillant d'une lumière ambrée...${prompt}
+  7259: Vous voyez un cristal gigantesque, brillant d'une lumière ambrée...${prompt}
+  7260: En regardant de plus près, vous voyez deux symboles de cloche peints sur le bois, l'un en rouge et l'autre en bleu...${prompt}
+  7261: En regardant de près la surface de la porte, vous pouvez voir ce qui semble être l'empreinte du poing d'un troll...${prompt}
+  7262: Si vous écoutez attentivement, vous pouvez entendre des voix féminines chantant en rondes...${prompt}
+  7263: Il semble que quelque chose ait été enfoncé dans la paroi rocheuse ici...${prompt}
+  7264: Une porte décorative. Elle semble être verrouillée...${prompt}  
+  7265: La porte est verrouillée.${prompt}
+  7266: La porte est verrouillée.${prompt}
+  7267: La porte est verrouillée.${prompt}
+  7268: La porte est verrouillée.${prompt}
   7269: There seems to be a space beneath the floor, but you are unable to access it.${prompt}
   7270: You do not meet the requirements to enter the battlefield. Access is denied.${prompt}
   7271: '${choice: 0}[Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] has fallen. Now leaving the battlefield.${prompt}'
@@ -18391,40 +18391,40 @@ entries:
   7593: |-
     You cannot escape at this time.
     Try again later.${prompt}
-  7594: 'You have broken the clear time record for “${choice: 5}[The Rank 5 Mission/Come Into My Parlor/E-vase-ive Action/Infernal Swarm/The Heir to the Light/Shattering Stars (PLD)/Shattering Stars (DRK)/Shattering Stars (BRD)/Demolition Squad/Die by the Sword/Let Sleeping Dogs Die/Brothers D''Aurphe/Undying Promise/Factory Rejects/Idol Thoughts/An Awful Autopsy/Celery/Mirror Images/A Furious Finale/Clash of the Comrades/Those Who Lurk in Shadows/Beyond Infinity/★Factory Rejects/★Demolition Squad/★Brothers D''Aurphe/Mumor''s Encore]”!'
-  7595: 'The current battlefield clear time record for “${choice: 1}[The Rank 5 Mission/Come Into My Parlor/E-vase-ive Action/Infernal Swarm/The Heir to the Light/Shattering Stars (PLD)/Shattering Stars (DRK)/Shattering Stars (BRD)/Demolition Squad/Die by the Sword/Let Sleeping Dogs Die/Brothers D''Aurphe/Undying Promise/Factory Rejects/Idol Thoughts/An Awful Autopsy/Celery/Mirror Images/A Furious Finale/Clash of the Comrades/Those Who Lurk in Shadows/Beyond Infinity/★Factory Rejects/★Demolition Squad/★Brothers D''Aurphe/Mumor ''s Encore]” is ${number: 3} second${choice-plurality: 3}[/s].'
-  7596: 'The current battlefield clear time record for “${choice: 1}[The Rank 5 Mission/Come Into My Parlor/E-vase-ive Action/Infernal Swarm/The Heir to the Light/Shattering Stars (PLD)/Shattering Stars (DRK)/Shattering Stars (BRD)/Demolition Squad/Die by the Sword/Let Sleeping Dogs Die/Brothers D''Aurphe/Undying Promise/Factory Rejects/Idol Thoughts/An Awful Autopsy/Celery/Mirror Images/A Furious Finale/Clash of the Comrades/Those Who Lurk in Shadows/Beyond Infinity/★Factory Rejects/★Demolition Squad/★Brothers D''Aurphe/Mumor''s Encore]” is ${number: 3} minute${choice-plurality: 3}[/s] ${number: 2} second${choice-plurality: 2}[/s].'
-  7597: 'Entering the battlefield for “${choice: 1}[The Rank 5 Mission/Come Into My Parlor/E-vase-ive Action/Infernal Swarm/The Heir to the Light/Shattering Stars (PLD)/Shattering Stars (DRK)/Shattering Stars (BRD)/Demolition Squad/Die by the Sword/Let Sleeping Dogs Die/Brothers D''Aurphe/Undying Promise/Factory Rejects/Idol Thoughts/An Awful Autopsy/Celery/Mirror Images/A Furious Finale/Clash of the Comrades/Those Who Lurk in Shadows/Beyond Infinity/★Factory Rejects/★Demolition Squad/★Brothers D''Aurphe/Mumor''s Encore]”!'
+  7594: 'Vous avez battu le record de temps clair pour “${choice: 5}[La mission de rang 5/Viens dans mon salon/Action d’évasion/Essaim infernal/L’héritier de la lumière/Étoiles brisées (PLD)/Étoiles brisées (DRK)/Étoiles brisées (BRD)/Équipe de démolition/Mourir par l’épée/Ne réveillez pas les chiens qui dorment/Frères D’Aurphe/Promesse éternelle/Rejets d’usine/Pensées d’idole/Une autopsie terrible/Céleri/Images miroir/Une finale furieuse/Affrontement des camarades/Ceux qui se cachent dans l’ombre/Au-delà de l’infini/★Rejets d’usine/★Équipe de démolition/★Frères D’Aurphe/Le rappel de Mumor]” !'
+  7595: 'Le record actuel de temps clair pour “${choice: 1}[La mission de rang 5/Viens dans mon salon/Action d’évasion/Essaim infernal/L’héritier de la lumière/Étoiles brisées (PLD)/Étoiles brisées (DRK)/Étoiles brisées (BRD)/Équipe de démolition/Mourir par l’épée/Ne réveillez pas les chiens qui dorment/Frères D’Aurphe/Promesse éternelle/Rejets d’usine/Pensées d’idole/Une autopsie terrible/Céleri/Images miroir/Une finale furieuse/Affrontement des camarades/Ceux qui se cachent dans l’ombre/Au-delà de l’infini/★Rejets d’usine/★Équipe de démolition/★Frères D’Aurphe/Le rappel de Mumor]” est de ${number: 3} seconde${choice-plurality: 3}[/s].'
+  7596: 'Le record actuel de temps clair pour “${choice: 1}[La mission de rang 5/Viens dans mon salon/Action d’évasion/Essaim infernal/L’héritier de la lumière/Étoiles brisées (PLD)/Étoiles brisées (DRK)/Étoiles brisées (BRD)/Équipe de démolition/Mourir par l’épée/Ne réveillez pas les chiens qui dorment/Frères D’Aurphe/Promesse éternelle/Rejets d’usine/Pensées d’idole/Une autopsie terrible/Céleri/Images miroir/Une finale furieuse/Affrontement des camarades/Ceux qui se cachent dans l’ombre/Au-delà de l’infini/★Rejets d’usine/★Équipe de démolition/★Frères D’Aurphe/Le rappel de Mumor]” est de ${number: 3} minute${choice-plurality: 3}[/s] ${number: 2} seconde${choice-plurality: 2}[/s].'
+  7597: 'Entrée sur le champ de bataille pour “${choice: 1}[La mission de rang 5/Viens dans mon salon/Action d’évasion/Essaim infernal/L’héritier de la lumière/Étoiles brisées (PLD)/Étoiles brisées (DRK)/Étoiles brisées (BRD)/Équipe de démolition/Mourir par l’épée/Ne réveillez pas les chiens qui dorment/Frères D’Aurphe/Promesse éternelle/Rejets d’usine/Pensées d’idole/Une autopsie terrible/Céleri/Images miroir/Une finale furieuse/Affrontement des camarades/Ceux qui se cachent dans l’ombre/Au-delà de l’infini/★Rejets d’usine/★Équipe de démolition/★Frères D’Aurphe/Le rappel de Mumor]” !'
   7598: |-
-    Which battlefield will you enter?
+    Quel champ de bataille allez-vous entrer?
     ${selection-lines}
-    None.
-    The Rank 5 Mission.
-    Come Into My Parlor.
-    E-vase-ive Action.
-    Infernal Swarm.
-    The Heir to the Light.
-    Shattering Stars (PLD).
-    Shattering Stars (DRK).
-    Shattering Stars (BRD).
-    Demolition Squad.
-    Die by the Sword.
-    Let Sleeping Dogs Die.
-    Brothers D'Aurphe.
-    Undying Promise.
-    Factory Rejects.
-    Idol Thoughts.
-    An Awful Autopsy.
-    Celery.
-    Mirror Images.
-    A Furious Finale.
-    Clash of the Comrades.
-    Those Who Lurk in Shadows.
-    Beyond Infinity.
-    ★Factory Rejects.
-    ★Demolition Squad.
-    ★Brothers D'Aurphe.
-    Mumor's Encore.
+    Aucun.
+    La mission de rang 5.
+    Viens dans mon salon.
+    Action d'évasion.
+    Essaim infernal.
+    L'héritier de la lumière.
+    Étoiles brisées (PLD).
+    Étoiles brisées (DRK).
+    Étoiles brisées (BRD).
+    Équipe de démolition.
+    Mourir par l'épée.
+    Ne réveillez pas les chiens qui dorment.
+    Frères D'Aurphe.
+    Promesse éternelle.
+    Rejets d’usine.
+    Pensées d'idole.
+    Une autopsie terrible.
+    Céleri.
+    Images miroir.
+    Une finale furieuse.
+    Affrontement des camarades.
+    Ceux qui se cachent dans l'ombre.
+    Au-delà de l'infini.
+    ★Rejets d’usine.
+    ★Équipe de démolition.
+    ★Frères D'Aurphe.
+    Le rappel de Mumor.
     .
     .
     .
@@ -18434,58 +18434,58 @@ entries:
     .
     ${prompt}
   7599: |-
-    You fight well...but you should learn to pace yourself.
-    Battles are won by those who can still swing their swords at the end of the day.${prompt}
+    Vous vous battez bien... mais vous devriez apprendre à vous ménager.
+    Les batailles sont gagnées par ceux qui peuvent encore brandir leur épée à la fin de la journée.${prompt}
   7600: |-
-    I am curious. What are you doing here?
-    The beastmen have been acting strangely...were you asked to spy on them?${prompt}
+    Je suis curieux. Que faites-vous ici ?
+    Les hommes-bêtes agissent étrangement... vous a-t-on demandé de les espionner ?${prompt}
   7601: |-
-    The seal of the Northlands?
-    Ah, that thing those Tarutaru did at the end of the Great War...${prompt}
+    Le sceau des Terres du Nord ?
+    Ah, ce truc que les Tarutarus ont fait à la fin de la Grande Guerre...${prompt}
   7602: |-
-    I have seen no signs of it. It must have already been broken.
-    Hmph. I wish I could see the look on your superiors' faces when they find out.${prompt}
+    Je n'ai vu aucun signe de celui-ci. Il doit déjà être brisé.
+    Hmph. J'aimerais voir la tête de vos supérieurs quand ils l'apprendront.${prompt}
   7603: |-
-    You say you have brought another seal?
-    You should not have bothered, as they are useless.${prompt}
+    Vous dites avoir apporté un autre sceau ?
+    Vous n'auriez pas dû vous en donner la peine, ils sont inutiles.${prompt}
   7604: |-
-    Who am I? I am just a wandering knight.
-    I do not care what the beastmen do--nor should you.${prompt}
+    Qui suis-je ? Je suis juste un chevalier errant.
+    Je me moque de ce que font les hommes-bêtes -- vous devriez en faire autant.${prompt}
   7605: |-
-    The Shadow Lord was killed twenty years ago and that is a fact.
-    These rumors of him returning are just plain nonsense.${prompt}
+    Le Seigneur des Ombres a été tué il y a vingt ans et c'est un fait.
+    Ces rumeurs de son retour sont tout simplement absurdes.${prompt}
   7606: |-
-    But Castle Zvahl is also called the Crossroad of Fates...
-    And yet, it cannot be.${prompt}
+    Mais le Château Zvahl est aussi appelé le Carrefour des Destins...
+    Et pourtant, ce ne peut être.${prompt}
   7607: |-
-    Event skip menu
+    Menu de saut d'événement
     ${selection-lines}
-    Watch event.
-    Skip event.${prompt}
-  7608: Press button to proceed.${prompt}
+    Regarder l'événement.
+    Passer l'événement.${prompt}
+  7608: Appuyez sur le bouton pour continuer.${prompt}
   7609: |-
-    Personal Debug Menu!
+    Menu de débogage personnel !
     ${selection-lines}
-    Cancel.
-    Warp.
-    Camera Load.
-    Event Check.${prompt}
-  7610: Boss room unlocked.${prompt}
+    Annuler.
+    Téléportation.
+    Chargement de la caméra.
+    Vérification de l'événement.${prompt}
+  7610: Salle du boss déverrouillée.${prompt}
   7611: |-
-    Jump to:
+    Sauter vers :
     ${selection-lines}
-    Room A. ★
-    Room B.
-    Room C.
-    The beginning.
-    The end.${prompt}
+    Salle A. ★
+    Salle B.
+    Salle C.
+    Le début.
+    La fin.${prompt}
   7612: |-
-    Choose Event.
+    Choisir l'événement.
     ${selection-lines}
     SDM9-2-1.
     SDM9-2-2.${prompt}
-  7613: Debug room entry test!${prompt}
-  7614: Oh, looky. They get past our fodders. Well, they no get to past us. We eat them like wild rabbits!${prompt}
+  7613: Test d'entrée en salle de débogage !${prompt}
+  7614: Oh, regardez. Ils ont passé nos fourrages. Eh bien, ils ne passeront pas nous. Nous les mangeons comme des lapins sauvages !${prompt}
   7615: |-
     Wait...
     No knights be with adventurers. We be tricked!${prompt}
