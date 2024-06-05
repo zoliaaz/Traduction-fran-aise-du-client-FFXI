@@ -17692,41 +17692,41 @@ entries:
   7221: Quoi maintenant ? Tu vas m'arrêter ? Très bien, mais tu n'obtiendras pas un gil pour cela.${prompt}
   7222: Que dirais-tu de faire une petite course pour moi à la place ? Cela pourrait être profitable !${prompt}
   7223: |-
-    Take the job?
+    Accepter le travail ?
     ${selection-lines}
-    Yes.
-    No way.${prompt}
-  7224: Heh-heh-heh... Fool of an adventurer. I pity you!${prompt}
-  7225: Many youths just like you have died, crushed under the heel of this land's sinister history.${prompt}
-  7226: 'All right. How about you go into Ghelsba, get the ${item-singular: 1[2]} I sold to those Orcs, and bring it back?${prompt}'
-  7227: Heh-heh... Not that I expect you to survive...${prompt}
-  7228: 'All right. How about you go into Ghelsba, get the ${item-singular: 1[2]} I sold to those Orcs, and bring it back?${prompt}'
-  7229: Heh-heh... Not that I expect you to survive...${prompt}
-  7230: Heh-heh... Here's your reward. Now we're partners in crime, eh?${prompt}
-  7231: Next time you're around, I might have another job for you. Heh-heh...${prompt}
-  7232: Next time you're around, I might have another job for you. Heh-heh...${prompt}
-  7233: Heh-heh... Feel like doing a job for me again?${prompt}
+    Oui.
+    Pas question.${prompt}
+  7224: Heh-heh-heh... Fou d'aventurier. Je te plains !${prompt}
+  7225: Beaucoup de jeunes comme toi sont morts, écrasés sous le talon de l'histoire sinistre de cette terre.${prompt}
+  7226: 'D’accord. Que diriez-vous d’aller à Ghelsba, de récupérer ${item-singular: 1[2]} que j’ai vendu à ces Orcs, et de me le rapporter ?${prompt}' 
+  7227: Heh-heh... Pas que je m'attende à ce que tu survives...${prompt}
+  7228: 'D’accord. Que diriez-vous d’aller à Ghelsba, de récupérer ${item-singular: 1[2]} que j’ai vendu à ces Orcs, et de me le rapporter ?${prompt}'
+  7229: Heh-heh... Pas que je m'attende à ce que tu survives...${prompt}
+  7230: Heh-heh... Voici ta récompense. Maintenant, nous sommes partenaires dans le crime, hein ?${prompt}
+  7231: La prochaine fois que tu passes, j'aurai peut-être un autre travail pour toi. Heh-heh...${prompt}
+  7232: La prochaine fois que tu passes, j'aurai peut-être un autre travail pour toi. Heh-heh...${prompt}
+  7233: Heh-heh... Tu veux refaire un travail pour moi ?${prompt}
   7234: |-
-    Do the job?
+    Faire le travail ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  7235: 'Excellent. I want you to do the same thing, then. Bring me the ${item-singular: 1[2]} from Ghelsba. Got it?${prompt}'
-  7236: We have a Blacksmiths' Guild and a Carpenters' Guild here in Northern San d'Oria.${prompt}
-  7237: Their halls are open to the public, but do not interfere with their work.${prompt}
-  7238: 'Did you hear the news? Someone''s been going around offering to sell ${article} ${item-article: 1[2]}!${prompt}'
-  7239: They say the chateau's floor plans were torn into three pieces. One went to the royal family, another to the church, and the last to the guild elders.${prompt}
-  7240: 'Hrmm... Have you heard about ${article} ${item-article: 1[2]}?${prompt}'
-  7241: Seems the royal family and the church all think I gave up my copy of the floor plans. But I've kept mine safe, I swear it!${prompt}
-  7242: Still, these rumors do have me worried. The guild elders have always kept the plans locked away. But we do not possess the key!${prompt}
-  7243: Hrrm... You seem a trustworthy adventurer. Might I ask you a favor?${prompt}
-  7244: 'There is a small island to the south of Batallia Downs, surrounded by steep cliffs. I''ve heard that ${article} ${item-article: 2[2]} is buried there.${prompt}'
-  7245: I would be most grateful if you could bring me that key.${prompt}
+    Oui.
+    Non.${prompt}
+  7235: 'Excellent. Je veux que vous fassiez la même chose, alors. Apportez-moi ${item-singular: 1[2]} de Ghelsba. Compris ?${prompt}'
+  7236: Nous avons une Guilde des Forgerons et une Guilde des Charpentiers ici, à San d'Oria Nord.${prompt}
+  7237: Leurs halls sont ouverts au public, mais n'interférez pas avec leur travail.${prompt}
+  7238: 'Avez-vous entendu la nouvelle ? Quelqu’un propose de vendre ${article} ${item-article: 1[2]}!${prompt}'
+  7239: On dit que les plans d'étage du château ont été déchirés en trois morceaux. Un est allé à la famille royale, un autre à l’église et le dernier aux anciens de la guilde.${prompt}
+  7240: 'Hrmm... Avez-vous entendu parler de ${article} ${item-article: 1[2]}?${prompt}'
+  7241: Il semble que la famille royale et l’église pensent toutes deux que j’ai abandonné ma copie des plans d'étage. Mais j’ai gardé la mienne en sécurité, je le jure !${prompt}
+  7242: Pourtant, ces rumeurs me préoccupent. Les anciens de la guilde ont toujours gardé les plans sous clé. Mais nous ne possédons pas la clé !${prompt}
+  7243: Hrrm... Vous semblez être un aventurier de confiance. Puis-je vous demander une faveur ?${prompt}
+  7244: 'Il y a une petite île au sud de Batallia Downs, entourée de falaises escarpées. J’ai entendu dire que ${article} ${item-article: 2[2]} est enterré là-bas.${prompt}'
+  7245: Je vous serais très reconnaissant si vous pouviez m'apporter cette clé.${prompt}
   7246: |-
-    Accept his request?
+    Accepter sa demande ?
     ${selection-lines}
-    Of course.
-    Not now.${prompt}
+    Bien sûr.
+    Pas maintenant.${prompt}
   7247: C'est sur l'île au sud de Batallia Downs. Ne me demandez pas comment y arriver, car je ne le sais pas.${prompt}
   7248: Quel monde! J'avais peu confiance en notre jeunesse auparavant, mais maintenant...${prompt}
   7249: 'Les plans d’étage devraient être ici, enfermés à l’intérieur. Nous avons besoin de ce ${item-singular: 2[2]} pour l’ouvrir et nous assurer que les plans sont en sécurité!${prompt}'
@@ -26722,28 +26722,28 @@ entries:
   13105: |-
     Continue thy journey into the light.
     May the Gates of Paradise open unto thee.${prompt}
-  13106: What is the meaning of this? Dost thou propose to insult a cardinal of Altana? If thou persists in this tomfoolery, I shall be forced to call upon the Temple Knights to teach thee some manners...${prompt}
-  13107: ${choice-player-gender}[Sir/Lady] ${name-player}! Much I have heard of your noble efforts on the battlefield. If it is not too much of a bother, your assistance is requested for a special mission.${prompt}
-  13108: The mission requires escorting the noble young missus Lady Cannau, the only daughter of a highly respectable family. However, she is--how would you say--a tad rambunctious. Embarrassed I am to report that we have already had many a proud adventurer quit this task the moment they met her.${prompt}
-  13109: If you have courage enough to take on this adventure, travel to the Eldieme Necropolis. Whether Lady Cannau is there or not is another question...${prompt}
+  13106: Quel est le sens de ceci ? Te proposes-tu d'insulter un cardinal d'Altana ? Si tu persistes dans cette baliverne, je serai contraint d'appeler les Chevaliers du Temple pour t'apprendre quelques manières...
+  13107: ${choice-player-gender}[Monsieur/Madame] ${name-player} ! J'ai beaucoup entendu parler de vos nobles efforts sur le champ de bataille. Si ce n'est pas trop vous demander, votre aide est requise pour une mission spéciale.
+  13108: La mission consiste à escorter la noble jeune demoiselle Lady Cannau, la seule fille d'une famille très respectable. Cependant, elle est... comment dire... un peu turbulente. Je suis embarrassé de vous dire que nous avons déjà eu beaucoup d'aventuriers fiers abandonner cette tâche dès qu'ils l'ont rencontrée.
+  13109: Si vous avez le courage d'accepter cette aventure, rendez-vous au Nécropole d'Eldieme. Si Lady Cannau s'y trouve ou non est une autre question...
   13110: |-
-    You shall be compensated generously upon the completion of your task.
-    Good luck and Godspeed.${prompt}
-  13111: You shall find Miss Cannau in the Eldieme Necropolis. That is, if you are lucky enough to spot her...${prompt}
+    Vous serez généreusement récompensé à l'achèvement de votre tâche.
+    Bonne chance et que Dieu vous garde.${prompt}
+  13111: Vous trouverez Mademoiselle Cannau dans la Nécropole d'Eldieme. C'est-à-dire, si vous avez la chance de la repérer...
   13112: |-
-    Wait...
-    Are you to say that you wish to cancel your contract with us?${prompt}
+    Attendez...
+    Voulez-vous dire que vous souhaitez annuler votre contrat avec nous ?${prompt}
   13113: |-
-    Cancel your contract?
+    Annuler votre contrat ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  13114: I see... That is quite disappointing...${prompt}
-  13115: Ah, I heard from my men that you have been successful in escorting the missus. I applaud you on your composure throughout the task.${prompt}
+    Oui.
+    Non.${prompt}
+  13114: Je vois... C'est assez décevant...
+  13115: Ah, j'ai entendu de mes hommes que vous avez réussi à escorter madame. Je vous félicite pour votre sang-froid tout au long de la tâche.
   13116: |-
-    <Sigh>
-    I have the feeling this may not be the last time the missus goes galavanting about the necropolis. When that time comes, again we may require your assistance.${prompt}
-  13117: Forget not the labors of the common folk, as they ever support this mighty kingdom.${prompt}
+    <Soupir>
+    J'ai le sentiment que ce ne sera peut-être pas la dernière fois que madame ira galoper dans la nécropole. Quand ce moment viendra, nous aurons à nouveau besoin de votre assistance.
+  13117: N'oubliez pas les labeurs du peuple, car ils soutiennent toujours ce puissant royaume.${prompt}
   13118: |-
     It's time for the Egg Hunt Egg-stravaganza, kupo!
     Here, take this “initial egg.” Collect and trade eggs until you have made a “First 3” combination. When you're done, bring the combo back to me for an egg-squisite prize, kupo!${prompt}
