@@ -25812,67 +25812,67 @@ entries:
   12605: Les visiteurs signalent des pierres tombales disparues et des ombres se tordant dans les cavernes. Profaner la tombe d'un roi est un crime impardonnable !${prompt}
   12606: Vos ordres sont d'enquêter sur la tombe et de déterminer s'il y a du vrai dans ce qu'ils disent. Comprenez-vous ?${prompt}
   12607: |-
-    Accept the mission?
+    Accepter la mission ?
     ${selection-lines}
-    I accept.
-    I do not accept.${prompt}
-  12608: I implore you to make haste to King Ranperre's Tomb. You may find proof of grave-robbers there.${prompt}
-  12609: But wander too deeply within, and Goblins might find you. Tread boldly, my friend, but do not go in over your head!${prompt}
-  12610: Visitors report missing gravestones and shadows twisting in the caverns. Scour the tomb and determine if they speak the truth.${prompt}
-  12611: Make haste to King Ranperre's Tomb. You may find proof of grave-robbers there.${prompt}
-  12612: Have you really searched the tomb?${prompt}
-  12613: So, you got this from bats in King Ranperre's Tomb?${prompt}
-  12614: You see, this actually belonged to an Orc. What could Orcs want with the tomb?${prompt}
-  12615: At any rate, your mission is over. Speak not a word of this to another.${prompt}
-  12616: Ah, the recruit's back again? I'm sorry, but I've no time for you today.${prompt}
-  12617: I know you came all this way, but I can't help you right now.${prompt}
-  12618: Oh, who am I fooling? Of course I could use your help!${prompt}
-  12619: Have you not heard? Orcs came and kidnapped some children! We think they're keeping them at their lair in Ghelsba.${prompt}
-  12620: Why, not long ago came ill news from the cathedral. A boy training to be a friar went near Ghelsba and did not return. His name was Tedimout.${prompt}
-  12621: The Royal Knights would march to his rescue, but Prince Trion is away in the north, and cannot give the order.${prompt}
-  12622: Prince Pieuje is in earnest deliberations over whether to send Temple Knights instead. It seems his efforts are focused upon saving the children, but...${prompt}
-  12623: But no matter. We need knowledge of the enemy. You must visit the cathedral and ask what this boy looks like.${prompt}
-  12624: A boy training to be a friar went near Ghelsba and did not return. His name was Tedimout.${prompt}
-  12625: The Temple Knights may be mobilized soon. You must visit the cathedral and ask what this boy looks like.${prompt}
-  12626: Prince Trion just informed me of your handiwork. You've done beautifully.${prompt}
-  12627: Due to your exemplary contribution, ${name-player}, San d'Oria hereby recognizes you as an adventurer of rank two.${prompt}
-  12628: But do not let it go to your head. This certificate is valid only in San d'Oria.${prompt}
-  12629: Work hard and better things will come, my friend. Someday your name will be known to our allies as well.${prompt}
-  12630: Oh, and one more thing. The vicasque of the cathedral said he wants to thank you on behalf of the boy.${prompt}
-  12631: You achieve rank two.${prompt}
-  12632: At any rate, you completed the mission well enough. Time for a reward!${prompt}
-  12633: I award you with rank points commensurate with your achievement.${prompt}
-  12634: Prince Trion ordered scouts from the Royal Knights to Davoi, while Prince Pieuje ordered scouts from the Temple Knights. It's like the right hand knows not what the left is doing!${prompt}
-  12635: Monarlais Halver is furious, but first he needs knowledge. You must find the scout from the Temple Knights, receive his scouting report, and return that report to the monarlais.${prompt}
-  12636: 'What? You were told to hand the ${keyitem-singular: 3[2]} to Prince Pieuje personally?${prompt}'
-  12637: Well, you should find His Highness in the cathedral.${prompt}
-  12638: 'You''ve come just at the right time! Prince Trion wants a word with you. It seems he heard of you when you received your ${keyitem-singular: 0[2]}.${prompt}'
-  12639: Head to the chambers of Prince Trion inside Chateau d'Oraguille as soon as you're presentable!${prompt}
-  12640: Prince Trion has called for you. Head to his chamber inside Chateau d'Oraguille as soon as you're presentable!${prompt}
-  12641: I know not what Prince Trion wanted you to do, but see it through to the end! Understand?${prompt}
-  12642: Hello there. Now's not the time for missions; Chateau d'Oraguille has been visited by bandits!${prompt}
-  12643: You must make haste to Chateau d'Oraguille! Find Lady Curilla, general of the Temple Knights!${prompt}
-  12644: Bandits infiltrating Chateau d'Oraguille is unprecedented in history! Make haste and see Lady Curilla, general of the Temple Knights!${prompt}
-  12645: 'Oh, I want my ${item-singular: 0[2]}.${prompt}'
+    J'accepte.
+    Je n'accepte pas.${prompt}
+  12608: Je vous implore de vous rendre rapidement à la Tombe de Ranperre. Vous pourriez y trouver des preuves de pilleurs de tombes.${prompt}
+  12609: Mais ne vous aventurez pas trop profondément, sinon les Gobelins pourraient vous trouver. Marchez hardiment, mon ami, mais ne vous surestimez pas !${prompt}
+  12610: Les visiteurs signalent des pierres tombales manquantes et des ombres se tordant dans les cavernes. Parcourez la tombe et déterminez s'ils disent la vérité.${prompt}
+  12611: Dépêchez-vous de vous rendre à la Tombe de Ranperre. Vous pourriez y trouver des preuves de pilleurs de tombes.${prompt}
+  12612: Avez-vous vraiment fouillé la tombe ?${prompt}
+  12613: Alors, vous avez obtenu cela des chauves-souris dans la Tombe de Ranperre ?${prompt}
+  12614: Vous voyez, cela appartenait en fait à un Orque. Que pourraient vouloir les Orques avec la tombe ?${prompt}
+  12615: Quoi qu'il en soit, votre mission est terminée. Ne parlez de cela à personne.${prompt}
+  12616: Ah, le recrue est de retour ? Je suis désolé, mais je n'ai pas le temps pour vous aujourd'hui.${prompt}
+  12617: Je sais que vous avez fait tout ce chemin, mais je ne peux pas vous aider en ce moment.${prompt}
+  12618: Oh, qui est-ce que je trompe ? Bien sûr, je pourrais utiliser votre aide !${prompt}
+  12619: N'avez-vous pas entendu ? Les Orques sont venus et ont enlevé des enfants ! Nous pensons qu'ils les retiennent dans leur repaire à Ghelsba.${prompt}
+  12620: Il n'y a pas longtemps, une mauvaise nouvelle est venue de la cathédrale. Un garçon en formation pour devenir frère s'est approché de Ghelsba et n'est pas revenu. Son nom était Tedimout.${prompt}
+  12621: Les Chevaliers Royaux marcheraient à son secours, mais le Prince Trion est au nord, et ne peut donner l'ordre.${prompt}
+  12622: Le Prince Pieuje est en délibérations sérieuses pour savoir s'il doit envoyer les Chevaliers du Temple à la place. Il semble que ses efforts soient concentrés sur le sauvetage des enfants, mais...${prompt}
+  12623: Mais peu importe. Nous avons besoin de connaître l'ennemi. Vous devez visiter la cathédrale et demander à quoi ressemble ce garçon.${prompt}
+  12624: Un garçon en formation pour devenir frère s'est approché de Ghelsba et n'est pas revenu. Son nom était Tedimout.${prompt}
+  12625: Les Chevaliers du Temple pourraient être mobilisés bientôt. Vous devez visiter la cathédrale et demander à quoi ressemble ce garçon.${prompt}
+  12626: Le Prince Trion vient de m'informer de votre travail. Vous avez fait un excellent travail.${prompt}
+  12627: En raison de votre contribution exemplaire, ${name-player}, San d'Oria vous reconnaît comme un aventurier de rang deux.${prompt}
+  12628: Mais ne laissez pas cela vous monter à la tête. Ce certificat n'est valable qu'à San d'Oria.${prompt}
+  12629: Travaillez dur et de meilleures choses viendront, mon ami. Un jour, votre nom sera connu de nos alliés également.${prompt}
+  12630: Oh, et une chose de plus. Le vicaire de la cathédrale a dit qu'il voulait vous remercier au nom du garçon.${prompt}
+  12631: Vous obtenez le rang deux.${prompt}
+  12632: Quoi qu'il en soit, vous avez bien accompli la mission. Il est temps d'avoir une récompense !${prompt}
+  12633: Je vous attribue des points de rang correspondant à votre réussite.${prompt}
+  12634: Le Prince Trion a ordonné aux éclaireurs des Chevaliers Royaux de se rendre à Davoi, tandis que le Prince Pieuje a ordonné aux éclaireurs des Chevaliers du Temple. C'est comme si la main droite ne savait pas ce que fait la gauche !${prompt}
+  12635: Monarlais Halver est furieux, mais il a d'abord besoin d'informations. Vous devez trouver l'éclaireur des Chevaliers du Temple, recevoir son rapport d'éclaireur et retourner ce rapport à monarlais.${prompt}
+  12636: 'Quoi ? On vous a dit de remettre le ${keyitem-singular: 3[2]} au Prince Pieuje en personne ?${prompt}'
+  12637: Eh bien, vous devriez trouver Son Altesse à la cathédrale.${prompt} 
+  12638: 'Vous arrivez juste au bon moment ! Le Prince Trion veut vous parler. Il semble avoir entendu parler de vous lorsque vous avez reçu votre ${keyitem-singular: 0[2]}.${prompt}'
+  12639: Rendez-vous aux chambres du Prince Trion à l'intérieur du Château d'Oraguille dès que vous êtes présentable !${prompt}
+  12640: Le Prince Trion vous a appelé. Rendez-vous dans sa chambre à l'intérieur du Château d'Oraguille dès que vous êtes présentable !${prompt}
+  12641: Je ne sais pas ce que le Prince Trion voulait que vous fassiez, mais allez jusqu'au bout ! Compris ?${prompt}
+  12642: Bonjour. Ce n'est pas le moment pour des missions ; le Château d'Oraguille a été visité par des bandits !${prompt}
+  12643: Vous devez vous rendre au Château d'Oraguille rapidement ! Trouvez Dame Curilla, générale des Chevaliers du Temple !${prompt}
+  12644: Des bandits infiltrant le Château d'Oraguille, c'est sans précédent dans l'histoire ! Dépêchez-vous de voir Dame Curilla, générale des Chevaliers du Temple !${prompt}
+  12645: 'Oh, je veux mon ${item-singular: 0[2]}.${prompt}'
   12646: |-
     <Phssshooooowoooo>
-    You never see Goblinshhh from underworld? Me no bad. Me sell chipshhh. You buy. Use with shhhtone heart. You get lucky!${prompt}
-  12647: I've been trying to import goods from Vollbow, but it's so hard to get items from areas that aren't under San d'Orian control.${prompt}
-  12648: What is this? You wish to learn of dragons? If only Doctor Oiheaurese were...${prompt}
-  12649: '...here!${prompt}'
-  12650: Doctor, this adventurer is inquiring about dragons.${prompt}
-  12651: Well, then our adventurer has come to the right place. First of all, young ${choice-player-gender}[lad/lass], you must understand that where there are holy dragons, there exist dragons of evil as well.${prompt}
-  12652: Why, Sir Rahal. What gives us the honor of your presence here today?${prompt}
-  12653: Nothing urgent, Doctor. I was just wondering if anything peculiar--any suspicious characters--had been spotted in this area recently.${prompt}
-  12654: No...nothing out of the ordinary, sir.${prompt}
-  12655: I see... I just thought that...maybe the body of...his body was...no...${prompt}
-  12656: Carry on.${prompt}
-  12657: Ahem! Now that he is out of the way, where was I?${prompt}
-  12658: Ah, yes. As I was saying, recently there has been a large drop in the number of dragons born in Vana'diel.${prompt}
-  12659: That is where you come in. There is a rumor that a wyvern has laid an egg in the Maze of Shakhrami.${prompt}
-  12660: I would like you to excavate the egg and protect it from the dragonslayers.${prompt}
-  12661: To prevent them from killing the wyvern while it is still young, we must get to the egg before they do.${prompt}
-  12662: Doctor Oiheaurese said that a wyvern egg has been laid deep in the Maze of Shakhrami. Could this be true?${prompt}
+    Vous n'avez jamais vu des Gobelins de l'au-delà ? Moi pas méchant. Moi vendre chips. Vous achetez. Utilisez avec cœur de pierre. Vous aurez de la chance !${prompt}
+  12647: J'ai essayé d'importer des marchandises de Vollbow, mais c'est tellement difficile d'obtenir des articles provenant de zones qui ne sont pas sous contrôle de San d'Oria.${prompt}
+  12648: Qu'est-ce que c'est ? Vous voulez en apprendre davantage sur les dragons ? Si seulement le Docteur Oiheaurese était...${prompt}
+  12649: ...ici !${prompt}
+  12650: Docteur, cet aventurier s'enquiert des dragons.${prompt}
+  12651: Eh bien, notre aventurier est venu au bon endroit. Tout d'abord, jeune ${choice-player-gender}[homme/femme], vous devez comprendre que là où il y a des dragons sacrés, il existe également des dragons du mal.${prompt}
+  12652: Pourquoi, Sir Rahal. Qu'est-ce qui nous vaut l'honneur de votre présence aujourd'hui ?${prompt}
+  12653: Rien d'urgent, Docteur. Je me demandais juste si quelque chose de particulier - des personnages suspects - avait été repéré dans cette zone récemment.${prompt}
+  12654: Non... rien d'extraordinaire, monsieur.${prompt}
+  12655: Je vois... Je pensais juste que... peut-être le corps de... son corps était... non...${prompt}
+  12656: Continuez.${prompt}
+  12657: Ahem ! Maintenant qu'il est parti, où en étais-je ?${prompt}
+  12658: Ah, oui. Comme je le disais, il y a eu récemment une grande diminution du nombre de dragons nés à Vana'diel.${prompt}
+  12659: C'est là que vous intervenez. Il y a une rumeur qu'un wyverne a pondu un œuf dans le Labyrinthe de Shakhrami.${prompt}
+  12660: Je voudrais que vous excaviez l'œuf et que vous le protégiez des chasseurs de dragons.${prompt}
+  12661: Pour éviter qu'ils ne tuent le wyverne alors qu'il est encore jeune, nous devons atteindre l'œuf avant eux.${prompt}
+  12662: Le Docteur Oiheaurese a dit qu'un œuf de wyverne a été pondu au fond du Labyrinthe de Shakhrami. Cela pourrait-il être vrai ?${prompt}
   12663: |-
     Ah, it is you.
     I am sorry to inform you that Doctor Oiheaurese is not available at the moment. Perhaps he has taken ill. His work keeps him up late into the evening.${prompt}
