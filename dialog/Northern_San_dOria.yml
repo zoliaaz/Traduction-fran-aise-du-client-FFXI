@@ -17555,34 +17555,34 @@ entries:
   7135: L'argent fait tourner le monde. Oui, il le fait !♪${prompt}
   7136: D'accord ! Respirez profondément et croyez en vous !${prompt}
   7137: |-
-    That's right! That's right!♪
-    ${lettercase: 1}${article} ${item-article: 0[2]} would be a pretty sight!♪${prompt}
+    C'est ça ! C'est ça !♪
+    ${lettercase: 1}${article} ${item-article: 0[2]} serait une belle vue !♪${prompt}
   7138: |-
-    That's what you'll need for this task!
-    If you ever forget, just come back and ask!♪${prompt}
-  7139: I'm busy.${prompt}
-  7140: I won't help you just yet.${prompt}
-  7141: Not enough gil? Well, you'll get no help from me.${prompt}
-  7142: All right. Let's begin!${prompt}
-  7143: 'Say, why don''t you try crafting ${article} ${item-article: 0[2]}? Here''s what you''ll need:${prompt}'
-  7144: That should do it. Now let me be.${prompt}
-  7145: 'How diligently you''ve been working of late! Here, make me ${article} ${item-article: 0[2]}, and I''ll judge your handiwork.${prompt}'
-  7146: Pass this trial, and you will be recognized as a craftsman.${prompt}
-  7147: But, beware! Once a craftsman, always a craftsman! Ever must you uphold the honor of this guild.${prompt}
-  7148: Your knowledge of our craft is still in its infancy. Strive to further your skills, lest others trade jokes at our expense.${prompt}
-  7149: Impressive! A precious piece of work, indeed! ${name-player}, I grant you the rank of craftsman. May you put your considerable talents to good use!${prompt}
-  7150: You shall be taught henceforth the most treasured techniques of our craft. Your studies will require devotion, my friend, but do not overburden yourself!${prompt}
-  7151: Impressive! A precious piece of work, indeed! ${name-player}, I grant you the rank of craftsman. Continue to polish your skills, and there is no telling how far you may go.${prompt}
-  7152: '${lettercase: 1}${keyitem-singular: 0[2]} is a wonderful new method of smithing that allows you to enchant metals with the mysterious energy of black magic and anima.${prompt}'
-  7153: '${lettercase: 1}${keyitem-singular: 0[2]} is a wonderful new method of smithing that allows you to enchant metals with the mysterious energy of white magic and anima.${prompt}'
-  7154: It has come to my attention that you have achieved craftsman status at another guild.${prompt}
-  7155: While I admit it is always wise to broaden one's horizons, I cannot commend this choice you have made.${prompt}
-  7156: If you truly wish to follow the path of the mastersmith, you must remain focused in your studies. Craftsman status in any other guilds will only poison your mind and lead you astray. However, the choice is yours...${prompt}
+    Voilà ce dont vous aurez besoin pour cette tâche !
+    Si jamais vous oubliez, revenez simplement demander !♪${prompt}
+  7139: Je suis occupé.${prompt}
+  7140: Je ne vous aiderai pas pour l'instant.${prompt}
+  7141: Pas assez de gils ? Eh bien, vous n'aurez aucune aide de ma part.${prompt}
+  7142: D'accord. Commençons !${prompt}
+  7143: 'Dites, pourquoi ne pas essayer de fabriquer ${article} ${item-article: 0[2]} ? Voici ce dont vous aurez besoin :${prompt}'
+  7144: Cela devrait faire l'affaire. Laissez-moi maintenant.${prompt}
+  7145: 'Comme vous avez travaillé diligemment ces derniers temps ! Tenez, fabriquez-moi ${article} ${item-article: 0[2]}, et je jugerai votre travail.${prompt}'
+  7146: Réussissez cette épreuve, et vous serez reconnu comme un artisan.${prompt}
+  7147: Mais, méfiez-vous ! Une fois artisan, toujours artisan ! Vous devez toujours défendre l'honneur de cette guilde.${prompt}
+  7148: Votre connaissance de notre métier en est encore à ses débuts. Efforcez-vous de perfectionner vos compétences, de peur que d'autres ne se moquent de nous.${prompt}
+  7149: Impressionnant ! Un travail précieux, en effet ! ${name-player}, je vous accorde le rang d'artisan. Puissiez-vous mettre vos talents considérables à bon escient !${prompt}
+  7150: Désormais, vous serez enseigné les techniques les plus précieuses de notre métier. Vos études demanderont du dévouement, mon ami, mais ne vous surchargez pas !${prompt}
+  7151: Impressionnant ! Un travail précieux, en effet ! ${name-player}, je vous accorde le rang d'artisan. Continuez à perfectionner vos compétences, et qui sait jusqu'où vous pourrez aller.${prompt}
+  7152: '${lettercase: 1}${keyitem-singular: 0[2]} est une merveilleuse nouvelle méthode de forgeage qui vous permet d’enchanter les métaux avec l’énergie mystérieuse de la magie noire et de l’anima.${prompt}'
+  7153: '${lettercase: 1}${keyitem-singular: 0[2]} est une merveilleuse nouvelle méthode de forgeage qui vous permet d’enchanter les métaux avec l’énergie mystérieuse de la magie blanche et de l’anima.${prompt}'
+  7154: Il a été porté à mon attention que vous avez atteint le statut d'artisan dans une autre guilde.${prompt}
+  7155: Bien que j’admets qu'il est toujours sage d'élargir ses horizons, je ne peux pas recommander ce choix que vous avez fait.${prompt}
+  7156: Si vous souhaitez vraiment suivre le chemin du maître-forgeron, vous devez rester concentré dans vos études. Le statut d'artisan dans d'autres guildes ne fera que empoisonner votre esprit et vous égarer. Cependant, le choix vous revient...${prompt}
   7157: |-
-    Revoke all other craftsman statuses?
+    Révoquer tous les autres statuts d'artisan ?
     ${selection-lines}
-    Immediately.
-    Not just yet.${prompt}
+    Immédiatement.
+    Pas tout de suite.${prompt}
   7158: |-
     I knew you would make the correct decision.
     Now return to your training. I shall contact the other guildmasters to inform them of your decision.${prompt}
