@@ -18897,25 +18897,25 @@ entries:
   7984: |-
     And this is the place where I first arrived in Aht Urhgan.
     The beginning of my new life, I guess you could say...${prompt}
-  7985: There I go again...babbling like a rookie back from his first battle.${prompt}
-  7986: Come to think of it, you're awful patient for a mercenary.${prompt}
-  7987: I bet you can't wait to jump back into the thick of things!${prompt}
-  7988: Gahahahaha!${prompt}
-  7989: The door is locked...${prompt}
-  7990: Your Imperial Standing has increased!${prompt}
-  7991: 'If you wish to ride a chocobo, you must possess ${keyitem-article: 7[2]} and have a high enough job level.${prompt}'
-  7992: 'You can rent a chocobo for ${number: 0} gil. I see you currently have ${number: 1} gil.${prompt}'
-  7993: You can rent a chocobo, but because your level is so low, you won't be able to ride for very long. Also, equipment that extends your riding time will have no effect.${prompt}
-  7994: 'If you still want one, it will cost you ${number: 0} gil. I see you currently have ${number: 1} gil.${prompt}'
+  7985: Encore une fois, je bavarde comme une recrue de retour de son premier combat.${prompt}
+  7986: En y repensant, tu es drôlement patient pour un mercenaire.${prompt}
+  7987: Je parie que tu as hâte de retourner au cœur de l'action !${prompt}
+  7988: Gahahahaha !${prompt}
+  7989: La porte est verrouillée...${prompt}
+  7990: Votre Statut Impérial a augmenté !${prompt}
+  7991: 'Si vous souhaitez monter un chocobo, vous devez posséder ${keyitem-article: 7[2]} et avoir un niveau de métier suffisamment élevé.${prompt}'
+  7992: 'Vous pouvez louer un chocobo pour ${number: 0} gil. Je vois que vous avez actuellement ${number: 1} gil.${prompt}'
+  7993: Vous pouvez louer un chocobo, mais comme votre niveau est si bas, vous ne pourrez pas monter très longtemps. De plus, l'équipement qui prolonge le temps de chevauchée n'aura aucun effet.${prompt}
+  7994: 'Si vous en voulez toujours un, cela vous coûtera ${number: 0} gil. Je vois que vous avez actuellement ${number: 1} gil.${prompt}'
   7995: |-
-    Do you wish to rent a chocobo?
+    Souhaitez-vous louer un chocobo ?
     ${selection-lines}
-    Yes, I do.
-    No, thank you.${prompt}
-  7996: You don't have enough gil.${prompt}
+    Oui, je le veux.
+    Non, merci.${prompt}
+  7996: Vous n'avez pas assez de gil.${prompt}
   7997: |-
-    You cannot obtain the ${item-singular: 0[2]}.
-    Come back after sorting your inventory.${prompt}
+    Vous ne pouvez pas obtenir le ${item-singular: 0[2]}.
+    Revenez après avoir trié votre inventaire.${prompt}
   7998: 'Would you be so kind as to deliver her to ${choice: 3}[the entrance to the Gustav Tunnel (B-8)/Bibiki Bay (G-10)/the entrance of Uggalepih Temple (J-11)]?${prompt}'
   7999: |-
     Only those fulfilling both requirements set forth by the alliance may ride a chocobo.
