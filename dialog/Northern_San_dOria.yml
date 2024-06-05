@@ -17526,34 +17526,34 @@ entries:
   7110: |-
     And yet, let it not be said that we carpenters hold grudges.
     Should you decide to return to the path of the hammer and nail, our doors will be open for you.${prompt}
-  7111: This is the Blacksmiths' Guild, where skilled weapon and armorsmiths gather. Without us, a proud knight is but a paper tiger. Well, what is it, then?${prompt}
-  7112: Aha! A Bastok spy, are you? Many secrets we hold dear, and pigs will fly before I surrender them!${prompt}
-  7113: Bah, another adventurer... Devotion to our craft is in short supply of late. Here!${prompt}
-  7114: I'm sure you know, but that is a crystal, filled with incredible energy. No, not like blood; it is more akin to a block of coal.${prompt}
-  7115: You can synthesize crystals to make all sorts of things. Focus your will upon it, bring forth the heat, and transform the materials.${prompt}
-  7116: But not me! I'm not fond of using them; they're costly, and the process finishes too quickly. Yes, toil is what makes things dear!${prompt}
-  7117: Go and ask the others what materials to use. And, though it pains me to say it, you may learn much about smithing by visiting Bastok.${prompt}
-  7118: You still have much to learn. Even our newest apprentices are a step ahead of you.${prompt}
-  7119: You think you've reached the top? Your head is still in the clouds, young adventurer. Even I am still climbing...${prompt}
-  7120: 'I believe you are ready to move on to the next rank. Craft me ${article} ${item-article: 0[2]}.${prompt}'
-  7121: Finish a quality piece, and I will teach you more.${prompt}
-  7122: 'Hmm... Well, not bad. I shall promote you to the rank of ${choice: 7}[amateur/recruit/initiate/novice/apprentice]. Do not rest, for the road ahead is long.${prompt}'
-  7123: Yes... This will do. I hereby award you the rank of journeyman. Congratulations. We have high hopes for you.${prompt}
-  7124: Why, bless my bellows! A work of art, indeed! You shall henceforth be addressed as artisan. May you live up to that name.${prompt}
-  7125: Unbelievable that a mere adventurer like you could forge such fine steel. Reminds me of when I was your age...${prompt}
-  7126: I...I'm at a loss for words. You've more than proven yourself as a veteran of the Blacksmiths' Guild! Why, you're almost as good as I was when I was your age...almost.${prompt}
-  7127: Can't you see I'm busy? We are up to our ears in work these days!${prompt}
-  7128: No, you should try it on your own.${prompt}
-  7129: Oh, I'm sorry. The guildmaster is displeased when we give help for free. “A friend is but a competitor,” he likes to say.${prompt}
-  7130: All right. Close your eyes, and focus on the craft.${prompt}
-  7131: 'Hmm... Well, I''d recommend someone of your skill to try crafting ${item-plural: 0[2]}. Here''s what you''ll need:${prompt}'
-  7132: Did you get that? Remember, our guildmaster is strict, but behind his grim face lies joy at seeing new apprentices. Come back any time, friend!${prompt}
+  7111: C'est la Guilde des Forgerons, où des forgerons habiles en armes et en armures se rassemblent. Sans nous, un fier chevalier n'est qu'un tigre de papier. Eh bien, que puis-je faire pour vous ?${prompt}
+  7112: Ahaha ! Un espion de Bastok, n'est-ce pas ? Nous détenons de nombreux secrets précieux, et les cochons voleront avant que je ne les livre !${prompt}
+  7113: Bah, encore un aventurier... La dévotion envers notre métier se fait rare ces jours-ci. Tenez !${prompt}
+  7114: Je suis sûr que vous le savez, mais c'est un cristal, rempli d'une énergie incroyable. Non, pas comme du sang ; c'est plus semblable à un bloc de charbon.${prompt}
+  7115: Vous pouvez synthétiser des cristaux pour fabriquer toutes sortes de choses. Concentrez votre volonté dessus, faites monter la chaleur et transformez les matériaux.${prompt}
+  7116: Mais pas moi ! Je n'aime pas les utiliser ; ils sont coûteux et le processus se termine trop rapidement. Oui, c'est le travail qui rend les choses précieuses !${prompt}
+  7117: Allez demander aux autres quels matériaux utiliser. Et, bien que cela me fasse mal de le dire, vous pourriez apprendre beaucoup sur la forge en visitant Bastok.${prompt}
+  7118: Vous avez encore beaucoup à apprendre. Même nos nouveaux apprentis sont un pas en avant par rapport à vous.${prompt}
+  7119: Vous pensez avoir atteint le sommet ? Votre tête est encore dans les nuages, jeune aventurier. Même moi, je suis toujours en train de grimper...${prompt}
+  7120: "Je pense que vous êtes prêt à passer au rang suivant. Fabriquez-moi ${article} ${item-article: 0[2]}.${prompt}"
+  7121: Terminez une pièce de qualité, et je vous enseignerai davantage.${prompt}
+  7122: "Hmm... Pas mal. Je vous promeus au rang de ${choice: 7}[amateur/recrue/initié/novice/apprenti]. Ne vous reposez pas, car le chemin à parcourir est long.${prompt}"
+  7123: Oui... Cela fera l'affaire. Je vous décerne ici le rang de compagnon. Félicitations. Nous avons de grands espoirs en vous.${prompt}
+  7124: Par les soufflets de ma forge ! Une œuvre d'art, en effet ! Vous serez désormais appelé artisan. Puissiez-vous être à la hauteur de ce nom.${prompt}
+  7125: Incroyable qu'un simple aventurier comme vous puisse forger un acier si fin. Cela me rappelle quand j'avais votre âge...${prompt}
+  7126: Je... je suis sans voix. Vous avez largement prouvé votre valeur en tant que vétéran de la Guilde des Forgerons ! Pourquoi, vous êtes presque aussi bon que moi quand j'avais votre âge... presque.${prompt}
+  7127: Ne voyez-vous pas que je suis occupé ? Nous sommes débordés de travail ces jours-ci !${prompt}
+  7128: Non, vous devriez essayer par vous-même.${prompt}
+  7129: Oh, je suis désolé. Le maître de guilde est mécontent lorsque nous donnons de l'aide gratuitement. "Un ami n'est qu'un concurrent", aime-t-il dire.${prompt}
+  7130: Très bien. Fermez les yeux et concentrez-vous sur l'artisanat.${prompt}
+  7131: "Hmm... Eh bien, je recommanderais à quelqu'un de votre niveau d'essayer de fabriquer ${item-plural: 0[2]}. Voici ce dont vous aurez besoin :${prompt}"
+  7132: Avez-vous compris ? Rappelez-vous, notre maître de guilde est strict, mais derrière son visage sévère se cache la joie de voir de nouveaux apprentis. Revenez quand vous voulez, mon ami !${prompt}
   7133: |-
-    Clang-clong! All the day long!♪
-    We work by the forge and pound blades strong!♪${prompt}
-  7134: Why, hello! You look awfully weary!${prompt}
-  7135: Money makes the world go round. Yes, it does!♪${prompt}
-  7136: Okay! Take a deep breath and believe in yourself!${prompt}
+    Clang-clong ! Toute la journée !♪
+    Nous travaillons à la forge et martelons des lames solides !♪${prompt}
+  7134: Bonjour ! Vous avez l'air terriblement fatigué !${prompt}
+  7135: L'argent fait tourner le monde. Oui, il le fait !♪${prompt}
+  7136: D'accord ! Respirez profondément et croyez en vous !${prompt}
   7137: |-
     That's right! That's right!♪
     ${lettercase: 1}${article} ${item-article: 0[2]} would be a pretty sight!♪${prompt}
