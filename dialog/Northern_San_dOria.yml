@@ -25588,54 +25588,54 @@ entries:
   12401: test07${prompt}
   12402: test08${prompt}
   12403: test09${prompt}
-  12404: You are returning it to me? Why, thank you! Now I can go fishing with my friends!${prompt}
-  12405: But please do not pity my father. He is kind sometimes.${prompt}
-  12406: Oh, when will my father take me fishing...${prompt}
-  12407: Thank you for the fishing rod! By the way, there is something else I wish to ask of you.${prompt}
-  12408: Would you please do me this favor?${prompt}
-  12409: 'I need ${keyitem-article: 0[2]} from Ordelle''s Caves. I must have it in order to sharpen a certain sword.${prompt}'
+  12404: Vous me le rendez ? Merci beaucoup ! Maintenant, je peux aller pêcher avec mes amis !${prompt}
+  12405: Mais ne plaignez pas mon père. Il est gentil parfois.${prompt}
+  12406: Oh, quand mon père m'emmènera-t-il pêcher...${prompt}
+  12407: Merci pour la canne à pêche ! D'ailleurs, j'ai une autre faveur à vous demander.${prompt}
+  12408: Pourriez-vous me rendre ce service ?${prompt}
+  12409: 'J’ai besoin de ${keyitem-article: 0[2]} des Grottes d’Ordelle. Je dois l’avoir pour aiguiser une certaine épée.${prompt}'
   12410: |-
-    What do you say?
+    Qu'en dites-vous ?
     ${selection-lines}
-    I'll do my best.
-    I can't right now.${prompt}
-  12411: Wonderful! I wish I could tell you where it could be found. Try asking someone who often sharpens blades.${prompt}
-  12412: That is all right. I have troubled you enough. Perhaps I will ask someone else.${prompt}
-  12413: 'I wish I could tell you where ${keyitem-article: 0[2]} is inside the caves. Try asking someone who often sharpens blades.${prompt}'
-  12414: Thank you. Here, this is for you. I snatched it from my father's chest. He won't notice if one goes missing. And besides, I'll be sharpening this blade for him!${prompt}
-  12415: Good day. You are becoming quite a knight!${prompt}
-  12416: Hello, Ailbeche. How fare you?${prompt}
-  12417: Why, hello, Vilbert!${prompt}
-  12418: You've returned from smiting Orcs, haven't you? Please, tell me of your adventures!${prompt}
-  12419: I am sorry, Ailbeche. First I must rest, for I am weary. And who is this? You seem to be a knight, like me.${prompt}
-  12420: Yes. ${choice-player-gender}[He/She] went to great lengths to help me while you were away.${prompt}
-  12421: Is that so?${prompt}
-  12422: Many apologies! I am Vilbert, substitute to Captain Exoroche of the Royal Knights. Allow me to express my thanks for watching over Ailbeche.${prompt}
-  12423: Vilbert is in the same division as my father.${prompt}
-  12424: Since Captain Exoroche has fallen ill, I was given temporary command of his division.${prompt}
-  12425: Strange, that is... My father is well.${prompt}
-  12426: At any rate, Vilbert is a great swordsman. He last won second place at the tournament!${prompt}
-  12427: Well, I attribute that to luck, nothing more.${prompt}
-  12428: Hey!${prompt}
-  12429: Greetings, Zarnei-Hamnei. What is it?${prompt}
-  12430: I hear you got yourself a fishing rod! Now we'll take you with us to fish for the big one!${prompt}
-  12431: Truly? I begged a thousand times, yet always the answer was no.${prompt}
-  12432: Yeah, of course. On one condition...${prompt}
-  12433: Condition?${prompt}
-  12434: 'Yeah. You have to bring ${article} ${item-article: 0[2]}.${prompt}'
-  12435: 'What? You ask the impossible! How is a child like me supposed to catch ${article} ${item-article: 0[2]}?${prompt}'
-  12436: Well, duh. Just ask your dad. He's a captain of the Royal Knights, after all.${prompt}
-  12437: I don't know...${prompt}
-  12438: Well, see you later! You'd better have it when I come back or I'm not gonna take you!${prompt}
-  12439: Is the big one really that big?${prompt}
-  12440: Of course! They say he often swallows pieces of treasure. We won't stop until he is ours!${prompt}
-  12441: But therein lies a secret. We'll never tell where he bites, lest others catch him first!${prompt}
-  12442: 'Well, the legends speak of a brave knight who once slew a great fish, and gained the treasure it had consumed. Ailbeche, you should ask your father for help with ${article} ${item-article: 0[2]}.${prompt}'
-  12443: Oh, yes. You are right. I shall ask him.${prompt}
-  12444: Right. Well, I must go report to Prince Trion, then. Ailbeche, I shall see you again once I am rested.${prompt}
-  12445: It was an honor to meet you, ${choice-player-gender}[sir/madam]. Farewell.${prompt}
-  12446: Wow, someday I wish to be a knight like him!${prompt}
-  12447: Say, you are a knight, aren't you? Do you not want to catch the great fish of legend for its treasure?${prompt}
+    Je ferai de mon mieux.
+    Pas maintenant.${prompt}
+  12411: Merveilleux ! J'aimerais pouvoir vous dire où il se trouve. Essayez de demander à quelqu'un qui aiguise souvent des lames.${prompt}
+  12412: Ce n'est pas grave. Je vous ai déjà assez dérangé. Peut-être que je demanderai à quelqu'un d'autre.${prompt}
+  12413: 'J’aimerais pouvoir vous dire où se trouve ${keyitem-article: 0[2]} dans les grottes. Essayez de demander à quelqu’un qui aiguise souvent des lames.${prompt}'
+  12414: Merci. Tenez, ceci est pour vous. Je l’ai pris dans le coffre de mon père. Il ne remarquera pas s’il en manque un. Et puis, je vais aiguiser cette lame pour lui !${prompt}
+  12415: Bonjour. Vous devenez un vrai chevalier !${prompt}
+  12416: Bonjour, Ailbeche. Comment allez-vous ?${prompt}
+  12417: Pourquoi, bonjour, Vilbert !${prompt}
+  12418: Vous revenez d'avoir combattu des Orcs, n'est-ce pas ? S'il vous plaît, racontez-moi vos aventures !${prompt}
+  12419: Je suis désolé, Ailbeche. Je dois d'abord me reposer, car je suis fatigué. Et qui est-ce ? Vous semblez être un chevalier, comme moi.${prompt}
+  12420: Oui. ${choice-player-gender}[Il/Elle] a fait beaucoup pour m'aider pendant votre absence.${prompt}
+  12421: Vraiment ?${prompt}
+  12422: Mes excuses ! Je suis Vilbert, remplaçant du Capitaine Exoroche des Chevaliers Royaux. Permettez-moi de vous remercier d'avoir veillé sur Ailbeche.${prompt}
+  12423: Vilbert est dans la même division que mon père.${prompt}
+  12424: Comme le Capitaine Exoroche est tombé malade, on m'a confié temporairement le commandement de sa division.${prompt}
+  12425: C'est étrange... Mon père va bien.${prompt}
+  12426: En tout cas, Vilbert est un excellent épéiste. Il a obtenu la deuxième place au dernier tournoi !${prompt}
+  12427: Eh bien, je l'attribue à la chance, rien de plus.${prompt}
+  12428: Hé !${prompt}
+  12429: Bonjour, Zarnei-Hamnei. Qu'y a-t-il ?${prompt}
+  12430: J'ai entendu dire que vous avez une canne à pêche ! Maintenant, nous vous emmènerons pêcher le grand poisson !${prompt}
+  12431: Vraiment ? J'ai supplié mille fois, mais toujours la réponse était non.${prompt}
+  12432: Oui, bien sûr. À une condition...${prompt}
+  12433: Condition ?${prompt}
+  12434: 'Oui. Vous devez apporter ${article} ${item-article: 0[2]}.${prompt}'
+  12435: 'Quoi ? Vous demandez l’impossible ! Comment un enfant comme moi est-il censé attraper ${article} ${item-article: 0[2]}?${prompt}'
+  12436: Eh bien, duh. Demandez simplement à votre père. Après tout, il est capitaine des Chevaliers Royaux.${prompt}
+  12437: Je ne sais pas...${prompt}
+  12438: Bon, à plus tard ! Vous feriez mieux de l'avoir quand je reviendrai, sinon je ne vous emmènerai pas !${prompt}
+  12439: Le grand poisson est-il vraiment si grand ?${prompt}
+  12440: Bien sûr ! On dit qu'il avale souvent des morceaux de trésor. Nous n'arrêterons pas jusqu'à ce qu'il soit à nous !${prompt}
+  12441: Mais il y a un secret là-dedans. Nous ne dirons jamais où il mord, de peur que d'autres le capturent en premier !${prompt}
+  12442: 'Eh bien, les légendes parlent d’un brave chevalier qui a autrefois tué un grand poisson et a obtenu le trésor qu’il avait consommé. Ailbeche, vous devriez demander à votre père de vous aider avec ${article} ${item-article: 0[2]}.${prompt}'
+  12443: Oh, oui. Vous avez raison. Je vais lui demander.${prompt}
+  12444: D'accord. Eh bien, je dois aller faire mon rapport au Prince Trion, alors. Ailbeche, je vous reverrai une fois reposé.${prompt}
+  12445: Ce fut un honneur de vous rencontrer, ${choice-player-gender}[monsieur/madame]. Adieu.${prompt}
+  12446: Wow, un jour je souhaite être un chevalier comme lui !${prompt}
+  12447: Dites, vous êtes un chevalier, n'est-ce pas ? Ne voulez-vous pas attraper le grand poisson de légende pour son trésor ?${prompt}
   12448: |-
     Want to catch the big one?
     ${selection-lines}
