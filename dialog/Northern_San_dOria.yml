@@ -25136,56 +25136,56 @@ entries:
   12065: 　${prompt}
   12066: PAUSE${prompt}
   12067: '${number: 1}${prompt}'
-  12068: If you seek the Blackmiths' Guild, you will find it right down those stairs. Take your time. You wouldn't want to fall, now, would you?${prompt}
-  12069: Hm? You want me to read this letter?${prompt}
-  12070: My, what a predicament he has got himself into.${prompt}
-  12071: I wondered why I had not seen much of my friend Rauteinot these days, but to think he was traveling around Kazham...${prompt}
-  12072: 'This ${item-singular: 1[2]} that he has also sent... Very interesting, it is. It is perfect for carving a statue of the Goddess.${prompt}'
-  12073: With Rauteinot out in the wilderness risking his life for the cathedral, trying my hand at this statue is the least I could do.${prompt}
-  12074: Then let us waste not time and carve a statue worthy of the Goddess.${prompt}
-  12075: Patience! Patience! Even one such as I needs time to carve a statue worthy of Altana.${prompt}
-  12076: Patience! Patience! Patience is what guided me to carve such a beautiful statue.${prompt}
-  12077: However, I still cannot see how me making this sculpture can be of any assistance to my friend Rauteinot...${prompt}
-  12078: Here. I entrust this statue to you.${prompt}
-  12079: I know not whether you believe in the Goddess of the Dawn, but I trust you will handle her image carefully.${prompt}
-  12080: I know not whether you believe in the Goddess of the Dawn, but I trust you will handle her image carefully.${prompt}
-  12081: But how can carving some sculpture possibly help Rauteinot?${prompt}
-  12082: Hmm... With magic, I could get hold of materials a mite easier. I'll have to check this “mart” out.${prompt}
-  12083: A flyer? For me? Some reading material would be a welcome change of pace, indeed!${prompt}
-  12084: Opening a shop of magic, without consulting me first? I must pay this Regine a visit!${prompt}
-  12085: Magic could be of use on my journey to Paradise. Thank you so much!${prompt}
-  12086: Your flyer is accepted!${prompt}
-  12087: This person already has a flyer.${prompt}
-  12088: F-Father... How could you!${prompt}
-  12089: There's something foul in the air of late. Can you not feel it? I must get some charms to ward away this wickedness.${prompt}
-  12090: 'To make such charms I need ${item-count: 1[2]} ${item-given-plurality: 1[2], 0[2]}! Might you bring me some?${prompt}'
-  12091: 'I need ${number: 1} more ${item-given-plurality: 1[2], 0[2]}! Please, give me any you find!${prompt}'
+  12068: Si vous cherchez la Guilde des Forgerons, vous la trouverez juste en bas de ces escaliers. Prenez votre temps. Vous ne voudriez pas tomber, n'est-ce pas ?${prompt}
+  12069: Hm ? Vous voulez que je lise cette lettre ?${prompt}
+  12070: Eh bien, dans quel pétrin il s'est mis.${prompt}
+  12071: Je me demandais pourquoi je n'avais pas beaucoup vu mon ami Rauteinot ces derniers temps, mais penser qu'il voyageait autour de Kazham...${prompt}
+  12072: 'Ce ${item-singular: 1[2]} qu’il a également envoyé... Très intéressant, en effet. C’est parfait pour sculpter une statue de la Déesse.${prompt}'
+  12073: Avec Rauteinot dans la nature risquant sa vie pour la cathédrale, essayer de sculpter cette statue est le moins que je puisse faire.${prompt}
+  12074: Alors ne perdons pas de temps et sculptons une statue digne de la Déesse.${prompt}
+  12075: Patience ! Patience ! Même quelqu'un comme moi a besoin de temps pour sculpter une statue digne d'Altana.${prompt}
+  12076: Patience ! Patience ! C'est la patience qui m'a guidé pour sculpter une si belle statue.${prompt}
+  12077: Cependant, je ne vois toujours pas comment faire cette sculpture peut aider mon ami Rauteinot...${prompt}
+  12078: Ici. Je vous confie cette statue.${prompt}
+  12079: Je ne sais pas si vous croyez en la Déesse de l'Aube, mais je vous fais confiance pour manipuler son image avec soin.${prompt}
+  12080: Je ne sais pas si vous croyez en la Déesse de l'Aube, mais je vous fais confiance pour manipuler son image avec soin.${prompt}
+  12081: Mais comment sculpter une statue peut-il aider Rauteinot ?${prompt}
+  12082: Hmm... Avec la magie, je pourrais me procurer des matériaux un peu plus facilement. Je dois vérifier ce "marché".${prompt}
+  12083: Un flyer ? Pour moi ? Un peu de lecture serait un changement bienvenu, en effet !${prompt}
+  12084: Ouvrir une boutique de magie, sans me consulter d'abord ? Je dois rendre visite à cette Régine !${prompt}
+  12085: La magie pourrait être utile pour mon voyage vers le Paradis. Merci beaucoup !${prompt}
+  12086: Votre flyer est accepté !${prompt} 
+  12087: Cette personne a déjà un flyer.${prompt}
+  12088: P-Père... Comment as-tu pu !${prompt}
+  12089: Il y a quelque chose de mauvais dans l'air ces derniers temps. Ne le ressentez-vous pas ? Je dois obtenir des charmes pour éloigner cette malveillance.${prompt}
+  12090: 'Pour faire de tels charmes, j’ai besoin de ${item-count: 1[2]} ${item-given-plurality: 1[2], 0[2]} ! Pourriez-vous m’en apporter ?${prompt}'
+  12091: 'Il me faut encore ${number: 1} ${item-given-plurality: 1[2], 0[2]} ! S’il vous plaît, donnez-moi tout ce que vous trouverez !${prompt}'
   12092: |-
-    How about it?
+    Alors, qu'en dites-vous ?
     ${selection-lines}
-    I'll do it.
-    I'll pass.${prompt}
-  12093: 'I am in your debt! I need them to ward away darkness, you know! Remember, that''s ${item-count: 1[2]} ${item-given-plurality: 1[2], 0[2]}!${prompt}'
-  12094: Very well. But still the darkness draws closer... I must do something!${prompt}
-  12095: 'Remember, I need ${item-count: 1[2]} ${item-given-plurality: 1[2], 0[2]}! Make haste!${prompt}'
-  12096: Thank you! This should hold the darkness at bay...if only for a while. Bring more, if you can.${prompt}
-  12097: There's a guard in the dungeon of Chateau d'Oraguille. Have you heard what they say of him?${prompt}
-  12098: They say he's a vampire! He dwells there perhaps to hide from the light. And there's plenty of adventurers to suck fresh blood from!${prompt}
-  12099: 'I have been eating ${item-plural: 0[2]} just to be safe. You don''t think you could bring me ${number: 1}, could you? I''ll pay!${prompt}'
-  12100: 'I still seek ${number: 1} ${item-given-plurality: 1[2], 0[2]}! I cannot seem to get enough!${prompt}'
+    Je le ferai.
+    Je passe.${prompt}
+  12093: 'Je vous suis redevable ! J’en ai besoin pour éloigner les ténèbres, vous savez ! N’oubliez pas, c’est ${item-count: 1[2]} ${item-given-plurality: 1[2], 0[2]} !${prompt}'
+  12094: Très bien. Mais les ténèbres se rapprochent encore... Je dois faire quelque chose !${prompt}
+  12095: 'N’oubliez pas, j’ai besoin de ${item-count: 1[2]} ${item-given-plurality: 1[2], 0[2]} ! Dépêchez-vous !${prompt}'
+  12096: Merci ! Cela devrait repousser les ténèbres... si ce n’est que pour un moment. Apportez-en plus, si vous le pouvez.${prompt}
+  12097: Il y a un garde dans le donjon du Château d'Oraguille. Avez-vous entendu ce qu'on dit de lui ?${prompt}
+  12098: On dit que c'est un vampire ! Il habite là peut-être pour se cacher de la lumière. Et il y a plein d'aventuriers pour sucer du sang frais !${prompt}
+  12099: 'Je mange des ${item-plural: 0[2]} juste pour être sûr. Vous ne pensez pas pouvoir m’apporter ${number: 1}, n’est-ce pas ? Je paierai !${prompt}'
+  12100: 'Je cherche toujours ${number: 1} ${item-given-plurality: 1[2], 0[2]} ! Je n’arrive pas à en avoir assez !${prompt}'
   12101: |-
-    Accept his request?
+    Accepter sa demande ?
     ${selection-lines}
-    Sure.
-    No, thanks.${prompt}
-  12102: What a relief! Eh? My breath a little strong for you? Well, I'll take halitosis over blood-sucking vampires any day!${prompt}
-  12103: Pity. I'll just hope to catch you later when you're not so “busy.”${prompt}
-  12104: 'Those Orcish cursemakers in Davoi carry ${item-plural: 0[2]} sometimes. They use it as an ingredient for their spells, I hear.${prompt}'
-  12105: Ah! I can't thank you enough. Here, take this... What, my breath? It's not that bad, is it?${prompt}
-  12106: Vana'diel is abuzz with “Adventurer Appreciation” fever, kupo!${prompt}
+    Bien sûr.
+    Non, merci.${prompt}
+  12102: Quel soulagement ! Hein ? Mon haleine est un peu forte pour vous ? Eh bien, je préfère l'halitose aux vampires suceurs de sang n'importe quel jour !${prompt}
+  12103: Dommage. J'espère juste vous attraper plus tard quand vous ne serez pas si “occupé”.${prompt}
+  12104: 'Ces faiseurs de malédictions orques à Davoi portent parfois des ${item-plural: 0[2]}. Ils l’utilisent comme ingrédient pour leurs sorts, j’ai entendu dire.${prompt}'
+  12105: Ah ! Je ne vous remercierai jamais assez. Tenez, prenez ça... Quoi, mon haleine ? Ce n'est pas si mal, n'est-ce pas ?${prompt}
+  12106: Vana'diel est en ébullition avec la fièvre de “l'Appréciation des Aventuriers”, kupo !${prompt}
   12107: |-
-    We moogles have prepared some nice little goodies and gathered lots of top-secret information on adventurer activity, kupo!
-    Let me check my journal for your statistical data...${prompt}
+    Nous, les mogs, avons préparé de jolis petits cadeaux et rassemblé beaucoup d'informations top secrètes sur les activités des aventuriers, kupo !
+    Laissez-moi vérifier mon journal pour vos données statistiques...${prompt}
   12108: |-
     Chat Frequency: ${number: 0}
     Conversations With NPCs: ${number: 1}
