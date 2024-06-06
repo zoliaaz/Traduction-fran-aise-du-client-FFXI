@@ -25385,102 +25385,102 @@ entries:
   12169: |-
     Hrm?
     Hmmm...
-    I need a little time alone to think...
-    Would you mind coming back a little later, kupo?${prompt}
+    J'ai besoin d'un peu de temps seul pour réfléchir...
+    Pourrais-tu revenir un peu plus tard, kupo ?${prompt}
   12170: |-
     0:${number: 0}     4:${number: 4}
     1:${number: 1}     5:${number: 5}
     2:${number: 2}     6:${number: 6}
     3:${number: 3}     7:${number: 7}
   12171: |-
-    I had a feeling that's what you'd say, kupo!
-    Well, Maat? How about it?${prompt}
-  12172: We stand on the cusp of a new era. It's the Goddess-given duty of an old warrior like me to prepare the younger generation to follow in my footsteps. And who better than a young ${choice-player-gender}[man/woman] who's met every challenge sent ${choice-player-gender}[his/her] way?${prompt}
-  12173: You can say that again, my friend!${prompt}
-  12174: No doubt you've heard of the mog tablets--those stone slabs engraved with the timeless wisdom of King Kupofried the Great that have been popping up periodically throughout the land.${prompt}
+    Je m'en doutais, kupo !
+    Alors, Maat ? Qu'en dis-tu ?${prompt}
+  12172: Nous sommes sur le point de basculer dans une nouvelle ère. C'est le devoir donné par la Déesse à un vieux guerrier comme moi de préparer la jeune génération à suivre mes pas. Et qui de mieux qu'un jeune ${choice-player-gender}[homme/femme] qui a relevé tous les défis envoyés ${choice-player-gender}[à lui/à elle] ?${prompt}
+  12173: Tu peux le dire, mon ami !${prompt}
+  12174: Tu as sans doute entendu parler des tablettes mog--ces dalles de pierre gravées de la sagesse intemporelle du Grand Roi Kupofried qui apparaissent périodiquement à travers le pays.${prompt}
   12175: |-
-    The tablets hold many secrets that we moogles have yet to unravel, kupo.
-    Why are our wings purple? Why are our noses red? How can we better assist our adventuring friends?${prompt}
-  12176: Why, I was just having a discussion with a friend of mine from the Magian Mooglehood on the very subject... That's when it hit me on the head like a herd of hecteyes!${prompt}
-  12177: What if the ancient moogle arts could be used to augment not only adventurers' possessions, but the adventurers themselves, kupo!?${prompt}
+    Les tablettes renferment de nombreux secrets que nous, les mogs, n'avons pas encore dévoilés, kupo.
+    Pourquoi nos ailes sont-elles violettes ? Pourquoi nos nez sont-ils rouges ? Comment pouvons-nous mieux aider nos amis aventuriers ?${prompt}
+  12176: J'étais justement en train de discuter avec un ami du Magian Mooglehood sur ce sujet... C'est là que l'idée m'a frappé comme un troupeau d'hecteyes !${prompt}
+  12177: Et si les anciens arts mogs pouvaient être utilisés non seulement pour augmenter les possessions des aventuriers, mais aussi les aventuriers eux-mêmes, kupo !?${prompt}
   12178: |-
-    Using my knowledge of merit points--and drawing upon the martial mastery of Maat here--I've whipped up a method that just might work!
-    What say you, adventurer? Care to be my test subject?${prompt}
+    En utilisant mes connaissances en points de mérite--et en m'appuyant sur la maîtrise martiale de Maat ici présent--j'ai élaboré une méthode qui pourrait bien fonctionner !
+    Qu'en dis-tu, aventurier ? Veux-tu être mon cobaye ?${prompt}
   12179: |-
-    'Course, nobody'd blame you for not trustin' the little devil.
-    I'm not even sure I do. Heh heh heh...${prompt}
+    Bien sûr, personne ne te blâmerait de ne pas faire confiance à ce petit diable.
+    Je ne suis même pas sûr de le faire. Heh heh heh...${prompt}
   12180: |-
-    Is an adventurer who would spurn greater strength truly an adventurer?
-    Come, now! What have you got to lose, kupo?${prompt}
+    Un aventurier qui refuserait une force plus grande est-il vraiment un aventurier ?
+    Allez, maintenant ! Qu'as-tu à perdre, kupo ?${prompt}
   12181: |-
-    Give it a go, kupo?
+    Tu veux essayer, kupo ?
     ${selection-lines}
-    Will I ever!
-    Not today.${prompt}
+    Bien sûr !
+    Pas aujourd'hui.${prompt}
   12182: |-
-    Marvelous! Magnificent!
-    First, I'll need you to bring me ${number: 1} ${item-given-plurality: 1[2], 0[2]}.${prompt}
+    Merveilleux ! Magnifique !
+    Tout d'abord, j'aurai besoin que tu me rapportes ${number: 1} ${item-given-plurality: 1[2], 0[2]}.${prompt}
   12183: |-
-    They're needed to channel the ancient moogle magic, you see.
-    You'll also have to accumulate ${number: 0} merit point${choice-plurality: 0}[/s] to provide the necessary energy to trigger the reaction, kupo.${prompt}
+    Ils sont nécessaires pour canaliser la magie mog ancienne, tu vois.
+    Tu devras aussi accumuler ${number: 0} point${choice-plurality: 0} de mérite pour fournir l'énergie nécessaire pour déclencher la réaction, kupo.${prompt}
   12184: |-
-    I'll be sittin' this one out, I fear.
-    I may have mastered the martial arts, but I know better than to get mixed up with moogle mumbo-jumbo. Heh heh heh...
-    Now go get 'em!${prompt}
+    Je vais passer mon tour sur celui-là, j'ai peur.
+    J'ai peut-être maîtrisé les arts martiaux, mais je sais qu'il vaut mieux ne pas se mêler de la magie mog. Heh heh heh...
+    Allez, va les chercher !${prompt}
   12185: |-
-    Say it ain't so, kupo!
-    Ah, but it is not a moogle's place to question the judgment of an accomplished adventurer such as yourself.
-    Come back if you ever have a change of heart.${prompt}
-  12186: 'Have you acquired the ${number: 1} ${item-given-plurality: 1[2], 0[2]} and ${number: 2} merit point${choice-plurality: 2}[/s] needed to transcend your limits, kupo?${prompt}'
+    Dis pas ça, kupo !
+    Ah, mais ce n'est pas à un mog de remettre en question le jugement d'un aventurier accompli comme toi.
+    Reviens si tu as un jour un changement d'avis.${prompt}
+  12186: 'As-tu acquis les ${number: 1} ${item-given-plurality: 1[2], 0[2]} et les ${number: 2} point${choice-plurality: 2} de mérite nécessaires pour transcender tes limites, kupo ?${prompt}'
   12187: |-
-    If so, then trade me the ${number: 1} ${item-given-plurality: 1[2], 0[2]} and we'll be on our way!
-    My wings are aflutter with anticipation!${prompt}
-  12188: Or did you just drop by to hear about merit points, kupo?${prompt}
-  12189: 'The ancient moogle incantation requires ${number: 1} ${item-given-plurality: 1[2], 0[2]} and ${number: 2} merit point${choice-plurality: 2}[/s], kupo.${prompt}'
+    Si c'est le cas, alors échange-moi les ${number: 1} ${item-given-plurality: 1[2], 0[2]} et nous serons en route !
+    Mes ailes frémissent d'impatience !${prompt}
+  12188: Ou êtes-vous simplement venu pour entendre parler des points de mérite, kupo?${prompt}
+  12189: 'L’incantation moogle ancienne nécessite ${number: 1} ${item-given-plurality: 1[2], 0[2]} et ${number: 2} point${choice-plurality: 2} de mérite[/s], kupo.${prompt}'
   12190: |-
-    Spectacular! Stupendous! Let's get started, shall we?
-    If you'll just excuse me for a moment, kupo...${prompt}
+    Spectaculaire ! Stupéfiant ! Commençons, n'est-ce pas ?
+    Si vous voulez bien m'excuser un instant, kupo...${prompt}
   12191: |-
-    Yoo-hoooooo! Mister Magian Moogle man!
-    Yes, you! Over here!${prompt}
+    Hé-ho ! Monsieur Moogle magien !
+    Oui, vous ! Par ici !${prompt}
   12192: |-
-    What is it this time?
-    And you'd do well to adopt a more courteous tone when addressing your elders, kupo...${prompt}
+    Que se passe-t-il cette fois-ci ?
+    Et vous feriez bien d'adopter un ton plus courtois en vous adressant à vos aînés, kupo...${prompt}
   12193: |-
-    I'd call you by your proper name if you'd actually tell anyone what it is!
-    But nooo, the Magian Mooglehood must ever be shrouded in secrecy, kupo...${prompt}
-  12194: You would make mock of the wisdom of your forefathers, kupo!?${prompt}
-  12195: (I've a mind to ku-pound the both of them into the next millennium if they don't settle down...)${prompt}
-  12196: Anyhow, if you would just crouch down right here, kupo...${prompt}
-  12197: <Mumble, grumble>... I am ready, kupo.${prompt}
+    Je vous appellerais par votre vrai nom si vous disiez à quelqu'un ce que c'est vraiment !
+    Mais non, la Confrérie Moogle doit toujours être enveloppée de secret, kupo...${prompt}
+  12194: Vous moqueriez-vous de la sagesse de vos ancêtres, kupo ?${prompt}
+  12195: (J'ai l'esprit à les écraser tous les deux dans le prochain millénaire s'ils ne se calment pas...)${prompt}
+  12196: En tout cas, si vous voulez bien vous accroupir ici, kupo...${prompt}
+  12197: <Marmonnement, grognement>... Je suis prêt, kupo.${prompt}
   12198: |-
-    Excellent! Our magian friend here will fire a potent dose of moogle magic directly at you.
-    All you have to do, my dear adventurer, is stay alive! Easy breezy, wouldn't you say, kupo?${prompt}
-  12199: Now, kupo!
-  12200: (This is reckless even for these moogles. Sends a shiver up my spine, it does...)${prompt}
-  12201: '${color-alt: 15}${name-player} feels a sudden surge of power well up from the pit of ${choice-player-gender}[his/her] stomach, coursing through ${choice-player-gender}[his/her] veins and limbs...!'
-  12202: Kupo-ho! It would seem the procedure has gone off precisely as we predicted!${prompt}
-  12203: That it has, kupo. I must say, the sheer stamina of these adventurers never ceases to astound me.${prompt}
+    Excellent ! Notre ami magien ici lancera une dose puissante de magie moogle directement sur vous.
+    Tout ce que vous avez à faire, mon cher aventurier, c'est de rester en vie ! Facile, n'est-ce pas, kupo ?${prompt}
+  12199: Maintenant, kupo !
+  12200: (C'est imprudent même pour ces moogles. Cela me donne des frissons dans le dos...)${prompt}
+  12201: '${color-alt: 15}${name-player} ressent une soudaine montée de puissance remonter du fond de ${choice-player-gender}[son/her] estomac, parcourant ${choice-player-gender}[ses/her] veines et membres...!'
+  12202: Kupo-ho ! Il semblerait que la procédure se soit déroulée exactement comme nous l'avions prévu !${prompt}
+  12203: C'est le cas, kupo. Je dois dire que la pure endurance de ces aventuriers ne cesse de m'étonner.${prompt}
   12204: |-
-    My friend, you've been the perfect test subject...<ahem>...I mean, you are clearly an ideal heir for the powers of the moogle ancients.
-    Should our research bear further fruit, you shall be among the first to know!${prompt}
+    Mon ami, vous avez été le parfait sujet de test...<hem>...Je veux dire, vous êtes clairement un héritier idéal pour les pouvoirs des anciens moogles.
+    Si nos recherches portent leurs fruits, vous serez parmi les premiers à le savoir !${prompt}
   12205: |-
-    But why are you still standing around here?
-    There's a whole new world waiting for you to explore, kupo!${prompt}
-  12206: Your level limit is now 80!
+    Mais pourquoi restez-vous encore là ?
+    Un tout nouveau monde vous attend à explorer, kupo !${prompt}
+  12206: Votre limite de niveau est maintenant de 80 !
   12207: |-
-    Let me guess, kupo.
-    You have caught word of my latest miraculous method for padding the already-puissant powers of adventurers like yourself.${prompt}
-  12208: Yes, the positively esurient expression on your face tells me all I need know.${prompt}
-  12209: Is there no point at which your penchant for power will be sated, kupo?${prompt}
-  12210: It cannot be easy, walking around as a veritable avatar of avarice and avidity.${prompt}
+    Permettez-moi de deviner, kupo.
+    Vous avez entendu parler de ma dernière méthode miraculeuse pour renforcer les pouvoirs déjà puissants des aventuriers comme vous.${prompt}
+  12208: Oui, l'expression positivement esuriente sur votre visage me dit tout ce que j'ai besoin de savoir.${prompt}
+  12209: Y a-t-il un moment où votre penchant pour le pouvoir sera satisfait, kupo ?${prompt}
+  12210: Cela ne doit pas être facile, se promener comme un véritable avatar de l'avidité et de l'avidité.${prompt}
   12211: |-
-    Still, I've taken a liking to your kind, kupo.
-    And since you were such a wonderful guinea pig last time, I'd be positively elated to experiment upon you again!${prompt}
+    Cela dit, j'ai pris goût à votre genre, kupo.
+    Et puisque vous avez été un si merveilleux cobaye la dernière fois, je serais positivement ravi de vous expérimenter à nouveau !${prompt}
   12212: |-
-    That said, I must warn you that I'm still working out some of the kinks.
-    I can give you no guarantees this time.${prompt}
-  12213: That is to say, don't come crying to me if your level of strength ends up plunging precipitously, kupo!${prompt}
+    Cela dit, je dois vous prévenir que je suis encore en train de régler certains détails.
+    Je ne peux vous donner aucune garantie cette fois-ci.${prompt}
+  12213: Autrement dit, ne venez pas pleurer si votre niveau de force finit par chuter précipitamment, kupo !${prompt}
   12214: Are you still keen for the challenge?${prompt}
   12215: |-
     Give it a go, kupo?
