@@ -16370,7 +16370,7 @@ entries:
     Point de retour #5${choice: 5}[/ (M)/ (A)/ (E)].${prompt}
   6657: Vous n'avez pas encore enregistré d'autres points de retour, et vous ne pouvez donc pas vous téléporter.${prompt}
   6658: 'Le coût pour vous téléporter au Point de retour #${number: 2} dans ${zone: 1[2]} est de ${number: 3} gils.'
-  6659: "Il n'y a pas de frais pour vous téléporter au Point de retour #${number: 2} dans ${zone: 1[2]}."
+  6659: 'Il n''y a pas de frais pour vous téléporter au Point de retour #${number: 2} dans ${zone: 1[2]}.'
   6660: |-
     Téléporter ? (Gils actuels : ${number: 0})
     ${selection-lines}
@@ -16427,7 +16427,7 @@ entries:
     Mon paramètre actuel.
     Sélection par région.
     Sélection par extension.${prompt}
-  6665: "Vous sélectionnez désormais par ${choice: 1}[région/extension]."
+  6665: 'Vous sélectionnez désormais par ${choice: 1}[région/extension].'
   6666: |-
     Téléporter où ?
     ${selection-lines}
@@ -17486,27 +17486,27 @@ entries:
     ${selection-lines}
     Sure, show me.
     No, thanks.${prompt}
-  7094: You're in Port Jeuno.${prompt}
+  7094: Vous êtes à Port Jeuno.${prompt}
   7095: |-
-    Your ${keyitem-singular: 0[2]} have been confiscated.
-    You are temporarily suspended from boarding airships in Jeuno.${prompt}
-  7096: Hey, stop right there!${prompt}
-  7097: You are in possession of contraband! I'm sorry, but you'll have to surrender all prohibited goods!${prompt}
-  7098: Regulations also force me to temporarily revoke your airship privileges. Don't let this kind of thing happen again.${prompt}
-  7099: 'You have cleared customs.${wait-animation: 0}${prompt}'
-  7100: I'm sorry, but your boarding rights have been temporarily revoked. Have a nice day.${prompt}
-  7101: Welcome to Port Jeuno, the busiest airship hub anywhere! You can't miss the awe-inspiring view of airships in flight!${prompt}
-  7102: 'You can board with ${keyitem-article: 7[2]} from the Chamber of Commerce and Industry in Lower Jeuno, but they''re prohibitively expensive.${prompt}'
-  7103: I've heard the archduke issues them now and then, but the chances of getting one that way are slim.${prompt}
-  7104: Port Jeuno must remain secure. After all, if anything happened to the archduke, it would change the world!${prompt}
-  7105: Have you ever flown on an airship? I'm sure you'll be amazed. With the clouds at your feet, you feel like a soaring eagle.${prompt}
-  7106: All of the struggle and toil down below seem petty from such lofty heights. Oh, how I wish we were born with wings!${prompt}
-  7107: Somebody just tried to smuggle in some contraband. You should watch out for scum like that.${prompt}
-  7108: What could those smugglers be thinking? I know the penalties are light, but it's such a careless thing to do.${prompt}
-  7109: If someone's in need, I'll gladly sign.${prompt}
-  7110: Best of luck with the petition. I'll cheer you on from the shadows.${prompt}
-  7111: The petition is complete.${prompt}
-  7112: 'You have ${number: 0} more ${choice-plurality: 0}[signature/signatures] to go.${prompt}'
+    Vos ${keyitem-singular: 0[2]} ont été confisqués.
+    Vous êtes temporairement suspendu(e) de l'embarquement sur les dirigeables à Jeuno.${prompt}
+  7096: Hé, arrêtez-vous là !${prompt}
+  7097: Vous êtes en possession de marchandises de contrebande ! Je suis désolé, mais vous devrez abandonner tous les biens interdits !${prompt}
+  7098: Les réglementations m'obligent également à révoquer temporairement vos privilèges d'embarquement sur les dirigeables. Ne laissez pas ce genre de chose se reproduire.${prompt}
+  7099: 'Vous avez passé la douane.${wait-animation: 0}${prompt}'
+  7100: Je suis désolé, mais vos droits d'embarquement ont été temporairement révoqués. Passez une bonne journée.${prompt}
+  7101: Bienvenue à Port Jeuno, le plus fréquenté des hubs de dirigeables ! Vous ne pouvez pas manquer la vue impressionnante des dirigeables en vol !${prompt}
+  7102: 'Vous pouvez embarquer avec ${keyitem-article: 7[2]} de la Chambre de Commerce et de l’Industrie à Basse Jeuno, mais ils sont prohibitivement chers.${prompt}'
+  7103: J'ai entendu dire que l’archiduc en distribue de temps en temps, mais les chances d’en obtenir ainsi sont minces.${prompt} 
+  7104: Port Jeuno doit rester sécurisé. Après tout, si quelque chose arrivait à l'archiduc, cela changerait le monde !${prompt}
+  7105: Avez-vous déjà volé sur un dirigeable ? Je suis sûr que vous serez émerveillé. Avec les nuages à vos pieds, vous vous sentez comme un aigle qui plane.${prompt}
+  7106: Toute la lutte et la peine en bas semblent mesquines depuis de telles hauteurs. Oh, comme je voudrais que nous soyons nés avec des ailes !${prompt}
+  7107: Quelqu'un vient d'essayer de faire passer de la contrebande. Vous devriez vous méfier de cette racaille.${prompt}
+  7108: Que peuvent bien penser ces contrebandiers ? Je sais que les sanctions sont légères, mais c'est une chose si imprudente à faire.${prompt}
+  7109: Si quelqu'un a besoin d'aide, je signerai volontiers.${prompt}
+  7110: Bonne chance avec la pétition. Je vous encouragerai depuis l'ombre.${prompt}
+  7111: La pétition est terminée.${prompt}
+  7112: 'Il vous reste ${number: 0} ${choice-plurality: 0}[signature/signatures] à obtenir.${prompt}'
   7113: |-
     Master, Master!
     I have a favor to ask, kupo!${prompt}
