@@ -3,14 +3,14 @@ entries:
   1: combat à mains nues
   2: dague
   3: épée
-  4: grande épée
+  4: épée longue
   5: hache
   6: grande hache
   7: faux
   8: lance
   9: katana
   10: grand katana
-  11: massue
+  11: masse
   12: bâton
   13: (Arme 12)
   14: (Arme 11)
@@ -21,39 +21,39 @@ entries:
   19: (Arme 6)
   20: (Arme 5)
   21: (Arme 4)
-  22: attaque d'automate
-  23: tir à l'arc d'automate
-  24: magie d'automate
-  25: tir à l'arc
+  22: automate de mêlée
+  23: automate d'archerie
+  24: automate magique 
+  25: archerie
   26: tir
   27: lancer
   28: garde
-  29: esquive
+  29: évasion
   30: bouclier
   31: parade
-  32: magie divine
+  32: magie divine 
   33: magie curative
   34: magie d'amélioration
-  35: magie d'affaiblissement
+  35: magie d'altération
   36: magie élémentaire
   37: magie noire
-  38: invocation magique
+  38: magie d'invocation
   39: ninjutsu
   40: chant
   41: instrument à cordes
   42: instrument à vent
   43: magie bleue
   44: géomancie
-  45: cloche à main
+  45: clochette
   46: (Magie 2)
   47: (Magie 1)
-  48: pêche 
-  49: travail du bois
-  50: forgeage
+  48: pêche
+  49: menuiserie
+  50: forge
   51: orfèvrerie
-  52: confection de tissu
+  52: couture
   53: travail du cuir
-  54: sculpture osseuse
+  54: travail des os
   55: alchimie
   56: cuisine
   57: synergie
@@ -63,14 +63,14 @@ entries:
   61: (Synthèse 3)
   62: (Synthèse 2)
   63: (Synthèse 1)
-  64: trop faible pour être utile
+  64: trop faible pour être intéressant
   65: comme une proie incroyablement facile
   66: comme une proie facile
-  67: comme un défi décent
-  68: comme une égalité
-  69: coriace
-  70: très coriace
-  71: incroyablement coriace
+  67: comme un défi correct
+  68: comme un match équilibré
+  69: difficile
+  70: très difficile
+  71: incroyablement difficile
   72: '#72'
   73: '#73'
   74: '#74'
@@ -126,4 +126,4 @@ entries:
   124: '#124'
   125: '#125'
   126: '#126'
-  127: Probabilité de libération de liaison
+  127: Probabilité de Libération d'Entrave
