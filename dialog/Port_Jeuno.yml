@@ -17400,92 +17400,92 @@ entries:
     Level 75 Scholar.${prompt}
   7029: You have no achievements to unlock.${prompt}
   7030: |-
-    Up: Lower Jeuno (${selection-lines}
-    facing Bastok)
-    Down: Qufim Island${prompt}
-  7031: Hello. All goods are duty-free.${prompt}
-  7032: Good day!${prompt}
-  7033: Hello there.${prompt}
-  7034: Fresh produce from Sarutabaruta!${prompt}
-  7035: I've got goods from Kolshushu.${prompt}
-  7036: Zulkheim imports are always on sale!${prompt}
-  7037: We're globetrotting for our stamp rally! I never rode on airships before. It was so awesome!${prompt}
-  7038: You know, stamp rallies are only for kids. Grown-ups can't play, only kids can!${prompt}
-  7039: 'Kids love the ${keyitem-singular: 0[2]} and stamp rallies more than anything! And don''t you forget it!${prompt}'
-  7040: I rode an airship here for the first time, and I feel rotten! Ugh... I wanna go home.${prompt}
-  7041: I used up all the barf baskets they had. How am I supposed to make it home?${prompt}
-  7042: Wow! Jeuno's a nice town, just like the postcards! I wanna live here when I grow up.${prompt}
-  7043: 'Did you guys hear? This grown-up said ${choice-player-gender}[he/she] wanted ${keyitem-article: 1[2]}! Hahaha!${prompt}'
-  7044: 'Who cares? Even grown-ups want ${keyitem-article: 1[2]}.${prompt}'
-  7045: I took a number and stood in line, but they ran out, right before my eyes.${prompt}
-  7046: Hmm... Yeah, that kind of thing's known to happen. Well, you don't leave me much choice. I have an extra one, so I'll let you have it.${prompt}
-  7047: Wait... You had two this whole time? Aww, you could've at least offered me one!${prompt}
-  7048: 'But I won''t give it away for nothing. Let''s see... I need something from Jeuno to take home, so get me ${article} ${item-article: 0[2]} and it''s yours.${prompt}'
-  7049: Well, it's not like I have a choice! You are just going to give it to Melina, aren't you? Scoundrel!${prompt}
-  7050: Wha... How'd you guess?${prompt}
-  7051: You can't hide anything from a woman!${prompt}
-  7052: 'Well, at any rate... I''ll trade you my ${keyitem-singular: 1[2]} for ${article} ${item-article: 0[2]}. Better get moving before I change my mind!${prompt}'
-  7053: I wanted it, too. If I only had that, I wouldn't have had to...${prompt}
-  7054: 'I heard you can find ${article} ${item-article: 0[2]} somewhere around Castle Oztroja.${prompt}'
-  7055: 'Whoa, it''s a real ${item-singular: 0[2]}! Okay, here''s your ${keyitem-singular: 1[2]}. And don''t come back saying you want to return it!${prompt}'
-  7056: You're off to Delkfutt's Tower, eh? You be careful, now.${prompt}
-  7057: You're off to Delkfutt's Tower, eh?${prompt}
+    Haut : Lower Jeuno (${selection-lines}
+    face à Bastok)
+    Bas : Île de Qufim${prompt}
+  7031: Bonjour. Tous les biens sont en franchise de droits.${prompt}
+  7032: Bonjour !${prompt}
+  7033: Salut.${prompt}
+  7034: Produits frais de Sarutabaruta !${prompt}
+  7035: J'ai des marchandises de Kolshushu.${prompt}
+  7036: Les importations de Zulkheim sont toujours en solde !${prompt}
+  7037: Nous faisons le tour du monde pour notre rallye de tampons ! Je n'avais jamais voyagé en dirigeable avant. C'était génial !${prompt}
+  7038: Tu sais, les rallyes de tampons sont réservés aux enfants. Les adultes ne peuvent pas jouer, seuls les enfants le peuvent !${prompt}
+  7039: 'Les enfants adorent les ${keyitem-singular: 0[2]} et les rallyes de tampons plus que tout ! Et ne l’oubliez pas !${prompt}'
+  7040: J'ai pris un dirigeable pour la première fois et je me sens mal ! Beurk... Je veux rentrer chez moi.${prompt}
+  7041: J'ai utilisé tous les sacs à vomi qu'ils avaient. Comment suis-je censé rentrer chez moi ?${prompt}
+  7042: Waouh ! Jeuno est une belle ville, juste comme sur les cartes postales ! Je veux vivre ici quand je serai grand.${prompt}
+  7043: 'Vous avez entendu ? Cet adulte a dit qu’il voulait ${keyitem-article: 1[2]} ! Hahaha !${prompt}'
+  7044: 'Qui s’en soucie ? Même les adultes veulent ${keyitem-article: 1[2]}.${prompt}'
+  7045: J’ai pris un numéro et je me suis mis en ligne, mais ils sont partis, juste devant mes yeux.${prompt}
+  7046: Hmm... Ouais, ce genre de chose arrive. Bon, tu ne me laisses pas beaucoup de choix. J'en ai un de plus, donc je te le laisse.${prompt}
+  7047: Attends... Tu en avais deux tout ce temps ? Oh, tu aurais au moins pu m'en proposer un !${prompt}
+  7048: 'Mais je ne le donnerai pas pour rien. Voyons voir... J’ai besoin de quelque chose de Jeuno à ramener chez moi, alors trouve-moi ${article} ${item-article: 0[2]} et il est à toi.${prompt}'
+  7049: Eh bien, ce n'est pas comme si j'avais le choix ! Tu vas juste le donner à Melina, n'est-ce pas ? Scélérat !${prompt}
+  7050: Quoi... Comment as-tu deviné ?${prompt}
+  7051: On ne peut rien cacher à une femme !${prompt}
+  7052: 'Eh bien, en tout cas... Je te donne mon ${keyitem-singular: 1[2]} en échange de ${article} ${item-article: 0[2]}. Fais vite avant que je change d’avis !${prompt}'
+  7053: Je le voulais aussi. Si seulement j'avais ça, je n'aurais pas eu à...${prompt}
+  7054: 'J’ai entendu dire que vous pouvez trouver ${article} ${item-article: 0[2]} quelque part près du château d’Oztroja.${prompt}'
+  7055: 'Whoa, c’est un vrai ${item-singular: 0[2]} ! Ok, voici ton ${keyitem-singular: 1[2]}. Et ne reviens pas en disant que tu veux le retourner !${prompt}'
+  7056: Tu pars pour la Tour de Delkfutt, hein ? Sois prudent.${prompt}
+  7057: Tu pars pour la Tour de Delkfutt, hein ?${prompt}
   7058: |-
-    Are you going to Delkfutt's Tower?
+    Vas-tu à la Tour de Delkfutt ?
     ${selection-lines}
-    That's right.
-    No, I'm not.${prompt}
-  7059: Oh? My mistake, then.${prompt}
-  7060: It's so confusing with all the portals and trap doors in there. Ain't no walk in the park, ${choice-player-gender}[sonny/kiddo]!${prompt}
-  7061: 'But it''s smooth sailing with this here ${keyitem-singular: 7[2]}. I dug it up at the book fair the other day.${prompt}'
-  7062: 'It''s just another piece of paper to me, so... I know! I''ll trade you ${article} ${item-article: 6[2]} for it! Yeah, I love antiquities.${prompt}'
+    C'est exact.
+    Non, pas maintenant.${prompt}
+  7059: Ah ? Je me suis trompé alors.${prompt}
+  7060: C'est tellement confus avec tous les portails et les trappes là-dedans. Ce n'est pas une partie de plaisir, ${choice-player-gender}[mon p'tit/vieux] !${prompt}
+  7061: 'Mais c’est facile avec ce ${keyitem-singular: 7[2]} que j’ai déniché à la foire aux livres l’autre jour.${prompt}'
+  7062: 'C’est juste un morceau de papier pour moi, alors... Je sais ! Je te l’échange contre ${article} ${item-article: 6[2]} ! Ouais, j’adore les antiquités.${prompt}'
   7063: |-
-    Will you bring me ${article} ${item-article: 6[2]}?
+    M'apporteras-tu ${article} ${item-article: 6[2]} ?
     ${selection-lines}
-    I'll try.
-    Not now.${prompt}
-  7064: 'Super! Hurry back with ${article} ${item-article: 6[2]}! And be careful!${prompt}'
-  7065: Oh yeah? Well, it's your loss, ${choice-player-gender}[pal/sister].${prompt}
-  7066: 'Look, just bring me ${article} ${item-article: 6[2]}. And be careful, too.${prompt}'
-  7067: Tread carefully, and don't forget to check the map!${prompt}
-  7068: Well, this is just super! Alrighty, here's the goods.${prompt}
-  7069: 'Oh, you''ve already got ${keyitem-article: 0[2]}? Then take this as thanks for appeasing the collector in me.${prompt}'
-  7070: This underground tunnel leads to the island of Qufim. Everyone is advised to stay out. But of course you adventurers never listen.${prompt}
-  7071: This flight is bound for the frontiers. This route has been indefinitely postponed due to safety concerns.${prompt}
-  7072: We apologize for the inconvenience. Expect further announcements once the route is declared safe.${prompt}
-  7073: It seems the flight to the frontier is out of service.${prompt}
-  7074: 'The flight bound for ${choice: 3}[San d''Oria/Bastok/Windurst/Kazham] will ${choice: 2}[arrive/depart] in ${choice: 4}[less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours] (${number: 1} ${choice-plurality: 1}[minute/minutes] in Earth time).${prompt}'
-  7075: 'The flight bound for ${choice: 3}[San d''Oria/Bastok/Windurst/Kazham] is now ${choice: 2}[arriving/departing].${prompt}'
-  7076: With the airships connecting Jeuno with the three nations, the flow of goods has become much more consistent. Nowadays, everything comes through Jeuno!${prompt}
-  7077: Of course, Jeuno is situated smack-dab in the middle of the three, so this town was destined to grow and prosper.${prompt}
-  7078: I think the airships are a subtle form of pressure on the other three nations. That way, Jeuno can maintain the current balance of power.${prompt}
-  7079: Nobody would want to upset the masters of such advanced technology, would they? Nope, can't blame Jeuno for keeping the secrets of airship-building to itself.${prompt}
-  7080: 'This leads to departures. You''ll need ${keyitem-article: 1[2]} and ${number: 0} gil to board.${prompt}'
-  7081: This is the departures exit. You can't go out this way. Try the next door, please.${prompt}
-  7082: 'This leads to departures. You''ll need ${number: 7} gil to board a flight.${prompt}'
+    Je vais essayer.
+    Pas maintenant.${prompt}
+  7064: 'Super ! Reviens vite avec ${article} ${item-article: 6[2]} ! Et fais attention !${prompt}'
+  7065: Ah ouais ? Eh bien, tant pis pour toi, ${choice-player-gender}[pote/p'tite] !${prompt}
+  7066: 'Écoute, apporte-moi juste ${article} ${item-article: 6[2]}. Et fais attention, aussi.${prompt}'
+  7067: Marche prudemment et n'oublie pas de consulter la carte !${prompt}
+  7068: Eh bien, c'est juste super ! Bon, voilà les marchandises.${prompt}
+  7069: 'Oh, tu as déjà ${keyitem-article: 0[2]} ? Alors prends ça en remerciement d’avoir satisfait le collectionneur en moi.${prompt}'
+  7070: Ce tunnel souterrain mène à l'île de Qufim. Il est conseillé à tout le monde de rester à l'écart. Mais bien sûr, vous, les aventuriers, n'écoutez jamais.${prompt}
+  7071: Ce vol est à destination des frontières. Cette route a été reportée indéfiniment en raison de problèmes de sécurité.${prompt}
+  7072: Nous nous excusons pour la gêne occasionnée. Attendez-vous à de nouvelles annonces une fois que la route sera déclarée sûre.${prompt}
+  7073: Il semble que le vol vers les frontières soit hors service.${prompt}
+  7074: 'Le vol à destination de ${choice: 3}[San d''Oria/Bastok/Windurst/Kazham] ${choice: 2}[arrivera/partira] dans ${choice: 4}[moins d’une heure/environs 1 heure/environs 2 heures/environs 3 heures/environs 4 heures/environs 5 heures/environs 6 heures/environs 7 heures] (${number: 1} ${choice-plurality: 1}[minute/minutes] en heure terrestre).${prompt}'
+  7075: 'Le vol à destination de ${choice: 3}[San d''Oria/Bastok/Windurst/Kazham] ${choice: 2}[arrive/part].${prompt}'
+  7076: Avec les dirigeables reliant Jeuno aux trois nations, le flux de marchandises est devenu beaucoup plus régulier. De nos jours, tout passe par Jeuno !${prompt}
+  7077: Bien sûr, Jeuno est située en plein milieu des trois, donc cette ville était destinée à croître et prospérer.${prompt}
+  7078: Je pense que les dirigeables sont une forme subtile de pression sur les trois autres nations. Ainsi, Jeuno peut maintenir l’équilibre actuel du pouvoir.${prompt}
+  7079: Personne ne voudrait contrarier les maîtres d'une technologie aussi avancée, n’est-ce pas ? Non, on ne peut pas reprocher à Jeuno de garder les secrets de la construction des dirigeables pour elle-même.${prompt}
+  7080: 'Cela mène aux départs. Vous aurez besoin de ${keyitem-article: 1[2]} et de ${number: 0} gils pour monter à bord.${prompt}'
+  7081: C'est la sortie des départs. Vous ne pouvez pas sortir par là. Essayez la porte suivante, s’il vous plaît.${prompt}
+  7082: 'Cela mène aux départs. Vous aurez besoin de ${number: 7} gils pour monter à bord d’un vol.${prompt}'
   7083: |-
-    Pay ${number: 7} gil and head through?
+    Paie ${number: 7} gils et passe ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  7084: This is the arrivals exit. The entrance to departures is next door.${prompt}
-  7085: Once you go through customs, you'll have to pay to come back on board. Is that all right?${prompt}
+    Oui.
+    Non.${prompt}
+  7084: C'est la sortie des arrivées. L'entrée des départs est à côté.${prompt}
+  7085: Une fois que vous aurez passé la douane, vous devrez payer pour remonter à bord. Cela vous convient-il ?${prompt}
   7086: |-
-    Proceed to the air travel agency?
+    Aller à l'agence de voyage aérien ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  7087: Have a safe flight!${prompt}
-  7088: Enjoy your stay in Jeuno!${prompt}
-  7089: I can't believe those boats without wings can fly. I'll never ride on such a thing, so I walk everywhere.${prompt}
-  7090: I'm sure they're a fine way to get around, but the whole concept seems fake to me.${prompt}
-  7091: I lost my ticket, and now I can't get on board. It takes so long to get a new one! I hope you never have to go through this.${prompt}
-  7092: Would you care to see a map of Jeuno?${prompt}
+    Oui.
+    Non.${prompt}
+  7087: Bon vol !${prompt}
+  7088: Profitez bien de votre séjour à Jeuno !${prompt}
+  7089: Je n'arrive pas à croire que ces bateaux sans ailes puissent voler. Je ne monterai jamais là-dedans, alors je marche partout.${prompt}
+  7090: Je suis sûr que c'est un bon moyen de se déplacer, mais tout ce concept me semble faux.${prompt}
+  7091: J'ai perdu mon billet, et maintenant je ne peux pas monter à bord. Ça prend tellement de temps pour en obtenir un nouveau ! J'espère que vous n'aurez jamais à vivre ça.${prompt}
+  7092: Voulez-vous voir une carte de Jeuno ?${prompt}
   7093: |-
-    What do you say?
+    Que dites-vous ?
     ${selection-lines}
-    Sure, show me.
-    No, thanks.${prompt}
+    Oui, montre-moi.
+    Non, merci.${prompt}
   7094: Vous êtes à Port Jeuno.${prompt}
   7095: |-
     Vos ${keyitem-singular: 0[2]} ont été confisqués.
@@ -17771,77 +17771,77 @@ entries:
   7302: test07${prompt}
   7303: test08${prompt}
   7304: test09${prompt}
-  7305: You find a grimy old box.${prompt}
-  7306: You wish to consign an order with me?${prompt}
+  7305: Vous trouvez une vieille boîte poussiéreuse.${prompt}
+  7306: Vous souhaitez me confier une commande ?${prompt}
   7307: |-
-    Consign an order?
+    Confier une commande ?
     ${selection-lines}
-    Yes.
-    No, thanks.${prompt}
-  7308: 'Very well. Bring ${keyitem-article: 0[2]} from Castle Zvahl. Leave them and those gauntlets inside my toolbox, and I shall restore the gauntlets.${prompt}'
-  7309: My work is finished.${prompt}
-  7310: What, you have something you want appraised? I mean, seriously! These days everyone says they find treasures in the auction. Nonsense, all of it!${prompt}
-  7311: See, within antiques sleep spirits of the past! Search carefully or you'll awaken their slumber!${prompt}
-  7312: If you're ready, show me your item and I'll start the appraisal.${prompt}
+    Oui.
+    Non, merci.${prompt}
+  7308: 'Très bien. Apportez ${keyitem-article: 0[2]} du château Zvahl. Laissez-les ainsi que ces gantelets dans ma boîte à outils, et je restaurerai les gantelets.${prompt}'
+  7309: Mon travail est terminé.${prompt}
+  7310: Quoi, vous avez quelque chose à faire évaluer ? Je veux dire, sérieusement ! De nos jours, tout le monde dit trouver des trésors aux enchères. Des bêtises, tout ça !${prompt}
+  7311: Voyez-vous, à l'intérieur des antiquités dorment des esprits du passé ! Cherchez bien, sinon vous les réveillerez de leur sommeil !${prompt}
+  7312: Si vous êtes prêt, montrez-moi votre objet et je commencerai l'évaluation.${prompt}
   7313: |-
-    Are you ready?
+    Êtes-vous prêt ?
     ${selection-lines}
-    You bet.
-    Uh, give me a moment.${prompt}
-  7314: Very well. Let's see it!${prompt}
-  7315: Why, this is quite an old ring. And the years have not been kind! Look, I've found an inscription.${prompt}
-  7316: Hmm... No, I can't make it out. It's too much for the Goldsmiths' Guild. You'll need to bury it in perennial snow to wash away the filth!${prompt}
-  7317: Deep inside Xarcabard lies a snow untouched for a thousand years. Take your ring, bury it there to clean the grime, and come back here.${prompt}
-  7318: That's fine. I'm sure your antique would appreciate the privacy.${prompt}
-  7319: What? You still thinking about that antique ring?${prompt}
-  7320: Well, look at this! Clean as a whistle! Now, let's see what we can see...${prompt}
-  7321: Say, this is written in the elder script of San d'Oria. It's a fine ring, but I wonder what it says...${prompt}
-  7322: I suggest you take it to someone of respectable age in Chateau d'Oraguille.${prompt}
-  7323: Can't give it a price till you know its value, as we say in the business!${prompt}
-  7324: Take the ring to a person of respectable age in Chateau d'Oraguille. Can't give it a price till you know its value, as we say in the business!${prompt}
-  7325: Hello there, ${choice-player-gender}[sir/madam]. I've got a very fine item. Would you like to have a look?${prompt}
-  7326: It's no regular glass bead! Why, this particular item has a monster trapped inside!${prompt}
-  7327: Apparently, this monster has swallowed a treasure! And as long as it remains inside this ball, there's no way to get it out, right? Wrong!${prompt}
-  7328: I was told that the monster can be released by tossing it into burning circles and strange doorways located around Vana'diel.${prompt}
-  7329: What do you say? I've still got lots of them!${prompt}
-  7330: 'Give me ${number: 2} ${item-plural: 0[2]} and I''ll give you ${article} ${item-article: 1[2]}. Give me ${number: 4} of them for ${article} ${item-article: 3[2]}. Or, give me ${number: 6}, and I''ll let you have one of these ${item-plural: 5[2]}. What a deal, huh?${prompt}'
-  7331: 'For just ${number: 1} ${item-plural: 0[2]}, I''ll trade you ${article} ${item-article: 2[2]}, ${article} ${item-article: 3[2]}, or ${article} ${item-article: 4[2]}. You''d be crazy to pass this offer up!${prompt}'
+    Vous pouvez parier.
+    Euh, donnez-moi un moment.${prompt}
+  7314: Très bien. Montrez-le moi !${prompt}
+  7315: Mais c'est un anneau très ancien. Et les années n'ont pas été tendres ! Regardez, j'ai trouvé une inscription.${prompt}
+  7316: Hmm... Non, je n'arrive pas à la déchiffrer. C'est trop pour la Guilde des Orfèvres. Vous devrez l'enterrer dans la neige éternelle pour laver la crasse !${prompt}
+  7317: Au fin fond de Xarcabard se trouve une neige intacte depuis mille ans. Prenez votre anneau, enterrez-le là-bas pour nettoyer la saleté, et revenez ici.${prompt}
+  7318: C'est bien. Je suis sûr que votre antiquité appréciera l'intimité.${prompt}
+  7319: Quoi ? Vous pensez encore à cet anneau ancien ?${prompt}
+  7320: Eh bien, regardez ça ! Propre comme un sou neuf ! Maintenant, voyons ce que nous pouvons voir...${prompt}
+  7321: Dites donc, c'est écrit dans l'ancien script de San d'Oria. C'est un bel anneau, mais je me demande ce que ça dit...${prompt}
+  7322: Je vous suggère de l'apporter à quelqu'un d'un âge respectable au Château d'Oraguille.${prompt}
+  7323: On ne peut pas lui donner de prix tant que vous ne connaissez pas sa valeur, comme on dit dans le métier !${prompt}
+  7324: Apportez l'anneau à une personne d'un âge respectable au Château d'Oraguille. On ne peut pas lui donner de prix tant que vous ne connaissez pas sa valeur, comme on dit dans le métier !${prompt}
+  7325: Bonjour, ${choice-player-gender}[monsieur/madame]. J'ai un objet très fin. Voulez-vous jeter un coup d'œil ?${prompt}
+  7326: Ce n'est pas une simple perle en verre ! Cette pièce particulière renferme un monstre à l'intérieur !${prompt}
+  7327: Apparemment, ce monstre a avalé un trésor ! Et tant qu'il restera à l'intérieur de cette balle, il n'y aura aucun moyen de le sortir, n'est-ce pas ? Faux !${prompt}
+  7328: On m'a dit que le monstre peut être libéré en le jetant dans des cercles enflammés et des portes étranges situés à travers Vana'diel.${prompt}
+  7329: Qu'en dites-vous ? J'en ai encore plein !${prompt}
+  7330: 'Donnez-moi ${number: 2} ${item-plural: 0[2]} et je vous donnerai ${article} ${item-article: 1[2]}. Donnez-moi-en ${number: 4} pour ${article} ${item-article: 3[2]}. Ou, donnez-moi-en ${number: 6}, et je vous laisserai en prendre une de ces ${item-plural: 5[2]}. Quel marché, hein ?${prompt}'
+  7331: 'Pour seulement ${number: 1} ${item-plural: 0[2]}, je vous échangerai ${article} ${item-article: 2[2]}, ${article} ${item-article: 3[2]}, ou ${article} ${item-article: 4[2]}. Vous seriez fou de laisser passer cette offre !${prompt}'
   7332: |-
-    And how about ${number: 1} ${item-plural: 0[2]} for ${article} ${item-article: 2[2]}, ${number: 3} for ${article} ${item-article: 4[2]}, or ${number: 5} ${item-plural: 7[2]} for ${article} ${item-article: 6[2]}?
-    You won't be able to find a better price on goods like these anywhere in Vana'diel!${prompt}
+    Et que diriez-vous de ${number: 1} ${item-plural: 0[2]} pour ${article} ${item-article: 2[2]}, ${number: 3} pour ${article} ${item-article: 4[2]}, ou ${number: 5} ${item-plural: 7[2]} pour ${article} ${item-article: 6[2]} ?
+    Vous ne trouverez pas de meilleur prix sur des marchandises comme celles-ci n'importe où dans Vana'diel !${prompt}
   7333: |-
-    Oh ho, and what's this?
-    ${lettercase: 1}${article} ${item-article: 2[2]} for ${number: 1} ${item-given-plurality: 1[2], 0[2]} or ${article} ${item-article: 4[2]} for ${number: 3} of them.
-    Why, these items are so brand-spankin' new, I didn't even know I had them!${prompt}
+    Oh là là, et qu'est-ce que c'est ?
+    ${lettercase: 1}${article} ${item-article: 2[2]} pour ${number: 1} ${item-given-plurality: 1[2], 0[2]} ou ${article} ${item-article: 4[2]} pour ${number: 3} d'entre eux.
+    Mais ces articles sont tellement flambant neufs que je ne savais même pas que je les avais !${prompt}
   7334: |-
-    Whoa there, friend! Walk away now and you'll miss the best part!
-    Haha, that's right! This is a special offer for my favorite customer!${prompt}
+    Hé là, mon ami ! Partez maintenant et vous manquerez la meilleure partie !
+    Haha, c'est vrai ! C'est une offre spéciale pour mon client préféré !${prompt}
   7335: |-
-    Let me lay it on the line for you--${number: 1} ${item-given-plurality: 1[2], 0[2]}.
-    That's all it'll take to get you this ${item-singular: 2[2]}.
-    I'll say that again to make it sound even more impressive. ${lettercase: 1}${article} ${item-article: 2[2]}!${prompt}
+    Laissez-moi vous le dire franchement--${number: 1} ${item-given-plurality: 1[2], 0[2]}.
+    C'est tout ce qu'il vous faudra pour obtenir ce ${item-singular: 2[2]}.
+    Je vais le dire encore une fois pour que cela paraisse encore plus impressionnant. ${lettercase: 1}${article} ${item-article: 2[2]} !${prompt}
   7336: |-
-    Or if you're looking to really splurge, how about ${number: 3} of those crests for ${article} ${item-article: 4[2]}?
-    This deal's so hot that if you don't take it, I just might buy it from myself!${prompt}
+    Ou si vous cherchez vraiment à dépenser, que diriez-vous de ${number: 3} de ces crêtes pour ${article} ${item-article: 4[2]} ?
+    Cette offre est tellement alléchante que si vous ne la prenez pas, je pourrais bien me l'acheter à moi-même !${prompt}
   7337: |-
-    Now, I normally don't go about telling people about this, but seeing as how you look like a well-informed buyer who's been around the port once or twice...
-    I'll give you the opportunity to trade in either ${number: 1} ${item-given-plurality: 1[2], 0[2]} for ${article} ${item-article: 2[2]} or ${number: 3} for ${article} ${item-article: 4[2]}!${prompt}
+    Normalement, je ne vais pas raconter ça aux gens, mais comme vous avez l'air d'être un acheteur bien informé qui a déjà fait le tour du port une fois ou deux...
+    Je vous donne la possibilité d'échanger soit ${number: 1} ${item-given-plurality: 1[2], 0[2]} contre ${article} ${item-article: 2[2]} ou ${number: 3} contre ${article} ${item-article: 4[2]} !${prompt}
   7338: |-
-    What'll it be, adventurer?
+    Qu'est-ce que ça va être, aventurier ?
     ${selection-lines}
-    Never mind.
-    Exchange ${item-plural: 0[2]}.
-    Exchange ${item-plural: 1[2]}.
-    Exchange ${item-plural: 2[2]}.
-    Exchange ${item-plural: 3[2]}.
-    Exchange ${item-plural: 4[2]}.
-    Retrieve ${item-plural: 0[2]}.
-    Retrieve ${item-plural: 1[2]}.
-    Retrieve ${item-plural: 2[2]}.
-    Retrieve ${item-plural: 3[2]}.
-    Retrieve ${item-plural: 4[2]}.
-    Review conditions.
-    Review unsealed orbs.${prompt}
+    Peu importe.
+    Échanger ${item-plural: 0[2]}.
+    Échanger ${item-plural: 1[2]}.
+    Échanger ${item-plural: 2[2]}.
+    Échanger ${item-plural: 3[2]}.
+    Échanger ${item-plural: 4[2]}.
+    Récupérer ${item-plural: 0[2]}.
+    Récupérer ${item-plural: 1[2]}. 
+    Récupérer ${item-plural: 2[2]}.
+    Récupérer ${item-plural: 3[2]}.
+    Récupérer ${item-plural: 4[2]}.
+    Revoir les conditions.
+    Revoir les orbes non scellés.${prompt}
   7339: |-
     Select an orb. (You have ${number: 8} ${choice-plurality: 8}[seal/seals].)
     ${selection-lines}
