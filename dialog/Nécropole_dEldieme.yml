@@ -18694,21 +18694,21 @@ entries:
   7631: |-
     ${number: 0} ${number: 1} ${number: 2} ${number: 3}
     ${number: 4} ${number: 5} ${number: 6} ${number: 7}
-  7632: A grounds tome has been placed here by the Adventurers' Mutual Aid Network (A.M.A.N.). Useful information pertaining to various topics on field operations fills its pages.${prompt}
+  7632: Un grimoire des terrains a été déposé ici par le Réseau d'Aide Mutuelle des Aventuriers (A.M.A.N.). Des informations utiles concernant divers sujets sur les opérations sur le terrain remplissent ses pages.${prompt}
   7633: |-
-    What will you do?
+    Que ferez-vous ?
     ${selection-lines}
-    Nothing.
-    Read about individual training.
-    Review current training regime.
-    Cancel current training regime.
-    Read about field support.
-    Read about prowesses.
-    Review active prowesses.${prompt}
+    Rien.
+    Lire sur l'entraînement individuel.
+    Revoir le régime d'entraînement actuel.
+    Annuler le régime d'entraînement actuel.
+    Lire sur le soutien sur le terrain.
+    Lire sur les prouesses.
+    Revoir les prouesses actives.${prompt}
   7634: |-
-    Which page?
+    Quelle page ?
     ${selection-lines}
-    I've changed my mind.
+    J'ai changé d'avis.
     Page 1.
     Page 2.
     Page 3.
@@ -18719,42 +18719,42 @@ entries:
     Page 8.
     Page 9.
     Page 10.${prompt}
-  7635: The information on this page instructs you to defeat the following:${prompt}
+  7635: Les informations sur cette page vous indiquent de vaincre ce qui suit:${prompt}
   7636: ${prompt}
-  7637: '${number: 0} member${choice-plurality: 0}[/s] of the worm family.${prompt}'
-  7638: '${number: 0} ${choice-plurality: 0}[Forest Hare/Forest Hares].${prompt}'
+  7637: '${number: 0} membre${choice-plurality: 0}[/s] de la famille des vers.${prompt}'
+  7638: '${number: 0} ${choice-plurality: 0}[Lapin des bois/Lapins des bois].${prompt}'
   7639: |-
-    ${number: 0} ${choice-plurality: 0}[Scarab Beetle/Scarab Beetles].
-    ${number: 1} ${choice-plurality: 1}[Forest Funguar/Forest Funguars].${prompt}
+    ${number: 0} ${choice-plurality: 0}[Scarabée/Scarabées].
+    ${number: 1} ${choice-plurality: 1}[Fongus des bois/Fongus des bois].${prompt}
   7640: |-
-    ${number: 0} member${choice-plurality: 0}[/s] of the Orc family.
-    ${number: 1} ${choice-plurality: 1}[Scarab Beetle/Scarab Beetles].${prompt}
+    ${number: 0} membre${choice-plurality: 0}[/s] de la famille des Orcs.
+    ${number: 1} ${choice-plurality: 1}[Scarabée/Scarabées].${prompt}
   7641: |-
-    ${number: 0} ${choice-plurality: 0}[Strolling Sapling/Strolling Saplings].
-    ${number: 1} ${choice-plurality: 1}[Huge Wasp/Huge Wasps].${prompt}
-  7642: '${number: 0} ${choice-plurality: 0}[Grass Funguar/Grass Funguars].${prompt}'
+    ${number: 0} ${choice-plurality: 0}[Poussin errant/Poussins errants].
+    ${number: 1} ${choice-plurality: 1}[Grosse guêpe/Grosses guêpes].${prompt}
+  7642: '${number: 0} ${choice-plurality: 0}[Fongus de l’herbe/Fongus de l’herbe].${prompt}'
   7643: |-
-    ${number: 0} ${choice-plurality: 0}[Hill Lizard/Hill Lizards].
-    ${number: 1} ${choice-plurality: 1}[Sand Hare/Sand Hares].${prompt}
+    ${number: 0} ${choice-plurality: 0}[Lézard de colline/Lézards de colline].
+    ${number: 1} ${choice-plurality: 1}[Lapin des sables/Lapins des sables].${prompt}
   7644: |-
-    ${number: 0} member${choice-plurality: 0}[/s] of the crab family.
-    ${number: 1} ${choice-plurality: 1}[Hill Lizard/Hill Lizards].${prompt}
+    ${number: 0} membre${choice-plurality: 0}[/s] de la famille des crabes.
+    ${number: 1} ${choice-plurality: 1}[Lézard de colline/Lézards de colline].${prompt}
   7645: |-
-    ${number: 0} ${choice-plurality: 0}[Damselfly/Damselflies].
-    ${number: 1} member${choice-plurality: 1}[/s] of the crab family.${prompt}
+    ${number: 0} ${choice-plurality: 0}[Demoiselle/Demoiselles].
+    ${number: 1} membre${choice-plurality: 1}[/s] de la famille des crabes.${prompt}
   7646: |-
-    ${number: 0} ${choice-plurality: 0}[Brutal Sheep/Brutal Sheep].
-    ${number: 1} ${choice-plurality: 1}[Damselfly/Damselflies].${prompt}
-  7647: '${number: 0} ${choice-plurality: 0}[Forest Leech/Forest Leeches].${prompt}'
+    ${number: 0} ${choice-plurality: 0}[Mouton brutal/Moutons brutaux].
+    ${number: 1} ${choice-plurality: 1}[Demoiselle/Demoiselles].${prompt}
+  7647: '${number: 0} ${choice-plurality: 0}[Sangsue des bois/Sangsues des bois].${prompt}'
   7648: |-
-    ${number: 0} ${choice-plurality: 0}[Stag Beetle/Stag Beetles].
-    ${number: 1} ${choice-plurality: 1}[Forest Leech/Forest Leeches].${prompt}
+    ${number: 0} ${choice-plurality: 0}[Lucane/Lucanes].
+    ${number: 1} ${choice-plurality: 1}[Sangsue des bois/Sangsues des bois].${prompt}
   7649: |-
-    ${number: 0} ${choice-plurality: 0}[Jugner Funguar/Jugner Funguars].
-    ${number: 1} ${choice-plurality: 1}[Stag Beetle/Stag Beetles].${prompt}
+    ${number: 0} ${choice-plurality: 0}[Fongus de Jugner/Fongus de Jugner].
+    ${number: 1} ${choice-plurality: 1}[Lucane/Lucanes].${prompt}
   7650: |-
-    ${number: 0} ${choice-plurality: 0}[Jugner Funguar/Jugner Funguars].
-    ${number: 1} ${choice-plurality: 1}[Forest Tiger/Forest Tigers].${prompt}
+    ${number: 0} ${choice-plurality: 0}[Fongus de Jugner/Fongus de Jugner].
+    ${number: 1} ${choice-plurality: 1}[Tigre des bois/Tigres des bois].${prompt}
   7651: |-
     ${number: 0} ${choice-plurality: 0}[May Fly/May Flies].
     ${number: 1} ${choice-plurality: 1}[Ba/Bas].${prompt}
