@@ -17442,29 +17442,29 @@ entries:
     ${selection-lines}
     Accept.
     Decline.${prompt}
-  7385: Then, good luck! Use this to draw water from the spring atop Horlais Peak.${prompt}
-  7386: That is unfortunate. I'll ask somebody else.${prompt}
-  7387: Ah, it's you again! Have you decided to accept my request?${prompt}
-  7388: I knew I had judged you well. Thank you for this.${prompt}
-  7389: What will I use it for? The spring water is good for my eye, you see. I suppose I can tell you...${prompt}
-  7390: Once, long ago, I faced Prince Trion in the tourneys. But I lost an eye in exchange for the championship.${prompt}
-  7391: The honor of best sword of San d'Oria was mine...but the eye that I lost still pains me. I consider it punishment for yearning to hear the crowd cheering my name...${prompt}
-  7392: Please, tell no one. Many knights would seek to take my place if they heard me say such things.${prompt}
-  7393: I tell you because I judge you an honest ${choice-player-gender}[man/woman]. Please do not tell me I have erred!${prompt}
-  7394: Thank you, and I will think of you again, next I have need for something.${prompt}
-  7395: So, you like me garden, eh? Understandably! 'Tis filled with the kindness of Queen Leaute, this place is.${prompt}
-  7396: Working here, it's like I can feel the warm, merciful smile o' the queen shining down on me.${prompt}
-  7397: Were Queen Leaute still alive, those two would never be fighting like they do now. Guess it's fate.${prompt}
-  7398: Hmph. Why am I blabbering about this to the likes of you, eh?${prompt}
-  7399: Since you seem to have taken a fancy to the garden, here, how's about lending me a hand?${prompt}
-  7400: I got me a problem, see. No regular compost is good enough to make these flowers bloom the way they do.${prompt}
-  7401: 'So I''ve been using ${item-plural: 0[2]} as a special fertilizer, I have.${prompt}'
-  7402: Only, it be harder than skinning a wild sheep to get those knights off their shiny rumps to help, and now I'm running out.${prompt}
+  7385: Bonne chance! Utilisez ceci pour puiser de l'eau de la source au sommet du Pic Horlais.${prompt}
+  7386: C'est malheureux. Je demanderai à quelqu'un d'autre.${prompt}
+  7387: Ah, c'est encore vous! Avez-vous décidé d'accepter ma demande?${prompt}
+  7388: Je savais que j'avais bien jugé. Merci pour cela.${prompt}
+  7389: À quoi vais-je l'utiliser? L'eau de source est bonne pour mon œil, voyez-vous. Je suppose que je peux vous le dire...${prompt}
+  7390: Il y a longtemps, j'ai affronté le Prince Trion lors des tournois. Mais j'ai perdu un œil en échange du championnat.${prompt}
+  7391: L'honneur du meilleur épéiste de San d'Oria était le mien... mais l'œil que j'ai perdu me fait encore souffrir. Je considère cela comme une punition pour avoir désiré entendre la foule scander mon nom...${prompt}
+  7392: S'il vous plaît, ne le dites à personne. Beaucoup de chevaliers chercheraient à prendre ma place s'ils m'entendaient dire de telles choses.${prompt}
+  7393: Je vous le dis parce que je vous juge honnête ${choice-player-gender}[homme/femme]. Ne me dites pas que je me suis trompé!${prompt}
+  7394: Merci, et je penserai à vous la prochaine fois que j'aurai besoin de quelque chose.${prompt}
+  7395: Alors, vous aimez mon jardin, hein? C'est compréhensible! Il est rempli de la gentillesse de la Reine Leaute, cet endroit.${prompt}
+  7396: En travaillant ici, j'ai l'impression de sentir le sourire chaud et miséricordieux de la reine qui brille sur moi.${prompt}
+  7397: Si la Reine Leaute était encore en vie, ces deux-là ne se disputeraient pas comme ils le font maintenant. C'est le destin, je suppose.${prompt}
+  7398: Hmph. Pourquoi est-ce que je bavarde de tout cela avec quelqu'un comme vous, hein?${prompt}
+  7399: Puisque vous semblez apprécier le jardin, que diriez-vous de me donner un coup de main?${prompt}
+  7400: J'ai un problème, voyez-vous. Aucun compost ordinaire n'est assez bon pour faire fleurir ces fleurs comme elles le font.${prompt}
+  7401: 'Alors j’utilise ${item-plural: 0[2]} comme engrais spécial, je le fais.${prompt}'
+  7402: Seulement, c'est plus difficile que de dépouiller un mouton sauvage de faire bouger ces chevaliers de leurs beaux sièges, et maintenant je suis à court.${prompt}
   7403: |-
-    Accept Chalvatot's request?
+    Accepter la demande de Chalvatot ?
     ${selection-lines}
-    Accept.
-    Decline.${prompt}
+    Accepter.
+    Refuser.${prompt}
   7404: Hrm...that's a shame, that is. Guess I'll talk to those knights again.${prompt}
   7405: Ah, now that's the answer I was expectin'. Queen Leaute'd be pleased, she would. You get going, then.${prompt}
   7406: Eh? What's that? Changed your mind? It be for Queen Leaute, you know!${prompt}
