@@ -65,6 +65,8 @@ entries:
   50: '${choice-definite-entity: 0}[L’ /]${entity-source} ${choice-plurality-entity: 0}[gagne/gagnent] un point de mérite ! (Total : ${number-alt: 0})${prompt}'
   51: --Hors de vue--${prompt}
   52: |-
+    ${entity-target} abandonne la poursuite ${entity-source}.
+    ---Erreur de recherche de chemin---${prompt}
   53: '${choice-definite-entity: 1}[Le /]${entity-target}${choice-plurality-entity: 1}[''s/''] compétence ${sys-msg-3: 0} atteint le niveau ${number-alt: 1}.${prompt}'
   54: '${choice-definite-entity: 0}[L’ /]${entity-source} ${choice-plurality-entity: 0}[gagne/gagnent] ${number-alt: 0} point${choice-plurality-number: 1} de Siège${choice-plurality-number: 1}[/s].${prompt}'
   55: Impossible d'utiliser l’objet.${prompt}
