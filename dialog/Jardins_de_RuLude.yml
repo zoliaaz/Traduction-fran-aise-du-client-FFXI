@@ -21986,90 +21986,90 @@ entries:
   10379: |-
     Master!
     I'm back from visiting my old moogle friends, kupo!${prompt}
-  10380: We all got together and made you a new Mog Safe, kupo! Now you can store as many as 80 items, kupo!${prompt}
-  10381: Heh. You've got no business talking to me. Why, you're just a pup.${prompt}
-  10382: Well, well... You've come quite far, but you've still got a long way to go. Do you know about the people here?${prompt}
-  10383: Well, don't take this personally, but to them, you're just a tiny little bug! And I'm the one who trains them. Yeah, you can call me a teacher.${prompt}
-  10384: I'm sure you've ambitions of your own, right? If you want to break the barriers within you, you'll have to pass my test. What do you say?${prompt}
+  10380: Nous nous sommes tous réunis et nous t'avons fait un nouveau Coffre Mog, kupo ! Maintenant tu peux y stocker jusqu'à 80 objets, kupo !${prompt}
+  10381: Heh. Tu n'as rien à faire à me parler. Pourquoi, tu n'es qu'un chiot.${prompt}
+  10382: Eh bien, eh bien... Tu es venu de loin, mais tu as encore beaucoup de chemin à parcourir. Connais-tu les gens ici ?${prompt}
+  10383: Eh bien, ne le prends pas personnellement, mais pour eux, tu n'es qu'un tout petit insecte ! Et c'est moi qui les entraîne. Ouais, tu peux m'appeler professeur.${prompt}
+  10384: Je suis sûr que tu as tes propres ambitions, non ? Si tu veux briser les barrières en toi, tu devras passer mon test. Qu'en dis-tu ?${prompt}
   10385: |-
-    Accept the challenge?
+    Accepter le défi ?
     ${selection-lines}
-    At once!
-    No, thanks.${prompt}
-  10386: Very good. Gather these:${prompt}
-  10387: '${lettercase: 1}${article} ${item-article: 0[2]}, ${article} ${item-article: 1[2]}, and ${article} ${item-article: 2[2]}. Well, get to it!${prompt}'
-  10388: Yes, that might be prudent. But you'll never move into the next gear with that kind of attitude!${prompt}
-  10389: Well, did you find them? Here's what I need:${prompt}
-  10390: This is good, very good! Today you've taken your first step into a broader world!${prompt}
-  10391: What, you don't understand? Just get out there and fight. Then you'll see!${prompt}
-  10392: Your level limit is now 55.${prompt}
-  10393: How's it feel at the top, ${choice-player-gender}[sonny/kiddo]? Well, you ain't even close yet. You're just gettin' started!${prompt}
-  10394: You think you had a hard time with that last quest? Well, when I was your age, I had to gather twice as many items in half the time! So, stop complainin'!${prompt}
-  10395: Do you think you've got what it takes to take the next step? Don't think I'm forcing you, or anything!${prompt}
+    Tout de suite !
+    Non, merci.${prompt}
+  10386: Très bien. Rassemble ces objets :${prompt}
+  10387: '${lettercase: 1}${article} ${item-article: 0[2]}, ${article} ${item-article: 1[2]}, et ${article} ${item-article: 2[2]}. Allez, au travail !${prompt}'
+  10388: Oui, cela pourrait être prudent. Mais tu n'atteindras jamais la vitesse supérieure avec cette attitude-là !${prompt}
+  10389: Alors, les as-tu trouvés ? Voici ce dont j'ai besoin :${prompt}
+  10390: C'est bien, très bien ! Aujourd'hui, tu as fait le premier pas vers un monde plus vaste !${prompt}
+  10391: Quoi, tu ne comprends pas ? Sors juste là-bas et combats. Alors tu verras !${prompt}
+  10392: Ta limite de niveau est maintenant de 55.${prompt}
+  10393: Comment ça se sent au sommet, ${choice-player-gender}[fiston/gamin] ? Eh bien, tu n'es même pas encore proche. Tu viens juste de commencer !${prompt}
+  10394: Tu penses que tu as eu du mal avec cette dernière quête ? Eh bien, quand j'avais ton âge, je devais rassembler deux fois plus d'objets en deux fois moins de temps ! Alors, arrête de te plaindre !${prompt}
+  10395: Tu penses avoir ce qu'il faut pour passer à l'étape suivante ? Ne pense pas que je te force, ou quoi que ce soit !${prompt}
   10396: |-
-    Accept the challenge?
+    Accepter le défi ?
     ${selection-lines}
-    Of course!
-    No, not yet.${prompt}
-  10397: Good answer! I'm proud to have a pupil like you! Anyway, listen close to what I have to say.${prompt}
-  10398: Many caverns to the north are home to fiends that can find you even when you're invisible. Bring me three samples of frigicite from deep within.${prompt}
-  10399: This time, it's a test of wits. Barrier-breakers need brains, after all. Well, get going!${prompt}
-  10400: Oh? Very well. It's your life.${prompt}
-  10401: Many caverns to the north house fiends that can see the unseen. Visit them and bring me three samples of frigicite.${prompt}
-  10402: Yes, the very thing! You've crossed another great threshold today! Of course, this is merely a prologue of things to come!${prompt}
-  10403: The ultimate barrier is still far away. Don't worry about it. What matters is effort!${prompt}
-  10404: Your level limit is now 60.${prompt}
-  10405: So you think you're ready for the next challenge?${prompt}
+    Bien sûr !
+    Non, pas encore.${prompt}
+  10397: Bonne réponse ! Je suis fier d'avoir un élève comme toi ! Quoi qu'il en soit, écoute attentivement ce que j'ai à dire.${prompt}
+  10398: De nombreuses cavernes au nord abritent des monstres qui peuvent te trouver même quand tu es invisible. Apporte-moi trois échantillons de frigicite venant de ces profondeurs.${prompt}
+  10399: Cette fois, c'est un test d'intelligence. Les briseurs de barrières ont besoin de cervelle, après tout. Eh bien, en route !${prompt}
+  10400: Oh ? Très bien. C'est ta vie.${prompt}
+  10401: De nombreuses cavernes au nord abritent des monstres qui voient l'invisible. Visite-les et rapporte-moi trois échantillons de frigicite.${prompt}
+  10402: Oui, c'est exactement ça ! Tu as franchi une autre grande étape aujourd'hui ! Bien sûr, ce n'est qu'un prologue des choses à venir !${prompt}
+  10403: La barrière ultime est encore loin. Ne t'inquiète pas. Ce qui compte, c'est l'effort !${prompt}
+  10404: Ta limite de niveau est maintenant de 60.${prompt}
+  10405: Alors, tu penses être prêt pour le prochain défi ?${prompt}
   10406: |-
-    Do you think you can handle it?
+    Penses-tu pouvoir y arriver ?
     ${selection-lines}
-    Of course!
-    Not just yet.${prompt}
-  10407: That's the spirit. You'll never get anything in this world unless you really want it.${prompt}
-  10408: '${lettercase: 1}${keyitem-article: 0[2]}, ${keyitem-article: 1[2]}, and ${keyitem-article: 2[2]}. Bring these three items here to me.${prompt}'
-  10409: I know you can do it. There's something different about you. I can feel it in my bones!${prompt}
-  10410: Well, the choice is yours. I won't goad you into anything.${prompt}
-  10411: '${lettercase: 1}${keyitem-article: 0[2]}, ${keyitem-article: 1[2]}, and ${keyitem-article: 2[2]}. Bring those three items here to me.${prompt}'
-  10412: I knew you could do it! I believed in you all along.${prompt}
-  10413: Your level limit is now 65.${prompt}
-  10414: I see you're becoming stronger by the day. Maybe you're ready for my next test. How about it?${prompt}
-  10415: Your next test will span over the farthest reaches of Vana'diel. You'll have to give it your all, or you're sure to fail.${prompt}
-  10416: 'Now listen carefully. First, you must get your hands on four ${item-plural: 7[2]}. I''m going to give you four hints. You have to figure out who I am talking about, and give one of those ${item-plural: 7[2]} to each of them.${prompt}'
-  10417: 'I''ve already talked to them, so all you have to do is hand over the ${item-singular: 7[2]} and they will trade you back a ${color: 5}strange stone${color: 1}.${prompt}'
-  10418: If the person you try to trade it to doesn't accept it, then it means you've got the wrong person.${prompt}
-  10419: Here are your four hints, so listen up. I want you to find these people...${prompt}
-  10420: '${number: 5}. A boy who only thinks of his sick mother.${prompt}'
-  10421: '${number: 5}. An Elvaan who likes her knives sharp.${prompt}'
-  10422: '${number: 5}. A little girl who wants to be a Royal Knight, just like her brother.${prompt}'
-  10423: '${number: 5}. A young Elvaan whose breath stinks.${prompt}'
-  10424: '${number: 5}. A young man looking for a job where they''re not too rough with him.${prompt}'
-  10425: '${number: 5}. An old man running the Consortium warehouses.${prompt}'
-  10426: '${number: 5}. A second knight who specializes in the nirvana slash.${prompt}'
-  10427: '${number: 5}. A shopkeeper who longs for customers that want more than scrolls of Stone.${prompt}'
-  10428: '${number: 5}. A pioneer of the Palborough Mines.${prompt}'
-  10429: '${number: 5}. A boy watching over Dalzakk''s home while he''s off adventuring.${prompt}'
-  10430: '${number: 5}. A girl who is positive robes and bronze subligaria are the latest fashion.${prompt}'
-  10431: '${number: 5}. A girl who thinks she can never be as good as her sister.${prompt}'
-  10432: '${number: 5}. A woman who lost her husband in an accident in the Palborough Mines.${prompt}'
-  10433: '${number: 5}. Bastok''s number five “doorman.”${prompt}'
-  10434: '${number: 5}. A man so quiet, his boss is ready to call him “Silent Mountain.”${prompt}'
-  10435: '${number: 5}. A man who is ready to move Bastok into the age of magic.${prompt}'
-  10436: '${number: 5}. The smartest looking Mithra child.${prompt}'
-  10437: '${number: 5}. A man looking for something snappy to hook his customers.${prompt}'
-  10438: '${number: 5}. A woman everybody called a “strange little poppet” when she was younger.${prompt}'
-  10439: '${number: 5}. A man known for his magic doll upgrades.${prompt}'
-  10440: '${number: 5}. A little girl sick of being left out all the time.${prompt}'
-  10441: '${number: 5}. A man that gets upset when anyone tells him that “hats suck.”${prompt}'
-  10442: '${number: 5}. A lady looking for another tasty frog.${prompt}'
-  10443: '${number: 5}. A lady that jumps for joy at the sight of rolanberry souvenirs.${prompt}'
-  10444: '${number: 5}. A weaving woman who lost her memory in Selbina.${prompt}'
-  10445: '${number: 5}. A Galkan child who is great at hiding.${prompt}'
-  10446: '${number: 5}. A man who started raising his own sheep to get some good wool.${prompt}'
-  10447: '${number: 5}. A pupil of Zaldon who knows his fish.${prompt}'
-  10448: '${number: 5}. A girl whose fiancé is all the way in Selbina.${prompt}'
-  10449: '${number: 5}. A small mayor in a small town.${prompt}'
-  10450: '${number: 5}. A guy who knows a lot about pirates for somebody that''s never met one.${prompt}'
-  10451: '${number: 5}. A kid that wants to work with monsters when he grows up.${prompt}'
+    Bien sûr !
+    Pas encore.${prompt}
+  10407: C'est l'esprit. Tu n'obtiendras jamais rien dans ce monde à moins de le vouloir vraiment.${prompt}
+  10408: '${lettercase: 1}${keyitem-article: 0[2]}, ${keyitem-article: 1[2]}, et ${keyitem-article: 2[2]}. Apporte-moi ces trois objets ici.${prompt}' 
+  10409: Je sais que tu peux le faire. Il y a quelque chose de différent chez toi. Je le sens dans mes os !${prompt}
+  10410: Eh bien, c'est ton choix. Je ne te pousserai à rien.${prompt}
+  10411: '${lettercase: 1}${keyitem-article: 0[2]}, ${keyitem-article: 1[2]}, et ${keyitem-article: 2[2]}. Apporte-moi ces trois objets ici.${prompt}'
+  10412: Je savais que tu pouvais le faire ! J'ai cru en toi depuis le début.${prompt}
+  10413: Ta limite de niveau est maintenant de 65.${prompt}
+  10414: Je vois que tu deviens plus fort chaque jour. Peut-être es-tu prêt pour mon prochain test. Qu'en dis-tu ?${prompt}
+  10415: Ton prochain test couvrira les recoins les plus éloignés de Vana'diel. Tu devras tout donner, sinon tu échoueras.${prompt}
+  10416: 'Maintenant écoute attentivement. D’abord, tu dois mettre la main sur quatre ${item-plural: 7[2]}. Je vais te donner quatre indices. Tu dois deviner de qui je parle, et donner l’un de ces ${item-plural: 7[2]} à chacun d’eux.${prompt}'
+  10417: 'Je leur ai déjà parlé, donc tout ce que tu as à faire est de remettre le ${item-singular: 7[2]} et ils te rendront une ${color: 5}pierre étrange${color: 1}.${prompt}'
+  10418: Si la personne à qui tu essaies de le donner ne l'accepte pas, cela signifie que tu as la mauvaise personne.${prompt}
+  10419: Voici tes quatre indices, alors écoute bien. Je veux que tu trouves ces personnes...${prompt}
+  10420: '${number: 5}. Un garçon qui ne pense qu’à sa mère malade.${prompt}'
+  10421: '${number: 5}. Une Elvaan qui aime ses couteaux bien aiguisés.${prompt}'
+  10422: '${number: 5}. Une petite fille qui veut devenir chevalier royal, tout comme son frère.${prompt}'
+  10423: '${number: 5}. Un jeune Elvaan dont l’haleine pue.${prompt}'
+  10424: '${number: 5}. Un jeune homme à la recherche d’un emploi où on ne le maltraite pas trop.${prompt}'
+  10425: '${number: 5}. Un vieil homme qui gère les entrepôts du Consortium.${prompt}'
+  10426: '${number: 5}. Un second chevalier qui se spécialise dans le coup de nirvana.${prompt}'
+  10427: '${number: 5}. Un commerçant qui rêve de clients désirant plus que des parchemins de Pierre.${prompt}'
+  10428: '${number: 5}. Un pionnier des Mines de Palborough.${prompt}'
+  10429: '${number: 5}. Un garçon qui surveille la maison de Dalzakk pendant qu’il est en aventure.${prompt}'
+  10430: '${number: 5}. Une fille qui est convaincue que les robes et subligaria en bronze sont à la dernière mode.${prompt}'
+  10431: '${number: 5}. Une fille qui pense qu’elle ne sera jamais aussi bonne que sa sœur.${prompt}'
+  10432: '${number: 5}. Une femme qui a perdu son mari dans un accident aux Mines de Palborough.${prompt}'
+  10433: '${number: 5}. Le cinquième “portier” de Bastok.${prompt}'
+  10434: '${number: 5}. Un homme si silencieux que son patron est prêt à l’appeler “Montagne Silencieuse.”${prompt}'
+  10435: '${number: 5}. Un homme prêt à faire entrer Bastok dans l’ère de la magie.${prompt}'
+  10436: '${number: 5}. Le plus intelligent des enfants Mithra.${prompt}'
+  10437: '${number: 5}. Un homme cherchant quelque chose de percutant pour accrocher ses clients.${prompt}'
+  10438: '${number: 5}. Une femme que tout le monde appelait une “étrange petite poupée” quand elle était jeune.${prompt}'
+  10439: '${number: 5}. Un homme connu pour ses améliorations de poupées magiques.${prompt}'
+  10440: '${number: 5}. Une petite fille qui en a marre d’être toujours laissée de côté.${prompt}'
+  10441: '${number: 5}. Un homme qui s’énerve quand quelqu’un lui dit que “les chapeaux sont nuls.”${prompt}'
+  10442: '${number: 5}. Une dame à la recherche d’une autre grenouille savoureuse.${prompt}'
+  10443: '${number: 5}. Une dame qui saute de joie à la vue de souvenirs de rolanberry.${prompt}'
+  10444: '${number: 5}. Une femme tisserande qui a perdu la mémoire à Selbina.${prompt}'
+  10445: '${number: 5}. Un enfant Galkan qui est excellent pour se cacher.${prompt}'
+  10446: '${number: 5}. Un homme qui a commencé à élever ses propres moutons pour avoir de la bonne laine.${prompt}'
+  10447: '${number: 5}. Un élève de Zaldon qui connaît bien ses poissons.${prompt}'
+  10448: '${number: 5}. Une fille dont le fiancé est à Selbina.${prompt}'
+  10449: '${number: 5}. Un petit maire dans une petite ville.${prompt}'
+  10450: '${number: 5}. Un gars qui connaît beaucoup de choses sur les pirates pour quelqu’un qui n’en a jamais rencontré.${prompt}'
+  10451: '${number: 5}. Un enfant qui veut travailler avec les monstres quand il sera grand.${prompt}'
   10452: Réfléchis bien. Tu finiras par découvrir de qui je parle.${prompt}
   10453: Quoi? Tu as encore besoin des indices? Écoute bien alors. Je veux que tu trouves ces personnes...${prompt}
   10454: |-
