@@ -18223,14 +18223,14 @@ entries:
   7522: |-
     What's wrong? Aren't we gonna go go go?
     Well, maybe nextaru time, then...${prompt}
-  7523: 'If only you had ${keyitem-article: 0[2]}, you could open the banishing gate...${prompt}'
-  7524: 'By the power of your ${keyitem-singular: 0[2]}, the gate opens for you.${prompt}'
+  7523: 'Si seulement vous aviez ${keyitem-article: 0[2]}, vous pourriez ouvrir la porte bannissante...${prompt}'
+  7524: 'Grâce au pouvoir de votre ${keyitem-singular: 0[2]}, la porte s’ouvre pour vous.${prompt}'
   7525: |-
-    You see ${keyitem-article: 0[2]}.
+    Vous voyez ${keyitem-article: 0[2]}.
     ${selection-lines}
-    Pick it up.
-    Leave it be.${prompt}
-  7526: 'You combine the ${keyitem-plural: 0[2]} you have collected into a single chunk.${prompt}'
+    Ramassez-le.
+    Laissez-le.${prompt}
+  7526: 'Vous combinez les ${keyitem-plural: 0[2]} que vous avez collectés en un seul morceau.${prompt}'
   7527: |-
     Which item will you obtain?
     ${selection-lines}
