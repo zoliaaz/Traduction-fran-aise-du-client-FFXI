@@ -16,107 +16,105 @@ entries:
   10: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[perd/perdent] ${number-alt: 0} point${choice-plurality-number: 0}[/s] d’expérience.${prompt}'
   11: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[tombe/tombent] au niveau ${number-alt: 0}.${prompt}'
   12: |-
-    Cannot attack.
-    Your target is already claimed.${prompt}
+    Impossible d'attaquer.
+    Votre cible est déjà prise.${prompt}
   13: |-
-    Debug Message:
-    　${entity-source}: ${entity-target} is now invincible.${prompt}
-  14: '${choice-definite-entity: 0}[The /]${entity-source}${choice-plurality-entity: 0}[''s/''] attack is countered by ${choice-definite-entity: 1}[the /]${entity-target}. ${number-alt: 3} of ${choice-definite-entity: 1}[the /]${entity-source}${choice-plurality-entity: 1}[''s/''] shadows ${choice-plurality-number: 3}[absorbs/absorb] the damage and ${choice-plurality-number: 3}[disappears/disappear].${prompt}'
-  15: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[misses/miss] ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
-  16: '${choice-definite-entity: 0}[The /]${entity-source}${choice-plurality-entity: 0}[''s/''] casting is interrupted.${prompt}'
-  17: Unable to cast spells at this time.${prompt}
-  18: Unable to cast spells at this time.${prompt}
-  19: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[calls/call] for help!${prompt}'
-  20: '${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[falls/fall] to the ground.${prompt}'
-  21: No experience points gained.${prompt}
-  22: You cannot call for help at this time.${prompt}
-  23: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[learns/learn] a new spell!${prompt}'
-  24: '${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[recovers/recover] ${number-alt: 1} HP.${prompt}'
-  25: '${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[recovers/recover] ${number-alt: 1} MP.${prompt}'
-  26: '${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[recovers/recover] HP and MP.${prompt}'
+    Message de débogage :
+    　${entity-source}: ${entity-target} est maintenant invincible.${prompt}
+  14: '${choice-definite-entity: 0}[L’ /]${entity-source}${choice-plurality-entity: 0}[''s/''] attaque est contrée par ${choice-definite-entity: 1}[le /]${entity-target}. ${number-alt: 3} de ${choice-definite-entity: 1}[les /]${entity-source}${choice-plurality-entity: 1}[''s/''] ombres ${choice-plurality-number: 3}[absorbe/absorbent] les dégâts et ${choice-plurality-number: 3}[disparaît/disparaissent].${prompt}'
+  15: '${choice-definite-entity: 0}[L’ /]${entity-source} ${choice-plurality-entity: 0}[rate/ratent] ${choice-definite-entity: 1}[la /]${entity-target}.${prompt}'
+  16: '${choice-definite-entity: 0}[La /]${entity-source}${choice-plurality-entity: 0}[''s/''] incantation est interrompue.${prompt}'
+  17: Impossible de lancer des sorts pour le moment.${prompt}
+  18: Impossible de lancer des sorts pour le moment.${prompt}
+  19: '${choice-definite-entity: 0}[L’ /]${entity-source} ${choice-plurality-entity: 0}[appelle/appellent] à l’aide!${prompt}'
+  20: '${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[tombe/tombent] au sol.${prompt}'
+  21: Aucun point d'expérience gagné.${prompt}
+  22: Vous ne pouvez pas appeler à l'aide pour le moment.${prompt}
+  23: '${choice-definite-entity: 0}[L’ /]${entity-source} ${choice-plurality-entity: 0}[apprend/apprennent] un nouveau sort!${prompt}'
+  24: '${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[récupère/récupèrent] ${number-alt: 1} PV.${prompt}'
+  25: '${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[récupère/récupèrent] ${number-alt: 1} PM.${prompt}'
+  26: '${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[récupère/récupèrent] des PV et des PM.${prompt}'
   27: |-
-    Debug Message:
-    Cannot execute command.
-    No (BTCALC) command in ATEL source.${prompt}
-  28: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${article} ${item-article-alt: 1[2]}.${prompt}'
-  29: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[is/are] paralyzed.${prompt}'
-  30: '${choice-definite-entity: 1}[The /]${entity-target} anticipates the attack.${prompt}'
-  31: '${number-alt: 1} of ${choice-definite-entity: 1}[the /]${entity-target}${choice-plurality-entity: 1}[''s/''] shadows ${choice-plurality-number: 1}[absorbs/absorb] the damage and ${choice-plurality-number: 1}[disappears/disappear].${prompt}'
-  32: '${choice-definite-entity: 1}[The /]${entity-target} dodges the attack.${prompt}'
-  33: '${choice-definite-entity: 0}[The /]${entity-source}${choice-plurality-entity: 0}[''s/''] attack is countered by ${choice-definite-entity: 1}[the /]${entity-target}. ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[takes/take] ${number-alt: 3} points of damage.${prompt}'
-  34: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[does/do] not have enough MP to cast ${spell-alt: 0}.${prompt}'
-  35: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[lacks/lack] the ninja tools to cast ${spell-alt: 0}.${prompt}'
-  36: 'You lose sight of ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
-  37: You are too far from the battle to gain experience.${prompt}
-  38: '${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}[''s/''] ${sys-msg-3: 0} skill rises 0.${number-alt: 1} points.${prompt}'
-  39: 'You need the Dual Wield ability to equip the ${item-singular-alt: 0[2]} as a sub-weapon.${prompt}'
-  40: 'You cannot use ${spell-alt: 0} in this area.${prompt}'
-  41: '${entity-source}: Status ailment check (${number-alt: 0}）Cannot rest at this time.${prompt}'
-  42: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[casts/cast] ${spell-alt: 0} on ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
-  43: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[readies/ready] ${skill-alt: 1}.${prompt}'
-  44: '${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}[''s/''] spikes deal ${number-alt: 3} point${choice-plurality-number: 3}[/s] of damage to ${choice-definite-entity: 0}[the /]${entity-source}.${prompt}'
-  45: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[learns/learn] "${skill-alt: 0}"!${prompt}'
+    Message de débogage :
+    Impossible d'exécuter la commande.
+    Pas de commande (BTCALC) dans la source ATEL.${prompt}
+  28: '${choice-definite-entity: 0}[L’ /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${article} ${item-article-alt: 1[2]}.${prompt}'
+  29: '${choice-definite-entity: 0}[L’ /]${entity-source} ${choice-plurality-entity: 0}[est/sont] paralysé.${prompt}'
+  30: '${choice-definite-entity: 1}[La /]${entity-target} anticipe l’attaque.${prompt}'
+  31: '${number-alt: 1} de ${choice-definite-entity: 1}[les /]${entity-target}${choice-plurality-entity: 1}[''s/''] ombres ${choice-plurality-number: 1}[absorbe/absorbent] les dégâts et ${choice-plurality-number: 1}[disparaît/disparaissent].${prompt}'
+  32: '${choice-definite-entity: 1}[La /]${entity-target} esquive l’attaque.${prompt}'
+  33: '${choice-definite-entity: 0}[L’ /]${entity-source}${choice-plurality-entity: 0}[''s/''] attaque est contrée par ${choice-definite-entity: 1}[le /]${entity-target}. ${choice-definite-entity: 0}[L’ /]${entity-source} ${choice-plurality-entity: 0}[prend/prennent] ${number-alt: 3} points de dégâts.${prompt}'
+  34: '${choice-definite-entity: 0}[L’ /]${entity-source} ${choice-plurality-entity: 0}[n’a/n’ont] pas assez de PM pour lancer ${spell-alt: 0}.${prompt}' 
+  35: '${choice-definite-entity: 0}[L’ /]${entity-source} ${choice-plurality-entity: 0}[manque/manquent] d’outils ninja pour lancer ${spell-alt: 0}.${prompt}'
+  36: 'Vous perdez de vue ${choice-definite-entity: 1}[la /]${entity-target}.${prompt}'
+  37: Vous êtes trop loin du combat pour gagner de l'expérience.${prompt}
+  38: '${choice-definite-entity: 1}[La /]${entity-target}${choice-plurality-entity: 1}[''s/''] compétence ${sys-msg-3: 0} augmente de 0.${number-alt: 1} points.${prompt}'
+  39: 'Vous avez besoin de la capacité Double arme pour équiper ${item-singular-alt: 0[2]} comme sous-arme.${prompt}'
+  40: 'Vous ne pouvez pas utiliser ${spell-alt: 0} dans cette zone.${prompt}'
+  41: '${entity-source}: Vérification du malus d’état (${number-alt: 0}) Impossible de se reposer pour le moment.${prompt}'
+  42: '${choice-definite-entity: 0}[L’ /]${entity-source} ${choice-plurality-entity: 0}[lance/lancent] ${spell-alt: 0} sur ${choice-definite-entity: 1}[la /]${entity-target}.${prompt}'
+  43: '${choice-definite-entity: 0}[L’ /]${entity-source} ${choice-plurality-entity: 0}[se prépare/se préparent] à utiliser ${skill-alt: 1}.${prompt}'
+  44: '${choice-definite-entity: 1}[La /]${entity-target}${choice-plurality-entity: 1}[''s/''] pointes infligent ${number-alt: 3} point${choice-plurality-number: 3}[/s] de dégâts à ${choice-definite-entity: 0}[l’ /]${entity-source}.${prompt}'
+  45: '${choice-definite-entity: 0}[L’ /]${entity-source} ${choice-plurality-entity: 0}[apprend/apprennent] "${skill-alt: 0}"!${prompt}'
   46: |-
-    Debug Message:
-    Current POP number: (${number-alt: 0})${prompt}
-  47: '${choice-definite-entity: 0}[The /]${entity-source} cannot cast ${spell-alt: 0}.${prompt}'
-  48: '${spell-alt: 0} cannot be cast on ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
-  49: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[is/are] unable to cast spells.${prompt}'
-  50: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[earns/earn] a merit point! (Total: ${number-alt: 0})${prompt}'
-  51: --Out of sight--${prompt}
+    Message de débogage :
+    Numéro POP actuel : (${number-alt: 0})${prompt}
+  47: '${choice-definite-entity: 0}[L’ /]${entity-source} ne peut pas lancer ${spell-alt: 0}.${prompt}'
+  48: '${spell-alt: 0} ne peut pas être lancé sur ${choice-definite-entity: 1}[le /]${entity-target}.${prompt}'
+  49: '${choice-definite-entity: 0}[L’ /]${entity-source} ${choice-plurality-entity: 0}[est/sont] incapable${choice-plurality-entity: 0}[ ] de lancer des sorts.${prompt}'
+  50: '${choice-definite-entity: 0}[L’ /]${entity-source} ${choice-plurality-entity: 0}[gagne/gagnent] un point de mérite ! (Total : ${number-alt: 0})${prompt}'
+  51: --Hors de vue--${prompt}
   52: |-
-    ${entity-target} gives up chasing ${entity-source}.
-    ---Find Path Error---${prompt}
-  53: '${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}[''s/''] ${sys-msg-3: 0} skill reaches level ${number-alt: 1}.${prompt}'
-  54: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[gains/gain] ${number-alt: 0} Besieged point${choice-plurality-number: 1}[/s].${prompt}'
-  55: Unable to use item.${prompt}
-  56: Unable to use item.${prompt}
-  57: Job changed.${prompt}
-  58: Invalid job number.${prompt}
-  59: You do not have access to specified job yet.${prompt}
-  60: You do not have access to support jobs yet.${prompt}
-  61: You cannot have the same job as both main and support jobs.${prompt}
-  62: 'The ${item-singular-alt: 0[2]} fails to activate.${prompt}'
-  63: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[misses/miss] ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
-  64: '${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[is/are] no longer ${status-effect-adjective: 1[2]}.${prompt}'
-  65: 'You are not carrying any Petras. You cannot use the ${item-singular-alt: 0[2]}.${prompt}'
-  66: 'Debug: Resisted spell!${prompt}'
+  53: '${choice-definite-entity: 1}[Le /]${entity-target}${choice-plurality-entity: 1}[''s/''] compétence ${sys-msg-3: 0} atteint le niveau ${number-alt: 1}.${prompt}'
+  54: '${choice-definite-entity: 0}[L’ /]${entity-source} ${choice-plurality-entity: 0}[gagne/gagnent] ${number-alt: 0} point${choice-plurality-number: 1} de Siège${choice-plurality-number: 1}[/s].${prompt}'
+  55: Impossible d'utiliser l’objet.${prompt}
+  56: Impossible d'utiliser l’objet.${prompt}
+  57: Changement de job.${prompt}
+  58: Numéro de job invalide.${prompt}
+  59: Vous n’avez pas encore accès à ce job spécifique.${prompt}
+  60: Vous n’avez pas encore accès aux jobs de support.${prompt}
+  61: Vous ne pouvez pas avoir le même job comme job principal et job de support.${prompt}
+  62: 'Le ${item-singular-alt: 0[2]} échoue à s’activer.${prompt}'
+  63: '${choice-definite-entity: 0}[L’ /]${entity-source} ${choice-plurality-entity: 0}[rate/ratent] ${choice-definite-entity: 1}[la /]${entity-target}.${prompt}'
+  64: '${unknown-84: 0}${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[n’est/ne sont] plus ${status-effect-adjective: 1[2]}.${prompt}'
+  65: 'Vous ne transportez pas de Petras. Vous ne pouvez pas utiliser le ${item-singular-alt: 0[2]}.${prompt}'
+  66: 'Débogage : Sort résisté !${prompt}'
   67: |-
-    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[scores/score] a critical hit!
-    ${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[takes/take] ${number-alt: 1} point${choice-plurality-number: 1}[/s] of damage.${prompt}
-  68: 'Debug: Casting interrupted!${prompt}'
-  69: '${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target} blocks ${choice-definite-entity: 0}[the /]${entity-source}${choice-plurality-entity: 0}[''s/''] attack with ${choice-target-gender}[his/her] shield.${prompt}'
-  70: '${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target} parries ${choice-definite-entity: 0}[the /]${entity-source}${choice-plurality-entity: 0}[''s/''] attack with ${choice-target-gender}[his/her] weapon.${prompt}'
-  71: '${choice-definite-entity: 0}[The /]${entity-source} cannot perform that action.${prompt}'
-  72: 'That action cannot be performed on ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
-  73: 'Debug: ${entity-target}''s status is now ${status-effect-adjective: 0[2]}.${prompt}'
-  74: 'Debug: ${entity-target} ${choice-plurality-entity: 1}[recovers/recover] from ${status-effect-noun: 0[2]}.${prompt}'
-  75: '${choice-definite-entity: 0}[The /]${entity-source}${choice-plurality-entity: 0}[''s/''] ${spell-alt: 0} has no effect on ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
-  76: No valid target within area of effect.${prompt}
+    ${choice-definite-entity: 0}[L' /]${entity-source} ${choice-plurality-entity: 0}[marque/marquent] un coup critique !
+    ${unknown-84: 0}${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[prend/prennent] ${number-alt: 1} point${choice-plurality-number: 1} de dégât.${prompt}
+  68: 'Débogage : Lancement interrompu !${prompt}'
+  69: '${unknown-84: 0}${choice-definite-entity: 1}[Le /]${entity-target} bloque ${choice-definite-entity: 0}[l’ /]${entity-source}${choice-plurality-entity: 0}[''s/''] attaque avec ${choice-target-gender}[son/sa] bouclier.${prompt}'
+  70: '${unknown-84: 0}${choice-definite-entity: 1}[Le /]${entity-target} pare ${choice-definite-entity: 0}[l’ /]${entity-source}${choice-plurality-entity: 0}[''s/''] attaque avec ${choice-target-gender}[son/sa] arme.${prompt}'
+  71: '${choice-definite-entity: 0}[L’ /]${entity-source} ne peut pas effectuer cette action.${prompt}'
+  72: 'Cette action ne peut pas être effectuée sur ${choice-definite-entity: 1}[la /]${entity-target}.${prompt}'
+  73: 'Débogage : Le statut de ${entity-target} est maintenant ${status-effect-adjective: 0[2]}.${prompt}'
+  74: 'Débogage : ${entity-target} ${choice-plurality-entity: 1}[se remet/se remettent] de ${status-effect-noun: 0[2]}.${prompt}'
+  75: '${choice-definite-entity: 0}[L’ /]${entity-source}${choice-plurality-entity: 0}[''s/''] ${spell-alt: 0} n’a aucun effet sur ${choice-definite-entity: 1}[la /]${entity-target}.${prompt}'
+  76: Aucune cible valide dans la zone d’effet.${prompt}
   77: |-
-    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] Sange.
-    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[takes/take] ${number-alt: 1} point${choice-plurality-number: 1}[/s] of damage.${prompt}
-  78: '${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[is/are] too far away.${prompt}'
-  79: 'Debug: ${entity-target} ${choice-plurality-entity: 1}[uses/use] Double Attack(${number-alt: 0}％).${prompt}'
-  80: 'Debug: ${entity-target} ${choice-plurality-entity: 1}[uses/use] Triple Attack(${number-alt: 0}％).${prompt}'
-  81: 'Debug: Battle Debug No. (${number-alt: 0}) used on ${entity-target}.${prompt}'
+    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] Sange.
+    ${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[prend/prennent] ${number-alt: 1} point${choice-plurality-number: 1} de dégât.${prompt}
+  78: '${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[est/sont] trop loin.${prompt}'
+  79: 'Débogage : ${entity-target} ${choice-plurality-entity: 1}[utilise/utilisent] Double Attaque (${number-alt: 0}％).${prompt}'
+  80: 'Débogage : ${entity-target} ${choice-plurality-entity: 1}[utilise/utilisent] Triple Attaque (${number-alt: 0}％).${prompt}'
+  81: 'Débogage : Bataille Débogage No. (${number-alt: 0}) utilisé sur ${entity-target}.${prompt}'
   82: |-
-    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[casts/cast] ${spell-alt: 0}.
-    ${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[is/are] ${status-effect-adjective: 1[2]}!${prompt}
+    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[lance/lancent] ${spell-alt: 0}.
+    ${unknown-84: 0}${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[est/sont] ${status-effect-adjective: 1[2]}!${prompt}
   83: |-
-    ${unknown-84: 0}${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[casts/cast] ${spell-alt: 0}.
-    ${choice-definite-entity: 0}[The /]${entity-source} successfully ${choice-plurality-entity: 0}[removes/remove] ${choice-definite-entity: 1}[the /]${entity-target}${choice-plurality-entity: 1}['s/'] ${status-effect-noun: 1[2]}.${prompt}
-  84: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[is/are] paralyzed.${prompt}'
+    ${unknown-84: 0}${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[lance/lancent] ${spell-alt: 0}.
+    ${choice-definite-entity: 0}[Le /]${entity-source} retire avec succès ${choice-plurality-entity: 0}[la /]${entity-target}${choice-plurality-entity: 1}['s/'] ${status-effect-noun: 1[2]}.${prompt}
+  84: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[est/sont] paralysé.${prompt}'
   85: |-
-    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[casts/cast] ${spell-alt: 0}.
-    ${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[resists/resist] the spell.${prompt}
-  86: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[casts/cast] ${spell-alt: 0}, but ${choice-definite-entity: 1}[the /]${entity-target} ${choice-plurality-entity: 1}[is/are] outside the area of effect.${prompt}'
-  87: Unable to use job ability.${prompt}
-  88: Unable to use job ability.${prompt}
-  89: Unable to use weapon skill.${prompt}
-  90: Unable to use weapon skill.${prompt}
-  91: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[does/do] not have any ${item-plural-alt: 0[2]}.${prompt}'
-  92: 'Cannot use the ${item-singular-alt: 0[2]} on ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[lance/lancent] ${spell-alt: 0}.
+    ${unknown-84: 0}${choice-definite-entity: 1}[Le /]${entity-target} ${choice-plurality-entity: 1}[résiste/résistent] au sort.${prompt}
+  86: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[lance/lancent] ${spell-alt: 0}, mais ${choice-definite-entity: 1}[le /]${entity-target} ${choice-plurality-entity: 1}[est/sont] hors de la zone d’effet.${prompt}'
+  87: Impossible d’utiliser la capacité de job.${prompt}
+  88: Impossible d’utiliser la capacité de job.${prompt}
+  89: Impossible d’utiliser la compétence d'arme.${prompt}
+  90: Impossible d’utiliser la compétence d'arme.${prompt}
+  91: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[n’a/n’ont] aucun ${item-plural-alt: 0[2]}.${prompt}'
+  92: 'Impossible d’utiliser le ${item-singular-alt: 0[2]} sur ${choice-definite-entity: 1}[le /]${entity-target}.${prompt}'
   93: |-
     ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[casts/cast] ${spell-alt: 0}.
     ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[vanishes/vanish].${prompt}
