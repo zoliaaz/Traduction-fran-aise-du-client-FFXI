@@ -16508,41 +16508,40 @@ entries:
   6702: |-
     Francmage?
     I was not expecting you so soon. Monarlais...tell him.${prompt}
-  6703: Yes, sire.
-  6704: Francmage, I've summoned you here today to talk about one thing--the Northlands investigation.${prompt}
-  6705: Oh, yes, that. Those Bastoker Humes are causing no end of trouble--saying they want to investigate here, there, and the other place...${prompt}
-  6706: It is true! The Humes are fools, and no better. Can they truly believe that some ancient power lies hidden in that forsaken wasteland?${prompt}
-  6707: Hah! Do they hope to find the gates to eternal Paradise there, in that lair of fiends most uncouth? Preposterous!${prompt}
-  6708: We must take control of this situation immediately. Still, we cannot let them walk about the Northlands freely. Who knows what they're plotting under the guise of this “investigation.”${prompt}
-  6709: Francmage, listen. Go with the investigation party, and keep a close eye on what our foreign “friends” do. They are up to something, it is certain.${prompt}
-  6710: I am sure nothing will come of this, but in case they do find something in that wasteland, do not let them take it. Understood?${prompt}
-  6711: As you command, my lord. I would give the very blood that runs in my veins if it were to further the cause of our kingdom. You can rely on me.${prompt}
-  6712: These foreigners are wily and faithless. Never let down your guard, and may the Goddess of the Dawn protect you in Her mercy.${prompt}
-  6713: The king has taken a beautiful queen, and I think a splendid addition to the royal family is not far off. An heir, perhaps...${prompt}
-  6714: We people of San d'Oria, too, must ever look to the future. The Elvaan must never fall behind foreigners, in power or faith.${prompt}
-  6715: I understand, Your Grace.${prompt}
-  6716: Very good. Do well, Francmage.${prompt}
-  6717: Yes, sire! My life for the Kingdom!${prompt}
-  6718: Oh, it's you. Fear not; the precious dragon is not in danger. However, we have learned that Cyranuce is somewhere in the Ghelsba Outpost.${prompt}
-  6719: 'If he is to be saved, ${keyitem-article: 0[2]} is necessary. Drinking this may help separate him from the dragon that is feeding on his soul. Here, you take one as well.${prompt}'
-  6720: I plan on traveling there as soon as I have made my preparations. There is no time to lose. With every passing moment, his soul is further devoured.${prompt}
-  6721: Why, if it isn't ${name-player}. This time, your mission has been issued by the late Queen Leaute herself. What? It sounds strange? The king will inform you of the details.${prompt}
-  6722: What do I know about the late queen? I see. You'd like to do your homework before diving into this mission.${prompt}
-  6723: Well, Queen Leaute I d'Oraguille was originally the Princess of Tavnazia. She married into the d'Oraguille family before the Great War.${prompt}
-  6724: Known for her exquisite beauty, there wasn't a man in San d'Oria who wouldn't have given his right arm to spend a moment alone with her...including myself!${prompt}
-  6725: But, as you know, Tavnazia was left obliterated after the Great War. One could tell that this troubled the queen, but she would never show her pain in public.${prompt}
-  6726: If Tavnazia had survived ruin, Marquis Altedour's son--namely, Queen Leaute's younger brother--would have succeeded to the throne. However, after the war, her brother disappeared.${prompt}
-  6727: |-
-    The flames of war have the power to change destinies. I can only pray that our lives will be free of such tragedy.
-    I apologize. I went on too long. The king is ready for your audience now.${prompt}
-  6728: The king is ready for your audience. Proceed to the Great Hall.${prompt}
-  6729: I have heard good things about you, ${name-player}. Your contributions to the Kingdom are both welcomed and appreciated.${prompt}
-  6730: I assume you have heard the details from Halver. Your next mission is a request left by my late wife, Leaute, in her will.${prompt}
-  6731: You've visited the garden where the queen rests, have you not?${prompt}
-  6732: 'In that garden grows a rare, delicate flower, found only in certain remote areas of Vana''diel. My wife asked in her will that this flower, the ${keyitem-singular: 7[2]}, always bloom by her side.${prompt}'
-  6733: It sounds like a simple task, but the rarity of the seeds forces us to send out our finest warriors.${prompt}
-  6734: 'That is why I have called you here, ${name-player}. I can trust you will find ${keyitem-article: 7[2]} and plant it in the garden alongside my dear wife''s grave.${prompt}'
-  6735: 'You are to retrieve ${keyitem-article: 0[2]} from an oasis in the Altepa Desert. Good luck.${prompt}'
+  6703: Oui, monsieur.
+  6704: Francmage, je t'ai convoqué ici aujourd'hui pour parler d'une seule chose - l'enquête sur les Terres du Nord.${prompt}
+  6705: Oh, oui, ça. Ces Bastoker Humes causent bien des ennuis - disant qu'ils veulent enquêter ici, là, et ailleurs...${prompt}
+  6706: C'est vrai ! Les Humes sont des fous, et pas mieux. Peuvent-ils vraiment croire qu'un pouvoir ancien se cache dans ce désert abandonné ?${prompt}
+  6707: Hah ! Espèrent-ils trouver les portes du Paradis éternel là-bas, dans ce repaire de démons les plus grossiers ? Ridicule !${prompt}
+  6708: Nous devons prendre le contrôle de cette situation immédiatement. Cependant, nous ne pouvons pas les laisser se promener librement dans les Terres du Nord. Qui sait ce qu'ils trament sous le couvert de cette “enquête” ?${prompt}
+  6709: Francmage, écoute. Accompagne le groupe d'enquête et surveille de près ce que nos “amis” étrangers font. Ils complotent quelque chose, c'est certain.${prompt}
+  6710: Je suis sûr qu'il n'en résultera rien, mais au cas où ils trouveraient quelque chose dans ce désert, ne les laisse pas l'emmener. Est-ce bien compris ?${prompt}
+  6711: Comme vous le commandez, mon seigneur. Je donnerais le sang même qui coule dans mes veines si cela devait servir la cause de notre royaume. Vous pouvez compter sur moi.${prompt}
+  6712: Ces étrangers sont rusés et sans foi. Ne baissez jamais votre garde, et que la Déesse de l'Aube vous protège dans Sa miséricorde.${prompt}
+  6713: Le roi a pris une belle reine, et je pense qu'une splendide addition à la famille royale n'est pas loin. Un héritier, peut-être...${prompt}
+  6714: Nous, peuple de San d'Oria, aussi, devons toujours regarder vers l'avenir. Les Elvaan ne doivent jamais être en retard par rapport aux étrangers, ni en puissance ni en foi.${prompt}
+  6715: Je comprends, Votre Grâce.${prompt}
+  6716: Très bien. Fais bien, Francmage.${prompt}
+  6717: Oui, monsieur ! Ma vie pour le Royaume !${prompt}
+  6718: Oh, c'est vous. Ne craignez rien ; le précieux dragon n'est pas en danger. Cependant, nous avons appris que Cyranuce est quelque part dans le poste avancé de Ghelsba.${prompt}
+  6719: 'S’il doit être sauvé, ${keyitem-article: 0[2]} est nécessaire. Boire ceci peut aider à le séparer du dragon qui se nourrit de son âme. Tiens, prends-en un aussi.${prompt}'
+  6720: Je prévois de m'y rendre dès que j'aurai fait mes préparatifs. Il n'y a pas de temps à perdre. À chaque instant qui passe, son âme est davantage dévorée.${prompt}
+  6721: Eh bien, si ce n'est pas ${name-player}. Cette fois, votre mission a été émise par feu la Reine Leaute elle-même. Quoi ? Cela semble étrange ? Le roi vous informera des détails.${prompt}
+  6722: Que sais-je de la défunte reine ? Je vois. Vous aimeriez faire vos devoirs avant de plonger dans cette mission.${prompt}
+  6723: Eh bien, la Reine Leaute I d'Oraguille était à l'origine la Princesse de Tavnazia. Elle a épousé un membre de la famille d'Oraguille avant la Grande Guerre.${prompt}
+  6724: Connu pour sa beauté exquise, il n'y avait pas un homme à San d'Oria qui n'aurait pas donné son bras droit pour passer un moment seul avec elle... y compris moi-même !${prompt}
+  6725: Mais, comme vous le savez, Tavnazia a été laissée en ruines après la Grande Guerre. On pouvait dire que cela tourmentait la reine, mais elle ne montrerait jamais sa douleur en public.${prompt}
+  6726: Si Tavnazia avait survécu à la ruine, le fils du Marquis Altedour - à savoir, le frère cadet de la reine Leaute - aurait succédé au trône. Cependant, après la guerre, son frère a disparu.${prompt}
+  6727: |- 
+    Les flammes de la guerre ont le pouvoir de changer les destinées. Je ne peux que prier pour que nos vies soient exemptes d'une telle tragédie. 
+    Je m'excuse. J'ai été trop long. Le roi est prêt pour votre audience maintenant.${prompt}
+  6728: Le roi est prêt pour votre audience. Rendez-vous dans la Grande Salle.${prompt}
+  6729: J'ai entendu de bonnes choses à votre sujet, ${name-player}. Vos contributions au Royaume sont à la fois bienvenues et appréciées.${prompt}
+  6730: Je suppose que vous avez entendu les détails de la part de Halver. Votre prochaine mission est une demande laissée par feu ma femme, Leaute, dans son testament.${prompt}
+  6731: Vous avez visité le jardin où repose la reine, n'est-ce pas ?${prompt}
+  6732: 'Dans ce jardin pousse une fleur rare et délicate, que l’on ne trouve que dans certaines zones reculées de Vana’diel. Ma femme a demandé dans son testament que cette fleur, le ${keyitem-singular: 7[2]}, fleurisse toujours à ses côtés.${prompt}'
+  6733: Cela semble être une tâche simple, mais la rareté des graines nous force à envoyer nos meilleurs guerriers.${prompt}
+  6734: 'C’est pourquoi je vous ai appelé ici, ${name-player}. Je sais que vous trouverez ${keyitem-article: 7[2]} et que vous le planterez dans le jardin aux côtés de la tombe de ma chère épouse.${prompt}'
   6736: |-
     Excellent! The queen is sure to be pleased.
     Take the dreamrose to Chalvatot, the gardener. He will do the rest of the work.${prompt}
@@ -17106,7 +17105,7 @@ entries:
   7129: Nous avons enfin pris une décision, ${name-player}. Nous enverrons une expédition dans les maudites Terres du Nord.${prompt}
   7130: Elle se rendra dans les anciennes ruines de Fei'Yin, au nord-est du glacier de Beaucedine. Bien sûr, vous y allez aussi.${prompt}
   7131: Les ruines sont celles d'une ville construite par une ancienne civilisation que nous croyons plus avancée que la nôtre.${prompt}
-  7132: La race qui y vivait s'appelait les Zilart. Nous avons trouvé des ruines similaires sur le Cap Teriggan, au sud.${prompt} 
+  7132: La race qui y vivait s'appelait les Zilart. Nous avons trouvé des ruines similaires sur le Cap Teriggan, au sud.${prompt}
   7133: Étonnamment, elles restent intactes, bien qu'elles aient été construites il y a longtemps. C'est comme si une force invisible défiait le temps pour les protéger.${prompt}
   7134: Il y a trente ans, une expédition internationale a été envoyée dans les Terres du Nord. Ils devaient découvrir le secret de la puissance des Zilart.${prompt}
   7135: Ils sont revenus les mains vides. Nous avons besoin que vous vous rendiez au glacier de Beaucedine et que vous exploriez vous-même les ruines de Fei'Yin.${prompt}
@@ -17704,12 +17703,8 @@ entries:
   7622: 'Cela se peut. Mais même avec ${item-article: 1[2]}, il faudrait un voleur très habile pour échapper à tous les gardes du château.${prompt}'
   7623: Et selon le jardinier, nos visiteurs étaient un groupe de deux Elvaan...${prompt}
   7624: J'ai appris que des voleurs ont saccagé les chambres de la reine. Informez-moi immédiatement de ce qui a été volé !${prompt}
-  7625: |- 
-    Veuillez être rassuré, Votre Sainteté. 
-    Les Chevaliers du Temple ont déterminé que les voleurs n'ont rien volé dans le château.${prompt}
-  7626: |-
-    Absurde ! Si c'est le cas, pourquoi les voleurs sont-ils entrés en premier lieu ? 
-    Peut-être que la reine avait quelque chose de caché...${prompt}
+  7625: "Veuillez être rassuré, Votre Sainteté. \nLes Chevaliers du Temple ont déterminé que les voleurs n'ont rien volé dans le château.${prompt}"
+  7626: "Absurde ! Si c'est le cas, pourquoi les voleurs sont-ils entrés en premier lieu ? \nPeut-être que la reine avait quelque chose de caché...${prompt}"
   7627: Pardonnez-moi, Votre Sainteté, mais que voulez-vous dire par "quelque chose" ?${prompt}
   7628: Si je le savais, je ne vous le demanderais pas ! Mais les voleurs ne viendraient pas sans raison !${prompt}
   7629: Bien sûr, Votre Sainteté. J'ordonnerai aux Chevaliers du Temple de poursuivre leur enquête et de vous informer s'ils trouvent quelque chose.${prompt}
