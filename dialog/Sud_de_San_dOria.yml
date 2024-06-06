@@ -1,5 +1,5 @@
 entries:
-  0: The San d'Oria residential area is ahead. You'll find your Mog House within.${prompt}
+  0: Le quartier résidentiel de San d'Oria se trouve devant vous. Vous y trouverez votre Maison Mog.${prompt}
   1: Je ne t'ai pas encore parlé des Maisons Mog, n'est-ce pas ? Aimerais-tu en apprendre plus à ce sujet maintenant ?${prompt}
   2: |-
     Veux-tu en apprendre davantage sur les Maisons Mog ?
@@ -176,31 +176,31 @@ entries:
     ${zone: 7[2]} #${number: 23}.
     ${zone: 8[2]} #${number: 24}.
     ${zone: 9[2]} #${number: 25}.${prompt}
-  44: '${color-alt: 161}A mog tablet has been discovered in ${choice: 0}[West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth''s Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi''Tah/Ro''Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!'
+  44: '${color-alt: 161}Une tablette mog a été découverte dans ${choice: 0}[West Ronfaure/East Ronfaure/la Plaine de La Theine/les Dunes de Valkurm/la Forêt de Jugner/les Plaines de Batallia/Nord de Gustaberg/Sud de Gustaberg/les Hautes terres de Konschtat/les Marais de Pashhow/les Champs de Rolanberry/Beaucedine Glacier/Xarcabard/Ouest de Sarutabaruta/Est de Sarutabaruta/le Canyon de Tahrongi/la Péninsule de Buburimu/les Montagnes de Meriphataud/les Champs de Sauromugue/l’île de Qufim/Dominion de Behemoth/Cape Teriggan/le Désert d’Altepa Est/le Sanctuaire de Zi’Tah/Ro’Maeve/la Jungle de Yuhtunga/la Jungle de Yhoator/le Désert d’Altepa Ouest/la Vallée des Lamentations]!'
   45: |-
-    ${color-alt: 161}The complete set of mog tablets has been restored to Ru'Lude Gardens!
-    The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
+    ${color-alt: 161}L'ensemble complet des tablettes mog a été restauré dans les Jardins de Ru'Lude!
+    La magie ancienne du Roi Kupofried imprègne l'air pour doter les aventuriers de cette région de ses Super Kupouvoirs!
   46: |-
-    ${color-alt: 161}The strength of the ancient moogle magic has weakened, and the tablets have been scattered to the winds once more.
-    You can feel your Super Kupowers begin to fade away...
-  47: '${color-alt: 161}This area is currently affected by the Super Kupower: “Thrifty Transit”!'
-  48: '${color-alt: 161}This area is currently affected by the Super Kupower: “Martial Master”!'
-  49: '${color-alt: 161}This area is currently affected by the Super Kupower: “Blood of the Vampyr”!'
-  50: '${color-alt: 161}This area is currently affected by the Super Kupower: “Treasure Hound”!'
-  51: '${color-alt: 161}This area is currently affected by the Super Kupower: “Artisan''s Advantage”!'
-  52: '${color-alt: 161}This area is currently affected by the Super Kupower: “Myriad Mystery Boxes”!'
-  53: '${color-alt: 161}This area is currently affected by the Super Kupower: “Dilatory Digestion”!'
-  54: '${color-alt: 161}This area is currently affected by the Super Kupower: “Boundary Buster”!'
-  55: '${color-alt: 161}This area is currently affected by the Super Kupower: “Bountiful Bazaar”!'
-  56: '${color-alt: 161}This area is currently affected by the Super Kupower: “Swift Shoes”!'
-  57: '${color-alt: 161}This area is currently affected by the Super Kupower: “Crystal Caboodle”!'
+    ${color-alt: 161}La force de la magie ancienne des moogles a diminué, et les tablettes ont été dispersées aux vents une fois de plus.
+    Vous pouvez sentir vos Super Kupouvoirs commencer à s'affaiblir...
+  47: '${color-alt: 161}Cette région est actuellement affectée par le Super Kupouvoir : “Transit Économe”!'
+  48: '${color-alt: 161}Cette région est actuellement affectée par le Super Kupouvoir : “Maître Martial”!'
+  49: '${color-alt: 161}Cette région est actuellement affectée par le Super Kupouvoir : “Sang du Vampyr”!'
+  50: '${color-alt: 161}Cette région est actuellement affectée par le Super Kupouvoir : “Chasseur de Trésors”!'
+  51: '${color-alt: 161}Cette région est actuellement affectée par le Super Kupouvoir : “Avantage de l’Artisan”!'
+  52: '${color-alt: 161}Cette région est actuellement affectée par le Super Kupouvoir : “Myriade de Boîtes Mystères”!'
+  53: '${color-alt: 161}Cette région est actuellement affectée par le Super Kupouvoir : “Digestion Dilatoire”!'
+  54: '${color-alt: 161}Cette région est actuellement affectée par le Super Kupouvoir : “Briser les Limites”!'
+  55: '${color-alt: 161}Cette région est actuellement affectée par le Super Kupouvoir : “Bazar Bonanza”!'
+  56: '${color-alt: 161}Cette région est actuellement affectée par le Super Kupouvoir : “Pas de Course”!'
+  57: '${color-alt: 161}Cette région est actuellement affectée par le Super Kupouvoir : “Coffret Cristallin”!'
   58: |-
-    ${color-alt: 161}The ancient magic of King Kupofried fills the air, its glorious Super Kupowers bringing happiness and joy to the realm!
-    Visit the Explorer Moogle in Ru'Lude Gardens to find out more.
+    ${color-alt: 161}La magie ancienne du Roi Kupofried emplit l'air, ses Super Kupouvoirs glorieux apportant bonheur et joie au royaume!
+    Rendez visite au Moogle Explorateur dans les Jardins de Ru'Lude pour en savoir plus.
   59: |-
-    ${color-alt: 161}This area is currently affected by the Super Kupower: “${choice: 0}[/Thrifty Transit/Martial Master/Blood of the Vampyr/Treasure Hound/Artisan's Advantage/Myriad Mystery Boxes/Dilatory Digestion/Boundary Buster/Bountiful Bazaar/Swift Shoes/Crystal Caboodle]”!
-    This area is currently affected by the Super Kupower: “${choice: 1}[/Thrifty Transit/Martial Master/Blood of the Vampyr/Treasure Hound/Artisan's Advantage/Myriad Mystery Boxes/Dilatory Digestion/Boundary Buster/Bountiful Bazaar/Swift Shoes/Crystal Caboodle]”!
-    This area is currently affected by the Super Kupower: “${choice: 2}[/Thrifty Transit/Martial Master/Blood of the Vampyr/Treasure Hound/Artisan's Advantage/Myriad Mystery Boxes/Dilatory Digestion/Boundary Buster/Bountiful Bazaar/Swift Shoes/Crystal Caboodle]”!
+    ${color-alt: 161}Cette région est actuellement affectée par le Super Kupouvoir : “${choice: 0}[/Transit Économe/Maître Martial/Sang du Vampyr/Chasseur de Trésors/Avantage de l'Artisan/Myriade de Boîtes Mystères/Digestion Dilatoire/Briser les Limites/Bazar Bonanza/Pas de Course/Coffret Cristallin]”!
+    Cette région est actuellement affectée par le Super Kupouvoir : “${choice: 1}[/Transit Économe/Maître Martial/Sang du Vampyr/Chasseur de Trésors/Avantage de l'Artisan/Myriade de Boîtes Mystères/Digestion Dilatoire/Briser les Limites/Bazar Bonanza/Pas de Course/Coffret Cristallin]”!
+    Cette région est actuellement affectée par le Super Kupouvoir : “${choice: 2}[/Transit Économe/Maître Martial/Sang du Vampyr/Chasseur de Trésors/Avantage de l'Artisan/Myriade de Boîtes Mystères/Digestion Dilatoire/Briser les Limites/Bazar Bonanza/Pas de Course/Coffret Cristallin]”!
   60: The synergy furnace is currently claimed.${prompt}
   61: |-
     Claim usage of the furnace?
@@ -16209,7 +16209,7 @@ entries:
   6507: '${number: 4} ${number: 5} ${number: 6} ${number: 7}'
   6508: La période de classement Unity a commencé.
   6509: La période de classement Unity est terminée.
-  6510: '${choice: 0}[Non classé/En première place/En deuxième place/En troisième place/En quatrième place/En cinquième place]: ${choice: 1}[Pieuje/Ayame/Bouclier Invincible/Apururu/Maat/Aldo/Jakoh Wahcondalo/Naja Salaheem/Flaviria/Yoran-Oran/Sylvie].' 
+  6510: '${choice: 0}[Non classé/En première place/En deuxième place/En troisième place/En quatrième place/En cinquième place]: ${choice: 1}[Pieuje/Ayame/Bouclier Invincible/Apururu/Maat/Aldo/Jakoh Wahcondalo/Naja Salaheem/Flaviria/Yoran-Oran/Sylvie].'
   6511: |-
     Sautez dans le vortex ?
     ${selection-lines}
@@ -16270,7 +16270,7 @@ entries:
   6547: |-
     Hmmm... It looks like you don't have enough Allied Notes.
     Sorry, but these birds aren't going to feed and groom themselves.${prompt}
-  6548: 'I''m sorry, but we don''t put our chocobos in the hands of people with ${keyitem-article: 0[2]}. We wouldn''t want our feathered friends dying from fright now, would we?${prompt}' 
+  6548: 'I''m sorry, but we don''t put our chocobos in the hands of people with ${keyitem-article: 0[2]}. We wouldn''t want our feathered friends dying from fright now, would we?${prompt}'
   6549: |-
     Votre destinée est portée par les vents changeants de Vana'diel.
     Je peux vous donner un aperçu de la météo locale.${prompt}
@@ -16338,7 +16338,7 @@ entries:
     Yorcia Weald.
     Marjami Ravine.
     Kamihr Drifts.${prompt}
-  6566: "Puis-je vous intéresser à des cartes magiques ?${prompt}"
+  6566: Puis-je vous intéresser à des cartes magiques ?${prompt}
   6567: |-
     Acheter une carte ?
     ${selection-lines}
@@ -16362,9 +16362,9 @@ entries:
     ${lettercase: 1}${keyitem-singular: 16[2]} (${number: 32} gil).
     Page précédente.
     Page suivante.${prompt}
-  6568: "Lorsque vous regardez une carte de votre zone actuelle, vous pouvez voir la topographie ainsi que votre position actuelle.${prompt}"
-  6569: "Les membres de votre groupe et de votre alliance apparaîtront également sur la carte. De plus, certaines professions vous permettent de repérer des personnes et des monstres à distance.${prompt}"
-  6570: "Elles sont particulièrement utiles car vous pouvez marquer où vous êtes allé, et certaines personnes peuvent également les marquer pour vous.${prompt}"
+  6568: Lorsque vous regardez une carte de votre zone actuelle, vous pouvez voir la topographie ainsi que votre position actuelle.${prompt}
+  6569: Les membres de votre groupe et de votre alliance apparaîtront également sur la carte. De plus, certaines professions vous permettent de repérer des personnes et des monstres à distance.${prompt}
+  6570: Elles sont particulièrement utiles car vous pouvez marquer où vous êtes allé, et certaines personnes peuvent également les marquer pour vous.${prompt}
   6571: |-
     "Le ${keyitem-singular: 1[2]} couvre Ronfaure, le plateau de La Theine, les dunes de Valkurm, la forêt de Jugner, Selbina et San d'Oria.
     Il coûte ${number: 3} gil.${prompt}"
@@ -16377,10 +16377,10 @@ entries:
   6574: |-
     "Le ${keyitem-singular: 1[2]} couvre les plaines de Batallia, les champs de Rolanberry, la campagne de Sauromugue et Jeuno.
     Il coûte ${number: 3} gil.${prompt}"
-  6575: "Cette carte complète ${keyitem-singular: 1[2]}, qui s'étend bien au-delà du plateau de La Theine, coûte ${number: 3} gil.${prompt}"
-  6576: "${lettercase: 1}${keyitem-plural: 1[2]} incluent les plans du poste avancé et de la forteresse de Ghelsba, ainsi que de la grotte de Yughott. Il coûte ${number: 3} gil.${prompt}"
-  6577: "Le ${keyitem-singular: 1[2]} montre la forteresse Orc cachée dans la forêt de Jugner. Il est au prix de ${number: 3} gil.${prompt}"
-  6578: "Cette carte montre les voies navigables et les îles qui composent le débarcadère des Charpentiers. Elle est au prix de ${number: 3} gil.${prompt}"
+  6575: 'Cette carte complète ${keyitem-singular: 1[2]}, qui s''étend bien au-delà du plateau de La Theine, coûte ${number: 3} gil.${prompt}'
+  6576: '${lettercase: 1}${keyitem-plural: 1[2]} incluent les plans du poste avancé et de la forteresse de Ghelsba, ainsi que de la grotte de Yughott. Il coûte ${number: 3} gil.${prompt}'
+  6577: 'Le ${keyitem-singular: 1[2]} montre la forteresse Orc cachée dans la forêt de Jugner. Il est au prix de ${number: 3} gil.${prompt}'
+  6578: 'Cette carte montre les voies navigables et les îles qui composent le débarcadère des Charpentiers. Elle est au prix de ${number: 3} gil.${prompt}'
   6579: |-
     "Le ${keyitem-singular: 1[2]}, comme son nom l'indique, contient le plan des mines de Zeruhn à Bastok.
     Il coûte ${number: 3} gil.${prompt}"
@@ -16405,27 +16405,27 @@ entries:
   6586: |-
     "Cette carte couvre la baie de Bibiki et ses îles voisines.
     Il coûte ${number: 3} gil.${prompt}"
-  6587: "Le ${keyitem-singular: 1[2]} décrit la géographie de l'île voisine de Qufim. Il coûte ${number: 3} gil.${prompt}"
-  6588: "Située sous les plaines de Batallia, la nécropole d'Eldieme est détaillée sur cette carte. Le prix est de ${number: 3} gil.${prompt}"
-  6589: "La citadelle de Garlaige, qui se trouve sur la campagne de Sauromugue, est illustrée sur cette carte. Chaque exemplaire coûte ${number: 3} gil.${prompt}"
-  6590: "${lettercase: 1}${keyitem-plural: 1[2]} incluent Kazham, ainsi que les deux jungles de Yuhtunga et Yhoator pour ${number: 3} gil.${prompt}"
-  6591: "${lettercase: 1}${keyitem-plural: 1[2]} incluent ${zone: 2[2]} pour ${number: 3} gil.${prompt}"
-  6592: "${lettercase: 1}${keyitem-plural: 1[2]} incluent ${zone: 2[2]} ainsi que ${zone: 4[2]} pour ${number: 3} gil.${prompt}"
-  6593: "${lettercase: 1}${keyitem-plural: 1[2]} incluent ${zone: 2[2]}, ainsi que ${zone: 4[2]} et ${zone: 5[2]} pour ${number: 3} gil.${prompt}"
+  6587: 'Le ${keyitem-singular: 1[2]} décrit la géographie de l''île voisine de Qufim. Il coûte ${number: 3} gil.${prompt}'
+  6588: 'Située sous les plaines de Batallia, la nécropole d''Eldieme est détaillée sur cette carte. Le prix est de ${number: 3} gil.${prompt}'
+  6589: 'La citadelle de Garlaige, qui se trouve sur la campagne de Sauromugue, est illustrée sur cette carte. Chaque exemplaire coûte ${number: 3} gil.${prompt}'
+  6590: '${lettercase: 1}${keyitem-plural: 1[2]} incluent Kazham, ainsi que les deux jungles de Yuhtunga et Yhoator pour ${number: 3} gil.${prompt}'
+  6591: '${lettercase: 1}${keyitem-plural: 1[2]} incluent ${zone: 2[2]} pour ${number: 3} gil.${prompt}'
+  6592: '${lettercase: 1}${keyitem-plural: 1[2]} incluent ${zone: 2[2]} ainsi que ${zone: 4[2]} pour ${number: 3} gil.${prompt}'
+  6593: '${lettercase: 1}${keyitem-plural: 1[2]} incluent ${zone: 2[2]}, ainsi que ${zone: 4[2]} et ${zone: 5[2]} pour ${number: 3} gil.${prompt}'
   6594: |-
     "Acheter ${keyitem-article: 0[2]} ?
     ${selection-lines}
     Oui.
     Non.${prompt}"
-  6595: "Vous n'avez pas assez d'argent, ${choice-player-gender}[monsieur/madame].${prompt}"
-  6596: "Les cartes de la région de Kuzotz incluent le désert d'Altepa ainsi que Rabao pour ${number: 3} gil.${prompt}"
-  6597: "Les cartes de la région de Vollbow incluent le cap Teriggan, ainsi que la vallée des Souffrances et le tunnel de Gustav pour ${number: 3} gil.${prompt}"
-  6598: "Les cartes du tunnel de Korroloka sont, comme leur nom l'indique, des cartes du tunnel de Korroloka, qui relie le désert d'Altepa et les mines de Zeruhn.${prompt}"
-  6599: "La carte d'Al Zahbi inclut également la porte blanche d'Aht Urhgan et le Colisée. Elle coûte ${number: 2} gil.${prompt}"
-  6600: "Cette carte montre la disposition de la ville de Nashmau sur l'île d'Azouph. Elle coûte ${number: 3} gil.${prompt}"
-  6601: "Cette carte montre le tracé forestier s'étendant à l'ouest d'Al Zahbi. Une carte des bois de Wajaom peut être à vous pour ${number: 3} gil.${prompt}"
-  6602: "Cette carte montre les fourrés de Bhaflau, situés au nord d'Al Zahbi. Elle coûte ${number: 3} gil.${prompt}"
-  6603: "${keyitem-article: 1[2]} est une ancienne carte souvent utilisée pour représenter ${zone: 2[2]}. Elle coûte ${number: 3} gil.${prompt}"
+  6595: Vous n'avez pas assez d'argent, ${choice-player-gender}[monsieur/madame].${prompt}
+  6596: 'Les cartes de la région de Kuzotz incluent le désert d''Altepa ainsi que Rabao pour ${number: 3} gil.${prompt}'
+  6597: 'Les cartes de la région de Vollbow incluent le cap Teriggan, ainsi que la vallée des Souffrances et le tunnel de Gustav pour ${number: 3} gil.${prompt}'
+  6598: Les cartes du tunnel de Korroloka sont, comme leur nom l'indique, des cartes du tunnel de Korroloka, qui relie le désert d'Altepa et les mines de Zeruhn.${prompt}
+  6599: 'La carte d''Al Zahbi inclut également la porte blanche d''Aht Urhgan et le Colisée. Elle coûte ${number: 2} gil.${prompt}'
+  6600: 'Cette carte montre la disposition de la ville de Nashmau sur l''île d''Azouph. Elle coûte ${number: 3} gil.${prompt}'
+  6601: 'Cette carte montre le tracé forestier s''étendant à l''ouest d''Al Zahbi. Une carte des bois de Wajaom peut être à vous pour ${number: 3} gil.${prompt}'
+  6602: 'Cette carte montre les fourrés de Bhaflau, situés au nord d''Al Zahbi. Elle coûte ${number: 3} gil.${prompt}'
+  6603: '${keyitem-article: 1[2]} est une ancienne carte souvent utilisée pour représenter ${zone: 2[2]}. Elle coûte ${number: 3} gil.${prompt}'
   6604: Oh... Je pensais que quelque part dans ces murs je trouverais mon prince charmant...${prompt}
   6605: What's that? Do I know you?${prompt}
   6606: A library book? Ah! That's rrright! That book I borrowed in Windurst.${prompt}
@@ -17137,20 +17137,20 @@ entries:
   6859: Chacun ses affaires. Mais si vous souhaitez rester ici, veuillez ne toucher à rien.
   6860: Vous devez être l'un de ces aventuriers. Je le vois dans vos yeux ardents. Pour une raison quelconque, ce syndicat est populaire auprès de votre genre.${prompt}
   6861: |-
-        Nous allons vous initier à la synthèse de cristaux.
-        Sans cela, il sera impossible pour vous de poursuivre vos aventures et votre nouveau métier.${prompt}
+    Nous allons vous initier à la synthèse de cristaux.
+    Sans cela, il sera impossible pour vous de poursuivre vos aventures et votre nouveau métier.${prompt}
   6862: Utilisez un cristal, formez une image du produit fini... et pouf ! Des bottes instantanées ! Des bandeaux instantanés!${prompt}
   6863: |-
-        Mais pour former une image parfaite d'un produit, vous devez pratiquer, pratiquer, pratiquer.
-        Je suis sûr que vous avez déjà entendu cela, mais nous apprenons tous de nos erreurs.${prompt}
+    Mais pour former une image parfaite d'un produit, vous devez pratiquer, pratiquer, pratiquer.
+    Je suis sûr que vous avez déjà entendu cela, mais nous apprenons tous de nos erreurs.${prompt}
   6864: Si vous le souhaitez, les autres ici pourront vous informer des matériaux dont vous avez besoin pour commencer. Ils semblent impatients de vous voir nous rejoindre.${prompt}
   6865: Un moyen d'améliorer rapidement vos compétences est de demander aux autres aventuriers de collecter des peaux. Ensuite, vous pourrez les rembourser avec les fruits de votre travail.${prompt}
   6866: Mon rêve est d'ouvrir des magasins partout dans Vana'diel. Je suis certain qu'avec votre aide, cela deviendra réalité.${prompt}
   6867: 'Je vois que vous êtes prêt à passer à autre chose. Je veux que vous me fassiez ${article} ${item-article: 0[2]}.${prompt}'
   6868: Si vous réussissez, je vous accorderai un nouveau titre et vous enseignerai de nouvelles techniques.${prompt}
   6869: |-
-        Beau travail ! Vous êtes maintenant digne du titre de ${choice: 7}[amateur/recrue/initié/novice/apprenti].
-        Continuez à vous défier et à perfectionner vos compétences.${prompt}
+    Beau travail ! Vous êtes maintenant digne du titre de ${choice: 7}[amateur/recrue/initié/novice/apprenti].
+    Continuez à vous défier et à perfectionner vos compétences.${prompt}
   6870: Travail merveilleux ! Vous êtes maintenant digne du titre de compagnon. Les gens sur les marchés commencent à parler de vous.${prompt}
   6871: Travail stupéfiant ! Je suis ravi de vous appeler un artisan ! Avez-vous déjà pensé à lancer votre propre ligne de produits ?${prompt}
   6872: Je suis à court de mots ! Il y a peu de choses de plus que je puisse vous enseigner. Vous êtes un véritable adepte !${prompt}
@@ -17159,13 +17159,13 @@ entries:
   6875: Je ne peux pas vous aider.${prompt}
   6876: Payez ou partez.${prompt}
   6877: |-
-        ...
-        Yeux... Fermez-les.${prompt}
+    ...
+    Yeux... Fermez-les.${prompt}
   6878: 'Pour ${article} ${item-article: 0[2]}, vous aurez besoin de...${prompt}'
   6879: J'ai d'autres tâches à m'occuper. Si vous avez fini, partez rapidement.${prompt}
   6880: |-
-        Plouf plouf j'étais en train de prendre un bain.♪
-        Un soir de Jeudi de Tonnerre.♪${prompt}
+    Plouf plouf j'étais en train de prendre un bain.♪
+    Un soir de Jeudi de Tonnerre.♪${prompt}
   6881: Hah hah ! Je suis flatté, mais je ne pense pas que vous ayez besoin de moi maintenant.${prompt}
   6882: Euh... Vous êtes un peu court sur les gils. Pas aussi court que moi, cependant. Hah hah!${prompt}
   6883: D'accord ! Maintenant, si vous fermiez les yeux et veniez un peu plus près...${prompt}
@@ -17915,7 +17915,7 @@ entries:
   7291: Qu'est-ce que c'est, un rapport pour notre royaume ? Je vois. Apportez cela au monarlais lorsque vous irez.${prompt}
   7292: 'Vous devriez recevoir ${keyitem-article: 0[2]} de Monarlais Halver. Maintenant, allez au Château d’Oraguille et faites-leur savoir que vous êtes de retour !${prompt}'
   7293: Dépêchez-vous au Château d'Oraguille et remettez ce rapport à Monarlais Halver !${prompt}
-  7294: Vous atteignez le rang 3 !${prompt}  
+  7294: Vous atteignez le rang 3 !${prompt}
   7295: Ah ! Vous arrivez juste au bon moment. Zantaviat, l'un de nos éclaireurs à Davoi, a besoin d'un aventurier.${prompt}
   7296: Il veut quelqu'un pour infiltrer Davoi et faire du repérage derrière les lignes ennemies. Connaissez-vous quelqu'un correspondant à cette description ?${prompt}
   7297: 'Maintenant que vous avez votre ${keyitem-singular: 0[2]}, c’est une opportunité de prouver que vous en valez la peine !${prompt}'
@@ -17989,9 +17989,9 @@ entries:
   7357: 'Et ce ${keyitem-singular: 0[2]}... Nous devrons l’analyser et commencer la reproduction pour nos forces. Nous ne pouvons pas laisser les Orcs mettre la Main du Dragon avant que San d’Oria ne le fasse.${prompt}'
   7358: Félicitations pour l'achèvement de ta mission. Hein ? Connais-je un aventurier nommé Eideialc ? Je n'en ai jamais entendu parler.${prompt}
   7359: Mais tu n'as pas à t'inquiéter d'un simple voyageur. Tu es dans une toute autre catégorie. Tu es maintenant rang 8 !${prompt}
-  7360: La cérémonie de passage à l'âge adulte de la princesse Claidie approche. Cette cérémonie est un élément important de la tradition d'Oraguille.${prompt} 
+  7360: La cérémonie de passage à l'âge adulte de la princesse Claidie approche. Cette cérémonie est un élément important de la tradition d'Oraguille.${prompt}
   7361: Monarlais Halver a lancé un appel aux aventuriers de haut rang pour leur assistance au Château d'Oraguille.${prompt}
-  7362: Ah, la jeune princesse est enfin devenue une dame... Oh, je suis désolé. Tu peux obtenir les détails de ta prochaine mission auprès de Sir Halver.${prompt} 
+  7362: Ah, la jeune princesse est enfin devenue une dame... Oh, je suis désolé. Tu peux obtenir les détails de ta prochaine mission auprès de Sir Halver.${prompt}
   7363: Quoi ? Tu ne souhaites pas rendre la pareille à la gentillesse que la princesse t'a montrée ces derniers mois ? Comme tu voudras... mais si tu changes d'avis, tu sais où me trouver.${prompt}
   7364: Je suis occupé avec les préparatifs de la cérémonie de passage à l'âge adulte de la princesse Claidie. Tu ne sais pas quel genre de vermine pourrait errer dans les rues et chercher des ennuis.${prompt}
   7365: La cérémonie de passage à l'âge adulte de la princesse Claidie est sur le point de commencer à la cathédrale. Je dois rester à mon poste, mais pourquoi ne pas y assister ?${prompt}
@@ -18244,7 +18244,7 @@ entries:
     Le destin de Raogrimm est entre tes mains.
   7483: Il y a une branche cassée enfoncée dans le sol ici.${prompt}
   7484: Il y a un symbole gravé dans la roche ici.${prompt}
-  7485: Je t'attendais.${prompt} 
+  7485: Je t'attendais.${prompt}
   7486: |-
     Te souviens-tu des dernières paroles que Raogrimm t'a dites ? "Le lien sera bientôt coupé"...
     Comprends-tu la signification de ces mots ?${prompt}
@@ -18456,7 +18456,7 @@ entries:
     Vous entendez une voix mystérieuse et flottante :
     Les grains du temps continuent de tomber...
     Présentez le... ${item-singular: 0[2]}.${prompt}
-  7572: Je suis le souverain de Dynamis.${prompt}  
+  7572: Je suis le souverain de Dynamis.${prompt}
   7573: |-
     Es-tu perdu ? Ou es-tu ici par tes propres desseins imprudents ?
     Dans tous les cas, ce n'est pas ton rêve.${prompt}
@@ -18509,7 +18509,7 @@ entries:
   7608: 'Pour accéder à Dynamis - ${choice: 0}[Dummy/San d''Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], “Échangez” le ${item-singular: 7[2]} aux “Hiéroglyphes” où vous l’avez initialement reçu.${prompt}'
   7609: 'Veuillez noter qu’il n’est pas possible d’entrer à Dynamis - ${choice: 0}[Dummy/San d''Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] sans le ${keyitem-article: 5[2]}, même si vous échangez le ${item-singular: 7[2]} requis.${prompt}'
   7610: De plus, seuls les joueurs de niveau 64 ou plus peuvent se rendre dans la Terre Voilée.${prompt}
-  7611: 'Assurez-vous d’avoir ${keyitem-article: 2[2]} en votre possession, puis cherchez les “Marques de Piste” ou les “Hiéroglyphes” trouvés dans chaque région.${prompt}'  
+  7611: 'Assurez-vous d’avoir ${keyitem-article: 2[2]} en votre possession, puis cherchez les “Marques de Piste” ou les “Hiéroglyphes” trouvés dans chaque région.${prompt}'
   7612: Examinez-les et vous obtiendrez l'entrée dans la zone Dynamis correspondante.${prompt}
   7613: 'Dynamis - ${choice: 0}[Dummy/San d''Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] ne sera réservé à personne. Il sera accessible à tous ceux qui remplissent les conditions d’entrée.${prompt}'
   7614: 'Votre séjour à Dynamis - ${choice: 0}[Dummy/San d''Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] sera soumis à une restriction de temps. Les groupes seront automatiquement expulsés de la zone lorsque ce temps sera écoulé.${prompt}'
@@ -18526,10 +18526,10 @@ entries:
     Dynamis - ${choice: 0}[Dummy/Dummy/Dummy/Dummy/Dummy/Dummy/Dummy/Buburimu/Valkurm/Valkurm/Valkurm].
     Dynamis - ${choice: 0}[Dummy/Dummy/Dummy/Dummy/Dummy/Dummy/Dummy/Qufim/Qufim/Buburimu/Buburimu].
     Dynamis - ${choice: 0}[Dummy/Dummy/Dummy/Dummy/Dummy/Dummy/Dummy/Tavnazia/Tavnazia/Tavnazia/Qufim.]${prompt}
-  7625: "Vous pouvez confirmer le temps d’attente restant avant qu’une réentrée ne soit autorisée à tout moment en examinant les Marques de Piste ou les Hiéroglyphes."
-  7626: "Les voyages vers Dynamis - ${choice: 0}[Dummy/San d''Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] sont limités à une fois par ${choice: 1}[jour/dix minutes] (heure terrestre)."
-  7627: "Même si vous êtes expulsé de la zone par magie ou si vous êtes KO, vous ne pourrez pas réentrer tant que la période d’attente n'aura pas expiré."
-  7628: "En plus de Dynamis - ${choice: 0}[Dummy/San d''Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], cette restriction s’appliquera également aux autres zones de Dynamis."
+  7625: Vous pouvez confirmer le temps d’attente restant avant qu’une réentrée ne soit autorisée à tout moment en examinant les Marques de Piste ou les Hiéroglyphes.
+  7626: 'Les voyages vers Dynamis - ${choice: 0}[Dummy/San d''''Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] sont limités à une fois par ${choice: 1}[jour/dix minutes] (heure terrestre).'
+  7627: Même si vous êtes expulsé de la zone par magie ou si vous êtes KO, vous ne pourrez pas réentrer tant que la période d’attente n'aura pas expiré.
+  7628: 'En plus de Dynamis - ${choice: 0}[Dummy/San d''''Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], cette restriction s’appliquera également aux autres zones de Dynamis.'
   7629: |-
     Dynamis - ${choice: 0}[Dummy/Bastok/San d'Oria/San d'Oria/San d'Oria/San d'Oria/San d'Oria/Dummy/Dummy/Dummy/Dummy].
     Dynamis - ${choice: 0}[Dummy/Windurst/Windurst/Bastok/Bastok/Bastok/Bastok/Dummy/Dummy/Dummy/Dummy].
@@ -18537,18 +18537,18 @@ entries:
   7630: |-
     Dynamis - ${choice: 0}[Dummy/Beaucedine/Beaucedine/Beaucedine/Beaucedine/Jeuno/Jeuno/Dummy/Dummy/Dummy/Dummy].
     Dynamis - ${choice: 0}[Dummy/Xarcabard/Xarcabard/Xarcabard/Xarcabard/Xarcabard/Beaucedine/Dummy/Dummy/Dummy/Dummy].${prompt}
-  7631: "Vous pouvez confirmer le temps d'attente restant avant qu'une réentrée ne soit autorisée à tout moment en examinant les Marques de Piste ou les Hiéroglyphes."
-  7632: "Dans Dynamis - ${choice: 0}[Dummy/San d''Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], il est possible de coopérer avec d'autres personnages pour vaincre des ennemis sans être dans le même groupe ou alliance."
-  7633: "De plus, les objets laissés par les ennemis deviennent disponibles pour chaque personnage dans la zone pour lancer des dés. Comme dans les groupes normaux, l'objet est obtenu par le personnage qui lance le plus haut dé." 
-  7634: "Veuillez noter que les objets non désignés dans le délai imparti peuvent aller à des personnages aléatoires ou être perdus complètement."
-  7635: "À partir de l'entrée du premier personnage, si le nombre de personnes dans Dynamis - ${choice: 0}[Dummy/San d''Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] atteint zéro et reste à zéro pendant environ ${number: 2} ${choice-plurality: 2}[minute/minutes] (heure terrestre), le temps et la désignation de la zone sur le ${item-singular: 7[2]} seront annulés."
-  7636: "Lors des combats contre les ennemis dans Dynamis - ${choice: 0}[Dummy/San d''Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], il ne sera possible de coopérer qu'avec des personnages du même groupe ou alliance."
-  7637: "Les trésors laissés par les ennemis seront disponibles pour chaque personnage du groupe ou de l'alliance pour lancer des dés. L'objet sera attribué au personnage qui lance le plus haut dé."
-  7638: "Veuillez noter que les objets non désignés dans le délai imparti peuvent aller à un membre aléatoire du groupe ou de l'alliance, ou être perdus complètement."
-  7639: "Vous ne recevez rien du lapin de la lune..."
-  7640: "Le lapin de la lune a amené un monstre avec lui !"
-  7641: "Il faut faire quelque chose à propos de ces arbres fous, kupo !"
-  7642: "Vous avez fini de combattre les arbres, kupo ?"
+  7631: Vous pouvez confirmer le temps d'attente restant avant qu'une réentrée ne soit autorisée à tout moment en examinant les Marques de Piste ou les Hiéroglyphes.
+  7632: 'Dans Dynamis - ${choice: 0}[Dummy/San d''''Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], il est possible de coopérer avec d''autres personnages pour vaincre des ennemis sans être dans le même groupe ou alliance.'
+  7633: De plus, les objets laissés par les ennemis deviennent disponibles pour chaque personnage dans la zone pour lancer des dés. Comme dans les groupes normaux, l'objet est obtenu par le personnage qui lance le plus haut dé.
+  7634: Veuillez noter que les objets non désignés dans le délai imparti peuvent aller à des personnages aléatoires ou être perdus complètement.
+  7635: 'À partir de l''entrée du premier personnage, si le nombre de personnes dans Dynamis - ${choice: 0}[Dummy/San d''''Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] atteint zéro et reste à zéro pendant environ ${number: 2} ${choice-plurality: 2}[minute/minutes] (heure terrestre), le temps et la désignation de la zone sur le ${item-singular: 7[2]} seront annulés.'
+  7636: 'Lors des combats contre les ennemis dans Dynamis - ${choice: 0}[Dummy/San d''''Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], il ne sera possible de coopérer qu''avec des personnages du même groupe ou alliance.'
+  7637: Les trésors laissés par les ennemis seront disponibles pour chaque personnage du groupe ou de l'alliance pour lancer des dés. L'objet sera attribué au personnage qui lance le plus haut dé.
+  7638: Veuillez noter que les objets non désignés dans le délai imparti peuvent aller à un membre aléatoire du groupe ou de l'alliance, ou être perdus complètement.
+  7639: Vous ne recevez rien du lapin de la lune...
+  7640: Le lapin de la lune a amené un monstre avec lui !
+  7641: Il faut faire quelque chose à propos de ces arbres fous, kupo !
+  7642: Vous avez fini de combattre les arbres, kupo ?
   7643: ${prompt}
   7644: ${prompt}
   7645: ${prompt}
@@ -18556,15 +18556,15 @@ entries:
   7647: ${prompt}
   7648: ${prompt}
   7649: ${prompt}
-  7650: |
+  7650: |-
     Hé, toi !
     Sache que seul le véritable chef de la Brigade des Oignons Étoilés peut s'asseoir là ! Descends immédiatement avant que je ne t'accuse de trouble arboricole et de dérangement des pois !${prompt}
   7651: Je ne sais pas comment tu es entré, mais cette zone est interdite. Quitte les lieux immédiatement !${prompt}
   7652: Vo...vo...voici votre livraison...<grogne>...!${prompt}
-  7653: |
+  7653: |-
     Merci encore une fois.
     Agile sur tes pieds aujourd'hui, je vois !${prompt}
-  7654: |
+  7654: |-
     Des arbres qui marchent !? Quelle...qu'est-ce que c'est que ça ?
     Sont-ils aussi des créations conjurées avec la magie des Tarutarus ?${prompt}
   7655: '　${wait-animation: 0}${prompt}'
@@ -18581,48 +18581,48 @@ entries:
   7659: '${unknown: 0x0250000354}${unknown: 0x0159657420796F756E6720456C7661616E206B6E6967687473207374696C6C2076656E747572650770726F75646C7920696E746F207468652077696C6473206F662056616E61276469656C2C0764657465726D696E656420746F20}triumph over any foe.${wait-animation: 9}${prompt}'
   7660: '${unknown: 0x0250000354}${unknown: 0x014F6E207468697320706172746963756C61722064617920746865726520636F6D65732061206E657707616476656E74757265722C20726561647920746F206D616B652061206E616D6520666F72077F85}[himself/herself] in San d''Oria.${wait-animation: 9}${prompt}'
   7661: '${unknown: 0x0250000354}${unknown: 0x01546865206B696E672077697368657320746F20626F6C73746572206869732072616E6B732C07616E64200820686173206A6F75726E657965642066617207746F20616E73776572207468652063616C6C2E7F34097F}1'
-  7662: |
+  7662: |-
     ${unknown: 0x0250000354}${unknown: 0x0153686F756C6420666F7274756E65206661766F72207F855B68696D2F6865725D2C206261726473206163726F737307746865206C616E642077696C6C2073696E67206F66207F855B6869732F6865725D20657870}résultats pour
     les générations à venir.${wait-animation: 9}${prompt}
-  7663: |
+  7663: |-
     ${unknown: 0x0250000354}${unknown: 0x014F6620636F757273652C207F855B68652F7368655D20686173206F6E6C7920626567756E207F855B6869732F6865725D207269736520746F07676C6F72792E204E6F206F6E652063616E2074656C6C20}ce que ${choice-player-gender}[son/sa] futur
     réserve.${wait-animation: 9}${prompt}
-  7664: |
+  7664: |-
     ${unknown: 0x0250000354}${unknown: 0x014E65766572206265666F726520686173207F855B68652F7368655D2073657420666F6F742077697468696E2074686507456C7661616E206361706974616C2C20627574207F855B68652F7368655D20}est résolu à ne
     rien laisser entraver son chemin.${wait-animation: 5}${prompt}
-  7665: "Je vous prie de regarder où vous allez !${prompt}"
-  7666: "Oh, un nouveau recrue, n'est-ce pas ? Cela explique tout !${prompt}"
-  7667: "Eh bien, loin de moi l'idée de réprimander quelqu'un en ce ${choice-player-gender}[premier jour]. Mais en tant que citoyen de San d'Oria, vous--${prompt}"
-  7668: "Attendez, l'expédition est rentrée.${prompt}"
-  7669: "Halte ! Je dois inspecter vos rangs pour repérer les infiltrés.${prompt}"
-  7670: "Oh, laissez-nous passer. Nous sommes épuisés !${prompt}"
-  7671: "Je dois quand même vérifier les infiltrés. En tant que Chevalier du Temple, je suis responsable de la sécurité de la citadelle. Vous, Chevaliers Royaux, devez coopérer.${prompt}"
-  7672: "Est-ce ainsi que vous nous remerciez, en nous traitant comme des criminels !${prompt}"
-  7673: "Vous, Chevaliers du Temple, avez la belle vie, en sécurité derrière ces murs. Nous n'avons pas le temps pour vos jeux !${prompt}"
-  7674: "Comment osez-vous !${prompt}"
-  7675: "Que se passe-t-il ici ?${prompt}"
-  7676: "Dame Curilla ! Ces Chevaliers Royaux refusent de vérifier leur identité.${prompt}"
-  7677: "Bienvenue de retour, Chevaliers Royaux. Vous devez être fatigués. Après avoir rendu compte au Prince Trion, enlevez votre armure et retrouvez vos familles. Ils vous ont longtemps attendus.${prompt}"
-  7678: "Oui, Dame Curilla !${prompt}"
-  7679: "Chevaliers Royaux, en avant !${prompt}"
-  7680: "Ces chevaliers sont de retour d'une mission dangereuse. Rappelez-vous que parfois les règles peuvent être assouplies.${prompt}"
-  7681: "Faites honneur à vos devoirs et ne vous préoccupez pas des futilités. Rappelez-vous, nous sommes le visage de San d'Oria !${prompt}"
-  7682: "Oui, madame !${prompt}"
-  7683: "'Et au nouveau recrue, je dis ceci : La gloire de San d'Oria dépend de chaque citoyen ! Bonne chance !${prompt}'"
-  7684: "Général Curilla, bravo. Vous êtes dotée d'une grande empathie.${prompt}"
-  7685: "Sans vos Chevaliers du Temple, nous, Chevaliers Royaux, ne pourrions pas patrouiller dans la nature. Votre ordre est un pilier solide sur lequel nous nous reposons.${prompt}"
-  7686: "Nous ne sommes pas vos serviteurs, Rahal. Mais dites-moi comment s'est déroulée votre patrouille.${prompt}"
-  7687: "Vous semblez attirée par le monde extérieur, Curilla. Peut-être trouvez-vous cette forteresse trop contraignante ?${prompt}"
-  7688: "Ce n'est pas vos affaires. Mais vos troupes avaient l'air fatiguées. Avez-vous progressé contre l'ennemi ?${prompt}"
-  7689: "Non, c'est toujours la même chose. Personne ne peut dire ce que les Orcs feront ensuite. Et toujours dois-je lutter avec deux chaînes de commandement.${prompt}"
-  7690: "Vous savez, Prince Trion et Prince Pieuje. Je vois la sagesse dans les deux stratégies, mais--${prompt}"
-  7691: "Rahal, nous n'avons pas besoin d'en discuter devant le recrue. Marchons vers le château ?${prompt}"
-  7692: "Ce serait un honneur ! Dégustons une bouteille de 812 Rolanberry dans la chaleur de ma chambre.${prompt}"
-  7693: "Eh bien, je préfère la salle du conseil stratégique. Je vous préparerai du thé de Batallia si vous avez soif.${prompt}"
-  7694: "Hah ! Toujours la même chose, je vois.${prompt}"
-  7695: "C'était le Général Curilla des Chevaliers du Temple. Son ordre veille sur la ville et protège le Château d'Oraguille.${prompt}"
-  7696: "Les Chevaliers Royaux de Rahal, quant à eux, espionnent nos ennemis et combattent les démons.${prompt}"
-  7697: "Avec des devoirs si disparates, les deux ordres entretiennent une rivalité tendue.${prompt}"
+  7665: Je vous prie de regarder où vous allez !${prompt}
+  7666: Oh, un nouveau recrue, n'est-ce pas ? Cela explique tout !${prompt}
+  7667: Eh bien, loin de moi l'idée de réprimander quelqu'un en ce ${choice-player-gender}[premier jour]. Mais en tant que citoyen de San d'Oria, vous--${prompt}
+  7668: Attendez, l'expédition est rentrée.${prompt}
+  7669: Halte ! Je dois inspecter vos rangs pour repérer les infiltrés.${prompt}
+  7670: Oh, laissez-nous passer. Nous sommes épuisés !${prompt}
+  7671: Je dois quand même vérifier les infiltrés. En tant que Chevalier du Temple, je suis responsable de la sécurité de la citadelle. Vous, Chevaliers Royaux, devez coopérer.${prompt}
+  7672: Est-ce ainsi que vous nous remerciez, en nous traitant comme des criminels !${prompt}
+  7673: Vous, Chevaliers du Temple, avez la belle vie, en sécurité derrière ces murs. Nous n'avons pas le temps pour vos jeux !${prompt}
+  7674: Comment osez-vous !${prompt}
+  7675: Que se passe-t-il ici ?${prompt}
+  7676: Dame Curilla ! Ces Chevaliers Royaux refusent de vérifier leur identité.${prompt}
+  7677: Bienvenue de retour, Chevaliers Royaux. Vous devez être fatigués. Après avoir rendu compte au Prince Trion, enlevez votre armure et retrouvez vos familles. Ils vous ont longtemps attendus.${prompt}
+  7678: Oui, Dame Curilla !${prompt}
+  7679: Chevaliers Royaux, en avant !${prompt}
+  7680: Ces chevaliers sont de retour d'une mission dangereuse. Rappelez-vous que parfois les règles peuvent être assouplies.${prompt}
+  7681: Faites honneur à vos devoirs et ne vous préoccupez pas des futilités. Rappelez-vous, nous sommes le visage de San d'Oria !${prompt}
+  7682: Oui, madame !${prompt}
+  7683: '''Et au nouveau recrue, je dis ceci : La gloire de San d''Oria dépend de chaque citoyen ! Bonne chance !${prompt}'''
+  7684: Général Curilla, bravo. Vous êtes dotée d'une grande empathie.${prompt}
+  7685: Sans vos Chevaliers du Temple, nous, Chevaliers Royaux, ne pourrions pas patrouiller dans la nature. Votre ordre est un pilier solide sur lequel nous nous reposons.${prompt}
+  7686: Nous ne sommes pas vos serviteurs, Rahal. Mais dites-moi comment s'est déroulée votre patrouille.${prompt}
+  7687: Vous semblez attirée par le monde extérieur, Curilla. Peut-être trouvez-vous cette forteresse trop contraignante ?${prompt}
+  7688: Ce n'est pas vos affaires. Mais vos troupes avaient l'air fatiguées. Avez-vous progressé contre l'ennemi ?${prompt}
+  7689: Non, c'est toujours la même chose. Personne ne peut dire ce que les Orcs feront ensuite. Et toujours dois-je lutter avec deux chaînes de commandement.${prompt}
+  7690: Vous savez, Prince Trion et Prince Pieuje. Je vois la sagesse dans les deux stratégies, mais--${prompt}
+  7691: Rahal, nous n'avons pas besoin d'en discuter devant le recrue. Marchons vers le château ?${prompt}
+  7692: Ce serait un honneur ! Dégustons une bouteille de 812 Rolanberry dans la chaleur de ma chambre.${prompt}
+  7693: Eh bien, je préfère la salle du conseil stratégique. Je vous préparerai du thé de Batallia si vous avez soif.${prompt}
+  7694: Hah ! Toujours la même chose, je vois.${prompt}
+  7695: C'était le Général Curilla des Chevaliers du Temple. Son ordre veille sur la ville et protège le Château d'Oraguille.${prompt}
+  7696: Les Chevaliers Royaux de Rahal, quant à eux, espionnent nos ennemis et combattent les démons.${prompt}
+  7697: Avec des devoirs si disparates, les deux ordres entretiennent une rivalité tendue.${prompt}
   7698: Peut-être pourrais-je vous être utile. Y a-t-il quelque chose que vous aimeriez savoir ?${prompt}
   7699: |-
     Quelque chose que vous aimeriez savoir ?
@@ -18684,33 +18684,33 @@ entries:
     工人通りへ行くには、まず凱旋門を
     くぐって北サンドリアへ出ろ。閲兵場の左にある
     ゲートを抜ければ見えるはずだ。${prompt}
-  7732: 'De l’argent facile, hein ? Typique d’un nouveau recrue. Je ne peux pas promettre la facilité, mais la scierie de San d’Oria Nord devrait avoir du travail pour vous là-bas.${prompt}'
-  7733: 'Pour aller à la scierie, passez par l’arche de la victoire, dirigez-vous vers le nord-ouest à travers le terrain de parade, et continuez jusqu’à atteindre Laborman’s Way. La scierie se trouve à l’extrémité.${prompt}'
-  7734: 'Ah, un choix louable pour un nouveau recrue. Dirigez-vous vers n’importe quelle porte de la ville et renseignez-vous à la guérite. Vous ferez un travail pour la gloire du Royaume !${prompt}'
+  7732: De l’argent facile, hein ? Typique d’un nouveau recrue. Je ne peux pas promettre la facilité, mais la scierie de San d’Oria Nord devrait avoir du travail pour vous là-bas.${prompt}
+  7733: Pour aller à la scierie, passez par l’arche de la victoire, dirigez-vous vers le nord-ouest à travers le terrain de parade, et continuez jusqu’à atteindre Laborman’s Way. La scierie se trouve à l’extrémité.${prompt}
+  7734: Ah, un choix louable pour un nouveau recrue. Dirigez-vous vers n’importe quelle porte de la ville et renseignez-vous à la guérite. Vous ferez un travail pour la gloire du Royaume !${prompt}
   7735: 'Tiens, prends ce ${item-singular: 0[2]}. Donne-le à Ailevia à Victory Square. Je te montrerai où elle se trouve sur ta carte.${prompt}'
-  7736: 'Pour donner des objets à d’autres, sélectionnez "Échanger" dans le menu principal. N’oubliez pas !${prompt}'
+  7736: Pour donner des objets à d’autres, sélectionnez "Échanger" dans le menu principal. N’oubliez pas !${prompt}
   7737: 'Je vous en prie ! Regardez où vous mettez les pieds !${wait-animation: 5}${prompt}'
-  7738: 'Ah, Ceraule ! Que fais-tu là ?${prompt}'
-  7739: 'Mon seigneur Prince Trion ! Je parlais à cette recrue de ce que cela signifie d’être un fier citoyen de San d’Oria !${prompt}'
-  7740: 'Une nouvelle recrue, n’est-ce pas ? Renforcez votre bras d’épée et votre stature de chevalier. Ainsi servirez-vous au mieux la gloire de notre grand royaume.${prompt}'
-  7741: 'San d’Oria a déjà suffisamment de soldats, frère. Parlant de cela, ne devriez-vous pas les entraîner, au lieu de déranger de nouvelles recrues avec des discussions de guerre ?${prompt}'
-  7742: 'Vous êtes trop audacieux !${prompt}'
-  7743: 'Vraiment, Pieuje ! Est-ce ainsi que l’on parle à son frère ?${prompt}'
-  7744: 'J’ai dit la vérité, rien de plus. Les rangs de nos armées pourraient gonfler à en éclater, et pourtant la victoire ne serait pas certaine.${prompt}'
-  7745: 'C’est votre tête qui est enflée, frère. Avec une armée assez grande, nous pouvons écraser les bêtes, sans recourir à vos tactiques égarées !${prompt}'
-  7746: 'Egarées, vraiment ? Dites-moi, quelles étaient alors les tactiques qui ont perdu toute une compagnie de nos guerriers dans les Batallia Downs l’autre jour ?${prompt}'
-  7747: 'C’est bien que vous soyez si friand de parler, car je ne vous ai jamais vu manier une épée. Mieux vaut hurler des ordres depuis l’arrière que de révéler votre incompétence au combat !${prompt}'
-  7748: 'Arrêtez vos querelles, vous deux !${prompt}'
-  7749: 'Un leadership divisé ne crée que de l’agitation parmi le peuple, soldat et civils. Vous en êtes sûrement tous deux bien conscients ?${prompt}'
-  7750: 'Très bien. J’ai entendu plus que ce que je voulais entendre de mon frère déjà. Je vous avertis, Pieuje, parlez-moi ainsi encore une fois et je ne serai pas aussi indulgent.${prompt}'
-  7751: 'Oh, Trion. Les menaces de violence sont sa seule réponse lorsque la conversation ne se déroule pas comme il le voudrait. Comme un enfant, il est !${prompt}'
-  7752: 'Vous êtes tous les deux comme des enfants, prompts à insulter et encore plus prompts à prendre offense ! Vraiment...${prompt}'
-  7753: 'Je dois m’excuser pour cela. Mais le nôtre est vraiment un grand royaume, et je m’attends à ce que vous en augmentiez la gloire.${prompt}'
-  7754: 'Ces deux-là sont une poignée, mais malgré leurs querelles constantes, ce sont les frères les plus proches.${prompt}'
-  7755: 'Ohh, quelle situation difficile !${prompt}'
-  7756: 'Oh, que faire ? Mon mari est en patrouille dans West Ronfaure, mais il a oublié sa pommade en partant ce matin !${prompt}'
-  7757: 'C’est un travail dangereux qu’il fait, et on ne sait jamais quand une bonne pommade pourrait vous sauver la vie ! Peut-être pourriez-vous la lui apporter ?${prompt}'
-  7758: 'Je le ferais moi-même, pour être sûr, mais je ne peux pas quitter la ville.${prompt}'
+  7738: Ah, Ceraule ! Que fais-tu là ?${prompt}
+  7739: Mon seigneur Prince Trion ! Je parlais à cette recrue de ce que cela signifie d’être un fier citoyen de San d’Oria !${prompt}
+  7740: Une nouvelle recrue, n’est-ce pas ? Renforcez votre bras d’épée et votre stature de chevalier. Ainsi servirez-vous au mieux la gloire de notre grand royaume.${prompt}
+  7741: San d’Oria a déjà suffisamment de soldats, frère. Parlant de cela, ne devriez-vous pas les entraîner, au lieu de déranger de nouvelles recrues avec des discussions de guerre ?${prompt}
+  7742: Vous êtes trop audacieux !${prompt}
+  7743: Vraiment, Pieuje ! Est-ce ainsi que l’on parle à son frère ?${prompt}
+  7744: J’ai dit la vérité, rien de plus. Les rangs de nos armées pourraient gonfler à en éclater, et pourtant la victoire ne serait pas certaine.${prompt}
+  7745: C’est votre tête qui est enflée, frère. Avec une armée assez grande, nous pouvons écraser les bêtes, sans recourir à vos tactiques égarées !${prompt}
+  7746: Egarées, vraiment ? Dites-moi, quelles étaient alors les tactiques qui ont perdu toute une compagnie de nos guerriers dans les Batallia Downs l’autre jour ?${prompt}
+  7747: C’est bien que vous soyez si friand de parler, car je ne vous ai jamais vu manier une épée. Mieux vaut hurler des ordres depuis l’arrière que de révéler votre incompétence au combat !${prompt}
+  7748: Arrêtez vos querelles, vous deux !${prompt}
+  7749: Un leadership divisé ne crée que de l’agitation parmi le peuple, soldat et civils. Vous en êtes sûrement tous deux bien conscients ?${prompt}
+  7750: Très bien. J’ai entendu plus que ce que je voulais entendre de mon frère déjà. Je vous avertis, Pieuje, parlez-moi ainsi encore une fois et je ne serai pas aussi indulgent.${prompt}
+  7751: Oh, Trion. Les menaces de violence sont sa seule réponse lorsque la conversation ne se déroule pas comme il le voudrait. Comme un enfant, il est !${prompt}
+  7752: Vous êtes tous les deux comme des enfants, prompts à insulter et encore plus prompts à prendre offense ! Vraiment...${prompt}
+  7753: Je dois m’excuser pour cela. Mais le nôtre est vraiment un grand royaume, et je m’attends à ce que vous en augmentiez la gloire.${prompt}
+  7754: Ces deux-là sont une poignée, mais malgré leurs querelles constantes, ce sont les frères les plus proches.${prompt}
+  7755: Ohh, quelle situation difficile !${prompt}
+  7756: Oh, que faire ? Mon mari est en patrouille dans West Ronfaure, mais il a oublié sa pommade en partant ce matin !${prompt}
+  7757: C’est un travail dangereux qu’il fait, et on ne sait jamais quand une bonne pommade pourrait vous sauver la vie ! Peut-être pourriez-vous la lui apporter ?${prompt}
+  7758: Je le ferais moi-même, pour être sûr, mais je ne peux pas quitter la ville.${prompt}
   7759: |-
     Livrer la pommade ?
     ${selection-lines}
@@ -18739,7 +18739,7 @@ entries:
   7776: Je m'appelle Varchet. Les gens m'appellent le joueur. Voulez-vous jouer à un jeu de hasard avec moi ?${prompt}
   7777: Cinq gils par partie. Payez votre mise à l'avance.${prompt}
   7778: Voilà votre mise ! Maintenant, nous jouons !${prompt}
-  7779: |
+  7779: |-
     Avec quoi jouerez-vous ?
     ${selection-lines}
     Deux dés.
@@ -18751,7 +18751,7 @@ entries:
     お互い2つのダイスを振りあって、
     出た目の合計が多かった方の勝ちだ。
     ただし同じ数だったらドロー。いいな？${prompt}
-  7782: |
+  7782: |-
     Vous voulez essayer ?
     ${selection-lines}
     Allons-y !
@@ -18788,52 +18788,52 @@ entries:
     お……？　${number: 0}と${number: 1}で「${number: 2}」だ。
     予想は${choice: 3}[偶数/奇数]か。
     こいつぁ惜しかったな。だが負けは負けだ。${prompt}
-  7797: "Comme promis, je vais m'occuper de ces déchiqueteurs de bois. Peut-être pourrons-nous jouer à un autre jeu plus tard.${prompt}"
-  7798: "Salutations !${prompt}"
-  7799: "Je vous demande pardon, mais je suis occupé. Je dois confectionner une cape pour le Prince ${choice: 4}[Trion/Pieuje], et ce dans la journée !${prompt}"
-  7800: "Le maître est-il là ?${prompt}"
-  7801: "Que se passe-t-il ? J'ai dit que j'étais occupé, et je le pense !${prompt}"
-  7802: "J'ai été envoyé par le Prince ${choice: 4}[Pieuje/Trion] pour payer la cape qu'il a reçue de cet établissement il y a deux jours.${prompt}"
-  7803: "Ahh... ah ! Le Prince ${choice: 4}[Pieuje/Trion] vous a envoyé ? Je vous demande pardon !${prompt}"
-  7804: "Voici le paiement intégral. Le Prince ${choice: 4}[Pieuje/Trion] était très satisfait, vous savez. Il a dit que la qualité était incomparable.${prompt}"
-  7805: "Le Prince ${choice: 4}[Pieuje/Trion] est trop aimable. Ses paroles honorent grandement ce magasin.${prompt}"
-  7806: "Je transmettrai vos paroles au prince. Maintenant, je vous demande de partir.${prompt}"
-  7807: "Maintenant, où en étais-je ? Oh, non ! Cela ne va pas du tout ! J'ai pris le paiement pour la cape mais j'ai oublié de lui remettre un reçu !${prompt}"
-  7808: "Et avec ce deuxième à finir, je n'ai pas le temps d'apporter un reçu maintenant !${prompt}"  
-  7809: "Peut-être pourriez-vous m'aider ! Pourriez-vous apporter ce reçu au Prince ${choice: 4}[Pieuje/Trion], au Château d'Oraguille ?${prompt}"
-  7810: "Normalement, je le ferais moi-même, mais si je ne finis pas cette autre cape pour le Prince ${choice: 4}[Trion/Pieuje], ma réputation en prendrait un coup !${prompt}"
-  7811: "Qu'en pensez-vous ? Accepterez-vous d'aider ?${prompt}"
-  7812: "Je vous remercie. Rappelez-vous, c'est pour le Prince ${choice: 4}[Pieuje/Trion] ! Les gardes à la porte devraient le prendre pour vous, je pense.${prompt}"
-  7813: "Apportez le reçu au Prince Pieuje au Château d'Oraguille. Vous avez ma gratitude !${prompt}"
-  7814: "Apportez le reçu au Prince Trion au Château d'Oraguille. Vous avez ma gratitude !${prompt}"
-  7815: "Je... vois.${prompt}"
-  7816: "Oh, c'est vous à nouveau. Vous avez changé d'avis ? Voulez-vous courir au château pour moi ?${prompt}"
-  7817: "Hrmm... C'est intéressant ! Il est bon de garder un œil sur la concurrence. Merci de me l'avoir signalé !${prompt}"
-  7818: "Alors pour qui est cette enveloppe ? Prince Trion ? Ou Prince Pieuje ?${prompt}"
+  7797: Comme promis, je vais m'occuper de ces déchiqueteurs de bois. Peut-être pourrons-nous jouer à un autre jeu plus tard.${prompt}
+  7798: Salutations !${prompt}
+  7799: 'Je vous demande pardon, mais je suis occupé. Je dois confectionner une cape pour le Prince ${choice: 4}[Trion/Pieuje], et ce dans la journée !${prompt}'
+  7800: Le maître est-il là ?${prompt}
+  7801: Que se passe-t-il ? J'ai dit que j'étais occupé, et je le pense !${prompt}
+  7802: 'J''ai été envoyé par le Prince ${choice: 4}[Pieuje/Trion] pour payer la cape qu''il a reçue de cet établissement il y a deux jours.${prompt}'
+  7803: 'Ahh... ah ! Le Prince ${choice: 4}[Pieuje/Trion] vous a envoyé ? Je vous demande pardon !${prompt}'
+  7804: 'Voici le paiement intégral. Le Prince ${choice: 4}[Pieuje/Trion] était très satisfait, vous savez. Il a dit que la qualité était incomparable.${prompt}'
+  7805: 'Le Prince ${choice: 4}[Pieuje/Trion] est trop aimable. Ses paroles honorent grandement ce magasin.${prompt}'
+  7806: Je transmettrai vos paroles au prince. Maintenant, je vous demande de partir.${prompt}
+  7807: Maintenant, où en étais-je ? Oh, non ! Cela ne va pas du tout ! J'ai pris le paiement pour la cape mais j'ai oublié de lui remettre un reçu !${prompt}
+  7808: Et avec ce deuxième à finir, je n'ai pas le temps d'apporter un reçu maintenant !${prompt}
+  7809: 'Peut-être pourriez-vous m''aider ! Pourriez-vous apporter ce reçu au Prince ${choice: 4}[Pieuje/Trion], au Château d''Oraguille ?${prompt}'
+  7810: 'Normalement, je le ferais moi-même, mais si je ne finis pas cette autre cape pour le Prince ${choice: 4}[Trion/Pieuje], ma réputation en prendrait un coup !${prompt}'
+  7811: Qu'en pensez-vous ? Accepterez-vous d'aider ?${prompt}
+  7812: 'Je vous remercie. Rappelez-vous, c''est pour le Prince ${choice: 4}[Pieuje/Trion] ! Les gardes à la porte devraient le prendre pour vous, je pense.${prompt}'
+  7813: Apportez le reçu au Prince Pieuje au Château d'Oraguille. Vous avez ma gratitude !${prompt}
+  7814: Apportez le reçu au Prince Trion au Château d'Oraguille. Vous avez ma gratitude !${prompt}
+  7815: Je... vois.${prompt}
+  7816: Oh, c'est vous à nouveau. Vous avez changé d'avis ? Voulez-vous courir au château pour moi ?${prompt}
+  7817: Hrmm... C'est intéressant ! Il est bon de garder un œil sur la concurrence. Merci de me l'avoir signalé !${prompt}
+  7818: Alors pour qui est cette enveloppe ? Prince Trion ? Ou Prince Pieuje ?${prompt}
   7819: |-
     Pour qui est-ce?
     ${selection-lines}
     Prince Trion.
     Prince Pieuje.${prompt}
-  7820: "D'accord, je le livrerai pour vous. Nous ne pouvons pas vous laisser entrer dans cet état ! Attendez ici.${prompt}"
-  7821: "J'ai livré l'enveloppe au Prince Trion. Vous êtes renvoyé.${prompt}"
-  7822: "J'ai livré l'enveloppe au Prince Pieuje. Vous êtes renvoyé.${prompt}"
-  7823: "Imbécile ! Cette enveloppe était pour le Prince Trion, pas pour le Prince Pieuje ! Quelle idiotie... Sortez d'ici !${prompt}"
-  7824: "Imbécile ! Cette enveloppe était pour le Prince Pieuje, pas pour le Prince Trion ! Quelle idiotie... Sortez d'ici !${prompt}"
-  7825: "Oh, et dites à ce tailleur d'envoyer quelqu'un de respectable la prochaine fois !${prompt}"
-  7826: "Ah, merci pour votre aide. Ce n'est pas grand-chose, mais veuillez accepter ceci comme paiement.${prompt}"
-  7827: "Vous recevez ${number: 0} gils de plus.${prompt}"
-  7828: "Qu-quoi ? Vous l'avez donné au mauvais prince ?${prompt}"
-  7829: "C'est ce que j'obtiens en envoyant un novice... C'est pour votre temps. Prenez-le et partez.${prompt}"
-  7830: "Quoi ? Ils se sont plaints de votre tenue ?${prompt}"
-  7831: "Eh bien, on ne peut pas vraiment leur en vouloir... Écoutez, je connais quelqu'un dans la Guilde des Tanneurs du côté ouest. Elle peut vous aider.${prompt}"
-  7832: "Elle s'appelle Hanaa Punaa. Allez lui parler, elle saura vous arranger.${prompt}"
-  7833: "Vous avez quelque chose à voir avec moi ? Désolé, mais je suis occupé.${prompt}"
-  7834: "Quoi ? Mon fils ? Sur le terrain de parade ? C'est là qu'il est ! Pourriez-vous lui dire que je vais venir dès que j'aurai fini ?${prompt}"
-  7835: "Merci pour votre aide. Vous avez ma gratitude.${prompt}"
-  7836: "Veuillez dire à mon fils que je vais le rejoindre dès que j'aurai fini, donc il doit rester là où il est.${prompt}"
-  7837: "Ah, merci pour votre aide plus tôt. Les enfants peuvent parfois être une poignée.${prompt}"
-  7838: Je suis Hanaa Punaa, une apprentie à la Guilde des Tanneurs.${prompt}  
+  7820: D'accord, je le livrerai pour vous. Nous ne pouvons pas vous laisser entrer dans cet état ! Attendez ici.${prompt}
+  7821: J'ai livré l'enveloppe au Prince Trion. Vous êtes renvoyé.${prompt}
+  7822: J'ai livré l'enveloppe au Prince Pieuje. Vous êtes renvoyé.${prompt}
+  7823: Imbécile ! Cette enveloppe était pour le Prince Trion, pas pour le Prince Pieuje ! Quelle idiotie... Sortez d'ici !${prompt}
+  7824: Imbécile ! Cette enveloppe était pour le Prince Pieuje, pas pour le Prince Trion ! Quelle idiotie... Sortez d'ici !${prompt}
+  7825: Oh, et dites à ce tailleur d'envoyer quelqu'un de respectable la prochaine fois !${prompt}
+  7826: Ah, merci pour votre aide. Ce n'est pas grand-chose, mais veuillez accepter ceci comme paiement.${prompt}
+  7827: 'Vous recevez ${number: 0} gils de plus.${prompt}'
+  7828: Qu-quoi ? Vous l'avez donné au mauvais prince ?${prompt}
+  7829: C'est ce que j'obtiens en envoyant un novice... C'est pour votre temps. Prenez-le et partez.${prompt}
+  7830: Quoi ? Ils se sont plaints de votre tenue ?${prompt}
+  7831: Eh bien, on ne peut pas vraiment leur en vouloir... Écoutez, je connais quelqu'un dans la Guilde des Tanneurs du côté ouest. Elle peut vous aider.${prompt}
+  7832: Elle s'appelle Hanaa Punaa. Allez lui parler, elle saura vous arranger.${prompt}
+  7833: Vous avez quelque chose à voir avec moi ? Désolé, mais je suis occupé.${prompt}
+  7834: Quoi ? Mon fils ? Sur le terrain de parade ? C'est là qu'il est ! Pourriez-vous lui dire que je vais venir dès que j'aurai fini ?${prompt}
+  7835: Merci pour votre aide. Vous avez ma gratitude.${prompt}
+  7836: Veuillez dire à mon fils que je vais le rejoindre dès que j'aurai fini, donc il doit rester là où il est.${prompt}
+  7837: Ah, merci pour votre aide plus tôt. Les enfants peuvent parfois être une poignée.${prompt}
+  7838: Je suis Hanaa Punaa, une apprentie à la Guilde des Tanneurs.${prompt}
   7839: Je rêve de devenir tanneuse, mais l'expérience de travail est difficile à trouver ces jours-ci.${prompt}
   7840: Salutations ! Comment puis-je vous aider aujourd'hui ?${prompt}
   7841: Oh, c'est encore vous !${prompt}
@@ -18887,7 +18887,7 @@ entries:
     Refuser.${prompt}
   7882: Comme vous voulez. Revenez quand vous aurez un peu de courage.${prompt}
   7883: Ah, je vois que tu as un cœur vaillant. Écoute bien maintenant !${prompt}
-  7884: "Rends-toi au Tombeau du Roi Ranperre et rapporte ${article} ${item-article: 0[2]}. Comment, tu demandes ? Utilise ta tête. Maintenant, va-t'en !${prompt}"
+  7884: 'Rends-toi au Tombeau du Roi Ranperre et rapporte ${article} ${item-article: 0[2]}. Comment, tu demandes ? Utilise ta tête. Maintenant, va-t''en !${prompt}'
   7885: Ah, j'avais raison à ton sujet. Tu as prouvé ta valeur aujourd'hui. Un renforcement supplémentaire pourrait te forger en héros parmi les aventuriers.${prompt}
   7886: En reconnaissance de ton succès, je t'offre cette épée. Entraîne-toi assidûment et deviens fort.${prompt}
   7887: Tu es encore un peu novice pour entreprendre mon défi. Entraîne-toi davantage et reviens ici quand tu te sentiras prêt.${prompt}
@@ -18912,9 +18912,9 @@ entries:
   7902: 'Alors, tu vas aider ? Excellent ! Prends ce ${item-singular: 0[2]} au Tombeau du Roi Ranperre et échange-le avec ${article} ${item-article: 1[2]} que tu trouveras là-bas.${prompt}'
   7903: Pour te rendre au Tombeau du Roi Ranperre, dirige-toi vers la Porte Est dans la Ronfaure de l'Est, puis avance vers le sud aussi loin que possible. Tu devrais le trouver assez rapidement.${prompt}
   7904: 'Tu as perdu le ${item-singular: 0[2]} ?${prompt}'
-  7905: 'Plus de ${item-singular: 0[2]} est facilement disponible, mais la question est comment le transporter...${prompt}' 
+  7905: 'Plus de ${item-singular: 0[2]} est facilement disponible, mais la question est comment le transporter...${prompt}'
   7906: Je n'ai pas d'autre outre d'eau à te donner. Celle-ci je l'ai reçue de feu la reine elle-même...${prompt}
-  7907: 'Et si tu prenais l’outre d’eau de la pierre tombale dans le Tombeau du Roi Ranperre, que tu la remplissais à San d’Oria sud, puis que tu la rapportais au tombeau ?${prompt}'
+  7907: Et si tu prenais l’outre d’eau de la pierre tombale dans le Tombeau du Roi Ranperre, que tu la remplissais à San d’Oria sud, puis que tu la rapportais au tombeau ?${prompt}
   7908: Considère cela comme une pénitence pour avoir perdu l’outre d'eau que je t’ai donnée. D’accord ? Je te souhaite un bon voyage.${prompt}'
   7909: 'Remplis l’outre d’eau avec ${item-singular: 0[2]}, place-la dans la tombe du Roi Dragon, puis reviens vers moi.${prompt}'
   7910: Prends l’outre d'eau de la pierre tombale dans le Tombeau du Roi Ranperre, remplis-la à San d’Oria sud, puis rapporte-la au tombeau.${prompt}'
@@ -19035,7 +19035,7 @@ entries:
   8011: Il vient tous les jours regarder, mais jamais acheter ! On dit qu'il est un Chevalier Royal, et qu'il est assez passionné par les armes.${prompt}
   8012: On dit que chaque fois qu'il est en congé, il laisse son enfant et parcourt les magasins d'armes... Même moi, je m'en lasserais avant longtemps !${prompt}
   8013: Bienvenue chez Helbort's Blades !
-  8014: （ここにショップメニュー）${prompt} 
+  8014: （ここにショップメニュー）${prompt}
   8015: Oh, l'éclat ! Quelle brillance ! Les lames forgées par le maître ici sont vraiment au-dessus du lot. Il m'en faut une...${prompt}
   8016: Ah, cette épée là... Quelle beauté elle est !${prompt}
   8017: Bien sûr, je pourrais prendre les deux... Non, je ne peux pas ! La langue de ma femme est plus acérée que n'importe quelle lame.${prompt}
@@ -19060,7 +19060,7 @@ entries:
   8032: 'Avez-vous le ${keyitem-singular: 0[2]}? Parfait. Prenez ceci. Trouvez le reste par vous-même.${prompt}'
   8033: L'épreuve est difficile, mais ceux qui la réussissent peuvent devenir de véritables chevaliers. Bonne chance à vous.${prompt}
   8034: J'ai entendu dire que vous vous en étiez bien sorti. Je suis sûr que vous ferez un excellent chevalier.${prompt}
-  8035: 'Avez-vous le ${keyitem-singular: 0[2]}? Excellent. Prenez ceci. Le reste, vous devez le découvrir par vous-même.${prompt}' 
+  8035: 'Avez-vous le ${keyitem-singular: 0[2]}? Excellent. Prenez ceci. Le reste, vous devez le découvrir par vous-même.${prompt}'
   8036: Vous ne savez peut-être pas quoi faire, mais ne vous inquiétez pas. Vous avez tout le temps nécessaire.${prompt}
   8037: Vous avez bien fait. Je le savais dès le moment où je vous ai vu.${prompt}
   8038: Vous avez accompli votre tâche avec brio. Je crois que vous êtes prêt à devenir un chevalier.${prompt}
@@ -19119,14 +19119,14 @@ entries:
   8087: Tu ne vas pas bien, Maman ! Tu devrais rester au lit jusqu'à ce que j'aie économisé assez d'argent pour te procurer le médicament pour ta fièvre de Davoi.${prompt}
   8088: Oh, Raminel, tu es trop gentil... trop gentil avec moi !${prompt}
   8089: Je dois faire quelques livraisons de plus. Repose-toi, Maman.${prompt}
-  8090: Je suis désolée... De quoi parlions-nous ?${prompt}   
+  8090: Je suis désolée... De quoi parlions-nous ?${prompt}
   8091: |-
     De quoi parlions-nous?
     ${selection-lines}
     Parlez-moi de votre fils.
     Parlez-moi de vous.
     Avez-vous d'autres membres de la famille?${prompt}
-  8092: Je ne peux pas me déplacer beaucoup à cause--à cause de ma maladie, donc Raminel fait son travail de livraison pour nous soutenir.${prompt} 
+  8092: Je ne peux pas me déplacer beaucoup à cause--à cause de ma maladie, donc Raminel fait son travail de livraison pour nous soutenir.${prompt}
   8093: 'Le médecin m’a dit que j’avais--j’avais la fièvre de Davoi : une maladie qui attaque les poumons, seulement trouvée dans cette partie du monde.${prompt}'
   8094: Ne vous inquiétez pas, ce n'est pas contagieux ; je vis toujours avec mon fils, après tout. Mais je ne peux pas--je ne peux pas arrêter de tousser !${prompt}
   8095: Il y a longtemps, j'étais sœur à l'abbaye de Davoi.${prompt}
@@ -19139,9 +19139,9 @@ entries:
   8102: Heureusement, ce n'est pas contagieux, mais malheureusement, il n'existe aucun remède connu.${prompt}
   8103: C'est à moi ! Rendez-le moi !${prompt}
   8104: Tu es tellement égoïste ! Je t'ai prêté quelque chose hier ! Quand vas-tu me le rendre ?${prompt}
-  8105: De quoi vous chamaillez-vous, hein ?${prompt} 
+  8105: De quoi vous chamaillez-vous, hein ?${prompt}
   8106: Il a pris mes bonbons, et Maman dit toujours que prendre sans demander, c'est voler !${prompt}
-  8107: Je ne vole pas ! Ce gamin ne veut pas me rendre le jouet que je lui ai prêté !${prompt} 
+  8107: Je ne vole pas ! Ce gamin ne veut pas me rendre le jouet que je lui ai prêté !${prompt}
   8108: Maintenant, les garçons... Les jouets et les bonbons sont temporaires, mais vous serez frères toute votre vie. Vous comprenez ?${prompt}
   8109: Eh bien, oui, mais...${prompt}
   8110: Alors ?${prompt}
@@ -19465,7 +19465,7 @@ entries:
   8325: Hmm... Où est-ce que je l'ai mis ?${prompt}
   8326: Oh, je suis désolé. Je cherche quelque chose. Revenez plus tard.${prompt}
   8327: Je suis désolé, mais c'est tout pour aujourd'hui. Quelqu'un a volé ma dague.${prompt}
-  8328: Je suis Luthiaque. Je voyage ici et là, apportant du divertissement partout !${prompt} 
+  8328: Je suis Luthiaque. Je voyage ici et là, apportant du divertissement partout !${prompt}
   8329: La jonglerie est ma spécialité, mais pas seulement avec des balles ou des assiettes... Non, je jongle avec des dagues !${prompt}
   8330: M'as-tu apporté ma dague ?${prompt}
   8331: |-
@@ -19515,21 +19515,21 @@ entries:
     ${lettercase: 1}${item-plural: 2[2]}.
     ${lettercase: 1}${item-plural: 3[2]}.
     Retour.${prompt}
-  8355: 'Les téléphones portables sont des téléphones portables lorsque vous les achetez pour la première fois au magasin.${prompt}'
-  8356: 'Une fois ouverts, ils commencent à fabriquer des téléphones portables et deviennent l’outil de communication que tout le monde utilise.${prompt}'
-  8357: 'Vous pouvez définir la couleur et le nom de votre téléphone portable lorsque vous l’ouvrez. Assurez-vous de définir ceux que vous aimez car vous ne pouvez pas les changer par la suite!${prompt}'
-  8358: 'Les téléphones portables sont des téléphones portables qui ont été ouverts et fonctionnent comme un outil de communication.${prompt}'
+  8355: Les téléphones portables sont des téléphones portables lorsque vous les achetez pour la première fois au magasin.${prompt}
+  8356: Une fois ouverts, ils commencent à fabriquer des téléphones portables et deviennent l’outil de communication que tout le monde utilise.${prompt}
+  8357: Vous pouvez définir la couleur et le nom de votre téléphone portable lorsque vous l’ouvrez. Assurez-vous de définir ceux que vous aimez car vous ne pouvez pas les changer par la suite!${prompt}
+  8358: Les téléphones portables sont des téléphones portables qui ont été ouverts et fonctionnent comme un outil de communication.${prompt}
   8359: |-
     Vous pouvez fabriquer des téléphones portables et des coques de téléphone portable à partir de ces coquilles.
     Ils sont comme le chef de groupe d'une équipe d'aventuriers.${prompt}
-  8360: 'Tous les objets créés par votre téléphone portable conservent la couleur et le nom du téléphone portable.${prompt}'
+  8360: Tous les objets créés par votre téléphone portable conservent la couleur et le nom du téléphone portable.${prompt}
   8361: Choisissez un nom unique pour qu'il soit facile à retenir.${prompt}
-  8362: 'Les perles sont des perles que les téléphones portables fabriquent.${prompt}'
-  8363: 'Si vous en équipez une, vous pouvez communiquer avec les personnes qui ont les mêmes téléphones portables et la perle à partir de laquelle ils ont été fabriqués.${prompt}' 
+  8362: Les perles sont des perles que les téléphones portables fabriquent.${prompt}
+  8363: Si vous en équipez une, vous pouvez communiquer avec les personnes qui ont les mêmes téléphones portables et la perle à partir de laquelle ils ont été fabriqués.${prompt}
   8364: Ils sont comme les membres de l'équipe dans un groupe d'aventuriers.${prompt}
-  8365: 'Une coque de téléphone portable est un sac plein de perles. Vous pouvez en fabriquer une en métamorphosant une perle à cet effet.${prompt}'
-  8366: 'Elle n’aura pas toutes les fonctionnalités d’un téléphone portable, mais vous pouvez en sortir une quantité infinie de perles comme avec un téléphone portable.${prompt}'
-  8367: 'Vous devez utiliser un téléphone portable pour fabriquer une coque de téléphone portable. Il en va de même si vous voulez le reconvertir en téléphone portable.${prompt}'
+  8365: Une coque de téléphone portable est un sac plein de perles. Vous pouvez en fabriquer une en métamorphosant une perle à cet effet.${prompt}
+  8366: Elle n’aura pas toutes les fonctionnalités d’un téléphone portable, mais vous pouvez en sortir une quantité infinie de perles comme avec un téléphone portable.${prompt}
+  8367: Vous devez utiliser un téléphone portable pour fabriquer une coque de téléphone portable. Il en va de même si vous voulez le reconvertir en téléphone portable.${prompt}
   8368: Ils sont comme les chefs d'alliance des groupes d'aventuriers...${prompt}
   8369: |-
     Vous voulez savoir comment les utiliser ?
@@ -19627,7 +19627,7 @@ entries:
   8429: Ici, au centre se trouve la Place de la Victoire. À l'ouest se trouvent la Rue des Lanciers et la Ruelle des Veilleurs, où vous trouverez la Guilde des Tanneurs et les Articles de Taumila.${prompt}
   8430: À l'est se trouvent la Rue de la Cavalerie et la Ruelle de l'Écuyer, avec des boutiques d'armures et d'armes, et une taverne. La porte au bout mène à la zone résidentielle.${prompt}
   8431: Vraiment ? Dommage.${prompt}
-  8432: C'est la Maison des Ventes du sud de San d'Oria. Renseignez-vous aux guichets de service si vous avez des marchandises à mettre aux enchères.${prompt} 
+  8432: C'est la Maison des Ventes du sud de San d'Oria. Renseignez-vous aux guichets de service si vous avez des marchandises à mettre aux enchères.${prompt}
   8433: Ce garçon, Raminel, fait des livraisons pour nous. Il travaille dur pour soutenir sa mère malade. Oh, cela me met les larmes aux yeux !${prompt}
   8434: Vous êtes l'un de mes recrues préférées, et je vous ai toujours donné de nouvelles missions. Mais je dois m'occuper de beaucoup plus d'aventuriers que vous.${prompt}
   8435: Désormais, je dois juger votre valeur pour votre prochaine mission en fonction de vos points de grade.${prompt}
@@ -19762,17 +19762,11 @@ entries:
   8523: Chaque région comprend plusieurs zones, et la nation qui élimine le plus de monstres dans ces zones prend le contrôle de la région.${prompt}
   8524: Les nations reçoivent des biens et des ressources des régions sous leur contrôle.${prompt}
   8525: Ainsi, plus nous contrôlons de régions, plus notre nation devient riche.${prompt}
-  8526: |-
-    Des gardes-frontières sont également placés dans des avant-postes situés dans les régions sous notre contrôle. 
-    Ils sont là pour lancer le Sceau sur des aventuriers comme vous.${prompt}
+  8526: "Des gardes-frontières sont également placés dans des avant-postes situés dans les régions sous notre contrôle. \nIls sont là pour lancer le Sceau sur des aventuriers comme vous.${prompt}"
   8527: Une fois que vous avez le Sceau de votre nation, vous pourrez obtenir des cristaux des ennemis que vous vaincrez.${prompt}
   8528: Non seulement cela, mais vous recevrez également des points de conquête. Vous obtenez plus de points de conquête si vous vainquez des ennemis dans des régions qui ne sont pas sous le contrôle de votre nation. Ces points peuvent être utilisés pour acheter des objets auprès de gardes comme moi.${prompt}
-  8529: |-
-    Vous comprenez donc... les conquêtes bénéficient aux nations et aux aventuriers. 
-    Nous attendons de vous que vous fassiez de votre mieux pour servir votre pays.${prompt}
-  8530: |-
-    Vous pouvez consulter l'état actuel des conquêtes en sélectionnant "Infos région" dans le menu principal. 
-    Les résultats des conquêtes dans toutes les régions sont régulièrement recalculés, donc vous voudrez peut-être les vérifier de temps en temps.${prompt}
+  8529: "Vous comprenez donc... les conquêtes bénéficient aux nations et aux aventuriers. \nNous attendons de vous que vous fassiez de votre mieux pour servir votre pays.${prompt}"
+  8530: "Vous pouvez consulter l'état actuel des conquêtes en sélectionnant \"Infos région\" dans le menu principal. \nLes résultats des conquêtes dans toutes les régions sont régulièrement recalculés, donc vous voudrez peut-être les vérifier de temps en temps.${prompt}"
   8531: |-
     Les boutiques de notre ville vendront différents objets en fonction de notre rang de conquête.
     La troupe Valeriano se rendra également dans la nation qui arrive en tête et apportera un peu de joie à ses citoyens.${prompt}
@@ -20380,28 +20374,28 @@ entries:
   8895: Ainsi soit-il. Faites-moi savoir si vous changez d'avis.${prompt}
   8896: 'Je continue d’attendre ${item-count: 1[2]} ${item-given-plurality: 1[2], 0[2]}!${prompt}'
   8897: Merci pour votre aide. Si vous êtes intéressé, j’ai toujours besoin de plus.${prompt}
-  8898: "Dites, auriez-vous un peu de temps devant vous ? J'ai besoin de ${item-count: 1[2]} ${item-given-plurality: 1[2], 0[2]}, et je n'en ai jamais assez.${prompt}"
-  8899: "Vous ne pourriez pas m'apporter un autre ${item-count: 1[2]} ${item-given-plurality: 1[2], 0[2]} ? Faites un échange avec moi dès que vous en aurez !${prompt}"
+  8898: 'Dites, auriez-vous un peu de temps devant vous ? J''ai besoin de ${item-count: 1[2]} ${item-given-plurality: 1[2], 0[2]}, et je n''en ai jamais assez.${prompt}'
+  8899: 'Vous ne pourriez pas m''apporter un autre ${item-count: 1[2]} ${item-given-plurality: 1[2], 0[2]} ? Faites un échange avec moi dès que vous en aurez !${prompt}'
   8900: |-
     Que dites-vous ?
     ${selection-lines}
     Je vais aider.
     Non, je ne peux pas.${prompt}
-  8901: "Excellent ! Alors, j'attendrai. Rappelez-vous, c'est ${item-count: 1[2]} ${item-given-plurality: 1[2], 0[2]}.${prompt}"
+  8901: 'Excellent ! Alors, j''attendrai. Rappelez-vous, c''est ${item-count: 1[2]} ${item-given-plurality: 1[2], 0[2]}.${prompt}'
   8902: Oh, quel dommage. Peut-être la prochaine fois, alors ?${prompt}
-  8903: "Où sont les ${item-count: 1[2]} ${item-given-plurality: 1[2], 0[2]} que vous avez promis ?${prompt}"
-  8904: "Merci beaucoup ! Voici quelque chose en retour.${prompt}"
-  8905: "Je n'arrive pas à dormir récemment. C'est comme si j'avais oublié comment faire ! Pourquoi, la nuit dernière, j'ai compté au moins cinquante mille moutons... Je dois vieillir, n'est-ce pas ?${prompt}"
-  8906: "J'ai entendu dire que boire ${item-plural: 0[2]} aiderait. Pensez-vous pouvoir m'en apporter un ? Je vous en serais très reconnaissant.${prompt}"
+  8903: 'Où sont les ${item-count: 1[2]} ${item-given-plurality: 1[2], 0[2]} que vous avez promis ?${prompt}'
+  8904: Merci beaucoup ! Voici quelque chose en retour.${prompt}
+  8905: Je n'arrive pas à dormir récemment. C'est comme si j'avais oublié comment faire ! Pourquoi, la nuit dernière, j'ai compté au moins cinquante mille moutons... Je dois vieillir, n'est-ce pas ?${prompt}
+  8906: 'J''ai entendu dire que boire ${item-plural: 0[2]} aiderait. Pensez-vous pouvoir m''en apporter un ? Je vous en serais très reconnaissant.${prompt}'
   8907: |-
     Qu'en pensez-vous ?
     ${selection-lines}
     Bien sûr.
     Pas maintenant.${prompt}
-  8908: "Ah, c'est d'une grande aide. Je sais que vous pouvez obtenir ${item-plural: 0[2]} de Stray Mary, alors si vous la trouvez... Bonne chance !${prompt}"
+  8908: 'Ah, c''est d''une grande aide. Je sais que vous pouvez obtenir ${item-plural: 0[2]} de Stray Mary, alors si vous la trouvez... Bonne chance !${prompt}'
   8909: Ah, c'est dommage. J'avais espéré dormir sans être dérangé...${prompt}
-  8910: "J'entends dire que Stray Mary vend ${item-plural: 0[2]}. Merci infiniment.${prompt}"
-  8911: "Merci ! Mon ronflement exprimera une gratitude que de simples mots ne peuvent pas ! Voici quelque chose en retour.${prompt}"
+  8910: 'J''entends dire que Stray Mary vend ${item-plural: 0[2]}. Merci infiniment.${prompt}'
+  8911: Merci ! Mon ronflement exprimera une gratitude que de simples mots ne peuvent pas ! Voici quelque chose en retour.${prompt}
   8912: Bientôt, je vais pouvoir dormir à nouveau. Merci, brave aventurier.${prompt}
   8913: J'ai dormi comme un agneau ! Et les rêves ! Eh bien, je ne vais pas les raconter, de peur que vous n'en soyez jaloux, hein ? Merci !${prompt}
   8914: Hmm... ${name-player}, dites-vous ? Non, je n'ai jamais entendu ce nom. Ne vous attendez pas à ce que j'apprenne le nom de chaque recrue !${prompt}
@@ -20829,7 +20823,11 @@ entries:
   9009: |-
     Dormir sur ce ${item-singular: 3[2]} m'a rendu nostalgique, kupo.
     Est-ce que mon bienveillant maître donnera à ${choice-player-gender}[son/sa] moogle un peu de temps libre pour rendre visite à Maman et Papa Moogle, kupo ?${prompt}
-  9010: "Donner des vacances à ton moogle？\n${selection-lines}\nBien sûr, kupo !\nNon, ton temps est à moi !${prompt}"
+  9010: |-
+    Donner des vacances à ton moogle？
+    ${selection-lines}
+    Bien sûr, kupo !
+    Non, ton temps est à moi !${prompt}
   9011: Oh, quel maître cruel, cruel, kupo !!!${prompt}
   9012: |-
     Merci, kupo !
@@ -20864,7 +20862,11 @@ entries:
   9025: |-
     Dormir sur ce ${item-singular: 3[2]} m'a rendu nostalgique, kupo.
     Est-ce que mon bienveillant maître donnera à ${choice-player-gender}[son/sa] moogle un peu de temps libre pour rendre visite à Maman et Papa Moogle, kupo ?${prompt}
-  9026: "Donner des vacances à votre moogle？\n${selection-lines}\nBien sûr, kupo !\nNon, votre temps est à moi !${prompt}"
+  9026: |-
+    Donner des vacances à votre moogle？
+    ${selection-lines}
+    Bien sûr, kupo !
+    Non, votre temps est à moi !${prompt}
   9027: |-
     Merci, kupo !
     J'ai une autre faveur à demander... Je veux emmener ma famille pique-niquer, kupo !${prompt}
@@ -21034,14 +21036,14 @@ entries:
   9159: Une lettre inachevée. Elle ne dit rien de spécial. ${prompt}
   9160: Une peinture. Elle présente un travail de pinceau animé. ${prompt}
   9161: Une inspection plus approfondie révèle que toutes les peintures ici sont du même artiste. ${prompt}
-  9162: |- 
+  9162: |-
     Que faire maintenant ?
     ${selection-lines}
     Examinez la peinture.
     Regardez derrière le cadre.
     Rien.${prompt}
   9163: Vous trouvez une enveloppe sans rien d'écrit dessus. ${prompt}
-  9164: |- 
+  9164: |-
     Que faire maintenant ?
     ${selection-lines}
     Ouvrir et examiner.
@@ -21098,7 +21100,7 @@ entries:
     ${selection-lines}
     J'accepte.
     Je n'accepte pas.${prompt}
-  9213: Je vous implore de vous rendre rapidement au tombeau du roi Ranperre. Vous pourriez y trouver la preuve de voleurs de tombes.${prompt} 
+  9213: Je vous implore de vous rendre rapidement au tombeau du roi Ranperre. Vous pourriez y trouver la preuve de voleurs de tombes.${prompt}
   9214: Mais si vous vous aventurez trop profondément, les gobelins pourraient vous trouver. Marchez courageusement, mon ami, mais ne vous engagez pas trop loin !${prompt}
   9215: Des visiteurs signalent des pierres tombales manquantes et des ombres se tordant dans les cavernes. Fouillez le tombeau et déterminez si ce qu'ils disent est vrai.${prompt}
   9216: Dépêchez-vous au tombeau du roi Ranperre. Vous pourriez y trouver la preuve de voleurs de tombes.${prompt}
@@ -21139,86 +21141,79 @@ entries:
   9251: 'Dans les Cavernes d’Ordelle, il y a un endroit avec un trou au-dessus, où souffle une brise fraîche. Là, vous pouvez trouver ${keyitem-article: 0[2]}, qui rend la lame coupante comme du beurre !${prompt}'
   9252: ${choice-player-gender}[Monsieur/Madame] ${name-player} ! Il n'y a pas une seule âme dans le Royaume qui ne vous considère pas comme un héros !${prompt}
   9253: En tant que représentant du peuple de San d'Oria, je vous demande humblement de continuer vos efforts pour le bien du pays. Que la lumière de la Déesse brille sur vous !${prompt}
-  9254: |- 
+  9254: |-
     Rahal a une lettre pour moi à lire, n'est-ce pas ?
     Trop occupé pour venir lui-même, hmm ?
     Bien, voyons cela...${prompt}
   9255: Ah. C'est l'écriture d'Ancolain B Feulart, ancien second commandant des Chevaliers Royaux.${prompt}
   9256: C'est moi qui l'ai destitué de son commandement...${prompt}
-  9257: |- 
-    Pourquoi me fais-tu cela...?${prompt}
-    Tu dois sûrement être au courant des nombreuses victoires que j'ai remportées pour la gloire de San d'Oria !${prompt}
+  9257: Pourquoi me fais-tu cela...?${prompt}
   9258: Oui, j'en suis conscient.${prompt}${prompt}
   9259: Alors pourquoi ?${prompt}
-  9260: |- 
-    Il y a une qualité que votre lame n'a pas.${prompt}
-    Et cette qualité est la tristesse. Rahal comprend la tristesse en prenant son épée.${prompt}
-  9261: |- 
-    La tristesse ?${prompt}
-    Nous ne sommes pas des compositeurs de vers !
-    À quoi sert la tristesse à un guerrier ?${prompt}
-  9262: |- 
+  9260: Il y a une qualité que votre lame n'a pas.${prompt}
+  9261: La tristesse ?${prompt}
+  9262: |-
     Et c'est là votre arrogance.
     Il y a eu de nombreuses occasions où vous avez ignoré les ordres de votre général et mené les chevaliers sur un chemin de votre choix.${prompt}
   9263: Et n'ai-je pas toujours mené à la victoire en le faisant ?${prompt}
-  9264: |- 
-     Au prix de la vie de nombreux de nos hommes.
-     C'est une négligence trop dangereuse pour un commandant de nos forces.${prompt}
-  9265: |- 
-     Quoi...!
-     Ah, je comprends.
-     Vous dites que San d'Oria n'a plus besoin de moi.${prompt}
-  9266: |- 
-     Vous ne comprenez pas mon propos.
-     Une fois que vous avez pris en considération mes paroles, nous pouvons envisager de vous réintégrer à votre poste.${prompt}
-  9267: |- 
-     Non, je crois que je vais prendre congé des chevaliers.
-     Je trouverai un endroit où l'on m'apprécie pour ce que je suis.
-     Puissiez-vous ne pas regretter vos paroles d'aujourd'hui, Sir Balasiel.${prompt}
+  9264: |-
+    Au prix de la vie de nombreux de nos hommes.
+    C'est une négligence trop dangereuse pour un commandant de nos forces.${prompt}
+  9265: |-
+    Quoi...!
+    Ah, je comprends.
+    Vous dites que San d'Oria n'a plus besoin de moi.${prompt}
+  9266: |-
+    Vous ne comprenez pas mon propos.
+    Une fois que vous avez pris en considération mes paroles, nous pouvons envisager de vous réintégrer à votre poste.${prompt}
+  9267: |-
+    Non, je crois que je vais prendre congé des chevaliers.
+    Je trouverai un endroit où l'on m'apprécie pour ce que je suis.
+    Puissiez-vous ne pas regretter vos paroles d'aujourd'hui, Sir Balasiel.${prompt}
   9268: Ancolain a donc lancé un défi aux chevaliers royaux, n'est-ce pas ? \nIl semble que mes paroles n'aient eu aucun effet sur lui...\n Dommage.${prompt}
-  9269: |- 
-     Avez-vous un wyverne qui répond à votre appel ?
-     Votre wyverne pourra sentir la localisation d'Ancolain à partir de l'ombre des pensées qui persistent encore sur la lettre.
-     C'est toute l'aide que je peux vous donner.${prompt}
+  9269: |-
+    Avez-vous un wyverne qui répond à votre appel ?
+    Votre wyverne pourra sentir la localisation d'Ancolain à partir de l'ombre des pensées qui persistent encore sur la lettre.
+    C'est toute l'aide que je peux vous donner.${prompt}
   9270: Je suis content qu'ils aient épuisé le mulsum, cela gâcherait complètement mon régime !${prompt}
-  9271: |- 
-     Puis-je vous parler un instant ?
-     Oh... il semble que vous ayez d'autres affaires à régler. Peut-être une autre fois.${prompt}
+  9271: |-
+    Puis-je vous parler un instant ?
+    Oh... il semble que vous ayez d'autres affaires à régler. Peut-être une autre fois.${prompt}
   9272: La prochaine fois que je chercherai un aventurier, vous serez le premier sur ma liste.${prompt}
   9273: Puis-je vous parler un instant de l'écologie de Vana'diel ?${prompt}
-  9274: |- 
-     Êtes-vous intéressé ?
-     ${selection-lines}
-     Bien sûr !
-     Ça a l'air fascinant, mais...${prompt}
+  9274: |-
+    Êtes-vous intéressé ?
+    ${selection-lines}
+    Bien sûr !
+    Ça a l'air fascinant, mais...${prompt}
   9275: Avez-vous entendu parler des Cavernes d'Ordelle ?${prompt}
   9276: Oui, ces belles formations naturelles qui serpentent sous le Plateau de La Thène.${prompt}
   9277: Êtes-vous au courant qu'en ce moment même, une créature mangeuse de calcaire détruit la splendeur des grottes avec son appétit vorace ?${prompt}
   9278: Nous avons besoin de l'aide d'aventuriers intègres et soucieux de l'environnement comme vous pour débarrasser les grottes de ce monstre. Pouvons-nous compter sur votre coopération ?${prompt}
   9279: |-
-     Accepter la tâche ?
-     ${selection-lines}
-     Vous pouvez compter sur moi !
-     Je dois nettoyer ma Mog House...${prompt}
+    Accepter la tâche ?
+    ${selection-lines}
+    Vous pouvez compter sur moi !
+    Je dois nettoyer ma Mog House...${prompt}
   9280: |-
-     Je savais que vous seriez là pour nous !
-     Apportez-moi la preuve que vous avez vaincu la créature, et je vous verserai une récompense du fonds du Réseau d'Initiative de Gestion Environnementale de Vana'diel.${prompt}
+    Je savais que vous seriez là pour nous !
+    Apportez-moi la preuve que vous avez vaincu la créature, et je vous verserai une récompense du fonds du Réseau d'Initiative de Gestion Environnementale de Vana'diel.${prompt}
   9281: Rojaireaut, notre agent V.E.R.M.I.N. sur le terrain, vous attendra dans les grottes. Revenez en sécurité !${prompt}
   9282: Je vois... Eh bien, je suppose que je dois demander de l'aide à un autre citoyen.${prompt}
   9283: Rojaireaut, notre agent V.E.R.M.I.N. sur le terrain, vous attendra avec d'autres instructions dans les grottes.${prompt}
   9284: |-
-      Vous m'avez apporté ${keyitem-article: 0[2]} de la créature vaincue ?
-      Merveilleux ! Je savais que vous en étiez capable ! Voici votre récompense, comme promis.${prompt}
+    Vous m'avez apporté ${keyitem-article: 0[2]} de la créature vaincue ?
+    Merveilleux ! Je savais que vous en étiez capable ! Voici votre récompense, comme promis.${prompt}
   9285: DEBUG:このクエストを受けました。${prompt}
   9286: DEBUG:このクエストを断りました。${prompt}
   9287: |-
-      Rochefogne !
-      Où es-tu parti, Rochefogne ? San d'Oria a besoin de toi !${prompt}
+    Rochefogne !
+    Où es-tu parti, Rochefogne ? San d'Oria a besoin de toi !${prompt}
   9288: Toi là-bas ! As-tu vu Rochefogne ?${prompt}
   9289: Je m'excuse, Votre Altesse. Je n'ai pas vu l'homme que vous cherchez. ${prompt}
   9290: |-
-      Où pourrait-il bien être... ?
-      Ses blessures sont encore fraîches. Il a besoin de plus de repos.${prompt}
+    Où pourrait-il bien être... ?
+    Ses blessures sont encore fraîches. Il a besoin de plus de repos.${prompt}
   9291: Leaute, ma sœur. Si seulement tu pouvais être ici aujourd'hui... Comme tu serais fière de tes enfants. Puisses-tu reposer en paix en sachant cela.${prompt}
   9292: Maintenant, je dois partir. Je n'ai pas le droit de rester ici dans votre royaume.${prompt}
   9293: Ah, ${name-player}. Je pourrais quitter San d'Oria, mais ce n'est pas la fin de mes voyages. Non, c'est juste le début. Il en va de même pour toi, n'est-ce pas ?${prompt}
@@ -21484,15 +21479,15 @@ entries:
   9472: Je pense que sa ceinture d'épée est un peu trop serrée...${prompt}
   9473: Un chevalier, qu'il soit du passé ou du futur, ne doit pas être dérangé par des choses triviales. Dans ce monde, je suis un héros renommé. Que dis-tu, n'es-tu pas impressionné ?${prompt}
   9474: |-
-      Je dois penser à un nom plus approprié pour moi.
-      Que pensez-vous de "Foudroyeur Vijartal" ? Ça a un peu plus de punch, non ?${prompt}
+    Je dois penser à un nom plus approprié pour moi.
+    Que pensez-vous de "Foudroyeur Vijartal" ? Ça a un peu plus de punch, non ?${prompt}
   9475: |-
-      Hmmm, il doit y avoir quelque chose de mieux, cependant...
-      J'ai trouvé ! Que diriez-vous de "Vijartal Caphieux, la Foudre d'Obsidienne" ? Ça sonne bien, vous ne trouvez pas ?${prompt}
+    Hmmm, il doit y avoir quelque chose de mieux, cependant...
+    J'ai trouvé ! Que diriez-vous de "Vijartal Caphieux, la Foudre d'Obsidienne" ? Ça sonne bien, vous ne trouvez pas ?${prompt}
   9476: Vijartal Caphieux ?${prompt}
   9477: |-
-      La Foudre d'Obsidienne...
-      Oui, j'aime ça ! Donnez-moi un peu de temps pour travailler sur une nouvelle signature.${prompt}
+    La Foudre d'Obsidienne...
+    Oui, j'aime ça ! Donnez-moi un peu de temps pour travailler sur une nouvelle signature.${prompt}
   9478: Excusez-moi, pourrais-je vous parler ? Nous pouvons discuter chez moi.${prompt}
   9479: Je vois. Votre histoire est bien triste. Mais pourquoi devrais-je être celui qui aide votre frère ?${prompt}
   9480: Eh bien, puisque vous vous êtes présenté comme Vijartal Caphieux, le chevalier célèbre, j'ai pensé que vous deviez être un guerrier habile. Votre aide serait la bienvenue.${prompt}
@@ -21507,8 +21502,8 @@ entries:
   9489: Quoi ?${prompt}
   9490: Les gens de Bastok sont vulgaires et grossiers, et devraient être méprisés par tout citoyen honorable de la noble San d'Oria. Je ne souffrirai pas d'être assimilé à des gens comme lui.${prompt}
   9491: |-
-      Je vous demande pardon !
-      Il n'y a aucune telle animosité entre le peuple de San d'Oria et Bastok ! Présentez vos excuses à Roido immédiatement !${prompt}
+    Je vous demande pardon !
+    Il n'y a aucune telle animosité entre le peuple de San d'Oria et Bastok ! Présentez vos excuses à Roido immédiatement !${prompt}
   9492: Encore une fois, votre ressemblance avec ma Naphee est troublante.${prompt}
   9493: Vous n'avez pas besoin de faire semblant de m'apprécier, mais je ne peux pas aller à cet endroit seul. C'est beaucoup trop dangereux.${prompt}
   9494: Dangereux !? Y a-t-il des monstres et des choses du genre dans cet endroit ?${prompt}
@@ -21666,7 +21661,7 @@ entries:
   9630: Cependant, ce n'était pas longtemps après cette rencontre que le cardinal Mildaurion a révoqué sa propre noblesse et a disparu du Royaume. Maintenant que j'y pense, cet événement pourrait avoir un lien avec les paroles de Muchavatte.${prompt}
   9631: Le cardinal a révoqué sa noblesse ? Quand cela s'est-il produit ?${prompt}
   9632: Il y a presque vingt ans, bien sûr. Je crois que c'était juste quelques jours après l'attaque surprise des Orcs sur le Marquisat. Ne le savais-tu pas ?${prompt}
-  9633: Non, je ne le savais pas. Je pensais que le cardinal Mildaurion était une victime de l'assaut. La dernière fois que je l'ai vue, elle se tenait à Tavnazia alors qu'elle s'effondrait et brûlait.${prompt} 
+  9633: Non, je ne le savais pas. Je pensais que le cardinal Mildaurion était une victime de l'assaut. La dernière fois que je l'ai vue, elle se tenait à Tavnazia alors qu'elle s'effondrait et brûlait.${prompt}
   9634: Il semble que la lumière d'Altana ait également béni le cardinal.${prompt}
   9635: |-
     Oui... C'est vrai...
@@ -21919,7 +21914,7 @@ entries:
   9744: En cas de KO, vous serez ramené au camp de votre équipe. Cependant, la récupération prendra plus de temps si vous tombez souvent au combat.${prompt}
   9745: En d'autres termes, vous recevrez une pénalité si vous tombez immédiatement après avoir récupéré d'un KO. De plus, votre TP sera réduit à zéro et vous perdrez tous les Petras que vous possédez.${prompt}
   9746: Je suis désolé. Je n'écoutais pas. Pourriez-vous recommencer depuis le début ?${prompt}
-  9747: Vous dites que vos voyages vous ont emmené dans les prairies balayées par le vent de Tavnazia. Bien des lunes ont passé depuis que ce nom est tombé à mes oreilles.${prompt} 
+  9747: Vous dites que vos voyages vous ont emmené dans les prairies balayées par le vent de Tavnazia. Bien des lunes ont passé depuis que ce nom est tombé à mes oreilles.${prompt}
   9748: |-
     Cependant, avec votre arrivée, des souvenirs oubliés de la Marquisate ont surgi des recoins de mon esprit, tout comme l'eau claire de la montagne jaillit d'une source.
     Oui, je me souviens quand les rues étaient remplies de produits et de marchandises transportés par d'innombrables marchands de l'archipel lointain.${prompt}
@@ -21931,41 +21926,31 @@ entries:
   9754: |-
     Comme je ne suis qu'une simple servante, je n'ai que peu à vous offrir en retour.
     Veuillez accepter ceci comme un témoignage de ma gratitude.${prompt}
-  9755: Un jeune et talentueux marchand de Tavnazia venait souvent au manoir et me donnait ces épices avant de se rendre à la cathédrale pour faire des affaires avec les prêtres. Mais c'était il y a longtemps...${prompt} 
-  9756: Qu'est-ce qui se passe, Rouva ? Je ne vous ai pas vue aussi ravie depuis des lustres.${prompt} 
+  9755: Un jeune et talentueux marchand de Tavnazia venait souvent au manoir et me donnait ces épices avant de se rendre à la cathédrale pour faire des affaires avec les prêtres. Mais c'était il y a longtemps...${prompt}
+  9756: Qu'est-ce qui se passe, Rouva ? Je ne vous ai pas vue aussi ravie depuis des lustres.${prompt}
   9757: 'Oui, ma dame. Cet excellent aventurier nous a apporté un brin de ${keyitem-singular: 7[2]}!${prompt}'
-  9758: Non, ce que je voulais dire, c'est que vous aviez l'air terriblement ravie lorsque vous parliez de ce jeune marchand. Peut-être aviez-vous un faible pour ce jeune homme exotique venu de loin ?${prompt} 
-  9759: |-
-    Dame Femitte ! Je... je...${prompt} 
-    Il y a longtemps, j'ai purifié mon esprit de telles pensées impures.${prompt} 
-  9760:  Bien qu'à un moment donné, mon cœur ait pu battre plus vite au son des pas du marchand s'approchant de la porte du manoir, j'ai repoussé ces sentiments après avoir entendu des rumeurs selon lesquelles il aurait épousé l'une des théologiennes de la cathédrale et serait retourné à Tavnazia. Ce serait un péché pour moi de désirer quelqu'un lié à un autre.${prompt} 
-  9761: |-
-    Mais...${prompt} 
-    Je ne peux qu'espérer qu'il ait échappé aux flammes de la guerre qui ont traversé son pays il y a vingt ans...${prompt} 
-  9762: Que la Déesse ait pitié du jeune Despachiaire...${prompt} 
-  9763: Grâce à votre acte de gentillesse désintéressé, j'ai pu offrir à ma dame un goût de son enfance.${prompt} 
-  9764: Mon nom est Sobane, et mon mari est le chef de cuisine de la famille royale.${prompt} 
-  9765: Tout récemment, il m'a annoncé une nouvelle des plus troublantes. C'est pourquoi j'ai été poussée à demander l'aide d'un aventurier...${prompt} 
-  9766: Si la nouvelle de ma demande parvenait aux mauvaises oreilles, cela pourrait mettre ma famille en danger.${prompt} 
+  9758: Non, ce que je voulais dire, c'est que vous aviez l'air terriblement ravie lorsque vous parliez de ce jeune marchand. Peut-être aviez-vous un faible pour ce jeune homme exotique venu de loin ?${prompt}
+  9759: "Dame Femitte ! Je... je...${prompt} \nIl y a longtemps, j'ai purifié mon esprit de telles pensées impures.${prompt} "
+  9760: Bien qu'à un moment donné, mon cœur ait pu battre plus vite au son des pas du marchand s'approchant de la porte du manoir, j'ai repoussé ces sentiments après avoir entendu des rumeurs selon lesquelles il aurait épousé l'une des théologiennes de la cathédrale et serait retourné à Tavnazia. Ce serait un péché pour moi de désirer quelqu'un lié à un autre.${prompt}
+  9761: "Mais...${prompt} \nJe ne peux qu'espérer qu'il ait échappé aux flammes de la guerre qui ont traversé son pays il y a vingt ans...${prompt} "
+  9762: Que la Déesse ait pitié du jeune Despachiaire...${prompt}
+  9763: Grâce à votre acte de gentillesse désintéressé, j'ai pu offrir à ma dame un goût de son enfance.${prompt}
+  9764: Mon nom est Sobane, et mon mari est le chef de cuisine de la famille royale.${prompt}
+  9765: Tout récemment, il m'a annoncé une nouvelle des plus troublantes. C'est pourquoi j'ai été poussée à demander l'aide d'un aventurier...${prompt}
+  9766: Si la nouvelle de ma demande parvenait aux mauvaises oreilles, cela pourrait mettre ma famille en danger.${prompt}
   9767: |-
     Tout récemment, il m'a annoncé une nouvelle des plus troublantes.
     C'est ainsi que j'ai été poussé à demander l'aide d'un aventurier...${prompt}
   9768: Si la nouvelle de ma demande parvient à de mauvaises oreilles, elle peut mettre ma famille en danger.${prompt}
   9769: Si vous décidez d'accéder à ma demande, seriez-vous prêt à prêter un serment de sang ?${prompt}
   9770: Vous devez jurer à Altana, déesse de l'aube, de ne souffler aucune syllabe de cette affaire à qui que ce soit...${prompt}
-  9771: |-
-     Jures-tu ?
-     ${selection-lines}
-     Sur mon honneur.
-     Seulement lorsque je me blesse...${prompt}  
-  9772: |-
-    Mes remerciements.
-    En guise de preuve de votre serment, je vous demande d'apporter ${item-article: 1[2]}.${prompt}  
-  9773: Le sort de ma famille est entre vos mains.${prompt}  
+  9771: "Jures-tu ?\n${selection-lines}\nSur mon honneur.\nSeulement lorsque je me blesse...${prompt}  "
+  9772: "Mes remerciements.\nEn guise de preuve de votre serment, je vous demande d'apporter ${item-article: 1[2]}.${prompt}  "
+  9773: Le sort de ma famille est entre vos mains.${prompt}
   9774: |-
-     Je vois.
-     J'ai été stupide de m'attendre à ce qu'un aventurier accepte un accord aussi contraignant. Je trouverai un autre moyen...${prompt}
-  9775: 'En guise de preuve de votre serment, je vous demande d’apporter ${item-article: 1[2]}.${prompt}'  
+    Je vois.
+    J'ai été stupide de m'attendre à ce qu'un aventurier accepte un accord aussi contraignant. Je trouverai un autre moyen...${prompt}
+  9775: 'En guise de preuve de votre serment, je vous demande d’apporter ${item-article: 1[2]}.${prompt}'
   9776: |-
     Merci, aventurier.
     J'accepte ce ${item-singular: 1[2]} comme preuve de votre parole.${prompt}
@@ -21996,7 +21981,7 @@ entries:
     Beaucoup d'informations parviennent à un homme qui prépare les repas pour un foyer.${prompt}
   9794: Si le comte Teulomme cherche vraiment à nuire à l'héritier des Chevaliers de Mistalle, nous avons le devoir de le mettre en garde contre le danger.${prompt}
   9795: Je suis sûr qu'un aventurier de votre calibre sera capable de localiser cet homme avant qu'il ne se produise quelque chose de fâcheux.${prompt}
-  9796: Veuillez trouver le chevalier de Mistalle. Il doit être informé de la menace qui pèse sur sa vie.${prompt} 
+  9796: Veuillez trouver le chevalier de Mistalle. Il doit être informé de la menace qui pèse sur sa vie.${prompt}
   9797: Le comte Teulomme cherche-t-il vraiment le chevalier de Mistalle pour lui nuire ?${prompt}
   9798: Je vous demande de trouver ce chevalier et de le mettre en garde contre le danger qui le menace.${prompt}
   9799: Je ne sais pas où il réside actuellement...${prompt}
@@ -22117,7 +22102,7 @@ entries:
   9870: J'ai juste accepté un cadeau de votre part, gentil ${choice-player-gender}[monsieur/madame]. Je ne pourrais pas en accepter un autre.${prompt}
   9871: '${color-alt: 131}Vous avez apporté de la joie aux enfants de Vana’diel !${prompt}'
   9872: '${color-alt: 131}Vous avez apporté des barils de joie aux enfants de Vana’diel !${prompt}'
-  9873: '${number: 0}ポイントを入手。現在のポイント：${number: 1}。${prompt}' 
+  9873: '${number: 0}ポイントを入手。現在のポイント：${number: 1}。${prompt}'
   9874: |-
     Avez-vous vu les arbres ? Avez-vous vu les arbres ?
     Ça doit être le moment de l'année à nouveau, kupo ! Le temps de la Célébration de l'Étoile, kupo !${prompt}
@@ -22611,7 +22596,7 @@ entries:
   10045: |-
     Bon travail, kupo ! Vous leur avez bien montré qui est le patron !
     Grâce à vous, nous avons pu éviter un désastre diplomatique avec l'Extrême-Orient, kupo.${prompt}
-  10046: Une poignée de mauvais mogs nomades et de gobelins conspiraient pour prendre le contrôle de l'UGMM, en assumant faussement des identités pour obtenir l'armure et nous incriminer, kupo ! 
+  10046: Une poignée de mauvais mogs nomades et de gobelins conspiraient pour prendre le contrôle de l'UGMM, en assumant faussement des identités pour obtenir l'armure et nous incriminer, kupo !
   10047: Ensuite, ils ont engagé des voleurs pour porter l'armure et faire leur sale boulot !
   10048: Mais grâce à vous, courageux aventuriers, l'UGMM est saine et sauve, kupo !
   10049: Nous avons besoin de votre aide pour débarrasser la terre de la menace émettrice de malice, kupo !
@@ -23024,37 +23009,6 @@ entries:
     Retirer quel objet du stockage ?
     ${selection-lines}
     J'ai changé d'avis.${prompt}
-    ${lettercase: 1}${item-singular: 0[2]}.
-    ${lettercase: 1}${item-singular: 1[2]}.
-    ${lettercase: 1}${item-singular: 2[2]}.
-    ${lettercase: 1}${item-singular: 3[2]}.
-    ${lettercase: 1}${item-singular: 4[2]}.
-    ${lettercase: 1}${item-singular: 5[2]}.
-    ${lettercase: 1}${item-singular: 6[2]}.
-    ${lettercase: 1}${item-singular: 7[2]}.
-    ${lettercase: 1}${item-singular: 8[2]}.
-    ${lettercase: 1}${item-singular: 9[2]}.
-    ${lettercase: 1}${item-singular: 10[2]}.
-    ${lettercase: 1}${item-singular: 11[2]}.
-    ${lettercase: 1}${item-singular: 12[2]}.
-    ${lettercase: 1}${item-singular: 13[2]}.
-    ${lettercase: 1}${item-singular: 14[2]}.
-    ${lettercase: 1}${item-singular: 15[2]}.
-    ${lettercase: 1}${item-singular: 16[2]}.
-    ${lettercase: 1}${item-singular: 17[2]}.
-    ${lettercase: 1}${item-singular: 18[2]}.
-    ${lettercase: 1}${item-singular: 19[2]}.
-    ${lettercase: 1}${item-singular: 20[2]}.
-    ${lettercase: 1}${item-singular: 21[2]}.
-    ${lettercase: 1}${item-singular: 22[2]}.
-    ${lettercase: 1}${item-singular: 23[2]}.
-    ${lettercase: 1}${item-singular: 24[2]}.
-    ${lettercase: 1}${item-singular: 25[2]}.
-    ${lettercase: 1}${item-singular: 26[2]}.
-    ${lettercase: 1}${item-singular: 27[2]}.
-    ${lettercase: 1}${item-singular: 28[2]}.
-    ${lettercase: 1}${item-singular: 29[2]}.
-    ${lettercase: 1}${item-singular: 30[2]}.${prompt}
   10226: |-
     Un frais de 250 gils est requise.
     Voulez-vous retirer le ${item-singular: 0[2]} du stockage?${prompt}
@@ -23274,9 +23228,9 @@ entries:
     Désolé, mais je ne distribuerai pas de récompense cette fois-ci, kupo.${prompt}
   10309: Mon sac est rempli de goodies pour les aventuriers serviables comme vous ! Choisissez ce qui vous plaît !${prompt}
   10310: |-
-    Quel objet désirez-vous ?
+    Which item would you like?
     ${selection-lines}
-    Laissez-moi réfléchir.
+    Let me think.
     ${lettercase: 1}${article} ${item-article: 1[2]}.
     ${lettercase: 1}${article} ${item-article: 2[2]}.
     ${lettercase: 1}${article} ${item-article: 3[2]}.
@@ -23293,61 +23247,61 @@ entries:
     ${lettercase: 1}${article} ${item-article: 14[2]}.
     ${lettercase: 1}${article} ${item-article: 15[2]}.
     ${lettercase: 1}${article} ${item-article: 16[2]}.
-    ${lettercase: 1}${article} ${item-article: 17[2]}.
-  10311: Êtes-vous absolument sûr, kupo ?${prompt}
+    ${lettercase: 1}${article} ${item-article: 17[2]}.${prompt}
+  10311: Are you absolutely sure, kupo?${prompt}
   10312: |-
-    Vous voulez vraiment ${article} ${item-article: 0[2]} ?
+    You really want ${article} ${item-article: 0[2]}?
     ${selection-lines}
-    Oui, c'est celui-là !
-    En y réfléchissant...${prompt}
-  10313: Vous devez attendre un peu plus longtemps pour réessayer, kupo.${prompt}
-  10314: Vous devez jeter tous vos chocolats avant de jouer à nouveau, kupo ! Cela peut sembler être du gaspillage, mais une règle est une règle !${prompt}
+    Yes, that's the one!
+    On second thought...${prompt}
+  10313: You must wait a bit longer to try again, kupo.${prompt}
+  10314: You have to throw away all of your chocolates before playing again, kupo! It might seem a waste, but a rule is a rule!${prompt}
   10315: |-
-    Oh, j'attendais ce moment avec impatience !
-    Vous allez m'aider à trouver la femme parfaite, n'est-ce pas ? Wow, merci !!!${prompt}
+    Oh, I've been waiting for this moment!
+    You'll help me find my perfect woman, right? Wow, thank you!!!${prompt}
   10316: |-
-    J'aime vraiment les ${choice: 2}[joyeux/gentils/timides/modestes] ${choice: 3}[Humes/Elvaan/Tarutaru/Mithra] ! Ils sont fantastiques !
-    Voici un morceau de chocolat. J'espère que vous ramènerez le meilleur chocolat qui soit ! Bonne chance !${prompt}
+    I really like ${choice: 2}[cheerful/kind/shy/modest] ${choice: 3}[Humes/Elvaan/Tarutaru/Mithra]! They're fantastic!
+    Here's a piece of chocolate. I hope you bring back the best chocolate ever! Good luck!${prompt}
   10317: |-
-    Vous n'avez toujours pas apporté de chocolat ?
-    J'attendais depuis si longtemps, alors dépêchez-vous !${prompt}
+    You still haven't brought any chocolate?
+    I've been waiting so long for this, so hurry up!${prompt}
   10318: |-
-    Hé, qu'est-ce que vous voulez ?
-    Vous pourriez aller voir un moogle ou quelque chose comme ça !${prompt}
+    Hey, what do you want?
+    You could go see a moogle or something!${prompt}
   10319: |-
     <gasp>!
-    V-vous m'avez apporté un chocolat !
-    Je vais savourer sa saveur délicate... et ensuite je vous dirai ce que j'en pense ! Merci !${prompt}
-  10320: Hé. J'ai entendu dire que vous jouiez les entremetteurs par ici.${prompt}
-  10321: 'Hmph, je suppose que je pourrais vous dire quel est mon type. J’aime les ${choice: 3}[Humes/Elvaan/Tarutaru/Mithra], et je les aime ${choice: 2}[joyeux/gentils/timides/modestes]. Je laisse ce chocolat, et mon futur, entre vos mains. Bon, allez-y. Allez-y. Allez-y. Allez-y.${prompt}'
+    Y-you brought me a chocolate!
+    I'm going to savor its delicate flavor...and then I'll let you know what I think! Thank you!${prompt}
+  10320: Hey. I heard you're playing the matchmaker around here.${prompt}
+  10321: 'Hmph, guess I might as well let you know my type. I like ${choice: 3}[Humes/Elvaan/Tarutaru/Mithra], and I like ''em ${choice: 2}[cheerful/kind/shy/modest]. I leave this chocolate, and my future, in your hands. Well, go on. Get on with it.${prompt}'
   10322: |-
-    Quoi ? Encore... ?
-    Eh bien, continuez comme ça. J'attends avec impatience les résultats.${prompt}
+    What? Still...?
+    Oh well, keep it up. Looking forward to the results.${prompt}
   10323: |-
-    Que veux-tu ?
-    Je ne pense pas te connaître.${prompt}
+    What do you want?
+    I don't think I know you.${prompt}
   10324: |-
-    Eh bien, tu as quand même réussi à obtenir un chocolat fini.
-    J'ai besoin de temps pour réfléchir, cependant. Après tout, cela pourrait déterminer mon avenir, donc je le goûterai plus tard. Merci.${prompt}
+    Well, you were able to get a finished chocolate after all.
+    I need some time to think, though. After all, this could determine my future, so I will taste it later. Thank you.${prompt}
   10325: |-
-    J'attendais cela toute ma vie !
-    Tu vas me caser avec une fille, n'est-ce pas ? Wow ! Moi et une fille, ensemble ! Imagine !${prompt}
-  10326: 'Oh, oh, voyons voir... Je vais te dire exactement ce que je veux ! Je veux une ${choice: 2}[joyeuse/gentille/timide/modeste] ${choice: 3}[Hume/Elvaan/Tarutaru/Mithra] ! Elle doit aussi cuisiner des choses comme du poisson-chat cuit à la vapeur tous les soirs, aimer regarder le Ballista, et s’intéresser à la mécanique des aéronefs... euh, ignore ces dernières demandes. Quoi qu’il en soit, voici du chocolat ! Trouve-moi une femme !${prompt}'
-  10327: Oh wow, merci d'avoir fait ça pour moi ! J'ai hâte de goûter mon chocolat !${prompt}
-  10328: Quoi ? De quoi as-tu besoin ? Rien ? D'accord, alors !${prompt}
+    I have been waiting all my life for this!
+    You'll match me up with a girl, right? Wow! Me and a girl, together! Imagine!${prompt}
+  10326: 'Oh, oh, let''s see...I''ll tell you exactly what I want! I want a ${choice: 2}[cheerful/kind/shy/modest] ${choice: 3}[Hume/Elvaan/Tarutaru/Mithra]! She also must cook things like steamed catfish every night, love watching Ballista, and have an interest in airship mechanics...er, ignore those last few requests. Anyway, here''s some chocolate! Go get me a woman!${prompt}'
+  10327: Oh wow, thanks for doing this for me! I can't wait for my chocolate!${prompt}
+  10328: What? What do you need? Nothing? Okay, then!${prompt}
   10329: |-
-    Wooow, tu as vraiment eu un chocolat pour moi !
-    Je te dirai comment il goûte plus tard ! Oh, merci, merci ! J'espère que tu pourras avoir un vrai ${choice-player-gender}[petit ami/petite amie] un jour, toi aussi !${prompt}
+    Wooow, you really got a chocolate for me!
+    I'll let you know how it tastes later! Oh, thank you, thank you! I hope you can get a real, live ${choice-player-gender}[girlfriend/boyfriend] someday, too!${prompt}
   10330: |-
-    N-non, impossible !
-    Je peux rencontrer... une femme ? Une qui... m'aime !? ...Oh, wow !${prompt}
+    N-no way!
+    I can meet...a woman? One that...likes me!? ...Oh, wow!${prompt}
   10331: |-
-    D'accord, d'accord... Je vais te dire mon type. Voyons voir... J'aimerais une, euh... aah, c'est tellement embarrassant. J'aimerais une ${choice: 2}[joyeuse/gentille/timide/modeste] ${choice:3}[Hume/Elvaan/Tarutaru/Mithra] ! O-oui, c'est ma commande ! (Oops... peut-être que j'ai été trop loin juste maintenant...)
-    Quoi qu'il en soit, v-voici un chocolat !${prompt}
+    Okay, okay...I'm going to tell you my type. Let's see...I'd like an, um...ack, this is so embarrassing. I'd like a ${choice: 2}[cheerful/kind/shy/modest] ${choice: 3}[Hume/Elvaan/Tarutaru/Mithra]! Y-yes, that's my order! (Oops...maybe I went too far just now...)
+    Anyway, h-here's a chocolate!${prompt}
   10332: |-
-    Ahhh !
-    Par Altana, tu m'as fait peur !
-    Pas encore terminé ? O-oh, je suis désolé !${prompt}
+    Ahhh!
+    By Altana, you scared me!
+    Not finished yet? O-oh, I'm sorry!${prompt}
   10333: |-
     What!?
     ...Oh, you want something? I-I'm fine!${prompt}
@@ -23468,78 +23422,78 @@ entries:
   10374: '${color-alt: 15}${lettercase: 1}${keyitem-article: 0[2]} is suddenly pinned to ${name-player}!${prompt}'
   10375: This is the symbol of the illustrious leader of Salaheem's Sentinels--a snarling wildcat.${prompt}
   10376: |-
-    Sous l'autorisation de Sa Majesté Impériale, les Sentinelles de Salaheem est une entreprise respectée spécialisée dans la formation et l'envoi de mercenaires pour la défense de l'Empire d'Aht Urhgan.
-    Nous avons une multitude de missions bien rémunérées prêtes pour tout aventurier en bonne santé.${prompt}
-  10377: Mais mon discours s'allonge ! Mon intrépide commandant m'a ordonné de prendre le navire pour ce royaume baigné de richesses et d'éblouir les citoyens avec la splendeur des Sentinelles, et ainsi je le ferai !${prompt}
+    Under the authorization of Her Imperial Majesty, Salaheem's Sentinels is a well-respected company that specializes in training and dispatching mercenaries for the defense of the Aht Urhgan Empire.
+    We have a myriad of well-paying missions ready for any able-bodied adventurer.${prompt}
+  10377: But my speech grows overlong! My dauntless commander has bid me take ship to this bountiful kingdom and dazzle the citizenry with the Sentinels' splendor, and so I shall!${prompt}
   10378: |-
-    Ohé ! C'est vous !
-    Il semblerait que de plus en plus de personnes s'intéressent à notre modeste organisation.
-    Louées soient les vents de la fortune !${prompt}
-  10379: 'Le ${keyitem-singular: 0[2]} a été créé grâce aux techniques alchimiques avancées de mon pays. Les yeux du chat sauvage sont conçus pour briller en présence de quiconque pense à Aht Urhgan.${prompt}'
+    Oho! It is you!
+    It would appear that more and more people are taking an interest in our humble organization.
+    Praise be to the winds of fortune!${prompt}
+  10379: 'The ${keyitem-singular: 0[2]} was created through the advanced alchemical techniques of my country. The wildcat''s eyes are designed to flash in the presence of any who entertain thoughts of Aht Urhgan.${prompt}'
   10380: |-
-    Ah ah ! Mon splendide ami !
-    Vous avez propagé le feu de la fascination à travers toute la ville !
-    Les Sentinelles de Salaheem sont sur toutes les lèvres !${prompt}
+    Aha! My splendid friend!
+    You have spread the fire of fascination through the entire city!
+    Salaheem's Sentinels is the talk of the town!${prompt}
   10381: |-
-    Hm ?
-    Il semble que les yeux du ${keyitem-singular: 0[2]} aient perdu de leur éclat. La source d'alimentation en cristal a dû être épuisée après avoir ébloui tant de gens.
-    Permettez-moi de retirer ce bibelot usé...${prompt}
-  10382: '${color-alt: 15}Le ${keyitem-singular: 0[2]} est retiré de ${name-player} !${prompt}'
+    Hm?
+    It appears the eyes of the ${keyitem-singular: 0[2]} have lost their luster. The crystal power source must have been drained after dazzling so many people.
+    Allow me to remove this spent trinket...${prompt}
+  10382: '${color-alt: 15}The ${keyitem-singular: 0[2]} is taken from ${name-player}!${prompt}'
   10383: |-
-    En retour, je vous accorderai ce bijou.
-    Il vous sera utile lorsque vous rejoindrez les rangs des mercenaires d'Aht Urhgan !${prompt}
-  10384: 'Vous obtenez ${keyitem-article: 0[2]} !${prompt}'
+    In return, I shall award you this bauble.
+    It will come in handy for when you join the ranks of the Aht Urhgan mercenaries!${prompt}
+  10384: 'You obtain ${keyitem-article: 0[2]}!${prompt}'
   10385: |-
-    Votre nom brillera à travers les âges comme l'un de nos meilleurs agents de relations publiques. Si vous bravez un jour les mers et vous retrouvez dans la Cité Impériale d'Al Zahbi, vous devez absolument visiter les bureaux des Sentinelles de Salaheem.
-    J'insiste !${prompt}
-  10386: Venez célébrer la Fête des Poupées avec nous, kupo !${prompt}
+    Your name will shine down through the ages as one of our finest public relations officers. Should you ever brave the seas and find yourself in the Imperial City of Al Zahbi, you simply must visit the offices of Salaheem's Sentinels.
+    I insist!${prompt}
+  10386: Come and celebrate the Doll Festival with us, kupo!${prompt}
   10387: |-
-    Nous avons des articles pour tout le monde !
-    Voici pour vous, kupo !${prompt}
-  10388: Revenez et amenez vos amis ! Chacun d'eux recevra également un article, kupo !${prompt}
-  10389: Vous ne pouvez obtenir des articles qu'une fois par jour, alors revenez demain, kupo !${prompt}
-  10390: 'Vous obtenez ${number: 4} ${item-given-plurality: 4[2], 0[2]}, ${number: 4} ${item-given-plurality: 4[2], 1[2]}, ${number: 4} ${item-given-plurality: 4[2], 2[2]}, et ${number: 4} ${item-given-plurality: 4[2], 3[2]} !${prompt}'
+    We've got items for everyone!
+    Here you go, kupo!${prompt}
+  10388: Come again and bring your friends! Each of them will also get an item, kupo!${prompt}
+  10389: You can get items only once each day, so come back again tomorrow, kupo!${prompt}
+  10390: 'You obtain ${number: 4} ${item-given-plurality: 4[2], 0[2]}, ${number: 4} ${item-given-plurality: 4[2], 1[2]}, ${number: 4} ${item-given-plurality: 4[2], 2[2]}, and ${number: 4} ${item-given-plurality: 4[2], 3[2]}!${prompt}'
   10391: |-
     Kupopopo～!
-    C'est terrible !
-    Des bandits sournois ont volé les armures que nous avons apportées pour la Fête des Épées, kupo !${prompt}
-  10392: Les mécréants portant ces armures sont invulnérables aux armes normales ! Et comme si cela ne suffisait pas, ils sont entourés d'une aura puissante qui les rend totalement invincibles, kupo !${prompt}
+    This is terrible!
+    Sneaky scoundrels have swiped the armor we brought in for the Feast of Swords, kupo!${prompt}
+  10392: The villains wearing the armor are invulnerable to normal weapons! And as if that wasn't enough, they're surrounded by a powerful aura that prevents them from being attacked at all, kupo!${prompt}
   10393: |-
-    Mais ne vous inquiétez pas !
-    Nos meilleurs chercheurs moogle ont créé une arme capable de blesser ces voyous voleurs d'armures !
-    Voici le merveilleux ${item-singular: 0[2]}, kupo !${prompt}
-  10394: Les moogles nomades ont également développé une magie qui annulera cette aura anti-attaque, alors assurez-vous de leur rendre visite tout en portant l'arme avant d'affronter l'ennemi, kupo.${prompt}
-  10395: Mais attention - cette magie a pour effet secondaire de vous empêcher d'attaquer tout autre monstre pendant trois jours entiers, kupo !${prompt}
+    But never fear!
+    Our top moogle researchers have created a weapon that can injure these armor-thieving hooligans!
+    Behold the wondrous ${item-singular: 0[2]}, kupo!${prompt}
+  10394: The nomad moogles have also developed a magic that will annul that anti-attack aura, so be sure to pay them a visit while wearing the weapon before you engage the enemy, kupo.${prompt}
+  10395: But be warned--this magic has the side-effect of preventing you from attacking any other monster for three whole days, kupo!${prompt}
   10396: |-
-    Voici votre ${item-singular: 0[2]}.
-    Vous êtes maintenant prêt à combattre, kupo !${prompt}
-  10397: 'Si vous souhaitez croiser le fer avec les intrus invincibles, équipez le ${item-singular: 0[2]} et parlez à un moogle nomade, kupo !${prompt}'
+    Here's your ${item-singular: 0[2]}.
+    Now you're ready to do battle, kupo!${prompt}
+  10397: 'If you want to cross swords with the invincible interlopers, equip the ${item-singular: 0[2]} and talk to a nomad moogle, kupo!${prompt}'
   10398: |-
-    Kupopo !
-    L'événement principal du Festival de la Brise Solaire est de retour et meilleur que jamais !${prompt}
-  10399: Et cette fois, il s'appelle Cercle d'Azimut... II !${prompt}
-  10400: Voulez-vous en savoir plus, kupo ?${prompt}
+    Kupopo!
+    The Sunbreeze Festival's main event is back and better than ever!${prompt}
+  10399: And this time, it's called Azimuth Circle...II!${prompt}
+  10400: Would you like to know more, kupo?${prompt}
   10401: |-
-    Vous voulez en savoir plus ?
+    Want to know more?
     ${selection-lines}
-    Dites-moi tout !
-    Ça ira pour le moment, kupo.${prompt}
-  10402: Pour jouer à Azimuth Circle II, vous devrez vous associer à un partenaire et utiliser une boussole pour rechercher un point spécifique.${prompt}
-  10403: Votre première étape est donc de trouver cette personne spéciale et de former une équipe !${prompt}
-  10404: Ensuite, parlez à un moogle événementiel, et nous vous enverrons tous les deux hors de la ville, kupo !${prompt}
-  10405: Nous avons mis en place plusieurs points de contrôle à l'extérieur.${prompt}
-  10406: L'objectif est de trouver le bon, kupo !${prompt}
-  10407: Quoi ? Vous voulez un indice pour vous aider à trouver votre point de contrôle ? Ne vous inquiétez pas, kupo - c'est là qu'intervient la boussole portable d'Azima !${prompt}
-  10408: Et son utilisation est des plus simples ! Tout ce que les aventuriers ont à faire, c'est s'asseoir et attendre !${prompt}
-  10409: Une fois que la boussole s'est stabilisée, elle vous donnera un indice pour vous aider à trouver le point de contrôle de votre partenaire, kupo.${prompt}
-  10410: Mais attention à ne pas trop vous détendre ! Rester assis là à regarder les nuages ne vous aidera pas du tout, kupo. Vous devez vous concentrer comme lorsque vous soignez vos blessures !${prompt}
-  10411: Et gardez à l'esprit que vous ne connaîtrez que le point de contrôle de votre partenaire.${prompt}
-  10412: Aidez-vous mutuellement et rien ne devrait mal tourner !${prompt}
-  10413: Une fois que vous avez atteint votre point de contrôle, vous devriez y trouver quelque chose de enterré qui prouvera que vous y êtes arrivé ! Vous et votre partenaire devriez échanger vos objets et ensuite les remettre à un moogle, kupo !${prompt}
-  10414: C'est tout ce qu'il y a à faire, kupo ! Vous recevrez un prix si vous réussissez, alors j'espère que vous réussirez !${prompt}
-  10415: Vous aurez besoin d'un partenaire, alors revenez quand vous en aurez un !${prompt}
-  10416: Trois, c'est une foule, kupo ! Je recherche des groupes de deux personnes, et pas plus !${prompt}
-  10417: Voulez-vous sortir et essayer l'événement avec la personne avec laquelle vous êtes actuellement en groupe ?${prompt}
+    Fill me in!
+    I'm okay for now, kupo.${prompt}
+  10402: To play Azimuth Circle II, you'll need to team up with a partner and use a compass to search for a specific point.${prompt}
+  10403: So your first step is to find that special somebody and form a party!${prompt}
+  10404: Then talk to an event moogle, and we'll send you both out of town, kupo!${prompt}
+  10405: We've set up several checkpoints outside.${prompt}
+  10406: The goal is to find the correct one, kupo!${prompt}
+  10407: What's that? You want a hint to help you find your checkpoint? Never fear, kupo--that's where Azima's portable compass comes in!${prompt}
+  10408: And it couldn't be easier to use! All the adventurers have to do is sit there and wait!${prompt}
+  10409: Once the compass has stabilized, it will give you a hint to help you find your partner's checkpoint, kupo.${prompt}
+  10410: But be careful not to relax too much! Just sitting there staring at the clouds won't help you at all, kupo. You have to concentrate the way you do when healing your wounds!${prompt}
+  10411: And keep in mind that you will only learn about your partner's checkpoint.${prompt}
+  10412: So help each other out and nothing should go wrong!${prompt}
+  10413: Once you reach your checkpoint, you should find something buried there that will prove that you made it! You and your partner should trade your items with each other and then hand them to a moogle, kupo!${prompt}
+  10414: That's all there is to it, kupo! You'll get a prize if you succeed, so I hope you do well!${prompt}
+  10415: You'll need a partner, so come back when you have one!${prompt}
+  10416: Three makes a crowd, kupo! I'm looking for parties of two, and no more!${prompt}
+  10417: Do you want to go outside and try the event with the person you're in a party with now?${prompt}
   10418: |-
     Is this partner okay with you?
     ${selection-lines}
@@ -26613,7 +26567,7 @@ entries:
     Ce bureau de service est là pour accueillir nos coureurs débutants et intermédiaires.${prompt}
   12324: Je suis désolé, mais il n'y a pas de courses prévues pour le moment.${prompt}
   12325: 'La participation aux courses de notre organisation nécessite que vous possédiez ${article} ${item-article: 0[2]} ou que vous possédiez actuellement votre propre chocobo adulte.${prompt}'
-  12326: 'Et vous, ${choice-player-gender}[monsieur/madame] ?${prompt}'
+  12326: Et vous, ${choice-player-gender}[monsieur/madame] ?${prompt}
   12327: 'Si possible, nous aimerions que vous nous rejoigniez et que vous aidiez à montrer à ces entraîneurs de ${choice: 0}[Bastok et Windurst/San d''Oria et Windurst/San d''Oria et Bastok] quelle équipe de course est vraiment la meilleure de Vana’diel.${prompt}'
   12328: |-
     Qu'en dites-vous ?
@@ -29013,10 +28967,10 @@ entries:
   13393: J'ai récemment trouvé une lettre dont l'écriture gribouillée a attiré mon attention.${prompt}
   13394: Elle a été envoyée par un jeune Elvaan qui n'a pas donné son nom.${prompt}
   13395: Cher Atelloune, mon grand-père dit qu'à mon âge, il y avait de gros insectes ronds rouges dans la forêt de Ronfaure.${prompt}
-  13396: 'Mais je pense qu’il devient sénile et qu’il pense juste à une pomme. Soit ça, soit il ment, et il n’y a jamais eu de bugs comme ça. S’il te plaît, dis-lui qu’il est fou.${prompt}'
+  13396: Mais je pense qu’il devient sénile et qu’il pense juste à une pomme. Soit ça, soit il ment, et il n’y a jamais eu de bugs comme ça. S’il te plaît, dis-lui qu’il est fou.${prompt}
   13397: '...Hmmm.${prompt}'
   13398: Je suis vraiment désolé de vous embêter avec ça.${prompt}
-  13399: 'C’est juste que ce gamin m’a vraiment agacé. Je veux dire, il n’y a même pas de question ! Tellement irritant...${prompt}'
+  13399: C’est juste que ce gamin m’a vraiment agacé. Je veux dire, il n’y a même pas de question ! Tellement irritant...${prompt}
   13400: |-
     I'm thinking that what he is referring to may be the ladybug.
     It was a species of vermin which inhabited the Ronfaure region before the war.${prompt}
@@ -34690,63 +34644,59 @@ entries:
     Love you! Looove! Loooooove!${prompt}
   15365: Happy! Much happy! For you! Yooou!${prompt}
   15366: I have! Still have! No need more!${prompt}
-  15367: "Je n'avais aucune idée à quel point la plupart des aventuriers dans cette région sont mal préparés...${prompt}"
-  15368: "Mon supérieur m'a dit de « rencontrer un aventurier qui a défini le premier objectif de la 'Liste des objectifs' dans la section 'Archives de l'Éminence' du menu Quêtes », mais je sens que je vais me faner et mourir avant que cela n'arrive. C'est quoi, un « menu Quêtes », de toute façon ?${prompt}"
+  15367: Je n'avais aucune idée à quel point la plupart des aventuriers dans cette région sont mal préparés...${prompt}
+  15368: Mon supérieur m'a dit de « rencontrer un aventurier qui a défini le premier objectif de la 'Liste des objectifs' dans la section 'Archives de l'Éminence' du menu Quêtes », mais je sens que je vais me faner et mourir avant que cela n'arrive. C'est quoi, un « menu Quêtes », de toute façon ?${prompt}
   15369: |-
     "Que ferez-vous ?
     ${selection-lines}
     Le ramasser.
     Regarder et attendre.
     S'éloigner.${prompt}"
-  15370: "Comment pourrai-je jamais montrer mon visage beau mais honteux à mes supérieurs à nouveau ?${prompt}"
+  15370: Comment pourrai-je jamais montrer mon visage beau mais honteux à mes supérieurs à nouveau ?${prompt}
   15371: |-
     "Oh mon dieu, quelle coïncidence incroyable !
     J'avais depuis longtemps abandonné l'espoir de tomber sur quelqu'un qui répondait à cette longue liste d'exigences !${prompt}"
-  15372: "Vous ne seriez pas par hasard connaisseur du sujet des « Archives de l'Éminence », n'est-ce pas ?${prompt}"
-  15373: |-
-    "Alors, l'êtes-vous ?
-    ${selection-lines}
-    Bien sûr.
-    Non.${prompt}" 
+  15372: Vous ne seriez pas par hasard connaisseur du sujet des « Archives de l'Éminence », n'est-ce pas ?${prompt}
+  15373: "\"Alors, l'êtes-vous ?\n${selection-lines}\nBien sûr.\nNon.${prompt}\" "
   15374: |-
     "Splendide !
     Alors vous m'avez évité de perdre encore plus de mon temps et vous d'une longue explication !${prompt}"
-  15375: "C'est tout à fait compréhensible. Moi-même, je n'avais jamais entendu parler de ce système jusqu'à ce que je sois chargé de diffuser des informations à ce sujet auprès des masses.${prompt}"
-  15376: "Fait intéressant, cette conversation est une preuve indéniable que vous avez déjà commencé à participer aux Archives de l'Éminence.${prompt}"
-  15377: "Comme vous le verrez dans ce mandat... euh, manuel... il est écrit « définir le premier objectif de la 'Liste des objectifs' » et tout le reste.${prompt}"
-  15378: "Comme vous le savez, vous avez rempli ce premier objectif haut la main.${prompt}"
-  15379: "En l'honneur de votre accomplissement, j'aimerais vous offrir ${keyitem-article: 0[2]} !${prompt}"
-  15380: "Il surgit de nulle part comme un assassin, et il fixe avec une telle intensité effrayante que vous ne pouvez vous empêcher de... euh... penser à quel point il est adorable. <Chuchote> Pensez-vous qu'il écoute !?${prompt}"
+  15375: C'est tout à fait compréhensible. Moi-même, je n'avais jamais entendu parler de ce système jusqu'à ce que je sois chargé de diffuser des informations à ce sujet auprès des masses.${prompt}
+  15376: Fait intéressant, cette conversation est une preuve indéniable que vous avez déjà commencé à participer aux Archives de l'Éminence.${prompt}
+  15377: Comme vous le verrez dans ce mandat... euh, manuel... il est écrit « définir le premier objectif de la 'Liste des objectifs' » et tout le reste.${prompt}
+  15378: Comme vous le savez, vous avez rempli ce premier objectif haut la main.${prompt}
+  15379: 'En l''honneur de votre accomplissement, j''aimerais vous offrir ${keyitem-article: 0[2]} !${prompt}'
+  15380: Il surgit de nulle part comme un assassin, et il fixe avec une telle intensité effrayante que vous ne pouvez vous empêcher de... euh... penser à quel point il est adorable. <Chuchote> Pensez-vous qu'il écoute !?${prompt}
   15381: |-
     "Chaque fois que vous atteignez un objectif, les détails sont enregistrés dans le cadre de cette poupée étrange.
     Sur une note plus positive, vous recevez également une mesure quantifiée de votre éminence, appelée « étincelles ».${prompt}"
   15382: |-
     "Oh, bien sûr.
     Moi aussi, je ne supporte pas la façon dont cette poupée fixe des poignards dans les profondeurs de mon âme.${prompt}"
-  15383: "Au moins, son inventeur a eu la magnanimité de la doter de cette fonction spéciale !${prompt}"
+  15383: Au moins, son inventeur a eu la magnanimité de la doter de cette fonction spéciale !${prompt}
   15384: |-
     "Incroyable, n'est-ce pas ?
     J'ai entendu dire que tout cela est attribuable à une « patine astrale ». Malheureusement, je n'en sais pas beaucoup plus à ce sujet.${prompt}"
-  15385: "Ce que je sais, c'est que votre recette du succès est de définir vos objectifs périodiquement. De cette façon, vous pouvez les accomplir lors de vos aventures et accumuler autant d'étincelles que possible !${prompt}"
-  15386: "De plus, certains objectifs n'apparaissent qu'après en avoir complété un certain nombre. Il y a toujours une chance que vous soyez surpris lorsque vous vérifiez !${prompt}"
-  15387: "Si jamais vous avez oublié comment définir des objectifs, allez à la « Liste des objectifs » dans la section « Archives de l'Éminence » du menu Quêtes. De là, vous choisissez simplement ceux qui conviennent le mieux à vos entreprises actuelles.${prompt}"
-  15388: "Je vous suggère de participer à une variété d'objectifs, y compris ceux qui peuvent être répétés.${prompt}"
-  15389: "Ensuite, lorsque vous aurez accumulé une quantité suffisante d'éminence, venez me voir ou l'un de mes amis. Nous avons de nombreuses récompenses stockées et prêtes à entrer dans vos mains de vétéran.${prompt}"
-  15390: "En résumé, avec des avantages plus gonflés que même le sens de la valeur personnelle de la Garde Royale et absolument aucun inconvénient, pourquoi ne pas essayer ?${prompt}"
+  15385: Ce que je sais, c'est que votre recette du succès est de définir vos objectifs périodiquement. De cette façon, vous pouvez les accomplir lors de vos aventures et accumuler autant d'étincelles que possible !${prompt}
+  15386: De plus, certains objectifs n'apparaissent qu'après en avoir complété un certain nombre. Il y a toujours une chance que vous soyez surpris lorsque vous vérifiez !${prompt}
+  15387: Si jamais vous avez oublié comment définir des objectifs, allez à la « Liste des objectifs » dans la section « Archives de l'Éminence » du menu Quêtes. De là, vous choisissez simplement ceux qui conviennent le mieux à vos entreprises actuelles.${prompt}
+  15388: Je vous suggère de participer à une variété d'objectifs, y compris ceux qui peuvent être répétés.${prompt}
+  15389: Ensuite, lorsque vous aurez accumulé une quantité suffisante d'éminence, venez me voir ou l'un de mes amis. Nous avons de nombreuses récompenses stockées et prêtes à entrer dans vos mains de vétéran.${prompt}
+  15390: En résumé, avec des avantages plus gonflés que même le sens de la valeur personnelle de la Garde Royale et absolument aucun inconvénient, pourquoi ne pas essayer ?${prompt}
   15391: |-
     "...Hmmm.
     En y regardant de plus près, vous ne semblez pas être aussi fiable que je le pensais au départ. Veuillez consulter Alaune pour apprendre les tenants et aboutissants de l'aventure avant de revenir me voir.${prompt}"
-  15392: "Oh, et comme ce ${keyitem-singular: 0[2]} s'est irrévocablement lié à vous, il n'est pas nécessaire de le rendre. Tout ce que nous pouvons en faire, c'est le jeter aux wendigos si vous ne le gardez pas.${prompt}"
-  15393: "Il serait peut-être judicieux de parler à Rolandienne à Southern San d'Oria (G-10)."
-  15394: "Il serait peut-être judicieux de parler à Isakoth dans Bastok Markets (E-11)."
-  15395: "Il serait peut-être judicieux de parler à Fhelm Jobeizat dans Windurst Woods (J-10)."
-  15396: "Il serait peut-être judicieux de parler à Eternal Flame à Western Adoulin (H-11)."
-  15397: "Il serait peut-être judicieux de parler à Nantoto à Lower Jeuno (H-8)."
-  15398: "Des yeux invisibles sur vous font se dresser les poils de votre nuque.${prompt}"
+  15392: 'Oh, et comme ce ${keyitem-singular: 0[2]} s''est irrévocablement lié à vous, il n''est pas nécessaire de le rendre. Tout ce que nous pouvons en faire, c''est le jeter aux wendigos si vous ne le gardez pas.${prompt}'
+  15393: Il serait peut-être judicieux de parler à Rolandienne à Southern San d'Oria (G-10).
+  15394: Il serait peut-être judicieux de parler à Isakoth dans Bastok Markets (E-11).
+  15395: Il serait peut-être judicieux de parler à Fhelm Jobeizat dans Windurst Woods (J-10).
+  15396: Il serait peut-être judicieux de parler à Eternal Flame à Western Adoulin (H-11).
+  15397: Il serait peut-être judicieux de parler à Nantoto à Lower Jeuno (H-8).
+  15398: Des yeux invisibles sur vous font se dresser les poils de votre nuque.${prompt}
   15399: '${color-alt: 15}Le ${keyitem-singular: 0[2]} hoche la tête en signe d’approbation.'
   15400: '${color-alt: 138}Un nouvel objectif des Archives de l’Éminence est maintenant disponible !'
   15401: '${color-alt: 138}Un nouvel objectif des Archives de l’Éminence, “${unknown: 0x01054082808080},” est maintenant disponible !'
-  15402: "Vous souhaitez échanger vos étincelles?"
+  15402: Vous souhaitez échanger vos étincelles?
   15403: |-
     Attendez un moment.
     Ici, suivez cette commande--euh, ce compendium à la lettre et vous devriez pouvoir apprendre une chose ou deux.${prompt}
@@ -34891,7 +34841,7 @@ entries:
     ${number: 4} (Trente).
     Aucun.${prompt}
   15443: 'Vous avez désormais ${number: 1} ${choice: 0}[étincelles d’éminence/points de conquête/points de position impériale/notes alliées/bayld/points de vaillance/points d’assaut (Leujaoam)/points d’assaut (Terrains d’entraînement Mamool Ja)/points d’assaut (grottes de Lebros)/points d’assaut (Periqia)/points d’assaut (atoll d’Ilrusi)/cruor/unités cinétiques/fragments d’obsidienne/corpuscules de plasm Mweya/points de baliste/accolades d’unité/pincées de silt escha/crédits de résistance].${prompt}'
-  15444: 'Attention, tout montant dépassant la limite de stockage maximale disparaîtra sans cérémonie dans l’éther.${prompt}'
+  15444: Attention, tout montant dépassant la limite de stockage maximale disparaîtra sans cérémonie dans l’éther.${prompt}
   15445: |-
     Échanger contre quoi ? (En main : ${number: 0})
     ${selection-lines}
@@ -35000,33 +34950,7 @@ entries:
     Oui.
     Non.${prompt}
   15476: Vous ne possédez pas assez d'actes d'héroïsme pour recevoir cet objet..${prompt}
-  15477: |-
-    Échange contre quoi ?
-    Armure de Pummeler.
-    Tenue d'Anchorite.
-    Tenue de Théophanie.
-    Tenue de Spaekona.
-    Armure de l'Atrophie.
-    Tenue du Pillager.
-    Armure de Révérence.
-    Armure de l'Ignominie.
-    Armure Totémique.
-    Tenue de Brioso.
-    Tenue d'Orion.
-    Armure de Wakido.
-    Tenue de Hachiya.
-    Armure de Vishap.
-    Tenue du Convoker.
-    Tenue de l'Assimilator.
-    Tenue de Laksamana.
-    Tenue de Foire.
-    Tenue de Maxixi.
-    Tenue de Maxixi.
-    Tenue Académique.
-    Tenue de Géomancien.
-    Tenue de Runeist.
-    Revenir en arrière.
-    Quitter.${prompt} 
+  15477: "Échange contre quoi ?\nArmure de Pummeler.\nTenue d'Anchorite.\nTenue de Théophanie.\nTenue de Spaekona.\nArmure de l'Atrophie.\nTenue du Pillager.\nArmure de Révérence.\nArmure de l'Ignominie.\nArmure Totémique.\nTenue de Brioso.\nTenue d'Orion.\nArmure de Wakido.\nTenue de Hachiya.\nArmure de Vishap.\nTenue du Convoker.\nTenue de l'Assimilator.\nTenue de Laksamana.\nTenue de Foire.\nTenue de Maxixi.\nTenue de Maxixi.\nTenue Académique.\nTenue de Géomancien.\nTenue de Runeist.\nRevenir en arrière.\nQuitter.${prompt} "
   15478: 'Vous recevrez les articles suivants dans l’ensemble ${choice: 39}[/Armure de Marteleur/Attirail d’Anachorète/Tenue de Théophanie/Tenue de Spaekona/Armure d’Atrophie/Tenue de Pillard/Armure de Révérence/Armure d’Ignominie/Armure Totémique/Tenue de Brioso/Tenue d’Orion/Armure de Wakido/Atours de Hachiya/Armure de Vishap/Tenue d’Appelant/Tenue d’Assimilateur/Tenue de Laksamana/Tenue de Foire/Tenue de Maxixi/Tenue de Maxixi/Tenue Académique/Tenue de Géomancien/Tenue de Runeist]${prompt}'
   15479: '${lettercase: 1}${item-singular: 36[2]}.${prompt}'
   15480: |-
@@ -35232,7 +35156,7 @@ entries:
     Tenue de Futhark.
     Retour.
     Quitter.${prompt}
-  15490: "Vous recevrez les articles suivants dans l'ensemble ${choice: 39}[/Armure d'Argosy/Tenue d'Hésychaste/Tenue de Piété/Tenue d'Archimage/Tenue de Vitiator/Tenue du Pillard/Armure de Caballarius/Armure du Déchu/Armure d'Ankusa/Tenue de Bihu/Tenue d'Arcadien/Armure de Sakonji/Garde de Mochizuki/Armure de Pteroslaver/Tenue Glyphique/Tenue de Luhlaza/Tenue de Lanun/Tenue de Pitre/Tenue d'Horos/Tenue de Pédagogie/Armure de Bagua/Tenue de Futhrak].${prompt}"
+  15490: 'Vous recevrez les articles suivants dans l''ensemble ${choice: 39}[/Armure d''Argosy/Tenue d''Hésychaste/Tenue de Piété/Tenue d''Archimage/Tenue de Vitiator/Tenue du Pillard/Armure de Caballarius/Armure du Déchu/Armure d''Ankusa/Tenue de Bihu/Tenue d''Arcadien/Armure de Sakonji/Garde de Mochizuki/Armure de Pteroslaver/Tenue Glyphique/Tenue de Luhlaza/Tenue de Lanun/Tenue de Pitre/Tenue d''Horos/Tenue de Pédagogie/Armure de Bagua/Tenue de Futhrak].${prompt}'
   15491: |-
     "L'${choice: 39}[/Armure d'Argosy/Tenue d'Hésychaste/Tenue de Piété/Tenue d'Archimage/Tenue de Vitiator/Tenue du Pillard/Armure de Caballarius/Armure du Déchu/Armure d'Ankusa/Tenue de Bihu/Tenue d'Arcadien/Armure de Sakonji/Garde de Mochizuki/Armure de Pteroslaver/Tenue Glyphique/Tenue de Luhlaza/Tenue de Lanun/Tenue de Pitre/Tenue d'Horos/Tenue de Pédagogie/Armure de Bagua/Tenue de Futhrak] est-il correct ?"
     ${selection-lines}
@@ -35317,20 +35241,20 @@ entries:
     Réinitialiser les récompenses.
     Retour.
     Quitter.${prompt}
-  15495: "La réinitialisation des récompenses augmentera le nombre d'actions nécessaires mais vous permettra de récupérer à nouveau les articles que vous avez déjà reçus.${prompt}"
-  15496: "Vous pouvez réinitialiser vos récompenses pour ${number: 0} action${choice-plurality: 0}[s].${prompt}"
+  15495: La réinitialisation des récompenses augmentera le nombre d'actions nécessaires mais vous permettra de récupérer à nouveau les articles que vous avez déjà reçus.${prompt}
+  15496: 'Vous pouvez réinitialiser vos récompenses pour ${number: 0} action${choice-plurality: 0}[s].${prompt}'
   15497: |-
     Réinitialiser les récompenses ?
     ${selection-lines}
     Oui. (Réinitialisation n°${number: 0})
     Non.${prompt}
-  15498: "Vous n'avez pas encore reçu certaines récompenses. La réinitialisation signifie que vous ne pourrez pas les obtenir. Êtes-vous sûr ?${prompt}"
+  15498: Vous n'avez pas encore reçu certaines récompenses. La réinitialisation signifie que vous ne pourrez pas les obtenir. Êtes-vous sûr ?${prompt}
   15499: |-
     Voulez-vous vraiment réinitialiser les récompenses ?
     ${selection-lines}
     Oui. (Réinitialisation n°${number: 0})
     Non.${prompt}
-  15500: "Les récompenses ont été réinitialisées.${prompt}"
+  15500: Les récompenses ont été réinitialisées.${prompt}
   15501: |-
     Menu principal
     ${selection-lines}
@@ -35356,17 +35280,6 @@ entries:
     ${selection-lines}
     Retour.
     ＜ Page précédente.${prompt}
-    ${keyitem-singular: 10[2]}.
-    ${keyitem-singular: 11[2]}.
-    ${keyitem-singular: 12[2]}.
-    ${keyitem-singular: 13[2]}.
-    ${keyitem-singular: 14[2]}.
-    ${keyitem-singular: 15[2]}.
-    ${keyitem-singular: 16[2]}.
-    ${keyitem-singular: 17[2]}.
-    ${keyitem-singular: 18[2]}.
-    ${keyitem-singular: 19[2]}.
-    ＞ Page suivante.${prompt}
   15506: |-
     Opération sur les objets clés
     ${selection-lines}
@@ -36383,7 +36296,7 @@ entries:
   16064: Mon bon ami Rolandienne peut te mettre sur la voie !${prompt}
   16065: 'Si seulement un ${choice-player-gender}[prince charmant/princesse éblouissante] pouvait conquérir mon cœur en fixant l’objectif de Records of Eminence “${unknown: 0x01054082818080}” de la catégorie “Tutorial”...${prompt}'
   16066: 'Oh, mon chéri--est-ce que c’est ${unknown: 0x01054082818080} que tu as fixé là ?${prompt}'
-  16067: |- 
+  16067: |-
     Is it?
     ${selection-lines}
     Sure is!
@@ -37258,109 +37171,109 @@ entries:
     ${selection-lines}
     Yes. (${number: 33} mandy)
     No.${prompt}
-  16643: J'ai un livre qui explique comment jouer !${prompt}
-  16644: '${color-alt: 151}--- Partie ${number: 0} (${number: 1}V-${number: 2}D) ---'
-  16645: '${color-alt: 151}★☆★${choice: 0}[Adenium/Citrullus] bonus actif ! (${number: 1}x mandy)★☆★'
+  16643: I show book that tells how to play!${prompt}
+  16644: '${color-alt: 151}--- Game ${number: 0} (${number: 1}W-${number: 2}L) ---'
+  16645: '${color-alt: 151}★☆★${choice: 0}[Adenium/Citrullus] bonus active! (${number: 1}x mandy)★☆★'
   16646: |-
-    Placer sur quelle zone ?
+    Place on which area?
     ${selection-lines}
-    Zone 1.
-    Zone 2.
-    Zone 3.
-    Zone 4.
-    Zone 5.
-    Zone 6.
-    Zone 7.
-    Zone 8.
-    Zone 9.
-    Zone 10.
-    Zone 11.
-    Zone 12.
-    Zone 13.
-    Zone 14.
-    Zone 15.
-    Zone 16.
-    Passer.${prompt}
-  16647: '${color-alt: 123}Il y a déjà une pièce à cet emplacement.'
-  16648: '${color-alt: 123}Vous perdrez tous les mandy gagnés dans cette partie si vous abandonnez. Êtes-vous sûr ?'
+    Area 1.
+    Area 2.
+    Area 3.
+    Area 4.
+    Area 5.
+    Area 6.
+    Area 7.
+    Area 8.
+    Area 9.
+    Area 10.
+    Area 11.
+    Area 12.
+    Area 13.
+    Area 14.
+    Area 15.
+    Area 16.
+    Pass.${prompt}
+  16647: '${color-alt: 123}There is already a piece in this location.'
+  16648: '${color-alt: 123}You will forfeit all mandy earned this game if you give up. Are you sure?'
   16649: |-
-    Voulez-vous vraiment abandonner ?
+    Really give up?
     ${selection-lines}
-    Oui.
-    Non.${prompt}
-  16650: '${color-alt: 151}Partie ${number: 0} terminée !'
-  16651: '${color-alt: 151}  ${choice: 0}[Victoire!/Défaite!] - Vous recevez ${number: 1} mandy, pour un total de ${number: 2}.'
-  16652: '${color-alt: 151}  Match nul ! (redémarrage à partir de la partie ${number: 0})'
-  16653: '${color-alt: 151}  Avec un bilan de ${number: 1} victoire(s) et ${number: 2} défaite(s), vous ${choice: 0}[gagnez !/perdez !]'
-  16654: '${color-alt: 151}  Vous recevez ${number: 0} mandy, pour un total de ${number: 1}.'
-  16655: '${color-alt: 123}Vous avez atteint le plafond de mandy de ${number: 0}. Tout mandy supplémentaire sera perdu.'
-  16656: '${color-alt: 151}Un nouvel adversaire se joint à la bataille !'
-  16657: '${color-alt: 151}Vous pouvez maintenant choisir un adversaire aléatoire.'
-  16658: '${color-alt: 151}De nouveaux prix sont disponibles !'
-  16659: '${color-alt: 123}Une erreur s’est produite. Veuillez réessayer.'
-  16660: '${color-alt: 200}DEBUG : ${choice: 0}[Journal des jeux bonus/Contrôles de sélection NPC/Journal de mouvements NPC/Journal de confirmation de placement spécifique 1/Log des coins/Journal de confirmation de placement spécifique 2] > ${choice: 3}[DÉSACTIVÉ/ACTIVÉ]'
+    Yes.
+    No.${prompt}
+  16650: '${color-alt: 151}Game ${number: 0} Complete!'
+  16651: '${color-alt: 151}　　${choice: 0}[Victory!/Defeat!] - You receive ${number: 1} mandy for a total of ${number: 2}.'
+  16652: '${color-alt: 151}　 Draw! (restart from Game ${number: 0})'
+  16653: '${color-alt: 151}　 With a record of ${number: 1}W and ${number: 2}L, you ${choice: 0}[win!/lose!]'
+  16654: '${color-alt: 151}  You receive ${number: 0} mandy for a total of ${number: 1}.'
+  16655: '${color-alt: 123}You have reached the mandy cap of ${number: 0}. Any additional mandy will be lost.'
+  16656: '${color-alt: 151}A new opponent joins the fray!'
+  16657: '${color-alt: 151}You are now able to select a random opponent.'
+  16658: '${color-alt: 151}New prizes are available!'
+  16659: '${color-alt: 123}An error has occurred. Please try again.'
+  16660: '${color-alt: 200}DEBUG：${choice: 0}[Bonus Game Log/NPC Selection Controls/NPC Move Log/Specific Placement Confirmation 1 Log/Corners Log/Specific Placement Confirmation 2 Log] > ${choice: 3}[OFF/ON]'
   16661: |-
-    ≪DEBUG≫Placer sur quelle zone ?
+    ≪DEBUG≫Place on which area?
     ${selection-lines}
-    Zone 1.
-    Zone 2.
-    Zone 3.
-    Zone 4.
-    Zone 5.
-    Zone 6.
-    Zone 7.
-    Zone 8.
-    Zone 9.
-    Zone 10.
-    Zone 11.
-    Zone 12.
-    Zone 13.
-    Zone 14.
-    Zone 15.
-    Zone 16.
-    Passer.${prompt}
-  16662: '${color-alt: 200}DEBUG(Sélection NPC) : Zone ${number: 0} '
-  16663: '${color-alt: 200}ALÉATOIRE (${choice: 0}[Sélection du jeu bonus/Sélection des quatre coins]) : 0-${number: 1} = ${number: 2}'
-  16664: '${color-alt: 200}DEBUG (Confirmation de placement spécifique ${number: 3}) : Zone ${number: 0} > ${choice: 1}[A/B/C/D/E/F/G/H]${number: 2}'
+    Area 1.
+    Area 2.
+    Area 3.
+    Area 4.
+    Area 5.
+    Area 6.
+    Area 7.
+    Area 8.
+    Area 9.
+    Area 10.
+    Area 11.
+    Area 12.
+    Area 13.
+    Area 14.
+    Area 15.
+    Area 16.
+    Pass.${prompt}
+  16662: '${color-alt: 200}DEBUG(NPC Selection): Area ${number: 0} '
+  16663: '${color-alt: 200}RANDOM (${choice: 0}[Bonus Game Selection/Four Corners Selection]): 0-${number: 1} = ${number: 2}'
+  16664: '${color-alt: 200}DEBUG (Specific Placement Confirmation ${number: 3}): Area ${number: 0} > ${choice: 1}[A/B/C/D/E/F/G/H]${number: 2}'
   16665: '${color-alt: 200}${number: 0} ${number: 1} ${number: 2} ${number: 3}'
-  16666: Ceci est une explication de la fonctionnalité du Canal d'Assistance, qui permet aux nouveaux joueurs et aux joueurs de retour de demander de l'aide aux aventuriers vétérans.${prompt}
-  16667: 'Vous devez entreprendre l’objectif "Records of Eminence" ${unknown: 0x01054082808080} avant de recevoir l’explication.${prompt}'
-  16668: 'Vous devez terminer "${unknown: 0x01054082818080}" avant d’entreprendre l’objectif "Records of Eminence" ${unknown: 0x01054082808080}.${prompt}'
+  16666: This is an explanation of the Assist Channel feature, which allows new and returning players to seek help from veteran adventurers.${prompt}
+  16667: 'You must take on the “${unknown: 0x01054082808080}” Records of Eminence objective before receiving the explanation.${prompt}'
+  16668: 'You must complete “${unknown: 0x01054082818080}” before taking on the “${unknown: 0x01054082808080}” Records of Eminence objective.${prompt}'
   16669: |-
-    Que souhaitez-vous apprendre ?
+    What do you want to learn about?
     ${selection-lines}
-    Qu'est-ce que le Canal d'Assistance ?
-    Comment puis-je envoyer un message ?
-    Quels sont les prérequis ?
-    Où puis-je y accéder ?
-    Parlez-moi des messages des mentors.
-    Où puis-je trouver des mentors ?
-    Quels sont les pouces en l'air et les avertissements ?
-    Que se passe-t-il si je suis muet ?
-    Quand mes droits de publication expirent-ils ?
-    Rien pour le moment.${prompt}
-  16670: Le Canal d'Assistance est un canal de discussion spécial qui permet aux aventuriers de poser des questions et de recevoir des conseils de joueurs vétérans appelés mentors.${prompt}
-  16671: Appuyez sur la barre d'espace pour ouvrir la fenêtre de texte en bas de l'écran et saisissez "/assistj (votre message)" ou "/assiste (votre message)" pour envoyer votre message.${prompt}
-  16672: Vous pouvez également utiliser "/aj" pour "/assistj", et "/ae" pour "/assiste".${prompt}
-  16673: De plus, en appuyant sur CTRL+Q, "assistj" ou "assiste" s'affichera dans la fenêtre de texte pour vous.${prompt}
-  16674: Vous pouvez modifier la commande de raccourci CTRL+Q...${prompt}
-  16675: '...en allant dans Menu Principal > Configuration > Divers 2 > Attribution des touches > Commandes > Chat : /AssistE ou /AssistJ.${prompt}'
-  16676: Il est recommandé d'utiliser "/assistj (/aj)" lorsque vous postez en japonais, et "/assiste (/ae)" lorsque vous postez en anglais.${prompt}
-  16677: Vous devez remplir l'une des conditions suivantes pour pouvoir poster sur le Canal d'Assistance.${prompt}
+    What is the Assist Channel?
+    How can I post a message?
+    What are the requirements?
+    Where can I access it?
+    Tell me about mentor messages.
+    Where can I find mentors?
+    What are Thumbs Up and Warnings?
+    What happens if I am muted?
+    When do my posting rights expire?
+    Nothing for now.${prompt}
+  16670: The Assist Channel is a special chat channel that allows adventurers to ask questions and receive advice from veteran players known as mentors.${prompt}
+  16671: Press the space bar to bring up the text window at the bottom of the screen and type “/assistj (your message)” or “/assiste (your message)” to post your message.${prompt}
+  16672: You can also use “/aj” for “/assistj”, and “/ae” for “/assiste”.${prompt}
+  16673: Additionally, pressing CTRL+Q will display “/assistj” or “/assiste” in the text window for you.${prompt}
+  16674: You can change the CTRL+Q shortcut command...${prompt}
+  16675: '...by going to Main Menu > Config > Misc. 2 > Key Assignment > Commands > Chat: /AssistE or /AssistJ.${prompt}'
+  16676: It is recommended that you use “/assistj (/aj)” when posting in Japanese, and “/assiste (/ae)” when posting in English.${prompt}
+  16677: You must meet one of the following conditions in order to post to the Assist Channel.${prompt}
   16678: |-
-    1. Vous êtes un nouveau joueur
-    Vous pouvez envoyer des messages dès que vous avez posé le pied dans Vana'diel.${prompt}
+    1. You are a new player
+    You may post messages from the moment you first set foot in Vana'diel.${prompt}
   16679: |-
-    2. Vous êtes un vétéran de retour
-    En tant que joueur de retour, vous pouvez envoyer des messages après vous être connecté avec un personnage qui n'a pas été connecté depuis au moins 48 jours.${prompt}
+    2. You are a returnee
+    As a returning player, you may post messages upon logging in with a character that has not logged in for at least 48 days.${prompt}
   16680: |-
-    3. Vous êtes un mentor
-    Vous pouvez envoyer des messages tant que vous restez mentor pour d'autres joueurs.${prompt}
-  16681: Les nouveaux joueurs et les vétérans de retour peuvent envoyer des messages jusqu'à ce qu'ils aient été connectés pendant un total de 48 heures depuis la réception de leurs droits de publication.${prompt}
-  16682: Si vous souhaitez vérifier combien de temps vous pouvez continuer à envoyer des messages, parlez à un ${name-npc} et choisissez "Quand mes droits de publication expirent-ils ?" pour voir combien de temps il vous reste.${prompt}
-  16683: Le canal d'assistance ne peut être utilisé que dans les zones suivantes.${prompt}
+    3. You are a mentor
+    You may post messages as long as you remain a mentor to other players.${prompt}
+  16681: New players and returnees may post messages until they have been logged in for a total of 48 hours since first receiving their posting rights.${prompt}
+  16682: If you wish to check how long you can continue to post for, speak to an ${name-npc} and choose "When do my posting rights expire?" to see how much time you have left.${prompt}
+  16683: The Assist Channel can only be used in the following areas.${prompt}
   16684: |-
-    Zones disponibles :
+    Available areas:
     ${unknown: 0x01053782F38180}, ${unknown: 0x01053782F48180},
     ${unknown: 0x01053782F58180}, ${unknown: 0x01053782F68180},
     ${unknown: 0x01053782E68180}, ${unknown: 0x01053782E78180}...${prompt}
@@ -37376,77 +37289,77 @@ entries:
     ${unknown: 0x01053782B58080}, ${unknown: 0x01053782808280}...${prompt}
   16687: |-
     ...${unknown: 0x01053782818280}, ${unknown: 0x010537829A8080},
-    ${unknown: 0x01053782C68080}, et votre Mog House (Chambre à louer).${prompt}
-  16688: Vous ne pouvez ni envoyer ni lire de messages en dehors des zones mentionnées ci-dessus.${prompt}
+    ${unknown: 0x01053782C68080}, and your Mog House (Rent-a-Room).${prompt}
+  16688: You cannot post or read messages outside of the areas listed above.${prompt}
   16689: |-
-    Même dans les zones où les messages sont autorisés, vous ne pouvez pas envoyer de messages consécutifs.
-    Veuillez attendre un moment après avoir envoyé un message.${prompt}
+    Even in areas where messages are allowed, you cannot post consecutive messages.
+    Please wait a while after posting a message.${prompt}
   16690: |-
-    Les messages des mentors sont accompagnés d'un marqueur de drapeau (${icon: 0xEF2F}).
-    Ce marqueur indique la fiabilité du mentor (Classe de mentor) et l'expérience en tant qu'aventurier (Rang de maîtrise).${prompt}
-  16691: 'À mesure que la Classe de Mentor d’un mentor augmente, la couleur et la forme du marqueur changeront : ${icon: 0xEF2F} > ${icon: 0xEF39} > ${icon: 0xEF43}${prompt}'
-  16692: 'Un marqueur ${icon: 0xEF43} est un signe que le mentor a gagné les niveaux de confiance les plus élevés des autres aventuriers.${prompt}'
-  16693: Le nombre apposé sur le marqueur est le Rang de Maîtrise du mentor, et indique à quel point le mentor est expérimenté en tant qu'aventurier.${prompt}
-  16694: Plus le nombre est élevé, plus le mentor est expérimenté.${prompt}
-  16695: Vous pouvez vérifier votre propre Rang de Maîtrise même si vous ne servez pas en tant que mentor, alors n'hésitez pas à jeter un coup d'œil de temps en temps si vous êtes curieux.${prompt}
-  16696: Vous pouvez vérifier votre Rang de Maîtrise en accédant à Menu Principal > Statut > Profil.${prompt}
-  16697: Si vous souhaitez parler directement à un mentor, vous pouvez rechercher des mentors en accédant à Menu Principal > Bureau d'Aide > Recherche de Mentor.${prompt}
-  16698: La fonction “Pouce en l'air” vous permet de faire savoir aux mentors quand leurs commentaires se sont avérés particulièrement utiles.${prompt}
-  16699: Les mentors qui reçoivent beaucoup de réponses avec “Pouce en l'air” de la part des autres aventuriers verront leur Classe de Mentor augmenter.${prompt}
-  16700: N'oubliez pas de donner un “Pouce en l'air” à tout mentor qui vous a aidé ou vous a appris quelque chose d'utile.${prompt}
-  16701: Un “Avertissement” est une fonctionnalité qui ne peut être utilisée que par les mentors.${prompt}
-  16702: Veuillez utiliser cette fonctionnalité lorsque le contenu d'un message est insuffisant ou peut être interprété comme du harcèlement.${prompt}
-  16703: Pour envoyer un “Pouce en l'air” ou un “Avertissement” à un autre joueur, ouvrez la fenêtre de journal de discussion et déplacez le curseur sur le message concerné, puis appuyez sur le bouton de confirmation (touche Entrée) pour afficher le menu d'évaluation.${prompt}
-  16704: Les évaluations peuvent être effectuées pendant 10 minutes suivant la dernière publication du joueur désigné sur le Canal d'Assistance.${prompt}
-  16705: Vous pouvez envoyer jusqu'à un “Pouce en l'air” et un “Avertissement” par jour (heure terrestre).${prompt}
-  16706: La fonction “Muet” place des restrictions sur votre capacité à publier, ce qui signifie que les autres joueurs ne pourront pas voir les messages que vous publiez sur le Canal d'Assistance.${prompt}
-  16707: Veuillez vous abstenir de publier du contenu inapproprié afin que les aventuriers vétérans ne soient pas obligés de vous mettre en sourdine.${prompt}
-  16708: Le statut de muet peut être supprimé par les joueurs ayant les droits d'accès nécessaires à la liste de muets, ou il sera automatiquement supprimé 24 heures (heure terrestre) après que le statut de muet a été activé.${prompt}
-  16709: Vous êtes libre de publier des messages sur le Canal d'Assistance jusqu'à ce que vous décidiez de cesser de servir en tant que mentor.${prompt}
+    Mentor messages are accompanied by a flag (${icon: 0xEFEF}/) marker.
+    This marker indicates the mentor's reliability (Mentor Class) and experience as an adventurer (Mastery Rank).${prompt}
+  16691: 'As a mentor''s Mentor Class increases, the color and shape of the marker will change: ${icon: 0xEFEF}/ > ${icon: 0xEFEF}9 > ${icon: 0xEFEF}C${prompt}'
+  16692: 'A ${icon: 0xEFEF}C marker is a sign that the mentor has earned the highest levels of trust from other adventurers.${prompt}'
+  16693: The number affixed to the marker is the mentor's Mastery Rank, and indicates how experienced the mentor is as an adventurer.${prompt}
+  16694: The higher the number, the more experienced the mentor is.${prompt}
+  16695: You can check your own Mastery Rank even if you do not serve as a mentor, so feel free to take a look every now and then if you are curious.${prompt}
+  16696: You can check your Mastery Rank by going to Main Menu > Status > Profile.${prompt}
+  16697: If you wish to speak directly to a mentor, you can search for mentors by going to Main Menu > Help Desk > Mentor Search.${prompt}
+  16698: The “Thumbs Up” feature enables you to let mentors know when their comments proved to be especially helpful.${prompt}
+  16699: Mentors who earn lots of “Thumbs Up” replies from other adventurers will see their Mentor Class increase.${prompt}
+  16700: Remember to give a “Thumbs Up” to any mentor you feel helped you out or taught you something useful.${prompt}
+  16701: A “Warning” is a feature that can only be used by mentors.${prompt}
+  16702: Please use this feature when a post's contents are insufficient or otherwise may be construed as harassment.${prompt}
+  16703: To send a “Thumbs Up” or “Warning” to another player, open the Chat Log Window and move the cursor over the relevant message and press the confirm button (Enter key) to bring up the evaluation menu.${prompt}
+  16704: Evaluations can be made for 10 minutes following the designated player's latest post to the Assist Channel.${prompt}
+  16705: You may send up to one “Thumbs Up” and one “Warning” per day (Earth time).${prompt}
+  16706: The “Mute” feature places restrictions on your ability to post, meaning that other players will be unable to see the messages you post to the Assist Channel.${prompt}
+  16707: Please refrain from posting unsuitable content so that the veteran adventurers are not forced to mute you.${prompt}
+  16708: Mute status can be removed by players that have the necessary Mute List access rights, or it will be removed automatically 24 hours (Earth time) after the mute status was enabled.${prompt}
+  16709: You are free to post messages to the Assist Channel until you decide to stop serving as a mentor.${prompt}
   16710: |-
-    Vous pouvez publier des messages sur le Canal d'Assistance jusqu'à ${ts-hour: 0}:${ts-minute: 0} le ${ts-day: 0}/${ts-month: 0}/${ts-year: 0}.
-    (Temps restant : Environ ${number: 1} ${choice: 2}[sec./min./hr.])${prompt}
-  16711: Si vous vous déconnectez alors qu'il vous reste du temps disponible, le temps restant sera reporté à la prochaine connexion.${prompt}
-  16712: Vous êtes sur le point de perdre la possibilité de publier des messages sur le Canal d'Assistance.${prompt}
-  16713: Vous ne pouvez pas publier de messages sur le Canal d'Assistance.${prompt}
-  16714: 'Acceptez l’objectif “${unknown: 0x01054082808080}” dans la section Tutoriel du Menu des Registres de Renommée, puis parlez au représentant A.M.A.N.${prompt}'
-  16715: 'Bonjour, aventurier ! Je peux réparer n’importe quel élément de données d’objet lié à ${item-plural: 0[2]}.${prompt}'
-  16716: 'Si vous ne parvenez pas à livrer ${article} ${item-article: 0[2]}, il est possible que les données de l’objet aient été corrompues.${prompt}'
-  16717: 'Veuillez me donner votre ${item-singular: 0[2]} afin que je puisse le réparer.${prompt}'
-  16718: 'J’ai confirmé que les données de l’objet ${item-singular: 0[2]} ont été corrompues. Nous nous excusons pour le désagrément.${prompt}'
-  16719: Je l’ai restauré à sa fonctionnalité prévue. Voici !${prompt}
-  16720: Il semble que votre objet fonctionne comme prévu.${prompt}
-  16721: Une erreur s’est produite. Veuillez réessayer plus tard.${prompt}
-  16722: Ici, vous pouvez jouer au jeu Mandragora Mania.${prompt}
+    You may post messages to the Assist Channel until ${ts-hour: 0}:${ts-minute: 0} on ${ts-month: 0}/${ts-day: 0}/${ts-year: 0}.
+    (Time remaining: Approx. ${number: 1} ${choice: 2}[sec./min./hr.])${prompt}
+  16711: If you log out while you still have time available, your remaining time will be carried over to the next time you log in.${prompt}
+  16712: You are about to lose the ability to post messages to the Assist Channel.${prompt}
+  16713: You are unable to post messages to the Assist Channel.${prompt}
+  16714: 'Take on the “${unknown: 0x01054082808080}” Records of Eminence objective from the Tutorial section of the Records of Eminence Menu and speak to the A.M.A.N. liaison.${prompt}'
+  16715: 'Good day, adventurer! I am able to repair any broken item data related to ${item-plural: 0[2]}.${prompt}'
+  16716: 'If you are unable to deliver ${article} ${item-article: 0[2]}, it''s possible that the item data has been corrupted.${prompt}'
+  16717: 'Please trade your ${item-singular: 0[2]} to me so that I may fix it.${prompt}'
+  16718: 'I have confirmed that the item data for your ${item-singular: 0[2]} has been corrupted. We apologize for the inconvenience.${prompt}'
+  16719: I have restored it to its intended functionality. Here you are!${prompt}
+  16720: It appears that your item is working as intended.${prompt}
+  16721: An error has occurred. Please try again later.
+  16722: Here you can play the game Mandragora Mania.
   16723: |-
-    Que voulez-vous faire ? (${number: 1} jingly)
+    Do which? (${number: 1} jingly)
     ${selection-lines}
-    Jouer (adversaire aléatoire).
-    Jouer (sélectionner l'adversaire).
-    Acheter des prix${choice: 4}[ (non disponible)./ (réinitialiser la disponibilité).]
-    Définir le motif de départ : (${choice: 2}[Aléatoire/A/B/C/D/E]).
-    Définir le joueur de départ : (${choice: 3}[Aléatoire/Vous/Adversaire]).
-    Lire une explication.
-    Aucune des options ci-dessus.${prompt}
+    Play (random opponent).
+    Play (select opponent).
+    Purchase prizes${choice: 4}[ (unavail.)./ (reset avail.).]
+    Set start pattern: (${choice: 2}[Random/A/B/C/D/E]).
+    Set starting player: (${choice: 3}[Random/You/Opponent]).
+    Read an explanation.
+    None of the above.${prompt}
   16724: |-
-    Jouer contre qui ?
+    Play against whom?
     ${selection-lines}
-    Moogle Pouce Verte.
+    Green Thumb Moogle.
     Monsieur Kupont.
     Susuroon.
-    Un agneau.
+    A lamb.
     Yeestog.
     Atelloune.
     Kuyin Hathdenna.
     Kupofried.
     Chacharoon.
     Sakura.
-    Retour.${prompt}
-  16725: '${color-alt: 123}Cette option n’est actuellement pas disponible. Vous pourrez la sélectionner à nouveau dans ${number: 5} jour${choice-plurality: 5}[/s] (heure de la Terre).${prompt}'
+    Back.${prompt}
+  16725: '${color-alt: 123}That option is currently unavailable. You will be able to select it again in ${number: 5} day${choice-plurality: 5}[/s] (Earth time).'
   16726: |-
-    Qu'acheter ? (${number: 1} jingly).
+    Purchase which? (${number: 1} jingly).
     ${selection-lines}
-    Réinitialiser les récompenses (${number: 38} gil).
+    Reset rewards (${number: 38} gil).
     ${lettercase: 1}${item-singular: 2[2]}: ${number: 3} j. ${choice: 4}[/★]
     ${lettercase: 1}${item-singular: 5[2]}: ${number: 6} j. ${choice: 7}[/★]
     ${lettercase: 1}${item-singular: 8[2]}: ${number: 9} j. ${choice: 10}[/★]
@@ -37457,165 +37370,161 @@ entries:
     ${lettercase: 1}${item-singular: 23[2]}: ${number: 24} j. ${choice: 25}[/★]
     ${lettercase: 1}${item-singular: 26[2]}: ${number: 27} j. ${choice: 28}[/★]
     ${lettercase: 1}${item-singular: 29[2]}: ${number: 30} j. ${choice: 31}[/★]
-    Retour.${prompt}
-  16727: 'Vous pouvez payer ${number: 38} gil pour réinitialiser toutes les récompenses, ce qui vous permettra de les acheter à nouveau.${prompt}'
+    Back.${prompt}
+  16727: 'You may pay ${number: 38} gil to reset all rewards, enabling you to purchase them again.'
   16728: |-
-    Réinitialiser les récompenses ? (${number: 39} gil).
+    Reset rewards? (${number: 39} gil).
     ${selection-lines}
-    Oui (${number: 38} gil).
-    Non.${prompt}
-  16729: '${color-alt: 123}Vous n’avez pas assez de gil.${prompt}'
-  16730: Toutes les récompenses ont été réinitialisées.${prompt}
-  16731: '${color-alt: 123}Vous avez déjà acheté le ${item-singular: 2[2]}.${prompt}'
-  16732: '${color-alt: 123}Vous avez besoin d’au moins ${number: 3} jingly pour acheter le ${item-singular: 2[2]}.${prompt}'
-  16733: La période d’échange de récompenses est terminée et toutes les récompenses ont été réinitialisées.${prompt}
-  16734: Vous pouvez réinitialiser toutes les récompenses depuis la boîte de dialogue appropriée.${prompt}
+    Yes (${number: 38} gil).
+    No.${prompt}
+  16729: '${color-alt: 123}You do not have enough gil.'
+  16730: All rewards have been reset.
+  16731: '${color-alt: 123}You have already purchased the ${item-singular: 2[2]}.'
+  16732: '${color-alt: 123}You need at least ${number: 3} jingly to purchase the ${item-singular: 2[2]}.'
+  16733: The reward exchange period has turned over and all rewards have been reset.
+  16734: You may reset all rewards from the appropriate dialogue box.
   16735: |-
-    Définir le motif de départ ?
+    Set starting pattern?
     ${selection-lines}
-    ${choice: 2}[/★] Aléatoire (A-E).
-    ${choice: 3}[/★] Motif A.
-    ${choice: 4}[/★] Motif B.
-    ${choice: 5}[/★] Motif C.
-    ${choice: 6}[/★] Motif D.
-    ${choice: 7}[/★] Motif E.
-    Non merci.${prompt}
-  16736: '${color-alt: 151}Motif de départ défini sur ${choice: 8}[Aléatoire/Motif A/Motif B/Motif C/Motif D/Motif E].${prompt}'
+    ${choice: 2}[/★] Random (A-E).
+    ${choice: 3}[/★] Pattern A.
+    ${choice: 4}[/★] Pattern B.
+    ${choice: 5}[/★] Pattern C.
+    ${choice: 6}[/★] Pattern D.
+    ${choice: 7}[/★] Pattern E.
+    No thanks.${prompt}
+  16736: '${color-alt: 151}Starting pattern set to ${choice: 8}[Random/Pattern A/Pattern B/Pattern C/Pattern D/Pattern E].'
   16737: |-
-    Définir le joueur de départ ?
+    Set starting player?
     ${selection-lines}
-    ${choice: 2}[/★] Aléatoire.
-    ${choice: 3}[/★] Vous.
-    ${choice: 4}[/★] Adversaire.
-    Non merci.${prompt}
-  16738: '${color-alt: 151}Joueur de départ défini sur ${choice: 5}[Aléatoire/Vous/Adversaire].${prompt}'
+    ${choice: 2}[/★] Random.
+    ${choice: 3}[/★] You.
+    ${choice: 4}[/★] Opponent.
+    No thanks.${prompt}
+  16738: '${color-alt: 151}Starting player set to ${choice: 5}[Random/You/Opponent].'
   16739: |-
-    Lire le manuel ?
+    Read the manual?
     ${selection-lines}
-    Bien sûr.
-    Non merci.${prompt}
-  16740: Mandragora Mania est un jeu où vous vous battez pour des jingly en déplaçant vos pièces mandragora vers le but.${prompt}
-  16741: 'Votre objectif est le ${choice: 0}[rouge/bleu/vert] à droite, tandis que celui de votre adversaire est le ${choice: 0}[bleu/vert/rouge] à gauche.${prompt}
-  16742: Au début du jeu, trois mandragoras chacune seront placées sur les huit zones de jeu, à l’exception du but.${prompt}
-  16743: Il y a cinq positions de départ (A à E), et vous pouvez sélectionner celle que vous souhaitez utiliser. Le paramètre par défaut est "Aléatoire".${prompt}
-  16744: Cette explication utilise le motif A, mais les règles de base sont les mêmes quel que soit le motif de départ.${prompt}
-  16745: 'Les trois zones ${choice: 0}[rouge/bleu/vert] devant vous sont les vôtres,${wait-36: 2}les trois zones ${choice: 0}[bleu/vert/rouge] à l'arrière sont celles de votre adversaire,${wait-36: 2}et les deux restantes sont neutres.${prompt}'
-  16746: Vous devez choisir une zone, soit la vôtre, soit une neutre, pour continuer.${prompt}
-  16747: Les zones sont numérotées de un à cinq en partant de la gauche, et toute mandragora dans la zone que vous sélectionnez se déplacera.${prompt}
-  16748: De même, votre adversaire doit sélectionner soit une zone neutre, soit une zone qui lui appartient.${prompt}
-  16749: De droite à gauche, ces zones sont numérotées 6, 4, 7, 2 et 8.${prompt} 
-  16750: 'Par exemple, si vous sélectionnez la zone 1,${wait-36: 4}une mandragora se déplacera vers la zone 2${wait-36: 1}et une autre se déplacera vers la zone 3,${wait-36: 1}et une autre vers la zone 4.${prompt}
-  16751: Notez que les mandragoras se déplaceront de l'arrière en premier - dernier entré, premier sorti.${prompt}
-  16752: Vous recevrez des points appelés "jingly" chaque fois qu'une de vos mandragoras atteindra le but.${prompt}
-  16753: Vous entrerez dans le territoire de votre adversaire chaque fois que vous dépasserez le but.${prompt}
-  16754: Si l'une de vos mandragoras parvient à atteindre le but de l'adversaire, le but sera repoussé et votre mandragora retournera dans votre propre zone. Vous n'avez pas à vous soucier du fait que votre mandragora rapporte des jingly à votre adversaire.${prompt}
-  16755: L'ordre dans lequel les joueurs choisissent les zones sera déterminé en fonction de vos paramètres de tour. Le paramètre par défaut est aléatoire.${prompt}
-  16756: Cette explication a sauté le tour de votre adversaire à des fins de démonstration, mais dans le jeu réel, vous et votre adversaire prendrez tour à tour des zones.${prompt}
-  16757: Cependant, si la dernière mandragora à se déplacer atteint le but, vous aurez droit à un tour supplémentaire.${prompt}
-  16758: Les mandragoras sont une espèce très diverse, et le montant de jingly que vous gagnez est déterminé par l'espèce de mandragora qui franchit le but.${prompt}
-  16759: 'Adenium et citrullus : 3 jingly (premier joueur)/4 jingly (deuxième joueur).${prompt}
-  16760: 'Korrigan et pachypodium : 2 jingly (premier joueur)/3 jingly (deuxième joueur).${prompt}
-  16761: 'Mandragoras standard : 1 jingly (les deux joueurs).${prompt}
-  16762: Le jeu se termine lorsque vous ou votre adversaire n'avez plus de mandragoras pouvant se déplacer.${prompt}
-  16763: Le joueur qui a le plus de jingly à ce moment-là sera déclaré vainqueur.${prompt}
-  16764: La clé de la victoire réside dans le fait de profiter des divers bonus de sous-espèces de mandragora tout en revendiquant plusieurs tours consécutifs.${prompt}
-  16765: '${color-alt: 151}∞∞∞∞∞ Motif ${choice: 1}[A/B/C/D/E] - Votre Tour (${choice: 0}[Premier Joueur/Deuxième Joueur]) ∞∞∞∞∞'
-  16766: '${color-alt: 151}Vous avez sélectionné la zone ${number: 0}.'
-  16767: '${color-alt: 151}Vous recevez ${number: 0} jingly, pour un total de ${number: 1}.'
-  16768: '${color-alt: 161}∞∞∞∞∞ Motif ${choice: 1}[A/B/C/D/E] - Votre Tour (${choice: 0}[Deuxième Joueur/Premier Joueur]) ∞∞∞∞∞'
-  16769: '${color-alt: 161}Votre adversaire a sélectionné la zone ${number: 0}.'
-  16770: '${color-alt: 161}Votre adversaire reçoit ${number: 0} jingly, pour un total de ${number: 1}.'
-  16771: '${color-alt: 151}Partie Terminée !'
-  16772: '${choice: 2}[Victoire!/Défaite!/Match nul !] (${number: 0} - ${number: 1})'
+    Sure.
+    No thanks.${prompt}
+  16740: Mandragora Mania is a game in which you battle for jingly by moving your mandragora pieces to the goal.${prompt}
+  16741: 'Your goal is the ${choice: 0}[red/blue/green] one on the right, while your opponent''s is the ${choice: 0}[blue/green/red] one on the left.${prompt}'
+  16742: At the start of the game, three mandragoras each will be placed on the eight game areas, excluding the goal.${prompt}
+  16743: There are five starting placements (A through E), and you are able to select which one you would like to employ. The default setting is "Random."${prompt}
+  16744: This explanation uses pattern A, but the basic rules are the same regardless of the starting pattern.${prompt}
+  16745: 'The three ${choice: 0}[red/blue/green] areas in front of you are yours,${wait-36: 2}the three ${choice: 0}[blue/green/red] areas at the back are your opponent''s,${wait-36: 2}and the remaining two are neutral.${prompt}'
+  16746: You must choose one area--either yours or a neutral one--to proceed.${prompt}
+  16747: The areas are numbered from one to five starting from the left, and any mandragoras in the area you select will move.${prompt}
+  16748: Conversely, your opponent must select either a neutral area or an area that belongs to them.${prompt}
+  16749: From the right, those areas are numbered 6, 4, 7, 2, and 8.${prompt}
+  16750: 'For example, if you select Area 1,${wait-36: 4}one mandragora will move to Area 2${wait-36: 1}and one will move to Area 3,${wait-36: 1}and one will move to Area 4.${prompt}'
+  16751: Note that the mandragoras will move from the back first--last in, first out.${prompt}
+  16752: You will receive points known as “jingly” each time one of your mandragoras reaches the goal.${prompt}
+  16753: You will enter your opponent's territory whenever you go past the goal.${prompt}
+  16754: If one of your mandragoras happens to reach the opponent's goal, the goal will be pushed back and your mandragora will return to your own area. You don't have to worry about your mandragora earning any jingly for your opponent.${prompt}
+  16755: The order in which players choose areas will be determined based on your turn settings. The default setting is random.${prompt}
+  16756: This explanation has skipped past your opponent's turn for demonstration purposes, but in the actual game you and your opponent will take turns choosing areas.${prompt}
+  16757: However, if the last mandragora to move reaches the goal, you will get to take an additional turn.${prompt}
+  16758: Mandragoras are a very diverse species, and the amount of jingly you earn is determined by the species of mandragora that crosses into the goal.${prompt}
+  16759: 'Adenium and citrullus: 3 jingly (first player)/4 jingly (second player).${prompt}'
+  16760: 'Korrigan and pachypodium: 2 jingly (first player)/3 jingly (second player).${prompt}'
+  16761: 'Standard mandragoras: 1 jingly (both players).${prompt}'
+  16762: The game is over when either you or your opponent no longer has any mandragoras that can move.${prompt}
+  16763: The player who has the most jingly at that point will be declared the winner.${prompt}
+  16764: The key to victory lies in taking advantage of the various mandragora subspecies bonuses while claiming multiple turns in a row.${prompt}
+  16765: '${color-alt: 151}∞∞∞∞∞ Pattern ${choice: 1}[A/B/C/D/E] - Your Turn (${choice: 0}[First Player/Second Player]) ∞∞∞∞∞'
+  16766: '${color-alt: 151}You have selected Area ${number: 0}.'
+  16767: '${color-alt: 151}You receive ${number: 0} jingly for a total of ${number: 1}.'
+  16768: '${color-alt: 161}∞∞∞∞∞ Pattern ${choice: 1}[A/B/C/D/E] - Your Turn (${choice: 0}[Second Player/First Player]) ∞∞∞∞∞'
+  16769: '${color-alt: 161}Your opponent has selected Area ${number: 0}.'
+  16770: '${color-alt: 161}Your opponent receives ${number: 0} jingly for a total of ${number: 1}.'
+  16771: '${color-alt: 151}Game Complete!'
+  16772: '${choice: 2}[Victory!/Defeat!/Draw!] (${number: 0} - ${number: 1})'
   16773: |-
-    Déplacer une mandragora depuis quelle zone ?
+    Move mandragora from which area?
     ${selection-lines}
-    Zone 1. (${number: 0} mandragora)
-    Zone 2. (${number: 1} mandragora)
-    Zone 3. (${number: 2} mandragora)
-    Zone 4. (${number: 3} mandragora)
-    Zone 5. (${number: 4} mandragora)
-    Abandonner.${prompt}
-  16774: '${color-alt: 123}Il n'y a pas de mandragora dans cette zone à déplacer.${prompt}'
-  16775: '${color-alt: 123}Vous perdrez tous les jingly gagnés dans ce jeu si vous abandonnez. Êtes-vous sûr ?${prompt}'
+    Area 1. (${number: 0} mandragora)
+    Area 2. (${number: 1} mandragora)
+    Area 3. (${number: 2} mandragora)
+    Area 4. (${number: 3} mandragora)
+    Area 5. (${number: 4} mandragora)
+    Give up.${prompt}
+  16774: '${color-alt: 123}That area has no mandragora to move.'
+  16775: '${color-alt: 123}You will forfeit all jingly earned this game if you give up. Are you sure?'
   16776: |-
-    Vraiment abandonner ?
+    Really give up?
     ${selection-lines}
-    Oui.
-    Non.${prompt}
-  16777: '${color-alt: 151}Vous recevez ${number: 0} jingly, pour un total de ${number: 1}.${prompt}'
-  16778: '${color-alt: 123}Vous avez atteint le plafond de jingly de ${number: 0}. Tout jingly supplémentaire sera perdu.${prompt}'
-  16779: '${color-alt: 123}Une erreur s'est produite. Veuillez réessayer.${prompt}'
-  16780: '${color-alt: 200}DEBUG → ${choice: 3}[DÉSACTIVÉ/ACTIVÉ]${prompt}'
-  16781: '${color-alt: 200}ALÉATOIRE : 0-${number: 0} → ${number: 1}${prompt}'
-  16782: '${color-alt: 200}Sakura：${choice: 0}[Citrullus/Pachypodium 1/Corrigan 1] → ${choice: 1}[DÉSACTIVÉ/ACTIVÉ] / ${choice: 0}[Adenium/Pachypodium 2/Corrigan 2] → ${choice: 2}[DÉSACTIVÉ/ACTIVÉ]${prompt}'
-  16783: '${color-alt: 200}${choice: 0}[Citrullus/Adenium/Pachypodium 1/Pachypodium 2/Corrigan 1/Corrigan 2]： Placement 【${number: 1}-${number: 2}】 →  Zone 【${choice: 4}[1/2/3/4/5/But PNJ/6/7/8/But NPC]】→ Évaluation : 【${number: 3}】${prompt}'
-  16784: '${color-alt: 200}${choice: 0}[Citrullus/Adenium/Pachypodium 1/Pachypodium 2/Corrigan 1/Corrigan 2]： Placement: 【But NPC】 →  Évaluation : 【${number: 3}】${prompt}'
+    Yes.
+    No.${prompt}
+  16777: '${color-alt: 151}You receive ${number: 0} jingly for a total of ${number: 1}.'
+  16778: '${color-alt: 123}You have reached the jingly cap of ${number: 0}. Any additional jingly will be lost.'
+  16779: '${color-alt: 123}An error has occurred. Please try again.'
+  16780: '${color-alt: 200}DEBUG → ${choice: 3}[OFF/ON]'
+  16781: '${color-alt: 200}RANDOM：0-${number: 0} → ${number: 1}'
+  16782: '${color-alt: 200}Sakura：${choice: 0}[Citrullus/Pachypodium 1/Corrigan 1] → ${choice: 1}[OFF/ON] / ${choice: 0}[Adenium/Pachypodium 2/Corrigan 2] → ${choice: 2}[OFF/ON]'
+  16783: '${color-alt: 200}${choice: 0}[Citrullus/Adenium/Pchypodium 1/Pachypodium 2/Corrigan 1/Corrigan 2]： Placement 【${number: 1}-${number: 2}】 →  Area 【${choice: 4}[1/2/3/4/5/PC Goal/6/7/8/NPC Goal]】→ Evaluation: 【${number: 3}】'
+  16784: '${color-alt: 200}${choice: 0}[Citrullus/Adenium/Pachypodium 1/Pachypodium 2/Corrigan 1/Corrigan 2]： Placement: 【NPC Goal】 →  Evaluation: 【${number: 3}】'
   16785: ${prompt}
-  16786: '${color-alt: 200}Zone 8【${number: 0}】 / Zone 2【${number: 1}】 / Zone 7【${number: 2}】 / Zone 4【${number: 3}】 / Zone 6【${number: 4}】${prompt}'
-  16787: '${color-alt: 200}Sélection PNJ →  Zone ${number: 0}${prompt}'
-  16788: '${color-alt: 200}DEBUG：Contrôles de Sélection PNJ → ${choice: 3}[DÉSACTIVÉ/ACTIVÉ]${prompt}'
+  16786: '${color-alt: 200}Area 8【${number: 0}】 / Area 2【${number: 1}】 / Area 7【${number: 2}】 / Area 4【${number: 3}】 / Area 6【${number: 4}】'
+  16787: '${color-alt: 200}NPC Selection →  Area ${number: 0}'
+  16788: '${color-alt: 200}DEBUG：NPC Selection Controls → ${choice: 3}[OFF/ON]'
   16789: |-
-    ≪DEBUG≫ Déplacer depuis quelle zone ?
+    ≪DEBUG≫ Move from which area?
     ${selection-lines}
-  Zone 8. (${number: 0} mandragoras).
-  Zone 2. (${number: 1} mandragoras).
-  Zone 7. (${number: 2} mandragoras).
-  Zone 4. (${number: 3} mandragoras).
-  Zone 6. (${number: 4} mandragoras).${prompt}
-  16790: Vous pouvez maintenant profiter d'une nouvelle histoire, Une Prophétie Cristalline.${prompt}
+    Area 8. (${number: 0} mandragoras).
+    Area 2. (${number: 1} mandragoras).
+    Area 7. (${number: 2} mandragoras).
+    Area 4. (${number: 3} mandragoras).
+    Area 6. (${number: 4} mandragoras).${prompt}
+  16790: Vous pouvez maintenant profiter d'une nouvelle histoire, Une Prophétie Cristalline.
   16791: |-
     Commencer Une Prophétie Cristalline ?
     ${selection-lines}
     Oui (Voir la cinématique).
     Peut-être plus tard.${prompt}
-  16792: Examinez le Début des Contes à Jeuno Inférieur (G-9) lorsque vous souhaitez commencer Une Prophétie Cristalline}.${prompt}
+  16792: Examinez le Début des Contes à Jeuno Inférieur (G-9) lorsque vous souhaitez commencer Une Prophétie Cristalline.
   16793: Vous pouvez maintenant profiter d'une nouvelle histoire, Une Ascension de Shantotto.
   16794: |-
     Commencer Une Ascension de Shantotto ?
     ${selection-lines}
     Oui (Voir la cinématique).
     Peut-être plus tard.${prompt}
-  16795: Examinez le Début des Contes dans les Murs de Windurst (C-6) lorsque vous souhaitez commencer Une Ascension de Shantotto.${prompt}
-  16796: Vous pouvez maintenant profiter d'une nouvelle histoire, Abyssea.${prompt}
+  16795: Examinez le Début des Contes dans les Murs de Windurst (C-6) lorsque vous souhaitez commencer Une Ascension de Shantotto.
+  16796: Vous pouvez maintenant profiter d'une nouvelle histoire, Abyssea.
   16797: |-
     Commencer Abyssea ?
     ${selection-lines}
     Oui (Voir la cinématique).
     Peut-être plus tard.${prompt}
-  16798: Examinez le Début des Contes à Port Jeuno (F-8) lorsque vous souhaitez commencer Abyssea.${prompt}
-  16799: Vous pouvez maintenant profiter d'une nouvelle histoire, Les Chaînes de Promathia.${prompt}
+  16798: Examinez le Début des Contes à Port Jeuno (F-8) lorsque vous souhaitez commencer Abyssea.
+  16799: Vous pouvez maintenant profiter d'une nouvelle histoire, Les Chaînes de Promathia.
   16800: |-
     Commencer Les Chaînes de Promathia ?
     ${selection-lines}
     Oui (Voir la cinématique).
     Peut-être plus tard.${prompt}
-  16801: Examinez le Début des Contes dans la Tour de Delkfutt Inférieur (H-10) lorsque vous souhaitez commencer Les Chaînes de Promathia.${prompt}
-  16802: Vous pouvez maintenant profiter d'une nouvelle histoire, Les Chercheurs d'Adoulin.${prompt}
+  16801: Examinez le Début des Contes dans la Tour de Delkfutt Inférieur (H-10) lorsque vous souhaitez commencer Les Chaînes de Promathia.
+  16802: Vous pouvez maintenant profiter d'une nouvelle histoire, Les Chercheurs d'Adoulin.
   16803: |-
     Commencer Les Chercheurs d'Adoulin ?
     ${selection-lines}
     Oui (Voir la cinématique).
     Peut-être plus tard.${prompt}
-    Commencer Les Chercheurs d'Adoulin ?
-    ${selection-lines}
-    Oui (Voir la cinématique).
-    Peut-être plus tard.${prompt}
-  16804: Examinez le Début des Contes dans le Nord de San d'Oria, les Marchés de Bastok ou les Bois de Windurst lorsque vous souhaitez commencer Les Chercheurs d'Adoulin.${prompt}
-  16805: Vous pouvez maintenant profiter d'une nouvelle histoire, Les Rhapsodies de Vana'diel.${prompt}
+  16804: Examinez le Début des Contes dans le Nord de San d'Oria, les Marchés de Bastok ou les Bois de Windurst lorsque vous souhaitez commencer Les Chercheurs d'Adoulin.
+  16805: Vous pouvez maintenant profiter d'une nouvelle histoire, Les Rhapsodies de Vana'diel.
   16806: |-
     Commencer Les Rhapsodies de Vana'diel ?
     ${selection-lines}
     Oui (Voir la cinématique).
     Peut-être plus tard.${prompt}
-  16807: Examinez le Début des Contes dans les trois nations lorsque vous souhaitez commencer Les Rhapsodies de Vana'diel.${prompt}
-  16808: Vous pouvez maintenant profiter d'une nouvelle histoire, La Montée des Zilart.${prompt}
+  16807: Examinez le Début des Contes dans les trois nations lorsque vous souhaitez commencer Les Rhapsodies de Vana'diel.
+  16808: Vous pouvez maintenant profiter d'une nouvelle histoire, La Montée des Zilart.
   16809: |-
     Commencer La Montée des Zilart ?
     ${selection-lines}
     Oui (Voir la cinématique).
     Peut-être plus tard.${prompt}
-  16810: Examinez le Début des Contes à Norg (H-9) lorsque vous souhaitez commencer La Montée des Zilart.${prompt}
+  16810: Examinez le Début des Contes à Norg (H-9) lorsque vous souhaitez commencer La Montée des Zilart.
   16811: Souhaitez-vous commencer une nouvelle histoire que vous avez précédemment reportée ?${prompt}
   16812: |-
     Commencer laquelle ?
@@ -37634,4 +37543,3 @@ entries:
     ${selection-lines}
     Oui, s'il vous plaît.
     Non, merci.${prompt}
-    
