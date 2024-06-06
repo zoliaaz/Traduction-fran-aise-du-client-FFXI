@@ -263,30 +263,30 @@ entries:
   168: 'Effet additionnel : ${choice-definite-entity: 1}[Le /]${entity-target}${choice-plurality-entity: 1}[''s/''] effet ${status-effect-noun: 2[2]} disparaît !${prompt}'
   169: 'Effet additionnel : Téléportation !${prompt}'
   170: |-
-    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[seems/seem] ${sys-msg-3: 1}.
-    ${choice-plurality-entity: 1}[It/They] ${choice-plurality-entity: 1}[seems/seem] to have high evasion and defense.${prompt}
+    ${choice-definite-entity: 1}[La /]${entity-target} ${choice-plurality-entity: 1}[semble/semblent] ${sys-msg-3: 1}.
+    ${choice-plurality-entity: 1}[Il/Elles] ${choice-plurality-entity: 1}[semble/semblent] avoir une grande esquive et une grande défense.${prompt}
   171: |-
-    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[seems/seem] ${sys-msg-3: 1}.
-    ${choice-plurality-entity: 1}[It/They] ${choice-plurality-entity: 1}[seems/seem] to have high evasion.${prompt}
+    ${choice-definite-entity: 1}[La /]${entity-target} ${choice-plurality-entity: 1}[semble/semblent] ${sys-msg-3: 1}.
+    ${choice-plurality-entity: 1}[Il/Elles] ${choice-plurality-entity: 1}[semble/semblent] avoir une grande esquive.${prompt}
   172: |-
-    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[seems/seem] ${sys-msg-3: 1}.
-    ${choice-plurality-entity: 1}[It/They] ${choice-plurality-entity: 1}[seems/seem] to have high evasion but low defense.${prompt}
+    ${choice-definite-entity: 1}[La /]${entity-target} ${choice-plurality-entity: 1}[semble/semblent] ${sys-msg-3: 1}.
+    ${choice-plurality-entity: 1}[Il/Elles] ${choice-plurality-entity: 1}[semble/semblent] avoir une grande esquive mais une faible défense.${prompt}
   173: |-
-    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[seems/seem] ${sys-msg-3: 1}.
-    ${choice-plurality-entity: 1}[It/They] ${choice-plurality-entity: 1}[seems/seem] to have high defense.${prompt}
-  174: '${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[seems/seem] ${sys-msg-3: 1}.${prompt}'
+    ${choice-definite-entity: 1}[La /]${entity-target} ${choice-plurality-entity: 1}[semble/semblent] ${sys-msg-3: 1}.
+    ${choice-plurality-entity: 1}[Il/Elles] ${choice-plurality-entity: 1}[semble/semblent] avoir une grande défense.${prompt}
+  174: '${choice-definite-entity: 1}[La /]${entity-target} ${choice-plurality-entity: 1}[semble/semblent] ${sys-msg-3: 1}.${prompt}'
   175: |-
-    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[seems/seem] ${sys-msg-3: 1}.
-    ${choice-plurality-entity: 1}[It/They] ${choice-plurality-entity: 1}[seems/seem] to have low defense.${prompt}
+    ${choice-definite-entity: 1}[La /]${entity-target} ${choice-plurality-entity: 1}[semble/semblent] ${sys-msg-3: 1}.
+    ${choice-plurality-entity: 1}[Il/Elles] ${choice-plurality-entity: 1}[semble/semblent] avoir une faible défense.${prompt}
   176: |-
-    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[seems/seem] ${sys-msg-3: 1}.
-    ${choice-plurality-entity: 1}[It/They] ${choice-plurality-entity: 1}[seems/seem] to have low evasion but high defense.${prompt}
+    ${choice-definite-entity: 1}[La /]${entity-target} ${choice-plurality-entity: 1}[semble/semblent] ${sys-msg-3: 1}.
+    ${choice-plurality-entity: 1}[Il/Elles] ${choice-plurality-entity: 1}[semble/semblent] avoir une faible esquive mais une grande défense.${prompt}
   177: |-
-    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[seems/seem] ${sys-msg-3: 1}.
-    ${choice-plurality-entity: 1}[It/They] ${choice-plurality-entity: 1}[seems/seem] to have low evasion.${prompt}
+    ${choice-definite-entity: 1}[La /]${entity-target} ${choice-plurality-entity: 1}[semble/semblent] ${sys-msg-3: 1}.
+    ${choice-plurality-entity: 1}[Il/Elles] ${choice-plurality-entity: 1}[semble/semblent] avoir une faible esquive.${prompt}
   178: |-
-    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[seems/seem] ${sys-msg-3: 1}.
-    ${choice-plurality-entity: 1}[It/They] ${choice-plurality-entity: 1}[seems/seem] to have low evasion and defense.${prompt}
+    ${choice-definite-entity: 1}[La /]${entity-target} ${choice-plurality-entity: 1}[semble/semblent] ${sys-msg-3: 1}.
+    ${choice-plurality-entity: 1}[Il/Elles] ${choice-plurality-entity: 1}[semble/semblent] avoir une faible esquive et une faible défense.${prompt}
   179: |-
     ${entity-target}:
     　hit-eva(${number-alt: 0}) => ${number-alt: 1}%${prompt}
@@ -300,47 +300,47 @@ entries:
     　ATK-DEF(${number-alt: 1})${prompt}
   184: '  ${entity-source}:ALLIANCE SUM=${number-alt: 0}/LEV=${number-alt: 1}${prompt}'
   185: |-
-    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${skill-alt: 0}.
-    ${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[takes/take] ${number-alt: 1} point${choice-plurality-number: 1}[/s] of damage.${prompt}
+    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${skill-alt: 0}.
+    ${unknown-84: 0}${choice-definite-entity: 1}[La /]${entity-target} ${choice-plurality-entity: 1}[subit/subissent] ${number-alt: 1} point${choice-plurality-number: 1}[/s] de dégâts.${prompt}
   186: |-
-    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${skill-alt: 0}.
-    ${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[gains/gain] the effect of ${status-effect-noun: 1[2]}.${prompt}
+    ${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${skill-alt: 0}.
+    ${unknown-84: 0}${choice-definite-entity: 1}[La /]${entity-target} ${choice-plurality-entity: 1}[obtient/obtiennent] l'effet de ${status-effect-noun: 1[2]}.${prompt}
   187: |-
-    ${unknown-84: 0}${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${skill-alt: 0}.
-    ${number-alt: 1} HP drained from ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}
-  188: '${unknown-84: 0}${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${skill-alt: 0}, but ${choice-plurality-entity: 0}[misses/miss] ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+    ${unknown-84: 0}${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${skill-alt: 0}.
+    ${number-alt: 1} HP drainé(s) de ${choice-definite-entity: 1}[la /]${entity-target}.${prompt}
+  188: '${unknown-84: 0}${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${skill-alt: 0}, mais ${choice-plurality-entity: 0}[rate/ratent] ${choice-definite-entity: 1}[la /]${entity-target}.${prompt}'
   189: |-
-    ${unknown-84: 0}${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${skill-alt: 0}.
-    No effect on ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}
-  190: '${choice-definite-entity: 0}[The /]${entity-source} cannot use that weapon ability.${prompt}'
-  191: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[is/are] unable to use weapon skills.${prompt}'
-  192: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[does/do] not have enough TP.${prompt}'
-  193: '${skill-alt: 0} cannot be used against that target.${prompt}'
+    ${unknown-84: 0}${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${skill-alt: 0}.
+    Aucun effet sur ${choice-definite-entity: 1}[la /]${entity-target}.${prompt}
+  190: '${choice-definite-entity: 0}[Le /]${entity-source} ne peut pas utiliser cette capacité d’arme.${prompt}'
+  191: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[est/sont] incapable(s) d’utiliser des compétences d’arme.${prompt}'
+  192: '${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[n’a/n’ont] pas assez de TP.${prompt}'
+  193: '${skill-alt: 0} ne peut pas être utilisé(e) contre cette cible.${prompt}'
   194: |-
-    ${unknown-84: 0}${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${skill-alt: 0}.
-    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[gains/gain] the effect of ${status-effect-noun: 1[2]}.${prompt}
+    ${unknown-84: 0}${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${skill-alt: 0}.
+    ${choice-definite-entity: 1}[La /]${entity-target} ${choice-plurality-entity: 1}[obtient/obtiennent] l'effet de ${status-effect-noun: 1[2]}.${prompt}
   195: |2-
       ${entity-target}:
         TOTAL ALLIANCE SUM=${number-alt: 0}/LEV=${number-alt: 1}${prompt}
-  196: 'Skillchain! ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[takes/take] ${number-alt: 2} point${choice-plurality-number: 2}[/s] of damage.${prompt}'
+  196: 'Skillchain! ${choice-definite-entity: 1}[La /]${entity-target} ${choice-plurality-entity: 1}[subit/subissent] ${number-alt: 2} point${choice-plurality-number: 2}[/s] de dégâts.${prompt}'
   197: |-
-    ${unknown-84: 0}${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${skill-alt: 0}, but ${choice-definite-entity: 1}[the /]${entity-target} ${choice-plurality-entity: 1}[resists/resist].
-    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[takes/take] ${number-alt: 1} point${choice-plurality-number: 1}[/s] of damage.${prompt}
-  198: '${color-alt: 123}${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[is/are] too far away.${prompt}'
-  199: That action requires a shield.${prompt}
-  200: 'Time left until next use: (${countdown-seconds: 0})${prompt}'
-  201: 'Current time: (${countdown-seconds: 0})${prompt}'
-  202: 'Time left: (${countdown-seconds: 0})${prompt}'
-  203: '${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[is/are] ${status-effect-adjective: 0[2]}.${prompt}'
-  204: '${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[is/are] no longer ${status-effect-adjective: 0[2]}.${prompt}'
-  205: '${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[gains/gain] the effect of ${status-effect-noun: 0[2]}.${prompt}'
-  206: '${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}[''s/''] ${status-effect-noun: 0[2]} effect wears off.${prompt}'
-  207: '　HP / HPMax:${number-alt: 0}/${number-alt: 1}${prompt}'
-  208: '　MP / MPMax:${number-alt: 0}/${number-alt: 1}${prompt}'
-  209: '　TP:${number-alt: 0}%${prompt}'
-  210: '${choice-definite-entity: 0}[The /]${entity-source} cannot charm ${choice-definite-entity: 1}[the /]${entity-target}!${prompt}'
-  211: 'It would be very difficult for ${choice-definite-entity: 0}[the /]${entity-source} to charm ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
-  212: 'It would be difficult for ${choice-definite-entity: 0}[the /]${entity-source} to charm ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+    ${unknown-84: 0}${choice-definite-entity: 0}[Le /]${entity-source} ${choice-plurality-entity: 0}[utilise/utilisent] ${skill-alt: 0}, mais ${choice-definite-entity: 1}[la /]${entity-target} ${choice-plurality-entity: 1}[résiste/résistent].
+    ${choice-definite-entity: 1}[La /]${entity-target} ${choice-plurality-entity: 1}[subit/subissent] ${number-alt: 1} point${choice-plurality-number: 1}[/s] de dégâts.${prompt}
+  198: '${color-alt: 123}${choice-definite-entity: 1}[La /]${entity-target} ${choice-plurality-entity: 1}[est/sont] trop loin.${prompt}'
+  199: Cette action nécessite un bouclier.${prompt}
+  200: 'Temps restant avant la prochaine utilisation : (${countdown-seconds: 0})${prompt}'
+  201: 'Heure actuelle : (${countdown-seconds: 0})${prompt}'
+  202: 'Temps restant : (${countdown-seconds: 0})${prompt}'
+  203: '${choice-definite-entity: 1}[La /]${entity-target} ${choice-plurality-entity: 1}[est/sont] ${status-effect-adjective: 0[2]}.${prompt}'
+  204: '${choice-definite-entity: 1}[La /]${entity-target} ${choice-plurality-entity: 1}[n’est/sont] plus ${status-effect-adjective: 0[2]}.${prompt}'
+  205: '${choice-definite-entity: 1}[La /]${entity-target} ${choice-plurality-entity: 1}[obtient/obtiennent] l’effet de ${status-effect-noun: 0[2]}.${prompt}'
+  206: '${choice-definite-entity: 1}[La /]${entity-target}${choice-plurality-entity: 1}[''s/''] effet de ${status-effect-noun: 0[2]} disparaît.${prompt}'
+  207: '　PV / PVMax : ${number-alt: 0} / ${number-alt: 1}${prompt}'
+  208: '　PM / PMMax : ${number-alt: 0} / ${number-alt: 1}${prompt}'
+  209: '　PT : ${number-alt: 0}%${prompt}'
+  210: '${choice-definite-entity: 0}[Le /]${entity-source} ne peut pas charmer ${choice-definite-entity: 1}[la /]${entity-target} !${prompt}'
+  211: 'Il serait très difficile pour ${choice-definite-entity: 0}[le /]${entity-source} de charmer ${choice-definite-entity: 1}[la /]${entity-target}.${prompt}'
+  212: 'Il serait difficile pour ${choice-definite-entity: 0}[le /]${entity-source} de charmer ${choice-definite-entity: 1}[la /]${entity-target}.${prompt}'
   213: '${choice-definite-entity: 0}[The /]${entity-source} might be able to charm ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
   214: '${choice-definite-entity: 0}[The /]${entity-source} should be able to charm ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
   215: That action requires a pet.${prompt}
