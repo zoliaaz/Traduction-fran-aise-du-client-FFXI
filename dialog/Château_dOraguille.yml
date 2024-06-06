@@ -16544,171 +16544,171 @@ entries:
   6734: 'C’est pourquoi je vous ai appelé ici, ${name-player}. Je sais que vous trouverez ${keyitem-article: 7[2]} et que vous le planterez dans le jardin aux côtés de la tombe de ma chère épouse.${prompt}'
   6735: 'Vous devez récupérer ${keyitem-article: 0[2]} dans une oasis du désert d’Altepa. Bonne chance!${prompt}'
   6736: |-
-    Excellent! The queen is sure to be pleased.
-    Take the dreamrose to Chalvatot, the gardener. He will do the rest of the work.${prompt}
-  6737: Stopping by to smell the roses? Such refined taste for an adventurer.${prompt}
-  6738: What petty mission have these people sent you on this time?${prompt}
-  6739: The queen's will? Dreamroses? There must be something behind all this...${prompt}
-  6740: Wh-what? What's going on?${prompt}
-  6741: The flowers have...${prompt}
-  6742: ${name-player}!?${prompt}
+    Excellent ! La reine sera sûrement ravie.
+    Apportez la rose des rêves à Chalvatot, le jardinier. Il fera le reste du travail.${prompt}
+  6737: Vous arrêtez-vous pour sentir les roses ? Un goût si raffiné pour un aventurier.${prompt}
+  6738: Quelle mission mesquine ces gens vous ont-ils confiée cette fois-ci ?${prompt}
+  6739: La volonté de la reine ? Des roses des rêves ? Il doit y avoir quelque chose derrière tout ça...${prompt}
+  6740: Qu-quoi ? Que se passe-t-il ?${prompt}
+  6741: Les fleurs ont...${prompt}
+  6742: ${name-player} !?${prompt}
   6743: |-
     Rochefogne...
-    You must not pursue the Treasure of the Dragon King...
-    History must not repeat itself...${prompt}
-  6744: No...${prompt}
+    Tu ne dois pas poursuivre le Trésor du Roi Dragon...
+    L'histoire ne doit pas se répéter...${prompt}
+  6744: Non...${prompt}
   6745: |-
-    Wait!
-    What... Who was that?${prompt}
-  6746: My imagination...or...${prompt}
-  6747: You'll have to excuse me. I have another engagement...${prompt}
+    Attends !
+    Qui... Qui était-ce ?${prompt}
+  6746: Mon imagination... ou...${prompt}
+  6747: Vous devrez m'excuser. J'ai un autre engagement...${prompt}
   6748: |-
-    Who was you talkin' to just now?
-    No matter. You brought me ${keyitem-article: 0[2]}, right? Hand it over.${prompt}
-  6749: Yes, this be the one... Hm? You say you saw the queen? Ha ha ha! I never heard anythin' so daft!${prompt}
-  6750: 'Ha ha! They say the pollen of the ${keyitem-singular: 0[2]} can cause people to be seein'' funny things.${prompt}'
-  6751: You must be tired from your mission. Maybe you should get some rest.${prompt}
-  6752: Hm? What be that there at your feet? That yours?${prompt}
+    À qui tu parlais juste maintenant ?
+    Peu importe. Tu m'as apporté ${keyitem-article: 0[2]}, non ? Donne-le.${prompt}
+  6749: Oui, c'est celui-ci... Hm ? Tu dis avoir vu la reine ? Ha ha ha ! Je n'ai jamais entendu quelque chose d'aussi absurde !${prompt}
+  6750: 'Ha ha ! Ils disent que le pollen de la ${keyitem-singular: 0[2]} peut faire voir des choses étranges aux gens.${prompt}'
+  6751: Tu dois être fatigué de ta mission. Peut-être devrais-tu te reposer.${prompt}
+  6752: Hm ? Qu'est-ce que c'est que ça à tes pieds ? C'est à toi ?${prompt}
   6753: |-
-    Say that it is yours?
+    Dis que c'est à toi ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  6754: You should take better care of your things!${prompt}
-  6755: Well then, do you mind throwin' it away for me? I can't have a grimy garden, now can I?${prompt}
+    Oui.
+    Non.${prompt}
+  6754: Tu devrais mieux prendre soin de tes affaires !${prompt}
+  6755: Eh bien, est-ce que ça te dérange de le jeter pour moi ? Je ne peux pas avoir un jardin sale, n'est-ce pas ?${prompt}
   6756: |-
-    So it was you the guard sent...
-    No matter. Your mission this time deals with the Treasure of the Dragon King.${prompt}
-  6757: Our royal scholars have brought to light the fact that the Treasure may be hidden in the true tomb of King Ranperre.${prompt}
-  6758: As you may have already realized, the current tomb is a new one, built many years after the king passed away.${prompt}
-  6759: The location of the true tomb was lost during the Great War. This loss has haunted San d'Oria for the past twenty years.${prompt}
-  6760: Finding the location of the true tomb is critical in locating the lost Treasure, as well as in boosting the Kingdom's morale.${prompt}
-  6761: Your mission is to seek out the true tomb of King Ranperre. I can trust that you will not deface the tomb when you find it.${prompt}
-  6762: Your mission is to seek out the true tomb of King Ranperre. Finding the location of the tomb is critical in boosting the Kingdom's morale.${prompt}
-  6763: I have a message from Prince Trion asking you to make any reports of your findings to the guards at the gatehouses.${prompt}
+    Donc c'est vous que le garde a envoyé...
+    Peu importe. Votre mission cette fois-ci concerne le Trésor du Roi Dragon.${prompt}
+  6757: Nos érudits royaux ont mis en lumière le fait que le Trésor pourrait être caché dans le véritable tombeau du Roi Ranperre.${prompt}
+  6758: Comme vous l'avez peut-être déjà compris, le tombeau actuel est un nouveau, construit de nombreuses années après la mort du roi.${prompt}
+  6759: L'emplacement du véritable tombeau a été perdu pendant la Grande Guerre. Cette perte hante San d'Oria depuis vingt ans.${prompt}
+  6760: Trouver l'emplacement du véritable tombeau est crucial pour localiser le Trésor perdu, ainsi que pour renforcer le moral du Royaume.${prompt}
+  6761: Votre mission est de rechercher le véritable tombeau du Roi Ranperre. Je suis sûr que vous ne profanerez pas le tombeau lorsque vous le trouverez.${prompt}
+  6762: Votre mission est de rechercher le véritable tombeau du Roi Ranperre. Trouver l'emplacement du tombeau est crucial pour renforcer le moral du Royaume.${prompt}
+  6763: J'ai un message du Prince Trion vous demandant de faire part de vos découvertes aux gardes des guérites.${prompt}
   6764: |-
-    Well done, ${name-player}.
-    Do you wish to know what is written in the tome? The king is about to make an official announcement regarding its contents in the Great Hall.${prompt}
-  6765: Father. Shall we begin?${prompt}
+    Bien joué, ${name-player}.
+    Souhaitez-vous savoir ce qui est écrit dans le tome ? Le roi s'apprête à faire une annonce officielle concernant son contenu dans la Grande Salle.${prompt}
+  6765: Père. Devrions-nous commencer ?${prompt}
   6766: |-
-    Yes, Trion.
-    Oh, I see the discoverer of the ancient tome is also here with us.${prompt}
-  6767: Well, as you all expected, the tomb discovered is in fact the true resting place of the Dragon King. I applaud our adventurer on ${choice-player-gender}[his/her] work.${prompt}
-  6768: In addition to this, the ancient writings also tell us about King Ranperre's Treasure...${prompt}
-  6769: According to the encrypted tome, the Treasure is a sword--a sword that, when unsheathed, wields more power than one can imagine. “Lightbringer.”${prompt}
-  6770: 'The Dragon King''s...${wait-animation: 1}${prompt}'
-  6771: Lightbringer.${prompt}
-  6772: Unfortunately, the whereabouts of the sword were not found within the tome's pages. However, our investigation has taken an important step forward.${prompt}
-  6773: ${name-player}. If you obtain any new information on Lightbringer, I ask you to share it with us.${prompt}
-  6774: While finding Ranperre's holy sword is one of our top priorities, paying proper homage to our former king is something I wish to do as successor to his throne.${prompt}
-  6775: ${name-player}. I wish for you to travel to the Dragon King's tomb and purge the area of any vermin. We will follow directly behind.${prompt}
-  6776: Prince Trion is preparing for the journey to King Ranperre's Tomb. He asked me to tell you to travel there and purge the area of any monsters before they arrive.${prompt}
-  6777: I commend you for your work on this mission. However, you still have an important task left before you. Now hurry to the tomb and rid the area of any vermin that may be lurking in the darkness.${prompt}
+    Oui, Trion.
+    Oh, je vois que le découvreur de l'ancien tome est également ici avec nous.${prompt}
+  6767: Eh bien, comme vous vous y attendiez tous, le tombeau découvert est en fait le véritable lieu de repos du Roi Dragon. J'applaudis notre aventurier pour ${choice-player-gender}[son/sa] travail.${prompt}
+  6768: En plus de cela, les anciens écrits nous parlent aussi du Trésor du Roi Ranperre...${prompt}
+  6769: Selon le tome crypté, le Trésor est une épée - une épée qui, une fois dégainée, détient plus de pouvoir que l'on ne peut l'imaginer. “Portelumière.”${prompt}
+  6770: 'Le Roi Dragon...${wait-animation: 1}${prompt}'
+  6771: Portelumière.${prompt}
+  6772: Malheureusement, l'emplacement de l'épée n'a pas été trouvé dans les pages du tome. Cependant, notre enquête a fait un pas important en avant.${prompt}
+  6773: ${name-player}. Si vous obtenez de nouvelles informations sur Portelumière, je vous demande de les partager avec nous.${prompt}
+  6774: Bien que la recherche de l'épée sainte de Ranperre soit l'une de nos priorités, rendre hommage à notre ancien roi de manière appropriée est quelque chose que je souhaite faire en tant que successeur de son trône.${prompt}
+  6775: ${name-player}. Je souhaite que vous vous rendiez au tombeau du Roi Dragon et que vous purifiiez la région de toute vermine. Nous suivrons directement derrière.${prompt}
+  6776: Le Prince Trion se prépare pour le voyage au Tombeau du Roi Ranperre. Il m'a demandé de vous dire de vous y rendre et de purger la zone de tout monstre avant leur arrivée.${prompt}
+  6777: Je vous félicite pour votre travail sur cette mission. Cependant, vous avez encore une tâche importante à accomplir. Maintenant, dépêchez-vous vers le tombeau et débarrassez la zone de toute vermine qui pourrait se cacher dans l'obscurité.${prompt}
   6778: |-
-    Prince Trion has left a message with me:
-    “Deliver your report to the guards at the gatehouse.”${prompt}
-  6779: I commend you for your work on this mission. Now hurry to the gatehouse and report!${prompt}
-  6780: Princess Claidie! I've finished watering the flowers!${prompt}
-  6781: Thank you very much, Lourima.${prompt}
-  6782: You be gettin' pretty good at this, m'lady. Have to watch out, or I might be out of a job!${prompt}
-  6783: Bye-bye!${prompt}
-  6784: That girl used to never come out of her room, but she's brightened up a bit since I started lettin' her help out in the garden.${prompt}
-  6785: Yes, but nothing we can do will bring back her parents...${prompt}
-  6786: As long as there is war and strife in Vana'diel, there will always be little girls like Lourima.${prompt}
-  6787: Your Highness...${prompt}
-  6788: 'Ah, ${name-player}. I called you here to thank you in person for bringing the ${keyitem-singular: 0[2]}.${prompt}'
-  6789: You are continuously putting forth your all for the good of the d'Oraguille family. As for me, I have not the power to retrieve a single seed.${prompt}
-  6790: The princess traveling to other lands? Think of your safety, Your Highness!${prompt}
-  6791: What if San d'Oria found herself in the same situation that Tavnazia did? What would become of me then? Would I just sit here and wait for the destruction of the Kingdom?${prompt}
-  6792: Your Highness...${prompt}
-  6793: Twenty years ago, the beastmen concentrated their forces in Tavnazia...and then the explosion. Nothing was left...${prompt}
-  6794: The Tavnazian peninsula was ripped from the mainland and became an island.${prompt}
-  6795: What was the purpose behind the beastmen's actions? Can we truly let something so terrible happen again?${prompt}
-  6796: But what can I do, a princess locked up in a castle? I envy you, ${name-player}.${prompt}
-  6797: Your Highness, speak no more of such things. Here, take a look at the blooming flowers. ${prompt}
+    Le Prince Trion a laissé un message avec moi :
+    “Remettez votre rapport aux gardes à la guérite.”${prompt}
+  6779: Je vous félicite pour votre travail sur cette mission. Maintenant, dépêchez-vous à la guérite et rapportez !${prompt}
+  6780: Princesse Claidie ! J'ai fini d'arroser les fleurs !${prompt}
+  6781: Merci beaucoup, Lourima.${prompt}
+  6782: Tu deviens plutôt doué à ça, m'lady. Faudrait faire attention, sinon je pourrais me retrouver au chômage !${prompt}
+  6783: Au revoir !${prompt}
+  6784: Cette fille ne sortait jamais de sa chambre, mais elle s'est un peu éclaircie depuis que je lui permets de m'aider dans le jardin.${prompt}
+  6785: Oui, mais rien de ce que nous pouvons faire ne ramènera ses parents...${prompt}
+  6786: Tant qu'il y aura la guerre et les conflits dans Vana'diel, il y aura toujours des petites filles comme Lourima.${prompt}
+  6787: Votre Altesse...${prompt}
+  6788: 'Ah, ${name-player}. Je t’ai appelé ici pour te remercier en personne d’avoir apporté le ${keyitem-singular: 0[2]}.${prompt}'
+  6789: Tu déploies continuellement tous tes efforts pour le bien de la famille d'Oraguille. Quant à moi, je n'ai pas le pouvoir de récupérer une seule graine.${prompt}
+  6790: La princesse voyageant dans d'autres contrées ? Pensez à votre sécurité, Votre Altesse !${prompt}
+  6791: Que se passerait-il si San d'Oria se retrouvait dans la même situation que Tavnazia ? Que deviendrais-je alors ? Me contenterais-je d'attendre la destruction du Royaume ?${prompt}
+  6792: Votre Altesse...${prompt}
+  6793: Il y a vingt ans, les bêtes ont concentré leurs forces à Tavnazia... et puis l'explosion. Il ne restait plus rien...${prompt}
+  6794: La péninsule de Tavnazia a été arrachée au continent et est devenue une île.${prompt}
+  6795: Quel était le but derrière les actions des bêtes ? Pouvons-nous vraiment laisser quelque chose d'aussi terrible se reproduire ?${prompt}
+  6796: Mais que puis-je faire, une princesse enfermée dans un château ? Je t'envie, ${name-player}.${prompt}
+  6797: Votre Altesse, ne parlez plus de telles choses. Regardez plutôt les fleurs en fleurs. ${prompt}
   6798: |-
-    You are right, Chalvatot.
-    ${name-player}, I apologize for my words. Please, stay and enjoy the beauty of the dreamroses.${prompt}
-  6799: Dear Mother... My coming-of-age ceremony is drawing near. My brothers tell me that during the ceremony I will be informed of all the secrets of the d'Oraguille family.${prompt}
-  6800: I have heard that the same tradition was carried out in Tavnazia. Mother, what secrets were revealed to you? Will I be able to handle the burden as you did?${prompt}
-  6801: I beg of you, Mother. Watch over me in these trying times.${prompt}
-  6802: ${name-player}, I assume an adventurer of your stature has heard the rumors of Princess Claidie's coming-of-age ceremony.${prompt}
-  6803: This ceremony is a piece of d'Oraguille tradition and requires much preparation. This is where your assistance is necessary.${prompt}
-  6804: 'Travel to the Fountain of Kings located within the Quicksand Caves, and bring back ${keyitem-article: 0[2]}.${prompt}'
-  6805: The princess is always speaking of your deeds for the Kingdom. Everyone here is counting on you, ${name-player}.${prompt}
-  6806: 'Travel to the Fountain of Kings located within the Quicksand Caves, and bring back ${keyitem-article: 0[2]}. The princess is counting on you, ${name-player}.${prompt}'
-  6807: So, my younger sister has finally come of age... I remember when my brother and I would sneak out of the chateau and search the city for presents to buy her.${prompt}
-  6808: We would always be awed by the wonders of the city.${prompt}
-  6809: One year, the king caught us sneaking out. Our mother tried talking to our father, but there was no easing his anger. It was then that I first feared my father.${prompt}
-  6810: Our mother fell ill shortly after, and there was nothing my brother or I could do to save her. Maybe it was our lack of power to save our mother that made us enemies...${prompt}
-  6811: I apologize for my rambling. Perhaps I should journey out into the city and select my sister's gift...${prompt}
+    Vous avez raison, Chalvatot.
+    ${name-player}, je m'excuse pour mes paroles. S'il vous plaît, restez et profitez de la beauté des roses des rêves.${prompt}
+  6799: Chère Mère... Ma cérémonie de passage à l'âge adulte approche. Mes frères me disent que pendant la cérémonie, on me révélera tous les secrets de la famille d'Oraguille.${prompt}
+  6800: J'ai entendu dire que la même tradition était pratiquée à Tavnazia. Mère, quels secrets vous ont été révélés ? Saurai-je supporter le fardeau comme vous l'avez fait ?${prompt}
+  6801: Je vous en supplie, Mère. Veillez sur moi en ces temps difficiles.${prompt}
+  6802: ${name-player}, je suppose qu'un aventurier de votre stature a entendu les rumeurs sur la cérémonie de passage à l'âge adulte de la princesse Claidie.${prompt}
+  6803: Cette cérémonie est une pièce de la tradition d'Oraguille et nécessite beaucoup de préparation. C'est là que votre assistance est nécessaire.${prompt}
+  6804: 'Rendez-vous à la Fontaine des Rois située dans les Grottes de Sable mouvant, et ramenez ${keyitem-article: 0[2]}.${prompt}'
+  6805: La princesse parle toujours de vos exploits pour le Royaume. Tout le monde ici compte sur vous, ${name-player}.${prompt}
+  6806: 'Rendez-vous à la Fontaine des Rois située dans les Grottes de Sable mouvant, et ramenez ${keyitem-article: 0[2]}. La princesse compte sur vous, ${name-player}.${prompt}'
+  6807: Alors, ma jeune sœur est enfin parvenue à l'âge adulte... Je me souviens quand mon frère et moi sortions en douce du château et parcourions la ville pour acheter des cadeaux pour elle.${prompt}
+  6808: Nous étions toujours émerveillés par les merveilles de la ville.${prompt}
+  6809: Une année, le roi nous a surpris en train de sortir en douce. Notre mère a essayé de parler à notre père, mais rien n'a pu apaiser sa colère. C'est alors que j'ai eu peur pour la première fois de mon père.${prompt}
+  6810: Notre mère est tombée malade peu après, et ni mon frère ni moi n'avons pu la sauver. Peut-être que notre incapacité à sauver notre mère nous a rendus ennemis...${prompt}
+  6811: Je m'excuse pour mon bavardage. Peut-être devrais-je partir en ville et choisir le cadeau de ma sœur...${prompt}
   6812: |-
-    Claidie has finally come of age...
-    My sister and I don't have many memories of the queen, but every time I see Claidie, I can sense a part of my mother in her.${prompt}
-  6813: I don't know... It's probably because they look and act so alike.${prompt}
-  6814: Despite being raised without a mother alongside two older brothers, she has matured into a fine, beautiful woman. Now is her time to shine.${prompt}
-  6815: 'Ah, ${keyitem-singular: 0[2]}. These were used during the princes'' ceremonies as well.${prompt}'
-  6816: Tradition prohibits us from allowing you to attend the ceremony, but feel free to view it. The princess would be delighted at your presence.${prompt}
-  6817: Call forth all members of the court. Has the adventurer ${name-player} arrived?${prompt}
-  6818: Ah, ${name-player}. The deciphering of the stone tablet you found has been completed.${prompt}
-  6819: There is one line that has us especially intrigued...${prompt}
-  6820: “Light will befall the great Vana'diel only when the true heir of d'Oraguille raises Lightbringer to the heavens.”${prompt}
-  6821: And this means...${prompt}
-  6822: It means that only the true heir to the d'Oraguille throne will be able to unsheathe Lightbringer, and that only when he does will the true power of the sword be unleashed.${prompt}
-  6823: Then it is decided. When we have possession of the legendary sword, Trion and Pieuje will both attempt to unsheathe it.${prompt}
-  6824: Whoever succeeds will take my place on the throne as the true heir to the House of d'Oraguille.${prompt}
+    Claidie est enfin parvenue à l'âge adulte...
+    Ma sœur et moi n'avons pas beaucoup de souvenirs de la reine, mais à chaque fois que je vois Claidie, je sens une partie de ma mère en elle.${prompt}
+  6813: Je ne sais pas... C'est probablement parce qu'elles se ressemblent et agissent de la même manière.${prompt}
+  6814: Malgré avoir été élevée sans mère aux côtés de deux frères aînés, elle est devenue une femme fine et belle. C'est maintenant son moment de briller.${prompt}
+  6815: 'Ah, ${keyitem-singular: 0[2]}. Ces objets étaient utilisés lors des cérémonies des princes également.${prompt}'
+  6816: La tradition nous interdit de vous permettre d'assister à la cérémonie, mais n'hésitez pas à la regarder. La princesse serait ravie de votre présence.${prompt}
+  6817: Appelez tous les membres de la cour. L'aventurier ${name-player} est-il arrivé ?${prompt}
+  6818: Ah, ${name-player}. Le déchiffrage de la tablette de pierre que vous avez trouvée a été achevé.${prompt}
+  6819: Il y a une ligne qui nous intrigue particulièrement...${prompt}
+  6820: “La lumière tombera sur la grande Vana'diel uniquement lorsque le véritable héritier d'Oraguille brandira Lightbringer vers les cieux.”${prompt}
+  6821: Et cela signifie...${prompt}
+  6822: Cela signifie que seul le véritable héritier du trône d'Oraguille pourra dégainer Lightbringer, et que seulement quand il le fera, la véritable puissance de l'épée sera libérée.${prompt}
+  6823: Alors c'est décidé. Lorsque nous aurons possession de l'épée légendaire, Trion et Pieuje tenteront tous deux de la dégainer.${prompt}
+  6824: Celui qui réussira prendra ma place sur le trône en tant que véritable héritier de la Maison d'Oraguille.${prompt}
   6825: '!!!${prompt}'
-  6826: The true...heir?${prompt}
-  6827: Trion or Pieuje--the sword will decide the future of San d'Oria and lead us from the darkness. Of course, we must first locate the Treasure of the Dragon King.${prompt}
+  6826: L'héritier...véritable ?${prompt}
+  6827: Trion ou Pieuje -- l'épée décidera du futur de San d'Oria et nous conduira hors des ténèbres. Bien sûr, nous devons d'abord localiser le Trésor du Roi Dragon.${prompt}
   6828: |-
     Rahal. Curilla.
-    I want your knights to concentrate their efforts on locating Lightbringer.${prompt}
-  6829: Yes, Your Highness.${prompt}
-  6830: Understood, Your Highness.${prompt}
+    Je veux que vos chevaliers concentrent leurs efforts sur la recherche de Lightbringer.${prompt}
+  6829: Oui, Votre Altesse.${prompt}
+  6830: Bien compris, Votre Altesse.${prompt}
   6831: |-
-    And ${name-player}.
-    Report to Rahal for your orders. I trust that your involvement in this investigation can only benefit San d'Oria.${prompt}
-  6832: Set forth and search the darkness for the light that will guide us to a brighter future. The dawn of a new era in San d'Oria is upon us!${prompt}
-  6833: ${name-player}, I want you to investigate the Temple of Uggalepih.${prompt}
-  6834: 'Take this ${keyitem-singular: 0[2]} with you on your journey.${prompt}'
-  6835: 'Use it when searching the area. Any response from the ${keyitem-singular: 0[2]} may be a clue to the location of Lightbringer. The fate of the Kingdom is riding on your shoulders. Don''t let us down!${prompt}'
-  6836: Remember, this mission is a matter of national security. When you have finished your investigation, make your report directly to the king.${prompt}
-  6837: I have been assigned to the investigation of a remote island off the west of the Vollbow coast. This will be the first time I have left San d'Oria since I was a knight in training.${prompt}
+    Et ${name-player}.
+    Rapportez-vous à Rahal pour vos ordres. Je suis convaincu que votre implication dans cette enquête ne peut que bénéficier à San d'Oria.${prompt}
+  6832: Partez et explorez les ténèbres à la recherche de la lumière qui nous guidera vers un avenir plus radieux. L'aube d'une nouvelle ère à San d'Oria est sur nous !${prompt}
+  6833: ${name-player}, je veux que vous enquêtiez sur le Temple d'Uggalepih.${prompt}
+  6834: 'Prenez ce ${keyitem-singular: 0[2]} avec vous dans votre voyage.${prompt}'
+  6835: 'Utilisez-le lors de la recherche dans la région. Toute réponse du ${keyitem-singular: 0[2]} pourrait être un indice sur l’emplacement de Lightbringer. Le destin du Royaume repose sur vos épaules. Ne nous décevez pas !${prompt}'
+  6836: N'oubliez pas, cette mission est une question de sécurité nationale. Lorsque vous aurez terminé votre enquête, faites votre rapport directement au roi.${prompt}
+  6837: On m'a affecté à l'enquête sur une île isolée à l'ouest de la côte de Vollbow. Ce sera la première fois que je quitte San d'Oria depuis que j'étais un chevalier en formation.${prompt}
   6838: |-
-    So you were unable to locate Lightbringer...
-    Well, to our surprise, Curilla's expeditionary forces returned yesterday with the sword.${prompt}
-  6839: Welcome back from your long journey, ${name-player}. I am pleased to report that Curilla's forces located the holy sword, Lightbringer.${prompt}
-  6840: According to the writings in our ancient tomes, the scholars feel that the retrieved sword is truly the lost Treasure of the Dragon King.${prompt}
-  6841: The path leading to this day has been long and treacherous. However, our journey is nearly complete. I do not have the words to express my gratitude for your services.${prompt}
-  6842: I thank you, and wish that you might continue your work for the good of San d'Oria long after I have stepped down from the throne.${prompt}
-  6843: However, one final ceremony must be held--the true heir to the House of d'Oraguille must be decided. At that time, your service will again be called upon.${prompt}
-  6844: We located Lightbringer on a small, remote island off the coast of Vollbow.${prompt}
-  6845: Once a part of Vollbow, the island was ripped away from the mainland by the force of the beastmen's terrible weapons. Now the area is nothing but a wasteland.${prompt}
-  6846: When I took the sword up in my hands, I could feel something running through it. At that moment, I knew I was holding the true sword of King Ranperre.${prompt}
-  6847: To tell you the truth, I had my doubts about the Treasure of the Dragon King, but Curilla managed to find it. Still, I am vexed by this--why was the sword on that island?${prompt}
-  6848: Lightbringer has been found! This is the happiest day in my tenure as monarlais!${prompt}
-  6849: Thanks to your perseverance and commitment to the Kingdom, Lightbringer has been found, and now the Rites of Succession can be carried out.${prompt}
-  6850: As long as the Treasure is in San d'Oria, the Kingdom will be safe--regardless of whether myself or my brother is the true heir to the throne.${prompt}
-  6851: The Rites of Succession will be carried out soon. At that time, your services will once again be called upon.${prompt}
-  6852: I never imagined myself becoming king. This kingdom needs the leadership of my brother to bring her together.${prompt}
-  6853: But she also needs someone to step in and take control when my brother has gone too far.${prompt}
-  6854: If by chance Lightbringer selects me, I do not know if I can prevent San d'Oria's bloody history from repeating itself.${prompt}
-  6855: Does the Treasure of the Dragon King truly wield the power to rule a kingdom? Are we not reading too much into legend? Only time will bring an answer to my fears.${prompt}
-  6856: Oh, it's you. How goes it with your wyvern?${prompt}
+    Donc, vous n'avez pas pu localiser Lightbringer...
+    Eh bien, à notre grande surprise, les forces expéditionnaires de Curilla sont rentrées hier avec l'épée.${prompt}
+  6839: Bienvenue de votre long voyage, ${name-player}. Je suis heureux de vous annoncer que les forces de Curilla ont localisé l'épée sainte, Lightbringer.${prompt}
+  6840: Selon les écrits de nos anciens livres, les érudits estiment que l'épée récupérée est vraiment le Trésor perdu du Roi Dragon.${prompt}
+  6841: Le chemin menant à ce jour a été long et périlleux. Cependant, notre voyage est presque terminé. Je n'ai pas les mots pour exprimer ma gratitude pour vos services.${prompt}
+  6842: Je vous remercie, et souhaite que vous puissiez continuer votre travail pour le bien de San d'Oria bien après que j'aie quitté le trône.${prompt}
+  6843: Cependant, une dernière cérémonie doit avoir lieu -- le véritable héritier de la Maison d'Oraguille doit être décidé. À ce moment-là, vos services seront à nouveau sollicités.${prompt}
+  6844: Nous avons localisé Lightbringer sur une petite île isolée au large de la côte de Vollbow.${prompt}
+  6845: Autrefois partie de Vollbow, l'île a été arrachée du continent par la force des terribles armes des bêtes. Maintenant, la zone n'est rien de plus qu'un désert.${prompt}
+  6846: Quand j'ai pris l'épée dans mes mains, j'ai pu sentir quelque chose à l'intérieur. À ce moment-là, j'ai su que je tenais la véritable épée du Roi Ranperre.${prompt}
+  6847: Pour vous dire la vérité, j'avais mes doutes sur le Trésor du Roi Dragon, mais Curilla a réussi à le trouver. Pourtant, je suis contrarié par cela -- pourquoi l'épée était-elle sur cette île ?${prompt}
+  6848: Lightbringer a été trouvé ! C'est le jour le plus heureux de mon mandat en tant que monarque !${prompt}
+  6849: Grâce à votre persévérance et à votre engagement envers le Royaume, Lightbringer a été trouvé, et maintenant les Rites de Succession peuvent être effectués.${prompt}
+  6850: Tant que le Trésor est à San d'Oria, le Royaume sera en sécurité -- peu importe que moi-même ou mon frère soit le véritable héritier du trône.${prompt}
+  6851: Les Rites de Succession auront lieu bientôt. À ce moment-là, vos services seront à nouveau requis.${prompt}
+  6852: Je ne m'imaginais jamais devenir roi. Ce royaume a besoin du leadership de mon frère pour la rassembler.${prompt}
+  6853: Mais elle a aussi besoin de quelqu'un pour prendre le contrôle lorsque mon frère va trop loin.${prompt}
+  6854: Si par hasard Lightbringer me choisit, je ne sais pas si je pourrai empêcher l'histoire sanglante de San d'Oria de se répéter.${prompt}
+  6855: Le Trésor du Roi Dragon possède-t-il vraiment le pouvoir de gouverner un royaume ? Ne lisons-nous pas trop dans la légende ? Seul le temps apportera une réponse à mes craintes.${prompt}
+  6856: Oh, c'est vous. Comment ça se passe avec votre wyverne ?${prompt}
   6857: |-
-    How goes it?
+    Comment ça va ?
     ${selection-lines}
-    We are steadfast companions.
-    Not as well as I would like.${prompt}
-  6858: Excellent. I never doubted your success.${prompt}
-  6859: I see... However, if you continue to shower it with attention, your wyvern will come around eventually. They thrive on affection.${prompt}
-  6860: On a more serious note, the Royal Knights have recently become the target of a number of attacks by an unknown assailant. It is humiliating for the defenders of the Kingdom to be in this position in the first place, but the situation is more grave than a simple loss of face.${prompt}
-  6861: There is a rumor circulating among the knights that these attacks are being carried out by Erpalacion, the last dragoon. It has the men unnerved.${prompt}
-  6862: As I am sure you are aware, Erpalacion was the general of the knights during the rule of King Ranperre, and the only dragoon in existence at the time.${prompt}
-  6863: 'Historians all agree on this point: Without the strength of Erpalacion, many great achievements would have been beyond King Ranperre''s reach.${prompt}'
-  6864: Erpalacion has joined the ranks of the fallen, so there is no possible way he could be responsible for these attacks. But the fears of the knights have some validity. There is a tale told of Erpalacion...${prompt}
-  6865: Immediately after King Ranperre had quelled the strife within the Kingdom, Erpalacion was sent by the king's orders on an expedition to the Outlands.${prompt}
-  6866: It is widely said that this expedition served no strategic significance, and that King Ranperre merely feared the power of Erpalacion.${prompt}
+    Nous sommes des compagnons loyaux.
+    Pas aussi bien que je le voudrais.${prompt}
+  6858: Excellent. Je n'ai jamais douté de votre succès.${prompt}
+  6859: Je vois... Cependant, si vous continuez à lui donner de l'attention, votre wyverne finira par s'ouvrir à vous. Ils prospèrent grâce à l'affection.${prompt}
+  6860: Sur une note plus sérieuse, les Chevaliers Royaux sont récemment devenus la cible de plusieurs attaques perpétrées par un assaillant inconnu. C'est humiliant pour les défenseurs du Royaume d'être dans cette position en premier lieu, mais la situation est plus grave qu'une simple perte de prestige.${prompt}
+  6861: Il circule une rumeur parmi les chevaliers selon laquelle ces attaques seraient le fait d'Erpalacion, le dernier dragonnier. Cela inquiète les hommes.${prompt}
+  6862: Comme vous le savez sûrement, Erpalacion était le général des chevaliers sous le règne du Roi Ranperre, et le seul dragonnier en existence à l'époque.${prompt}
+  6863: 'Tous les historiens sont d’accord sur ce point : Sans la force d’Erpalacion, de nombreux grands accomplissements auraient été hors de portée pour le Roi Ranperre.${prompt}'
+  6864: Erpalacion a rejoint les rangs des défunts, il n’y a donc aucun moyen qu'il soit responsable de ces attaques. Mais les craintes des chevaliers ont une certaine validité. Il y a une histoire racontée sur Erpalacion...${prompt}
+  6865: Immédiatement après que le Roi Ranperre eut apaisé les troubles au sein du Royaume, Erpalacion fut envoyé par les ordres du roi en expédition dans les Terres Extérieures.${prompt}
+  6866: Il est largement dit que cette expédition n'avait aucune signification stratégique, et que le Roi Ranperre craignait simplement la puissance d'Erpalacion.${prompt}
   6867: |-
     He was never heard from again.
     King Ranperre apparently nodded in satisfaction when hearing the report from the returning soldiers...${prompt}
