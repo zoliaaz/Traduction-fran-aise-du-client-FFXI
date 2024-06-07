@@ -23429,34 +23429,34 @@ entries:
     Oho! It is you!
     It would appear that more and more people are taking an interest in our humble organization.
     Praise be to the winds of fortune!${prompt}
-  10379: 'The ${keyitem-singular: 0[2]} was created through the advanced alchemical techniques of my country. The wildcat''s eyes are designed to flash in the presence of any who entertain thoughts of Aht Urhgan.${prompt}'
+  10379: 'La ${keyitem-singular: 0[2]} a été créée grâce aux techniques alchimiques avancées de mon pays. Les yeux du chat sauvage sont conçus pour briller en présence de quiconque envisage Aht Urhgan.${prompt}'
   10380: |-
-    Aha! My splendid friend!
-    You have spread the fire of fascination through the entire city!
-    Salaheem's Sentinels is the talk of the town!${prompt}
+    Aha ! Mon splendide ami !
+    Tu as propagé le feu de la fascination à travers toute la ville !
+    Les Sentinelles de Salaheem sont le sujet de conversation de la ville !${prompt}
   10381: |-
-    Hm?
-    It appears the eyes of the ${keyitem-singular: 0[2]} have lost their luster. The crystal power source must have been drained after dazzling so many people.
-    Allow me to remove this spent trinket...${prompt}
-  10382: '${color-alt: 15}The ${keyitem-singular: 0[2]} is taken from ${name-player}!${prompt}'
+    Hm ?
+    Il semble que les yeux de la ${keyitem-singular: 0[2]} ont perdu de leur éclat. La source d'énergie cristalline doit avoir été épuisée après avoir ébloui tant de personnes.
+    Permettez-moi de retirer ce bibelot usé...${prompt}
+  10382: '${color-alt: 15}La ${keyitem-singular: 0[2]} est prise à ${name-player} !${prompt}'
   10383: |-
-    In return, I shall award you this bauble.
-    It will come in handy for when you join the ranks of the Aht Urhgan mercenaries!${prompt}
-  10384: 'You obtain ${keyitem-article: 0[2]}!${prompt}'
+    En retour, je vais vous accorder ce bibelot.
+    Il vous sera utile lorsque vous rejoindrez les rangs des mercenaires d'Aht Urhgan !${prompt}
+  10384: 'Vous obtenez ${keyitem-article: 0[2]} !${prompt}'
   10385: |-
-    Your name will shine down through the ages as one of our finest public relations officers. Should you ever brave the seas and find yourself in the Imperial City of Al Zahbi, you simply must visit the offices of Salaheem's Sentinels.
-    I insist!${prompt}
-  10386: Come and celebrate the Doll Festival with us, kupo!${prompt}
+    Votre nom brillera à travers les âges comme l'un de nos meilleurs agents de relations publiques. Si vous bravez un jour les mers et vous retrouvez dans la Cité Impériale d'Al Zahbi, vous devez absolument visiter les bureaux des Sentinelles de Salaheem.
+    J'insiste !${prompt}
+  10386: Venez et célébrez avec nous le Festival des Poupées, kupo !${prompt}
   10387: |-
-    We've got items for everyone!
-    Here you go, kupo!${prompt}
-  10388: Come again and bring your friends! Each of them will also get an item, kupo!${prompt}
-  10389: You can get items only once each day, so come back again tomorrow, kupo!${prompt}
-  10390: 'You obtain ${number: 4} ${item-given-plurality: 4[2], 0[2]}, ${number: 4} ${item-given-plurality: 4[2], 1[2]}, ${number: 4} ${item-given-plurality: 4[2], 2[2]}, and ${number: 4} ${item-given-plurality: 4[2], 3[2]}!${prompt}'
+    Nous avons des objets pour tout le monde !
+    Tenez, kupo !${prompt}
+  10388: Revenez et amenez vos amis ! Chacun d'entre eux recevra également un objet, kupo !${prompt}
+  10389: Vous ne pouvez obtenir des objets qu'une fois par jour, alors revenez demain, kupo !${prompt}
+  10390: 'Vous obtenez ${number: 4} ${item-given-plurality: 4[2], 0[2]}, ${number: 4} ${item-given-plurality: 4[2], 1[2]}, ${number: 4} ${item-given-plurality: 4[2], 2[2]} et ${number: 4} ${item-given-plurality: 4[2], 3[2]} !${prompt}'
   10391: |-
-    Kupopopo～!
-    This is terrible!
-    Sneaky scoundrels have swiped the armor we brought in for the Feast of Swords, kupo!${prompt}
+    Kupopopo～ !
+    C'est terrible !
+    Des scélérats sournois ont volé les armures que nous avions apportées pour la Fête des Épées, kupo !${prompt}
   10392: The villains wearing the armor are invulnerable to normal weapons! And as if that wasn't enough, they're surrounded by a powerful aura that prevents them from being attacked at all, kupo!${prompt}
   10393: |-
     But never fear!
@@ -28948,12 +28948,12 @@ entries:
   13378: |-
     What are you trying to pull, kupo!?
     Give this card to the person it's addressed to, and have them come to a moogle to receive a present!${prompt}
-  13379: One card at a time! I'm confused enough as it is, kupo!${prompt}
-  13380: Hey! You there! Adventurer! Have you ever happened to see a sandworm? You know, gigantic worm, segmented body, lives in the sand?${prompt}
-  13381: Well...hmmm... Oh! Then how about a ladybug? They're distinctive little pests with bright red, semicircular bodies, three distinctive black spots and...${prompt}
+  13379: Une carte à la fois ! Je suis déjà assez confus, kupo !${prompt}
+  13380: Hé ! Toi là-bas ! Aventurier ! As-tu déjà vu un ver des sables ? Tu sais, un ver géant, corps segmenté, vivant dans le sable ?${prompt}
+  13381: Eh bien... hmmm... Oh ! Et que dirais-tu d'une coccinelle ? Ce sont de petits parasites distinctifs avec des corps rouges vifs et semi-circulaires, trois taches noires distinctives et...${prompt}
   13382: |-
-    I apologize, I've gone and totally forgotten my manners! You must excuse me.
-    It's a pleasure to make your acquaintance. I'm Atelloune, assistant to renowned biologist Professor Clauvert B Chanoix.${prompt}
+    Je m'excuse, j'ai complètement oublié mes manières ! Tu dois m'excuser.
+    C'est un plaisir de faire ta connaissance. Je suis Atelloune, l'assistante du célèbre biologiste Professeur Clauvert B Chanoix.${prompt}
   13383: Pour aider à la recherche du professeur, je cherche toutes sortes de spécimens de Quon et de Mindartia dont les effectifs ont diminué ces dernières années.${prompt}
   13384: Je pensais juste qu'un aventurier comme vous avait sûrement vu des créatures rares lors de vos voyages... mais peu importe. Je suis désolé de vous avoir dérangé.${prompt}
   13385: Salutations, aventurier. San d'Oria est reconnaissante pour vos services. Je suis le Valet Royal Esmallegue.${prompt}
@@ -35318,27 +35318,27 @@ entries:
   15527: Take this letter of introduction with you and head to Ranperre Gate in Northern San d'Oria.${prompt}
   15528: To get to Northern San d'Oria, you must first head west of here, then north toward Victory Square.${prompt}
   15529: After reaching Northern San d'Oria, you are to make for Ranperre Gate. Once there, seek out Excenmille--and pray do not affront him in any fashion. The words of a hero such as he carry unmatched weight in this land.${prompt}
-  15530: Do you require an explanation as to what Trust is?${prompt}
+  15530: Avez-vous besoin d'une explication sur ce qu'est la Confiance ?${prompt}
   15531: |-
-    Inquire about what?
+    Vous souhaitez vous renseigner sur quoi ?
     ${selection-lines}
-    What Trust is.
-    What happens when one uses Trust.
-    How to learn new Trust spells.
-    Whereabouts of Trust participants.
-    Nothing at the moment.${prompt}
-  15532: Trust is a new series of magical incantations woven into being by the Jeuno Institute of Magical Studies, announced at our recent symposium.${prompt}
-  15533: Mayhaps the term “incantations” is a trifle misleading. Rather than draw upon aetheric manipulation, Trust taps into the spiritual connection between those bound by ${choice-player-gender}[fraternal/sororal] love.${prompt}
-  15534: To lead you to my explanation's logical conclusion, I'll say this magic can be utilized regardless of its wielder's vocation. Both simple and profitable.${prompt}
-  15535: As the technique is reliant upon the connection between two souls, interference by a profusion of souls, such as in cities, renders the technique unusable.${prompt}
-  15536: Using Trust magic enables the caster to call forth alter egos of those with whom ${choice-player-gender}[he/she] has formed bonds of friendship and trust.${prompt}
-  15537: As this technique utilizes the resonance between two kindred spirits, the alter ego which manifests always matches the caster, be they weak or strong.${prompt}
-  15538: Journeys are much more satisfying when you have a companion, don't you think? The alter ego you summon will fight bravely by your side, but you will be unable to present them with detailed tactical orders.${prompt}
-  15539: If you wish to return the alter ego from whence it came, you only need speak to it and express your desire. A bittersweet moment, to be sure.${prompt}
-  15540: Alter egos suffer wounds just like you and I, and if one falls in battle, it will wink out of existence. To watch one so dear fade away...it brings a tear to your eye, does it not?${prompt}
-  15541: Yet fret not, my disciple! After just a short while you will be able to bring it back to the world once more. Your sadness will be but whispers on the wind.${prompt}
-  15542: Bringing forth an alter ego is not a simple process. You must first forge intangible bonds with those whose aid you wish to enlist.${prompt}
-  15543: Carefully cultivate trust and respect between yourself and a practitioner, as this technique cannot work unless the bonds between you be surer than steel.${prompt}
+    Ce qu'est la Confiance.
+    Ce qui se passe lorsqu'on utilise la Confiance.
+    Comment apprendre de nouveaux sorts de Confiance.
+    Où se trouvent les participants à la Confiance.
+    Rien pour le moment.${prompt}
+  15532: La Confiance est une nouvelle série d'incantations magiques tissées en existence par l'Institut d'Études Magiques de Jeuno, annoncée lors de notre récent symposium.${prompt}
+  15533: Peut-être que le terme "incantations" est un peu trompeur. Plutôt que de s'appuyer sur la manipulation éthérique, la Confiance puise dans la connexion spirituelle entre ceux liés par un amour ${choice-player-gender}[fraternel/sororal].${prompt}
+  15534: Pour vous amener à la conclusion logique de mon explication, je dirai que cette magie peut être utilisée quelle que soit la vocation de son utilisateur. Simple et profitable à la fois.${prompt}
+  15535: Comme la technique dépend de la connexion entre deux âmes, toute interférence par une multitude d'âmes, comme dans les villes, rend la technique inutilisable.${prompt}
+  15536: L'utilisation de la magie de Confiance permet au lanceur d'appeler des alter ego de ceux avec qui ${choice-player-gender}[il/elle] a formé des liens d'amitié et de confiance.${prompt}
+  15537: Comme cette technique utilise la résonance entre deux esprits apparentés, l'alter ego qui se manifeste correspond toujours au lanceur, qu'il soit faible ou fort.${prompt}
+  15538: Les voyages sont bien plus satisfaisants lorsque vous avez un compagnon, n'est-ce pas ? L'alter ego que vous invoquez se battra bravement à vos côtés, mais vous ne pourrez pas lui donner d'ordres tactiques détaillés.${prompt} 
+  15539: Si vous souhaitez renvoyer l'alter ego d'où il vient, il vous suffit de lui parler et d'exprimer votre désir. Un moment doux-amer, à n'en pas douter.${prompt}
+  15540: Les alter ego subissent des blessures comme vous et moi, et s'ils tombent au combat, ils disparaîtront. Voir quelqu'un de si cher s'estomper... cela vous tire une larme, n'est-ce pas ?${prompt}
+  15541: Mais ne vous inquiétez pas, mon disciple ! Après un court laps de temps, vous pourrez le ramener dans le monde une fois de plus. Votre tristesse ne sera plus que des chuchotements sur le vent.${prompt}
+  15542: Faire apparaître un alter ego n'est pas un processus simple. Vous devez d'abord forger des liens intangibles avec ceux dont vous souhaitez obtenir l'aide.${prompt}
+  15543: Cultivez soigneusement la confiance et le respect entre vous et un praticien, car cette technique ne peut fonctionner que si les liens entre vous sont aussi solides que l'acier.${prompt}
   15544: Know you the adage “opposites attract”? Assuredly, such is not the case here. Storied personages have little time for those whose deeds are not sung as widely as their own.${prompt}
   15545: But all I have just told you can be circumvented, as research into new methods of calling forth alter egos has been ongoing. It is possible to summon one without having so much as met the person.${prompt}
   15546: As you can imagine, this requires a bit of tinkering with the aether, but it is indeed possible. All I require is the appropriate scroll.${prompt}
@@ -37236,44 +37236,44 @@ entries:
   16663: '${color-alt: 200}RANDOM (${choice: 0}[Bonus Game Selection/Four Corners Selection]): 0-${number: 1} = ${number: 2}'
   16664: '${color-alt: 200}DEBUG (Specific Placement Confirmation ${number: 3}): Area ${number: 0} > ${choice: 1}[A/B/C/D/E/F/G/H]${number: 2}'
   16665: '${color-alt: 200}${number: 0} ${number: 1} ${number: 2} ${number: 3}'
-  16666: This is an explanation of the Assist Channel feature, which allows new and returning players to seek help from veteran adventurers.${prompt}
-  16667: 'You must take on the “${unknown: 0x01054082808080}” Records of Eminence objective before receiving the explanation.${prompt}'
-  16668: 'You must complete “${unknown: 0x01054082818080}” before taking on the “${unknown: 0x01054082808080}” Records of Eminence objective.${prompt}'
+  16666: Ceci est une explication de la fonctionnalité du Canal d'Assistance, qui permet aux nouveaux et anciens joueurs de demander de l'aide aux aventuriers expérimentés.${prompt}
+  16667: 'Vous devez entreprendre l’objectif “${unknown: 0x01054082808080}” des Registres de l’Éminence avant de recevoir l’explication.${prompt}'
+  16668: 'Vous devez terminer “${unknown: 0x01054082818080}” avant de prendre en charge l’objectif “${unknown: 0x01054082808080}” des Registres de l’Éminence.${prompt}'
   16669: |-
-    What do you want to learn about?
+    Que souhaitez-vous apprendre ?
     ${selection-lines}
-    What is the Assist Channel?
-    How can I post a message?
-    What are the requirements?
-    Where can I access it?
-    Tell me about mentor messages.
-    Where can I find mentors?
-    What are Thumbs Up and Warnings?
-    What happens if I am muted?
-    When do my posting rights expire?
-    Nothing for now.${prompt}
-  16670: The Assist Channel is a special chat channel that allows adventurers to ask questions and receive advice from veteran players known as mentors.${prompt}
-  16671: Press the space bar to bring up the text window at the bottom of the screen and type “/assistj (your message)” or “/assiste (your message)” to post your message.${prompt}
-  16672: You can also use “/aj” for “/assistj”, and “/ae” for “/assiste”.${prompt}
-  16673: Additionally, pressing CTRL+Q will display “/assistj” or “/assiste” in the text window for you.${prompt}
-  16674: You can change the CTRL+Q shortcut command...${prompt}
-  16675: '...by going to Main Menu > Config > Misc. 2 > Key Assignment > Commands > Chat: /AssistE or /AssistJ.${prompt}'
-  16676: It is recommended that you use “/assistj (/aj)” when posting in Japanese, and “/assiste (/ae)” when posting in English.${prompt}
-  16677: You must meet one of the following conditions in order to post to the Assist Channel.${prompt}
+    Qu'est-ce que le Canal d'Assistance ?
+    Comment puis-je poster un message ?
+    Quels sont les prérequis ?
+    Où puis-je y accéder ?
+    Parlez-moi des messages de mentor.
+    Où puis-je trouver des mentors ?
+    Quels sont les Pouce en l'air et les Avertissements ?
+    Que se passe-t-il si je suis réduit au silence ?
+    Quand mes droits de publication expirent-ils ?
+    Rien pour le moment.${prompt}
+  16670: Le Canal d'Assistance est un canal de discussion spécial qui permet aux aventuriers de poser des questions et de recevoir des conseils de joueurs expérimentés appelés mentors.${prompt}
+  16671: Appuyez sur la barre d'espace pour ouvrir la fenêtre de texte en bas de l'écran et tapez "/assistj (votre message)" ou "/assiste (votre message)" pour publier votre message.${prompt}
+  16672: Vous pouvez également utiliser "/aj" pour "/assistj" et "/ae" pour "/assiste".${prompt}
+  16673: De plus, appuyer sur CTRL+Q affichera "/assistj" ou "/assiste" dans la fenêtre de texte pour vous.${prompt}
+  16674: Vous pouvez changer la commande de raccourci CTRL+Q...${prompt}
+  16675: '...en allant dans Menu Principal > Config > Divers 2 > Attribution de touches > Commandes > Chat : /AssistE ou /AssistJ.${prompt}'
+  16676: Il est recommandé d'utiliser "/assistj (/aj)" lorsque vous publiez en japonais et "/assiste (/ae)" lorsque vous publiez en anglais.${prompt}
+  16677: Vous devez remplir l'une des conditions suivantes pour publier dans le Canal d'Assistance.${prompt}
   16678: |-
-    1. You are a new player
-    You may post messages from the moment you first set foot in Vana'diel.${prompt}
+    1. Vous êtes un nouveau joueur
+    Vous pouvez publier des messages dès votre première arrivée à Vana'diel.${prompt}
   16679: |-
-    2. You are a returnee
-    As a returning player, you may post messages upon logging in with a character that has not logged in for at least 48 days.${prompt}
+    2. Vous êtes un revenant
+    En tant que joueur revenant, vous pouvez publier des messages dès votre connexion avec un personnage qui n'a pas été connecté depuis au moins 48 jours.${prompt}
   16680: |-
-    3. You are a mentor
-    You may post messages as long as you remain a mentor to other players.${prompt}
-  16681: New players and returnees may post messages until they have been logged in for a total of 48 hours since first receiving their posting rights.${prompt}
-  16682: If you wish to check how long you can continue to post for, speak to an ${name-npc} and choose "When do my posting rights expire?" to see how much time you have left.${prompt}
-  16683: The Assist Channel can only be used in the following areas.${prompt}
+    3. Vous êtes un mentor
+    Vous pouvez publier des messages tant que vous restez un mentor pour d'autres joueurs.${prompt}
+  16681: Les nouveaux joueurs et les revenants peuvent publier des messages jusqu'à ce qu'ils aient été connectés pendant un total de 48 heures depuis la réception de leurs droits de publication.${prompt}
+  16682: Si vous souhaitez vérifier pendant combien de temps vous pouvez continuer à publier, parlez à un ${name-npc} et choisissez "Quand mes droits de publication expirent-ils ?" pour voir combien de temps il vous reste.${prompt}
+  16683: Le Canal d'Assistance ne peut être utilisé que dans les zones suivantes.${prompt}
   16684: |-
-    Available areas:
+    Zones disponibles:
     ${unknown: 0x01053782F38180}, ${unknown: 0x01053782F48180},
     ${unknown: 0x01053782F58180}, ${unknown: 0x01053782F68180},
     ${unknown: 0x01053782E68180}, ${unknown: 0x01053782E78180}...${prompt}
@@ -37290,47 +37290,47 @@ entries:
   16687: |-
     ...${unknown: 0x01053782818280}, ${unknown: 0x010537829A8080},
     ${unknown: 0x01053782C68080}, and your Mog House (Rent-a-Room).${prompt}
-  16688: You cannot post or read messages outside of the areas listed above.${prompt}
+  16688: Vous ne pouvez ni publier ni lire de messages en dehors des zones mentionnées ci-dessus.${prompt}
   16689: |-
-    Even in areas where messages are allowed, you cannot post consecutive messages.
-    Please wait a while after posting a message.${prompt}
+    Même dans les zones où les messages sont autorisés, vous ne pouvez pas publier de messages consécutifs.
+    Veuillez attendre un moment après avoir publié un message.${prompt}
   16690: |-
-    Mentor messages are accompanied by a flag (${icon: 0xEFEF}/) marker.
-    This marker indicates the mentor's reliability (Mentor Class) and experience as an adventurer (Mastery Rank).${prompt}
-  16691: 'As a mentor''s Mentor Class increases, the color and shape of the marker will change: ${icon: 0xEFEF}/ > ${icon: 0xEFEF}9 > ${icon: 0xEFEF}C${prompt}'
-  16692: 'A ${icon: 0xEFEF}C marker is a sign that the mentor has earned the highest levels of trust from other adventurers.${prompt}'
-  16693: The number affixed to the marker is the mentor's Mastery Rank, and indicates how experienced the mentor is as an adventurer.${prompt}
-  16694: The higher the number, the more experienced the mentor is.${prompt}
-  16695: You can check your own Mastery Rank even if you do not serve as a mentor, so feel free to take a look every now and then if you are curious.${prompt}
-  16696: You can check your Mastery Rank by going to Main Menu > Status > Profile.${prompt}
-  16697: If you wish to speak directly to a mentor, you can search for mentors by going to Main Menu > Help Desk > Mentor Search.${prompt}
-  16698: The “Thumbs Up” feature enables you to let mentors know when their comments proved to be especially helpful.${prompt}
-  16699: Mentors who earn lots of “Thumbs Up” replies from other adventurers will see their Mentor Class increase.${prompt}
-  16700: Remember to give a “Thumbs Up” to any mentor you feel helped you out or taught you something useful.${prompt}
-  16701: A “Warning” is a feature that can only be used by mentors.${prompt}
-  16702: Please use this feature when a post's contents are insufficient or otherwise may be construed as harassment.${prompt}
-  16703: To send a “Thumbs Up” or “Warning” to another player, open the Chat Log Window and move the cursor over the relevant message and press the confirm button (Enter key) to bring up the evaluation menu.${prompt}
-  16704: Evaluations can be made for 10 minutes following the designated player's latest post to the Assist Channel.${prompt}
-  16705: You may send up to one “Thumbs Up” and one “Warning” per day (Earth time).${prompt}
-  16706: The “Mute” feature places restrictions on your ability to post, meaning that other players will be unable to see the messages you post to the Assist Channel.${prompt}
-  16707: Please refrain from posting unsuitable content so that the veteran adventurers are not forced to mute you.${prompt}
-  16708: Mute status can be removed by players that have the necessary Mute List access rights, or it will be removed automatically 24 hours (Earth time) after the mute status was enabled.${prompt}
-  16709: You are free to post messages to the Assist Channel until you decide to stop serving as a mentor.${prompt}
+    Les messages des mentors sont accompagnés d'un marqueur de drapeau (${icon: 0xEFEF}${icon: 0xEF2F}).
+    Ce marqueur indique la fiabilité du mentor (Classe de Mentor) et son expérience en tant qu'aventurier (Rang de Maîtrise).${prompt}
+  16691: "Au fur et à mesure que la Classe de Mentor du mentor augmente, la couleur et la forme du marqueur changeront : ${icon: 0xEFEF}${icon: 0xEF2F} > ${icon: 0xEFEF}${icon: 0xEF39} > ${icon: 0xEFEF}${icon: 0xEF43}${prompt}"
+  16692: "Un marqueur ${icon: 0xEFEF}${icon: 0xEF43} est un signe que le mentor a gagné les niveaux de confiance les plus élevés des autres aventuriers.${prompt}"
+  16693: Le numéro apposé sur le marqueur est le Rang de Maîtrise du mentor et indique son expérience en tant qu'aventurier.${prompt}
+  16694: Plus le nombre est élevé, plus le mentor est expérimenté.${prompt}
+  16695: Vous pouvez vérifier votre propre Rang de Maîtrise même si vous ne servez pas de mentor, alors n'hésitez pas à jeter un coup d'œil de temps en temps si vous êtes curieux.${prompt}
+  16696: Vous pouvez vérifier votre Rang de Maîtrise en allant dans Menu Principal > État > Profil.${prompt}
+  16697: Si vous souhaitez parler directement à un mentor, vous pouvez rechercher des mentors en allant dans Menu Principal > Bureau d'Aide > Recherche de Mentor.${prompt}
+  16698: La fonctionnalité "Pouce en l'air" vous permet de faire savoir aux mentors lorsque leurs commentaires se sont révélés particulièrement utiles.${prompt}
+  16699: Les mentors qui reçoivent beaucoup de réponses "Pouce en l'air" de la part d'autres aventuriers verront leur Classe de Mentor augmenter.${prompt}
+  16700: N'oubliez pas de donner un "Pouce en l'air" à tout mentor que vous estimez vous avoir aidé ou vous avoir appris quelque chose de utile.${prompt}
+  16701: Un "Avertissement" est une fonctionnalité qui ne peut être utilisée que par les mentors.${prompt}
+  16702: Veuillez utiliser cette fonctionnalité lorsque le contenu d'un message est insuffisant ou pourrait être interprété comme du harcèlement.${prompt}
+  16703: Pour envoyer un "Pouce en l'air" ou un "Avertissement" à un autre joueur, ouvrez la fenêtre du Journal de Chat et déplacez le curseur sur le message concerné, puis appuyez sur le bouton de confirmation (touche Entrée) pour afficher le menu d'évaluation.${prompt}
+  16704: Les évaluations peuvent être effectuées pendant 10 minutes après le dernier message du joueur désigné dans le Canal d'Assistance.${prompt}
+  16705: Vous pouvez envoyer jusqu'à un "Pouce en l'air" et un "Avertissement" par jour (heure terrestre).${prompt}
+  16706: La fonction "Muet" place des restrictions sur votre capacité à publier, ce qui signifie que les autres joueurs ne pourront pas voir les messages que vous publiez dans le Canal d'Assistance.${prompt}
+  16707: Veuillez vous abstenir de publier des contenus inappropriés afin que les aventuriers expérimentés ne soient pas obligés de vous réduire au silence.${prompt}
+  16708: Le statut de Muet peut être levé par les joueurs ayant les droits d'accès nécessaires à la Liste de Muet, ou il sera automatiquement levé 24 heures (heure terrestre) après l'activation du statut de muet.${prompt}
+  16709: Vous êtes libre de publier des messages dans le Canal d'Assistance jusqu'à ce que vous décidiez de cesser de servir en tant que mentor.${prompt}
   16710: |-
-    You may post messages to the Assist Channel until ${ts-hour: 0}:${ts-minute: 0} on ${ts-month: 0}/${ts-day: 0}/${ts-year: 0}.
-    (Time remaining: Approx. ${number: 1} ${choice: 2}[sec./min./hr.])${prompt}
-  16711: If you log out while you still have time available, your remaining time will be carried over to the next time you log in.${prompt}
-  16712: You are about to lose the ability to post messages to the Assist Channel.${prompt}
-  16713: You are unable to post messages to the Assist Channel.${prompt}
-  16714: 'Take on the “${unknown: 0x01054082808080}” Records of Eminence objective from the Tutorial section of the Records of Eminence Menu and speak to the A.M.A.N. liaison.${prompt}'
-  16715: 'Good day, adventurer! I am able to repair any broken item data related to ${item-plural: 0[2]}.${prompt}'
-  16716: 'If you are unable to deliver ${article} ${item-article: 0[2]}, it''s possible that the item data has been corrupted.${prompt}'
-  16717: 'Please trade your ${item-singular: 0[2]} to me so that I may fix it.${prompt}'
-  16718: 'I have confirmed that the item data for your ${item-singular: 0[2]} has been corrupted. We apologize for the inconvenience.${prompt}'
-  16719: I have restored it to its intended functionality. Here you are!${prompt}
-  16720: It appears that your item is working as intended.${prompt}
-  16721: An error has occurred. Please try again later.
-  16722: Here you can play the game Mandragora Mania.
+    Vous pouvez publier des messages dans le Canal d'Assistance jusqu'à ${ts-hour: 0}:${ts-minute: 0} le ${ts-month: 0}/${ts-day: 0}/${ts-year: 0}.
+    (Temps restant : Environ ${number: 1} ${choice: 2}[sec./min./hr.])${prompt}
+  16711: Si vous vous déconnectez alors qu'il vous reste du temps disponible, le temps restant sera reporté à la prochaine fois où vous vous connecterez.${prompt}
+  16712: Vous êtes sur le point de perdre la possibilité de publier des messages dans le Canal d'Assistance.${prompt}
+  16713: Vous ne pouvez pas publier de messages dans le Canal d'Assistance.${prompt}
+  16714: 'Prenez l’objectif “${unknown: 0x01054082808080}” des Registres de l’Éminence depuis la section Tutoriel du Menu des Registres de l’Éminence et parlez au lien A.M.A.N.${prompt}'
+  16715: 'Bonjour, aventurier ! Je suis en mesure de réparer toute donnée d’objet endommagée liée à ${item-plural: 0[2]}.${prompt}'
+  16716: "Si vous n’êtes pas en mesure de livrer ${article} ${item-article: 0[2]}, il est possible que les données de l’objet aient été corrompues.${prompt}"
+  16717: 'Veuillez me donner vos ${item-singular: 0[2]} afin que je puisse les réparer.${prompt}'
+  16718: 'Je confirme que les données de l’objet pour vos ${item-singular: 0[2]} ont été corrompues. Nous nous excusons pour le désagrément.${prompt}'
+  16719: J’ai restauré son fonctionnement tel qu’il était prévu. Voici !${prompt}
+  16720: Il semble que votre objet fonctionne comme prévu.${prompt}
+  16721: Une erreur s’est produite. Veuillez réessayer plus tard.
+  16722: Ici, vous pouvez jouer au jeu Mandragora Mania.
   16723: |-
     Do which? (${number: 1} jingly)
     ${selection-lines}
