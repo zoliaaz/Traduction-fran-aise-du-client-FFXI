@@ -18653,35 +18653,35 @@ entries:
   7735: 'You discover a cache of beastman confederate resources and receive ${number: 0} allied note${choice-plurality: 0}[/s]!${prompt}'
   7736: 'You receive ${number: 0} bayld!${prompt}'
   7737: 'Your chocobo refuses to partake of the ${item-singular: 0[2]}.${prompt}'
-  7738: You got it yet?${prompt}
-  7739: Me looking for it with crystal dowser, but no find.${prompt}
-  7740: Oh well, let's charge this ammo and attach to battle machine.${prompt}
-  7741: If this worked in Great War, we no lose...${prompt}
-  7742: Who there!?${prompt}
-  7743: Then it is true...${prompt}
-  7744: The Orcs are using this portal to gather energy and enhance the power of their weapons.${prompt}
+  7738: Vous l'avez déjà ?
+  7739: Je le cherche avec le baguette de cristal, mais je ne trouve rien.
+  7740: Tant pis, rechargeons ces munitions et attachons-les à la machine de guerre.
+  7741: Si cela avait fonctionné pendant la Grande Guerre, nous n'aurions pas perdu...
+  7742: Qui est là !?
+  7743: Alors c'est vrai...
+  7744: Les Orcs utilisent ce portail pour rassembler de l'énergie et augmenter la puissance de leurs armes.
   7745: |-
-    This may explain the explosion that led to the destruction of Tavnazia.
-    Using the energy in its unstable form obviously has its consequences...${prompt}
+    Cela pourrait expliquer l'explosion qui a conduit à la destruction de Tavnazia.
+    Utiliser l'énergie sous sa forme instable a évidemment ses conséquences...${prompt}
   7746: |-
-    I apologize.
-    My name is Eideialc.
-    I am an adventurer like yourself.
-    I am on a mission for San d'Oria.${prompt}
+    Je m'excuse.
+    Je m'appelle Eideialc.
+    Je suis un aventurier comme vous.
+    Je suis en mission pour San d'Oria.${prompt}
   7747: |-
-    From what it looks like, the Orcs are also searching for Lightbringer.
-    And they seem to have some special way of locating it.
-    If we don't find it before they do...${prompt}
-  7748: I applaud you on your resourcefulness. Pretty good for a mere adventurer.${prompt}
-  7749: Who are you!?${prompt}
-  7750: The Orcs' crystal dowser is a nice piece of equipment. I use it myself.${prompt}
+    D'après ce que je vois, les Orcs recherchent aussi Lightbringer.
+    Et ils semblent avoir une méthode spéciale pour le localiser.
+    Si nous ne le trouvons pas avant eux...${prompt}
+  7748: Je vous félicite pour votre ingéniosité. Plutôt bien pour un simple aventurier.${prompt}
+  7749: Qui êtes-vous !?${prompt}
+  7750: La baguette de cristal des Orcs est un bel équipement. Je l'utilise moi-même.${prompt}
   7751: |-
-    It'd be a good idea to stop those Orcs from using the magic portal.
-    Who knows what would happen if you didn't?${prompt}
+    Ce serait une bonne idée d'empêcher ces Orcs d'utiliser le portail magique.
+    Qui sait ce qui pourrait arriver si vous ne le faisiez pas ?${prompt}
   7752: |-
-    However, there is more to this than meets the eye.
-    I wish you luck.${prompt}
-  7753: Wait! Why are you...?${prompt}
+    Cependant, il y a plus que ce que l'on voit.
+    Je vous souhaite bonne chance.${prompt}
+  7753: Attendez ! Pourquoi êtes-vous...?${prompt}
   7754: |-
     Let us pray for the safety of us both.
     I hope to see you again soon...${prompt}
