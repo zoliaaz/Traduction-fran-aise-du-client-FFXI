@@ -25301,50 +25301,50 @@ entries:
     Match begins:
     Vana'diel: ${vanatime: 0}
     Earth: ${earthtime: 0}${prompt}
-  12125: I'm a traveling Moogle, always on the road... In search of the secrets of true strength, kupo.${prompt}
-  12126: And this time I think I might have found one. That's why I'm visiting Maat to see what he thinks, kupo.${prompt}
-  12127: I could fill you in on the details, but you don't look like you'd understand what I have to say. Come back when you think you've got some more seasoning under your belt, kupo...${prompt}
+  12125: Je suis un Mog voyageur, toujours sur la route... À la recherche des secrets de la véritable force, kupo.${prompt}
+  12126: Et cette fois-ci, je pense que j'ai peut-être trouvé quelque chose. C'est pourquoi je rends visite à Maat pour voir ce qu'il en pense, kupo.${prompt}
+  12127: Je pourrais te donner les détails, mais tu ne sembles pas être à même de comprendre ce que j'ai à dire. Reviens quand tu auras un peu plus d'expérience sous la ceinture, kupo...${prompt}
   12128: |-
-    I've discovered a way to increase the potential of those who have reached their “limits.” However, I haven't found anyone to pass that method on to, kupo.
-    Hey, you look pretty tough. How would you like to be my guinea...errr, assistant?${prompt}
+    J'ai découvert un moyen d'augmenter le potentiel de ceux qui ont atteint leurs “limites.” Cependant, je n'ai trouvé personne à qui transmettre cette méthode, kupo.
+    Hé, tu as l'air plutôt costaud. Que dirais-tu d'être mon cobaye... euh, assistant ?${prompt}
   12129: |-
-    Wait a minute! I remember you!
-    I already filled you in on the secrets of the Moogle Merit Management system, kupo! Stop wasting your time here; get fighting, kupo!${prompt}
+    Attends une minute ! Je me souviens de toi !
+    Je t'ai déjà expliqué les secrets du système de gestion des mérites Moogle, kupo ! Arrête de perdre ton temps ici ; va combattre, kupo !${prompt}
   12130: |-
-    Become his “assistant”?
+    Devenir son “assistant” ?
     ${selection-lines}
-    Let's do it!
-    No way!
-    Tell me more...${prompt}
+    Allons-y !
+    Pas question !
+    Dis-moi-en plus...${prompt}
   12131: |-
     Excellent, kupo...
-    Ahem! I shall now pass on to you the secrets of the “Moogle Merit Management” system. Use this legendary method to extend your limits. Watch as your strength soars beyond the stars, kupo!${prompt}
-  12132: Now, when the level of your main job has reached 75 or higher, a new button, “Merit Points,” will appear under “Status” in the main menu.${prompt}
-  12133: Press this button to change experience accumulation modes as well as adjust skills and attributes. Just remember, you can only adjust your attributes while in your Mog House or Mog Garden, kupo!${prompt}
-  12134: ${name-npc} casts a strange spell on you...${prompt}
+    Hem ! Je vais maintenant te transmettre les secrets du système de gestion des “mérites Moogle.” Utilise cette méthode légendaire pour repousser tes limites. Regarde comment ta force s'envole au-delà des étoiles, kupo !${prompt}
+  12132: Maintenant, lorsque le niveau de ton job principal atteint 75 ou plus, un nouveau bouton, “Points de Mérite,” apparaîtra sous “Statut” dans le menu principal.${prompt}
+  12133: Appuie sur ce bouton pour changer les modes d'accumulation d'expérience ainsi que pour ajuster les compétences et les attributs. Souviens-toi juste que tu ne peux ajuster tes attributs que dans ta Maison Mog ou ton Jardin Mog, kupo !${prompt}
+  12134: ${name-npc} te lance un étrange sort...${prompt}
   12135: |-
-    Hmmm... That didn't work, kupo...
-    I guess I still have some research to do. We'll have to put the experiment on hold for a while.${prompt}
+    Hmmm... Ça n'a pas fonctionné, kupo...
+    Je suppose que j'ai encore des recherches à faire. Nous devrons mettre l'expérience en attente pendant un moment, kupo.${prompt}
   12136: |-
-    Huh? What good is an adventurer that's not willing to take on a little adventure?
-    Well, come back to me if you ever change your mind, kupo...${prompt}
+    Hein ? À quoi sert un aventurier qui n'est pas prêt à se lancer dans un petit périple ?
+    Eh bien, reviens vers moi si jamais tu changes d'avis, kupo...${prompt}
   12137: |-
-    Been working hard, or hardly working, kupo?
-    Remember that by pressing the “Merit Points” button in the “Status” menu, you can check merit point totals, change experience accumulation modes, and adjust skills and attributes.${prompt}
+    Tu as travaillé dur, ou tu es à peine en train de travailler, kupo ?
+    N'oublie pas qu'en appuyant sur le bouton “Points de Mérite” dans le menu “Statut”, tu peux vérifier le total des points de mérite, changer les modes d'accumulation d'expérience et ajuster les compétences et les attributs.${prompt}
   12138: |-
-    Oho, kupo! Or perhaps you're looking to transcend your limits?
-    Because that could also be arranged...${prompt}
+    Hoho, kupo ! Ou peut-être cherches-tu à transcender tes limites ?
+    Parce que ça pourrait aussi être arrangé...${prompt}
   12139: |-
-    Ask about merit points?
+    Demander à propos des points de mérite ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
+    Oui.
+    Non.${prompt}
   12140: |-
-    What will you ask about?
+    Que veux-tu demander ?
     ${selection-lines}
-    Exceeding your limits.
-    Merit points.
-    Nothing.${prompt}
+    Dépasser tes limites.
+    Points de mérite.
+    Rien.${prompt}
   12141: Eh bien, si jamais vous avez besoin d'un rappel, vous savez où me trouver, kupo !${prompt}
   12142: Ou peut-être avez-vous enfin rassemblé le courage de conquérir vos limites intérieures, kupo ?${prompt}
   12143: |-
