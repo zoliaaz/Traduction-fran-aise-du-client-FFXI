@@ -26969,34 +26969,34 @@ entries:
   13213: |-
     I heard that going to a dark, scary dungeon is the best way to test your courage.
     This place definitely qualifies, kupo!${prompt}
-  13214: Maybe I'm doing something wrong, kupo?${prompt}
-  13215: If it gets out that I haven't scared the wits out of a single person yet, I'm going to get into trouble, kupo...${prompt}
-  13216: Unable to enter next area. Expansion pack not installed.${prompt}
-  13217: The IRNC has dispatched me to help support all those who wish to participate in Conflict.${prompt}
-  13218: 'Before you can take part in this Conflict event, you must first possess ${keyitem-article: 0[2]}. You can obtain one from your nation''s Conflict Commander, ${choice: 1}[Excenmille, stationed in Northern San d''Oria./Invincible Shield, stationed in the Metalworks in Bastok./Mhabi Molkot, stationed in Heavens Tower in Windurst.]${prompt}'
-  13219: Only adventurers who have achieved rank 3 or higher may take part in official Ballista matches. Please return when you have proven your loyalty to your home nation.${prompt}
-  13220: However, if you still wish to take part in Ballista, participation in matches held within Diorama Abdhaljs-Ghelsba is open to all citizens of Vana'diel.${prompt}
-  13221: What services do you require?${prompt}
+  13214: Peut-être que je fais quelque chose de mal, kupo?${prompt}
+  13215: Si on découvre que je n'ai encore effrayé personne, je vais avoir des ennuis, kupo...${prompt}
+  13216: Impossible d'entrer dans la zone suivante. Extension non installée.${prompt}
+  13217: L'IRNC m'a envoyé pour aider tous ceux qui souhaitent participer à Conflit.${prompt}
+  13218: 'Avant de pouvoir participer à cet événement Conflit, vous devez d’abord posséder ${keyitem-article: 0[2]}. Vous pouvez en obtenir un auprès du Commandant Conflit de votre nation, ${choice: 1}[Excenmille, stationné à San d''Oria Nord./Invincible Shield, stationné aux Métallurgies à Bastok./Mhabi Molkot, stationné à la Tour des Cieux à Windurst.]${prompt}'
+  13219: Seuls les aventuriers ayant atteint le rang 3 ou supérieur peuvent participer aux matchs officiels de Ballista. Revenez lorsque vous aurez prouvé votre loyauté envers votre nation.${prompt}
+  13220: Cependant, si vous souhaitez toujours participer à Ballista, la participation aux matchs organisés dans le Diorama Abdhaljs-Ghelsba est ouverte à tous les citoyens de Vana'diel.${prompt}
+  13221: Quels services désirez-vous?${prompt}
   13222: |-
-    What can I help you with?
+    Que puis-je faire pour vous?
     ${selection-lines}
-    Nothing.
-    The upcoming Ballista matches.
-    The Ballista schedule.
-    A teleport to the Ballista match.
-    The rules of Ballista.
-    Borrow/Return ${keyitem-article: 0[2]}.
-    Borrow/Return ${keyitem-article: 1[2]}.
-    Borrow/Return ${keyitem-article: 2[2]}.
-    The upcoming Brenner matches.
-    A teleport to the Brenner match (Lv ${number: 7}).
-    The rules of Brenner.
-    Borrow/Return ${keyitem-article: 3[2]}.
-    Borrow/Return ${keyitem-article: 4[2]}.${prompt}
-  13223: 'I am allowed to teleport Ballista participants to the site of the next match in exchange for ${keyitem-article: 0[2]} or ${number: 1} Ballista ${choice-plurality: 1}[Point/Points]. This service is available from twenty-four hours before the start of the match, up until the end of the match.${prompt}'
-  13224: '${lettercase: 1}${keyitem-article: 0[2]} can be received after participating in Ballista, or in the event one is not able to participate due to an influx (or lack) of entries.${prompt}'
-  13225: I'm sorry, but I am not authorized to teleport persons who do not meet the level requirement for the match.${prompt}
-  13226: The following information regards the match I am currently authorized to teleport you to...${prompt}
+    Rien.
+    Les prochains matchs de Ballista.
+    Le calendrier de Ballista.
+    Une téléportation au match de Ballista.
+    Les règles de Ballista.
+    Emprunter/Rendre ${keyitem-article: 0[2]}.
+    Emprunter/Rendre ${keyitem-article: 1[2]}.
+    Emprunter/Rendre ${keyitem-article: 2[2]}.
+    Les prochains matchs de Brenner.
+    Une téléportation au match de Brenner (Niv ${number: 7}).
+    Les règles de Brenner.
+    Emprunter/Rendre ${keyitem-article: 3[2]}.
+    Emprunter/Rendre ${keyitem-article: 4[2]}.${prompt}
+  13223: 'Je suis autorisé à téléporter les participants de Ballista vers le site du prochain match en échange de ${keyitem-article: 0[2]} ou ${number: 1} Point${choice-plurality: 1} de Ballista. Ce service est disponible vingt-quatre heures avant le début du match, jusqu’à la fin du match.${prompt}'
+  13224: '${lettercase: 1}${keyitem-article: 0[2]} peut être reçu après avoir participé à Ballista, ou dans le cas où l’on ne peut pas participer en raison d’un afflux (ou d’un manque) d’inscriptions.${prompt}'
+  13225: Je suis désolé, mais je ne suis pas autorisé à téléporter des personnes ne répondant pas aux exigences de niveau pour le match.${prompt}
+  13226: Les informations suivantes concernent le match pour lequel je suis actuellement autorisé à vous téléporter...${prompt}
   13227: |-
     Teleport?
     ${selection-lines}
