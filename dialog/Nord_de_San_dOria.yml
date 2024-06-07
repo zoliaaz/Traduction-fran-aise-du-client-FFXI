@@ -25878,84 +25878,84 @@ entries:
   12661: Pour éviter qu'ils ne tuent le wyverne alors qu'il est encore jeune, nous devons atteindre l'œuf avant eux.${prompt}
   12662: Le Docteur Oiheaurese a dit qu'un œuf de wyverne a été pondu au fond du Labyrinthe de Shakhrami. Cela pourrait-il être vrai ?${prompt}
   12663: |-
-    Ah, it is you.
-    I am sorry to inform you that Doctor Oiheaurese is not available at the moment. Perhaps he has taken ill. His work keeps him up late into the evening.${prompt}
-  12664: Do you have business with the doctor? Well, he is currently away from the cathedral.${prompt}
-  12665: And who might you be? I have not seen you around here before.${prompt}
-  12666: My name is Yachemidot. I am what you would call a student of Doctor Oiheaurese.${prompt}
-  12667: That egg? Is that really from a wyvern?${prompt}
-  12668: How would you like to try hatching that egg? The doctor has told me that it would be dangerous, but I would like to give it a try. Any true scientist would feel the same way.${prompt}
-  12669: And I just happen to know how to do it. Are you willing to help? You want to see it hatch too, don't you?${prompt}
+    Ah, c'est vous.
+    Je suis désolé de vous informer que le Docteur Oiheaurese n'est pas disponible en ce moment. Peut-être qu'il est tombé malade. Son travail le tient éveillé tard dans la soirée.${prompt}
+  12664: Avez-vous des affaires avec le docteur ? Eh bien, il est actuellement absent de la cathédrale.${prompt}
+  12665: Et qui êtes-vous ? Je ne vous ai jamais vu ici auparavant.${prompt}
+  12666: Mon nom est Yachemidot. Je suis ce que vous appelleriez un étudiant du Docteur Oiheaurese.${prompt}
+  12667: Cet œuf ? Est-ce vraiment un œuf de wyvern ?${prompt}
+  12668: Aimeriez-vous essayer de faire éclore cet œuf ? Le docteur m'a dit que ce serait dangereux, mais j'aimerais tenter le coup. Tout vrai scientifique ressentirait la même chose.${prompt}
+  12669: Et il se trouve que je sais comment le faire. Êtes-vous prêt à m'aider ? Vous voulez aussi voir l'œuf éclore, n'est-ce pas ?${prompt}
   12670: |-
-    Take part in Yachemidot's plan?
+    Participer au plan de Yachemidot ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  12671: Wonderful! Take the egg and place it on the far eastern tip of Drogaroga's Spine located in the Meriphataud Mountains.${prompt}
-  12672: It's not that difficult! All you have to do is take the egg and place it on the far eastern tip of Drogaroga's Spine, which is located in the Meriphataud Mountains.${prompt}
-  12673: If that wyvern has the holy crest, then there's a possibility that a new dragoon may be born!${prompt}
-  12674: I've never heard the Doctor mention any Yachemidot. And what is all this with placing the egg on the far eastern tip of Drogaroga's Spine in the Meriphataud Mountains?${prompt}
+    Oui.
+    Non.${prompt}
+  12671: Merveilleux ! Prenez l'œuf et placez-le à l'extrémité est de l'épine de Drogaroga située dans les montagnes de Meriphataud.${prompt}
+  12672: Ce n'est pas si difficile ! Tout ce que vous avez à faire est de prendre l'œuf et de le placer à l'extrémité est de l'épine de Drogaroga, qui se trouve dans les montagnes de Meriphataud.${prompt}
+  12673: Si cette wyvern porte la crête sacrée, alors il y a une possibilité qu'un nouveau dragoon naisse !${prompt}
+  12674: Je n'ai jamais entendu le Docteur mentionner un certain Yachemidot. Et qu'est-ce que c'est que cette histoire de placer l'œuf à l'extrémité est de l'épine de Drogaroga dans les montagnes de Meriphataud ?${prompt}
   12675: |-
-    Ah, ${name-player}. You have come.
-    The royal family requests your assistance.${prompt}
-  12676: I can assume you have heard of the late King Ranperre's Lightbringer. If that sword were to fall into Orcish hands, San d'Oria would have her back against the wall.${prompt}
-  12677: This situation must be prevented at any cost.${prompt}
-  12678: We have Temple Knights participating in the search efforts, but there is an obvious lack of manpower.${prompt}
-  12679: Our scholars have been combing through the ancient San d'Orian text you retrieved, searching for any new clues.${prompt}
-  12680: I am confident they will find something.${prompt}
-  12681: If only the cathedral's library had survived the fires of the Great War, we would not be so behind in our research on Lightbringer.${prompt}
-  12682: Your Holiness!${prompt}
-  12683: I apologize. You have a visitor...${prompt}
-  12684: Mind you not. What is it, Morjean?${prompt}
-  12685: Yes, Your Holiness. During the search of the library, we came across an ancient parchment hidden inside another book. Until now, we had passed it off as a poem written by someone long ago.${prompt}
-  12686: However, after deciphering it, we realized it was a message reporting something hidden deep within the Bostaunieux Oubliette during the Great War.${prompt}
-  12687: What? Could it be the holy sword, Lightbringer?${prompt}
-  12688: We were unable to tell from the content of the parchment, but the fact remains that this item was hidden for a reason.${prompt}
-  12689: Thank you for the update. You may leave now.${prompt}
-  12690: We must report these new findings to the king immediately. This may shed some light on the whereabouts of Lightbringer.${prompt}
-  12691: Prince Pieuje, what if we were to send ${name-player} to investigate?${prompt}
-  12692: ${name-player} was the first to find the true resting place of King Ranperre, and has the trust of King Destin. I feel a preliminary search of the area is necessary before a full-scale survey is carried out. ${prompt}
-  12693: Prince Pieuje! You must act before Prince Trion. Have you already forgotten the incident at King Ranperre's Tomb?${prompt}
-  12694: I understand your words, Your Holiness, but I feel it is my duty to first report these new findings to my father.${prompt}
-  12695: 'Your Holiness.${wait-animation: 1}${prompt}'
-  12696: ${name-player}, will you journey into the Bostaunieux Oubliette and investigate the findings?${prompt}
-  12697: On the outside, the prince may deny it, but on the inside, he is counting on your success in this mission.${prompt}
-  12698: According to the newly deciphered parchment, scientists hid “something” down in the Bostaunieux Oubliette during the time of war. I want you to journey down there and find that something.${prompt}
-  12699: I see... So you did not find Lightbringer. But what you have found is truly a possession of the lost Dragon King.${prompt}
-  12700: Your Holiness, the Royal Knights sent to investigate the Bostaunieux Oubliette have returned. Their search turned up nothing.${prompt}
-  12701: What is that!?${prompt}
-  12702: Prince Pieuje, ${name-player} retrieved this stone tablet from deep within the oubliette.${prompt}
-  12703: When the great King Ranperre brought the chaos in San d'Oria under control, it is said that his admonition was carved in stone.${prompt}
-  12704: This may be that very tablet, my prince.${prompt}
-  12705: I was correct in assuming that the Royal Knights would not be suited for a task such as this--one that requires perseverance.${prompt}
-  12706: However, we cannot be sure that this tablet is King Ranperre's...${prompt}
-  12707: Absolutely. There is still much deciphering that must be carried out by our scholars. It will require much more time.${prompt}
-  12708: However, I promise you that I will make this task our top priority.${prompt}
-  12709: As for the report on our finding of the tablet, I shall take the matter up with the king myself.${prompt}
-  12710: And as for you, ${name-player}. Once the deciphering has been completed, we may have another task for you.${prompt}
-  12711: Good day.${prompt}
-  12712: You say you were under orders from the papsque? I am sorry for all the trouble he may have caused you.${prompt}
-  12713: When it comes to the subject of Lightbringer, the papsque becomes a different man...${prompt}
-  12714: I hereby conclude the coming-of-age ceremony of Claidie I d'Oraguille.${prompt}
-  12715: So the baby princess has finally become a lady... Did you know that it is custom at the coming-of-age ceremony for the dark d'Oraguille secrets to be revealed?${prompt}
-  12716: I'm sure you have already heard that during the Great War, the d'Oraguille family betrayed my father, Altedour, and dragged Tavnazia into ruin.${prompt}
-  12717: Silence, infidel!${prompt}
-  12718: Who are...${prompt}
-  12719: Where did this vagrant come from!?${prompt}
-  12720: No, I do not expect you to know who I am. This is the first time I have been to this cathedral.${prompt}
-  12721: Wait, you look familiar. But you couldn't be...${prompt}
-  12722: But I am. My name is Rochefogne I Tavnazia. Son of Altedour, and sole surviving heir to the Tavnazian throne.${prompt}
-  12723: My mother's...brother!?${prompt}
-  12724: Rochefogne!? You were slain in the Great War!${prompt}
-  12725: You doubt your own eyes? Pitiful d'Oraguille. That will be the downfall of you all.${prompt}
-  12726: 'Know this, d''Oraguilles: I will find Lightbringer. It is the destiny that drives me.${prompt}'
-  12727: 'After him!${wait-animation: 0}${prompt}'
-  12728: 'Stop, scoundrel!${wait-animation: 0}${prompt}'
-  12729: 'Wait!${wait-animation: 0}${prompt}'
-  12730: That Rochefogne is a poison in our fair country. Dispatch the knights and have them comb the countryside--no, all of Vana'diel--for him!${prompt}
-  12731: But how could it be...and what could he want with the holy sword...?${prompt}
-  12732: Good day! Take a look at my selection from Li'Telor!${prompt}
-  12733: Specialty goods from Vollbow! Specialty goods from Vollbow!${prompt}
+    Ah, ${name-player}. Tu es venu.
+    La famille royale demande ton aide.${prompt}
+  12676: Je suppose que tu as entendu parler de la Lightbringer du défunt roi Ranperre. Si cette épée tombait entre les mains des Orcs, San d'Oria serait acculée.${prompt}
+  12677: Cette situation doit être évitée à tout prix.${prompt}
+  12678: Nous avons des chevaliers du temple qui participent aux efforts de recherche, mais il manque clairement de main-d'œuvre.${prompt}
+  12679: Nos érudits parcourent les anciens textes de San d'Oria que tu as récupérés, cherchant de nouveaux indices.${prompt}
+  12680: Je suis confiant qu'ils trouveront quelque chose.${prompt}
+  12681: Si seulement la bibliothèque de la cathédrale avait survécu aux incendies de la Grande Guerre, nous ne serions pas si en retard dans nos recherches sur Lightbringer.${prompt}
+  12682: Votre Sainteté !${prompt}
+  12683: Je m'excuse. Vous avez un visiteur...${prompt}
+  12684: Ne vous en souciez pas. Que se passe-t-il, Morjean ?${prompt}
+  12685: Oui, Votre Sainteté. Lors de la recherche dans la bibliothèque, nous sommes tombés sur un parchemin ancien caché à l'intérieur d'un autre livre. Jusqu'à présent, nous l'avions pris pour un poème écrit par quelqu'un il y a longtemps.${prompt}
+  12686: Cependant, après l'avoir déchiffré, nous avons réalisé qu'il s'agissait d'un message rapportant quelque chose caché profondément dans l'Oubliette de Bostaunieux pendant la Grande Guerre.${prompt}
+  12687: Quoi ? Pourrait-il s'agir de l'épée sacrée, Lightbringer ?${prompt}
+  12688: Nous n'avons pas pu le déterminer à partir du contenu du parchemin, mais le fait demeure que cet objet a été caché pour une raison.${prompt}
+  12689: Merci pour cette mise à jour. Vous pouvez partir maintenant.${prompt}
+  12690: Nous devons rapporter ces nouvelles découvertes au roi immédiatement. Cela pourrait éclairer l'endroit où se trouve Lightbringer.${prompt}
+  12691: Prince Pieuje, que diriez-vous d'envoyer ${name-player} enquêter ?${prompt}
+  12692: ${name-player} a été le premier à trouver le véritable lieu de repos du roi Ranperre, et il a la confiance du roi Destin. Je pense qu'une recherche préliminaire de la zone est nécessaire avant de lancer une enquête à grande échelle.${prompt}
+  12693: Prince Pieuje ! Vous devez agir avant le prince Trion. Avez-vous déjà oublié l'incident au tombeau du roi Ranperre ?${prompt}
+  12694: Je comprends vos paroles, Votre Sainteté, mais je pense qu'il est de mon devoir de d'abord rapporter ces nouvelles découvertes à mon père.${prompt}
+  12695: 'Votre Sainteté.${wait-animation: 1}${prompt}'
+  12696: ${name-player}, accepteriez-vous de vous rendre dans l'Oubliette de Bostaunieux et d'enquêter sur ces découvertes ?${prompt}
+  12697: En apparence, le prince peut le nier, mais intérieurement, il compte sur votre succès dans cette mission.${prompt}
+  12698: Selon le parchemin nouvellement déchiffré, des scientifiques ont caché "quelque chose" dans l'Oubliette de Bostaunieux pendant la guerre. Je veux que vous vous y rendiez et trouviez ce quelque chose.${prompt}
+  12699: Je vois... Vous n'avez donc pas trouvé Lightbringer. Mais ce que vous avez trouvé est vraiment une possession du Roi Dragon perdu.${prompt}
+  12700: Votre Sainteté, les Chevaliers Royaux envoyés pour enquêter dans l'Oubliette de Bostaunieux sont revenus. Leur recherche n'a rien donné.${prompt}
+  12701: Qu'est-ce que c'est!?${prompt}
+  12702: Prince Pieuje, ${name-player} a récupéré cette tablette de pierre au fond de l'oubliette.${prompt}
+  12703: Quand le grand Roi Ranperre a ramené le chaos à San d'Oria sous contrôle, on dit que son avertissement a été gravé dans la pierre.${prompt}
+  12704: Ceci pourrait bien être cette tablette, mon prince.${prompt}
+  12705: J'avais raison de supposer que les Chevaliers Royaux ne seraient pas adaptés à une tâche de ce genre, qui nécessite de la persévérance.${prompt}
+  12706: Cependant, nous ne pouvons pas être sûrs que cette tablette appartient au Roi Ranperre...${prompt}
+  12707: Absolument. Il reste encore beaucoup de déchiffrages à faire par nos érudits. Cela prendra beaucoup de temps.${prompt}
+  12708: Cependant, je vous promets que je ferai de cette tâche notre priorité absolue.${prompt}
+  12709: Quant au rapport sur la découverte de la tablette, je m'en occuperai personnellement auprès du roi.${prompt}
+  12710: Quant à vous, ${name-player}. Une fois le déchiffrage terminé, nous pourrions avoir une autre tâche pour vous.${prompt}
+  12711: Bonne journée.${prompt}
+  12712: Vous dites que vous étiez sous les ordres du papsque ? Je suis désolé pour tous les ennuis qu'il a pu vous causer.${prompt}
+  12713: Lorsqu'il s'agit du sujet de Lightbringer, le papsque devient un autre homme...${prompt}
+  12714: Je conclus par la présente la cérémonie de majorité de Claidie I d'Oraguille.${prompt}
+  12715: Alors la petite princesse est enfin devenue une dame... Saviez-vous qu'il est de coutume lors de la cérémonie de majorité de révéler les sombres secrets des d'Oraguille ?${prompt}
+  12716: Je suis sûr que vous avez déjà entendu dire que pendant la Grande Guerre, la famille d'Oraguille a trahi mon père, Altedour, et a précipité Tavnazia dans la ruine.${prompt}
+  12717: Silence, infidèle !${prompt}
+  12718: Qui êtes-vous...${prompt}
+  12719: D'où vient ce vagabond!?${prompt}
+  12720: Non, je ne m'attends pas à ce que vous sachiez qui je suis. C'est la première fois que je viens dans cette cathédrale.${prompt}
+  12721: Attendez, vous me semblez familier. Mais vous ne pourriez pas être...${prompt}
+  12722: Mais je le suis. Mon nom est Rochefogne I Tavnazia. Fils d'Altedour, et unique héritier survivant du trône de Tavnazia.${prompt}
+  12723: Le frère de... ma mère!?${prompt}
+  12724: Rochefogne!? Vous avez été tué pendant la Grande Guerre!${prompt}
+  12725: Vous doutez de vos propres yeux ? Pitoyable d'Oraguille. Ce sera votre perte à tous.${prompt}
+  12726: 'Sachez ceci, d’Oraguilles : je trouverai Lightbringer. C’est le destin qui me pousse.${prompt}'
+  12727: 'Après lui!${wait-animation: 0}${prompt}'
+  12728: 'Arrêtez, scélérat!${wait-animation: 0}${prompt}'
+  12729: 'Attendez!${wait-animation: 0}${prompt}'
+  12730: Ce Rochefogne est un poison pour notre beau pays. Envoyez les chevaliers et faites-les ratisser la campagne -- non, tout Vana'diel -- pour le retrouver!${prompt}
+  12731: Mais comment est-ce possible... et que pourrait-il vouloir avec l'épée sacrée...?${prompt}
+  12732: Bonjour! Jetez un coup d'œil à ma sélection de Li'Telor!${prompt}
+  12733: Des produits spécialisés de Vollbow! Des produits spécialisés de Vollbow!${prompt}
   12734: |-
     <Sigh>
     Why must all craftsmen be so uptight?${prompt}
