@@ -17419,29 +17419,29 @@ entries:
     ${selection-lines}
     やる
     やらない${prompt}
-  7374: Listen, I want you to bring me water that flows from Horlais Peak. Use this bottle to draw it. I'll be waiting!${prompt}
-  7375: You have my thanks.${prompt}
-  7376: 'Think you could fetch me ${article} ${item-article: 0[2]}?${prompt}'
+  7374: Écoute, je veux que tu m'apportes de l'eau qui coule du pic de Horlais. Utilise cette bouteille pour la puiser. J'attendrai !${prompt}
+  7375: Tu as mes remerciements.${prompt}
+  7376: 'Tu pourrais aller me chercher ${article} ${item-article: 0[2]} ?${prompt}'
   7377: |-
-    What to do?
+    Que faire ?
     ${selection-lines}
-    Do it.
-    Refuse.${prompt}
-  7378: 'Ah, almost forgot. You can find ${article} ${item-article: 0[2]} in Derfland. If you are successful, I am sure Queen Leaute would be grateful.${prompt}'
-  7379: Thanks.${prompt}
-  7380: You are an adventurer in good standing, are you not? I have a request for you, if you've the time.${prompt}
+    Le faire.
+    Refuser.${prompt}
+  7378: 'Ah, j’ai failli oublier. Tu peux trouver ${article} ${item-article: 0[2]} à Derfland. Si tu réussis, je suis sûr que la reine Leaute te sera reconnaissante.${prompt}'
+  7379: Merci.${prompt}
+  7380: Tu es un aventurier en règle, n’est-ce pas ? J’ai une demande pour toi, si tu as le temps.${prompt}
   7381: |-
-    Listen to Curilla's request?
+    Écouter la demande de Curilla ?
     ${selection-lines}
-    Listen.
-    Not now.${prompt}
-  7382: There is a spring atop Horlais Peak from which the sweetest water flows. I want you to bring me some. I could have one of my knights bring it, but...I would like to keep this an outside job.${prompt}
-  7383: Why? I have my reasons. Tell me, will you do it?${prompt}
+    Écouter.
+    Pas maintenant.${prompt}
+  7382: Il y a une source au sommet du pic de Horlais d'où coule l'eau la plus douce. Je veux que tu m'en apportes. Je pourrais envoyer un de mes chevaliers, mais... je préférerais que ce soit un travail extérieur.${prompt}
+  7383: Pourquoi ? J'ai mes raisons. Dis-moi, le feras-tu ?${prompt}
   7384: |-
-    Accept Curilla's request?
+    Accepter la demande de Curilla ?
     ${selection-lines}
-    Accept.
-    Decline.${prompt}
+    Accepter.
+    Refuser.${prompt}
   7385: Bonne chance! Utilisez ceci pour puiser de l'eau de la source au sommet du Pic Horlais.${prompt}
   7386: C'est malheureux. Je demanderai à quelqu'un d'autre.${prompt}
   7387: Ah, c'est encore vous! Avez-vous décidé d'accepter ma demande?${prompt}
