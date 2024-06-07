@@ -26108,64 +26108,64 @@ entries:
   11789: |-
     It rolled away when I tried to pick it up.
     I'm not sure if it was yours or not.${prompt}
-  11790: Although, the look on your face tells me...${prompt}
-  11791: Hm? The other rings?${prompt}
-  11792: Now, now, let's not be greedy, ${choice-player-gender}[sir/madame].${prompt}
-  11793: I made a promise to a customer--you can't ask me to break my word.${prompt}
-  11794: Who would then trust the owner of the Marble Bridge!?${prompt}
-  11795: '${color-alt: 121}You must wait ${number: 1} ${choice-plurality: 1}[day/days] Vana''diel time (${number: 2} ${choice-plurality: 1}[day/days] Earth time) until you are once again eligible to obtain the ring.${prompt}'
-  11796: What would ye be wantin' with me?${prompt}
-  11797: And I don't want t'hear any nonsense about yer desire t'be a dancer in Troupe Brilioth.${prompt}
+  11790: Bien que, l'expression sur votre visage me dit...${prompt}
+  11791: Hm ? Les autres anneaux ?${prompt}
+  11792: Allons, allons, ne soyons pas gourmand, ${choice-player-gender}[monsieur/madame].${prompt}
+  11793: J'ai fait une promesse à un client - vous ne pouvez pas me demander de rompre ma parole.${prompt}
+  11794: Qui ferait alors confiance au propriétaire du Pont de Marbre !?${prompt}
+  11795: "Vous devez attendre ${number: 1} ${choice-plurality: 1}[jour/jours] du temps de Vana'diel (${number: 2} ${choice-plurality: 1}[jour/jours] du temps terrestre) avant de pouvoir à nouveau obtenir l'anneau.${prompt}"
+  11796: Que désirez-vous de moi ?${prompt}
+  11797: Et je ne veux pas entendre de sottises sur votre désir d'être danseur dans la Troupe Brilioth.${prompt}
   11798: |-
-    Do you want to be a dancer?
+    Voulez-vous être danseur ?
     ${selection-lines}
-    I surely do.
-    No, I have two left feet.${prompt}
+    Absolument.
+    Non, j'ai deux pieds gauches.${prompt}
   11799: |-
-    Wonderful.
-    Try not t'trip over yeself on the way out.${prompt}
-  11800: <Sigh>...not another one.${prompt}
-  11801: Listen here. I've handpicked ev'ry member of Troupe Brilioth for reasons o' style an' grace.${prompt}
-  11802: This is no meltin' pot o' entertainment like a certain Troupe Valeriano.${prompt}
+    Magnifique.
+    Essayez de ne pas trébucher en sortant.${prompt}
+  11800: <Soupir>... pas un autre.${prompt}
+  11801: Écoutez-moi. J'ai personnellement choisi chaque membre de la Troupe Brilioth pour des raisons de style et de grâce.${prompt}
+  11802: Ce n'est pas un creuset de divertissement comme la Troupe Valeriano.${prompt}
   11803: |-
-    I can't be lettin' in ev'ry heavy-footed Galka and rhythmless Hume that walks in me door.
-    If it's dancin' lessons ye want, go ask yer auntie.${prompt}
+    Je ne peux pas laisser entrer chaque Galka lourd et chaque Hume sans rythme qui passe ma porte.
+    Si vous voulez des leçons de danse, allez demander à votre tante.${prompt}
   11804: |-
-    Give up?
+    Abandonner ?
     ${selection-lines}
-    Guess I'll go visit Auntie...
-    Never!${prompt}
+    Je suppose que je vais rendre visite à Tante...
+    Jamais !${prompt}
   11805: |-
-    Ye're a stubborn ${choice-player-gender}[lad/lass], t'be sure.
-    I'll tell ye what. If ye can bring me ${keyitem-article: 0[2]}, I'll rethink me stance.${prompt}
+    Vous êtes un ${choice-player-gender}[garçon/une fille] têtu(e), c'est sûr.
+    Je vais vous dire quoi. Si vous pouvez me rapporter ${keyitem-article: 0[2]}, je réfléchirai à ma position.${prompt}
   11806: |-
-    And what kind o' rock is that, ye ask?
-    Well, that's fer ye t'find out.${prompt}
-  11807: 'If ye can bring me ${keyitem-article: 0[2]}, I''ll rethink me stance on lettin'' ye into me troupe.${prompt}'
-  11808: Feast your eyes on the stunning steps of Troupe Brilioth!${prompt}
+    Et de quel genre de roche s'agit-il, vous demandez-vous ?
+    Eh bien, c'est à vous de le découvrir.${prompt}
+  11807: "Si vous pouvez me ramener ${keyitem-article: 0[2]}, je réfléchirai à nouveau à vous laisser entrer dans ma troupe.${prompt}"
+  11808: Régalez-vous les yeux avec les pas éblouissants de la Troupe Brilioth !${prompt}
   11809: |-
-    I began studying here after one of Laila's performances moved me to tears.
-    Such grrrace...such talent...${prompt}
+    J'ai commencé à étudier ici après qu'une des performances de Laila m'a ému aux larmes.
+    Une telle grâce... un tel talent...${prompt}
   11810: |-
-    I overheard you speaking with Laila.
-    So, you think you can dance?${prompt}
-  11811: You'll have to show you're absolutely committed before she'll even think about taking you under her wing.${prompt}
-  11812: 'Maybe I could ask Laila for some hints about this ${keyitem-singular: 0[2]}. But how can I be sure you''re rrreally serious...?${prompt}'
+    Je vous ai entendu parler avec Laila.
+    Alors, vous pensez savoir danser ?${prompt}
+  11811: Vous devrez montrer que vous êtes absolument engagé avant même qu'elle ne songe à vous prendre sous son aile.${prompt}
+  11812: "Peut-être que je pourrais demander à Laila quelques conseils sur ce ${keyitem-singular: 0[2]}. Mais comment être sûr que vous êtes vraiment sérieux... ?${prompt}"
   11813: |-
-    I know!
-    Have you heard of the Lion Springs Tavern in San d'Oria?${prompt}
-  11814: If you have the courrrage to dance on that stage, it will prrrove to me you have a passion for performance.${prompt}
-  11815: 'If you have the courrrage to dance on the stage in the Lion Springs Tavern, I''ll ask Laila about that ${keyitem-singular: 0[2]}.${prompt}'
-  11816: That must have been some performance you put on in the Lion Springs. News of your “unique” dancing style made it all the way to Jeuno.${prompt}
-  11817: Well, I guess I have to keep my end of the deal and tell you what I learned about that stone.${prompt}
-  11818: 'I hate to brrreak it to you, but finding ${keyitem-article: 0[2]} might be close to impossible.${prompt}'
-  11819: 'Twenty years ago, ${keyitem-plural: 0[2]} could be found lying at the bottom of Lake Mechieume in Jugner Forest.${prompt}'
-  11820: But their dazzling glow made them such a collector's item that not a single one remains there today.${prompt}
-  11821: I believe our merciless leader has set you a task that cannot be completed.${prompt}
+    Je sais !
+    Avez-vous entendu parler de la Taverne des Sources du Lion à San d'Oria ?${prompt}
+  11814: Si vous avez le courage de danser sur cette scène, cela me prouvera que vous avez une passion pour la performance.${prompt}
+  11815: "Si vous avez le courage de danser sur la scène de la Taverne des Sources du Lion, je demanderai à Laila à propos de ce ${keyitem-singular: 0[2]}.${prompt}"
+  11816: Il faut dire que votre performance dans la Taverne des Sources du Lion a dû être quelque chose. Les nouvelles de votre style de danse "unique" ont même atteint Jeuno.${prompt}
+  11817: Eh bien, je suppose que je dois tenir ma part du marché et vous dire ce que j'ai appris sur cette pierre.${prompt}
+  11818: "Je déteste vous l'apprendre, mais trouver ${keyitem-article: 0[2]} pourrait être proche de l'impossible.${prompt}"
+  11819: "Il y a vingt ans, on pouvait trouver des ${keyitem-plural: 0[2]} au fond du lac Mechieume dans la forêt de Jugner.${prompt}"
+  11820: Mais leur éclat éblouissant en a fait un tel objet de collection qu'il n'en reste plus un seul là-bas aujourd'hui.${prompt}
+  11821: Je crains que notre impitoyable chef ne vous ait donné une tâche impossible à accomplir.${prompt}
   11822: |-
-    It's a shame.
-    While you still lack the skill, you certainly have the spirit of a dancer...${prompt}
-  11823: Ye here again?${prompt}
+    C'est dommage.
+    Bien que vous manquiez encore de compétences, vous avez certainement l'esprit d'un danseur...${prompt}
+  11823: Vous voilà encore ici ?${prompt}
   11824: |-
     Ye've brought me ${keyitem-article: 0[2]}?
     If ye think ye can trick me with some painted piece o'...${prompt}
@@ -26205,21 +26205,21 @@ entries:
   11846: |-
     They're so pretty!
     I wanna be a dancer too someday!${prompt}
-  11847: Two maidens of the battlefield...and a Galka?${prompt}
-  11848: There are many “dancers,” but only a select few are truly brilliant.${prompt}
+  11847: Deux demoiselles du champ de bataille... et un Galka ?${prompt}
+  11848: Il y a beaucoup de “danseurs”, mais seulement quelques-uns sont vraiment brillants.${prompt}
   11849: |-
-    And among those brilliant few, they say the most talented and graceful is visited by the Divinity of Dance.
-    Could that be true?${prompt}
-  11850: I've learned a lot about the Crystal War while looking after Ilumida.${prompt}
-  11851: She's even told me about those awful statues people are calling “maws.”${prompt}
-  11852: I haven't had the experience myself, but they say just the very sight of these idols brings back the most horrendous memories of the war...${prompt}
+    Et parmi ces quelques brillants, dit-on que la plus talentueuse et gracieuse est visitée par la Divinité de la Danse.
+    Est-ce vrai ?${prompt}
+  11850: J'ai beaucoup appris sur la Guerre des Cristaux en m'occupant d'Ilumida.${prompt}
+  11851: Elle m'a même parlé de ces affreuses statues que les gens appellent “gouffres”.${prompt}
+  11852: Je n'ai pas moi-même vécu cette expérience, mais ils disent que rien que la vue de ces idoles fait ressurgir les souvenirs les plus horribles de la guerre...${prompt}
   11853: |-
-    I wonder if there are other things in the world that remind people of that horrible time.
-    If only such atrocities could be buried forever.${prompt}
-  11854: Do the beastmen also have a god to whom they pray, in the same way we ask for the blessings of Altana?${prompt}
+    Je me demande s'il existe d'autres choses dans le monde qui rappellent aux gens cette période horrible.
+    Si seulement de telles atrocités pouvaient être enterrées pour toujours.${prompt}
+  11854: Est-ce que les bêtes ont aussi un dieu auquel elles prient, de la même manière que nous demandons les bénédictions d'Altana ?${prompt}
   11855: |-
-    Although I'm not sure I would want to know what twisted prayers the beastmen might make.
-    Would you?${prompt}
+    Bien que je ne sois pas sûr que je voudrais connaître les prières tordues que les bêtes pourraient faire.
+    Et toi ?${prompt}
   11856: Why, isn't it ${name-player}? Been workin' hard on yer steps, have ye?${prompt}
   11857: Why don't ye show me some o' yer moves? Go on, let me see.${prompt}
   11858: Hmmm...sharp, conf'dent steps, an' great upper body balance t'boot. Without a doubt, ye've improved.${prompt}
