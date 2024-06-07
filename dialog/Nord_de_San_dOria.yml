@@ -25566,27 +25566,27 @@ entries:
   12381: Tu as été tellement gentil(le). Je veux te donner quelque chose pour te remercier...${prompt}
   12382: '${color-alt: 15}${name-npc} a une ampoule au-dessus de la tête.'
   12383: |-
-    I got it! I got it!
-    I'll tell you my secrrret!${prompt}
+    Je l'ai eu ! Je l'ai eu !
+    Je vais te dire mon secret !${prompt}
   12384: (Meow meow meow meow...)${prompt}
   12385: (Meow meow meow meow...)${prompt}
-  12386: '${color-alt: 121}You have learned your way through the back alleys of San d''Oria! Now you can exit to any area from your residence.${prompt}'
-  12387: But don't tell anyone, okay?${prompt}
-  12388: '${color-alt: 15}${name-npc} looks very happy.'
-  12389: Secret♪ Secret♪ It's our little secret!♪${prompt}
-  12390: Another one? Another one? Forrr me? Yeah!${prompt}
-  12391: Wow! I'll take this and plant it in the garden rrright now!${prompt}
+  12386: '${color-alt: 121}Tu as appris le chemin des ruelles de San d''Oria ! Maintenant, tu peux sortir vers n’importe quelle zone depuis chez toi.${prompt}'
+  12387: Mais ne le dis à personne, d’accord ?${prompt}
+  12388: '${color-alt: 15}${name-npc} a l’air très heureux(se).'
+  12389: Secret♪ Secret♪ C'est notre petit secret !♪${prompt}
+  12390: Un autre ? Un autre ? Pour moi ? Ouais !${prompt}
+  12391: Wow ! Je vais le prendre et le planter dans le jardin tout de suite !${prompt}
   12392: |-
     ...
-    Umm, but I don't have anything to give you in returrrn.${prompt}
+    Euh, mais je n'ai rien à te donner en retour.${prompt}
   12393: |-
-    I'm sorrry, but I can't take this. Thanks anyway!
-    You will come and see the flowers I planted in the garden, though, won't you? Won't you?${prompt}
-  12394: 'area:${number: 1}, ev_type:${number: 2}, flower:${number: 4}, stone:${number: 5}, total:${number: 3}${prompt}'
-  12395: 'FLAG: San d''Oria Finished${prompt}'
-  12396: 'FLAG: Bastok Finished${prompt}'
-  12397: 'FLAG: Windurst Finished${prompt}'
-  12398: 'FLAG: Jeuno Finished${prompt}'
+    Désolé(e), mais je ne peux pas prendre ça. Merci quand même !
+    Tu viendras voir les fleurs que j'ai plantées dans le jardin, hein ? Hein ?${prompt}
+  12394: 'zone:${number: 1}, ev_type:${number: 2}, flower:${number: 4}, stone:${number: 5}, total:${number: 3}${prompt}'
+  12395: 'FLAG : San d''Oria Terminé${prompt}'
+  12396: 'FLAG : Bastok Terminé${prompt}'
+  12397: 'FLAG : Windurst Terminé${prompt}'
+  12398: 'FLAG : Jeuno Terminé${prompt}'
   12399: test05${prompt}
   12400: test06${prompt}
   12401: test07${prompt}
