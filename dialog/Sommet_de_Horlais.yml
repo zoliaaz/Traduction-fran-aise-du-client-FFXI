@@ -18363,99 +18363,99 @@ entries:
   7575: |-
     Everybody's fallen in room E, and they can't get up!
     Leaving room E!${prompt}${prompt}
-  7576: 'If all party members'' HP are still zero after ${number: 3} minute${choice-plurality: 3}[/s] ${number: 2} second${choice-plurality: 2}[/s], the party will be removed from the battlefield.${prompt}'
-  7577: 'If all party members'' HP are still zero after ${number: 3} minute${choice-plurality: 3}[/s], the party will be removed from the battlefield.${prompt}'
-  7578: What the hell is that number!? It's not possible!!!${prompt}
-  7579: 'Only ${number: 3} ${choice-plurality: 3}[member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.${prompt}'
-  7580: 'You are now able to summon ${choice: 2}[Ifrit/Titan/Leviathan/Garuda/Shiva/Ramuh].${prompt}'
-  7581: You do not meet the requirements to enter the battlefield with your party members. Access is denied.${prompt}
-  7582: The Shimmering Circle you are trying to enter differs from the one your party members have entered. Access is denied.${prompt}
-  7583: 'That record is held by ${number: 5} adventurers, including ${entity: 0}!'
-  7584: 'That record is held by ${entity: 0}!'
+  7576: 'Si les PV de tous les membres du groupe restent à zéro après ${number: 3} minute${choice-plurality: 3}[/s] ${number: 2} seconde${choice-plurality: 2}[/s], le groupe sera retiré du champ de bataille.${prompt}'
+  7577: 'Si les PV de tous les membres du groupe restent à zéro après ${number: 3} minute${choice-plurality: 3}[/s], le groupe sera retiré du champ de bataille.${prompt}'
+  7578: Quel est ce nombre !? C'est impossible !!!${prompt}
+  7579: 'Seuls ${number: 3} ${choice-plurality: 3}[membre/membres] ont l’autorisation d’entrer sur le champ de bataille. Cette salle a atteint sa capacité maximale.${prompt}'
+  7580: 'Vous pouvez maintenant invoquer ${choice: 2}[Ifrit/Titan/Léviathan/Garuda/Shiva/Ramuh].${prompt}'
+  7581: Vous ne remplissez pas les conditions pour entrer sur le champ de bataille avec les membres de votre groupe. Accès refusé.${prompt}
+  7582: Le cercle chatoyant que vous essayez d'entrer diffère de celui dans lequel sont entrés les membres de votre groupe. Accès refusé.${prompt}
+  7583: 'Ce record est détenu par ${number: 5} aventuriers, dont ${entity: 0} !'
+  7584: 'Ce record est détenu par ${entity: 0} !'
   7585: |-
-    Select difficulty.
+    Sélectionnez la difficulté.
     ${selection-lines}
-    Very difficult. (Level: ???)
-    Difficult. (Level: ???)
-    Normal. (Level: ${number: 18})
-    Easy. (Level: ${number: 17})
-    Very Easy. (Level: ${number: 16})
-    Leave.${prompt}
-  7586: 'Current difficulty level: ${choice: 2}[Normal/Very difficult/Difficult/Normal/Easy/Very easy].${prompt}'
-  7587: 'A malignant force escapes from your ${item-singular: 3[2]}.${prompt}'
-  7588: 'You are unable to enter the battlefield because ${choice: 0}[one or more of your party members does not have the job master designation/you do not have the job master designation].${prompt}'
-  7589: 'Your ${item-singular: 3[2]} is calling out to something...${prompt}'
-  7590: 'The ${item-singular: 0[2]} has a large crack running straight down the side.${prompt}'
-  7591: 'Something awakens owing to the presence of the ${item-singular: 3[2]}...${prompt}'
-  7592: 'The oath has been fulfilled owing to the power of your ${item-singular: 3[2]}.${prompt}'
-  7593: Going back to BIND. Please press button.${prompt}
-  7594: There is no response. You cannot escape!${prompt}
-  7595: 'You have broken the clear time record for “${choice: 5}[The Rank 2 Final Mission/Tails of Woe/Dismemberment Brigade/The Secret Weapon/Hostile Herbivores/Shattering Stars (WAR)/Shattering Stars (BLM)/Shattering Stars (RNG)/Carapace Combatants/Shooting Fish/Dropping Like Flies/Horns of War/Under Observation/Eye of the Tiger/Shots in the Dark/Double Dragonian/Today''s Horoscope/Contaminated Colosseum/Kindergarten Cap/Last Orc-Shunned Hero/Beyond Infinity/★Tails of Woe/★Dismemberment Brigade/A Feast Most Dire/A.M.A.N. Trove (Mars)/A.M.A.N. Trove (Venus)/Inv. from Excenmille/Inv. from Excenmille and Co.]”!'
-  7596: 'The current battlefield clear time record for “${choice: 1}[The Rank 2 Final Mission/Tails of Woe/Dismemberment Brigade/The Secret Weapon/Hostile Herbivores/Shattering Stars (WAR)/Shattering Stars (BLM)/Shattering Stars (RNG)/Carapace Combatants/Shooting Fish/Dropping Like Flies/Horns of War/Under Observation/Eye of the Tiger/Shots in the Dark/Double Dragonian/Today''s Horoscope/Contaminated Colosseum/Kindergarten Cap/Last Orc-Shunned Hero/Beyond Infinity/★Tails of Woe/★Dismemberment Brigade/A Feast Most Dire/A.M.A.N. Trove (Mars)/A.M.A.N. Trove (Venus)/Inv. from Excenmille/Inv. from Excenmille and Co.]” is ${number: 3} second${choice-plurality: 3}[/s].'
-  7597: 'The current battlefield clear time record for “${choice: 1}[The Rank 2 Final Mission/Tails of Woe/Dismemberment Brigadee/The Secret Weapon/Hostile Herbivores/Shattering Stars (WAR)/Shattering Stars (BLM)/Shattering Stars (RNG)/Carapace Combatants/Shooting Fish/Dropping Like Flies/Horns of War/Under Observation/Eye of the Tiger/Shots in the Dark/Double Dragonian/Today''s Horoscope/Contaminated Colosseum/Kindergarten Cap/Last Orc-Shunned Hero/Beyond Infinity/★Tails of Woe/★Dismemberment Brigade/A Feast Most Dire/A.M.A.N. Trove (Mars)/A.M.A.N. Trove (Venus)/Inv. from Excenmille/Inv. from Excenmille and Co.]” is ${number: 3} minute${choice-plurality: 3}[/s] ${number: 2} second${choice-plurality: 2}[/s].'
-  7598: 'Entering the battlefield for “${choice: 1}[The Rank 2 Final Mission/Tails of Woe/Dismemberment Brigade/The Secret Weapon/Hostile Herbivores/Shattering Stars (WAR)/Shattering Stars (BLM)/Shattering Stars (RNG)/Carapace Combatants/Shooting Fish/Dropping Like Flies/Horns of War/Under Observation/Eye of the Tiger/Shots in the Dark/Double Dragonian/Today''s Horoscope/Contaminated Colosseum/Kindergarten Cap/Last Orc-Shunned Hero/Beyond Infinity/★Tails of Woe/★Dismemberment Brigade/A Feast Most Dire/A.M.A.N. Trove (Mars)/A.M.A.N. Trove (Venus)/Inv. from Excenmille/Inv. from Excenmille and Co.]”!'
+    Très difficile. (Niveau : ???)
+    Difficile. (Niveau : ???)
+    Normal. (Niveau : ${number: 18})
+    Facile. (Niveau : ${number: 17})
+    Très facile. (Niveau : ${number: 16})
+    Quitter.${prompt}
+  7586: 'Niveau de difficulté actuel : ${choice: 2}[Normal/Très difficile/Difficile/Normal/Facile/Très facile].${prompt}'
+  7587: 'Une force maligne s’échappe de votre ${item-singular: 3[2]}.${prompt}'
+  7588: 'Vous ne pouvez pas entrer sur le champ de bataille car ${choice: 0}[un ou plusieurs membres de votre groupe n’ont pas la désignation de maître de métier/vous n’avez pas la désignation de maître de métier].${prompt}'
+  7589: 'Votre ${item-singular: 3[2]} appelle quelque chose...${prompt}'
+  7590: 'Le ${item-singular: 0[2]} a une grande fissure qui court droit sur le côté.${prompt}'
+  7591: 'Quelque chose s’éveille en raison de la présence du ${item-singular: 3[2]}...${prompt}'
+  7592: 'Le serment a été accompli grâce au pouvoir de votre ${item-singular: 3[2]}.${prompt}'
+  7593: Retour au LIEU. Veuillez appuyer sur le bouton.${prompt}
+  7594: Il n'y a pas de réponse. Vous ne pouvez pas vous échapper !${prompt}
+  7595: 'Vous avez battu le record de temps clair pour « ${choice: 5}[La mission finale de rang 2/Les contes de malheur/Brigade de démembrement/L’arme secrète/Herbivores hostiles/Étoiles brisées (GUE)/Étoiles brisées (MNO)/Étoiles brisées (ARN)/Combattants de carapace/Tirer sur les poissons/Tomber comme des mouches/Les cornes de la guerre/Sous observation/L’œil du tigre/Tirs dans le noir/Dragon double/L’horoscope d’aujourd’hui/Colisée contaminé/Casquette de maternelle/Le dernier héros non-orque/Au-delà de l’infini/★Contes de malheur/★Brigade de démembrement/Un festin des plus sinistres/Trove A.M.A.N. (Mars)/Trove A.M.A.N. (Vénus)/Inv. d’Excenmille/Inv. d’Excenmille et Cie] » !'
+  7596: 'Le record actuel de temps clair pour « ${choice: 1}[La mission finale de rang 2/Les contes de malheur/Brigade de démembrement/L’arme secrète/Herbivores hostiles/Étoiles brisées (GUE)/Étoiles brisées (MNO)/Étoiles brisées (ARN)/Combattants de carapace/Tirer sur les poissons/Tomber comme des mouches/Les cornes de la guerre/Sous observation/L’œil du tigre/Tirs dans le noir/Dragon double/L’horoscope d’aujourd’hui/Colisée contaminé/Casquette de maternelle/Le dernier héros non-orque/Au-delà de l’infini/★Contes de malheur/★Brigade de démembrement/Un festin des plus sinistres/Trove A.M.A.N. (Mars)/Trove A.M.A.N. (Vénus)/Inv. d’Excenmille/Inv. d’Excenmille et Cie] » est de ${number: 3} seconde${choice-plurality: 3}[/s].'
+  7597: 'Le record actuel de temps clair pour « ${choice: 1}[La mission finale de rang 2/Les contes de malheur/Brigade de démembrement/L’arme secrète/Herbivores hostiles/Étoiles brisées (GUE)/Étoiles brisées (MNO)/Étoiles brisées (ARN)/Combattants de carapace/Tirer sur les poissons/Tomber comme des mouches/Les cornes de la guerre/Sous observation/L’œil du tigre/Tirs dans le noir/Dragon double/L’horoscope d’aujourd’hui/Colisée contaminé/Casquette de maternelle/Le dernier héros non-orque/Au-delà de l’infini/★Contes de malheur/★Brigade de démembrement/Un festin des plus sinistres/Trove A.M.A.N. (Mars)/Trove A.M.A.N. (Vénus)/Inv. d’Excenmille/Inv. d’Excenmille et Cie] » est de ${number: 3} minute${choice-plurality: 3}[/s] ${number: 2} seconde${choice-plurality: 2}[/s].'
+  7598: 'Entrée sur le champ de bataille pour « ${choice: 1}[La mission finale de rang 2/Les contes de malheur/Brigade de démembrement/L’arme secrète/Herbivores hostiles/Étoiles brisées (GUE)/Étoiles brisées (MNO)/Étoiles brisées (ARN)/Combattants de carapace/Tirer sur les poissons/Tomber comme des mouches/Les cornes de la guerre/Sous observation/L’œil du tigre/Tirs dans le noir/Dragon double/L’horoscope d’aujourd’hui/Colisée contaminé/Casquette de maternelle/Le dernier héros non-orque/Au-delà de l’infini/★Contes de malheur/★Brigade de démembrement/Un festin des plus sinistres/Trove A.M.A.N. (Mars)/Trove A.M.A.N. (Vénus)/Inv. d’Excenmille/Inv. d’Excenmille et Cie] » !'
   7599: |-
-    Which battlefield will you enter?
+    Quel champ de bataille allez-vous entrer ?
     ${selection-lines}
-    None.
-    The Rank 2 Final Mission.
-    Tails of Woe.
-    Dismemberment Brigade.
-    The Secret Weapon.
-    Hostile Herbivores.
-    Shattering Stars (WAR).
-    Shattering Stars (BLM).
-    Shattering Stars (RNG).
-    Carapace Combatants.
-    Shooting Fish.
-    Dropping Like Flies.
-    Horns of War.
-    Under Observation.
-    Eye of the Tiger.
-    Shots in the Dark.
-    Double Dragonian.
-    Today's Horoscope.
-    Contaminated Colosseum.
-    Kindergarten Cap.
-    Last Orc-Shunned Hero.
-    Beyond Infinity.
-    ★Tails of Woe
-    ★Dismemberment Brigade
-    A Feast Most Dire.
-    A.M.A.N. Trove (Mars).
-    A.M.A.N. Trove (Venus).
-    Inv. from Excenmille.
-    Inv. from Excenmille and Co.
+    Aucun.
+    La mission finale de rang 2.
+    Les contes de malheur.
+    Brigade de démembrement.
+    L'arme secrète.
+    Herbivores hostiles.
+    Étoiles brisées (GUE).
+    Étoiles brisées (MNO).
+    Étoiles brisées (ARN).
+    Combattants de carapace.
+    Tirer sur les poissons.
+    Tomber comme des mouches.
+    Les cornes de la guerre.
+    Sous observation.
+    L'œil du tigre.
+    Tirs dans le noir.
+    Dragon double.
+    L'horoscope d'aujourd'hui.
+    Colisée contaminé.
+    Casquette de maternelle.
+    Le dernier héros non-orque.
+    Au-delà de l'infini.
+    ★Contes de malheur.
+    ★Brigade de démembrement.
+    Un festin des plus sinistres.
+    Trove A.M.A.N. (Mars).
+    Trove A.M.A.N. (Vénus).
+    Inv. d'Excenmille.
+    Inv. d'Excenmille et Cie.
     .
     .
     .
     .
     .${prompt}
-  7600: Casting effect.${prompt}
-  7601: Summoning effect.${prompt}
-  7602: Press a button to continue.${prompt}
+  7600: Effet en cours.${prompt}
+  7601: Effet d'invocation.${prompt}
+  7602: Appuyez sur un bouton pour continuer.${prompt}
   7603: |-
-    For Boss Room debug
+    Pour le débogage de la salle du boss
     ${selection-lines}
-    Do nothing.
-    Release lock on boss room.${prompt}
-  7604: Boss room lock released!${prompt}
+    Ne rien faire.
+    Libérer le verrouillage de la salle du boss.${prompt}
+  7604: Verrouillage de la salle du boss libéré !${prompt}
   7605: |-
-    ★Event Skip Menu
+    ★Menu de saut d'événement
     ${selection-lines}
-    Don't skip.
-    Skip! Skip!${prompt}
-  7606: It doesn't look like you've found what you're looking for here either.${prompt}
-  7607: Yes, I thought that the Orcs may have had the sword, but I guess I was wrong.${prompt}
-  7608: But, what is this...this...this feeling of unrest?${prompt}
-  7609: Arise, Wyrm of Darkness, Devourer of Light! I command you, smite my enemies where they stand!${prompt}
+    Ne pas sauter.
+    Sauter ! Sauter !${prompt}
+  7606: Il ne semble pas que vous ayez trouvé ce que vous cherchez ici non plus.${prompt}
+  7607: Oui, je pensais que les Orques pouvaient avoir l'épée, mais je suppose que j'avais tort.${prompt}
+  7608: Mais, qu'est-ce que c'est... ce... ce sentiment d'inquiétude ?${prompt}
+  7609: Lève-toi, Dragon des Ténèbres, Dévoreur de Lumière ! Je te commande de frapper mes ennemis là où ils se tiennent !${prompt}
   7610: '...!?${wait-animation: 1}'
-  7611: What is that!?${prompt}
-  7612: Watch yourself. I've never seen any monster like this before.${prompt}
-  7613: Heh-heh-heh... I'm so glad you could come. I didn't realize that my little deception would be so effective.${prompt}
-  7614: You don't even realize what is playing out before your own eyes. However, that is of no matter, since this is the last thing you will ever see.${prompt}
-  7615: It's just like you said, Rochefogne. There is something bigger lurking behind the Orcs.${prompt}
-  7616: Wait, Vauderame. It looks like we have a visitor.${prompt}
+  7611: Qu'est-ce que c'est que ça !?${prompt}
+  7612: Faites attention. Je n'ai jamais vu de monstre comme celui-ci auparavant.${prompt}
+  7613: Heh-heh-heh... Je suis si heureux que vous soyez venu. Je ne pensais pas que ma petite tromperie serait si efficace.${prompt}
+  7614: Vous ne réalisez même pas ce qui se passe sous vos yeux. Cependant, cela n'a pas d'importance, puisque c'est la dernière chose que vous verrez jamais.${prompt}
+  7615: C'est exactement comme vous l'avez dit, Rochefogne. Il y a quelque chose de plus grand qui se cache derrière les Orques.${prompt}
+  7616: Attendez, Vauderame. On dirait que nous avons un visiteur.${prompt}
   7617: |-
     An adventurer?
     Excellent. We have the perfect job for ${choice-player-gender}[him/her].${prompt}
