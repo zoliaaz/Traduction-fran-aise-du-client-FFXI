@@ -16149,20 +16149,20 @@ entries:
   6465: |-
     You cannot perform that action.
     Come back after you have obtained visitant status.
-  6466: You cannot perform that action while participating in Bastion.
-  6467: '${color-alt: 121}Target out of range.${prompt}'
-  6468: You cannot view this event while holding claim over a synergy furnace.${prompt}
-  6469: '${color-alt: 123}You cannot perform that action with a free trial account.${prompt}'
-  6470: 'You must wait another ${number: 0} ${choice-plurality: 0}[day/days] to perform that action.${prompt}'
-  6471: '${color-alt: 121}${name-player} gained ${number: 0} ${choice: 1}[points of experience/limit points].'
-  6472: 'You cannot carry any more ${keyitem-plural: 0[2]}.${prompt}'
-  6473: '${color-alt: 121}You have carried over ${number: 1} login point${choice-plurality: 1}[/s].${prompt}'
+  6466: Vous ne pouvez pas effectuer cette action tout en participant à Bastion.
+  6467: '${color-alt: 121}Cible hors de portée.${prompt}'
+  6468: Vous ne pouvez pas voir cet événement tout en revendiquant un fourneau de synergie.${prompt}
+  6469: '${color-alt: 123}Vous ne pouvez pas effectuer cette action avec un compte d’essai gratuit.${prompt}'
+  6470: 'Vous devez attendre ${number: 0} ${choice-plurality: 0}[jour/jours] supplémentaire(s) pour effectuer cette action.${prompt}'
+  6471: '${color-alt: 121}${name-player} a gagné ${number: 0} ${choice: 1}[points d’expérience/points de limite].'
+  6472: 'Vous ne pouvez pas porter plus de ${keyitem-plural: 0[2]}.${prompt}'
+  6473: '${color-alt: 121}Vous avez reporté ${number: 1} point${choice-plurality: 1}[s] de connexion.${prompt}'
   6474: |-
-    The ${choice: 1}[/January/February/March/April/May/June/July/August/September/October/November/December] ${number: 0} Login Campaign is currently underway!
+    La Campagne de Connexion ${choice: 1}[/Janvier/Février/Mars/Avril/Mai/Juin/Juillet/Août/Septembre/Octobre/Novembre/Décembre] ${number: 0} est actuellement en cours !
     ${prompt}
   6475: |-
-    In celebration of your most recent login (login no. ${number: 1}), we have provided you with ${number: 2} points!
-    You currently have a total of ${number: 3} points.${prompt}
+    En célébration de votre connexion la plus récente (connexion n° ${number: 1}), nous vous avons accordé ${number: 2} points !
+    Vous avez actuellement un total de ${number: 3} points.${prompt}
   6476: ${prompt}
   6477: ${prompt}
   6478: ${prompt}
