@@ -16405,30 +16405,30 @@ entries:
   6684: 'This map shows Bhaflau Thickets, lying to the north of Al Zahbi. It costs ${number: 3} gil.${prompt}'
   6685: '${keyitem-article: 1[2]} is an older map that was often used to depict ${zone: 2[2]}. It costs ${number: 3} gil.${prompt}'
   6686: |-
-    You can set this as your current home point.
-    Once you set a home point, you will return there whenever you are incapacitated.
+    Vous pouvez définir ceci comme votre point de rappel actuel.
+    Une fois que vous avez défini un point de retour, vous y retournerez chaque fois que vous êtes K.O.${prompt}
   6687: |-
-    Set this as current home point?
+    Définir ceci comme point de retour actuel ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  6688: Home point set!${prompt}
-  6689: A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.
+    Oui.
+    Non.${prompt}
+  6688: Point de retour défini !${prompt}
+  6689: Un point de retour peut être défini comme un endroit où vous retournez à Vana'diel lorsque vous avez été mis K.O. Vous pouvez également utiliser un point de retour pour téléporter vers d'autres points de retour.${prompt}
   6690: |-
-    What will you do?
+    Que ferez-vous ?
     ${selection-lines}
-    Travel to another home point.
-    Set this as your home point.
-    Other settings.
-    On second thought, never mind.${prompt}
+    Voyager vers un autre point de retour.
+    Définir ceci comme votre point de retour.
+    Autres réglages.
+    En y repensant, laissez tomber.${prompt}
   6691: |-
-    You have registered a new home point!
-    You are now able to teleport here from any other home point.${prompt}
-  6692: You may teleport from here to any other home point you have registered.
+    Vous avez enregistré un nouveau point de retour !
+    Vous pouvez maintenant vous téléporter ici depuis n'importe quel autre point de retour.${prompt}
+  6692: Vous pouvez vous téléporter d'ici vers n'importe quel autre point de retour que vous avez enregistré.${prompt}
   6693: |-
-    Teleport where?
+    Téléporter où ?
     ${selection-lines}
-    Never mind.
+    Peu importe.
     ${zone: 1[2]}.
     ${zone: 2[2]}.
     ${zone: 3[2]}.
@@ -16445,81 +16445,55 @@ entries:
     ${zone: 14[2]}.
     ${zone: 15[2]}.
     ${zone: 16[2]}.
-    Previous page.
-    Next page.${prompt}
+    Page précédente.
+    Page suivante.${prompt}
   6694: |-
-    Teleport where?（${zone: 33[2]}）
+    Téléporter où ?（${zone: 33[2]}）
     ${selection-lines}
-    Nowhere.
-    Home Point #1${choice: 1}[/ (M)/ (A)/ (E)].
-    Home Point #2${choice: 2}[/ (M)/ (A)/ (E)].
-    Home Point #3${choice: 3}[/ (M)/ (A)/ (E)].
-    Home Point #4${choice: 4}[/ (M)/ (A)/ (E)].
-    Home Point #5${choice: 5}[/ (M)/ (A)/ (E)].${prompt}
-  6695: You have not yet registered any other home points, and thus are unable to teleport.${prompt}
-  6696: 'It costs ${number: 3} gil to teleport to Home Point #${number: 2} in ${zone: 1[2]}.'
-  6697: 'There is no fee for teleporting to Home Point #${number: 2} in ${zone: 1[2]}.'
+    Nulle part.
+    Point de retour #1${choice: 1}[/ (M)/ (A)/ (E)].
+    Point de retour #2${choice: 2}[/ (M)/ (A)/ (E)].
+    Point de retour #3${choice: 3}[/ (M)/ (A)/ (E)].
+    Point de retour #4${choice: 4}[/ (M)/ (A)/ (E)].
+    Point de retour #5${choice: 5}[/ (M)/ (A)/ (E)].${prompt}
+  6695: Vous n'avez pas encore enregistré d'autres points de retour et êtes donc incapable de vous téléporter.${prompt}
+  6696: 'Il en coûte ${number: 3} gil pour se téléporter au Point de retour #${number: 2} dans ${zone: 1[2]}.${prompt}'
+  6697: 'Il n’y a pas de frais pour se téléporter au Point de retour #${number: 2} dans ${zone: 1[2]}.${prompt}'
   6698: |-
-    Teleport? (Current gil: ${number: 0})
+    Téléporter ? (Gil actuel : ${number: 0})
     ${selection-lines}
-    ${choice: 33}[Add to favorites/Remove from favorites].
-    Yes, please.
-    No, thank you.${prompt}
+    ${choice: 33}[Ajouter aux favoris/Retirer des favoris].
+    Oui, s'il vous plaît.
+    Non, merci.${prompt}${prompt}
   6699: |-
-    Teleport to which region?
+    Téléporter vers quelle région ?
     ${selection-lines}
-    On second thought, none.
-    Select from favorites.
-    Current region.
-    ${choice: 1}[San d'Oria/Movalpolos].
-    ${choice: 1}[Bastok/Tavnazian Arch].
-    ${choice: 1}[Windurst/Lumoria].
-    ${choice: 1}[Jeuno/Mamool Ja Savage].
-    ${choice: 1}[Tavnazia/Halvung].
-    ${choice: 1}[West. Aht Urhgan/Arrapago Is].
-    ${choice: 1}[Adoulin Isles/Ruins of Alzadaal].
-    ${choice: 1}[Ronfaure/Ronfaure Front].
-    ${choice: 1}[Zulkheim/Norvallen Front].
-    ${choice: 1}[Norvallen/Gustaberg Front].
-    ${choice: 1}[Gustaberg/Derfland Front].
-    ${choice: 1}[Derfland/Sarutabaruta Front].
-    ${choice: 1}[Sarutabaruta/Aragoneu Front].
-    ${choice: 1}[Kolshushu/Fauregandi Front].
-    ${choice: 1}[Aragoneu/Valdeaunia Front].
-    ${choice: 1}[Fauregandi/East. Ulbuka].
-    ${choice: 1}[Valdeaunia/Ra'Kaznar].
-    ${choice: 1}[Qufim/].
-    ${choice: 1}[Li'Telor/].
-    ${choice: 1}[Kuzotz/].
-    ${choice: 1}[Vollbow/].
-    ${choice: 1}[Elshimo Low/].
-    ${choice: 1}[Elshimo Up/].
-    ${choice: 1}[Tu'Lia/].
-    Previous page.
-    Next page.${prompt}
+    En y réfléchissant, aucune.
+    Sélectionner depuis les favoris.
+    Région actuelle.${prompt}
   6700: |-
-    Teleport where?
+    Téléporter où ?
     ${selection-lines}
-    None of these.
-    A favorited location.
-    An original area.
-    A Rise of the Zilart area.
-    A Chains of Promathia area.
-    A Treasures of Aht Urhgan area.
-    A Wings of the Goddess area.
-    A Seekers of Adoulin area.${prompt}
-  6701: You may change the method of selecting the area of your desired home point to teleport to.
+    Aucun de ceux-ci.
+    Un emplacement favori.
+    Une zone originale.
+    Une zone de l'extension "Rise of the Zilart".
+    Une zone de l'extension "Chains of Promathia".
+    Une zone de l'extension "Treasures of Aht Urhgan".
+    Une zone de l'extension "Wings of the Goddess".
+    Une zone de l'extension "Seekers of Adoulin".
+  6701: Vous pouvez modifier la méthode de sélection de la zone de votre point de retour souhaité pour vous téléporter.${prompt}
   6702: |-
-    Which setting would you like?
+    Quel paramètre souhaitez-vous ?
     ${selection-lines}
-    My current setting.
-    Select by region.
-    Select by expansion.${prompt}
-  6703: 'You are now selecting by ${choice: 1}[region/expansion].'
+    Mon paramètre actuel.
+    Sélection par région.
+    Sélection par extension.
+  6703: 'Vous sélectionnez désormais par ${choice: 1}[région/extension].${prompt}'
   6704: |-
-    Teleport where?
+    Téléporter où ?
     ${selection-lines}
-    None of these.
+    Aucun de ceux-ci.
     ${zone: 1[2]} #${number: 17}.
     ${zone: 2[2]} #${number: 18}.
     ${zone: 3[2]} #${number: 19}.
@@ -16529,13 +16503,13 @@ entries:
     ${zone: 7[2]} #${number: 23}.
     ${zone: 8[2]} #${number: 24}.
     ${zone: 9[2]} #${number: 25}.
-    ${choice: 33}[Add to favorites/Remove from favorites].${prompt}
-  6705: 'Home Point #${number: 2} in ${zone: 1[2]} has been ${choice: 33}[registered to/removed from] your list of favorite locations.'
-  6706: Your list of favorite locations is full. You must delete an existing entry in order to register a new one.
+    ${choice: 33}[Ajouter aux favoris/Retirer des favoris].${prompt}
+  6705: 'Le point de retour #${number: 2} dans ${zone: 1[2]} a été ${choice: 33}[enregistré dans/supprimé de] votre liste d’emplacements favoris.${prompt}'
+  6706: Votre liste d’emplacements favoris est pleine. Vous devez supprimer une entrée existante afin d'enregistrer une nouvelle.${prompt}
   6707: |-
-    Delete which?
+    Supprimer lequel ?
     ${selection-lines}
-    None of these.
+    Aucun de ceux-ci.
     ${zone: 1[2]} #${number: 17}.
     ${zone: 2[2]} #${number: 18}.
     ${zone: 3[2]} #${number: 19}.
@@ -16545,27 +16519,27 @@ entries:
     ${zone: 7[2]} #${number: 23}.
     ${zone: 8[2]} #${number: 24}.
     ${zone: 9[2]} #${number: 25}.${prompt}
-  6708: 'If you wish to ride a chocobo, you must possess ${keyitem-article: 7[2]} and have a high enough job level.${prompt}'
-  6709: 'You can rent a chocobo for ${number: 0} gil. I see you currently have ${number: 1} gil.${prompt}'
-  6710: You can rent a chocobo, but because your level is so low, you won't be able to ride for very long. Also, equipment that extends your riding time will have no effect.${prompt}
-  6711: 'If you still want one, it will cost you ${number: 0} gil. I see you currently have ${number: 1} gil.${prompt}'
+  6708: "Si vous souhaitez monter un chocobo, vous devez posséder ${keyitem-article: 7[2]} et avoir un niveau de job suffisamment élevé.${prompt}"
+  6709: "Vous pouvez louer un chocobo pour ${number: 0} gils. Je vois que vous avez actuellement ${number: 1} gils.${prompt}"
+  6710: "Vous pouvez louer un chocobo, mais comme votre niveau est si bas, vous ne pourrez pas monter très longtemps. De plus, l'équipement qui prolonge votre temps de monte n'aura aucun effet.${prompt}"
+  6711: "Si vous en voulez toujours un, cela vous coûtera ${number: 0} gils. Je vois que vous avez actuellement ${number: 1} gils.${prompt}"
   6712: |-
-    Do you wish to rent a chocobo?
+    Souhaitez-vous louer un chocobo ?
     ${selection-lines}
-    Yes, I do.
-    No, thank you.${prompt}
-  6713: You don't have enough gil.${prompt}
+    Oui, je le veux.
+    Non, merci.${prompt}
+  6713: Vous n'avez pas assez de gils.${prompt}
   6714: |-
-    You cannot obtain the ${item-singular: 0[2]}.
-    Come back after sorting your inventory.${prompt}
-  6715: 'Would you be so kind as to deliver her to ${choice: 3}[the entrance to the Gustav Tunnel (B-8)/Bibiki Bay (G-10)/the entrance of Uggalepih Temple (J-11)]?${prompt}'
+    Vous ne pouvez pas obtenir le ${item-singular: 0[2]}.
+    Revenez après avoir rangé votre inventaire.${prompt}
+  6715: "Pourriez-vous avoir la gentillesse de la livrer à ${choice: 3}[l'entrée du tunnel Gustav (B-8)/Bibiki Bay (G-10)/l'entrée du temple Uggalepih (J-11)] ?${prompt}"
   6716: |-
-    Only those fulfilling both requirements set forth by the alliance may ride a chocobo.
-    First, you must be a soldier of a respectable level in the Allied Forces. Secondly, you must be in possession of ${keyitem-article: 7[2]}.${prompt}
+    Seules les personnes remplissant les deux exigences fixées par l'alliance peuvent monter un chocobo.
+    Tout d'abord, vous devez être un soldat d'un niveau respectable dans les Forces Alliées. Deuxièmement, vous devez être en possession de ${keyitem-article: 7[2]}.${prompt}
   6717: |-
-    Any of our fine birds here will bear you directly to the frontlines of battle.
-    We charge a service fee of ${number: 0} Allied Notes, which goes towards seeing that the chocobos are well taken care of.
-    My records indicate that you currently have ${number: 1} Allied Notes.${prompt}
+    Tous nos bons chocobos vous emmèneront directement sur le front de bataille.
+    Nous facturons des frais de service de ${number: 0} Notes Alliées, qui servent à assurer le bien-être des chocobos.
+    Mes registres indiquent que vous avez actuellement ${number: 1} Notes Alliées.${prompt}
   6718: |-
     Hmmm... It looks like you don't have enough Allied Notes.
     Sorry, but these birds aren't going to feed and groom themselves.${prompt}
@@ -17857,7 +17831,7 @@ entries:
   7544: Les Elvaan ne sont-ils pas géniaux ? Si une race était faite pour la royauté, c'est bien eux !${prompt}
   7545: Les Tarutaru ne sont-ils pas géniaux ? Ils sont si mignons et si petits ! Si petits, en fait, que parfois je les rate quand ils viennent au comptoir !${prompt}
   7546: Les Mithra ne sont-elles pas géniales ? Leurs oreilles pointues et leurs longues queues accélèrent mon cœur !${prompt}
-  7547: Les Galka ne sont-ils pas géniaux ? Leurs muscles me rappellent moi quand j'étais jeune... Quoi ? Tu ne me crois pas ?${prompt}
+  7547: Les Galka ne sont-ils pas géniaux ? Leurs muscles me retourlent moi quand j'étais jeune... Quoi ? Tu ne me crois pas ?${prompt}
   7548: Les gentlemen ne sont-ils pas géniaux ? Sauf ce type qui court après ma fille. Je le déteste !${prompt}
   7549: Les dames ne sont-elles pas géniales ? Ce serait sympa si ma fille pouvait rester un moment. Mais je ne ferais jamais de travail avec elle ici.${prompt}
   7550: Bienvenue dans notre modeste boutique !${prompt}
@@ -26214,7 +26188,7 @@ entries:
   11851: Elle m'a même parlé de ces affreuses statues que les gens appellent “gouffres”.${prompt}
   11852: Je n'ai pas moi-même vécu cette expérience, mais ils disent que rien que la vue de ces idoles fait ressurgir les souvenirs les plus horribles de la guerre...${prompt}
   11853: |-
-    Je me demande s'il existe d'autres choses dans le monde qui rappellent aux gens cette période horrible.
+    Je me demande s'il existe d'autres choses dans le monde qui retourlent aux gens cette période horrible.
     Si seulement de telles atrocités pouvaient être enterrées pour toujours.${prompt}
   11854: Est-ce que les bêtes ont aussi un dieu auquel elles prient, de la même manière que nous demandons les bénédictions d'Altana ?${prompt}
   11855: |-
