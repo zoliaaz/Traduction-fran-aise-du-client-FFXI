@@ -17867,55 +17867,55 @@ entries:
   7319: 'Your chocobo refuses to partake of the ${item-singular: 0[2]}.${prompt}'
   7320: Welcome to Bostaunieux Oubliette...${prompt}
   7321: My name is Cyranuce M. Cutauleon, and I have been here for a very long time.${prompt}
-  7322: It seems to be locked.${prompt}
+  7322: Il semble être verrouillé.${prompt}
   7323: |-
-    In past times, it was said that nobles accused of treason were thrown down there.
-    They would wander for days through the maze of sewer tunnels, until they would finally collapse from starvation.${prompt}
-  7324: Now terrible beasts prowl through the darkness. If you have the courage, you may enter.${prompt}
+    Autrefois, on disait que les nobles accusés de trahison étaient jetés là-dedans.
+    Ils erraient pendant des jours à travers le labyrinthe de tunnels d'égouts, jusqu'à ce qu'ils s'effondrent finalement de faim.${prompt}
+  7324: Maintenant, des bêtes terribles rôdent dans l'obscurité. Si vous avez du courage, vous pouvez entrer.${prompt}
   7325: |-
-    What will you do?
+    Que ferez-vous?
     ${selection-lines}
-    Open the lid and enter.
-    Stay up here for now.${prompt}
-  7326: Hi!${prompt}
-  7327: This is Bostaunieux Oubliette, where all the criminals of the Kingdom are kept.${prompt}
-  7328: If you continue on this way, you will come out in West Ronfaure. It's the only way out.${prompt}
-  7329: Those without business here should be on their way. That means you.${prompt}
-  7330: 'Say, would you be so kind as to bring me ${article} ${item-article: 0[2]}?${prompt}'
+    Ouvrir le couvercle et entrer.
+    Rester ici pour le moment.${prompt}
+  7326: Salut!${prompt}
+  7327: Ici, c'est l'Oubliette de Bostaunieux, où tous les criminels du Royaume sont détenus.${prompt}
+  7328: Si vous continuez par ici, vous sortirez à Ouest Ronfaure. C'est la seule issue.${prompt}
+  7329: Ceux qui n'ont pas de raison d'être ici devraient partir. Cela vous concerne.${prompt}
+  7330: 'Dites, seriez-vous si aimable de m’apporter ${article} ${item-article: 0[2]}?${prompt}'
   7331: |-
-    What do you say?
+    Que dites-vous ?
     ${selection-lines}
-    Sure.
-    No way.${prompt}
-  7332: 'So you will bring me ${article} ${item-article: 0[2]}? Please then, make haste.${prompt}'
-  7333: And...thank you.${prompt}
-  7334: If you have a moment, will you hear my request?${prompt}
+    Bien sûr.
+    Pas question.${prompt}
+  7332: 'Alors vous m’apporterez ${article} ${item-article: 0[2]} ? Dans ce cas, dépêchez-vous, je vous prie.${prompt}'
+  7333: Et... merci.${prompt}
+  7334: Si vous avez un moment, accepteriez-vous d'écouter ma demande ?${prompt}
   7335: |-
-    Listen to him?
+    L'écouter ?
     ${selection-lines}
-    Hear what he has to say.
-    No way.${prompt}
-  7336: Ah. I see. Don't mind me, then.${prompt}
-  7337: 'I want you to bring me ${article} ${item-article: 0[2]}.${prompt}'
+    Écouter ce qu'il a à dire.
+    Pas question.${prompt}
+  7336: Ah. Je vois. Ne vous préoccupez pas de moi, alors.${prompt}
+  7337: 'Je veux que vous m’apportiez ${article} ${item-article: 0[2]}.${prompt}'
   7338: |-
-    Just...don't ask me why. How about it?
-    Will you do this for me?${prompt}
+    Juste... ne me demandez pas pourquoi. Alors, qu'en dites-vous ?
+    Le ferez-vous pour moi ?${prompt}
   7339: |-
-    Accept Novalmauge's request?
+    Accepter la demande de Novalmauge ?
     ${selection-lines}
-    Accept.
-    Turn him down.${prompt}
-  7340: Ah...ah-hah. That is to be expected, I guess. Sorry to ask such a ludicrous favor! Don't worry yourself about it.${prompt}
-  7341: That is good news, indeed. Please hurry, I beg you.${prompt}
-  7342: Eh? What? You'll take my request?${prompt}
-  7343: 'That is good news, indeed. I want you to bring me ${article} ${item-article: 0[2]}, and as fast as you can.${prompt}'
-  7344: You do me a great service. It is hard to find such a helper. I thank you.${prompt}
-  7345: You've...heard about me? That I am some sort of blood-sucker...a freak of nature? And of course, you'd believe them...everyone does.${prompt}
+    Accepter.
+    Refuser.${prompt}
+  7340: Ah... ah-ah. Je suppose que c'est à prévoir. Désolé de vous demander une faveur si ridicule ! Ne vous en faites pas.${prompt}
+  7341: C'est une bonne nouvelle, en effet. Dépêchez-vous, je vous en prie.${prompt}
+  7342: Eh ? Quoi ? Vous acceptez ma demande ?${prompt}
+  7343: 'C’est une bonne nouvelle, en effet. Je veux que vous m’apportiez ${article} ${item-article: 0[2]}, et aussi vite que possible.${prompt}'
+  7344: Vous me rendez un grand service. Il est difficile de trouver une telle aide. Je vous remercie.${prompt}
+  7345: Vous avez... entendu parler de moi ? Que je suis une sorte de suceur de sang... une aberration de la nature ? Et bien sûr, vous les croiriez... tout le monde le fait.${prompt}
   7346: |-
-    Do you believe the rumors?
+    Croyez-vous aux rumeurs ?
     ${selection-lines}
-    Yes, I do.
-    Never!${prompt}
+    Oui, je le crois.
+    Jamais !${prompt}
   7347: Peu importe... Vous semblez être une âme bienveillante, alors je vais vous dire. J'ai une maladie.${prompt}
   7348: Chaque fois que la lumière du soleil touche ma peau, elle me brûle d'une manière horrible.${prompt}
   7349: J'ai été empoisonné, il y a longtemps... C'est ainsi que je suis devenu ainsi. Et depuis, je cherche un remède, une sorte de sérum.${prompt}
