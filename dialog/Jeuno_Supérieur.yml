@@ -17098,46 +17098,46 @@ entries:
   6917: 'Le temps après-demain sera ${weather-adjective: 0[2]}.${prompt}'
   6918: Et c'est le rapport, directement de la linkshell météorologique officielle de Vana'diel.${prompt}
   6919: |-
-      De quelle région souhaitez-vous connaître le temps ?
-      ${selection-lines}
-      Nulle part.
-      Forêt de Wajaom.
-      Fourrés de Bhaflau.
-      Mont Zhayolm.
-      Marais de Caedarva.${prompt}
+    De quelle région souhaitez-vous connaître le temps ?
+    ${selection-lines}
+    Nulle part.
+    Forêt de Wajaom.
+    Fourrés de Bhaflau.
+    Mont Zhayolm.
+    Marais de Caedarva.${prompt}
   6920: |-
-      De quelle région souhaitez-vous connaître le temps ?
-      ${selection-lines}
-      Nulle part.
-      Champs de bataille de Ceizak.
-      Terrains de chasse de Yahse.
-      Forêt de Hennetiel.
-      Champs de basalte de Morimar.
-      Weald de Yorcia.
-      Ravin de Marjami.
-      Drifts de Kamihr.${prompt}
+    De quelle région souhaitez-vous connaître le temps ?
+    ${selection-lines}
+    Nulle part.
+    Champs de bataille de Ceizak.
+    Terrains de chasse de Yahse.
+    Forêt de Hennetiel.
+    Champs de basalte de Morimar.
+    Weald de Yorcia.
+    Ravin de Marjami.
+    Drifts de Kamihr.${prompt}
   6921: (...Ouais, c'est ce que j'ai dit !)${prompt}
   6922: (Mais tu sais quoi ? Oh, attends. Un instant...)${prompt}
   6923: Désolé, puis-je vous aider ?${prompt}
   6924: '${color-alt: 15}${name-player} pointe vers l’objet dans la main de ${name-npc}.'
   6925: 'Oh, ça ? C’est une coquille magique appelée ${article} ${item-article: 1[2]}.${prompt}'
   6926: |-
-      Vous voulez en savoir plus sur ${item-plural: 1[2]} ?
-      Laissez-moi tout vous expliquer !${prompt}
+    Vous voulez en savoir plus sur ${item-plural: 1[2]} ?
+    Laissez-moi tout vous expliquer !${prompt}
   6927: |-
-      Que voulez-vous demander ?
-      ${selection-lines}
-      Qu'est-ce que ${article} ${item-article: 1[2]} ?
-      Quels types de ${item-plural: 1[2]} existe-t-il ?
-      Comment les utiliser ?
-      Peu importe.${prompt}
+    Que voulez-vous demander ?
+    ${selection-lines}
+    Qu'est-ce que ${article} ${item-article: 1[2]} ?
+    Quels types de ${item-plural: 1[2]} existe-t-il ?
+    Comment les utiliser ?
+    Peu importe.${prompt}
   6928: Ces coquilles magiques sont pleines de mystères...${prompt}
   6929: |-
-      Vous pouvez en obtenir de belles perles.
-      Certains disent que ce sont de nouvelles sortes de coquilles de shall, mais...${prompt}
+    Vous pouvez en obtenir de belles perles.
+    Certains disent que ce sont de nouvelles sortes de coquilles de shall, mais...${prompt}
   6930: |-
-      Même si vous sortez une perle, elles en produisent de plus en plus.
-      Étrange, non ?${prompt}
+    Même si vous sortez une perle, elles en produisent de plus en plus.
+    Étrange, non ?${prompt}
   6931: Ce qui est encore plus étrange, c'est que les perles provenant de la même coquille transmettent le son, peu importe la distance qui les sépare !${prompt}
   6932: Donc, si vous parlez dans l'une des perles, les personnes qui possèdent d'autres perles ou la coquille dont elles proviennent peuvent vous entendre !${prompt}
   6933: C'est comme si elles étaient liées par un fil invisible... Hein. Je suppose que c'est pour cela qu'elles ont "link" dans leurs noms.${prompt}
@@ -17145,20 +17145,20 @@ entries:
   6935: 'Il existe également différents types de ${item-plural: 1[2]}.${prompt}'
   6936: Y a-t-il autre chose que vous voulez savoir ?
   6937: |-
-      Sur quoi voulez-vous poser une question ?
-      ${selection-lines}
-      ${lettercase: 1}${item-plural: 0[2]}.
-      ${lettercase: 1}${item-plural: 1[2]}.
-      ${lettercase: 1}${item-plural: 2[2]}.
-      ${lettercase: 1}${item-plural: 3[2]}.
-      Retour.${prompt}
+    Sur quoi voulez-vous poser une question ?
+    ${selection-lines}
+    ${lettercase: 1}${item-plural: 0[2]}.
+    ${lettercase: 1}${item-plural: 1[2]}.
+    ${lettercase: 1}${item-plural: 2[2]}.
+    ${lettercase: 1}${item-plural: 3[2]}.
+    Retour.${prompt}
   6938: '${lettercase: 1}${item-plural: 0[2]} sont des ${item-plural: 1[2]} lorsque vous les achetez pour la première fois au magasin.${prompt}'
   6939: 'Une fois ouverts, ils commencent à créer des ${item-plural: 2[2]} et deviennent l’outil de communication que tout le monde utilise.${prompt}'
   6940: 'Vous pouvez définir la couleur et le nom de votre ${item-singular: 1[2]} lors de son ouverture. Assurez-vous de choisir ceux que vous aimez car vous ne pourrez pas les changer par la suite !${prompt}'
   6941: '${lettercase: 1}${item-plural: 1[2]} sont des ${item-plural: 0[2]} qui ont été ouverts et qui fonctionnent comme un outil de communication.${prompt}'
   6942: |-
-      Vous pouvez créer des ${item-plural: 2[2]} et des ${item-plural: 3[2]} à partir de ces coquilles.
-      Elles sont comme le chef de groupe d'une équipe d'aventuriers.${prompt}
+    Vous pouvez créer des ${item-plural: 2[2]} et des ${item-plural: 3[2]} à partir de ces coquilles.
+    Elles sont comme le chef de groupe d'une équipe d'aventuriers.${prompt}
   6943: 'Tous les objets créés par votre ${item-singular: 1[2]} conservent la couleur et le nom de la ${item-singular: 1[2]}.${prompt}'
   6944: Choisissez un nom unique afin qu'il soit facile à retenir.${prompt}
   6945: '${lettercase: 1}${item-plural: 2[2]} sont des perles que ${item-plural: 1[2]} fabriquent.${prompt}'
@@ -17169,26 +17169,26 @@ entries:
   6950: 'Vous devez utiliser ${article} ${item-article: 1[2]} pour créer ${article} ${item-article: 3[2]}. Il en va de même si vous souhaitez le reconvertir en ${article} ${item-article: 2[2]}.${prompt}'
   6951: Elles sont comme les chefs de groupe d'une alliance d'équipes d'aventuriers...${prompt}'
   6952: |-
-      Vous voulez savoir comment les utiliser ?
-      Par où devrais-je commencer ?${prompt}
+    Vous voulez savoir comment les utiliser ?
+    Par où devrais-je commencer ?${prompt}
   6953: |-
-      Que voulez-vous savoir ?
-      ${selection-lines}
-      Où en obtenir un.
-      Assigner une couleur et un nom.
-      Fabriquer des ${item-plural: 2[2]}.
-      Les équiper.
-      Parler dedans.
-      Métamorphoser ${article} ${item-article: 2[2]}.
-      Les jeter.
-      Retour.${prompt}
+    Que voulez-vous savoir ?
+    ${selection-lines}
+    Où en obtenir un.
+    Assigner une couleur et un nom.
+    Fabriquer des ${item-plural: 2[2]}.
+    Les équiper.
+    Parler dedans.
+    Métamorphoser ${article} ${item-article: 2[2]}.
+    Les jeter.
+    Retour.${prompt}
   6954: 'Vous pouvez acheter des ${item-plural: 1[2]} dans les magasins. Ils sont un peu chers, cependant.${prompt}'
   6955: Il serait peut-être préférable de demander à des amis qui veulent des perles de participer aux frais.${prompt}
   6956: 'Une ${item-singular: 0[2]} fraîchement achetée n’a ni couleur ni nom.${prompt}'
   6957: '${lettercase: 1}${article} ${item-article: 1[2]} devient utilisable seulement après avoir choisi sa couleur et lui avoir donné un nom. Ensuite, vous pouvez l’utiliser pour créer des ${item-plural: 2[2]}.${prompt}'
   6958: |-
-      Vous pouvez combiner différentes quantités de bleu, rouge et vert pour créer la couleur de votre coquille.
-      Vous ne pouvez utiliser que des lettres de l'alphabet pour le nom, mais vous pouvez utiliser des majuscules et des minuscules où vous voulez.${prompt}
+    Vous pouvez combiner différentes quantités de bleu, rouge et vert pour créer la couleur de votre coquille.
+    Vous ne pouvez utiliser que des lettres de l'alphabet pour le nom, mais vous pouvez utiliser des majuscules et des minuscules où vous voulez.${prompt}
   6959: '${lettercase: 1}${item-plural: 2[2]} sont fabriqués à partir des ${item-plural: 1[2]}.${prompt}'
   6960: 'Les fabriquer est facile. Il suffit d’équiper votre ${item-singular: 1[2]}, puis d’aller dans "Linkshell" dans le menu et de sélectionner "Créer une perle"!${prompt}'
   6961: 'Toutes les ${item-plural: 2[2]} fabriquées de cette manière conservent la couleur et le nom de la ${item-singular: 1[2]}, donc il est facile de savoir qui peut vous entendre!${prompt}'
@@ -17208,23 +17208,23 @@ entries:
   6975: 'Donc, si vous voulez arrêter d’écouter votre lien, il vous suffit de déséquiper votre ${item-singular: 1[2]}, ${item-singular: 2[2]}, ou ${item-singular: 3[2]}.${prompt}'
   6976: '${lettercase: 1}${article} ${item-article: 1[2]} peut métamorphoser les ${item-plural: 2[2]} et ${item-plural: 3[2]} des autres. Bien sûr, il ne peut affecter que ceux qui ont été fabriqués à partir de la même ${item-singular: 1[2]}.${prompt}'
   6977: |-
-      Il y a deux types de métamorphoses, qui sont :
-       1 : Transformer en sac / Transformer en perle
-       2 : Expulser.${prompt}
+    Il y a deux types de métamorphoses, qui sont :
+     1 : Transformer en sac / Transformer en perle
+     2 : Expulser.${prompt}
   6978: 'Les deux nécessitent que la ${item-singular: 2[2]} ou la ${item-singular: 3[2]} cible soit équipée au moment de la transformation.${prompt}'
   6979: '“Transformer en sac / Transformer en perle” transforme la ${item-singular: 2[2]} cible en ${article} ${item-article: 3[2]} et vice-versa.${prompt}'
   6980: 'C’est utile si vous voulez que quelqu’un d’autre s’occupe de distribuer des ${item-plural: 2[2]} à votre place.${prompt}'
   6981: '“Expulser” casse réellement le lien avec la ${item-singular: 2[2]} ou la ${item-singular: 3[2]} cible et la transforme en déchet.${prompt}'
   6982: |-
-      Une fois expulsée, la ${item-singular: 2[2]} devient cassée et inutilisable...
-      N'utilisez cela qu'en cas extrême !${prompt}
+    Une fois expulsée, la ${item-singular: 2[2]} devient cassée et inutilisable...
+    N'utilisez cela qu'en cas extrême !${prompt}
   6983: '${lettercase: 1}${item-plural: 3[2]} peuvent également être utilisés pour "expulser", mais ils ne peuvent affecter que des ${item-plural: 2[2]}.${prompt}'
   6984: '${lettercase: 1}${item-plural: 1[2]}, ${item-plural: 2[2]}, et ${item-plural: 3[2]} sont des objets normaux, donc ils peuvent être facilement jetés.${prompt}'
   6985: Mais comme ce sont des objets normaux, vous les perdrez définitivement si vous les jetez.${prompt}
   6986: 'Cela n’aura pas vraiment d’importance si c’est ${article} ${item-article: 2[2]}, mais jeter ${article} ${item-article: 1[2]} n’est pas une bonne idée !${prompt}'
   6987: |-
-      Oh, êtes-vous sûr ?
-      Eh bien, si vous avez des questions sur les ${item-plural: 1[2]}, vous savez où me trouver !${prompt}
+    Oh, êtes-vous sûr ?
+    Eh bien, si vous avez des questions sur les ${item-plural: 1[2]}, vous savez où me trouver !${prompt}
   6988: (Quoi qu'il en soit, comme je le disais...)
   6989: Puis-je vous aider ?${prompt}
   6990: Bienvenue à la Boutique des Chocobos.${prompt}
@@ -17232,9 +17232,9 @@ entries:
   6992: Bienvenue chez les Boucliers Durables.${prompt}
   6993: Bienvenue au Marché de M & P.${prompt}
   6994: |-
-      Haut : Jardins de Ru'Lude
-      Bas : Basse Jeuno (${selection-lines}
-      face à Bastok)${prompt}
+    Haut : Jardins de Ru'Lude
+    Bas : Basse Jeuno (${selection-lines}
+    face à Bastok)${prompt}
   6995: '${number: 0}${prompt}'
   6996: 'Cela dit: "Réservé au personnel."${prompt}'
   6997: C'est fermé à clé.${prompt}
@@ -17255,8 +17255,8 @@ entries:
   7012: Désolé pour tout le remue-ménage à l'ambassade. Permettez-moi de m'excuser. Wolfgang et moi sommes de vieux amis, et nous sommes tous les deux assez têtus, je le crains. J'espère que vous me pardonnerez.${prompt}
   7013: L'ambassadeur est revenu ? Je passerai pour un contrôle plus tard.${prompt}
   7014: |-
-      L'ambassadeur vient souvent.
-      Cela doit être stressant de savoir que les relations internationales dépendent de vos performances.${prompt}
+    L'ambassadeur vient souvent.
+    Cela doit être stressant de savoir que les relations internationales dépendent de vos performances.${prompt}
   7015: Prends soin de toi, d'accord ? Tu es toujours le bienvenu en tant qu'ami, mais je n'aime pas te voir en tant que patient.${prompt}
   7016: La tour de l'horloge ? Bien sûr, je m'y oppose ! Chaque fois que ses cloches sonnent, la ville semble si vivante. Je vais signer la pétition, moi aussi.${prompt}
   7017: Galmut venait tout le temps. Il venait boitant ici après chaque combat pour que je puisse soigner ses blessures. Il était vraiment un vrai pleurnicheur, aussi !${prompt}
@@ -17581,7 +17581,7 @@ entries:
   7308: Galmut s'est remis dans le bain. Et moi, je me sens mieux aussi ! Hmm, je pense que je vais retourner à l'école encore une fois.${prompt}
   7309: Oh, c'est toi, hein ? Galmut travaille dur comme toujours, grâce à toi. Fais-moi une faveur et viens le voir de temps en temps, d'accord ?${prompt}
   7310: Hmm, peut-être que je pourrais demander à ${choice-player-gender}[lui/elle]... Oh, ce n'est rien ! Laisse tomber.${prompt}
-  7311: Dites, vous dirigez-vous vers Davoi ?${prompt} 
+  7311: Dites, vous dirigez-vous vers Davoi ?${prompt}
   7312: 'Alors vous aurez besoin de ce ${keyitem-singular: 7[2]}. Vous ne pouvez pas briser le sceau intérieur sans ça.${prompt}'
   7313: 'Je veux échanger cela contre ${article} ${item-article: 6[2]}. Qu’est-ce que vous en dites ?${prompt}'
   7314: |-
@@ -17790,7 +17790,7 @@ entries:
   7489: '***Aujourd’hui, le Pont de Marbre accueille les guerriers !***${prompt}'
   7490: '***Aujourd’hui, le Pont de Marbre accueille les moines !***${prompt}'
   7491: '***Aujourd’hui, le Pont de Marbre accueille les mages blancs !***${prompt}'
-  7492: '***Aujourd’hui, le Pont de Marbre accueille les mages noirs !***${prompt}' 
+  7492: '***Aujourd’hui, le Pont de Marbre accueille les mages noirs !***${prompt}'
   7493: '***Aujourd’hui, le Pont de Marbre accueille les mages rouges !***${prompt}'
   7494: '***Aujourd’hui, le Pont de Marbre accueille les voleurs !***${prompt}'
   7495: '***Aujourd’hui, le Pont de Marbre accueille les paladins !***${prompt}'
@@ -17846,9 +17846,7 @@ entries:
   7539: |-
     Les danseurs ne sont-ils pas géniaux ?
     Il doit être agréable de transformer son ennemi en source de magie de guérison et de soutien. Je suis toujours tellement impressionné.${prompt}
-  7540: |-
-    Les érudits ne sont-ils pas géniaux ?
-    La manière dont ils utilisent à la fois la magie blanche et noire, sans parler de leurs autres capacités, nous fait vraiment réfléchir, n'est-ce pas ?${prompt} 
+  7540: "Les érudits ne sont-ils pas géniaux ?\nLa manière dont ils utilisent à la fois la magie blanche et noire, sans parler de leurs autres capacités, nous fait vraiment réfléchir, n'est-ce pas ?${prompt} "
   7541: |-
     Les géomanciens ne sont-ils pas géniaux ?
     Ils peuvent soutenir leurs alliés, affaiblir leurs ennemis et envoyer des gens dans le passé avec une puissante magie élémentaire ! Cela me fait me demander, “Que ne peuvent-ils pas faire ?”${prompt}
@@ -17944,16 +17942,16 @@ entries:
   7602: Oh, oui. Les Gobelins portaient le Cardian de Panta chez le médecin. Je me demande ce qui se passe...${prompt}
   7603: Panta ne pleure jamais après avoir perdu un combat, mais il pleurait après être parti du médecin. Peut-être qu'il avait une carie ?${prompt}
   7604: Panta a dit qu'il allait arrêter de se battre. Bon sang, quelle lâcheté ! Je crois que je vais m'ennuyer de lui.${prompt}
-  7605: Voulez-vous voir une carte de Jeuno ?${prompt} 
+  7605: Voulez-vous voir une carte de Jeuno ?${prompt}
   7606: |-
     Et alors ?
     ${selection-lines}
     Je suppose.
     Non merci.${prompt}
   7607: Vous êtes actuellement à Upper Jeuno, un niveau en dessous du sommet même.${prompt}
-  7608: Upper Jeuno est connu pour ses nombreux artisans ! Et qui pourrait oublier la tour de l'horloge, le plus grand symbole du savoir-faire artisanal !${prompt}
+  7608: Jeuno Supérieur est connu pour ses nombreux artisans ! Et qui pourrait oublier la tour de l'horloge, le plus grand symbole du savoir-faire artisanal !${prompt}
   7609: Tout le monde est fier de sa précision. C'est tellement à la pointe de la technologie !${prompt}
-  7610: Bienvenue à Upper Jeuno ! Ce quartier manque de pizzazz, mais se rattrape largement avec ses grandes entreprises industrielles.${prompt}
+  7610: Bienvenue à Jeuno Supérieur ! Ce quartier manque de pizzazz, mais se rattrape largement avec ses grandes entreprises industrielles.${prompt}
   7611: Beaucoup de gens têtus vivent ici, mais ne vous inquiétez pas, ils sont gentils une fois que vous les connaissez.${prompt}
   7612: Voici ! La structure résidentielle de Jeuno domine la ville ! Sans elle, où tous les visiteurs de Jeuno séjourneraient-ils ?${prompt}
   7613: Au sommet se trouvent les jardins Ru'Lude, le palais Auroral et les ambassades. La grandeur de cet endroit inspire le respect !${prompt}
@@ -18451,9 +18449,9 @@ entries:
     Téléportation avec des points de conquête.
     Non.${prompt}
   7829: Bienvenue dans la boutique de la frontière ! Si vous m'échangez des équipements inutilisés, j'ajouterai leur valeur aux points de région de votre pays !${prompt}
-  7830: |-  
-        Sachez que je propose désormais des ${item-plural : 0[2]}.
-        Les plus grosses pièces vous rapporteront plus de points pour votre nation, et j'ajouterai même quelques pièces d'or à l'équation !${prompt}
+  7830: |-
+    Sachez que je propose désormais des .
+    Les plus grosses pièces vous rapporteront plus de points pour votre nation, et j'ajouterai même quelques pièces d'or à l'équation !${prompt}
   7831: Je vois que votre pays contrôle cette région. N'hésitez pas à faire le tour de mes marchandises.${prompt}
   7832: Je vois que votre pays d'origine est allié au pays qui contrôle cette région. N'hésitez pas à faire le tour de mes marchandises.${prompt}
   7833: 'Je peux vous téléporter dans votre pays d’origine pour ${number: 1} gils ou ${number: 3} ${choice-plurality: 3}[point/points] de conquête.${prompt}'
@@ -18500,8 +18498,7 @@ entries:
     Vous ne pouvez actuellement pas acheter cet article.
     Veuillez en choisir un autre.${prompt}
   7857: Actuellement, notre nation envoie des Forces Expéditionnaires à travers Vana'diel et demande la participation de braves aventuriers comme vous.${prompt}
-  7858: |-
-    Les conditions de participation à une F.E. sont simples. Votre groupe doit être composé de ${number: 5} membres. Chaque membre doit être de ce pays, de rang 3 ou supérieur, et avoir atteint un niveau suffisant.${prompt}
+  7858: 'Les conditions de participation à une F.E. sont simples. Votre groupe doit être composé de ${number: 5} membres. Chaque membre doit être de ce pays, de rang 3 ou supérieur, et avoir atteint un niveau suffisant.${prompt}'
   7859: Lorsque votre groupe est prêt, venez me voir et je vous téléporterai jusqu'au poste avancé le plus proche.${prompt}
   7860: Sur place, vous recevrez un insigne de la Force Expéditionnaire. Lorsque vous réussirez à prendre le contrôle de la zone, vous pourrez échanger l'insigne contre votre récompense.${prompt}
   7861: |-
@@ -18512,7 +18509,7 @@ entries:
   7862: Votre groupe n’a pas assez de membres, ou certains d’entre eux ne sont pas dans cette zone. Rassemblez tous ceux qui participent et revenez ici.${prompt}
   7863: L’un des membres de votre parti n'est pas citoyen de ce pays. Nous n'autorisons aucun participant étranger au F.E.${prompt}
   7864: L’un des membres de votre groupe n'a pas atteint le niveau 3. Nous ne pouvons révéler aucune de nos stratégies tactiques à ceux qui n'ont pas fait preuve de loyauté envers notre pays.${prompt}
-  7865: 'L’un des membres de votre groupe est d’un niveau inférieur à ${nombre : 6}. Pour la sécurité de l’aventurier et de ceux qui l’accompagnent, nous ne pouvons pas autoriser une personne dont le niveau est inférieur à la limite à participer à l’E.F.${prompt}'
+  7865: L’un des membres de votre groupe est d’un niveau inférieur à . Pour la sécurité de l’aventurier et de ceux qui l’accompagnent, nous ne pouvons pas autoriser une personne dont le niveau est inférieur à la limite à participer à l’E.F.${prompt}
   7866: |-
     Je vois que vous êtes prêt.
     Je vous accorde la permission de rejoindre la Force Expéditionnaire actuelle. Quand vous serez prêt à être téléporté au poste avancé, parlez-moi une fois de plus.${prompt}
@@ -18560,7 +18557,7 @@ entries:
   7891: Actuellement, notre pays n'a qu'une influence mineure dans cette région. Nous comptons sur vous pour nous sortir de ce trou que nous nous sommes creusé.${prompt}
   7892: Actuellement, l'influence de notre pays dans cette région est minimale. Si nous n'agissons pas rapidement, le contrôle de cette région sera certainement pris par un pays rival.${prompt}
   7893: Faites attention en passant, car cette zone est actuellement envahie par les bêtes ! Quelque chose doit être fait, sinon l'ennemi aura le contrôle de toute la région.${prompt}
-  7894: 'Votre inventaire est plein. Vous n’avez pas pu accepter le ${item-singular: 0[2]}.${prompt}'  
+  7894: 'Votre inventaire est plein. Vous n’avez pas pu accepter le ${item-singular: 0[2]}.${prompt}'
   7895: Vous possédez déjà un glyphe de porte. Vous ne pouvez pas en tenir un autre.${prompt}
   7896: Je suis un Garde Ducal de Jeuno, ${name-npc}. Mon devoir est de soutenir les efforts de conquête de Windurst, San d'Oria et Bastok.${prompt}
   7897: 　${prompt}
@@ -19056,43 +19053,42 @@ entries:
   8278: Un garçon... ? Vous ne voulez pas dire le même garçon que la Garde Ducal recherche, n'est-ce pas ?${prompt}
   8279: Qu'est-ce que c'est que ça ? Avez-vous aussi entendu les rumeurs sur l'étrange jeune homme qui a disparu il y a des jours ?${prompt}
   8280: Lors de ma visite au palais, on m'a parlé d'un certain garçon dangereux.${prompt}
-  8281: Je vois...
-     Donc ce garçon portait avec lui une amulette similaire à celle de la fille. C'est peut-être pourquoi elle a été attaquée...${prompt}
+  8281: Je vois... Donc ce garçon portait avec lui une amulette similaire à celle de la fille. C'est peut-être pourquoi elle a été attaquée...${prompt}
   8282: Mais, l'amulette de Prishe lui a été donnée par le Cardinal Mildaurion. Il est absurde de penser que le cardinal pourrait être associé à des criminels !${prompt}
   8283: Le Cardinal Mildaurion de la Cathédrale Tavnazienne ?${prompt}
   8284: Oui. Il y a longtemps, le cardinal a donné l'amulette à Prishe après qu'elle ait été gravement blessée dans un accident. Elle a dit que c'était pour la protéger.${prompt}
   8285: |-
-     Depuis ce jour, elle n'a jamais été sans l'amulette.
-     Mais pourquoi quelqu'un voudrait la voler... ?${prompt}
+    Depuis ce jour, elle n'a jamais été sans l'amulette.
+    Mais pourquoi quelqu'un voudrait la voler... ?${prompt}
   8286: Peut-être que c'est le garçon qui a volé l'amulette du patient. Cependant, il y a seulement quelques jours, j'ai entendu dire que le garçon avait été vu récemment dans les ruines de Pso'Xja, situées profondément dans les redoutées Terres du Nord.${prompt}
   8287: Quoi !? Êtes-vous sûr !?${prompt}
   8288: Un soldat que j'ai traité pour hypothermie a mentionné que son groupe l'avait vu seul dans les ruines. Quand la Garde Ducal a appris cela, ils sont partis pour les Terres du Nord sur-le-champ.${prompt}
   8289: |-
-     Donc le quatrième cristal se trouve dans les ruines de Pso'Xja...
-     Je n'ai pas de temps à perdre.${prompt}
+    Donc le quatrième cristal se trouve dans les ruines de Pso'Xja...
+    Je n'ai pas de temps à perdre.${prompt}
   8290: Attendez !${prompt}
   8291: Avant de partir pour votre voyage, je dois vous informer que les ruines sont contrôlées par une organisation connue sous le nom de Tenshodo. Vous devriez probablement consulter avec eux d'abord.${prompt}
   8292: |-
-     Je vois...
-     Merci pour ces informations.
-     Bonne journée, Docteur !${prompt}
+    Je vois...
+    Merci pour ces informations.
+    Bonne journée, Docteur !${prompt}
   8293: Je me demande s'il pourrait y avoir un lien entre le garçon et cette jeune dame, Prishe.${prompt}
   8294: Selon les rumeurs parmi la Garde Ducal, quelqu'un l'a vu dans la tour centrale des ruines nordiques de Pso'Xja. Cependant, pour entrer dans les parties les plus profondes de ces tours, la permission du Tenshodo est nécessaire...${prompt}
   8295: Vous dites que vous connaissez la jeune fille Elvaan qui s'est effondrée ici ?${prompt}
   8296: |-
-     Un voyageur étrangement habillé de l'Est l'a emmenée à la clinique du Docteur Monberaux.
-     Oh, j'espère vraiment qu'elle va bien.${prompt}
+    Un voyageur étrangement habillé de l'Est l'a emmenée à la clinique du Docteur Monberaux.
+    Oh, j'espère vraiment qu'elle va bien.${prompt}
   8297: Contrairement aux rumeurs désagréables qui se répandent dans les rues du Duché, la jeune fille Elvaan qui s'est effondrée ici n'a pas été attaquée par un assaillant louche.${prompt}
   8298: Alors qu'elle était à genoux devant la statue de la Déesse pour offrir une prière, elle s'est soudainement effondrée par terre et a commencé à convulser violemment. J'ai essayé de purifier son âme des terribles démons qui la possédaient ; cependant, mon eau bénite n'a eu aucun effet.${prompt}
   8299: J'espère que mes prières pour sa sécurité atteindront rapidement la Déesse.${prompt}
   8300: |-
-     ...
-     J-je m'excuse. Je n'ai pas été moi-même depuis que la jeune fille Elvaan a eu son...accident.${prompt}
+    ...
+    J-je m'excuse. Je n'ai pas été moi-même depuis que la jeune fille Elvaan a eu son...accident.${prompt}
   8301: Je sais que Mère Chiphraix insiste sur le fait qu'il n'y a pas eu de jeu trouble, mais je pourrais jurer avoir ressenti une présence sombre derrière la fille avant qu'elle ne s'effondre.${prompt}
   8302: Et maintenant, chaque fois que j'y pense, je deviens étourdi et confus...${prompt}
   8303: Si vous êtes ici pour voir la jeune fille, elle est éveillée depuis quelques heures déjà.${prompt}
   8304: De quoi parlez-vous !? Il n'y a aucune façon que le cardinal aurait...${prompt}
-  8305: Je sais, mais même si c'était le cas, je suis certain qu'il y a une explication raisonnable.${prompt} 
+  8305: Je sais, mais même si c'était le cas, je suis certain qu'il y a une explication raisonnable.${prompt}
   8306: Oh, ${name-player}. Je ne peux pas commencer à exprimer ma gratitude pour vous avoir sauvé Prishe.${prompt}
   8307: Elle m'a informé de ce qui s'est passé ce jour-là.${prompt}
   8308: Possédée par une bête inconnue à l'intérieur de son propre rêve...${prompt}
@@ -19761,249 +19757,249 @@ entries:
     Match 3: ${earthtime: 2}${prompt}
   8593: 'La téléportation vers l’île est gratuite, mais des frais de participation de ${number: 0} gils sont nécessaires avant chaque match.${prompt}'
   8594: |-
-     Voyage vers l'île ?
-     ${selection-lines}
-     Oui.
-     Pas encore.${prompt}
+    Voyage vers l'île ?
+    ${selection-lines}
+    Oui.
+    Pas encore.${prompt}
   8595: |-
-     Que souhaiteriez-vous savoir ?
-     ${selection-lines}
-     Règles de base.
-     Matchs officiels/privés.
-     Flammen-Brenner.
-     Flamme.
-     Score du match.
-     Petras et extraction.
-     Sprint.
-     KO.
-     Retour.${prompt}
-  8596: Les règles de base de Brenner sont les suivantes :${prompt}
-  8597: Tout d'abord, les participants se divisent en deux équipes. Le camp de chaque camp contient le même nombre de "Flammen-Brenner".${prompt}
-  8598: Au début du match, la moitié des Flammen-Brenner de chaque camp sera enflammée avec une "Flamme", tandis que l'autre moitié restera éteinte.${prompt}
-  8599: Les participants peuvent saisir une Flamme des Flammen-Brenner du camp adverse et la transporter autour de l'île.${prompt}
-  8600: L'objectif est de voler les Flammes de l'adversaire et de les utiliser pour allumer les Flammen-Brenner de son propre camp.${prompt}
-  8601: L'équipe qui réussit à allumer tous ses Flammen-Brenner sera déclarée gagnante après un certain temps.${prompt}
-  8602: Si aucune équipe ne l'emporte avant la fin du match, le résultat sera jugé en fonction du score. La section "score du match" du règlement contient plus d'informations à ce sujet.${prompt}
-  8603: Brenner est divisé en matchs publics et privés. Les matchs officiels sont organisés périodiquement selon le niveau et permettent une participation générale.${prompt}
-  8604: Vous ne pouvez pas réserver l'île lorsqu'un match officiel est en cours.${prompt}
-  8605: Aucun objet n'est nécessaire pour participer, mais une petite redevance sera collectée. Vous ne pourrez pas participer si votre niveau est trop bas.${prompt}
-  8606: 'Le résultat du match sera enregistré sauf si le nombre de participants est inférieur à ${number: 0} membres, ou s'il y a moins de ${number: 1} membres dans un match où le nombre de participants des deux équipes diffère. Dans ce cas, le match sera considéré comme un match d'entraînement et ne sera pas enregistré.${prompt}'
-  8607: 'Les matchs privés nécessitent une réservation, et la participation peut être limitée. Le ${color: 5}Maître de Cérémonie${color: 1} (MC) peut librement ajuster les règles et contrôler le déroulement des matchs.${prompt}'
-  8608: "LS Liga" est une forme de match privé. Vous pouvez en savoir plus sur LS Liga en parlant à un Maréchal.${prompt}
-  8609: Un Flammen-Brenner est un dispositif qui contient une Flamme. Le Flammen-Brenner est couvert par une grille qui s'ouvrira après avoir subi une certaine quantité de dégâts, exposant la Flamme.${prompt}
-  8610: Les participants doivent saisir cette opportunité pour capturer la Flamme avant que la grille ne se referme. Une fois la grille refermée, le Flammen-Brenner commencera à se régénérer des dégâts subis.${prompt}
-  8611: Si vous parvenez à ouvrir le Flammen-Brenner de l'équipe adverse et à capturer leur Flamme, vous devez vous dépêcher d'allumer l'un des Flammen-Brenner de votre camp.${prompt}
-  8612: Après un certain temps, la Flamme s'éteindra et le Flammen-Brenner de l'équipe adverse se rallumera.${prompt}
-  8613: De plus, veuillez noter que vous ne pouvez pas accélérer votre rythme en utilisant des capacités spéciales lorsque vous êtes en possession d'une Flamme.${prompt}
-  8614: Dans le cas où aucune équipe ne remplit les conditions de victoire, le résultat du match sera évalué en fonction du score.${prompt}
-  8615: Dix points sont attribués à chaque équipe pour chaque Flammen-Brenner allumé, tandis qu'un point est attribué chaque fois qu'une Flamme est capturée, utilisée pour allumer un Flammen-Brenner, ou reprise à un adversaire. Un point est également attribué pour avoir protégé le Flammen-Brenner pendant un certain temps.${prompt}
-  8616: 'Comme pour Ballista, ${color: 5}quarry${color: 1} (/quarry) peut être utilisé lors de la partie de Brenner. Les participants peuvent utiliser cette capacité pour déterrer des ${color: 5}Petras${color: 1} et des objets temporaires.${prompt}'
-  8617: 'Cependant, contrairement aux Petras de Ballista, les Petras de Brenner n'ont aucun effet sur le score du match. Vous pouvez ${color: 5}échanger${color: 1} une Petra avec un Pursuivant pour récupérer vos HP et MP sans frais pour le TP.${prompt}'
-  8618: '${color: 5}Sprint${color: 1} ne peut pas être utilisé en portant une Petra. De plus, veuillez noter que la capacité ${color: 5}éclaireur${color: 1} ne peut pas être utilisée dans Brenner.${prompt}'
-  8619: Les Petras seront perdues en cas de KO, mais peuvent être conservées d'un match à l'autre.${prompt}
-  8620: 'La capacité ${color: 5}sprint${color: 1} (/sprint) peut être utilisée pour augmenter la vitesse du joueur lorsqu'il n'est pas en possession d'une Flamme ou de Petras.${prompt}'
-  8621: En cas de KO, vous serez renvoyé au camp de votre équipe. Cependant, la récupération prendra plus de temps à chaque fois que vous tomberez au combat.${prompt}
-  8622: En d'autres termes, vous recevrez une pénalité si vous tombez immédiatement après vous être remis d'un KO. De plus, votre TP sera réduit à zéro et vous perdrez toutes les Petras en votre possession.${prompt} 
-  8623: Je suis désolé. Je n'écoutais pas. Pourriez-vous recommencer depuis le début ?${prompt}
-  8624: Je réfléchissais tout haut lorsqu'une Elvaan passant par là s'est arrêtée pour me parler.${prompt}
+    Que souhaiteriez-vous savoir ?
+    ${selection-lines}
+    Règles de base.
+    Matchs officiels/privés.
+    Flammen-Brenner.
+    Flamme.
+    Score du match.
+    Petras et extraction.
+    Sprint.
+    KO.
+    Retour.${prompt}
+  8596: The basic rules of Brenner are as follows:${prompt}
+  8597: First, the participants divide into two teams. Each side's camp contains the same number of “Flammen-Brenner.”${prompt}
+  8598: At the beginning of the match, half of each side's Flammen-Brenner will be ablaze with “Flamme,” or flame, while the other half will remain unlit.${prompt}
+  8599: Participants can seize a Flamme from the opposing side's Flammen-Brenner and carry it around the Isle.${prompt}
+  8600: The goal is to steal your opponent's Flamme and use them to light your side's Flammen-Brenner.${prompt}
+  8601: The side that succeeds in lighting all of its Flammen-Brenner will be declared the winner after a specified amount of time.${prompt}
+  8602: If neither side is victorious before the match ends, the outcome will be judged based on the score. The “match score” section of the rulebook contains more information on this subject.${prompt}
+  8603: Brenner is significantly divided into public and private matches. Official matches are held periodically according to level and feature general participation.${prompt}
+  8604: You cannot reserve the Isle when an official match is being held.${prompt}
+  8605: No items are necessary for participation, but a minor fee will be collected. You will be unable to participate if your level is too low.${prompt}
+  8606: 'The match outcome will be recorded unless the number of participants fails to exceed ${number: 0} members, or if there are fewer than ${number: 1} members in a match where the two sides'' numbers differ. In such cases, the game will be considered a training match and will not be recorded.${prompt}'
+  8607: 'Private matches require a reservation, and participation may be limited. The ${color: 5}Master of Ceremonies${color: 1} (MC) can freely adjust the rules and control match proceedings.${prompt}'
+  8608: “LS Liga” is a form of private match. You can learn more about LS Liga by speaking to a Marshal.${prompt}
+  8609: A Flammen-Brenner is a device that contains a Flamme (flame). The Flammen-Brenner is covered by a grate that will open after taking a set amount of damage, exposing the Flamme.${prompt}
+  8610: The participants must utilize this chance to seize the Flamme before the grate recloses. Once the grate is closed, the Flammen-Brenner will begin recovering from the damage it has been dealt.${prompt}
+  8611: If you manage to open the opposing team's Flammen-Brenner and capture their Flamme, you should make haste to light one of the Flammen-Brenner on your side.${prompt}
+  8612: After a certain amount of time, the Flamme will burn out and the opposing team's Flammen-Brenner will be relit.${prompt}
+  8613: Also, please note that you cannot quicken your pace using any special abilities while you are in possession of a Flamme.${prompt}
+  8614: In the event that neither side fulfills the conditions for victory, the outcome of the match will be evaluated based on score.${prompt}
+  8615: Ten points are awarded to each side for every lit Flammen-Brenner, while one point is awarded whenever a Flamme is captured, used to light a Flammen-Brenner, or recaptured from an opponent. One point is also awarded for protecting the Flammen-Brenner for a certain period of time.${prompt}
+  8616: 'Like Ballista, ${color: 5}quarry${color: 1} (/quarry) can be used while playing Brenner. Participants may use this ability to dig up ${color: 5}Petras${color: 1} and temporary items.${prompt}'
+  8617: 'However, unlike Ballista Petras, Brenner Petras have no effect on the match score. You can ${color: 5}trade${color: 1} a Petra to a Pursuivant to recover your HP and MP at no expense to TP.${prompt}'
+  8618: '${color: 5}Sprint${color: 1} cannot be used while carrying a Petra. Also, please note that the ${color: 5}scout${color: 1} ability cannot be used in Brenner.${prompt}'
+  8619: Petras will be lost in the event of a KO, but can be carried over from one match to another.${prompt}
+  8620: 'The ${color: 5}sprint${color: 1} (/sprint) ability can be used to increase the player''s speed when not in possession of a Flamme or Petras.${prompt}'
+  8621: In the event of a KO, you will be returned to your team's camp. However, recovery will take longer the more often you fall in battle.${prompt}
+  8622: In other words, you will receive a penalty if you fall immediately after recovering from KO. In addition, your TP will be reduced to zero and you will lose any Petras in your possession.${prompt}
+  8623: I'm sorry. I wasn't listening. Could you start over from the beginning?${prompt}
+  8624: I was thinking this out loud when an Elvaan girl passing by stopped to talk to me.${prompt}
   8625: |-
-    Mais qu'en est-il des moogles ? Ils ont des ailes et peuvent voler, mais vous ne les appelleriez pas des oiseaux.
-    Ils ont aussi ces drôles d'antennes, mais ils ne sont pas des insectes non plus.${prompt}
-  8626: Quand j'ai répondu à sa remarque en disant que les moogles et les chocobos étaient des animaux, voici ce qu'elle a demandé:${prompt}
-  8627: Alors quelle est la différence entre les animaux et les gens ?${prompt}
+    But what about moogles? They've got wings, and they can fly, but you wouldn't call 'em birds.
+    They've got those funny antennae, too, but they're not insects, either.${prompt}
+  8626: When I responded to her remark with the fact that both moogles and chocobos are animals, this is what she asked:${prompt}
+  8627: Then what's the difference between animals and people?${prompt}
   8628: |-
-    J'ai répondu : « Les gens sont plus intelligents que les animaux. »
-    Et puis elle a rétorqué : « Les gens sont bien plus rusés ! »${prompt}
+    I answered, “People are smarter than animals.”
+    And then she retorted, “People sure are more sly!”${prompt}
   8629: |-
-    Ahahaha, ne te mets pas en colère !
-    Je me suis arrêtée pour parler parce que ce que tu disais était important.${prompt}
+    Ahahaha, don't get all huffy on me!
+    I stopped to talk because what you were saying was important.${prompt}
   8630: |-
-    Les gens sont tous différents les uns des autres. Ils sont différents des animaux et différents des plantes.
-    Cette différence est ce qui en vaut la peine.${prompt}
+    People are all different from one another. They're different from animals, and different from plants.
+    This difference is what makes it all worth it.${prompt}
   8631: |-
-    Il y a beaucoup de façons de penser et de ressentir, et des choses à savoir et à croire.
-    Mais au final, nous venons tous de la même source.${prompt}
-  8632: C'est vrai pour les gens et les animaux.${prompt}
+    There are lots of ways to think and feel, and things to know and to believe.
+    But in the end, we all come from the same source.${prompt}
+  8632: That's true for both people and animals.${prompt}
   8633: |-
-    Nous avons tous cette chose appelée une âme.
-    Les âmes des animaux sont pures et simples.${prompt}
+    We all have this thing called a soul.
+    The souls of animals are pure and simple.${prompt}
   8634: |-
-    Regarde là-bas.
-    Ce chocobo en est la preuve vivante.${prompt}
+    Look over there.
+    That chocobo is living proof.${prompt}
   8635: |-
-    Tu devrais demander à quelqu'un comment ce chocobo est né.
-    Alors tu auras tes réponses.${prompt}
-  8636: '...Et puis elle est partie.${prompt}'
-  8637: Je suis allé découvrir comment ce chocobo était né, mais personne ne pouvait me le dire.${prompt}
-  8638: Shalott a dit que la mère du chocobo venait des écuries de Bastok.${prompt}
-  8639: Elle a dit que c'était un chocobo spécial avec des plumes argentées sur le cou.${prompt}
-  8640: Comme je souhaiterais pouvoir aller à Bastok pour la voir par moi-même.${prompt}
-  8641: Je me demande si cette fille Elvaan passera par ici à nouveau bientôt...${prompt}
+    You should ask someone how that chocobo was born.
+    Then you'll have your answers.${prompt}
+  8636: '...And then she went on her way.${prompt}'
+  8637: I went to find out how that chocobo was born, but no one could tell me.${prompt}
+  8638: Shalott said the chocobo's mother was from the stables in Bastok.${prompt}
+  8639: She said it was a special chocobo that had silver-colored feathers on its neck.${prompt}
+  8640: How I wish I could go to Bastok to see her for myself.${prompt}
+  8641: I wonder if that Elvaan girl will be passing by again anytime soon...${prompt}
   8642: |-
-    Cette fille Elvaan m'a dit que les gens et les animaux ont tous deux des âmes.
-    Elle a dit que les âmes des animaux sont bien plus pures que celles des gens.${prompt}
-  8643: Elle m'a aussi dit que je comprendrais ce qu'elle voulait dire si je découvrais comment ce chocobo était né.${prompt}
+    That Elvaan girl told me that both people and animals have souls.
+    She said that the souls of animals are far more pure than those of people.${prompt}
+  8643: She also told me I would understand what she meant if I found out how that chocobo was born.${prompt}
   8644: |-
-    Selon Shalott, la mère du chocobo vient des écuries de Bastok.
-    Comme je souhaiterais pouvoir y aller pour la voir par moi-même...${prompt}
+    According to Shalott, the chocobo's mother is from the stables in Bastok.
+    How I wish I could go there to see her for myself...${prompt}
   8645: |-
-    Que puis-je faire pour vous ?
-    Si vous voulez monter un chocobo, l'une des filles là-bas peut vous aider.${prompt}
-  8646: Dernièrement, beaucoup d'aventuriers semblent oublier qu'un chocobo est un animal, pas un objet.${prompt}
+    What can I do for you?
+    If you want to ride a chocobo, one of the girls over there can help you out.${prompt}
+  8646: Lately, a lot of adventurers seem to be forgetting that a chocobo is an animal, not an object.${prompt}
   8647: |-
-    Vous devriez garder cela à l'esprit pendant que vous profitez de cette balade facile à travers des terres remplies de monstres.
-    Bon voyage.${prompt}
-  8648: Un chocobo avec des plumes argentées...?${prompt}
-  8649: Ah, vous parlez de Comète d'Argent.${prompt}
-  8650: Elle était autrefois la monture d'un général de haut rang de la marine de Bastok.${prompt}
-  8651: Le fils du général a reçu le chocobo en cadeau de passage à l'âge adulte, qu'il a immédiatement utilisé pour quitter Bastok.${prompt}
-  8652: Pendant longtemps, personne n'a vu ni homme ni bête, jusqu'à ce que finalement, Comète d'Argent revienne en ville...seule.${prompt}
-  8653: Plus tard, j'ai entendu dire que le fils du général avait perdu la vie quelque part dans la nature.${prompt}
-  8654: Seule Comète d'Argent avait réussi à revenir indemne.${prompt}
-  8655: En mémoire de son fils, le général nous a demandé de prendre soin du chocobo...${prompt}
+    You should keep that in mind as you're enjoying that easy ride through monster-ridden badlands.
+    Have a safe journey.${prompt}
+  8648: A chocobo with silver-colored feathers...?${prompt}
+  8649: Ah, you'd be talking about Silver Comet.${prompt}
+  8650: She used to be the mount of a highly ranked general in the Bastokan navy.${prompt}
+  8651: The general's son received the chocobo as a coming-of-age present, which he promptly took advantage of to leave Bastok.${prompt}
+  8652: For the longest time, no one saw hide nor hair of man or beast--until eventually, Silver Comet came wandering back into town...alone.${prompt}
+  8653: I heard later on that the general's son had lost his life somewhere in the wilds.${prompt}
+  8654: Only Silver Comet had managed to return unharmed.${prompt}
+  8655: In memory of his son, the general asked us to take the chocobo into our care...${prompt}
   8656: |-
-    Mais un jour, Comète d'Argent a disparu.
-    Un voleur de chocobos l'avait volée.${prompt}
+    But then one day, Silver Comet was gone.
+    Some chocobo thief had stolen her.${prompt}
   8657: |-
-    Hein ?
-    Vous dites qu'un poussin de Comète d'Argent est gardé dans les écuries de Jeuno ?
-    Vous devez vous tromper.${prompt}
-  8658: Quoi qu'il en soit, après le vol, le général a épuisé toutes les pistes à la recherche du chocobo de son fils.${prompt}
-  8659: Il a finalement trouvé un aventurier qui aurait vu un chocobo se noyer dans les marais de Pashhow.${prompt}
-  8660: Ce chocobo avait les mêmes marques que Comète d'Argent.${prompt}
-  8661: Si vous voulez essayer de parler à cet aventurier, vous devriez aller au poste de garde dans les marais.${prompt}
+    Hm?
+    You say a chick of Silver Comet's is being kept in the Jeuno stables?
+    You must be mistaken.${prompt}
+  8658: Anyway, after the theft, the general exhausted every avenue in search of his son's chocobo.${prompt}
+  8659: He eventually found an adventurer who allegedly saw a chocobo drowning in the Pashhow Marshlands.${prompt}
+  8660: That chocobo had the same markings as Silver Comet.${prompt}
+  8661: If you want to try talking to that adventurer, you should go to the outpost in the marshlands.${prompt}
   8662: |-
-    Il a apparemment renoncé à la vie d'aventurier.
-    Maintenant, il gagne sa vie en répondant aux besoins des soldats au poste de garde.${prompt}
-  8663: La porte est verrouillée.${prompt}
+    He's given up the adventuring life, it seems.
+    Now he earns his daily bread by seeing to the needs of the soldiers at the outpost.${prompt}
+  8663: The gate is locked.${prompt}
   8664: |-
-    Qu'est-ce que tu veux ?
-    J'ai pas de temps à perdre avec des aventuriers.${prompt}
+    Whaddaya want?
+    I got no time for adventurers.${prompt}
   8665: |-
-    Hein ? Où as-tu entendu...
-    Bon, peu importe.${prompt}
-  8666: Tu dis que tu as des affaires avec moi ?${prompt}
+    Huh? Where'd you hear...
+    Well, whatever.${prompt}
+  8666: You say you got business with me?${prompt}
   8667: |-
-    Comète d'Argent...
-    Pourquoi diable tu viens m'embêter avec cette vieille histoire de chocobo ?
-    T'es un genre de cinglé ?${prompt}
-  8668: Laisse-moi tranquille, espèce de fou.${prompt}
-  8669: "Tu vois pas que je suis occupé ? \nCet endroit devient trop humide et trop sombre trop vite pour que je perde du temps à discuter.${prompt}"
+    Silver Comet...
+    What the hell are you bothering me about that old chocobo story for?
+    You some kind of crackpot?${prompt}
+  8668: Leave me alone, you loon.${prompt}
+  8669: "Can't you see I'm busy? \nThis place gets too wet and too dark too quick to be wasting time chatting.${prompt}"
   8670: |-
-    Attends une minute.
-    Si tu m'apportes quelques ${item-plural: 1[2]}, je pourrais peut-être t'accorder un peu de temps.${prompt}
+    Hold up a minute.
+    If you bring me some ${item-plural: 1[2]}, I might be willing to give you the time of day.${prompt}
   8671: |-
-    Ouais, trois devraient suffire.
-    Je te donne jusqu'après-demain.${prompt}
+    Yep, three of those ought to do it.
+    I'll give you until the day after tomorrow.${prompt}
   8672: |-
-    Tu as apporté ce que j'ai demandé ?
-    Fais attention avec ce truc, ça sent vraiment fort.${prompt}
+    You brought what I asked for?
+    Careful with that stuff, it's powerful smelly.${prompt}
   8673: |-
-    C'est utile pour masquer l'odeur d'une personne, tu vois.
-    Ça m'aide à me déplacer.${prompt}
+    It's good for hiding a person's scent, you see.
+    Helps me get around.${prompt}
   8674: |-
-    Bon, alors.
-    Tu voulais entendre parler de ce chocobo, non ?${prompt}
+    Now, then.
+    You wanted to hear about that chocobo, right?${prompt}
   8675: |-
-    C'était l'un des chocobos les plus rapides que j'ai jamais montés, mais presque incontrôlable.
-    Je ne sais pas comment le propriétaire de Comète d'Argent la gérait.${prompt}
+    She was one of the fastest chocobos I've ever ridden, but damn near uncontrollable.
+    I don't know how Silver Comet's owner handled her.${prompt}
   8676: |-
-    Je suppose que la mort de son ancien propriétaire l'a rendue folle.
-    Ce chocobo n'avait pas toute sa tête.${prompt}
+    I guess the death of her former owner is what sent her off the edge.
+    That chocobo wasn't right in the head.${prompt}
   8677: |-
-    Elle s'est jetée tête baissée dans les marais.
-    J'ai cru que mon heure était venue, je te le dis !
-  8678: Quand je l'ai vue dans les écuries, elle portait un collier attaché à une chaîne.${prompt}
-  8679: Ce n'était pas pour empêcher la monture du général d'être volée, mais pour empêcher Comète d'Argent de s'échapper, pour ainsi dire.${prompt}
+    She threw herself headlong into the marshes.
+    Thought my number was up, I can tell you!
+  8678: When I saw her in the stables, she was wearing a collar attached to a chain.${prompt}
+  8679: That wasn't to keep the general's mount from being stolen--it was to keep Silver Comet from flying the coop, so to speak.${prompt}
   8680: |-
-    Ce général est un vrai manipulateur.
-    Il a dit que si Comète d'Argent était relâchée, elle serait capable de retrouver Étoile Filante.${prompt}
-  8681: C'est de sa faute si j'ai failli me faire tuer !${prompt}
+    That general's a real schemer.
+    Said that if Silver Comet was released, she would be able to find Shooting Star.${prompt}
+  8681: It's his fault I almost got killed!${prompt}
   8682: |-
-    Hein ?
-    Qui est Étoile Filante ? C'est aussi un chocobo.${prompt}
-  8683: Étoile Filante était le compagnon de Comète d'Argent.${prompt}
-  8684: Leur amour était une chose pure et simple, bien plus que ce que ressentent les gens.${prompt}
+    Huh?
+    Who's Shooting Star? He's a chocobo, too.${prompt}
+  8683: Shooting Star was Silver Comet's mate.${prompt}
+  8684: Their love was a pure, uncomplicated thing, much more so than what people feel.${prompt}
   8685: |-
-    Ahahaha !
-    Je crois que cette huile commence à me brouiller les sens.
-    On se revoit, aventurier.${prompt}
-  8686: As-tu pu rencontrer cet aventurier ?${prompt}
+    Ahahaha!
+    I think this oil is starting to muddle my senses.
+    I'll see you around, adventurer.${prompt}
+  8686: Were you able to meet with that adventurer?${prompt}
   8687: |-
-    ...C'est bien ça ?
-    Je pense que tu es resté trop longtemps près de cette ${item-singular: 1[2]}.${prompt}
-  8688: Il me semble que cet aventurier était celui qui a volé Comète d'Argent au départ.${prompt}
-  8689: Ou du moins on pourrait le penser, si le voleur n'était pas censé s'être noyé dans le marais également.${prompt}
+    ...Is that right?
+    I think you were around that ${item-singular: 1[2]} a bit too long.${prompt}
+  8688: It sounds to me like that adventurer was the one who stole Silver Comet in the first place.${prompt}
+  8689: Or at least you would think so, if the thief wasn't supposed to have drowned in the marsh as well.${prompt}
   8690: |-
-    Tu as mentionné une “Étoile Filante” ?
-    Je connais ce nom.${prompt}
+    You mentioned a “Shooting Star”?
+    I know that name.${prompt}
   8691: |-
-    Ce chocobo a été élevé aux côtés de Comète d'Argent.
-    Ces deux-là étaient presque inséparables lorsqu'ils étaient poussins.${prompt}
-  8692: Malheureusement, contrairement à Comète d'Argent, Étoile Filante est mort en sauvant son maître.${prompt}
+    That chocobo was raised alongside Silver Comet.
+    Those two were almost inseparable as chicks.${prompt}
+  8692: Unfortunately, unlike Silver Comet's case, Shooting Star died saving his master.${prompt}
   8693: |-
-    Je suppose que Comète d'Argent essayait de le retrouver quand elle a sauté dans ce marais.
-    Le général a mentionné quelque chose de similaire à l'époque, si je me souviens bien.${prompt}
+    I'm guessing Silver Comet was trying to find him when she jumped into that marsh.
+    The general mentioned something similar at the time, I recall.${prompt}
   8694: |-
-    Hein ?
-    Tu essaies toujours de me convaincre que son poussin est à Jeuno ?${prompt}
+    Hm?
+    Still trying to convince me that her chick is in Jeuno?${prompt}
   8695: |-
-    Je suis désolé, mais je pense vraiment que tu te trompes.
-    Je veux dire, le général avait même le collier de Comète d'Argent.${prompt}
-  8696: Il a dit qu'il allait le déposer sur la tombe de son fils à Batallia Downs.${prompt}
+    I'm sorry, but I really think you're mistaken.
+    I mean, the general even had Silver Comet's collar.${prompt}
+  8696: He said he was going to lay it on his son's grave in Batallia Downs.${prompt}
   8697: |-
-    Mais, attends.
-    Je semble me rappeler que ce collier a été envoyé par un homme nommé Brutus.
-    Il gère une écurie de chocobos à Jeuno...${prompt}
-  8698: Pourquoi le collier aurait-il été envoyé de Jeuno alors que Comète d'Argent s'est noyée dans les marais de Pashhow ?${prompt}
-  8699: Vous êtes attaqué !${prompt}
-  8700: Ce n'est pas le moment pour ça !${prompt}
-  8701: Vous avez un mauvais pressentiment...${prompt}
-  8702: Vous ne trouvez rien.${prompt}
-  8703: Je...je ne sais pas de quoi tu parles.${prompt}
+    But, wait.
+    I seem to remember that collar being sent by a man named Brutus.
+    He runs a chocobo stable in Jeuno...${prompt}
+  8698: Why would the collar be sent from Jeuno when Silver Comet drowned in the Pashhow Marshlands?${prompt}
+  8699: You are being attacked!${prompt}
+  8700: Now is not the time for that!${prompt}
+  8701: You sense something is not quite right...${prompt}
+  8702: You find nothing.${prompt}
+  8703: I...I don't know what you're talking about.${prompt}
   8704: |-
     Wow...
-    Donc ce collier appartenait à la mère de ce chocobo, Comète d'Argent ?${prompt}
-  8705: Je le placerais sur la tombe de son compagnon, Étoile Filante, si seulement je savais où elle était.${prompt}
-  8706: Alors vous êtes les deux fouineurs qui ont interrogé Shalott à propos de Comète d'Argent.${prompt}
-  8707: Ce collier...!?${prompt}
+    So this collar belonged to that chocobo's mother, Silver Comet?${prompt}
+  8705: I would place this on the grave of her mate, Shooting Star, if I only knew where it was.${prompt}
+  8706: So you're the two snoopers who were asking Shalott about Silver Comet.${prompt}
+  8707: That collar...!?${prompt}
   8708: |-
-    Vous avez creusé assez loin dans cette vieille histoire.
-    Il semble que après vingt ans, les gens commencent à laisser échapper des choses.${prompt}
-  8709: S'il vous plaît, ne soyez pas en colère, Brutus.${prompt} 
-  8710: J'ai découvert que les chocobos peuvent tomber amoureux, tout comme les gens.${prompt}
-  8711: Il y avait une fille qui m'a appris que les animaux et les gens sont les mêmes.${prompt}
-  8712: Je pense que l'histoire de Comète d'Argent et d'Étoile Filante m'a vraiment aidé à comprendre ce qu'elle voulait dire.${prompt}
-  8713: Eh bien, je suppose que je vais devoir vous raconter toute l'histoire.${prompt}
-  8714: Comète d'Argent et Étoile Filante ne sont jamais vraiment morts.${prompt}
-  8715: Vraiment !?${prompt}
-  8716: Étoile Filante était un chocobo spécial qui a été attaqué par un homme maléfique.${prompt}
-  8717: Il était gravement blessé quand ils l'ont amené ici, et nous avons tous travaillé dur pour le remettre sur pied.${prompt}
-  8718: Mais Étoile Filante était toujours poursuivi par l'homme maléfique, alors nous avons dû le cacher.${prompt}
-  8719: Nous l'avons emmené dans un endroit à l'ouest de Batallia Downs, où ce vilain ne le trouverait jamais.${prompt}
-  8720: Mais le méchant était malin. Il savait que s'il avait Comète d'Argent, son lien avec Étoile Filante les mènerait directement à l'endroit où le chocobo se cachait.${prompt}
-  8721: Comète d'Argent était tout de même un chocobo intelligent.${prompt}
-  8722: Elle s'est délibérément jetée dans les marais pour forcer l'homme à la laisser tranquille.${prompt}
-  8723: C'était une chose extrêmement dangereuse à faire pour Comète d'Argent.${prompt}
+    You've dug pretty far into this old story.
+    Looks like after twenty years, people start to let things slip.${prompt}
+  8709: Please don't be angry, Brutus.${prompt}
+  8710: I found out that chocobos can fall in love, just like people do.${prompt}
+  8711: There was a girl who taught me that animals and people are the same.${prompt}
+  8712: I think the story of Silver Comet and Shooting Star helped me to really understand what she meant.${prompt}
+  8713: Well then, I suppose I'll have to tell you the whole tale.${prompt}
+  8714: Silver Comet and Shooting Star never really died.${prompt}
+  8715: Really!?${prompt}
+  8716: Shooting Star was a special chocobo that was attacked by an evil man.${prompt}
+  8717: He was badly wounded when they brought him here, and we all worked hard to get him back on his feet.${prompt}
+  8718: But Shooting Star was still being chased by the evil man, so we had to hide him away.${prompt}
+  8719: We took him to a place in the west of Batallia Downs, where that villain would never find him.${prompt}
+  8720: But the bad man was clever. He knew that if he had Silver Comet, her bond to Shooting Star would lead them right to the chocobo's hiding place.${prompt}
+  8721: Silver Comet was one smart chocobo, though.${prompt}
+  8722: She deliberately dove into the marshes to force the villain from her back.${prompt}
+  8723: It was an extremely dangerous thing for Silver Comet to do.${prompt}
   8724: |-
-    Mais elle n'a jamais abandonné.
-    Elle devait protéger son compagnon de l'homme qui voulait lui faire du mal.${prompt}
+    But she never gave up.
+    She had to protect her mate from the man who meant to hurt him.${prompt}
   8725: |-
-    Comète d'Argent a nagé dans la boue et s'est extirpée des marais.
-    Elle a finalement réussi à se rendre au côté d'Étoile Filante.${prompt}
-  8726: C'est alors que j'ai enlevé son collier et l'ai libérée.${prompt}
-  8727: Que leur est-il arrivé après ça ?${prompt}
-  8728: Ont-ils vécu heureux pour toujours ?${prompt}
+    Silver Comet swam through the muck and dragged herself free of the marshlands.
+    She was finally able to make it to Shooting Star's side.${prompt}
+  8726: That's when I took off her collar and set her free.${prompt}
+  8727: What happened to them after that?${prompt}
+  8728: Did they live happily ever after?${prompt}
   8729: |-
-    Tout à fait.
-    Et le cadet de la portée qu'ils ont élevée ensemble est ce chocobo juste là-bas.${prompt}
-  8730: Quelle belle histoire...${prompt}
+    That's right.
+    And the youngest of the brood they raised together is that chocobo right over there.${prompt}
+  8730: What a great story...${prompt}
   8731: |-
-    Ce n'est pas fini.
-    Le méchant de cette histoire rôde toujours quelque part.${prompt}
-  8732: "C'est pourquoi vous ne devez jamais dire à personne ce que vous avez entendu ici aujourd'hui. \nVous voulez garder ce chocobo en sécurité, n'est-ce pas ?${prompt}"
-  8733: Exactement !${prompt}
-  8734: Je ne dirai jamais rien, je vous le promets !${prompt}
+    It's not over yet.
+    The villain of this tale is still lurking around somewhere.${prompt}
+  8732: "That's why you can never tell anybody what you've heard here today. \nYou want to keep that chocobo safe, right?${prompt}"
+  8733: Right!${prompt}
+  8734: I'll never tell, I promise!${prompt}
   8735: |-
     Glad to hear it.
     And one more thing...${prompt}
@@ -24206,39 +24202,39 @@ entries:
   10906: I propose the reinstatement of “Brenner” as a new form of Conflict!${prompt}
   10907: Brenner!?${prompt}
   10908: |-
-    I remember that name. Before the Great War, Brenner was used in the selection of the Gold Musketeers.
-    However, the competition was extraordinarily fierce, and it is said that the casualties always exceeded the number of successful candidates.${prompt}
-  10909: Those stories were fabricated simply to exaggerate the danger of Brenner.${prompt}
+    Je me souviens de ce nom. Avant la Grande Guerre, Brenner était utilisé dans la sélection des Mousquetaires d'Or.
+    Cependant, la compétition était extraordinairement féroce, et on dit que les pertes dépassaient toujours le nombre de candidats retenus.${prompt}
+  10909: Ces histoires étaient fabriquées simplement pour exagérer le danger de Brenner.${prompt}
   10910: |-
-    Brenner was originally created as a training exercise for mineworkers.
-    The outcome of each match relied on the participants' skill in role management and encouraged team competition.${prompt}
-  10911: Of course, I am not suggesting that we abolish Ballista. I simply advise that we add Brenner to the list of training options in order to supply the elements of teamwork that I find lacking in current matches.${prompt}
+    Brenner a été initialement créé comme exercice d'entraînement pour les mineurs.
+    Le résultat de chaque match dépendait des compétences des participants en matière de gestion des rôles et encourageait la compétition en équipe.${prompt}
+  10911: Bien sûr, je ne suggère pas que nous abolissions le Ballista. Je conseille simplement d'ajouter Brenner à la liste des options d'entraînement afin de fournir les éléments de travail d'équipe que je trouve absents dans les matchs actuels.${prompt}
   10912: |-
-    Hmph, so you wish to fortify your army by tying them tightly together in iron bonds.
-    How very-wery Bastokan!${prompt}
+    Hmph, alors vous souhaitez renforcer votre armée en les liant étroitement dans des liens de fer.
+    Comme c'est très-trop Bastokien !${prompt}
   10913: |-
-    Ohohoho!
-    Still, the idea makes my heart race!
-    I even support it. You make a good case!${prompt}
+    Ohohoho !
+    Pourtant, l'idée fait battre mon cœur plus vite !
+    Je la soutiens même. Vous faites un bon argument !${prompt}
   10914: |-
-    Ohohoho!
-    So if your weaklings unite,
-    you think you can win any fight?${prompt}
+    Ohohoho !
+    Donc si vos faibles s'unissent,
+    vous pensez pouvoir gagner n'importe quel combat ?${prompt}
   10915: |-
-    Oho, this is rich!
-    May your plan go without hitch!${prompt}
+    Oho, c'est amusant !
+    Puissiez-vous mener votre plan sans accroc !${prompt}
   10916: |-
-    I will support your plan, but please be aware
-    that against the black mages, no one's got a prayer!${prompt}
+    Je soutiendrai votre plan, mais veuillez être conscient
+    que contre les mages noirs, personne n'a de prière !${prompt}
   10917: |-
-    If it will supplement Ballista, I believe that even Excenmille would have no argument.
-    You have my approval.${prompt}
+    Si cela vient en complément du Ballista, je crois même qu'Excenmille n'aurait aucun argument.
+    Vous avez mon approbation.${prompt}
   10918: |-
-    I appreciate your decision.
-    Now I also would like to suggest that we do away with the license requirement and nationality restrictions for Brenner.${prompt}
+    J'apprécie votre décision.
+    Maintenant, j'aimerais aussi suggérer que nous nous débarrassions de l'exigence de licence et des restrictions de nationalité pour Brenner.${prompt}
   10919: |-
-    Quite a bold statement.
-    However, teams would be composed of complete strangers if we enforce what you propose. Is that your desire?${prompt}
+    Une déclaration assez audacieuse.
+    Cependant, les équipes seraient composées d'inconnus complets si nous appliquions ce que vous proposez. Est-ce votre désir ?${prompt}
   10920: The adventurers have taught me much, but one of the greatest lessons I have learned is the strength of the bond between linkshell members.${prompt}
   10921: Linkshells provide an exemplary model of unity. The cooperation and friendly competition of these groups are like those of the closest companions or even family. And thus, I propose that we introduce matches divided by linkshell rather than nation.${prompt}
   10922: |-
@@ -26489,43 +26485,43 @@ entries:
   12095: |-
     You're so pretty!
     I wanna be a dancer like you someday!${prompt}
-  12096: I remember a time during the Crystal War when I found myself surrounded by the enemy in battle. I had given up all hope when Field Musician dancers came to my rescue.${prompt}
-  12097: With little more than a graceful wave of their arms, my wounds were healed and pains soothed. It felt as though the Goddess herself had descended from her celestial realm...${prompt}
+  12096: Je me souviens d'un moment pendant la Guerre des cristaux où je me suis retrouvé entouré par l'ennemi au combat. J'avais perdu tout espoir quand des danseurs musiciens sur le terrain sont venus à ma rescousse.${prompt}
+  12097: Avec à peine plus qu'un gracieux mouvement de leurs bras, mes blessures ont été guéries et mes douleurs apaisées. On aurait dit que la Déesse elle-même était descendue de son royaume céleste...${prompt}
   12098: |-
-    The performance was touching beyond words.
-    I have not a shred of doubt in my heart that the Divinity of Dance exists...${prompt}
-  12099: Practicin' hard as usual, ${name-player}?${prompt}
-  12100: 'I''ve been meanin'' to ask ye, have ye ever heard of ${item-plural: 0[2]}?${prompt}'
-  12101: They're marks that the Divinity o' Dance bestows t'dancers who are deemed worthy.${prompt}
-  12102: Ye've traveled through many a land durin' yer trainin' t'become a dancer.${prompt}
-  12103: 'If ye retrace yer steps, the Divinity o'' Dance may appear before ye an'' present ye with ${article} ${item-article: 0[2]}.${prompt}'
-  12104: 'If that ever happens, bring the ${item-singular: 0[2]} back here an'' show me.${prompt}'
-  12105: 'Got yerself ${article} ${item-article: 0[2]}, ye say? Give us a gander.${prompt}'
-  12106: There's no mistakin', this is the real McCoy...${prompt}
-  12107: This means the Divinity o' Dance has deemed ye worthy. Ye've earned the right t'undertake the test t'become Diva o' the Dance Troupe.${prompt}
-  12108: It's a title given t'dancers who are blessed by the Divinity o' Dance. The catch is, there can be no more than one such dancer in a troupe.${prompt}
-  12109: Ye can now challenge t'become Troupe Brilioth's “diva.”${prompt}
-  12110: Who's gonna test ye? Why, that'll be yers truly, of course. I never imagined this day would come.${prompt}
-  12111: In our martial style, there's no better way t'test one's ability than t'go head-to-head. But don't ye think I'll be holdin' back, ${name-player}.${prompt}
-  12112: We'll duke it out at Qu'Bia Arena. Ye ready to go?${prompt}
+    La performance était touchante au-delà des mots.
+    Je n'ai pas le moindre doute dans mon cœur que la Divinité de la Danse existe...${prompt}
+  12099: Tu t'entraînes dur comme d'habitude, ${name-player} ?${prompt}
+  12100: 'Je voulais te demander, as-tu déjà entendu parler des ${item-plural: 0[2]} ?${prompt}'
+  12101: Ce sont des marques que la Divinité de la Danse accorde aux danseurs qu’elle juge dignes.${prompt}
+  12102: Tu as voyagé à travers de nombreux pays pendant ton entraînement pour devenir danseur.${prompt}
+  12103: 'Si tu retraces ton parcours, la Divinité de la Danse pourrait apparaître devant toi et te remettre ${article} ${item-article: 0[2]}.${prompt}'
+  12104: 'Si cela se produit, ramène les ${item-singular: 0[2]} ici et montre-les moi.${prompt}'
+  12105: 'Tu as obtenu ${article} ${item-article: 0[2]}, dis-tu ? Laisse-moi voir.${prompt}'
+  12106: Il n'y a aucun doute, c'est bien ça...${prompt}
+  12107: Cela signifie que la Divinité de la Danse t'a jugé digne. Tu as gagné le droit de passer le test pour devenir la Diva de la Troupe de Danse.${prompt}
+  12108: C'est un titre accordé aux danseurs bénis par la Divinité de la Danse. La condition est qu'il ne peut y avoir qu'un seul danseur de ce type dans une troupe.${prompt}
+  12109: Tu peux maintenant relever le défi pour devenir la "diva" de la Troupe Brilioth.${prompt}
+  12110: Qui va te tester ? Eh bien, ce sera moi, évidemment. Je n'aurais jamais imaginé que ce jour viendrait.${prompt}
+  12111: Dans notre style martial, il n'y a pas de meilleure façon de tester ses capacités que de s'affronter en tête-à-tête. Mais ne pense pas que je vais me retenir, ${name-player}.${prompt}
+  12112: On va régler ça à l'Arène de Qu'Bia. Es-tu prêt ?${prompt}
   12113: |-
-    Go to Qu'Bia Arena?
+    Vas-tu à l'Arène de Qu'Bia ?
     ${selection-lines}
-    Ready when you are!
-    I need time to prepare...${prompt}
-  12114: Is that so. Then come back here after ye've finished whatever ye have t'do.${prompt}
-  12115: 'Good. When ye arrive, use yer ${item-singular: 0[2]} t''enter the arena.${prompt}'
-  12116: 'Your ${item-singular: 0[2]} is torn...${prompt}'
-  12117: Yer destiny is t'seek out bigger stages until ye one day become diva to the whole o' Vana'diel.${prompt}
-  12118: Prrromise me you'll come back to dance with us again, ${name-player}.${prompt}
-  12119: "“Diva of the Dance Troupe”... \nIt sounds so dreamy... <Sigh>${prompt}"
-  12120: Oh hey there, ${name-player}. I was wondering where you were.${prompt}
-  12121: "I've been meaning to have a heart-to-heart with you for some time now. \nDon't take this the wrong way, but...have you ever considered getting a tailor-made dancer outfit? Hmmm?${prompt}"
-  12122: "As professionals, we have to take extra care with our appearance, you know. \nAnd it just so happens that there's this tailor I know you'd just love!${prompt}"
-  12123: His name is Matthias. The garments he makes at his shop in Bastok Markets are simply sublime!${prompt}
-  12124: 'We''ve all had our outfits made up by Matthias, even the ${item-singular: 0[2]} Laila''s wearing. Just gorgeous, aren''t they?${prompt}'
-  12125: You should definitely have Matthias make you an outfit, too. I promise you won't regret it!${prompt}
-  12126: You should definitely have him make you an outfit, too. I promise you won't regret it!${prompt}
+    Prêt quand tu l'es !
+    J'ai besoin de temps pour me préparer...${prompt}
+  12114: Ah bon. Alors reviens ici après avoir fini ce que tu as à faire.${prompt}
+  12115: 'Bien. Lorsque tu arriveras, utilise ${item-singular: 0[2]} pour entrer dans l’arène.${prompt}'
+  12116: 'Ton ${item-singular: 0[2]} est déchiré...${prompt}'
+  12117: Ta destinée est de chercher des scènes plus grandes jusqu'à ce que tu deviennes un jour la diva de tout Vana'diel.${prompt}
+  12118: Promets-moi que tu reviendras danser avec nous, ${name-player}.${prompt}
+  12119: "“Diva de la Troupe de Danse”... \nÇa sonne si rêveur... <Soupir>${prompt}"
+  12120: Oh, salut ${name-player}. Je me demandais où tu étais.${prompt}
+  12121: "Je voulais avoir une conversation sérieuse avec toi depuis un moment déjà. \nNe le prends pas mal, mais... as-tu déjà envisagé de faire faire un costume de danse sur mesure ? Hmm ?${prompt}"
+  12122: "En tant que professionnels, nous devons prendre un soin particulier de notre apparence, tu sais. \nEt il se trouve que je connais ce tailleur que tu adorerais !${prompt}" 
+  12123: Son nom est Matthias. Les vêtements qu'il fabrique dans sa boutique dans les Marchés de Bastok sont tout simplement sublimes !${prompt}
+  12124: 'Nous avons tous nos tenues faites par Matthias, même le ${item-singular: 0[2]} que Laila porte. Juste magnifiques, n’est-ce pas ?${prompt}'
+  12125: Tu devrais définitivement lui faire faire une tenue, toi aussi. Je te promets que tu ne le regretteras pas !${prompt}
+  12126: Tu devrais définitivement lui faire faire une tenue, toi aussi. Je te promets que tu ne le regretteras pas !${prompt}
   12127: |-
     Well, well, aren't we looking ${choice-player-gender}[dashing/gorgeous] today?
     I see you've been a good ${choice-player-gender}[boy/girl] and went to see Matthias, just like I recommended!${prompt}
