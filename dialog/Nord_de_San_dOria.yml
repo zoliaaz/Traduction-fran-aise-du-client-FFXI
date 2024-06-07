@@ -37346,198 +37346,198 @@ entries:
   18190: ${prompt}
   18191: ${prompt}
   18192: ${prompt}
-  18193: 'How many? (${choice: 0} [Conquest Points/Imperial Standing/Allied Notes]: ${number: 1})'
-  18194: 'You may purchase up to ${number: 2} at a time.'
-  18195: Have you heard what's going on in Adoulin, the land to the west?${prompt}
-  18196: I have. Things are starting to heat up. But can you imagine? Pioneering new lands in this day and age?${prompt}
-  18197: What in Vana'diel could they possibly be thinking? The lands are filled with airships, yet they pretend at being trailblazers.${prompt}
+  18193: 'Combien ? (${choice: 0} [Points de Conquête/Crédits de la Reconnaissance Impériale/Notes Alliées] : ${number: 1})'
+  18194: 'Vous pouvez en acheter jusqu’à ${number: 2} à la fois.'
+  18195: Avez-vous entendu ce qui se passe à Adoulin, le pays à l'ouest ?${prompt}
+  18196: Oui, les choses commencent à s'échauffer. Mais pouvez-vous imaginer ? Explorer de nouvelles terres à notre époque ?${prompt}
+  18197: Que peuvent-ils bien penser à Vana'diel ? Les terres sont remplies de dirigeables, et pourtant ils se prétendent pionniers.${prompt}
   18198: |-
-    The whole affair certainly seems ludicrous enough.
-    Not like it affects us here, though.${prompt}
-  18199: Only adventurers would--${prompt}
-  18200: Hm? Can I help you?${prompt}
-  18201: What's this now? You want to know more about the colonization project?${prompt}
-  18202: Sorry, but we're as much in the dark as you!${prompt}
-  18203: Beyond the reaches of the Sea of Zafmlug, toward where the sun sets, lies Adoulin...${prompt}
-  18204: It's a country in its own right, no? Quite savage lands for a “country,” I must declare! Still, though, word is that they are searching for able-bodied adventurers to serve as pioneers.${prompt}
-  18205: If memory serves, wasn't the Jeuno Chamber of Commerce and Industry holding some sort of test for interested applicants? If exploring new lands piques your interest, you might consider heading over to find out more.${prompt}
-  18206: Well, if you truly feel they need your aid, I wish you the best of luck.${prompt}
-  18207: A waypoint lies before you in all its mystery.
-  18208: You were unable to warp to your desired destination.
+    Toute cette affaire semble certainement assez ridicule.
+    Cela ne nous affecte pas ici, cependant.${prompt} 
+  18199: Seuls les aventuriers pourraient--${prompt}
+  18200: Hum ? Puis-je vous aider ?${prompt}
+  18201: Qu'est-ce que c'est maintenant ? Vous voulez en savoir plus sur le projet de colonisation ?${prompt}
+  18202: Désolé, mais nous sommes aussi dans le flou que vous !${prompt}
+  18203: Au-delà des étendues de la Mer de Zafmlug, vers où le soleil se couche, se trouve Adoulin...${prompt}
+  18204: C'est un pays à part entière, non ? Des terres assez sauvages pour un “pays”, je dois déclarer ! Pourtant, on dit qu'ils recherchent des aventuriers capables de servir de pionniers.${prompt}
+  18205: Si je me souviens bien, la Chambre de Commerce et d'Industrie de Jeuno organisait une sorte de test pour les candidats intéressés ? Si explorer de nouvelles terres vous intéresse, vous pourriez envisager d'aller en savoir plus.${prompt}
+  18206: Eh bien, si vous pensez vraiment qu'ils ont besoin de votre aide, je vous souhaite bonne chance.${prompt}
+  18207: Un point de passage se dresse devant vous dans tout son mystère.
+  18208: Vous n'avez pas pu vous téléporter à votre destination souhaitée.
   18209: |-
-    What will you do? (Kinetic Units: ${number: 3})
+    Que voulez-vous faire ? (Unités cinétiques : ${number: 3})
     ${selection-lines}
-    Nothing.
-    Read an explanation!
-    Go to Western Adoulin.
-    Go to Eastern Adoulin.
-    Go to Ceizak Battlegrounds.
-    Go to Yahse Hunting Grounds.
-    Go to Foret de Hennetiel.
-    Go to Morimar Basalt Fields.
-    Go to Yorcia Weald.
-    Go to Marjami Ravine.
-    Go to Kamihr Drifts.
-    Go to Jeuno. (${number: 4} unit${choice-plurality: 4}[/s])
-    Go to an enigmatic device.
-    Use runes.
-    Decline destination confirmation.
-    Accept destination confirmation.${prompt}
+    Rien.
+    Lire une explication !
+    Aller à Adoulin Ouest.
+    Aller à Adoulin Est.
+    Aller aux Champs de Bataille de Ceizak.
+    Aller aux Terres de Chasse de Yahse.
+    Aller à la Forêt de Hennetiel.
+    Aller aux Champs de Basalte de Morimar.
+    Aller à la Forêt de Yorcia.
+    Aller au Ravin de Marjami.
+    Aller aux Dérives de Kamihr.
+    Aller à Jeuno. (${number: 4} unité${choice-plurality: 4}[/s])
+    Aller à un dispositif énigmatique.
+    Utiliser des runes.
+    Refuser la confirmation de destination.
+    Accepter la confirmation de destination.${prompt}
   18210: |-
-    What will you do? (Kinetic Units: ${number: 3})
+    Que voulez-vous faire ? (Unités cinétiques : ${number: 3})
     ${selection-lines}
-    Nothing.
-    Read an explanation.
-    Go to Western Adoulin. (${number: 4} unit${choice-plurality: 4}[/s])
-    Decline destination confirmation.
-    Accept destination confirmation.${prompt}
+    Rien.
+    Lire une explication.
+    Aller à Adoulin Ouest. (${number: 4} unité${choice-plurality: 4}[/s])
+    Refuser la confirmation de destination.
+    Accepter la confirmation de destination.${prompt}
   18211: |-
-    Choose a destination. (Kinetic Units: ${number: 3})
+    Choisissez une destination. (Unités cinétiques : ${number: 3})
     ${selection-lines}
-    Back.
-    Northern San d'Oria. (${number: 4} unit${choice-plurality: 4}[/s])
-    Bastok Markets. (${number: 4} unit${choice-plurality: 4}[/s])
-    Windurst Woods. (${number: 4} unit${choice-plurality: 4}[/s])
-    Selbina. (${number: 4} unit${choice-plurality: 4}[/s])
-    Mhaura. (${number: 4} unit${choice-plurality: 4}[/s])
-    Kazham. (${number: 4} unit${choice-plurality: 4}[/s])
-    Rabao. (${number: 4} unit${choice-plurality: 4}[/s])
-    Norg. (${number: 4} unit${choice-plurality: 4}[/s])
-    Tavnazian Safehold. (${number: 4} unit${choice-plurality: 4}[/s])
-    Aht Urhgan Whitegate. (${number: 4} unit${choice-plurality: 4}[/s])
-    Nashmau. (${number: 4} unit${choice-plurality: 4}[/s])
-    (${number: 4} unit${choice-plurality: 4}[/s])
-    (${number: 4} unit${choice-plurality: 4}[/s])
-    (${number: 4} unit${choice-plurality: 4}[/s])
-    (${number: 4} unit${choice-plurality: 4}[/s])
-    (${number: 4} unit${choice-plurality: 4}[/s])
-    (${number: 4} unit${choice-plurality: 4}[/s])
-    (${number: 4} unit${choice-plurality: 4}[/s])
-    (${number: 4} unit${choice-plurality: 4}[/s])
-    (${number: 4} unit${choice-plurality: 4}[/s])
-    (${number: 4} unit${choice-plurality: 4}[/s])
-    (${number: 4} unit${choice-plurality: 4}[/s])
-    (${number: 4} unit${choice-plurality: 4}[/s])
-    (${number: 4} unit${choice-plurality: 4}[/s])
-    (${number: 4} unit${choice-plurality: 4}[/s])
-    (${number: 4} unit${choice-plurality: 4}[/s])
-    (${number: 4} unit${choice-plurality: 4}[/s])
-    (${number: 4} unit${choice-plurality: 4}[/s])
-    (${number: 4} unit${choice-plurality: 4}[/s])
-    (${number: 4} unit${choice-plurality: 4}[/s])${prompt}
-  18212: 'Your ${keyitem-singular: 1[2]} has been attuned to a geomagnetic fount${choice: 0}[/ in front of the Peacekeepers'' Coalition/ in front of the Scouts'' Coalition/ at the Statue of the Goddess/ at the wharf to Yahse Hunting Grounds/ in front of your Rent-a-Room/ in front of the auction house/ on Sverdhried Hillock/ in the Coronal Esplanade/ at the gates of Castle Adoulin]!${prompt}'
+    Retour.
+    Nord de San d'Oria. (${number: 4} unité${choice-plurality: 4}[/s])
+    Marchés de Bastok. (${number: 4} unité${choice-plurality: 4}[/s])
+    Bois de Windurst. (${number: 4} unité${choice-plurality: 4}[/s])
+    Selbina. (${number: 4} unité${choice-plurality: 4}[/s])
+    Mhaura. (${number: 4} unité${choice-plurality: 4}[/s])
+    Kazham. (${number: 4} unité${choice-plurality: 4}[/s])
+    Rabao. (${number: 4} unité${choice-plurality: 4}[/s])
+    Norg. (${number: 4} unité${choice-plurality: 4}[/s])
+    Havre de Tavnazia. (${number: 4} unité${choice-plurality: 4}[/s])
+    Portes d'Aht Urhgan. (${number: 4} unité${choice-plurality: 4}[/s])
+    Nashmau. (${number: 4} unité${choice-plurality: 4}[/s])
+    (${number: 4} unité${choice-plurality: 4}[/s])
+    (${number: 4} unité${choice-plurality: 4}[/s])
+    (${number: 4} unité${choice-plurality: 4}[/s])
+    (${number: 4} unité${choice-plurality: 4}[/s])
+    (${number: 4} unité${choice-plurality: 4}[/s])
+    (${number: 4} unité${choice-plurality: 4}[/s])
+    (${number: 4} unité${choice-plurality: 4}[/s])
+    (${number: 4} unité${choice-plurality: 4}[/s])
+    (${number: 4} unité${choice-plurality: 4}[/s])
+    (${number: 4} unité${choice-plurality: 4}[/s])
+    (${number: 4} unité${choice-plurality: 4}[/s])
+    (${number: 4} unité${choice-plurality: 4}[/s])
+    (${number: 4} unité${choice-plurality: 4}[/s])
+    (${number: 4} unité${choice-plurality: 4}[/s])
+    (${number: 4} unité${choice-plurality: 4}[/s])
+    (${number: 4} unité${choice-plurality: 4}[/s])
+    (${number: 4} unité${choice-plurality: 4}[/s])
+    (${number: 4} unité${choice-plurality: 4}[/s])
+    ({number: 4} unité${choice-plurality: 4}[/s])${prompt}
+  18212: 'Votre ${keyitem-singular: 1[2]} a été accordé à une source géomagnétique${choice: 0}[/ devant la Coalition des Pacificateurs/ devant la Coalition des Éclaireurs/ à la Statue de la Déesse/ au quai vers les Terres de Chasse de Yahse/ devant votre Chambre en location/ devant la maison des enchères/ sur la Colline de Sverdhried/ dans l’Esplanade Coronale/ aux portes du Château d’Adoulin]!${prompt}'
   18213: |-
-    Choose a destination. (Kinetic Units: ${number: 3})
+    Choisissez une destination. (Unités cinétiques : ${number: 3})
     ${selection-lines}
-    Nowhere, thanks.
-    Peacekeepers' Coalition. (${number: 4} unit${choice-plurality: 4}[/s])
-    Scouts' Coalition. (${number: 4} unit${choice-plurality: 4}[/s])
-    Statue of the Goddess. (${number: 4} unit${choice-plurality: 4}[/s])
-    The wharf to Yahse. (${number: 4} unit${choice-plurality: 4}[/s])
-    Your Rent-a-Room. (${number: 4} unit${choice-plurality: 4}[/s])
-    The auction house. (${number: 4} unit${choice-plurality: 4}[/s])
-    Sverdhried Hillock. (${number: 4} unit${choice-plurality: 4}[/s])
-    The Coronal Esplanade. (${number: 4} unit${choice-plurality: 4}[/s])
-    Castle Adoulin gates. (${number: 4} unit${choice-plurality: 4}[/s])${prompt}
-  18214: 'Your ${keyitem-singular: 1[2]} has been attuned to a geomagnetic fount${choice: 0}[/ in Platea Triumphus (Couriers'' Coalition)/ in front of the Pioneers'' Coalition/ in front of the Mummers'' Coalition/ in front of the Inventors'' Coalition/ in front of the auction house/ in front of your Rent-a-Room/ by Big Bridge/ by the airship docks/ on the Adoulin Waterfront]!${prompt}'
+    Nulle part, merci.
+    Coalition des Pacificateurs. (${number: 4} unité${choice-plurality: 4}[/s])
+    Coalition des Éclaireurs. (${number: 4} unité${choice-plurality: 4}[/s])
+    Statue de la Déesse. (${number: 4} unité${choice-plurality: 4}[/s])
+    Le quai vers Yahse. (${number: 4} unité${choice-plurality: 4}[/s])
+    Votre Chambre en location. (${number: 4} unité${choice-plurality: 4}[/s])
+    La maison des enchères. (${number: 4} unité${choice-plurality: 4}[/s])
+    Colline de Sverdhried. (${number: 4} unité${choice-plurality: 4}[/s])
+    Esplanade Coronale. (${number: 4} unité${choice-plurality: 4}[/s])
+    Portes du Château d'Adoulin. (${number: 4} unité${choice-plurality: 4}[/s])${prompt}
+  18214: 'Votre ${keyitem-singular: 1[2]} a été accordé à une source géomagnétique${choice: 0}[/ sur Platea Triumphus (Coalition des Courriers)/ devant la Coalition des Pionniers/ devant la Coalition des Mimes/ devant la Coalition des Inventeurs/ devant la maison des enchères/ devant votre Chambre en location/ près du Grand Pont/ près des docks des aéronefs/ sur le Quai d’Adoulin]!${prompt}'
   18215: |-
-    Choose a destination. (Kinetic Units: ${number: 3})
+    Choisissez une destination. (Unités cinétiques : ${number: 3})
     ${selection-lines}
-    Nowhere, thanks.
-    Platea Triumphus (COU Co.). (${number: 4} unit${choice-plurality: 4}[/s])
-    Pioneers' Coalition. (${number: 4} unit${choice-plurality: 4}[/s])
-    Mummers' Coalition. (${number: 4} unit${choice-plurality: 4}[/s])
-    Inventors' Coalition. (${number: 4} unit${choice-plurality: 4}[/s])
-    Auction house. (${number: 4} unit${choice-plurality: 4}[/s])
-    Your Rent-a-Room. (${number: 4} unit${choice-plurality: 4}[/s])
-    Big Bridge. (${number: 4} unit${choice-plurality: 4}[/s])
-    Airship docks. (${number: 4} unit${choice-plurality: 4}[/s])
-    Adoulin Waterfront. (${number: 4} unit${choice-plurality: 4}[/s])${prompt}
-  18216: 'Your ${keyitem-singular: 1[2]} has been attuned to a geomagnetic fount${choice: 0}[/ at the frontier station/ at Frontier Bivouac #1/ at Frontier Bivouac #2/ at Frontier Bivouac #3]!${prompt}'
+    Nulle part, merci.
+    Platea Triumphus (Coalition des Courriers). (${number: 4} unité${choice-plurality: 4}[/s])
+    Coalition des Pionniers. (${number: 4} unité${choice-plurality: 4}[/s])
+    Coalition des Mimes. (${number: 4} unité${choice-plurality: 4}[/s])
+    Coalition des Inventeurs. (${number: 4} unité${choice-plurality: 4}[/s])
+    Maison des enchères. (${number: 4} unité${choice-plurality: 4}[/s])
+    Votre Chambre en location. (${number: 4} unité${choice-plurality: 4}[/s])
+    Grand Pont. (${number: 4} unité${choice-plurality: 4}[/s])
+    Docks des aéronefs. (${number: 4} unité${choice-plurality: 4}[/s])
+    Quai d'Adoulin. (${number: 4} unité${choice-plurality: 4}[/s])${prompt}
+  18216: 'Votre ${keyitem-singular: 1[2]} a été accordé à une source géomagnétique${choice: 0}[/ à la station frontalière/ au Bivouac Frontalier n°1/ au Bivouac Frontalier n°2/ au Bivouac Frontalier n°3]!${prompt}'
   18217: |-
-    Choose a destination. (Kinetic Units: ${number: 3})
+    Choisissez une destination. (Unités cinétiques : ${number: 3})
     ${selection-lines}
-    Nowhere.
-    Frontier Station. (${number: 4} unit${choice-plurality: 4}[/s])
-    Frontier Bivouac #1. (${number: 4} unit${choice-plurality: 4}[/s])
-    Frontier Bivouac #2. (${number: 4} unit${choice-plurality: 4}[/s])
-    Frontier Bivouac #3. (${number: 4} unit${choice-plurality: 4}[/s])${prompt}
-  18218: 'Your ${keyitem-singular: 1[2]} has been attuned to a geomagnetic fount${choice: 0}[/ at the frontier station/ at Frontier Bivouac #1/ at Frontier Bivouac #2/ at Frontier Bivouac #3]!${prompt}'
+    Nulle part.
+    Station Frontalière. (${number: 4} unité${choice-plurality: 4}[/s])
+    Bivouac Frontalier n°1. (${number: 4} unité${choice-plurality: 4}[/s])
+    Bivouac Frontalier n°2. (${number: 4} unité${choice-plurality: 4}[/s])
+    Bivouac Frontalier n°3. (${number: 4} unité${choice-plurality: 4}[/s])${prompt}
+  18218: 'Votre ${keyitem-singular: 1[2]} a été accordé à une source géomagnétique${choice: 0}[/ à la station frontalière/ au Bivouac Frontalier n°1/ au Bivouac Frontalier n°2/ au Bivouac Frontalier n°3]!${prompt}'
   18219: |-
-    Choose a destination. (Kinetic Units: ${number: 3})
+    Choisissez une destination. (Unités cinétiques : ${number: 3})
     ${selection-lines}
-    Nowhere.
-    Frontier Station. (${number: 4} unit${choice-plurality: 4}[/s])
-    Frontier Bivouac #1. (${number: 4} unit${choice-plurality: 4}[/s])
-    Frontier Bivouac #2. (${number: 4} unit${choice-plurality: 4}[/s])
-    Frontier Bivouac #3. (${number: 4} unit${choice-plurality: 4}[/s])${prompt}
-  18220: 'Your ${keyitem-singular: 1[2]} has been attuned to a geomagnetic fount${choice: 0}[/ at the frontier station/ at Frontier Bivouac #1/ at Frontier Bivouac #2/ at Frontier Bivouac #3/ at Frontier Bivouac #4]!${prompt}'
+    Nulle part.
+    Station Frontalière. (${number: 4} unité${choice-plurality: 4}[/s])
+    Bivouac Frontalier n°1. (${number: 4} unité${choice-plurality: 4}[/s])
+    Bivouac Frontalier n°2. (${number: 4} unité${choice-plurality: 4}[/s])
+    Bivouac Frontalier n°3. (${number: 4} unité${choice-plurality: 4}[/s])${prompt}
+  18220: 'Votre ${keyitem-singular: 1[2]} a été accordé à une source géomagnétique${choice: 0}[/ à la station frontalière/ au Bivouac Frontalier n°1/ au Bivouac Frontalier n°2/ au Bivouac Frontalier n°3/ au Bivouac Frontalier n°4]!${prompt}'
   18221: |-
-    Choose a destination. (Kinetic Units: ${number: 3})
+    Choisissez une destination. (Unités cinétiques : ${number: 3})
     ${selection-lines}
-    Nowhere.
-    Frontier Station. (${number: 4} unit${choice-plurality: 4}[/s])
-    Frontier Bivouac #1. (${number: 4} unit${choice-plurality: 4}[/s])
-    Frontier Bivouac #2. (${number: 4} unit${choice-plurality: 4}[/s])
-    Frontier Bivouac #3. (${number: 4} unit${choice-plurality: 4}[/s])
-    Frontier Bivouac #4. (${number: 4} unit${choice-plurality: 4}[/s])${prompt}
-  18222: 'Your ${keyitem-singular: 1[2]} has been attuned to a geomagnetic fount${choice: 0}[/ at the frontier station/ at Frontier Bivouac #1/ at Frontier Bivouac #2/ at Frontier Bivouac #3/ at Frontier Bivouac #4/ at Frontier Bivouac #5]!${prompt}'
+    Nulle part.
+    Station Frontalière. (${number: 4} unité${choice-plurality: 4}[/s])
+    Bivouac Frontalier n°1. (${number: 4} unité${choice-plurality: 4}[/s])
+    Bivouac Frontalier n°2. (${number: 4} unité${choice-plurality: 4}[/s])
+    Bivouac Frontalier n°3. (${number: 4} unité${choice-plurality: 4}[/s])
+    Bivouac Frontalier n°4. (${number: 4} unité${choice-plurality: 4}[/s])${prompt}
+  18222: 'Votre ${keyitem-singular: 1[2]} a été accordé à une source géomagnétique${choice: 0}[/ à la station frontalière/ au Bivouac Frontalier n°1/ au Bivouac Frontalier n°2/ au Bivouac Frontalier n°3/ au Bivouac Frontalier n°4/ au Bivouac Frontalier n°5]!${prompt}'
   18223: |-
-    Choose a destination. (Kinetic Units: ${number: 3})
+    Choisissez une destination. (Unités cinétiques : ${number: 3})
     ${selection-lines}
-    Nowhere.
-    Frontier Station. (${number: 4} unit${choice-plurality: 4}[/s])
-    Frontier Bivouac #1. (${number: 4} unit${choice-plurality: 4}[/s])
-    Frontier Bivouac #2. (${number: 4} unit${choice-plurality: 4}[/s])
-    Frontier Bivouac #3. (${number: 4} unit${choice-plurality: 4}[/s])
-    Frontier Bivouac #4. (${number: 4} unit${choice-plurality: 4}[/s])
-    Frontier Bivouac #5. (${number: 4} unit${choice-plurality: 4}[/s])${prompt}
-  18224: 'Your ${keyitem-singular: 1[2]} has been attuned to the enigmatic device in ${zone: 0[2]}!${prompt}'
+    Nulle part.
+    Station Frontalière. (${number: 4} unité${choice-plurality: 4}[/s])
+    Bivouac Frontalier n°1. (${number: 4} unité${choice-plurality: 4}[/s])
+    Bivouac Frontalier n°2. (${number: 4} unité${choice-plurality: 4}[/s])
+    Bivouac Frontalier n°3. (${number: 4} unité${choice-plurality: 4}[/s])
+    Bivouac Frontalier n°4. (${number: 4} unité${choice-plurality: 4}[/s])
+    Bivouac Frontalier n°5. (${number: 4} unité${choice-plurality: 4}[/s])${prompt}
+  18224: 'Votre ${keyitem-singular: 1[2]} a été accordé à l’appareil énigmatique dans ${zone: 0[2]}!${prompt}'
   18225: |-
-    Choose a destination. (Kinetic Units: ${number: 3})
+    Choisissez une destination. (Unités cinétiques : ${number: 3})
     ${selection-lines}
-    Nowhere.
-    Rala Waterways. (${number: 4} unit${choice-plurality: 4}[/s])
-    Cirdas Caverns. (${number: 4} unit${choice-plurality: 4}[/s])
-    Yorcia Weald. (${number: 4} unit${choice-plurality: 4}[/s])
-    Outer Ra'Kaznar. (${number: 4} unit${choice-plurality: 4}[/s])
-    Somewhere. (${number: 4} unit${choice-plurality: 4}[/s])${prompt}
-  18226: '${color-alt: 15}You adjusted the waypoint with your ${keyitem-singular: 0[2]}.${prompt}'
-  18227: You were unable to satisfactorily adjust the waypoint.${prompt}
-  18228: An enigmatic contrivance hovers in silence...${prompt}
-  18229: Leaning in closely to the device, one can make out miniscule etchings that read, “Trade various crystals to this waypoint to receive kinetic units that may be used when you wish to warp to another locale.”${prompt}
-  18230: '“Travelers may not possess more than ${number: 1} at a given time. Should someone trade an amount of crystals that would result in a surplus of kinetic units, those units will be lost to the aether.”${prompt}'
-  18231: 'You have expended ${number: 0} kinetic unit${choice-plurality: 0}[/s] and will be transported to another locale.${prompt}'
-  18232: Your stock of kinetic units is insufficient.${prompt}
-  18233: You have reached your limit of kinetic units and cannot charge your artifact any further.${prompt}
+    Nulle part.
+    Canaux de Rala. (${number: 4} unité${choice-plurality: 4}[/s])
+    Cavernes de Cirdas. (${number: 4} unité${choice-plurality: 4}[/s])
+    Forêt de Yorcia. (${number: 4} unité${choice-plurality: 4}[/s])
+    Ra'Kaznar Extérieur. (${number: 4} unité${choice-plurality: 4}[/s])
+    Quelque part. (${number: 4} unité${choice-plurality: 4}[/s])${prompt}
+  18226: '${color-alt: 15}Vous avez ajusté le point de passage avec votre ${keyitem-singular: 0[2]}.${prompt}'
+  18227: Vous n'avez pas pu ajuster le point de passage de manière satisfaisante.${prompt}
+  18228: Un engin énigmatique plane en silence...${prompt}
+  18229: 'En se penchant de près sur l’appareil, on peut distinguer des gravures minuscules qui disent : "Échangez divers cristaux contre ce point de passage pour recevoir des unités cinétiques qui peuvent être utilisées lorsque vous souhaitez vous téléporter vers un autre lieu."${prompt}'
+  18230: '“Les voyageurs ne peuvent pas posséder plus de ${number: 1} à la fois. Si quelqu’un échange une quantité de cristaux qui entraînerait un surplus d’unités cinétiques, ces unités seront perdues dans l’éther.”${prompt}'
+  18231: 'Vous avez dépensé ${number: 0} unité${choice-plurality: 0} cinétique${choice-plurality: 0} et serez transporté vers un autre lieu.${prompt}'
+  18232: Votre stock d'unités cinétiques est insuffisant.${prompt}
+  18233: Vous avez atteint votre limite d'unités cinétiques et ne pouvez pas recharger votre artefact davantage.${prompt}
   18234: |-
-    There is no response.
-    You apparently cannot receive kinetic units from this item.${prompt}
+    Il n'y a pas de réponse.
+    Apparemment, vous ne pouvez pas recevoir d'unités cinétiques de cet objet.${prompt}
   18235: |-
-    Your artifact has been charged with ${number: 0} kinetic unit${choice-plurality: 0}[/s].
-    Your current stock of kinetic units totals ${number: 1}.${prompt}
-  18236: Your artifact has been charged to its terminal volume of kinetic units.${prompt}
-  18237: 'A surplus of ${number: 0} kinetic unit${choice-plurality: 0}[/s] has been lost to the aether.${prompt}'
-  18238: '${color-alt: 138}Unable to proceed. “Rise of the Zilart” has not been installed.'
-  18239: '${color-alt: 138}Unable to proceed. “Chains of Promathia” has not been installed.'
-  18240: You will not be asked to confirm your choice of destination. Switching to simple teleporation mode.${prompt}
-  18241: You will be asked to confirm your choice of destination. Returning to normal teleportation mode.${prompt}
+    Votre artefact a été chargé avec ${number: 0} unité${choice-plurality: 0} cinétique${choice-plurality: 0}.
+    Votre stock actuel d'unités cinétiques s'élève à ${number: 1}.${prompt}
+  18236: Votre artefact a été chargé à son volume terminal d'unités cinétiques.${prompt}
+  18237: 'Un surplus de ${number: 0} unité${choice-plurality: 0} cinétique${choice-plurality: 0}[/s] a été perdu dans l’éther.${prompt}'
+  18238: '${color-alt: 138}Impossible de continuer. “Rise of the Zilart” n’a pas été installé.'
+  18239: '${color-alt: 138}Impossible de continuer. “Chains of Promathia” n’a pas été installé.'
+  18240: Vous ne serez pas demandé de confirmer votre choix de destination. Passage au mode de téléportation simple.${prompt}
+  18241: Vous serez demandé de confirmer votre choix de destination. Retour au mode de téléportation normal.${prompt}
   18242: |-
-    Warp to your destination?
+    Vous téléporter à votre destination ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  18243: I am elated that this lambent glow is apparent to thee. Your obvious lack of experience, however, causeth mine eyes to overflow with ruth.${prompt}
-  18244: I am elated that my lambent glow is apparent to thee. Visit my kinsman who dwelleth in the Pashhow Marshlands anon if thou yearnest for an experience like none other.${prompt}
+    Oui.
+    Non.${prompt}
+  18243: Je suis ravi que cette lueur éclatante soit apparente à vous. Votre manque évident d’expérience, cependant, cause à mes yeux de déborder de pitié.${prompt}
+  18244: Je suis ravi que ma lueur éclatante soit apparente à vous. Visitez mon parent qui demeure dans les Marais de Pashhow bientôt si vous aspirez à une expérience comme nulle autre.${prompt}
   18245: |-
-    ...I am aware of thy mission.
-    Thou art to provision me with ${article} ${item-article: 0[2]}, ${article} ${item-article: 1[2]}, or ${article} ${item-article: 2[2]}.${prompt}
-  18246: 'Shouldst thy journey take thee to another nation, my kindred spirits in either ${choice: 3}[Northern San d''Oria/Port Bastok/Port Windurst] or ${choice: 4}[Northern San d''Oria/Port Bastok/Port Windurst] would also suffice.${prompt}'
-  18247: May the winds blow thy way, adventurer.${prompt}
-  18248: '...And thus ${choice-player-gender}[he/she] arriveth.${prompt}'
+    ...Je suis au courant de votre mission.
+    Vous devez me fournir ${article} ${item-article: 0[2]}, ${article} ${item-article: 1[2]}, ou ${article} ${item-article: 2[2]}.${prompt}
+  18246: 'Si votre voyage vous emmène dans une autre nation, mes esprits apparentés dans ${choice: 3}[San d''Oria Nord/Port Bastok/Port Windurst] ou ${choice: 4}[San d''Oria Nord/Port Bastok/Port Windurst] conviendraient également.${prompt}'
+  18247: Que les vents vous soient favorables, aventurier.${prompt}
+  18248: '...Et ainsi ${choice-player-gender}[il/elle] est arrivé(e).${prompt}'
   18249: |-
-    I shan't cause thee teen.
-    All I ask is that thou wearest this ${keyitem-singular: 0[2]} upon thy finger and let thyself bathe in its luminescent emanations.${prompt}
+    Je ne te causerai pas de peine.
+    Tout ce que je demande, c'est que tu portes ce ${keyitem-singular: 0[2]} à ton doigt et te laisses baigner dans ses émanations lumineuses.${prompt}
   18250: 'Wearest that ${keyitem-singular: 0[2]} upon thy finger and let thyself bathe in its luminescent emanations.${prompt}'
   18251: Quotha...the light that shines forth from thy soul hath brightened a considerable degree.${prompt}
   18252: Natheless, it remaineth but a dull glow akin to twitherym dust whenas compared to the blindingly refulgent souls of more accomplished combatants.${prompt}
