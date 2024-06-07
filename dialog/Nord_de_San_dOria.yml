@@ -17079,8 +17079,7 @@ entries:
   6927: |-
     The hallowed halls of your house are even more exciting!
     Why? Because now there's a second floor, kupo!${prompt}
-  6928: |-
-    Mais avant que vous ne fonciez, j'ai une petite tâche à vous confier, kupo.${prompt}
+  6928: Mais avant que vous ne fonciez, j'ai une petite tâche à vous confier, kupo.${prompt}
   6929: Des jeunes Mithras capricieuses ont réussi à obtenir des informations cruciales de la M.H.M.U., et je veux que vous les leur arrachiez, kupo !${prompt}
   6930: Visitez les trois nations et interrogez-les, kupo !${prompt}
   6931: Maintenant que vous connaissez les détails, profitez de votre nouvel étage, kupo !${prompt}
@@ -17164,8 +17163,8 @@ entries:
   6977: |-
     C'est ici que les citoyens des autres nations font une demande de citoyenneté à ${choice: 3}[San d'Oria/Bastok/Windurst].
     Étant donné que vous êtes ${choice: 3}[san d'oréen/bastokien/windurstien], je ne peux pas faire grand-chose pour vous.${prompt}
-  6978: "Je ne peux pas accepter les demandes de citoyenneté ${choice: 3}[san d'oréenne/bastokienne/windurstienne] pendant que vous êtes en mission.${prompt}"
-  6979: "Votre pays d'origine semble avoir des problèmes... Je ne peux pas accepter les demandes de citoyenneté ${choice: 3}[san d'oréenne/bastokienne/windurstienne] pour le moment.${prompt}"
+  6978: 'Je ne peux pas accepter les demandes de citoyenneté ${choice: 3}[san d''oréenne/bastokienne/windurstienne] pendant que vous êtes en mission.${prompt}'
+  6979: 'Votre pays d''origine semble avoir des problèmes... Je ne peux pas accepter les demandes de citoyenneté ${choice: 3}[san d''oréenne/bastokienne/windurstienne] pour le moment.${prompt}'
   6980: |-
     Rejoindre la guilde des ${choice: 6}[pêcheurs/charpentiers/forgerons/orfèvres/tisserands/tanneurs/artisanat osseux/alchimistes/cuisiniers] ?
     ${selection-lines}
@@ -17535,9 +17534,9 @@ entries:
   7117: Allez demander aux autres quels matériaux utiliser. Et, bien que cela me fasse mal de le dire, vous pourriez apprendre beaucoup sur la forge en visitant Bastok.${prompt}
   7118: Vous avez encore beaucoup à apprendre. Même nos nouveaux apprentis sont un pas en avant par rapport à vous.${prompt}
   7119: Vous pensez avoir atteint le sommet ? Votre tête est encore dans les nuages, jeune aventurier. Même moi, je suis toujours en train de grimper...${prompt}
-  7120: "Je pense que vous êtes prêt à passer au rang suivant. Fabriquez-moi ${article} ${item-article: 0[2]}.${prompt}"
+  7120: 'Je pense que vous êtes prêt à passer au rang suivant. Fabriquez-moi ${article} ${item-article: 0[2]}.${prompt}'
   7121: Terminez une pièce de qualité, et je vous enseignerai davantage.${prompt}
-  7122: "Hmm... Pas mal. Je vous promeus au rang de ${choice: 7}[amateur/recrue/initié/novice/apprenti]. Ne vous reposez pas, car le chemin à parcourir est long.${prompt}"
+  7122: 'Hmm... Pas mal. Je vous promeus au rang de ${choice: 7}[amateur/recrue/initié/novice/apprenti]. Ne vous reposez pas, car le chemin à parcourir est long.${prompt}'
   7123: Oui... Cela fera l'affaire. Je vous décerne ici le rang de compagnon. Félicitations. Nous avons de grands espoirs en vous.${prompt}
   7124: Par les soufflets de ma forge ! Une œuvre d'art, en effet ! Vous serez désormais appelé artisan. Puissiez-vous être à la hauteur de ce nom.${prompt}
   7125: Incroyable qu'un simple aventurier comme vous puisse forger un acier si fin. Cela me rappelle quand j'avais votre âge...${prompt}
@@ -17546,7 +17545,7 @@ entries:
   7128: Non, vous devriez essayer par vous-même.${prompt}
   7129: Oh, je suis désolé. Le maître de guilde est mécontent lorsque nous donnons de l'aide gratuitement. "Un ami n'est qu'un concurrent", aime-t-il dire.${prompt}
   7130: Très bien. Fermez les yeux et concentrez-vous sur l'artisanat.${prompt}
-  7131: "Hmm... Eh bien, je recommanderais à quelqu'un de votre niveau d'essayer de fabriquer ${item-plural: 0[2]}. Voici ce dont vous aurez besoin :${prompt}"
+  7131: 'Hmm... Eh bien, je recommanderais à quelqu''un de votre niveau d''essayer de fabriquer ${item-plural: 0[2]}. Voici ce dont vous aurez besoin :${prompt}'
   7132: Avez-vous compris ? Rappelez-vous, notre maître de guilde est strict, mais derrière son visage sévère se cache la joie de voir de nouveaux apprentis. Revenez quand vous voulez, mon ami !${prompt}
   7133: |-
     Clang-clong ! Toute la journée !♪
@@ -17698,7 +17697,7 @@ entries:
     Pas question.${prompt}
   7224: Heh-heh-heh... Fou d'aventurier. Je te plains !${prompt}
   7225: Beaucoup de jeunes comme toi sont morts, écrasés sous le talon de l'histoire sinistre de cette terre.${prompt}
-  7226: 'D’accord. Que diriez-vous d’aller à Ghelsba, de récupérer ${item-singular: 1[2]} que j’ai vendu à ces Orcs, et de me le rapporter ?${prompt}' 
+  7226: 'D’accord. Que diriez-vous d’aller à Ghelsba, de récupérer ${item-singular: 1[2]} que j’ai vendu à ces Orcs, et de me le rapporter ?${prompt}'
   7227: Heh-heh... Pas que je m'attende à ce que tu survives...${prompt}
   7228: 'D’accord. Que diriez-vous d’aller à Ghelsba, de récupérer ${item-singular: 1[2]} que j’ai vendu à ces Orcs, et de me le rapporter ?${prompt}'
   7229: Heh-heh... Pas que je m'attende à ce que tu survives...${prompt}
@@ -23901,7 +23900,11 @@ entries:
   11236: 'Splendide ! Apportez ce ${item-singular: 0[2]} à Phairet. Il est dans une tour loin au sud de Ronfaure Ouest. Il vous donnera ${article} ${item-article: 1[2]} en retour !${prompt}'
   11237: Nous payons toujours après la livraison, donc vous n'avez pas besoin de lui donner d'argent !${prompt}
   11238: 'Ramenez ce ${item-singular: 1[2]} aussi vite que possible, d’accord ? Et ne laissez pas tomber le ${item-singular: 0[2]}, non plus !${prompt}'
-  11239: "Vous l'avez perdu ?\n${selection-lines}\nNon, il est juste ici !\nDésolé...${prompt}"
+  11239: |-
+    Vous l'avez perdu ?
+    ${selection-lines}
+    Non, il est juste ici !
+    Désolé...${prompt}
   11240: Ah, quel soulagement.${prompt}
   11241: Bon sang ! Eh bien, je suppose que je peux vous en écrire un autre. Ne le perdez pas encore, d'accord !${prompt}
   11242: Désolé, pas le temps de discuter ! Je dois encore finir de nettoyer les chambres.${prompt}
@@ -23918,7 +23921,7 @@ entries:
   11253: Est-ce votre première fois ici ? Joignez-vous à nous pour prier !${prompt}
   11254: Le paradis est un endroit sans peur, sans mort !${prompt}
   11255: Le Papsque Shamonde adresse parfois la ville depuis le balcon, vous savez. Je souhaite ardemment recevoir sa bénédiction, ne serait-ce qu'une fois !${prompt}
-  11256: À chaque sermon, je fais un pas de plus vers le paradis.${prompt} 
+  11256: À chaque sermon, je fais un pas de plus vers le paradis.${prompt}
   11257: Nous sommes vraiment chanceux que des paroles sacrées soient lues chaque jour !${prompt}
   11258: Déesse d'en haut, conduis-nous au paradis !${prompt}
   11259: Je vais commencer sous peu. Si vous avez des questions, adressez-vous au frère dans le narthex.${prompt}
@@ -24207,12 +24210,12 @@ entries:
   11521: Si vous perdez votre chemin, consultez simplement votre “Carte” depuis le menu principal.${prompt}
   11522: Adieu, et bonne chance !${prompt}
   11523: Au revoir !${prompt}
-  11524: "Ces écluses divisent le Nord de San d'Oria en deux parties : le Terrain de Parade et le Chemin des Ouvriers.${prompt}"
-  11525: "Le Chemin des Ouvriers est bien plus bas que le reste de la ville. Ainsi, pour éviter les inondations, nous utilisons ces écluses pour réguler l'eau de tout le quartier !${prompt}"
+  11524: 'Ces écluses divisent le Nord de San d''Oria en deux parties : le Terrain de Parade et le Chemin des Ouvriers.${prompt}'
+  11525: Le Chemin des Ouvriers est bien plus bas que le reste de la ville. Ainsi, pour éviter les inondations, nous utilisons ces écluses pour réguler l'eau de tout le quartier !${prompt}
   11526: Attendez, vous êtes un aventurier, n'est-ce pas ? J'ai une demande, si vous avez le temps...${prompt}
   11527: Ne le dites à personne, mais quelqu'un m'a envoyé une lettre disant qu'il avait empoisonné l'eau ici ! Nous vérifions maintenant la véracité de cette affirmation.${prompt}
   11528: En attendant, nous devons préparer un neutralisant pour éliminer le poison. Seriez-vous prêt à en obtenir un ?${prompt}
-  11529: |- 
+  11529: |-
     Aller chercher le neutralisant ?
     ${selection-lines}
     Allons-y.
@@ -24451,7 +24454,7 @@ entries:
   11645: Je suis content que vous ayez apporté une lettre de recommandation, mais vous n'avez pas encore terminé votre devoir envers le consul Melek. Vous devrez revenir une fois que ce sera fait.${prompt}
   11646: Belle lettre de recommandation que vous avez là, mais vous avez accepté un travail du consul Patt-Pott, n'est-ce pas? Terminez votre travail, puis nous parlerons! Ta-taru!${prompt}
   11647: Je dois admettre que vous êtes l'un de mes recrues préférées, donc j'ai toujours de nouvelles missions pour vous. Mais je suis aussi responsable d'autres aventuriers!${prompt}
-  11648: Désormais, je vérifierai vos points de rang pour déterminer si vous êtes prêt pour la prochaine mission.${prompt}  
+  11648: Désormais, je vérifierai vos points de rang pour déterminer si vous êtes prêt pour la prochaine mission.${prompt}
   11649: La meilleure façon de gagner des points de rang est de rejoindre la conquête et ainsi obtenir des cristaux.${prompt}
   11650: Si vous voulez en savoir plus sur la conquête, demandez au chevalier seigneur à n'importe quelle maison de garde.${prompt}
   11651: Vous devez recevoir des ordres de Monarlais Halver au Château d'Oraguille pour que votre mission soit officielle.${prompt}
@@ -25154,7 +25157,7 @@ entries:
   12083: Un flyer ? Pour moi ? Un peu de lecture serait un changement bienvenu, en effet !${prompt}
   12084: Ouvrir une boutique de magie, sans me consulter d'abord ? Je dois rendre visite à cette Régine !${prompt}
   12085: La magie pourrait être utile pour mon voyage vers le Paradis. Merci beaucoup !${prompt}
-  12086: Votre flyer est accepté !${prompt} 
+  12086: Votre flyer est accepté !${prompt}
   12087: Cette personne a déjà un flyer.${prompt}
   12088: P-Père... Comment as-tu pu !${prompt}
   12089: Il y a quelque chose de mauvais dans l'air ces derniers temps. Ne le ressentez-vous pas ? Je dois obtenir des charmes pour éloigner cette malveillance.${prompt}
@@ -25845,7 +25848,7 @@ entries:
   12634: Le Prince Trion a ordonné aux éclaireurs des Chevaliers Royaux de se rendre à Davoi, tandis que le Prince Pieuje a ordonné aux éclaireurs des Chevaliers du Temple. C'est comme si la main droite ne savait pas ce que fait la gauche !${prompt}
   12635: Monarlais Halver est furieux, mais il a d'abord besoin d'informations. Vous devez trouver l'éclaireur des Chevaliers du Temple, recevoir son rapport d'éclaireur et retourner ce rapport à monarlais.${prompt}
   12636: 'Quoi ? On vous a dit de remettre le ${keyitem-singular: 3[2]} au Prince Pieuje en personne ?${prompt}'
-  12637: Eh bien, vous devriez trouver Son Altesse à la cathédrale.${prompt} 
+  12637: Eh bien, vous devriez trouver Son Altesse à la cathédrale.${prompt}
   12638: 'Vous arrivez juste au bon moment ! Le Prince Trion veut vous parler. Il semble avoir entendu parler de vous lorsque vous avez reçu votre ${keyitem-singular: 0[2]}.${prompt}'
   12639: Rendez-vous aux chambres du Prince Trion à l'intérieur du Château d'Oraguille dès que vous êtes présentable !${prompt}
   12640: Le Prince Trion vous a appelé. Rendez-vous dans sa chambre à l'intérieur du Château d'Oraguille dès que vous êtes présentable !${prompt}
@@ -25859,7 +25862,7 @@ entries:
     Vous n'avez jamais vu des Gobelins de l'au-delà ? Moi pas méchant. Moi vendre chips. Vous achetez. Utilisez avec cœur de pierre. Vous aurez de la chance !${prompt}
   12647: J'ai essayé d'importer des marchandises de Vollbow, mais c'est tellement difficile d'obtenir des articles provenant de zones qui ne sont pas sous contrôle de San d'Oria.${prompt}
   12648: Qu'est-ce que c'est ? Vous voulez en apprendre davantage sur les dragons ? Si seulement le Docteur Oiheaurese était...${prompt}
-  12649: ...ici !${prompt}
+  12649: '...ici !${prompt}'
   12650: Docteur, cet aventurier s'enquiert des dragons.${prompt}
   12651: Eh bien, notre aventurier est venu au bon endroit. Tout d'abord, jeune ${choice-player-gender}[homme/femme], vous devez comprendre que là où il y a des dragons sacrés, il existe également des dragons du mal.${prompt}
   12652: Pourquoi, Sir Rahal. Qu'est-ce qui nous vaut l'honneur de votre présence aujourd'hui ?${prompt}
@@ -37119,58 +37122,58 @@ entries:
     However, it is far too small to house an adequate amount of energy. Alone, it serves no purpose.${prompt}
   18121: 'The tiny fragments of Lilisette''s memory meld together to form ${keyitem-article: 0[2]}!${prompt}'
   18122: |-
-    Welcome to the MHMU's porter service, kupo!
-    Which of your burdensome belongings shall I take off your hands today?${prompt}
+    Bienvenue au service de portage du MHMU, kupo !
+    Quels biens encombrants souhaitez-vous que je prenne en charge aujourd'hui ?${prompt}
   18123: |-
-    Do something, kupo?
+    Faire quelque chose, kupo ?
     ${selection-lines}
-    Porter service?
-    Buy a storage slip.
-    No, thank you.${prompt}
+    Service de portage ?
+    Acheter un bon de stockage.
+    Non, merci.${prompt}
   18124: |-
-    Is your gobbiebag splitting at the seams? Mog Safe spilling over?
-    Why, an accomplished adventurer like yourself surely has more stuff than you know what to do with.${prompt}
+    Votre gobbiebag est-il en train d'éclater aux coutures ? Votre Coffre Mog déborde-t-il ?
+    Pourquoi, un aventurier accompli comme vous a sûrement plus de choses que vous ne savez quoi en faire.${prompt}
   18125: |-
-    That's where I come in, kupo.
-    I'll gladly hold onto your prized possessions, freeing you space to gather up even grander goodies.${prompt}
-  18126: 'To make use of my services, first you''ll need to buy one of these storage slips for the low, low fee of ${number: 19} gil.${prompt}'
-  18127: Storage slips come in numerous varieties, kupo, each corresponding to a different type of item.${prompt}
-  18128: You'll want to peruse the fine print closely, so you don't end up paying good gil for a scrap of parchment useless for the particular item you wish to store.${prompt}
-  18129: Not that we moogles would object to that sort of donation, kupo.${prompt}
+    C'est là que j'interviens, kupo.
+    Je me ferai un plaisir de garder vos objets précieux, vous libérant ainsi de l'espace pour ramasser encore plus de trésors grandioses.${prompt}
+  18126: 'Pour utiliser mes services, vous devez d’abord acheter l’un de ces bons de stockage pour la modique somme de ${number: 19} gil.${prompt}'
+  18127: Les bons de stockage existent en plusieurs variétés, kupo, chacune correspondant à un type d’objet différent.${prompt}
+  18128: Vous voudrez lire les petits caractères attentivement, pour ne pas finir par payer du bon gil pour un bout de parchemin inutile pour l’objet que vous souhaitez stocker.${prompt}
+  18129: Pas que nous, les mogs, nous y opposerions, kupo.${prompt}
   18130: |-
-    Choose the item you wish to entrust, then trade it to me along with a single storage slip.
-    I will take the item and return the slip to you, marked with an invisible seal.${prompt}
+    Choisissez l'objet que vous souhaitez confier, puis échangez-le avec moi accompagné d'un seul bon de stockage.
+    Je prendrai l'objet et je vous rendrai le bon, marqué d'un sceau invisible.${prompt}
   18131: |-
-    Invisible to you, at least.
-    It's plain as day to us moogles, so don't even think of trying to pull one over on us, kupo.${prompt}
-  18132: When it comes time to retrieve your item, just trade to me a single storage slip--any slip--once again.${prompt}
+    Invisible pour vous, du moins.
+    C'est clair comme de l'eau de roche pour nous, les mogs, alors n'essayez même pas de nous duper, kupo.${prompt}
+  18132: Lorsque vient le moment de récupérer votre objet, échangez-moi simplement un seul bon de stockage - n'importe lequel - encore une fois.${prompt}
   18133: |-
-    I will present you with a list of all the items currently in my care, and you may choose the one you wish to withdraw.
-    Simple as that, kupo!${prompt}
+    Je vous présenterai une liste de tous les objets actuellement sous ma garde, et vous pourrez choisir celui que vous souhaitez retirer.
+    Simple comme bonjour, kupo !${prompt}
   18134: |-
-    What's more, no additional transaction fees will be incurred!
-    Pretty generous of us for a change, no?${prompt}
+    De plus, aucuns frais de transaction supplémentaires ne seront facturés !
+    Plutôt généreux de notre part, non ?${prompt}
   18135: |-
-    Now I bet you're wondering what the catch is, kupo.
-    So as not to disappoint you, there are a few!${prompt}
-  18136: For one, any signed items will lose their signatures if you store them with me.${prompt}
+    Maintenant, je parie que vous vous demandez où est l'arnaque, kupo.
+    Pour ne pas vous décevoir, il y en a quelques-unes !${prompt}
+  18136: D'abord, tous les objets signés perdront leurs signatures si vous les stockez chez moi.${prompt}
   18137: |-
-    Why, you say? Hey, even we moogles aren't perfect!
-    It's better for both of us if you keep your most precious possessions close at hand, kupo.${prompt}
-  18138: Now listen up, because there's another catch, and it's a doozy.${prompt}
+    Pourquoi, dites-vous ? Hé, même nous, les mogs, ne sommes pas parfaits !
+    Il vaut mieux pour nous deux que vous gardiez vos possessions les plus précieuses à portée de main, kupo.${prompt}
+  18138: Maintenant, écoutez bien, car il y a un autre hic, et c'est de taille.${prompt}
   18139: |-
-    If you lose your storage slip, I won't be able to return your item. Ever. No ifs, ands, or buts!
-    No “I'm sorry, Mister Porter Moogle, it'll never happen again!”
-    Rules are rules, kupo, and someone has to keep them.${prompt}
-  18140: Last, but not least, I can't accept equipment bearing Magian trial insignia.${prompt}
-  18141: If you have such an item that you're simply dying to entrust to me, you'll have to abandon your trial first, kupo.${prompt}
+    Si vous perdez votre bon de stockage, je ne pourrai jamais vous rendre votre objet. Jamais. Aucune exception !
+    Pas de "Je suis désolé, Monsieur Moogle Portier, cela ne se reproduira plus !"
+    Les règles sont les règles, kupo, et quelqu'un doit les faire respecter.${prompt}
+  18140: Enfin, mais non des moindres, je ne peux pas accepter les équipements portant l'insigne des épreuves Magian.${prompt}
+  18141: Si vous avez un tel objet que vous tenez absolument à me confier, vous devrez d'abord abandonner votre épreuve, kupo.${prompt}
   18142: |-
-    And that's all there is to it.
-    This humble moogle can hardly wait to serve you!${prompt}
+    Et c'est tout ce qu'il y a à savoir.
+    Ce humble moogle a hâte de vous servir !${prompt}
   18143: |-
-    Buy something? (p. ${number: 16}/${number: 17}).
+    Acheter quelque chose ? (p. ${number: 16}/${number: 17}).
     ${selection-lines}
-    Previous page.
+    Page précédente.
     ${lettercase: 1}${article} ${item-article: 0[2]}.
     ${lettercase: 1}${article} ${item-article: 1[2]}.
     ${lettercase: 1}${article} ${item-article: 2[2]}.
@@ -37187,25 +37190,25 @@ entries:
     ${lettercase: 1}${article} ${item-article: 13[2]}.
     ${lettercase: 1}${article} ${item-article: 14[2]}.
     ${lettercase: 1}${article} ${item-article: 15[2]}.
-    Next page.
-    Cancel.${prompt}
+    Page suivante.
+    Annuler.${prompt}
   18144: |-
-    ${lettercase: 1}${article} ${item-article: 32[2]} will cost you ${number: 19} gil.
-    Do we have a deal, kupo?${prompt}
+    ${lettercase: 1}${article} ${item-article: 32[2]} vous coûtera ${number: 19} gil.
+    Affaire conclue, kupo ?${prompt}
   18145: |-
-    Deal, kupo? (Current gil: ${number: 18}).
+    Affaire conclue, kupo ? (Gil actuel : ${number: 18}).
     ${selection-lines}
-    Check storable items.
-    Deal.
-    No deal.${prompt}
-  18146: 'The ${item-singular: 32[2]} will allow you to store the following items:${prompt}'
+    Vérifier les objets stockables.
+    Affaire conclue.
+    Pas d'affaire.${prompt}
+  18146: 'Le ${item-singular: 32[2]} vous permettra de stocker les objets suivants :${prompt}'
   18147: '${lettercase: 1}${article} ${item-article: 33[2]}.'
   18148: '${lettercase: 1}${article} ${item-article: 33[2]}.${prompt}'
-  18149: '...and that''s all.${prompt}'
+  18149: '...et c’est tout.${prompt}'
   18150: |-
     ${lettercase: 1}${item-singular: 32[2]} (p. ${number: 16}/${number: 17}).
     ${selection-lines}
-    Previous page.
+    Page précédente.
     ${lettercase: 1}${article} ${item-article: 0[2]}.
     ${lettercase: 1}${article} ${item-article: 1[2]}.
     ${lettercase: 1}${article} ${item-article: 2[2]}.
@@ -37222,22 +37225,22 @@ entries:
     ${lettercase: 1}${article} ${item-article: 13[2]}.
     ${lettercase: 1}${article} ${item-article: 14[2]}.
     ${lettercase: 1}${article} ${item-article: 15[2]}.
-    Next page.
-    Cancel.${prompt}
+    Page suivante.
+    Annuler.${prompt}
   18151: |-
-    ${color-alt: 121}Warning!
-    If you lose your ${item-singular: 0[2]} while storing a corresponding item, you will be forever unable to retrieve that item!${prompt}
-  18152: 'Is that ${article} ${item-article: 3[2]} I see, kupo?${prompt}'
+    ${color-alt: 121}Avertissement !
+    Si vous perdez votre ${item-singular: 0[2]} tout en stockant un objet correspondant, vous ne pourrez jamais récupérer cet objet !${prompt}
+  18152: 'Est-ce que c’est ${article} ${item-article: 3[2]} que je vois, kupo ?${prompt}'
   18153: |-
-    What will you do?
+    Que voulez-vous faire ?
     ${selection-lines}
-    Retrieve an item.
-    Confirm storable items.
-    Nothing.${prompt}
+    Récupérer un objet.
+    Confirmer les objets stockables.
+    Rien.${prompt}
   18154: |-
-    Retrieve an item? (p. ${number: 16}/${number: 17}).
+    Récupérer un objet ? (p. ${number: 16}/${number: 17}).
     ${selection-lines}
-    Previous page.
+    Page précédente.
     ${lettercase: 1}${article} ${item-article: 0[2]}.
     ${lettercase: 1}${article} ${item-article: 1[2]}.
     ${lettercase: 1}${article} ${item-article: 2[2]}.
@@ -37254,47 +37257,47 @@ entries:
     ${lettercase: 1}${article} ${item-article: 13[2]}.
     ${lettercase: 1}${article} ${item-article: 14[2]}.
     ${lettercase: 1}${article} ${item-article: 15[2]}.
-    Next page.
-    Cancel.${prompt}
+    Page suivante.
+    Annuler.${prompt}
   18155: |-
-    Retrieve ${article} ${item-article: 32[2]}?
+    Récupérer ${article} ${item-article: 32[2]} ?
     ${selection-lines}
-    Retrieve it.
-    Leave it.${prompt}
-  18156: 'You retrieve ${article} ${item-article: 0[2]} from the porter moogle''s care.${prompt}'
-  18157: Kupo? I'm already taking care of that item for you.${prompt}
+    Le récupérer.
+    Laisser.${prompt}
+  18156: 'Vous récupérez ${article} ${item-article: 0[2]} des soins du portier moogle.${prompt}'
+  18157: Kupo ? Je m'occupe déjà de cet objet pour vous.${prompt}
   18158: |-
-    ${lettercase: 1}${article} ${item-article: 0[2]}, yes?
-    Very well! Your precious property is safe with me, kupo!${prompt}
+    ${lettercase: 1}${article} ${item-article: 0[2]}, c'est bien ça ?
+    Très bien ! Votre précieux bien est en sécurité avec moi, kupo !${prompt}
   18159: |-
-    ${number: 0} ${choice-plurality: 0}[variety/varieties] of item, is it?
-    Very well! Your precious property is safe with me, kupo!${prompt}
+    ${number: 0} ${choice-plurality: 0}[variété/variétés] d'objet, n'est-ce pas ?
+    Très bien ! Votre précieux bien est en sécurité avec moi, kupo !${prompt}
   18160: |-
-    Is that a Magian insignia I see on that ${item-singular: 0[2]}?
-    You'll have to abandon your trial before I can take it off your hands, kupo.${prompt}
+    Est-ce une insigne Magian que je vois sur ce ${item-singular: 0[2]} ?
+    Vous devrez abandonner votre épreuve avant que je puisse le prendre en charge, kupo.${prompt}
   18161: |-
-    That ${item-singular: 0[2]} appears to be augmented.
-    I'm sorry, but I can't accept such specialized gear, kupo.${prompt}
-  18162: Curious as to whether I can accept that item? Let me check my annals.${prompt}
-  18163: 'Why, yes I can! ${lettercase: 1}${item-plural: 0[2]} can be stored with ${article} ${item-article: 1[2]}.${prompt}'
-  18164: 'Why, it looks as if you have ${article} ${item-article: 1[2]} located in your ${choice: 2}[inventory/Mog Safe/Mog Safe 2/Mog House storage/Mog Locker/Mog Satchel/Mog Sack/Mog Case/Mog Wardrobe/Mog Wardrobe 2/Mog Wardrobe 3/Mog Wardrobe 4/Mog Wardrobe 5/Mog Wardrobe 6/Mog Wardrobe 7/Mog Wardrobe 8/Recycle Bin]!${prompt}'
-  18165: 'Storable item: ${item-singular: 33[2]} (${number: 33})'
-  18166: 'Storable item: ${item-singular: 33[2]} (${number: 33})${prompt}'
-  18167: '0: ${number: 0} 1: ${number: 1} 2: ${number: 2} 3: ${number: 3}${prompt}'
-  18168: '4: ${number: 4} 5: ${number: 5} 6: ${number: 6} 7: ${number: 7}${prompt}'
-  18169: 'no: ${number: 0} id: ${number: 1}${prompt}'
-  18170: 'no: ${number: 0} id: ${number: 1} res: ${number: 2}${prompt}'
-  18171: 'TB: ${number: 31}${prompt}'
-  18172: NPC index out of range.${prompt}
-  18173: 'ERROR CODE: ${number: 0} / ${number: 1}${prompt}'
+    Ce ${item-singular: 0[2]} semble être amélioré.
+    Je suis désolé, mais je ne peux pas accepter un tel équipement spécialisé, kupo.${prompt}
+  18162: Curieux de savoir si je peux accepter cet objet ? Laissez-moi vérifier mes annales.${prompt} 
+  18163: 'Eh bien oui ! ${lettercase: 1}${item-plural: 0[2]} peuvent être stockés avec ${article} ${item-article: 1[2]}.${prompt}'
+  18164: 'Eh bien, il semble que vous ayez ${article} ${item-article: 1[2]} situé dans votre ${choice: 2}[inventaire/Coffre Mog/Coffre Mog 2/Rangement de la Maison Mog/Casier Mog/Sac Mog/Sacoche Mog/Boîte Mog/Garde-robe Mog/Garde-robe Mog 2/Garde-robe Mog 3/Garde-robe Mog 4/Garde-robe Mog 5/Garde-robe Mog 6/Garde-robe Mog 7/Garde-robe Mog 8/Poubelle] !${prompt}'
+  18165: 'Objet stockable : ${item-singular: 33[2]} (${number: 33})'
+  18166: 'Objet stockable : ${item-singular: 33[2]} (${number: 33})${prompt}'
+  18167: '0 : ${number: 0} 1 : ${number: 1} 2 : ${number: 2} 3 : ${number: 3}${prompt}'
+  18168: '4 : ${number: 4} 5 : ${number: 5} 6 : ${number: 6} 7 : ${number: 7}${prompt}'
+  18169: 'no : ${number: 0} id : ${number: 1}${prompt}'
+  18170: 'no : ${number: 0} id : ${number: 1} res : ${number: 2}${prompt}'
+  18171: 'TB : ${number: 31}${prompt}'
+  18172: Index du PNJ hors de portée.${prompt}
+  18173: 'CODE D’ERREUR : ${number: 0} / ${number: 1}${prompt}'
   18174: |-
-    Hail, soldier. I am a purveyor tasked with furnishing the brave men and women of the Voidwatch with essential supplies.
-    My wares can be yours, provided you've got ${choice: 0}[Conquest Points/Imperial Standing/Allied Notes] to trade.
-    After all, we can't afford to let our limited resources go to waste in the hands of some unproven rookie.${prompt}
+    Salut, soldat. Je suis un fournisseur chargé d'équiper les braves hommes et femmes de la Veille avec des provisions essentielles.
+    Mes marchandises peuvent être à vous, à condition que vous ayez des ${choice: 0}[Points de Conquête/Points d'Empire/Notes Alliées] à échanger.
+    Après tout, nous ne pouvons pas nous permettre de laisser nos ressources limitées entre les mains d'un novice inexpérimenté.${prompt}
   18175: |-
-    Procure supplies? (${choice: 0}[Points/Standing/Notes]: ${number: 1})
+    Se procurer des fournitures ? (${choice: 0}[Points/Points/Notes] : ${number: 1})
     ${selection-lines}
-    Not now.
+    Pas maintenant.
     ${lettercase: 1}${article} ${item-article: 2[2]} (${number: 3}).
     ${lettercase: 1}${article} ${item-article: 4[2]} (${number: 5}).
     ${lettercase: 1}${article} ${item-article: 6[2]} (${number: 7}).
@@ -37311,30 +37314,30 @@ entries:
     ${lettercase: 1}${article} ${item-article: 28[2]} (${number: 29}).
     ${lettercase: 1}${article} ${item-article: 30[2]} (${number: 31}).${prompt}
   18176: |-
-    How many? (${choice: 0}[Points/Standing/Notes]: ${number: 1})
+    Combien ? (${choice: 0}[Points/Points/Notes] : ${number: 1})
     ${selection-lines}
-    None, actually.
-    One (Cost: ${number: 2}).
-    Three (Cost: ${number: 3}),
-    Six (Cost: ${number: 4}).
-    Nine (Cost: ${number: 5}).
-    Twelve (Cost: ${number: 6}).${prompt}
-  18177: 'This ${item-singular: 0[2]} will cost you ${number: 1} ${choice: 2}[Conquest Points/credits of Imperial Standing/Allied Notes].${prompt}'
+    Aucun, en fait.
+    Un (Coût : ${number: 2}).
+    Trois (Coût : ${number: 3}),
+    Six (Coût : ${number: 4}).
+    Neuf (Coût : ${number: 5}).
+    Douze (Coût : ${number: 6}).${prompt}
+  18177: 'Ce ${item-singular: 0[2]} vous coûtera ${number: 1} ${choice: 2}[Points de Conquête/crédits de l’Empire/Notes Alliées].${prompt}'
   18178: |-
-    It seems you're short on ${choice: 0}[Conquest Points/Imperial Standing credits/Allied Notes], soldier.
-    Come back when you've got a bit more seasoning under your belt.${prompt}
+    Il semble que vous manquiez de ${choice: 0}[Points de Conquête/crédits de l'Empire/Notes Alliées], soldat.
+    Revenez quand vous aurez un peu plus d'expérience.${prompt}
   18179: |-
-    Proceed? (Required ${choice: 0}[Points/Standing/Notes]: ${number: 1})
+    Procéder ? (Nécessaire ${choice: 0}[Points/Points/Notes] : ${number: 1})
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  18180: '${name-player} obtains ${article} ${item-article: 1[2]} in exchange for ${number: 0} ${choice: 3}[Conquest Points/credits of Imperial Standing/Allied Notes].${prompt}'
-  18181: '${name-player} obtains ${number: 2} ${item-plural: 1[2]} in exchange for ${number: 0} ${choice: 3}[Conquest Points/credits of Imperial Standing/Allied Notes].${prompt}'
-  18182: '${name-player} obtains ${keyitem-article: 1[2]} in exchange for ${number: 0} ${choice: 3}[Conquest Points/credits of Imperial Standing/Allied Notes].${prompt}'
-  18183: 'This ${keyitem-singular: 0[2]} will cost you ${number: 1} ${choice: 2}[Conquest Points/credits of Imperial Standing/Allied Notes].${prompt}'
+    Oui.
+    Non.${prompt}
+  18180: '${name-player} obtient ${article} ${item-article: 1[2]} en échange de ${number: 0} ${choice: 3}[Points de Conquête/crédits de l’Empire/Notes Alliées].${prompt}'
+  18181: '${name-player} obtient ${number: 2} ${item-plural: 1[2]} en échange de ${number: 0} ${choice: 3}[Points de Conquête/crédits de l’Empire/Notes Alliées].${prompt}'
+  18182: '${name-player} obtient ${keyitem-article: 1[2]} en échange de ${number: 0} ${choice: 3}[Points de Conquête/crédits de l’Empire/Notes Alliées].${prompt}'
+  18183: 'Ce ${keyitem-singular: 0[2]} vous coûtera ${number: 1} ${choice: 2}[Points de Conquête/crédits de l’Empire/Notes Alliées].${prompt}'
   18184: |-
-    You already have ${keyitem-article: 0[2]}, and I'm not authorized to furnish you with another.
-    Resources are in short supply. You'll have to make do with what you've already got.${prompt}
+    Vous avez déjà ${keyitem-article: 0[2]}, et je ne suis pas autorisé à vous en fournir un autre.
+    Les ressources sont limitées. Vous devrez vous contenter de ce que vous avez déjà.${prompt}
   18185: ${prompt}
   18186: ${prompt}
   18187: ${prompt}
@@ -37800,7 +37803,7 @@ entries:
   18345: Autrefois, j'aurais pu dire que les aventuriers devaient être tenus à distance comme la mère dérangée du partenaire.${prompt}
   18346: Pourtant, lorsque j'ai choisi de raviver les anciennes traditions du Conflit et de la Ballista, c'est vous, les aventuriers, qui avez répondu à l'appel au combat.${prompt}
   18347: En tant que tel, je vous autoriserai à participer au rituel de Confiance avec moi.${prompt}
-  18348: ...Vous n'êtes pas au courant de ce qu'est la magie de la Confiance ?${prompt}
+  18348: '...Vous n''êtes pas au courant de ce qu''est la magie de la Confiance ?${prompt}'
   18349: Parfois, je me demande si la tête de Gondebaud n'est remplie que de toiles d'araignée.${prompt}
   18350: Le rituel de la Confiance puise son énergie dans les liens ardents de confiance et de camaraderie tissés entre frères d'armes sur le champ de bataille.${prompt}
   18351: Pour être bref, si un lien fort existe entre nous deux, vous pourrez invoquer un "double" de moi.${prompt}
@@ -37857,7 +37860,7 @@ entries:
     Que la gloire brille sur vous et sur la grande nation de San d'Oria !${prompt}
   18393: Je ne suis pas le seul à participer à l'initiative Trust ici à San d'Oria. Vous feriez bien de parler à Curilla, chef des Chevaliers du Temple.${prompt}
   18394: Peut-être vous serait-il utile de parler à Rolandienne dans le sud de San d'Oria (G-10).
-  18395: Peut-être vous serait-il utile de parler à Isakoth dans les Marchés de Bastok (E-11). 
+  18395: Peut-être vous serait-il utile de parler à Isakoth dans les Marchés de Bastok (E-11).
   18396: Peut-être vous serait-il utile de parler à Fhelm Jobeizat dans les Bois de Windurst (J-10).
   18397: Peut-être vous serait-il utile de parler à Eternal Flame dans l'Ouest d'Adoulin (H-11).
   18398: Peut-être vous serait-il utile de parler à Nantoto dans le Bas-Jeuno (H-8).
@@ -39788,10 +39791,10 @@ entries:
     Even in areas where messages are allowed, you cannot post consecutive messages.
     Please wait a while after posting a message.${prompt}
   19234: |-
-    Mentor messages are accompanied by a flag (${icon: 0xEF2F}) marker.
+    Mentor messages are accompanied by a flag (${icon: 0xEFEF}/) marker.
     This marker indicates the mentor's reliability (Mentor Class) and experience as an adventurer (Mastery Rank).${prompt}
-  19235: 'As a mentor''s Mentor Class increases, the color and shape of the marker will change: ${icon: 0xEF2F} > ${icon: 0xEF39} > ${icon: 0xEF43}${prompt}'
-  19236: 'A ${icon: 0xEF43} marker is a sign that the mentor has earned the highest levels of trust from other adventurers.${prompt}'
+  19235: 'As a mentor''s Mentor Class increases, the color and shape of the marker will change: ${icon: 0xEFEF}/ > ${icon: 0xEFEF}9 > ${icon: 0xEFEF}C${prompt}'
+  19236: 'A ${icon: 0xEFEF}C marker is a sign that the mentor has earned the highest levels of trust from other adventurers.${prompt}'
   19237: The number affixed to the marker is the mentor's Mastery Rank, and indicates how experienced the mentor is as an adventurer.${prompt}
   19238: The higher the number, the more experienced the mentor is.${prompt}
   19239: You can check your own Mastery Rank even if you do not serve as a mentor, so feel free to take a look every now and then if you are curious.${prompt}
