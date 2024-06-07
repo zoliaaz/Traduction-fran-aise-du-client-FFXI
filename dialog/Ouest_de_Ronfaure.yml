@@ -17586,8 +17586,8 @@ entries:
   7086: Cette région est actuellement sous le contrôle de Bastok.${prompt}
   7087: Cette région est actuellement sous le contrôle de Windurst.${prompt}
   7088: |-
-        Cette région est actuellement sous le contrôle des hommes-bêtes.
-        Vous ne pouvez pas obtenir de cristaux dans cette région.${prompt}
+    Cette région est actuellement sous le contrôle des hommes-bêtes.
+    Vous ne pouvez pas obtenir de cristaux dans cette région.${prompt}
   7089: Cette région est actuellement neutre.${prompt}
   7090: |-
     Équilibre global des pouvoirs :
@@ -18034,9 +18034,9 @@ entries:
     Non, le voici !
     J'ai perdu le conteneur.
   7365: Ah, tout va bien alors.
-  7366: "Tu devrais prendre plus soin des affaires des autres ! Voici une paire de lunettes que j'ai trouvée il y a peu de temps. Tu peux apporter celle-ci à ma femme à la place."
-  7367: "Quoi ? Tu as perdu les lunettes ? Bon, je te donnerai celles que j'ai trouvées il y a peu de temps. Tu peux apporter celles-ci à ma femme à la place."
-  7368: "Apporte juste ces lunettes à ma femme. Merci !"
+  7366: Tu devrais prendre plus soin des affaires des autres ! Voici une paire de lunettes que j'ai trouvée il y a peu de temps. Tu peux apporter celle-ci à ma femme à la place.
+  7367: Quoi ? Tu as perdu les lunettes ? Bon, je te donnerai celles que j'ai trouvées il y a peu de temps. Tu peux apporter celles-ci à ma femme à la place.
+  7368: Apporte juste ces lunettes à ma femme. Merci !
   7369: Je patrouille sur les routes menant à la Porte Sud. Avance !
   7370: La route de la Porte Sud est sécurisée !
   7371: Je surveille les routes menant au Plateau de La Théine. Faites de la place !
@@ -18047,12 +18047,12 @@ entries:
   7376: Les routes menant à la Porte de l'Ouest sont sécurisées !
   7377: Un pickpocket, ici ? Ouf, mon portefeuille est en sécurité.
   7378: Que veux-tu ? Je suis occupé, alors fais vite.
-  7379: "Moi, un pickpocket ? Est-ce là la manière des aventuriers aujourd'hui, de pourchasser et d'accuser les dames de crimes ? Et sans preuve, je pourrais ajouter !"
+  7379: Moi, un pickpocket ? Est-ce là la manière des aventuriers aujourd'hui, de pourchasser et d'accuser les dames de crimes ? Et sans preuve, je pourrais ajouter !
   7380: Mais qui crois-tu être ? Écoute, oublions tout simplement que cette petite rencontre ait jamais eu lieu. Bonne journée !
   7381: Quoi !? Si tu insistes pour jouer au shérif, je te suggère d'apporter des preuves !
-  7382: "Qu'est-ce que c'est ? Dis donc, ces lunettes, elles sont à moi ! Je dois les avoir laissées tomber quand je t'ai rencontré au quai..."
+  7382: Qu'est-ce que c'est ? Dis donc, ces lunettes, elles sont à moi ! Je dois les avoir laissées tomber quand je t'ai rencontré au quai...
   7383: Oups, j'ai dit ça maintenant.
-  7384: "D'accord. Voici ces lunettes sans valeur de retour. Satisfait ? Bien. Maintenant, va-t'en !"
+  7384: D'accord. Voici ces lunettes sans valeur de retour. Satisfait ? Bien. Maintenant, va-t'en !
   7385: Qu'est-ce que c'est ? Tu devrais savoir mieux que de laisser tomber ce que tu veux dans la résidence de quelqu'un !
   7386: Qu'est-ce que c'est !? Si tu n'as plus rien à faire ici, pars !
   7387: Quoi ? Tu as perdu les lunettes !?
@@ -18077,7 +18077,7 @@ entries:
   7406: |-
     Est : Forêt de l'Est de Ronfaure
     Sud : Plateau de La Théine${prompt}
-  7407: "Nord-ouest : Montagnes d'Horlais${prompt}"
+  7407: 'Nord-ouest : Montagnes d''Horlais${prompt}'
   7408: |-
     Est : Porte Ouest de San d'Oria
     Nord-ouest : Montagnes d'Horlais${prompt}
@@ -18089,12 +18089,12 @@ entries:
     Sud-ouest : Plateau de La Théine
     Nord : San d'Oria${prompt}
   7411: Vous ne pouvez pas lire le panneau indicateur d'ici.${prompt}
-  7412: "Test angle = ${number: 7} degrés.${prompt}"
+  7412: 'Test angle = ${number: 7} degrés.${prompt}'
   7413: Quoi ? Je n'ai jamais vu votre visage auparavant. Allez-vous en !${prompt}
   7414: Oh, un client vous a envoyé ? Eh bien, pourquoi ne l'avez-vous pas dit !${prompt}
   7415: Voici votre commande. Prenez-la et bougez.${prompt}
   7416: Ne perdez pas mon temps avec ces bêtises. Emmenez ça loin !${prompt}
-  7417: "Que voulez-vous cette fois-ci ? Ne me dites pas que vous avez perdu le ${item-singular: 0[2]} ?${prompt}"
+  7417: 'Que voulez-vous cette fois-ci ? Ne me dites pas que vous avez perdu le ${item-singular: 0[2]} ?${prompt}'
   7418: Eh bien, si vous voulez plus de batagreens, vous allez devoir débourser quelques gils. Je pense que 50 fera l'affaire !${prompt}
   7419: Qui achète des choses qu'il ne peut même pas transporter ! Revenez quand vous aurez mis vos bourses en ordre.${prompt}
   7420: Vous trouvez quelques bouts de papier sans valeur.${prompt}
@@ -18202,50 +18202,50 @@ entries:
     クライアントメッセージのテスト1
     クライアントメッセージのテスト2${prompt}
   7474: クライアントメッセージのテスト${prompt}
-  7475: "Bienvenue. J'ai des potions à vendre aujourd'hui.${prompt}" 
-  7476: "Bienvenue. J'ai des potions en vente aujourd'hui.${prompt}"
-  7477: "Il y a une grotte de nains au nord de la ville. Des bandits sortent la nuit, alors soyez prudents.${prompt}"
-  7478: "Je vais vous écraser !${prompt}"
-  7479: "Retour à BIND. Appuyez sur le bouton.${prompt}"
-  7480: "Poison ! Venin ! Berk ! Aïe !${prompt}"
-  7481: "Vous êtes tous ensemble.${prompt}"
-  7482: "Vous n'êtes pas tous ensemble.${prompt}"
-  7483: "Il vous manque un membre du groupe.${prompt}"
-  7484: "Où sont les autres membres du groupe ? Rassemblez tout le monde, puis je jugerai votre réussite.${prompt}"
-  7485: "Pas bon ! Vous avez des personnes d'allégeances différentes dans votre groupe.${prompt}"
-  7486: "Pas bon ! Vous avez des personnes dans votre groupe avec des métiers différents.${prompt}"
-  7487: "Pas bon ! Vous avez des personnes dans votre groupe de races différentes.${prompt}"
-  7488: "Un aventurier solitaire, n'est-ce pas ? Vous avez l'air costaud. Vous avez dû en voir des batailles, j'imagine ?${prompt}"
-  7489: "Nous sommes une équipe de six soldats d'élite ici, chargés de garder cette tour de guet.${prompt}"
-  7490: "Nous surveillons jour et nuit pour nous assurer qu'aucun monstre n'approche de la ville, et aucun fauteur de troubles ne rôde aux alentours... donc le travail d'équipe est essentiel.${prompt}"
-  7491: "Vous avez déjà formé un groupe, non ? Un groupe organisé est plus fort que la somme des forces de ses membres.${prompt}"
-  7492: "Les groupes avec des personnes de la même nationalité tendent à être organisés--parce que vous pouvez toujours compter sur vos compatriotes quand les temps sont durs.${prompt}"
-  7493: "Essayez de former un groupe avec au moins deux membres, tous ayant allégeance au même pays. Pensez-vous pouvoir le faire ?${prompt}"
+  7475: Bienvenue. J'ai des potions à vendre aujourd'hui.${prompt}
+  7476: Bienvenue. J'ai des potions en vente aujourd'hui.${prompt}
+  7477: Il y a une grotte de nains au nord de la ville. Des bandits sortent la nuit, alors soyez prudents.${prompt}
+  7478: Je vais vous écraser !${prompt}
+  7479: Retour à BIND. Appuyez sur le bouton.${prompt}
+  7480: Poison ! Venin ! Berk ! Aïe !${prompt}
+  7481: Vous êtes tous ensemble.${prompt}
+  7482: Vous n'êtes pas tous ensemble.${prompt}
+  7483: Il vous manque un membre du groupe.${prompt}
+  7484: Où sont les autres membres du groupe ? Rassemblez tout le monde, puis je jugerai votre réussite.${prompt}
+  7485: Pas bon ! Vous avez des personnes d'allégeances différentes dans votre groupe.${prompt}
+  7486: Pas bon ! Vous avez des personnes dans votre groupe avec des métiers différents.${prompt}
+  7487: Pas bon ! Vous avez des personnes dans votre groupe de races différentes.${prompt}
+  7488: Un aventurier solitaire, n'est-ce pas ? Vous avez l'air costaud. Vous avez dû en voir des batailles, j'imagine ?${prompt}
+  7489: Nous sommes une équipe de six soldats d'élite ici, chargés de garder cette tour de guet.${prompt}
+  7490: Nous surveillons jour et nuit pour nous assurer qu'aucun monstre n'approche de la ville, et aucun fauteur de troubles ne rôde aux alentours... donc le travail d'équipe est essentiel.${prompt}
+  7491: Vous avez déjà formé un groupe, non ? Un groupe organisé est plus fort que la somme des forces de ses membres.${prompt}
+  7492: Les groupes avec des personnes de la même nationalité tendent à être organisés--parce que vous pouvez toujours compter sur vos compatriotes quand les temps sont durs.${prompt}
+  7493: Essayez de former un groupe avec au moins deux membres, tous ayant allégeance au même pays. Pensez-vous pouvoir le faire ?${prompt}
   7494: |-
     "Essayez de former un groupe ?
     ${selection-lines}
     Essayons !
     Pas maintenant, merci.${prompt}"
-  7495: "Très bien. Faites-moi savoir quand vous aurez rassemblé tous vos membres de groupe. Je serai le juge pour déterminer si vous avez constitué un groupe fonctionnel ou non.${prompt}"
-  7496: "Hmm, pas mal... Pas mal du tout. Vous avez bien fait ; peu d'adversaires pourraient affronter votre puissance combinée. Bonne chance !${prompt}"
+  7495: Très bien. Faites-moi savoir quand vous aurez rassemblé tous vos membres de groupe. Je serai le juge pour déterminer si vous avez constitué un groupe fonctionnel ou non.${prompt}
+  7496: Hmm, pas mal... Pas mal du tout. Vous avez bien fait ; peu d'adversaires pourraient affronter votre puissance combinée. Bonne chance !${prompt}
   7497: |-
     "Prêt pour votre prochaine tâche ?
     Cette fois, je veux que vous formiez un groupe avec au moins deux membres, tous de la même race !${prompt}"
-  7498: "Les compagnons d'armes qui partagent le même sang dans leurs veines combattent plus férocement que vos bandes habituelles. Pensez-vous pouvoir le faire ?${prompt}"
-  7499: "Comme je le pensais, un groupe de la même race présente une unité redoutable qui est rarement vue ! Chérissez votre lien, et vous irez loin.${prompt}"
-  7500: "Prêt pour votre prochaine tâche ? Je veux que vous formiez un groupe, avec au moins deux membres, tous ayant le même métier !${prompt}"
-  7501: "Ceux qui marchent sur le même chemin que vous sont vraiment dignes de confiance. Qu'en pensez-vous ?${prompt}"
-  7502: "Excellent ! Bien joué ! Je crois que vous avez compris la valeur du travail d'équipe.${prompt}" 
-  7503: "Vous ne rivaliserez peut-être pas avec mon équipe d'élite ici, mais continuez comme ça, et un jour, peut-être que vous gagnerez un poste ici dans la tour de guet.${prompt}"
-  7504: "Je vous donne ceci pour commémorer votre réussite et la force de votre groupe. Puissiez-vous et vos camarades d'armes grandir en force et prospérer.${prompt}"
-  7505: "Hmm... Il semble que vous manquiez de membres. Vous avez besoin de plus de monde que juste vous-même. Amenez-les ici une fois que vous les aurez rassemblés.${prompt}"
-  7506: "Tous vos membres ne sont pas de la même nationalité !${prompt}"
-  7507: "Tous vos membres ne sont pas de la même race !${prompt}"
-  7508: "Tous vos membres n'ont pas le même métier !${prompt}"
-  7509: "Je vois... Dommage, ça.${wait-animation: 3}"
-  7510: "Allez maintenant ! Des merveilles et la fortune vous attendent, aventurier !${wait-animation: 3}"
-  7511: "Permettez-moi de vous donner ceci en guise de témoignage de votre réussite.${prompt}"
-  7512: "Quoi ça ? Tous vos membres de groupe sont-ils ici ?${prompt}"
+  7498: Les compagnons d'armes qui partagent le même sang dans leurs veines combattent plus férocement que vos bandes habituelles. Pensez-vous pouvoir le faire ?${prompt}
+  7499: Comme je le pensais, un groupe de la même race présente une unité redoutable qui est rarement vue ! Chérissez votre lien, et vous irez loin.${prompt}
+  7500: Prêt pour votre prochaine tâche ? Je veux que vous formiez un groupe, avec au moins deux membres, tous ayant le même métier !${prompt}
+  7501: Ceux qui marchent sur le même chemin que vous sont vraiment dignes de confiance. Qu'en pensez-vous ?${prompt}
+  7502: Excellent ! Bien joué ! Je crois que vous avez compris la valeur du travail d'équipe.${prompt}
+  7503: Vous ne rivaliserez peut-être pas avec mon équipe d'élite ici, mais continuez comme ça, et un jour, peut-être que vous gagnerez un poste ici dans la tour de guet.${prompt}
+  7504: Je vous donne ceci pour commémorer votre réussite et la force de votre groupe. Puissiez-vous et vos camarades d'armes grandir en force et prospérer.${prompt}
+  7505: Hmm... Il semble que vous manquiez de membres. Vous avez besoin de plus de monde que juste vous-même. Amenez-les ici une fois que vous les aurez rassemblés.${prompt}
+  7506: Tous vos membres ne sont pas de la même nationalité !${prompt}
+  7507: Tous vos membres ne sont pas de la même race !${prompt}
+  7508: Tous vos membres n'ont pas le même métier !${prompt}
+  7509: 'Je vois... Dommage, ça.${wait-animation: 3}'
+  7510: 'Allez maintenant ! Des merveilles et la fortune vous attendent, aventurier !${wait-animation: 3}'
+  7511: Permettez-moi de vous donner ceci en guise de témoignage de votre réussite.${prompt}
+  7512: Quoi ça ? Tous vos membres de groupe sont-ils ici ?${prompt}
   7513: |-
     "Où sont vos membres de groupe ?
     ${selection-lines}
@@ -18284,15 +18284,9 @@ entries:
   7544: Je suis ${name-npc}, un Chevalier du Temple. Je fais partie des gardes chargés de superviser la campagne de conquête de San d'Oria.${prompt}
   7545: Je suis ${name-npc}, un Mousquetaire de Fer. Je fais partie des gardes chargés de superviser la campagne de conquête de Bastok.${prompt}
   7546: Je suis ${name-npc}, un Sorcier de Guerre. Je fais partie des gardes chargés de superviser la campagne de conquête de Windurst.${prompt}
-  7547: Quel est votre affaire ?
-    ${selection-lines}
-    Voulez-vous que je vous lance le Sceau ?
-    Je veux dépenser mes points de conquête.
-    ${choice:0}[Je veux rejoindre la Force Expéditionnaire./Téléportez-moi à la zone de la F.E.]
-    Je veux quitter la F.E./changer ma F.E.
-    Je veux partir en quête de fournitures.
-    J'ai quelques questions...
-    Rien, désolé de vous déranger.${prompt}
+  7547: |-
+    Quel est votre affaire ? ${selection-lines}
+     Voulez-vous que je vous lance le Sceau ? Je veux dépenser mes points de conquête. ${choice: 0}[Je veux rejoindre la Force Expéditionnaire./Téléportez-moi à la zone de la F.E.] Je veux quitter la F.E./changer ma F.E. Je veux partir en quête de fournitures. J'ai quelques questions... Rien, désolé de vous déranger.${prompt}
   7548: |-
     Que souhaitez-vous savoir ?
     ${selection-lines}
@@ -18338,33 +18332,21 @@ entries:
   7564: |-
     Vous recevez des points de conquête lorsque vous vainquez des monstres alors que vous participez aux conquêtes.
     Sélectionnez "Info Région" dans le menu pour vérifier votre nombre actuel de points de conquête.${prompt}
-  7565: |-
-    Vous pouvez acheter des objets aux gardes comme moi avec vos points de conquête, mais sachez que le nombre de points que vous dépensez sera soustrait de votre total actuel.${prompt}
-  7566: |-
-    Lorsque les résultats des conquêtes sont annoncés, vous serez informé de quel pays contrôle la région dans laquelle vous vous trouvez à ce moment-là. Parfois, les régions peuvent devenir neutres, ou même être contrôlées par les hommes-bêtes.${prompt}
-  7567: |-
-    Si nous prenons le contrôle d'une région, des gardes-frontières seront placés à ses avant-postes pour aider les aventuriers comme vous.${prompt}
-  7568: |-
-    Des marchands y seront également placés, et les marchandises de cette région arriveront dans les magasins locaux ici.${prompt}
-  7569: |-
-    Prendre le contrôle des régions est le principe de base des conquêtes. Nous avons besoin que chacun de vous donne le meilleur de lui-même et place notre nation en tête du classement.${prompt}
-  7570: |-
-    Bien sûr, parfois nous perdons des régions au profit d'autres nations... il faut donc essayer de les reprendre avant que les prochains résultats des conquêtes soient annoncés.${prompt}
-  7571: |-
-    En guise d'incitation, nous vous attribuerons plus de points de conquête pour vaincre des monstres dans ces régions.${prompt}
-  7572: |-
-    Mais si nous sommes alliés avec une autre nation, vous ne recevrez que le taux régulier pour vaincre des monstres dans les régions de nos alliés. En revanche, nous vous attribuerons plus de points pour combattre dans les régions de la nation classée en tête.${prompt}
+  7565: Vous pouvez acheter des objets aux gardes comme moi avec vos points de conquête, mais sachez que le nombre de points que vous dépensez sera soustrait de votre total actuel.${prompt}
+  7566: Lorsque les résultats des conquêtes sont annoncés, vous serez informé de quel pays contrôle la région dans laquelle vous vous trouvez à ce moment-là. Parfois, les régions peuvent devenir neutres, ou même être contrôlées par les hommes-bêtes.${prompt}
+  7567: Si nous prenons le contrôle d'une région, des gardes-frontières seront placés à ses avant-postes pour aider les aventuriers comme vous.${prompt}
+  7568: Des marchands y seront également placés, et les marchandises de cette région arriveront dans les magasins locaux ici.${prompt}
+  7569: Prendre le contrôle des régions est le principe de base des conquêtes. Nous avons besoin que chacun de vous donne le meilleur de lui-même et place notre nation en tête du classement.${prompt}
+  7570: Bien sûr, parfois nous perdons des régions au profit d'autres nations... il faut donc essayer de les reprendre avant que les prochains résultats des conquêtes soient annoncés.${prompt}
+  7571: En guise d'incitation, nous vous attribuerons plus de points de conquête pour vaincre des monstres dans ces régions.${prompt}
+  7572: Mais si nous sommes alliés avec une autre nation, vous ne recevrez que le taux régulier pour vaincre des monstres dans les régions de nos alliés. En revanche, nous vous attribuerons plus de points pour combattre dans les régions de la nation classée en tête.${prompt}
   7573: |-
     Notre préoccupation principale est que les hommes-bêtes prennent le contrôle de nos régions.
     Si trop d'entre nous sont vaincus dans une région, les hommes-bêtes en prendront le contrôle.${prompt}
-  7574: |-
-    Si cela se produit, non seulement c'est un coup dur pour notre fierté, mais vous ne pourrez pas acquérir de cristaux dans cette région.${prompt}
-  7575: |-
-    Les hommes-bêtes sont une menace pour toutes les nations. S'ils prennent le pouvoir, nous devons tous nous unir et chasser ces viles créatures de cette région.${prompt}
-  7576: |-
-    Nous avons besoin que vous apportiez des fournitures aux gardes-frontières des avant-postes placés dans les régions sous notre contrôle.${prompt}
-  7577: |-
-    Il y a un avant-poste dans chaque région. Sélectionnez "Info Région" dans le menu et recherchez les zones avec un petit drapeau sur la carte. C'est là qu'ils se trouvent.${prompt}
+  7574: Si cela se produit, non seulement c'est un coup dur pour notre fierté, mais vous ne pourrez pas acquérir de cristaux dans cette région.${prompt}
+  7575: Les hommes-bêtes sont une menace pour toutes les nations. S'ils prennent le pouvoir, nous devons tous nous unir et chasser ces viles créatures de cette région.${prompt}
+  7576: Nous avons besoin que vous apportiez des fournitures aux gardes-frontières des avant-postes placés dans les régions sous notre contrôle.${prompt}
+  7577: Il y a un avant-poste dans chaque région. Sélectionnez "Info Région" dans le menu et recherchez les zones avec un petit drapeau sur la carte. C'est là qu'ils se trouvent.${prompt}
   7578: |-
     Voici les fournitures. Remettez-les simplement au garde de l'avant-poste et votre mission sera accomplie.
     Maintenant, choisissez l'avant-poste où vous souhaitez aller. Nous offrons des récompenses différentes pour chaque région, alors choisissez bien.${prompt}
@@ -18901,18 +18883,18 @@ entries:
     Ahahahahaha!
     You're getting close now! I can feel the ring's power from the next area!
   7892: |-
-    Ahahahahaha!
-    You're almost on top of it!
-    It's somewhere in this area!
-  7893: Something seems unnatural about the outcropping.${prompt}
-  7894: Something is amiss.${prompt}
+    Ahahahahaha !
+    Vous êtes presque dessus !
+    C'est quelque part dans cette zone !
+  7893: Quelque chose semble anormal à propos de l'affleurement.${prompt}
+  7894: Quelque chose cloche.${prompt}
   7895: |-
-    What do you want?
-    You want to know if I've seen that earring before?${prompt}
+    Que voulez-vous ?
+    Vous voulez savoir si j'ai déjà vu cette boucle d'oreille ?${prompt}
   7896: |-
-    ...! Where did you get that?
-    Ah, I must have dropped it that time I was...
-    Damn, I'm so clumsy!${prompt}
+    ...! Où avez-vous trouvé ça ?
+    Ah, j'ai dû la faire tomber cette fois où j'étais...
+    Zut, je suis tellement maladroit !${prompt}
   7897: Well, I guess you found me out. I was the one who mugged Brugaire for his father's inheritance. Even if I am a thief, a lady likes to look her best when doing her job. By the way, do you have any idea what I stole?${prompt}
   7898: |-
     Any idea?
@@ -19281,7 +19263,7 @@ entries:
   8078: 'Vous avez l’intuition que la combinaison est supérieure à ${number: 0}.${prompt}'
   8079: 'Vous avez l’intuition qu’un des deux chiffres est ${number: 0}.${prompt}'
   8080: 'Vous avez l’intuition que le deuxième chiffre est ${number: 0}, ${number: 1}, ou ${number: 2}.${prompt}'
-  8081: 'Vous avez l’intuition que le premier chiffre est ${number: 0}, ${number: 1}, ou ${number: 2}.${prompt}' 
+  8081: 'Vous avez l’intuition que le premier chiffre est ${number: 0}, ${number: 1}, ou ${number: 2}.${prompt}'
   8082: Vous n’avez rien pu déduire de votre examen de la serrure.${prompt}
   8083: Obtenir cet objet ?${prompt}
   8084: '${color-alt: 121}Le monstre cachait un coffre au trésor !${prompt}'
@@ -19409,9 +19391,7 @@ entries:
   8145: 'Une force invisible absorbe votre ${keyitem-singular: 1[2]} transcript et ${item-singular: 0[2]} dans une autre dimension !${prompt}'
   8146: Cet objet ne peut pas être échangé.${prompt}
   8147: 'Vous ne possédez pas ${keyitem-article: 0[2]} .${prompt}'
-  8148: |-
-  8148: ${color-alt:121}Un coffre au trésor est apparu!
-        Le coffre au trésor disparaîtra après trois minutes écoulées ou lorsque la limite de temps pour ce champ de bataille expirera, selon ce qui se produira en premier.${prompt}
+  8148: '${color-alt: 121}Un coffre au trésor est apparu! Le coffre au trésor disparaîtra après trois minutes écoulées ou lorsque la limite de temps pour ce champ de bataille expirera, selon ce qui se produira en premier.${prompt}'
   8149: Drapeau ON${prompt}
   8150: 'Débogage : ${choice: 0}[Non/Oui]：${prompt}'
   8151: 'Type de capacité : ${choice: 0}[Équilibré/Attaquant/Effets de statut]${prompt}'
@@ -19750,13 +19730,13 @@ entries:
   8259: |-
     Eh bien, assieds-toi et attrape une sarsaparilla, et je vais te raconter l'histoire, kupo.
     Tu vois, le Syndicat de Gestion de la Maison des Mog (SGMM) n'est pas très populaire parmi les habitants de la ville ces jours-ci, et ils ont exprimé leur mécontentement en ne nous envoyant pas beaucoup de pépites d'or, si tu vois ce que je veux dire.${prompt}
-  8260: Mais étant donné que nous, les mogs, sommes un groupe entreprenant, nous avons concocté un plan, tu vois ?${prompt} 
+  8260: Mais étant donné que nous, les mogs, sommes un groupe entreprenant, nous avons concocté un plan, tu vois ?${prompt}
   8261: Un plan que nous appelons... Le Ranch de la Bonanza des Buffles ! Yeeeeee-hawww !!!${prompt}
   8262: Rassemble un troupeau des buffles les plus redoutables de par là-bas, mets une clôture autour d'eux, et tu te retrouves avec le ranch le plus animé de ce côté-ci du Rio Rafeloux, kupo !${prompt}
   8263: Installe un saloon sur le côté servant des délicieux hamburgers de buffle, et tu auras des clients satisfaits remplissant nos coffres mogs de beaucoup d'argent... Comprends-tu ?${prompt}
   8264: Voilà ce que c'était le plan, mon ami.${prompt}
   8265: Alors, nous avons attrapé un troupeau de buffles au tempérament de feu dans les montagnes au nord, et nous menions nos petits veaux de retour vers la ville...${prompt}
-  8266: Et c'est là que nous avons rencontré un petit problème.${prompt} 
+  8266: Et c'est là que nous avons rencontré un petit problème.${prompt}
   8267: Nom d'un chien si je sais d'où ils viennent, mais un essaim de chiques maudites est apparu !${prompt}
   8268: |-
     Maintenant, tu vois, ces buffles viennent des montagnes, et ils n'ont jamais vu de chiques auparavant.
@@ -20067,9 +20047,7 @@ entries:
   8392: |-
     ${number: 0} ${choice-plurality: 0}[Lézard des collines/Lézards des collines].
     ${number: 1} ${choice-plurality: 1}[Lièvre des sables/Lièvres des sables].${prompt}
-  8393: |-
-    ${number: 0} membre${choice-plurality: 0}[/s] de la famille des crabes.
-    ${number: 1} ${choice-plurality: 1}[Lézard des collines/Lézards des collines].${prompt} 
+  8393: "${number: 0} membre${choice-plurality: 0}[/s] de la famille des crabes.\n${number: 1} ${choice-plurality: 1}[Lézard des collines/Lézards des collines].${prompt} "
   8394: |-
     ${number: 0} ${choice-plurality: 0}[Demoiselle/Demoiselles].
     ${number: 1} membre${choice-plurality: 1}[/s] de la famille des crabes.${prompt}
@@ -20086,7 +20064,7 @@ entries:
   8399: |-
     ${number: 0} ${choice-plurality: 0}[Funguar de Jugner/Funguars de Jugner].
     ${number: 1} ${choice-plurality: 1}[Tigre de la forêt/Tigres de la forêt].${prompt}
-  8400: |-  
+  8400: |-
     ${number: 0} ${choice-plurality: 0}[Ephémère/Ephémères].
     ${number: 1} ${choice-plurality: 1}[Bas/Bas].${prompt}
   8401: '${number: 0} membre${choice-plurality: 0}[/s] de la famille des vers.${prompt}'
