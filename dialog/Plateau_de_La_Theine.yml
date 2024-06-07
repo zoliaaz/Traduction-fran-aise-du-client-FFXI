@@ -19260,66 +19260,66 @@ entries:
     Absolutely.
     No.${prompt}
   8075: A portion of your memories has been sealed off.${prompt}
-  8076: A field manual has been placed here by the Adventurers' Mutual Aid Network (A.M.A.N.). Useful information pertaining to various topics on field operations fills its pages.${prompt}
+  8076: Un manuel de terrain a été placé ici par le Réseau d'Aide Mutuelle des Aventuriers (A.M.A.N.). Des informations utiles concernant divers sujets sur les opérations de terrain remplissent ses pages.${prompt}
   8077: |-
-    What will you do?
+    Que voulez-vous faire ?
     ${selection-lines}
-    Nothing.
-    Read about individual training.
-    Review current training regime.
-    Cancel current training regime.
-    Read about elite training.
-    Read about field support.${prompt}
+    Rien.
+    Lire sur l'entraînement individuel.
+    Revoir le régime d'entraînement actuel.
+    Annuler le régime d'entraînement actuel.
+    Lire sur l'entraînement d'élite.
+    Lire sur le soutien sur le terrain.${prompt}
   8078: |-
-    Which page?
+    Quelle page ?
     ${selection-lines}
-    I've changed my mind.
+    J'ai changé d'avis.
     Page 1.
     Page 2.
     Page 3.
     Page 4.
     Page 5.${prompt}
-  8079: The information on this page instructs you to defeat the following:${prompt}
+  8079: Les informations sur cette page vous indiquent de vaincre les éléments suivants :${prompt}
   8080: ${prompt}
-  8081: '${number: 0} member${choice-plurality: 0}[/s] of the worm family.${prompt}'
-  8082: '${number: 0} ${choice-plurality: 0}[Forest Hare/Forest Hares].${prompt}'
+  8081: '${number: 0} membre${choice-plurality: 0}[/s] de la famille des vers.${prompt}'
+  8082: '${number: 0} ${choice-plurality: 0}[Lièvre des forêts/Lièvres des forêts].${prompt}'
   8083: |-
-    ${number: 0} ${choice-plurality: 0}[Scarab Beetle/Scarab Beetles].
-    ${number: 1} ${choice-plurality: 1}[Forest Funguar/Forest Funguars].${prompt}
+    ${number: 0} ${choice-plurality: 0}[Scarabée/Scarabées].
+    ${number: 1} ${choice-plurality: 1}[Funguar des forêts/Funguars des forêts].${prompt}
   8084: |-
-    ${number: 0} member${choice-plurality: 0}[/s] of the Orc family.
-    ${number: 1} ${choice-plurality: 1}[Scarab Beetle/Scarab Beetles].${prompt}
+    ${number: 0} membre${choice-plurality: 0}[/s] de la famille des orques.
+    ${number: 1} ${choice-plurality: 1}[Scarabée/Scarabées].${prompt}
   8085: |-
-    ${number: 0} ${choice-plurality: 0}[Strolling Sapling/Strolling Saplings].
-    ${number: 1} ${choice-plurality: 1}[Huge Wasp/Huge Wasps].${prompt}
-  8086: '${number: 0} ${choice-plurality: 0}[Grass Funguar/Grass Funguars].${prompt}'
+    ${number: 0} ${choice-plurality: 0}[Pousse errante/Pousses errantes].
+    ${number: 1} ${choice-plurality: 1}[Guêpe géante/Guêpes géantes].${prompt}
+  8086: '${number: 0} ${choice-plurality: 0}[Funguar des herbes/Funguars des herbes].${prompt}'
   8087: |-
-    ${number: 0} ${choice-plurality: 0}[Hill Lizard/Hill Lizards].
-    ${number: 1} ${choice-plurality: 1}[Sand Hare/Sand Hares].${prompt}
+    ${number: 0} ${choice-plurality: 0}[Lézard des collines/Lézards des collines].
+    ${number: 1} ${choice-plurality: 1}[Lièvre des sables/Lièvres des sables].${prompt}
   8088: |-
-    ${number: 0} member${choice-plurality: 0}[/s] of the crab family.
-    ${number: 1} ${choice-plurality: 1}[Hill Lizard/Hill Lizards].${prompt}
+    ${number: 0} membre${choice-plurality: 0}[/s] de la famille des crabes.
+    ${number: 1} ${choice-plurality: 1}[Lézard des collines/Lézards des collines].${prompt}
   8089: |-
-    ${number: 0} ${choice-plurality: 0}[Damselfly/Damselflies].
-    ${number: 1} member${choice-plurality: 1}[/s] of the crab family.${prompt}
+    ${number: 0} ${choice-plurality: 0}[Demoiselle/Demoiselles].
+    ${number: 1} membre${choice-plurality: 1}[/s] de la famille des crabes.${prompt}
   8090: |-
-    ${number: 0} ${choice-plurality: 0}[Brutal Sheep/Brutal Sheep].
-    ${number: 1} ${choice-plurality: 1}[Damselfly/Damselflies].${prompt}
-  8091: '${number: 0} ${choice-plurality: 0}[Forest Leech/Forest Leeches].${prompt}'
+    ${number: 0} ${choice-plurality: 0}[Mouton brutal/Moutons brutaux].
+    ${number: 1} ${choice-plurality: 1}[Demoiselle/Demoiselles].${prompt}
+  8091: '${number: 0} ${choice-plurality: 0}[Sangsue des forêts/Sangsues des forêts].${prompt}'
   8092: |-
-    ${number: 0} ${choice-plurality: 0}[Stag Beetle/Stag Beetles].
-    ${number: 1} ${choice-plurality: 1}[Forest Leech/Forest Leeches].${prompt}
+    ${number: 0} ${choice-plurality: 0}[Scarabée Stag/Scarabées Stag].
+    ${number: 1} ${choice-plurality: 1}[Sangsue des forêts/Sangsues des forêts].${prompt} 
   8093: |-
-    ${number: 0} ${choice-plurality: 0}[Jugner Funguar/Jugner Funguars].
-    ${number: 1} ${choice-plurality: 1}[Stag Beetle/Stag Beetles].${prompt}
+    ${number: 0} ${choice-plurality: 0}[Funguar de Jugner/Funguars de Jugner].
+    ${number: 1} ${choice-plurality: 1}[Scarabée Stag/Scarabées Stag].${prompt}
   8094: |-
-    ${number: 0} ${choice-plurality: 0}[Jugner Funguar/Jugner Funguars].
-    ${number: 1} ${choice-plurality: 1}[Forest Tiger/Forest Tigers].${prompt}
+    ${number: 0} ${choice-plurality: 0}[Funguar de Jugner/Funguars de Jugner].
+    ${number: 1} ${choice-plurality: 1}[Tigre des forêts/Tigres des forêts].${prompt}
   8095: |-
-    ${number: 0} ${choice-plurality: 0}[May Fly/May Flies].
+    ${number: 0} ${choice-plurality: 0}[Mouche de mai/Mouches de mai].
     ${number: 1} ${choice-plurality: 1}[Ba/Bas].${prompt}
-  8096: '${number: 0} member${choice-plurality: 0}[/s] of the worm family.${prompt}'
-  8097: '${number: 0} ${choice-plurality: 0}[Maneating Hornet/Maneating Hornets].${prompt}'
+  8096: '${number: 0} membre${choice-plurality: 0}[/s] de la famille des vers.${prompt}'
+  8097: '${number: 0} ${choice-plurality: 0}[Frelon mangeur d’hommes/Frelons mangeurs d’hommes].${prompt}'
   8098: |-
     ${number: 0} ${choice-plurality: 0}[Vulture/Vultures].
     ${number: 1} ${choice-plurality: 1}[Walking Sapling/Walking Saplings].${prompt}
