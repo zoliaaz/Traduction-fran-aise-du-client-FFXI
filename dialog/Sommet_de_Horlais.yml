@@ -17594,27 +17594,27 @@ entries:
   7121: |-
     ${choice: 0}[サンドリア/バストゥーク/ウィンダス]の状況:${choice: 0}[劣勢/やや劣勢/やや優勢/優勢/膠着]
     武器の値段:${number: 2}、入れるポイント:${number: 3}${prompt}
-  7122: The beastmen are gaining power.${prompt}
-  7123: San d'Oria's regional control is now 10% closer to the first place country's!${prompt}
-  7124: Bastok's regional control is now 10% closer to the first place country's!${prompt}
-  7125: Windurst's regional control are now 10% closer to the first place country's!${prompt}
-  7126: San d'Oria's region points have increased!${prompt}
-  7127: Bastok's region points have increased!${prompt}
-  7128: Windurst's region points have increased!${prompt}
-  7129: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.${prompt}
-  7130: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.${prompt}
-  7131: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.${prompt}
-  7132: A San d'Orian Expeditionary Force has been dispatched to this area.${prompt}
-  7133: A Bastokan Expeditionary Force has been dispatched to this area.${prompt}
-  7134: A Windurstian Expeditionary Force has been dispatched to this area.${prompt}
-  7135: 'E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.${prompt}'
-  7136: 'E.F. Influence: Fair...Region Status: Major...Maintain momentum.${prompt}'
-  7137: 'E.F. Influence: Poor...Region Status: Minor...Increase efforts.${prompt}'
-  7138: 'E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.${prompt}'
-  7139: 'E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.${prompt}'
-  7140: There was a curse on the beastmen's banner!${prompt}
-  7141: The curse of the beastmen's banner has been lifted!${prompt}
-  7142: There is a beastmen's banner.${prompt}
+  7122: Les hommes-bêtes gagnent en puissance.${prompt}
+  7123: Le contrôle régional de San d'Oria se rapproche de 10% du pays en première place !${prompt}
+  7124: Le contrôle régional de Bastok se rapproche de 10% du pays en première place !${prompt}
+  7125: Le contrôle régional de Windurst se rapproche de 10% du pays en première place !${prompt}
+  7126: Les points régionaux de San d'Oria ont augmenté !${prompt}
+  7127: Les points régionaux de Bastok ont augmenté !${prompt}
+  7128: Les points régionaux de Windurst ont augmenté !${prompt}
+  7129: L'E.F. de San d'Oria défait les hordes d'hommes-bêtes... Maintenez l'élan actuel.${prompt}
+  7130: L'E.F. de Bastok défait les hordes d'hommes-bêtes... Maintenez l'élan actuel.${prompt}
+  7131: L'E.F. de Windurst défait les hordes d'hommes-bêtes... Maintenez l'élan actuel.${prompt}
+  7132: Une force expéditionnaire de San d'Oria a été envoyée dans cette région.${prompt}
+  7133: Une force expéditionnaire de Bastok a été envoyée dans cette région.${prompt}
+  7134: Une force expéditionnaire de Windurst a été envoyée dans cette région.${prompt}
+  7135: 'Influence E.F. : Grande...Statut de la région : Dominante...Maintenez le niveau de combat actuel.${prompt}' 
+  7136: 'Influence E.F. : Moyenne...Statut de la région : Majeure...Maintenez l’élan.${prompt}'
+  7137: 'Influence E.F. : Faible...Statut de la région : Mineure...Augmentez les efforts.${prompt}'
+  7138: 'Influence E.F. : Minimale...Statut de la région : Minimale...Augmentez les efforts de dix fois.${prompt}'
+  7139: 'Influence E.F. : Aucune...Statut de la région : Sous contrôle des hommes-bêtes...Minimisez les pertes.${prompt}'
+  7140: Il y avait une malédiction sur la bannière des hommes-bêtes !${prompt}
+  7141: La malédiction de la bannière des hommes-bêtes a été levée !${prompt}
+  7142: Il y a une bannière des hommes-bêtes.${prompt}
   7143: 　${prompt}
   7144: 　${prompt}
   7145: 　${prompt}
@@ -17697,85 +17697,85 @@ entries:
     増えたポイント　${number: 0}
     増えたカウント　${number: 1}${prompt}
   7220: |-
-    Enter the battlefield?
+    Entrer sur le champ de bataille ?
     ${selection-lines}
-    Enter.
-    Decline.${prompt}
+    Entrer.
+    Refuser.${prompt}
   7221: |-
-    Leave the battlefield?
+    Quitter le champ de bataille ?
     ${selection-lines}
-    Run away.
-    Stay.${prompt}
-  7222: 'You cannot enter the battlefield at present. Please wait a little longer.${wait-animation: 1}${prompt}'
-  7223: 'You cannot enter the battlefield at present. Please wait a little longer.${wait-animation: 1}${prompt}'
-  7224: You have already cleared this battlefield. You may not enter unless you are assisting a player who has not defeated this boss.${prompt}
+    Fuir.
+    Rester.${prompt}
+  7222: 'Vous ne pouvez pas entrer sur le champ de bataille pour le moment. Veuillez patienter un peu plus longtemps.${wait-animation: 1}${prompt}'
+  7223: 'Vous ne pouvez pas entrer sur le champ de bataille pour le moment. Veuillez patienter un peu plus longtemps.${wait-animation: 1}${prompt}'
+  7224: Vous avez déjà terminé ce champ de bataille. Vous ne pouvez entrer que si vous assistez un joueur qui n'a pas encore vaincu ce boss.${prompt}
   7225: |-
-    Your time in the battlefield is up!
-    Now exiting...${wait-animation: 1}${prompt}
-  7226: 'You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.${wait-animation: 1}${prompt}'
-  7227: 'You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.${wait-animation: 1}${prompt}'
-  7228: 'You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.${wait-animation: 1}${prompt}'
-  7229: 'You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.${wait-animation: 1}${prompt}'
-  7230: 'You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.${wait-animation: 1}${prompt}'
-  7231: 'You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.${wait-animation: 1}${prompt}'
-  7232: 'You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.${wait-animation: 1}${prompt}'
-  7233: 'You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.${wait-animation: 1}${prompt}'
-  7234: 'You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.${wait-animation: 1}${prompt}'
-  7235: 'You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.${wait-animation: 1}${prompt}'
-  7236: 'You have been enchanted so that you may enter!${wait-animation: 1}${prompt}'
-  7237: 'Your entry enchantment has expired!${wait-animation: 1}${prompt}'
+    Votre temps sur le champ de bataille est écoulé !
+    Quittez maintenant...${wait-animation: 1}${prompt}
+  7226: 'Vous êtes autorisé à entrer sur le champ de bataille, mais vous ne pouvez pas le faire tant que des membres de l’équipe sont en combat.${wait-animation: 1}${prompt}'
+  7227: 'Vous êtes autorisé à entrer sur le champ de bataille, mais vous ne pouvez pas le faire tant que des membres de l’équipe sont en combat.${wait-animation: 1}${prompt}'
+  7228: 'Vous êtes autorisé à entrer sur le champ de bataille, mais vous ne pouvez pas le faire tant que des membres de l’équipe sont en combat.${wait-animation: 1}${prompt}'
+  7229: 'Vous êtes autorisé à entrer sur le champ de bataille, mais vous ne pouvez pas le faire tant que des membres de l’équipe sont en combat.${wait-animation: 1}${prompt}'
+  7230: 'Vous êtes autorisé à entrer sur le champ de bataille, mais vous ne pouvez pas le faire tant que des membres de l’équipe sont en combat.${wait-animation: 1}${prompt}'
+  7231: 'Vous êtes autorisé à entrer sur le champ de bataille, mais vous ne pouvez pas le faire tant que des membres de l’équipe sont en combat.${wait-animation: 1}${prompt}'
+  7232: 'Vous êtes autorisé à entrer sur le champ de bataille, mais vous ne pouvez pas le faire tant que des membres de l’équipe sont en combat.${wait-animation: 1}${prompt}'
+  7233: 'Vous êtes autorisé à entrer sur le champ de bataille, mais vous ne pouvez pas le faire tant que des membres de l’équipe sont en combat.${wait-animation: 1}${prompt}'
+  7234: 'Vous êtes autorisé à entrer sur le champ de bataille, mais vous ne pouvez pas le faire tant que des membres de l’équipe sont en combat.${wait-animation: 1}${prompt}'
+  7235: 'Vous êtes autorisé à entrer sur le champ de bataille, mais vous ne pouvez pas le faire tant que des membres de l’équipe sont en combat.${wait-animation: 1}${prompt}'
+  7236: 'Vous avez été enchanté pour pouvoir entrer !${wait-animation: 1}${prompt}'
+  7237: 'Votre enchantement d’entrée a expiré !${wait-animation: 1}${prompt}'
   7238: |-
-    You are not cleared to enter the battlefield.
-    Now exiting...${wait-animation: 1}${prompt}
-  7239: A cursed seal has been placed upon this platform.${prompt}
-  7240: The battlefield where your party members are engaged in combat is locked. Access is denied.${prompt}
-  7241: There is no response. You cannot escape!${prompt}
-  7242: The door is sealed shut with an evil curse.${prompt}
-  7243: A mysterious force is sealing the platform.${prompt}
-  7244: The old wooden door is locked tight.${prompt}
-  7245: The door is sealed with a mysterious energy.${prompt}
-  7246: It is a giant crystal.${prompt}
-  7247: A strong magical force is whirling up from the platform.${prompt}
-  7248: A fierce column of wind blocks your path. You cannot proceed any further...${prompt}
-  7249: An ominous veil of pitch-black gas blocks your path. You cannot proceed any further...${prompt}
-  7250: An unfathomable light is rising from this strangely marked platform...${prompt}
-  7251: A heavy wooden gate. It is tightly locked...${prompt}
-  7252: You can hear a faint scraping sound from within, but the way is barred by some strange membrane...${prompt}
-  7253: You can hear a faint scraping sound from within, but the way is barred by some strange membrane...${prompt}
-  7254: You can hear a faint scraping sound from within, but the way is barred by some strange membrane...${prompt}
-  7255: You can hear a faint scraping sound from within, but the way is barred by some strange membrane...${prompt}
-  7256: A glowing mist of ever-changing proportions floats before you...${prompt}
-  7257: A solid iron gate. It is tightly locked...${prompt}
-  7258: You see a gigantic crystal, glowing with amber light...${prompt}
-  7259: You see a gigantic crystal, glowing with amber light...${prompt}
-  7260: Looking closely, you see two bell-type symbols painted on the wood, one in red and one in blue...${prompt}
-  7261: Looking closely at the surface of the gate, you can see what appears to be the imprints of a Troll's fist...${prompt}
-  7262: If you listen closely, you can faintly hear female voices singing in rounds...${prompt}
-  7263: It appears as if something had been thrust into the rockface here...${prompt}
-  7264: A decorative door. It appears to be locked...${prompt}
-  7265: The door is locked.${prompt}
-  7266: The gate is locked.${prompt}
-  7267: The door is locked.${prompt}
-  7268: The door is locked.${prompt}
-  7269: There seems to be a space beneath the floor, but you are unable to access it.${prompt}
-  7270: You do not meet the requirements to enter the battlefield. Access is denied.${prompt}
-  7271: '${choice: 0}[Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] has fallen. Now leaving the battlefield.${prompt}'
-  7272: '${choice: 0}[Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] has fallen. Now leaving the battlefield.${prompt}'
-  7273: '${choice: 0}[Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] has fallen. Now leaving the battlefield.${prompt}'
-  7274: '${choice: 0}[Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] has fallen. Now leaving the battlefield.${prompt}'
-  7275: '${choice: 0}[Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] has fallen. Now leaving the battlefield.${prompt}'
-  7276: '${choice: 0}[Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] has fallen. Now leaving the battlefield.${prompt}'
-  7277: '${choice: 0}[Fhig/Khuma/Pimy/Raka/Sahyu/Sufhi/Tsuim/Yoli] has fallen. Now leaving the battlefield.${prompt}'
-  7278: '${choice: 0}[Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] has fallen. Now leaving the battlefield.${prompt}'
-  7279: You were unable to protect the special character. Now leaving the battlefield.${prompt}
-  7280: You were unable to protect Prince Trion. Now leaving the battlefield.${prompt}
-  7281: You were unable to protect Captain Volker. Now leaving the battlefield.${prompt}
-  7282: You were unable to protect Ajido-Marujido. Now leaving the battlefield.${prompt}
-  7283: 'Your ${item-singular: 0[2]} is torn...${prompt}'
-  7284: 'Your ${item-singular: 0[2]} ${choice: 1}[/rips into shreds!/is on the verge of tearing apart.../is showing signs of wear...] (${number: 2} ${choice-plurality: 2}[use remains/uses remain].)${prompt}'
-  7285: 'Your ${item-singular: 0[2]} is torn...${prompt}'
-  7286: 'Your ${item-singular: 0[2]} ${choice: 1}[/rips into shreds!/is on the verge of tearing apart.../is showing signs of wear...] (${number: 2} ${choice-plurality: 2}[use remains/uses remain].)${prompt}'
-  7287: You see innumerable stars shimmering in the distance...${prompt}
+    Vous n'êtes pas autorisé à entrer sur le champ de bataille.
+    Quittez maintenant...${wait-animation: 1}${prompt}
+  7239: Un sceau maudit a été placé sur cette plate-forme.${prompt}
+  7240: Le champ de bataille où vos compagnons se battent est verrouillé. Accès refusé.${prompt}
+  7241: Il n'y a pas de réponse. Vous ne pouvez pas vous échapper!${prompt}
+  7242: La porte est scellée par une malédiction maléfique.${prompt}
+  7243: Une force mystérieuse scelle la plate-forme.${prompt}
+  7244: La vieille porte en bois est fermée à clé.${prompt}
+  7245: La porte est scellée par une énergie mystérieuse.${prompt}
+  7246: C'est un cristal géant.${prompt}
+  7247: Une force magique puissante tourbillonne de la plate-forme.${prompt}
+  7248: Une colonne de vent féroce bloque votre chemin. Vous ne pouvez pas aller plus loin...${prompt}
+  7249: Un voile sombre de gaz noir bloque votre chemin. Vous ne pouvez pas aller plus loin...${prompt} 
+  7250: Une lumière insondable s'élève de cette plate-forme étrangement marquée...${prompt}
+  7251: Un lourd portail en bois. Il est solidement fermé à clé...${prompt}
+  7252: Vous entendez un faible grattement venant de l'intérieur, mais le passage est obstrué par une membrane étrange...${prompt}
+  7253: Vous entendez un faible grattement venant de l'intérieur, mais le passage est obstrué par une membrane étrange...${prompt}
+  7254: Vous entendez un faible grattement venant de l'intérieur, mais le passage est obstrué par une membrane étrange...${prompt}
+  7255: Vous entendez un faible grattement venant de l'intérieur, mais le passage est obstrué par une membrane étrange...${prompt}
+  7256: Une brume lumineuse de proportions changeantes flotte devant vous...${prompt}
+  7257: Un portail en fer massif. Il est solidement fermé à clé...${prompt}
+  7258: Vous voyez un cristal gigantesque, brillant d'une lumière ambrée...${prompt}
+  7259: Vous voyez un cristal gigantesque, brillant d'une lumière ambrée...${prompt}
+  7260: En regardant de plus près, vous voyez deux symboles en forme de cloche peints sur le bois, l'un en rouge et l'autre en bleu...${prompt}
+  7261: En regardant de plus près la surface du portail, vous pouvez voir ce qui semble être l'empreinte du poing d'un troll...${prompt}
+  7262: Si vous écoutez attentivement, vous pouvez entendre des voix féminines chantant en chœur...${prompt}
+  7263: Il semble que quelque chose ait été enfoncé dans la paroi rocheuse ici...${prompt}
+  7264: Une porte décorative. Elle semble être verrouillée...${prompt}
+  7265: La porte est verrouillée.${prompt}
+  7266: Le portail est verrouillé.${prompt}
+  7267: La porte est verrouillée.${prompt}
+  7268: La porte est verrouillée.${prompt}
+  7269: Il semble y avoir un espace sous le sol, mais vous ne pouvez pas y accéder.${prompt}
+  7270: Vous ne remplissez pas les conditions requises pour entrer sur le champ de bataille. Accès refusé.${prompt}
+  7271: '${choice: 0}[Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] est tombé. Quittez maintenant le champ de bataille.${prompt}'
+  7272: '${choice: 0}[Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] est tombée. Quittez maintenant le champ de bataille.${prompt}'
+  7273: '${choice: 0}[Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] est tombé. Quittez maintenant le champ de bataille.${prompt}'
+  7274: '${choice: 0}[Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] est tombée. Quittez maintenant le champ de bataille.${prompt}'
+  7275: '${choice: 0}[Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] est tombé. Quittez maintenant le champ de bataille.${prompt}'
+  7276: '${choice: 0}[Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] est tombé. Quittez maintenant le champ de bataille.${prompt}'
+  7277: '${choice: 0}[Fhig/Khuma/Pimy/Raka/Sahyu/Sufhi/Tsuim/Yoli] est tombé. Quittez maintenant le champ de bataille.${prompt}'
+  7278: '${choice: 0}[Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] est tombé. Quittez maintenant le champ de bataille.${prompt}'  
+  7279: Vous n'avez pas pu protéger le personnage spécial. Quittez maintenant le champ de bataille.${prompt}
+  7280: Vous n'avez pas pu protéger le Prince Trion. Quittez maintenant le champ de bataille.${prompt}
+  7281: Vous n'avez pas pu protéger le Capitaine Volker. Quittez maintenant le champ de bataille.${prompt}
+  7282: Vous n'avez pas pu protéger Ajido-Marujido. Quittez maintenant le champ de bataille.${prompt}
+  7283: 'Votre ${item-singular: 0[2]} est déchiré...${prompt}'
+  7284: 'Votre ${item-singular: 0[2]} ${choice: 1}[/se déchire en lambeaux!/est sur le point de se déchirer.../montre des signes d’usure...] (${number: 2} ${choice-plurality: 2}[utilisation restante/utilisations restantes].)${prompt}'
+  7285: 'Votre ${item-singular: 0[2]} est déchiré...${prompt}'
+  7286: 'Votre ${item-singular: 0[2]} ${choice: 1}[/se déchire en lambeaux!/est sur le point de se déchirer.../montre des signes d’usure...] (${number: 2} ${choice-plurality: 2}[utilisation restante/utilisations restantes].)${prompt}'
+  7287: Vous voyez d'innombrables étoiles scintiller au loin...${prompt}
   7288: 　${prompt}
   7289: 　${prompt}
   7290: 　${prompt}
