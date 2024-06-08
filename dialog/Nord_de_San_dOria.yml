@@ -25517,54 +25517,53 @@ entries:
   12333: Miaou ? Pour moi ?${prompt}
   12334: '...${prompt}'
   12335: Toi, toi, toi...${prompt}
-  12336: Tu ne peux pas toucher le cœur d'une dame avec des trucs comme ça !
-    Il te faudra quelque chose de plus--plus excitant, plus excellent, plus extravagant ! Quelque chose comme des fleurs...${prompt}
-  12337: Il n'y a pas beaucoup de gens qui peuvent m'impressionner.${prompt}
-  12338: Tiens. Je n'ai pas besoin de ça, ${choice-player-gender}[monsieur/mademoiselle].${prompt}
-  12339: Comme c'est beau ! Tu sais vraiment comment toucher le cœur d'une dame.${prompt}
-  12340: Mais c'est juste la base. Tu as encore du chemin à faire pour m'impressionner !${prompt}
-  12341: Ce petit bouquet est mignon, mais tu es encore loin de m'impressionner !${prompt}
-  12342: Et un bouquet complet ! Tu commences à comprendre, mais n'importe qui peut m'apporter ça.${prompt}
-  12343: '${color-alt: 15}${name-npc} te sourit malicieusement.'
-  12344: "Si tu veux vraiment faire fondre le cœur d'une fille, tu devrais essayer ${item-plural: 3[2]}.${prompt}"
-  12345: Eh bien, merci quand même pour les fleurs ! La la la la la♪${prompt}
-  12346: Qu'est-ce que c'est que ça...
-  12347: '...${prompt}'
-  12348: '${color-alt: 15}${name-npc} a l’air très heureux(se) !'
-  12349: C'est ça ! La couleur ! La forme ! Le parfum ! Rrrrr...${prompt}
-  12350: Je dois l'admettre. Tu sais vraiment comment impressionner une fille.${prompt}
-  12351: '${color-alt: 15}${name-npc} vérifie la zone avant de s’approcher de toi.'
-  12352: (Euh... je voulais juste dire...)${prompt}
-  12353: (Tu peux toujours revenir me voir... si jamais tu as des fleurs en trop...)${prompt}
-  12354: (Oh oui, et je vais te montrer quelques-unes des ruelles... pour que tu puisses venir ici facilement...)${prompt}
-  12355: (Tu descends juste....)${prompt}
-  12356: '${color-alt: 121}Tu as appris ton chemin à travers les ruelles de Bastok ! Maintenant, tu peux sortir vers n’importe quelle zone depuis ta résidence.${prompt}'
-  12357: <Rire> Merci !${prompt}
-  12358: Tu as vraiment touché mon cœur.♪${prompt}
-  12359: Encore un ! Tu sais que c'est mon préféré ! Merci !♪${prompt}
-  12360: Miaou ? Tu as déjà oublié le chemin vers le cœur d'une fille ?${prompt}
-  12361: Si je gardais tous les cadeaux normaux que je reçois de mes fans, je n'aurais pas de place pour les cadeaux vraiment sympas.${prompt}
-  12362: Tu peux reprendre ça !${prompt}
-  12363: C'est dur d'être adorée par des centaines de personnes, mais je suppose que je vais devoir m'y habituer.${prompt}
-  12364: Tu peux reprendre cette fleur.${prompt}
-  12365: Miaou ? Qu'est-ce que c'est ?${prompt}
-  12366: Pour moi ? Hmm...${prompt}
-  12367: '${color-alt: 15}${name-npc} n’a pas l’air si excitée.'
-  12368: Je préférerais une fleur comme celle du jardin de la reine Leaute.${prompt}
-  12369: Tiens, tu peux la reprendre.${prompt}
-  12370: Une fleur, pour moi ? Je dois montrer ça à Monsieur Chalvatot !${prompt}
-  12371: Tu sais--tu sais--Monsieur Chalvatot est toujours très heureux quand je lui apporte des fleurs.♪${prompt}
-  12372: Ce petit bouquet est juste comme le beau bouquet de fleurs que Monsieur Chalvatot m'a rassemblé une fois ! Merci beaucoup !${prompt}
-  12373: Un jour--un jour--je serai juste comme la princesse Claidie ! Chalvatot a dit que si je prenais bien soin de mes fleurs, je pourrais !${prompt}
-  12374: Je vais les planter partout autour de San d'Orrria ! Merci !!${prompt}
-  12375: "Si seulement j'avais ${article} ${item-article: 3[2]}...${prompt}"
-  12376: "Si j'obtiens ${article} ${item-article: 3[2]}, je vais le planter dans le jardin de la reine Leaute !♪${prompt}"
-  12377: "Meooow ! ${lettercase: 1}${article} ${item-article: 3[2]} ! Pour moi ? Ouais !${prompt}"
-  12378: 'Meooow ! ${lettercase: 1}${article} ${item-article: 3[2]} ! Pour moi ? Ouais !${prompt}'
-  12379: Maintenant--Maintenant le jardin de la reine Leaute sera plus joli que jamais !${prompt}
-  12380: '${color-alt: 15}${name-npc} a l’air extrêmement heureux(se).'
-  12381: Tu as été tellement gentil(le). Je veux te donner quelque chose pour te remercier...${prompt}
-  12382: '${color-alt: 15}${name-npc} a une ampoule au-dessus de la tête.'
+  12336: Tu ne peux pas toucher le cœur d'une dame avec des trucs comme ça !  
+  12337: Il te faudra quelque chose de plus--plus excitant, plus excellent, plus extravagant ! Quelque chose comme des fleurs...${prompt}
+  12338: Il n'y a pas beaucoup de gens qui peuvent m'impressionner.${prompt}
+  12339: Tenez. Je n'ai pas besoin de ceci, ${choice-player-gender}[monsieur/mademoiselle].${prompt}
+  12340: Comme c'est beau! Vous savez vraiment comment toucher le cœur d'une dame.${prompt}
+  12341: Mais ce n'est que la base. Vous avez encore du chemin à faire pour m'impressionner!${prompt}
+  12342: Ce petit bouquet est mignon, mais vous êtes encore loin de m'impressionner!${prompt}
+  12343: Et un bouquet complet! Vous commencez à comprendre, mais n'importe qui peut m'apporter ça.${prompt}
+  12344: '${color-alt: 15}${name-npc} vous sourit sournoisement.'
+  12345: 'Si vous voulez vraiment faire fondre le cœur d’une fille, vous devriez essayer les ${item-plural: 3[2]}.${prompt}'
+  12346: Eh bien, merci quand même pour les fleurs! La la la la la♪${prompt}
+  12347: Qu'est-ce que c'est...
+  12348: '...${prompt}'
+  12349: '${color-alt: 15}${name-npc} semble très heureux!'
+  12350: C'est ça! La couleur! La forme! Le parfum! Purrrrr...${prompt} 
+  12351: Je dois l'admettre. Vous savez vraiment comment impressionner une fille.${prompt}
+  12352: '${color-alt: 15}${name-npc} vérifie les alentours avant de s’approcher de vous.'
+  12353: (Euh... je voulais juste dire...)${prompt}
+  12354: (Vous pouvez toujours revenir... si vous avez des fleurs en trop...)${prompt}
+  12355: (Oh oui, et je vous montrerai quelques raccourcis... pour que vous puissiez venir facilement...)${prompt}
+  12356: (Vous allez juste par là....)${prompt}
+  12357: '${color-alt: 121}Vous avez appris les raccourcis de Bastok! Vous pouvez maintenant sortir vers n’importe quelle zone depuis votre résidence.${prompt}'
+  12358: <Rire> Merci!${prompt}
+  12359: Vous avez vraiment touché mon cœur.♪${prompt}
+  12360: Encore un! Vous savez que c'est mon préféré! Merci!♪${prompt}
+  12361: Miaou? Vous avez déjà oublié comment toucher le cœur d'une fille?${prompt}
+  12362: Si je prenais tous les cadeaux normaux que je reçois de mes fans, je n'aurais pas de place pour les cadeaux vraiment sympas.${prompt}
+  12363: Vous pouvez reprendre ça!${prompt}
+  12364: C'est dur d'être adorée par des centaines, mais je suppose que je vais devoir m'y habituer.${prompt}
+  12365: Vous pouvez reprendre cette fleur.${prompt}
+  12366: Miaou? Qu'est-ce que c'est?${prompt}
+  12367: Pour moi? Hmm...${prompt}
+  12368: '${color-alt: 15}${name-npc} n’a pas l’air très excité.'
+  12369: Je préfère avoir une fleurrr comme celle du jardin de la Reine Leaute.${prompt}
+  12370: Tenez, vous pouvez reprendre ça.${prompt}
+  12371: Une fleurrr, pour moi? Je dois montrer ça à Monsieur Chalvatot!${prompt}
+  12372: Vous savez--vous savez--Monsieur Chalvatot est toujours rrrempli de joie quand je lui apporte des fleurs.♪${prompt}
+  12373: Ce petit bouquet est juste comme le joli bouquet de fleurs que Monsieur Chalvatot m'a offert une fois! Merci beaucoup!${prompt}
+  12374: Un jour--un jour--je serai comme la Princesse Claidie! Chalvatot a dit que si je prends bien soin de mes fleurs, je pourrais!${prompt} 
+  12375: Je vais les prendre et les planter tout autour de San d'Orrria! Merci!!${prompt}
+  12376: 'Si seulement j’avais ${article} ${item-article: 3[2]}...${prompt}'
+  12377: 'Si jamais j’obtiens ${article} ${item-article: 3[2]}, je vais le planter dans le jardin de la Reine Leaute!♪${prompt}'
+  12378: 'Miaou! ${lettercase: 1}${article} ${item-article: 3[2]}! Pour moi? Oui!${prompt}'
+  12379: Maintenant--Maintenant le jardin de la Reine Leaute sera plus joli que jamais!${prompt}
+  12380: '${color-alt: 15}${name-npc} semble extrêmement ravi.'
+  12381: Vous avez été si gentil. Je veux vous donner quelque chose pour vous remercier...${prompt}
+  12382: '${color-alt: 15}${name-npc} a une ampoule au-dessus de sa tête.'
   12383: |-
     Je l'ai eu ! Je l'ai eu !
     Je vais te dire mon secret !${prompt}
@@ -25641,96 +25640,96 @@ entries:
   12446: Wow, un jour je souhaite être un chevalier comme lui !${prompt}
   12447: Dites, vous êtes un chevalier, n'est-ce pas ? Ne voulez-vous pas attraper le grand poisson de légende pour son trésor ?${prompt}
   12448: |-
-    Want to catch the big one?
+    Voulez-vous attraper le gros poisson ?
     ${selection-lines}
-    I'll do it.
-    Not right now.${prompt}
-  12449: 'That''s a fine knight! First we will need ${article} ${item-article: 0[2]} to get started. I doubt my father would give one up if we asked.${prompt}'
-  12450: What? How can you say that without even trying? After all, your opponent is a mere fish...${prompt}
-  12451: Oh, how I wish that Father was more like Vilbert. He wouldn't give one up, even if I asked.${prompt}
-  12452: Oh, I knew he would say no. Long ago, Father was not like this.${prompt}
-  12453: You see, my mother was killed by Orcs. My father was there, but he couldn't save her.${prompt}
-  12454: He blamed her death on the quality of his armor and weapons. He gave up practicing swordsmanship every morning, and spends all his time scouring the shops for equipment.${prompt}
-  12455: He is needed in the expeditions, but always he declines due to a supposed sickness or insufficiencies in equipment. I fear he will lose his rank as captain.${prompt}
-  12456: 'I am sure a knight of my father''s stature could soon get me ${article} ${item-article: 0[2]}. How can I go fishing now?${prompt}'
-  12457: 'Oh, ${item-plural: 0[2]} can only be found in the Crawlers'' Nest. And such a quest is beyond me! I wonder how I could get one...${prompt}'
-  12458: What? This is for me? You always give me things. Are you sure you do not want to use it to go fishing yourself, ${choice-player-gender}[sir/madam]?${prompt}
-  12459: Hey, Ailbeche!${prompt}
-  12460: 'You got ${article} ${item-article: 0[2]}, right? If not, you ain''t coming with me!${prompt}'
-  12461: Oh, actually, no...${prompt}
-  12462: I could not find any...${prompt}
-  12463: What? Your old man didn't get any for you, huh? He's not really a captain, is he? Forget it, I'm not taking you anywhere!${prompt}
-  12464: It's always like this.${prompt}
-  12465: I will never get there, so let me tell you where you can fish for the big one. They say he's in Castle Oztroja.${prompt}
-  12466: 'If you take a renowned fisherman with you, then you should offer him something. At the very least, you should give five ${item-plural: 0[2]} or so.${prompt}'
-  12467: But if you are to fish for him yourself, you should catch him easily, as long as you've had a little practice. After all, fishing is all about patience!${prompt}
-  12468: If you do catch the big one, watch out! They say he's one feisty fish. Your skills in swordsmanship will be of greater use than those of fishing, I gather.${prompt}
-  12469: I have uncovered all of this, yet I cannot go myself. Please, ${choice-player-gender}[sir/madam], catch him in my stead!${prompt}
-  12470: They say that you can catch the big one in Castle Oztroja. It would be foul if someone caught him before you!${prompt}
-  12471: What? You caught the big one? Amazing! I doubt I could have done the same.${prompt}
-  12472: Now, hurry and get it cleaned! I have heard of an expert fisherman in Selbina. You should find him and ask him!${prompt}
-  12473: Wow! Such a thing was inside its gizzard? Surely I would never have caught him, for he gave even you a run for your money.${prompt}
-  12474: Father, how could you forget this sword?${prompt}
-  12475: What? Vilbert is in league with the Orcs? Hah! What nonsense!${prompt}
-  12476: I will not fall for such a joke so easily. Vilbert is taking me fishing in Jugner Forest. Be not surprised if I catch a bigger fish than the big one!${prompt}
-  12477: You saw, did you not? My father is a mighty knight! I wish to become like him!${prompt}
-  12478: Father promised to take me fishing! But I know that he is a much greater swordsman than a fisher.${prompt}
-  12479: 'Now I shall prepare the ${item-singular: 0[2]} that you gave me.${prompt}'
-  12480: Behold the beauty of this cathedral. We failed to protect it once, but never again.${prompt}
-  12481: Narcheral, I bring news!${prompt}
-  12482: What!? Are you certain?${prompt}
-  12483: Yes.${prompt}
-  12484: They are massing by the hundreds!? I-Impossible!${prompt}
-  12485: At any rate, you must return and continue the investigation.${prompt}
-  12486: Adventurer, I have a request. Depart at once for the western borders of Valkurm Dunes. Find the messenger of the dark stalkers there, but only at night.${prompt}
-  12487: 'Defeat the dark stalker and take its ${item-singular: 7[2]}.${prompt}'
-  12488: If the reports are correct, the dead of Tavnazia are returning. This is dire news, indeed!${prompt}
-  12489: 'Yes, this is indeed ${article} ${item-article: 7[2]}. Our worst nightmare has come true.${prompt}'
-  12490: This is for you. I foresee I will need your help yet again...${prompt}
-  12491: Excellent work, my friend. This is what I promised. We can only await Prince Pieuje's decision now.${prompt}
-  12492: Why, I heard an adventurer smote Marquis Altedour, but to think it was you!${prompt}
-  12493: Prince Pieuje disappoints me for his failure to act. I would have suggested that he claim credit for the defeat of the marquis.${prompt}
-  12494: I saw in him a more luminous mind. I suppose royalty will never know how secure one's position is in society.${prompt}
-  12495: Oh, please disregard my musings. You have done us a great service, and for that you should be rewarded.${prompt}
-  12496: Say, are you an adventurer?${prompt}
-  12497: My name is Rochefogne, and I am an adventurer, too. I have just arrived at San d'Oria...${prompt}
-  12498: And already I am struck at how little has changed! Time has no dominion over this city.${prompt}
-  12499: Can you see the great cathedral yonder? Faithful San d'Orians gather there still in worship to the Goddess of the Dawn.${prompt}
-  12500: And behold its balcony! Could the papsque still rise there to grant benedictions?${prompt}
-  12501: Hmm? And they must be Royal Knights...${prompt}
-  12502: Swiftly do they return to Chateau d'Oraguille, surely from some expedition abroad...${prompt}
-  12503: You, too, must learn the difference between the Temple Knights and the Royal Knights, if you are to bear San d'Orian citizenship!${prompt}
-  12504: The Temple Knights shield the capital, while the Royal Knights strike at our foes!${prompt}
-  12505: I heard mention in my travels that Prince Trion had assumed control of the Royal Knights.${prompt}
-  12506: Yes, Trion... Of him I have heard naught for ages. I do hope the princes are well.${prompt}
-  12507: And Princess Claidie! Fair is said to be the younger sister of Trion and Pieuje. Perhaps someday I may meet her!${prompt}
-  12508: But, I ramble. Many pardons!${prompt}
-  12509: So long have I been away that my head races. Please, let me hear your questions.${prompt}
+    Je le ferai.
+    Pas pour le moment.${prompt}
+  12449: 'C’est un bon chevalier ! Nous aurons d’abord besoin de ${article} ${item-article: 0[2]} pour commencer. Je doute que mon père en donnerait un si nous le lui demandions.${prompt}'
+  12450: Comment ? Comment pouvez-vous dire ça sans même essayer ? Après tout, votre adversaire n'est qu'un simple poisson...${prompt}
+  12451: Oh, comme j'aimerais que père soit plus comme Vilbert. Il ne refuserait pas, même si je le lui demandais.${prompt}
+  12452: Oh, je savais qu'il dirait non. Autrefois, père n'était pas comme ça.${prompt}
+  12453: Voyez-vous, ma mère a été tuée par des orcs. Mon père était là, mais il n'a pas pu la sauver.${prompt}
+  12454: Il a attribué sa mort à la qualité de son armure et de ses armes. Il a arrêté de s'entraîner à l'épée tous les matins et passe tout son temps à parcourir les magasins d'équipement.${prompt}
+  12455: Il est nécessaire dans les expéditions, mais toujours il refuse en raison d'une maladie supposée ou d'insuffisances en équipement. Je crains qu'il ne perde son rang de capitaine.${prompt}
+  12456: 'Je suis sûr qu’un chevalier de la stature de mon père pourrait bientôt m’en procurer ${article} ${item-article: 0[2]}. Comment puis-je aller pêcher maintenant ?${prompt}'
+  12457: 'Oh, les ${item-plural: 0[2]} ne se trouvent qu’à la Nest des Érucas. Et une telle quête est au-dessus de mes forces ! Je me demande comment je pourrais en obtenir un...${prompt}'
+  12458: Comment ? C'est pour moi ? Vous me donnez toujours des choses. Êtes-vous sûr de ne pas vouloir l'utiliser vous-même pour aller pêcher, ${choice-player-gender}[monsieur/madame] ?${prompt}
+  12459: Hé, Ailbeche !${prompt}
+  12460: 'Vous avez obtenu ${article} ${item-article: 0[2]}, n’est-ce pas ? Sinon, vous ne venez pas avec moi !${prompt}'
+  12461: Oh, en fait, non...${prompt}
+  12462: Je n’ai pas pu en trouver...${prompt}
+  12463: Comment ? Votre vieux n'en a pas obtenu pour vous, hein ? Il n'est pas vraiment capitaine, n'est-ce pas ? Laissez tomber, je ne vous emmène nulle part !${prompt}
+  12464: C'est toujours comme ça.${prompt}
+  12465: Je n'y arriverai jamais, alors laissez-moi vous dire où vous pouvez pêcher le gros. On dit qu'il est au château d'Oztroja.${prompt}
+  12466: 'Si vous emmenez un pêcheur renommé avec vous, vous devriez lui offrir quelque chose. Au moins, vous devriez lui donner cinq ${item-plural: 0[2]} ou quelque chose comme ça.${prompt}'
+  12467: Mais si vous allez pêcher vous-même, vous devriez le capturer facilement, tant que vous avez un peu d'entraînement. Après tout, la pêche est surtout une question de patience !${prompt}
+  12468: Si vous attrapez le gros, faites attention ! On dit qu'il est un poisson combattif. Vos compétences en escrime seront plus utiles que celles de la pêche, je suppose.${prompt}
+  12469: J'ai découvert tout cela, mais je ne peux pas y aller moi-même. S'il vous plaît, ${choice-player-gender}[monsieur/madame], attrapez-le à ma place !${prompt}
+  12470: On dit que vous pouvez attraper le gros au château d'Oztroja. Ce serait mal si quelqu'un le capturait avant vous !${prompt}
+  12471: Quoi ? Vous avez attrapé le gros ? Incroyable ! Je doute que j'aurais pu en faire autant.${prompt}
+  12472: Maintenant, dépêchez-vous de le nettoyer ! J'ai entendu parler d'un pêcheur expert à Selbina. Vous devriez le trouver et lui demander !${prompt}
+  12473: Waouh ! Une telle chose était à l'intérieur de son gésier ? Sûrement que je ne l'aurais jamais attrapé, car même vous avez eu du mal.${prompt}
+  12474: Père, comment as-tu pu oublier cette épée ?${prompt}
+  12475: Quoi ? Vilbert est de mèche avec les orcs ? Hah ! Quelle absurdité !${prompt}
+  12476: Je ne tomberai pas si facilement dans une telle blague. Vilbert m'emmène pêcher dans la forêt de Jugner. Ne soyez pas surpris si j'attrape un plus gros poisson que le gros !${prompt}
+  12477: Tu as vu, n'est-ce pas ? Mon père est un puissant chevalier ! Je veux devenir comme lui !${prompt}
+  12478: Père a promis de m'emmener pêcher ! Mais je sais qu'il est bien meilleur escrimeur que pêcheur.${prompt}
+  12479: 'Maintenant je vais préparer le ${item-singular: 0[2]} que vous m’avez donné.${prompt}'
+  12480: Contemplez la beauté de cette cathédrale. Nous avons échoué à la protéger une fois, mais plus jamais.${prompt}
+  12481: Narcheral, j’apporte des nouvelles !${prompt}
+  12482: Quoi !? Êtes-vous sûr ?${prompt}
+  12483: Oui.${prompt}
+  12484: Ils se rassemblent par centaines !? I-Impossible !${prompt}
+  12485: En tout cas, vous devez retourner et poursuivre l'enquête.${prompt}
+  12486: Aventurier, j'ai une requête. Partez immédiatement pour les frontières ouest des dunes de Valkurm. Trouvez le messager des traque-nuits là-bas, mais seulement la nuit.${prompt}
+  12487: 'Vainquez le traque-nuit et prenez son ${item-singular: 7[2]}.${prompt}'
+  12488: Si les rapports sont exacts, les morts de Tavnazia reviennent. Ce sont des nouvelles graves, en effet !${prompt}
+  12489: 'Oui, c’est bien ${article} ${item-article: 7[2]}. Notre pire cauchemar est devenu réalité.${prompt}'
+  12490: Ceci est pour vous. Je prévois que j’aurai encore besoin de votre aide...${prompt}
+  12491: Excellent travail, mon ami. Voici ce que j'ai promis. Nous ne pouvons plus qu'attendre la décision du prince Pieuje maintenant.${prompt}
+  12492: Dis donc, j'ai entendu dire qu'un aventurier avait abattu le marquis Altedour, mais penser que c'était toi !${prompt}
+  12493: Le prince Pieuje me déçoit pour son incapacité à agir. J'aurais suggéré qu'il se crédite de la défaite du marquis.${prompt}
+  12494: Je voyais en lui un esprit plus lumineux. Je suppose que la royauté ne saura jamais à quel point sa position dans la société est sûre.${prompt}
+  12495: Oh, veuillez ignorer mes réflexions. Vous nous avez rendu un grand service, et pour cela vous devriez être récompensé.${prompt}
+  12496: Dis-moi, es-tu un aventurier ?${prompt}
+  12497: Mon nom est Rochefogne, et je suis un aventurier, moi aussi. Je viens d'arriver à San d'Oria...${prompt}
+  12498: Et déjà, je suis frappé par le peu de changement ! Le temps n'a pas de prise sur cette ville.${prompt}
+  12499: Peux-tu voir la grande cathédrale là-bas ? Les fidèles san'doriens s'y rassemblent encore pour rendre hommage à la Déesse de l'Aube.${prompt}
+  12500: Et regardez son balcon ! Le papsque pourrait-il encore s'y lever pour accorder des bénédictions ?${prompt}
+  12501: Hmm ? Et ils doivent être les Chevaliers Royaux...${prompt}
+  12502: Rapidement ils retournent au Château d'Oraguille, sûrement d'une expédition à l'étranger...${prompt}
+  12503: Toi aussi, tu dois apprendre la différence entre les Chevaliers du Temple et les Chevaliers Royaux, si tu veux porter la citoyenneté san'dorienne !${prompt}
+  12504: Les Chevaliers du Temple protègent la capitale, tandis que les Chevaliers Royaux frappent nos ennemis !${prompt}
+  12505: J'ai entendu dire dans mes voyages que le prince Trion avait pris le contrôle des Chevaliers Royaux.${prompt}
+  12506: Oui, Trion... De lui je n'ai rien entendu depuis des lustres. J'espère que les princes vont bien.${prompt}
+  12507: Et la princesse Claidie ! On dit qu'elle est la sœur cadette de Trion et Pieuje. Peut-être un jour pourrai-je la rencontrer !${prompt}
+  12508: Mais je divague. Toutes mes excuses !${prompt}
+  12509: Cela fait si longtemps que je suis parti que ma tête bouillonne. S'il vous plaît, laissez-moi entendre vos questions.${prompt}
   12510: |-
-    What would you ask?
+    Que désirez-vous demander ?
     ${selection-lines}
-    Nothing in particular.
-    I want to go outside and fight.
-    I want to shop.
-    I want to know about adventuring.${prompt}
-  12511: Should you wish to leave the city from here in Northern San d'Oria, you must pass through Ranperre Gate to the west.${prompt}
-  12512: You surely must have a map of this city, but hear my directions anyway.${prompt}
-  12513: First, walk west from the Parade Grounds upon which we now stand.${prompt}
-  12514: Pass through the gate, and follow the road past the furniture shop and the inn.${prompt}
-  12515: Take the gate on your left, and make another left down the stairs. Soon Ranperre Gate will rise before you.${prompt}
-  12516: Shopping? Well, at the auction houses and bazaar are goods from other adventurers. But let me tell you of the shops I frequent.${prompt}
-  12517: For weaponry, ask at the weapon shop in the northwest corner of Northern San d'Oria. Upon your map is written a sword. That is the place.${prompt}
-  12518: For armor, walk south into Southern San d'Oria. Check your map for the shop marked with a shirt of mail.${prompt}
-  12519: If you seek magic, go northwest. Near the Carpenters' Guild is the gate that opens to Port San d'Oria. Look for a scroll on your map to find the magic shop.${prompt}
-  12520: For money, townsfolk may give you a reward for helping them. You could also hunt monsters and sell the bounty to merchants in town.${prompt}
-  12521: Spoken like an adventurer! What do you seek to know?${prompt}
+    Rien en particulier.
+    Je veux sortir et combattre.
+    Je veux faire des achats.
+    Je veux en savoir plus sur l'aventure.${prompt}
+  12511: Si vous souhaitez quitter la ville depuis ici, dans le nord de San d'Oria, vous devez passer par la porte de Ranperre à l'ouest.${prompt}
+  12512: Vous devez sûrement avoir une carte de cette ville, mais écoutez quand même mes instructions.${prompt}
+  12513: Tout d'abord, marchez vers l'ouest depuis la place d'armes sur laquelle nous nous trouvons actuellement.${prompt}
+  12514: Passez par la porte, et suivez la route en passant devant le magasin de meubles et l'auberge.${prompt}
+  12515: Prenez la porte sur votre gauche, et tournez à gauche en descendant les escaliers. Bientôt, la porte de Ranperre s'élèvera devant vous.${prompt}
+  12516: Faire des achats ? Eh bien, aux maisons de vente aux enchères et au bazar se trouvent des biens d'autres aventuriers. Mais laissez-moi vous parler des magasins que je fréquente.${prompt}
+  12517: Pour les armes, demandez au magasin d'armes dans le coin nord-ouest de San d'Oria. Sur votre carte est dessinée une épée. C'est là.${prompt}
+  12518: Pour l'armure, marchez vers le sud jusqu'à San d'Oria sud. Consultez votre carte pour trouver le magasin marqué d'une chemise de mailles.${prompt}
+  12519: Si vous cherchez de la magie, allez vers le nord-ouest. Près de la Guilde des Charpentiers se trouve la porte qui mène à Port San d'Oria. Cherchez un parchemin sur votre carte pour trouver le magasin de magie.${prompt}
+  12520: Pour de l'argent, les habitants peuvent vous donner une récompense pour les avoir aidés. Vous pouvez aussi chasser des monstres et vendre le butin aux marchands en ville.${prompt}
+  12521: Parlez comme un aventurier ! Que cherchez-vous à savoir ?${prompt}
   12522: |-
-    What do you seek to know?
+    Que cherchez-vous à savoir ?
     ${selection-lines}
-    Helping people.
-    Hunting monsters.
-    Easy money.
-    Finding work.${prompt}
+    Aider les gens.
+    Chasser des monstres.
+    Facilement de l'argent.
+    Trouver du travail.${prompt}
   12523: Aider les gens, hein ? Maintenant que j'y pense, j'ai vu une dame faire les cent pas devant une maison à Southern San d'Oria.${prompt}
   12524: Peut-être pourriez-vous l'aider. Elle devrait encore être là, sur le chemin de Pikeman.${prompt}
   12525: Traversez l'Arc de la Victoire derrière vous pour entrer dans Southern San d'Oria. Ensuite, ouvrez votre carte et trouvez le chemin.${prompt}
@@ -25957,289 +25956,289 @@ entries:
   12732: Bonjour! Jetez un coup d'œil à ma sélection de Li'Telor!${prompt}
   12733: Des produits spécialisés de Vollbow! Des produits spécialisés de Vollbow!${prompt}
   12734: |-
-    <Sigh>
-    Why must all craftsmen be so uptight?${prompt}
+    <Soupir>
+    Pourquoi tous les artisans doivent-ils être si rigides ?${prompt}
   12735: |-
-    I wish to have a breastplate repaired at the Blacksmiths' Guild, but the people who work there are so difficult to approach...
-    Would you mind coming with me?${prompt}
+    Je souhaite faire réparer une cuirasse à la Guilde des Forgerons, mais les personnes qui y travaillent sont si difficiles à aborder...
+    Pourriez-vous m'accompagner ?${prompt}
   12736: |-
-    Go along?
+    Accompagner ?
     ${selection-lines}
-    Sure, I'll go with you.
-    I don't have time to hold your hand.${prompt}
+    Bien sûr, je vais avec vous.
+    Je n'ai pas le temps de vous tenir la main.${prompt}
   12737: |-
-    You'll come?
-    Thank you. I get so nervous sometimes!${prompt}
-  12738: Excuse me... I would like to have this repaired. It's a keepsake from my father, but it's become a little weathered.${prompt}
+    Vous allez venir ?
+    Merci. Je deviens parfois si nerveux !${prompt}
+  12738: Excusez-moi... Je voudrais faire réparer ceci. C'est un souvenir de mon père, mais il est devenu un peu usé.${prompt}
   12739: |-
-    Let's take a look...
-    Ah, this is far too old to repair. You'd be better off buying a new one. We have a range of goods here, so why don't you go pick something out.${prompt}
-  12740: I don't really want anything new, I just...${prompt}
-  12741: Then you have no more business here. I'm sorry, miss, but I have better things to do than work on a relic like that.${prompt}
-  12742: Oh, I see... Well, thank you for your time.${prompt}
+    Laissez-moi voir...
+    Ah, c'est bien trop vieux pour être réparé. Vous feriez mieux d'en acheter un nouveau. Nous avons une gamme de produits ici, pourquoi ne pas choisir quelque chose ?${prompt}
+  12740: Je ne veux pas vraiment quelque chose de nouveau, je veux juste...${prompt}
+  12741: Alors vous n'avez plus d'affaire ici. Désolé, mademoiselle, mais j'ai mieux à faire que de travailler sur une relique comme ça.${prompt}
+  12742: Oh, je vois... Eh bien, merci pour votre temps.${prompt}
   12743: |-
-    That didn't go well at all.
-    I appreciate you coming with me, though...${prompt}
+    Cela ne s'est pas bien passé du tout.
+    Je vous remercie tout de même d'être venu avec moi...${prompt}
   12744: |-
-    Just a moment there, young lady.
-    That's an interesting piece of armor you're carrying.
-    Might I have a closer look?${prompt}
-  12745: I, uh... Can I ask who you are, sir?${prompt}
-  12746: Me? I am Ranchuriome, an unaffiliated blacksmith. I'm a craftsman that makes a scanty living taking on the jobs that the guild won't touch. Now, can I see that breastplate?${prompt}
-  12747: I thought to have it repaired at the Blacksmiths' Guild, but they quite bluntly refused the job...${prompt}
-  12748: And this is what you want to have fixed? Hmm... It's showing the passage of years, but I can see that it's been well cared for. This is well worth repairing. However...${prompt}
-  12749: “However”? Will it be expensive?${prompt}
-  12750: 'Not at all. This kind of thing I''d do for free. It''s just that for items of this age, you need special tools. If I had ${keyitem-article: 7[2]} from the Eastern Altepa Desert...${prompt}'
-  12751: 'I...I hesitate to impose upon you again, but would it be at all possible for you to find me ${keyitem-article: 7[2]}? Naturally, I will pay you for your troubles...${prompt}'
+    Un instant, jeune demoiselle.
+    C'est une pièce d'armure intéressante que vous avez là.
+    Puis-je y jeter un œil de plus près ?${prompt}
+  12745: Je, euh... Puis-je vous demander qui vous êtes, monsieur ?${prompt}
+  12746: Moi ? Je suis Ranchuriome, un forgeron indépendant. Je suis un artisan qui gagne sa vie en prenant les travaux que la guilde refuse. Maintenant, puis-je voir cette cuirasse ?${prompt}
+  12747: J'avais pensé la faire réparer à la Guilde des Forgerons, mais ils ont refusé assez brusquement...${prompt}
+  12748: Et c'est ce que vous voulez faire réparer ? Hmm... Elle montre les traces du temps, mais je vois qu'elle a été bien entretenue. Cela vaut la peine de la réparer. Cependant...${prompt}
+  12749: '"Cependant" ? Sera-ce cher ?${prompt}'
+  12750: 'Pas du tout. Ce genre de chose, je le ferais gratuitement. C’est juste que pour des objets de cet âge, il faut des outils spéciaux. Si j’avais ${keyitem-article: 7[2]} du désert d’Altepa oriental...${prompt}'
+  12751: 'Je... j’hésite à vous imposer encore, mais serait-il possible pour vous de me trouver ${keyitem-article: 7[2]} ? Naturellement, je vous paierai pour votre peine...${prompt}'
   12752: |-
-    Accept the task?
+    Accepter la tâche ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
+    Oui.
+    Non.${prompt}
   12753: |-
-    Oh, that's a shame...
-    Maybe there is someone else I can ask.${prompt}
+    Oh, c'est dommage...
+    Peut-être qu'il y a quelqu'un d'autre que je peux demander.${prompt}
   12754: |-
-    Once you have ${keyitem-article: 7[2]}, I'll do the necessary repairs.
-    Good day to you.${prompt}
-  12755: "You'll help me? \nThank you. It would mean so much to me.${prompt}"
-  12756: 'That''s all settled then. I''ll be here once you have the ${keyitem-singular: 7[2]} ready for me.${prompt}'
+    Une fois que vous aurez ${keyitem-article: 7[2]}, je ferai les réparations nécessaires.
+    Bonne journée à vous.${prompt}
+  12755: "Vous allez m'aider ? \nMerci. Cela signifierait tellement pour moi.${prompt}"
+  12756: 'Tout est réglé alors. Je serai ici une fois que vous aurez ${keyitem-singular: 7[2]} prêt pour moi.${prompt}'
   12757: |-
-    The ${keyitem-singular: 7[2]} can be found in the Eastern Altepa Desert.
-    Please take care on your travels!${prompt}
-  12758: "So this is the ${keyitem-singular: 7[2]} that Ranchuriome was talking about. I am most grateful for your help. \nPlease accept this as payment.${prompt}"
-  12759: Here, Ranchuriome. ${name-player} is the reason we have this!${prompt}
-  12760: "Excellent! You managed to find one. Now I can start on those repairs. \nI'll have it ready for you by dinnertime.${prompt}"
-  12761: I've really been feeling my years lately... No matter. I'm sure I'll perk up once I start working. I'll be back as soon as I'm done.${prompt}
-  12762: I'm most grateful to you!${prompt}
-  12763: You don't see many people with that kind of integrity around anymore. If my father was still alive, they would have struck up a solid friendship, I'm sure.${prompt}
-  12764: Thanks to your help, my father's breastplate is looking like new, but... That nice old man, Ranchuriome, has passed away.${prompt}
-  12765: I can't help but think it's my fault in some way...that the repairs he did for me were too strenuous. When I attended the funeral to pay my respects, though, his features seemed to be at peace.${prompt}
-  12766: I attended Ranchuriome's funeral to pay my respects and express my thanks for his kindness.${prompt}
-  12767: During the ceremony, I was distracted by an unusual lady among the mourners.${prompt}
-  12768: Something about this woman seemed out of place. I tried to follow her after the funeral ended, but...${prompt}
-  12769: I lost sight of her not long after.${prompt}
-  12770: I searched around, trying to find her again. Instead, I came across Ranchuriome's son lying unconscious on the ground.${prompt}
+    Le ${keyitem-singular: 7[2]} se trouve dans le désert d'Altepa oriental.
+    Faites attention lors de vos voyages !${prompt}
+  12758: "Alors c'est le ${keyitem-singular: 7[2]} dont parlait Ranchuriome. Je vous suis très reconnaissant pour votre aide. \nVeuillez accepter ceci en paiement.${prompt}"
+  12759: Voici, Ranchuriome. ${name-player} est la raison pour laquelle nous avons ceci !${prompt}
+  12760: "Excellent ! Vous avez réussi à en trouver un. Maintenant, je peux commencer les réparations. \nJe l'aurai prêt pour vous à l'heure du dîner.${prompt}"
+  12761: Je me sens vraiment vieux ces derniers temps... Peu importe. Je suis sûr que je vais me sentir mieux une fois que je commencerai à travailler. Je reviendrai dès que j'aurai terminé.${prompt}
+  12762: Je vous suis très reconnaissant !${prompt}
+  12763: On ne voit plus beaucoup de gens avec ce genre d'intégrité de nos jours. Si mon père était encore vivant, ils auraient noué une solide amitié, j'en suis sûr.${prompt}
+  12764: Grâce à votre aide, la cuirasse de mon père ressemble à du neuf, mais... Ce gentil vieil homme, Ranchuriome, est décédé.${prompt}
+  12765: Je ne peux m'empêcher de penser que c'est de ma faute d'une certaine manière... que les réparations qu'il a faites pour moi étaient trop éprouvantes. Lorsque j'ai assisté aux funérailles pour rendre hommage, cependant, ses traits semblaient être en paix.${prompt}
+  12766: J'ai assisté aux funérailles de Ranchuriome pour rendre hommage et exprimer mes remerciements pour sa gentillesse.${prompt}
+  12767: Pendant la cérémonie, j'ai été distrait par une dame inhabituelle parmi les personnes en deuil.${prompt}
+  12768: Quelque chose chez cette femme semblait déplacé. J'ai essayé de la suivre après la fin des funérailles, mais...${prompt}
+  12769: Je l'ai perdue de vue peu de temps après.${prompt}
+  12770: J'ai cherché autour, essayant de la retrouver. Au lieu de cela, je suis tombé sur le fils de Ranchuriome gisant inconscient par terre.${prompt}
   12771: |-
-    I tended to his wound, and thankfully, he soon regained consciousness.
-    I found this lying nearby.${prompt}
-  12772: 'This ${keyitem-singular: 7[2]} might be a clue as to what happened.${prompt}'
-  12773: It's probably just my overactive imagination, but perhaps it will help in some way. Here. You should hold on to it, just in case.${prompt}
+    J'ai soigné sa blessure, et heureusement, il a rapidement repris conscience.
+    J'ai trouvé ceci à proximité.${prompt}
+  12772: 'Ce ${keyitem-singular: 7[2]} pourrait être un indice sur ce qui s’est passé.${prompt}'
+  12773: C'est probablement juste mon imagination débordante, mais peut-être que cela aidera d'une manière ou d'une autre. Tenez. Vous devriez le garder, juste au cas où.${prompt}
   12774: |-
-    A suspicious woman and ${keyitem-article: 7[2]}...
-    Probably just my overactive imagination.${prompt}
-  12775: 'Oh, that ${keyitem-singular: 7[2]} came in handy after all? That''s wonderful! I''m glad I could help someone out in the same way that you and Ranchuriome helped me.${prompt}'
-  12776: I don't think I'm suited for a career as a detective, though... I think I'll concentrate on helping people in a way that's more within my capabilities.${prompt}
-  12777: My name is Charlaimagnat. I am engaged in the translation of ancient texts found in ruins across Vana'diel.${prompt}
-  12778: 'Ah, you must be the adventurer, ${name-player}. I have recently received correspondence from Alfesar. I believe you have a letter and ${keyitem-article: 1[2]} for me.${prompt}'
-  12779: As Alfesar reported in his letter, ancient magic is engraved upon this tablet.${prompt}
-  12780: However, I will need more time to decipher all the text. I still cannot tell what magic this spell is for.${prompt}
-  12781: Please return another day and I shall share with you what I have found. May Altana's providence guide you on your journey.${prompt}
-  12782: Ah, ${name-player}. I have finished deciphering the spell. I give you my thanks for your assistance.${prompt}
-  12783: Now that the text is translated, we can produce copies. I would like to offer you one in expression of our gratitude.${prompt}
-  12784: Owzie-wowzie! Don't make me talk. I hurt all over!${prompt}
-  12785: Try though you may, there will come a time when failure is inevitable.${prompt}
-  12786: Channel that agony and bitterness into creating a new plan.${prompt}
-  12787: Owzie-wowzie! Don't make me talk. I hurt all over!${prompt}
-  12788: Hey! You're that famous adventurer, ${name-player}!${prompt}
-  12789: Yippee! It must be destiny that brought us together!${prompt}
-  12790: Let me introduce myself. I am from the Rhinostery in Windurst. I do research on various living things.${prompt}
-  12791: And I'm the besty-westy they've got! I've been looking into phenomena at a certain place.${prompt}
+    Une femme suspecte et ${keyitem-article: 7[2]}...
+    Probablement juste mon imagination débordante.${prompt}
+  12775: 'Oh, ce ${keyitem-singular: 7[2]} a été utile après tout ? C’est merveilleux ! Je suis content d’avoir pu aider quelqu’un de la même manière que vous et Ranchuriome m’avez aidé.${prompt}'
+  12776: Je ne pense pas que je sois fait pour une carrière de détective, cependant... Je pense que je vais me concentrer sur l'aide aux gens d'une manière qui est plus dans mes capacités.${prompt}
+  12777: Mon nom est Charlaimagnat. Je me consacre à la traduction de textes anciens trouvés dans les ruines à travers Vana'diel.${prompt}
+  12778: 'Ah, vous devez être l’aventurier, ${name-player}. J’ai récemment reçu une correspondance d’Alfesar. Je crois que vous avez une lettre et ${keyitem-article: 1[2]} pour moi.${prompt}'
+  12779: Comme Alfesar l’a rapporté dans sa lettre, une magie ancienne est gravée sur cette tablette.${prompt}
+  12780: Cependant, j’aurai besoin de plus de temps pour déchiffrer tout le texte. Je ne peux toujours pas dire à quoi sert ce sortilège.${prompt}
+  12781: Revenez un autre jour, et je vous ferai part de ce que j'ai trouvé. Que la providence d’Altana vous guide dans votre voyage.${prompt}
+  12782: Ah, ${name-player}. J'ai fini de déchiffrer le sort. Je vous remercie de votre aide.${prompt}
+  12783: Maintenant que le texte est traduit, nous pouvons produire des copies. Je voudrais vous en offrir une en guise de notre gratitude.${prompt}
+  12784: Owzie-wowzie ! Ne me fais pas parler. J'ai mal partout !${prompt}
+  12785: Essayez autant que vous le pouvez, il viendra un moment où l'échec sera inévitable.${prompt}
+  12786: Canalisez cette agonie et cette amertume pour créer un nouveau plan.${prompt}
+  12787: Owzie-wowzie ! Ne me fais pas parler. J'ai mal partout !${prompt}
+  12788: Hé ! Vous êtes ce célèbre aventurier, ${name-player} !${prompt}
+  12789: Youpi ! Ce doit être le destin qui nous a réunis !${prompt}
+  12790: Permettez-moi de me présenter. Je viens du Rhinostery à Windurst. Je fais des recherches sur diverses formes de vie.${prompt}
+  12791: Et je suis le meilleur de chez eux ! J'ai étudié des phénomènes à un certain endroit.${prompt}
   12792: |-
-    I can't talk about it too loudly, but have you ever seen one of those huge crystals?
-    They're found all over the world, far into the wilderness, and deep down in dungeons...${prompt}
+    Je ne peux pas en parler trop fort, mais avez-vous déjà vu l'un de ces énormes cristaux ?
+    On les trouve partout dans le monde, loin dans la nature et profondément dans les donjons...${prompt}
   12793: |-
-    From those crystals, a strangey-wangey power is constantly pouring forth.
-    Our research team had been investigating the unusual emanations when...${prompt}
-  12794: Well, take a look at this!${prompt}
-  12795: As a result of our research, we finally succeeded in awakening the crystals!${prompt}
+    De ces cristaux, un pouvoir étrange s'écoule constamment.
+    Notre équipe de recherche étudiait les émanations inhabituelles lorsque...${prompt}
+  12794: Eh bien, regardez ça !${prompt}
+  12795: À la suite de nos recherches, nous avons finalement réussi à réveiller les cristaux !${prompt}
   12796: |-
-    Our theory on what lay dormant inside the crystals was proven to be rightaru on the money!
-    However, they didn't appreciate being woken up, and attacked us.${prompt}
+    Notre théorie sur ce qui dormait à l'intérieur des cristaux s'est avérée exacte !
+    Cependant, ils n'ont pas apprécié d'être réveillés et nous ont attaqués.${prompt}
   12797: |-
-    Why do they so despise talking with us that they would rather fight?
-    And what on Vana'diel would happen if someone were to defeat them?${prompt}
+    Pourquoi détestent-ils tant parler avec nous qu'ils préfèrent se battre ?
+    Et que se passerait-il sur Vana'diel si quelqu'un venait à les vaincre ?${prompt}
   12798: |-
-    I'm sure that you could do it!
-    Will you help us out with our research? ${prompt}
+    Je suis sûr que vous pourriez le faire !
+    Voulez-vous nous aider dans nos recherches ? ${prompt}
   12799: |-
-    Take up the challenge?
+    Relever le défi ?
     ${selection-lines}
-    Bring it on!
-    Ah, no, thanks...${prompt}
+    C'est parti !
+    Ah, non, merci...${prompt}
   12800: |-
-    Wonderful!
-    Here, take this ${keyitem-singular: 1[2]}. But be warned--only a person who carries one can enter the crystal.${prompt}
-  12801: 'This ${keyitem-singular: 1[2]} will awaken the giant crystal that is found ${choice: 2}[in Ifrit''s Cauldron/in the Quicksand Caves/in the Den of Rancor/in Cape Teriggan/in Fei''Yin/in The Boyahda Tree].${prompt}'
+    Magnifique !
+    Voici ${keyitem-singular: 1[2]}. Mais soyez prévenu -- seule une personne qui porte cet objet peut entrer dans le cristal.${prompt}
+  12801: 'Ce ${keyitem-singular: 1[2]} éveillera le cristal géant qui se trouve ${choice: 2}[dans le Chaudron d’Ifrit/dans les Cavernes de Sables mouvants/dans la Tanière de Rancor/au Cap Teriggan/à Fei’Yin/dans l’Arbre Boyahda].${prompt}'
   12802: |-
-    Without it, you won't be getting inside no matter how sneaky-weaky you are!
-    Oh, and if you want to take some friends with you, they also have to get ${keyitem-article: 1[2]} from me. Okey-dokey?${prompt}
-  12803: If you don't prepare yourself for battle, you'll get beaten to a pulp, like we did! ${prompt}
-  12804: "As soon as we gather our companions, we'll be jumping into the fray again. \nI just hope this little researcher doesn't get in our way...${prompt}"
+    Sans lui, vous ne pourrez pas entrer, peu importe votre furtivité !
+    Oh, et si vous voulez emmener des amis avec vous, ils doivent aussi obtenir ${keyitem-article: 1[2]} de ma part. D'accord ?${prompt}
+  12803: Si vous ne vous préparez pas pour le combat, vous vous ferez réduire en bouillie, comme nous ! ${prompt}
+  12804: "Dès que nous aurons rassemblé nos compagnons, nous sauterons de nouveau dans la mêlée. \nJ'espère juste que ce petit chercheur ne se mettra pas en travers de notre chemin...${prompt}"
   12805: |-
-    Excuse me!
-    If I don't go with you, there's no pointaru to the research now is there?${prompt}
+    Excusez-moi !
+    Si je ne vous accompagne pas, il n'y a aucun intérêt à la recherche, n'est-ce pas ?${prompt}
   12806: |-
-    Is it true?${wait-36: 1}
-    You really defeated a prime avatar!?${prompt}
+    Est-ce vrai ?${wait-36: 1}
+    Vous avez vraiment vaincu un avatar primitif ?${prompt}
   12807: |-
-    ...I see.
-    The prime avatar said that to you?
-    I wonder what it could mean.${prompt}
+    ...Je vois.
+    L'avatar primitif vous a dit cela ?
+    Je me demande ce que cela pourrait signifier.${prompt}
   12808: |-
-    ...There is no need to understand...
-    ...You will forget what I have said...${prompt}
-  12809: Y-you, you're...!?
-  12810: '...You have power...${prompt}'
+    ...Il n'est pas nécessaire de comprendre...
+    ...Vous oublierez ce que j'ai dit...${prompt}
+  12809: V-vous, vous êtes...!?
+  12810: '...Vous avez du pouvoir...${prompt}'
   12811: |-
-    ...Will you allow...that power...
-    ...to slumber...for eternity...?${prompt}
+    ...Permettrez-vous...à ce pouvoir...
+    ...de sommeiller...pour l'éternité...?${prompt}
   12812: |-
-    Surrender...that power...to me...
-    and I...will craft...that power...
-    into whatever...you desire...${prompt}
-  12813: '...We meet...again...${prompt}'
-  12814: '...I must...fulfill...my charge...${prompt}'
-  12815: '...The beast...shall claim...its due...${prompt}'
+    Abandonnez...ce pouvoir...à moi...
+    et je...façonnerai...ce pouvoir...
+    en tout ce que...vous désirez...${prompt}
+  12813: '...Nous nous retrouvons...${prompt}'
+  12814: '...Je dois...remplir...ma mission...${prompt}'
+  12815: '...La bête...réclamera...son dû...${prompt}'
   12816: |-
-    Choose...
-    What...do you desire...? What...do you seek?${prompt}
+    Choisissez...
+    Que...désirez-vous...? Que...cherchez-vous ?${prompt}
   12817: |-
-    What do you desire?
+    Que désirez-vous ?
     ${selection-lines}
     ${lettercase: 1}${article} ${item-article: 5[2]}.
     ${lettercase: 1}${article} ${item-article: 6[2]}.
     ${lettercase: 1}${article} ${item-article: 1[2]}.
     ${lettercase: 1}${article} ${item-article: 2[2]}.
-    Gil.
-    Nothing (a pact with the avatar).${prompt}
-  12818: '...This is what you desire...?${prompt}'
+    Des gils.
+    Rien (un pacte avec l'avatar).${prompt}
+  12818: '...C’est ce que vous désirez...?${prompt}'
   12819: |-
-    You want ${article} ${item-article: 5[2]}?
+    Vous voulez ${article} ${item-article: 5[2]} ?
     ${selection-lines}
-    Yes.
-    Wait!${prompt}
+    Oui.
+    Attendez !${prompt}
   12820: |-
-    You want ${article} ${item-article: 6[2]}?
+    Vous voulez ${article} ${item-article: 6[2]} ?
     ${selection-lines}
-    Yes.
-    Wait!${prompt}
+    Oui.
+    Attendez !${prompt}
   12821: |-
-    You want ${article} ${item-article: 1[2]}?
+    Vous voulez ${article} ${item-article: 1[2]} ?
     ${selection-lines}
-    Yes.
-    Wait!${prompt}
+    Oui.
+    Attendez !${prompt}
   12822: |-
-    You want ${article} ${item-article: 2[2]}?
+    Vous voulez ${article} ${item-article: 2[2]} ?
     ${selection-lines}
-    Yes.
-    Wait!${prompt}
+    Oui.
+    Attendez !${prompt}
   12823: |-
-    Gil is what you truly want?
+    Les gils sont ce que vous désirez vraiment ?
     ${selection-lines}
-    Yes.
-    Wait!${prompt}
+    Oui.
+    Attendez !${prompt}
   12824: |-
-    Are you sure?
+    Êtes-vous sûr ?
     ${selection-lines}
-    Yes.
-    Wait!${prompt}
-  12825: Listen...to the voice without--my voice--with your ears...and your heart...${prompt}
+    Oui.
+    Attendez !${prompt}
+  12825: Écoutez... la voix extérieure -- ma voix -- avec vos oreilles... et votre cœur...${prompt}
   12826: |-
-    Bring me...${wait-36: 3}
-      Power...${wait-36: 3}
-        Higher...${wait-36: 2}
-          Deeper...${wait-36: 2}
+    Apportez-moi...${wait-36: 3}
+      Le pouvoir...${wait-36: 3}
+        Plus haut...${wait-36: 2}
+          Plus profond...${wait-36: 2}
             ......${wait-36: 2}
-              Stronger...${wait-animation: 2}${prompt}
+              Plus fort...${wait-animation: 2}${prompt}
   12827: |-
     ...?
-    ...something...interfering...?${prompt}
+    ...quelque chose...interfère...?${prompt}
   12828: |-
     ${name-player}...!
-    Listen to the voice within you!${prompt}
-  12829: If you focus, you will see the true Vana'diel!${prompt}
-  12830: '...Even if...that...'
+    Écoutez la voix en vous !${prompt}
+  12829: Si vous vous concentrez, vous verrez la véritable Vana'diel !${prompt}
+  12830: '...Même si...cela...${prompt}'
   12831: |-
-    Uh?
-    Huh? I went all spacey-wacey for a moment there...${prompt}
+    Hein ?
+    Quoi ? J'ai eu un moment d'absence...${prompt}
   12832: |-
-    Um, excuse me, but who were you again?
-    Was I speaking with you? What were we talking about?${prompt}
-  12833: Did I already tell you I'm a researcher from the Rhinostery in Windurst?${prompt}
-  12834: 'You are now able to summon ${choice: 2}[Ifrit/Titan/Leviathan/Garuda/Shiva/Ramuh].${prompt}'
-  12835: Owzie-wowzie! Don't make me talk. I hurt all over!${prompt}
-  12836: Hey, Juroro!
-  12837: Oh, it's Ildy-Goldy!${prompt}
-  12838: It's been some time since you made that tuning fork. Are you still researching those giant-viant crystals?${prompt}
-  12839: Ah, yes, I've asked a veteran adventurer to look into that for me, but ${choice-player-gender}[he/she] hasn't come back yet.${prompt}
+    Excusez-moi, mais qui êtes-vous déjà ?
+    Était-ce avec vous que je parlais ? De quoi parlions-nous ?${prompt}
+  12833: Ai-je déjà mentionné que je suis chercheur à la Rhinostery de Windurst ?${prompt}
+  12834: 'Vous pouvez maintenant invoquer ${choice: 2}[Ifrit/Titan/Leviathan/Garuda/Shiva/Ramuh].${prompt}'
+  12835: Aïe ! Ne me forcez pas à parler. J'ai mal partout !${prompt}
+  12836: Hé, Juroro !
+  12837: Oh, c'est Ildy-Goldy !${prompt}
+  12838: Ça fait un moment que vous avez fabriqué cette diapason. Vous continuez à étudier ces cristaux géants ?${prompt}
+  12839: Ah, oui, j'ai demandé à un aventurier vétéran de s'en occuper pour moi, mais ${choice-player-gender}[il/elle] n'est pas encore revenu.${prompt}
   12840: |-
-    ...Wait.
-    Did ${choice-player-gender}[he/she] come back already?
-    ...Or did I even ask ${choice-player-gender}[him/her] to do that yet?${prompt}
+    ... Attendez.
+    Est-ce que ${choice-player-gender}[il/elle] est déjà revenu ?
+    ... Ou est-ce que je lui ai déjà demandé de le faire ?${prompt}
   12841: |-
-    Vhat's wrong vith you? Pull yourself together, man.
-    I don't think the food in this country agrees with you. Or maybe you haven't been getting enough snoozy-vooze time lately?${prompt}
+    Qu'est-ce qui ne va pas avec vous ? Reprenez-vous, bon sang.
+    Je ne pense pas que la nourriture de ce pays vous convienne. Ou peut-être que vous ne dormez pas assez ces derniers temps ?${prompt}
   12842: |-
-    No, it's nothing like that...
-    I guess I have been kinda tired lately, though...${prompt}
+    Non, ce n'est pas ça...
+    Mais je suppose que je suis un peu fatigué ces derniers temps...${prompt}
   12843: |-
-    Vell, no mattaru.
-    I'll go take a look. I've been asked to carry out an experiment with the new version of the ${keyitem-singular: 1[2]}, the ${color: 5}improved tuning fork of earth${color: 1}.${prompt}
-  12844: 'Hey ${choice-player-gender}[Mister/Miss] Adventurer, you look like the reliable-viable type. Maybe you can help me out here. Take this ${item-singular: 3[2]} to the Quicksand Caves in the Eastern Altepa Desert.${prompt}'
-  12845: 'Using my improved tuning fork of earth along with the ${item-singular: 3[2]}, should allow more people to be drawn into the crystal than using the regular ${keyitem-singular: 1[2]}.${prompt}'
-  12846: Ildy-Goldy is extremely-wemely proficient in hand-to-hand combat, something very unusual among we Tarutaru. He's always high on the list when researchers are looking for a Rhinostery adventurer to accompany them to the wild lands.${prompt}
-  12847: With his skill, he's likely to defeat the avatar that slumbers within the protocrystal.${prompt}
-  12848: 'Please make your way to the Quicksand Caves of the Eastern Altepa Desert and bring the ${item-singular: 5[2]} into contact with the crystal.${prompt}'
+    Bon, peu importe.
+    Je vais aller jeter un coup d'œil. On m'a demandé de mener une expérience avec la nouvelle version de la ${keyitem-singular: 1[2]}, la ${color: 5}diapason améliorée de la terre${color: 1}.${prompt}
+  12844: 'Hé ${choice-player-gender}[Monsieur/Mademoiselle] l’aventurier, vous avez l’air du type fiable. Peut-être que vous pouvez m’aider ici. Prenez cette ${item-singular: 3[2]} dans les Grottes de sable mouvant dans le désert Altepa oriental.${prompt}'
+  12845: 'En utilisant ma diapason améliorée de la terre avec la ${item-singular: 3[2]}, cela devrait permettre à plus de personnes d’être attirées vers le cristal que d’utiliser la ${keyitem-singular: 1[2]} régulière.${prompt}'
+  12846: Ildy-Goldy est extrêmement habile au combat à mains nues, ce qui est très inhabituel chez nous, les Tarutaru. Il est toujours en haut de la liste lorsque les chercheurs cherchent un aventurier de la Rhinostery pour les accompagner dans les terres sauvages.${prompt}
+  12847: Avec son habileté, il est probable qu'il vaincra l'avatar qui sommeille dans le protocristal.${prompt}
+  12848: 'S’il vous plaît, rendez-vous aux Grottes de sable mouvant du désert Altepa oriental et mettez la ${item-singular: 5[2]} en contact avec le cristal.${prompt}'
   12849: |-
-    ...By the way...
-    You probably want to assist Ildy-Goldy with his experiment, but have you ever thought of doing your own investigation into the protocrystals?${prompt}
+    ... Au fait...
+    Vous voulez probablement aider Ildy-Goldy avec son expérience, mais avez-vous déjà envisagé de mener votre propre enquête sur les protocristaux ?${prompt}
   12850: |-
-    Do you want to do your own investigation?
+    Voulez-vous mener votre propre enquête ?
     ${selection-lines}
-    Yes, I thirst for knowledge!
-    Um, not really...${prompt}
+    Oui, j'ai soif de connaissance !
+    Um, pas vraiment...${prompt}
   12851: |-
-    Well, then.
-    First, let me introduce myself.${prompt}
-  12852: I am a researcher from the Rhinostery in Windurst. Rhinostery researchers study all kinds of plants and animals in every corner of Vana'diel.${prompt}
-  12853: 'You lost the ${item-singular: 1[2]}!?${prompt}'
+    Bien, alors.
+    Tout d'abord, laissez-moi me présenter.${prompt}
+  12852: Je suis chercheur à la Rhinostery de Windurst. Les chercheurs de la Rhinostery étudient toutes sortes de plantes et d'animaux dans tous les coins de Vana'diel.${prompt}
+  12853: 'Vous avez perdu la ${item-singular: 1[2]} !?${prompt}'
   12854: |-
-    What a spacey-wacey individual...
-    Well, I guess I'll give you a new one.${prompt}
+    Quel individu distrait...
+    Eh bien, je suppose que je vais vous en donner un nouveau.${prompt}
   12855: |-
-    Welcome back.
-    Ildy-Goldy returned a little while before. He's been waiting for you.${prompt}
+    De retour parmi nous.
+    Ildy-Goldy est revenu il y a peu de temps. Il vous attend.${prompt}
   12856: |-
-    Oh good, you made it back in one piece.
-    I'm sorry about before, I was completely-vetely caught up with chasing down Uran-Mafran.${prompt}
-  12857: I didn't end up collaring him, though. Those mages can be a slippery-vippery bunch...${prompt}
-  12858: '...But at least ve know the reason vhy the researchers have been acting so odd-voddly lately.${prompt}'
+    Oh, super, vous êtes revenu en un seul morceau.
+    Désolé pour tout à l'heure, j'étais complètement pris par la poursuite d'Uran-Mafran.${prompt}
+  12857: Finalement, je ne l'ai pas attrapé. Ces mages peuvent être assez insaisissables...${prompt}
+  12858: '... Mais au moins, nous savons pourquoi les chercheurs se comportent de manière étrange ces derniers temps.${prompt}'
   12859: |-
-    It vas all his doing.
-    Uran-Mafran... He's been erasing everybody's memories.${prompt}
-  12860: Vhen you get back to Vindurst, could you report this to the principal?${prompt}
-  12861: I don't know if Principal Koru-Moru vill remember Uran-Mafran, but it's vorth a shot.${prompt}
+    C'était lui qui était derrière tout ça.
+    Uran-Mafran... Il effaçait la mémoire de tout le monde.${prompt}
+  12860: Quand vous serez de retour à Windurst, pourriez-vous en informer le directeur ?${prompt}
+  12861: Je ne sais pas si le directeur Koru-Moru se souviendra d'Uran-Mafran, mais ça vaut le coup d'essayer.${prompt}
   12862: Urrrrgh...${prompt}
   12863: |-
-    Ah, excuse me!
-    I need your help!${prompt}
-  12864: 'I just had a run-in with the beastmaster regarded as Professor Shantotto''s prize student. That rogue wrested the ${color: 5}improved tuning fork of ice${color: 1} from me and took off!${prompt}'
-  12865: I have absolutaruly no obligation to hand over that incredibly difficult-to-make tuning fork to someone so uncooperative towards the Rhinostery's experiment!${prompt}
+    Ah, excusez-moi !
+    J'ai besoin de votre aide !${prompt}
+  12864: 'Je viens d’avoir une altercation avec le maître des bêtes, qui est considéré comme l’élève vedette du professeur Shantotto. Ce brigand m’a arraché la ${color: 5}diapason améliorée de la glace${color: 1} et s’est enfui !${prompt}'
+  12865: Je n'ai absolument aucune obligation de remettre cette diapason incroyablement difficile à fabriquer à quelqu'un d'aussi peu coopératif envers l'expérience de la Rhinostery !${prompt}
   12866: |-
-    I beg of you!
-    Please go to Fei'Yin and get back the ${color: 5}improved tuning fork of ice${color: 1}! Take this ${item-singular: 1[2]} for your troubles.${prompt}
-  12867: 'I just had a run-in with the beastmaster regarded as Professor Shantotto''s prize student. That rogue wrested the ${color: 5}improved tuning fork of ice${color: 1} from me and took off!${prompt}'
-  12868: 'Please chase after that knave and take back the ${color: 5}improved tuning fork of ice${color: 1}!${prompt}'
-  12869: '...What''s that you say? You''ll help me get back the improved tuning fork but you also want to investigate the protocrystal in Fei''Yin?${prompt}'
+    Je vous en prie !
+    Allez à Fei'Yin et récupérez la ${color: 5}diapason améliorée de la glace${color: 1} ! Prenez cette ${item-singular: 1[2]} pour vos ennuis.${prompt}
+  12867: 'Je viens d’avoir une altercation avec le maître des bêtes, qui est considéré comme l’élève vedette du professeur Shantotto. Ce brigand m’a arraché la ${color: 5}diapason améliorée de la glace${color: 1} et s’est enfui !${prompt}'
+  12868: 'S’il vous plaît, pourchassez ce coquin et récupérez la ${color: 5}diapason améliorée de la glace${color: 1} !${prompt}'
+  12869: '... Que dites-vous ? Vous m’aiderez à récupérer la diapason améliorée mais vous voulez aussi enquêter sur le protocristal à Fei’Yin ?${prompt}'
   12870: |-
-    Investigate the crystal in Fei'Yin?
+    Enquêter sur le cristal à Fei'Yin ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  12871: '...Well then, allow me to introduce myself...${prompt}'
-  12872: I am a researcher from the Rhinostery in Windurst. Rhinostery researchers study all kinds of plants and animals in every corner of Vana'diel.${prompt}
-  12873: The improved tuning fork was used by that rougue...?${prompt}
+    Oui.
+    Non.${prompt}
+  12871: '... Bien alors, laissez-moi me présenter...${prompt}'
+  12872: Je suis un chercheur de la Rhinostery à Windurst. Les chercheurs de la Rhinostery étudient toutes sortes de plantes et d'animaux dans tous les coins de Vana'diel.${prompt}
+  12873: La diapason améliorée a été utilisée par ce vaurien... ?${prompt}
   12874: |-
     But it didn't work properly?
     Ahahaha, that's justice for you!${prompt}
