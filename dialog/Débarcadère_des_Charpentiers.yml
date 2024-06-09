@@ -18074,101 +18074,101 @@ entries:
   7429: '...Done...${prompt}'
   7430: '...${prompt}'
   7431: |-
-    Hello, ${choice-player-gender}[sir/ma'am]!
-    I'm selling goods direct from the Carpenters' Guild.${prompt}
-  7432: Welcome to Carpenters' Landing.${prompt}
+    Bonjour, ${choice-player-gender}[monsieur/madame] !
+    Je vends des marchandises directement du Guilde des Charpentiers.${prompt}
+  7432: Bienvenue à l'Embarcadère des Charpentiers.${prompt}
   7433: |-
-    Barge tickets can be purchased for ${number: 2} gil.
-    Will you be sailing with us today?${prompt}
+    Les billets pour la barge peuvent être achetés pour ${number: 2} gils.
+    Allez-vous naviguer avec nous aujourd'hui ?${prompt}
   7434: |-
-    Buy a ticket?
+    Acheter un billet ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
+    Oui.
+    Non.${prompt}
   7435: |-
-    Thank you, ${choice-player-gender}[sir/madame].
-    Enjoy your trip.${prompt}
+    Merci, ${choice-player-gender}[monsieur/madame].
+    Profitez de votre voyage.${prompt}
   7436: |-
-    Thank you for sailing with us.
-    Enjoy your trip.${prompt}
+    Merci de naviguer avec nous.
+    Profitez de votre voyage.${prompt}
   7437: |-
-    I'm sorry, ${choice-player-gender}[sir/madame].
-    You don't have enough gil to purchase a ticket.${prompt}
-  7438: If you wish to board the barge, please purchase a ticket from the vendor at the foot of the landing.${prompt}
+    Je suis désolé, ${choice-player-gender}[monsieur/madame].
+    Vous n'avez pas assez de gils pour acheter un billet.${prompt}
+  7438: Si vous souhaitez embarquer sur la barge, veuillez acheter un billet auprès du vendeur au pied de l'embarcadère.${prompt}
   7439: |-
-    The barge has arrived.
-    Please purchase a ticket prior to boarding.${prompt}
+    La barge est arrivée.
+    Veuillez acheter un billet avant d'embarquer.${prompt}
   7440: |-
-    The barge is about to depart.
-    Please present your ticket for collection.${prompt}
-  7441: 'You were refused passage for failing to present ${keyitem-article: 0[2]}!'
-  7442: Welcome to Carpenters' Landing.${prompt}
+    La barge est sur le point de partir.
+    Veuillez présenter votre billet pour la collecte.${prompt}
+  7441: 'Vous vous êtes vu refuser le passage pour ne pas avoir présenté ${keyitem-article: 0[2]} !'
+  7442: Bienvenue à l'Embarcadère des Charpentiers.${prompt}
   7443: |-
-    Barge tickets can be purchased for ${number: 2} gil. Multi-tickets, which allow you to ride ten times, are available for a discounted price of ${number: 3} gil.
-    Will you be sailing with us today?${prompt}
+    Les billets pour la barge peuvent être achetés pour ${number: 2} gils. Des billets multiples, qui vous permettent de voyager dix fois, sont disponibles à un prix réduit de ${number: 3} gils.
+    Allez-vous naviguer avec nous aujourd'hui ?${prompt}
   7444: |-
-    Purchase...
+    Acheter...
     ${selection-lines}
-    ${lettercase: 1}${keyitem-article: 0[2]} (${number: 2} gil).
-    ${lettercase: 1}${keyitem-article: 1[2]} (${number: 3} gil).
-    Nothing today.${prompt}
+    ${lettercase: 1}${keyitem-article: 0[2]} (${number: 2} gils).
+    ${lettercase: 1}${keyitem-article: 1[2]} (${number: 3} gils).
+    Rien aujourd'hui.${prompt}
   7445: |-
-    Thank you, ${choice-player-gender}[sir/madam].
-    I hope you enjoy sailing with us.${prompt}
+    Merci, ${choice-player-gender}[monsieur/madame].
+    J'espère que vous apprécierez de naviguer avec nous.${prompt}
   7446: |-
-    You cannot buy more than one ${keyitem-singular: 0[2]}.
-    Use the one you currently have to ride the next ship.${prompt}
-  7447: 'Your ${keyitem-singular: 1[2]} is valid for ${number: 4} more ${choice-plurality: 4}[trip/trips]. You do not need to purchase a new ticket at this time.${prompt}'
-  7448: 'Your ${keyitem-singular: 1[2]} is valid for ${number: 4} more ${choice-plurality: 4}[trip/trips]. If you wish, you can purchase a new one for ${number: 3} gil.${prompt}'
+    Vous ne pouvez pas acheter plus d'un ${keyitem-singulier: 0[2]}.
+    Utilisez celui que vous avez actuellement pour embarquer sur le prochain navire.${prompt}
+  7447: 'Votre ${keyitem-singulier: 1[2]} est valable pour ${number: 4} ${choice-plurality: 4}[trajet/trajets] de plus. Vous n’avez pas besoin d’acheter un nouveau billet pour le moment.${prompt}'
+  7448: 'Votre ${keyitem-singulier: 1[2]} est valable pour ${number: 4} ${choice-plurality: 4}[trajet/trajets] de plus. Si vous le souhaitez, vous pouvez en acheter un nouveau pour ${number: 3} gils.${prompt}'
   7449: |-
-    Purchase a new multi-ticket?
+    Acheter un nouveau billet multiple ?
     ${selection-lines}
-    Yes (${number: 3} gil).
-    No.${prompt}
-  7450: 'You use your ${keyitem-singular: 1[2]}. (${number: 2} trip${choice-plurality: 2}[/s] remaining)'
-  7451: 'You use up your ${keyitem-singular: 1[2]}.'
-  7452: '${number: 1} ticket${choice-plurality: 1}[/s] ${choice-plurality: 1}[was/were] added to your ${keyitem-singular: 0[2]}.${prompt}'
+    Oui (${number: 3} gils).
+    Non.${prompt}
+  7450: 'Vous utilisez votre ${keyitem-singulier: 1[2]}. (${number: 2} trajet${choice-plurality: 2}[/s] restant)'
+  7451: 'Vous utilisez complètement votre ${keyitem-singulier: 1[2]}.'
+  7452: '${number: 1} billet${choice-plurality: 1}[/s] ${choice-plurality: 1}[a été/ont été] ajouté${choice-plurality: 1}[e/s] à votre ${keyitem-singulier: 0[2]}.${prompt}'
   7453: |-
-    What's this?
-    You wish to speak with the Tonberry on the barge?${prompt}
+    Qu'est-ce que c'est ?
+    Vous souhaitez parler au Tonberry sur la barge ?${prompt}
   7454: |-
-    That may not be as easy as you think.
-    These Tonberries were captured twenty years ago on their way to the Tavnazian Marquisate, and are not famous for their conversational skills.${prompt}
-  7455: They were sent to assassinate the captain of the Tavnazian knights. However...${prompt}
-  7456: The captain in question perished when Tavnazia was destroyed, and the Tonberries were seized as they milled about in confusion and indecision.${prompt}
-  7457: Fear of incurring their rancor saved them from execution, and instead they were confined to an island prison.${prompt}
-  7458: That island lies upstream from here, and its inhospitable sands were home to the Tonberries for twenty years.${prompt}
-  7459: However, after the period of their sentence had passed, the court was surprised and dismayed to find them still very much alive.${prompt}
-  7460: Although Tonberries are a southern species of beastmen, they are also unique among the fiends. And since they rarely communicate with other creatures, it was difficult to assess whether or not they had repented of their sins.${prompt}
+    Cela peut ne pas être aussi facile que vous le pensez.
+    Ces Tonberries ont été capturés il y a vingt ans en route vers le Marquisat de Tavnazia, et ne sont pas connus pour leurs compétences conversationnelles.${prompt}
+  7455: Ils ont été envoyés pour assassiner le capitaine des chevaliers de Tavnazia. Cependant...${prompt}
+  7456: Le capitaine en question a péri lorsque Tavnazia a été détruite, et les Tonberries ont été saisis alors qu'ils erraient dans la confusion et l'indécision.${prompt}
+  7457: La peur d'encourir leur rancœur les a sauvés de l'exécution, et ils ont été confinés sur une île-prison.${prompt}
+  7458: Cette île se trouve en amont d'ici, et ses sables inhospitaliers ont abrité les Tonberries pendant vingt ans.${prompt}
+  7459: Cependant, après la période de leur sentence, le tribunal fut surpris et consterné de les trouver toujours bien vivants.${prompt}
+  7460: Bien que les Tonberries soient une espèce de bêtes du sud, ils sont également uniques parmi les démons. Et comme ils communiquent rarement avec d'autres créatures, il était difficile de déterminer s'ils avaient expié leurs péchés.${prompt}
   7461: |-
-    A proposal was made by Count Teulomme, the owner of the lands on which Carpenter's Landing is built.
-    Learning the method from a distant land, the count succeeded in communicating with the Tonberries.${prompt}
-  7462: After this accomplishment, he proceeded to lay out his plan to employ the little beastmen as captains of the barge.${prompt}
-  7463: The Carpenters' Guild would be ruined without this canal at its disposal. And since this is the source of Count Teulomme's wealth, he must do his utmost to protect it.${prompt}
-  7464: Even the Orcs who had attacked the barge captains up until this point would be hesitant to tangle with a Tonberry.${prompt}
-  7465: They work for a song compared to, say, Elvaan employees, and their knives have been dulled as a precaution.${prompt}
-  7466: But my own salary has been reduced because of the usefulness of these diminutive fiends, and now I must find other ways to make ends meet...${prompt}
-  7467: 'Which is why I ask you to bring me ${article} ${item-article: 1[2]}, and in exchange I will teach you the method for communicating with the Tonberries.${prompt}'
-  7468: 'Bring me ${article} ${item-article: 1[2]} if you want to speak to the Tonberries.${prompt}'
+    Une proposition a été faite par le Comte Teulomme, le propriétaire des terres sur lesquelles est construit l'Embarcadère des Charpentiers.
+    En apprenant la méthode d'un pays lointain, le comte a réussi à communiquer avec les Tonberries.${prompt}
+  7462: Après cet exploit, il a présenté son plan pour employer les petites bêtes en tant que capitaines de la barge.${prompt}
+  7463: La Guilde des Charpentiers serait ruinée sans ce canal à sa disposition. Et comme c'est la source de la richesse du Comte Teulomme, il doit faire de son mieux pour le protéger.${prompt}
+  7464: Même les Orcs qui attaquaient les capitaines de la barge jusqu'à présent hésiteraient à s'attaquer à un Tonberry.${prompt}
+  7465: Ils travaillent pour presque rien comparé, disons, à des employés Elvaan, et leurs couteaux ont été émoussés par précaution.${prompt}
+  7466: Mais mon propre salaire a été réduit à cause de l'utilité de ces petits démons, et maintenant je dois trouver d'autres moyens de joindre les deux bouts...${prompt}
+  7467: 'C’est pourquoi je vous demande de m’apporter ${article} ${item-article: 1[2]}, et en échange, je vous enseignerai la méthode pour communiquer avec les Tonberries.${prompt}'
+  7468: 'Apportez-moi ${article} ${item-article: 1[2]} si vous voulez parler aux Tonberries.${prompt}'
   7469: |-
-    Your contribution is most appreciated.
-    And here is my end of the bargain.${prompt}
-  7470: This is the blackboard we use when communicating with the Tonberry, Riche.${prompt}
-  7471: Riche rarely speaks, but he can be convinced to write a few words.${prompt}
-  7472: Just remember to complete your business before the barge reaches the cliffs. The Tonberries have work to attend to.${prompt}
-  7473: 'The barge bound for ${choice: 3}[South Landing via Newtpool/Central Landing via the Emfea Waterway/North Landing via the main canal/Central Landing via the main canal] will ${choice: 1}[arrive/depart] in ${choice: 2}[less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours/about 8 hours/about 9 hours/about 10 hours/about 11 hours/about 12 hours/about 13 hours/about 14 hours/about 15 hours/about 16 hours/about 17 hours/about 18 hours/about 19 hours/about 20 hours/about 21 hours/about 22 hours/about 23 hours/about 24 hours] (${number: 0} ${choice-plurality: 0}[minute/minutes] in Earth time).${prompt}'
-  7474: 'The ship bound for ${choice: 3}[South Landing via Newtpool/Central Landing via the Emfea Waterway/North Landing via the main canal/Central Landing via the main canal] is now ${choice: 1}[arriving/departing].${prompt}'
+    Votre contribution est très appréciée.
+    Et voici ma part de marché.${prompt}
+  7470: Voici le tableau noir que nous utilisons pour communiquer avec le Tonberry, Riche.${prompt}
+  7471: Riche parle rarement, mais il peut être convaincu d'écrire quelques mots.${prompt} 
+  7472: Rappelez-vous simplement de terminer vos affaires avant que la barge n'atteigne les falaises. Les Tonberries ont du travail à faire.${prompt}
+  7473: 'La barge à destination de ${choice: 3}[Embarcadère Sud via Newtpool/Embarcadère Central via la Voie d’eau Emfea/Embarcadère Nord via le canal principal/Embarcadère Central via le canal principal] ${choice: 1}[arrivera/départira] dans ${choice: 2}[moins d’une heure/environ 1 heure/environ 2 heures/environ 3 heures/environ 4 heures/environ 5 heures/environ 6 heures/environ 7 heures/environ 8 heures/environ 9 heures/environ 10 heures/environ 11 heures/environ 12 heures/environ 13 heures/environ 14 heures/environ 15 heures/environ 16 heures/environ 17 heures/environ 18 heures/environ 19 heures/environ 20 heures/environ 21 heures/environ 22 heures/environ 23 heures/environ 24 heures] (${number: 0} ${choice-plurality: 0}[minute/minutes] en temps terrestre).${prompt}'
+  7474: 'Le navire à destination de ${choice: 3}[Embarcadère Sud via Newtpool/Embarcadère Central via la Voie d’eau Emfea/Embarcadère Nord via le canal principal/Embarcadère Central via le canal principal] est maintenant ${choice: 1}[arrivée/partie].${prompt}'
   7475: |-
-    The next barge will arrive in ${choice: 2}[less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours/about 8 hours/about 9 hours/about 10 hours/about 11 hours/about 12 hours/about 13 hours/about 14 hours/about 15 hours/about 16 hours/about 17 hours/about 18 hours/about 19 hours/about 20 hours/about 21 hours/about 22 hours/about 23 hours/about 24 hours] (${number: 0} ${choice-plurality: 0}[minute/minutes] in Earth time).
-    However, it is out-of-service, and will not be accepting passengers.${prompt}
-  7476: 'If you can wait, a barge bound for ${choice: 3}[South Landing via Newtpool/Central Landing via the Emfea Waterway/North Landing via the main canal/Central Landing via the main canal] will be arriving soon after that one.${prompt}'
-  7477: Welcome to South Landing.${prompt}
-  7478: Welcome to Central Landing.${prompt}
-  7479: Welcome to North Landing.${prompt}
-  7480: There is nothing out of the ordinary here.${prompt}
-  7481: You are overwhelmed by the putrid stench of decay!${prompt}
-  7482: O brothersss of rancor, take up thy knives.${prompt}
-  7483: '...Cleave our foesss with barren hate.${prompt}'
+    La prochaine barge arrivera dans ${choice: 2}[moins d'une heure/environ 1 heure/environ 2 heures/environ 3 heures/environ 4 heures/environ 5 heures/environ 6 heures/environ 7 heures/environ 8 heures/environ 9 heures/environ 10 heures/environ 11 heures/environ 12 heures/environ 13 heures/environ 14 heures/environ 15 heures/environ 16 heures/environ 17 heures/environ 18 heures/environ 19 heures/environ 20 heures/environ 21 heures/environ 22 heures/environ 23 heures/environ 24 heures] (${number: 0} ${choice-plurality: 0}[minute/minutes] en temps terrestre).
+    Cependant, elle est hors service et n'acceptera pas de passagers.${prompt}
+  7476: 'Si vous pouvez attendre, une barge à destination de ${choice: 3}[Embarcadère Sud via Newtpool/Embarcadère Central via la Voie d’eau Emfea/Embarcadère Nord via le canal principal/Embarcadère Central via le canal principal] arrivera peu de temps après celle-ci.${prompt}'
+  7477: Bienvenue à l’Embarcadère Sud.${prompt}
+  7478: Bienvenue à l’Embarcadère Central.${prompt}
+  7479: Bienvenue à l’Embarcadère Nord.${prompt}
+  7480: Il n’y a rien d’inhabituel ici.${prompt}
+  7481: Vous êtes submergé par la puanteur putride de la décomposition !${prompt}
+  7482: Ô frères de rancœur, prenez vos couteaux.${prompt}
+  7483: '...Tranchez nos ennemis avec une haine stérile.${prompt}'
   7484: |-
     ..Take up thy lanternsss.
     The truth we shall illuminate.${prompt}

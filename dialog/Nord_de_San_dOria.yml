@@ -27431,274 +27431,274 @@ entries:
     Wow! Another set!
     You don't know how much this means to us, kupo!
     Here, take this!${prompt}
-  13460: 'You hand the clerk the ${keyitem-singular: 0[2]} and ${number: 1} gil, and your set of armor is returned.${prompt}'
-  13461: Hello, ${choice-player-gender}[sir/ma'am]. Have you ever found yourself throwing away items because your Mog Safe is overflowing with dusty sets of armor collected on your many adventures? My colleagues and I have heard the cries of our fellow adventurers and joined together to aid all those in need.${prompt}
-  13462: Trade me a full set, and for a small fee (payable on pickup) we will hold on to it, all the while protecting it from thieves, moths, and any/all acts of god and/or goddess.${prompt}
-  13463: Please be forewarned that we cannot store any high-quality equipment, and that the signatures on any pieces of collected armor will be lost.${prompt}
-  13464: How may I be of service today?${prompt}
+  13460: 'Vous remettez au greffier le ${keyitem-singulier: 0[2]} et ${number: 1} gils, et votre ensemble d’armure vous est rendu.${prompt}'
+  13461: Bonjour, ${choice-player-gender}[monsieur/madame]. Vous est-il déjà arrivé de jeter des objets parce que votre Coffre Mog déborde de vieux ensembles d'armure collectés lors de vos nombreuses aventures ? Mes collègues et moi avons entendu les cris de nos compagnons aventuriers et nous nous sommes réunis pour aider tous ceux dans le besoin.${prompt}
+  13462: Échangez-moi un ensemble complet, et pour une petite somme (payable lors du retrait), nous le garderons pour vous, tout en le protégeant des voleurs, des mites et de tout acte de dieu et/ou déesse.${prompt}
+  13463: Veuillez être prévenu que nous ne pouvons pas stocker d'équipements de haute qualité et que les signatures sur les pièces d'armure collectées seront perdues.${prompt}
+  13464: Comment puis-je vous aider aujourd'hui ?${prompt}
   13465: |-
-    What to do...
+    Que faire...
     ${selection-lines}
-    Nothing.
-    View list of storable armor sets.
-    Have stored armor returned.${prompt}
-  13466: We are currently offering storage service for the following armor sets:${prompt}
+    Rien.
+    Voir la liste des ensembles d'armure stockables.
+    Récupérer l'armure stockée.${prompt}
+  13466: Nous proposons actuellement un service de stockage pour les ensembles d'armure suivants :${prompt}
   13467: |-
-    Let me see... Ah yes, ${choice-player-gender}[Lord/Lady] ${name-player}.
-    We are currently holding the following garments...${prompt}
+    Voyons voir... Ah oui, ${choice-player-gender}[Seigneur/Dame] ${name-player}.
+    Nous gardons actuellement les vêtements suivants...${prompt}
   13468: |-
-    ${choice: 7}[View which set?/Remove which set from storage?]
+    ${choice: 7}[Voir quel ensemble ?/Retirer quel ensemble du stockage ?]
     ${selection-lines}
-    None.
-    Level 24～30 armor.
-    Level 31～40 armor.
-    Level 41～50 armor.
-    Artifact armor/High level gear.
-    Relic armor.${prompt}
+    Aucun.
+    Armure de niveau 24～30.
+    Armure de niveau 31～40.
+    Armure de niveau 41～50.
+    Armure d'artéfact/Équipement de haut niveau.
+    Armure de relique.${prompt}
   13469: |-
-    ${choice: 7}[View which set?/Remove which set?]
+    ${choice: 7}[Voir quel ensemble ?/Retirer quel ensemble ?]
     ${selection-lines}
-    None.
-    Iron Chainmail.
-    Shade Harness.
-    Brass Scale Armor.
-    Wool Robe.
-    Eisenplatte Armor.
-    Soil Gi.
-    Seer's Tunic.
-    Studded Armor.
-    Centurion's Scale Mail.
-    Mercenary Captain's Doublet.
-    Garish Tunic.
-    Noct Doublet.${prompt}
+    Aucun.
+    Cotte de mailles en fer.
+    Harnais ombré.
+    Armure en écailles de laiton.
+    Robe en laine.
+    Armure Eisenplatte.
+    Gi de terre.
+    Tunique de voyant.
+    Armure cloutée.
+    Cotte de mailles de centurion.
+    Justaucorps de capitaine mercenaire.
+    Tunique voyante.
+    Justaucorps nocturne.${prompt}
   13470: |-
-    ${choice: 7}[View which set?/Remove which set?]
+    ${choice: 7}[Voir quel ensemble ?/Retirer quel ensemble ?]
     ${selection-lines}
-    None.
-    Custom Armor (Hume Male).
-    Custom Armor (Hume Female).
-    Magna Armor (Elvaan Male).
-    Magna Armor (Elvaan Female).
-    Wonder Armor (Tarutaru).
-    Savage Armor (Mithra).
-    Elder Armor (Galka).
-    Linen Cloak.
-    Padded Armor.
-    Silver Chainmail.
+    Aucun.
+    Armure sur mesure (Humain mâle).
+    Armure sur mesure (Humaine femelle).
+    Armure Magna (Elvaan mâle).
+    Armure Magna (Elvaan femelle).
+    Armure merveilleuse (Tarutaru).
+    Armure sauvage (Mithra).
+    Armure ancienne (Galka).
+    Manteau en lin.
+    Armure matelassée.
+    Cotte de mailles en argent.
     Gambison.
-    Iron Scale Armor.
-    Cuir Armor.
-    Velvet Robe.
-    Opaline Dress.
-    Royal Squire's Chainmail.
-    Plate Armor.
-    Combat Caster's Cloak.
-    Argent Attire.${prompt}
+    Armure en écailles de fer.
+    Armure en cuir.
+    Robe en velours.
+    Robe opaline.
+    Cotte de mailles de l'écuyer royal.
+    Armure de plate.
+    Manteau du lanceur de sorts de combat.
+    Tenue d'argent.${prompt}
   13471: |-
-    ${choice: 7}[View which set?/Remove which set?]
+    ${choice: 7}[Voir quel ensemble ?/Retirer quel ensemble ?]
     ${selection-lines}
-    None.
-    Alumine Haubert.
-    Carapace Armor.
-    Banded Mail.
+    Aucun.
+    Haubert en aluminium.
+    Armure en carapace.
+    Cotte de mailles.
     Hara-Ate.
-    Raptor Armor.
-    Steel Scale Armor.
-    Wool Gambison.
-    Shinobi Gi.
-    Mythril Plate Armor.
-    Iron Musketeer's Cuirass.
-    Tactician Magician's Cloak.
-    White Cloak.
-    Austere Robe.
-    Crow Jupon.${prompt}
+    Armure de raptor.
+    Armure en écailles d'acier.
+    Gambison en laine.
+    Gi de shinobi.
+    Armure de plate en mythril.
+    Cuirasse de mousquetaire en fer.
+    Manteau du magicien tacticien.
+    Manteau blanc.
+    Robe austère.
+    Jupon corbeau.${prompt}
   13472: |-
-    This set is comprised of the following items:
-    ${lettercase: 1}${item-singular: 0[2]}, ${lettercase: 1}${item-singular: 1[2]}, ${lettercase: 1}${item-singular: 2[2]}, ${lettercase: 1}${item-singular: 3[2]}, and ${lettercase: 1}${item-singular: 4[2]}.${prompt}
+    Cet ensemble est composé des éléments suivants :
+    ${lettercase: 1}${item-singulier: 0[2]}, ${lettercase: 1}${item-singulier: 1[2]}, ${lettercase: 1}${item-singulier: 2[2]}, ${lettercase: 1}${item-singulier: 3[2]}, et ${lettercase: 1}${item-singulier: 4[2]}.${prompt}
   13473: |-
-    This set is comprised of the following items:
-    ${lettercase: 1}${item-singular: 1[2]}, ${lettercase: 1}${item-singular: 2[2]}, ${lettercase: 1}${item-singular: 3[2]}, and ${lettercase: 1}${item-singular: 4[2]}.${prompt}
+    Cet ensemble est composé des éléments suivants :
+    ${lettercase: 1}${item-singulier: 1[2]}, ${lettercase: 1}${item-singulier: 2[2]}, ${lettercase: 1}${item-singulier: 3[2]}, et ${lettercase: 1}${item-singulier: 4[2]}.${prompt}
   13474: |-
-    This set is comprised of the following items:
-    ${lettercase: 1}${item-singular: 0[2]}, ${lettercase: 1}${item-singular: 1[2]}, ${lettercase: 1}${item-singular: 3[2]}, and ${lettercase: 1}${item-singular: 4[2]}.${prompt}
+    Cet ensemble est composé des éléments suivants :
+    ${lettercase: 1}${item-singulier: 0[2]}, ${lettercase: 1}${item-singulier: 1[2]}, ${lettercase: 1}${item-singulier: 3[2]}, et ${lettercase: 1}${item-singulier: 4[2]}.${prompt}
   13475: |-
-    This set is comprised of the following items:
-    ${lettercase: 1}${item-singular: 1[2]}, and ${lettercase: 1}${item-singular: 3[2]}.${prompt}
-  13476: 'A storage fee of ${number: 5} gil will be required upon pickup of this particular set.${prompt}'
+    Cet ensemble est composé des éléments suivants :
+    ${lettercase: 1}${item-singulier: 1[2]}, et ${lettercase: 1}${item-singulier: 3[2]}.${prompt}
+  13476: 'Des frais de stockage de ${number: 5} gils seront requis lors du retrait de cet ensemble particulier.${prompt}'
   13477: |-
-    ${choice: 7}[View which set?/Remove which set?]
+    ${choice: 7}[Voir quel ensemble ?/Retirer quel ensemble ?]
     ${selection-lines}
-    None at this time.
-    Fighter's Armor.
-    Temple Attire.
-    Healer's Attire.
-    Wizard's Attire.
-    Warlock's Armor.
-    Rogue's Attire.
-    Gallant Armor.
-    Chaos Armor.
-    Beast Armor.
-    Choral Attire.
-    Hunter's Attire.
-    Myochin Armor.
-    Ninja Garb.
-    Drachen Armor.
-    Evoker's Attire.
-    Magus Attire.
-    Corsair's Attire.
-    Puppetry Attire.
-    Dancer's Attire.
-    Dancer's Attire.
-    Scholar's Attire.
-    Amir Armor Set.
-    Pahluwan Armor Set.
-    Yigit Armor Set.${prompt}
-  13478: 'The storage fee for your armor comes to ${number: 5} gil.${prompt}'
+    Aucun pour le moment.
+    Armure du combattant.
+    Tenue de temple.
+    Tenue de guérisseur.
+    Tenue de sorcier.
+    Armure du démoniste.
+    Tenue de voleur.
+    Armure de galant.
+    Armure du chaos.
+    Armure de bête.
+    Tenue chorale.
+    Tenue de chasseur.
+    Armure Myochin.
+    Tenue de ninja.
+    Armure de drachen.
+    Tenue d'évocateur.
+    Tenue de magus.
+    Tenue de corsaire.
+    Tenue de marionnettiste.
+    Tenue de danseur.
+    Tenue de danseur.
+    Tenue de savant.
+    Ensemble d'armure Amir.
+    Ensemble d'armure Pahluwan.
+    Ensemble d'armure Yigit.${prompt}
+  13478: 'Les frais de stockage pour votre armure s’élèvent à ${number: 5} gils.${prompt}'
   13479: |-
-    Do you wish to pay the fee?
+    Souhaitez-vous payer les frais ?
     ${selection-lines}
-    Not at this time.
-    Yes.${prompt}
-  13480: 'I am sorry, ${choice-player-gender}[sir/ma''am]. ${number: 5} gil is required before we can return your armor.${prompt}'
+    Pas pour le moment.
+    Oui.${prompt}
+  13480: 'Je suis désolé, ${choice-player-gender}[monsieur/madame]. ${number: 5} gils sont nécessaires avant que nous puissions vous rendre votre armure.${prompt}'
   13481: |-
-    Very well, ${choice-player-gender}[sir/ma'am].
-    When you wish to have your armor returned, remember to present this claim slip along with the ${number: 5}-gil storage fee at any of our five convenient pickup locations around Vana'diel.${prompt}
-  13482: Regulations do not allow adventurers to store more than one set of the same armor.${prompt}
-  13483: The items you attempted to trade have been returned.${prompt}
+    Très bien, ${choice-player-gender}[monsieur/madame].
+    Lorsque vous souhaitez récupérer votre armure, n'oubliez pas de présenter ce reçu de réclamation ainsi que les frais de stockage de ${number: 5} gils à l'un de nos cinq points de collecte pratiques autour de Vana'diel.${prompt}
+  13482: Les règlements ne permettent pas aux aventuriers de stocker plus d’un ensemble de la même armure.${prompt}
+  13483: Les objets que vous avez tenté d’échanger ont été retournés.${prompt}
   13484: |-
-    ${choice: 7}[View which set?/Remove which set?]
+    ${choice: 7}[Voir quel ensemble ?/Retirer quel ensemble ?]
     ${selection-lines}
-    None at this time.
-    Warrior's Armor.
-    Melee Attire.
-    Cleric's Attire.
-    Sorcerer's Attire.
-    Duelist's Armor.
-    Assassin's Attire.
-    Valor Armor.
-    Abyss Armor.
-    Monster Armor.
-    Bard's Attire.
-    Scout's Attire.
-    Saotome Armor.
-    Koga Garb.
-    Wyrm Armor.
-    Summoner's Attire.
-    Mirage Attire.
-    Commodore Attire.
-    Pantin Attire.
-    Etoile Attire.
-    Argute Attire.${prompt}
+    Aucun pour le moment.
+    Armure du guerrier.
+    Tenue de mêlée.
+    Tenue de clerc.
+    Tenue de sorcier.
+    Armure du duelliste.
+    Tenue d'assassin.
+    Armure de la vaillance.
+    Armure de l'abysse.
+    Armure de monstre.
+    Tenue de barde.
+    Tenue de l'éclaireur.
+    Armure Saotome.
+    Tenue Koga.
+    Armure de wyrm.
+    Tenue d'invocateur.
+    Tenue de mirage.
+    Tenue de commodore.
+    Tenue de pantin.
+    Tenue d'étoile.
+    Tenue d'argute.${prompt}
   13485: |-
-    Have you seen the decorations?
-    The Doll Festival has started, kupo!${prompt}
-  13486: I heard from my moogle sources that this is a celebration for the health and happiness of girls, kupo.${prompt}
-  13487: Apparently, the young lady and her beau would play empress and emperor, and would be joined by eight of their friends for the festivities, kupo.${prompt}
+    Avez-vous vu les décorations ?
+    Le Festival des Poupées a commencé, kupo !${prompt}
+  13486: J'ai entendu de mes sources mogs que c'est une célébration pour la santé et le bonheur des filles, kupo.${prompt}
+  13487: Apparemment, la jeune fille et son prétendant joueraient l'impératrice et l'empereur, et seraient rejoints par huit de leurs amis pour les festivités, kupo.${prompt}
   13488: |-
-    Why don't you try making a ten-person party as well?
-    We can all have fun celebrating the Doll Festival, kupo!${prompt}
+    Pourquoi ne pas essayer de former un groupe de dix personnes également ?
+    Nous pouvons tous nous amuser à célébrer le Festival des Poupées, kupo !${prompt}
   13489: |-
-    It looks like you have all the members you need.
-    Time for the festival to begin, kupo!${prompt}
+    Il semble que vous ayez tous les membres dont vous avez besoin.
+    Il est temps que le festival commence, kupo !${prompt}
   13490: |-
-    After squeezing my moogle sources some more, they told me that people used to eat these during the festival.
-    Here, you take one as well, kupo!${prompt}
-  13491: It looks like you have all the members you need, kupo!${prompt}
-  13492: In fact, the moogle grapevine tells me that this is the perfect Doll Festival combination, kupo!${prompt}
-  13493: As a reward for your blind luc--I mean, “resourcefulness,” I'm going to give you lots of these treats, kupo!${prompt}
+    Après avoir encore pressé mes sources mogs, ils m'ont dit que les gens mangeaient ces friandises pendant le festival.
+    Tenez, prenez-en une aussi, kupo !${prompt}
+  13491: Il semble que vous ayez tous les membres dont vous avez besoin, kupo !${prompt}
+  13492: En fait, la rumeur mog me dit que c'est la combinaison parfaite pour le Festival des Poupées, kupo !${prompt}
+  13493: En récompense pour votre chance aveugle--je veux dire, "votre ingéniosité", je vais vous donner beaucoup de ces friandises, kupo !${prompt}
   13494: |-
-    Just in case you didn't know, the three girls in your party represent ladies of the court who wait on the empress.
-    Moogles know everything about festivals, kupo!${prompt}
+    Juste au cas où vous ne le sauriez pas, les trois filles de votre groupe représentent les dames de la cour qui servent l'impératrice.
+    Les mogs savent tout sur les festivals, kupo !${prompt}
   13495: |-
-    And by the way, the five guys in your group represent musicians who entertain the empress and emperor.
-    I wish I could play an instrument, kupo!${prompt}
+    Et au fait, les cinq gars de votre groupe représentent les musiciens qui divertissent l'impératrice et l'empereur.
+    J'aimerais pouvoir jouer d'un instrument, kupo !${prompt}
   13496: |-
-    Kupo!?
-    Something's not right...
-    Ah! This is a girl's festival and you don't have a girl in your party, kupo!${prompt}
+    Kupo !?
+    Quelque chose ne va pas...
+    Ah ! C'est un festival pour les filles et vous n'avez pas de fille dans votre groupe, kupo !${prompt}
   13497: |-
     Kupo...
-    I know I said this was a girl's festival, but you need at least one guy to play the emperor, kupo.${prompt}
-  13498: 'You obtain ${article} ${item-article: 0[2]} and ${article} ${item-article: 1[2]}!${prompt}'
-  13499: 'You obtain ${article} ${item-article: 0[2]}, ${article} ${item-article: 1[2]}, and ${article} ${item-article: 2[2]}!${prompt}'
-  13500: 'You obtain ${article} ${item-article: 0[2]}, ${article} ${item-article: 1[2]}, ${article} ${item-article: 2[2]}, and ${article} ${item-article: 3[2]}!${prompt}'
-  13501: 'You obtain 3 ${item-plural: 0[2]}, 3 ${item-plural: 1[2]}, 3 ${item-plural: 2[2]}, and 3 ${item-plural: 3[2]}!${prompt}'
+    Je sais que j'ai dit que c'était un festival pour les filles, mais vous avez besoin d'au moins un garçon pour jouer l'empereur, kupo.${prompt}
+  13498: 'Vous obtenez ${article} ${item-article: 0[2]} et ${article} ${item-article: 1[2]} !${prompt}'
+  13499: 'Vous obtenez ${article} ${item-article: 0[2]}, ${article} ${item-article: 1[2]} et ${article} ${item-article: 2[2]} !${prompt}'
+  13500: 'Vous obtenez ${article} ${item-article: 0[2]}, ${article} ${item-article: 1[2]}, ${article} ${item-article: 2[2]} et ${article} ${item-article: 3[2]} !${prompt}'
+  13501: 'Vous obtenez 3 ${item-plural: 0[2]}, 3 ${item-plural: 1[2]}, 3 ${item-plural: 2[2]} et 3 ${item-plural: 3[2]} !${prompt}'
   13502: |-
-    Kupo?
-    What happened to your ten-person party?
-    You can't trick presents out of me, kupo!${prompt}
+    Kupo ?
+    Qu'est-il arrivé à votre groupe de dix personnes ?
+    Vous ne pouvez pas me duper pour obtenir des cadeaux, kupo !${prompt}
   13503: |-
-    Ooh, a shiny new adventurer!
-    Join in the fun, kupo!${prompt}
+    Oh, un nouvel aventurier tout brillant !
+    Participez à la fête, kupo !${prompt}
   13504: |-
-    You can only celebrate the Doll Festival once a day.
-    Try again tomorrow, kupo!${prompt}
+    Vous ne pouvez célébrer le Festival des Poupées qu'une fois par jour.
+    Réessayez demain, kupo !${prompt}
   13505: |-
-    Hey!
-    Your party has different members all of a sudden!
-    Well, I guess I can give you this for having the right number of people at least, kupo!${prompt}
+    Hé !
+    Votre groupe a soudainement changé de membres !
+    Bon, je suppose que je peux vous donner ceci pour avoir au moins le bon nombre de personnes, kupo !${prompt}
   13506: |-
-    Hey!
-    Your party has lost touch with its feminine side!
-    You need to find yourself a lady, kupo!${prompt}
+    Hé !
+    Votre groupe a perdu son côté féminin !
+    Vous devez trouver une demoiselle, kupo !${prompt}
   13507: |-
     Hmm...
-    You seem to have lost your male element.
-    Can't have the guys running away from you, kupo!${prompt}
+    Vous semblez avoir perdu votre élément masculin.
+    Ne laissez pas les gars s'enfuir, kupo !${prompt}
   13508: |-
-    What is this? Can't you see that I'm busy?
+    Qu'est-ce que c'est ? Vous ne voyez pas que je suis occupé ?
     ...
-    Albanus? Bells? Alloys?${prompt}
+    Albanus ? Clochettes ? Alliages ?${prompt}
   13509: |-
-    Eh? That hag Reinberta told you I could help?
-    Here, let me see that scroll...${prompt}
-  13510: Hmph. All this fancy jade... Reinberta would like something as useless as this. A good old iron clasp, now that's all you need. Sturdy, inexpensive, and practical, let me tell you...${prompt}
-  13511: Ahem... Now, what does this Albanus character have to say...?${prompt}
+    Eh ? Cette vieille sorcière Reinberta vous a dit que je pouvais aider ?
+    Ici, laissez-moi voir ce parchemin...${prompt}
+  13510: Hmph. Tout ce jade précieux... Reinberta aimerait quelque chose d'aussi inutile que ça. Un bon vieux fermoir en fer, voilà ce qu'il vous faut. Robuste, bon marché et pratique, laissez-moi vous dire...${prompt}
+  13511: Ahem... Maintenant, que dit ce personnage Albanus...?${prompt}
   13512: |-
     Hm...
     Hrm...
-    So that is what he means...${prompt}
-  13513: It seems that the alloy our bellmaker is speaking of in his diary and on this scroll is Minstrel Metal.${prompt}
-  13514: What? You've never heard of it? Well, of course you haven't. The method for making it has been lost for decades.${prompt}
-  13515: Minstrel Metal receives its name from the enchanting sound that it emits when struck.${prompt}
-  13516: The tones are so beautiful, that it was said people would come from around the Kingdom just to hear the ballads created during the alloy's forging.${prompt}
-  13517: I believe that this scroll illustrates the lost method of smelting Minstrel Metal...but it is all written in some strange code. I can only guess the author did not want anyone to steal his techniques.${prompt}
-  13518: But if that author really was Albanus, then the cryptic message would make some sense.${prompt}
-  13519: You see, I have heard tales of the eccentric young bellmaker...${prompt}
-  13520: Once, long ago, there was a novice goldsmith named Albanus who spent day and night studying the art of bellmaking. He was quite a prodigy, people said.${prompt}
-  13521: Most of the time, the young man would lock himself up in his room behind the guild and pound away at his Minstrel Metal, until one day a strange boy called upon Albanus.${prompt}
-  13522: The boy said he had been drawn to the “voices of the angels,” and asked if he could stay with Albanus.${prompt}
-  13523: At first the bellmaker was puzzled, but soon grew fond of the boy and his appreciation of Albanus's work. And though he himself was still an amateur, he allowed the boy to become his pupil, and proceeded to teach him the ways of smithing.${prompt}
-  13524: However, it turned out that the pupil did more teaching than the master. The boy began telling Albanus how he was to create his bells, and it was not long before the boy's influence was heard in the song that rang forth from the novice goldsmith's workshop.${prompt}
-  13525: But then one day, the sound stopped. Just as suddenly as the strange boy had appeared, he had vanished, and along with him, young Albanus...${prompt}
-  13526: Some say that the zealous bellmaker simply left on a journey to discover new materials and techniques...${prompt}
-  13527: '...While others say it was the boy that forced Albanus to leave...${prompt}'
-  13528: They say that he had found a way inside Albanus's mind and made him go mad...${prompt}
+    Alors c'est ce qu'il veut dire...${prompt}
+  13513: Il semble que l'alliage dont parle notre fondeur de cloches dans son journal et sur ce parchemin soit le Métal des Ménestrels.${prompt}
+  13514: Quoi ? Vous n'en avez jamais entendu parler ? Eh bien, bien sûr que non. La méthode pour le fabriquer a été perdue depuis des décennies.${prompt}
+  13515: Le Métal des Ménestrels tire son nom du son enchanteur qu'il émet lorsqu'il est frappé.${prompt}
+  13516: Les tonalités sont si belles que l'on disait que les gens venaient de tout le Royaume juste pour entendre les ballades créées lors de la forge de l'alliage.${prompt}
+  13517: Je crois que ce parchemin illustre la méthode perdue de fusion du Métal des Ménestrels... mais tout est écrit dans un code étrange. Je ne peux que supposer que l'auteur ne voulait pas que quelqu'un vole ses techniques.${prompt}
+  13518: Mais si cet auteur était vraiment Albanus, alors le message cryptique aurait un certain sens.${prompt}
+  13519: Vous voyez, j'ai entendu des histoires sur ce jeune fondeur de cloches excentrique...${prompt}
+  13520: Il y a longtemps, il y avait un orfèvre novice nommé Albanus qui passait jour et nuit à étudier l'art de la fabrication des cloches. C'était un prodige, disait-on.${prompt}
+  13521: La plupart du temps, le jeune homme s'enfermait dans sa chambre derrière la guilde et martelait son Métal des Ménestrels, jusqu'à ce qu'un jour un étrange garçon vienne voir Albanus.${prompt}
+  13522: Le garçon disait qu'il avait été attiré par les "voix des anges", et demandait s'il pouvait rester avec Albanus.${prompt}
+  13523: Au début, le fondeur de cloches était perplexe, mais il s'attacha rapidement au garçon et à son appréciation du travail d'Albanus. Et bien qu'il soit lui-même encore un amateur, il permit au garçon de devenir son élève et commença à lui enseigner l'art de la forge.${prompt}
+  13524: Cependant, il s'est avéré que l'élève enseignait plus que le maître. Le garçon commença à dire à Albanus comment il devait créer ses cloches, et il ne fallut pas longtemps avant que l'influence du garçon ne se fasse entendre dans la chanson qui résonnait dans l'atelier du jeune orfèvre.${prompt}
+  13525: Mais un jour, le son s'est arrêté. Aussi soudainement que le garçon étrange était apparu, il avait disparu, emportant avec lui le jeune Albanus...${prompt}
+  13526: Certains disent que le fondeur de cloches passionné est simplement parti en voyage pour découvrir de nouveaux matériaux et techniques...${prompt}
+  13527: '...Tandis que d’autres disent que c’est le garçon qui a forcé Albanus à partir...${prompt}'
+  13528: Ils disent qu'il avait trouvé un moyen de pénétrer dans l'esprit d'Albanus et l'a rendu fou...${prompt}
   13529: |-
-    But if you ask me, I don't think it was either.
-    You see, the job of an artist is to move the hearts of the masses.${prompt}
-  13530: However, when an artist becomes too attached to his own work, strange things can begin to occur.${prompt}
-  13531: Eh? You still don't understand what I'm trying to say?${prompt}
-  13532: Haven't you been listening at all!?${prompt}
-  13533: When an artist spends his whole life working on something, a part of his soul is sometimes transferred to the piece.${prompt}
-  13534: I cannot fully explain the existence of these newborn “spirits,” but there are many who believe in them.${prompt}
-  13535: However, one thing I can be certain of is this--if the boy who led poor Albanus away was truly born from a raw form of the bellmaker's passion, then he may be quite dangerous...${prompt}
+    Mais si vous voulez mon avis, je ne pense pas que ce soit l'un ou l'autre.
+    Vous voyez, le travail d'un artiste est de toucher les cœurs des masses.${prompt}
+  13530: Cependant, lorsqu'un artiste devient trop attaché à son propre travail, des choses étranges peuvent commencer à se produire.${prompt}
+  13531: Eh ? Vous ne comprenez toujours pas ce que j'essaie de dire ?${prompt}
+  13532: Vous n'avez donc rien écouté !?${prompt}
+  13533: Lorsqu'un artiste passe toute sa vie à travailler sur quelque chose, une partie de son âme est parfois transférée dans l'œuvre.${prompt}
+  13534: Je ne peux pas expliquer pleinement l'existence de ces “esprits” nouvellement nés, mais nombreux sont ceux qui y croient.${prompt}
+  13535: 'Cependant, une chose dont je suis certain est celle-ci : si le garçon qui a emmené le pauvre Albanus est vraiment né d’une forme brute de la passion du fondeur de cloches, alors il peut être très dangereux...${prompt}'
   13536: |-
     Kupopopo～!
-    This is terrible!
-    Vicious villains are venting violently outside the city walls, kupo!${prompt}
-  13537: We've divined that these creatures are invulnerable to normal weapons! And as if that wasn't enough, they're surrounded by a powerful aura that prevents them from being attacked at all, kupo!${prompt}
+    C'est terrible !
+    Des méchants vicieux se déchaînent violemment hors des murs de la ville, kupo !${prompt}
+  13537: Nous avons deviné que ces créatures sont invulnérables aux armes normales ! Et comme si cela ne suffisait pas, elles sont entourées d'une aura puissante qui empêche toute attaque, kupo !${prompt}
   13538: |-
-    But never fear!
-    Our top moogle researchers have created a weapon that can injure these invaders!
-    Behold the wondrous ${item-singular: 0[2]}, kupo!${prompt}
-  13539: The nomad moogles have also developed a magic that will annul that anti-attack aura, so be sure to pay them a visit before you engage the enemy, kupo.${prompt}
-  13540: But be warned--this magic has the side-effect of preventing you from attacking any other monster for three whole days, kupo!${prompt}
+    Mais n'ayez crainte !
+    Nos meilleurs chercheurs moogles ont créé une arme qui peut blesser ces envahisseurs !
+    Voici l'incroyable ${item-singular: 0[2]}, kupo !${prompt}
+  13539: Les moogles nomades ont également développé une magie qui annulera cette aura anti-attaque, alors assurez-vous de leur rendre visite avant d'affronter l'ennemi, kupo.${prompt}
+  13540: 'Mais soyez prévenus : cette magie a pour effet secondaire de vous empêcher d’attaquer tout autre monstre pendant trois jours entiers, kupo !${prompt}'
   13541: |-
-    Here's your ${item-singular: 0[2]}.
-    Now you're ready to do battle, kupo!${prompt}
-  13542: 'The ${item-singular: 0[2]} will absorb a part of the villain''s aura every time you attack, kupo.${prompt}'
-  13543: Even if you don't topple the terror, bring the weapon to a moogle and you'll get a reward to match the amount of aura you've absorbed, kupo!${prompt}
+    Voici votre ${item-singular: 0[2]}.
+    Maintenant, vous êtes prêt pour le combat, kupo !${prompt}
+  13542: 'Le ${item-singular: 0[2]} absorbera une partie de l’aura du méchant à chaque attaque, kupo.${prompt}'
+  13543: Même si vous ne terrassez pas la terreur, apportez l’arme à un moogle et vous recevrez une récompense correspondant à la quantité d’aura que vous avez absorbée, kupo !${prompt}
   13544: |-
     By the way, these monsters are running around in samurai-style armor.
     They may be hiding among other adventurers, so be on your guard, kupo!${prompt}
