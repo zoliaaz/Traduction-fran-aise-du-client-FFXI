@@ -17897,14 +17897,14 @@ entries:
     D'où l'as-tu apporté ?${prompt}
   7281: '...${prompt}'
   7282: |-
-    Not going to answer, are we?
-    Wolfgang, do you need any more proof?${prompt}
-  7283: Do not forget your duty as the captain of the Ducal Guard. Any more hesitation in your decision-making and you'll end up like your father...${prompt}
-  7284: You. Does the specimen need to be alive for us to collect sufficient data?${prompt}
-  7285: Of course not, sir.${prompt}
+    Tu ne vas pas répondre, n'est-ce pas ?
+    Wolfgang, as-tu besoin de plus de preuves ?${prompt}
+  7283: N'oublie pas ton devoir en tant que capitaine de la Garde ducale. Encore une hésitation dans tes prises de décision et tu finiras comme ton père...${prompt}
+  7284: Toi. Le spécimen doit-il être en vie pour que nous collections des données suffisantes ?${prompt}
+  7285: Bien sûr que non, monsieur.${prompt}
   7286: |-
-    He... He didn't fight back?
-    Why...?${prompt}
+    Il... Il n'a pas riposté ?
+    Pourquoi... ?${prompt}
   7287: '!?'
   7288: mes1${prompt}
   7289: Quoi...? Aaagghh !
@@ -17912,39 +17912,39 @@ entries:
   7291: En scellant une partie de ta mémoire, ton destin dans ce royaume de Promyvion peut être altéré.${prompt}
   7292: Cela te permettra de revenir à l'entrée du crag, ayant oublié tous les événements concernant cet endroit.${prompt}
   7293: |-
-    Seal off your memories?
+    Sceller vos souvenirs ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
+    Oui.
+    Non.${prompt}
   7294: |-
-    Are you sure?
+    Êtes-vous sûr ?
     ${selection-lines}
-    Absolutely.
-    No.${prompt}
-  7295: There is nothing out of the ordinary here.${prompt}
+    Absolument.
+    Non.${prompt}
+  7295: Rien d'anormal ici.${prompt}
   7296: |-
-    You can hear a strange voice...
-    “Items, items, la la la la la～♪”${prompt}
+    Vous pouvez entendre une voix étrange...
+    "Objets, objets, la la la la la～♪" ${prompt}
   7297: |-
-    Oh my Gob! You're one of those adventurerurers, aren't ya?
-    You got nothin' on me, ${choice-player-gender}[man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.${prompt}
+    Oh mon Gob ! Tu es un de ces aventurieruriers, n'est-ce pas ?
+    Tu n'as rien contre moi, ${choice-player-gender}[monsieur./madame.] Je cherchais juste mes affairessesss, à la recherche de bric et de broc.${prompt}
   7298: |-
-    Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky!
-    Wait, how about you and me be friends instead? Sound good?${prompt}
-  7299: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.${prompt}
-  7300: Now, listen close...${prompt}
+    Hé, fais attention. Tu ne veux pas te battre contre moi. Je vais te transformer en viande séchée !
+    Attends, et si toi et moi devenions amis à la place ? Ça te dit ?${prompt}
+  7299: Je voyage partout dans le monde et j'entends plein d'histoires difféféférentes. J'entends même tes histoires. Je peux t'en raconter une, si tu veux.${prompt}
+  7300: Maintenant, écoute bien...${prompt}
   7301: |-
     Oh...
-    Well, if that's the case, I'm outta here.${prompt}
-  7302: The Goblin slipped away when you were not looking...${prompt}
-  7303: You can hear a strange, raspy voice...${prompt}
+    Bon, dans ce cas, je m'en vais.${prompt}
+  7302: Le Goblin s'est enfui pendant que vous ne regardiez pas...${prompt}
+  7303: Vous pouvez entendre une voix étrange et rauque...${prompt}
   7304: |-
-    I travel......hear lots...
-    Hear...stories... Can tell...if...${prompt}
-  7305: '.........listen......${prompt}'
+    Je voyage... j'entends beaucoup...
+    J'entends... des histoires... Peut dire... si...${prompt}
+  7305: '.........écouter......${prompt}'
   7306: |-
     Oh......
-    ...outta here.........${prompt}
+    ...je m'en vais.........${prompt}
   7307: |-
     Do you want to hear a story?
     ${selection-lines}
