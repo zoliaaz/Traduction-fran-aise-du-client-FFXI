@@ -26689,47 +26689,47 @@ entries:
     Your assistance is greatly appreciated.
     I am certain ${choice: 0}[Lord Nag'molada/Lady Esha'ntarl]'s guests will be most satisfied with your efforts.${prompt}
   12768: |-
-    ...Emptiness......
-    ......Possible weaknesses...
+    ...Vide......
+    ......Faiblesses possibles...
     Hmmm......${prompt}
-  12769: Greetings, adventurer. I am Harith, alchemist and member of a certain prestigious society here in Jeuno.${prompt}
-  12770: Perchance you have heard of creatures known as the Empty? Currently, other alchemists in the society are working feverishly on methods to manipulate these mysterious beasts.${prompt}
-  12771: Would you like me to continue?${prompt}
+  12769: Salutations, aventurier. Je suis Harith, alchimiste et membre d'une certaine société prestigieuse ici à Jeuno.${prompt}
+  12770: Peut-être avez-vous entendu parler de créatures connues sous le nom de Vides ? Actuellement, d'autres alchimistes de la société travaillent fiévreusement sur des méthodes pour manipuler ces bêtes mystérieuses.${prompt}
+  12771: Voulez-vous que je continue ?${prompt}
   12772: |-
-    Well...?
+    Alors...?
     ${selection-lines}
-    Please, go on.
-    I'm busy at the moment.${prompt}
+    Continuez, je vous prie.
+    Je suis occupé pour le moment.${prompt}
   12773: |-
-    I apologize for taking up your valuable time.
-    May fortune smile upon you in your journey.${prompt}
+    Je m'excuse de prendre de votre temps précieux.
+    Que la fortune vous sourie dans votre voyage.${prompt}
   12774: |-
-    The Empty are a cold and hollow species--their very existence a void of nothingness.
-    They possess no feeling, no will, no purpose... It is this lack of characteristics that makes them powerful, as they have no known weaknesses.${prompt}
-  12775: However, deep within their dark shells we have discovered that something does exist--that “something” being a fragment of a memory lost in the pages of time.${prompt}
-  12776: If you happen to have the fortune of coming across one of these incomplete memories on your journeys, bring it to me and I shall purify it into a form known as “anima” using the methods discovered by the society.${prompt}
-  12777: By studying the various types of memories left by the Empty, we may be able to discover their strengths and weaknesses.${prompt}
-  12778: If you happen to have the fortune of coming across one of these incomplete memories on your journeys, bring it to me and I shall purify it into a form known as “anima” using the methods discovered by the society.${prompt}
+    Les Vides sont une espèce froide et creuse--leur existence même est un vide de néant.
+    Ils ne possèdent ni sentiment, ni volonté, ni but... C'est ce manque de caractéristiques qui les rend puissants, car ils n'ont pas de faiblesses connues.${prompt}
+  12775: Cependant, au plus profond de leurs coquilles sombres, nous avons découvert qu'il existe quelque chose--ce “quelque chose” étant un fragment d'une mémoire perdue dans les pages du temps.${prompt}
+  12776: Si vous avez la chance de tomber sur une de ces mémoires incomplètes lors de vos voyages, apportez-la moi et je la purifierai en une forme connue sous le nom de “anima” en utilisant les méthodes découvertes par la société.${prompt}
+  12777: En étudiant les différents types de mémoires laissées par les Vides, nous pourrons peut-être découvrir leurs forces et faiblesses.${prompt}
+  12778: Si vous avez la chance de tomber sur une de ces mémoires incomplètes lors de vos voyages, apportez-la moi et je la purifierai en une forme connue sous le nom de “anima” en utilisant les méthodes découvertes par la société.${prompt}
   12779: |-
-    In addition to these memory fragments, we are also collecting ${item-plural: 0[2]}, ${item-plural: 1[2]}, and ${item-plural: 2[2]} to help us better understand how these creatures evolved.
-    Worry not, as you will be duly rewarded for any and all contributions.${prompt}
+    En plus de ces fragments de mémoire, nous collectons également ${item-plural: 0[2]}, ${item-plural: 1[2]}, et ${item-plural: 2[2]} pour nous aider à mieux comprendre comment ces créatures ont évolué.
+    Ne vous inquiétez pas, vous serez dûment récompensé pour toute contribution.${prompt}
   12780: |-
-    Yes...
-    This is definitely the memory of one of the Empty--and in quite excellent condition, I must say.${prompt}
-  12781: 'I can synthesize it into a concentrated form of anima; however, I will require a small fee of ${number: 0} gil.${prompt}'
-  12782: 'You hand Harith the ${item-singular: 0[2]} and ${number: 1} gil.${prompt}'
+    Oui...
+    C'est définitivement la mémoire de l'un des Vides--et dans un état excellent, je dois dire.${prompt}
+  12781: 'Je peux la synthétiser en une forme concentrée d’anima ; cependant, je nécessiterai une petite somme de ${number: 0} gils.${prompt}'
+  12782: 'Vous remettez à Harith le ${item-singular: 0[2]} et ${number: 1} gils.${prompt}'
   12783: |-
-    What a remarkable specimen!
-    This ${item-singular: 0[2]} may be the key to unlocking the secrets of the Empty!${prompt}
-  12784: Here, please accept this as a token of my gratitude.${prompt}
+    Quel spécimen remarquable !
+    Ce ${item-singular: 0[2]} pourrait être la clé pour percer les secrets des Vides !${prompt}
+  12784: Tenez, veuillez accepter ceci en signe de ma gratitude.${prompt}
   12785: |-
-    I will begin the synthesis right away.
-    Please wait a few moments.${prompt}
-  12786: Ah, what a heavenly glow!${prompt}
-  12787: By throwing this anima back at the Empty, they will temporarily regain a splinter of consciousness. It is during this time that you may be able to find their weaknesses.${prompt}
-  12788: 'Greetings, adventurer! My name is Tillecoe, pupil of the great and powerful mage Abdhaljs, and I have been assigned with the management of my master''s greatest creation--${color: 5}Diorama Abdhaljs-Ghelsba${color: 1}.${prompt}'
-  12789: 'Diorama access for the period of ${earthtime: 0} to ${earthtime: 1} is no longer available.${prompt}'
-  12790: 'Since you are a candidate for ${color: 5}Master of Ceremonies${color: 1} (MC), you are authorized to make certain rule changes concerning participation.${prompt}'
+    Je vais commencer la synthèse tout de suite.
+    Veuillez attendre quelques instants.${prompt}
+  12786: Ah, quelle lueur divine !${prompt}
+  12787: En lançant cet anima sur les Vides, ils retrouveront temporairement une parcelle de conscience. C'est pendant ce temps que vous pourrez peut-être découvrir leurs faiblesses.${prompt}
+  12788: 'Salutations, aventurier ! Je m’appelle Tillecoe, élève du grand et puissant mage Abdhaljs, et j’ai été chargé de la gestion de la plus grande création de mon maître--${color: 5}Diorama Abdhaljs-Ghelsba${color: 1}.${prompt}'
+  12789: 'L’accès au diorama pour la période de ${earthtime: 0} à ${earthtime: 1} n’est plus disponible.${prompt}'
+  12790: 'Étant donné que vous êtes candidat pour le poste de ${color: 5}Maître de Cérémonies${color: 1} (MC), vous êtes autorisé à apporter certaines modifications aux règles concernant la participation.${prompt}'
   12791: |-
     The current Diorama Ballista participation rules set by the ${color: 5}Master of Ceremonies${color: 1} are as follows:
     ${choice: 0}[ /Anyone can attend/Anyone can participate/Anyone can attend or participate].${prompt}
