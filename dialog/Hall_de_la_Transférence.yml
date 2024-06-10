@@ -17853,48 +17853,48 @@ entries:
     不適正な座標に移動したので、
     正常な座標に移動します。${prompt}
   7255: |-
-    Use the device?
+    Utiliser le dispositif ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  7256: There is no response.${prompt}
-  7257: The door is firmly shut.${prompt}
-  7258: You must move closer to inspect the device.${prompt}
-  7259: You see a honeycomb-like sheet made up of tiny clear hexagonal chips arranged here. One appears to be missing...
-  7260: 'You fit the ${item-singular: 0[2]} into the missing space.${prompt}'
-  7261: The device has been repaired.${prompt}
-  7262: The device appears to be functioning correctly.${prompt}
-  7263: You have no registered data.${prompt}
-  7264: Register your data in order to use the device.${prompt}
-  7265: 'The ${item-singular: 0[2]} shatters!'
+    Oui.
+    Non.${prompt}
+  7256: Il n'y a pas de réponse.${prompt}
+  7257: La porte est fermement fermée.${prompt}
+  7258: Vous devez vous rapprocher pour inspecter le dispositif.${prompt}
+  7259: Vous voyez une feuille en forme de nid d'abeilles composée de minuscules puces hexagonales transparentes disposées ici. Une semble manquer...
+  7260: 'Vous insérez le ${item-singular: 0[2]} dans l’espace manquant.${prompt}'
+  7261: Le dispositif a été réparé.${prompt}
+  7262: Le dispositif semble fonctionner correctement.${prompt}
+  7263: Vous n'avez pas de données enregistrées.${prompt}
+  7264: Enregistrez vos données pour utiliser le dispositif.${prompt}
+  7265: 'Le ${item-singular: 0[2]} se brise !'
   7266: |-
-    Hah, so you've finally arrived.
-    I heard that you were poking your nose into matters at the second crag, so I naturally assumed that this would be the next place you'd visit.${prompt}
+    Ah, alors tu es enfin arrivé.
+    J'ai entendu dire que tu fourrais ton nez dans les affaires du deuxième crag, alors j'ai naturellement supposé que ce serait le prochain endroit que tu visiterais.${prompt}
   7267: |-
-    Hm? Alone, are we?
-    Well, I see you are not as foolish as I thought. You may think you have the upper hand now, but I, too, have a few tricks up my sleeve.${prompt}
-  7268: The only thing I care about is that boy. One less adventurer in my way would only be a benefit to me.${prompt}
-  7269: Wolfgang. Kill ${choice-player-gender}[him/her].${prompt}
+    Hm? Seul, n'est-ce pas ?
+    Eh bien, je vois que tu n'es pas aussi stupide que je le pensais. Tu penses peut-être avoir l'avantage maintenant, mais moi aussi, j'ai quelques tours dans mon sac.${prompt}
+  7268: La seule chose qui m'importe, c'est ce garçon. Un aventurier de moins sur mon chemin ne serait qu'un avantage pour moi.${prompt}
+  7269: Wolfgang. Tuez ${choice-player-gender}[le/la].${prompt}
   7270: |-
-    But sir...
-    While ${choice-player-gender}[he/she] was seen with the boy, our research on ${choice-player-gender}[him/her] has turned up no evidence of any other connections. I do not feel that ${name-player}'s crimes warrant ${choice-player-gender}[his/her] death.${prompt}
-  7271: Wolfgang, you asked what the purpose behind this place was, and I'm certain I explained matters clearly.${prompt}
-  7272: It is a citadel, built to protect the mother of all life on Vana'diel--the crystal.${prompt}
-  7273: Only we know that secret--and as the secret's keepers, we are eternally bound to this place as her protectors.${prompt}
-  7274: However, darkness has already befallen the crystals within two of the crags. The boy was present at both, and it was ${name-player} who led him.${prompt}
-  7275: B-but...what of proof?${prompt}
-  7276: Proof? What more proof do we need? Where ${name-player} is, the boy is sure to follow.${prompt}
-  7277: And here he is now.${prompt}
+    Mais, monsieur...
+    Bien que ${choice-player-gender}[il/elle] ait été vu(e) avec le garçon, nos recherches sur ${choice-player-gender}[lui/elle] n'ont révélé aucune autre connexion. Je ne pense pas que les crimes de ${name-player} méritent la mort.${prompt}
+  7271: Wolfgang, vous avez demandé quel était le but de cet endroit, et je suis certain d'avoir expliqué les choses clairement.${prompt}
+  7272: C'est une citadelle, construite pour protéger la mère de toute vie sur Vana'diel--le cristal.${prompt}
+  7273: Seuls nous connaissons ce secret--et en tant que gardiens de ce secret, nous sommes éternellement liés à cet endroit en tant que ses protecteurs.${prompt}
+  7274: Cependant, les ténèbres ont déjà frappé les cristaux de deux crags. Le garçon était présent aux deux, et c'est ${name-player} qui l'a conduit.${prompt}
+  7275: M-mais...qu'en est-il des preuves ?${prompt}
+  7276: Des preuves ? Quelles preuves supplémentaires nous faut-il ? Où que soit ${name-player}, le garçon ne manque pas de suivre.${prompt}
+  7277: Et le voilà maintenant.${prompt}
   7278: |-
-    You, boy without a name, you know the darkness of which I speak.
-    The darkness that the Dawnmaidens have feared for thousands of years.${prompt}
+    Toi, garçon sans nom, tu connais les ténèbres dont je parle.
+    Les ténèbres que les Vierges de l'Aube ont craintes pendant des milliers d'années.${prompt}
   7279: |-
-    The darkness that eats away at the very soul of Vana'diel.
-    The darkness known as the “Emptiness.”${prompt}
+    Les ténèbres qui rongent l'âme même de Vana'diel.
+    Les ténèbres connues sous le nom de "Vide".${prompt}
   7280: |-
-    And you.
-    You were born with the Emptiness. You brought it with you into our world.
-    From where did you bring it?${prompt}
+    Et toi.
+    Tu es né avec le Vide. Tu l'as apporté avec toi dans notre monde.
+    D'où l'as-tu apporté ?${prompt}
   7281: '...${prompt}'
   7282: |-
     Not going to answer, are we?
