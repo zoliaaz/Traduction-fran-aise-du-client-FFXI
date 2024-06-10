@@ -18542,16 +18542,16 @@ entries:
   7759: ${prompt}
   7760: Le télépoint a été brisé en mille morceaux...${prompt}
   7761: |-
-    Investigate further?
+    Enquêter davantage ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  7762: Have you made your preparations?${prompt}
+    Oui.
+    Non.${prompt}
+  7762: Avez-vous fait vos préparatifs ?${prompt}
   7763: |-
-    Preparations complete?
+    Préparatifs terminés ?
     ${selection-lines}
-    Yes.
-    Not yet.${prompt}
+    Oui.
+    Pas encore.${prompt}
   7764: Hm...? Someone seems to have arrived here before us.${prompt}
   7765: ${name-player}, state your reason for coming here.${prompt}
   7766: You! What are you doing here?${prompt}
