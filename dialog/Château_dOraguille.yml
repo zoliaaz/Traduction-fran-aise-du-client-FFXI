@@ -17982,70 +17982,70 @@ entries:
   7839: Rendez-vous au Tombeau du Roi Ranperre avec prudence. Nous devons rester sur nos gardes jusqu'à ce que Lightbringer ait été rendue à son lieu de repos approprié.${prompt}
   7840: |-
     ${name-player}.
-    I never thought I would live to see the day when the Royal Knights would fight alongside adventurers such as yourself. Your valiant efforts on the battlefield helped turn the tide in favor of San d'Oria.${prompt}
-  7841: To protect the prince while grappling with the enemy... I feel that even I may not have been able to accomplish such a feat. I applaud your skill.${prompt}
+    Je n'aurais jamais cru voir le jour où les Chevaliers Royaux combattraient aux côtés d'aventuriers comme vous. Vos efforts vaillants sur le champ de bataille ont aidé à inverser la tendance en faveur de San d'Oria.${prompt}
+  7841: Protéger le prince tout en luttant contre l'ennemi... Je pense que même moi, je n'aurais pas été capable d'accomplir un tel exploit. J'applaudis votre compétence.${prompt}
   7842: |-
-    Our mission is finally over...
-    I feel that sometimes we soldiers forget the frailty of life until we see it lost before our eyes on the battlefield.${prompt}
+    Notre mission est enfin terminée...
+    Je pense que parfois, nous, les soldats, oublions la fragilité de la vie jusqu'à ce que nous la voyions se perdre sous nos yeux sur le champ de bataille.${prompt}
   7843: |-
-    However, that gives us all the more reason to continue the fight. We cannot let those who have parted with us be forgotten.
-    If you can spare a moment, journey to the cathedral and offer a prayer for the souls that gave their lives for the glory of the Kingdom.${prompt}
-  7844: Oh, ${name-player}, we have been waiting for your arrival. His Highness is about give an address. Please take your position.${prompt}
-  7845: I know that your bodies still ache from our recent encounter with the Orcs.${prompt}
-  7846: However, I require your utmost attention, for I have an important announcement.${prompt}
-  7847: I have decided that it is in the best interest of the Kingdom to prolong the Rites of Succession indefinitely. My sons still have much to learn of ruling a kingdom. Furthermore, when the time comes for me to step down, if I find my sons inadequate, I will not hesitate in selecting an heir from outside the d'Oraguille family.${prompt}
-  7848: It is not only the royal family, but others like ${name-player}, that have silently supported San d'Oria for the past twenty years. Perhaps it is an adventurer such as ${choice-player-gender}[he/she] that would be best suited for the throne.${prompt}
-  7849: The arrogance of the Elvaan has held back this country for much too long. From today forth, we shall recognize our fellow races and join hands with them to form a stronger, better kingdom.${prompt}
+    Cependant, cela nous donne encore plus de raisons de continuer à nous battre. Nous ne pouvons pas laisser ceux qui nous ont quittés être oubliés.
+    Si vous pouvez prendre un moment, rendez-vous à la cathédrale et offrez une prière pour les âmes qui ont donné leur vie pour la gloire du Royaume.${prompt}
+  7844: Oh, ${name-player}, nous attendions votre arrivée. Son Altesse est sur le point de faire une déclaration. Veuillez prendre votre place.${prompt}
+  7845: Je sais que vos corps souffrent encore de notre récente rencontre avec les Orcs.${prompt}
+  7846: Cependant, j'exige toute votre attention, car j'ai une annonce importante à faire.${prompt}
+  7847: J'ai décidé qu'il est dans le meilleur intérêt du Royaume de prolonger indéfiniment les Rites de Succession. Mes fils ont encore beaucoup à apprendre sur la gouvernance d'un royaume. De plus, lorsque le moment viendra pour moi de me retirer, si je trouve mes fils inadéquats, je n'hésiterai pas à choisir un héritier en dehors de la famille d'Oraguille.${prompt}
+  7848: Ce ne sont pas seulement la famille royale, mais des gens comme ${name-player}, qui ont soutenu San d'Oria en silence pendant les vingt dernières années. Peut-être qu'un aventurier tel que ${choice-player-gender}[lui/elle] serait le mieux adapté pour le trône.${prompt}
+  7849: L'arrogance des Elvaan a retenu ce pays trop longtemps. À partir d'aujourd'hui, nous reconnaîtrons nos races voisines et joindrons nos forces pour former un royaume plus fort et meilleur.${prompt}
   7850: |-
     ${name-player}.
-    I am aware of the hardships you have had to face at the request of your country. However, you must realize that without your undying loyalty to the Kingdom, we would never have been able to realize our erring ways.${prompt}
-  7851: 'While simple items cannot express the gratitude this kingdom owes you, I hope you will accept this ${item-singular: 0[2]} with my blessing.${prompt}'
-  7852: We can hold our heads high knowing that there are adventurers such as ${name-player}, willing to risk their lives for the good of the Kingdom.${prompt}
-  7853: Now it is the time for the citizens of San d'Oria to do their part.${prompt}
-  7854: Thanks to your efforts, the chateau regained that sense of peacefulness that it had lacked for so long.${prompt}
-  7855: I may have been strict with you when you were still a fledgling adventurer. However, I wish for you to forget all that. I now hold nothing but the uttermost respect for you.${prompt}
-  7856: There is still much work to be done, but you may leave that to us. We do not wish to hold you back from new adventures that await you.${prompt}
-  7857: Now that Lightbringer has been sealed in the Dragon King's tomb, the Orcs' activity has begun to dwindle. We will shortly be sending soldiers to rid the land of the remaining hordes.${prompt}
-  7858: As much as your presence on the front line would be welcomed, we cannot run to you to solve all our national crises.${prompt}
-  7859: However, I expect that one day the Kingdom may again require your services. But until that day, may the light of the Goddess shine down upon you!${prompt}
-  7860: The conflict with the Orcs may be finally coming to an end, but I doubt that instant peace will follow. We Temple Knights must remain alert at all times, lest danger rear its head within the boundaries of our noble kingdom.${prompt}
-  7861: ${name-player}, would you not consider joining our ranks? You have much untapped potential.${prompt}
+    Je suis conscient des épreuves que vous avez dû affronter à la demande de votre pays. Cependant, vous devez comprendre que sans votre loyauté indéfectible envers le Royaume, nous n'aurions jamais pu réaliser nos erreurs.${prompt}
+  7851: 'Bien que de simples objets ne puissent exprimer la gratitude que ce royaume vous doit, j’espère que vous accepterez ce ${item-singular: 0[2]} avec ma bénédiction.${prompt}'
+  7852: Nous pouvons garder la tête haute en sachant qu'il y a des aventuriers comme ${name-player}, prêts à risquer leur vie pour le bien du Royaume.${prompt}
+  7853: Il est maintenant temps pour les citoyens de San d'Oria de faire leur part.${prompt}
+  7854: Grâce à vos efforts, le château a retrouvé ce sentiment de paix qu'il avait perdu depuis si longtemps.${prompt}
+  7855: J'ai peut-être été strict avec vous lorsque vous étiez encore un aventurier novice. Cependant, je souhaite que vous oubliez tout cela. Je n'ai maintenant que le plus grand respect pour vous.${prompt}
+  7856: Il reste encore beaucoup de travail à faire, mais vous pouvez nous laisser cela. Nous ne voulons pas vous retenir des nouvelles aventures qui vous attendent.${prompt}
+  7857: Maintenant que Lightbringer a été scellé dans la tombe du Roi Dragon, l'activité des Orcs a commencé à diminuer. Nous enverrons bientôt des soldats pour débarrasser la terre des hordes restantes.${prompt}
+  7858: Autant votre présence en première ligne serait la bienvenue, nous ne pouvons pas courir vers vous pour résoudre toutes nos crises nationales.${prompt}
+  7859: Cependant, je m'attends à ce qu'un jour le Royaume ait de nouveau besoin de vos services. Mais jusqu'à ce jour, que la lumière de la Déesse brille sur vous !${prompt}
+  7860: Le conflit avec les Orcs touche peut-être enfin à sa fin, mais je doute qu'une paix immédiate suive. Nous, les Chevaliers du Temple, devons rester vigilants à tout moment, de peur que le danger ne se manifeste dans les limites de notre noble royaume.${prompt}
+  7861: ${name-player}, ne songeriez-vous pas à rejoindre nos rangs ? Vous avez beaucoup de potentiel inexploité.${prompt}
   7862: |-
-    Join the Temple Knights?
+    Rejoindre les Chevaliers du Temple ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  7863: While I am flattered by your enthusiasm, I know that you would not be satisfied if tied down by the duties of the knights. Your place is under the open skies of Vana'diel.${prompt}
-  7864: As I expected. I know that you would not be satisfied if tied down by the duties of the knights. Your place is under the open skies of Vana'diel.${prompt}
-  7865: Now go! Adventure awaits!${prompt}
-  7866: The battle took its toll on us knights. I am relieved there won't be any more expeditions in the near future...but don't tell Sir Rahal I said that.${prompt}
-  7867: Lady Curilla and the Temple Knights have found Lightbringer... Who would've thought that it would have been found in such a place? ${prompt}
-  7868: We knights must keep our senses sharp and our blades sharper. If we let either dull, it could mean our lives!${prompt}
-  7869: The battle at Fei'Yin dealt a fierce blow to the Orcs. I think that now is the time to finish those fiends off once and for all. The day of peace is finally here!${prompt}
-  7870: The defeat of the Shadow Lord should improve the situation in the Northlands and improve our odds in the war with the Orcs.${prompt}
-  7871: There's not a knight in San d'Oria that doesn't wish to take Lightbringer in his hands. However, there are still many mysteries that surround it...${prompt}
-  7872: It's now time to show those Orcs the true force of the Royal Knights. The battle will go down in history as the day we put an end to their fiendish plots!${prompt}
-  7873: When I was in the Northlands, I didn't know if I would ever be back here, sipping tea in the comforts of my quarters. I raise my glass to my colleagues who were not as fortunate...${prompt}
-  7874: I never knew His Highness felt that way about the Kingdom... To put the stability of the country ahead of bloodlines and tradition...the royaulais is truly a great leader.${prompt}
-  7875: ${name-player}, you have my gratitude for saving my life in the Qu'Bia Arena.${prompt}
-  7876: The Royal Knights have driven the Orcs into a corner. Our conflict with fiends will soon be resolved. As much as I wish to stand on the frontline with my fellow soldiers, I have many new responsibilities to face here in the chateau.${prompt}
-  7877: I may, once again, require your services. Until then, may the Goddess shine Her glory upon you in your travels.${prompt}
-  7878: As my father stated, you may be more suited than I to rule our kingdom...${prompt}
-  7879: However, whether or not I ever stand at the pinnacle of San d'Oria is not important. This situation with Rochefogne, Lightbringer, and the Orcs has taught me much of what I lack as a leader.${prompt}
-  7880: Far too often I have relied on your bravery and loyalty. If it were not for your gallant actions, I would have surely perished in the Northlands.${prompt}
-  7881: If your journeys ever bring you back here to San d'Oria, you will always be welcome. Not as an adventurer, but as a friend.${prompt}
-  7882: I have heard from my brother of your bravery in Fei'Yin.${prompt}
-  7883: Your success on the battlefield never ceases to amaze me. There is much I could learn from you...${prompt}
-  7884: I applaud you on the completion of this mission, as well as apologize for constantly weighing your adventures down with new responsibilities.${prompt}
-  7885: However, your accomplishments have been, and will be, crucial for the prosperity of the Kingdom. I can sense that your love for San d'Oria is great.${prompt}
-  7886: Not lending our ears to the thoughts and opinions of others, only thinking that we are correct...${prompt}
-  7887: However, I now realize that this is the sin we Elvaan are guilty of... That is why I ask of you to guide us. If you feel there is an error in our ways, do not hesitate to inform us.${prompt}
-  7888: I will use your words to shape this country into a land that you, or your children, or your children's children will not be ashamed of.${prompt}
-  7889: Why, ${name-player}. You have become quite the fighter since we last met. I can tell by merely glancing at your arms. Those are the limbs of someone who has spent many an hour polishing ${choice-player-gender}[his/her] skills.${prompt}
-  7890: However, if you were to take part in the Kingdom's tourneys, you would most certainly be defeated in the preliminary rounds.${prompt}
+    Oui.
+    Non.${prompt}
+  7863: Bien que je sois flatté par votre enthousiasme, je sais que vous ne seriez pas satisfait d'être lié par les devoirs des chevaliers. Votre place est sous les cieux ouverts de Vana'diel.${prompt}
+  7864: Comme je m'y attendais. Je sais que vous ne seriez pas satisfait d'être lié par les devoirs des chevaliers. Votre place est sous les cieux ouverts de Vana'diel.${prompt}
+  7865: Maintenant allez-y ! L'aventure vous attend !${prompt}
+  7866: La bataille a épuisé nos chevaliers. Je suis soulagé qu'il n'y ait pas d'autres expéditions dans un avenir proche... mais ne dites pas à Sir Rahal que j'ai dit cela.${prompt}  
+  7867: Dame Curilla et les Chevaliers du Temple ont trouvé Lightbringer... Qui aurait pensé qu'elle se trouverait en un tel endroit ? ${prompt}
+  7868: Nous, les chevaliers, devons garder nos sens aiguisés et nos lames encore plus aiguisées. Si nous laissons l'un ou l'autre s'émousser, cela pourrait signifier notre vie !${prompt}
+  7869: La bataille à Fei'Yin a porté un coup féroce aux Orcs. Je pense que le moment est venu de finir ces démons une fois pour toutes. Le jour de la paix est enfin arrivé !${prompt}
+  7870: La défaite du Seigneur des Ombres devrait améliorer la situation dans les Northlands et améliorer nos chances dans la guerre contre les Orcs.${prompt}
+  7871: Il n'y a pas un chevalier à San d'Oria qui ne souhaite prendre Lightbringer dans ses mains. Cependant, il reste encore de nombreux mystères qui l'entourent...${prompt}
+  7872: Il est maintenant temps de montrer à ces Orcs la véritable force des Chevaliers Royaux. La bataille entrera dans l'histoire comme le jour où nous avons mis fin à leurs complots diaboliques !${prompt}
+  7873: Quand j'étais dans les Northlands, je ne savais pas si je reviendrais un jour ici, en train de boire du thé dans le confort de mes quartiers. Je lève mon verre à mes collègues qui n'ont pas eu cette chance...${prompt}
+  7874: Je ne savais pas que Son Altesse ressentait cela pour le Royaume... Mettre la stabilité du pays avant les lignées et les traditions... le royaulais est vraiment un grand leader.${prompt}
+  7875: ${name-player}, vous avez ma gratitude pour m'avoir sauvé la vie dans l'Arène de Qu'Bia.${prompt}
+  7876: Les Chevaliers Royaux ont acculé les Orcs. Notre conflit avec les démons sera bientôt résolu. Autant que je souhaite être en première ligne avec mes camarades soldats, j'ai de nombreuses nouvelles responsabilités à affronter ici au château.${prompt}
+  7877: Je pourrais, encore une fois, avoir besoin de vos services. D'ici là, que la Déesse fasse briller Sa gloire sur vous dans vos voyages.${prompt} 
+  7878: Comme mon père l'a dit, vous pourriez être plus adapté que moi pour diriger notre royaume...${prompt}
+  7879: Cependant, que je me tienne ou non au sommet de San d'Oria n'est pas important. Cette situation avec Rochefogne, Lightbringer, et les Orcs m'a beaucoup appris sur ce qui me manque en tant que leader.${prompt}
+  7880: Trop souvent, j'ai compté sur votre bravoure et votre loyauté. Si ce n'était pas pour vos actions vaillantes, j'aurais sûrement péri dans les Northlands.${prompt}
+  7881: Si vos voyages vous ramènent un jour ici à San d'Oria, vous serez toujours le bienvenu. Pas en tant qu'aventurier, mais en tant qu'ami.${prompt}
+  7882: J'ai entendu de mon frère parler de votre bravoure à Fei'Yin.${prompt}
+  7883: Votre succès sur le champ de bataille ne cesse de m'étonner. Il y a beaucoup de choses que je pourrais apprendre de vous...${prompt}
+  7884: Je vous félicite pour l'accomplissement de cette mission, et je m'excuse de peser constamment sur vos aventures avec de nouvelles responsabilités.${prompt}
+  7885: Cependant, vos réalisations ont été, et seront, cruciales pour la prospérité du Royaume. Je sens que votre amour pour San d'Oria est grand.${prompt}
+  7886: Ne pas prêter nos oreilles aux pensées et aux opinions des autres, penser seulement que nous avons raison...${prompt}
+  7887: Cependant, je réalise maintenant que c'est le péché dont nous, les Elvaans, sommes coupables... C'est pourquoi je vous demande de nous guider. Si vous sentez qu'il y a une erreur dans nos manières, n'hésitez pas à nous en informer.${prompt}
+  7888: J'utiliserai vos mots pour façonner ce pays en une terre dont vous, vos enfants ou les enfants de vos enfants ne serez pas honteux.${prompt}
+  7889: Eh bien, ${name-player}. Vous êtes devenu un sacré combattant depuis notre dernière rencontre. Je peux le dire en jetant simplement un coup d'œil à vos bras. Ce sont les membres de quelqu'un qui a passé de nombreuses heures à perfectionner ${choice-player-gender}[ses compétences/sa compétence].${prompt}
+  7890: Cependant, si vous deviez participer aux tournois du Royaume, vous seriez certainement éliminé lors des tours préliminaires.${prompt}
   7891: |-
-    I sense a hint of question in your eyes. Let me explain...
-    What separates the champions from the common folk lies in the acquisition of a single technique.${prompt}
+    Je sens un soupçon de question dans vos yeux. Laissez-moi expliquer...
+    Ce qui distingue les champions du commun des mortels réside dans l'acquisition d'une seule technique.${prompt}
   7892: Cette technique est...
   7893: Dame Curilla ! Nous avons terminé notre patrouille du périmètre ! Rien à signaler !
   7894: Bien compris. Informez les gardes en attente de commencer leur service. Vous pouvez vous reposer dans vos quartiers jusqu'à ce que vous soyez appelé.
