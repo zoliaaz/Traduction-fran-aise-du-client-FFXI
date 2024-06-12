@@ -23521,30 +23521,30 @@ entries:
     ${selection-lines}
     Yes.
     No.${prompt}
-  11197: You don't have enough money.${prompt}
-  11198: 'Maps of the Kuzotz region include Altepa Desert as well as Rabao for ${number: 3} gil.${prompt}'
-  11199: 'Maps of the Vollbow region include Cape Teriggan, as well as Valley of Sorrows and Gustav Tunnel for ${number: 3} gil.${prompt}'
-  11200: Maps of the Korroloka Tunnel are, as their names imply, maps of the Korroloka Tunnel, which connects Altepa Desert and Zeruhn Mines.${prompt}
-  11201: 'The map of Al Zahbi also includes Aht Urhgan Whitegate and the Colosseum. It costs ${number: 2} gil.${prompt}'
-  11202: 'This map shows the layout of the Azouph Isle town of Nashmau. It costs ${number: 3} gil.${prompt}'
-  11203: 'This map shows the forest tract stretching west of Al Zahbi. A map of the Wajaom Woodlands can be yours for ${number: 3} gil.${prompt}'
-  11204: 'This map shows Bhaflau Thickets, lying to the north of Al Zahbi. It costs ${number: 3} gil.${prompt}'
-  11205: '${keyitem-article: 1[2]} is an older map that was often used to depict ${zone: 2[2]}. It costs ${number: 3} gil.${prompt}'
-  11206: (...Yeah, that's what I said!)${prompt}
-  11207: (But you know what? Oh, wait. Hold on...)${prompt}
-  11208: I'm sorry, can I help you?${prompt}
-  11209: '${color-alt: 15}${name-player} points to the item in ${name-npc}''s hand.'
-  11210: 'Oh, this? It''s a magical shell called ${article} ${item-article: 1[2]}.${prompt}'
+  11197: Vous n'avez pas assez d'argent.${prompt}
+  11198: 'Les cartes de la région de Kuzotz comprennent le désert d’Altepa ainsi que Rabao pour ${number: 3} gils.${prompt}'
+  11199: 'Les cartes de la région de Vollbow comprennent le cap Teriggan, ainsi que la vallée des Chagrins et le tunnel de Gustav pour ${number: 3} gils.${prompt}'
+  11200: Les cartes du tunnel de Korroloka sont, comme leur nom l'indique, des cartes du tunnel de Korroloka, qui relie le désert d'Altepa et les mines de Zeruhn.${prompt}
+  11201: 'La carte d’Al Zahbi comprend également Aht Urhgan Whitegate et le Colisée. Elle coûte ${number: 2} gils.${prompt}'
+  11202: 'Cette carte montre la disposition de la ville de Nashmau sur l’île d’Azouph. Elle coûte ${number: 3} gils.${prompt}'
+  11203: 'Cette carte montre la région forestière s’étendant à l’ouest d’Al Zahbi. Une carte des Bois de Wajaom peut être la vôtre pour ${number: 3} gils.${prompt}'
+  11204: 'Cette carte montre les fourrés de Bhaflau, situés au nord d’Al Zahbi. Elle coûte ${number: 3} gils.${prompt}'
+  11205: '${keyitem-article: 1[2]} est une ancienne carte qui était souvent utilisée pour représenter ${zone: 2[2]}. Elle coûte ${number: 3} gils.${prompt}'
+  11206: (Oui, c'est bien ce que j'ai dit !)${prompt}
+  11207: (Mais tu sais quoi ? Oh, attends. Attends un instant...)${prompt}
+  11208: Je suis désolé, puis-je vous aider ?${prompt}
+  11209: '${color-alt: 15}${name-player} pointe vers l’objet dans la main de ${name-npc}.'
+  11210: 'Oh, ça ? C’est une coquille magique appelée ${item-article: 1[2]}.${prompt}'
   11211: |-
-    You want to know about ${item-plural: 1[2]}?
-    Let me tell you all about them!${prompt}
+    Vous voulez en savoir plus sur ${item-plural: 1[2]} ?
+    Laissez-moi vous en dire plus à leur sujet !${prompt}
   11212: |-
-    What do you want to ask?
+    Que voulez-vous demander ?
     ${selection-lines}
-    What's ${article} ${item-article: 1[2]}?
-    What types of ${item-plural: 1[2]} are there?
-    How do you use them?
-    Never mind.${prompt}
+    Qu'est-ce qu'une ${item-article: 1[2]} ?
+    Quels types de ${item-plural: 1[2]} existe-t-il ?
+    Comment les utilisez-vous ?
+    Ce n'est rien.${prompt}
   11213: Ces coquilles magiques regorgent de mystères...${prompt}
   11214: |-
     On peut en obtenir de magnifiques perles.
