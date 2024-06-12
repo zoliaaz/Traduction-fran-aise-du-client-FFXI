@@ -18809,50 +18809,50 @@ entries:
   7650: |-
     How arrre you～?
     I'm fine, as always...I think.${prompt}
-  7651: We've been having a spot of trouble because of those Yagudo beastmen, but Captain Rakoh Buuma's on hand, so things are underrr control...I think.${prompt}
-  7652: Arrre you going to fight the good fight along with us? That'd be grrreat...I think. Speak to Captain Rakoh Buuma and she'll set you right!${prompt}
-  7653: 'He～y, you seem to be from another country...I think. If you''rrre looking for the Consulate of ${choice: 2}[San d''Oria/Bastok], then it''s ${choice: 2}[in this area/west of here]...${choice: 2}[across the Bomingo Round/in Port Windurst].${prompt}'
-  7654: What are you staring at? Haven't you ever seen a Mithra beforrre?${prompt}
-  7655: Here in Windurst Woods, there arrre many Mithra. You'll soon get over it...${prompt}
-  7656: This is Windurst Woods, the Mithra part of town! We Mithra have to stick together, so feel welcome, frrriend!${prompt}
+  7651: Nous avons eu quelques soucis à cause de ces bêtes Yagudo, mais le Capitaine Rakoh Buuma est sur place, alors les choses sont sous contrôle... enfin, je pense.${prompt}
+  7652: Allez-vous vous joindre à nous pour combattre le bon combat ? Ce serait génial... enfin, je pense. Parlez au Capitaine Rakoh Buuma et elle vous mettra dans le bon chemin !${prompt}
+  7653: 'Heu, vous semblez être d’un autre pays... enfin, je pense. Si vous cherchez le Consulat de ${choice: 2}[San d’Oria/Bastok], alors c’est ${choice: 2}[dans cette région/à l’ouest d’ici]...${choice: 2}[de l’autre côté du Bomingo Round/dans le Port Windurst].${prompt}'
+  7654: Qu’est-ce que vous regardez ? Vous n’avez jamais vu une Mithra avant ?${prompt}
+  7655: Ici dans les Bois de Windurst, il y a beaucoup de Mithra. Vous vous y habituerez bientôt...${prompt}
+  7656: C’est les Bois de Windurst, la partie de la ville des Mithra ! Nous, les Mithra, devons rester solidaires, alors sentez-vous le bienvenu, ami !${prompt}
   7657: |-
-    I, I, erm, am one of the guards here.
-    <gulp>...
-    Well, erm, nice to meety-weety you!${prompt}
-  7658: I, I'm still getting used to it, erm, here... But I'm trying-wrying my besty!${prompt}
+    Je, je suis l'une des gardes ici.
+    <gloups>...
+    Eh bien, euh, enchantée de vous rencontrer !${prompt}
+  7658: Je, je m’habitue encore ici... mais j’essaie de faire de mon mieux !${prompt}
   7659: |-
-    ERROR:
-    SAYING A MASKED ANSWER!${prompt}
-  7660: You cannot accept more than one mission at a time.${prompt}
-  7661: Please complete your current mission before applying for the next.${prompt}
-  7662: The missions we are currently able to offer you at the eastern gatehouse are as follows...${prompt}
+    ERREUR :
+    RÉPONSE MASQUÉE !${prompt}
+  7660: Vous ne pouvez pas accepter plus d'une mission à la fois.${prompt}
+  7661: Veuillez terminer votre mission actuelle avant d'en demander une nouvelle.${prompt}
+  7662: Les missions que nous sommes actuellement en mesure de vous offrir à la guérite est de l'est sont les suivantes...${prompt}
   7663: |-
-    Which mission will you accept?
+    Quelle mission allez-vous accepter ?
     ${selection-lines}
-    The Horutoto Ruins Experiment.
-    The Heart of the Matter.
-    The Price of Peace.
-    Lost for Words.
-    A Testing Time.
-    The Three Kingdoms.
+    L'Expérience des Ruines de Horutoto.
+    Au Cœur du Problème.
+    Le Prix de la Paix.
+    Perdu pour des Mots.
+    Un Temps d'Épreuve.
+    Les Trois Royaumes.
     Mission 2-3-1A.
     Mission 2-3-1B.
     Mission 2-3-2A.
     Mission 2-3-2B.
-    To Each His Own Right.
-    Written in the Stars.
-    A New Journey.
+    À Chacun Son Droit.
+    Écrit dans les Étoiles.
+    Un Nouveau Voyage.
     Magicite.
-    The Final Seal.
-    The Shadow Awaits.
-    Full Moon Fountain.
-    Saintly Invitation.
-    The Sixth Ministry.
-    Awakening of the Gods.
-    Vain.
-    The Jester Who'd Be King.
-    Doll of the Dead.
-    Moon Reading.
+    Le Sceau Final.
+    L'Ombre Attend.
+    Fontaine de Pleine Lune.
+    Invitation Sainte.
+    Le Sixième Ministère.
+    Éveil des Dieux.
+    Vanité.
+    Le Bouffon qui Voudrait Être Roi.
+    Poupée des Morts.
+    Lecture Lunaire.
     Dummy11.
     Dummy12.
     Dummy13.
@@ -18860,7 +18860,7 @@ entries:
     Dummy15.
     Dummy16.
     Dummy17.
-    Decline mission.${prompt}
+    Refuser la mission.${prompt}
   7664: Les gars Hume disent tous qu'ils m'envient, vous savez, être entouré de dames Mithra toute la journée et tout ça... M-mais, pour vous dire la vérité, je suis vraiment fatigué, jour après jour.${prompt}
   7665: |-
     Vraiment, maintenant !?
