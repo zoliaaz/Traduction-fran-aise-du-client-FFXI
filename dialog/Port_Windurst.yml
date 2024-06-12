@@ -1,6 +1,6 @@
 entries:
   0: |-
-    Bonjour, adventurier(e)! I'm so glad you've come, kupo!
+    Bonjour, adventurier(e)! Je suis tellement content que vous soyez venu(e), kupo!
     Les tablettes mog ayant été toutes récupérées, nous proposons actuellement un service de téléportation pour ${number: 0} gil, kupo !${prompt}
   1: |-
     Où désirez-vous aller ? (Cost: ${number: 0} gil.)
@@ -26654,71 +26654,71 @@ entries:
     Téléporter avec des gils.
     Téléporter avec des points de conquête.
     Plus tard.${prompt}
-  12741: Have a wonderful journey!${prompt}
-  12742: Unfortunately, at this time there is nowhere I can teleport you. Please come again.${prompt}
-  12743: You have not yet reached level 10. I am sorry, but for safety reasons, I am not authorized to teleport anyone under the current level cap.${prompt}
-  12744: You do not have enough gil. Please come back again.${prompt}
-  12745: You do not have enough gil.${prompt}
-  12746: You do not have enough conquest points. Please come back again.${prompt}
-  12747: You do not have enough conquest points.${prompt}
-  12748: We look forward to seeing you again!${prompt}
-  12749: 'However, at this time I am only authorized to teleport citizens of ${choice: 0}[San d''Oria/Bastok/Windurst].${prompt}'
-  12750: 'Debug: Warp to region ${number: 0}!${prompt}'
-  12751: For a limited time during the Starlight Celebration, the Specialty Goods Trade Union is offering all registered adventurers a deal you could not possibly think of passing up.${prompt}
-  12752: 'Trade me a mere ten ${item-plural: 1[2]} and I will teleport you to the outpost of any region of your choice, regardless of your current level or which nation has control of the area.${prompt}'
-  12753: However, remember that the S.G.T.U will take no responsibility for any...unexpected circumstances that may occur as a result of teleporting to an area with enemies beyond the range of your main job's level.${prompt}
-  12754: 'Normally, I am only authorized to teleport citizens of ${choice: 0}[San d''Oria/Bastok/Windurst], but for a limited time only, my services are open to all registered adventurers.${prompt}'
-  12755: 'Trade me a mere ten ${item-plural: 1[2]} and I will teleport you to the outpost of any region of your choice, regardless of your current level or which nation has control of the area.${prompt}'
-  12756: However, remember that the S.G.T.U will take no responsibility for any...unexpected circumstances that may occur as a result of teleporting to an area with enemies beyond the range of your main job's level.${prompt}
-  12757: This service will last for the duration of the Starlight Celebration.${prompt}
-  12758: Thank you very much for taking part in our holiday special!${prompt}
-  12759: If I remember correctly, you just made your payment a few moments ago.${prompt}
+  12741: Passez un merveilleux voyage!${prompt}
+  12742: Malheureusement, pour le moment, je ne peux vous téléporter nulle part. Veuillez revenir plus tard.${prompt}
+  12743: Vous n'avez pas encore atteint le niveau 10. Je suis désolé, mais pour des raisons de sécurité, je ne suis pas autorisé à téléporter quiconque sous la limite de niveau actuelle.${prompt}
+  12744: Vous n'avez pas assez de gil. Veuillez revenir plus tard.${prompt}
+  12745: Vous n'avez pas assez de gil.${prompt}
+  12746: Vous n'avez pas assez de points de conquête. Veuillez revenir plus tard.${prompt}
+  12747: Vous n'avez pas assez de points de conquête.${prompt}
+  12748: Nous avons hâte de vous revoir!${prompt}
+  12749: 'Cependant, pour le moment, je ne suis autorisé à téléporter que les citoyens de ${choice: 0}[San d''Oria/Bastok/Windurst].${prompt}'
+  12750: 'Debug: Téléportation vers la région ${number: 0}!${prompt}'
+  12751: Pour une durée limitée pendant la Fête des Étoiles, le Syndicat du Commerce de Biens Spécialisés offre à tous les aventuriers enregistrés une offre que vous ne pourriez absolument pas refuser.${prompt}
+  12752: 'Échangez-moi seulement dix ${item-plural: 1[2]} et je vous téléporterai à l’avant-poste de la région de votre choix, quel que soit votre niveau actuel ou la nation qui contrôle la zone.${prompt}'
+  12753: Cependant, n'oubliez pas que le S.G.T.U ne prendra aucune responsabilité pour les...circonstances inattendues qui pourraient survenir en téléportant vers une zone avec des ennemis au-delà de la portée du niveau de votre travail principal.${prompt}
+  12754: 'Normalement, je ne suis autorisé à téléporter que les citoyens de ${choice: 0}[San d''Oria/Bastok/Windurst], mais pour une durée limitée, mes services sont ouverts à tous les aventuriers enregistrés.${prompt}'
+  12755: 'Échangez-moi seulement dix ${item-plural: 1[2]} et je vous téléporterai à l’avant-poste de la région de votre choix, quel que soit votre niveau actuel ou la nation qui contrôle la zone.${prompt}'
+  12756: Cependant, n'oubliez pas que le S.G.T.U ne prendra aucune responsabilité pour les...circonstances inattendues qui pourraient survenir en téléportant vers une zone avec des ennemis au-delà de la portée du niveau de votre travail principal.${prompt}
+  12757: Ce service durera pendant toute la Fête des Étoiles.${prompt}
+  12758: Merci beaucoup de participer à notre spécial des fêtes!${prompt}
+  12759: Si je me souviens bien, vous venez de faire votre paiement il y a quelques instants.${prompt}
   12760: |-
-    I apologize, ${choice-player-gender}[sir/ma'am].
-    You have not completed any supplies quests, thus there are no regions to which I am authorized to teleport you.${prompt}
-  12761: 'The recommended level for the requested area is ${number: 0}. Are you sure you would like to teleport there?${prompt}'
-  12762: 'Your ten ${item-plural: 0[2]} are returned to you.${prompt}'
+    Je suis désolé, ${choice-player-gender}[monsieur/madame].
+    Vous n'avez complété aucune quête de ravitaillement, donc il n'y a aucune région vers laquelle je suis autorisé à vous téléporter.${prompt}
+  12761: 'Le niveau recommandé pour la zone demandée est de ${number: 0}. Êtes-vous sûr de vouloir vous téléporter là-bas?${prompt}'
+  12762: 'Vos dix ${item-plural: 0[2]} vous sont retournés.${prompt}'
   12763: |-
-    Your inventory is full and you cannot carry the ${item-plural: 0[2]}.
-    Come back when you have created more room in your bag.${prompt}
-  12764: Here you can learn the fate and fortune of an adventuring duo.${prompt}
-  12765: 'For a mere 120 gil, I will divine what today will bring for you and ${entity: 0}.${prompt}'
+    Votre inventaire est plein et vous ne pouvez pas transporter les ${item-plural: 0[2]}.
+    Revenez lorsque vous aurez fait plus de place dans votre sac.${prompt}
+  12764: Ici, vous pouvez découvrir le destin et la fortune d'un duo d'aventuriers.${prompt}
+  12765: 'Pour seulement 120 gil, je devinerai ce que la journée vous réserve, à vous et ${entity: 0}.${prompt}'
   12766: |-
-    Pay 120 gil for a fortune telling?
+    Payer 120 gil pour une prédiction?
     ${selection-lines}
-    Pay up.
-    I make my own fortune.${prompt}
-  12767: Now, let us see what the winds portend...${prompt}
-  12768: 'Adventuring with ${entity: 0} today will ${choice: 1}[bring you great fortune!/be highly profitable./bring fair fortune./be mutually advantageous./bring misfortune./be perilous./be disastrous!]${prompt}'
-  12769: Good fortune fills your cup to overflowing. Be sure to share it with those less blessed by fate.${prompt}
-  12770: Stand together and you have little to fear. With your combined strength, you can overcome any obstacle.${prompt}
-  12771: Do not let your good fortune blind you to danger. Pitfalls aplenty await the unwary traveler.${prompt}
-  12772: Happiness is a state of mind. You can find laughter in even the most desperate of situations.${prompt}
-  12773: The day ahead will be filled with trials and tribulations, but in time the path before you will run smooth once more.${prompt}
-  12774: There may be clashes of opinion today, but approach each other with an open mind and all will be well.${prompt}
-  12775: You must rely on each others' strengths to overcome the difficulties you will face today. Don't let petty squabbles bring your downfall.${prompt}
-  12776: Please accept this modest gift in celebration of your good fortune.${prompt}
-  12777: 'Either you or ${entity: 0} has already heard fate''s fickle will today. You may only have your fortune told once every Vana''dielian day.${prompt}'
-  12778: Form a party with the person you wish to check your fortune with, and then speak with me for a reading of your fate.${prompt}
-  12779: You need 120 gil to have your fortune told.${prompt}
-  12780: Ahhh, if only a strrrong, reliable adventurer would come by...${prompt}
-  12781: Well if it isn't a strrrong, reliable-looking adventurer! How'd you like to get your paws on a hefty reward?${prompt}
-  12782: There's this rich little Tarutaru that needs some help navigating thrrrough the Garlaige Citadel. You look like you'd be perrrfect for the job.${prompt}
-  12783: Your client's name is Wanzo-Unzozo. He should be waiting just inside the citadel's entrrrance.${prompt}
+    Payer.
+    Je fais ma propre fortune.${prompt}
+  12767: Voyons maintenant ce que les vents présagent...${prompt}
+  12768: 'Aventurer avec ${entity: 0} aujourd’hui ${choice: 1}[vous apportera une grande fortune!/sera très profitable./vous apportera une fortune équitable./sera mutuellement avantageux./apportera le malheur./sera périlleux./sera désastreux!]${prompt}'
+  12769: La bonne fortune remplit votre coupe à ras bord. Assurez-vous de la partager avec ceux qui sont moins bénis par le destin.${prompt}
+  12770: Ensemble, vous n'avez rien à craindre. Avec votre force combinée, vous pouvez surmonter n'importe quel obstacle.${prompt}
+  12771: Ne laissez pas votre bonne fortune vous aveugler face au danger. De nombreux pièges attendent le voyageur imprudent.${prompt}
+  12772: Le bonheur est un état d'esprit. Vous pouvez trouver le rire même dans les situations les plus désespérées.${prompt}
+  12773: La journée à venir sera remplie d'épreuves et de tribulations, mais avec le temps, le chemin devant vous redeviendra lisse.${prompt}
+  12774: Il peut y avoir des divergences d'opinion aujourd'hui, mais abordez-vous mutuellement avec un esprit ouvert et tout ira bien.${prompt}
+  12775: Vous devez compter sur les forces de chacun pour surmonter les difficultés que vous rencontrerez aujourd'hui. Ne laissez pas les querelles futiles causer votre perte.${prompt}
+  12776: Veuillez accepter ce modeste cadeau en célébration de votre bonne fortune.${prompt}
+  12777: 'Vous ou ${entity: 0} avez déjà entendu la volonté capricieuse du destin aujourd’hui. Vous ne pouvez faire lire votre fortune qu’une fois par jour Vana’dielien.${prompt}'
+  12778: Formez un groupe avec la personne avec laquelle vous souhaitez vérifier votre fortune, puis parlez-moi pour une lecture de votre destin.${prompt}
+  12779: Vous avez besoin de 120 gil pour faire lire votre fortune.${prompt}
+  12780: Ahhh, si seulement un aventurier fort et fiable passait par ici...${prompt}
+  12781: Eh bien, si ce n'est pas un aventurier fort et fiable! Que diriez-vous de mettre la main sur une belle récompense?${prompt}
+  12782: Il y a ce petit Tarutaru riche qui a besoin d'aide pour naviguer à travers la Citadelle de Garlaige. Vous semblez parfait pour le travail.${prompt}
+  12783: Le nom de votre client est Wanzo-Unzozo. Il devrait attendre juste à l'entrée de la citadelle.${prompt}
   12784: |-
-    Whoa, hold on.
-    You're not thinking of slitherrring your way out of this job, are you?${prompt}
+    Whoa, attendez.
+    Vous n'envisagez pas de vous éclipser de ce travail, n'est-ce pas?${prompt}
   12785: |-
-    Slithering your way out?
+    Vous vous éclipsiez?
     ${selection-lines}
-    Like a snake.
-    Not at all.${prompt}
-  12786: I knew it! I don't know why I ever trusted you in the firrrst place...${prompt}
-  12787: Grrreat job, ${name-player}. I knew I could count on you to get the job done. Here's your reward.${prompt}
-  12788: Sorrrry, ${name-player}. I don't have any work for you today.${prompt}
+    Comme un serpent.
+    Pas du tout.${prompt}
+  12786: Je le savais! Je ne sais pas pourquoi je vous ai fait confiance en premier lieu...${prompt}
+  12787: Bon travail, ${name-player}. Je savais que je pouvais compter sur vous pour faire le travail. Voici votre récompense.${prompt}
+  12788: Désolé, ${name-player}. Je n'ai pas de travail pour vous aujourd'hui.${prompt}
   12789: OK${prompt}
   12790: NG${prompt}
-  12791: 'Number ${number: 2} is the answer.${prompt}'
+  12791: 'Le numéro ${number: 2} est la réponse.${prompt}'
   12792: |-
     Excusez-moi, ${choice-player-gender}[monsieur/madame].
     Si vous prenez l'avion, puis-je vous demander une faveur ?${prompt}
