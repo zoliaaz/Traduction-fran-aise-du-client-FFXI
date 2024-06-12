@@ -26634,26 +26634,26 @@ entries:
     .
     Teleport?
     Nowhere at the moment.${prompt}
-  12727: That region is under your home country's control.${prompt}
-  12728: That region is no longer under your home country's control.${prompt}
-  12729: That region is under allied control.${prompt}
-  12730: That region is under beastman control.${prompt}
-  12731: That region is neutral.${prompt}
-  12732: Welcome to the Regional Teleportation Service!${prompt}
-  12733: Greetings, adventurer. My name is ${name-npc}. I have been sent by the Specialty Goods Trade Union.${prompt}
-  12734: At the previous Conference of Nations, it was decided that the restriction on “regional teleporting” would be lifted, and that cities could now offer teleportation services to various outposts.${prompt}
-  12735: We are now authorized to teleport you to any outpost you have previously visited on a supplies quest.${prompt}
-  12736: The nominal fee we require varies with the current control of the region.${prompt}
-  12737: Also, depending on your level, there may be some areas I am not authorized to teleport you to.${prompt}
-  12738: 'That region is ${choice: 2}[no longer under your home country''s control./currently under your home country''s control.] You will require ${number: 1} gil or ${number: 3} conquest ${choice-plurality: 3}[point/points] to teleport.${prompt}'
-  12739: As a special, limited-time service to commemorate the recovery of the full mog tablet set, I can teleport you to your destination absolutely free of charge!${prompt}
+  12727: Cette région est sous le contrôle de votre pays d'origine.${prompt}
+  12728: Cette région n'est plus sous le contrôle de votre pays d'origine.${prompt}
+  12729: Cette région est sous contrôle allié.${prompt}
+  12730: Cette région est sous contrôle des bêtes.${prompt}
+  12731: Cette région est neutre.${prompt}
+  12732: Bienvenue au Service de Téléportation Régionale!${prompt}
+  12733: Salutations, aventurier. Je m'appelle ${name-npc}. J'ai été envoyé par l'Union Commerciale des Produits Spécialisés.${prompt}
+  12734: Lors de la dernière Conférence des Nations, il a été décidé que la restriction sur la “téléportation régionale” serait levée et que les villes pourraient désormais offrir des services de téléportation vers divers avant-postes.${prompt}
+  12735: Nous sommes maintenant autorisés à vous téléporter vers n'importe quel avant-poste que vous avez précédemment visité lors d'une quête d'approvisionnement.${prompt}
+  12736: Le tarif nominal que nous demandons varie en fonction du contrôle actuel de la région.${prompt}
+  12737: De plus, selon votre niveau, il se peut que je ne sois pas autorisé à vous téléporter vers certaines zones.${prompt}
+  12738: 'Cette région ${choice: 2}[n’est plus sous le contrôle de votre pays d’origine./est actuellement sous le contrôle de votre pays d’origine.] Vous aurez besoin de ${number: 1} gil ou de ${number: 3} ${choice-plurality: 3}[point/conquête] pour téléporter.${prompt}'
+  12739: En tant que service spécial et limité dans le temps pour commémorer la récupération de l’ensemble complet des tablettes mog, je peux vous téléporter gratuitement à votre destination!${prompt}
   12740: |-
-    Teleport?
+    Téléporter ?
     ${selection-lines}
-    Yes.
-    Teleport with gil.
-    Teleport with conquest points.
-    Later.${prompt}
+    Oui.
+    Téléporter avec des gils.
+    Téléporter avec des points de conquête.
+    Plus tard.${prompt}
   12741: Have a wonderful journey!${prompt}
   12742: Unfortunately, at this time there is nowhere I can teleport you. Please come again.${prompt}
   12743: You have not yet reached level 10. I am sorry, but for safety reasons, I am not authorized to teleport anyone under the current level cap.${prompt}
@@ -35452,70 +35452,70 @@ entries:
     ${selection-lines}
     Sure do.
     Nope.${prompt}
-  16806: I guess we could entrust it to you. What do you think, everyone?${prompt}
-  16807: You don't!?${prompt}
-  16808: I bet it should go to the Manustery!${prompt}
-  16809: Yeah, if it's an evil doll, then I bet Professor Korrru-Moru would know what to do with it!${prompt}
-  16810: Wait...it smells like...Heavens Towerrr...${prompt}
-  16811: I'm thure an adult can figure it out!${prompt}
-  16812: Well, what Pichichi says, goes. What do you say, everyone?${prompt}
-  16813: Hooray!
-  16814: Yippie!
-  16815: Woo hoo!
-  16816: Yeah!
-  16817: Yay!
-  16818: Wooo!
-  16819: Then it's deci～ded! You've got to take it back to where it belongs!${prompt}
-  16820: And when you do, don't let the bad adults get away with anything!${prompt}
-  16821: Pichichi would just lo～ve it if you returned the evil doll to where it belongs.${prompt}
-  16822: Of course, I don't know where that would be--but you're an adult, so you can figure it out!${prompt}
-  16823: You have to be vewy caweful around that doll. I think thewe awe only bad things ahead.${prompt}
-  16824: I wouldn't expect Honoi-Gomoi to take it lying down. We've all got to be vewy careful.${prompt}
-  16825: Phew. Now that that's done, let's have a big dinner-winner and then a nice rest!${prompt}
-  16826: We've gotten rid of the bad guys and need to celebrate!${prompt}
-  16827: I'm really excited for how everything turned out, even though if was a bit borrring in the moment.${prompt}
-  16828: I've got to keep practicing until I'm faster than grrreased lightning!${prompt}
-  16829: Well, since we didn't see any Yagudo, it might be safe to sharrre my adventures with my mom.${prompt}
-  16830: But you know how angry adults can get sometimes!${prompt}
-  16831: The doll thpoke with a really low, scary voice...${prompt}
-  16832: I wish my doll was that cool!${prompt}
-  16833: Could you imagine having two dolls instead of one? What fun!${prompt}
-  16834: This is an explanation of the Assist Channel feature, which allows new and returning players to seek help from veteran adventurers.${prompt}
-  16835: 'You must take on the “${unknown: 0x01054082808080}” Records of Eminence objective before receiving the explanation.${prompt}'
-  16836: 'You must complete “${unknown: 0x01054082818080}” before taking on the “${unknown: 0x01054082808080}” Records of Eminence objective.${prompt}'
+  16806: Je suppose que nous pourrions vous le confier. Qu'en pensez-vous, tout le monde?${prompt}
+  16807: Vous ne voulez pas!?${prompt}
+  16808: Je parie qu'il devrait aller au Manustère!${prompt}
+  16809: Oui, si c'est une poupée maléfique, alors je parie que le Professeur Korru-Moru saurait quoi en faire!${prompt}
+  16810: Attendez... ça sent comme... la Tour des Cieux...${prompt}
+  16811: Je suis sûre qu'un adulte peut s'en sortir!${prompt}
+  16812: Eh bien, ce que dit Pichichi, va. Qu'en dites-vous, tout le monde?${prompt} 
+  16813: Hourra!
+  16814: Youpi!
+  16815: Hourra! 
+  16816: Oui!
+  16817: Hourra!
+  16818: Hourra!
+  16819: Alors c'est décidé! Vous devez le ramener là où il appartient!${prompt}
+  16820: Et quand vous le ferez, ne laissez pas les adultes malveillants s'en tirer à bon compte!${prompt}
+  16821: Pichichi adorerait que vous rameniez la poupée maléfique là où elle appartient.${prompt}
+  16822: Bien sûr, je ne sais pas où cela pourrait être - mais vous êtes un adulte, alors vous pouvez comprendre!${prompt}
+  16823: Vous devez être très prudent autour de cette poupée. Je pense qu'il n'y a que de mauvaises choses à venir.${prompt}
+  16824: Je ne m'attendrais pas à ce que Honoi-Gomoi reste sans rien faire. Nous devons tous être très prudents.${prompt}
+  16825: Ouf. Maintenant que c'est fait, organisons un grand dîner et ensuite un bon repos!${prompt}
+  16826: Nous nous sommes débarrassés des méchants et nous devons célébrer!${prompt}
+  16827: Je suis vraiment excité par la façon dont tout s'est déroulé, même si c'était un peu ennuyeux sur le moment.${prompt}
+  16828: Je dois continuer à m'entraîner jusqu'à ce que je sois plus rapide que l'éclair!${prompt}
+  16829: Eh bien, puisque nous n'avons pas vu de Yagudo, il pourrait être sûr de partager mes aventures avec ma mère.${prompt}
+  16830: Mais vous savez à quel point les adultes peuvent parfois se mettre en colère!${prompt}
+  16831: La poupée a parlé avec une voix vraiment basse et effrayante...${prompt}
+  16832: J'aimerais que ma poupée soit aussi cool!${prompt}
+  16833: Pouvez-vous imaginer avoir deux poupées au lieu d'une? Quel amusement!${prompt}
+  16834: Il s'agit d'une explication de la fonctionnalité Canal d'Assistance, qui permet aux nouveaux joueurs et aux joueurs revenants de demander de l'aide aux aventuriers vétérans.${prompt}
+  16835: 'Vous devez entreprendre l’objectif “${unknown: 0x01054082808080}” des Registres de l’Éminence avant de recevoir l’explication.${prompt}'
+  16836: 'Vous devez terminer “${unknown: 0x01054082818080}” avant de prendre l’objectif “${unknown: 0x01054082808080}” des Registres de l’Éminence.${prompt}'
   16837: |-
-    What do you want to learn about?
+    Que voulez-vous apprendre?
     ${selection-lines}
-    What is the Assist Channel?
-    How can I post a message?
-    What are the requirements?
-    Where can I access it?
-    Tell me about mentor messages.
-    Where can I find mentors?
-    What are Thumbs Up and Warnings?
-    What happens if I am muted?
-    When do my posting rights expire?
-    Nothing for now.${prompt}
-  16838: The Assist Channel is a special chat channel that allows adventurers to ask questions and receive advice from veteran players known as mentors.${prompt}
-  16839: Press the space bar to bring up the text window at the bottom of the screen and type “/assistj (your message)” or “/assiste (your message)” to post your message.${prompt}
-  16840: You can also use “/aj” for “/assistj”, and “/ae” for “/assiste”.${prompt}
-  16841: Additionally, pressing CTRL+Q will display “/assistj” or “/assiste” in the text window for you.${prompt}
-  16842: You can change the CTRL+Q shortcut command...${prompt}
-  16843: '...by going to Main Menu > Config > Misc. 2 > Key Assignment > Commands > Chat: /AssistE or /AssistJ.${prompt}'
-  16844: It is recommended that you use “/assistj (/aj)” when posting in Japanese, and “/assiste (/ae)” when posting in English.${prompt}
-  16845: You must meet one of the following conditions in order to post to the Assist Channel.${prompt}
+    Qu'est-ce que le Canal d'Assistance?
+    Comment puis-je poster un message?
+    Quels sont les prérequis?
+    Où puis-je y accéder?
+    Parlez-moi des messages des mentors.
+    Où puis-je trouver des mentors?
+    Quels sont les Pouce en l'air et les Avertissements?
+    Que se passe-t-il si je suis réduit au silence?
+    Quand mes droits de publication expirent-ils?
+    Rien pour l'instant.${prompt}
+  16838: Le Canal d'Assistance est un canal de discussion spécial qui permet aux aventuriers de poser des questions et de recevoir des conseils de la part de joueurs expérimentés appelés mentors.${prompt}
+  16839: Appuyez sur la barre d'espace pour ouvrir la fenêtre de texte en bas de l'écran et tapez “/assistj (votre message)” ou “/assiste (votre message)” pour poster votre message.${prompt}
+  16840: Vous pouvez également utiliser “/aj” pour “/assistj” et “/ae” pour “/assiste”.${prompt}
+  16841: De plus, en appuyant sur CTRL+Q, vous afficherez “/assistj” ou “/assiste” dans la fenêtre de texte.${prompt}
+  16842: Vous pouvez changer la commande de raccourci CTRL+Q...${prompt} 
+  16843: '...en allant dans Menu Principal > Config > Divers 2 > Assignation des touches > Commandes > Chat: /AssistE ou /AssistJ.${prompt}'
+  16844: Il est recommandé d'utiliser “/assistj (/aj)” lorsque vous postez en japonais et “/assiste (/ae)” lorsque vous postez en anglais.${prompt}
+  16845: Vous devez remplir l'une des conditions suivantes pour pouvoir poster dans le Canal d'Assistance.${prompt}
   16846: |-
-    1. You are a new player
-    You may post messages from the moment you first set foot in Vana'diel.${prompt}
+    1. Vous êtes un nouveau joueur
+    Vous pouvez poster des messages dès que vous mettez les pieds pour la première fois dans Vana'diel.${prompt}
   16847: |-
-    2. You are a returnee
-    As a returning player, you may post messages upon logging in with a character that has not logged in for at least 48 days.${prompt}
+    2. Vous êtes un revenant
+    En tant que joueur revenant, vous pouvez poster des messages dès la connexion avec un personnage qui n'a pas été connecté depuis au moins 48 jours.${prompt}
   16848: |-
-    3. You are a mentor
-    You may post messages as long as you remain a mentor to other players.${prompt}
-  16849: New players and returnees may post messages until they have been logged in for a total of 48 hours since first receiving their posting rights.${prompt}
-  16850: If you wish to check how long you can continue to post for, speak to an ${name-npc} and choose "When do my posting rights expire?" to see how much time you have left.${prompt}
-  16851: The Assist Channel can only be used in the following areas.${prompt}
+    3. Vous êtes un mentor
+    Vous pouvez poster des messages tant que vous restez mentor pour d'autres joueurs.${prompt}
+  16849: Les nouveaux joueurs et les revenants peuvent poster des messages jusqu'à ce qu'ils aient passé un total de 48 heures en jeu depuis qu'ils ont reçu leurs droits de publication.${prompt}
+  16850: Si vous souhaitez vérifier pendant combien de temps vous pouvez continuer à poster, parlez à un ${name-npc} et choisissez "Quand mes droits de publication expirent-ils?" pour voir combien de temps il vous reste.${prompt}
+  16851: Le Canal d'Assistance ne peut être utilisé que dans les zones suivantes.${prompt}
   16852: |-
     Available areas:
     ${unknown: 0x01053782F38180}, ${unknown: 0x01053782F48180},
@@ -35533,14 +35533,14 @@ entries:
     ${unknown: 0x01053782B58080}, ${unknown: 0x01053782808280}...${prompt}
   16855: |-
     ...${unknown: 0x01053782818280}, ${unknown: 0x010537829A8080},
-    ${unknown: 0x01053782C68080}, and your Mog House (Rent-a-Room).${prompt}
-  16856: You cannot post or read messages outside of the areas listed above.${prompt}
+    ${unknown: 0x01053782C68080}, et votre Maison Mog (Location d'une chambre).${prompt}
+  16856: Vous ne pouvez ni envoyer ni lire de messages en dehors des zones mentionnées ci-dessus.${prompt}
   16857: |-
-    Even in areas where messages are allowed, you cannot post consecutive messages.
-    Please wait a while after posting a message.${prompt}
+    Même dans les zones où les messages sont autorisés, vous ne pouvez pas envoyer de messages consécutifs.
+    Veuillez attendre un moment après avoir envoyé un message.${prompt}
   16858: |-
-    Mentor messages are accompanied by a flag (${icon: 0xEFEF}${icon: 0xEF2F}) marker.
-    This marker indicates the mentor's reliability (Mentor Class) and experience as an adventurer (Mastery Rank).${prompt}
+    Les messages des mentors sont accompagnés d'un marqueur de drapeau (${icon: 0xEFEF}${icon: 0xEF2F}).
+    Ce marqueur indique la fiabilité du mentor (Classe de mentor) et son expérience en tant qu'aventurier (Niveau de maîtrise).${prompt}
   16859: 'As a mentor''s Mentor Class increases, the color and shape of the marker will change: ${icon: 0xEFEF}${icon: 0xEF2F} > ${icon: 0xEFEF}${icon: 0xEF39} > ${icon: 0xEFEF}${icon: 0xEF43}${prompt}'
   16860: 'A ${icon: 0xEFEF}${icon: 0xEF43} marker is a sign that the mentor has earned the highest levels of trust from other adventurers.${prompt}'
   16861: The number affixed to the marker is the mentor's Mastery Rank, and indicates how experienced the mentor is as an adventurer.${prompt}
