@@ -5237,25 +5237,25 @@ entries:
   3555: |-
     Oh I see...
     You went up a rrrank, did you? So what rrrank arrre you now...? Rrrank six!? I'm speechless!${prompt}
-  3556: NiNe★DeTeCtS sOmE-tHiNg★GoOd HaPpEnEd★tO YoU!${prompt}
-  3557: hOw DiD★nInE kNOw★ThIs...?★BeCaUse★YoUr boDy★TeMpE-rAtUrE iS★hIgHeR tHaN★nOrMaL!${prompt}
-  3558: hAvE yOU★bEcOmE strOngEr★sIncE thE★lAst tImE★wE mEt?${prompt}
-  3559: kEEp★thIs Up★And yOU★cOUld EvEn★prOvE yOUrsElf★A mAtch★tO wE★cArdIAns!${prompt}
-  3560: 'You cannot pass beyond these doors unless you have ${keyitem-article: 1[2]}.${prompt}'
-  3561: Please proceed through this doorway.${prompt}
-  3562: 'You appear to have the necessary ${keyitem-singular: 1[2]}, but to board the next airship bound for Jeuno, we require a payment of ${number: 7} gil.${prompt}'
+  3556: NiNe★dEtEcTe qUeLqUe cHoSe★dE bIeN vOuS eSt★aRriVé !${prompt}
+  3557: cOmMeNt NiNe★lE sAiT-iL ?★pArCe qUe vOtRe★tEmPéRaTurE cOrPoReLle★eSt pLuS éLéVéE qUe★lA nOrMaLe !${prompt}
+  3558: êTeS-vOuS★dEveNu★pLuS foRt★dEpUis lA★dErNièRe fOiS qUe★nOuS nOuS★sOmMeS vUs ?${prompt}
+  3559: sI vOuS★cOnTiNuEz cOmMe★çA, vOuS★pOuRrIeZ★mêmE★vOuS★mEsUrEr★à nOuS, lEs★CaRdIaNs !${prompt}
+  3560: 'Vous ne pouvez pas passer au-delà de ces portes à moins d’avoir ${keyitem-article: 1[2]}.${prompt}'
+  3561: Veuillez passer par cette porte.${prompt}
+  3562: 'Vous semblez avoir le nécessaire ${keyitem-singular: 1[2]}, mais pour embarquer sur le prochain aéronef à destination de Jeuno, nous vous demandons un paiement de ${number: 7} gil.${prompt}'
   3563: |-
-    Board an airship?
+    Embarquer à bord d'un aéronef ?
     ${selection-lines}
-    Board.
-    Catch the next one.${prompt}
-  3564: 'Before you can ride on an airship, we require a payment of ${number: 7} gil from you.${prompt}'
-  3565: We hope you had a pleasant journey. Will you be disembarking here at the Federation of Windurst today?${prompt}
+    Embarquer.
+    Attendre le prochain.${prompt}
+  3564: 'Avant de pouvoir monter à bord d’un aéronef, nous vous demandons un paiement de ${number: 7} gil.${prompt}'
+  3565: Nous espérons que vous avez fait un bon voyage. Allez-vous débarquer ici aujourd'hui, à la Fédération de Windurst ?${prompt}
   3566: |-
-    Proceed through customs?
+    Passer la douane ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
+    Oui.
+    Non.${prompt}
   3567: Cette porte est réservée aux départs uniquement. Les arrivées à Windurst doivent passer par cette porte ici.${prompt}
   3568: Cette porte est réservée au débarquement à Windurst uniquement. Ceux qui souhaitent partir de Windurst doivent temporairement quitter ce bâtiment et réentrer par la porte à gauche.${prompt}
   3569: J'espère que vous n'avez rien oublié. Une fois que vous montez à bord d'un vaisseau aérien, il vous faudra un certain temps avant de pouvoir revenir.${prompt}
@@ -6093,46 +6093,46 @@ entries:
   4121: |-
     I, I'm going to die, aren't I...?
     Eww, if that'll ease this feeling, then maybe it's for the better. Just say sorry to all my fans back home...${prompt}
-  4122: Will I leave anything behind for them to remember me by...? BAAARRRRFFFFF!!!${prompt}
-  4123: I heard Windurst is a land of magic users, but it doesn't look like everyone around here can actually use magic.${prompt}
-  4124: Just goes to show...there's a lot of things you don't know about this world until you actually go see for yourself!${prompt}
-  4125: Don't tell me he's thinking of some sort of mischief again? Oh, Master Sigismund...!${prompt}
-  4126: We'll be late for our airship again. I've lost count of the number of flights we've missed!${prompt}
-  4127: Have you, traveler, also come to Windurst to take a looky at the Great Star Tree? If so, then the star tree, also known as Heavens Tower, is far to the northeasty of here, in Windurst Walls.${prompt}
-  4128: If you wanty, I can use my magic to sendy you to Windurst Walls in an instant. Would you likey that?${prompt}
+  4122: Laisserai-je quelque chose derrière moi pour qu'ils se souviennent de moi...? BAAARRRRFFFFF!!!${prompt}
+  4123: J'ai entendu dire que Windurst est une terre de magiciens, mais on dirait que tout le monde ici ne sait pas vraiment utiliser la magie.${prompt}
+  4124: Cela montre bien... il y a beaucoup de choses que l'on ne sait pas sur ce monde tant qu'on ne les voit pas de ses propres yeux !${prompt}
+  4125: Ne me dites pas qu'il pense à une sorte de bêtise encore une fois ? Oh, Maître Sigismund...!${prompt}
+  4126: Nous serons encore en retard pour notre dirigeable. J'ai perdu le compte du nombre de vols que nous avons manqués !${prompt}
+  4127: Vous aussi, voyageur, êtes-vous venu à Windurst pour admirer le Grand Arbre Étoilé ? Si c'est le cas, l'arbre étoilé, également connu sous le nom de Tour des Cieux, se trouve loin au nord-est d'ici, dans les Murailles de Windurst.${prompt}
+  4128: Si vous voulez, je peux utiliser ma magie pour vous envoyer aux Murailles de Windurst en un instant. Voudriez-vous cela ?${prompt}
   4129: |-
-    Warpy to Windurst Walls?
+    Voulez-vous être téléporté aux Murailles de Windurst ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  4130: Step rrright up! Step rrright up! This is yourrr last chance to shop in Windurst! Get yourrr souvenirs or forrrgotten shopping done here!${prompt}
-  4131: Hmm...I wonder what things foreigners like to buy?${prompt}
+    Oui.
+    Non.${prompt}
+  4130: Approchez, approchez ! C'est votre dernière chance de faire du shopping à Windurst ! Achetez vos souvenirs ou terminez vos achats oubliés ici !${prompt}
+  4131: Hmm... Je me demande ce que les étrangers aiment acheter ?${prompt}
   4132: |-
-    Welcomey-helcomey!
-    You've just got to look at my wares. There are plenty of bargains to stock up on.${prompt}
+    Bienvenue !
+    Vous devez absolument regarder mes articles. Il y a plein de bonnes affaires pour faire le plein.${prompt}
   4133: |-
-    Welcome to Kususu's Ho～odo～os!
-    We have low-level to medium-level magic on sale to help you through the early, rough spells in your life.${prompt}
-  4134: Buy some hocus-pocus from us at Kususu's Hoodoos! I'll give you a smiley charm from me, Aroro, for free! C'mon... How about it then?${prompt}
+    Bienvenue chez les Bidules de Kususu !
+    Nous avons des sorts de bas à moyen niveau en vente pour vous aider à traverser les débuts difficiles de votre vie.${prompt}
+  4134: Achetez un peu de hocus-pocus chez les Bidules de Kususu ! Je vous donnerai un charmant sourire de ma part, Aroro, gratuitement ! Allez... Qu'en dites-vous ?${prompt}
   4135: |-
-    Hohbiba-Mubiba!
-    Just because, at first glance, we Tarutaru look weak, doesn't mean you should make light of our weapons.${prompt}
-  4136: If you have any doubts, than I'd like to see you give one of these little beauties a try!${prompt}
+    Hohbiba-Mubiba !
+    Juste parce que, à première vue, nous, les Tarutaru, avons l'air faibles, ne signifie pas que vous devez sous-estimer nos armes.${prompt}
+  4136: Si vous avez des doutes, j'aimerais vous voir essayer l'une de ces petites beautés !${prompt}
   4137: |-
-    Hohbiba-Mubiba!
-    That's how our weapon shop greets its customers! Hohbiba-Mubiba!${prompt}
+    Hohbiba-Mubiba !
+    C'est ainsi que notre magasin d'armes accueille ses clients ! Hohbiba-Mubiba !${prompt}
   4138: |-
-    Taniko-Maniko!
-    That's how our weapon shop says goodbye! Taniko-Maniko!${prompt}
-  4139: There's a time to attack and a time to defend... And speaking defensively, why not get some armor or fine clothes here?${prompt}
-  4140: At Guruna-Maguruna's, we tailor to your needs!${prompt}
-  4141: Rrroll up! Rrroll up! Plenty of goods from Norvallen! The morrre you buy, the happierrr you'll make me!${prompt}
+    Taniko-Maniko !
+    C'est ainsi que notre magasin d'armes dit au revoir ! Taniko-Maniko !${prompt}
+  4139: Il y a un temps pour attaquer et un temps pour se défendre... Et en parlant de défense, pourquoi ne pas acheter une armure ou de beaux vêtements ici ?${prompt}
+  4140: Chez Guruna-Maguruna, nous répondons à vos besoins !${prompt}
+  4141: Roulez jeunesse ! Roulez jeunesse ! Plein de marchandises de Norvallen ! Plus vous achetez, plus vous me rendrez heureux !${prompt}
   4142: |-
-    The sea brrreeze is so refrrreshing!
-    At least this'll keep me happy until I rrreceive my next shipment of goods from Norvallen! I think I'm in heaven!${prompt}
-  4143: Come one, come all! Goods from Fauregandi for sale! But make surrre you brrring your gil with you!${prompt}
-  4144: I'm a traveling merrrchant. There arrre times when I have prrroducts from Fauregandi, but rrright now I'm clearrr out of stock!${prompt}
-  4145: Buy somethin' from Valdeaunia...?${prompt}
+    La brise marine est si rafraîchissante !
+    Au moins, cela me rendra heureux jusqu'à ce que je reçoive ma prochaine livraison de marchandises de Norvallen ! Je pense que je suis au paradis !${prompt}
+  4143: Venez tous ! Venez tous ! Marchandises de Fauregandi à vendre ! Mais assurez-vous d'apporter votre gil avec vous !${prompt}
+  4144: Je suis un marchand itinérant. Il y a des moments où j'ai des produits de Fauregandi, mais en ce moment, je suis complètement en rupture de stock !${prompt}
+  4145: Acheter quelque chose de Valdeaunia...?${prompt}
   4146: Valdeaunia...${prompt}
   4147: |-
     She sells ${item-plural: 1[2]} by the sea shorrre!
@@ -26720,48 +26720,49 @@ entries:
   12790: NG${prompt}
   12791: 'Number ${number: 2} is the answer.${prompt}'
   12792: |-
-    Excuse me, ${choice-player-gender}[sir/madam].
-    If you are boarding the airship, might I ask you a favor?${prompt}
-  12793: A passenger who intended to board the next flight dropped this...${prompt}
-  12794: I cannot leave my post, so I was wondering if you could return it to its rightful owner in my stead?${prompt}
+    Excusez-moi, ${choice-player-gender}[monsieur/madame].
+    Si vous prenez l'avion, puis-je vous demander une faveur ?${prompt}
+  12793: Un passager qui devait prendre le prochain vol a laissé tomber ceci...${prompt}
+  12794: Je ne peux pas quitter mon poste, alors je me demandais si vous pouviez le rendre à son propriétaire légitime à ma place ?${prompt}
   12795: |-
-    Return the dropped item?
+    Rendre l'objet trouvé ?
     ${selection-lines}
-    Gladly.
-    Sorry, I'm a busy ${choice-player-gender}[man/woman].${prompt}
+    Avec plaisir.
+    Désolé, je suis un(e) ${choice-player-gender}[homme/femme] occupé(e).${prompt}
   12796: |-
-    Thank you!
-    The passenger who dropped the item looked like this.${prompt}
-  12797: Have you memorized the image?${prompt}
+    Merci !
+    Le passager qui a perdu l'objet ressemblait à ceci.${prompt}
+  12797: Avez-vous mémorisé l'image ?${prompt}
   12798: |-
-    Have you got it?
+    Vous l'avez ?
     ${selection-lines}
-    I got it.
-    Not yet.${prompt}
-  12799: The passenger who dropped the item should be on the next flight.${prompt}
-  12800: I leave the rest in your capable hands.${prompt}
+    Oui, je l'ai.
+    Pas encore.${prompt}
+  12799: Le passager qui a perdu l'objet devrait être sur le prochain vol.${prompt}
+  12800: Je laisse le reste entre vos mains compétentes.${prompt}
   12801: |-
-    I see...
-    I'm sorry to have bothered you with such a trivial request.${prompt}
+    Je vois...
+    Je suis désolé de vous avoir dérangé avec une demande si triviale.${prompt}
   12802: |-
-    Oh, the airship has already left...
-    I guess we'll just have to leave this with the airship authorities.${prompt}
+    Oh, le dirigeable est déjà parti...
+    Je suppose que nous devrons simplement laisser cela aux autorités du dirigeable.${prompt}
   12803: |-
-    You were unable to meet with the rightful owner of the item?
-    Well, thank you for your help, in any case. I will hand the item over to the airship authorities.${prompt}
-  12804: What, you've forgotten already?${prompt}
+    Vous n'avez pas pu rencontrer le propriétaire légitime de l'objet ?
+    Eh bien, merci pour votre aide, en tout cas. Je vais remettre l'objet aux autorités du dirigeable.${prompt}
+  12804: Quoi, vous avez déjà oublié ?${prompt}
   12805: |-
-    Have you forgotten?
+    Avez-vous oublié ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  12806: The passenger looked like this.${prompt}
-  12807: It's my job to look out for suspicious characters coming in on the airships.${prompt}
-  12808: The IRNC has dispatched me to help support all those who wish to participate in Conflict.${prompt}
-  12809: 'Before you can take part in this Conflict event, you must first possess ${keyitem-article: 0[2]}. You can obtain one from your nation''s Conflict Commander, ${choice: 1}[Excenmille, stationed in Northern San d''Oria./Invincible Shield, stationed in the Metalworks in Bastok./Mhabi Molkot, stationed in Heavens Tower in Windurst.]${prompt}'
-  12810: Only adventurers who have achieved rank 3 or higher may take part in official Ballista matches. Please return when you have proven your loyalty to your home nation.${prompt}
-  12811: However, if you still wish to take part in Ballista, participation in matches held within Diorama Abdhaljs-Ghelsba is open to all citizens of Vana'diel.${prompt}
-  12812: What services do you require?${prompt}
+    Oui.
+    Non.${prompt}
+  12806: Le passager ressemblait à ceci.${prompt}
+  12807: Mon travail consiste à surveiller les personnages suspects arrivant sur les dirigeables.${prompt}
+  12808: L'IRNC m'a envoyé pour soutenir tous ceux qui souhaitent participer à Conflict.${prompt}
+  12809: |-
+    'Avant de pouvoir participer à cet événement Conflict, vous devez d'abord posséder ${keyitem-article: 0[2]}. Vous pouvez en obtenir un auprès du commandant Conflict de votre nation, ${choice: 1}[Excenmille, stationné à San d'Oria du Nord./Invincible Shield, stationné dans les Ateliers de Bastok./Mhabi Molkot, stationnée à la Tour des Cieux à Windurst.]${prompt}'
+  12810: Seuls les aventuriers ayant atteint le rang 3 ou plus peuvent participer aux matchs officiels de Ballista. Veuillez revenir lorsque vous aurez prouvé votre loyauté envers votre nation d'origine.${prompt}
+  12811: Cependant, si vous souhaitez toujours participer à Ballista, la participation aux matchs se déroulant dans le Diorama Abdhaljs-Ghelsba est ouverte à tous les citoyens de Vana'diel.${prompt}
+  12812: Quels services souhaitez-vous ?${prompt}
   12813: |-
     What can I help you with?
     ${selection-lines}
