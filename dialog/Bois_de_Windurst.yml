@@ -16736,82 +16736,82 @@ entries:
   6740: 'num=1:${number: 1}${prompt}'
   6741: 'num=1:${number: 2}${prompt}'
   6742: |-
-    Accept this mission?
+    Accepter cette mission ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  6743: You have accepted the mission.${prompt}
-  6744: How about a magic map to help you on your adventures?${prompt}
+    Oui.
+    Non.${prompt}
+  6743: Vous avez accepté la mission.${prompt}
+  6744: Que diriez-vous d'une carte magique pour vous aider dans vos aventures ?${prompt}
   6745: |-
-    Buy a map?
+    Acheter une carte ?
     ${selection-lines}
-    Decline.
-    Inquire about maps.
-    ${lettercase: 1}${keyitem-singular: 1[2]} (${number: 17} gil).
-    ${lettercase: 1}${keyitem-singular: 2[2]} (${number: 18} gil).
-    ${lettercase: 1}${keyitem-singular: 3[2]} (${number: 19} gil).
-    ${lettercase: 1}${keyitem-singular: 4[2]} (${number: 20} gil).
-    ${lettercase: 1}${keyitem-singular: 5[2]} (${number: 21} gil).
-    ${lettercase: 1}${keyitem-singular: 6[2]} (${number: 22} gil).
-    ${lettercase: 1}${keyitem-singular: 7[2]} (${number: 23} gil).
-    ${lettercase: 1}${keyitem-singular: 8[2]} (${number: 24} gil).
-    ${lettercase: 1}${keyitem-singular: 9[2]} (${number: 25} gil).
-    ${lettercase: 1}${keyitem-singular: 10[2]} (${number: 26} gil).
-    ${lettercase: 1}${keyitem-singular: 11[2]} (${number: 27} gil).
-    ${lettercase: 1}${keyitem-singular: 12[2]} (${number: 28} gil).
-    ${lettercase: 1}${keyitem-singular: 13[2]} (${number: 29} gil).
-    ${lettercase: 1}${keyitem-singular: 14[2]} (${number: 30} gil).
-    ${lettercase: 1}${keyitem-singular: 15[2]} (${number: 31} gil).
-    ${lettercase: 1}${keyitem-singular: 16[2]} (${number: 32} gil).
-    Previous page.
-    Next page.${prompt}
-  6746: If you have a map, you can check both the lay of the land and your location whenever you enter an area.${prompt}
+    Refuser.
+    Demander des informations sur les cartes.
+    ${lettercase: 1}${keyitem-singular: 1[2]} (${number: 17} gils).
+    ${lettercase: 1}${keyitem-singular: 2[2]} (${number: 18} gils).
+    ${lettercase: 1}${keyitem-singular: 3[2]} (${number: 19} gils).
+    ${lettercase: 1}${keyitem-singular: 4[2]} (${number: 20} gils).
+    ${lettercase: 1}${keyitem-singular: 5[2]} (${number: 21} gils).
+    ${lettercase: 1}${keyitem-singular: 6[2]} (${number: 22} gils).
+    ${lettercase: 1}${keyitem-singular: 7[2]} (${number: 23} gils).
+    ${lettercase: 1}${keyitem-singular: 8[2]} (${number: 24} gils).
+    ${lettercase: 1}${keyitem-singular: 9[2]} (${number: 25} gils).
+    ${lettercase: 1}${keyitem-singular: 10[2]} (${number: 26} gils).
+    ${lettercase: 1}${keyitem-singular: 11[2]} (${number: 27} gils).
+    ${lettercase: 1}${keyitem-singular: 12[2]} (${number: 28} gils).
+    ${lettercase: 1}${keyitem-singular: 13[2]} (${number: 29} gils).
+    ${lettercase: 1}${keyitem-singular: 14[2]} (${number: 30} gils).
+    ${lettercase: 1}${keyitem-singular: 15[2]} (${number: 31} gils).
+    ${lettercase: 1}${keyitem-singular: 16[2]} (${number: 32} gils).
+    Page précédente.
+    Page suivante.${prompt}
+  6746: Avec une carte, vous pouvez vérifier à la fois le terrain et votre emplacement à chaque fois que vous entrez dans une zone.${prompt}
   6747: |-
-    If you belong to a party or alliance, you can also check the position of your allies.
-    And depending on your job, you can find NPCs and enemies from afar.${prompt}
+    Si vous faites partie d'un groupe ou d'une alliance, vous pouvez également vérifier la position de vos alliés.
+    Et selon votre travail, vous pouvez repérer des PNJ et des ennemis de loin.${prompt}
   6748: |-
-    Furthermore, you can even record specific points in the area or have places marked down for certain events.
-    So you see, magic maps are extremely useful.${prompt}
+    De plus, vous pouvez même enregistrer des points spécifiques dans la région ou marquer des lieux pour certains événements.
+    Comme vous pouvez le voir, les cartes magiques sont extrêmement utiles.${prompt}
   6749: |-
-    The ${keyitem-singular: 1[2]} covers Ronfaure, the La Theine Plateau, the Valkurm Dunes, Jugner Forest, Selbina, and San d'Oria.
-    It costs ${number: 3} gil.${prompt}
+    Le ${keyitem-singular: 1[2]} couvre Ronfaure, le Plateau de La Théine, les Dunes de Valkurm, la Forêt de Jugner, Selbina et San d'Oria.
+    Il coûte ${number: 3} gils.${prompt}
   6750: |-
-    The ${keyitem-singular: 1[2]} covers Gustaberg, the Konschtat Highlands, the Pashhow Marshlands, and Bastok.
-    It costs ${number: 3} gil.${prompt}
+    Le ${keyitem-singular: 1[2]} couvre Gustaberg, les Hautes-Terres de Konschtat, les Marais de Pashhow et Bastok.
+    Il coûte ${number: 3} gils.${prompt}
   6751: |-
-    The ${keyitem-singular: 1[2]} covers Sarutabaruta, the Tahrongi Canyon, the Buburimu Peninsula, the Meriphataud Mountains, Mhaura, and Windurst.
-    It costs ${number: 3} gil.${prompt}
+    Le ${keyitem-singular: 1[2]} couvre Sarutabaruta, le Canyon de Tahrongi, la Péninsule de Buburimu, les Montagnes de Meriphataud, Mhaura et Windurst.
+    Il coûte ${number: 3} gils.${prompt}
   6752: |-
-    The ${keyitem-singular: 1[2]} covers Batallia Downs, Rolanberry Fields, the Sauromugue Champaign, and Jeuno.
-    It costs ${number: 3} gil.${prompt}
-  6753: 'This complete ${keyitem-singular: 1[2]}, which extend far beneath La Theine Plateau, costs ${number: 3} gil.${prompt}'
-  6754: '${lettercase: 1}${keyitem-plural: 1[2]} include layouts for both outpost and fortress of Ghelsba, as well as the Yughott Grotto. It costs ${number: 3} gil.${prompt}'
-  6755: 'The ${keyitem-singular: 1[2]} shows the notorious Orcish stronghold hidden within Jugner Forest. It is priced at ${number: 3} gil.${prompt}'
-  6756: 'This map shows the waterways and islands that make up Carpenters'' Landing. It is priced at ${number: 3} gil.${prompt}'
+    Le ${keyitem-singular: 1[2]} couvre les Plaines de Batallia, les Champs de Rolanberry, la Champagne de Sauromugue et Jeuno.
+    Il coûte ${number: 3} gils.${prompt}
+  6753: 'Ce ${keyitem-singular: 1[2]} complet, qui s’étend bien en dessous du Plateau de La Théine, coûte ${number: 3} gils.${prompt}'
+  6754: '${lettercase: 1}${keyitem-plural: 1[2]} inclut les plans à la fois de l’avant-poste et de la forteresse de Ghelsba, ainsi que du Grotto Yughott. Il coûte ${number: 3} gils.${prompt}'
+  6755: 'Le ${keyitem-singular: 1[2]} montre le repaire orque notoire caché dans la Forêt de Jugner. Il est vendu ${number: 3} gils.${prompt}'
+  6756: 'Cette carte montre les voies navigables et les îles qui composent le Carpenters’ Landing. Elle est vendue ${number: 3} gils.${prompt}'
   6757: |-
-    The ${keyitem-singular: 1[2]}, as the name implies, contains the layout of Bastok's Zeruhn Mines.
-    It costs ${number: 3} gil.${prompt}
+    Le ${keyitem-singular: 1[2]}, comme son nom l'indique, contient le plan des Mines de Zeruhn à Bastok.
+    Il coûte ${number: 3} gils.${prompt}
   6758: |-
-    The ${keyitem-singular: 1[2]}, as the name implies, contains the layout of the Palborough Mines, which lie in North Gustaberg.
-    It costs ${number: 3} gil.${prompt}
+    Le ${keyitem-singular: 1[2]}, comme son nom l'indique, contient le plan des Mines de Palborough, situées dans le Nord de Gustaberg.
+    Il coûte ${number: 3} gils.${prompt}
   6759: |-
-    The ${keyitem-singular: 1[2]}, as the name implies, contains the layout of the Quadav stronghold, Beadeaux, that is located in the Pashhow Marshlands.
-    It costs ${number: 3} gil.${prompt}
+    Le ${keyitem-singular: 1[2]}, comme son nom l'indique, contient le plan du repaire des Quadavs, Beadeaux, situé dans les Marais de Pashhow.
+    Il coûte ${number: 3} gils.${prompt}
   6760: |-
-    The ${keyitem-singular: 1[2]}, as the name implies, contains the layout of Giddeus, which you can reach from West Sarutabaruta.
-    It costs ${number: 3} gil.${prompt}
+    Le ${keyitem-singular: 1[2]}, comme son nom l'indique, contient le plan de Giddeus, accessible depuis l'Ouest de Sarutabaruta.
+    Il coûte ${number: 3} gils.${prompt}
   6761: |-
-    The ${keyitem-singular: 1[2]} contains the layout of the Yagudo stronghold, Castle Oztroja, located in the Meriphataud Mountains.
-    It costs ${number: 3} gil.${prompt}
+    Le ${keyitem-singular: 1[2]} contient le plan du repaire des Yagudo, le Château d'Oztroja, situé dans les Montagnes de Meriphataud.
+    Il coûte ${number: 3} gils.${prompt}
   6762: |-
-    The ${keyitem-singular: 1[2]} contains the layout of the underground maze of Shakhrami that can be found in the Tahrongi Canyon area.
-    It costs ${number: 3} gil.${prompt}
+    Le ${keyitem-singular: 1[2]} contient le plan du labyrinthe souterrain de Shakhrami, situé dans la région du Canyon de Tahrongi.
+    Il coûte ${number: 3} gils.${prompt}
   6763: |-
-    The ${keyitem-singular: 1[2]} covers the Sanctuary of Zi'Tah, Ro'Maeve, and the Hall of the Gods.
-    It costs ${number: 3} gil.${prompt}
+    Le ${keyitem-singular: 1[2]} couvre le Sanctuaire de Zi'Tah, Ro'Maeve et la Salle des Dieux.
+    Il coûte ${number: 3} gils.${prompt}
   6764: |-
-    This map covers Bibiki Bay and its nearby islands.
-    It costs ${number: 3} gil.${prompt}
+    Cette carte couvre la Baie de Bibiki et ses îles environnantes.
+    Elle coûte ${number: 3} gils.${prompt}
   6765: 'The ${keyitem-singular: 1[2]} outlines the geography of nearby Qufim Island. It costs ${number: 3} gil.${prompt}'
   6766: 'Located beneath Batallia Downs, the Eldieme Necropolis is shown in detail on this map. The price is ${number: 3} gil.${prompt}'
   6767: 'The Garlaige Citadel, which lies upon the Sauromugue Champaign, is illustrated in this map. Each copy costs ${number: 3} gil.${prompt}'
