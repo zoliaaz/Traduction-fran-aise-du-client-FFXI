@@ -23566,36 +23566,36 @@ entries:
     ${lettercase: 1}${item-plural: 2[2]}.
     ${lettercase: 1}${item-plural: 3[2]}.
     Retour.${prompt}
-  11223: '${lettercase: 1}${item-plural: 0[2]} are ${item-plural: 1[2]} when you first buy them at the store.${prompt}'
-  11224: 'Once opened, they start making ${item-plural: 2[2]} and become the communications tool everyone''s using.${prompt}'
-  11225: 'You can set the color and name of your ${item-singular: 1[2]} when you open it. Make sure to set the ones you like because you can''t change them afterwards!${prompt}'
-  11226: '${lettercase: 1}${item-plural: 1[2]} are ${item-plural: 0[2]} that have been opened and function as a communications tool.${prompt}'
+  11223: '${lettercase: 1}${item-plural: 0[2]} sont des ${item-plural: 1[2]} lorsque vous les achetez pour la première fois au magasin.${prompt}'
+  11224: 'Une fois ouverts, ils commencent à produire des ${item-plural: 2[2]} et deviennent l’outil de communication que tout le monde utilise.${prompt}'
+  11225: 'Vous pouvez définir la couleur et le nom de votre ${item-singular: 1[2]} lorsque vous l’ouvrez. Assurez-vous de choisir ceux que vous aimez car vous ne pouvez pas les changer par la suite !${prompt}'
+  11226: '${lettercase: 1}${item-plural: 1[2]} sont des ${item-plural: 0[2]} qui ont été ouverts et fonctionnent comme un outil de communication.${prompt}'
   11227: |-
-    You can make ${item-plural: 2[2]} and ${item-plural: 3[2]} from those shells.
-    They're like the party leader of an adventuring party.${prompt}
-  11228: 'All items created by your ${item-singular: 1[2]} retain the ${item-singular: 1[2]}''s color and name.${prompt}'
-  11229: Make the name something unique so that it's easy to remember.${prompt}
-  11230: '${lettercase: 1}${item-plural: 2[2]} are pearls that ${item-plural: 1[2]} make.${prompt}'
-  11231: 'If you equip one, you can communicate with people who have the same ${item-plural: 2[2]} and the ${item-singular: 1[2]} they were made from.${prompt}'
-  11232: They're like the party members in an adventuring party.${prompt}
-  11233: '${lettercase: 1}${article} ${item-article: 3[2]} is a bag full of ${item-plural: 2[2]}. You can make one by metamorphosing a ${item-singular: 2[2]} for that purpose.${prompt}'
-  11234: 'It won''t have all the features of ${article} ${item-article: 1[2]}, but you can take out an endless amount of ${item-plural: 2[2]} like ${article} ${item-article: 1[2]}.${prompt}'
-  11235: 'You have to use ${article} ${item-article: 1[2]} to make ${article} ${item-article: 3[2]}. The same goes if you want to turn it back into ${article} ${item-article: 2[2]}.${prompt}'
-  11236: They're like the party leaders of an alliance of adventuring parties...${prompt}
+    Vous pouvez fabriquer des ${item-plural: 2[2]} et des ${item-plural: 3[2]} à partir de ces coquillages.
+    Ils sont comme le chef de groupe dans un groupe d'aventuriers.${prompt}
+  11228: 'Tous les objets créés par votre ${item-singular: 1[2]} conservent la couleur et le nom de votre ${item-singular: 1[2]}.${prompt}'
+  11229: Choisissez un nom unique pour qu'il soit facile à mémoriser.${prompt}
+  11230: '${lettercase: 1}${item-plural: 2[2]} sont des perles que les ${item-plural: 1[2]} produisent.${prompt}'
+  11231: 'Si vous en équipez une, vous pouvez communiquer avec les personnes qui possèdent les mêmes ${item-plural: 2[2]} et le ${item-singular: 1[2]} dont elles sont issues.${prompt}'
+  11232: Ils sont comme les membres d'un groupe dans une équipe d'aventuriers.${prompt}
+  11233: '${lettercase: 1}${article} ${item-article: 3[2]} est un sac rempli de ${item-plural: 2[2]}. Vous pouvez en fabriquer un en métamorphosant un ${item-singular: 2[2]} à cet effet.${prompt}'
+  11234: 'Il n’aura pas toutes les fonctionnalités de ${article} ${item-article: 1[2]}, mais vous pouvez retirer une quantité infinie de ${item-plural: 2[2]} comme ${article} ${item-article: 1[2]}.${prompt}'
+  11235: 'Vous devez utiliser ${article} ${item-article: 1[2]} pour fabriquer ${article} ${item-article: 3[2]}. Il en va de même si vous voulez le reconvertir en ${article} ${item-article: 2[2]}.${prompt}'
+  11236: Ils sont comme les chefs d'alliance des groupes d'aventuriers...${prompt}
   11237: |-
-    You want to know how to use them?
-    Where should I start?${prompt}
+    Vous voulez savoir comment les utiliser ?
+    Par où devrais-je commencer ?${prompt}
   11238: |-
-    What do you want to know about?
+    Que voulez-vous savoir ?
     ${selection-lines}
-    Where to get one.
-    Assigning a color and name.
-    Making ${item-plural: 2[2]}.
-    Equipping them.
-    Speaking into them.
-    Metamorphosing ${article} ${item-article: 2[2]}.
-    Throwing them away.
-    Back.${prompt}
+    Où en obtenir un.
+    Attribution d'une couleur et d'un nom.
+    Fabrication de ${item-plural: 2[2]}.
+    Équipement.
+    Parler dedans.
+    Métamorphose de ${article} ${item-article: 2[2]}.
+    Les jeter.
+    Retour.${prompt}
   11239: 'You can buy ${item-plural: 1[2]} in shops. They''re a little pricey, though.${prompt}'
   11240: It might be best if you ask friends who want pearls to chip in.${prompt}
   11241: 'A freshly bought ${item-singular: 0[2]} has neither a color nor a name.${prompt}'
