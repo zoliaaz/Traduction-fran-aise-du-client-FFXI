@@ -5256,43 +5256,43 @@ entries:
     ${selection-lines}
     Yes.
     No.${prompt}
-  3567: That door is for departures only. Arrivals to Windurst should pass through this door here.${prompt}
-  3568: That door is for disembarking into Windurst only. Those wishing to depart from Windurst need to temporarily leave this building and reenter through the door on the left.${prompt}
-  3569: I trust you haven't forgotten anything. Once you board an airship it will take you quite a while before you'll be able to return.${prompt}
-  3570: My job is to inspect your belongings and see if there is anything inappropriate to Windurst.${prompt}
-  3571: If you are hiding something, you had better hurry up and admit to it.${prompt}
+  3567: Cette porte est réservée aux départs uniquement. Les arrivées à Windurst doivent passer par cette porte ici.${prompt}
+  3568: Cette porte est réservée au débarquement à Windurst uniquement. Ceux qui souhaitent partir de Windurst doivent temporairement quitter ce bâtiment et réentrer par la porte à gauche.${prompt}
+  3569: J'espère que vous n'avez rien oublié. Une fois que vous montez à bord d'un vaisseau aérien, il vous faudra un certain temps avant de pouvoir revenir.${prompt}
+  3570: Mon travail consiste à inspecter vos bagages et à voir s'il y a quelque chose d'inapproprié pour Windurst.${prompt}
+  3571: Si vous cachez quelque chose, vous feriez mieux de vous dépêcher et d'admettre.${prompt}
   3572: |-
-    Welcome to the Federation of Windurst.
-    If you run into any trouble during your stay in Windurst, please report to your country's consulate for assistance.${prompt}
+    Bienvenue à la Fédération de Windurst.
+    Si vous rencontrez des problèmes lors de votre séjour à Windurst, veuillez vous rendre au consulat de votre pays pour obtenir de l'aide.${prompt}
   3573: |-
-    Welcome home.
-    How was your journey?
-    We trust you had a pleasant flight.${prompt}
-  3574: For the arrival time of the next airship, you will need to speak with Kameel at the landing dock. We hope you have a pleasant flight.${prompt}
+    Bienvenue chez vous.
+    Comment était votre voyage?
+    Nous espérons que vous avez eu un vol agréable.${prompt}
+  3574: Pour l'heure d'arrivée du prochain vaisseau aérien, vous devrez parler à Kameel au quai d'atterrissage. Nous vous souhaitons un agréable vol.${prompt}
   3575: |-
-    Sorry to keep you waiting.
-    The ${choice: 2}[arrival/departure] of the next airship will be in ${choice: 3}[less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours] (${number: 1} ${choice-plurality: 1}[minute/minutes] in Earth time).${prompt}
+    Désolé de vous avoir fait attendre.
+    L'${choice: 2}[arrivée/départ] du prochain vaisseau aérien aura lieu dans ${choice: 3}[moins d'une heure/environs une heure/environs deux heures/environs trois heures/environs quatre heures/environs cinq heures/environs six heures/environs sept heures] (${number: 1} ${choice-plurality: 1}[minute/minutes] en temps terrestre).${prompt}
   3576: |-
-    Please hurry!
-    The next airship will soon ${choice: 2}[arrive/depart]!${prompt}
-  3577: Although Windurst is my motherland, I spent all the years during and after the Great War in Jeuno.${prompt}
-  3578: My memories of old Windurst town have grown quite vague. The first thing for me to do is to get my hands on a map, I think.${prompt}
-  3579: Wherrre shall I go to next?${prompt}
-  3580: It looks as if war is brewing everywhere I look. It's getting so that a Mithra can't travel in peace these days...${prompt}
-  3581: Well, I've had a great time in Windurst, and seen a lot of amazing stuff. Guess it's about time to head on home...${prompt}
-  3582: Before I go, I have to find a souvenir of my stay that's unique to Windurst. But none of the stuff sold in the shops here is worth showing off to people...${prompt}
+    S'il vous plaît, dépêchez-vous !
+    Le prochain vaisseau aérien va bientôt ${choice: 2}[arriver/partir] !${prompt}
+  3577: Bien que Windurst soit ma terre natale, j'ai passé toutes les années pendant et après la Grande Guerre à Jeuno.${prompt}
+  3578: Mes souvenirs de la vieille ville de Windurst sont devenus assez vagues. La première chose à faire est de mettre la main sur une carte, je pense.${prompt}
+  3579: Où devrais-je aller ensuite ?${prompt}
+  3580: Il semble que la guerre soit imminente partout où je regarde. On ne peut plus voyager en paix ces jours-ci, même en tant que Mithra...${prompt}
+  3581: Eh bien, j'ai passé un bon moment à Windurst et j'ai vu beaucoup de choses incroyables. Il est temps de rentrer chez moi...${prompt}
+  3582: Avant de partir, je dois trouver un souvenir de mon séjour qui soit unique à Windurst. Mais rien de ce qui est vendu dans les magasins ici ne vaut la peine d'être montré aux gens...${prompt}
   3583: |-
-    Hey, adventurer!
-    Have you heard about a place out in Sarutabaruta somewhere called the Starfall Hillock?${prompt}
-  3584: 'I''ve heard that at a certain time of night on that hill, the dew crystallizes into ice, forming ${article} ${item-article: 1[2]}.${prompt}'
+    Hé, aventurier !
+    As-tu entendu parler d'un endroit quelque part dans Sarutabaruta appelé la Colline de l'Étoile Tombante ?${prompt}
+  3584: 'J’ai entendu dire qu’à une certaine heure de la nuit sur cette colline, la rosée se cristallise en glace, formant ${article} ${item-article: 1[2]}.${prompt}'
   3585: |-
-    The little missus would be so pleased if you could get your hands on one of those ice crystals. She's bound to think it's all cute and Märchen-like, don't you think?
-    So how about it, huh? If you won't do it for me, do it for the little missus.${prompt}
-  3586: 'Out in Sarutabaruta somewhere there''s a place called Starfall Hillock where, only for a few hours of each night, you can find a beautiful natural ice formation called ${article} ${item-article: 1[2]}.${prompt}'
-  3587: They say Windurst is the country blessed by the moon and stars, so something to do with the stars would make a most fitting present, don't you think?${prompt}
-  3588: I see Master Sigismund has asked you to go get him a memento of Windurst to take back as a souvenir.${prompt}
-  3589: 'But what he doesn''t realize about ${item-plural: 1[2]} is that they''ll melt away in an instant if you touch them with your bare hands.${prompt}'
-  3590: 'I''ve heard an old wives'' tale that you can use ${article} ${item-article: 2[2]} in order to pick them up.${prompt}'
+    La petite madame serait tellement heureuse si tu pouvais mettre la main sur l'un de ces cristaux de glace. Elle pensera sûrement que c'est mignon et Märchen-esque, tu ne penses pas ?
+    Alors, qu'est-ce que t'en dis, hein ? Si tu ne le fais pas pour moi, fais-le pour la petite madame.${prompt}
+  3586: 'Il y a quelque part dans Sarutabaruta un endroit appelé la Colline de l’Étoile Tombante où, pendant seulement quelques heures de chaque nuit, tu peux trouver une belle formation de glace naturelle appelée ${article} ${item-article: 1[2]}.${prompt}'
+  3587: On dit que Windurst est le pays béni par la lune et les étoiles, donc quelque chose en rapport avec les étoiles ferait un cadeau des plus appropriés, tu ne penses pas ?${prompt}
+  3588: Je vois que Maître Sigismund t'a demandé d'aller lui chercher un souvenir de Windurst à ramener comme souvenir.${prompt}
+  3589: 'Mais ce qu’il ne réalise pas à propos de ${item-plural: 1[2]} c’est qu’ils fondront instantanément si tu les touches avec tes mains nues.${prompt}'
+  3590: 'J’ai entendu une vieille histoire selon laquelle tu peux utiliser ${article} ${item-article: 2[2]} pour les ramasser.${prompt}'
   3591: |-
     Oh, well done!
     I'm so pleased you were able to get me one. Let me see it...!${prompt}
@@ -35539,10 +35539,10 @@ entries:
     Even in areas where messages are allowed, you cannot post consecutive messages.
     Please wait a while after posting a message.${prompt}
   16858: |-
-    Mentor messages are accompanied by a flag (${icon: 0xEFEF}/) marker.
+    Mentor messages are accompanied by a flag (${icon: 0xEFEF}${icon: 0xEF2F}) marker.
     This marker indicates the mentor's reliability (Mentor Class) and experience as an adventurer (Mastery Rank).${prompt}
-  16859: 'As a mentor''s Mentor Class increases, the color and shape of the marker will change: ${icon: 0xEFEF}/ > ${icon: 0xEFEF}9 > ${icon: 0xEFEF}C${prompt}'
-  16860: 'A ${icon: 0xEFEF}C marker is a sign that the mentor has earned the highest levels of trust from other adventurers.${prompt}'
+  16859: 'As a mentor''s Mentor Class increases, the color and shape of the marker will change: ${icon: 0xEFEF}${icon: 0xEF2F} > ${icon: 0xEFEF}${icon: 0xEF39} > ${icon: 0xEFEF}${icon: 0xEF43}${prompt}'
+  16860: 'A ${icon: 0xEFEF}${icon: 0xEF43} marker is a sign that the mentor has earned the highest levels of trust from other adventurers.${prompt}'
   16861: The number affixed to the marker is the mentor's Mastery Rank, and indicates how experienced the mentor is as an adventurer.${prompt}
   16862: The higher the number, the more experienced the mentor is.${prompt}
   16863: You can check your own Mastery Rank even if you do not serve as a mentor, so feel free to take a look every now and then if you are curious.${prompt}
