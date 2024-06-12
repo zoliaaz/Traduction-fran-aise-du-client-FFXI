@@ -23637,76 +23637,76 @@ entries:
   11270: But as normal items, you'll lose them permanently if you throw them away.${prompt}
   11271: 'It won''t really matter if it''s ${article} ${item-article: 2[2]}, but throwing away ${article} ${item-article: 1[2]} is not a good idea!${prompt}'
   11272: |-
-    Oh, are you sure?
-    Well, if you ever have any questions about ${item-plural: 1[2]} you know where to find me!${prompt}
-  11273: (So anyway, as I was saying...)
+    Oh, êtes-vous sûr(e) ?
+    Eh bien, si vous avez des questions sur ${item-plural: 1[2]}, vous savez où me trouver !${prompt}
+  11273: (Donc, comme je le disais...)
   11274: |-
-    Your fate rides on the changing winds of Vana'diel.
-    I can give you insight on the local weather.${prompt}
+    Votre destin est entre les mains changeantes des vents de Vana'diel.
+    Je peux vous donner un aperçu de la météo locale.${prompt}
   11275: |-
-    What area's weather do you wish to know?
+    De quelle région voulez-vous connaître la météo ?
     ${selection-lines}
-    Nowhere.
+    Nulle part.
     Ronfaure.
-    La Theine Plateau.
-    Valkurm Dunes.
-    Jugner Forest.
-    Batallia Downs.
+    Le Plateau de La Théine.
+    Les Dunes de Valkurm.
+    La Forêt de Jugner.
+    Les Plaines de Batallia.
     Gustaberg.
-    Konschtat Highlands.
-    Pashhow Marshlands.
-    Rolanberry Fields.
-    Beaucedine Glacier.
+    Les Hautes terres de Konschtat.
+    Les Marais de Pashhow.
+    Les Champs de Ronfaure.
+    Le Glacier de Beaucedine.
     Xarcabard.
-    Cape Teriggan.
-    Altepa Desert.
+    Le Cap Teriggan.
+    Le Désert d'Altepa.
     Sarutabaruta.
-    Tahrongi Canyon.
-    Buburimu Peninsula.
-    Meriphataud Mountains.
-    Sauromugue Champaign.
-    The Sanctuary of Zi'Tah.
-    Yuhtunga & Yhoator Jungles.
-    Qufim Island.
+    Le Canyon de Tahrongi.
+    La Péninsule de Buburimu.
+    Les Montagnes de Meriphataud.
+    Les Plaines de Sauromugue.
+    Le Sanctuaire de Zi'Tah.
+    Les Jungles de Yuhtunga et Yhoator.
+    L'Île de Qufim.
     Tu'Lia.
     Ferry.
-    Airship.
+    Dirigeable.
     Jeuno.
-    Uleguerand Range.
-    Tavnazian Archipelago.
-    Riverne - Sites #A01 & #B01.${prompt}
-  11276: 'That area''s forecast for today is for ${weather-noun: 0[2]} with occasional ${weather-noun: 1[2]}. There is also a slight chance of ${weather-noun: 2[2]}, so caution is advised.${prompt}'
-  11277: 'The forecast for tomorrow is for ${weather-noun: 0[2]} with occasional ${weather-noun: 1[2]}. There is also a slight chance of ${weather-noun: 2[2]}, so caution is advised.${prompt}'
-  11278: 'And, the forecast for the day after tomorrow is for ${weather-noun: 0[2]} with occasional ${weather-noun: 1[2]}. There is also a slight chance of ${weather-noun: 2[2]}, so caution is advised.${prompt}'
-  11279: 'Today, that area''s weather will be ${weather-adjective: 0[2]} with a chance of ${weather-noun: 1[2]}.${prompt}'
-  11280: 'Tomorrow, the weather will be ${weather-adjective: 0[2]} with a chance of ${weather-noun: 1[2]}.${prompt}'
-  11281: 'And, the day after tomorrow, the weather will be ${weather-adjective: 0[2]} with a chance of ${weather-noun: 1[2]}.${prompt}'
-  11282: 'Today, the weather in that area will be ${weather-adjective: 0[2]}. There is also the possibility of ${weather-noun: 2[2]}, so caution is advised.${prompt}'
-  11283: 'Tomorrow, the weather will be ${weather-adjective: 0[2]}. There is also the possibility of ${weather-noun: 2[2]}, so caution is advised.${prompt}'
-  11284: 'And, the day after tomorrow, the weather will be ${weather-adjective: 0[2]}. There is also the possibility of ${weather-noun: 2[2]}, so caution is advised.${prompt}'
-  11285: 'The weather in that area today will be ${weather-adjective: 0[2]}.${prompt}'
-  11286: 'The weather tomorrow will be ${weather-adjective: 0[2]}.${prompt}'
-  11287: 'The weather the day after tomorrow will be ${weather-adjective: 0[2]}.${prompt}'
-  11288: And that's the report, straight from Vana'diel's official weather linkshell.${prompt}
+    Les Montagnes d'Uleguerand.
+    L'Archipel de Tavnazia.
+    Les Rivernes - Sites #A01 & #B01.${prompt}
+  11276: "La prévision pour aujourd'hui dans cette région est un ${weather-noun: 0[2]} avec des ${weather-noun: 1[2]} occasionnelles. Il y a également une légère chance de ${weather-noun: 2[2]}, donc la prudence est de mise.${prompt}"
+  11277: "La prévision pour demain est un ${weather-noun: 0[2]} avec des ${weather-noun: 1[2]} occasionnelles. Il y a également une légère chance de ${weather-noun: 2[2]}, donc la prudence est de mise.${prompt}"
+  11278: "Et, la prévision pour après-demain est un ${weather-noun: 0[2]} avec des ${weather-noun: 1[2]} occasionnelles. Il y a également une légère chance de ${weather-noun: 2[2]}, donc la prudence est de mise.${prompt}"
+  11279: "Aujourd'hui, la météo dans cette région sera ${weather-adjective: 0[2]} avec un risque de ${weather-noun: 1[2]}.${prompt}"
+  11280: "Demain, le temps sera ${weather-adjective: 0[2]} avec un risque de ${weather-noun: 1[2]}.${prompt}"
+  11281: "Et, après-demain, le temps sera ${weather-adjective: 0[2]} avec un risque de ${weather-noun: 1[2]}.${prompt}"
+  11282: "Aujourd'hui, le temps dans cette région sera ${weather-adjective: 0[2]}. Il existe également la possibilité de ${weather-noun: 2[2]}, donc la prudence est de mise.${prompt}"
+  11283: "Demain, le temps sera ${weather-adjective: 0[2]}. Il existe également la possibilité de ${weather-noun: 2[2]}, donc la prudence est de mise.${prompt}"
+  11284: "Et, après-demain, le temps sera ${weather-adjective: 0[2]}. Il existe également la possibilité de ${weather-noun: 2[2]}, donc la prudence est de mise.${prompt}"
+  11285: "La météo dans cette région aujourd'hui sera ${weather-adjective: 0[2]}.${prompt}"
+  11286: "La météo demain sera ${weather-adjective: 0[2]}.${prompt}"
+  11287: "La météo après-demain sera ${weather-adjective: 0[2]}.${prompt}"
+  11288: Et voilà le rapport, directement de la linkshell météo officielle de Vana'diel.${prompt}
   11289: |-
-    What area's weather do you wish to know?
+    De quelle région voulez-vous connaître la météo ?
     ${selection-lines}
-    Nowhere.
-    Wajaom Woodlands.
-    Bhaflau Thickets.
-    Mount Zhayolm.
-    Caedarva Mire.${prompt}
+    Nulle part.
+    Les Bois de Wajaom.
+    Les Fourrés de Bhaflau.
+    Le Mont Zhayolm.
+    La Bourbassie de Caedarva.${prompt}
   11290: |-
-    What area's weather do you wish to know?
+    De quelle région voulez-vous connaître la météo ?
     ${selection-lines}
-    Nowhere.
-    Ceizak Battlegrounds.
-    Yahse Hunting Grounds.
-    Foret de Hennetiel.
-    Morimar Basalt Fields.
-    Yorcia Weald.
-    Marjami Ravine.
-    Kamihr Drifts.${prompt}
+    Nulle part.
+    Les Champs de Bataille de Ceizak.
+    Les Terres de Chasse de Yahse.
+    La Forêt de Hennetiel.
+    Les Champs de Basalte de Morimar.
+    La Forêt de Yorcia.
+    Le Ravin de Marjami.
+    Les Dérives de Kamihr.${prompt}
   11291: "${unknown: 0x0256000350}\0The Federation of Windurst...\nAn ancient capital nurtured by the boughs\nof a great tree, blessed by magical waters,\nand protected by the moon and stars.${wait-animation: 7}"
   11292: |-
     ${unknown: 0x0264000354}${unknown: 0x0154686572652069732061206C6567656E6420696E207468697320636F756E7472792E07496E20612074696D6520666F72676F7474656E2C20612070656F706C6520666F7263656420746F0777616E64657220627920}starvation and cold were led
