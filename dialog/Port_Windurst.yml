@@ -5682,52 +5682,52 @@ entries:
     Uh...here...
     Take it back!
     <sob>...Waaaaa～aah!!!${prompt}
-  3838: This is the gateway to Windurst's residential area. Inside, there are Mog Houses available for use by citizens of Windurst.${prompt}
-  3839: Ooh... What a strange facey-wacey you're making! Don't tell me you don't know what a Mog House is. Well then, allow me to explainy-wainy!${prompt}
+  3838: Voici l'entrée de la zone résidentielle de Windurst. À l'intérieur, des Maisons Mog sont disponibles pour les citoyens de Windurst.${prompt}
+  3839: Ooh... Quelle drôle de tête tu fais! Ne me dis pas que tu ne sais pas ce qu'est une Maison Mog. Eh bien, laisse-moi t'expliquer!${prompt}
   3840: |-
-    Listen to Mog House explanation?
+    Écouter l'explication sur les Maisons Mog?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  3841: A Mog House is your own personal apartment room, provided for your convenience.${prompt}
-  3842: In your Mog House, you can carry out such activities as storing items, changing jobs, and healing HP and MP.${prompt}
-  3843: As you are a citizen of Windurst, you already have a Mog House prepared for you up the stairs behind me.${prompt}
-  3844: Why don'taru head up to your Mog House now and rest your tired little body-wody?${prompt}
-  3845: This is the gateway to Windurst's residential area. Inside, there are Mog Houses available for use by citizens of Windurst.${prompt}
-  3846: Do you want to hear my explanation of Mog Houses again-wainy?${prompt}
-  3847: Well then, bye-bye and ta-taru!${prompt}
-  3848: This is the gateway to Windurst's residential area. Inside, there are Mog Houses available for use by citizens of Windurst.${prompt}
+    Oui.
+    Non.${prompt}
+  3841: Une Maison Mog est votre propre appartement personnel, fourni pour votre commodité.${prompt}
+  3842: Dans votre Maison Mog, vous pouvez effectuer des activités telles que le stockage d'objets, le changement de métier et la guérison des PV et PM.${prompt}
+  3843: En tant que citoyen de Windurst, une Maison Mog est déjà préparée pour vous en haut des escaliers derrière moi.${prompt}
+  3844: Pourquoi ne pas monter à votre Maison Mog maintenant et reposer votre petit corps fatigué?${prompt}
+  3845: Voici l'entrée de la zone résidentielle de Windurst. À l'intérieur, des Maisons Mog sont disponibles pour les citoyens de Windurst.${prompt}
+  3846: Voulez-vous entendre à nouveau mon explication sur les Maisons Mog?${prompt}
+  3847: Eh bien, au revoir et à bientôt!${prompt}
+  3848: Voici l'entrée de la zone résidentielle de Windurst. À l'intérieur, des Maisons Mog sont disponibles pour les citoyens de Windurst.${prompt}
   3849: |-
-    Hmm...let me see...
-    I believe you currently have a Rent-a-Room leased in ${choice: 0}[San d'Oria/Bastok/Windurst/Jeuno/Kazham/Rabao/Norg/Al Zahbi], rightaru?${prompt}
-  3850: 'Shall I move you out of the Rent-a-Room in ${choice: 0}[San d''Oria/Bastok/Windurst/Jeuno/Kazham/Rabao/Norg/Al Zahbi] and have your belongings brought back here to your Mog House in Windurst?${prompt}'
+    Hmm...laisse-moi voir...
+    Je crois que tu as actuellement loué une Chambre-à-louer à ${choice: 0}[San d'Oria/Bastok/Windurst/Jeuno/Kazham/Rabao/Norg/Al Zahbi], n'est-ce pas?${prompt}
+  3850: 'Voulez-vous quitter la Chambre-à-louer à ${choice: 0}[San d''Oria/Bastok/Windurst/Jeuno/Kazham/Rabao/Norg/Al Zahbi] et ramener vos affaires ici dans votre Maison Mog à Windurst?${prompt}'
   3851: |-
-    Move out of your Rent-a-Room?
+    Quitter votre Chambre-à-louer?
     ${selection-lines}
-    Yes.
-    No.${prompt}
+    Oui.
+    Non.${prompt}
   3852: |-
-    Okey-dokey... Consider it done!
-    I have returned your Rent-a-Room in ${choice: 0}[San d'Oria/Bastok/Windurst/Jeuno/Kazham/Rabao/Norg/Al Zahbi]. You are free to use your Mog-House here againy-wainy.${prompt}
-  3853: This is the gateway to Windurst's residential area. Inside, there are Mog Houses available for use by citizens of Windurst.${prompt}
+    Okey-dokey... Considère que c'est fait!
+    J'ai résilié votre Chambre-à-louer à ${choice: 0}[San d'Oria/Bastok/Windurst/Jeuno/Kazham/Rabao/Norg/Al Zahbi]. Vous êtes libre d'utiliser à nouveau votre Maison Mog ici.${prompt}
+  3853: Voici l'entrée de la zone résidentielle de Windurst. À l'intérieur, des Maisons Mog sont disponibles pour les citoyens de Windurst.${prompt}
   3854: |-
     Oh...?
-    You already have a Rent-a-Room leased here, so you're free to enter as you please.${prompt}
-  3855: This is the gateway to Windurst's residential area. Inside, there are Mog Houses available for use by citizens of Windurst.${prompt}
+    Vous avez déjà loué une Chambre-à-louer ici, donc vous êtes libre d'entrer quand bon vous semble.${prompt}
+  3855: Voici l'entrée de la zone résidentielle de Windurst. À l'intérieur, des Maisons Mog sont disponibles pour les citoyens de Windurst.${prompt}
   3856: |-
-    Oh... Um...?
-    Excusey-wusey me, but you're not a citizen of Windurst, are you?${prompt}
+    Oh... Euh...?
+    Excusez-moi, mais vous n'êtes pas citoyen de Windurst, n'est-ce pas?${prompt}
   3857: |-
-    Not to worry... Not to worry...
-    We can lend rooms out to people from other countries too. We just call them Rent-a-Rooms, but they are nearly the same as Mog Houses, anyway.${prompt}
+    Pas de souci... Pas de souci...
+    Nous pouvons aussi prêter des chambres aux personnes d'autres pays. Nous les appelons simplement Chambres-à-louer, mais elles sont presque les mêmes que les Maisons Mog.${prompt}
   3858: |-
-    Lease a Rent-a-Room?
+    Louer une Chambre-à-louer?
     ${selection-lines}
-    Yes.
-    No.${prompt}
+    Oui.
+    Non.${prompt}
   3859: |-
-    Okey-dokey... Consider it done!
-    I have assigned a Rent-a-Room for your use inside Windurst's residential area. You are free to start using it whenever you see fit.${prompt}
+    Okey-dokey... Considère que c'est fait!
+    J'ai attribué une Chambre-à-louer pour votre usage dans la zone résidentielle de Windurst. Vous êtes libre de commencer à l'utiliser quand bon vous semble.${prompt}
   3860: What in Windurst is going on? The airship from Jeuno arrived hours ago, but our flub-the-dub minister is nowhere to be seen.${prompt}
   3861: What's the matter with him? It's been weeks since he suddenly upped and left us in a helter-skelter.${prompt}
   3862: And when he finally sends us a teensy-weensy message, it just reads, “I have a lot of luggage, so come meet me at the airship port!”${prompt}
