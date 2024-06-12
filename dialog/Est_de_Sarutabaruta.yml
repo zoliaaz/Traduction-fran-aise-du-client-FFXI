@@ -17948,98 +17948,98 @@ entries:
   7367: ${prompt}
   7368: ${prompt}
   7369: ${prompt}
-  7370: Nothing happens...${prompt}
-  7371: You can feel the warm, moist breath of the maw on your skin.${prompt}
-  7372: An unseen force is drawing you towards the maw.${prompt}
-  7373: '${color-alt: 121}A portal has opened within the depths of the maw.'
+  7370: Rien ne se passe...${prompt}
+  7371: Vous pouvez sentir le souffle chaud et humide de la mâchoire sur votre peau.${prompt}
+  7372: Une force invisible vous attire vers la mâchoire.${prompt}
+  7373: '${color-alt: 121}Un portail s’est ouvert dans les profondeurs de la mâchoire.'
   7374: |-
-    Raise your ${keyitem-singular: 0[2]}?
+    Élevez votre ${keyitem-singular: 0[2]} ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  7375: 'You fit the ${keyitem-singular: 0[2]} into the hollow.${prompt}'
-  7376: 'There is a hollow here in the shape of ${keyitem-article: 0[2]}.${prompt}'
-  7377: The lycopodium is entranced by a sparkling light...${prompt}
-  7378: '${color-alt: 15}Your memory is engraved with an image of your surroundings and the fragrance of flowers...'
-  7379: The ground is sparkling with a strange light.${prompt}
-  7380: The sparkling light seems vaguely familiar to you...${prompt}
-  7381: You sense that a certain trigger may awaken the memories slumbering in your mind.${prompt}
-  7382: '${color-alt: 15}The fragrance of the flower sends your senses reeling back to the world of the past...'
-  7383: '${color-alt: 121}The relevant battle data has been recorded in your ${keyitem-singular: 0[2]}.'
-  7384: An unseen force is drawing you towards the maw.${prompt}
+    Oui.
+    Non.${prompt}
+  7375: 'Vous insérez le ${keyitem-singular: 0[2]} dans le creux.${prompt}'
+  7376: 'Il y a un creux ici en forme de ${keyitem-article: 0[2]}.${prompt}'
+  7377: Le lycopode est enchanté par une lumière scintillante...${prompt}
+  7378: '${color-alt: 15}Votre mémoire est gravée d’une image de votre environnement et du parfum des fleurs...'
+  7379: Le sol scintille d’une lumière étrange.${prompt}
+  7380: La lumière scintillante vous semble vaguement familière...${prompt}
+  7381: Vous sentez qu'un certain déclencheur pourrait éveiller les souvenirs endormis dans votre esprit.${prompt}
+  7382: '${color-alt: 15}Le parfum de la fleur fait revenir vos sens dans le monde du passé...'
+  7383: '${color-alt: 121}Les données de bataille pertinentes ont été enregistrées dans votre ${keyitem-singular: 0[2]}.'
+  7384: Une force invisible vous attire vers la mâchoire.${prompt}
   7385: |-
-    Warp to Abyssea - ${choice: 0}[Dummy/La Theine/Konschtat/Tahrongi/Attohwa/Misareaux/Vunkerl/Altepa/Grauberg/Uleguerand]?
+    Téléportation vers Abyssea - ${choice: 0}[Dummy/La Theine/Konschtat/Tahrongi/Attohwa/Misareaux/Vunkerl/Altepa/Grauberg/Uleguerand] ?
     ${selection-lines}
-    Proceed.
-    Not yet.${prompt}
+    Continuer.
+    Pas encore.${prompt}
   7386: |-
-    Warp to ${choice: 0}[Dummy/the La Theine Plateau/the Konschtat Highlands/the Tahrongi Canyon/the Buburimu Peninsula/the Valkurm Dunes/the Jugner Forest/South Gustaberg/North Gustaberg/Xarcabard/Qufim Island]?
+    Téléportation vers ${choice: 0}[Dummy/le Plateau de La Theine/les Hautes Terres de Konschtat/le Canyon de Tahrongi/la Péninsule de Buburimu/les Dunes de Valkurm/la Forêt de Jugner/Sud de Gustaberg/Nord de Gustaberg/Xarcabard/Ile de Qufim] ?
     ${selection-lines}
-    Proceed.
-    Not yet.${prompt}
-  7387: 'You do not possess ${keyitem-article: 0[2]}...${prompt}'
+    Continuer.
+    Pas encore.${prompt}
+  7387: 'Vous ne possédez pas ${keyitem-article: 0[2]}...${prompt}'
   7388: |-
-    Your body cannot cope with further strain.
-    You must rest for another ${number: 0} ${choice-plurality: 0}[minute/minutes].${prompt}
+    Votre corps ne peut pas supporter plus de contraintes.
+    Vous devez vous reposer encore ${number: 0} ${choice-plurality: 0}[minute/minutes].${prompt}
   7389: |-
-    To where will you head?
+    Où allez-vous ?
     ${selection-lines}
-    ${choice: 0}[The past/The present].
-    Walk of Echoes.
-    Nowhere for now.${prompt}
+    ${choice: 0}[Le passé/Le présent].
+    Promenade des Échos.
+    Nulle part pour l'instant.${prompt}
   7390: |-
-    Southeast: South Tower, Horutoto Ruins
-    Southwest: Windurst Woods${prompt}
+    Sud-est : Tour Sud, Ruines de Horutoto
+    Sud-ouest : Bois de Windurst${prompt}
   7391: |-
-    North: East Tower, Horutoto Ruins
-    South: South Tower, Horutoto Ruins
-    Southwest: Windurst Woods${prompt}
+    Nord : Tour Est, Ruines de Horutoto
+    Sud : Tour Sud, Ruines de Horutoto
+    Sud-ouest : Bois de Windurst${prompt}
   7392: |-
-    Northeast: East Tower, Horutoto Ruins
-    West: West Sarutabaruta
-    Southwest: Windurst Woods${prompt}
+    Nord-est : Tour Est, Ruines de Horutoto
+    Ouest : Sarutabaruta Ouest
+    Sud-ouest : Bois de Windurst${prompt}
   7393: |-
-    East: East Tower, Horutoto Ruins
-    West: West Sarutabaruta
-    Southwest: Windurst Woods${prompt}
+    Est : Tour Est, Ruines de Horutoto
+    Ouest : Sarutabaruta Ouest
+    Sud-ouest : Bois de Windurst${prompt}
   7394: |-
-    West: West Sarutabaruta
-    South: Windurst Woods${prompt}
+    Ouest : Sarutabaruta Ouest
+    Sud : Bois de Windurst${prompt}
   7395: |-
-    East: Tahrongi Canyon
-    West: West Sarutabaruta${prompt}
+    Est : Canyon de Tahrongi
+    Ouest : Sarutabaruta Ouest${prompt}
   7396: |-
-    East: Tahrongi Canyon
-    West: West Sarutabaruta${prompt}
+    Est : Canyon de Tahrongi
+    Ouest : Sarutabaruta Ouest${prompt}
   7397: |-
-    East: Tahrongi Canyon
-    Northwest: West Sarutabaruta
-    South: Windurst Woods${prompt}
+    Est : Canyon de Tahrongi
+    Nord-ouest : Sarutabaruta Ouest
+    Sud : Bois de Windurst${prompt}
   7398: |-
-    Northwest: West Sarutabaruta
-    South: Windurst Woods${prompt}
-  7399: You cannot read the signpost from here.${prompt}
+    Nord-ouest : Sarutabaruta Ouest
+    Sud : Bois de Windurst${prompt}
+  7399: Vous ne pouvez pas lire le panneau d'ici.${prompt}
   7400: |-
-    This is the entrrrance to Windurst.
-    Please maintain orderrrly conduct while you'rrre in town.${prompt}
+    C'est l'entrée de Windurst.
+    Veuillez maintenir une conduite ordonnée pendant que vous êtes en ville.${prompt}
   7401: |-
-    These grrrasslands make up East Sarutabaruta.
-    Lately the number of monsters has drrramatically increased, causing us all sorts of trrrouble.${prompt}
-  7402: This is the east magic towerrr. Beneath here lies the Horutoto Ruins that have existed here in Sarutabaruta long beforrre Windurst even came into existence.${prompt}
-  7403: Le ministre de l'Orasterie se trouve dans le laboratoire en-dessous d'ici. Pour y accéder, vous devriez vérifier les murs très soigneusement.${prompt}
+    Ces prairies constituent l'Est de Sarutabaruta.
+    Dernièrement, le nombre de monstres a considérablement augmenté, nous causant toutes sortes de problèmes.${prompt}
+  7402: C'est la tour de magie est. En dessous se trouvent les Ruines de Horutoto qui existent ici à Sarutabaruta bien avant que Windurst n'existe même.${prompt}
+  7403: Le ministre de l'Orastére se trouve dans le laboratoire en-dessous d'ici. Pour y accéder, vous devriez vérifier les murs très soigneusement.${prompt}
   7404: |-
-    Were you able to find the laborrratory?
-    There are many such hidden passages in the Horutoto Ruins.${prompt}
+    Avez-vous pu trouver le laboratoire ?
+    Il y a beaucoup de passages cachés dans les Ruines de Horutoto.${prompt}
   7405: |-
-    Hold on therrre!
-    This ain't no place forrr adventurrrers to just wanderrr in and out of!
-    Withdrrraw immediately!${prompt}
-  7406: This is the southeast tower of the Horutoto Ruins--the only magic tower left functioning after the Great War of twenty years ago.${prompt}
+    Attendez là !
+    Ce n'est pas un endroit pour que les aventuriers se promènent à leur guise !
+    Retirez-vous immédiatement !${prompt}
+  7406: C'est la tour sud-est des Ruines de Horutoto, la seule tour magique encore fonctionnelle après la Grande Guerre d'il y a vingt ans.${prompt}
   7407: |-
-    Yowl!
-    That was a close call, with those ferrral Carrrdians barrrging in therrre! Of courrrse, I rrran away...for help, I mean...${prompt}
-  7408: I heard rumors of evil Cardians attacking people to steal the Mana Orbs created at this tower, but never imagined they'd attack me! Yikey-wikey, was I scared!${prompt}
-  7409: There are reports of evil Cardians attacking people to steal the Mana Orbs created at this tower. Yikey-wikey, is this job scary!?${prompt}
+    Miaou !
+    C'était juste, avec ces Cardians sauvages qui se sont précipités là-dedans ! Bien sûr, je me suis enfui... pour chercher de l'aide, je veux dire...${prompt}
+  7408: J'ai entendu des rumeurs sur des Cardians maléfiques attaquant des gens pour voler les Orbes de Mana créés à cette tour, mais je n'aurais jamais imaginé qu'ils m'attaqueraient ! J'ai eu une peur bleue !${prompt}
+  7409: Il y a des rapports de Cardians maléfiques attaquant des gens pour voler les Orbes de Mana créés à cette tour. J'ai une peur bleue avec ce travail !${prompt}
   7410: mes1${prompt}
   7411: mes2${prompt}
   7412: mes3${prompt}
