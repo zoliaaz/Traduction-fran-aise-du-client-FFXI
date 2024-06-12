@@ -23596,46 +23596,46 @@ entries:
     Métamorphose de ${article} ${item-article: 2[2]}.
     Les jeter.
     Retour.${prompt}
-  11239: 'You can buy ${item-plural: 1[2]} in shops. They''re a little pricey, though.${prompt}'
-  11240: It might be best if you ask friends who want pearls to chip in.${prompt}
-  11241: 'A freshly bought ${item-singular: 0[2]} has neither a color nor a name.${prompt}'
-  11242: '${lettercase: 1}${article} ${item-article: 1[2]} becomes usable only after you''ve chosen its color and given it a name. Then you can use it to make ${item-plural: 2[2]}.${prompt}'
+  11239: 'Vous pouvez acheter des ${item-plural: 1[2]} dans les magasins. Ils sont un peu chers, cependant.${prompt}'
+  11240: Il serait peut-être préférable de demander à des amis qui veulent des perles de participer.${prompt}
+  11241: 'Un ${item-singular: 0[2]} fraîchement acheté n’a ni couleur ni nom.${prompt}'
+  11242: '${lettercase: 1}${article} ${item-article: 1[2]} devient utilisable uniquement après avoir choisi sa couleur et lui avoir donné un nom. Ensuite, vous pouvez l’utiliser pour fabriquer des ${item-plural: 2[2]}.${prompt}'
   11243: |-
-    You can combine different amounts of blue, red, and green to make your shell's color.
-    You can only use alphabet letters for the name, but you can use capital and lowercase letters anywhere you want.${prompt}
-  11244: '${lettercase: 1}${item-plural: 2[2]} are made from ${item-plural: 1[2]}.${prompt}'
-  11245: 'Making them is easy. Just equip your ${item-singular: 1[2]}, then go to “Linkshell” in the menu and select “Create Pearl”!${prompt}'
-  11246: 'All ${item-plural: 2[2]} made this way retain the ${item-singular: 1[2]}''s color and name, so it''s easy to tell who can hear you!${prompt}'
-  11247: 'You can make as many ${item-plural: 2[2]} as you want, whenever you want, so don''t worry about making too many of them!${prompt}'
-  11248: 'You can also make ${item-plural: 2[2]} with ${article} ${item-article: 3[2]} the same way.${prompt}'
-  11249: 'Oh, and...you use your ${item-singular: 1[2]} to make ${item-plural: 3[2]}, too, but it''s a little complicated so I''ll tell you later.${prompt}'
-  11250: 'You have to equip ${article} ${item-article: 1[2]} for it to have any effect.${prompt}'
-  11251: 'Go to “Linkshell” from the menu, choose the ${item-singular: 1[2]} you want to equip, and you''re all ready to go.${prompt}'
-  11252: It's a little different from equipping weapons and armor.${prompt}
-  11253: After you've done this, an icon that represents what you've equipped will appear beside your name. This is where the color you chose becomes visible.${prompt}
-  11254: 'If someone “checks” you in this state, they will be able to see the name of the ${item-singular: 1[2]} you have on.${prompt}'
-  11255: 'Follow the same steps to equip ${item-plural: 2[2]} and ${item-plural: 3[2]}.${prompt}'
-  11256: 'To speak into ${article} ${item-article: 1[2]}, change your chat mode to “linkshell,” and whatever you say will be heard by everyone who has the same “link.”${prompt}'
-  11257: You can also type “/linkshell” and type your message. The shorter version is “/l” (lowercase “L” for “linkshell”).${prompt}
-  11258: 'Ah, but of course, you have to have ${article} ${item-article: 1[2]}, ${item-singular: 2[2]}, or ${item-singular: 3[2]} equipped first.${prompt}'
-  11259: 'Whatever you say will only be heard by people who have the ${item-singular: 1[2]}, ${item-singular: 2[2]}, or ${item-singular: 3[2]} with the same link.${prompt}'
-  11260: 'So if you want to stop listening to your link, all you have to do is unequip your ${item-singular: 1[2]}, ${item-singular: 2[2]}, or ${item-singular: 3[2]}.${prompt}'
-  11261: '${lettercase: 1}${article} ${item-article: 1[2]} can metamorphose other people''s ${item-plural: 2[2]} and ${item-plural: 3[2]}. Of course, it can only affect those that were made from the same ${item-singular: 1[2]}.${prompt}'
+    Vous pouvez combiner différentes quantités de bleu, de rouge et de vert pour obtenir la couleur de votre coquillage.
+    Vous ne pouvez utiliser que des lettres de l'alphabet pour le nom, mais vous pouvez utiliser des majuscules et des minuscules où vous le souhaitez.${prompt}
+  11244: '${lettercase: 1}${item-plural: 2[2]} sont fabriquées à partir de ${item-plural: 1[2]}.${prompt}'
+  11245: 'Les fabriquer est facile. Équipez simplement votre ${item-singular: 1[2]}, puis allez dans “Linkshell” dans le menu et sélectionnez “Créer une perle” !${prompt}'
+  11246: 'Tous les ${item-plural: 2[2]} fabriqués de cette manière conservent la couleur et le nom de votre ${item-singular: 1[2]}, il est donc facile de savoir qui peut vous entendre !${prompt}'
+  11247: 'Vous pouvez fabriquer autant de ${item-plural: 2[2]} que vous le souhaitez, quand vous le souhaitez, donc ne vous inquiétez pas d’en fabriquer trop!${prompt}'
+  11248: 'Vous pouvez également fabriquer des ${item-plural: 2[2]} avec ${article} ${item-article: 3[2]} de la même manière.${prompt}'
+  11249: 'Oh, et... vous utilisez également votre ${item-singular: 1[2]} pour fabriquer des ${item-plural: 3[2]}, mais c’est un peu compliqué alors je vous le dirai plus tard.${prompt}'
+  11250: 'Vous devez équiper ${article} ${item-article: 1[2]} pour qu’il ait un effet.${prompt}'
+  11251: 'Allez dans “Linkshell” dans le menu, choisissez le ${item-singular: 1[2]} que vous souhaitez équiper, et vous êtes prêt !${prompt}'
+  11252: C'est un peu différent d'équiper des armes et des armures.${prompt}
+  11253: Après avoir fait cela, une icône représentant ce que vous avez équipé apparaîtra à côté de votre nom. C'est là que la couleur que vous avez choisie devient visible.${prompt}
+  11254: 'Si quelqu’un vous “vérifie” dans cet état, il pourra voir le nom du ${item-singular: 1[2]} que vous portez.${prompt}'
+  11255: 'Suivez les mêmes étapes pour équiper des ${item-plural: 2[2]} et des ${item-plural: 3[2]}.${prompt}'
+  11256: 'Pour parler dans ${article} ${item-article: 1[2]}, passez en mode “linkshell” dans votre chat, et tout ce que vous direz sera entendu par tout le monde ayant le même “lien”.${prompt}'
+  11257: Vous pouvez également taper “/linkshell” et taper votre message. La version abrégée est “/l” (minuscule “L” pour “linkshell”).${prompt}
+  11258: 'Ah, mais bien sûr, vous devez d’abord avoir ${article} ${item-article: 1[2]}, ${item-singular: 2[2]}, ou ${item-singular: 3[2]} équipé.${prompt}'
+  11259: 'Ce que vous direz ne sera entendu que par les personnes ayant le ${item-singular: 1[2]}, ${item-singular: 2[2]}, ou ${item-singular: 3[2]} avec le même lien.${prompt}'
+  11260: 'Donc, si vous voulez cesser d’écouter votre lien, il vous suffit de déséquiper votre ${item-singular: 1[2]}, ${item-singular: 2[2]}, ou ${item-singular: 3[2]}.${prompt}'
+  11261: '${lettercase: 1}${article} ${item-article: 1[2]} peut métamorphoser les ${item-plural: 2[2]} et ${item-plural: 3[2]} d’autres personnes. Bien sûr, cela ne peut affecter que ceux qui ont été fabriqués à partir du même ${item-singular: 1[2]}.${prompt}'
   11262: |-
-    There are two types of metamorphoses, which are:
-     1: Make into sack / Make into pearl
-     2: Kick.${prompt}
-  11263: 'Both need the target ${item-singular: 2[2]} or ${item-singular: 3[2]} to be equipped at the time.${prompt}'
-  11264: '“Make into sack / Make into pearl” makes the target ${item-singular: 2[2]} into ${article} ${item-article: 3[2]} and vice-versa.${prompt}'
-  11265: 'It''s useful if you want someone else to take care of handing out ${item-plural: 2[2]} in your place.${prompt}'
-  11266: '“Kick” actually breaks the link with the target ${item-singular: 2[2]} or ${item-singular: 3[2]} and turns it into junk.${prompt}'
+    Il existe deux types de métamorphoses, qui sont :
+     1: Transformer en sac / Transformer en perle
+     2: Jeter.${prompt}
+  11263: 'Les deux nécessitent que la cible ${item-singular: 2[2]} ou ${item-singular: 3[2]} soit équipée au moment de l’utilisation.${prompt}'
+  11264: 'La métamorphose “Transformer en sac / Transformer en perle” transforme la cible ${item-singular: 2[2]} en ${article} ${item-article: 3[2]} et vice versa.${prompt}'
+  11265: 'C’est utile si vous voulez que quelqu’un d’autre se charge de distribuer les ${item-plural: 2[2]} à votre place.${prompt}'
+  11266: 'La métamorphose “Jeter” rompt en réalité le lien avec la cible ${item-singular: 2[2]} ou ${item-singular: 3[2]} et la transforme en déchet.${prompt}'
   11267: |-
-    Once kicked, the ${item-singular: 2[2]} will become broken and unusable...
-    Only use this in extreme cases!${prompt}
-  11268: '${lettercase: 1}${item-plural: 3[2]} can also be used to “kick” but they can only affect ${item-plural: 2[2]}.${prompt}'
-  11269: '${lettercase: 1}${item-plural: 1[2]}, ${item-plural: 2[2]}, and ${item-plural: 3[2]} are normal items, so they can be thrown away easily.${prompt}'
-  11270: But as normal items, you'll lose them permanently if you throw them away.${prompt}
-  11271: 'It won''t really matter if it''s ${article} ${item-article: 2[2]}, but throwing away ${article} ${item-article: 1[2]} is not a good idea!${prompt}'
+    Une fois jeté, le ${item-singular: 2[2]} sera cassé et inutilisable...
+    Utilisez ceci seulement en cas d'extrême nécessité !${prompt}
+  11268: '${lettercase: 1}${item-plural: 3[2]} peuvent également être utilisés pour “jeter”, mais ils ne peuvent affecter que ${item-plural: 2[2]}.${prompt}'
+  11269: '${lettercase: 1}${item-plural: 1[2]}, ${item-plural: 2[2]} et ${item-plural: 3[2]} sont des objets normaux, donc ils peuvent être jetés facilement.${prompt}'
+  11270: Mais en tant qu'objets normaux, vous les perdrez définitivement si vous les jetez.${prompt}
+  11271: 'Cela n’a pas vraiment d’importance s’il s’agit de ${article} ${item-article: 2[2]}, mais jeter ${article} ${item-article: 1[2]} n’est pas une bonne idée !${prompt}'
   11272: |-
     Oh, êtes-vous sûr(e) ?
     Eh bien, si vous avez des questions sur ${item-plural: 1[2]}, vous savez où me trouver !${prompt}
