@@ -16812,130 +16812,130 @@ entries:
   6764: |-
     Cette carte couvre la Baie de Bibiki et ses îles environnantes.
     Elle coûte ${number: 3} gils.${prompt}
-  6765: 'The ${keyitem-singular: 1[2]} outlines the geography of nearby Qufim Island. It costs ${number: 3} gil.${prompt}'
-  6766: 'Located beneath Batallia Downs, the Eldieme Necropolis is shown in detail on this map. The price is ${number: 3} gil.${prompt}'
-  6767: 'The Garlaige Citadel, which lies upon the Sauromugue Champaign, is illustrated in this map. Each copy costs ${number: 3} gil.${prompt}'
-  6768: '${lettercase: 1}${keyitem-plural: 1[2]} include Kazham, as well as both jungles of Yuhtunga and Yhoator for ${number: 3} gil.${prompt}'
-  6769: '${lettercase: 1}${keyitem-plural: 1[2]} include ${zone: 2[2]} for ${number: 3} gil.${prompt}'
-  6770: '${lettercase: 1}${keyitem-plural: 1[2]} include ${zone: 2[2]} as well as ${zone: 4[2]} for ${number: 3} gil.${prompt}'
-  6771: '${lettercase: 1}${keyitem-plural: 1[2]} include ${zone: 2[2]}, as well as ${zone: 4[2]} and ${zone: 5[2]} for ${number: 3} gil.${prompt}'
+  6765: '${keyitem-singular: 1[2]} décrit la géographie de l’île de Qufim voisine. Son prix est de ${number: 3} gils.${prompt}'
+  6766: 'Située sous les Plaines de Batallia, la Nécropole d’Eldieme est détaillée sur cette carte. Elle coûte ${number: 3} gils.${prompt}'
+  6767: 'La Citadelle de Garlaige, qui se trouve sur la Plaine de Sauromugue, est illustrée sur cette carte. Chaque copie coûte ${number: 3} gils.${prompt}'
+  6768: '${lettercase: 1}${keyitem-plural: 1[2]} incluent Kazham, ainsi que les jungles de Yuhtunga et Yhoator pour ${number: 3} gils.${prompt}'
+  6769: '${lettercase: 1}${keyitem-plural: 1[2]} incluent ${zone: 2[2]} pour ${number: 3} gils.${prompt}'
+  6770: '${lettercase: 1}${keyitem-plural: 1[2]} incluent ${zone: 2[2]} ainsi que ${zone: 4[2]} pour ${number: 3} gils.${prompt}'
+  6771: '${lettercase: 1}${keyitem-plural: 1[2]} incluent ${zone: 2[2]}, ainsi que ${zone: 4[2]} et ${zone: 5[2]} pour ${number: 3} gils.${prompt}'
   6772: |-
-    Buy ${keyitem-article: 0[2]}?
+    Acheter ${keyitem-article: 0[2]} ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  6773: You don't have enough money.${prompt}
-  6774: 'Maps of the Kuzotz region include Altepa Desert as well as Rabao for ${number: 3} gil.${prompt}'
-  6775: 'Maps of the Vollbow region include Cape Teriggan, as well as Valley of Sorrows and Gustav Tunnel for ${number: 3} gil.${prompt}'
-  6776: Maps of the Korroloka Tunnel are, as their names imply, maps of the Korroloka Tunnel, which connects Altepa Desert and Zeruhn Mines.${prompt}
-  6777: 'The map of Al Zahbi also includes Aht Urhgan Whitegate and the Colosseum. It costs ${number: 2} gil.${prompt}'
-  6778: 'This map shows the layout of the Azouph Isle town of Nashmau. It costs ${number: 3} gil.${prompt}'
-  6779: 'This map shows the forest tract stretching west of Al Zahbi. A map of the Wajaom Woodlands can be yours for ${number: 3} gil.${prompt}'
-  6780: 'This map shows Bhaflau Thickets, lying to the north of Al Zahbi. It costs ${number: 3} gil.${prompt}'
-  6781: '${keyitem-article: 1[2]} is an older map that was often used to depict ${zone: 2[2]}. It costs ${number: 3} gil.${prompt}'
-  6782: 'If you wish to ride a chocobo, you must possess ${keyitem-article: 7[2]} and have a high enough job level.${prompt}'
-  6783: 'You can rent a chocobo for ${number: 0} gil. I see you currently have ${number: 1} gil.${prompt}'
-  6784: You can rent a chocobo, but because your level is so low, you won't be able to ride for very long. Also, equipment that extends your riding time will have no effect.${prompt}
-  6785: 'If you still want one, it will cost you ${number: 0} gil. I see you currently have ${number: 1} gil.${prompt}'
+    Oui.
+    Non.${prompt}
+  6773: Vous n’avez pas assez d'argent.${prompt}
+  6774: 'Les cartes de la région de Kuzotz incluent le Désert d’Altepa ainsi que Rabao pour ${number: 3} gils.${prompt}'
+  6775: 'Les cartes de la région de Vollbow incluent le Cap Teriggan, ainsi que la Vallée des Lamentations et le Tunnel de Gustav pour ${number: 3} gils.${prompt}' 
+  6776: Les cartes du Tunnel de Korroloka sont, comme leur nom l'indique, des cartes du Tunnel de Korroloka, qui relie le Désert d'Altepa et les Mines de Zeruhn.${prompt}
+  6777: 'La carte d’Al Zahbi inclut également Aht Urhgan Whitegate et le Colisée. Elle coûte ${number: 2} gils.${prompt}'
+  6778: 'Cette carte montre le plan de la ville d’Azouph, Nashmau. Elle coûte ${number: 3} gils.${prompt}'
+  6779: 'Cette carte montre le territoire forestier à l’ouest d’Al Zahbi. Une carte des Bois de Wajaom peut être vôtre pour ${number: 3} gils.${prompt}'
+  6780: 'Cette carte montre les Taillis de Bhaflau, au nord d’Al Zahbi. Elle coûte ${number: 3} gils.${prompt}'
+  6781: '${keyitem-article: 1[2]} est une carte plus ancienne souvent utilisée pour représenter ${zone: 2[2]}. Elle coûte ${number: 3} gils.${prompt}'
+  6782: 'Si vous souhaitez monter un chocobo, vous devez posséder ${keyitem-article: 7[2]} et avoir un niveau de job suffisamment élevé.${prompt}'
+  6783: 'Vous pouvez louer un chocobo pour ${number: 0} gils. Vous avez actuellement ${number: 1} gils.${prompt}'
+  6784: Vous pouvez louer un chocobo, mais vu votre faible niveau, vous ne pourrez pas monter longtemps. De plus, l'équipement prolongeant votre temps de monte n'aura aucun effet.${prompt}
+  6785: 'Si vous en voulez toujours un, cela vous coûtera ${number: 0} gils. Vous avez actuellement ${number: 1} gils.${prompt}'
   6786: |-
-    Do you wish to rent a chocobo?
+    Souhaitez-vous louer un chocobo ?
     ${selection-lines}
-    Yes, I do.
-    No, thank you.${prompt}
-  6787: You don't have enough gil.${prompt}
-  6788: I realize that you are in a hurry, ${choice-player-gender}[sir/ma'am]. However, might I make a simple request? One of our associate's chocobos has lost her way and cannot return home.${prompt}
-  6789: 'Would you be so kind as to deliver her to ${choice: 3}[the Kingdom/the Republic/the Federation/the Duchy/the Duchy/the Duchy/the hidden] stables in ${choice: 3}[Southern San d''Oria/the Bastok Mines/Windurst Woods/Upper Jeuno/Lower Jeuno/Port Jeuno/Norg]? ${prompt}'
+    Oui, je le veux.
+    Non, merci.${prompt}
+  6787: Vous n’avez pas assez de gils.${prompt}
+  6788: Je sais que vous êtes pressé, ${choice-player-gender}[monsieur/madame]. Pourriez-vous cependant me rendre un petit service ? Un chocobo d’un de nos associés s’est perdu et ne peut pas rentrer chez lui.${prompt}
+  6789: 'Seriez-vous assez aimable pour le livrer aux écuries ${choice: 3}[du Royaume/de la République/de la Fédération/du Duché/du Duché/du Duché/du caché] à ${choice: 3}[San d''Oria Sud/les Mines de Bastok/les Bois de Windurst/Jeuno Supérieur/Jeuno Inférieur/Port Jeuno/Norg] ? ${prompt}'
   6790: |-
-    Lend a helping hand?
+    Donner un coup de main ?
     ${selection-lines}
-    I have better things to do.
-    Of course!${prompt}
+    J'ai mieux à faire.
+    Bien sûr !${prompt}
   6791: |-
-    Oh, thank you so very much!
-    You shall be rewarded by our associates upon delivery of the chocobo.${prompt}
+    Oh, merci infiniment !
+    Vous serez récompensé par nos associés à la livraison du chocobo.${prompt}
   6792: |-
-    You cannot obtain the ${item-singular: 0[2]}.
-    Come back after sorting your inventory.${prompt}
-  6793: 'Would you be so kind as to deliver her to ${choice: 3}[the entrance to the Gustav Tunnel (B-8)/Bibiki Bay (G-10)/the entrance of Uggalepih Temple (J-11)]?${prompt}'
+    Vous ne pouvez pas obtenir le ${item-singular: 0[2]}.
+    Revenez après avoir rangé votre inventaire.${prompt}
+  6793: 'Seriez-vous assez aimable pour le livrer à ${choice: 3}[l’entrée du Tunnel de Gustav (B-8)/Bibiki Bay (G-10)/l’entrée du Temple d’Uggalepih (J-11)] ?${prompt}'
   6794: |-
-    Only those fulfilling both requirements set forth by the alliance may ride a chocobo.
-    First, you must be a soldier of a respectable level in the Allied Forces. Secondly, you must be in possession of ${keyitem-article: 7[2]}.${prompt}
+    Seuls ceux qui répondent aux deux conditions posées par l'alliance peuvent monter un chocobo.
+    Premièrement, vous devez être un soldat d'un niveau respectable dans les Forces Alliées. Deuxièmement, vous devez être en possession de ${keyitem-article: 7[2]}.${prompt}
   6795: |-
-    Any of our fine birds here will bear you directly to the frontlines of battle.
-    We charge a service fee of ${number: 0} Allied Notes, which goes towards seeing that the chocobos are well taken care of.
-    My records indicate that you currently have ${number: 1} Allied Notes.${prompt}
+    L'un de nos beaux oiseaux vous transportera directement sur le front de bataille.
+    Nous facturons des frais de service de ${number: 0} Notes Alliées, qui contribuent à assurer le bien-être des chocobos.
+    Mes registres indiquent que vous avez actuellement ${number: 1} Notes Alliées.${prompt}
   6796: |-
-    Hmmm... It looks like you don't have enough Allied Notes.
-    Sorry, but these birds aren't going to feed and groom themselves.${prompt}
-  6797: 'I''m sorry, but we don''t put our chocobos in the hands of people with ${keyitem-article: 0[2]}. We wouldn''t want our feathered friends dying from fright now, would we?${prompt}'
+    Hmmm... On dirait que vous n'avez pas assez de Notes Alliées.
+    Désolé, mais ces oiseaux ne vont pas se nourrir et se toiletter eux-mêmes.${prompt}
+  6797: 'Désolé, mais nous ne confions pas nos chocobos à des personnes avec ${keyitem-article: 0[2]}. Nous ne voudrions pas que nos amis à plumes meurent de peur, n’est-ce pas ?${prompt}'
   6798: |-
-    Your fate rides on the changing winds of Vana'diel.
-    I can give you insight on the local weather.${prompt}
+    Votre destin dépend des vents changeants de Vana'diel.
+    Je peux vous donner des informations sur la météo locale.${prompt}
   6799: |-
-    What area's weather do you wish to know?
+    De quelle région souhaitez-vous connaître la météo ?
     ${selection-lines}
-    Nowhere.
+    Nulle part.
     Ronfaure.
-    La Theine Plateau.
-    Valkurm Dunes.
-    Jugner Forest.
-    Batallia Downs.
+    Plateau de La Theine.
+    Les Dunes de Valkurm.
+    Forêt de Jugner.
+    Plaines de Batallia.
     Gustaberg.
-    Konschtat Highlands.
-    Pashhow Marshlands.
-    Rolanberry Fields.
-    Beaucedine Glacier.
+    Hautes Terres de Konschtat.
+    Marais de Pashhow.
+    Champs de Rolanberry.
+    Glacier de Beaucedine.
     Xarcabard.
-    Cape Teriggan.
-    Altepa Desert.
+    Cap Teriggan.
+    Désert d'Altepa.
     Sarutabaruta.
-    Tahrongi Canyon.
-    Buburimu Peninsula.
-    Meriphataud Mountains.
-    Sauromugue Champaign.
-    The Sanctuary of Zi'Tah.
-    Yuhtunga & Yhoator Jungles.
-    Qufim Island.
+    Canyon de Tahrongi.
+    Péninsule de Buburimu.
+    Montagnes de Meriphataud.
+    Plaine de Sauromugue.
+    Sanctuaire de Zi'Tah.
+    Jungles de Yuhtunga et Yhoator.
+    Île de Qufim.
     Tu'Lia.
     Ferry.
-    Airship.
+    Aéronef.
     Jeuno.
-    Uleguerand Range.
-    Tavnazian Archipelago.
-    Riverne - Sites #A01 & #B01.${prompt}
-  6800: 'That area''s forecast for today is for ${weather-noun: 0[2]} with occasional ${weather-noun: 1[2]}. There is also a slight chance of ${weather-noun: 2[2]}, so caution is advised.${prompt}'
-  6801: 'The forecast for tomorrow is for ${weather-noun: 0[2]} with occasional ${weather-noun: 1[2]}. There is also a slight chance of ${weather-noun: 2[2]}, so caution is advised.${prompt}'
-  6802: 'And, the forecast for the day after tomorrow is for ${weather-noun: 0[2]} with occasional ${weather-noun: 1[2]}. There is also a slight chance of ${weather-noun: 2[2]}, so caution is advised.${prompt}'
-  6803: 'Today, that area''s weather will be ${weather-adjective: 0[2]} with a chance of ${weather-noun: 1[2]}.${prompt}'
-  6804: 'Tomorrow, the weather will be ${weather-adjective: 0[2]} with a chance of ${weather-noun: 1[2]}.${prompt}'
-  6805: 'And, the day after tomorrow, the weather will be ${weather-adjective: 0[2]} with a chance of ${weather-noun: 1[2]}.${prompt}'
-  6806: 'Today, the weather in that area will be ${weather-adjective: 0[2]}. There is also the possibility of ${weather-noun: 2[2]}, so caution is advised.${prompt}'
-  6807: 'Tomorrow, the weather will be ${weather-adjective: 0[2]}. There is also the possibility of ${weather-noun: 2[2]}, so caution is advised.${prompt}'
-  6808: 'And, the day after tomorrow, the weather will be ${weather-adjective: 0[2]}. There is also the possibility of ${weather-noun: 2[2]}, so caution is advised.${prompt}'
-  6809: 'The weather in that area today will be ${weather-adjective: 0[2]}.${prompt}'
-  6810: 'The weather tomorrow will be ${weather-adjective: 0[2]}.${prompt}'
-  6811: 'The weather the day after tomorrow will be ${weather-adjective: 0[2]}.${prompt}'
-  6812: And that's the report, straight from Vana'diel's official weather linkshell.${prompt}
+    Chaîne d'Uleguerand.
+    Archipel de Tavnazian.
+    Riverne - Sites #A01 et #B01.${prompt}
+  6800: 'La prévision pour cette région aujourd’hui est de ${weather-noun: 0[2]} avec des ${weather-noun: 1[2]} occasionnels. Il y a aussi une légère chance de ${weather-noun: 2[2]}, donc la prudence est conseillée.${prompt}'
+  6801: 'La prévision pour demain est de ${weather-noun: 0[2]} avec des ${weather-noun: 1[2]} occasionnels. Il y a aussi une légère chance de ${weather-noun: 2[2]}, donc la prudence est conseillée.${prompt}'
+  6802: 'Et, la prévision pour après-demain est de ${weather-noun: 0[2]} avec des ${weather-noun: 1[2]} occasionnels. Il y a aussi une légère chance de ${weather-noun: 2[2]}, donc la prudence est conseillée.${prompt}'
+  6803: 'Aujourd’hui, la météo dans cette région sera ${weather-adjective: 0[2]} avec un risque de ${weather-noun: 1[2]}.${prompt}'
+  6804: 'Demain, la météo sera ${weather-adjective: 0[2]} avec un risque de ${weather-noun: 1[2]}.${prompt}'
+  6805: 'Et, après-demain, la météo sera ${weather-adjective: 0[2]} avec un risque de ${weather-noun: 1[2]}.${prompt}'
+  6806: 'Aujourd’hui, la météo dans cette région sera ${weather-adjective: 0[2]}. Il y a aussi la possibilité de ${weather-noun: 2[2]}, donc la prudence est conseillée.${prompt}'
+  6807: 'Demain, la météo sera ${weather-adjective: 0[2]}. Il y a aussi la possibilité de ${weather-noun: 2[2]}, donc la prudence est conseillée.${prompt}'
+  6808: 'Et, après-demain, la météo sera ${weather-adjective: 0[2]}. Il y a aussi la possibilité de ${weather-noun: 2[2]}, donc la prudence est conseillée.${prompt}'
+  6809: 'La météo dans cette région aujourd’hui sera ${weather-adjective: 0[2]}.${prompt}'
+  6810: 'La météo demain sera ${weather-adjective: 0[2]}.${prompt}'
+  6811: 'La météo après-demain sera ${weather-adjective: 0[2]}.${prompt}'
+  6812: Et voilà le rapport, directement de la linkshell officielle de la météo de Vana'diel.${prompt}
   6813: |-
-    What area's weather do you wish to know?
+    De quelle région souhaitez-vous connaître la météo ?
     ${selection-lines}
-    Nowhere.
-    Wajaom Woodlands.
-    Bhaflau Thickets.
-    Mount Zhayolm.
-    Caedarva Mire.${prompt}
+    Nulle part.
+    Bois de Wajaom.
+    Halliers de Bhaflau.
+    Mont Zhayolm.
+    Marécage de Caedarva.${prompt}
   6814: |-
-    What area's weather do you wish to know?
+    De quelle région souhaitez-vous connaître la météo ?
     ${selection-lines}
-    Nowhere.
-    Ceizak Battlegrounds.
-    Yahse Hunting Grounds.
-    Foret de Hennetiel.
-    Morimar Basalt Fields.
-    Yorcia Weald.
-    Marjami Ravine.
-    Kamihr Drifts.${prompt}
-  6815: "${unknown: 0x0256000350}\0The Federation of Windurst...\nAn ancient capital nurtured by the boughs\nof a great tree, blessed by magical waters,\nand protected by the moon and stars.${wait-animation: 7}"
+    Nulle part.
+    Champs de bataille de Ceizak.
+    Terres de chasse de Yahse.
+    Forêt de Hennetiel.
+    Champs de basalte de Morimar.
+    Sylve de Yorcia.
+    Ravin de Marjami.
+    Banquises de Kamihr.${prompt}
+  6815: "${unknown: 0x0256000350}\0La Fédération de Windurst...\nUne ancienne capitale nourrie par les branches\nd'un grand arbre, bénie par des eaux magiques,\net protégée par la lune et les étoiles.${wait-animation: 7}"
   6816: |-
     ${unknown: 0x0264000354}${unknown: 0x0154686572652069732061206C6567656E6420696E207468697320636F756E7472792E07496E20612074696D6520666F72676F7474656E2C20612070656F706C6520666F7263656420746F0777616E64657220627920}starvation and cold were led
     to this land by a wondrous star.${wait-animation: 7}
@@ -23769,89 +23769,91 @@ entries:
     But now that ye've frightened 'im off, the city should be safe.
     Here, take this bit o' plunder. Ye've earned it, matey!${prompt}
   10365: |-
-    Kupopopo～!
-    This is terrible!
-    Some sneaky scoundrels have swiped the armor we brought in for the Feast of Swords...again, kupo!${prompt}
-  10366: As you probably already know, the villains wearing the armor are invulnerable to normal weapons! And as if that wasn't enough, they're surrounded by a powerful aura that prevents them from being attacked at all, kupo!${prompt}
+    Kupopopo～ !
+    C'est terrible !
+    Quelques crapules sournoises ont encore volé les armures que nous avions apportées pour la Fête des Épées... kupo !${prompt}
+  10366: Comme vous le savez probablement, les bandits qui portent ces armures sont invulnérables aux armes normales ! Et comme si ça ne suffisait pas, ils sont entourés d'une puissante aura qui les rend intouchables, kupo !${prompt}
   10367: |-
-    But never fear!
-    Our top moogle researchers have created weapons that can injure these armor-thieving hooligans--the wondrous ${item-singular: 0[2]} and the marvelous ${item-singular: 1[2]}, kupo!${prompt}
-  10368: The nomad moogles have also developed a magic that will annul that anti-attack aura, so be sure to pay them a visit while wearing the weapon before you engage the enemy, kupo.${prompt}
-  10369: But be warned--this magic has the side effect of preventing you from attacking any other monster for three whole Vana'dielian days, kupo!${prompt}
+    Mais ne vous inquiétez pas !
+    Nos chercheurs moogle de haut niveau ont créé des armes capables de blesser ces voyous voleurs d'armures : la merveilleuse ${item-singular: 0[2]} et la fabuleuse ${item-singular: 1[2]}, kupo !${prompt}
+  10368: Les moogles nomades ont aussi développé une magie qui annulera cette aura anti-attaque. Assurez-vous de leur rendre visite tout en portant l'arme avant d'affronter l'ennemi, kupo.${prompt}
+  10369: |-
+    Mais attention -- cette magie a pour effet secondaire de vous empêcher d'attaquer tout autre monstre pendant trois jours vana'dieliens entiers, kupo !${prompt}
   10370: |-
-    And that's not all!
-    This time we want to make sure that the wretched thieves have a hard time coming back, kupo!${prompt}
-  10371: You see, even if you take one of them down, the power of the armor will slowly restore his health, and before you know it, the scoundrel will be back up to full health!${prompt}
-  10372: 'That''s why we want you to plant (${color: 5}trade${color: 1}) your ${item-singular: 0[2]} or ${item-singular: 1[2]} into the ground near a fallen fiend. It will create a ward that should slow the equipment''s regenerative properties, making it easier for you to defeat them again and again, kupo!${prompt}'
-  10373: 'Just remember that the further away you travel from the ward, the weaker it becomes. We recommend staying in the same ${color: 5}area${color: 1} for best results.${prompt}'
-  10374: 'Alright. Here''s your ${item-singular: 0[2]}. Now you''re ready to do battle, kupo!${prompt}'
-  10375: Oh, and you'll find that the prizes we have for you this time are even better than the last ones. You might even be one of the lucky adventurers who wins a spiffy, new... Ah, you'll just have to see it to believe it, kupo!${prompt}
-  10376: 'Now, if you want to cross swords with the invincible interlopers, equip ${article} ${item-article: 0[2]} or ${article} ${item-article: 1[2]} and talk to a nomad moogle, kupo!${prompt}'
-  10377: Vana'diel is under attack by villains in our stolen samurai armor! Help the moogles in each nation defeat this menace, kupo!${prompt}
-  10378: We've mixed up some moogle magic to crack that aura, but you'll need to equip a special weapon to even cause a scratch, kupo! Equip, I tell you! Equiiiiiip!${prompt}
+    Et ce n'est pas tout !
+    Cette fois, nous voulons nous assurer que ces voleurs misérables auront du mal à revenir, kupo !${prompt}
+  10371: Vous voyez, même si vous en abattez un, le pouvoir de l'armure restaurera lentement sa santé, et avant que vous ne le sachiez, le coquin sera de nouveau à plein régime !${prompt}
+  10372: 'C’est pourquoi nous vous conseillons de planter (${color: 5}échanger${color: 1}) votre ${item-singular: 0[2]} ou votre ${item-singular: 1[2]} près d’un malfrat abattu. Cela créera une protection qui devrait ralentir les propriétés régénératives de l’équipement, vous permettant de les vaincre à répétition, kupo !${prompt}'
+  10373: 'Souvenez-vous simplement que plus vous vous éloignez de la protection, plus elle s’affaiblit. Nous vous recommandons de rester dans la même ${color: 5}zone${color: 1} pour de meilleurs résultats.${prompt}'
+  10374: |-
+    Très bien. Voici votre ${item-singular: 0[2]}. Maintenant, vous êtes prêt pour le combat, kupo !${prompt}
+  10375: Oh, et vous constaterez que les récompenses que nous avons pour vous cette fois-ci sont encore meilleures que les précédentes. Vous pourriez même être l'un des chanceux aventuriers à remporter un tout nouveau et chic... Ah, vous devrez le voir pour le croire, kupo !${prompt}
+  10376: 'Maintenant, si vous voulez croiser le fer avec les intrus invincibles, équipez ${article} ${item-article: 0[2]} ou ${article} ${item-article: 1[2]} et parlez à un moogle nomade, kupo !${prompt}'
+  10377: Vana'diel est attaquée par des bandits portant nos armures de samouraï volées ! Aidez les moogles de chaque nation à vaincre cette menace, kupo !${prompt}
+  10378: Nous avons concocté une magie moogle pour briser cette aura, mais vous devrez équiper une arme spéciale pour au moins leur causer une égratignure, kupo ! Equipez-vous, je vous le dis ! Equiiiip !${prompt}
   10379: |-
-    Th-that ${item-singular: 0[2]}...
-    It may be just the thing for whacking those wacky samurai! Hold still while I work my moogle magic, kupo!${prompt}
-  10380: 'Oh, just don''t forget to place the ward with your ${item-singular: 0[2]} when you''ve defeated one!${prompt}'
-  10381: 'You''ll be able to really hurt those harbingers of harm with ${article} ${item-article: 1[2]}. Now hold still while I work my moogle magic, kupo!${prompt}'
-  10382: 'Oh, just don''t forget to place the ward with your ${item-singular: 0[2]} or your ${item-singular: 1[2]} when you''ve defeated one!${prompt}'
-  10383: And whatever you do, don't wander too far from the area; your weary wards will weaken, kupo!${prompt}
-  10384: 'No, no, no! That ${item-singular: 1[2]} is way too sharp! Just think of the damage it will deal to the poor armor! Now go get yourself ${article} ${item-article: 0[2]} or ${article} ${item-article: 2[2]} and hurry back, kupo!${prompt}'
+    Ce... cet ${item-singular: 0[2]}...
+    C'est peut-être exactement ce qu'il faut pour frapper ces samouraïs farfelus ! Tenez-vous tranquille pendant que je fais ma magie moogle, kupo !${prompt}
+  10380: 'Oh, n’oubliez pas de placer la protection avec votre ${item-singular: 0[2]} une fois que vous en avez abattu un !${prompt}'
+  10381: 'Vous pourrez vraiment blesser ces porteurs de malheur avec ${article} ${item-article: 1[2]}. Allez, tenez-vous tranquille pendant que je fais ma magie moogle, kupo !${prompt}'
+  10382: 'Oh, n’oubliez pas de placer la protection avec votre ${item-singular: 0[2]} ou votre ${item-singular: 1[2]} une fois que vous en avez abattu un !${prompt}'
+  10383: Et quoi que vous fassiez, ne vous éloignez pas trop de la zone ; vos protections fatiguées s’affaibliront, kupo !${prompt}
+  10384: 'Non, non, non ! Cet ${item-singular: 1[2]} est beaucoup trop tranchant ! Pensez aux dégâts qu’il pourrait causer à l’armure innocente ! Allez, allez chercher ${article} ${item-article: 0[2]} ou ${article} ${item-article: 2[2]} et revenez vite, kupo !${prompt}'
   10385: |-
-    Well done!
-    On to the next one, kupo!${prompt}
-  10386: That thief has already been weakened by a ward. Try to find one that hasn't, kupo!${prompt}
+    Bien joué !
+    Passons au suivant, kupo !${prompt}
+  10386: Ce voleur a déjà été affaibli par une protection. Essayez d'en trouver un qui ne l'ait pas été, kupo !${prompt}
   10387: |-
-    Wonderful! Here's your reward, kupo!
-    If you're still up for it, why don't you go out and whack yourself some more?${prompt}
-  10388: Unbelievable! Now, maybe those Far Eastern traders won't mix us up into moogle mincemeat! Here's your reward, kupo!${prompt}
-  10389: I-I'm speechless! We didn't think anyone could match wits with that Mithra menace! Here's your reward, kupo!${prompt}
-  10390: The shadow of the thief still lingers within the armor...${prompt}
-  10391: The thief's shadow has almost disappeared completely.${prompt}
+    Merveilleux ! Voici votre récompense, kupo !
+    Si vous êtes toujours partant, pourquoi ne pas sortir et en frapper quelques autres ?${prompt}
+  10388: Incroyable ! Maintenant, peut-être que ces commerçants d'Extrême-Orient ne nous mélangeront pas en hachis moogle ! Voici votre récompense, kupo !${prompt}
+  10389: J-je suis sans voix ! Nous ne pensions pas que quelqu'un pourrait rivaliser d'ingéniosité avec cette menace mithra ! Voici votre récompense, kupo !${prompt}
+  10390: L'ombre du voleur plane toujours sur l'armure...${prompt}
+  10391: L'ombre du voleur a presque disparu complètement.${prompt}
   10392: |-
-    Hey ${choice-player-gender}[mister/lady], hold it right there!
-    Are you an “adventurer”?${prompt}
+    Hé ${choice-player-gender}[monsieur/madame], arrêtez-vous là !
+    Êtes-vous un “aventurier” ?${prompt}
   10393: |-
-    'Fess up.
+    Alors, avouez.
     ${selection-lines}
-    Yes, I am.
-    No way!${prompt}
+    Oui, c'est moi.
+    Pas du tout !${prompt}
   10394: |-
-    That's what I thought!
-    Here, put this on, quick!
-    Heheh!${prompt}
+    C'est bien ce que je pensais !
+    Tenez, mettez ceci vite !
+    Heheh !${prompt}
   10395: |-
-    No way!?
-    B-but...this would just look so good on you! Here, take it!
-    Heheh!${prompt}
-  10396: '${color-alt: 15}Ibwam tacks the ${keyitem-singular: 0[2]} on you while you aren''t looking...${prompt}'
+    Pas du tout !?
+    M-mais... ça vous irait tellement bien ! Tenez, prenez-le !
+    Heheh !${prompt}
+  10396: '${color-alt: 15}Ibwam vous accroche le ${keyitem-singular: 0[2]} sans que vous vous en rendiez compte...${prompt}'
   10397: |-
-    Now you're in style!
-    See how this badge is shaped like a wildcat's head? That's the mark of our mercenary company, “Salaheem's Sentinels”!${prompt}
+    Maintenant, vous avez la classe !
+    Vous voyez comment ce badge est en forme de tête de félin ? C'est la marque de notre compagnie de mercenaires, les “Sentinelles de Salaheem” !${prompt}
   10398: |-
-    Our company is highly renowned for its excellence in the Near East, where we're officially approved by the Empire!
-    It's just that no one there wants to joi--um, what was I saying!? Oh yes, we are currently recruiting!${prompt}
+    Notre compagnie est hautement renommée pour son excellence en Orient, où nous sommes officiellement approuvés par l'Empire !
+    C'est juste que personne là-bas ne veut se joindre à nous... Euh, que disais-je !? Ah oui, nous recrutons actuellement !${prompt}
   10399: |-
-    We'd give a hearty welcome to a rugged adventurer like you!
-    Hey, why don't you go tell all your friends about us? Thanks! Go on now!${prompt}
+    Nous accueillerions à bras ouverts un aventurier robuste comme vous !
+    Hé, pourquoi n'iriez-vous pas en parler à tous vos amis ? Merci ! Allez-y maintenant !${prompt}
   10400: |-
-    Hey, listen! Listen!
-    People are showing interest in Salaheem's Sentinels! This is fantastic!${prompt}
-  10401: 'Shhh! I don''t wanna say this out loud, but the wildcat''s eyes on the ${keyitem-singular: 0[2]} will shine brightly near people who have heard about Aht Urhgan!${prompt}'
+    Hé, écoutez ! Écoutez !
+    Les gens s'intéressent aux Sentinelles de Salaheem ! C'est fantastique !${prompt}
+  10401: 'Chut ! Je ne veux pas le dire à voix haute, mais les yeux de félin sur le ${keyitem-singular: 0[2]} brilleront près des personnes qui ont entendu parler d’Aht Urhgan !${prompt}'
   10402: |-
-    ${name-player}! ${name-player}!
-    We're swamped with inquiries about Salaheem's Sentinels now! This is stupendous! How can I thank you!?${prompt}
+    ${name-player} ! ${name-player} !
+    Nous sommes submergés de demandes au sujet des Sentinelles de Salaheem maintenant ! C'est stupéfiant ! Comment puis-je vous remercier !?${prompt}
   10403: |-
-    Yikes!
-    The wildcat's eyes are glazed over like a fish ripe for the carving... It must be all out of juice!${prompt}
-  10404: '${color-alt: 15}Ibwam snatches up your ${keyitem-singular: 0[2]}!${prompt}'
+    Oups !
+    Les yeux de félin sont vitreux, comme un poisson prêt à être découpé... Il doit être à court de jus !${prompt}
+  10404: '${color-alt: 15}Ibwam s’empare de votre ${keyitem-singular: 0[2]} !${prompt}'
   10405: |-
-    Here, I'll let you have this. It's a little present from me!
-    You'll get a warm welcome when you come join our company in the Near East!${prompt}
-  10406: 'You obtain a ${keyitem-singular: 0[2]}!${prompt}'
+    Tenez, je vous laisse ceci. C'est un petit cadeau de ma part !
+    Vous recevrez un accueil chaleureux lorsque vous rejoindrez notre compagnie en Orient !${prompt}
+  10406: 'Vous obtenez un ${keyitem-singular: 0[2]} !${prompt}'
   10407: |-
-    You're the master of promotion that everyone at our company is talking about!
-    The next time you visit Al Zahbi, make sure you go to Salaheem's Sentinels.${prompt}
+    Vous êtes le maître de la promotion dont tout le monde parle dans notre compagnie !
+    La prochaine fois que vous visiterez Al Zahbi, assurez-vous de vous rendre aux Sentinelles de Salaheem.${prompt}
   10408: '${color-alt: 15}L’Insigne de ${name-player} brille intensément.${prompt}'
   10409: Cette histoire sur l'“Empire d'Aht Urhgan” s'annonce comme un gros coup ! Mais bon, je n'ai toujours pas assez d'informations pour écrire à ce sujet...${prompt}
   10410: 'Quoi qu’il en soit, il semble qu’ils aient marchandé à la baisse le prix d’un tas de navires désarmés de Bastok pour les utiliser dans le transport de mercenaires vers Aht Urhgan...${prompt}'
