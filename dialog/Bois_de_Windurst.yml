@@ -16372,8 +16372,7 @@ entries:
   6658: 'Il vous en coûtera ${number: 3} gils pour vous téléporter au Point de Rappel #${number: 2} dans ${zone: 1[2]}.${prompt}'
   6659: 'Il n’y a pas de frais pour vous téléporter au Point de Rappel #${number: 2} dans ${zone: 1[2]}.${prompt}'
   6660: |-
-    Téléporter ?
-    (Gils actuels : ${number: 0})
+    Téléporter? (Gils actuels : ${number: 0})
     ${selection-lines}
     ${choice: 33}[Ajouter aux favoris/Retirer des favoris].
     Oui, s'il vous plaît.
@@ -19165,10 +19164,7 @@ entries:
   7871: J'entends dire qu'il y a beaucoup de dames d'attente qui servent la Star Sibylle au deuxième étage de la Tour des Cieux.${prompt}
   7872: On dirait qu'elles font tout le nettoyage, le lavage et la cuisine là-bas. Grrr...${prompt}
   7873: Une mission de Z-Z-Zubaba !?${prompt}
-  7874: |-
-    Wow !
-    Vous voulez dire, Zubaba est encore en viey-wivey ?
-    Gee...${prompt}
+  7874: "Wow! \nVous voulez dire, Zubaba est encore en vie?\nGee...${prompt}"
   7875: Nous avons une convocation formelle de la Tour des Cieux pour vous. Celle-ci, avec un emblème spécial en forme d'étoile, signifie qu'il s'agit officiellement d'une mission de la plus haute importance.${prompt}
   7876: Il est mentionné que vous, ${name-player}, devez “vous rendre au Planétarium de la Tour des Cieux avec une hâte précipitée”. C'est censé être le plus grand honneur qu'un citoyen de Windurst puisse avoir.${prompt}
   7877: Qu'une convocation formelle soit émise de la Tour des Cieux signifie qu'une annonce extrêmement importante sera faite.${prompt}
@@ -19571,7 +19567,7 @@ entries:
   8120: Je crois que ce Cardian particulier dont tu parles a été créé par Kopuro-Popuro.${prompt}
   8121: Kopuro-Popuro a l'habitude d'oublier les choses importantes tout en se souvenant toujours des informations les plus inutiles. Tel père, tel fils, hein ?${prompt}
   8122: |-
-    Alors, l'as-tu trouvém...?
+    Alors, l'as-tu trouvé...?
     Qu'est-ce que tu veux dire, il est à l'extérieury de la ville ? Hein ? Il est si loin de la villey ?${prompt}
   8123: Qu'est-ce qu'il fait dans un endroit aussi dangereuxy ? On ferait mieux de se dépêcher d'envoyer quelqu'un pour le ramenery ! Tiens...prends ça comme petit remerciement pour l'avoir retrouvéy !${prompt}
   8124: S'il reste hors de la villey trop longtemps, il y a un risque que les gens le confondent avec l'un de ces Cardians sauvages et le tuenty !${prompt}
@@ -19600,8 +19596,7 @@ entries:
     Eh bien, je ne sais pas si c'est vrai ou juste une vieille histoire de grand-mère, mais on pourrait faire une belle somme de gils en vendant de tels charmes aux magasins locaux, n'est-ce pas ?${prompt}
   8146: C'était une information très utile, surtout venant de la part de quelqu'un comme Kopuro-Popuro. Alors, comment fabrique-t-on ces "Gadabout's Gris-gris", machin chose ?${prompt}
   8147: Eh bien, il vous faut toutes sortes d'objets que les monstres nocturnes laissent tomber quand ils sont vaincus.${prompt}
-  8148: |-
-    'Pour fabriquer un charme, je pense que nous avons juste besoin de : ${article} ${item-article: 1[2]}, ${article} ${item-article: 2[2]}, et ${article} ${item-article: 3[2]}.${prompt}'
+  8148: 'Pour fabriquer un charme, je pense que nous avons juste besoin de : ${article} ${item-article: 1[2]}, ${article} ${item-article: 2[2]}, et ${article} ${item-article: 3[2]}.${prompt}'
   8149: |-
     Je vois... Génial !
     Alors nous allons en fabriquer une tonne à vendre. Nous aurons de l'argent dans les coffres du Manustery en un rien de temps !${prompt}
@@ -19701,6 +19696,9 @@ entries:
   8215: |-
     Ah...
     Elle fond...${prompt}
+  8216: |-
+    ...
+    Eh bien, je suppose que le ministre vous l'a promis, alors... je vous paierai la récompense pour avoir trouvé cette carambole.${prompt}  
   8217: 'Mais ${number: 1} gils, c’est trop demander. Désolé, mais vous devrez vous contenter de ${number: 2} gils.${prompt}'
   8218: Non, je ne suis pas devenu tout émotif, vous savez ! C’était juste une poupée à laquelle nous avons insufflé temporairement la vie, n’est-ce pas ?${prompt}
   8219: D'abord, contre nature, vous fournissez de la force vitale à des vaisseaux vides. Ensuite, vous les envoyez sur les champs de bataille. Si vous allez pleurer quand ils crèvent, autant ne pas créer ces fichues choses dès le départ !${prompt}
