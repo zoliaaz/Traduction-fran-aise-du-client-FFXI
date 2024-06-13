@@ -16317,30 +16317,30 @@ entries:
   6646: '${color-alt: 161}Word has been received of a Troll threat in Wajaom Woodlands.${prompt}'
   6647: '${color-alt: 161}Word has been received of an undead threat in Bhaflau Thickets.${prompt}'
   6648: |-
-    You can set this as your current home point.
-    Once you set a home point, you will return there whenever you are incapacitated.
+    Vous pouvez définir ceci comme votre point de retour actuel.
+    Une fois que vous avez défini un point de retour, vous y retournerez chaque fois que vous serez mis K.O.${prompt}
   6649: |-
-    Set this as current home point?
+    Définir ceci comme point de retour actuel ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  6650: Home point set!${prompt}
-  6651: A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.
+    Oui.
+    Non.${prompt}
+  6650: Point de retour défini !${prompt} 
+  6651: Un point de retour peut être défini comme un endroit où vous pouvez retourner à Vana'diel lorsque vous êtes mis K.O. Vous pouvez également utiliser un point de retour pour vous téléporter vers d'autres points de retour.
   6652: |-
-    What will you do?
+    Que souhaitez-vous faire ?
     ${selection-lines}
-    Travel to another home point.
-    Set this as your home point.
-    Other settings.
-    On second thought, never mind.${prompt}
+    Voyager vers un autre point de retour.
+    Définir ceci comme votre point de retour.
+    Autres réglages.
+    En fait, laissez tomber.${prompt}
   6653: |-
-    You have registered a new home point!
-    You are now able to teleport here from any other home point.${prompt}
-  6654: You may teleport from here to any other home point you have registered.
+    Vous avez enregistré un nouveau point de retour !
+    Vous pouvez désormais vous téléporter ici depuis n'importe quel autre point de retour.${prompt}
+  6654: Vous pouvez vous téléporter d'ici vers n'importe quel autre point de retour que vous avez enregistré.
   6655: |-
-    Teleport where?
+    Téléporter où ?
     ${selection-lines}
-    Never mind.
+    Laissez tomber.
     ${zone: 1[2]}.
     ${zone: 2[2]}.
     ${zone: 3[2]}.
@@ -16357,32 +16357,33 @@ entries:
     ${zone: 14[2]}.
     ${zone: 15[2]}.
     ${zone: 16[2]}.
-    Previous page.
-    Next page.${prompt}
+    Page précédente.
+    Page suivante.${prompt}
   6656: |-
-    Teleport where?（${zone: 33[2]}）
+    Téléporter où ?（${zone: 33[2]}）
     ${selection-lines}
-    Nowhere.
-    Home Point #1${choice: 1}[/ (M)/ (A)/ (E)].
-    Home Point #2${choice: 2}[/ (M)/ (A)/ (E)].
-    Home Point #3${choice: 3}[/ (M)/ (A)/ (E)].
-    Home Point #4${choice: 4}[/ (M)/ (A)/ (E)].
-    Home Point #5${choice: 5}[/ (M)/ (A)/ (E)].${prompt}
-  6657: You have not yet registered any other home points, and thus are unable to teleport.${prompt}
-  6658: 'It costs ${number: 3} gil to teleport to Home Point #${number: 2} in ${zone: 1[2]}.'
-  6659: 'There is no fee for teleporting to Home Point #${number: 2} in ${zone: 1[2]}.'
+    Nulle part.
+    Point de retour #1${choice: 1}[/ (M)/ (A)/ (E)].
+    Point de retour #2${choice: 2}[/ (M)/ (A)/ (E)].
+    Point de retour #3${choice: 3}[/ (M)/ (A)/ (E)].
+    Point de retour #4${choice: 4}[/ (M)/ (A)/ (E)].
+    Point de retour #5${choice: 5}[/ (M)/ (A)/ (E)].${prompt}
+  6657: Vous n'avez pas encore enregistré d'autres points de retour, et donc vous ne pouvez pas vous téléporter.${prompt}
+  6658: 'Il vous en coûtera ${number: 3} gils pour vous téléporter au Point de Rappel #${number: 2} dans ${zone: 1[2]}.${prompt}'
+  6659: 'Il n’y a pas de frais pour vous téléporter au Point de Rappel #${number: 2} dans ${zone: 1[2]}.${prompt}'
   6660: |-
-    Teleport? (Current gil: ${number: 0})
+    Téléporter ?
+    (Gils actuels : ${number: 0})
     ${selection-lines}
-    ${choice: 33}[Add to favorites/Remove from favorites].
-    Yes, please.
-    No, thank you.${prompt}
+    ${choice: 33}[Ajouter aux favoris/Retirer des favoris].
+    Oui, s'il vous plaît.
+    Non, merci.${prompt}
   6661: |-
-    Teleport to which region?
+    Téléporter vers quelle région ?
     ${selection-lines}
-    On second thought, none.
-    Select from favorites.
-    Current region.
+    En y réfléchissant, nulle part.
+    Sélectionner depuis les favoris.
+    Région actuelle.
     ${choice: 1}[San d'Oria/Movalpolos].
     ${choice: 1}[Bastok/Tavnazian Arch].
     ${choice: 1}[Windurst/Lumoria].
@@ -16407,31 +16408,31 @@ entries:
     ${choice: 1}[Elshimo Low/].
     ${choice: 1}[Elshimo Up/].
     ${choice: 1}[Tu'Lia/].
-    Previous page.
-    Next page.${prompt}
+    Page précédente.
+    Page suivante.${prompt}
   6662: |-
-    Teleport where?
+    Téléporter où ?
     ${selection-lines}
-    None of these.
-    A favorited location.
-    An original area.
-    A Rise of the Zilart area.
-    A Chains of Promathia area.
-    A Treasures of Aht Urhgan area.
-    A Wings of the Goddess area.
-    A Seekers of Adoulin area.${prompt}
-  6663: You may change the method of selecting the area of your desired home point to teleport to.
+    Aucun de ceux-ci.
+    Un emplacement favori.
+    Une zone d'origine.
+    Une zone de Rise of the Zilart.
+    Une zone de Chains of Promathia.
+    Une zone de Treasures of Aht Urhgan.
+    Une zone de Wings of the Goddess.
+    Une zone de Seekers of Adoulin.${prompt}
+  6663: Vous pouvez changer la méthode de sélection de la zone de votre point de retour désiré pour vous téléporter.${prompt}
   6664: |-
-    Which setting would you like?
+    Quel réglage souhaitez-vous ?
     ${selection-lines}
-    My current setting.
-    Select by region.
-    Select by expansion.${prompt}
-  6665: 'You are now selecting by ${choice: 1}[region/expansion].'
+    Mon réglage actuel.
+    Sélectionner par région.
+    Sélectionner par extension.${prompt}
+  6665: 'Vous sélectionnez maintenant par ${choice: 1}[région/extension].'
   6666: |-
-    Teleport where?
+    Téléporter où ?
     ${selection-lines}
-    None of these.
+    Aucun de ceux-ci.
     ${zone: 1[2]} #${number: 17}.
     ${zone: 2[2]} #${number: 18}.
     ${zone: 3[2]} #${number: 19}.
@@ -16441,13 +16442,13 @@ entries:
     ${zone: 7[2]} #${number: 23}.
     ${zone: 8[2]} #${number: 24}.
     ${zone: 9[2]} #${number: 25}.
-    ${choice: 33}[Add to favorites/Remove from favorites].${prompt}
-  6667: 'Home Point #${number: 2} in ${zone: 1[2]} has been ${choice: 33}[registered to/removed from] your list of favorite locations.'
-  6668: Your list of favorite locations is full. You must delete an existing entry in order to register a new one.
+    ${choice: 33}[Ajouter aux favoris/Retirer des favoris].${prompt}
+  6667: 'Le Point de Rappel #${number: 2} dans ${zone: 1[2]} a été ${choice: 33}[ajouté à/supprimé de] votre liste d’emplacements favoris.'
+  6668: Votre liste d’emplacements favoris est pleine. Vous devez supprimer une entrée existante pour enregistrer une nouvelle.${prompt}
   6669: |-
-    Delete which?
+    Supprimer lequel ?
     ${selection-lines}
-    None of these.
+    Aucun de ceux-ci.
     ${zone: 1[2]} #${number: 17}.
     ${zone: 2[2]} #${number: 18}.
     ${zone: 3[2]} #${number: 19}.
@@ -16470,11 +16471,11 @@ entries:
   6680: mes11
   6681: mes12
   6682: mes13
-  6683: 'Your current fame is ${number: 6}, man.${prompt}'
+  6683: 'Votre renommée actuelle est de ${number: 6}, mon ami.${prompt}'
   6684: Abracadabra!${prompt}
-  6685: Oh no! Your Adventurers' certificate vanished!${prompt}
-  6686: 'Counting ${number: 0} people!${prompt}'
-  6687: 'Your rank is now ${number: 7}!!${prompt}'
+  6685: Oh non ! Votre certificat d'aventurier a disparu !${prompt}
+  6686: 'Comptage de ${number: 0} personnes !${prompt}'
+  6687: 'Votre rang est maintenant ${number: 7}!!${prompt}'
   6688: |-
     どのミッションなのじゃ？
     ${selection-lines}
@@ -19074,7 +19075,7 @@ entries:
   7811: J'ai aussi emprunté des livres à la Bibliothèque de Magie, vous savez.${prompt}
   7812: Une fois, j'ai emporté un livre chez moi pour le lire, et dès que je l'ai ouvert, une armée de grenouilles en est sortie en sautant !${prompt}
   7813: J'ai emprunté autant de livres que possible par la suite, mais aucune grenouille ne m'est jamais sortie. Dommage, car elles étaient vraiment savoureuses !${prompt}
-  7814: Vous allez à la bibliothèque, hein ? Ça me rappelle... J'ai un livre en retard là-bas... je crois.${prompt}
+  7814: Vous allez à la bibliothèque, hein ? Ça me retourle... J'ai un livre en retard là-bas... je crois.${prompt}
   7815: Quoi ? Vous voulez savoir quel livre j'ai emprunté ? Eh bien, je ne le dirai pas, na !${prompt}
   7816: (Ne me demandez pas quel livre j'ai emprunté. Ce n'est pas comme si je les lisais vraiment... Ils sont bien au-dessus de mon âge de lecture.)${prompt}
   7817: Vous voulez savoir si j'ai un "livre restreint" en ma possession, n'est-ce pas ?${prompt}
@@ -20265,7 +20266,7 @@ entries:
   8592: |-
     Imbécile !
     N'avez-vous pas entendu correctement nos ordres ? Ou cherchez-vous simplement à déclencher une guerre ?${prompt}
-  8593: Ne pouvez-vous pas vous rappeler la partie la plus importante de la mission ? Vous deviez livrer un bouclier magique à la chambre aux trésors des Yagudo. Et vous vous appelez San d'Orien !?${prompt}
+  8593: Ne pouvez-vous pas vous retourer la partie la plus importante de la mission ? Vous deviez livrer un bouclier magique à la chambre aux trésors des Yagudo. Et vous vous appelez San d'Orien !?${prompt}
   8594: Imbécile !${prompt}
   8595: Vous avez seulement remis le bouclier magique de Windurst aux Yagudo et êtes parti en courant, laissant l'équilibre du pouvoir biaisé. Une telle action serait considérée comme une trahison à San d'Oria !!!${prompt}
   8596: Humph. Il semble que vous ayez su maintenir le chemin de la droiture.${prompt}
