@@ -1,24 +1,24 @@
 entries:
-  0: A dark Mana Orb is already placed here.${prompt}
-  1: '${lettercase: 1}${keyitem-article: 2[2]} has been placed into the receptacle.${prompt}'
-  2: 'Retrieved ${keyitem-article: 3[2]} from the receptacle.${prompt}'
-  3: You have already retrieved a glowing Mana Orb from here.${prompt}
-  4: You have retrieved all of the glowing Mana Orbs.${prompt}
-  5: You have set all of the dark Mana Orbs in place.${prompt}
-  6: The first Mana Orb receptacle is ready for use.${prompt}
-  7: The second Mana Orb receptacle is ready for use.${prompt}
-  8: Third Mana Orb Receptacle is ready for use.${prompt}
-  9: Forth Mana Orb Receptacle is ready for use.${prompt}
-  10: Fifth Mana Orb Receptacle is ready for use.${prompt}
-  11: Sixth Mana Orb Receptacle is ready for use.${prompt}
-  12: This appears to be a device that recharges Mana Orbs.${prompt}
+  0: Une orbe de mana sombre est déjà placée ici.${prompt}
+  1: '${lettercase: 1}${keyitem-article: 2[2]} a été placé dans le réceptacle.${prompt}'
+  2: '${keyitem-article: 3[2]} récupéré du réceptacle.${prompt}'
+  3: Vous avez déjà récupéré une orbe de mana brillante d'ici.${prompt}
+  4: Vous avez récupéré toutes les orbes de mana brillantes.${prompt}
+  5: Vous avez placé toutes les orbes de mana sombres en place.${prompt}
+  6: Le premier réceptacle d'orbe de mana est prêt à être utilisé.${prompt}
+  7: Le deuxième réceptacle d'orbe de mana est prêt à être utilisé.${prompt}
+  8: Le troisième réceptacle d'orbe de mana est prêt à être utilisé.${prompt}
+  9: Le quatrième réceptacle d'orbe de mana est prêt à être utilisé.${prompt}
+  10: Le cinquième réceptacle d'orbe de mana est prêt à être utilisé.${prompt}
+  11: Le sixième réceptacle d'orbe de mana est prêt à être utilisé.${prompt}
+  12: Il semble s'agir d'un dispositif permettant de recharger les orbes de mana.${prompt}
   13: TESTY!?${prompt}
-  14: A GUARDIAN IS BLOCKING YOUR WAY!${prompt}
-  15: Tallying conquest results...${prompt}
-  16: Conquest results tallied.${prompt}
-  17: This region is currently under San d'Orian control.${prompt}
-  18: This region is currently under Bastokan control.${prompt}
-  19: This region is currently under Windurstian control.${prompt}
+  14: UN GARDIEN BLOQUE VOTRE CHEMIN!${prompt}
+  15: Décompte des résultats de la conquête...${prompt}
+  16: Résultats de la conquête décomptés.${prompt}
+  17: Cette région est actuellement sous le contrôle de San d'Oria.${prompt}
+  18: Cette région est actuellement sous le contrôle de Bastok.${prompt}
+  19: Cette région est actuellement sous le contrôle de Windurst.${prompt}
   20: |-
     This region is currently under beastman control.
     You cannot obtain crystals in this region.${prompt}
