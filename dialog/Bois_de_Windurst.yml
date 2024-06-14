@@ -20218,9 +20218,9 @@ entries:
   8556: Why don't you buy something from me? You won't regrrret it! I've got all sorts of goods from the Zulkheim region!${prompt}
   8557: |-
     I'm taking a brrreak from
-     the saleswoman gig to give dirrrections.
-     So...through this arrrch is the residential
-     area.${prompt}
+    the saleswoman gig to give dirrrections.
+    So...through this arrrch is the residential
+    area.${prompt}
   8558: Ooh... avez-vous de superbes marchandises pour vous ! Man... ce sont des offres à ne pas manquer, alors profitez-en tant que vous le pouvez.${prompt}
   8559: "<pant> Je suis juste un pauvre \ncommerçant. Mon pote, mais attends !\nDes luttes... un jour je vivrai la grande vie.\nEh bien, c'est mon rêve, en tout cas...${prompt}"
   8560: Oui. C'est le consulat de San d'Oria. Comment puis-je vous aider ?${prompt}
@@ -21147,12 +21147,11 @@ entries:
   8996: |-
     Où souhaitez-vous apporter les fournitures ?
     ${selection-lines}
-    .
-    .
-    .
-    .
-    .
-    .
+    
+    
+    
+    
+    
     La région de Ronfaure.${choice: 5}[/ (Terminé)]
     La région de Zulkheim.${choice: 6}[/ (Terminé)]
     La région de Norvallen.${choice: 7}[/ (Terminé)]
@@ -21173,13 +21172,12 @@ entries:
     　
     L'archipel de Tavnazia.${choice: 23}[/ (Terminé)]
     　
-    .
-    .
-    .
-    .
-    .
-    .
-    .
+    
+    
+    
+    
+    
+    
     Annuler.${prompt}
   8997: |-
     À quel E.F. souhaitez-vous vous joindre ?
@@ -21293,14 +21291,18 @@ entries:
     Vous semblez pouvoir équiper ${article} ${item-singular: 2[2]}.
     Souhaitez-vous quand même procéder ?${prompt}
   9025: 'Êtes-vous sûr de vouloir acheter ${article} ${item-singular: 2[2]} ?${prompt}'
-  9026: "Procéder ?\n${selection-lines}\nOui, acheter l'objet.\nAnnuler l'achat.${prompt} "
+  9026: |- 
+    Procéder ?
+    ${selection-lines}
+    Oui, acheter l'objet.
+    Annuler l'achat.${prompt} 
   9027: |-
     Procéder ?
     ${selection-lines}
     Oui, même si je ne peux pas l'équiper.
     Annuler l'achat.${prompt}
   9028: |-
-    Which item do you wish to purchase?
+    Quel objet souhaites-tu acheter ?
     ${selection-lines}
     ${lettercase: 1}${item-singular: 0[2]}.
     ${lettercase: 1}${item-singular: 1[2]}.
@@ -21310,11 +21312,11 @@ entries:
     ${lettercase: 1}${item-singular: 5[2]}.
     ${lettercase: 1}${item-singular: 6[2]}.
     ${lettercase: 1}${item-singular: 7[2]}.
-    Next page.
-    Previous page.
-    Back.${prompt}
+    Page suivante.
+    Page précédente.
+    Retour.${prompt}
   9029: |-
-    Which item do you wish to purchase?
+    Quel objet souhaites-tu acheter ?
     ${selection-lines}
     ${lettercase: 1}${item-singular: 0[2]}...${number: 8} pts.
     ${lettercase: 1}${item-singular: 1[2]}...${number: 9} pts.
@@ -21324,135 +21326,135 @@ entries:
     ${lettercase: 1}${item-singular: 5[2]}...${number: 13} pts.
     ${lettercase: 1}${item-singular: 6[2]}...${number: 14} pts.
     ${lettercase: 1}${item-singular: 7[2]}...${number: 15} pts.
-    Next page.
-    Previous page.
-    Back.${prompt}
+    Page suivante.
+    Page précédente.
+    Retour.${prompt}
   9030: 'ENDPARA：${number: 0}${prompt}'
   9031: |-
-    Which service do you request?
+    Quel service désires-tu ?
     ${selection-lines}
-    Buy/Sell items.
-    Teleportation.
-    Nothing.${prompt}
+    Acheter/Vendre des objets.
+    Téléportation.
+    Rien.${prompt}
   9032: |-
-    Do you really wish to be teleported?
+    Souhaitez-vous vraiment être téléporté ?
     ${selection-lines}
-    Yes.
-    Teleport with gil.
-    Teleport with conquest points.
-    No.${prompt}
-  9033: Welcome to the border shop! If you trade me unused equipment, I'll add their value to your country's region points!${prompt}
+    Oui.
+    Téléporter avec des gils.
+    Téléporter avec des points de conquête.
+    Non.${prompt}
+  9033: Bienvenue dans la boutique frontalière ! Si vous me donnez des équipements inutilisés, j'ajouterai leur valeur aux points de région de votre pays !${prompt}
   9034: |-
-    It should please you to know that I now also deal in ${item-plural: 0[2]}.
-    Bigger pieces will earn you more points for your nation, and I'll even toss some gil into the equation!${prompt}
-  9035: I see that your home country has control of this region. Feel free to browse through my wares.${prompt}
-  9036: I see that your home country is allies with the country in control of this region. Feel free to browse through my wares.${prompt}
-  9037: 'I can teleport you to your home country for ${number: 1} gil or ${number: 3} conquest ${choice-plurality: 3}[point/points].${prompt}'
-  9038: "Word has it that the entire set of mog tablets has been recovered. \nOh, happy day! In honor of the occasion, I can teleport you to your home country free of charge.${prompt}"
-  9039: I am terribly sorry, but it seems as if you do not have enough gil.${prompt}
-  9040: I am terribly sorry, but it seems as if you do not have enough conquest points.${prompt}
-  9041: However, due to your home country's lack of influence in the region, this is the only transaction I am authorized to perform with you at the moment.${prompt}
-  9042: I am looking forward to doing business with you again in the future!${prompt}
-  9043: Thank you. This will increase your nation's region points by a small amount. If you have anything else, by all means, trade them to me.${prompt}
-  9044: Thank you. This will increase your nation's region points moderately. If you have anything else, by all means, trade them to me.${prompt}
-  9045: Thank you. This will increase your nation's region points greatly. If you have anything else, by all means, trade them to me.${prompt}
-  9046: I could not accept one or more items you tried to trade me. Please remove those items and try again.${prompt}
-  9047: Sorry. I can only take certain types of weapons, shields, or armor.${prompt}
+    Je suis heureux de vous informer que je traite désormais également avec les ${item-plural: 0[2]}.
+    Les pièces plus grandes vous rapporteront plus de points pour votre nation, et je rajouterai même quelques gils à l'équation !${prompt}
+  9035: Je vois que votre pays d'origine contrôle cette région. N'hésitez pas à parcourir mes marchandises.${prompt}
+  9036: Je vois que votre pays d'origine est allié avec le pays qui contrôle cette région. N'hésitez pas à parcourir mes marchandises.${prompt}
+  9037: 'Je peux vous téléporter vers votre pays d’origine pour ${number: 1} gil ou ${number: 3} point(s) de conquête.${prompt}'
+  9038: "On m’a dit que l’ensemble des tablettes mog a été récupéré. \nOh, jour heureux ! À cette occasion, je peux vous téléporter gratuitement vers votre pays d’origine.${prompt}"
+  9039: Désolé, mais il semble que vous n'ayez pas assez de gil.${prompt}
+  9040: Désolé, mais il semble que vous n'ayez pas assez de points de conquête.${prompt}
+  9041: Cependant, en raison du manque d'influence de votre pays d'origine dans la région, c'est la seule transaction que je suis autorisé à effectuer avec vous pour le moment.${prompt}
+  9042: J'ai hâte de faire affaire avec vous à nouveau à l'avenir !${prompt}
+  9043: Merci. Cela augmentera légèrement les points de région de votre nation. Si vous avez autre chose, n'hésitez pas à me les échanger.${prompt}
+  9044: Merci. Cela augmentera modérément les points de région de votre nation. Si vous avez autre chose, n'hésitez pas à me les échanger.${prompt}
+  9045: Merci. Cela augmentera grandement les points de région de votre nation. Si vous avez autre chose, n'hésitez pas à me les échanger.${prompt}
+  9046: Je n'ai pas pu accepter un ou plusieurs objets que vous avez essayé de me donner. Veuillez retirer ces objets et réessayer.${prompt}
+  9047: Désolé. Je ne peux accepter que certains types d'armes, de boucliers ou d'armures.${prompt}
   9048: |-
-    Thank you. This will increase your nation's region points ${choice: 1}[by a small amount/moderately/greatly].
-    For this transaction I will also furnish you with ${number: 0} gil.${prompt}
-  9049: My apologies, but this type of item needs to be individually appraised. Please trade them to me one at a time.${prompt}
-  9050: (DEBUG) Back to hometown!${prompt}
+    Merci. Cela augmentera les points de région de votre nation ${choice: 1}[légèrement/modérément/grandement].
+    Pour cette transaction, je vous fournirai également ${number: 0} gil.${prompt}
+  9049: Mes excuses, mais ce type d'objet doit être évalué individuellement. Veuillez me les échanger un par un.${prompt}
+  9050: (DEBUG) Retour à la ville natale !${prompt}
   9051: |-
-    What do you want?
+    Que désirez-vous ?
     ${selection-lines}
-    Would you cast Signet on me?
-    I'd like to set my home point here.
-    Nothing.${prompt}
+    Pouvez-vous me lancer un Signet ?
+    J'aimerais définir mon point de rappel ici.
+    Rien.${prompt}
   9052: |-
-    What do you want?
+    Que désirez-vous ?
     ${selection-lines}
-    Pay ${number: 7} gil and set my home point here.
-    Nothing.${prompt}
-  9053: Your home point has been set.${prompt}
-  9054: You do not have enough gil to set your home point here.${prompt}
-  9055: 'I will set your home point here.${wait-animation: 0}${prompt}'
+    Payer ${number: 7} gil et définir mon point de rappel ici.
+    Rien.${prompt}
+  9053: Votre point de rappel a été défini.${prompt}
+  9054: Vous n'avez pas assez de gil pour définir votre point de rappel ici.${prompt}
+  9055: 'Je vais définir votre point de rappel ici.${wait-animation: 0}${prompt}'
   9056: |-
-    We are currently on a beastman-purging campaign. We support adventurers from all nations.
-    Do your best to rid the world of those vile creatures.${prompt}
+    Nous menons actuellement une campagne d'extermination des bêtes. Nous soutenons les aventuriers de toutes les nations.
+    Faites de votre mieux pour débarrasser le monde de ces créatures viles.${prompt}
   9057: |-
-    We are currently conducting an international exchange campaign.
-    You may spend your conquest points to purchase items from foreign guards.${prompt}
+    Nous menons actuellement une campagne d'échange international.
+    Vous pouvez dépenser vos points de conquête pour acheter des objets auprès des gardes étrangers.${prompt}
   9058: |-
-    Thanks to you, our nation is now first in the conquest race!
-    Here is a small token of our appreciation.${prompt}
-  9059: Adventurers from nations that are ranked higher than ours in the conquest race may purchase items from us, but at a higher rate.${prompt}
+    Grâce à vous, notre nation est désormais en tête de la course à la conquête !
+    Voici un petit geste de notre reconnaissance.${prompt}
+  9059: Les aventuriers des nations mieux classées que la nôtre dans la course à la conquête peuvent acheter des objets chez nous, mais à un tarif supérieur.${prompt}
   9060: |-
-    You cannot currently purchase this item.
-    Please choose another.${prompt}
-  9061: Currently our nation is dispatching Expeditionary Forces across Vana'diel, and requests the participation of brave adventurers such as yourself.${prompt}
-  9062: 'Requirements for participating in an E.F. are simple. Your party must consist of ${number: 5} members. Each member must be from this country, rank 3 or higher, and have reached a sufficient level.${prompt}'
-  9063: Once your party is ready, come to me and I will teleport you to the nearest outpost.${prompt}
-  9064: There, you will receive an insignia of the Expeditionary Force. When you succeed in taking control of the area, you can exchange the insignia for your reward.${prompt}
+    Vous ne pouvez pas acheter cet objet pour le moment.
+    Veuillez en choisir un autre.${prompt}
+  9061: Actuellement, notre nation envoie des Forces Expéditionnaires à travers Vana'diel, et demande la participation de braves aventuriers comme vous.${prompt}
+  9062: 'Les conditions pour participer à une F.E. sont simples. Votre groupe doit être composé de ${number: 5} membres. Chaque membre doit être de ce pays, rang 3 ou plus, et avoir atteint un niveau suffisant.${prompt}'
+  9063: Lorsque votre groupe sera prêt, venez me voir et je vous téléporterai jusqu'au poste avancé le plus proche.${prompt} 
+  9064: Là-bas, vous recevrez un insigne de la Force Expéditionnaire. Lorsque vous réussirez à prendre le contrôle de la zone, vous pourrez échanger l'insigne contre votre récompense.${prompt}
   9065: |-
-    Join the E.F. in ${choice: 7}[Ronfaure/Zulkheim/Norvallen/Gustaberg/Derfland/Sarutabaruta/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/The Elshimo Lowlands/The Elshimo Uplands]?
+    Rejoindre la F.E. à ${choice: 7}[Ronfaure/Zulkheim/Norvallen/Gustaberg/Derfland/Sarutabaruta/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/Les Basses terres d'Elshimo/Les Hautes terres d'Elshimo] ?
     ${selection-lines}
-    Join the E.F.
-    Not this time.${prompt}
-  9066: Your party doesn't have enough members, or some of the members are not in this area. Gather all those who are participating and return here.${prompt}
-  9067: One of your party members is not a citizen of this country. We do not allow any foreign participants in the E.F.${prompt}
-  9068: One of your party members has not achieved rank level 3. We cannot reveal any of our tactical strategies to those who have not shown their loyalty to our country.${prompt}
-  9069: 'One of your party members is below level ${number: 6}. For the safety of the adventurer and those accompanying him or her, we cannot allow anyone below the limit to participate in the E.F.${prompt}'
+    Rejoindre la F.E.
+    Pas cette fois.${prompt}
+  9066: Votre groupe n'a pas assez de membres, ou certains membres ne sont pas dans cette zone. Rassemblez tous ceux qui participent et revenez ici.${prompt}
+  9067: Un des membres de votre groupe n'est pas citoyen de ce pays. Nous n'acceptons aucun participant étranger dans la F.E.${prompt}
+  9068: Un des membres de votre groupe n'a pas atteint le rang niveau 3. Nous ne pouvons pas révéler nos stratégies tactiques à ceux qui n'ont pas prouvé leur loyauté envers notre pays.${prompt}
+  9069: 'Un des membres de votre groupe est en dessous du niveau ${number: 6}. Pour la sécurité de l’aventurier et de ceux qui l’accompagnent, nous ne pouvons pas permettre à quiconque en dessous de cette limite de participer à la F.E.${prompt}'
   9070: |-
-    I see that you are ready.
-    I grant you permission to join the current Expeditionary Force. When you are ready to teleport to the outpost, talk to me once more.${prompt}
-  9071: 'Are you ready to be teleported to ${choice: 7}[Ronfaure/Zulkheim/Norvallen/Gustaberg/Derfland/Sarutabaruta/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li''Telor/Kuzotz/Vollbow/The Elshimo Lowlands/The Elshimo Uplands]? Remember that party members who have not been granted permission to attend the E.F. will be left behind.${prompt}'
+    Je vois que vous êtes prêt.
+    Je vous donne la permission de rejoindre la Force Expéditionnaire en cours. Lorsque vous serez prêt à être téléporté jusqu'au poste avancé, parlez-moi à nouveau.${prompt}
+  9071: 'Êtes-vous prêt à être téléporté vers ${choice: 7}[Ronfaure/Zulkheim/Norvallen/Gustaberg/Derfland/Sarutabaruta/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li’Telor/Kuzotz/Vollbow/Les Basses terres d’Elshimo/Les Hautes terres d’Elshimo] ? Notez que les membres du groupe qui n’ont pas reçu l’autorisation de participer à la F.E. seront laissés derrière.${prompt}'
   9072: |-
-    Teleport to ${choice: 7}[Ronfaure/Zulkheim/Norvallen/Gustaberg/Derfland/Sarutabaruta/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/The Elshimo Lowlands/The Elshimo Uplands]?
+    Téléporter vers ${choice: 7}[Ronfaure/Zulkheim/Norvallen/Gustaberg/Derfland/Sarutabaruta/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li'Telor/Kuzotz/Vollbow/Les Basses terres d'Elshimo/Les Hautes terres d'Elshimo] ?
     ${selection-lines}
-    Ready!
-    Wait just a minute...${prompt}
-  9073: 'Cancel your participation in the E.F. to ${choice: 7}[Ronfaure/Zulkheim/Norvallen/Gustaberg/Derfland/Sarutabaruta/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li''Telor/Kuzotz/Vollbow/The Elshimo Lowlands/The Elshimo Uplands]?${prompt}'
+    Prêt !
+    Attendez une minute...${prompt}
+  9073: 'Annuler votre participation à la F.E. à ${choice: 7}[Ronfaure/Zulkheim/Norvallen/Gustaberg/Derfland/Sarutabaruta/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li''Telor/Kuzotz/Vollbow/Les Basses terres d’Elshimo/Les Hautes terres d’Elshimo] ?${prompt}'
   9074: |-
-    Quit the E.F.?
+    Quitter la F.E. ?
     ${selection-lines}
-    Yes.
-    Change locations.
-    No.${prompt}
-  9075: Are you sure?${prompt}
+    Oui.
+    Changer d'emplacement.
+    Non.${prompt}
+  9075: Êtes-vous sûr ?${prompt}
   9076: |-
-    Really quit the E.F.?
+    Vraiment quitter la F.E. ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
+    Oui.
+    Non.${prompt}
   9077: |-
-    I see.
-    If you ever wish to participate in the future, I will be waiting here to take your application.${prompt}
-  9078: 'Your ${color: 5}EF Badge${color: 1} vanishes!${prompt}'
-  9079: 'Katsu-yaku pointos : ${number: 0}!${prompt}'
-  9080: 'This ${keyitem-singular: 0[2]} is no longer valid. We will dispose of it here.${prompt}'
-  9081: Your invalid ensignias have been disposed of.${prompt}
-  9082: Welcome back from the expedition. Our nation was successful in its campaign. Let me give you your reward.${prompt}
-  9083: 'You received ${number: 1} conquest points!${prompt}'
-  9084: When participating in an Expeditionary Force, concentrate your efforts on fighting foes that give you the most experience points. And don't forget to confiscate the contents of any beastman treasure chest you happen to come upon.${prompt}
+    Je vois.
+    Si jamais vous souhaitez participer à nouveau, je serai ici pour prendre votre candidature.${prompt}
+  9078: 'Votre ${color: 5}Insigne de F.E.${color: 1} disparaît !${prompt}'
+  9079: 'Points de Katsu-yaku : ${number: 0} !${prompt}'
+  9080: 'Cet ${keyitem-singular: 0[2]} n’est plus valide. Nous allons le jeter ici.${prompt}'
+  9081: Vos insignes invalides ont été jetés.${prompt}
+  9082: Bienvenue de retour de l’expédition. Notre nation a remporté sa campagne avec succès. Laissez-moi vous remettre votre récompense.${prompt}
+  9083: 'Vous avez reçu ${number: 1} point de conquête !${prompt}'
+  9084: Lors de votre participation à une Force Expéditionnaire, concentrez-vous sur les ennemis qui vous rapportent le plus d'expérience. Et n’oubliez pas de confisquer le contenu des coffres au trésor des bêtes si vous en trouvez.${prompt}
   9085: |-
-    I will now hand you your insignia. Be sure to read the inscription on the back before you begin your duties.
-    Once Signet has been bestowed upon you, prepare to be teleported.${prompt}
-  9086: You could not be teleported. Ask me again, please.${prompt}
-  9087: The conquest results are currently being tallied. Come back later.${prompt}
-  9088: You have received permission to join the Expeditionary Forces!${prompt}
-  9089: Currently we rank first in Vana'diel's conquest, but that must not be taken for granted. We must continue our fight to remain on top.${prompt}
-  9090: We had first place in our hands, but we let it slip away. If we want to be ranked first in Vana'diel, each and every one of us must do their part. I look forward to hearing of your achievements.${prompt}
-  9091: Our country has fallen to third in the conquest of Vana'diel. We must step up our efforts to improve the situation.${prompt}
-  9092: You must fight in battles that gain high levels of experience. This is the only way we can bring areas under our country's control.${prompt}
-  9093: Currently, our country is the dominant force in this region. If we can maintain this level, control of this area will be ours.${prompt}
-  9094: Currently, our country is a major force in this region. However, we cannot take this for granted. If we let down our guard, we will surely lose control of the area!${prompt}
-  9095: Currently, our country has only minor influence in this region. We're counting on you to get us out of this hole we've dug ourselves into.${prompt}
-  9096: Currently, our country's influence in this area is minimal. If we do not act quickly, control of this region will certainly be taken by a rival country.${prompt}
-  9097: Take care when passing through, as this area is currently overrun with beastmen! Something must be done, or the enemy will have control of the entire region.${prompt}
-  9098: 'Your inventory is full. You could not accept the ${item-singular: 0[2]}.${prompt}'
-  9099: You already possess a gate glyph. You cannot hold any more.${prompt}
-  9100: I am Jeunoan Ducal Guard, ${name-npc}. My duty is to support the conquest efforts of Windurst, San d'Oria, and Bastok.${prompt}
+    Je vais maintenant vous remettre votre insigne. Assurez-vous de lire l'inscription au dos avant de commencer vos fonctions.
+    Une fois que le Sceau aura été apposé sur vous, préparez-vous à être téléporté.${prompt}
+  9086: Vous n'avez pas pu être téléporté. Demandez-moi à nouveau, s’il vous plaît.${prompt}
+  9087: Les résultats de la conquête sont actuellement en cours de compilation. Revenez plus tard.${prompt}
+  9088: Vous avez reçu l’autorisation de rejoindre les Forces Expéditionnaires !${prompt}
+  9089: Actuellement, nous sommes en tête de la conquête de Vana'diel, mais cela ne doit pas être pris pour acquis. Nous devons continuer notre combat pour rester en tête.${prompt}
+  9090: Nous avions la première place entre les mains, mais nous l'avons laissée nous échapper. Si nous voulons être classés premiers à Vana'diel, chacun de nous doit faire sa part. J'attends avec impatience de connaître vos réussites.${prompt}
+  9091: Notre pays est tombé à la troisième place dans la conquête de Vana'diel. Nous devons intensifier nos efforts pour améliorer la situation.${prompt}
+  9092: Vous devez participer à des batailles qui rapportent beaucoup d'expérience. C'est la seule façon de prendre le contrôle des zones sous l'autorité de notre pays.${prompt}
+  9093: Actuellement, notre pays est la force dominante dans cette région. Si nous maintenons ce niveau, le contrôle de cette zone sera à nous.${prompt}
+  9094: Actuellement, notre pays est une force majeure dans cette région. Cependant, nous ne pouvons pas considérer cela comme acquis. Si nous baissons la garde, nous perdrons sûrement le contrôle de la zone !${prompt}
+  9095: Actuellement, notre pays n'a qu'une influence mineure dans cette région. Nous comptons sur vous pour nous sortir de ce pétrin dans lequel nous nous sommes mis.${prompt}
+  9096: Actuellement, l'influence de notre pays dans cette zone est minime. Si nous n'agissons pas rapidement, le contrôle de cette région sera certainement pris par un pays rival.${prompt}
+  9097: Soyez prudent en traversant cette zone, car elle est actuellement infestée de bêtes ! Quelque chose doit être fait, sinon l'ennemi aura le contrôle de toute la région.${prompt}
+  9098: 'Votre inventaire est plein. Vous n’avez pas pu accepter le ${item-singular: 0[2]}.${prompt}'
+  9099: Vous possédez déjà un glyphe de porte. Vous ne pouvez pas en avoir plus.${prompt}
+  9100: Je suis Garde Ducal de Jeuno, ${name-npc}. Ma mission est de soutenir les efforts de conquête de Windurst, San d'Oria et Bastok.${prompt}
   9101: 　${prompt}
   9102: 　${prompt}
   9103: 　${prompt}
@@ -23422,49 +23424,49 @@ entries:
   10190: While you're playing matchmaker, you might meet someone who puts a sparkle in your eye, too. Kupohoho～!${prompt}
   10191: Or maybe you could take advantage of this romantic occasion and make a party with that special someone while you exchange chocolates, kupopopo!${prompt}
   10192: |-
-    Want to try again?
-    Match up all the lovebirds you can, kupo!${prompt}
-  10193: Something wrong, kupo?${prompt}
+    Veux-tu réessayer ?
+    Fais correspondre tous les tourtereaux que tu peux, kupo !${prompt}
+  10193: Quelque chose ne va pas, kupo ?${prompt}
   10194: |-
-    Something wrong?
+    Quelque chose ne va pas ?
     ${selection-lines}
-    Listen to the rules again.
-    Give up.
-    Not really.${prompt}
-  10195: Four people hold the chocolates you seek. Make them into four whole chocolates and give one to each person. When you're finished, return to a moogle, kupo!${prompt}
-  10196: You aren't planning on giving up, are you?${prompt}
+    Écouter à nouveau les règles.
+    Abandonner.
+    Pas vraiment.${prompt}
+  10195: Quatre personnes détiennent les chocolats que tu cherches. Transforme-les en quatre chocolats entiers et donne-en un à chaque personne. Quand tu as terminé, retourne voir un mog, kupo !${prompt}
+  10196: Tu ne vas pas abandonner, n'est-ce pas ?${prompt}
   10197: |-
-    Quit the game?
+    Quitter le jeu ?
     ${selection-lines}
-    Yes.
-    Not yet.${prompt}
-  10198: If you want to start over, you'll have to get rid of the chocolates you have now.${prompt}
+    Oui.
+    Pas encore.${prompt}
+  10198: Si tu veux recommencer, tu devras te débarrasser des chocolats que tu as maintenant.${prompt}
   10199: |-
-    Really give up?
+    Abandonner vraiment ?
     ${selection-lines}
-    Yes!
-    No, not yet!${prompt}
+    Oui !
+    Non, pas encore !${prompt}
   10200: |-
-    Just think of all those poor singles! You'll come back and help them later, won't you, kupo?
-    You should get rid of your chocolates in a subtle manner, so that you don't hurt anyone's feelings!
-    ...We wouldn't want you getting a stomachache either, now would we, kupo?${prompt}
-  10201: You've managed to gather complementary pieces of chocolate! Wait just a moment, now...${prompt}
+    Pense à tous ces pauvres célibataires ! Tu reviendras les aider plus tard, n'est-ce pas, kupo ?
+    Tu devrais te débarrasser de tes chocolats de manière subtile, pour ne blesser les sentiments de personne !
+    ...Nous ne voudrions pas que tu aies mal au ventre non plus, n'est-ce pas, kupo ?${prompt}
+  10201: Tu as réussi à rassembler des morceaux de chocolat complémentaires ! Attends un instant, maintenant...${prompt}
   10202: '...${prompt}'
   10203: |-
-    Kupopopo～!
-    What a beautiful piece of chocolate!
-    No need to thank me, now. Hurry and give it to the Valentione Single!${prompt}
-  10204: Great work, kupo! You delivered chocolates to everyone! I've been getting lots of feedback about it! The response has been...${prompt}
-  10205: 'Excellent! I thought my heart was going to flutter out of my furry little chest--you score ${number: 2} ${choice-plurality: 2}[point/points]! The power of love is amazing, kupo!${prompt}'
-  10206: 'Decent. You score ${number: 2} ${choice-plurality: 2}[point/points]. Everyone seems relatively happy! Not bad, kupo.${prompt}'
+    Kupopopo～ !
+    Quel beau morceau de chocolat !
+    Pas besoin de me remercier, maintenant. Dépêche-toi et donne-le au Célibataire Valentione !${prompt}
+  10204: Excellent travail, kupo ! Tu as livré des chocolats à tout le monde ! J'ai reçu beaucoup de retours à ce sujet ! La réponse a été...${prompt}
+  10205: 'Excellente ! Je pensais que mon cœur allait s’envoler de ma petite poitrine poilue--tu marques ${number: 2} ${choice-plurality: 2}[point/points] ! Le pouvoir de l’amour est incroyable, kupo !${prompt}'
+  10206: 'Décente. Tu marques ${number: 2} ${choice-plurality: 2}[point/points]. Tout le monde semble relativement heureux ! Pas mal, kupo.${prompt}'
   10207: |-
-    Well, let's just say that some things just weren't meant to be. You score ${number: 2} ${choice-plurality: 2}[point/points].
-    Sorry, but I won't hand out a reward this time, kupo.${prompt}
-  10208: My bag is filled with goodies for helpful adventurers like yourself! Take your pick!${prompt}
+    Eh bien, disons simplement que certaines choses n'étaient pas censées être. Tu marques ${number: 2} ${choice-plurality: 2}[point/points].
+    Désolé, mais je ne distribuerai pas de récompense cette fois, kupo.${prompt}
+  10208: Mon sac est rempli de friandises pour les aventuriers serviables comme toi ! Fais ton choix !${prompt}
   10209: |-
-    Which item would you like?
+    Quel objet voudrais-tu ?
     ${selection-lines}
-    Let me think.
+    Laisse-moi réfléchir.${prompt}
     ${lettercase: 1}${article} ${item-article: 1[2]}.
     ${lettercase: 1}${article} ${item-article: 2[2]}.
     ${lettercase: 1}${article} ${item-article: 3[2]}.
@@ -23482,292 +23484,292 @@ entries:
     ${lettercase: 1}${article} ${item-article: 15[2]}.
     ${lettercase: 1}${article} ${item-article: 16[2]}.
     ${lettercase: 1}${article} ${item-article: 17[2]}.${prompt}
-  10210: Are you absolutely sure, kupo?${prompt}
+  10210: Es-tu absolument sûr, kupo ?${prompt}
   10211: |-
-    You really want ${article} ${item-article: 0[2]}?
+    Tu veux vraiment ${article} ${item-article: 0[2]} ?
     ${selection-lines}
-    Yes, that's the one!
-    On second thought...${prompt}
-  10212: You must wait a bit longer to try again, kupo.${prompt}
-  10213: You have to throw away all of your chocolates before playing again, kupo! It might seem a waste, but a rule is a rule!${prompt}
+    Oui, c'est celui-là !
+    En y repensant...${prompt}
+  10212: Tu dois attendre un peu plus longtemps avant de réessayer, kupo.${prompt}
+  10213: Tu dois jeter tous tes chocolats avant de jouer à nouveau, kupo ! Cela peut sembler du gâchis, mais une règle est une règle !${prompt}
   10214: |-
-    Oh, I've been waiting for this moment!
-    You'll help me find my perfect woman, right? Wow, thank you!!!${prompt}
+    Oh, j'attendais ce moment !
+    Tu vas m'aider à trouver la femme parfaite, n'est-ce pas ? Wow, merci !!!${prompt}
   10215: |-
-    I really like ${choice: 2}[cheerful/kind/shy/modest] ${choice: 3}[Humes/Elvaan/Tarutaru/Mithra]! They're fantastic!
-    Here's a piece of chocolate. I hope you bring back the best chocolate ever! Good luck!${prompt}
+    J'aime vraiment les ${choice: 2}[joyeuses/gentilles/timides/modestes] ${choice: 3}[Humes/Elvaan/Tarutaru/Mithra] ! Elles sont fantastiques !
+    Voici un morceau de chocolat. J'espère que tu rapporteras le meilleur chocolat de tous les temps ! Bonne chance !${prompt}
   10216: |-
-    You still haven't brought any chocolate?
-    I've been waiting so long for this, so hurry up!${prompt}
+    Tu n'as toujours pas apporté de chocolat ?
+    J'ai attendu si longtemps pour ça, alors dépêche-toi !${prompt}
   10217: |-
-    Hey, what do you want?
-    You could go see a moogle or something!${prompt}
+    Hé, que veux-tu ?
+    Tu pourrais aller voir un mog ou quelque chose !${prompt}
   10218: |-
-    <gasp>!
-    Y-you brought me a chocolate!
-    I'm going to savor its delicate flavor...and then I'll let you know what I think! Thank you!${prompt}
-  10219: Hey. I heard you're playing the matchmaker around here.${prompt}
-  10220: 'Hmph, guess I might as well let you know my type. I like ${choice: 3}[Humes/Elvaan/Tarutaru/Mithra], and I like ''em ${choice: 2}[cheerful/kind/shy/modest]. I leave this chocolate, and my future, in your hands. Well, go on. Get on with it.${prompt}'
+    <gasp> !
+    T-tu m'as apporté un chocolat !
+    Je vais en savourer la délicate saveur...et ensuite je te dirai ce que j'en pense ! Merci !${prompt}
+  10219: Hé. J'ai entendu dire que tu jouais au marieur par ici.${prompt}
+  10220: 'Hmph, je suppose que je devrais te faire part de mon type. J’aime les ${choice: 3}[Humes/Elvaan/Tarutaru/Mithra], et je les aime ${choice: 2}[joyeuses/gentilles/timides/modestes]. Je laisse ce chocolat, et mon avenir, entre tes mains. Eh bien, vas-y. Commence.${prompt}'
   10221: |-
-    What? Still...?
-    Oh well, keep it up. Looking forward to the results.${prompt}
+    Quoi ? Toujours... ?
+    Eh bien, continue. J'attends avec impatience les résultats.${prompt}
   10222: |-
-    What do you want?
-    I don't think I know you.${prompt}
+    Que veux-tu ?
+    Je ne pense pas te connaître.${prompt}
   10223: |-
-    Well, you were able to get a finished chocolate after all.
-    I need some time to think, though. After all, this could determine my future, so I will taste it later. Thank you.${prompt}
+    Eh bien, tu as finalement pu obtenir un chocolat fini.
+    J'ai besoin de temps pour réfléchir, cependant. Après tout, cela pourrait déterminer mon avenir, alors je le goûterai plus tard. Merci.${prompt}
   10224: |-
-    I have been waiting all my life for this!
-    You'll match me up with a girl, right? Wow! Me and a girl, together! Imagine!${prompt}
-  10225: 'Oh, oh, let''s see...I''ll tell you exactly what I want! I want a ${choice: 2}[cheerful/kind/shy/modest] ${choice: 3}[Hume/Elvaan/Tarutaru/Mithra]! She also must cook things like steamed catfish every night, love watching Ballista, and have an interest in airship mechanics...er, ignore those last few requests. Anyway, here''s some chocolate! Go get me a woman!${prompt}'
-  10226: Oh wow, thanks for doing this for me! I can't wait for my chocolate!${prompt}
-  10227: What? What do you need? Nothing? Okay, then!${prompt}
+    J'ai attendu toute ma vie pour ça !
+    Tu vas me trouver une fille, n'est-ce pas ? Wow ! Moi et une fille, ensemble ! Imagine !${prompt}
+  10225: 'Oh, oh, voyons...Je vais te dire exactement ce que je veux ! Je veux une ${choice: 2}[joyeuse/gentille/timide/modeste] ${choice: 3}[Hume/Elvaan/Tarutaru/Mithra] ! Elle doit aussi cuisiner des plats comme du poisson-chat cuit à la vapeur tous les soirs, aimer regarder la Ballista et avoir un intérêt pour la mécanique des aéronefs...euh, ignore ces dernières demandes. Quoi qu’il en soit, voici du chocolat ! Va me chercher une femme !${prompt}'
+  10226: Oh wow, merci de faire ça pour moi ! J’ai hâte d’avoir mon chocolat !${prompt}
+  10227: Quoi ? De quoi as-tu besoin ? Rien ? D’accord, alors !${prompt}
   10228: |-
-    Wooow, you really got a chocolate for me!
-    I'll let you know how it tastes later! Oh, thank you, thank you! I hope you can get a real, live ${choice-player-gender}[girlfriend/boyfriend] someday, too!${prompt}
+    Wooow, tu m'as vraiment apporté un chocolat !
+    Je te dirai plus tard quel goût il a ! Oh, merci, merci ! J'espère que tu pourras aussi avoir un(e) véritable ${choice-player-gender}[petite amie/petit ami] un jour !${prompt}
   10229: |-
-    N-no way!
-    I can meet...a woman? One that...likes me!? ...Oh, wow!${prompt}
+    N-non, pas possible !
+    Je peux rencontrer...une femme ? Une qui...m'aime !? ...Oh, wow !${prompt}
   10230: |-
-    Okay, okay...I'm going to tell you my type. Let's see...I'd like an, um...ack, this is so embarrassing. I'd like a ${choice: 2}[cheerful/kind/shy/modest] ${choice: 3}[Hume/Elvaan/Tarutaru/Mithra]! Y-yes, that's my order! (Oops...maybe I went too far just now...)
-    Anyway, h-here's a chocolate!${prompt}
+    D'accord, d'accord...Je vais te dire mon type. Voyons voir...J'aimerais, euh...oh, c'est tellement embarrassant. J'aimerais une ${choice: 2}[joyeuse/gentille/timide/modeste] ${choice: 3}[Hume/Elvaan/Tarutaru/Mithra] ! O-oui, c'est ma commande ! (Oups...peut-être que je suis allé trop loin là...)
+    Quoi qu'il en soit, v-voici un chocolat !${prompt}
   10231: |-
-    Ahhh!
-    By Altana, you scared me!
-    Not finished yet? O-oh, I'm sorry!${prompt}
+    Ahhh !
+    Par Altana, tu m'as fait peur !
+    Pas encore terminé ? O-oh, je suis désolé !${prompt}
   10232: |-
-    What!?
-    ...Oh, you want something? I-I'm fine!${prompt}
+    Quoi !?
+    ...Oh, tu veux quelque chose ? J-je vais bien !${prompt}
   10233: |-
-    Ahhh!
-    You really got a chocolate for me! B-but, I don't see anywhere I could eat it now! I'll have to tell the moogle what I think later. Wow, this is great! See ya!${prompt}
-  10234: Hiya! I've been waiting for you, sugar! Going to find a real sweetheart for me, are you? Yay!${prompt}
+    Ahhh !
+    Tu m'as vraiment apporté un chocolat ! M-mais, je ne vois pas où je pourrais le manger maintenant ! Je devrai dire au mog ce que j'en pense plus tard. Wow, c'est génial ! À plus !${prompt}
+  10234: Salut ! Je t'attendais, chéri ! Tu vas me trouver un véritable amoureux, n'est-ce pas ? Youpi !${prompt}
   10235: |-
-    Listen closely, now! I liiike...${choice: 2}[cheerful/cool-headed/honest/shy] ${choice: 3}[Hume/Elvaan/Tarutaru/Galkan] boys! Teeheehee!
-    Here's a chocolate! Doesn't it look yummy? Good luck!${prompt}
-  10236: What's wrong, pumpernickel? Not having trouble, are we? I really want a man, so please hurry up!${prompt}
+    Écoute bien, maintenant ! J'aime...les garçons ${choice: 2}[joyeux/réfléchis/honnêtes/timides] de type ${choice: 3}[Hume/Elvaan/Tarutaru/Galkan] ! Hi hi hi !
+    Voici un chocolat ! Il n'a pas l'air délicieux ? Bonne chance !${prompt}
+  10236: Quel est le problème, pain d'épice ? Tu as des difficultés, n'est-ce pas ? Je veux vraiment un homme, alors dépêche-toi, s'il te plaît !${prompt}
   10237: |-
-    Hm? Want something?
-    You should go talk to a moogle!${prompt}
-  10238: Oh, I've been waiting! I wonder what it tastes like! I'll let you know what I think later. Thank you so much!${prompt}
+    Hm ? Tu veux quelque chose ?
+    Tu devrais aller parler à un mog !${prompt}
+  10238: Oh, je t'attendais ! Je me demande quel goût ça a ! Je te dirai ce que j'en pense plus tard. Merci beaucoup !${prompt}
   10239: |-
-    Why, hello!
-    This looks like quite an exciting event, doesn't it? I hope I can also meet a nice guy.${prompt}
+    Bonjour !
+    Cet événement a l'air vraiment excitant, n'est-ce pas ? J'espère aussi rencontrer un gentil garçon.${prompt}
   10240: |-
-    ${choice: 2}[Cheerful/Cool-headed/Honest/Shy] ${choice: 3}[Hume/Elvaan/Tarutaru/Galkan] guys are just my type.
-    Here's a chocolate. You have my support! I wish you the best of luck!${prompt}
+    Les garçons ${choice: 2}[joyeux/réfléchis/honnêtes/timides] de type ${choice: 3}[Hume/Elvaan/Tarutaru/Galkan] sont juste mon type.
+    Voici un chocolat. Tu as mon soutien ! Je te souhaite bonne chance !${prompt}
   10241: |-
-    Hello! You seem to be working very hard. I'm really thankful!
-    But you needn't rush around so fast. Take your time! I can wait if it makes the job easier for you!${prompt}
+    Bonjour ! Tu sembles travailler très dur. Je suis vraiment reconnaissante !
+    Mais tu n'as pas besoin de te précipiter autant. Prends ton temps ! Je peux attendre si ça te rend la tâche plus facile !${prompt}
   10242: |-
-    Yes? You have a question?
-    Oh, I'm sorry. I think you've got the wrong person, but don't worry about it!${prompt}
+    Oui ? Tu as une question ?
+    Oh, je suis désolée. Je pense que tu t'es trompé de personne, mais ne t'inquiète pas !${prompt}
   10243: |-
-    Wow, you brought back a finished chocolate! Thank you so much!
-    I wonder what it tastes like. Teeheehee, I can't wait to try it.
-    I hope you meet someone special, too!${prompt}
+    Wow, tu as rapporté un chocolat terminé ! Merci beaucoup !
+    Je me demande quel goût ça a. Hi hi hi, j'ai hâte de l'essayer.
+    J'espère que tu rencontreras aussi quelqu'un de spécial !${prompt}
   10244: |-
-    Aaah!
-    Oh...hi! Um, today is...and I...well, that is...
-    <sigh> I can't bring myself to say it!${prompt}
+    Aaah !
+    Oh...salut ! Euh, aujourd'hui est...et je...eh bien, c'est...
+    <soupir> Je n'arrive pas à le dire !${prompt}
   10245: |-
-    Well, here goes nothing. I want ${choice: 2}[a cheerful/a cool-headed/an honest/a shy] ${choice: 3}[Hume/Elvaan/Tarutaru/Galkan] boyfriend!
-    A-and here's a chocolate... Th-thank you! (I can't believe I just said that!)${prompt}
+    Bon, allons-y. Je veux un petit ami ${choice: 2}[joyeux/réfléchi/honnête/timide] de type ${choice: 3}[Hume/Elvaan/Tarutaru/Galkan] !
+    E-et voici un chocolat... M-merci ! (Je ne peux pas croire que je viens de dire ça !)${prompt}
   10246: |-
-    Eep!
-    Oh, y-you haven't brought a chocolate back yet? You really scared me, you know!
-    Anyway, good luck!${prompt}
+    Eek!
+    Oh, t-tu n'as pas encore rapporté de chocolat ? Tu m'as vraiment fait peur, tu sais !
+    Quoi qu'il en soit, bonne chance !${prompt}
   10247: |-
-    Y-yes? What is it?
-    I...um, I don't need anything...${prompt}
-  10248: What? Th-this...could it be? You got me a chocolate! I can't eat it here, though...that would be sooo embarrassing. But I will eat it later, so thank you!${prompt}
+    O-oui ? Qu'est-ce que c'est ?
+    Je...euh, je n'ai besoin de rien...${prompt}
+  10248: Quoi ? Ce...ça pourrait-il être ? Tu m'as apporté un chocolat ! Je ne peux pas le manger ici, ce serait tellement embarrassant. Mais je le mangerai plus tard, alors merci !${prompt}
   10249: |-
-    Hello...
-    I may not look like much, but I do hope to meet a nice guy...${prompt}
+    Bonjour...
+    Je ne paie peut-être pas de mine, mais j'espère rencontrer un gentil garçon...${prompt}
   10250: |-
-    I really like ${choice: 2}[cheerful/cool-headed/honest/shy] ${choice: 3}[Hume/Elvaan/Tarutaru/Galkan] men.
-    Please take this chocolate. It may not be the best in the world, but I hope you can use it to find someone.${prompt}
+    J'aime beaucoup les hommes ${choice: 2}[joyeux/réfléchis/honnêtes/timides] de type ${choice: 3}[Hume/Elvaan/Tarutaru/Galkan].
+    Voici un chocolat pour toi. Ce n'est peut-être pas le meilleur du monde, mais j'espère que tu pourras l'utiliser pour trouver quelqu'un.${prompt}
   10251: |-
-    You're not finished with the chocolate yet, are you?
-    I knew it would be hard to find someone for a girl like me...${prompt}
+    Tu n'as pas encore fini avec le chocolat, n'est-ce pas ?
+    Je savais que ce serait difficile de trouver quelqu'un pour une fille comme moi...${prompt}
   10252: |-
-    What's the matter?
-    I don't think there's anything I need...${prompt}
-  10253: I see you got a chocolate for me. I can't tell how good it will be until I taste it, but maybe there's hope for me after all. Thanks so much for helping me.${prompt}
-  10254: Come and celebrate the Doll Festival with us, kupo!${prompt}
+    Quel est le problème ?
+    Je ne pense pas avoir besoin de quoi que ce soit...${prompt}
+  10253: Je vois que tu m'as apporté un chocolat. Je ne peux pas dire à quel point il sera bon avant de le goûter, mais peut-être qu'il y a de l'espoir pour moi après tout. Merci beaucoup de m'avoir aidée.${prompt}
+  10254: Venez célébrer la Fête des Poupées avec nous, kupo !${prompt}
   10255: |-
-    We've got items for everyone!
-    Here you go, kupo!${prompt}
-  10256: Come again and bring your friends! Each of them will also get an item, kupo!${prompt}
-  10257: You can get items only once each day, so come back again tomorrow, kupo!${prompt}
-  10258: 'You obtain ${number: 4} ${item-given-plurality: 4[2], 0[2]}, ${number: 4} ${item-given-plurality: 4[2], 1[2]}, ${number: 4} ${item-given-plurality: 4[2], 2[2]}, and ${number: 4} ${item-given-plurality: 4[2], 3[2]}!${prompt}'
+    Nous avons des objets pour tout le monde !
+    Les voici, kupo !${prompt}
+  10256: Revenez et amenez vos amis ! Chacun d'eux recevra aussi un objet, kupo !${prompt}
+  10257: Vous ne pouvez obtenir des objets qu'une fois par jour, alors revenez demain, kupo !${prompt}
+  10258: 'Vous obtenez ${number: 4} ${item-given-plurality: 4[2], 0[2]}, ${number: 4} ${item-given-plurality: 4[2], 1[2]}, ${number: 4} ${item-given-plurality: 4[2], 2[2]}, et ${number: 4} ${item-given-plurality: 4[2], 3[2]}!${prompt}'
   10259: |-
     Kupopopo～!
-    This is terrible!
-    Sneaky scoundrels have swiped the armor we brought in for the Feast of Swords, kupo!${prompt}
-  10260: The villains wearing the armor are invulnerable to normal weapons! And as if that wasn't enough, they're surrounded by a powerful aura that prevents them from being attacked at all, kupo!${prompt}
+    C'est terrible !
+    Des filous sournois ont dérobé l'armure que nous avions apportée pour la Fête des Épées, kupo !${prompt}
+  10260: Les méchants portant l'armure sont invulnérables aux armes normales ! Et comme si cela ne suffisait pas, ils sont entourés d'une aura puissante qui empêche toute attaque, kupo !${prompt}
   10261: |-
-    But never fear!
-    Our top moogle researchers have created a weapon that can injure these armor-thieving hooligans!
-    Behold the wondrous ${item-singular: 0[2]}, kupo!${prompt}
-  10262: The nomad moogles have also developed a magic that will annul that anti-attack aura, so be sure to pay them a visit while wearing the weapon before you engage the enemy, kupo.${prompt}
-  10263: But be warned--this magic has the side-effect of preventing you from attacking any other monster for three whole days, kupo!${prompt}
+    Mais ne craignez rien !
+    Nos meilleurs chercheurs mogs ont créé une arme qui peut blesser ces voleurs d'armure !
+    Voici l'étonnante ${item-singular: 0[2]}, kupo !${prompt}
+  10262: Les mogs nomades ont également développé une magie qui annulera cette aura anti-attaque, alors assurez-vous de leur rendre visite tout en portant l'arme avant d'affronter l'ennemi, kupo.${prompt}
+  10263: Mais attention, cette magie a pour effet secondaire de vous empêcher d'attaquer tout autre monstre pendant trois jours entiers, kupo !${prompt}
   10264: |-
-    Here's your ${item-singular: 0[2]}.
-    Now you're ready to do battle, kupo!${prompt}
-  10265: 'If you want to cross swords with the invincible interlopers, equip the ${item-singular: 0[2]} and talk to a nomad moogle, kupo!${prompt}'
+    Voici votre ${item-singular: 0[2]}.
+    Maintenant, vous êtes prêt pour le combat, kupo !${prompt}
+  10265: 'Si vous voulez croiser le fer avec les intrus invincibles, équipez-vous de la ${item-singular: 0[2]} et parlez à un mog nomade, kupo !${prompt}'
   10266: |-
-    Kupopo!
-    The Sunbreeze Festival's main event is back and better than ever!${prompt}
-  10267: And this time, it's called Azimuth Circle...II!${prompt}
-  10268: Would you like to know more, kupo?${prompt}
+    Kupopo !
+    L'événement principal du Festival de la Brise Solaire est de retour, et mieux que jamais !${prompt}
+  10267: Et cette fois, il s'appelle Cercle Azimuth...II !${prompt}
+  10268: Voulez-vous en savoir plus, kupo ?${prompt}
   10269: |-
-    Want to know more?
+    Vous voulez en savoir plus ?
     ${selection-lines}
-    Fill me in!
-    I'm okay for now, kupo.${prompt}
-  10270: To play Azimuth Circle II, you'll need to team up with a partner and use a compass to search for a specific point.${prompt}
-  10271: So your first step is to find that special somebody and form a party!${prompt}
-  10272: Then talk to an event moogle, and we'll send you both out of town, kupo!${prompt}
-  10273: We've set up several checkpoints outside.${prompt}
-  10274: The goal is to find the correct one, kupo!${prompt}
-  10275: What's that? You want a hint to help you find your checkpoint? Never fear, kupo--that's where Azima's portable compass comes in!${prompt}
-  10276: And it couldn't be easier to use! All the adventurers have to do is sit there and wait!${prompt}
-  10277: Once the compass has stabilized, it will give you a hint to help you find your partner's checkpoint, kupo.${prompt}
-  10278: But be careful not to relax too much! Just sitting there staring at the clouds won't help you at all, kupo. You have to concentrate the way you do when healing your wounds!${prompt}
-  10279: And keep in mind that you will only learn about your partner's checkpoint.${prompt}
-  10280: So help each other out and nothing should go wrong!${prompt}
-  10281: Once you reach your checkpoint, you should find something buried there that will prove that you made it! You and your partner should trade your items with each other and then hand them to a moogle, kupo!${prompt}
-  10282: That's all there is to it, kupo! You'll get a prize if you succeed, so I hope you do well!${prompt}
-  10283: You'll need a partner, so come back when you have one!${prompt}
-  10284: Three makes a crowd, kupo! I'm looking for parties of two, and no more!${prompt}
-  10285: Do you want to go outside and try the event with the person you're in a party with now?${prompt}
+    Raconte-moi tout !
+    Ça ira pour l'instant, kupo.${prompt}
+  10270: Pour jouer à Cercle Azimuth II, vous devrez faire équipe avec un partenaire et utiliser une boussole pour chercher un point spécifique.${prompt}
+  10271: Donc, votre première étape est de trouver cette personne spéciale et de former une équipe !${prompt}
+  10272: Ensuite, parlez à un mog de l'événement, et nous vous enverrons tous les deux hors de la ville, kupo !${prompt}
+  10273: Nous avons mis en place plusieurs points de contrôle à l'extérieur.${prompt}
+  10274: Le but est de trouver le bon, kupo !${prompt}
+  10275: Quoi ? Vous voulez un indice pour vous aider à trouver votre point de contrôle ? Ne craignez rien, kupo, c'est là que la boussole portable d'Azima entre en jeu !${prompt}
+  10276: Et c'est très facile à utiliser ! Tout ce que les aventuriers ont à faire est de s'asseoir et d'attendre !${prompt}
+  10277: Une fois la boussole stabilisée, elle vous donnera un indice pour vous aider à trouver le point de contrôle de votre partenaire, kupo.${prompt}
+  10278: Mais faites attention à ne pas trop vous détendre ! Juste s'asseoir et regarder les nuages ne vous aidera pas du tout, kupo. Vous devez vous concentrer comme vous le faites lorsque vous guérissez vos blessures !${prompt}
+  10279: Et gardez à l'esprit que vous n'apprendrez que des informations sur le point de contrôle de votre partenaire.${prompt}
+  10280: Alors aidez-vous mutuellement et rien ne devrait mal tourner !${prompt}
+  10281: Une fois que vous avez atteint votre point de contrôle, vous devriez y trouver quelque chose d'enfoui qui prouvera que vous y êtes arrivé ! Vous et votre partenaire devriez échanger vos objets entre vous, puis les remettre à un mog, kupo !${prompt}
+  10282: C'est tout ce qu'il y a à faire, kupo ! Vous recevrez un prix si vous réussissez, alors j'espère que vous ferez de votre mieux !${prompt}
+  10283: Vous aurez besoin d'un partenaire, alors revenez quand vous en aurez un !${prompt}
+  10284: Trois, c'est une foule, kupo ! Je cherche des équipes de deux, pas plus !${prompt}
+  10285: Voulez-vous sortir et essayer l'événement avec la personne avec qui vous êtes en équipe maintenant ?${prompt}
   10286: |-
-    Is this partner okay with you?
+    Est-ce que ce partenaire vous convient ?
     ${selection-lines}
-    Perfect!
-    I want to go with someone else...${prompt}
-  10287: Come back when you've decided on a partner, kupo!${prompt}
+    Parfait !
+    Je veux aller avec quelqu'un d'autre...${prompt}
+  10287: Revenez quand vous aurez décidé d'un partenaire, kupo !${prompt}
   10288: |-
-    Kupo?
-    Where'd your partner go?${prompt}
-  10289: I hope you enjoy the event together, kupo! When both of you are ready, just talk to one of us moogles to start!${prompt}
-  10290: I'll be waiting here, so just let me know when you're prepared, kupo.${prompt}
+    Kupo ?
+    Où est passé votre partenaire ?${prompt}
+  10289: J'espère que vous apprécierez l'événement ensemble, kupo ! Quand vous serez tous les deux prêts, parlez simplement à l'un de nous, les mogs, pour commencer !${prompt}
+  10290: J'attendrai ici, alors faites-le moi savoir quand vous serez prêts, kupo.${prompt}
   10291: |-
-    Kupopo! Congratulations!
-    You were wonderful together! This is all yours now, kupo...${prompt}
-  10292: Kupo? This isn't your partner's item! Trade with your partner first, and give their item to me!${prompt}
-  10293: We're just waiting on your partner now, kupo! Or would you like to cancel your participation?${prompt}
-  10294: Your partner isn't ready yet, kupo. I'll wait, though.${prompt}
-  10295: It looks like your partner doesn't want to go yet. Just let me know when your partner is ready, kupo.${prompt}
-  10296: Are you ready now, kupo?${prompt}
+    Kupopo ! Félicitations !
+    Vous étiez merveilleux ensemble ! C'est tout à vous maintenant, kupo...${prompt}
+  10292: Kupo ? Ce n'est pas l'objet de votre partenaire ! Échangez d'abord avec votre partenaire, et donnez-moi son objet !${prompt}
+  10293: Nous attendons juste votre partenaire maintenant, kupo ! Ou voudriez-vous annuler votre participation ?${prompt}
+  10294: Votre partenaire n'est pas encore prêt, kupo. Mais j'attendrai.${prompt}
+  10295: Il semble que votre partenaire ne veuille pas encore y aller. Faites-le moi savoir quand il sera prêt, kupo.${prompt}
+  10296: Êtes-vous prêts maintenant, kupo ?${prompt}
   10297: |-
-    Leave town?
+    Quitter la ville ?
     ${selection-lines}
-    Send me out!
-    Not yet...${prompt}
-  10298: Oh, you're both wearing yukata! You must be ready for a real challenge, kupo! Don't worry, though--the prize is worth it!${prompt}
-  10299: Kupo? That's not the partner you were with before! Changing partners in the middle of the game is against the rules, kupo.${prompt}
-  10300: If you want to play with a different person, you should talk to one of us moogles and start the game over!${prompt}
-  10301: I can only give each person one item a day!${prompt}
-  10302: Later, I'll check to make sure you both found your checkpoints. I'll also give you this gate glyph so you can return to town, kupo!${prompt}
-  10303: 'Kupo? You already have ${article} ${item-article: 0[2]}...${prompt}'
-  10304: Kupo! I almost forgot the most important thing of all! Here, take this!${prompt}
-  10305: '${color-alt: 15}The moogle hands ${name-player} a small compass made from scintillant ore.'
-  10306: If you both manage to find your checkpoints, I'll give you a reward... So do your best, kupo! ${prompt}
-  10307: What? You found a doll, kupo? Then trade it with your partner and give it to one of us moogles!${prompt}
-  10308: Sorry, but if you don't reach the checkpoint yourself, I can't give out a reward, kupo...${prompt}
-  10309: Looks like you weren't successful... Better luck next time, right, kupo? I'll take the compass back now...${prompt}
-  10310: Better luck next time, right, kupo? I'll take the compass back now...${prompt}
-  10311: '${color-alt: 15}${name-player} returns the compass to the moogle.'
-  10312: You know what to do now--get right back on your feet and try again! Just let me know if you're feeling up for it, kupo.${prompt}
-  10313: What is it? Do you want to start over?${prompt}
+    Envoyez-moi dehors !
+    Pas encore...${prompt}
+  10298: Oh, vous portez tous les deux des yukata ! Vous devez être prêts pour un vrai défi, kupo ! Ne vous inquiétez pas, cependant, le prix en vaut la peine !${prompt}
+  10299: Kupo ? Ce n'est pas le partenaire que vous aviez avant ! Changer de partenaire en cours de jeu est contre les règles, kupo.${prompt}
+  10300: Si vous voulez jouer avec une autre personne, vous devriez parler à l'un de nous, les mogs, et recommencer le jeu !${prompt}
+  10301: Je ne peux donner à chaque personne qu'un seul objet par jour !${prompt}
+  10302: Plus tard, je vérifierai que vous avez tous les deux trouvé vos points de contrôle. Je vous donnerai aussi ce glyphe de porte pour que vous puissiez retourner en ville, kupo !${prompt}
+  10303: 'Kupo ? Vous avez déjà ${article} ${item-article: 0[2]}...${prompt}'
+  10304: Kupo ! J'ai presque oublié la chose la plus importante de toutes ! Tenez, prenez ceci !${prompt}
+  10305: '${color-alt: 15}Le mog donne à ${name-player} une petite boussole faite d’un minerai scintillant.'
+  10306: Si vous parvenez tous les deux à trouver vos points de contrôle, je vous donnerai une récompense... Alors faites de votre mieux, kupo ! ${prompt}
+  10307: Quoi ? Vous avez trouvé une poupée, kupo ? Alors échangez-la avec votre partenaire et donnez-la à l'un de nous, les mogs !${prompt}
+  10308: Désolé, mais si vous n'atteignez pas le point de contrôle vous-même, je ne peux pas donner de récompense, kupo...${prompt}
+  10309: On dirait que vous n'avez pas réussi... Bonne chance la prochaine fois, d'accord, kupo ? Je vais reprendre la boussole maintenant...${prompt}
+  10310: Bonne chance la prochaine fois, d'accord, kupo ? Je vais reprendre la boussole maintenant...${prompt}
+  10311: '${color-alt: 15}${name-player} rend la boussole au mog.'
+  10312: 'Vous savez maintenant quoi faire : relevez-vous et essayez à nouveau ! Faites-le moi savoir si vous vous sentez prêts, kupo.${prompt}'
+  10313: Que se passe-t-il ? Voulez-vous recommencer ?${prompt}
   10314: |-
-    Start over?
+    Recommencer ?
     ${selection-lines}
-    Yes, please.
-    No thanks.${prompt}
+    Oui, s'il vous plaît.
+    Non, merci.${prompt}
   10315: |-
-    Are you spreading joy to the children of Vana'diel?
-    Hey, I can tell you something you should know!${prompt}
+    Répandez-vous la joie parmi les enfants de Vana'diel ?
+    Hé, je peux vous dire quelque chose que vous devriez savoir !${prompt}
   10316: |-
-    Listen close, now! To make the children happy you must...give them presents!
-    You should think hard about what to get them! You might say it's the thought that counts, but unfortunately, the children think otherwise!${prompt}
-  10317: You should also wear a red hat like the one I have on now! It'll prove you're a smilebringer, so the kids won't think you're a creep.${prompt}
-  10318: Where can you find a hat? Well, I saw someone selling them around here earlier. I'm sure you can find them if you look!${prompt}
-  10319: '${choice: 1}[You haven''t brought any happiness to the children!/You''ve done some good./You have done fairly well./You have given the children much joy!/You have brought smile upon smile to the children!/You have the children bursting with glee!/The children love you!] ${choice: 1}[What a disappointment./You just need to give a little extra effort!/Keep it up!/You make a good smilebringer./Excellent work!/Stupendous job!/Even I think you''re great!]${prompt}'
-  10320: You can make good use of some of that joy you've brought to transport yourself to another nation. The children in other parts of Vana'diel need smiles, too!${prompt}
+    Écoutez bien ! Pour rendre les enfants heureux, vous devez... leur offrir des cadeaux !
+    Vous devriez bien réfléchir à ce que vous allez leur donner ! On dit que c'est l'intention qui compte, mais malheureusement, les enfants pensent autrement !${prompt}
+  10317: Vous devriez aussi porter un chapeau rouge comme celui que je porte maintenant ! Cela prouvera que vous êtes un joyeux dispensateur, alors les enfants ne penseront pas que vous êtes un creep.${prompt}
+  10318: Où pouvez-vous trouver un chapeau ? Eh bien, j'ai vu quelqu'un en vendre par ici plus tôt. Je suis sûr que vous pouvez les trouver si vous cherchez !${prompt}
+  10319: '${choice: 1}[Vous n’avez apporté aucun bonheur aux enfants !/Vous avez fait du bon travail./Vous avez fait plutôt bien./Vous avez donné beaucoup de joie aux enfants !/Vous avez apporté sourire après sourire aux enfants !/Vous avez les enfants éclatant de joie !/Les enfants vous adorent !] ${choice: 1}[Quelle déception./Il vous suffit de faire un petit effort supplémentaire !/Continuez comme ça !/Vous faites un bon dispensateur de sourires./Excellent travail !/Travail stupéfiant !/Même moi, je vous trouve génial !]${prompt}'
+  10320: Vous pouvez faire bon usage de la joie que vous avez apportée pour vous transporter dans une autre nation. Les enfants d'autres régions de Vana'diel ont aussi besoin de sourires !${prompt}
   10321: |-
-    Transport to another nation?
+    Se transporter dans une autre nation ?
     ${selection-lines}
-    Not now.
-    Go to San d'Oria.
-    Go to Bastok.
-    Go to Windurst.${prompt}
-  10322: See ya!${prompt}
-  10323: Sorry, but it looks like you don't have enough joy and happiness in your life to do that. You can earn some by giving presents to children, though!${prompt}
-  10324: 'Leave this heap of future firewood to us, kupo! All we need from you is a couple ${color: 5}cheers${color: 1}!${prompt}'
-  10325: 'We have to run this monster out of town, kupo! The moogles will do all the work. All you have to do is ${color: 5}cheer${color: 1} us along!${prompt}'
+    Pas maintenant.
+    Aller à San d'Oria.
+    Aller à Bastok.
+    Aller à Windurst.${prompt}
+  10322: À plus !${prompt}
+  10323: Désolé, mais il semble que vous n'ayez pas assez de joie et de bonheur dans votre vie pour faire cela. Vous pouvez en gagner en offrant des cadeaux aux enfants, cependant !${prompt}
+  10324: 'Laissez-nous ce tas de bois de chauffage futur, kupo ! Tout ce dont nous avons besoin de votre part, c’est de quelques ${color: 5}acclamations${color: 1} !${prompt}'
+  10325: 'Nous devons chasser ce monstre hors de la ville, kupo ! Les mogs feront tout le travail. Tout ce que vous avez à faire, c’est de nous ${color: 5}encourager${color: 1} !${prompt}'
   10326: |-
-    Bad tree! Bad tree!
-    We won't let him get any further, kupo! Just keep ${color: 5}cheering${color: 1} us on!${prompt}
+    Méchant arbre ! Méchant arbre !
+    Nous ne le laisserons pas aller plus loin, kupo ! Continuez juste à ${color: 5}nous encourager${color: 1} !${prompt}
   10327: |-
-    Thanks, everybody!
-    Keep it up and there's no way we can lose, kupo!${prompt}
+    Merci, tout le monde !
+    Continuez comme ça et il n'y a aucun moyen que nous perdions, kupo !${prompt}
   10328: |-
-    10000... 15000... 30000!
-    The tree is gaining too much power! This doesn't look good, kupo!${prompt}
+    10000... 15000... 30000 !
+    L'arbre gagne trop de puissance ! Cela ne semble pas bon, kupo !${prompt}
   10329: |-
-    Unnnnnngh... Bad tree!
-    We won't let you get in the way of our plans this time, kupo!${prompt}
-  10330: Nnngahhh, kupo! I can't hold him back!${prompt}
-  10331: The Twinkling Treant sheds a solitary tear as it fades into nothingness...${prompt}
-  10332: Well, that was interesting. Who would have thought that one of our festival trees would just get up and start walking around? I'm just glad that it is all over.${prompt}
-  10333: However, there is something that still bothers me... It is like a dark cloud hanging over our fair city...${prompt}
-  10334: I've been so busy fighting treants and spreading love to the children, that it wasn't until recently that I heard the rumors of the “other” smilebringers...${prompt}
-  10335: I don't know what these imposters are cooking up, but if they are even thinking of laying a finger on the city's innocent children...${prompt}
-  10336: I hate to ask this of a stranger, but you look like someone I can trust. Would you please be so kind as to search out the false smilebringer and bring him to me so we can straighten this whole mess out?${prompt}
-  10337: You're back! Were you able to find the imposter?${prompt}
-  10338: You located him, but he managed to escape? Well, I guess that is better than nothing. Now that he knows we are on to him, perhaps he will cease to prey on the Kingdom's children.${prompt}
-  10339: I heard from another kind adventurer that the false smilebringer was passing out strange-looking boxes to the young ones... Why, for all I know, there could be live scorpions hiding in those packages, just waiting to sting the cute little button noses of all my little friends.${prompt}
-  10340: You don't know how much your kindness means to me. You're a little old to be my friend, but I'd like you to have this as a token of my appreciation.${prompt}
-  10341: Wow! That was pretty frightening. I'm all for tree's rights and everything, but once those guys start walking around my town...${prompt}
-  10342: Chop 'em up and toss them on the campfire, that's what I say. The only good tree is the one toasting my marshmallow.${prompt}
-  10343: Oh yeah, I wanted to ask you something before you interrupted me there.${prompt}
-  10344: There are these strange midgets running around town claiming that they're smilebringers just like me.${prompt}
-  10345: I've had my hands so full chasing around the walking trees that I haven't been able to investigate. How about to make up for interrupting me back there, you go and see if you can find any juicy info on the fakes?${prompt}
-  10346: I'll be right here protecting the fountain from any more treant attacks. Let me know the moment you've learned something worthwhile.${prompt}
+    Unnnnnngh... Méchant arbre !
+    Nous ne vous laisserons pas entraver nos plans cette fois-ci, kupo !${prompt}
+  10330: Nnngahhh, kupo! Je ne peux pas le retenir!${prompt}
+  10331: Le Treant Scintillant verse une larme solitaire en disparaissant dans le néant...${prompt}
+  10332: Eh bien, c'était intéressant. Qui aurait pensé qu'un de nos arbres de festival se mettrait à marcher? Je suis juste content que ce soit fini.${prompt}
+  10333: Cependant, il y a quelque chose qui me dérange toujours... C'est comme un nuage sombre qui plane au-dessus de notre belle ville...${prompt}
+  10334: J'ai été tellement occupé à combattre les treants et à répandre l'amour auprès des enfants que ce n'est que récemment que j'ai entendu les rumeurs des "autres" apporteurs de sourires...${prompt}
+  10335: Je ne sais pas ce que ces imposteurs mijotent, mais s'ils pensent ne serait-ce qu'à toucher aux enfants innocents de la ville...${prompt}
+  10336: Je déteste demander cela à un étranger, mais vous avez l'air d'être quelqu'un en qui je peux avoir confiance. Pourriez-vous avoir la gentillesse de rechercher le faux apporteur de sourires et de me l'amener pour que nous puissions régler toute cette histoire?${prompt}
+  10337: Vous êtes de retour ! Avez-vous pu trouver l'imposteur?${prompt}
+  10338: Vous l'avez localisé, mais il a réussi à s'échapper? Eh bien, je suppose que c'est mieux que rien. Maintenant qu'il sait que nous sommes sur ses traces, peut-être qu'il cessera de s'en prendre aux enfants du Royaume.${prompt}
+  10339: J'ai entendu d'un autre aimable aventurier que le faux apporteur de sourires distribuait des boîtes étranges aux jeunes... Pourquoi, pour tout ce que je sais, il pourrait y avoir des scorpions vivants cachés dans ces paquets, juste en attente de piquer les petits bouts de nez de tous mes petits amis.${prompt}
+  10340: Vous ne savez pas à quel point votre gentillesse signifie pour moi. Vous êtes un peu trop vieux pour être mon ami, mais j'aimerais que vous ayez ceci en signe de mon appréciation.${prompt}
+  10341: Wow! C'était plutôt effrayant. Je suis tout pour les droits des arbres et tout ça, mais une fois que ces gars-là commencent à se promener dans ma ville...${prompt}
+  10342: Coupez-les en morceaux et jetez-les sur le feu de camp, c'est ce que je dis. Le seul bon arbre est celui qui fait griller mon marshmallow.${prompt}
+  10343: Oh oui, je voulais vous demander quelque chose avant que vous ne m'interrompiez.${prompt}
+  10344: Il y a ces étranges nains qui courent en ville en prétendant qu'ils sont des apporteurs de sourires comme moi.${prompt}
+  10345: J'ai eu les mains tellement pleines à courir après les arbres ambulants que je n'ai pas pu enquêter. Pour compenser le fait de m'avoir interrompu, pourriez-vous aller voir si vous pouvez trouver des informations juteuses sur les faux?${prompt}
+  10346: Je serai juste ici à protéger la fontaine contre d'autres attaques de treants. Faites-le moi savoir dès que vous aurez appris quelque chose d'utile.${prompt}
   10347: |-
-    Who the kewpo are you, kewpo?
-    I'm nothing doing wrong here, see? I'm smilebringing to nice boys and girls, kewpo! Move along! Move along!${prompt}
+    Qui est-tu, kewpo ?
+    Je ne fais rien de mal ici, tu vois ? J'apporte des sourires aux gentils garçons et filles, kewpo ! Passe ton chemin ! Passe ton chemin !${prompt}
   10348: |-
     Ummm...
-    I can explaining, kewpo...${prompt}
+    Je peux expliquer, kewpo...${prompt}
   10349: |-
-    Just not today!
-    Kew-pooooooooo!${prompt}
-  10350: Back at last. Did you learn anything worth my partially divided attention?${prompt}
+    Juste pas aujourd'hui !
+    Kew-pooooooooo !${prompt}
+  10350: De retour enfin. Avez-vous appris quelque chose qui vaille la peine de partager mon attention partiellement divisée?${prompt}
   10351: |-
     Uh-huh...
-    So you let the thing get away... Well, I guess that's what I get for relying on an amateur. My bad, my bad.${prompt}
-  10352: One of my other contacts told me that the little spud was passing out some strange kind of pastry to all the kids. So far I haven't heard of any diarrhea breakouts, but the day is still young.${prompt}
-  10353: I guess your scaring him off will put an end to this fiasco, but we can't be one hundred percent sure. Keep your eyes out for that pest and next time don't let him escape!${prompt}
+    Donc vous l'avez laissé s'échapper... Eh bien, je suppose que c'est ce que je mérite pour avoir fait confiance à un amateur. Ma faute, ma faute.${prompt}
+  10352: Un de mes autres contacts m'a dit que le petit gars distribuait une sorte de pâtisserie étrange à tous les enfants. Jusqu'à présent, je n'ai pas entendu parler de cas de diarrhée, mais la journée est encore jeune.${prompt}
+  10353: Je suppose que le fait de l'avoir effrayé mettra fin à ce fiasco, mais nous ne pouvons pas en être sûrs à cent pour cent. Gardez un œil sur ce fléau et la prochaine fois, ne le laissez pas s'échapper !${prompt}
   10354: |-
-    What?
-    You want something for helping me out? Well, it is the Starlight Celebration. Why not? You only get what you give, right?${prompt}
-  10355: Arrrg, that there walkin' tree almost stepped on me and me parrot! One step closer and I'd be makin' meself a new peg leg out of its head.${prompt}
-  10356: Aye, speakin' o' peg legs, there be this mighty fishy landlubber swaggerin' 'round Windurs' posin' as a smilebringer. What's that got t' do with peg legs? Arrrg, never ye mind.${prompt}
-  10357: Ye only needs t' concern yerself with the fact that this imposter is encroachin' on me territory${prompt}
-  10358: Nobody, not even Davy Jones, has the right t' drop his anchor in me harbor without me express permission.${prompt}
-  10359: Arrrg, ye looks like a trustworthy soul. Could ye find it in yer heart t' help out a fellow pirate in need?${prompt}
-  10360: I've got a bad feelin' 'bout that tree, an' I want t' be 'round if anythin' goes awry.${prompt}
-  10361: Arrrg, did ye find that scurvy dawg an' make 'im walk the plank?${prompt}
-  10362: Ye say he just up an' vanished, now do ye? Well, I guess yer not t' blame.${prompt}
-  10363: One of me other mateys said they saw the rotten bringer prancin' round like a puppet an' passin' out strange presents t' the kiddies.${prompt}
+    Quoi ?
+    Vous voulez quelque chose pour m'avoir aidé ? Eh bien, c'est la célébration de la Starlight. Pourquoi pas ? Vous ne récoltez que ce que vous semez, non ?${prompt}
+  10355: Arrrg, cet arbre ambulant a failli marcher sur moi et mon perroquet ! Un pas de plus et je me faisais une nouvelle jambe de bois avec sa tête.${prompt}
+  10356: Oui, parlant de jambes de bois, il y a ce drôle de loustic qui rôde à Windurst en prétendant être un apporteur de sourires. Qu'est-ce que ça a à voir avec les jambes de bois ? Arrrg, ne t'en soucie pas.${prompt}
+  10357: Tu n'as qu'à te soucier du fait que cet imposteur empiète sur mon territoire${prompt}
+  10358: Personne, même pas Davy Jones, n'a le droit de jeter l'ancre dans mon port sans ma permission expresse.${prompt}
+  10359: Arrrg, tu as l'air d'une âme digne de confiance. Pourrais-tu trouver en ton cœur d'aider un pirate en détresse ?${prompt}
+  10360: J'ai un mauvais pressentiment au sujet de cet arbre, et je veux être là si quelque chose tourne mal.${prompt}
+  10361: Arrrg, as-tu trouvé ce scélérat et l'as-tu fait marcher sur la planche?${prompt}
+  10362: Tu dis qu'il a juste disparu, hein ? Eh bien, je suppose que tu n'es pas à blâmer.${prompt}
+  10363: Un de mes autres matelots a dit qu'ils ont vu le faux apporteur de sourires se promener comme une marionnette et distribuer des cadeaux étranges aux enfants.${prompt}
   10364: |-
-    But now that ye've frightened 'im off, the city should be safe.
-    Here, take this bit o' plunder. Ye've earned it, matey!${prompt}
+    Mais maintenant que tu l'as effrayé, la ville devrait être en sécurité.
+    Tiens, prends ce butin. Tu l'as bien mérité, matelot !${prompt}
   10365: |-
     Kupopopo～ !
     C'est terrible !
