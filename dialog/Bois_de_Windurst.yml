@@ -16935,130 +16935,129 @@ entries:
     Sylve de Yorcia.
     Ravin de Marjami.
     Banquises de Kamihr.${prompt}
-  6815: "${unknown: 0x0256000350}\0La Fédération de Windurst...\nUne ancienne capitale nourrie par les branches\nd'un grand arbre, bénie par des eaux magiques,\net protégée par la lune et les étoiles.${wait-animation: 7}"
+  6815: "${unknown: 0x0256000350}\0La Fédération de Windurst...\nUne ancienne capitale nourrie par les rameaux\nd'un grand arbre, béni par des eaux magiques,\net protégé par la lune et les étoiles.${wait-animation: 7}"
   6816: |-
-    ${unknown: 0x0264000354}${unknown: 0x0154686572652069732061206C6567656E6420696E207468697320636F756E7472792E07496E20612074696D6520666F72676F7474656E2C20612070656F706C6520666F7263656420746F0777616E64657220627920}starvation and cold were led
-    to this land by a wondrous star.${wait-animation: 7}
+    ${unknown: 0x0264000354}${unknown: 0x0154686572652069732061206C6567656E6420696E207468697320636F756E7472792E07496E20612074696D6520666F72676F7474656E2C20612070656F706C6520666F7263656420746F0777616E64657220627920}la famine et le froid ont conduit
+    à cette terre par une étoile merveilleuse.${wait-animation: 7}
   6817: |-
-    ${unknown: 0x0252000354}${unknown: 0x015768656E207468617420737461722072657475726E656420746F207468652068656176656E732C2069740773656E7420746F2074686520656172746820612073706972697475616C206D656469756D2C2074686507666972}st Star Sibyl, who could hear its voice.
-    She promised Windurst glory and prosperity.${wait-animation: 7}
-  6818: '${unknown: 0x025C000354}${unknown: 0x015769746820656163682070617373696E6720656F6E2C207468652070656F706C652063616D6507746F20657863656C206174206D61676963206D6F726520616E64206D6F72652C20676976696E670757696E647572737420}far greater wisdom and power.${wait-animation: 7}'
+    ${unknown: 0x0252000354}${unknown: 0x015768656E207468617420737461722072657475726E656420746F207468652068656176656E732C2069740773656E7420746F2074686520656172746820612073706972697475616C206D656469756D2C2074686507666972}ère des étoiles, qui pouvait entendre sa voix.
+    Elle a promis à Windurst la gloire et la prospérité.${wait-animation: 7}
+  6818: '${unknown: 0x025C000354}${unknown: 0x015769746820656163682070617373696E6720656F6E2C207468652070656F706C652063616D6507746F20657863656C206174206D61676963206D6F726520616E64206D6F72652C20676976696E670757696E647572737420}une sagesse et un pouvoir bien plus grands.${wait-animation: 7}'
   6819: |-
-    ${unknown: 0x025E000354}${unknown: 0x0146697665206D696E697374726965732C2065616368207370656369616C697A696E6720696E2061077363686F6F6C206F66206B6E6F776C656467652C20626563616D6520706F6C}itically
-    influential institutions. This elevated
-    Windurst to become a city of academics.${wait-animation: 7}
+    ${unknown: 0x025E000354}${unknown: 0x0146697665206D696E697374726965732C2065616368207370656369616C697A696E6720696E2061077363686F6F6C206F66206B6E6F776C656467652C20626563616D6520706F6C}itiquement influents. Cela a élevé
+    Windurst au rang de ville d'universitaires.${wait-animation: 7}
   6820: |-
-    ${unknown: 0x0261000354}${unknown: 0x01496E20726563656E742079656172732C206E657720626F6E64732077657265206D61646507776974682074686520726F616D696E6720747269626573206F66204D69746872612C076361}using Windurst to become even bigger
-    than before.${wait-animation: 7}
+    ${unknown: 0x0261000354}${unknown: 0x01496E20726563656E742079656172732C206E657720626F6E64732077657265206D61646507776974682074686520726F616D696E6720747269626573206F66204D69746872612C076361} en utilisant Windurst pour devenir encore plus grande
+    qu'avant.${wait-animation: 7}
   6821: |-
-    ${unknown: 0x0257000354}${unknown: 0x01427574207468652070656F706C65277320776973682072656D61696E7320756E6368616E6765642E2E2E074C617374696E672070656163652E2E2E20457465726E616C} tranquility...
-    Under the watch of the far-off stars.${wait-animation: 5}
-  6822: "${unknown: 0x02870003B4}\0And now, a new star of hope\nhas been borne to this earth...${wait-animation: 5}"
-  6823: "${unknown: 0x025E0003B4}\0What is about to begin here\nis an enduring tale, woven by that star...${wait-animation: 5}"
+    ${unknown: 0x0257000354}${unknown: 0x01427574207468652070656F706C65277320776973682072656D61696E7320756E6368616E6765642E2E2E074C617374696E672070656163652E2E2E20457465726E616C} mais le souhait du peuple reste inchangé...
+    Dans la paix éternelle... sous la surveillance des étoiles lointaines.${wait-animation: 5}
+  6822: "${unknown: 0x02870003B4}\0Et maintenant, une nouvelle étoile d'espoir\nest née sur cette terre...${wait-animation: 5}"
+  6823: "${unknown: 0x025E0003B4}\0Ce qui est sur le point de commencer ici\nest une histoire durable, tissée par cette étoile...${wait-animation: 5}"
   6824: |-
-    AlLow mE tO aSsisT You iF yOu arE loSt.
-    What CaN jAck dO For yOu?${prompt}
+    Permettez-moi de vous aider si vous êtes perdu(e).
+    Que puis-je faire pour vous, Jack ?${prompt}
   6825: |-
-    Ask Jack...
+    Demandez à Jack...
     ${selection-lines}
-    To show you a map of Windurst.
-    How to give items to townsfolk.
-    How to go outside and battle.
-    About quests and missions.
-    Nothing in particular.${prompt}
-  6826: JaCk nOw ShoWIng mAP.${prompt}
-  6827: InTerchAnge oF iTeMs aNd mOnEy beTwEeN PeoPle AnD tHiNgs iS calLeD “TRaDiNg.”${prompt}
+    De vous montrer une carte de Windurst.
+    Comment donner des objets aux habitants.
+    Comment sortir et combattre.
+    À propos des quêtes et des missions.
+    Rien en particulier.${prompt}
+  6826: JaCk mOnTre mAiNtEnAnT lA cArTe.${prompt}
+  6827: L'InTeRcHaNgE d'ObJeTs eT d'ArGeNt EnTrE lEs PeRsOnNeS eT lEs cHoSeS eSt aPpElé “ÉcHaNgE.”${prompt}
   6828: |-
-    FIrSt tarGet EnTiTy tO IntErAcT wITh.
-    NoThIng hApPeNs uNlESs reCeIver iS pRoperLy TaRgeTEd.${prompt}
+    PrEmIeR EnTiTé cIbLée pOuR InTeRaGiR.
+    RiEn nE sE pAsSe à MoInS qUe lE rEcEpTeUr sOiT cOrReCtEmEnT cIbLé.${prompt}
   6829: |-
-    OpEn MaIn MenU.
-    PrESs “TRADE” bUtTon.${prompt}
+    OuVrIr lE MeNu PrInCiPaL.
+    ApPuYeZ sUr lE bOuToN “ÉCHANGER”.${prompt}
   6830: |-
-    NeXt cHoOsE ItEms tO HanD oVEr!
-    PreSs “CONFIRM” bUttOn!
-    TaRgeTed eNtIty sHouLd rEcEiVe IteMs.${prompt}
+    EnSuItE, ChOiSiSsEz lEs ObJeTs à ReNdRe!
+    ApPuYeZ sUr lE bOuToN “CONFIRMER”!
+    L'eNtIté cIbLéE dOiT rEcEvOiR lEs ObJeTs.${prompt}
   6831: |-
-    BeFoRe sETtinG oUt tO BaTtLe:
-    ConFiRm EqUiPmEnt iS pRopeRLy EQUIPped!
-    MaGiC-UsErS “USE” SpeLl ScRolLs oN tHeMsElvEs TO lEaRn mAgIc!${prompt}
+    AvAnT dE pArTiR En CoMbAt:
+    CoNfIrMeZ qUe l'EqUiPeMeNt eSt bIeN ÉQUIPé!
+    LeS MaGiCiEnS “UTILISENT” lEs PaRcHeMiNs dE sOrTiLèGeS sUr EuX-MêMeS PoUr ApPrEnDrE lA MaGiE!${prompt}
   6832: |-
-    BeForE cOmMeNcInG BatTlE wITh MoNSter:
-    “CHECK” MOnstER tO COnFIrm Its StrEngTh!${prompt}
+    AvAnT dE cOmMeNcEr Le CoMbAt aVeC lE MoNsTrE:
+    “VÉRIFIEZ” lE MoNsTrE pOuR CoNfIrMeR Sa FoRcE!${prompt}
   6833: |-
-    AfTer BAttLE iS WoN:
-    LooK fOr “SPOILS” dRoPpEd bY MonSters.
-    iF In PaRtY, “CAST LOTS” fOr SPOILS!${prompt}
+    ApRèS AvOiR GaGnÉ lE CoMbAt:
+    ChErChEz lEs “BUTINS” lAiSséS pAr lEs MoNsTrEs.
+    Si VoUs êtEs En GrOuPe, “TIREZ AU SORT” pOuR lEs BUTINS!${prompt}
   6834: |-
-    QUESTS aRe ReQueSts FoR HelP fRoM oRdiNaRy ToWnsFoLk.
-    iT pAyS To hELp pEOplE iN NeEd.${prompt}
-  6835: MISSIONS aRe OfFIcIaL rEqUesTs fOr aSSiStanCe mAdE bY tHe WInDuRStiAN AuThoRiTIes.${prompt}
-  6836: yoU CaN ReCeIvE MISSIONS frOm ThE gUarDs aT tHe ToWn'S GATeHOuSe.${prompt}
+    LeS QUÊTES SoNt DeS DeMaNdEs d'AiDe VeNaNt DeS SiMpLeS ViLLaGeOiS.
+    Il eSt UtIlE d'AiDeR lEs GeNs DaNs Le BeSoIn.${prompt}
+  6835: LeS MISSIONS SoNt DeS DeMaNdEs OfFiCiElLeS d'AsSiStAnCe éMaNaNt DeS AuToRiTéS De WiNdUrSt.${prompt}
+  6836: VoUs PoUvEz ReCeVoIr DeS MISSIONS De La PaRt DeS gArDeS À lA PoRtE dE lA ViLlE.${prompt}
   6837: |-
-    FeEl frEe tO AsK nEXt tIme yOu NeEd JaCk's heLp.
-    OvEr AnD oUt!${prompt}
+    SeNtEz-VouS lIbRe dE DeMaNdEr l'AiDe dE JaCk La PrOcHaInE FoIs QuE vOuS En AvEz BeSoIn.
+    TeRmIné !${prompt}
   6838: |-
-    ThAnK YoU KiNdLY!
-    PLEaSe TaKe thIs In rETuRn.
-    JaCk hAS No nEEd fOr THis.${prompt}
-  6839: We can deliver goods to your residence or to the residences of your friends.${prompt}
-  6840: We can deliver goods to your residence or to the residences of your friends.${prompt}
-  6841: JaCk ReCOmMEnDs yOu TaLk wiTH a gUaRd NAmeD SeLeLE. SHE iS nEar tHE GaTe In WinDURst wOOds wHiCh eXiTs inTo eaST SAruTAbArUtA.${prompt}
+    MeRcI BeAuCoUp !
+    PrEnEz CeCi En ReToUr.
+    JaCk n'A pAs BeSoIn dE CeCi.${prompt}
+  6839: Nous pouvons livrer des marchandises à votre résidence ou à celles de vos amis.${prompt}
+  6840: Nous pouvons livrer des marchandises à votre résidence ou à celles de vos amis.${prompt}
+  6841: JaCk ReCoMmAnDe De PaRlEr à Un GuArD NoMmÉ SeLeLE. ELLE Se TrOuVe PrÈs De La PoRtE DaNs LeS BoIs De WinDURst QuI DoNnEnT SuR l'EST De SAruTaBaRuTa.${prompt}
   6842: |-
-    Inquire about what?
+    Demander à propos de quoi?
     ${selection-lines}
-    I want to find some quests!
-    I want to try the tutorial!
-    Teach me about Records of Eminence!
-    Teach me about the Trust initiative!
-    I want a map of the area I'm in!
-    I want maps of the whole city!
-    How do I give items to people?
-    How do I fight outside town?
-    What are quests and missions?
-    I have other questions.
-    Nothing for now.${prompt}
-  6843: If yOu bRIng mE a Map of tHE WinDursT ARea, I wiLl PLacE MarKerS oN TheM fOr YoU.${prompt}
-  6844: YoU cAn puCHasE maPs in WinDUrst WoOds or WIndurSt WaTerS, but WinDursT WOodS iS CloSEr.${prompt}
-  6845: THe plAcE tHat sELls maPs iS In thE SouTHeaSt sEctiOn oF POrt WiNdurSt, WheRE theRe Are MAny sHIps.${prompt}
-  6846: mAPs aRe AvAilaBLe Due sOutH of heRe. One oF tHe TwO sTaFF MemBeRs wiLl seLL TheM To yOu.${prompt}
-  6847: tHe tuToRIal EveNt iS perFeCT fOr beGiNNerS! YoU CaN lEaRN aBouT aDveNTurInG iN tHe LanD of VAnA'dIel!${prompt}
-  6848: taLk tO SeLelE at thE GatE coNNecTinG wINdurST WooDs To EaSt SAruTabAruTA.${prompt}
-  6849: FirSt, hEaD tO WiNDurSt WooDs bY wAlkINg to tHe gaTe hEre LeaDIng EaSt.${prompt}
-  6850: hEaD tO WiNDurSt WooDs bY wAlkINg to tHe gaTe SOutH oF hEre LeaDIng EaSt.${prompt}
-  6851: tElepoRT to WinDUrsT WooDs bY SpeAKinG tO ToNaNA, loCaTEd noRTh aNd SliGHtlY eAst Of HerE.${prompt}
-  6852: KeEp GoinG, and fiNd SeLEle. JacK'lL mArk heR LocATioN oN yoUr MaP.${prompt}
-  6853: YoU CaN fInd tHE MarK bY pREssIng tHe “MaP” buTTon, seLecTiNG “mARkErs,” and lOOkinG tO tHe RigHT.${prompt}
-  6854: SeLEctInG “WiDE sCaN” wiLL aLso SHow yOu thE LoCAtiOns oF vAriOuS pEopLE.${prompt}
-  6855: REcoRdS oF EminENcE CaN bE ENjoYeD BY anYonE At ANytiMe. YoU EvEN Get rEwaRDs fOr pArtiCIPaTinG!${prompt}
-  6856: OPeN tHe MAiN meNu aNd pREss tO tHe RigHT. SeLecT “QueSTs” and tHen “ObJEcTiVE LiSt” tO Get sTarTEd.${prompt}
-  6857: FrOM ThERe, sElecT “TUtorIaL,” tHEn “BaSicS” anD “FiRsT StEP fOrwArd.” SeT ThaT OBjeCTivE tO gEt STarTeD.${prompt}
-  6858: I'lL gIvE yOU a HinT fOR ComPleTinG “FirSt SteP FoRWarD.”${prompt}
-  6859: PrOceeD AHeAd In WIndUrsT WooDS aNd FinD tHe DEsiGnaTEd pErSoN. I'lL pLacE a MaRKeR oN yOur MAp.${prompt}
-  6860: THeRe aRe MaNY ObjEcTiveS tO CHooSE FrOm, sO pIck oNEs thAt MatCh yOUr StylE.${prompt}
-  6861: THe TruST iNitIAtivE is A New tYpe OF MaGIc DevElOpED bY aN inStiTUtE in jEUnO.${prompt}
-  6862: YoU CAn fINd ComPanIOns tO jOiN yOu iN BattLe IF yOu pArTIciPAte.${prompt}
-  6863: I'lL PrOVidE yOu wITh MoRe InFOrmaTIoN wHEn YoU ReAcH LEvEl FIvE.${prompt}
-  6864: WEtAtA In WInduRsT WOOds CaN TeLL yOU MorE. LeT Me MArK hER LoCAtIOn On yOur MAp.${prompt}
-  6865: OtHEr pEoPlE aLSo KnoW a LoT aBouT MaPs, LiKE ZeLaLA in WindUrsT WaTErs. LeT JacK ShOw WHerE sHe iS.${prompt}
-  6866: oPeNInG tHe MaiN mENu and CliCKinG tO thE rIghT giVes yoU An opTIoN to oPeN tHe “HeLP dEsK.”${prompt}
-  6867: prEssIng thE “HelP DesK” buTToN aNd sEleCTiNg thE “HeLp dESk” CaTegOrY WiLL BRiNg uP a SelECtIoN tITleD “I NeED hElP wITh tHe GaME cOntRolS.”${prompt}
-  6868: REadInG tHe inFOrmAtiOn tHerE MaY reSoLve YOur iSSue.${prompt}
-  6869: tHe CiTIzEns oF WiNDurSt cRy oUT FoR yOUr Aid. ShALl I fInD peOplE WhO NeeD HElp?${prompt}
+    Je veux trouver des quêtes !
+    Je veux essayer le tutoriel !
+    Apprends-moi les Records of Eminence !
+    Apprends-moi l'initiative Trust !
+    Je veux une carte de la zone où je suis !
+    Je veux des cartes de toute la ville !
+    Comment donner des objets aux gens ?
+    Comment combattre en dehors de la ville ?
+    Qu'est-ce que les quêtes et les missions ?
+    J'ai d'autres questions.
+    Rien pour le moment.${prompt}
+  6843: Si vOus m'apPoRtEz une cARte dE la RéGIon dE WinDUrsT, je pLaCErai dEs mARqueuRs suR cElle-ci pOUr vOUs.${prompt}
+  6844: vOuS POUvEz acHeteR dEs cARtes danS lEs BoiS dE WinDUrsT oU lEs EAUX dE WinDUrsT, mAiS lEs BoiS dE WinDUrsT sOnt plUS PrOchEs.${prompt}
+  6845: lE lIEu qUi vENd lEs cARtes EsT danS lA sEcTIon sOuESt dE pOrt WiNDurSt, Où iL y A dE nOmbreUx nAviRes.${prompt}
+  6846: lEs cARtes sOnt diSpONibLes AU sUd d'icI. Un dES dEUx mEmBreS dU PErsOnnEl vOUs lE vENdra.${prompt}
+  6847: l'EvéNEmEnt dE tUtOriEl EsT paRfaIt pOUr lEs dEbUtAnts ! vOuS POUvEz appRENdrE à aVEnTuRER dAns lE PAys dE VAnA'dIel !${prompt}
+  6848: PaRlEz à SeLElE à lA pOrTE rEliaNt lEs bOiS dE WinDUrsT à l'EsT dE SAruTabAruTA.${prompt}
+  6849: COmmEnCEz pAr vOus dirIgEr vErS lEs BoiS dE WinDUrsT En mArcHanT vErs lA pOrTE icI dIrigEAnT à l'EsT.${prompt}
+  6850: COmmEnCEz pAr vOus dirIgEr vErS lEs BoiS dE WinDUrsT En mArcHanT vErs lA pOrTE AU sUd d'icI dIrigEAnT à l'EsT.${prompt}
+  6851: tElEpOrtEz-vOUs aux BoiS dE WinDUrsT En pArLAnt à ToNaNA, sItuée AU nOrD Et lÉgèrEmEnt à l'EsT d'icI.${prompt}
+  6852: CoNtinUez Et trOuVEz SeLElE. JAcK'lL mAqrUErA sA lOcAlisAtiOn sUr vOtRe cARte.${prompt}
+  6853: vOuS pOUvEz trOuvEr lE mARquEur En AppUYAnt sUr lE bOUtOn “cARte”, sElEcTioNNANt “mARquEurs”, Et rEgArdANt à dRoiTE.${prompt}
+  6854: lE cHOix dE “ScAN laRgE” vOus mONtrErA éGAlEmEnt lEs lOcAlisAtiOns dE diVErsEs pErSONnEs.${prompt}
+  6855: lEs RécOrDs d'EminENce pEUvEnt êtrE AppRéciéS pAr TOus, à tOUt mOmENt. vOus RécEvez mêmE dEs réCOnpEnsEs pOUr y pArticipEr !${prompt}
+  6856: OuvREz lE mEnU pRinciPAl Et aPpUyEz vErs lA dRoitE. sElEcTioNNEz “quêtes” Et EnsuiTE “liStE d'ObJEctifs” pOUr cOmmEncEr.${prompt}
+  6857: à pArtir dE lA, sElEcTioNNEz “tUtOriEl”, pUis “bAsE” Et “premiEr pAs eN aVant”. diRigEz-vOUS vErs cEt obJEctif pOUr cOmmEncEr.${prompt}
+  6858: jE vOus dONNErai uN indIcE pOUr cOmPlétEr “prEmiEr pAs eN aVant”.${prompt}
+  6859: prOgREssEz dAnS lEs bOiS dE WinDUrsT Et trOuvEz lA pErSOnnE dÉsiGnéE. jE mAqrUErAi sA lOcAlisAtiOn sUr vOtRe cARte.${prompt}
+  6860: il y a bEauCOUp d'obJEctifs à cHoisir, dONc chOisisSEz cEuX quI cOrrEspOndEnt à vOtRE stYlE.${prompt}
+  6861: l'INiTiAtiVE dE coNfiANcE EsT uN nOUvEAU typE dE mAgIE dévElOppé pAr uN inStiTUt EN jEUnO.${prompt}
+  6862: vOuS pOUvEz trOuvEr dEs cOmPAGnOns pOUr vOUS jOiNdrE dAnS lE cOmbAt SI vOus pArticIPEz.${prompt}
+  6863: jE vOus FOurNirAi pLUrs dE détAilS qUand vOus AtTEindREz lE nivEaU cInq.${prompt}
+  6864: WEtAtA dAnS lEs bOiS dE WinDUrsT pEUt vOus En diRE plUS. LAissEz mOi mAqrUEr sA lOcAlisAtiOn sUr vOtRe cARte.${prompt}
+  6865: d'AutrEs pErSONnEs cONnAissEnt AUssi bIEn lEs cARtes, cOmMe ZeLaLA dAns lEs EAUX dE WinDUrsT. lAisSEz JAcK vOus mONtrEr Où EllE EsT.${prompt}
+  6866: OuvRir lE mEnU priNciPAl Et CliQUer vErs lA dRoitE vOus dONnE lA pOssiBilité d'OuvRir lE “buREau d'AidE”.${prompt}
+  6867: AppUyEz sUr lE bOUtOn “buREau d'AidE” Et sElEcTioNnEZ lA cAtégORiE “buREau d'AidE” pOUr vOir uN chOix intiTulé “j'ai bEsOiN d'aide aVec lEs cOMmandEs dU jEU”.${prompt}
+  6868: lIRer lEs infOrmAtiOns lÀ pEUt réSOlvRE vOtRE pROblèmE.${prompt}
+  6869: lEs ciToyEns dE WinDUrsT cRiEnt pOUr vOtRE Aide. dEvRAi-jE trOUvEr dEs pErSONnEs qUi ONt bEsoin d'Aide ?${prompt}
   6870: |-
-    Inquire about which locale?
+    À propos de quelle localité souhaitez-vous vous renseigner ?
     ${selection-lines}
-    None.
-    Windurst Waters: ${number: 1} individual${choice-plurality: 1}[/s].
-    Windurst Walls: ${number: 2} individual${choice-plurality: 2}[/s]
-    Port Windurst: ${number: 3} individual${choice-plurality: 3}[/s]
-    Windurst Woods: ${number: 4} individual${choice-plurality: 4}[/s]
-    Heavens Tower: ${number: 5} individual${choice-plurality: 5}[/s]${prompt}
-  6871: 'tHe FoLLowIng PeoPLe in ${choice: 0}[WIndUrsT WaTErS/WiNduRsT WaLLs/POrT WiNdUrSt/WinDUrsT WooDS/HeAVeNs TowEr] mIGht NeeD yOuR HeLP.${prompt}'
+    Aucune.
+    Eaux de Windurst: ${number: 1} individu${choice-plurality: 1}[/s].
+    Murailes de Windurst: ${number: 2} individu${choice-plurality: 2}[/s].
+    Port Windurst : ${number: 3} individu${choice-plurality: 3}[/s].
+    Bois de Windurst: ${number: 4} individu${choice-plurality: 4}[/s].
+    Tour des Cieux: ${number: 5} individu${choice-plurality: 5}[/s].${prompt}
+  6871: 'Les personnes suivantes à ${choice: 0}[Windurst Waters/Windurst Walls/Port Windurst/Windurst Woods/Heavens Tower] pourraient avoir besoin de votre aide.${prompt}'
   6872: |-
-    Who will you go see in Windurst Waters?
+    Qui allez-vous voir aux Eaux de Windurst ?
     ${selection-lines}
-    No one.
+    Personne.
     Mashuu-Ajuu.
     Moreno-Toeno.
     Kerutoto.
@@ -17076,7 +17075,7 @@ entries:
     Lumomo.
     Ohbiru-Dohbiru.
     Paku-Nakku.
-    Hariga-Origa
+    Hariga-Origa.
     Fuepepe.
     Tosuka-Porika.
     Baren-Moren.
@@ -17090,9 +17089,9 @@ entries:
     Leepe-Hoppe.
     Ropunono.${prompt}
   6873: |-
-    Who will you go see in Windurst Walls?
+    Qui allez-vous voir aux Murailles de Windurst ?
     ${selection-lines}
-    No one.
+    Personne.
     Ambrosius.
     Raamimi.
     Yoran-Oran.
@@ -17100,18 +17099,18 @@ entries:
     Ojha Rhawash.
     Shantotto.
     Shantotto.
-    Someone in the House of the Hero.
+    Quelqu'un dans la Maison du Héros.
     Shantotto.
     Koru-Moru.
-    Someone in the House of the Hero.
-    Someone in the House of the Hero.
-    Someone in the House of the Hero.
+    Quelqu'un dans la Maison du Héros.
+    Quelqu'un dans la Maison du Héros.
+    Quelqu'un dans la Maison du Héros.
     Koru-Moru.
     Shantotto.${prompt}
   6874: |-
-    Who will you go see in Port Windurst?
+    Qui allez-vous voir au Port Windurst ?
     ${selection-lines}
-    No one.
+    Personne.
     Tokaka.
     Sigismund.
     Kohlo-Lakolo.
@@ -17130,9 +17129,9 @@ entries:
     Kuroido-Moido.
     Pygmalion.${prompt}
   6875: |-
-    Who will you go see in Windurst Woods?
+    Qui allez-vous voir aux Bois de Windurst?
     ${selection-lines}
-    No one.
+    Personne.
     Kopuro-Popuro.
     Ibwam.
     Illu Bohjaa.
@@ -17157,81 +17156,81 @@ entries:
     Apururu.
     Perih Vashai.${prompt}
   6876: |-
-    Who will you go see in Heavens Tower?
+    Qui allez-vous voir à la Tour des Cieux ?
     ${selection-lines}
-    No one.
+    Personne.
     Chumimi.
     Chumimi.
     Chumimi.${prompt}
-  6877: I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp.${prompt}
-  6878: SoMEonE ThEre wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp.${prompt}
-  6879: ThaT PerSOn iS LocATeD iN thE BaSEmenT oF HeAVeNs ToWeR. LeT mE MarK oN yoUR Map WheRE tHe eNtRAncE Is.${prompt}
-  6880: FiNAllY, sOmE InFOrmAtiOn tO hELp yOu In yoUr TrAVelS.${prompt}
-  6881: One more thing.${prompt}
-  6882: I have saved a rather paramount detail for last. Allow me to explain.${prompt}
-  6883: There's still one other thing remaining to share with you.${prompt}
-  6884: YoU CAn wArP BetWEen PlACes KnOwn aS “HoME pOinTs.” TheY ARe moST CoNveNieNT, sO maKe SuRE to ReGIsTer ThEM bY TouCHing ThE SurFaCE.${prompt}
-  6885: “Home points” will probably turn out to be among your best companions. Make sure to examine one if you find it, so you can warp between them and cover large distances fast.${prompt}
-  6886: You may teleport between these crystalline nodes called “home points” for efficient travel. Be sure to examine any you stumble upon.${prompt}
-  6887: There's some special crystal nodes known as “home points” that'll undoubtedly serve you well. Don't forget to interact with all that you find, as they can help you get to far away places.${prompt}
-  6888: If yOU fINd yOurSeLF iN A fARaWay pLaCe, maKe sURe tO FinD a StoRE to BuY a Map fROm! wIth a MaP, yoU CaN ChEck WheRe yOu ArE!${prompt}
-  6889: Should you find yourself lost in the middle of nowhere, try to make it back to town to buy a map. That way, you can get your bearings.${prompt}
-  6890: Remember to purchase a map from the appropriate vendor before going to a faraway land. If you do, you can check your location within that place.${prompt}
-  6891: Did you know that some vendors will sell you maps of specific areas? It sure beats stumbling around like a dullard!${prompt}
-  6892: DoN'T WaSTe pRecIOus iTemS By sEllINg tHeM tO a StoRe. MaKE eVen MoRe MonEy By PuTTing tHeM uP At tHe AucTIon HouSe!${prompt}
-  6893: I hate to say it, but the merchants around here are pretty stingy. You'd have more luck listing any unwanted goods at the auction house.${prompt}
-  6894: I advise you to put any unwanted goods up for sale at the auction house rather than be taken advantage of by the vendors here.${prompt}
-  6895: If there's something you've got that you don't need, try putting it up at the auction house rather than selling it to some unscrupulous vendor.${prompt}
-  6896: MaNY uNdEaD MOnsTeRS cAn SenSe WhEn yOU Are LoW oN HP, aNd wIll TAke tHaT opPOrtUnItY tO ComE AfTEr yOu!${prompt}
-  6897: Undead enemies tend to come out of the woodwork when your HP is low. Be careful.${prompt}
-  6898: The undead often assault adventurers with low HP, which is all the more reason to never let your guard down in the wilderness.${prompt}
-  6899: Undead are always out for blood and brains, so watch out if you're low on health! They'll make a beeline right for you.${prompt}
-  6900: LeT'S tALk aBouT AttRIButeS. InCReaSing yoUr StrenGTh (STR) wiLL iNcrEase YouR pHYsiCal, bUt NOt MaGiCal, AttACk.${prompt}
-  6901: Increasing your strength (STR) raises your attack power, but--sadly--not your magic attack.${prompt}
-  6902: Increasing your strength (STR) enhances your attack power, but--regrettably--does nothing for your magic attack.${prompt}
-  6903: Increasing your strength (STR) enhances your attack power, but unfortunately does nothing for the efficacy of your magic.${prompt}
+  6877: JE sUiS CeRTaIn qUE cETtE pErSoNNe APprÉciErA vOtRe AiDe. lAiSSEz-mOi mAqrUEr lEuR lOcAlisAtiOn sUr vOtRe cARte.${prompt}
+  6878: QuElQu'un lÀ-bAs APprÉciErA vOtRe AiDe. lAiSSEz-mOi mAqrUEr lEuR lOcAlisAtiOn sUr vOtRe cARte.${prompt}
+  6879: CEttE pErSonnE Est LOcaLIsÉE danS lE sOUs-SOl dE lA tOUr dU cIel. lAiSSEz-mOi mAqrUEr suR vOtRe cARte Où sE trOUvE l'ENTrÉE.${prompt}
+  6880: EnFIN, QuElqUEs iNfOrmATiOns pOUr vOUs AiDer dAnS vOs vOYagEs.${prompt}
+  6881: uN dErniER pOinT.${prompt}
+  6882: j'Ai gArdÉ uN dÉtAiL AsSEz iMpOrTAnt pOUr lA fiN. pERmETtEz-mOI d'EXplIqUEr.${prompt}
+  6883: Il REstE EnCORE uNe AUtRE cHosE à vOUs dIRE.${prompt}
+  6884: vOUz pOUVEz vOyAgER enTRe lEs EndROitS cOnnUs SoUs lE nOm dE “pOinTs dE MAiSon”. iLS SOnT trÈS cONvENieNts, dONc AsSUreZ-VOuS dE lEs rEgisTrER En TOUchAnT lE sURfAce.${prompt}
+  6885: lEs “pOinTs dE MAiSon” sOnt pRObablEmEnt pArmi vOs mEilLEurs Amis. AssUReZ-vOus d'En ExAminEr Un sI vOus En trOUvEZ Un, pOUr pOUvOir tElÉpOrtEr vOus ENtrE EUx Et cOUvrIr dE grANdEs diStAncES rApiDEmEnt.${prompt}
+  6886: vOUz pOUvEz tElÉpOrtEr vOus ENtrE cEs nOEUds criStAllinS AppElÉs “pOinTs dE MAiSon” pOUr Un vOyAgE EfFiciEnt. AssURez-VOus d'ExAminEr tOUt cE quE vOUS trOuvEz.${prompt}
+  6887: Il y a dE sPÉciAux nOEUds criStAllinS AppElÉs “pOinTs dE MAiSon” qUi vOus SErViriOnt sAnS doUtE bIEn. n'OublIez pAS d'intErAgir avEc tOUt cEuX quE vOUS trOUvEZ, cAr ilS pEUvEnt vOUS AidEr À AtTEindrE dEs liEuX dIsTAnTS.${prompt}
+  6888: Si vOUz vOUS rEtrOuvEz dANS Un liEu ÉloignÉ, AssUReZ-VOus dE TrOUvEr Un mAgniEn pOUr AChEter uNE cARtE ! avEc uNE cARtE, vOUS pOUvEz vÉrifiEr Où vOUS ÊtES !${prompt}
+  6889: Si vOUS vOUS rEtrOuvEz pErdu dANS lE miLIEU dE NULlE pART, ESSAyEz dE rETOUrnEr En viLlE pOUr AChEter uNE cARtE. dE cETTE fAÇon, vOUS pOUvEz rEtrOuVEr vOtRE ChEmiN.${prompt}
+  6890: RAppElez-VOus dE vOus prOCUrEr uNE cARtE dU bOn vEndEUR AvAnt dE vOUz rEndrE dANS uN liEu diSTAnt. Si vOUS lE fAItEs, vOUS pOUvEz vÉrifiEr vOtRE lOcAlisAtiOn dAnS cE liEu.${prompt}
+  6891: SAvIEz-vOUS qUE cErtAins vEndEurS vOUS vEndrOnt dES cARtES dE régiOn SpÉcIFIqUEs ? C'Est bEaucOUp miEux qUE d'ErrEr coMME un dÉbIlE !${prompt}
+  6892: NE vEndEZ pAS dE prÉciEux ArTicLES à Un mAgniEn. gAgNEz ENcOrE pluS d'ArGEnT En lEs mETTAnT En vEntE à lA mAisOn dE vEntE à l'aUcTiOn !${prompt} 
+  6893: JE dÉteStE lE diRE, mAiS lES mArchAndS ici SOnT plUToT AvAriEux. vOus AuRiEZ pLus dE chAncE En liStAnt tOUtE MArChandISE nOn dÉSIRÉE À lA mAisOn dE vEntE à l'AucTiON.${prompt}
+  6894: jE vOUS coNseIllE dE mETtrE En vEntE tOUtE mAChandISE nOn dÉsIRÉE à lA mAisOn dE vEntE à l'AucTiON, pLUtÔt qUE d'ÊTrE ExploiTÉ pAr lEs vEndEurS ici.${prompt}
+  6895: Si vOuS Avez QuElqUE chOsE qUe vOuS nE nÉcESSitEz pAS, ESSAyEz dE lE mETtrE En vEntE à lA mAisOn dE vEntE à l'AucTiON, plUtÔt qUe dE lE vEndrE à QuElqUe vEndEur sAnS scrUPulE.${prompt}
+  6896: bEaUcoUp dE MOnStrES noN-mOrtS sAvEnt QuAnD vOuS êtES bAS en pV, Et pROfItErOnt dE cEttE OccASioN pOUr vOUS AtTAqUer !${prompt}  
+  6897: lES EnnEMis noN-mOrtS oNt TEndAncE à SOrtIr dU bOIs qUAnd vOS pV soNT BAs. SOYEZ prUdEnt.${prompt}
+  6898: lES noN-mOrtS AtTAquEnt SOuVent lES AventUriErS AvEc dES pV bAS, cE qUi Est UnE rAiSOn dE pLus pOUr nE jAmAis bAiSSEr gArdE En pLEinE nAtUrE.${prompt}
+  6899: lES noN-mOrtS sOnt TOUjOUrs À lA chAssE dE SAng Et dE CervEAuX, AlOrS SOYEZ AttENTif sI vOuS êtES bAs En sAntÉ ! ilS vOus fOncErOnt dIReCTEmEnt dEssUs.${prompt}
+  6900: pArloNs dES AttRIButS. AugmEnTEr vOtRE fORcE (FOR) AuGmEnTErA vOtRE pUissAncE d'AttAQuE pHYsiqUE, mAIs nON mAgiQUE.${prompt}
+  6901: Augmenter votre force (FOR) augmente votre puissance d'attaque, mais--malheureusement--pas votre attaque magique.${prompt}
+  6902: Augmenter votre force (FOR) améliore votre puissance d'attaque, mais--malheureusement--ne fait rien pour votre attaque magique.${prompt}
+  6903: Augmenter votre force (FOR) renforce votre puissance d'attaque, mais malheureusement ne fait rien pour l'efficacité de votre magie.${prompt}
   6904: LeT'S tALk aBouT AttRIButeS. InCReaSinG yoUr DeXteRIty (DEX) wiLl IncReaSe yOuR AccURacY aNd cRiTIcaL HIt rAtE.${prompt}
-  6905: Increasing your dexterity (DEX) increases things like your accuracy and critical hit rate.${prompt}
-  6906: Increasing your dexterity (DEX) improves such faculties as accuracy and critical hit rate.${prompt}
-  6907: Increasing your dexterity (DEX) enhances attributes such as accuracy and critical hit rate.${prompt}
+  6905: Augmenter votre dextérité (DEX) améliore des aspects tels que votre précision et votre taux de coups critiques.${prompt}
+  6906: Augmenter votre dextérité (DEX) améliore des facultés comme la précision et le taux de coups critiques.${prompt}
+  6907: Augmenter votre dextérité (DEX) renforce des attributs tels que la précision et le taux de coups critiques.${prompt}
   6908: LeT'S tALk aBouT AttRIButeS. InCreAsinG YoUR VitALiTy (VIT) WiLL iNcReaSE yOuR PhYsiCAl DefENsE anD HP reStoREd bY CuRe aNd oTheR HP-HeaLInG aBilItieS.${prompt}
-  6909: Increasing your vitality (VIT) increases things like your physical defense and the potency of restorative abilities such as Cure.${prompt}
-  6910: Increasing your vitality (VIT) improves such faculties as physical defense and the potency of restorative abilities like Cure.${prompt}
-  6911: Increasing your vitality (VIT) enhances attributes such as physical defense and restorative abilities such as cure.${prompt}
+  6909: Augmenter votre vitalité (VIT) améliore des aspects tels que votre défense physique et la puissance des capacités de restauration comme Cure.${prompt}
+  6910: Augmenter votre vitalité (VIT) améliore des facultés telles que la défense physique et la puissance des capacités de restauration comme Cure.${prompt}
+  6911: Augmenter votre vitalité (VIT) renforce des attributs tels que la défense physique et les capacités de restauration comme Cure.${prompt}
   6912: LeT'S tALk aBouT AttRIButeS. AgIlITy (AGI) hAs a VarIetY Of EffECtS, sUch aS IncReaSing pHYsIcaL EvaSioN And aCCurAcy oF RangEd aTTacKs, as WelL aS DecReasINg eNEmiES' CRitIcAL HiT EvaSioN.${prompt}
-  6913: Increasing your agility (AGI) increases things like your physical evasion and ranged accuracy. It also decreases enemies' critical hit evasion.${prompt}
-  6914: Increasing your agility (AGI) improves such faculties as physical evasion and ranged accuracy. It also reduces enemies' critical hit evasion.${prompt}
-  6915: Increasing your agility (AGI) enhances attributes such as physical evasion and ranged accuracy. It also decreases enemies' critical hit evasion.${prompt}
+  6913: Augmenter votre agilité (AGI) améliore des aspects tels que l'esquive physique et la précision à distance. Cela diminue également l'esquive des coups critiques des ennemis.${prompt}
+  6914: Augmenter votre agilité (AGI) améliore des facultés telles que l'esquive physique et la précision à distance. Cela réduit également l'esquive des coups critiques des ennemis.${prompt}
+  6915: Augmenter votre agilité (AGI) renforce des attributs tels que l'esquive physique et la précision à distance. Cela diminue également l'esquive des coups critiques des ennemis.${prompt}
   6916: LeT'S tALk aBouT AttRIButeS. InTElLiGEncE (INT) iNcReaSEs tHe MagIC aCCuraCy and DaMAge Of ElEmenTAL MaGiC sPeLLs.${prompt}
-  6917: Increasing your intelligence (INT) increases things like the accuracy and damage of your elemental magic spells.${prompt}
-  6918: Increasing your intelligence (INT) improves such faculties as the accuracy and damage of your elemental magic spells.${prompt}
-  6919: Increasing your intelligence (INT) enhances attributes such as the accuracy and damage of your elemental magic spells.${prompt}
+  6917: Augmenter votre intelligence (INT) améliore des aspects tels que la précision et les dégâts de vos sorts de magie élémentaire.${prompt}
+  6918: Augmenter votre intelligence (INT) améliore des facultés telles que la précision et les dégâts de vos sorts de magie élémentaire.${prompt}
+  6919: Augmenter votre intelligence (INT) renforce des attributs tels que la précision et les dégâts de vos sorts de magie élémentaire.${prompt}
   6920: LeT'S tALk aBouT AttRIButeS. MiND (MND) iNCreAsEs thE aMouNT oF HP ReStoREd bY HeaLinG MaGiC and tHE ACcuraCy oF WhItE MAgiC SpELls.${prompt}
-  6921: Mind (MND) increases things like the potency of healing spells and the accuracy of white magic spells.${prompt}
-  6922: Mind (MND) improves such faculties as the potency of healing spells and the accuracy of white magic spells.${prompt}
-  6923: Increasing your mind (MND) enhances attributes such as the potency of healing spells and the accuracy of white magic spells.${prompt}
+  6921: Le mental (MND) augmente des éléments tels que la puissance des sorts de guérison et la précision des sorts de magie blanche.${prompt}
+  6922: Le mental (MND) améliore des facultés telles que la puissance des sorts de guérison et la précision des sorts de magie blanche.${prompt}
+  6923: Augmenter votre mental (MND) renforce des attributs tels que la puissance des sorts de guérison et la précision des sorts de magie blanche.${prompt}
   6924: LeT'S tALk aBouT AttRIButeS. cHaRIsmA (CHR) inCreASes tHe eFFecTivENesS oF a bEaSTmaSTeR's “cHaRm” aNd thE AccURaCy Of A BarD's sONgs.${prompt}
-  6925: Charisma (CHR) increases things like the effectiveness of the beastmaster ability “charm” and the accuracy of bards' songs.${prompt}
-  6926: Charisma (CHR) improves such faculties as the effectiveness of the beastmaster ability “charm” and the accuracy of bards' songs.${prompt}
-  6927: Increasing your charisma (CHR) enhances attributes such as the effectiveness of the beastmaster ability “charm” and the accuracy of bards' songs.${prompt}
-  6928: He might look a bit...awkwarrrd, but he can teach you so much about Windurst and life in Vana'diel.${prompt}
-  6929: I've marked his location on your map so you don't get lost. Select “Map” from the main menu, and choose “markers” and scrrroll to the right.${prompt}
-  6930: The map will open when you select “Map” from the main menu. Choose “Markers” and scroll to the right to check the location.${prompt}
-  6931: Jack looks a bit scawy, but I pwomise he's de nicest Cawdian you'll ever meet!${prompt}
-  6932: I've mawked his location on your map for you! Select “Map” from the main menu, and choose “Markers” and scwoll to the wight.${prompt}
-  6933: Jackkedy-Wack is what we in Windurst call a “Cardian.”${prompt}
-  6934: I've placed-waced a marker on your map so you don't get confused! Check-weck-weck it by selecting “Markers” from the “Map” category in the main menu!${prompt}
-  6935: (DEBUG) Flag raised, kupo!${prompt}
-  6936: Welcome, Master! This is your home, the “Mog House,” kupo!${prompt}
-  6937: I'm a moogle! We moogles like taking care of houses and items! Nice to meet you, kupo!${prompt}
-  6938: I'll tell you all about your Mog House, kupo!${prompt}
+  6925: Le Charisme (CHR) améliore des choses telles que l'efficacité de l'aptitude "charm" du maître des bêtes et la précision des chants des bardes.${prompt}
+  6926: Le Charisme (CHR) améliore des facultés telles que l'efficacité de l'aptitude "charm" du maître des bêtes et la précision des chants des bardes.${prompt}
+  6927: Augmenter votre charisme (CHR) renforce des attributs tels que l'efficacité de l'aptitude "charm" du maître des bêtes et la précision des chants des bardes.${prompt}
+  6928: Il peut sembler un peu... maladroit, mais il peut vous apprendre tellement sur Windurst et la vie à Vana'diel.${prompt} 
+  6929: J'ai marqué son emplacement sur votre carte pour que vous ne vous perdiez pas. Sélectionnez "Carte" dans le menu principal, puis choisissez "marqueurs" et faites défiler vers la droite.${prompt}
+  6930: La carte s'ouvrira lorsque vous sélectionnerez "Carte" dans le menu principal. Choisissez "Marqueurs" et faites défiler vers la droite pour vérifier l'emplacement.${prompt}
+  6931: Jack semble un peu effrayant, mais je vous promets que c'est le Cardian le plus gentil que vous rencontrerez jamais !${prompt}
+  6932: J'ai marqué son emplacement sur votre carte pour vous ! Sélectionnez "Carte" dans le menu principal, puis choisissez "marqueurs" et faites défiler vers la droite.${prompt}
+  6933: Jackkeddy-Wack est ce que nous appelons un "Cardian" à Windurst.${prompt}
+  6934: J'ai placé un marqueur sur votre carte pour que vous ne soyez pas confus ! Vérifiez-le en sélectionnant "Marqueurs" dans la catégorie "Carte" du menu principal !${prompt}
+  6935: (DEBUG) Drapeau levé, kupo !${prompt}
+  6936: Bienvenue, Maître ! C'est votre maison, le "Mog House", kupo !${prompt}
+  6937: Je suis un moogle ! Nous, les moogles, aimons nous occuper des maisons et des objets ! Enchanté de vous rencontrer, kupo !${prompt}
+  6938: Je vais tout vous dire sur votre Mog House, kupo !${prompt}
   6939: |-
-    First, the basics, kupo!
-    Open your main menu, Master. The button at the very bottom changes to “Mog House” when you're in your Mog House, kupo!${prompt}
-  6940: Press it and the “Mog House” menu will appear! Everything you can do in your Mog House is there, kupo!${prompt}
-  6941: There are lots of things you can do in your Mog House, kupo! It can be too much for some masters, kupo...${prompt}
-  6942: So I'll teach you about each one of them! Ask me what you want to know about, kupo!${prompt}
-  6943: Choose the Mog House command you want to know about, kupo!${prompt}
+     Tout d'abord, les bases, kupo !
+     Ouvrez votre menu principal, Maître. Le bouton tout en bas change en "Mog House" lorsque vous êtes dans votre Mog House, kupo !${prompt}
+  6940: Appuyez dessus et le menu "Mog House" apparaîtra ! Tout ce que vous pouvez faire dans votre Mog House est là, kupo !${prompt}
+  6941: Il y a beaucoup de choses que vous pouvez faire dans votre Mog House, kupo ! Cela peut être trop pour certains maîtres, kupo...${prompt}
+  6942: Alors je vais vous enseigner chacune d'entre elles ! Demandez-moi ce que vous voulez savoir, kupo !${prompt}
+  6943: Choisissez la commande Mog House que vous voulez connaître, kupo !${prompt}
   6944: |-
     What do you want to know about?
     ${selection-lines}
