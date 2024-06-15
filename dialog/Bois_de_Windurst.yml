@@ -16944,7 +16944,8 @@ entries:
     Elle a promis à Windurst la gloire et la prospérité.${wait-animation: 7}
   6818: '${unknown: 0x025C000354}${unknown: 0x015769746820656163682070617373696E6720656F6E2C207468652070656F706C652063616D6507746F20657863656C206174206D61676963206D6F726520616E64206D6F72652C20676976696E670757696E647572737420}une sagesse et un pouvoir bien plus grands.${wait-animation: 7}'
   6819: |-
-    ${unknown: 0x025E000354}${unknown: 0x0146697665206D696E697374726965732C2065616368207370656369616C697A696E6720696E2061077363686F6F6C206F66206B6E6F776C656467652C20626563616D6520706F6C}itiquement influents. Cela a élevé
+    ${unknown: 0x025E000354}${unknown: 0x0146697665206D696E697374726965732C2065616368207370656369616C697A696E6720696E2061077363686F6F6C206F66206B6E6F776C656467652C20626563616D6520706F6C}itiquement 
+    influents. Cela a élevé
     Windurst au rang de ville d'universitaires.${wait-animation: 7}
   6820: |-
     ${unknown: 0x0261000354}${unknown: 0x01496E20726563656E742079656172732C206E657720626F6E64732077657265206D61646507776974682074686520726F616D696E6720747269626573206F66204D69746872612C076361} en utilisant Windurst pour devenir encore plus grande
@@ -17189,27 +17190,27 @@ entries:
   6901: Augmenter votre force (FOR) augmente votre puissance d'attaque, mais--malheureusement--pas votre attaque magique.${prompt}
   6902: Augmenter votre force (FOR) améliore votre puissance d'attaque, mais--malheureusement--ne fait rien pour votre attaque magique.${prompt}
   6903: Augmenter votre force (FOR) renforce votre puissance d'attaque, mais malheureusement ne fait rien pour l'efficacité de votre magie.${prompt}
-  6904: LeT'S tALk aBouT AttRIButeS. InCReaSinG yoUr DeXteRIty (DEX) wiLl IncReaSe yOuR AccURacY aNd cRiTIcaL HIt rAtE.${prompt}
+  6904: Parlons des attributs. Augmenter votre Dextérité (DEX) augmentera votre Précision et votre Taux de coup critique.${prompt}
   6905: Augmenter votre dextérité (DEX) améliore des aspects tels que votre précision et votre taux de coups critiques.${prompt}
   6906: Augmenter votre dextérité (DEX) améliore des facultés comme la précision et le taux de coups critiques.${prompt}
   6907: Augmenter votre dextérité (DEX) renforce des attributs tels que la précision et le taux de coups critiques.${prompt}
-  6908: LeT'S tALk aBouT AttRIButeS. InCreAsinG YoUR VitALiTy (VIT) WiLL iNcReaSE yOuR PhYsiCAl DefENsE anD HP reStoREd bY CuRe aNd oTheR HP-HeaLInG aBilItieS.${prompt}
+  6908: Parlons des attributs. Augmenter votre Vitalité (VIT) augmentera votre Défense physique et les PV restaurés par Soin et d'autres capacités de guérison de PV.${prompt}
   6909: Augmenter votre vitalité (VIT) améliore des aspects tels que votre défense physique et la puissance des capacités de restauration comme Cure.${prompt}
   6910: Augmenter votre vitalité (VIT) améliore des facultés telles que la défense physique et la puissance des capacités de restauration comme Cure.${prompt}
   6911: Augmenter votre vitalité (VIT) renforce des attributs tels que la défense physique et les capacités de restauration comme Cure.${prompt}
-  6912: LeT'S tALk aBouT AttRIButeS. AgIlITy (AGI) hAs a VarIetY Of EffECtS, sUch aS IncReaSing pHYsIcaL EvaSioN And aCCurAcy oF RangEd aTTacKs, as WelL aS DecReasINg eNEmiES' CRitIcAL HiT EvaSioN.${prompt}
+  6912: Parlons des attributs. L'Agilité (AGI) a une variété d'effets, tels que l'augmentation de l'Évasion physique et de la Précision des attaques à distance, ainsi que la diminution de l'évasion des coups critiques des ennemis.${prompt}
   6913: Augmenter votre agilité (AGI) améliore des aspects tels que l'esquive physique et la précision à distance. Cela diminue également l'esquive des coups critiques des ennemis.${prompt}
   6914: Augmenter votre agilité (AGI) améliore des facultés telles que l'esquive physique et la précision à distance. Cela réduit également l'esquive des coups critiques des ennemis.${prompt}
   6915: Augmenter votre agilité (AGI) renforce des attributs tels que l'esquive physique et la précision à distance. Cela diminue également l'esquive des coups critiques des ennemis.${prompt}
-  6916: LeT'S tALk aBouT AttRIButeS. InTElLiGEncE (INT) iNcReaSEs tHe MagIC aCCuraCy and DaMAge Of ElEmenTAL MaGiC sPeLLs.${prompt}
+  6916: Parlons des attributs. L'Intelligence (INT) augmente la Précision magique et les Dégâts des sorts magiques élémentaires.${prompt}
   6917: Augmenter votre intelligence (INT) améliore des aspects tels que la précision et les dégâts de vos sorts de magie élémentaire.${prompt}
   6918: Augmenter votre intelligence (INT) améliore des facultés telles que la précision et les dégâts de vos sorts de magie élémentaire.${prompt}
   6919: Augmenter votre intelligence (INT) renforce des attributs tels que la précision et les dégâts de vos sorts de magie élémentaire.${prompt}
-  6920: LeT'S tALk aBouT AttRIButeS. MiND (MND) iNCreAsEs thE aMouNT oF HP ReStoREd bY HeaLinG MaGiC and tHE ACcuraCy oF WhItE MAgiC SpELls.${prompt}
+  6920: Parlons des attributs. L'Esprit (MND) augmente la quantité de PV restaurés par la magie curative et la Précision des sorts de magie blanche.${prompt}
   6921: Le mental (MND) augmente des éléments tels que la puissance des sorts de guérison et la précision des sorts de magie blanche.${prompt}
   6922: Le mental (MND) améliore des facultés telles que la puissance des sorts de guérison et la précision des sorts de magie blanche.${prompt}
   6923: Augmenter votre mental (MND) renforce des attributs tels que la puissance des sorts de guérison et la précision des sorts de magie blanche.${prompt}
-  6924: LeT'S tALk aBouT AttRIButeS. cHaRIsmA (CHR) inCreASes tHe eFFecTivENesS oF a bEaSTmaSTeR's “cHaRm” aNd thE AccURaCy Of A BarD's sONgs.${prompt}
+  6924: Parlons des attributs. Le Charisme (CHR) augmente l'efficacité du « Charme » d'un Maître des bêtes et la Précision des chansons d'un Barde.${prompt}
   6925: Le Charisme (CHR) améliore des choses telles que l'efficacité de l'aptitude "charm" du maître des bêtes et la précision des chants des bardes.${prompt}
   6926: Le Charisme (CHR) améliore des facultés telles que l'efficacité de l'aptitude "charm" du maître des bêtes et la précision des chants des bardes.${prompt}
   6927: Augmenter votre charisme (CHR) renforce des attributs tels que l'efficacité de l'aptitude "charm" du maître des bêtes et la précision des chants des bardes.${prompt}
@@ -20093,19 +20094,18 @@ entries:
   8476: Quoi que tu dises ? Que je te rende le livre que j'ai emprunté à la bibliothèque ?${prompt}
   8477: Pourquoi, je rends toujours les livres que j'emprunte à temps, merci ! Vous êtes sûr que vous n'avez pas la mauvaise fille ? Pourquoi pensent-ils que j'ai encore un livre ?${prompt}
   8478: |-
-    Hé～hé ! Qu'est-ce... ?
+    Hé～hé ! Qu'est-ce...?
     ${lettercase: 1}${keyitem-singular: 1[2]} !?
     Tu crois que je suis le genre à lire un livre comme ça ? Quelle honte !${prompt}
   8479: |-
-    Espèce de nigaud !
+    Espèce de nigaud!
     Jamais de ma vie on m'a suggéré d'emprunter un livre embarrassant comme ${keyitem-singular: 1[2]} !${prompt}
   8480: Ce n'est pas seulement une obstruction aux affaires, mais vous violez mes droits, voilà ce que c'est ! Déguerpissez avant que je vous arrache les yeux !${prompt}
   8481: |-
-    Wouah là là... !
-    On vous a entendu ! Il semblerait que notre patronne ait un côté audacieux après tout !♪${prompt}
+    Wouah là là...!
+    On vous a entendu! Il semblerait que notre patronne ait un côté audacieux après tout !♪${prompt}
   8482: |-
-    Wouah, super !
-    Allez-y, patronne !
+    Wouah, super! Allez-y, patronne!
     On dirait que notre patronne est enfin décidée ! Elle n'a pas besoin de le nier autant. Être une romantique cachée, ce n'est pas quelque chose dont on devrait avoir honte...${prompt}
   8483: |-
     Hae Jakhya !?
@@ -20218,8 +20218,7 @@ entries:
   8556: Pourquoi ne pas acheter quelque chose chez moi ? Vous ne le regretterez pas ! J'ai toutes sortes de marchandises de la région de Zulkheim !${prompt}
   8557: |-
     Je prends une pause de
-    mon rôle de vendeuse pour donner des
-    indications.
+    mon rôle de vendeuse pour donner des indications.
     Donc... à travers cette arche se trouve
     la zone résidentielle.${prompt}
   8558: Ooh... avez-vous de superbes marchandises pour vous ! Man... ce sont des offres à ne pas manquer, alors profitez-en tant que vous le pouvez.${prompt}
@@ -23780,16 +23779,14 @@ entries:
     Mais ne vous inquiétez pas !
     Nos chercheurs moogle de haut niveau ont créé des armes capables de blesser ces voyous voleurs d'armures : la merveilleuse ${item-singular: 0[2]} et la fabuleuse ${item-singular: 1[2]}, kupo !${prompt}
   10368: Les moogles nomades ont aussi développé une magie qui annulera cette aura anti-attaque. Assurez-vous de leur rendre visite tout en portant l'arme avant d'affronter l'ennemi, kupo.${prompt}
-  10369: |-
-    Mais attention -- cette magie a pour effet secondaire de vous empêcher d'attaquer tout autre monstre pendant trois jours vana'dieliens entiers, kupo !${prompt}
+  10369: Mais attention -- cette magie a pour effet secondaire de vous empêcher d'attaquer tout autre monstre pendant trois jours vana'dieliens entiers, kupo !${prompt}
   10370: |-
     Et ce n'est pas tout !
     Cette fois, nous voulons nous assurer que ces voleurs misérables auront du mal à revenir, kupo !${prompt}
   10371: Vous voyez, même si vous en abattez un, le pouvoir de l'armure restaurera lentement sa santé, et avant que vous ne le sachiez, le coquin sera de nouveau à plein régime !${prompt}
   10372: 'C’est pourquoi nous vous conseillons de planter (${color: 5}échanger${color: 1}) votre ${item-singular: 0[2]} ou votre ${item-singular: 1[2]} près d’un malfrat abattu. Cela créera une protection qui devrait ralentir les propriétés régénératives de l’équipement, vous permettant de les vaincre à répétition, kupo !${prompt}'
   10373: 'Souvenez-vous simplement que plus vous vous éloignez de la protection, plus elle s’affaiblit. Nous vous recommandons de rester dans la même ${color: 5}zone${color: 1} pour de meilleurs résultats.${prompt}'
-  10374: |-
-    Très bien. Voici votre ${item-singular: 0[2]}. Maintenant, vous êtes prêt pour le combat, kupo !${prompt}
+  10374: 'Très bien. Voici votre ${item-singular: 0[2]}. Maintenant, vous êtes prêt pour le combat, kupo !${prompt}'
   10375: Oh, et vous constaterez que les récompenses que nous avons pour vous cette fois-ci sont encore meilleures que les précédentes. Vous pourriez même être l'un des chanceux aventuriers à remporter un tout nouveau et chic... Ah, vous devrez le voir pour le croire, kupo !${prompt}
   10376: 'Maintenant, si vous voulez croiser le fer avec les intrus invincibles, équipez ${article} ${item-article: 0[2]} ou ${article} ${item-article: 1[2]} et parlez à un moogle nomade, kupo !${prompt}'
   10377: Vana'diel est attaquée par des bandits portant nos armures de samouraï volées ! Aidez les moogles de chaque nation à vaincre cette menace, kupo !${prompt}
