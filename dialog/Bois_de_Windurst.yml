@@ -17233,207 +17233,207 @@ entries:
   6942: Alors je vais vous enseigner chacune d'entre elles ! Demandez-moi ce que vous voulez savoir, kupo !${prompt}
   6943: Choisissez la commande Mog House que vous voulez connaître, kupo !${prompt}
   6944: |-
-    What do you want to know about?
+    Que voulez-vous savoir ?
     ${selection-lines}
-    The Mog Safe.
-    Storage.
-    The Delivery Box.
-    Changing jobs.
-    Gardening.
-    Changing the layout.
-    Mog House invitations.
-    I got it, thanks, kupo!${prompt}
-  6945: The Mog Safe is where I keep items that you can't carry! It's an especially secure and solid safe, kupo!${prompt}
-  6946: You can only put so many items in it, kupo... But I'll guard them even if it means my life, kupo!${prompt}
-  6947: The Delivery Box is where you can send letters to friends and receive items from various places, kupo!${prompt}
-  6948: You should take the items from your Delivery Box and put them in your inventory when they arrive, kupo!${prompt}
-  6949: If your Delivery Box is full, no more deliveries can be made, and you can't send any mail either, kupo!${prompt}
-  6950: You can send items and gil to your friends with the “Send” command, kupo!${prompt}
-  6951: (Sometimes, if a special force takes hold, you can even deliver items with the "Exclusive" attribute, kupo...!)${prompt}
-  6952: Changing people's jobs is a secret ability only we moogles can use, kupo!${prompt}
-  6953: I take off all your equipment and take you to a mysterious place, kupo!${prompt}
-  6954: And...the rest is a secret, kupo!${prompt}
-  6955: All moogles like taking care of plants, kupo!${prompt}
-  6956: As long as you have a flowerpot and seeds, I'll make it my personal responsibility to look after the plants you raise, kupo!${prompt}
-  6957: This Mog House is your very own room, kupo! But it's still a little bare, kupo...${prompt}
-  6958: It needs some furniture and maybe some paintings to make it more cozy, kupo!${prompt}
-  6959: If you find any during your travels, I'll help you lay them out, kupo! I can't wait, kupo!${prompt}
-  6960: Storage space becomes available when you place furniture in your Mog House using the “Layout” command, kupo!${prompt}
+    Le Coffre Mog.
+    Le Stockage.
+    La Boîte de livraison.
+    Changer de métier.
+    Jardinage.
+    Changer l'aménagement.
+    Invitations à la Maison Mog.
+    J'ai compris, merci, kupo !${prompt}
+  6945: Le Coffre Mog est l'endroit où je garde les objets que vous ne pouvez pas porter ! C'est un coffre particulièrement sûr et solide, kupo !${prompt}
+  6946: Vous ne pouvez y mettre qu'un certain nombre d'objets, kupo... Mais je les garderai même au prix de ma vie, kupo !${prompt}
+  6947: La Boîte de livraison est l'endroit où vous pouvez envoyer des lettres à des amis et recevoir des objets de divers endroits, kupo !${prompt}
+  6948: Vous devriez prendre les objets de votre Boîte de livraison et les mettre dans votre inventaire dès leur arrivée, kupo !${prompt}
+  6949: Si votre Boîte de livraison est pleine, plus aucune livraison ne peut être effectuée et vous ne pouvez plus envoyer de courrier non plus, kupo !${prompt}
+  6950: Vous pouvez envoyer des objets et des gils à vos amis avec la commande « Envoyer », kupo !${prompt}
+  6951: (Parfois, si une force spéciale se manifeste, vous pouvez même livrer des objets avec l'attribut "Exclusif", kupo...!)${prompt}
+  6952: Changer de métier est une capacité secrète que seuls nous, les mogs, pouvons utiliser, kupo !${prompt}
+  6953: J'enlève tout votre équipement et je vous emmène dans un endroit mystérieux, kupo !${prompt}
+  6954: Et... le reste est un secret, kupo !${prompt}
+  6955: Tous les mogs aiment s'occuper des plantes, kupo !${prompt}
+  6956: Tant que vous avez un pot de fleurs et des graines, je prendrai personnellement soin des plantes que vous cultivez, kupo !${prompt}
+  6957: Cette Maison Mog est votre propre chambre, kupo ! Mais elle est encore un peu vide, kupo...${prompt}
+  6958: Elle a besoin de quelques meubles et peut-être de quelques tableaux pour la rendre plus chaleureuse, kupo !${prompt}
+  6959: Si vous en trouvez pendant vos voyages, je vous aiderai à les disposer, kupo ! J'ai hâte, kupo !${prompt}
+  6960: L'espace de stockage devient disponible lorsque vous placez des meubles dans votre Maison Mog en utilisant la commande « Aménagement », kupo !${prompt}
   6961: |-
-    It's almost exactly the same as using your Mog Safe, kupo!
-    Leave your items here for me to look after, kupo!${prompt}
-  6962: You can invite party and alliance members into your Mog House, kupo!${prompt}
-  6963: You can show off your expensive furniture, have tea parties, plan your next great adventure--the possibilities are endless, kupo!${prompt}
-  6964: Are you sure, kupo? You know everything about your Mog House, kupo?${prompt}
+    C'est presque exactement comme utiliser votre Coffre Mog, kupo !
+    Laissez vos objets ici pour que je m'en occupe, kupo !${prompt}
+  6962: Vous pouvez inviter des membres de votre équipe et de votre alliance dans votre Maison Mog, kupo !${prompt}
+  6963: Vous pouvez montrer vos meubles coûteux, organiser des thés, planifier votre prochaine grande aventure - les possibilités sont infinies, kupo !${prompt}  
+  6964: Êtes-vous sûr, kupo ? Vous savez tout sur votre Maison Mog, kupo ?${prompt}
   6965: |-
-    Are you sure?
+    Êtes-vous sûr ?
     ${selection-lines}
-    I'm sure!
-    Maybe I'm not so sure...${prompt}
-  6966: And finally, a little bit of advice!${prompt}
-  6967: If you ever run into any problems, just ask your fellow adventurers for help!${prompt}
-  6968: If you type “/ae Hello!”, then your message will be heard by many people.${prompt}
-  6969: If you type “/ae” followed by your issue or question, other adventurers will help you!${prompt}
-  6970: Remember that you can only do this while in town, kupo!${prompt}
+    Je suis sûr !
+    Peut-être que je ne suis pas si sûr...${prompt}
+  6966: Et enfin, un petit conseil !${prompt}
+  6967: Si vous rencontrez des problèmes, demandez simplement de l'aide à vos compagnons aventuriers !${prompt}
+  6968: Si vous tapez « /ae Bonjour ! », votre message sera entendu par de nombreuses personnes.${prompt}
+  6969: Si vous tapez « /ae » suivi de votre problème ou question, d'autres aventuriers vous aideront !${prompt}
+  6970: N'oubliez pas que vous ne pouvez le faire qu'en ville, kupo !${prompt}
   6971: |-
-    Okay, kupo!
-    Good luck on your adventuring, kupo!${prompt}
-  6972: Do you want me to teach you about your Mog House again, kupo?${prompt}
+    D'accord, kupo !
+    Bonne chance dans vos aventures, kupo !${prompt}
+  6972: Voulez-vous que je vous parle de votre Maison Mog à nouveau, kupo ?${prompt}
   6973: |-
-    Ask about your Mog House again?
+    Demander à nouveau à propos de votre Maison Mog ?
     ${selection-lines}
-    Don't ask.
-    Ask.${prompt}
+    Ne pas demander.
+    Demander.${prompt}
   6974: |-
-    Over the mountains and the rolling hills,
-    I'll go wherever my master wills.♪${prompt}
+    Par-dessus les montagnes et les collines ondulantes,
+    J'irai où mon maître le veut.♪${prompt}
   6975: |-
-    Master!
-    I traveled all the way here at your bidding, kupo! Even a Rent-a-Room needs a moogle, kupo!${prompt}
-  6976: But there are a few things you can't do in a Rent-a-Room, kupo. Select “Mog House” from the main menu and check, kupo!${prompt}
-  6977: When you go back home, talk to the guard in front of the residential area to call me back to the Mog House, kupo!${prompt}
+    Maître !
+    J'ai voyagé jusqu'ici à votre demande, kupo ! Même une Chambre-à-louer a besoin d'un mog, kupo !${prompt}
+  6976: Mais il y a quelques choses que vous ne pouvez pas faire dans une Chambre-à-louer, kupo. Sélectionnez « Maison Mog » dans le menu principal et vérifiez, kupo !${prompt}
+  6977: Quand vous rentrez chez vous, parlez au garde devant la zone résidentielle pour me rappeler à la Maison Mog, kupo !${prompt}
   6978: |-
-    Master!
-    I have something to tell you, kupo!${prompt}
-  6979: 'I found this precious item under the ${item-singular: 3[2]} pillow, kupo!${prompt}'
-  6980: It's all yours, kupo!${prompt}
-  6981: 'I used the ${item-singular: 3[2]} to write a song for you, kupo!${prompt}'
-  6982: Here, kupo! Please think of the lonely moogle waiting for you back home when you hear this song, kupo!${prompt}
-  6983: 'I found this item in the back of one of the ${item-singular: 3[2]}''s drawers, kupo!${prompt}'
-  6984: It's all yours, kupo!${prompt}
-  6985: 'I found this in the back of the ${item-singular: 3[2]}, kupo!${prompt}'
+    Maître !
+    J'ai quelque chose à vous dire, kupo !${prompt}
+  6979: 'J’ai trouvé cet objet précieux sous l’oreiller de ${item-singular: 3[2]}, kupo !${prompt}'
+  6980: Il est à vous, kupo !${prompt}
+  6981: 'J’ai utilisé le ${item-singular: 3[2]} pour écrire une chanson pour vous, kupo !${prompt}'
+  6982: Tenez, kupo ! Pensez au mog solitaire qui vous attend à la maison quand vous entendez cette chanson, kupo !${prompt}
+  6983: 'J’ai trouvé cet objet au fond de l’un des tiroirs de ${item-singular: 3[2]}, kupo !${prompt}'
+  6984: Il est à vous, kupo !${prompt}
+  6985: 'J’ai trouvé cela au fond de ${item-singular: 3[2]}, kupo !${prompt}'
   6986: |-
-    It must be a gift from the heavens, kupo!
-    Here, take it, kupo!${prompt}
-  6987: 'I found this item inside the ${item-singular: 3[2]}, kupo!${prompt}'
+    Cela doit être un cadeau des cieux, kupo !
+    Tenez, prenez-le, kupo !${prompt}
+  6987: 'J’ai trouvé cet objet à l’intérieur de ${item-singular: 3[2]}, kupo !${prompt}'
   6988: |-
-    Luck is on your side, kupo!
-    Take it, kupo!${prompt}
-  6989: 'I fished this item out of the ${item-singular: 3[2]}, kupo!${prompt}'
+    La chance est de votre côté, kupo !
+    Prenez-le, kupo !${prompt}
+  6989: 'J’ai repêché cet objet de ${item-singular: 3[2]}, kupo !${prompt}'
   6990: |-
-    It was very hard work, kupo...
-    I'm very tired, kupo...${prompt}
-  6991: 'I found this behind the ${item-singular: 3[2]} painting, kupo!${prompt}'
+    Cela a été très difficile, kupo...
+    Je suis très fatigué, kupo...${prompt}
+  6991: 'J’ai trouvé cela derrière le tableau de ${item-singular: 3[2]}, kupo !${prompt}'
   6992: |-
-    This must be what they mean when they say, there are many mysteries behind works of art, kupo!
-    It's all yours, kupo!${prompt}
-  6993: 'Something clattered inside the ${item-singular: 3[2]} when I shook it! Look what fell out when I turned it upside down, kupo!${prompt}'
-  6994: It's all yours, kupo!${prompt}
-  6995: 'I felt there was something strange about the ${item-singular: 3[2]}, and when I looked into it, I found this, kupo!${prompt}'
+    Cela doit être ce qu'on veut dire quand on dit qu'il y a beaucoup de mystères derrière les œuvres d'art, kupo !
+    C'est tout à vous, kupo !${prompt}
+  6993: 'Quelque chose a cliqueté à l’intérieur de ${item-singular: 3[2]} quand je l’ai secoué ! Regardez ce qui est tombé quand je l’ai retourné, kupo !${prompt}'
+  6994: C’est tout à vous, kupo !${prompt}
+  6995: 'J’ai senti qu’il y avait quelque chose d’étrange avec ${item-singular: 3[2]}, et quand j’ai regardé dedans, j’ai trouvé ceci, kupo !${prompt}'
   6996: |-
-    We moogles have very good intuition, kupo!
-    It's all yours, kupo!${prompt}
-  6997: Oh, Master! You won't believe what I found out on the doorstep this morning, kupo!${prompt}
+    Nous, les mogs, avons une très bonne intuition, kupo !
+    C'est tout à vous, kupo !${prompt}
+  6997: Oh, Maître ! Vous ne croirez pas ce que j’ai trouvé sur le seuil ce matin, kupo !${prompt}
   6998: |-
-    At once so glorious and so ghastly, and just for you!
-    Think of it as a holiday gift from a humble moogle to his favorite (and only) master, kupo!${prompt}
-  6999: For your own safety, it is recommended you set the Mog House exit as your home point after changing jobs.${prompt}
-  7000: 'Is my assistance reaching you, Master? Your Mog House is currently aglow with ${choice: 0}[overwhelming/powerful/faint] ${choice: 1}[fire/ice/wind/earth/lightning/water/light/dark] energy, kupo!${prompt}'
-  7001: 'Is my assistance reaching you, Master? Your Mog House is currently aglow with ${choice: 0}[the overwhelming/the powerful/the faint] energy of many different elements, kupo!${prompt}'
-  7002: Each item of furniture you place using the “Layout” command corresponds to a different element, kupo! The type of energy that envelops your Mog House changes depending on those elements, kupo!${prompt}
-  7003: When that energy changes, my powers change as well, kupo! Master, you should try placing all sorts of furniture in your Mog House, kupo!${prompt}
+    À la fois si glorieux et si effrayant, et juste pour vous !
+    Pensez-y comme un cadeau de fête d'un humble mog à son maître préféré (et unique), kupo !${prompt}
+  6999: Pour votre propre sécurité, il est recommandé de définir la sortie de la Maison Mog comme votre point de retour après avoir changé de métier.${prompt}
+  7000: 'Mon assistance vous parvient-elle, Maître ? Votre Maison Mog est actuellement illuminée par une énergie ${choice: 0}[accablante/puissante/faible] ${choice: 1}[de feu/de glace/de vent/de terre/de foudre/d’eau/de lumière/d’obscurité], kupo !${prompt}'
+  7001: 'Mon assistance vous parvient-elle, Maître ? Votre Maison Mog est actuellement illuminée par l’énergie ${choice: 0}[accablante/puissante/faible] de nombreux éléments différents, kupo !${prompt}'
+  7002: Chaque meuble que vous placez en utilisant la commande « Aménagement » correspond à un élément différent, kupo ! Le type d’énergie qui enveloppe votre Maison Mog change en fonction de ces éléments, kupo !${prompt}
+  7003: Lorsque cette énergie change, mes pouvoirs changent aussi, kupo ! Maître, vous devriez essayer de placer toutes sortes de meubles dans votre Maison Mog, kupo !${prompt}
   7004: ${prompt}
   7005: mes7${prompt}
   7006: mes8${prompt}
   7007: mes9${prompt}
   7008: 'TEST-No.${number: 1}${prompt}'
-  7009: 'I found ${keyitem-article: 4[2]} inside the ${item-singular: 3[2]}, kupo!${prompt}'
+  7009: 'J’ai trouvé ${keyitem-article: 4[2]} à l’intérieur de ${item-singular: 3[2]}, kupo !${prompt}'
   7010: |-
-    Kupo...?
-    I sense that this ${item-singular: 3[2]} is very, very special! You should go to the store where you bought it and ask about it, kupo!${prompt}
+    Kupo... ?
+    Je sens que ce ${item-singular: 3[2]} est très, très spécial ! Vous devriez aller au magasin où vous l'avez acheté et poser des questions à ce sujet, kupo !${prompt}
   7011: |-
-    Master! Master!
-    Look what I found underneath the ${item-singular: 3[2]} this morning, kupo!${prompt}
+    Maître ! Maître !
+    Regardez ce que j'ai trouvé sous ${item-singular: 3[2]} ce matin, kupo !${prompt}
   7012: |-
-    It has been wrapped and everything!
-    I wonder who it could be from, kupo!${prompt}
-  7013: 'Look what I found in your ${item-singular: 3[2]}!${prompt}'
+    Il a été emballé et tout !
+    Je me demande de qui cela peut bien venir, kupo !${prompt}
+  7013: 'Regardez ce que j’ai trouvé dans votre ${item-singular: 3[2]} !${prompt}'
   7014: |-
-    You seem quite dehydrated lately, so maybe you should have it.
-    I'll try putting some more grapes in the barrel and see if I can make any more, kupo!${prompt}
-  7015: 'Your Mog Locker lease is valid until ${ts-year: 0}/${ts-month: 0}/${ts-day: 0} ${ts-hour: 0}:${ts-minute: 0}:${ts-second: 0}, kupo.${prompt}'
+    Vous semblez assez déshydraté ces derniers temps, alors vous devriez peut-être l'avoir.
+    Je vais essayer de mettre encore plus de raisins dans le tonneau pour voir si je peux en faire plus, kupo !${prompt}
+  7015: 'Le bail de votre Casier Mog est valable jusqu’au ${ts-year: 0}/${ts-month: 0}/${ts-day: 0} ${ts-hour: 0}:${ts-minute: 0}:${ts-second: 0}, kupo.${prompt}'
   7016: |-
-    The lease on your Mog Locker has expired, kupo.
-    Please trade ${article} ${item-article: 0[2]} to me or to Fubruhn in Aht Urhgan Whitegate.${prompt}
-  7017: 'Your Mog Locker lease has been extended until ${ts-year: 0}/${ts-month: 0}/${ts-day: 0} ${ts-hour: 0}:${ts-minute: 0}:${ts-second: 0}, kupo!${prompt}'
+    Le bail de votre Casier Mog a expiré, kupo.
+    Veuillez échanger ${article} ${item-article: 0[2]} avec moi ou avec Fubruhn à Aht Urhgan Whitegate.${prompt}
+  7017: 'Le bail de votre Casier Mog a été prolongé jusqu’au ${ts-year: 0}/${ts-month: 0}/${ts-day: 0} ${ts-hour: 0}:${ts-minute: 0}:${ts-second: 0}, kupo !${prompt}'
   7018: |-
-    Master, Master!
-    I found this in the ${item-singular: 3[2]}, kupo!${prompt}
+    Maître, Maître !
+    J'ai trouvé cela dans ${item-singular: 3[2]}, kupo !${prompt}
   7019: |-
-    It must be a present from the smilebringers.
-    Here, you should have it, kupo!${prompt}
-  7020: If you haven't already done so, you should go and speak with a woman named Alaune. She's at the Westgate in Southern San d'Oria, kupo.${prompt}
-  7021: If you haven't already done so, you should go and speak with a man named Gulldago. He's at the West Gate in Bastok Markets, kupo.${prompt}
-  7022: If you haven't already done so, you should go and speak with a woman named Selele. She's at Leviathan's Gate in Windurst Woods, kupo.${prompt}
+    Cela doit être un cadeau des souribailleurs.
+    Tenez, vous devriez l'avoir, kupo !${prompt}
+  7020: Si vous ne l’avez pas déjà fait, vous devriez aller parler à une femme nommée Alaune. Elle se trouve à la Porte Ouest dans le Sud de San d'Oria, kupo.${prompt}
+  7021: Si vous ne l’avez pas déjà fait, vous devriez aller parler à un homme nommé Gulldago. Il se trouve à la Porte Ouest dans les Marchés de Bastok, kupo.${prompt}
+  7022: Si vous ne l’avez pas déjà fait, vous devriez aller parler à une femme nommée Selele. Elle se trouve à la Porte de Léviathan dans les Bois de Windurst, kupo.${prompt}
   7023: |-
-    Master! What ${choice: 7}[an egg-ceptional specimen/egg-ceptional specimens] you have there!
-    Now, if you'll just let me have a look-see, kupo...${prompt}
-  7024: We egg-tach this thingamajig to that thingamabob, just like so, kupo...${prompt}
-  7025: Now for the coup d'egg-grace...!${prompt}
+    Maître ! Quel ${choice: 7}[spécimen exceptionnel/spécimens exceptionnels] vous avez là !
+    Maintenant, si vous me laissez y jeter un coup d'œil, kupo...${prompt}
+  7024: Nous attachons cette bidule à ce machin, juste comme ça, kupo...${prompt}
+  7025: Maintenant pour le coup d'œuf...!${prompt}
   7026: |-
-    Voila! Isn't she a beauty, kupo?
-    Utterly egg-squisite workmanship, I do degg-clare!${prompt}
-  7027: We egg-stract this doodad from that doohickey, just like so, kupo...${prompt}
+    Voilà ! N'est-elle pas magnifique, kupo ?
+    Un travail tout à fait exquis, je le déclare !${prompt}
+  7027: Nous extrayons ce bidule de ce truc, juste comme ça, kupo...${prompt}
   7028: |-
-    Voila! Your original egg-redients, entirely egg-tact, kupo!
-    If you change your mind, just trade them back to me or one of my moogle egg-sociates!${prompt}
+    Voilà ! Vos ingrédients d'origine, entièrement intacts, kupo !
+    Si vous changez d'avis, il vous suffit de me les échanger ou à l'un de mes associés mogs !${prompt}
   7029: |-
-    Oh, Master, look at this! I was poking around in the drawers of your ${item-singular: 3[2]}, when this ${item-singular: 4[2]} just popped out!
-    I guess you never know what you're going to find until you look for it, kupo!${prompt}
+    Oh, Maître, regardez ça ! Je fouillais dans les tiroirs de votre ${item-singular: 3[2]}, quand ce ${item-singular: 4[2]} est sorti !
+    Je suppose qu'on ne sait jamais ce qu'on va trouver tant qu'on ne cherche pas, kupo !${prompt}
   7030: |-
-    Isn't the aroma positively scrumptious?
-    It's all yours, kupo! Consider it a present for being the magnificent master that you are!${prompt}
+    N'est-ce pas un arôme absolument délicieux ?
+    C'est tout à vous, kupo ! Considérez cela comme un cadeau pour être le maître magnifique que vous êtes !${prompt}
   7031: |-
-    Here, I want you to have it. In fact, I insist, kupo!
-    Consider it a present for being the magnificent master that you are!${prompt}
-  7032: 'Look at what I found while cleaning out the ${item-singular: 3[2]}: ${article} ${item-article: 4[2]}!${prompt}'
+    Tenez, je veux que vous l'ayez. En fait, j'insiste, kupo !
+    Considérez cela comme un cadeau pour être le maître magnifique que vous êtes !${prompt}
+  7032: 'Regardez ce que j’ai trouvé en nettoyant le ${item-singular: 3[2]} : ${article} ${item-article: 4[2]} !${prompt}'
   7033: |-
-    Here, I want you to have it. In fact, I insist, kupo!
-    Consider it a present for being the magnificent master that you are!${prompt}
+    Tenez, je veux que vous l'ayez. En fait, j'insiste, kupo !
+    Considérez cela comme un cadeau pour être le maître magnifique que vous êtes !${prompt}
   7034: ボタン押すと次へ進みます${prompt}
-  7035: "     \n     It all began with a raindrop,\n     or so the legend says...${prompt}"
+  7035: "     \n     Tout a commencé avec une goutte de pluie,\n     ou du moins, c’est ce que dit la légende...${prompt}"
   7036: |-
-    Master! Oh, master, look!
-    We've sprung a leak, kupo!
-    Just look at it drip, drip, dripping away!${prompt}
+    Maître ! Oh, maître, regardez !
+    Nous avons une fuite, kupo !
+    Regardez comme ça goutte, goutte, goutte partout !${prompt}
   7037: |-
-    What a terribly troubling turn of events, kupo!
-    But have no fear! Sit tight and you'll see why I'm the most renowned handymoogle in the three nations!${prompt}
+    Quelle situation terriblement troublante, kupo !
+    Mais n'ayez crainte ! Asseyez-vous bien et vous verrez pourquoi je suis le moogle bricoleur le plus renommé des trois nations !${prompt}
   7038: |-
-    Goddess have mercy on my moogle soul. Look at this mess!
-    Rotting roof boards! Rusted nails, kupo!${prompt}
-  7039: Why, it's a miracle this tottering, tumble-down shanty--I mean, this beautiful abode of yours--is still standing, master!${prompt}
+    Que la déesse ait pitié de mon âme de moogle. Regardez ce gâchis !
+    Des planches de toit pourries ! Des clous rouillés, kupo !${prompt}
+  7039: Pourquoi, c'est un miracle que cette masure chancelante et délabrée--je veux dire, cette belle demeure à vous--tienne encore debout, maître !${prompt}
   7040: |-
-    Anyhow, this simply won't do, kupo.
-    We must make repairs before we have water up to my little wings!${prompt}
-  7041: 'I figure all I''ll need is a good ${item-singular: 0[2]}, ${article} ${item-article: 1[2]}, and ${article} ${item-article: 2[2]} to have this fixed up good as new, kupo!${prompt}'
+    De toute façon, cela ne va pas du tout, kupo.
+    Nous devons faire des réparations avant d'avoir de l'eau jusqu'à mes petites ailes !${prompt}
+  7041: 'Je pense que tout ce dont j''aurai besoin, c’est d’un bon ${item-singular: 0[2]}, ${article} ${item-article: 1[2]}, et ${article} ${item-article: 2[2]} pour que tout soit réparé comme neuf, kupo !${prompt}'
   7042: |-
-    Could I trouble you to track them down?
-    While you're out, I'll patch up the other problem spots.${prompt}
+    Pourriez-vous aller les chercher ?
+    Pendant que vous êtes dehors, je vais réparer les autres endroits problématiques.${prompt}
   7043: |-
-    And do hurry, Master!
-    Lest you return to find your poor moogle friend lying prostrate in a pernicious puddle of rainwater, kupo...${prompt}
+    Et faites vite, Maître !
+    De peur que vous ne reveniez pour trouver votre pauvre ami moogle allongé prostré dans une flaque d'eau pernicieuse, kupo...${prompt}
   7044: |-
-    Thank you, Master, but our leak is in another Mog House!
-    Bring this to me when we're back home in ${choice: 0}[San d'Oria/Bastok/Windurst], won't you, kupo?${prompt}
+    Merci, Maître, mais notre fuite est dans un autre Mog House !
+    Apportez-moi ceci quand nous serons de retour à ${choice: 0}[San d'Oria/Bastok/Windurst], d'accord, kupo ?${prompt}
   7045: |-
-    You've found them, kupo! I knew I could count on you.
-    That's what I tell all my moogle buddies. “Why, my master is the boldest, brightest, bestest master of them all!”
-    Now we just take these, and...${prompt}
+    Vous les avez trouvés, kupo ! Je savais que je pouvais compter sur vous.
+    C'est ce que je dis à tous mes amis moogles. "Pourquoi, mon maître est le plus audacieux, le plus brillant, le meilleur de tous les maîtres !"
+    Maintenant, nous prenons juste ceux-ci, et...${prompt}
   7046: |-
-    Kupoooooo～there you have it! Better than new!
-    Why, a bevy of wild buffalo could barge in here this second and it wouldn't budge an ilm, I say!${prompt}
-  7047: Which reminds me, I went ahead and relayed the requisite reports to my manager at the MHMU.${prompt}
+    Kupoooooo～et voilà ! Mieux que neuf !
+    Pourquoi, une horde de buffles sauvages pourrait entrer ici à l'instant et ça ne bougerait pas d'un pouce, je dis !${prompt}
+  7047: Ce qui me rappelle, je suis allé de l'avant et j'ai transmis les rapports nécessaires à mon gestionnaire à la MHMU.${prompt}
   7048: |-
-    But wouldn't you know it, kupo?
-    It seems there's been a trifling bit of trouble at one of our Rent-a-Rooms in Jeuno as well!${prompt}
+    Mais devinez quoi, kupo ?
+    Il semble qu'il y ait eu un petit problème dans l'une de nos chambres à louer à Jeuno également !${prompt}
   7049: |-
-    You know the one, right across from Durable Shields.
-    Whatever could have gone wrong, kupo?${prompt}
+    Vous savez, celle juste en face de Durable Shields.
+    Qu'est-ce qui a bien pu mal tourner, kupo ?${prompt}
   7050: |-
-    Well, there's nothing to be learned lollygagging around here.
-    Come, Master, we're off to Jeuno!${prompt}
-  7051: "     \n     Little did anyone suspect that this\n     would prove to be only the beginning\n     of a harrowing nightmare unheard of\n     in the annals of mooglekind...${prompt}"
+    Eh bien, il n'y a rien à apprendre en flânant ici.
+    Venez, Maître, nous partons pour Jeuno !${prompt}
+  7051: "     \n     Personne ne se doutait que cela\n     ne serait que le début\n     d'un cauchemar terrifiant sans précédent\n     dans les annales de la mooglekind...${prompt}"
   7052: |-
     Do something?
     ${selection-lines}
