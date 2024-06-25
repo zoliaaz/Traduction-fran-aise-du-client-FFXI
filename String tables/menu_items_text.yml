@@ -2,45 +2,45 @@ lists:
   0:
   - string: Recherche
   1:
-  - string: Info régions
+  - string: Info Région
   2:
   - string: Objets
   3:
-  - string: Coffre
+  - string: Coffre Mog
   4:
-  - string: Déco
+  - string: Agencement
   5:
   - string: Commandes
   6:
-  - string: Mode actif
+  - string: Mode Prêt
   7:
-  - string: Mode combat
+  - string: Mode Bataille
   8:
   - string: Carte
   9:
   - string: Maison Mog
   10:
-  - string: Echanger
+  - string: Échange
   11:
-  - string: Attq. distance
+  - string: Atq. à Distance
   12:
   - string: Boutique
   13:
-  - string: Boutique de la guilde
+  - string: Boutique de Guilde
   14:
   - string: Bazar
   15:
-  - string: Organiser le bazar
+  - string: Définir Bazar
   16:
   - string: Livraisons
   17:
-  - string: Annuler livraison
+  - string: Annuler Livraison
   18:
   - string: Enchères
   19:
-  - string: Equipe
+  - string: Groupe
   20:
-  - string: Equipement
+  - string: Équipement
   21:
   - string: San d'Oria
   22:
@@ -48,95 +48,95 @@ lists:
   23:
   - string: Windurst
   24:
-  - string: Rise of the Zilar
+  - string: La Prophétie des Zilart
   25:
-  - string: 'San d''Oria: Quêtes en cours'
+  - string: 'San d''Oria: Quêtes en Cours'
   26:
-  - string: 'Bastok: Quêtes en cours'
+  - string: 'Bastok: Quêtes en Cours'
   27:
-  - string: 'Windurst: Quêtes en cours'
+  - string: 'Windurst: Quêtes en Cours'
   28:
-  - string: 'Jeuno: Quêtes en cours'
+  - string: 'Jeuno: Quêtes en Cours'
   29:
-  - string: 'Autres zones: Quêtes en cours'
+  - string: 'Autres Zones: Quêtes en Cours'
   30:
-  - string: 'Provinces: Quêtes en cours'
+  - string: 'Contrées Extérieures: Quêtes en Cours'
   31:
-  - string: 'San d''Oria: Quetes terminées'
+  - string: 'San d''Oria: Quêtes Terminées'
   32:
-  - string: 'Bastok: Quêtes terminées'
+  - string: 'Bastok: Quêtes Terminées'
   33:
-  - string: 'Windurst: Quêtes terminées'
+  - string: 'Windurst: Quêtes Terminées'
   34:
-  - string: 'Jeuno: Quêtes terminées'
+  - string: 'Jeuno: Quêtes Terminées'
   35:
-  - string: 'Autres zones: Quêtes terminées'
+  - string: 'Autres Zones: Quêtes Terminées'
   36:
-  - string: 'Provinces: Quêtes terminées'
+  - string: 'Contrées Extérieures: Quêtes Terminées'
   37:
-  - string: Rangemt
+  - string: Stockage
   38:
-  - string: Recherche par zone
+  - string: Recherche par Zone
   39:
-  - string: Recherche par job
+  - string: Recherche par Job
   40:
   - string: B
   41:
-  - string: Recherche par niveau
+  - string: Recherche par Niveau
   42:
-  - string: Recherche par allègence
+  - string: Recherche par Allégeance
   43:
-  - string: Recherche par espèce
+  - string: Recherche par Race
   44:
-  - string: Type de commentaire
+  - string: Type de Commentaire
   45:
-  - string: La saisie au clavier
+  - string: Saisie Clavier
   46:
   - string: Clavier
   47:
-  - string: Saisie de caractères japonais
+  - string: Saisie Japonaise
   48:
-  - string: Paramètres de jeu
+  - string: Gameplay
   49:
-  - string: Divers.
+  - string: Divers
   50:
-  - string: Général
+  - string: Global
   51:
   - string: Fenêtres
   52:
-  - string: Divers. 2
+  - string: Divers 2
   53:
   - string: Souris/Cam.
   54:
-  - string: Config.
+  - string: Configuration
   55:
-  - string: Couleurs des caractères
+  - string: Couleurs de Police
   56:
-  - string: par défaut
+  - string: Défaut
   57:
   - string: K.O.
   58:
   - string: ''
   59:
-  - string: Objets clés
+  - string: Objets Clés
   60:
-  - string: Aide
+  - string: Service d'Aide
   61:
-  - string: Liste d'amis
+  - string: Liste d'Amis
   62:
-  - string: Nombre d'objets
+  - string: Nbre d'Objets
   63:
-  - string: Tri automatique
+  - string: Tri Auto
   64:
-  - string: Tri manuel
+  - string: Tri Manuel
   65:
-  - string: Job principal
+  - string: Job Principal
   66:
-  - string: Job de soutien
+  - string: Job de Soutien
   67:
-  - string: Changer de job
+  - string: Changer de Job
   68:
-  - string: Aptitudes
+  - string: Capacités
   69:
   - string: Clavier
   70:
@@ -144,53 +144,53 @@ lists:
   71:
   - string: Linkshell
   72:
-  - string: Fenêtre de journal
+  - string: Fenêtre de Journal
   73:
-  - string: Trésors de guerre
+  - string: Réservoir de Trésors
   74:
   - string: Trésor
   75:
-  - string: Editer macros
+  - string: Éditer Macros
   76:
-  - string: Liste des magies
+  - string: Liste de Magie
   77:
   - string: Magie
   78:
-  - string: Balayage global
+  - string: Scan Large
   79:
-  - string: Balises
+  - string: Marqueurs
   80:
-  - string: Palette de macros
+  - string: Palette de Macros
   81:
-  - string: Etat
+  - string: Statut
   82:
   - string: Messages
   83:
-  - string: Ajouter un ami
+  - string: Enregistrement Ami
   84:
-  - string: Envoyer message
+  - string: Envoyer Message
   85:
   - string: Missions
   86:
   - string: Zone
   87:
-  - string: Boite de livraison
+  - string: Boîte de Livraison
   88:
-  - string: Prix fixé
+  - string: Ensemble de Prix
   89:
   - string: Jardinage
   90:
   - string: '?'
   91:
-  - string: Etat de connexion
+  - string: Stat. en Ligne
   92:
-  - string: Niveau de confidentialité
+  - string: Niveau de Confidentialité
   93:
   - string: Profil
   94:
-  - string: Equipe
+  - string: Groupe
   95:
-  - string: Chef d'équipe
+  - string: Chef de Groupe
   96:
   - string: Alliance
   97:
@@ -198,65 +198,65 @@ lists:
   98:
   - string: Distribution
   99:
-  - string: Accepter?
+  - string: Accepter ?
   100:
   - string: Quêtes
   101:
-  - string: Réveil
+  - string: Réanimation
   102:
-  - string: Balayage
+  - string: Scanner
   103:
-  - string: Rechercher par niveau
+  - string: Recherche par Niveau
   104:
-  - string: Rechercher par nom
+  - string: Recherche par Nom
   105:
-  - string: Affiner par type
+  - string: Affiner par Type
   106:
-  - string: Rechercher par rang
+  - string: Recherche par Rang
   107:
-  - string: Maison Mog
+  - string: Voir Maison
   108:
   - string: Bazar
   109:
-  - string: Editer macros
+  - string: Éditer Macros
   110:
-  - string: Temps de jeu
+  - string: Temps de Jeu
   111:
-  - string: Date et heure
+  - string: Heure Actuelle
   112:
-  - string: Déconnecter
+  - string: Déconnexion
   113:
-  - string: Quitter le jeu
+  - string: Arrêter
   114:
   - string: Synthèse
   115:
-  - string: Munitions et divers
+  - string: Mun. et Divers
   116:
-  - string: Armures
+  - string: Armure
   117:
-  - string: Action.
+  - string: ction.
   118:
   - string: Nourriture
   119:
-  - string: Historique
+  - string: Historique des Prix
   120:
   - string: Autres
   121:
-  - string: Offre
+  - string: Enchère
   122:
-  - string: Formules magiques
+  - string: Parchemins de Magie
   123:
-  - string: Materiaux
+  - string: Matériaux
   124:
   - string: Repas
   125:
   - string: Armes
   126:
-  - string: Liste noir
+  - string: Liste Noire
   127:
-  - string: Lancement de sort
+  - string: Lancer de Sort
   128:
-  - string: Filtres
+  - string: Filtre
   129:
   - string: Chat
   130:
@@ -268,134 +268,135 @@ lists:
   133:
   - string: Caméra
   134:
-  - string: Assault
+  - string: Assaut
   135:
-  - string: Treasures of Aht Urhgan
+  - string: Trésors d'Aht Urhgan
   136:
-  - string: Aht Urhgan :Quêtes en cours
+  - string: 'Aht Urhgan: Quêtes en Cours'
   137:
-  - string: Aht Urhgan :Quêtes terminées
+  - string: 'Aht Urhgan: Quêtes Terminées'
   138:
   - string: Casier Mog
   139:
   - string: Casier
   140:
-  - string: Siège
+  - string: Assiégé
   141:
-  - string: Magie bleue
+  - string: Magie Bleue
   142:
   - string: Conquête
   143:
   - string: Campagne
   144:
-  - string: Les guerriers de la Déesse
+  - string: Les Ailes du Destin
   145:
-  - string: Vana'diel passé :Quêtes en cours
+  - string: 'Guerre des Cristaux: Quêtes en Cours'
   146:
-  - string: Vana'diel passé :Quêtes terminées
+  - string: 'Guerre des Cristaux: Quêtes Terminées'
   147:
-  - string: Ouverture
+  - string: Ouvrir Maison Mog
   148:
-  - string: Fermeture
+  - string: Fermer Maison Mog
   149:
-  - string: Synchronisation
+  - string: Synchronisation de Niveau
   150:
-  - string: Tablette de moblyrinthe
+  - string: Tabula
   151:
   - string: Sacoche
   152:
-  - string: L'augure du cristal
+  - string: Une Prophétie Cristalline
   153:
-  - string: Songe d'une nuit de moogle
+  - string: Un Moogle Kupo d'État
   154:
-  - string: Les manigances de Shantotto
+  - string: Une Ascension de Shantotto
   155:
-  - string: Abyssée
+  - string: Abyssea
   156:
-  - string: Abyssée :Quêtes en cours
+  - string: 'Abyssea: Quêtes en Cours'
   157:
-  - string: Abyssée :Quêtes terminées
+  - string: 'Abyssea: Quêtes Terminées'
   158:
   - string: Sac Mog
   159:
-  - string: Explorateurs d'Adoulin
+  - string: Chercheurs d'Adoulin
   160:
-  - string: Adoulin :Quêtes en cours
+  - string: 'Adoulin: Quêtes en Cours'
   161:
-  - string: Adoulin :Quêtes terminées
+  - string: 'Adoulin: Quêtes Terminées'
   162:
   - string: Colonisation
   163:
-  - string: Missions corporatives en cours
+  - string: 'Coalition: Missions en Cours'
   164:
-  - string: Missions corporatives terminées
+  - string: 'Coalition: Missions Terminées'
   165:
-  - string: Morphisme
+  - string: Personnalisation
   166:
-  - string: Caisse
+  - string: Caisse Mog
   167:
-  - string: Liste de points
+  - string: Monnaies
   168:
-  - string: Armoire
+  - string: M.Grd.
   169:
-  - string: Rangement
+  - string: Options de Stockage
   170:
   - string: Synthèse
   171:
   - string: Favoris
   172:
-  - string: Ensembles d'équipement
+  - string: Ensembles d'Équipement
   173:
-  - string: Unity
+  - string: Unité
   174:
   - string: Linkshell 2
   175:
-  - string: Paramètres du journal
+  - string: Paramètres du Journal
   176:
-  - string: Paramètres de journal par défaut
+  - string: Paramètres du Journal par Défaut
   177:
   - string: Lien
   178:
-  - string: Divers. 3
+  - string: Divers 3
   179:
   - string: Communication
   180:
-  - string: Liste d'émoticônes
+  - string: Liste d'Émotes
   181:
   - string: Coffre-fort 2
   182:
-  - string: Remodeler
+  - string: Remodelage
   183:
-  - string: Rhapsodies de Vana'diel
+  - string: Rhapsodies of Vana'diel
   184:
-  - string: Divers. 4
+  - string: Divers 4
   185:
-  - string: Armoire 2
+  - string: M.Ward. 2
   186:
-  - string: Armoire 3
+  - string: M.Ward. 3
   187:
-  - string: Armoire 4
+  - string: M.Ward. 4
   188:
-  - string: La résurgence vorace
+  - string: La Résurgence Vorace
   189:
-  - string: Liste muette
+  - string: Liste de Mute
   190:
-  - string: Maître Niv. Recherche
+  - string: Recherche Niv. Maître
   191:
-  - string: Armoire 5
+  - string: M.Ward. 5
   192:
-  - string: Armoire 6
+  - string: M.Ward. 6
   193:
-  - string: Armoire 7
+  - string: M.Ward. 7
   194:
-  - string: Armoire 8
+  - string: M.Ward. 8
   195:
   - string: Stockage
   196:
-  - string: Changer
+  - string: Commutateur
   197:
-  - string: Poubelle de recyclage
+  - string: Corbeille de Recyclage
   198:
   - string: Inventaire
   199:
-  - string: Copier dans le presse-papier
+  - string: Copier dans le Presse-papiers
+
