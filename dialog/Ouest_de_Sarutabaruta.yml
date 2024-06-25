@@ -24378,62 +24378,62 @@ entries:
   11331: |-
     ${selection-lines}
     No, thank you.${prompt}
-  11332: Master! Waaait!
+  11332: Maître! Attendez!
   11333: |-
     <Huff...puff...>
-    M-Master. A rather unusual letter addressed to you was delivered to the Mog House not a moment ago, kupo.${prompt}
-  11334: The word “urgent” was stamped on the envelope, so I rushed here as swiftly as my little purple wings could carry me.${prompt}
-  11335: If you'll allow me, I'll read out the contents to you this instant, kupo.${prompt}
+    M-Maître. Une lettre plutôt inhabituelle vous étant adressée a été livrée à la Mog House il y a un instant, kupo.${prompt}
+  11334: Le mot "urgent" était tamponné sur l'enveloppe, donc je suis venu ici aussi rapidement que mes petites ailes violettes ont pu me porter, kupo.${prompt}
+  11335: Si vous me le permettez, je vais vous lire le contenu immédiatement, kupo.${prompt}
   11336: Ahem!${prompt}
   11337: |-
-    You are hereby appointed Special Unit Operative
-    of the Shantotto Empire, immediately effective.${prompt}
+    Par la présente, vous êtes nommé Opérateur de l'Unité Spéciale
+    de l'Empire Shantotto, effet immédiat.${prompt}
   11338: |-
-    All inductees must report to provisional headquarters
-    at Qufim Island's frozen pond; there you shall receive orders.${prompt}
-  11339: Special Unit Operative...?${prompt}
-  11340: Master, you never mentioned anything to me about changing your nation of affiliation, kupo.${prompt}
-  11341: But this so-called Shantotto Empire is news to me.${prompt}
-  11342: Could that oddball Doctor Shantotto be scheming something unsavory again, kupo?${prompt}
-  11343: A foreboding feeling is flitting furiously about in the pit of my stomach...${prompt}
-  11344: Hm? There appears to be more to the letter, kupo. Let's see...${prompt}
+    Tous les enrôlés doivent se présenter au quartier général provisoire
+    sur l'étang gelé de l'île de Qufim; là, vous recevrez des ordres.${prompt}
+  11339: Opérateur de l'Unité Spéciale...?${prompt}
+  11340: Maître, vous ne m'avez jamais parlé de changer votre nation d'affiliation, kupo.${prompt}
+  11341: Mais cet Empire Shantotto est une nouveauté pour moi, kupo.${prompt}
+  11342: Est-ce que ce bizarre Docteur Shantotto trame à nouveau quelque chose de louche, kupo?${prompt}
+  11343: Un sentiment d'appréhension me tourmente furieusement au fond de l'estomac...${prompt}
+  11344: Hm? Il semble y avoir plus dans la lettre, kupo. Voyons voir...${prompt}
   11345: |-
-    See that you have ${article} ${item-article: 0[2]} in your possession
-    before showing up at the aforementioned destination.${prompt}
+    Assurez-vous d'avoir ${article} ${item-article: 0[2]} en votre possession
+    avant de vous présenter à la destination mentionnée précédemment.${prompt}
   11346: |-
-    To learn more about this object of which I speak,
-    an Orastery employee, a tanner, and an alchemist you should seek.${prompt}
-  11347: Should an accursed, gruesome end be that which you desire,${prompt}
+    Pour en savoir plus sur cet objet dont je parle,
+    cherchez un employé de l'Orasterie, un tanneur et un alchimiste.${prompt}
+  11347: Si une fin maudite et macabre est ce que vous désirez,${prompt}
   11348: |-
-    Show up not with extreme haste; we dare you to incur our ire.
+    Ne vous présentez pas avec une hâte extrême ; nous vous défions d'attirer notre colère.
     O～hohohohoho!${prompt}
   11349: '......${prompt}'
-  11350: Master. For your own safety, I advise you to drop everything else and make for Qufim Island without delay.${prompt}
-  11351: The content of the letter is dubious beyond doubt, kupo.${prompt}
-  11352: But the last thing you want is an enraged Doctor Shantotto unleashing a barrage of ancient magic spells at you.${prompt}
-  11353: O Merciful Altana! Please protect us Goddess-fearing children from the hands of darkness, kupo!${prompt}
-  11354: I'll be excusing myself now, but Master...${prompt}
-  11355: Be sure to practice a plenitude of precautions, kupo! Go well!
+  11350: Maître. Pour votre propre sécurité, je vous conseille d'abandonner tout le reste et de vous rendre immédiatement à l'île de Qufim.${prompt}
+  11351: Le contenu de la lettre est indubitablement douteux, kupo.${prompt}
+  11352: Mais la dernière chose que vous voulez, c'est de voir le Docteur Shantotto enragé vous lancer une salve de sorts magiques anciens.${prompt}
+  11353: Ô Miséricordieuse Altana! Protégez-nous, enfants craignant la Déesse, des mains des ténèbres, kupo!${prompt} 
+  11354: Je vais maintenant prendre congé, mais Maître...${prompt}
+  11355: Assurez-vous de prendre une pléthore de précautions, kupo! Bonne route!
   11356: |-
-    The ${keyitem-singular: 0[2]} quivers ever so slightly, but emits no light.
-    There seem to be no monsters in the area.${prompt}
+    Le ${keyitem-singular: 0[2]} tremble légèrement, mais n'émet aucune lumière.
+    Il ne semble y avoir aucun monstre dans la zone.${prompt}
   11357: |-
-    The ${keyitem-singular: 0[2]} quivers ever so slightly and emits a faint light.
-    There seem to be no monsters in the immediate vicinity.${prompt}
-  11358: 'The ${keyitem-singular: 3[2]} resonates ${choice: 0}[feebly/softly/solidly/strongly/very strongly/furiously], sending a radiant beam of light lancing towards a spot roughly ${number: 2} ${choice-plurality: 2}[yalm/yalms] ${choice: 1}[east/southeast/south/southwest/west/northwest/north/northeast] of here.${prompt}'
-  11359: A monster materializes out of nowhere!${prompt}
-  11360: The monster fades before your eyes, a look of disappointment on its face.${prompt}
-  11361: 'The ${keyitem-singular: 0[2]} takes on a slightly deeper hue and becomes ${keyitem-article: 1[2]}!${prompt}'
-  11362: 'The ${keyitem-singular: 0[2]} takes on a deeper, richer hue and becomes ${keyitem-article: 1[2]}!${prompt}'
-  11363: 'The ${keyitem-singular: 0[2]} shatters into tiny fragments.${prompt}'
-  11364: 'Obtained key item: ${lettercase: 1}${keyitem-singular: 0[2]}!${prompt}'
-  11365: The monster fades before your eyes, a look of disappointment on its face.${prompt}
-  11366: You have lost sight of the monster and can no longer sense its presence.${prompt}
-  11367: You have wandered too far from the monster and can no longer sense its presence.${prompt}
-  11368: 'DEBUG: Commence Search.${prompt}'
-  11369: 'DEBUG: End Search.${prompt}'
-  11370: 'DEBUG: No monsters have spawned.${prompt}'
-  11371: 'DEBUG: A monster has spawned, but is too far away.${prompt}'
+    Le ${keyitem-singular: 0[2]} tremble légèrement et émet une faible lumière.
+    Il ne semble y avoir aucun monstre à proximité immédiate.${prompt}
+  11358: 'Le ${keyitem-singular: 3[2]} résonne ${choice: 0}[faiblement/doucement/solidement/fortement/très fortement/furieusement], envoyant un faisceau lumineux rayonnant vers un point à environ ${number: 2} ${choice-plurality: 2}[yalm/yalms] ${choice: 1}[est/sud-est/sud/sud-ouest/ouest/nord-ouest/nord/nord-est] d’ici.${prompt}'
+  11359: Un monstre apparaît de nulle part!${prompt}
+  11360: Le monstre disparaît sous vos yeux, l'air déçu.${prompt}
+  11361: 'Le ${keyitem-singular: 0[2]} prend une teinte légèrement plus profonde et devient ${keyitem-article: 1[2]}!${prompt}'
+  11362: 'Le ${keyitem-singular: 0[2]} prend une teinte plus profonde et riche et devient ${keyitem-article: 1[2]}!${prompt}'
+  11363: 'Le ${keyitem-singular: 0[2]} se brise en petits fragments.${prompt}'
+  11364: 'Objet clé obtenu : ${lettercase: 1}${keyitem-singular: 0[2]}!${prompt}'
+  11365: Le monstre disparaît sous vos yeux, l'air déçu.${prompt}
+  11366: Vous avez perdu de vue le monstre et ne pouvez plus sentir sa présence.${prompt}
+  11367: Vous vous êtes éloigné trop loin du monstre et ne pouvez plus sentir sa présence.${prompt}
+  11368: 'DEBUG : Début de la recherche.${prompt}'
+  11369: 'DEBUG : Fin de la recherche.${prompt}'
+  11370: 'DEBUG : Aucun monstre n’a apparu.${prompt}'
+  11371: 'DEBUG : Un monstre est apparu, mais il est trop loin.${prompt}'
   11372: |-
     DEBUG：Type: ${choice: 0}[Small Fry/NM/Shadow HNM/Shadow SHNM/True HNM/True SHNM]
     DEBUG：Direction: ${choice: 1}[East/Southeast/South/Southwest/West/Northwest/North/Northeast]
