@@ -1,2 +1,2 @@
-Ce fichier est une table de correspondance entre les dialogues anglais et français. Cela permettra de retraduire les fichiers après une mise à jour, surtout si les ID des phrases ont changé par rapport au précédent fichier.
+Ce dossier est une table de correspondance entre les dialogues anglais et français. Cela permettra de retraduire les fichiers après une mise à jour, surtout si les ID des phrases ont changé par rapport au précédent fichier.
 A partir de ces tables, un script compare les line de dialogue du fichier Yml à la colonne 1 du fichier excel correspondant, puis s'il trouve une correspondance, il remplace la ligne de dialogue par la correspondance en colonne 2.
