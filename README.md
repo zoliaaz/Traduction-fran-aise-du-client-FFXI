@@ -1,6 +1,6 @@
 TRADUCTION DU CLIENT FINAL FANTASY XI 
 
-ATTENTION : Les fichiers correspondent STRICTEMENT à la version 30240327_1. Toutes les versions ultérieures ou antérieures ne sont pas prises en charge (par moi en tout cas, mais je peux participer).
+ATTENTION : Les fichiers correspondent STRICTEMENT à la version 30240327_1. Toutes les versions ultérieures ou antérieures ne sont pas prises en charge (pas par moi en tout cas, mais je peux participer).
 
 Pour les utilisateurs du serveur Horizon XI : malheureusement, je ne connais pas le numéro de version de leur client. Cependant, si vous souhaitez traduire, je vous prie de créer un répertoire sur GitHub rataché a ce projet intitulé « HorizonXI FR Project » pour le distinguer du projet initial qui concerne le client officiel. Vous pouvez naturellement vous servir du travail déjà accompli pour gagner du temps. Comme d'habitude, je ferai un merge pour le rajouter au projet. 
 
