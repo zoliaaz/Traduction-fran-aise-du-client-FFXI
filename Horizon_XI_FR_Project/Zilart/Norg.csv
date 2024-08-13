@@ -1,107 +1,6 @@
 Phrase en Anglais;Phrases en français
 
 
-Predicting ahead, tomorrow's weather looks to be ${weather-adjective: 0[2]}.${prompt};
-Finally, the forecast for the day after tomorrow calls for ${weather-noun: 0[2]}.${prompt};
-${color-alt: 121}==== WARNINGï¼šaddr.(${unknown: 0x7F9500})=${number: 1} ====;
-We hope you enjoy this complimentary little gift, courtesy of the citizens of Vana'diel!;
-Make some room in your inventory to claim your prize!;
-Have a gander at this special collaboration with Pictlogica Final Fantasy!;
-The Adventurer Gratitude Campaign is currently underway!;
-Enjoy this special gift courtesy of the FINAL FANTASY XI team!;
-As a token of thanks for your unflagging devotion to Vana'diel, please enjoy this special gift courtesy of the FINAL FANTASY XI team!;
-${color-alt: 121}You will be able to use the Assist Channel until ${ts-month: 0}/${ts-day: 0}/${ts-year: 0} at ${ts-hour: 0}:${ts-minute: 0} (JST).;
-As a token of thanks for your unflagging devotion to Vana'diel, please enjoy this special gift courtesy of the FINAL FANTASY XI team!;
-You cannot obtain the ${item-singular: 0[2]}.${prompt};
-You cannot obtain any more.${prompt};
-You cannot obtain the ${item-singular: 0[2]}.;
-Come back after sorting your inventory.${prompt};
-You cannot obtain the ${item-plural: 0[2]}.;
-Come back after sorting your inventory.${prompt};
-You cannot obtain the item.;
-Come back after sorting your inventory.${prompt};
-You cannot obtain the ${item-singular: 0[2]}.;
-Speak with the mystic retriever after sorting your inventory.${prompt};
-You cannot obtain the ${item-singular: 0[2]}.;
-Try trading again after sorting your inventory.${prompt};
-You must free at least ${number: 0} space${choice-plurality: 0}[/s] before trading any items.${prompt};
-Obtained: ${lettercase: 1}${item-singular: 0[2]}.${prompt};
-Obtained ${number: 0} gil.${prompt};
-Obtained ${number: 0} gil.;
-Obtained key item: ${lettercase: 1}${keyitem-singular: 0[2]}.${prompt};
-Lost key item: ${lettercase: 1}${keyitem-singular: 0[2]}.${prompt};
-You do not have enough gil.${prompt};
-You obtain ${item-count: 1[2]} ${item-given-plurality: 1[2], 0[2]}!${prompt};
-You do not have enough gil.;
-A party member has an NPC called up.;
-You cannot take part in this event.${prompt};
-You obtain ${number: 1} ${item-given-plurality: 1[2], 0[2]}!${prompt};
-You find the hoofprint of a gigantic warhorse...${prompt};
-You set the ${keyitem-singular: 0[2]} in the warhorse hoofprint.${prompt};
-The ${item-singular: 0[2]} is returned to you.${prompt};
-The ${number: 1} ${item-plural: 0[2]} are returned to you.${prompt};
-There is nothing out of the ordinary here.${prompt};
-You are suddenly overcome with a sense of foreboding...${prompt};
-Now is not the time for that!${prompt};
-It seems that you will have to wait a bit longer...${prompt};
-An aura of irrepressible might threatens to overwhelm you...${prompt};
-You no longer sense the monster's presence...${prompt};
-${number: 0}...${prompt};
-The mine explodes!${prompt};
-The mine misfires...${prompt};
-You retrieve the mine.${prompt};
-You successfully deactivate the mine!${prompt};
-You failed to deactivate the mine...${prompt};
-Obtained ${number: 0} cruor. (Total: ${number: 1})${prompt};
-Obtained ${number: 0} cruor. (Total: ${number: 1});
-You do not have enough cruor.${prompt};
-You do not have enough cruor.;
-You have obtained all of Lilisette's memory fragments.;
-Make haste and report to Cait Sith.${prompt};
-You cannot perform that action.;
-Come back after you have obtained visitant status.;
-You cannot perform that action while participating in Bastion.;
-${color-alt: 121}Target out of range.${prompt};
-You cannot view this event while holding claim over a synergy furnace.${prompt};
-${color-alt: 123}You cannot perform that action with a free trial account.${prompt};
-You must wait another ${number: 0} ${choice-plurality: 0}[day/days] to perform that action.${prompt};
-${color-alt: 121}${name-player} gained ${number: 0} ${choice: 1}[points of experience/limit points].;
-You cannot carry any more ${keyitem-plural: 0[2]}.${prompt};
-${color-alt: 121}You have carried over ${number: 1} login point${choice-plurality: 1}[/s].${prompt};
-The ${choice: 1}[/January/February/March/April/May/June/July/August/September/October/November/December] ${number: 0} Login Campaign is currently underway!;
-${prompt};
-In celebration of your most recent login (login no. ${number: 1}), we have provided you with ${number: 2} points!;
-You currently have a total of ${number: 3} points.${prompt};
-${prompt};
-${prompt};
-${prompt};
-You have obtained ${number: 0} bayld!${prompt};
-You have obtained ${number: 0} bayld!;
-You do not have enough bayld!${prompt};
-You do not have enough bayld!;
-You can now become a ${choice: 0}[geomancer/rune fencer]!${prompt};
-Your ${keyitem-singular: 1[2]} has been attuned to a geomagnetic fount in the corresponding locale.${prompt};
-A faint energy wafts up from the ground.${prompt};
-Your device has already been attuned to a geomagnetic fount in the corresponding locale.${prompt};
-You have learned ${keyitem-singular: 0[2]}!${prompt};
-I eat, breathe, and sleep delivery services! Even if the heavens come tumbling down, the seas engulf all of Adoulin, or eternal darkness descends upon the world, you needn't worry about your package!${prompt};
-${color-alt: 123}The level of difficulty for this content is ${number: 0}.${prompt};
-Your maximum level has been raised to ${choice: 0}[50/55/60/65/70/75/80/85/90/95/99]!${prompt};
-${color-alt: 123}You have entered belligerency.${prompt};
-${color-alt: 123}You have entered belligerency and your level has been restricted to ${number: 0}.${prompt};
-${color-alt: 123}You have entered belligerency. Your level has been restricted to ${number: 0} and the attributes of applicable equipment you may be wearing have been appropriately reduced.${prompt};
-You have learned a new instinct!${prompt};
-${color-alt: 123}Your party is unable to participate because certain members' levels are restricted.${prompt};
-
-
-Windurst - Minor${prompt};
-Windurst - Minimal${prompt};
-Bastok and Windurst have formed an alliance.${prompt};
-San d'Oria and Windurst have formed an alliance.${prompt};
-San d'Oria and Bastok have formed an alliance.${prompt};
-Bastok and Windurst are currently allies.${prompt};
-San d'Oria and Windurst are currently allies.${prompt};
-San d'Oria and Bastok are currently allies.${prompt};
 æ‰€å±žå›½ï¼š${number: 0};
 åˆ¤å®šï¼š${number: 1}${prompt};
 è£…å‚™ãƒã‚§ãƒƒã‚¯ï¼š${number: 0};
@@ -1402,6 +1301,9 @@ There are a few items that me mateys couldn't acquire. I want ya t'go and get th
 Travel to one of them molten lava falls in Ifrit's Cauldron.${prompt};
 If you throw in ${article} ${item-article: 6[2]}, a monster will appear. Bring back the ${item-singular: 7[2]} that the beast has on it.${prompt};
 Do ya think you can handle it, ya landlubber?${prompt};
+
+###### Bastok 6-2 - CS début ######
+
 Hah hah hah! Me landlubbin' adventurer brought back ${article} ${item-article: 7[2]}. It looks like I need to find myself some new mateys! Hah hah hah!${prompt};
 I guess this means you've completed your mission. Now let me write you somethin' you can take back to...${prompt};
 That won't be necessary, sir.${prompt};
@@ -1423,6 +1325,9 @@ Okay, okay. You go back and tell the old president I said hello.;
 Oh, and don't ya forget t'talk to Ryoma before you leave. It's the least ya could do fer him.${prompt};
 I'm sorry, but that will have to wait until another day... However, maybe next time I will bring along my younger sister.${prompt};
 Your assignment in Norg is complete. You may return to Bastok now, and do not forget to report to Naji upon your arrival.${prompt};
+
+##### Bastok 6-2 CS fin #####
+
 Who tha hell are you?;
 ${name-player}? Never heard of ya. How am I supposed to remember the name of one puny ant when there's millions of ya swarmin' around?${prompt};
 Do a little work around here, and there might be somebody that'll remember your ugly face...no guarantees, though.${prompt};
