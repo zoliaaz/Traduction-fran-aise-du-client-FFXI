@@ -18856,25 +18856,25 @@ entries:
   10244: Si aucun côté ne l'emporte avant la fin du match, le résultat sera jugé en fonction du score. La section « score du match » du manuel contient plus d'informations à ce sujet.${prompt}
   10245: Brenner est significativement divisé en matchs publics et privés. Les matchs officiels se déroulent périodiquement selon le niveau et comportent une participation générale.${prompt}
   10246: Vous ne pouvez pas réserver l'île lorsqu'un match officiel est en cours.${prompt}
-  10247: No items are necessary for participation, but a minor fee will be collected. You will be unable to participate if your level is too low.${prompt}
-  10248: 'The match outcome will be recorded unless the number of participants fails to exceed ${number: 0} members, or if there are fewer than ${number: 1} members in a match where the two sides'' numbers differ. In such cases, the game will be considered a training match and will not be recorded.${prompt}'
-  10249: 'Private matches require a reservation, and participation may be limited. The ${color: 5}Master of Ceremonies${color: 1} (MC) can freely adjust the rules and control match proceedings.${prompt}'
-  10250: “LS Liga” is a form of private match. You can learn more about LS Liga by speaking to a Marshal.${prompt}
-  10251: A Flammen-Brenner is a device that contains a Flamme (flame). The Flammen-Brenner is covered by a grate that will open after taking a set amount of damage, exposing the Flamme.${prompt}
-  10252: The participants must utilize this chance to seize the Flamme before the grate recloses. Once the grate is closed, the Flammen-Brenner will begin recovering from the damage it has been dealt.${prompt}
-  10253: If you manage to open the opposing team's Flammen-Brenner and capture their Flamme, you should make haste to light one of the Flammen-Brenner on your side.${prompt}
-  10254: After a certain amount of time, the Flamme will burn out and the opposing team's Flammen-Brenner will be relit.${prompt}
-  10255: Also, please note that you cannot quicken your pace using any special abilities while you are in possession of a Flamme.${prompt}
-  10256: In the event that neither side fulfills the conditions for victory, the outcome of the match will be evaluated based on score.${prompt}
-  10257: Ten points are awarded to each side for every lit Flammen-Brenner, while one point is awarded whenever a Flamme is captured, used to light a Flammen-Brenner, or recaptured from an opponent. One point is also awarded for protecting the Flammen-Brenner for a certain period of time.${prompt}
-  10258: 'Like Ballista, ${color: 5}quarry${color: 1} (/quarry) can be used while playing Brenner. Participants may use this ability to dig up ${color: 5}Petras${color: 1} and temporary items.${prompt}'
-  10259: 'However, unlike Ballista Petras, Brenner Petras have no effect on the match score. You can ${color: 5}trade${color: 1} a Petra to a Pursuivant to recover your HP and MP at no expense to TP.${prompt}'
-  10260: '${color: 5}Sprint${color: 1} cannot be used while carrying a Petra. Also, please note that the ${color: 5}scout${color: 1} ability cannot be used in Brenner.${prompt}'
-  10261: Petras will be lost in the event of a KO, but can be carried over from one match to another.${prompt}
-  10262: 'The ${color: 5}sprint${color: 1} (/sprint) ability can be used to increase the player''s speed when not in possession of a Flamme or Petras.${prompt}'
-  10263: In the event of a KO, you will be returned to your team's camp. However, recovery will take longer the more often you fall in battle.${prompt}
-  10264: In other words, you will receive a penalty if you fall immediately after recovering from KO. In addition, your TP will be reduced to zero and you will lose any Petras in your possession.${prompt}
-  10265: I'm sorry. I wasn't listening. Could you start over from the beginning?${prompt}
+  10247: Aucun objet n'est nécessaire pour participer, mais des frais mineurs seront perçus. Vous ne pourrez pas participer si votre niveau est trop bas.${prompt}
+  10248: 'Le résultat du match sera enregistré sauf si le nombre de participants ne dépasse pas ${number: 0} membres, ou s'il y a moins de ${number: 1} membres dans un match où les nombres des deux côtés diffèrent. Dans ces cas, le jeu sera considéré comme un match d'entraînement et ne sera pas enregistré.${prompt}'
+  10249: 'Les matchs privés nécessitent une réservation, et la participation peut être limitée. Le ${color: 5}Maître de Cérémonie${color: 1} (MC) peut librement ajuster les règles et contrôler le déroulement du match.${prompt}'
+  10250: « LS Liga » est une forme de match privé. Vous pouvez en apprendre davantage sur LS Liga en parlant à un Marshal.${prompt}
+  10251: Un Flammen-Brenner est un dispositif contenant une Flamme (flamme). Le Flammen-Brenner est couvert par une grille qui s'ouvrira après avoir subi une certaine quantité de dégâts, exposant la Flamme.${prompt}
+  10252: Les participants doivent utiliser cette chance pour saisir la Flamme avant que la grille ne se referme. Une fois la grille fermée, le Flammen-Brenner commencera à récupérer les dégâts qu'il a subis.${prompt}
+  10253: Si vous parvenez à ouvrir le Flammen-Brenner de l'équipe adverse et à capturer leur Flamme, vous devez vous dépêcher d'allumer l'un des Flammen-Brenner de votre côté.${prompt}
+  10254: Après un certain temps, la Flamme s'éteindra et le Flammen-Brenner de l'équipe adverse sera rallumé.${prompt}
+  10255: De plus, veuillez noter que vous ne pouvez pas accélérer votre vitesse en utilisant des capacités spéciales tant que vous êtes en possession d'une Flamme.${prompt}
+  10256: Dans le cas où aucun côté ne remplirait les conditions de victoire, le résultat du match sera évalué en fonction du score.${prompt}
+  10257: Dix points sont attribués à chaque côté pour chaque Flammen-Brenner allumé, tandis qu'un point est attribué chaque fois qu'une Flamme est capturée, utilisée pour allumer un Flammen-Brenner ou recapturée d'un adversaire. Un point est également attribué pour avoir protégé le Flammen-Brenner pendant une certaine période.${prompt}
+  10258: 'Comme pour Ballista, ${color: 5}quarry${color: 1} (/quarry) peut être utilisé pendant un match de Brenner. Les participants peuvent utiliser cette capacité pour déterrer des ${color: 5}Petras${color: 1} et des objets temporaires.${prompt}'
+  10259: 'Cependant, contrairement aux Petras de Ballista, les Petras de Brenner n'ont aucun effet sur le score du match. Vous pouvez ${color: 5}échanger${color: 1} une Petra avec un Pursuivant pour récupérer vos HP et MP sans coût pour les TP.${prompt}'
+  10260: '${color: 5}Sprint${color: 1} ne peut pas être utilisé tout en portant une Petra. De plus, veuillez noter que la capacité ${color: 5}scout${color: 1} ne peut pas être utilisée dans Brenner.${prompt}'
+  10261: Les Petras seront perdues en cas de KO, mais peuvent être transférées d'un match à un autre.${prompt}
+  10262: 'La capacité ${color: 5}sprint${color: 1} (/sprint) peut être utilisée pour augmenter la vitesse du joueur lorsqu'il n'est pas en possession d'une Flamme ou de Petras.${prompt}'
+  10263: En cas de KO, vous serez renvoyé au camp de votre équipe. Cependant, la récupération prendra plus de temps plus vous tombez souvent au combat.${prompt}
+  10264: En d'autres termes, vous recevrez une pénalité si vous tombez immédiatement après avoir récupéré d'un KO. De plus, vos TP seront réduits à zéro et vous perdrez toutes les Petras en votre possession.${prompt}
+  10265: Je suis désolé. Je n'écoutais pas. Pourriez-vous recommencer depuis le début ?${prompt}
   10266: |-
     What do you wish to know about?
     ${selection-lines}
