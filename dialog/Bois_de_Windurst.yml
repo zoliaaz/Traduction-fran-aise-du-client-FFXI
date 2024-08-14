@@ -17445,116 +17445,116 @@ entries:
     Obtenir 100 000 000 gils.
     Ne rien faire.${prompt}
   7053: |-
-    Hail, adventurer!
-    I am the most mighty of moogles, my miraculous magicks able to alter all manner of arcane attributes!${prompt}
+    Honneur à toi, aventurier !
+    Je suis le plus puissant des mogs, mes magies miraculeuses capables de modifier toutes sortes d'attributs ésotériques !${prompt}
   7054: |-
-    But be forewarned, kupo!
-    Once modified by moogle magick, your parameters cannot be restored to their prior state!${prompt}
+    Mais soyez prévenu, kupo !
+    Une fois modifiés par la magie des mogs, vos paramètres ne peuvent pas être restaurés à leur état antérieur !${prompt}
   7055: |-
-    Furthermore, you may trade a moogle storage slip to me to wipe it clean, or mystically entrust its entire contents to me.
-    Quite convenient, wouldn't you say?${prompt}
+    De plus, vous pouvez me donner un ticket de stockage mog pour le nettoyer, ou me confier mystiquement tout son contenu.
+    Plutôt pratique, n'est-ce pas ?${prompt}
   7056: |-
-    Adjust parameters?
+    Ajuster les paramètres ?
     ${selection-lines}
-    Edit main job level.
-    Reset ability recast timer.
-    Obtain merit points.
-    Receive all spells/rolls/attachments.
-    Unlock all jobs and support jobs.
-    Cancel.${prompt}
+    Modifier le niveau de l'emploi principal.
+    Réinitialiser le temps de recharge des compétences.
+    Obtenir des points de mérite.
+    Recevoir tous les sorts/rouleaux/accessoires.
+    Déverrouiller tous les emplois et emplois de soutien.
+    Annuler.${prompt}
   7057: |-
-    Choose a level between ${number: 0} and ${number: 1}.
-    All combat skills will be set to the maximum values for that level.
-    (Entering an invalid figure will abort the process.)
-  7058: 'Your job level has been set to ${number: 0}!${prompt}'
-  7059: Recast timers will be reset, allowing you to use all abilities.${prompt}
-  7060: '${color-alt: 121}Recast timers for all abilities reset!'
-  7061: All merit point categories will be increased to their maximum values.${prompt}
-  7062: '${color-alt: 121}Maximum available merit points obtained!'
-  7063: You will obtain all magic spells, attachments, and rolls.${prompt}
-  7064: '${color-alt: 121}All magic spells, attachments, and rolls obtained!'
+    Choisissez un niveau entre ${number: 0} et ${number: 1}.
+    Toutes les compétences de combat seront réglées aux valeurs maximales pour ce niveau.
+    (Entrer un chiffre invalide annulera le processus.)
+  7058: 'Le niveau de votre emploi a été réglé à ${number: 0} !${prompt}'
+  7059: Les temps de recharge seront réinitialisés, vous permettant d'utiliser toutes les compétences.${prompt}
+  7060: '${color-alt: 121}Temps de recharge pour toutes les compétences réinitialisé !'
+  7061: Toutes les catégories de points de mérite seront augmentées à leurs valeurs maximales.${prompt}
+  7062: '${color-alt: 121}Points de mérite maximaux obtenus !'
+  7063: Vous obtiendrez tous les sorts magiques, accessoires et rouleaux.${prompt}
+  7064: '${color-alt: 121}Tous les sorts magiques, accessoires et rouleaux obtenus !'
   7065: |-
-    You will gain access to all jobs.
-    All support jobs will also be unlocked.${prompt}
-  7066: '${color-alt: 121}Unlocked all jobs and support jobs!'
-  7067: Choose your destination.
+    Vous aurez accès à tous les emplois.
+    Tous les emplois de soutien seront également débloqués.${prompt}
+  7066: '${color-alt: 121}Tous les emplois et emplois de soutien débloqués !'
+  7067: Choisissez votre destination.
   7068: |-
-    Select a category:
+    Sélectionnez une catégorie :
     ${selection-lines}
-    Towns.
-    Outposts.
-    Staging Points.
-    Cancel.${prompt}
+    Villes.
+    Avant-postes.
+    Points de mise en scène.
+    Annuler.${prompt}
   7069: |-
-    Where would you like to teleport to?
+    Où souhaitez-vous vous téléporter ?
     ${selection-lines}
-    Northern San d'Oria.
-    Bastok Mines.
-    Port Windurst.
+    San d'Oria Nord.
+    Mines de Bastok.
+    Port de Windurst.
     Port Jeuno.
     Selbina.
     Mhaura.
     Kazham.
     Norg.
     Rabao.
-    Tavnazian Safehold.
-    Aht Urhgan Whitegate.
+    Fort Tavnazien.
+    Port-Blanc d'Aht Urhgan.
     Nashmau.
-    Chocobo Circuit.
-    Past Southern San d'Oria.
-    Past Bastok Markets.
-    Past Windurst Waters.
-    Cancel.${prompt}
-  7070: 'Teleporting to ${choice: 0}[Northern San d''Oria/Bastok Mines/Port Windurst/Port Jeuno/Selbina/Mhaura/Kazham/Norg/Rabao/the Tavnazian Safehold/Aht Urhgan Whitegate/Nashmau/the Chocobo Circuit/Past Southern San d''Oria/Past Bastok Markets/Past Windurst Waters]!${prompt}'
+    Circuit de chocobos.
+    San d'Oria Sud (Passé).
+    Marché de Bastok (Passé).
+    Eaux de Windurst (Passé).
+    Annuler.${prompt}
+  7070: 'Téléportation vers ${choice: 0}[San d''Oria Nord/Mines de Bastok/Port de Windurst/Port Jeuno/Selbina/Mhaura/Kazham/Norg/Rabao/Fort Tavnazien/Port-Blanc d''Aht Urhgan/Nashmau/Circuit de chocobos/San d''Oria Sud (Passé)/Marché de Bastok (Passé)/Eaux de Windurst (Passé)] !${prompt}'
   7071: |-
-    Where would you like to teleport to?
+    Où souhaitez-vous vous téléporter ?
     ${selection-lines}
-    The Ronfaure Region.
-    The Zulkheim Region.
-    The Norvallen Region.
-    The Gustaberg Region.
-    The Derfland Region.
-    The Sarutabaruta Region.
-    The Kolshushu Region.
-    The Aragoneu Region.
-    The Fauregandi Region.
-    The Valdeaunia Region.
-    Qufim Island.
-    The Li'Telor Region.
-    The Kuzotz Region.
-    The Vollbow Region.
-    The Elshimo Lowlands Region.
-    The Elshimo Uplands Region.
+    Région de Ronfaure.
+    Région de Zulkheim.
+    Région de Norvallen.
+    Région de Gustaberg.
+    Région de Derfland.
+    Région de Sarutabaruta.
+    Région de Kolshushu.
+    Région d'Aragoneu.
+    Région de Fauregandi.
+    Région de Valdeaunia.
+    Île de Qufim.
+    Région de Li'Telor.
+    Région de Kuzotz.
+    Région de Vollbow.
+    Région des Basses-Terres d'Elshimo.
+    Région des Hautes-Terres d'Elshimo.
     Tu'Lia.
-    The Tavnazian Archipelago.
-    Cancel.${prompt}
-  7072: 'Teleporting to ${choice: 0}[Ronfaure/Zulkheim/Norvallen/Gustaberg/Derfland/Sarutabaruta/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li''Telor/Kuzotz/Vollbow/the Elshimo Lowlands/the Elshimo Uplands/Tu''Lia/the Tavnazian Archipelago]!${prompt}'
+    Archipel Tavnazien.
+    Annuler.${prompt}
+  7072: 'Téléportation vers ${choice: 0}[Ronfaure/Zulkheim/Norvallen/Gustaberg/Derfland/Sarutabaruta/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li''Telor/Kuzotz/Vollbow/Basses-Terres d''Elshimo/Hautes-Terres d''Elshimo/Tu''Lia/Archipel Tavnazien] !${prompt}'
   7073: |-
-    Teleport to which staging point?
+    Se téléporter vers quel point de mise en scène ?
     ${selection-lines}
-    Azouph Isle.
+    Île d'Azouph.
     Mamool Ja.
     Halvung.
-    Dvucca Isle.
-    Ilrusi Atoll.
-    Nyzul Isle.
-    Cancel.${prompt}
-  7074: 'Teleporting to the ${choice: 0}[Azouph Isle/Mamool Ja/Halvung/Dvucca Isle/Ilrusi Atoll/Nyzul Isle] staging point!${prompt}'
-  7075: '${color-alt: 121}Congratulations, you are now a gillionaire!'
+    Île de Dvucca.
+    Atoll d'Ilrusi.
+    Île de Nyzul.
+    Annuler.${prompt}
+  7074: 'Téléportation vers le point de mise en scène ${choice: 0}[Île d''Azouph/Mamool Ja/Halvung/Île de Dvucca/Atoll d''Ilrusi/Île de Nyzul] !${prompt}'
+  7075: '${color-alt: 121}Félicitations, vous êtes maintenant un millionnaire en gils !'
   7076: |-
-    Select an item category.
+    Sélectionnez une catégorie d'objet.
     ${selection-lines}
-    Weapons.
-    Armor.
-    Expendable items.
-    Medicine or food.
-    Instant magic scrolls.
-    Storage slips.
-    Cancel.${prompt}
+    Armes.
+    Armures.
+    Objets consommables.
+    Médicaments ou nourriture.
+    Parchemins de magie instantanée.
+    Tickets de stockage.
+    Annuler.${prompt}
   7077: |-
-    Which item do you wish to obtain?
+    Quel objet souhaitez-vous obtenir ?
     ${selection-lines}
-    Previous page.
+    Page précédente.
     ${lettercase: 1}${article} ${item-article: 0[2]}.
     ${lettercase: 1}${article} ${item-article: 1[2]}.
     ${lettercase: 1}${article} ${item-article: 2[2]}.
@@ -17575,101 +17575,101 @@ entries:
     ${lettercase: 1}${article} ${item-article: 17[2]}.
     ${lettercase: 1}${article} ${item-article: 18[2]}.
     ${lettercase: 1}${article} ${item-article: 19[2]}.
-    Next page.
-    Cancel.${prompt}
-  7078: You selected the item displayed.${prompt}
+    Page suivante.
+    Annuler.${prompt}
+  7078: Vous avez sélectionné l'objet affiché.${prompt}
   7079: |-
-    Obtain ${article} ${item-article: 0[2]}?
+    Obtenir ${article} ${item-article: 0[2]} ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
+    Oui.
+    Non.${prompt}
   7080: |-
-    Enter the quantity you wish to obtain.
-    (Entering an invalid figure will abort the process.)
-  7081: 'Adjust the properties of this ${item-singular: 0[2]}?${prompt}'
+    Entrez la quantité que vous souhaitez obtenir.
+    (Entrer un chiffre invalide annulera le processus.)
+  7081: 'Ajuster les propriétés de cet ${item-singular: 0[2]} ?${prompt}'
   7082: |-
-    Adjust the storage slip?
+    Ajuster le ticket de stockage ?
     ${selection-lines}
-    Cancel.
-    Entrust all items.
-    Clear contents.${prompt}
-  7083: '${color-alt: 121}All items on the ${item-singular: 0[2]} have been entrusted!'
-  7084: '${color-alt: 121}The contents of the ${item-singular: 0[2]} have been wiped clean!'
+    Annuler.
+    Confier tous les objets.
+    Vider le contenu.${prompt}
+  7083: '${color-alt: 121}Tous les objets sur le ${item-singular: 0[2]} ont été confiés !'
+  7084: '${color-alt: 121}Le contenu du ${item-singular: 0[2]} a été vidé !'
   7085: |-
-    ${color-alt: 141}*Note:*
-    Unlocked jobs will be reflected upon leaving the Mog House.
-  7086: You may use one of the instruments in your Mog House to play a different tune.${prompt}
-  7087: Play music from which instrument?
+    ${color-alt: 141}*Note :*
+    Les emplois débloqués seront reflétés en quittant la Maison Mog.
+  7086: Vous pouvez utiliser l'un des instruments dans votre Maison Mog pour jouer une mélodie différente.${prompt}
+  7087: Jouer de la musique avec quel instrument ?
   7088: |-
-    Select an instrument.
+    Sélectionnez un instrument.
     ${selection-lines}
-    None for now.
+    Aucun pour l'instant
     ${lettercase: 1}${item-singular: 0[2]}.
     ${lettercase: 1}${item-singular: 1[2]}.
     ${lettercase: 1}${item-singular: 2[2]}.
     ${lettercase: 1}${item-singular: 3[2]}.${prompt}
   7089: |-
-    Change to what song?
+    Changer pour quelle chanson ?
     ${selection-lines}
-    Don't change at all.
-    Track: ${choice: 1}[???/Mog House/Awakening/Echoes of a Zephyr/Bustle of the Capital].
-    Track: ${choice: 2}[???/Vana'diel March/Belief/The Cosmic Wheel/Jeweled Boughs].
-    Track: ${choice: 3}[???/The Kingdom of San d'Oria/A Realm of Emptiness/The Destiny Destroyers/Bandits' Market].
-    Track: ${choice: 4}[???/Chateau d'Oraguille/Distant Worlds/Hume Male/Illusions in the Mist].
-    Track: ${choice: 5}[???/Ronfaure/Forever Today/Hume Female/#53].
-    Track: ${choice: 6}[???/The Republic of Bastok/Rhapsodies of Vana'diel/Elvaan Male/#54].
-    Track: ${choice: 7}[???/Metalworks/Awakening (FFRK Ver.)/Elvaan Female/#55].
-    Track: ${choice: 8}[???/Gustaberg/Full Speed Ahead!/Tarutaru Male/#56].
-    Track: ${choice: 9}[???/The Federation of Windurst/The Celestial Capital - Al'Taieu/Tarutaru Female/#57].
-    Track: ${choice: 10}[???/Heavens Tower/The Grand Duchy of Jeuno/Mithra/#58].
-    Track: ${choice: 11}[???/Sarutabaruta/Ru'Lude Gardens/Galka/#59].
-    Track: ${choice: 12}[???/The Sacred City of Adoulin/Devils' Delight/Jeuno - Starlight Celebration -/#60].
-    Track: ${choice: 13}[???/The Pioneers/Griffons Never Die/Dash de Chocobo/#61].
-    Track: ${choice: 14}[???/Kazham/Thunder of the March/Circuit de Chocobo/#62].
-    Track: ${choice: 15}[???/The Sanctuary of Zi'Tah/Stargazing/Run Chocobo Run!/#63].
-    Track: ${choice: 16}[???/Tu'Lia/Autumn Footfalls/Choc-a-bye Baby/#64].
-    Previous page.
-    Next page.${prompt}
+    Ne pas changer du tout.
+    Piste : ${choice: 1}[???/Maison Mog/Éveil/Échos d'un Zéphyr/Brouhaha de la Capitale].
+    Piste : ${choice: 2}[???/Marche de Vana'diel/Croyance/La Roue Cosmique/Rameaux Ornés].
+    Piste : ${choice: 3}[???/Le Royaume de San d'Oria/Un Royaume de Vide/Les Destructeurs du Destin/Marché des Bandits].
+    Piste : ${choice: 4}[???/Château d'Oraguille/Mondes Distants/Homme Hume/Illusions dans la Brume].
+    Piste : ${choice: 5}[???/Ronfaure/Pour Toujours Aujourd'hui/Femme Hume/#53].
+    Piste : ${choice: 6}[???/La République de Bastok/Rhapsodies de Vana'diel/Homme Elvaan/#54].
+    Piste : ${choice: 7}[???/Métallurgie/Éveil (Ver. FFRK)/Femme Elvaan/#55].
+    Piste : ${choice: 8}[???/Gustaberg/À Toute Vitesse !/Homme Tarutaru/#56].
+    Piste : ${choice: 9}[???/La Fédération de Windurst/La Capitale Céleste - Al'Taieu/Femme Tarutaru/#57].
+    Piste : ${choice: 10}[???/Tour du Ciel/Le Grand-Duché de Jeuno/Mithra/#58].
+    Piste : ${choice: 11}[???/Sarutabaruta/Jardins de Ru'Lude/Galka/#59].
+    Piste : ${choice: 12}[???/La Cité Sacrée d'Adoulin/Délice des Démons/Jeuno - Fête des Étoiles -/#60].
+    Piste : ${choice: 13}[???/Les Pionniers/Les Griffons Ne Meurent Jamais/Chocobo en Folie/#61].
+    Piste : ${choice: 14}[???/Kazham/Tonnerre de la Marche/Circuit de Chocobo/#62].
+    Piste : ${choice: 15}[???/Le Sanctuaire de Zi'Tah/Observation des Étoiles/Chocobo, Cours !/#63].
+    Piste : ${choice: 16}[???/Tu'Lia/Couleurs d'Automne/Choc-a-bye Bébé/#64].
+    Page précédente.
+    Page suivante.${prompt}
   7090: |-
-    Change music?
+    Changer de musique ?
     ${selection-lines}
-    Not now.
-    Track: Selbina.
-    Track: Fighters of the Crystal.
-    Track: A New Horizon.
-    Track: Ragnarok.
-    Track: Clash of Standards.
-    Track: Echoes of Creation.
-    Track: Luck of the Mog.
-    Track: Feast of the Ladies.
-    Track: Abyssea.
-    Track: Melodies Errant.
-    Track: Ronfaure.
-    Track: Autumn Footfalls.
-    Track: Main Theme.
-    Track: Mog House.${prompt}
+    Pas maintenant.
+    Piste : Selbina.
+    Piste : Les Combattants du Cristal.
+    Piste : Un Nouvel Horizon.
+    Piste : Ragnarok.
+    Piste : Lutte des Étendards.
+    Piste : Échos de la Création.
+    Piste : La Chance du Mog.
+    Piste : Fête des Dames.
+    Piste : Abyssea.
+    Piste : Mélodies Errantes.
+    Piste : Ronfaure.
+    Piste : Couleurs d'Automne.
+    Piste : Thème Principal.
+    Piste : Maison Mog.${prompt}
   7091: |-
-    Change music?
+    Changer de musique ?
     ${selection-lines}
-    Not now.
-    Mog House.
-    Distant Worlds.${prompt}
+    Pas maintenant.
+    Maison Mog.
+    Mondes Distants.${prompt}
   7092: |-
-    Change music?
+    Changer de musique ?
     ${selection-lines}
-    Not now.
-    Mog House.
-    The Pioneers.${prompt}
+    Pas maintenant.
+    Maison Mog.
+    Les Pionniers.${prompt}
   7093: |-
-    Select this song?
+    Sélectionner cette chanson ?
     ${selection-lines}
-    Yes, this sounds splendid!
-    No, I've changed my tune.${prompt}
-  7094: This song cannot yet be played.
-  7095: Hang on! I have an amazing announcement!${prompt}
+    Oui, cela semble splendide !
+    Non, j'ai changé d'avis.${prompt}
+  7094: Cette chanson ne peut pas encore être jouée.
+  7095: Attendez ! J'ai une annonce incroyable !${prompt}
   7096: |-
-    The hallowed halls of your house are even more exciting!
-    Why? Because now there's a second floor, kupo!${prompt}
+    Les couloirs sacrés de votre maison sont encore plus excitants !
+    Pourquoi ? Parce qu'il y a maintenant un deuxième étage, kupo !${prompt}
   7097: But before you bash your way in, I've got a trifling task for you to tackle.${prompt}
   7098: Capricious Mithra cubs have cajoled critical information out of the M.H.M.U., and I want you to wrest it from them!${prompt}
   7099: Visit the three nations and question them, kupo!${prompt}
