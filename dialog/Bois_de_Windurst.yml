@@ -16787,7 +16787,7 @@ entries:
   6753: 'Ce ${keyitem-singular: 1[2]} complet, qui s’étend bien en dessous du Plateau de La Théine, coûte ${number: 3} gils.${prompt}'
   6754: '${lettercase: 1}${keyitem-plural: 1[2]} inclut les plans à la fois de l’avant-poste et de la forteresse de Ghelsba, ainsi que du Grotto Yughott. Il coûte ${number: 3} gils.${prompt}'
   6755: 'Le ${keyitem-singular: 1[2]} montre le repaire orque notoire caché dans la Forêt de Jugner. Il est vendu ${number: 3} gils.${prompt}'
-  6756: 'Cette carte montre les voies navigables et les îles qui composent le Carpenters’ Landing. Elle est vendue ${number: 3} gils.${prompt}'
+  6756: 'Cette carte montre les voies navigables et les îles qui composent le Débarcadère des Charpentiers. Elle est vendue ${number: 3} gils.${prompt}'
   6757: |-
     Le ${keyitem-singular: 1[2]}, comme son nom l'indique, contient le plan des Mines de Zeruhn à Bastok.
     Il coûte ${number: 3} gils.${prompt}
@@ -17222,9 +17222,9 @@ entries:
   6933: Jackkeddy-Wack est ce que nous appelons un "Cardian" à Windurst.${prompt}
   6934: J'ai placé un marqueur sur votre carte pour que vous ne soyez pas confus ! Vérifiez-le en sélectionnant "Marqueurs" dans la catégorie "Carte" du menu principal !${prompt}
   6935: (DEBUG) Drapeau levé, kupo !${prompt}
-  6936: Bienvenue, Maître ! C'est votre maison, le "Mog House", kupo !${prompt}
+  6936: Bienvenue, Maître ! C'est votre maison, la "Maison Mog", kupo !${prompt}
   6937: Je suis un moogle ! Nous, les moogles, aimons nous occuper des maisons et des objets ! Enchanté de vous rencontrer, kupo !${prompt}
-  6938: Je vais tout vous dire sur votre Mog House, kupo !${prompt}
+  6938: Je vais tout vous dire sur votre Maison Mog, kupo !${prompt}
   6939: |-
      Tout d'abord, les bases, kupo !
      Ouvrez votre menu principal, Maître. Le bouton tout en bas change en "Mog House" lorsque vous êtes dans votre Mog House, kupo !${prompt}
@@ -17428,22 +17428,22 @@ entries:
     Mais devinez quoi, kupo ?
     Il semble qu'il y ait eu un petit problème dans l'une de nos chambres à louer à Jeuno également !${prompt}
   7049: |-
-    Vous savez, celle juste en face de Durable Shields.
+    Vous savez, celui juste en face de Boucliers Durables.
     Qu'est-ce qui a bien pu mal tourner, kupo ?${prompt}
   7050: |-
     Eh bien, il n'y a rien à apprendre en flânant ici.
     Venez, Maître, nous partons pour Jeuno !${prompt}
-  7051: "     \n     Personne ne se doutait que cela\n     ne serait que le début\n     d'un cauchemar terrifiant sans précédent\n     dans les annales de la mooglekind...${prompt}"
+  7051: "     \n     Peu de gens se doutaient que cela\n     ne serait que le début\n     d'un cauchemar terrifiant\n     sans précédent dans les annales des Mogs...${prompt}"
   7052: |-
-    Do something?
+    Faire quelque chose ?
     ${selection-lines}
-    Read instructions.
-    Change parameters.
-    Teleport to key locations.
-    Warp to home point.
-    Receive items.
-    Obtain 100,000,000 gil.
-    Do nothing.${prompt}
+    Lire les instructions.
+    Modifier les paramètres.
+    Se téléporter vers des lieux clés.
+    Se téléporter au point de retour.
+    Recevoir des objets.
+    Obtenir 100 000 000 gils.
+    Ne rien faire.${prompt}
   7053: |-
     Hail, adventurer!
     I am the most mighty of moogles, my miraculous magicks able to alter all manner of arcane attributes!${prompt}
