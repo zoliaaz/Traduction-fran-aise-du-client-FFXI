@@ -1,6 +1,6 @@
 Phrase en Anglais;Phrases en français
-
-
+;
+;
 æ‰€å±žå›½ï¼š${number: 0};
 åˆ¤å®šï¼š${number: 1}${prompt};
 è£…å‚™ãƒã‚§ãƒƒã‚¯ï¼š${number: 0};
@@ -34,7 +34,7 @@ There was a curse on the beastmen's banner!${prompt};
 The curse of the beastmen's banner has been lifted!${prompt};
 There is a beastmen's banner.${prompt};
 ${prompt};
-
+;
 ${prompt};
 é å¾å…ˆãƒªãƒ¼ã‚¸ãƒ§ãƒ³ãƒŠãƒ³ãƒãƒ¼ã€€${number: 0};
 ç¾åœ¨ã®ãƒªãƒ¼ã‚¸ãƒ§ãƒ³ãƒŠãƒ³ãƒãƒ¼ã€€${number: 1}${prompt};
@@ -334,334 +334,6 @@ Zilart Missions.;
 Promathia Missions.;
 Aht Urhgan Missions.;
 Mercenary Rank.;
-${title: 27[2]}.;
-${title: 28[2]}.;
-${title: 29[2]}.;
-${title: 30[2]}.;
-${title: 31[2]}.;
-${title: 32[2]}.;
-${title: 33[2]}.;
-${title: 34[2]}.;
-${title: 35[2]}.;
-${title: 36[2]}.;
-${title: 37[2]}.;
-${title: 38[2]}.;
-View next page.${prompt};
-Unlock which achievement?;
-${selection-lines};
-None.;
-Artifact related Quests.;
-Guildworkers' Union Entry.;
-Wings of the Goddess Missions.;
-Past Vana'diel Nation Quests.;
-${lettercase: 1}${keyitem-singular: 8[2]}.;
-${lettercase: 1}${keyitem-singular: 9[2]}.;
-${lettercase: 1}${keyitem-singular: 10[2]}.;
-${lettercase: 1}${keyitem-singular: 11[2]}.;
-${lettercase: 1}${keyitem-singular: 12[2]}.;
-${lettercase: 1}${keyitem-singular: 13[2]}.;
-${lettercase: 1}${keyitem-singular: 14[2]}.;
-${lettercase: 1}${keyitem-singular: 15[2]}.;
-Support Jobs.;
-Extra Jobs.;
-${lettercase: 1}${item-singular: 16[2]}.;
-${lettercase: 1}${item-singular: 17[2]}.;
-${lettercase: 1}${item-singular: 18[2]}.${prompt};
-Unlock which achievement?;
-${selection-lines};
-None.;
-Level 75 Warrior.;
-Level 75 Monk.;
-Level 75 White Mage.;
-Level 75 Black Mage.;
-Level 75 Red Mage.;
-Level 75 Thief.;
-Level 75 Paladin.;
-Level 75 Dark Knight.;
-Level 75 Beastmaster.;
-Level 75 Bard.;
-Level 75 Ranger.;
-Level 75 Samurai.;
-Level 75 Ninja.;
-Level 75 Dragoon.;
-Level 75 Summoner.;
-Level 75 Blue Mage.;
-Level 75 Corsair.;
-Level 75 Puppetmaster.;
-Level 75 Dancer.;
-Level 75 Scholar.${prompt};
-You have no achievements to unlock.${prompt};
-Return to which title?;
-${selection-lines};
-Forfeit gil and quit.${prompt};
-Return to which title?;
-${selection-lines};
-Forfeit gil and quit.${prompt};
-Return to which title?;
-${selection-lines};
-Forfeit gil and quit.${prompt};
-Return to which title?;
-${selection-lines};
-Hon. Doctor, Majoring in Tonberries.;
-Bushido Blade.;
-Forfeit gil and quit.${prompt};
-Return to which title?;
-${selection-lines};
-Black Marketeer.;
-Cracker of the Secret Code.;
-Looks Sublime in a Subligar.;
-Looks Good in Leggings.;
-Forfeit gil and quit.${prompt};
-Return to which title?;
-${selection-lines};
-Apprentice Sommelier.;
-Treasure-house Ransacker.;
-Heir of the Great Water.;
-Paragon of Samurai Excellence.;
-Paragon of Ninja Excellence.;
-Forfeit gil and quit.${prompt};
-Return to which title?;
-${selection-lines};
-Guider of Souls to the Sanctuary.;
-Bearer of Bonds Beyond Time.;
-Friend of the Opo-opos.;
-Forfeit gil and quit.${prompt};
-Return to which title?;
-${selection-lines};
-Forfeit gil and quit.${prompt};
-Return to which title?;
-${selection-lines};
-Forfeit gil and quit.${prompt};
-Return to which title?;
-${selection-lines};
-Pentacide Perpetrator.;
-Forfeit gil and quit.${prompt};
-Return to which title?;
-${selection-lines};
-Bearer of the Wisewoman's Hope.;
-Bearer of the Eight Prayers.;
-Lightweaver.;
-Destroyer of Antiquity.;
-Sealer of the Portal of the Gods.;
-Burier of the Illusion.;
-Forfeit gil and quit.${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-A hunt registry has been placed here by the Adventurers' Mutual Aid Network (A.M.A.N.). Its pages are laden with the names of spine-chilling monsters.${prompt};
-A hunt registry has been placed here by the Servicemen's Mutual Aid Network (S.M.A.N.). Its pages are laden with the names of spine-chilling monsters.${prompt};
-What will you do?;
-${selection-lines};
-Nothing.;
-Undertake a hunt.;
-Read explanation.;
-Record completion of hunt.;
-View current hunt.;
-Cancel current hunt.;
-View scyld balance.${prompt};
-You must cancel your current hunt if you wish to undertake another.${prompt};
-Little time has passed since your last hunt. It is recommended that you take some time to recuperate before undertaking another.${prompt};
-You cannot undertake a hunt while a training regime is active.${prompt};
-Cancel your training regime?;
-${selection-lines};
-Yes.;
-No.${prompt};
-Current training regime canceled.${prompt};
-You must either notify the completion of, or cancel your current hunt in order to undertake another.${prompt};
-Which page?;
-${selection-lines};
-I've changed my mind.;
-West Ronfaure.;
-East Ronfaure.;
-La Theine Plateau.;
-Valkurm Dunes.;
-Jugner Forest.;
-Batallia Downs.;
-Carpenters' Landing.;
-Ghelsba Outpost.;
-Fort Ghelsba.;
-King Ranperre's Tomb.;
-Bostaunieux Oubliette.;
-Ordelle's Caves.;
-Eldieme Necropolis.;
-Davoi.;
-Habitat Unknown.;
-${prompt};
-Which page?;
-${selection-lines};
-I've changed my mind.;
-North Gustaberg.;
-South Gustaberg.;
-Konschtat Highlands.;
-Valkurm Dunes.;
-Pashhow Marshlands.;
-Rolanberry Fields.;
-Palborough Mines.;
-Dangruf Wadi.;
-Korroloka Tunnel.;
-Gusgen Mines.;
-Crawlers' Nest.;
-Beadeaux.;
-Oldton Movalpolos.;
-Newton Movalpolos.;
-Habitat Unknown.;
-${prompt};
-Which page?;
-${selection-lines};
-I've changed my mind.;
-West Sarutabaruta.;
-East Sarutabaruta.;
-Tahrongi Canyon.;
-Buburimu Peninsula.;
-Bibiki Bay.;
-Meriphataud Mountains.;
-Sauromugue Champaign.;
-Attohwa Chasm.;
-Giddeus.;
-Toraimarai Canal.;
-Inner Horutoto Ruins.;
-Outer Horutoto Ruins.;
-Maze of Shakhrami.;
-Labyrinth of Onzozo.;
-Garlaige Citadel.;
-Castle Oztroja.;
-Habitat Unknown.;
-${prompt};
-Which page?;
-${selection-lines};
-I've changed my mind.;
-Qufim Island.;
-Beaucedine Glacier.;
-Xarcabard.;
-Uleguerand Range.;
-The Sanctuary of Zi'Tah.;
-Ro'Maeve.;
-Upper Delkfutt's Tower.;
-Middle Delkfutt's Tower.;
-Lower Delkfutt's Tower.;
-Ranguemont Pass.;
-Fei'Yin.;
-Castle Zvahl Baileys.;
-Castle Zvahl Keep.;
-The Boyahda Tree.;
-Habitat Unknown.;
-${prompt};
-Which page?;
-${selection-lines};
-I've changed my mind.;
-Yuhtunga Jungle.;
-Yhoator Jungle.;
-Sea Serpent Grotto.;
-Temple of Uggalepih.;
-Den of Rancor.;
-Ifrit's Cauldron.;
-${prompt};
-Which page?;
-${selection-lines};
-I've changed my mind.;
-Cape Teriggan.;
-Eastern Altepa Desert.;
-Western Altepa Desert.;
-Kuftal Tunnel.;
-Gustav Tunnel.;
-Quicksand Caves.;
-${prompt};
-Which page?;
-${selection-lines};
-I've changed my mind.;
-Lufaise Meadows.;
-Misareaux Coast.;
-${prompt};
-Which page?;
-${selection-lines};
-I've changed my mind.;
-Wajaom Woodlands.;
-Bhaflau Thickets.;
-Mount Zhayolm.;
-Mamook.;
-Aydeewa Subterrane.;
-Halvung.;
-${prompt};
-Which page?;
-${selection-lines};
-I've changed my mind.;
-Caedarva Mire.;
-Arrapago Reef.;
-Alzadaal Undersea Ruins.;
-${prompt};
-Which page?;
-${selection-lines};
-I've changed my mind.;
-East Ronfaure.;
-Jugner Forest.;
-Vunkerl Inlet.;
-Batallia Downs.;
-Eldieme Necropolis.;
-Beaucedine Glacier.;
-Xarcabard.;
-${prompt};
-Which page?;
-${selection-lines};
-I've changed my mind.;
-North Gustaberg.;
-Grauberg.;
-Pashhow Marshlands.;
-Rolanberry Fields.;
-Crawlers' Nest.;
-Beaucedine Glacier.;
-Xarcabard.;
-${prompt};
-Which page?;
-${selection-lines};
-I've changed my mind.;
-West Sarutabaruta.;
-Fort Karugo-Narugo.;
-Meriphataud Mountains.;
-Sauromugue Champaign.;
-Garlaige Citadel.;
-Beaucedine Glacier.;
-Xarcabard.;
-${prompt};
-Which page?;
-${selection-lines};
-I've changed my mind.;
-Hunt #1.;
-Hunt #2.;
-Hunt #3.;
-Hunt #4.;
-Hunt #5.;
-Hunt #6.;
-Hunt #7.;
-Hunt #8.;
-Hunt #9.;
-Hunt #10.;
-Hunt #11.;
-Hunt #12.;
-Hunt #13.;
-Hunt #14.;
-Hunt #15.;
-Hunt #16.;
-Hunt #17.;
-Hunt #18.;
-Hunt #19.;
-Hunt #20.;
-Hunt #21.;
-Hunt #22.;
-Hunt #23.;
-Hunt #24.;
-Hunt #25.;
-Hunt #26.;
-Hunt #27.;
-Hunt #28.;
-Hunt #29.;
-Hunt #30.${prompt};
 The information on this page instructs you to defeat the following:${prompt};
 Scylds required: ${number: 0} (Balance: ${number: 1});
 Elusiveness: ${choice: 2}[â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†/â˜…â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†/â˜…â˜…â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†/â˜…â˜…â˜…â˜†â˜†â˜†â˜†â˜†â˜†â˜†/â˜…â˜…â˜…â˜…â˜†â˜†â˜†â˜†â˜†â˜†/â˜…â˜…â˜…â˜…â˜…â˜†â˜†â˜†â˜†â˜†/â˜…â˜…â˜…â˜…â˜…â˜…â˜†â˜†â˜†â˜†/â˜…â˜…â˜…â˜…â˜…â˜…â˜…â˜†â˜†â˜†/â˜…â˜…â˜…â˜…â˜…â˜…â˜…â˜…â˜†â˜†/â˜…â˜…â˜…â˜…â˜…â˜…â˜…â˜…â˜…â˜†/â˜…â˜…â˜…â˜…â˜…â˜…â˜…â˜…â˜…â˜…];
@@ -703,7 +375,7 @@ Yes.;
 No.${prompt};
 Hunt canceled.${prompt};
 You currently possess ${number: 0} ${choice-plurality: 0}[scyld/scylds].${prompt};
-
+;
 You want to make ${article} ${item-article: 0[2]}?;
 In case you didn't already know, a volatile objectaru like that needs to be kept in a special container.${prompt};
 Such a container can be synthesized if you have two ${item-plural: 0[2]} and ${article} ${item-article: 1[2]}.;
@@ -820,10 +492,10 @@ More time must elapse before you can enter the battlefield for â€œProject: S
 The door is sealed.${prompt};
 Your opponents deem you too weak to be worthwhile, disappearing whence they came.${prompt};
 For your own safety, it is recommended that you set this location as your home point after changing jobs.${prompt};
-
-###### ZM 1-1: début CS ######
-
-Hold it right there, buddy. This ain't no cafÃ©. What business do you have here?${prompt};Attendez un peu, l'ami. Que faites vous ici?${prompt}
+;
+###### ZM 1-1: début CS ######;
+;
+Hold it right there, buddy. This ain't no café. What business do you have here?${prompt};Attendez un peu, l'ami. Que faites vous ici?${prompt}
 You finally made it, ${name-player}.${prompt};Vous voila enfin ${name-player}.${prompt}
 Lion!${prompt};Lion!${prompt}
 You don't have to worry about ${name-player}. ${choice-player-gender}[He's/She's] okay.;Ne vous en faite pas pour ${name-player}. Vous pouvez  ${choice-player-gender}[le/la] laisser passer.
@@ -865,8 +537,8 @@ The ancient seal will be broken, awakening nightmares of ages past.${prompt};
 The blood of innocents will soak the earth, and the world will fall into fear and despair.${prompt};
 Hah! Galka, Humes, beastmen--no life on this planet has any purpose or meaning.${prompt};
 Like I told you before, we will not be handing over Vana'diel to anyone. This is our world.${prompt};
-Yes, I am no longer sensing the impurities that were blocking the power that lies deep within Vana'diel. The â€œnoiseâ€ has gone.${prompt};
-Simply defeating â€œhimâ€ twenty years ago did not silence the noise.${wait-animation: 1};
+Yes, I am no longer sensing the impurities that were blocking the power that lies deep within Vana'diel. The “noise” has gone.${prompt};
+Simply defeating “him” twenty years ago did not silence the noise.${wait-animation: 1};
 We ran into a snag. We were unable to release him from the crystal with our power alone.${prompt};
 However, with the Talekeeper, we had what we needed. But there is no need to go into the details of that here.${prompt};
 Wait...;
@@ -916,11 +588,11 @@ See that staircase over there? When you're feeling a little better, walk up thos
 There's someone I'd like you to meet. I'll go there first and tell him that you're coming.${prompt};
 Oh, and here, take this ${keyitem-singular: 6[2]}. Think of it as a present from a friend.${prompt};
 See you again.${prompt};
-
-###### ZM 1: end ######
-
-###### ZM 2: début CS #####
-
+;
+###### ZM 1: end ######;
+;
+###### ZM 2: début CS #####;
+;
 ${wait-animation: 1};
 Arrrg, welcome t'Norg.;
 I'm Gilgamesh, the leader of these scallywags. Me daughter's filled me in on your tale.${prompt};
@@ -957,18 +629,18 @@ No, Lion. I have another job fer you.${prompt};
 What?${prompt};
 Lion, I appreciate your words, but let me gather some information around Jeuno first.${prompt};
 Just knowing that Kam'lanaut is up to no good is a start. If I find out anything new, you will be the first to know.${prompt};
-
-###### ZM2: fin CS ########
-
+;
+###### ZM2: fin CS ########;
+;
 æœ€å¾Œã«ã€ä¸€ã¤ã„ã£ã¦ãŠãã“ã¨ãŒã‚ã‚‹ã€‚${prompt};
 ã“ã‚“ãªè©±ã€èª°ã‚‚ä¿¡ã˜ã¡ã‚ƒãã‚Œã¾ã„ã€‚;
 é€†ã«ã€æ€ªã—ã¾ã‚Œã¦ã€æ•ã¾ã£ã¡ã¾ã†ã‹ã‚‚ã—ã‚Œã‚“ã€‚;
 ã¨ã‚Šã‚ãˆãšã€ä¿ºãŸã¡ã ã‘ã§èª¿ã¹ã‚‹ã‚“ã ã€‚${prompt};
 ãƒ©ã‚¤ã‚ªãƒ³ã€;
 ãŠã¾ãˆã«ã‚ƒä»–ã«ã‚„ã£ã¦ã‚‚ã‚‰ã„ãŸã„ã“ã¨ãŒã‚ã‚‹ã€‚${prompt};
-
-#### ZM9: début CS #####
-
+;
+#### ZM9: début CS #####;
+;
 Arrrg, I heard from Lion about what happened at Delkfutt's Tower.${prompt};
 Our ancient friend called that island floatin' over Qufim â€œTu'Liaâ€...the Gate of the Gods.${prompt};
 Eald'narche also said that only those who have been blessed by the light and whose power has been accepted by the crystal can pass through the gate.${prompt};
@@ -985,9 +657,9 @@ Hold on there, missy. You're not going with ${name-player} this time. I need ya 
 But...but!${prompt};
 Don't talk back t'me. You know what ya have t'do, now go do it! I'll stay here and watch after me hideout.${prompt};
 ...${prompt};
-
-##### ZM9: fin #########
-
+;
+##### ZM9: fin #########;
+;
 Gnyah-hah-hoh! A fine lookin' adventurer you are. I heard that if the price is right, your kind will do almost anything.${prompt};
 How's about it? Are ya game?${prompt};
 Accept Muzaffar's offer?;
@@ -1301,9 +973,9 @@ There are a few items that me mateys couldn't acquire. I want ya t'go and get th
 Travel to one of them molten lava falls in Ifrit's Cauldron.${prompt};
 If you throw in ${article} ${item-article: 6[2]}, a monster will appear. Bring back the ${item-singular: 7[2]} that the beast has on it.${prompt};
 Do ya think you can handle it, ya landlubber?${prompt};
-
-###### Bastok 6-2 - CS début ######
-
+;
+###### Bastok 6-2 - CS début ######;
+;
 Hah hah hah! Me landlubbin' adventurer brought back ${article} ${item-article: 7[2]}. It looks like I need to find myself some new mateys! Hah hah hah!${prompt};
 I guess this means you've completed your mission. Now let me write you somethin' you can take back to...${prompt};
 That won't be necessary, sir.${prompt};
@@ -1325,9 +997,9 @@ Okay, okay. You go back and tell the old president I said hello.;
 Oh, and don't ya forget t'talk to Ryoma before you leave. It's the least ya could do fer him.${prompt};
 I'm sorry, but that will have to wait until another day... However, maybe next time I will bring along my younger sister.${prompt};
 Your assignment in Norg is complete. You may return to Bastok now, and do not forget to report to Naji upon your arrival.${prompt};
-
-##### Bastok 6-2 CS fin #####
-
+;
+##### Bastok 6-2 CS fin #####;
+;
 Who tha hell are you?;
 ${name-player}? Never heard of ya. How am I supposed to remember the name of one puny ant when there's millions of ya swarmin' around?${prompt};
 Do a little work around here, and there might be somebody that'll remember your ugly face...no guarantees, though.${prompt};
@@ -2060,10 +1732,10 @@ Samurai Artifact 2 flowchart;
 3: Get ${article} ${item-article: 2[2]} to repair the ${keyitem-singular: 1[2]}.;
 4: Hand over ${article} ${item-article: 2[2]}, wait one day (Earth time) and you're done!${prompt};
 ä¾AF: Ren was spanked in zone 144, baby.${prompt};
-
-
-##### ZM11: début #######
-
+;
+;
+##### ZM11: début #######;
+;
 Arrrg, so ya say ya couldn't journey deeper into the temple because a grate was blockin' yer way?${prompt};
 What? Ya saw a stairway on the other side of that bloomin' grate? Ha! Leave it t'the Zilart t'build somethin' crazy like that.${prompt};
 But this ain't no time fer complainin'. We've got t'figger out a way t'get t'that stairway.${prompt};
@@ -2075,16 +1747,16 @@ Listen up, ${name-player}. I want ya t'find a Mithra named Mary or Maroo or some
 Why all this trouble over a cat? Well, when that lady was here, she tried sellin' us a strange crystal she said she found in the Sanctuary of Zi'Tah.${prompt};
 I don't think she was tryin' t'pull a fast one, but no one was interested in her booty, so she packed up and left fer somewhere else.${prompt};
 But now that me thinks of it, that crystal she found in Zi'Tah may be jus' what we're lookin' fer.${prompt};
-
-##### ZM11 #####
-
+;
+##### ZM11 #####;
+;
 A thief like her won't be easy t'find. I'll have me mateys around Vana'diel spread the word that yer lookin' fer a crystal like the one she has.${prompt};
 If she gets wind of that info, that Maree's likely t'settle down until ya find her. We can only pray that what she has is what we need.${prompt};
 Arrrg, so that be the ${keyitem-singular: 0[2]} that we've been searchin' fer. It looks like you had a hell of a time tryin' t'get yer hands on it.${prompt};
 But the real hell is yet t'come, ${name-player}. Crystal Warriors...floating islands... It may all seem crazy, but don't let that get in yer way. Yer Vana'diel's only hope.${prompt};
-
-##### ZM15 début ######
-
+;
+##### ZM15 début ######;
+;
 Arrrg, so were ya able t'make it t'Tu'Lia?${prompt};
 Oh, so ya made them Crystal Warriors walk the plank now, did ya? Then that jus' leaves us with that wee prince. But first, we've got t'find a way into the darn shrine.${prompt};
 Is it Eald'narrrche that's keepin' us out, or is it somethin' else?${prompt};
@@ -2092,9 +1764,9 @@ Listen close, ${name-player}.${prompt};
 If the prince had already opened the Gate of the Gods, Vana'diel wouldn't be here anymore. But as you can see, nothin's changed so far.${prompt};
 Which means all we can do is wait. When Eald'narche makes his move...that's when we attack!${prompt};
 You'n me both hate the Zilarrrt makin' fools out of us, but there's nothing much we can do right now.${prompt};
-
-##### ZM15: fin ########
-
+;
+##### ZM15: fin ########;
+;
 We can't know when Eald'narche will attempt t'open the gate. It could be t'morrow, fer all I know. If ya have any preparations, I'd suggest makin' 'em now.${prompt};
 Hey, ${choice-player-gender}[mister/lady]. You look like you could use some extra cash, and what easier way to get gil than by making a date with Lady Luck?${prompt};
 Give â€œLucky Rollâ€ a try?;
@@ -2231,9 +1903,9 @@ Uncertain Futures(pt.7).${prompt};
 Which memory will you have recalled?;
 ${selection-lines};
 Nothing.${prompt};
-
-###### ZM17: début ######
-
+;
+###### ZM17: début ######;
+;
 Arrrg, I see you made it back safe 'n sound.${prompt};
 Yer story won't be goin' down in the annals of history, but there are some things that best go unknown.${prompt};
 Though if it wasn't fer you, we'd all be sleepin' down in Davy Jones's locker. Ya have me thanks, matey.${prompt};
@@ -2245,9 +1917,9 @@ And when me father told me I was t'take care of her...well, I can tell ya, I was
 But raisin' Lion taught me a lot about the world. If it wasn't fer her, I wouldn't be the man I be today.${prompt};
 I never knew what she thought about her father bein' a pirate...${prompt};
 But I can tell you one thing--I be mighty damn proud to have her as a daughter.${prompt};
-
-#### ZM17: fin ##########
-
+;
+#### ZM17: fin ##########;
+;
 Arrrg, the Zilarrrt's dream of Paradise may be over, but that doesn't change the fact that them beastmen still be crawlin' over the face of Vana'diel.${prompt};
 When ya think about it, this little charade with the princes may've just been the tip of the blimey iceberg.${prompt};
 And Lion... I haven't told the other scallywags what really happened t'her. They all think she's off on some adventure...${prompt};
@@ -3482,8 +3154,8 @@ Your ${keyitem-singular: 0[2]} has evolved into ${keyitem-article: 1[2]}!${promp
 Supply me with the ${number: 0} cruor necessary, and I shall gladly teleport you to an operation site of your choosing.${prompt};
 Select Voidwatch jurisdiction.;
 ${selection-lines};
-
-
+;
+;
 Voidwatch debug menu.;
 ${selection-lines};
 Do nothing.;
@@ -3538,8 +3210,8 @@ What will you do? (Kinetic Units: ${number: 3});
 ${selection-lines};
 Nothing.;
 Read an explanation!;
-
-
+;
+;
 (${number: 4} unit${choice-plurality: 4}[/s]);
 (${number: 4} unit${choice-plurality: 4}[/s]);
 (${number: 4} unit${choice-plurality: 4}[/s])${prompt};
@@ -4649,4 +4321,4 @@ ${selection-lines};
 Yes (View cutscene).;
 Maybe later.${prompt};
 Examine the Tales' Beginning in Lower Jeuno (G-9) when you wish to start A Crystalline Prophecy.;
-
+;
