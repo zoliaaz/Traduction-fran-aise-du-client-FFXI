@@ -1,4 +1,5 @@
 WARNING i'm not a developper, i made this with ChatGPT, or i should say it did it from i question and my suggestion.
+This tool is made to work with this https://github.com/zoliaaz/Traduction-fran-aise-du-client-FFXI.
 
 At the moment, the only problem, it's the sentance after line with |- . those sentance isn't found in the csv, but from different test, they got correctly extracted from yml and csv but the french part isn't extracted.
 
