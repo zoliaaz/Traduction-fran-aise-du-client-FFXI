@@ -27,7 +27,7 @@ def open_link(event):
 
 def start_gui(process_files_callback):
     root = tk.Tk()
-    root.title("YAML and CSV File Processing")
+    root.title("Implantation des traductions dans les fichier YML depuis un fichier CSV")
 
     # Create a ScrolledText widget to show logs
     log_text = scrolledtext.ScrolledText(root, wrap=tk.WORD, height=15, width=80)
