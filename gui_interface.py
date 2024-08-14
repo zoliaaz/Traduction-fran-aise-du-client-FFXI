@@ -5,6 +5,7 @@ from tkinter import ttk
 import sys
 import io
 from path_manager import load_paths, save_paths
+import webbrowser
 
 class RedirectText(io.StringIO):
     def __init__(self, text_widget):
@@ -14,6 +15,15 @@ class RedirectText(io.StringIO):
     def write(self, message):
         self.text_widget.insert(tk.END, message)
         self.text_widget.yview(tk.END)
+
+def select_directory(title):
+    root = tk.Tk()
+    root.withdraw()  # Hide the main window
+    folder_selected = filedialog.askdirectory(title=title)
+    return folder_selected
+
+def open_link(event):
+    webbrowser.open("https://github.com/zoliaaz/FFXI-fussionner_de_traduction")
 
 def start_gui(process_files_callback):
     root = tk.Tk()
@@ -42,12 +52,12 @@ def start_gui(process_files_callback):
     frame = tk.Frame(root)
     frame.pack(pady=10, padx=10)
 
-    tk.Label(frame, text="YAML Directory:").grid(row=0, column=0, padx=5, pady=5, sticky="e")
+    tk.Label(frame, text="Yml original Directory:").grid(row=0, column=0, padx=5, pady=5, sticky="e")
     yml_dir_var = tk.StringVar(value=yml_dir)
     tk.Entry(frame, textvariable=yml_dir_var, width=60).grid(row=0, column=1, padx=5, pady=5)
     tk.Button(frame, text="Browse", command=lambda: yml_dir_var.set(select_directory("Select YAML Directory"))).grid(row=0, column=2, padx=5, pady=5)
 
-    tk.Label(frame, text="CSV Directory:").grid(row=1, column=0, padx=5, pady=5, sticky="e")
+    tk.Label(frame, text="CSV with translation Directory:").grid(row=1, column=0, padx=5, pady=5, sticky="e")
     csv_dir_var = tk.StringVar(value=csv_dir)
     tk.Entry(frame, textvariable=csv_dir_var, width=60).grid(row=1, column=1, padx=5, pady=5)
     tk.Button(frame, text="Browse", command=lambda: csv_dir_var.set(select_directory("Select CSV Directory"))).grid(row=1, column=2, padx=5, pady=5)
@@ -75,10 +85,12 @@ def start_gui(process_files_callback):
         else:
             tk.Label(root, text="Please select all directories.").pack(pady=10)
 
-    root.mainloop()
+    # Add author credits
+    tk.Label(root, text="Author: Zoliaaz & ChatGPT - 14/08/2024", anchor="e").pack(side=tk.BOTTOM, pady=5, padx=10, anchor='e')
 
-def select_directory(title):
-    root = tk.Tk()
-    root.withdraw()  # Hide the main window
-    folder_selected = filedialog.askdirectory(title=title)
-    return folder_selected
+    # Add clickable link
+    link_label = tk.Label(root, text="https://github.com/zoliaaz/FFXI-fussionner_de_traduction", fg="blue", cursor="hand2")
+    link_label.pack(side=tk.BOTTOM, pady=5, padx=10, anchor='e')
+    link_label.bind("<Button-1>", open_link)
+
+    root.mainloop()
