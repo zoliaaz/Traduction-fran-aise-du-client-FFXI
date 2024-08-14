@@ -5,14 +5,33 @@ import tkinter as tk
 from tkinter import filedialog
 
 def load_yaml(file_path):
-    """Charge le fichier YAML et retourne les données."""
+    """Charge le fichier YAML en ignorant les sections avec des erreurs, autant que possible, et calcule le pourcentage de données extraites."""
+    data = {}
+    total_lines = 0
+    valid_lines = 0
     try:
         with open(file_path, 'r', encoding='utf-8') as file:
-            data = yaml.safe_load(file)
-            return data
+            lines = file.readlines()
+            total_lines = len(lines)
+            valid_yaml = ""
+            for line in lines:
+                try:
+                    # Essayez de charger chaque ligne individuellement
+                    yaml.safe_load(line)
+                    valid_yaml += line
+                    valid_lines += 1
+                except yaml.YAMLError:
+                    # Ignorer la ligne en cas d'erreur
+                    continue
+            data = yaml.safe_load(valid_yaml)
     except Exception as e:
         print(f"Erreur lors du chargement du fichier {file_path}: {e}")
-        return {}
+
+    # Calculer le pourcentage de lignes valides extraites
+    extraction_percentage = (valid_lines / total_lines) * 100 if total_lines > 0 else 0
+    print(f"Extraction réussie à {extraction_percentage:.2f}% pour le fichier : {file_path}")
+
+    return data or {}
 
 def extract_phrases(data):
     """Extrait les phrases des données YAML en utilisant les valeurs, en tenant compte des lignes séparées."""
@@ -20,7 +39,6 @@ def extract_phrases(data):
     if isinstance(data, dict):
         for value in data.values():
             if isinstance(value, str):
-                # Si le texte contient des sauts de ligne, divisez-le en plusieurs lignes
                 phrases.extend(value.split('\n'))
             elif isinstance(value, list):
                 for item in value:
@@ -29,17 +47,15 @@ def extract_phrases(data):
             elif isinstance(value, dict):
                 nested_phrases = extract_phrases(value)
                 phrases.extend(nested_phrases)
-    return [phrase.strip() for phrase in phrases if phrase.strip()]  # Nettoyage des espaces vides
+    return [phrase.strip() for phrase in phrases if phrase.strip()]
 
 def save_phrases_to_csv(english_phrases, french_phrases, file_path):
     """Sauvegarde les phrases anglaises et françaises dans un fichier CSV."""
     try:
         max_len = max(len(english_phrases), len(french_phrases))
-        # S'assurer que les deux listes ont la même longueur
         english_phrases.extend([""] * (max_len - len(english_phrases)))
         french_phrases.extend([""] * (max_len - len(french_phrases)))
 
-        # Créer un DataFrame avec des lignes alignées
         df = pd.DataFrame({
             'Phrase en Anglais': english_phrases,
             'Phrase en Français': french_phrases
@@ -67,13 +83,10 @@ def process_directories(english_dir, french_dir, output_dir):
                     print(f"Fichier correspondant introuvable pour : {english_file}")
                     continue
 
-                # Calculer le chemin relatif par rapport au répertoire anglais
                 relative_path = os.path.relpath(english_file, english_dir)
-                # Construire le chemin du fichier de sortie
                 output_file_dir = os.path.join(output_dir, os.path.dirname(relative_path))
                 output_file = os.path.join(output_file_dir, f"{os.path.splitext(file)[0]}.csv")
 
-                # Créer les répertoires nécessaires dans le répertoire de sortie
                 if not os.path.exists(output_file_dir):
                     os.makedirs(output_file_dir)
 
