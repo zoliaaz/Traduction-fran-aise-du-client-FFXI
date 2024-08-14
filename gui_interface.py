@@ -2,10 +2,8 @@ import os
 import tkinter as tk
 from tkinter import filedialog, scrolledtext
 from tkinter import ttk
-import pandas as pd
-import ruamel.yaml
-import io
 import sys
+import io
 from path_manager import load_paths, save_paths
 
 class RedirectText(io.StringIO):
@@ -41,27 +39,33 @@ def start_gui(process_files_callback):
         output_dir = ''
 
     # User interface
-    tk.Label(root, text="Please select the directory containing YAML files...").pack(pady=10)
+    frame = tk.Frame(root)
+    frame.pack(pady=10, padx=10)
+
+    tk.Label(frame, text="YAML Directory:").grid(row=0, column=0, padx=5, pady=5, sticky="e")
     yml_dir_var = tk.StringVar(value=yml_dir)
-    tk.Entry(root, textvariable=yml_dir_var, width=60).pack(pady=5)
-    tk.Button(root, text="Browse", command=lambda: yml_dir_var.set(select_directory("Select YAML Directory"))).pack(pady=5)
+    tk.Entry(frame, textvariable=yml_dir_var, width=60).grid(row=0, column=1, padx=5, pady=5)
+    tk.Button(frame, text="Browse", command=lambda: yml_dir_var.set(select_directory("Select YAML Directory"))).grid(row=0, column=2, padx=5, pady=5)
 
-    tk.Label(root, text="Please select the directory containing CSV files...").pack(pady=10)
+    tk.Label(frame, text="CSV Directory:").grid(row=1, column=0, padx=5, pady=5, sticky="e")
     csv_dir_var = tk.StringVar(value=csv_dir)
-    tk.Entry(root, textvariable=csv_dir_var, width=60).pack(pady=5)
-    tk.Button(root, text="Browse", command=lambda: csv_dir_var.set(select_directory("Select CSV Directory"))).pack(pady=5)
+    tk.Entry(frame, textvariable=csv_dir_var, width=60).grid(row=1, column=1, padx=5, pady=5)
+    tk.Button(frame, text="Browse", command=lambda: csv_dir_var.set(select_directory("Select CSV Directory"))).grid(row=1, column=2, padx=5, pady=5)
 
-    tk.Label(root, text="Please select the output directory for modified YAML files...").pack(pady=10)
+    tk.Label(frame, text="Output Directory:").grid(row=2, column=0, padx=5, pady=5, sticky="e")
     output_dir_var = tk.StringVar(value=output_dir)
-    tk.Entry(root, textvariable=output_dir_var, width=60).pack(pady=5)
-    tk.Button(root, text="Browse", command=lambda: output_dir_var.set(select_directory("Select Output Directory"))).pack(pady=5)
+    tk.Entry(frame, textvariable=output_dir_var, width=60).grid(row=2, column=1, padx=5, pady=5)
+    tk.Button(frame, text="Browse", command=lambda: output_dir_var.set(select_directory("Select Output Directory"))).grid(row=2, column=2, padx=5, pady=5)
 
-    tk.Label(root, text="Processing in progress...").pack(pady=10)
-
-    # Progress bar
     progress_var = tk.DoubleVar()
     progress_bar = ttk.Progressbar(root, variable=progress_var, maximum=100, length=400)
-    progress_bar.pack(pady=20)
+    progress_bar.pack(pady=10)
+
+    button_frame = tk.Frame(root)
+    button_frame.pack(pady=10)
+
+    tk.Button(button_frame, text="Start Processing", command=lambda: start_processing()).pack(side=tk.LEFT, padx=5)
+    tk.Button(button_frame, text="Quit", command=root.quit).pack(side=tk.LEFT, padx=5)
 
     def start_processing():
         save_paths(yml_dir_var.get(), csv_dir_var.get(), output_dir_var.get())
@@ -71,11 +75,6 @@ def start_gui(process_files_callback):
         else:
             tk.Label(root, text="Please select all directories.").pack(pady=10)
 
-    tk.Button(root, text="Start Processing", command=start_processing).pack(pady=20)
-    
-  
-    tk.Button(root, text="Quit", command=root.quit).pack(pady=20)
-    
     root.mainloop()
 
 def select_directory(title):
