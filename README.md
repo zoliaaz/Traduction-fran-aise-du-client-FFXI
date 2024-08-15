@@ -1,8 +1,6 @@
 WARNING i'm not a developper, i made this with ChatGPT, or i should say it did it from i question and my suggestion.
 This tool is made to work with this https://github.com/zoliaaz/Traduction-fran-aise-du-client-FFXI.
 
-At the moment, the only problem, it's the sentance after line with |- . those sentance isn't found in the csv, but from different test, they got correctly extracted from yml and csv but the french part isn't extracted.
-
 YAML and CSV File Translator
 Overview
 
@@ -12,7 +10,7 @@ Features
     Translate Phrases: Automatically translate phrases in YAML files using translations from a CSV file.
     Handle Different IDs: Resolve issues with different IDs or structures between YAML files and their translations by using a direct phrase-to-phrase mapping.
     Preserve YAML Format: Maintain the original formatting of YAML files, including block styles (|-) and quoted strings.
-    Visual Progress Tracking: View a progress bar that updates as files are processed.
+    
     User-Friendly GUI: Simple graphical interface for selecting directories and managing file processing.
 
 How It Works
@@ -33,35 +31,9 @@ How It Works
     Progress Reporting:
         A progress bar displays the percentage of files processed, providing real-time feedback on the operation's progress.
 
-Installation
 
-    Clone the Repository:
 
-    bash
-
-git clone https://github.com/yourusername/yaml-csv-translator.git
-cd yaml-csv-translator
-
-Install Dependencies:
-Ensure Python is installed and then install the required packages:
-
-bash
-
-pip install -r requirements.txt
-
-The requirements.txt file should include:
-
-    pandas
-    ruamel.yaml<0.18.0
-
-Usage
-
-    Run the Application:
-    Launch the script using Python:
-
-    bash
-
-    python translator.py
+Usage:
 
     Follow the Prompts:
         Select the directory containing the YAML files you want to translate.
@@ -70,7 +42,7 @@ Usage
 
     Processing Completion:
         The application processes and translates the YAML files as specified.
-        After processing, a completion message will be displayed, and the GUI will close automatically after a short delay.
+        After processing, a completion message will be displayed.
 
 Notes
 
@@ -85,4 +57,4 @@ Troubleshooting
 
     Contact
 
-For questions or issues, please contact [your email address] or open an issue on the GitHub repository.
+For questions or issues, please open an issue on the GitHub repository.
