@@ -28794,103 +28794,103 @@ entries:
   12850: |-
     But I says ta myself, “Gilgamesh, ain't no way ${choice-player-gender}[he/she] gonna kick th' bucket like that!”
     So I went out and searched fer ya.${prompt}
-  12851: 'That''s why I up and sent ya that letter, ${choice: 3}[Aphmau/Nashmeira].${prompt}'
-  12852: I couldn't imagine a greater shock...and so I pulled some strings to get here.${prompt}
-  12853: And I'm so glad I could see you again!${prompt}
-  12854: It came as such a shock! But I pulled some strings and had Ovjang shoo people away with vague excuses so that I could rush over here.${prompt}
-  12855: And I'm so glad I did!${prompt}
-  12856: So I says ta myself, “Gilgamesh, ain't no way ${choice-player-gender}[he/she] gonna kick the bucket like that!”${prompt}
-  12857: So I sent out letters to everyone I could think of!${prompt}
-  12858: Let me tell ya--no one's happier 'n me!${prompt}
-  12859: One of us has gotta up and tell Iroha!${prompt}
-  12860: '...Where''d she go, anyway?${prompt}'
-  12861: Iroha will be so pleased to hear about your recovery!${prompt}
-  12862: '...But where could she have gone off to?${prompt}'
-  12863: I...wish that I knew.${prompt}
-  12864: I'm certain Iroha would love to hear the news.${prompt}
-  12865: But if she's not here...then where could she be?${prompt}
-  12866: We've got to tell Iroha that you're awake!${prompt}
-  12867: But where'd she go?${prompt}
-  12868: All that's left is ta tell Iroha th' good news...${prompt}
-  12869: But no one knows where she went.${prompt}
-  12870: In my dream, she was in front of the crystal, surrounded by a strange glow.${prompt}
-  12871: It's got to be related to Reisenjima.${prompt}
-  12872: In my dream, she was in front o' th' crystal, surrounded by this strange glow.${prompt}
-  12873: Th' only conclusion we can come ta is that it's got somethin' ta do with Reisenjima.${prompt}
-  12874: But with all th' Emptiness in the eastern seas, there's no way we can get there.${prompt}
-  12875: I got Zeid and th' Tenshodo makin' inquiries, seein' if Iroha might be somewhere on the other continents.${prompt}
-  12876: Oh, don't look so glum.${prompt}
-  12877: Now that yer with us, th' future's brighter'n ever.${prompt}
-  12878: You really think so, pops?${prompt}
-  12879: We can only hope so.${prompt}
-  12880: It'll be brighter than ever!${prompt}
-  12881: She's right. Together we can overcome.${prompt}
-  12882: There's nothing we can't do if we work together!${prompt}
-  12883: ${name-player}, make sure ta come scurryin' back if ya hear anything.${prompt}
-  12884: You are now able to enjoy a new storyline, A Crystalline Prophecy.
+  12851: 'C'est pourquoi je t'ai envoyé cette lettre, ${choice: 3}[Aphmau/Nashmeira].${prompt}'
+  12852: Je ne pouvais imaginer un choc plus grand... alors j'ai tiré quelques ficelles pour arriver ici.${prompt}
+  12853: Et je suis tellement heureux de pouvoir te revoir !${prompt}
+  12854: Ça a été un tel choc ! Mais j'ai arrangé les choses et j'ai demandé à Ovjang de faire partir les gens avec des excuses vagues pour que je puisse me dépêcher d'arriver ici.${prompt}
+  12855: Et je suis tellement content d'avoir fait ça !${prompt}
+  12856: Alors je me suis dit, “Gilgamesh, il n'y a pas moyen que ${choice-player-gender}[il/elle] meure comme ça !”${prompt}
+  12857: Alors j'ai envoyé des lettres à tout le monde à qui je pouvais penser !${prompt}
+  12858: Laisse-moi te dire -- personne n'est plus heureux que moi !${prompt}
+  12859: L'un de nous doit aller dire à Iroha !${prompt}
+  12860: '...Où est-elle passée, d'ailleurs ?${prompt}'
+  12861: Iroha sera tellement contente d'entendre parler de ta guérison !${prompt}
+  12862: '...Mais où pourrait-elle être allée ?${prompt}'
+  12863: Je... j'aimerais bien le savoir.${prompt}
+  12864: Je suis sûr qu'Iroha aimerait entendre la nouvelle.${prompt}
+  12865: Mais si elle n'est pas ici... où pourrait-elle être ?${prompt}
+  12866: Nous devons dire à Iroha que tu es réveillé !${prompt}
+  12867: Mais où est-elle allée ?${prompt}
+  12868: Tout ce qu'il reste à faire, c'est dire à Iroha la bonne nouvelle...${prompt}
+  12869: Mais personne ne sait où elle est allée.${prompt}
+  12870: Dans mon rêve, elle était devant le cristal, entourée d'une étrange lueur.${prompt}
+  12871: Ça doit être lié à Reisenjima.${prompt}
+  12872: Dans mon rêve, elle était devant le cristal, entourée de cette étrange lueur.${prompt}
+  12873: La seule conclusion que nous pouvons tirer est que cela a quelque chose à voir avec Reisenjima.${prompt}
+  12874: Mais avec toute l'Emptiness dans les mers orientales, il est impossible d'y accéder.${prompt}
+  12875: J'ai demandé à Zeid et aux Tenshodo de faire des recherches pour voir si Iroha pourrait se trouver quelque part sur les autres continents.${prompt}
+  12876: Oh, ne fais pas cette tête.${prompt}
+  12877: Maintenant que tu es avec nous, l'avenir est plus radieux que jamais.${prompt}
+  12878: Tu penses vraiment ça, vieux ?${prompt}
+  12879: Nous ne pouvons qu'espérer.${prompt}
+  12880: Ce sera plus brillant que jamais !${prompt}
+  12881: Elle a raison. Ensemble, nous pouvons surmonter tout obstacle.${prompt}
+  12882: Il n'y a rien que nous ne puissions faire si nous travaillons ensemble !${prompt}
+  12883: ${name-player}, assure-toi de revenir en vitesse si tu entends quelque chose.${prompt}
+  12884: Vous pouvez maintenant profiter d'une nouvelle intrigue, Une Prophétie Cristalline.
   12885: |-
-    Start A Crystalline Prophecy?
+    Commencer Une Prophétie Cristalline ?
     ${selection-lines}
-    Yes (View cutscene).
-    Maybe later.${prompt}
-  12886: Examine the Tales' Beginning in Lower Jeuno (G-9) when you wish to start A Crystalline Prophecy.
-  12887: You are now able to enjoy a new storyline, A Shantotto Ascension.
+    Oui (Voir la cinématique).
+    Peut-être plus tard.${prompt}
+  12886: Examinez le Début des Contes à Bas Jeuno (G-9) lorsque vous souhaitez commencer Une Prophétie Cristalline.
+  12887: Vous pouvez maintenant profiter d'une nouvelle intrigue, Une Ascension de Shantotto.
   12888: |-
-    Start A Shantotto Ascension?
+    Commencer Une Ascension de Shantotto ?
     ${selection-lines}
-    Yes (View cutscene).
-    Maybe later.${prompt}
-  12889: Examine the Tales' Beginning in Windurst Walls (C-6) when you wish to start A Shantotto Ascension.
-  12890: You are now able to enjoy a new storyline, Abyssea.
+    Oui (Voir la cinématique).
+    Peut-être plus tard.${prompt}
+  12889: Examinez le Début des Contes dans les Murs de Windurst (C-6) lorsque vous souhaitez commencer Une Ascension de Shantotto.
+  12890: Vous pouvez maintenant profiter d'une nouvelle intrigue, Abyssea.
   12891: |-
-    Start Abyssea?
+    Commencer Abyssea ?
     ${selection-lines}
-    Yes (View cutscene).
-    Maybe later.${prompt}
-  12892: Examine the Tales' Beginning in Port Jeuno (F-8) when you wish to start Abyssea.
-  12893: You are now able to enjoy a new storyline, Chains of Promathia.
+    Oui (Voir la cinématique).
+    Peut-être plus tard.${prompt}
+  12892: Examinez le Début des Contes à Port Jeuno (F-8) lorsque vous souhaitez commencer Abyssea.
+  12893: Vous pouvez maintenant profiter d'une nouvelle intrigue, Les Chaînes de Promathia.
   12894: |-
-    Start Chains of Prromathia?
+    Commencer Les Chaînes de Promathia ?
     ${selection-lines}
-    Yes (View cutscene).
-    Maybe later.${prompt}
-  12895: Examine the Tales' Beginning in Lower Delkfutt's Tower (H-10) when you wish to start Chains of Promathia.
-  12896: You are now able to enjoy a new storyline, Seekers of Adoulin.
+    Oui (Voir la cinématique).
+    Peut-être plus tard.${prompt}
+  12895: Examinez le Début des Contes dans la Tour de Delkfutt (H-10) lorsque vous souhaitez commencer Les Chaînes de Promathia.
+  12896: Vous pouvez maintenant profiter d'une nouvelle intrigue, Les Chercheurs d'Adoulin.
   12897: |-
-    Start Seekers of Adoulin?
+    Commencer Les Chercheurs d'Adoulin ?
     ${selection-lines}
-    Yes (View cutscene).
-    Maybe later.${prompt}
-  12898: Examine the Tales' Beginning in Northern San d'Oria, Bastok Market,s or Windurst Woods when you wish to start Seekers of Adoulin.
-  12899: You are now able to enjoy a new storyline, Rhapsodies of Vana'diel.
+    Oui (Voir la cinématique).
+    Peut-être plus tard.${prompt}
+  12898: Examinez le Début des Contes dans le Nord de San d'Oria, les Marchés de Bastok, ou les Bois de Windurst lorsque vous souhaitez commencer Les Chercheurs d'Adoulin.
+  12899: Vous pouvez maintenant profiter d'une nouvelle intrigue, Rhapsodies de Vana'diel.
   12900: |-
-    Start Rhapsodies of Vana'diel?
+    Commencer Rhapsodies de Vana'diel?
     ${selection-lines}
-    Yes (View cutscene).
-    Maybe later.${prompt}
-  12901: Examine the Tales' Beginning in the three nations when you wish to start Rhapsodies of Vana'diel.
-  12902: You are now able to enjoy a new storyline, Rise of the Zilart.
+    Oui (Voir la cinématique).
+    Peut-être plus tard.${prompt}
+  12901: Examinez le Début des Contes dans les trois nations lorsque vous souhaitez commencer Rhapsodies de Vana'diel.
+  12902: Vous pouvez maintenant profiter d'une nouvelle intrigue, L'Ascension des Zilart.
   12903: |-
-    Start Rise of the zilart?
+    Commencer L'Ascension des Zilart ?
     ${selection-lines}
-    Yes (View cutscene).
-    Maybe later.${prompt}
-  12904: Examine the Tales' Beginning in Norg (H-9) when you wish to start Rise of the Zilart.
-  12905: Would you like to start a new storyline that you previously postponed?${prompt}
+    Oui (Voir la cinématique).
+    Peut-être plus tard.${prompt}
+  12904: Examinez le Début des Contes à Norg (H-9) lorsque vous souhaitez commencer L'Ascension des Zilart.
+  12905: Souhaitez-vous commencer une nouvelle intrigue que vous aviez précédemment reportée ?${prompt}
   12906: |-
-    Start which?
+    Commencer quoi ?
     ${selection-lines}
-    None for now.
-    Rise of the Zilart.
-    A Crystallinbe Prophecy.
-    A Shantotto Ascension.
-    Chains of Promathia.
+    Aucun pour l'instant.
+    L'Ascension des Zilart.
+    Une Prophétie Cristalline.
+    Une Ascension de Shantotto.
+    Les Chaînes de Promathia.
     Abyssea.
-    Seekers of Adoulin.
-    Rhapsodies of Vana'diel.${prompt}
-  12907: 'Start the previously postponed storyline ${choice: 0}[Rise of the Zilart/A Crystalline Prophecy/A Shantotto Ascenaion/Chains of Promthia/Abyssea/Seekers of Adoulin/Rhapsodies of Vana''diel]?${prompt}'
+    Les Chercheurs d'Adoulin.
+    Rhapsodies de Vana'diel.${prompt}
+  12907: 'Reprendre l'intrigue précédemment reportée ${choice: 0}[L'Ascension des Zilart/Une Prophétie Cristalline/Une Ascension de Shantotto/Les Chaînes de Promathia/Abyssea/Les Chercheurs d'Adoulin/Rhapsodies de Vana'diel] ?${prompt}'
   12908: |-
-    Start the storyline?
+    Démarrer l'intrigue ?
     ${selection-lines}
-    Yes, please.
-    No, thank you.${prompt}
+    Oui, merci.
+    Non, merci.${prompt}
