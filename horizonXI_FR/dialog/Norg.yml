@@ -21588,66 +21588,66 @@ entries:
   10009: The door is sealed.${prompt}
   10010: Your opponents deem you too weak to be worthwhile, disappearing whence they came.${prompt}
   10011: For your own safety, it is recommended that you set this location as your home point after changing jobs.${prompt}
-  10012: Hold it right there, buddy. This ain't no café. What business do you have here?${prompt}
-  10013: You finally made it, ${name-player}.${prompt}
+  10012: Attendez un peu, l'ami. Que faites vous ici?${prompt}
+  10013: Vous voila enfin ${name-player}.${prompt}
   10014: Lion!${prompt}
   10015: |-
-    You don't have to worry about ${name-player}. ${choice-player-gender}[He's/She's] okay.
-    Anyway, I thought you guys welcomed adventurers.${prompt}
-  10016: Understood.${prompt}
-  10017: Well, for starters, I should welcome you to Norg.${prompt}
-  10018: However, as much as I'd like to sit down and talk about old times over a bottle of 813 Rolanberry, we must first face our new problem with Kam'lanaut.${prompt}
-  10019: You mean you don't remember what happened at Castle Zvahl?${prompt}
+    Ne vous en faite pas pour ${name-player}. Vous pouvez  ${choice-player-gender}[le/la] laisser passer.
+    Et puis, les aventuriers sont les bienvenus à Norg, non? Je vais m'occuper de ${choice-player-gender}[lui/elle].${prompt}
+  10016: Compris. Je vous laisse.${prompt}
+  10017: Pour commencer, je vous souhaite la bienvenue à Norg.${prompt}
+  10018: J'aimerais fêter nos retrouvailles autour d'une bouteille de Rolanberry 813, mais nous devons d'abord nous occuper de notre nouveau problème concernant Kam'lanaut.${prompt}
+  10019: …. Quoi? Vous voulez dire que vous ne vous souvenez plus de ce qui est arrivé au Château Zyahl?${prompt}
   10020: |-
     .......${name-player}......
-    Are yo......lright......${name-player}......${wait-animation: 3}
-  10021: It all began with a stone, or so the legend says.${prompt}
-  10022: In ages past, a sentient jewel, enormous and beautiful, banished the darkness. Its many-colored light filled the world with life and brought forth mighty gods.${prompt}
-  10023: Bathed in that light, the world entered an age of bliss until, after a time, the gods fell into slumber. That world was called Vana'diel.${prompt}
+    Vous allez…. bien... ${name-player}......${wait-animation: 3}
+  10021: La légende raconte que tout commença avec une pierre.${prompt}
+  10022: En des temps reculés, un immense joyau étincelant bannit les ténèbres. Sa lumière multicolore apporta la vie sur terre et donna naissance à de puissants dieux.${prompt}
+  10023: Baigné dans sa clarté, le monde entra dans un âge béni, et les dieux finirent par tomber dans un sommeil paisible. Ce monde s'appelait Vana'diel.${prompt}
   10024: |-
-    The legend goes on to say...
-    From the darkest depths of the earth the Warriors of the Crystal rose...${prompt}
-  10025: Do you remember?${prompt}
-  10026: Yes... I do now.${prompt}
-  10027: Raogrimm, it is good to have you back. How has all this come to be?${prompt}
-  10028: As you know, I was the Talekeeper of the Galka--the keeper of our race's memories. But there was so much pain, so much anger...${prompt}
-  10029: I let myself become trapped in a dark abyss of swirling rage and madness...${prompt}
+    La légende continue ainsi…
+    Des profondeurs les plus obscures émergèrent les Guerriers du Cristal…${prompt}
+  10025: Vous vous souvenez?${prompt}
+  10026: Oui… Je m'en souviens maintenant.${prompt}
+  10027: Raogrimm, c'est bon de vous retrouver. Comment tout cela est-il arrivé ? ${prompt}
+  10028: Comme vous le savez, j'étais le conteur des Galka, le gardien des souvenirs de notre race. Mais il y avait tant de douleur, tant de colère...${prompt}
+  10029: Je me suis laissé piéger dans un sombre abîme de rage et de folie... ${prompt}
   10030: Raogrimm...${prompt}
-  10031: People are capable of kindness beyond angels, yet we also commit sins that would put a demon to shame...${prompt}
-  10032: We all stand precariously on the edge between darkness and light... And when we fall, we are greeted by only madness and chaos.${prompt}
-  10033: And so I have fallen...${prompt}
-  10034: Quite an interesting show you put on.${prompt}
+  10031: Les gens sont capables de bonté au-delà des anges, pourtant nous commettons aussi des péchés qui feraient honte à un démon... ${prompt}
+  10032: Nous sommes tous en équilibre précaire sur le bord entre les ténèbres et la lumière... Et quand nous tombons, nous ne sommes accueillis que par la folie et le chaos. ${prompt}
+  10033: Et j'ai sombré...${prompt}
+  10034: Un spectacle plutôt intéressant.${prompt}
   10035: I don't know. It could have used a little more excitement.${prompt}
-  10036: The Galka can never do anything right.${prompt}
-  10037: The Archduke of Jeuno and... What are you two doing here!?${prompt}
-  10038: 'We come to reap the seeds that we have sown.${wait-animation: 2}'
+  10036: Les Galka ne peuvent jamais rien faire correctement.${prompt}
+  10037: L'Archiduc de Jeuno et... Que faites-vous ici, vous deux!?${prompt}
+  10038: 'Nous venons récolter ce que nous avons semées.${wait-animation: 2}'
   10039: 'You''ve performed your duty well, as ignorant as you are.${wait-animation: 3}'
-  10040: I can see that we still have a little more cleaning up to do, but that won't be a problem.${prompt}
-  10041: What are you going on about? Give us some answers!${prompt}
-  10042: Listen carefully, you sorry excuses for sentient beings. The Crystal Line will soon be revived and the Gate of the Gods will open.${prompt}
-  10043: That is when the true Vana'diel of legend will be reborn.${prompt}
-  10044: Eternal paradise. The land of the gods. The dream we Zilart have held on to for ten thousand years is about to become a reality.${prompt}
-  10045: Zilart? You... You can't be! That civilization perished thousands of years ago!${prompt}
-  10046: The great bane will devour the fair land of Vana'diel.${prompt}
-  10047: The ancient seal will be broken, awakening nightmares of ages past.${prompt}
-  10048: The blood of innocents will soak the earth, and the world will fall into fear and despair.${prompt}
-  10049: Hah! Galka, Humes, beastmen--no life on this planet has any purpose or meaning.${prompt}
-  10050: Like I told you before, we will not be handing over Vana'diel to anyone. This is our world.${prompt}
-  10051: Yes, I am no longer sensing the impurities that were blocking the power that lies deep within Vana'diel. The “noise” has gone.${prompt}
-  10052: 'Simply defeating “him” twenty years ago did not silence the noise.${wait-animation: 1}'
-  10053: We ran into a snag. We were unable to release him from the crystal with our power alone.${prompt}
-  10054: However, with the Talekeeper, we had what we needed. But there is no need to go into the details of that here.${prompt}
+  10040: Je vois qu'il nous reste encore un peu de nettoyage à faire, mais ça ne sera pas un problème.${prompt}
+  10041: Que comptez-vous faire? Répondez!${prompt}
+  10042: Écoutez bien, vous, êtres doués de sensibilité. La ligne du Cristal sera bientôt ravivée et la porte des Dieux s'ouvrira.${prompt}
+  10043: C'est alors que le véritable légende de Vana'diel renaîtra.${prompt}
+  10044: Le paradis éternel. La terre des dieux. Le rêve que nous, les Zilart, entretenons depuis dix mille ans est sur le point de se concrétiser.${prompt}
+  10045: Les Zilarts? Mais... Mais, c’est impossible! Cette civilisation a péri il y a des milliers d'années!${prompt}
+  10046: Un grand fléau engloutira les terres bénies de Vana'diel.${prompt}
+  10047: Le sceau antique sera brisé, réveillant les cauchemars des âges passés.${prompt}
+  10048: Le sang des innocents se répandra la terre, et le monde sombrera dans la peur et le désespoir.${prompt}
+  10049: Hah! Galka, Humes, hommes-bêtes… Aucune vie sur cette planète n'a de but ni de sens.${prompt}
+  10050: Comme je vous l'ai dit auparavant, nous ne céderons Vana'diel à personne. C'est notre monde.${prompt}
+  10051: Oui, je ne sens plus les impuretés qui bloquaient le pouvoir qui repose au plus profond de Vana'diel. Le "bruit" a disparu.${prompt} 
+  10052: 'Le fait d’avoir vaincu ce "bruit", il y a vingt ans, ne l’avait pas réduit pour autant au silence.${wait-animation: 1}'
+  10053: Nous avons rencontré un obstacle. Notre puissance n’a pas suffi à le libérer du cristal.${prompt}
+  10054: Cependant, avec le gardien des souvenirs, nous avions ce qu'il nous fallait. Mais il n'est pas nécessaire de rentrer dans les détails ici.${prompt}
   10055: |-
-    Wait...
-    I can hear them...
-    I can hear the five lifeforces...${prompt}
+    Attendez…
+    Je les entends…
+    Je entends les cinq forces vitales...${prompt}
   10056: |-
-    I can hear them approaching...
-    Minions of the Crystal.${prompt}
-  10057: But as one bright star shines through the clouds at night...${prompt}
-  10058: And as one song rings clear above the roar of beasts...${prompt}
-  10059: We hold to one hope in these darkest of times.${prompt}
-  10060: This world is nothing but a grave, and you are the maggots that squirm through the rotting corpse.${prompt}
+    Je les entends approcher...
+    Les serviteurs du Cristal.${prompt}
+  10057: Mais telle une étoile perce les nuages de la nuit...${prompt}
+  10058: Tel un chant qui s'élève au-dessus du rugissement des bêtes...${prompt}
+  10059: Nous gardons un espoir en ces temps sinistres.${prompt}
+  10060: video à 5:39
   10061: It is time we put an end to Vana'diel as it is now.${prompt}
   10062: 'Hear us! We sing the song of hope...and your requiem! ${wait-animation: 1}'
   10063: That they will come, with the wisdom of ages and the strength of thousands, to deliver us from our plight.${prompt}
@@ -23351,7 +23351,7 @@ entries:
   10928: |-
     Me...free...
     Thanks to you. Me, your...${prompt}
-  10929: Wait...${prompt}
+  10929: Attendez…${prompt}
   10930: What the...?${prompt}
   10931: |-
     Ah, now I see.
