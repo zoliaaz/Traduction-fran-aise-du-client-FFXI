@@ -53,7 +53,7 @@ entries:
     Point de retour #5${choice: 5}[/ (M)/ (A)/ (E)].${prompt}
   9: Vous n'avez pas encore enregistré d'autres points de retour, et vous ne pouvez donc pas vous téléporter.${prompt}
   10: 'Il en coûte ${number: 3} gil pour se téléporter au Point de retour #${number: 2} dans ${zone: 1[2]}.'
-  11: 'Il n'y a pas de frais pour se téléporter au Point de retour #${number: 2} dans ${zone: 1[2]}.'
+  11: 'Il n’y a pas de frais pour se téléporter au Point de retour #${number: 2} dans ${zone: 1[2]}.'
   12: |-
     Se téléporter ? (Gil actuel : ${number: 0})
     ${selection-lines}
@@ -21453,14 +21453,14 @@ entries:
   9946: |-
     En retour, la fabrication de ${article} ${item-article: 0[2]} nécessite ${article} ${item-article: 1[2]} et ${article} ${item-article: 2[2]}.
     Ajoute ${article} ${item-article: 3[2]} au mélange, et ce que tu cherches sera à toi.${prompt}
-  9947: 'Je crains que nous n'ayons pas ${item-plural: 0[2]} ici. Mais il te ravira de savoir que les squelettes vivant dans les Mines de Gusgen sont connus pour en laisser tomber de temps en temps.${prompt}'
+  9947: 'Je crains que nous n’ayons pas ${item-plural: 0[2]} ici. Mais il te ravira de savoir que les squelettes vivant dans les Mines de Gusgen sont connus pour en laisser tomber de temps en temps.${prompt}'
   9948: |-
     Que viens-tu faire ici ? Eh bien, ${article} ${item-article: 0[2]}, de toutes choses...
     Tu ne pourrais espérer en fabriquer sans quelques ${item-plural: 1[2]}, mais je crains qu'ils ne soient pas souvent en stock chez les vendeurs.${prompt}
   9949: |-
     Mais tu me sembles être du genre intrépide, alors je vais te partager quelques connaissances pour t'aider dans ta quête.
     Va aux Cavernes d'Ordelle. Tue suffisamment de chauves-souris là-bas, et tu pourrais bien obtenir quelques ${item-plural: 0[2]}. C'est l'ingrédient principal nécessaire pour fabriquer ${article} ${item-article: 1[2]}.${prompt}
-  9950: 'Tout ce qui reste, c'est de lier le tout avec ${article} ${item-article: 0[2]} en utilisant ${article} ${item-article: 2[2]}. Bonne chance !${prompt}'
+  9950: 'Tout ce qui reste, c’est de lier le tout avec ${article} ${item-article: 0[2]} en utilisant ${article} ${item-article: 2[2]}. Bonne chance !${prompt}'
   9951: |-
     Toi... Oui, la description correspond.
     Je dirais que tu es celui qu'“elle” a envoyé, n'est-ce pas ?${prompt}
@@ -21477,7 +21477,7 @@ entries:
   9956: Tu dois enquêter sur un certain nombre de créatures se trouvant dans la Grotte du Serpent Marin à ma place.${prompt}
   9957: 'Si tu ne possèdes pas ${article} ${item-article: 0[2]} et ${item-plural: 1[2]}, je peux te les fournir pour un modeste prix de 800 gil.${prompt}'
   9958: 'Utiliser le ${item-singular: 0[2]} transformera ${article} ${item-article: 1[2]} en ${article} ${item-article: 2[2]}--un enregistrement visuel des caractéristiques physiques du sujet.${prompt}'
-  9959: 'Je suis actuellement en train d'enquêter sur ${entity: 0}, ${entity: 1}, et ${entity: 2}.${prompt}'
+  9959: 'Je suis actuellement en train d’enquêter sur ${entity: 0}, ${entity: 1}, et ${entity: 2}.${prompt}'
   9960: |-
     Hmm ? Il semble que tu sois surchargé.
     Reviens me parler après avoir réorganisé tes affaires.${prompt}
@@ -21509,9 +21509,9 @@ entries:
   9970: |-
     Comme promis, je te remets cela.
     Si une autre image est nécessaire, tu me trouveras ici.${prompt}
-  9971: 'J'ai besoin d'images du ${entity: 0}, du ${entity: 1}, et du ${entity: 2}.${prompt}'
-  9972: 'Tu n'as pas encore apporté d'images du ${entity: 0} et du ${entity: 1}.${prompt}'
-  9973: 'Tu n'as pas encore apporté d'image du ${entity: 0}.${prompt}'
+  9971: 'J’ai besoin d’images du ${entity: 0}, du ${entity: 1}, et du ${entity: 2}.${prompt}'
+  9972: 'Tu n’as pas encore apporté d’images du ${entity: 0} et du ${entity: 1}.${prompt}'
+  9973: 'Tu n’as pas encore apporté d’image du ${entity: 0}.${prompt}'
   9974: C'est une belle image, mais cette créature n'est pas l'un des sujets de mon enquête.${prompt}
   9975: Je crains de ne pas avoir le temps pour échanger des politesses avec des étrangers au hasard. Veuillez me laisser tranquille.${prompt}
   9976: |-
