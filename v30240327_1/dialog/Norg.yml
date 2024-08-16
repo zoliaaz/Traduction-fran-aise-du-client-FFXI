@@ -22463,90 +22463,90 @@ entries:
     Fork me!
     On second thought...${prompt}
   10524: |-
-    Well, you asked for it!
-    Take this ${item-singular: 1[2]} and ring it near one of those giant crystals. The prime avatar won't be slap-happy to be woken up, and you'll have to deal with its wrath.${prompt}
-  10525: 'I guess because you are helping us check out this new tuning fork, I can use my mighty-minty magic to warp you near the giant crystal in ${choice: 2}[Ifrit''s Cauldron/the Quicksand Caves/the Den of Rancor/Cape Teriggan/Fei''Yin/the Boyahda Tree]. When you''re ready, just show my companion the ${item-singular: 1[2]}.${prompt}'
-  10526: 'The researcher who made the ${item-singular: 1[2]} warned that “the door home would only open to those who defeated the prime avatar.”${prompt}'
+    Eh bien, tu l'as demandé !
+    Prends ce ${item-singular: 1[2]} et fais-le sonner près d'un de ces cristaux géants. L'avatar primordial ne sera pas content d'être réveillé, et tu devras affronter sa colère.${prompt}
+  10525: 'Je suppose qu'étant donné que tu nous aides à tester ce nouveau fork, je peux utiliser ma magie pour te téléporter près du cristal géant à ${choice: 2}[l'Écu d'Ifrit/les Cavernes de Quicksand/le Repaire de la Colère/le Cap Teriggan/Fei'Yin/l'Arbre de Boyahda]. Quand tu es prêt, montre simplement le ${item-singular: 1[2]} à mon compagnon.${prompt}'
+  10526: 'Le chercheur qui a créé le ${item-singular: 1[2]} a averti que “la porte du retour ne s'ouvrirait qu'à ceux qui avaient vaincu l'avatar primordial.”${prompt}'
   10527: |-
-    I'm not quite sure what that is supposed to mean, but I suggest that you prepare well before taking on this journey.
-    Remember, you have to be at least a level ${number: 3} summoner.${prompt}
-  10528: 'Are you and Carbuncle ready to fight the prime avatar as a level ${number: 3} summoner?${prompt}'
-  10529: Also, regardless of whether you defeat the avatar or not, you will be unable to re-enter the protocrystal again for a number of days.${prompt}
+    Je ne suis pas tout à fait sûr de ce que cela signifie, mais je te conseille de bien te préparer avant de te lancer dans ce voyage.
+    N'oublie pas, tu dois être au moins un summoner de niveau ${number: 3}.${prompt}
+  10528: 'Es-tu prêt à affronter l'avatar primordial en tant que summoner de niveau ${number: 3} avec Carbuncle ?${prompt}'
+  10529: De plus, peu importe si tu vaincs l'avatar ou non, tu ne pourras pas entrer de nouveau dans le protocrystal pendant plusieurs jours.${prompt}
   10530: |-
-    Are you sure you are ready?
+    Es-tu sûr d'être prêt ?
     ${selection-lines}
-    Off to ${choice: 2}[Ifrit's Cauldron/the Quicksand Caves/the Den of Rancor/Cape Teriggan/Fei'Yin/the Boyahda Tree]!
-    My dog ate my ${color: 5}mini tuning fork${color: 1}.
-    Not just yet...${prompt}
-  10531: Sir, our adventurer has completed ${choice-player-gender}[his/her] preparations and requests a warp.${prompt}
+    En route pour ${choice: 2}[l'Écu d'Ifrit/les Cavernes de Quicksand/le Repaire de la Colère/le Cap Teriggan/Fei'Yin/l'Arbre de Boyahda] !
+    Mon chien a mangé mon ${color: 5}mini tuning fork${color: 1}.
+    Pas encore...${prompt}
+  10531: Monsieur, notre aventurier a terminé ${choice-player-gender}[ses préparatifs/son préparatif] et demande un téléport.${prompt}
   10532: |-
     ...
     Abracadoodle-strudel-poodle...
     ...
-  10533: Sha-mone!
+  10533: Sha-mone !
   10534: |-
-    Don't use that excuse on me, ${choice-player-gender}[young man/young lady].
-    If you want another ${item-singular: 1[2]}, all you have to do ask.${prompt}
-  10535: 'If you do not bring the ${item-singular: 1[2]} we gave you, my companion cannot warp you to ${choice: 2}[Ifrit''s Cauldron/the Quicksand Caves/the Den of Rancor/Cape Teriggan/Fei''Yin/the Boyahda Tree].${prompt}'
-  10536: 'Did you remember to bring the ${item-singular: 1[2]}?${prompt}'
+    Ne me fais pas ce genre d'excuse, ${choice-player-gender}[jeune homme/jeune femme].
+    Si tu veux un autre ${item-singular: 1[2]}, il te suffit de demander.${prompt}
+  10535: 'Si tu n'apportes pas le ${item-singular: 1[2]} que nous t'avons donné, mon compagnon ne pourra pas te téléporter à ${choice: 2}[l'Écu d'Ifrit/les Cavernes de Quicksand/le Repaire de la Colère/le Cap Teriggan/Fei'Yin/l'Arbre de Boyahda].${prompt}'
+  10536: 'As-tu bien pensé à apporter le ${item-singular: 1[2]} ?${prompt}'
   10537: |-
-    What!?
-    You defeated the prime avatar!?${prompt}
-  10538: Sir!${prompt}
+    Quoi !?
+    Tu as vaincu l'avatar primordial !?${prompt}
+  10538: Monsieur !${prompt}
   10539: |-
     Hmmm...
-    Just as I thoughtaru. The prime avatar that you fought with this spunky-junky tuning fork was nothing but a fake. Researching real avatars with real tuning forks is how real researchers do real research in the real world!${prompt}
+    Juste comme je le pensais. L'avatar primordial que tu as affronté avec ce fork démodé n'était rien d'autre qu'un faux. Rechercher de vrais avatars avec de vrais forks est la façon dont les vrais chercheurs font de vraies recherches dans le vrai monde !${prompt}
   10540: |-
     ...
-    Sir...${prompt}
+    Monsieur...${prompt}
   10541: |-
     ...${wait-36: 1}
-    (Now if I could only find me some real work so I could do some real adventuring...)${prompt}
-  10542: 'I don''t think you''ll get much out of it, but if you want to go get your buttaru kicked by the prime avatar again, all you have to do is ring another ${item-singular: 1[2]} near a giant crystal.${prompt}'
-  10543: 'Remember that you must fight the prime avatar as a level ${number: 3} summoner. As you already know, this will not be an easy task. Prepare well for the battle.${prompt}'
+    (Si seulement je pouvais trouver un vrai travail pour faire de la vraie aventure...)${prompt}
+  10542: 'Je ne pense pas que vous en tirerez grand-chose, mais si vous voulez encore vous faire botter les fesses par l'avatar primordial, il vous suffit de faire sonner un autre ${item-singular: 1[2]} près d'un cristal géant.${prompt}'
+  10543: 'N'oubliez pas que vous devez affronter l'avatar primordial en tant que summoner de niveau ${number: 3}. Comme vous le savez déjà, ce ne sera pas une tâche facile. Préparez-vous bien pour le combat.${prompt}'
   10544: |-
-    Do you want another ${color: 5}mini tuning fork${color: 1}?
+    Voulez-vous un autre ${color: 5}mini-tuning fork${color: 1} ?
     ${selection-lines}
-    Fork me baby, one more time.
-    Stick a fork in me, I'm done.${prompt}
-  10545: Hey! You're that famous adventurer, ${name-player}!${prompt}
-  10546: Maybe you can help us outaru!${prompt}
-  10547: Let me introduce myself. I am from the Rhinostery in Windurst. I do research on various living things.${prompt}
-  10548: You already-weddy know about the super-giant crystals, rightaru?${prompt}
-  10549: "These crystals are found all over Vana'diel, and their energies affect the surrounding ecosystems. \nOur research team had been investigating the unusual emanations when POOF, out of nowhere, a prime avatar appeared and sliced 'n diced us down to size.${prompt}"
+    Donnez-moi la fourchette, encore une fois.
+    J’en ai assez, mettez-moi une fourchette.${prompt}
+  10545: Hé ! Vous êtes ce célèbre aventurier, ${name-player} !${prompt}
+  10546: Peut-être que vous pouvez nous aider !${prompt}
+  10547: Permettez-moi de me présenter. Je viens du Rhinostery à Windurst. Je fais des recherches sur divers êtres vivants.${prompt}
+  10548: Vous savez déjà pour les cristaux super-géants, n'est-ce pas ?${prompt}
+  10549: "Ces cristaux se trouvent partout à Vana'diel, et leurs énergies affectent les écosystèmes environnants. \nNotre équipe de recherche enquêtait sur les émanations inhabituelles quand POUF, de nulle part, un avatar primordial est apparu et nous a tranchés en morceaux.${prompt}"
   10550: |-
-    Why do these avatars so despise talking with us that they would rather fight?
-    And what on Vana'diel would happen if someone were to defeat them?${prompt}
-  10551: You were able to handle one all by yourself. You should have no problem defeating one with your buddy-wuddies. You'll help us out, right?${prompt}
-  10552: Ahem, now let me introduce myself...${prompt}
-  10553: Ah, you are back. How was your battle with the avatar?${prompt}
-  10554: Remember, the protocrystals will only resonate with the tuning forks ever so often. Use this time to rest before taking upon another challenge.${prompt}
-  10555: I'm a traveling moogle, kupo. I help adventurers in the Outlands access items they have stored in a Mog House elsewhere, kupo.${prompt}
-  10556: This isn't a Mog House, so you can only use the “Mog Safe,” “Change Jobs,” and “Delivery Box” commands, kupo.${prompt}
-  10557: 'You have to pay fee of ${number: 0} gil to transfer your items to the Outlands, kupo. Why? Because the world is a cold place for rogue moogles, kupo.${prompt}'
-  10558: Of course, you can move your items back to your Mog House in town, but if you want to transfer them to the Outlands again, you'll have to pay another fee, kupo. I've got to make a living too, kupo.${prompt}
+    Pourquoi ces avatars détestent-ils tant discuter avec nous qu'ils préfèrent se battre ?
+    Et que se passerait-il à Vana'diel si quelqu'un parvenait à les vaincre ?${prompt}
+  10551: Vous avez pu gérer un tout seul. Vous ne devriez avoir aucun problème à vaincre un avec vos compagnons. Vous allez nous aider, n'est-ce pas ?${prompt}
+  10552: Hem, laissez-moi maintenant me présenter...${prompt}
+  10553: Ah, vous êtes de retour. Comment s'est déroulée votre bataille contre l'avatar ?${prompt}
+  10554: N'oubliez pas, les protocrystaux ne résonneront avec les diapasons que de temps en temps. Profitez de ce temps pour vous reposer avant de relever un nouveau défi.${prompt}
+  10555: Je suis un mog voyageur, kupo. J'aide les aventuriers dans les Terres Sauvages à accéder aux objets qu'ils ont stockés dans une Maison Mog ailleurs, kupo.${prompt}
+  10556: Ce n'est pas une Maison Mog, donc vous ne pouvez utiliser que les commandes « Mog Safe », « Changer de classe » et « Boîte de livraison », kupo.${prompt}
+  10557: 'Vous devez payer une taxe de ${number: 0} gil pour transférer vos objets vers les Terres Sauvages, kupo. Pourquoi ? Parce que le monde est un endroit froid pour les mogs errants, kupo.${prompt}'
+  10558: Bien sûr, vous pouvez déplacer vos objets de nouveau vers votre Maison Mog en ville, mais si vous souhaitez les transférer aux Terres Sauvages à nouveau, vous devrez payer une autre taxe, kupo. Je dois aussi gagner ma vie, kupo.${prompt}
   10559: |-
-    Transfer items? (Current gil:${number: 1})
+    Transférer des objets ? (Gil actuel:${number: 1})
     ${selection-lines}
-    Pay ${number: 0} gil.
-    Don't transfer items.${prompt}
-  10560: You don't have enough gil, kupo.${prompt}
-  10561: Item transfer complete, kupo.${prompt}
+    Payer ${number: 0} gil.
+    Ne pas transférer d'objets.${prompt}
+  10560: Vous n'avez pas assez de gil, kupo.${prompt}
+  10561: Transfert d'objet terminé, kupo.${prompt}
   10562: '${number: 2} , ${number: 3}${prompt}'
-  10563: I am Heiji. I teach my young pupils the ways of the ninja.${prompt}
-  10564: The fundamentals of ninjutsu lie not in the arms and hands, but in the lower body.${prompt}
-  10565: My students must learn to utilize their lower body swiftly, precisely, and efficiently, even while under the binds of restricting equipment.${prompt}
-  10566: 'However, for training such as this, I require ten ${item-plural: 7[2]}. If carrying so many at one time is a burden for you, feel free to bring them to me one at a time.${prompt}'
-  10567: 'You have brought me ${number: 0} ${item-given-plurality: 0[2], 7[2]} so far. When you have brought me the tenth one, I will reward you nicely.${prompt}'
-  10568: 'Yes, ten ${item-plural: 7[2]} at last. I may now continue my pupils'' training. Here is the reward I promised you.${prompt}'
-  10569: I am Heizo. Like Master Heiji, I teach my young pupils the ways of the ninja.${prompt}
-  10570: The fundamentals of ninjutsu lie not in the arms and hands, but in the lower body.${prompt}
-  10571: My students must learn to utilize their legs swiftly, precisely, and efficiently, even while under the binds of restricting equipment.${prompt}
-  10572: 'However, for grueling training such as this, I require ten ${item-plural: 7[2]}. I realize carrying this many at one time may be a burden for you, so feel free to bring them to me one at a time.${prompt}'
-  10573: 'You have brought me ${item-count: 0[2]} ${item-given-plurality: 0[2], 7[2]} so far. When you have brought me ten, I will reward you nicely.${prompt}'
-  10574: 'Yes, ten ${item-plural: 7[2]} at last. My pupils may now continue their training. Here is the reward I promised you.${prompt}'
+  10563: Je suis Heiji. J'enseigne aux jeunes élèves les voies du ninja.${prompt}
+  10564: Les fondamentaux du ninjutsu ne résident pas dans les bras et les mains, mais dans le bas du corps.${prompt}
+  10565: Mes élèves doivent apprendre à utiliser rapidement, précisément et efficacement leur bas du corps, même sous les contraintes d'équipements restrictifs.${prompt}
+  10566: 'Cependant, pour un entraînement tel que celui-ci, j'ai besoin de dix ${item-plural: 7[2]}. Si porter autant d'un coup est un fardeau pour vous, n'hésitez pas à me les apporter un par un.${prompt}'
+  10567: 'Vous m'avez apporté ${number: 0} ${item-given-plurality: 0[2], 7[2]} jusqu'à présent. Lorsque vous m'aurez apporté le dixième, je vous récompenserai généreusement.${prompt}'
+  10568: 'Oui, dix ${item-plural: 7[2]} enfin. Je peux maintenant poursuivre l'entraînement de mes élèves. Voici la récompense que je vous avais promise.${prompt}'
+  10569: Je suis Heizo. Comme le Maître Heiji, j'enseigne aux jeunes élèves les voies du ninja.${prompt}
+  10570: Les fondamentaux du ninjutsu ne résident pas dans les bras et les mains, mais dans le bas du corps.${prompt}
+  10571: Mes élèves doivent apprendre à utiliser leurs jambes rapidement, précisément et efficacement, même sous les contraintes d'équipements restrictifs.${prompt}
+  10572: 'Cependant, pour un entraînement aussi exigeant, j'ai besoin de dix ${item-plural: 7[2]}. Je comprends que porter autant d'un coup peut être un fardeau pour vous, alors n'hésitez pas à me les apporter un par un.${prompt}'
+  10573: 'Vous m'avez apporté ${item-count: 0[2]} ${item-given-plurality: 0[2], 7[2]} jusqu'à présent. Lorsque vous m'aurez apporté dix, je vous récompenserai généreusement.${prompt}'
+  10574: 'Oui, dix ${item-plural: 7[2]} enfin. Mes élèves peuvent maintenant poursuivre leur entraînement. Voici la récompense que je vous avais promise.${prompt}'
   10575: |-
-    Select a name for your Wyvern.
+    Sélectionnez un nom pour votre wyverne.
     ${selection-lines}
     Azure
     Cerulean
@@ -22580,30 +22580,30 @@ entries:
     Tatang
     Nanaja
     Khocha${prompt}
-  10576: Your wyvern has a new name.${prompt}
-  10577: Your wyvern has a new name.${prompt}
+  10576: Votre wyverne a un nouveau nom.${prompt}
+  10577: Votre wyverne a un nouveau nom.${prompt}
   10578: |-
-    Is this the name you really want?
+    Est-ce vraiment le nom que vous souhaitez ?
     ${selection-lines}
-    This is the one.
-    I need more time to think.
-    Forget about it.${prompt}
-  10579: Oi 'av naw business wi' de likes av you.${prompt}
-  10580: Oi spy ye've got a gran' wyvern dare witcha.${prompt}
-  10581: Ye gave a name ter yer wyvern whaen yer made yer pact, roi? Well, I'll let ye in on a secret. Did ye know ye can change yer wyvern's name?${prompt}
-  10582: 'If ye pay me fee of ${number: 7} gil, oi can ''elp yer. Waaat do yer say? You can alwus back oyt at any time.${prompt}'
-  10583: 'Ye want ter change yer wyvern''s name again? Jes pay me fee of ${number: 7} gil, an'' oi can ''elp yer.${prompt}'
+    C'est celui-ci.
+    J'ai besoin de plus de temps pour réfléchir.
+    Oubliez ça.${prompt}
+  10579: Eh bien, je n'ai pas de business avec des gens comme vous.${prompt}
+  10580: Je vois que vous avez un superbe wyverne avec vous.${prompt}
+  10581: Vous avez donné un nom à votre wyverne lorsque vous avez fait votre pacte, n'est-ce pas ? Eh bien, je vais vous révéler un secret. Saviez-vous que vous pouvez changer le nom de votre wyverne ?${prompt}
+  10582: 'Si vous me payez une taxe de ${number: 7} gil, je peux vous aider. Que dites-vous ? Vous pouvez toujours revenir sur votre décision.${prompt}'
+  10583: 'Vous voulez changer le nom de votre wyverne ? Il vous suffit de me payer une taxe de ${number: 7} gil, et je peux vous aider.${prompt}'
   10584: |-
-    Ask the woman for her help?
+    Demander de l'aide à la femme ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  10585: A wyvern's name is a part av its destiny. A change may be good for it. Come back if ye change yer mind.${prompt}
-  10586: Choose a new name from de followin'. An' don't go givin' yer wyvern de seem name, now, hear?${prompt}
-  10587: Waaat a gran' name ye 'av chosen. Good day!${prompt}
-  10588: You don't 'av enough gil. Come back whaen ye do.${prompt}
+    Oui.
+    Non.${prompt}
+  10585: Le nom d'une wyverne fait partie de son destin. Un changement peut lui être bénéfique. Revenez si vous changez d'avis.${prompt}
+  10586: Choisissez un nouveau nom parmi les suivants. Et ne donnez pas à votre wyverne le même nom, d'accord ?${prompt}
+  10587: Quel beau nom vous avez choisi. Bonne journée !${prompt}
+  10588: Vous n'avez pas assez de gil. Revenez quand vous en aurez.${prompt}
   10589: |-
-    Select a name for your wyvern.
+    Sélectionnez un nom pour votre wyverne.
     ${selection-lines}
     Azure
     Cerulean
@@ -22635,10 +22635,10 @@ entries:
     Vhiki
     Sasavi
     Tatang
-    Look at the next list.
-    Quit${prompt}
+    Consulter la liste suivante.
+    Quitter${prompt}
   10590: |-
-    Select a name for your wyvern.
+    Sélectionnez un nom pour votre wyverne.
     ${selection-lines}
     Nanaja
     Khocha
@@ -22669,11 +22669,11 @@ entries:
     Ginger
     Muffin
     Lumineux
-    Look at the previous list.
-    Look at the next list.
-    Quit${prompt}
+    Consulter la liste précédente.
+    Consulter la liste suivante.
+    Quitter${prompt}
   10591: |-
-    Select a name for your wyvern.
+    Sélectionnez un nom pour votre wyverne.
     ${selection-lines}
     Quatrevents
     Toryu
@@ -22704,11 +22704,11 @@ entries:
     Tora
     Celeste
     Galja-Mogalja
-    Look at the previous list.
-    Look at the next list.
-    Quit${prompt}
+    Consulter la liste précédente.
+    Consulter la liste suivante.
+    Quitter${prompt}
   10592: |-
-    Select a name for your wyvern.
+    Sélectionnez un nom pour votre wyverne.
     ${selection-lines}
     Gaboh
     Vhyun
@@ -22739,9 +22739,9 @@ entries:
     Tupah
     Jyubih
     Majha
-    Look at the previous list.
-    Look at the next list.
-    Quit${prompt}
+    Consulter la liste précédente.
+    Consulter la liste suivante.
+    Quitter${prompt}
   10593: Hiya! My name's Solby-Maholby! I'm new here, so they put me on tooty-fruity shop duty. I'll give you a super-duper deal on unwanted items!${prompt}
   10594: 'If you wish to ride a chocobo, you must possess ${keyitem-article: 7[2]} and have a high enough job level.${prompt}'
   10595: 'You can rent a chocobo for ${number: 0} gil. I see you currently have ${number: 1} gil.${prompt}'
