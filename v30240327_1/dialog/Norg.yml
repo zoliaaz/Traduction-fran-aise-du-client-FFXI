@@ -27528,297 +27528,295 @@ entries:
   12224: 48 14${prompt}
   12225: 48 15${prompt}
   12226: |-
-    Voidwatch debug menu.
+    Menu de débogage de Voidwatch.
     ${selection-lines}
-    Do nothing.
-    Obtain 5,000,000 cruor.
-    Obtain necessary items.
-    Obtain level one items.${prompt}
-  12227: You obtain a full set of Voidwatch key items, and may now participate in any and all Voidwatch operations.${prompt}
-  12228: You now have 5,000,000 cruor!${prompt}
+    Ne rien faire.
+    Obtenez 5 000 000 cruor.
+    Obtenez les objets nécessaires.
+    Obtenez les objets de niveau un.${prompt}
+  12227: Vous obtenez un ensemble complet d'objets clés de Voidwatch et pouvez désormais participer à toutes les opérations de Voidwatch.${prompt}
+  12228: Vous avez maintenant 5 000 000 cruor !${prompt}
   12229: |-
-    Hello, there. Terrible day, isn't it?
-    My name's Wistful Bison, and I made the painful trek here from Adoulin.${prompt}
+    Bonjour. Quelle journée terrible, n'est-ce pas ?
+    Je m'appelle Bison Nostalgique, et j'ai fait le douloureux voyage jusqu'ici depuis Adoulin.${prompt}
   12230: |-
-    I'm here on a mission, so I'm not supposed to chat with any old person.
-    I can only talk to those with jobs from Anastase. Sorry.${prompt}
+    Je suis ici en mission, donc je ne suis pas censé discuter avec n'importe qui.
+    Je ne peux parler qu'à ceux ayant des missions d'Anastase. Désolé.${prompt}
   12231: |-
-    Are you an adventurer?
-    I see you have ${keyitem-article: 0[2]}. You got that from Anastase, didn't you?${prompt}
-  12232: If that's the case, I've found where the magnetic field is at its strongest, but...${prompt}
-  12233: The person in charge tells me I have to keep fishing up subligaria and leggings from the local waters before he'll let me...never mind. You don't want to hear my depressing stories anyway.${prompt}
-  12234: Let's just get this over with. Do you want to record the activity at this spot?${prompt}
+    Êtes-vous un aventurier ?
+    Je vois que vous avez ${keyitem-article: 0[2]}. Vous avez obtenu cela d'Anastase, n'est-ce pas ?${prompt}
+  12232: Si c'est le cas, j'ai trouvé où le champ magnétique est le plus fort, mais...${prompt}
+  12233: La personne en charge me dit que je dois continuer à pêcher des subligaria et des leggings dans les eaux locales avant qu'il ne me laisse... peu importe. De toute façon, vous ne voulez pas entendre mes histoires déprimantes.${prompt}
+  12234: Passons à autre chose. Voulez-vous enregistrer l'activité à cet endroit ?${prompt}
   12235: |-
-    I see. That's how it always is.
-    I should really be used to this treatment by now.${prompt}
+    Je vois. C'est toujours comme ça.
+    Je devrais vraiment être habitué à ce traitement maintenant.${prompt}
   12236: |-
-    <Sigh> Sometimes I can barely work up the energy to do even the simplest task.
-    Put your ${keyitem-singular: 0[2]} here, I guess.${prompt}
+    <Soupir> Parfois, je peine même à rassembler l'énergie pour accomplir la tâche la plus simple.
+    Mettez votre ${keyitem-singular: 0[2]} ici, je suppose.${prompt}
   12237: |-
-    Oh, joy...you succeeded.
-    It's now ready to go whenever you are.${prompt}
+    Oh, joie... vous avez réussi.
+    C'est maintenant prêt à partir quand vous l'êtes.${prompt}
   12238: |-
-    I've been told to mind this waypoint, so use it as much as you want.
-    No one ever takes my feelings into account anyway.${prompt}
+    On m'a dit de surveiller ce point de repère, alors utilisez-le autant que vous le souhaitez.
+    Personne ne prend jamais en compte mes sentiments de toute façon.${prompt}
   12239: |-
-    As I'm sure is obvious, my burning passion for adventure led me to join this survey of the Middle Lands.
-    On my way here, though, I <sigh> got lost in a cave. I always get lost.${prompt}
-  12240: I was able to get out by remembering to put my right hand on the wall and...ugh, you don't care.${prompt}
-  12241: Eventually I wandered here. With all the strange artifacts around, this isn't the worst place I could've ended up.${prompt}
-  12242: What, Anastase wants a report from me?${prompt}
+    Comme il est évident, ma passion brûlante pour l'aventure m'a poussé à rejoindre cette enquête sur les Terres du Milieu.
+    En route, cependant, je <soupir> me suis perdu dans une grotte. Je me perds toujours.${prompt}
+  12240: J'ai réussi à sortir en me souvenant de mettre ma main droite sur le mur et... pfff, vous vous en fichez.${prompt}
+  12241: Finalement, j'ai erré ici. Avec tous ces artefacts étranges autour, ce n'est pas le pire endroit où je pouvais finir.${prompt}
+  12242: Quoi, Anastase veut un rapport de ma part ?${prompt}
   12243: |-
-    <Mutter> I guess I don't have a choice...
-    It'd look bad if you reported in and I didn't.${prompt}
-  12244: Thanks for giving me more work to do, stranger.${prompt}
-  12245: Oh, and while we're making unnecessary small talk...${prompt}
-  12246: Can I ask where in the world we are?${prompt}
+    <Marmonnement> Je suppose que je n'ai pas le choix...
+    Ça aurait l'air mal si vous rapportiez et que je ne le faisais pas.${prompt}
+  12244: Merci de m'avoir donné plus de travail à faire, étranger.${prompt}
+  12245: Oh, et pendant que nous faisons de la conversation inutile...${prompt}
+  12246: Puis-je demander où nous sommes ?${prompt}
   12247: |-
-    Norg...?
-    That's not where I wanted to go at all...${prompt}
-  12248: That's what happens when all you're told is to set a waypoint where the geomagnetic resonance is strong, though.${prompt}
-  12249: I report to the minister of commerce, so I'm supposed to be gathering information on trade in the area...${prompt}
+    Norg... ?
+    Ce n'est pas du tout où je voulais aller...${prompt}
+  12248: C'est ce qui arrive quand on vous dit simplement de placer un point de repère où la résonance géomagnétique est forte.${prompt}
+  12249: Je fais rapport au ministre du Commerce, donc je suis censé recueillir des informations sur le commerce dans la région...${prompt}
   12250: |-
-    Thanks for that.
-    It doesn't help much, but I'll take what I can get.${prompt}
-  12251: Have this in return. I hate fish, so I wasn't going to eat it anyway.${prompt}
+    Merci pour cela.
+    Ça n'aide pas beaucoup, mais je prendrai ce que je peux avoir.${prompt}
+  12251: Recevez ceci en retour. Je déteste le poisson, donc je n'avais pas l'intention de le manger de toute façon.${prompt}
   12252: |-
-    Well, could a day for greeting visitors be any gloomier?
-    What can I do for you?${prompt}
+    Eh bien, une journée pour accueillir les visiteurs pourrait-elle être plus sombre ?
+    Que puis-je faire pour vous ?${prompt}
   12253: |-
-    Anastase told you to bring me something?
-    Great--not like it will divert my attention from this monotony for long, though.${prompt}
-  12254: Other than keeping the waypoints in check, there's not much for me to do out here. Just the same tired routine, week after week...${prompt}
-  12255: Tell him that things are going well, but that I really need a break.${prompt}
-  12256: A waypoint lies before you in all its mystery.
-  12257: You were unable to warp to your desired destination.
+    Anastase vous a demandé de m'apporter quelque chose ?
+    Super--cela ne détournera pas mon attention de cette monotonie pendant longtemps, cependant.${prompt}
+  12254: En dehors de la surveillance des points de repère, il n'y a pas grand-chose à faire ici. Juste la même routine fatiguante, semaine après semaine...${prompt}
+  12255: Dites-lui que tout se passe bien, mais que j'ai vraiment besoin d'une pause.${prompt}
+  12256: Un point de repère se trouve devant vous dans tout son mystère.
+  12257: Vous n'avez pas pu vous téléporter à votre destination souhaitée.
   12258: |-
-    What will you do? (Kinetic Units: ${number: 3})
+    Que ferez-vous ? (Unités cinétiques : ${number: 3})
     ${selection-lines}
-    Nothing.
-    Read an explanation!
-    Go to Western Adoulin.
-    Go to Eastern Adoulin.
-    Go to Ceizak Battlegrounds.
-    Go to Yahse Hunting Grounds.
-    Go to Foret de Hennetiel.
-    Go to Morimar Basalt Fields.
-    Go to Yorcia Weald.
-    Go to Marjami Ravine.
-    Go to Kamihr Drifts.
-    Go to Jeuno. (${number: 4} unit${choice-plurality: 4}[/s])
-    Go to an enigmatic device.
-    Use runes.
-    Decline destination confirmation.
-    Accept destination confirmation.${prompt}
+    Rien.
+    Lire une explication !
+    Aller à Adoulin Occidental.
+    Aller à Adoulin Oriental.
+    Aller aux Champs de Bataille de Ceizak.
+    Aller aux Zones de Chasse de Yahse.
+    Aller à la Forêt de Hennetiel.
+    Aller aux Champs de Basalte de Morimar.
+    Aller au Bois de Yorcia.
+    Aller au Ravin de Marjami.
+    Aller aux Glaces de Kamihr.
+    Aller à Jeuno. (${number: 4} unité${choice-plurality: 4}[/s])
+    Aller à un dispositif énigmatique.
+    Utiliser des runes.
+    Refuser la confirmation de destination.
+    Accepter la confirmation de destination.${prompt}
   12259: |-
-    What will you do? (Kinetic Units: ${number: 3})
+    Que ferez-vous ? (Unités cinétiques : ${number: 3})
     ${selection-lines}
-    Nothing.
-    Read an explanation.
-    Go to Western Adoulin. (${number: 4} unit${choice-plurality: 4}[/s])
-    Decline destination confirmation.
-    Accept destination confirmation.${prompt}
+    Rien.
+    Lire une explication.
+    Aller à Adoulin Occidental. (${number: 4} unité${choice-plurality: 4}[/s])
+    Refuser la confirmation de destination.
+    Accepter la confirmation de destination.${prompt}
   12260: |-
-    Choose a destination. (Kinetic Units: ${number: 3})
+    Choisissez une destination. (Unités cinétiques : ${number: 3})
     ${selection-lines}
-    Back.
-    Northern San d'Oria. (${number: 4} unit${choice-plurality: 4}[/s])
-    Bastok Markets. (${number: 4} unit${choice-plurality: 4}[/s])
-    Windurst Woods. (${number: 4} unit${choice-plurality: 4}[/s])
-    Selbina. (${number: 4} unit${choice-plurality: 4}[/s])
-    Mhaura. (${number: 4} unit${choice-plurality: 4}[/s])
-    Kazham. (${number: 4} unit${choice-plurality: 4}[/s])
-    Rabao. (${number: 4} unit${choice-plurality: 4}[/s])
-    Norg. (${number: 4} unit${choice-plurality: 4}[/s])
-    Tavnazian Safehold. (${number: 4} unit${choice-plurality: 4}[/s])
-    Aht Urhgan Whitegate. (${number: 4} unit${choice-plurality: 4}[/s])
-    Nashmau. (${number: 4} unit${choice-plurality: 4}[/s])
-    (${number: 4} unit${choice-plurality: 4}[/s])
-    (${number: 4} unit${choice-plurality: 4}[/s])
-    (${number: 4} unit${choice-plurality: 4}[/s])
-    (${number: 4} unit${choice-plurality: 4}[/s])
-    (${number: 4} unit${choice-plurality: 4}[/s])
-    (${number: 4} unit${choice-plurality: 4}[/s])
-    (${number: 4} unit${choice-plurality: 4}[/s])
-    (${number: 4} unit${choice-plurality: 4}[/s])
-    (${number: 4} unit${choice-plurality: 4}[/s])
-    (${number: 4} unit${choice-plurality: 4}[/s])
-    (${number: 4} unit${choice-plurality: 4}[/s])
-    (${number: 4} unit${choice-plurality: 4}[/s])
-    (${number: 4} unit${choice-plurality: 4}[/s])
-    (${number: 4} unit${choice-plurality: 4}[/s])
-    (${number: 4} unit${choice-plurality: 4}[/s])
-    (${number: 4} unit${choice-plurality: 4}[/s])
-    (${number: 4} unit${choice-plurality: 4}[/s])
-    (${number: 4} unit${choice-plurality: 4}[/s])
-    (${number: 4} unit${choice-plurality: 4}[/s])${prompt}
-  12261: 'Your ${keyitem-singular: 1[2]} has been attuned to a geomagnetic fount${choice: 0}[/ in front of the Peacekeepers'' Coalition/ in front of the Scouts'' Coalition/ at the Statue of the Goddess/ at the wharf to Yahse Hunting Grounds/ in front of your Rent-a-Room/ in front of the auction house/ on Sverdhried Hillock/ in the Coronal Esplanade/ at the gates of Castle Adoulin]!${prompt}'
+    Retour.
+    San d'Oria Nord. (${number: 4} unité${choice-plurality: 4}[/s])
+    Marchés de Bastok. (${number: 4} unité${choice-plurality: 4}[/s])
+    Bois de Windurst. (${number: 4} unité${choice-plurality: 4}[/s])
+    Selbina. (${number: 4} unité${choice-plurality: 4}[/s])
+    Mhaura. (${number: 4} unité${choice-plurality: 4}[/s])
+    Kazham. (${number: 4} unité${choice-plurality: 4}[/s])
+    Rabao. (${number: 4} unité${choice-plurality: 4}[/s])
+    Norg. (${number: 4} unité${choice-plurality: 4}[/s])
+    Refuge de Tavnazia. (${number: 4} unité${choice-plurality: 4}[/s])
+    Port d'Aht Urhgan. (${number: 4} unité${choice-plurality: 4}[/s])
+    Nashmau. (${number: 4} unité${choice-plurality: 4}[/s])
+    (${number: 4} unité${choice-plurality: 4}[/s])
+    (${number: 4} unité${choice-plurality: 4}[/s])
+    (${number: 4} unité${choice-plurality: 4}[/s])
+    (${number: 4} unité${choice-plurality: 4}[/s])
+    (${number: 4} unité${choice-plurality: 4}[/s])
+    (${number: 4} unité${choice-plurality: 4}[/s])
+    (${number: 4} unité${choice-plurality: 4}[/s])
+    (${number: 4} unité${choice-plurality: 4}[/s])
+    (${number: 4} unité${choice-plurality: 4}[/s])
+    (${number: 4} unité${choice-plurality: 4}[/s])
+    (${number: 4} unité${choice-plurality: 4}[/s])
+    (${number: 4} unité${choice-plurality: 4}[/s])
+    (${number: 4} unité${choice-plurality: 4}[/s])
+    (${number: 4} unité${choice-plurality: 4}[/s])
+    (${number: 4} unité${choice-plurality: 4}[/s])
+    (${number: 4} unité${choice-plurality: 4}[/s])
+    (${number: 4} unité${choice-plurality: 4}[/s])${prompt}
+  12261: 'Votre ${keyitem-singular: 1[2]} a été accordé à une source géomagnétique${choice: 0}[/ devant la Coalition des Peacekeepers/ devant la Coalition des Scouts/ à la Statue de la Déesse/ au quai des Zones de Chasse de Yahse/ devant votre Chambre à Louer/ devant la maison de vente aux enchères/ sur le Mont Sverdhried/ dans l'Esplanade Coronale/ aux portes du Château d'Adoulin] !${prompt}'
   12262: |-
-    Choose a destination. (Kinetic Units: ${number: 3})
+    Choisissez une destination. (Unités cinétiques : ${number: 3})
     ${selection-lines}
-    Nowhere, thanks.
-    Peacekeepers' Coalition. (${number: 4} unit${choice-plurality: 4}[/s])
-    Scouts' Coalition. (${number: 4} unit${choice-plurality: 4}[/s])
-    Statue of the Goddess. (${number: 4} unit${choice-plurality: 4}[/s])
-    The wharf to Yahse. (${number: 4} unit${choice-plurality: 4}[/s])
-    Your Rent-a-Room. (${number: 4} unit${choice-plurality: 4}[/s])
-    The auction house. (${number: 4} unit${choice-plurality: 4}[/s])
-    Sverdhried Hillock. (${number: 4} unit${choice-plurality: 4}[/s])
-    The Coronal Esplanade. (${number: 4} unit${choice-plurality: 4}[/s])
-    Castle Adoulin gates. (${number: 4} unit${choice-plurality: 4}[/s])${prompt}
-  12263: 'Your ${keyitem-singular: 1[2]} has been attuned to a geomagnetic fount${choice: 0}[/ in Platea Triumphus (Couriers'' Coalition)/ in front of the Pioneers'' Coalition/ in front of the Mummers'' Coalition/ in front of the Inventors'' Coalition/ in front of the auction house/ in front of your Rent-a-Room/ by Big Bridge/ by the airship docks/ on the Adoulin Waterfront]!${prompt}'
+    Nulle part, merci.
+    Coalition des Peacekeepers. (${number: 4} unité${choice-plurality: 4}[/s])
+    Coalition des Scouts. (${number: 4} unité${choice-plurality: 4}[/s])
+    Statue de la Déesse. (${number: 4} unité${choice-plurality: 4}[/s])
+    Le quai pour Yahse. (${number: 4} unité${choice-plurality: 4}[/s])
+    Votre Chambre à Louer. (${number: 4} unité${choice-plurality: 4}[/s])
+    La maison de vente aux enchères. (${number: 4} unité${choice-plurality: 4}[/s])
+    Mont Sverdhried. (${number: 4} unité${choice-plurality: 4}[/s])
+    L'Esplanade Coronale. (${number: 4} unité${choice-plurality: 4}[/s])
+    Les portes du Château d'Adoulin. (${number: 4} unité${choice-plurality: 4}[/s])${prompt}
+  12263: 'Votre ${keyitem-singular: 1[2]} a été accordé à une source géomagnétique${choice: 0}[/ dans Platea Triumphus (Coalition des Courriers)/ devant la Coalition des Pionniers/ devant la Coalition des Comédiens/ devant la Coalition des Inventeurs/ devant la maison de vente aux enchères/ devant votre Chambre à Louer/ près du Grand Pont/ près des docks des aéronefs/ sur le Front de Mer d'Adoulin] !${prompt}'
   12264: |-
-    Choose a destination. (Kinetic Units: ${number: 3})
+    Choisissez une destination. (Unités cinétiques : ${number: 3})
     ${selection-lines}
-    Nowhere, thanks.
-    Platea Triumphus (COU Co.). (${number: 4} unit${choice-plurality: 4}[/s])
-    Pioneers' Coalition. (${number: 4} unit${choice-plurality: 4}[/s])
-    Mummers' Coalition. (${number: 4} unit${choice-plurality: 4}[/s])
-    Inventors' Coalition. (${number: 4} unit${choice-plurality: 4}[/s])
-    Auction house. (${number: 4} unit${choice-plurality: 4}[/s])
-    Your Rent-a-Room. (${number: 4} unit${choice-plurality: 4}[/s])
-    Big Bridge. (${number: 4} unit${choice-plurality: 4}[/s])
-    Airship docks. (${number: 4} unit${choice-plurality: 4}[/s])
-    Adoulin Waterfront. (${number: 4} unit${choice-plurality: 4}[/s])${prompt}
-  12265: 'Your ${keyitem-singular: 1[2]} has been attuned to a geomagnetic fount${choice: 0}[/ at the frontier station/ at Frontier Bivouac #1/ at Frontier Bivouac #2/ at Frontier Bivouac #3]!${prompt}'
+    Rien, merci.
+    Platea Triumphus (COU Co.). (${number: 4} unité${choice-plurality: 4}[/s])
+    Coalition des Pionniers. (${number: 4} unité${choice-plurality: 4}[/s])
+    Coalition des Comédiens. (${number: 4} unité${choice-plurality: 4}[/s])
+    Coalition des Inventeurs. (${number: 4} unité${choice-plurality: 4}[/s])
+    Maison de vente aux enchères. (${number: 4} unité${choice-plurality: 4}[/s])
+    Votre Chambre à Louer. (${number: 4} unité${choice-plurality: 4}[/s])
+    Grand Pont. (${number: 4} unité${choice-plurality: 4}[/s])
+    Docks des aéronefs. (${number: 4} unité${choice-plurality: 4}[/s])
+    Front de Mer d'Adoulin. (${number: 4} unité${choice-plurality: 4}[/s])${prompt}
+  12265: 'Votre ${keyitem-singular: 1[2]} a été accordé à une source géomagnétique${choice: 0}[/ à la station frontière/ au Bivouac Frontière #1/ au Bivouac Frontière #2/ au Bivouac Frontière #3] !${prompt}'
   12266: |-
-    Choose a destination. (Kinetic Units: ${number: 3})
+    Choisissez une destination. (Unités cinétiques : ${number: 3})
     ${selection-lines}
-    Nowhere.
-    Frontier Station. (${number: 4} unit${choice-plurality: 4}[/s])
-    Frontier Bivouac #1. (${number: 4} unit${choice-plurality: 4}[/s])
-    Frontier Bivouac #2. (${number: 4} unit${choice-plurality: 4}[/s])
-    Frontier Bivouac #3. (${number: 4} unit${choice-plurality: 4}[/s])${prompt}
-  12267: 'Your ${keyitem-singular: 1[2]} has been attuned to a geomagnetic fount${choice: 0}[/ at the frontier station/ at Frontier Bivouac #1/ at Frontier Bivouac #2/ at Frontier Bivouac #3]!${prompt}'
+    Nulle part.
+    Station Frontière. (${number: 4} unité${choice-plurality: 4}[/s])
+    Bivouac Frontière #1. (${number: 4} unité${choice-plurality: 4}[/s])
+    Bivouac Frontière #2. (${number: 4} unité${choice-plurality: 4}[/s])
+    Bivouac Frontière #3. (${number: 4} unité${choice-plurality: 4}[/s])${prompt}
+  12267: 'Votre ${keyitem-singular: 1[2]} a été accordé à une source géomagnétique${choice: 0}[/ à la station frontière/ au Bivouac Frontière #1/ au Bivouac Frontière #2/ au Bivouac Frontière #3] !${prompt}'
   12268: |-
-    Choose a destination. (Kinetic Units: ${number: 3})
+    Choisissez une destination. (Unités cinétiques : ${number: 3})
     ${selection-lines}
-    Nowhere.
-    Frontier Station. (${number: 4} unit${choice-plurality: 4}[/s])
-    Frontier Bivouac #1. (${number: 4} unit${choice-plurality: 4}[/s])
-    Frontier Bivouac #2. (${number: 4} unit${choice-plurality: 4}[/s])
-    Frontier Bivouac #3. (${number: 4} unit${choice-plurality: 4}[/s])${prompt}
-  12269: 'Your ${keyitem-singular: 1[2]} has been attuned to a geomagnetic fount${choice: 0}[/ at the frontier station/ at Frontier Bivouac #1/ at Frontier Bivouac #2/ at Frontier Bivouac #3/ at Frontier Bivouac #4]!${prompt}'
+    Nulle part.
+    Station Frontière. (${number: 4} unité${choice-plurality: 4}[/s])
+    Bivouac Frontière #1. (${number: 4} unité${choice-plurality: 4}[/s])
+    Bivouac Frontière #2. (${number: 4} unité${choice-plurality: 4}[/s])
+    Bivouac Frontière #3. (${number: 4} unité${choice-plurality: 4}[/s])${prompt}
+  12269: 'Votre ${keyitem-singular: 1[2]} a été accordé à une source géomagnétique${choice: 0}[/ à la station frontière/ au Bivouac Frontière #1/ au Bivouac Frontière #2/ au Bivouac Frontière #3/ au Bivouac Frontière #4] !${prompt}'
   12270: |-
-    Choose a destination. (Kinetic Units: ${number: 3})
+    Choisissez une destination. (Unités cinétiques : ${number: 3})
     ${selection-lines}
-    Nowhere.
-    Frontier Station. (${number: 4} unit${choice-plurality: 4}[/s])
-    Frontier Bivouac #1. (${number: 4} unit${choice-plurality: 4}[/s])
-    Frontier Bivouac #2. (${number: 4} unit${choice-plurality: 4}[/s])
-    Frontier Bivouac #3. (${number: 4} unit${choice-plurality: 4}[/s])
-    Frontier Bivouac #4. (${number: 4} unit${choice-plurality: 4}[/s])${prompt}
-  12271: 'Your ${keyitem-singular: 1[2]} has been attuned to a geomagnetic fount${choice: 0}[/ at the frontier station/ at Frontier Bivouac #1/ at Frontier Bivouac #2/ at Frontier Bivouac #3/ at Frontier Bivouac #4/ at Frontier Bivouac #5]!${prompt}'
+    Nulle part.
+    Station Frontière. (${number: 4} unité${choice-plurality: 4}[/s])
+    Bivouac Frontière #1. (${number: 4} unité${choice-plurality: 4}[/s])
+    Bivouac Frontière #2. (${number: 4} unité${choice-plurality: 4}[/s])
+    Bivouac Frontière #3. (${number: 4} unité${choice-plurality: 4}[/s])
+    Bivouac Frontière #4. (${number: 4} unité${choice-plurality: 4}[/s])${prompt}
+  12271: 'Votre ${keyitem-singular: 1[2]} a été accordé à une source géomagnétique${choice: 0}[/ à la station frontière/ au Bivouac Frontière #1/ au Bivouac Frontière #2/ au Bivouac Frontière #3/ au Bivouac Frontière #4/ au Bivouac Frontière #5] !${prompt}'
   12272: |-
-    Choose a destination. (Kinetic Units: ${number: 3})
+    Choisissez une destination. (Unités cinétiques : ${number: 3})
     ${selection-lines}
-    Nowhere.
-    Frontier Station. (${number: 4} unit${choice-plurality: 4}[/s])
-    Frontier Bivouac #1. (${number: 4} unit${choice-plurality: 4}[/s])
-    Frontier Bivouac #2. (${number: 4} unit${choice-plurality: 4}[/s])
-    Frontier Bivouac #3. (${number: 4} unit${choice-plurality: 4}[/s])
-    Frontier Bivouac #4. (${number: 4} unit${choice-plurality: 4}[/s])
-    Frontier Bivouac #5. (${number: 4} unit${choice-plurality: 4}[/s])${prompt}
-  12273: 'Your ${keyitem-singular: 1[2]} has been attuned to the enigmatic device in ${zone: 0[2]}!${prompt}'
+    Nulle part.
+    Station Frontière. (${number: 4} unité${choice-plurality: 4}[/s])
+    Bivouac Frontière #1. (${number: 4} unité${choice-plurality: 4}[/s])
+    Bivouac Frontière #2. (${number: 4} unité${choice-plurality: 4}[/s])
+    Bivouac Frontière #3. (${number: 4} unité${choice-plurality: 4}[/s])
+    Bivouac Frontière #4. (${number: 4} unité${choice-plurality: 4}[/s])
+    Bivouac Frontière #5. (${number: 4} unité${choice-plurality: 4}[/s])${prompt}
+  12273: 'Votre ${keyitem-singular: 1[2]} a été accordé au dispositif énigmatique dans ${zone: 0[2]} !${prompt}'
   12274: |-
-    Choose a destination. (Kinetic Units: ${number: 3})
+    Choisissez une destination. (Unités cinétiques : ${number: 3})
     ${selection-lines}
-    Nowhere.
-    Rala Waterways. (${number: 4} unit${choice-plurality: 4}[/s])
-    Cirdas Caverns. (${number: 4} unit${choice-plurality: 4}[/s])
-    Yorcia Weald. (${number: 4} unit${choice-plurality: 4}[/s])
-    Outer Ra'Kaznar. (${number: 4} unit${choice-plurality: 4}[/s])
-    Somewhere. (${number: 4} unit${choice-plurality: 4}[/s])${prompt}
-  12275: '${color-alt: 15}You adjusted the waypoint with your ${keyitem-singular: 0[2]}.${prompt}'
-  12276: You were unable to satisfactorily adjust the waypoint.${prompt}
-  12277: An enigmatic contrivance hovers in silence...${prompt}
-  12278: Leaning in closely to the device, one can make out miniscule etchings that read, “Trade various crystals to this waypoint to receive kinetic units that may be used when you wish to warp to another locale.”${prompt}
-  12279: '“Travelers may not possess more than ${number: 1} at a given time. Should someone trade an amount of crystals that would result in a surplus of kinetic units, those units will be lost to the aether.”${prompt}'
-  12280: 'You have expended ${number: 0} kinetic unit${choice-plurality: 0}[/s] and will be transported to another locale.${prompt}'
-  12281: Your stock of kinetic units is insufficient.${prompt}
-  12282: You have reached your limit of kinetic units and cannot charge your artifact any further.${prompt}
+    Nulle part.
+    Canaux de Rala. (${number: 4} unité${choice-plurality: 4}[/s])
+    Cavernes de Cirdas. (${number: 4} unité${choice-plurality: 4}[/s])
+    Forêt de Yorcia. (${number: 4} unité${choice-plurality: 4}[/s])
+    Extérieur de Ra'Kaznar. (${number: 4} unité${choice-plurality: 4}[/s])
+    Quelque part. (${number: 4} unité${choice-plurality: 4}[/s])${prompt}
+  12275: '${color-alt: 15}Vous avez ajusté le point de destination avec votre ${keyitem-singular: 0[2]}.${prompt}'
+  12276: Vous n'avez pas pu ajuster correctement le point de destination.${prompt}
+  12277: Un dispositif énigmatique flotte en silence...${prompt}
+  12278: En vous approchant de l'appareil, vous pouvez lire des inscriptions minuscules qui indiquent : « Échangez divers cristaux avec ce point de destination pour recevoir des unités cinétiques que vous pourrez utiliser pour vous téléporter vers un autre endroit. »${prompt}
+  12279: '« Les voyageurs ne peuvent posséder plus de ${number: 1} unité à un moment donné. Si quelqu'un échange une quantité de cristaux qui entraînerait un excédent d'unités cinétiques, ces unités seront perdues dans l'éther. »${prompt}'
+  12280: 'Vous avez dépensé ${number: 0} unité${choice-plurality: 0}[/s] cinétique et serez transporté vers un autre lieu.${prompt}'
+  12281: Votre stock d'unités cinétiques est insuffisant.${prompt}
+  12282: Vous avez atteint votre limite d'unités cinétiques et ne pouvez plus charger votre artefact.${prompt}
   12283: |-
-    There is no response.
-    You apparently cannot receive kinetic units from this item.${prompt}
+    Il n'y a pas de réponse.
+    Vous ne pouvez apparemment pas recevoir d'unités cinétiques de cet objet.${prompt}
   12284: |-
-    Your artifact has been charged with ${number: 0} kinetic unit${choice-plurality: 0}[/s].
-    Your current stock of kinetic units totals ${number: 1}.${prompt}
-  12285: Your artifact has been charged to its terminal volume of kinetic units.${prompt}
-  12286: 'A surplus of ${number: 0} kinetic unit${choice-plurality: 0}[/s] has been lost to the aether.${prompt}'
-  12287: '${color-alt: 138}Unable to proceed. “Rise of the Zilart” has not been installed.'
-  12288: '${color-alt: 138}Unable to proceed. “Chains of Promathia” has not been installed.'
-  12289: You will not be asked to confirm your choice of destination. Switching to simple teleporation mode.${prompt}
-  12290: You will be asked to confirm your choice of destination. Returning to normal teleportation mode.${prompt}
+    Votre artefact a été chargé avec ${number: 0} unité${choice-plurality: 0}[/s] cinétique.
+    Votre stock actuel d'unités cinétiques est de ${number: 1}.${prompt}
+  12285: Votre artefact a été chargé à son volume maximal d'unités cinétiques.${prompt}
+  12286: 'Un excédent de ${number: 0} unité${choice-plurality: 0}[/s] cinétique a été perdu dans l'éther.${prompt}'
+  12287: '${color-alt: 138}Impossible de procéder. « Rise of the Zilart » n'est pas installé.'
+  12288: '${color-alt: 138}Impossible de procéder. « Chains of Promathia » n'est pas installé.'
+  12289: Vous ne serez pas invité à confirmer votre choix de destination. Passage au mode de téléportation simple.${prompt}
+  12290: Vous serez invité à confirmer votre choix de destination. Retour au mode de téléportation normal.${prompt}
   12291: |-
-    Warp to your destination?
+    Voulez-vous vous téléporter à votre destination ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
+    Oui.
+    Non.${prompt}
   12292: |-
-    Where will you go? (Kinetic Units: ${number: 3})
+    Où souhaitez-vous aller ? (Unités cinétiques : ${number: 3})
     ${selection-lines}
-    Nowhere, thanks.
-    I'd rather read an explanation.
-    Ru'Lude Gardens. (${number: 4} unit${choice-plurality: 4}[/s])
-    Selbina. (${number: 4} unit${choice-plurality: 4}[/s])
-    Mhaura. (${number: 4} unit${choice-plurality: 4}[/s])
-    Rabao. (${number: 4} unit${choice-plurality: 4}[/s])
-    Norg. (${number: 4} unit${choice-plurality: 4}[/s])
-    West Ronfaure. (${number: 5} unit${choice-plurality: 5}[/s])
-    North Gustaberg. (${number: 5} unit${choice-plurality: 5}[/s])
-    West Sarutabaruta. (${number: 5} unit${choice-plurality: 5}[/s])
-    La Theine Plateau. (${number: 5} unit${choice-plurality: 5}[/s])
-    Konschtat Highlands. (${number: 5} unit${choice-plurality: 5}[/s])
-    Tahrongi Canyon. (${number: 5} unit${choice-plurality: 5}[/s])
-    Jugner Forest. (${number: 5} unit${choice-plurality: 5}[/s])
-    Pashhow Marshlands. (${number: 5} unit${choice-plurality: 5}[/s])
-    Meriphataud Mountains. (${number: 5} unit${choice-plurality: 5}[/s])
-    Attohwa Chasm. (${number: 5} unit${choice-plurality: 5}[/s])
-    Uleguerand Range. (${number: 5} unit${choice-plurality: 5}[/s])
-    Davoi. (${number: 6} unit${choice-plurality: 6}[/s])
-    Beadeaux. (${number: 6} unit${choice-plurality: 6}[/s])
-    Castle Oztroja. (${number: 6} unit${choice-plurality: 6}[/s])
-    Quicksand Caves. (${number: 6} unit${choice-plurality: 6}[/s])
-    Sea Serpent Grotto. (${number: 6} unit${choice-plurality: 6}[/s])
-    Temple of Uggalepih. (${number: 6} unit${choice-plurality: 6}[/s])
-    The Boyahda Tree. (${number: 6} unit${choice-plurality: 6}[/s])
-    Oldton Movalpolos. (${number: 6} unit${choice-plurality: 6}[/s])
-    Riverne - Site #B01. (${number: 6} unit${choice-plurality: 6}[/s])
-    Castle Zvahl Keep. (${number: 6} unit${choice-plurality: 6}[/s])
-    Decline destination confirmation.
-    Accept destination confirmation.${prompt}
+    Rien, merci.
+    Je préfère lire une explication.
+    Jardins de Ru'Lude. (${number: 4} unité${choice-plurality: 4}[/s])
+    Selbina. (${number: 4} unité${choice-plurality: 4}[/s])
+    Mhaura. (${number: 4} unité${choice-plurality: 4}[/s])
+    Rabao. (${number: 4} unité${choice-plurality: 4}[/s])
+    Norg. (${number: 4} unité${choice-plurality: 4}[/s])
+    Ronfaure Ouest. (${number: 5} unité${choice-plurality: 5}[/s])
+    Gustaberg Nord. (${number: 5} unité${choice-plurality: 5}[/s])
+    Sarutabaruta Ouest. (${number: 5} unité${choice-plurality: 5}[/s])
+    Plateau de La Theine. (${number: 5} unité${choice-plurality: 5}[/s])
+    Hautes Terres de Konschtat. (${number: 5} unité${choice-plurality: 5}[/s])
+    Canyon de Tahrongi. (${number: 5} unité${choice-plurality: 5}[/s])
+    Forêt de Jugner. (${number: 5} unité${choice-plurality: 5}[/s])
+    Marais de Pashhow. (${number: 5} unité${choice-plurality: 5}[/s])
+    Montagnes de Meriphataud. (${number: 5} unité${choice-plurality: 5}[/s])
+    Gouffre d'Attohwa. (${number: 5} unité${choice-plurality: 5}[/s])
+    Chaîne de l'Uleguerand. (${number: 5} unité${choice-plurality: 5}[/s])
+    Davoi. (${number: 6} unité${choice-plurality: 6}[/s])
+    Beadeaux. (${number: 6} unité${choice-plurality: 6}[/s])
+    Château Oztroja. (${number: 6} unité${choice-plurality: 6}[/s])
+    Cavernes de Quicksand. (${number: 6} unité${choice-plurality: 6}[/s])
+    Grotte du Serpent de Mer. (${number: 6} unité${choice-plurality: 6}[/s])
+    Temple d'Uggalepih. (${number: 6} unité${choice-plurality: 6}[/s])
+    Arbre de Boyahda. (${number: 6} unité${choice-plurality: 6}[/s])
+    Movalpolos Ancien. (${number: 6} unité${choice-plurality: 6}[/s])
+    Riverne - Site #B01. (${number: 6} unité${choice-plurality: 6}[/s])
+    Forteresse de Castle Zvahl. (${number: 6} unité${choice-plurality: 6}[/s])
+    Refuser la confirmation de destination.
+    Accepter la confirmation de destination.${prompt}
   12293: |-
-    Record this fount?
+    Enregistrez-vous ce foyer ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  12294: A palpable force wells up slowly from beneath the surface...${prompt}
-  12295: This geomagnetic fount has already been recorded.${prompt}
-  12296: You have successfully recorded the phenomenon. Now it is time to report your findings to Anastase.${prompt}
-  12297: 'Your records surrounding the current geomagnetic phenomenon had been fading, but your use of the ${keyitem-singular: 0[2]} has restored them to normal!${prompt}'
-  12298: 'Your ${keyitem-singular: 1[2]} has been attuned to a geomagnetic fount${choice: 0}[ in Selbina/ in Mhaura/ in Rabao/ in Norg]!${prompt}'
-  12299: 'Your ${keyitem-singular: 1[2]} has been attuned to a geomagnetic fount${choice: 0}[ in West Ronfaure/ in North Gustaberg/ in West Sarutabaruta/ in La Theine Plateau/ in the Konschtat Highlands/ in Tahrongi Canyon/ in Jugner Forest/ in the Pashhow Marshlands/ in the Meriphataud Mountains/ in Attohwa Chasm/ in Uleguerand Range]!${prompt}'
-  12300: 'Your ${keyitem-singular: 1[2]} has been attuned to a geomagnetic fount${choice: 0}[ in Davoi/ in Beadeaux/ in Castle Oztroja/ in the Quicksand Caves/ in Sea Serpent Grotto/ in the Temple of Uggalepih/ in the Boyahda Tree/ in Oldton Movalpolos/ in Riverne - Site #B01/ in Castle Zvahl Keep]!${prompt}'
-  12301: '${color-alt: 138}You may now travel to ${choice: 0}[Selbina/Mhaura/Rabao/Norg] via waypoints!'
-  12302: '${color-alt: 138}You may now travel to ${choice: 0}[West Ronfaure/North Gustaberg/West Sarutabaruta/La Theine Plateau/the Konschtat Highlands/Tahrongi Canyon/Jugner Forest/the Pashhow Marshlands/the Meriphataud Mountains/Attohwa Chasm/Uleguerand Range] via waypoints!'
-  12303: '${color-alt: 138}You may now travel to ${choice: 0}[Davoi/Beadeaux/Castle Oztroja/the Quicksand Caves/Sea Serpent Grotto/the Temple of Uggalepih/the Boyahda Tree/Oldton Movalpolos/Riverne - Site #B01/Castle Zvahl Keep] via waypoints!'
-  12304: It appears that you have arrived at a new survival guide provided by the Adventurers' Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.${prompt}
-  12305: Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records.${prompt}
-  12306: It appears that you have arrived at a new survival guide provided by the Servicemen's Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.${prompt}
-  12307: Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records.${prompt}
+    Oui.
+    Non.${prompt}
+  12294: Une force palpable émerge lentement de la surface...${prompt}
+  12295: Ce foyer géomagnétique a déjà été enregistré.${prompt}
+  12296: Vous avez enregistré le phénomène avec succès. Il est maintenant temps de rapporter vos découvertes à Anastase.${prompt}
+  12297: 'Vos enregistrements concernant le phénomène géomagnétique actuel étaient en train de s'estomper, mais l'utilisation de votre ${keyitem-singular: 0[2]} les a restaurés à la normale !${prompt}'
+  12298: 'Votre ${keyitem-singular: 1[2]} a été accordé à un foyer géomagnétique${choice: 0}[ à Selbina/ à Mhaura/ à Rabao/ à Norg]!${prompt}'
+  12299: 'Votre ${keyitem-singular: 1[2]} a été accordé à un foyer géomagnétique${choice: 0}[ à Ronfaure Ouest/ à Gustaberg Nord/ à Sarutabaruta Ouest/ au Plateau de La Theine/ aux Hautes Terres de Konschtat/ au Canyon de Tahrongi/ à la Forêt de Jugner/ aux Marais de Pashhow/ aux Montagnes de Meriphataud/ au Gouffre d'Attohwa/ à la Chaîne de l'Uleguerand]!${prompt}'
+  12300: 'Votre ${keyitem-singular: 1[2]} a été accordé à un foyer géomagnétique${choice: 0}[ à Davoi/ à Beadeaux/ au Château Oztroja/ aux Cavernes de Quicksand/ à la Grotte du Serpent de Mer/ au Temple d'Uggalepih/ à l'Arbre de Boyahda/ à Movalpolos Ancien/ à Riverne - Site #B01/ au Forteresse de Castle Zvahl]!${prompt}'
+  12301: '${color-alt: 138}Vous pouvez désormais voyager vers ${choice: 0}[Selbina/Mhaura/Rabao/Norg] via les points de téléportation !'
+  12302: '${color-alt: 138}Vous pouvez désormais voyager vers ${choice: 0}[Ronfaure Ouest/Gustaberg Nord/Sarutabaruta Ouest/Plateau de La Theine/Hauteurs de Konschtat/Canyon de Tahrongi/Forêt de Jugner/Marais de Pashhow/Montagnes de Meriphataud/Gouffre d'Attohwa/Chaîne de l'Uleguerand] via les points de téléportation !'
+  12303: '${color-alt: 138}Vous pouvez désormais voyager vers ${choice: 0}[Davoi/Beadeaux/Château Oztroja/Cavernes de Quicksand/Grotte du Serpent de Mer/Temple d'Uggalepih/Arbre de Boyahda/Movalpolos Ancien/Riverne - Site #B01/Forteresse de Castle Zvahl] via les points de téléportation !'
+  12304: Il semble que vous soyez arrivé à un nouveau guide de survie fourni par le Réseau d'Aide Mutuelle des Aventuriers. Il est logique de penser que vous pouvez désormais vous téléporter ici depuis des ouvrages similaires à travers le monde.${prompt}
+  12305: Devant vous se trouve un guide de survie rédigé par le Réseau d'Aide Mutuelle des Aventuriers. Il aborde des sujets tels que la téléportation et les enregistrements de batailles.${prompt}
+  12306: Il semble que vous soyez arrivé à un nouveau guide de survie fourni par le Réseau d'Aide Mutuelle des Servants. Il est logique de penser que vous pouvez désormais vous téléporter ici depuis des ouvrages similaires à travers le monde.${prompt}
+  12307: Devant vous se trouve un guide de survie rédigé par le Réseau d'Aide Mutuelle des Servants. Il aborde des sujets tels que la téléportation et les enregistrements de batailles.${prompt}
   12308: |-
-    What chapter will you read?
+    Quel chapitre souhaitez-vous lire ?
     ${selection-lines}
-    None.
-    “Teleportation Assistance.”
-    “Field Support.”
-    “Other mysteries.”${prompt}
-  12309: The meticulously illuminated text within explains that adventurers may travel to the location of any previous books visited after paying a sum of gil or the requisite amount of tabs.${prompt}
-  12310: No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue.${prompt}
+    Aucun.
+    « Assistance à la téléportation. »
+    « Soutien sur le terrain. »
+    « Autres mystères. »${prompt}
+  12309: Le texte méticuleusement illuminé explique que les aventuriers peuvent se rendre à l'emplacement de tout livre précédent visité après avoir payé une somme de gil ou le montant requis de tampons.${prompt}
+  12310: Aucun autre emplacement de guide de survie n'a été enregistré. Visiter un autre guide résoudrait certainement ce problème.${prompt}
   12311: |-
-    Where will you travel?
+    Où souhaitez-vous voyager ?
     ${selection-lines}
-    Nowhere.
+    Nulle part.
     ${zone: 1[2]}.
     ${zone: 2[2]}.
     ${zone: 3[2]}.
@@ -27839,94 +27837,94 @@ entries:
     ${zone: 18[2]}.
     ${zone: 19[2]}.
     ${zone: 20[2]}.
-    Previous page.
-    Next page.${prompt}
+    Page précédente.
+    Page suivante.${prompt}
   12312: |-
-    It will cost ${number: 2} gil to teleport to ${zone: 1[2]}.
-    (${number: 3} gil on hand)${prompt}
-  12313: 'All mog tablets have currently been found, so you may teleport to ${zone: 1[2]} at no charge.${prompt}'
+    Il en coûtera ${number: 2} gil pour vous téléporter à ${zone: 1[2]}.
+    (${number: 3} gil en poche)${prompt}
+  12313: 'Tous les tablettes mog ont actuellement été trouvées, donc vous pouvez vous téléporter à ${zone: 1[2]} sans frais.${prompt}'
   12314: |-
-    Travel to ${zone: 1[2]}?
+    Voyager vers ${zone: 1[2]} ?
     ${selection-lines}
-    ${choice: 33}[Add to favorites/Delete from favorites].
-    Up and away!
-    I'm down and out.${prompt}
+    ${choice: 33}[Ajouter aux favoris/Supprimer des favoris].
+    En route !
+    Pas maintenant.${prompt}
   12315: |-
-    ${number: 2}ギルで移動する（${number: 4}ギル）
-    Travel to ${zone: 1[2]}?
+    Déplacement pour ${number: 2} gil (${number: 4} gil)
+    Voyager vers ${zone: 1[2]} ?
     ${selection-lines}
-    ${choice: 33}[Add to favorites/Delete from favorites].
-    Travel using ${number: 2} gil. (${number: 4} gil)
-    Travel using ${number: 3} tab${choice-plurality: 3}[/s]. (${number: 5} total)
-    Not just yet.${prompt}
-  12316: You do not have enough tabs.${prompt}
-  12317: 'The records indicate you have fought valiantly for Vana''diel for ${number: 1} hour${choice-plurality: 1}[/s].${prompt}'
-  12318: 'At the bottom of the page is a reminder. It perfunctorily states that you may receive ${article} ${item-article: 3[2]} once you have logged a total of ${number: 2} hours.${prompt}'
-  12319: 'As per the custom noted within, you are eligible to receive ${article} ${item-article: 3[2]} for the ${number: 2} hour${choice-plurality: 2}[/s] of fighting you''ve accrued.${prompt}'
+    ${choice: 33}[Ajouter aux favoris/Supprimer des favoris].
+    Voyager pour ${number: 2} gil. (${number: 4} gil)
+    Voyager en utilisant ${number: 3} tab${choice-plurality: 3}[/s]. (${number: 5} au total)
+    Pas tout de suite.${prompt}
+  12316: Vous n'avez pas assez de tampons.${prompt}
+  12317: 'Les dossiers indiquent que vous avez combattu vaillamment pour Vana'diel pendant ${number: 1} heure${choice-plurality: 1}[/s].${prompt}'
+  12318: 'Au bas de la page se trouve un rappel. Il indique sommairement que vous pouvez recevoir ${article} ${item-article: 3[2]} une fois que vous aurez enregistré un total de ${number: 2} heures.${prompt}'
+  12319: 'Conformément à la coutume mentionnée, vous êtes éligible pour recevoir ${article} ${item-article: 3[2]} pour les ${number: 2} heure${choice-plurality: 2}[/s] de combat que vous avez accumulées.${prompt}'
   12320: |-
-    Accept the reward?
+    Accepter la récompense ?
     ${selection-lines}
-    Yes, please.
-    No, thanks.${prompt}
-  12321: You may change the way you select areas listed in “Teleportation Assistance.”
+    Oui, s'il vous plaît.
+    Non, merci.${prompt}
+  12321: Vous pouvez changer la manière dont vous sélectionnez les zones listées dans « Assistance à la téléportation ».
   12322: |-
-    Any changes to make?
+    Des modifications à apporter ?
     ${selection-lines}
-    Keep course.
-    Select by region.
-    Select by content.${prompt}
-  12323: 'Area selection will now be made by ${choice: 1}[region/content].'
+    Garder le cours.
+    Sélectionner par région.
+    Sélectionner par contenu.${prompt}
+  12323: 'La sélection des zones se fera désormais par ${choice: 1}[région/contenu].'
   12324: |-
     ${selection-lines}
-    Nowhere for now.
-    Select from amongst favorites.
-    Original release areas.
-    Rise of the Zilart areas.
-    Chains of Promathia areas.
-    Treasures of Aht Urhgan areas.
-    Wings of the Goddess areas.
+    Nulle part pour l'instant.
+    Sélectionner parmi les favoris.
+    Zones de la sortie originale.
+    Zones de Rise of the Zilart.
+    Zones de Chains of Promathia.
+    Zones de Treasures of Aht Urhgan.
+    Zones de Wings of the Goddess.
     .
     .
     .
     .
     .
     .
-    Seekers of Adoulin areas.${prompt}
+    Zones de Seekers of Adoulin.${prompt}
   12325: |-
-    Travel to which region?
+    Voyager vers quelle région ?
     ${selection-lines}
-    On second thought, none.
-    Select from amongst favorites.
+    En fait, nulle part.
+    Sélectionner parmi les favoris.
     ${choice: 1}[San d'Oria/Movalpolos].
-    ${choice: 1}[Bastok/Tavnazian Arch].
+    ${choice: 1}[Bastok/Archipel Tavnazien].
     ${choice: 1}[Windurst/Lumoria].
     ${choice: 1}[Jeuno/Mamool Ja Savage].
     ${choice: 1}[Tavnazia/Halvung].
-    ${choice: 1}[West. Aht Urhgan/Arrapago Is].
-    ${choice: 1}[Adoulin Isles/Ruins of Alzadaal].
-    ${choice: 1}[Ronfaure/Ronfaure Front].
-    ${choice: 1}[Zulkheim/Norvallen Front].
-    ${choice: 1}[Norvallen/Gustaberg Front].
-    ${choice: 1}[Gustaberg/Derfland Front].
-    ${choice: 1}[Derfland/Sarutabaruta Front].
-    ${choice: 1}[Sarutabaruta/Aragoneu Front].
-    ${choice: 1}[Kolshushu/Fauregandi Front].
-    ${choice: 1}[Aragoneu/Valdeaunia Front].
-    ${choice: 1}[Fauregandi/East. Ulbuka].
+    ${choice: 1}[Ouest. Aht Urhgan/Arrapago Is].
+    ${choice: 1}[Îles d'Adoulin/ Ruines d'Alzadaal].
+    ${choice: 1}[Ronfaure/Front de Ronfaure].
+    ${choice: 1}[Zulkheim/Front de Norvallen].
+    ${choice: 1}[Norvallen/Front de Gustaberg].
+    ${choice: 1}[Gustaberg/Front de Derfland].
+    ${choice: 1}[Derfland/Front de Sarutabaruta].
+    ${choice: 1}[Sarutabaruta/Front d'Aragoneu].
+    ${choice: 1}[Kolshushu/Front de Fauregandi].
+    ${choice: 1}[Aragoneu/Front de Valdeaunia].
+    ${choice: 1}[Fauregandi/Est. Ulbuka].
     ${choice: 1}[Valdeaunia/Ra'Kaznar].
     ${choice: 1}[Qufim/].
     ${choice: 1}[Li'Telor/].
     ${choice: 1}[Kuzotz/].
     ${choice: 1}[Vollbow/].
-    ${choice: 1}[Elshimo Low/].
-    ${choice: 1}[Elshimo Up/].
+    ${choice: 1}[Elshimo Bas/].
+    ${choice: 1}[Elshimo Haut/].
     ${choice: 1}[Tu'Lia/].
-    Previous page.
-    Next page.${prompt}
+    Page précédente.
+    Page suivante.${prompt}
   12326: |-
-    Travel to where?
+    Voyager où ?
     ${selection-lines}
-    Nowhere.
+    Nulle part.
     ${zone: 1[2]}.
     ${zone: 2[2]}.
     ${zone: 3[2]}.
@@ -27936,13 +27934,13 @@ entries:
     ${zone: 7[2]}.
     ${zone: 8[2]}.
     ${zone: 9[2]}.
-    ${choice: 33}[Add location to favorites/Remove location from favorites].${prompt}
-  12327: '${zone: 1[2]} has been ${choice: 33}[added to your list of favorites/removed from your list of favorites].'
-  12328: Your list of favorites is full. You must remove an existing entry to add new ones.
+    ${choice: 33}[Ajouter l'emplacement aux favoris/Retirer l'emplacement des favoris].${prompt}
+  12327: '${zone: 1[2]} a été ${choice: 33}[ajouté à votre liste de favoris/retiré de votre liste de favoris].'
+  12328: Votre liste de favoris est pleine. Vous devez retirer une entrée existante pour en ajouter de nouvelles.
   12329: |-
-    Remove which entry?
+    Supprimer quelle entrée ?
     ${selection-lines}
-    None of these.
+    Aucune de celles-ci.
     ${zone: 1[2]}.
     ${zone: 2[2]}.
     ${zone: 3[2]}.
@@ -27952,42 +27950,42 @@ entries:
     ${zone: 7[2]}.
     ${zone: 8[2]}.
     ${zone: 9[2]}.${prompt}
-  12330: On the prowl fer Gilgamesh, scallywag? Ya'll find him a bit farther in.${prompt}
-  12331: Go right on in. The boss is waitin' for ya.${prompt}
-  12332: Didya get bumped about by the waves on yer way here, ${name-player}? No matter. The boss be waitin' inside fer ya.${prompt}
-  12333: Oho! Would ya look who's decided ta join us!${prompt}
-  12334: Master!${prompt}
-  12335: I am both humbled and honored to be able to exchange words with you once more.${prompt}
-  12336: I have followed your instructions to the letter. Months upon years have I toiled, seeking guidance from both man and the heavens, never once letting my training or dedication falter.${prompt}
-  12337: All this I have done so that we may meet once more.${prompt}
-  12338: Unworthy though your disciple Iroha may be, her words and emotions are true.${prompt}
+  12330: À la recherche de Gilgamesh, pirate ? Vous le trouverez un peu plus loin.${prompt}
+  12331: Entrez sans hésiter. Le boss vous attend.${prompt}
+  12332: Avez-vous été secoué par les vagues en venant ici, ${name-player} ? Peu importe. Le boss vous attend à l'intérieur.${prompt}
+  12333: Oh ! Regardez qui a décidé de se joindre à nous !${prompt}
+  12334: Maître !${prompt}
+  12335: Je suis à la fois honoré et ému de pouvoir échanger quelques mots avec vous à nouveau.${prompt}
+  12336: J'ai suivi vos instructions à la lettre. Pendant des mois et des années, j'ai travaillé, cherchant des conseils auprès des hommes et des cieux, sans jamais laisser ma formation ou mon dévouement faiblir.${prompt}
+  12337: Tout cela je l'ai fait pour que nous puissions nous rencontrer à nouveau.${prompt}
+  12338: Bien que votre disciple Iroha se sente indigne, ses paroles et ses émotions sont sincères.${prompt}
   12339: |-
-    How do you respond?
+    Comment répondez-vous ?
     ${selection-lines}
-    Who?
-    Master?${prompt}
-  12340: Ya got krill in yer ears, ${choice-player-gender}[boy/girl]? She's callin' you her master!${prompt}
+    Qui ?
+    Maître ?${prompt}
+  12340: Vous avez des coques dans les oreilles, ${choice-player-gender}[mon garçon/ma fille] ? Elle vous appelle son maître !${prompt}
   12341: |-
-    What kind of master runs around fergettin' who their pupils are?${wait-36: 1}
-    Ya mean to say ya don't remember her at all?${prompt}
-  12342: What's all this malarkey?${prompt}
-  12343: Do not get angry at ${choice-player-gender}[him/her]. It is only natural that ${choice-player-gender}[he/she] not remember me.${prompt}
-  12344: I have wholly lost track of what year this is. 884, correct?${prompt}
-  12345: This time is many, many years before I came to be, and my presence here is somewhat of an anomaly.${prompt}
-  12346: Did ya hit yer head 'fore I found ya floating adrift or somethin'?${prompt}
-  12347: You mean to say...that you haven't been born yet?${prompt}
-  12348: Then how'd ya get here?${prompt}
-  12349: I come from an age far in the future, when Vana'diel stands on a precipice--and the master is the only one who can guide me.${prompt}
-  12350: So you mean to say that ${name-player}...is this master of yours?${prompt}
-  12351: And from that outfit yer wearing, I'd wager ya were born in the Far East.${prompt}
-  12352: That is correct. I am the guardian of Reisenjima Sanctorium, and have a strong link with the heavens as its chief priestess.${prompt}
-  12353: Oho. I know the particulars of the eastern faith are a bit foreign ta the rest of us, but Altana remains a central figure even there.${prompt}
-  12354: So that'd make ya a religious authority, then?${prompt}
-  12355: And let me guess. The power of the spirits sent you back ta our time?${prompt}
-  12356: They set me adrift so that I may prevent the darkness which has engulfed my era.${prompt}
-  12357: What's this then? You're going to have to be a bit more straightforward.${prompt}
-  12358: Does this mean that the beastmen end up victorious in the end? Or is it something far more nefarious?${prompt}
-  12359: Master, do I have your leave to show them our reality?${prompt}
+    Quel genre de maître oublie ses élèves ?${wait-36: 1}
+    Vous voulez dire que vous ne vous souvenez pas du tout d'elle ?${prompt}
+  12342: Qu'est-ce que c'est que ce charabia ?${prompt}
+  12343: Ne vous mettez pas en colère contre ${choice-player-gender}[lui/elle]. Il est naturel que ${choice-player-gender}[il/elle] ne se souvienne pas de moi.${prompt}
+  12344: J'ai complètement perdu le compte de l'année. 884, c'est ça ?${prompt}
+  12345: Cette époque est bien avant ma naissance, et ma présence ici est quelque peu une anomalie.${prompt}
+  12346: Vous voulez dire que vous n'êtes pas encore né ?${prompt}
+  12347: Vous voulez dire que... vous n'êtes pas encore né ?${prompt}
+  12348: Alors comment êtes-vous arrivé ici ?${prompt}
+  12349: Je viens d'une époque lointaine dans le futur, où Vana'diel se trouve au bord du précipice — et le maître est le seul à pouvoir me guider.${prompt}
+  12350: Alors vous voulez dire que ${name-player}... est ce maître dont vous parlez ?${prompt}
+  12351: Et avec cette tenue que vous portez, je parierais que vous êtes né en Extrême-Orient.${prompt}
+  12352: C'est exact. Je suis la gardienne du Sanctorium de Reisenjima et j'ai un lien fort avec les cieux en tant que grande prêtresse.${prompt}
+  12353: Oh. Je sais que les détails de la foi orientale sont un peu étrangers pour nous, mais Altana reste une figure centrale même là-bas.${prompt}
+  12354: Donc vous seriez une autorité religieuse, alors ?${prompt}
+  12355: Et laissez-moi deviner. Le pouvoir des esprits vous a envoyé dans notre époque ?${prompt}
+  12356: Ils m'ont laissée dériver pour que je puisse empêcher les ténèbres qui engloutissent mon époque.${prompt}  
+  12357: Qu'est-ce que c'est alors ? Vous allez devoir être un peu plus clair.${prompt}
+  12358: Cela signifie-t-il que les bêtes finissent par triompher ? Ou est-ce quelque chose de bien plus néfaste ?${prompt}
+  12359: Maître, puis-je vous montrer notre réalité ?${prompt}
   12360: |-
     How do you respond?
     ${selection-lines}
