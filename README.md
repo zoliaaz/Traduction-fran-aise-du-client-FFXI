@@ -1,6 +1,6 @@
 TRADUCTION DU CLIENT FINAL FANTASY XI
 
-ATTENTION : Les fichiers correspondent STRICTEMENT à la version 30240327_1 (avril 2024). Je tente d'effectuer la mise à jour des fichiers vers la version 30240806_0 (août 2024). Étant donné que S.E a déplacé une bonne partie de ces chaînes (string), cela demande une légère réadaptation, mais rien d'insurmontable puisque le fichier .DAT d'avril 2024 a déjà été traduit. Voilà pourquoi je considère qu'il est essentiel d'avoir une base (les .DAT d'avril 2024 traduit).
+ATTENTION : Les fichiers correspondent STRICTEMENT à la version 30240327_1 (avril 2024). Je tente d'effectuer la mise à jour des fichiers vers la version 30240806_0 (août 2024) malgré que je me concentre essentiellement sur la version d'avril 2024. Étant donné que S.E a déplacé une bonne partie de ces chaînes (string), cela demande une légère réadaptation, mais rien d'insurmontable puisque le fichier .DAT d'avril 2024 a déjà été traduit. Voilà pourquoi je considère qu'il est essentiel d'avoir une base (les .DAT d'avril 2024 traduit).
 
 Pour les utilisateurs du serveur Horizon XI : j'ai ajouté le répertoire horizonXI_FR. Ce répertoire correspond aux .DAT du client d'Horizon XI dans sa dernière version actuelle (upload du 2024/08/13).
 
