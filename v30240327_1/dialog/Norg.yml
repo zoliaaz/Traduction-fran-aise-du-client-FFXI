@@ -22742,253 +22742,249 @@ entries:
     Consulter la liste précédente.
     Consulter la liste suivante.
     Quitter${prompt}
-  10593: Hiya! My name's Solby-Maholby! I'm new here, so they put me on tooty-fruity shop duty. I'll give you a super-duper deal on unwanted items!${prompt}
-  10594: 'If you wish to ride a chocobo, you must possess ${keyitem-article: 7[2]} and have a high enough job level.${prompt}'
-  10595: 'You can rent a chocobo for ${number: 0} gil. I see you currently have ${number: 1} gil.${prompt}'
-  10596: You can rent a chocobo, but because your level is so low, you won't be able to ride for very long. Also, equipment that extends your riding time will have no effect.${prompt}
-  10597: 'If you still want one, it will cost you ${number: 0} gil. I see you currently have ${number: 1} gil.${prompt}'
+  10593: Salut ! Je m'appelle Solby-Maholby ! Je suis nouveau ici, donc on m'a mis en charge du stand des fruits. Je te propose un super deal sur les objets indésirables !${prompt}
+  10594: 'Si tu souhaites monter un chocobo, tu dois posséder ${keyitem-article: 7[2]} et avoir un niveau de job suffisamment élevé.${prompt}'
+  10595: 'Tu peux louer un chocobo pour ${number: 0} gil. Je vois que tu as actuellement ${number: 1} gil.${prompt}'
+  10596: Tu peux louer un chocobo, mais comme ton niveau est trop bas, tu ne pourras pas monter longtemps. De plus, l'équipement qui prolonge le temps de montée n'aura aucun effet.${prompt}
+  10597: 'Si tu souhaites toujours en louer un, cela te coûtera ${number: 0} gil. Je vois que tu as actuellement ${number: 1} gil.${prompt}'
   10598: |-
-    Do you wish to rent a chocobo?
+    Souhaites-tu louer un chocobo ?
     ${selection-lines}
-    Yes, I do.
-    No, thank you.${prompt}
-  10599: You don't have enough gil.${prompt}
+    Oui, je le souhaite.
+    Non, merci.${prompt}
+  10599: Tu n'as pas assez de gil.${prompt}
   10600: |-
-    You cannot obtain the ${item-singular: 0[2]}.
-    Come back after sorting your inventory.${prompt}
-  10601: 'Would you be so kind as to deliver her to ${choice: 3}[the entrance to the Gustav Tunnel (B-8)/Bibiki Bay (G-10)/the entrance of Uggalepih Temple (J-11)]?${prompt}'
+    Tu ne peux pas obtenir ${item-singular: 0[2]}.
+    Reviens après avoir organisé ton inventaire.${prompt}
+  10601: 'Serait-il possible de la déposer à ${choice: 3}[l'entrée du Tunnel de Gustav (B-8)/la Baie Bibiki (G-10)/l'entrée du Temple d'Uggalepih (J-11)] ?${prompt}'
   10602: |-
-    Only those fulfilling both requirements set forth by the alliance may ride a chocobo.
-    First, you must be a soldier of a respectable level in the Allied Forces. Secondly, you must be in possession of ${keyitem-article: 7[2]}.${prompt}
+    Seules les personnes remplissant les deux conditions fixées par l'alliance peuvent monter un chocobo.
+    Tout d'abord, tu dois être un soldat d'un niveau respectable dans les Forces Alliées. Ensuite, tu dois posséder ${keyitem-article: 7[2]}.${prompt}
   10603: |-
-    Any of our fine birds here will bear you directly to the frontlines of battle.
-    We charge a service fee of ${number: 0} Allied Notes, which goes towards seeing that the chocobos are well taken care of.
-    My records indicate that you currently have ${number: 1} Allied Notes.${prompt}
+    N'importe quel de nos magnifiques oiseaux te conduira directement aux lignes de front.
+    Nous facturons des frais de service de ${number: 0} Notes Alliées, qui sont destinés à assurer le bon entretien des chocobos.
+    D'après mes dossiers, tu as actuellement ${number: 1} Notes Alliées.${prompt}
   10604: |-
-    Hmmm... It looks like you don't have enough Allied Notes.
-    Sorry, but these birds aren't going to feed and groom themselves.${prompt}
-  10605: 'I''m sorry, but we don''t put our chocobos in the hands of people with ${keyitem-article: 0[2]}. We wouldn''t want our feathered friends dying from fright now, would we?${prompt}'
-  10606: Our chocobos do not like traveling in the Sea Serpent Grotto, so we have dug a special exit tunnel leading from here to the Yuhtunga Jungle.${prompt}
-  10607: However, take care, as you will not be able to use this tunnel if you wish to return to Norg.${prompt}
-  10608: Get outta my... Hey wait, you're the ${choice-player-gender}[guy/lady] that helped out Ensetsu a while back. Tell me, how are Ayaya and little Kaede doing these days? ${prompt}
-  10609: Ah, but enough of this small talk. I heard from my colleagues that these past few months you have been practicing the way of the ninja. If this is true, I'd like to ask you a favor.${prompt}
-  10610: A few weeks back, a scroll dating back more than twenty years was found. I need your help in deciphering it.${prompt}
+    Hmmm... Il semble que tu n'aies pas assez de Notes Alliées.
+    Désolé, mais ces oiseaux ne vont pas se nourrir et se toiletter tout seuls.${prompt}
+  10605: 'Je suis désolé, mais nous ne confions pas nos chocobos à des personnes possédant ${keyitem-article: 0[2]}. Nous ne voudrions pas que nos amis à plumes meurent de peur, n'est-ce pas ?${prompt}'
+  10606: Nos chocobos n'aiment pas voyager dans la Grotte des Serpents de Mer, alors nous avons creusé un tunnel de sortie spécial menant d'ici à la Jungle de Yuhtunga.${prompt}
+  10607: Cependant, fais attention, car tu ne pourras pas utiliser ce tunnel si tu souhaites revenir à Norg.${prompt}
+  10608: Dépêche-toi de partir... Hé attends, tu es le ${choice-player-gender}[mec/la nana] qui a aidé Ensetsu il y a quelque temps. Dis-moi, comment vont Ayaya et la petite Kaede ces jours-ci ? ${prompt}
+  10609: Ah, mais assez de bavardages. J'ai entendu de mes collègues que ces derniers mois, tu as pratiqué le chemin du ninja. Si c'est vrai, j'aimerais te demander un service.${prompt}
+  10610: Il y a quelques semaines, un parchemin datant de plus de vingt ans a été trouvé. J'ai besoin de ton aide pour le déchiffrer.${prompt}
   10611: |-
-    What is written on the scroll? Ninjas aren't supposed to ask questions, just follow their orders.
-    But to tell you the truth, even I don't have any clue what this scroll could be about.${prompt}
-  10612: You should probably start off by heading to Bastok and seeing if Kagetora in the Tenshodo has any leads.${prompt}
+    Que dit le parchemin ? Les ninjas ne sont pas censés poser de questions, juste suivre les ordres.
+    Mais pour te dire la vérité, je n'ai même pas la moindre idée de ce que pourrait être ce parchemin.${prompt}
+  10612: Tu devrais probablement commencer par te rendre à Bastok et voir si Kagetora dans le Tenshodo a des pistes.${prompt}
   10613: |-
-    What?
-    You found this ${keyitem-singular: 7[2]} by following Ensetsu's lead?${prompt}
-  10614: That weasel is still hiding something. We're going to have to pay our little friend a visit...${prompt}
+    Quoi ?
+    Tu as trouvé ce ${keyitem-singular: 7[2]} en suivant les indications d'Ensetsu ?${prompt}
+  10614: Ce fourbe cache encore quelque chose. Nous allons devoir rendre visite à notre petit ami...${prompt}
   10615: |-
-    But you don't have to worry about that.
-    Thanks again. Here is a little something for your trouble. Oh, and stay in touch. I may have some more work for you soon.${prompt}
-  10616: 'You remember that ${keyitem-singular: 7[2]} that you brought us? Well, it turned out to be a fake, made fairly recently.${prompt}'
-  10617: But it still looks a helluva lot like the work of the greatest pirate inventor that ever lived--Mitsunari the Poisonclaw.${prompt}
-  10618: But he left Norg over twenty years ago, and is assumed dead and gone. There have been stories of a pupil of his, but...${prompt}
-  10619: Argh! But what do I know!? The only person that has anything close to a lead is that weasel, Ensetsu. Go to his house in Bastok and make him tell us all he knows.${prompt}
-  10620: You're just the person I was looking for. We've got our hands on some new info regarding Mitsunari's treasure.${prompt}
-  10621: 'It looks like a pack of those slimy Sahagins stole the Poisonclaw''s ${keyitem-singular: 7[2]} when our men were transporting it.${prompt}'
-  10622: For the past few days we've been combing the Sea Serpent Grotto, but it's beginning to look like the beasts aren't hiding it anywhere near Norg.${prompt}
-  10623: But the fish-faced fiends are only beastmen, so you wouldn't think they could take it off Elshimo Island. It's gotta be somewhere close.${prompt}
-  10624: 'I''d start with the jungle if I were you. I''ve got a hunch that the ${keyitem-singular: 7[2]} is somewhere in there.${prompt}'
-  10625: 'Well I''ll be... You found the ${keyitem-singular: 7[2]}!${prompt}'
+    Mais ne t'inquiète pas pour ça.
+    Merci encore. Voici un petit quelque chose pour ton trouble. Oh, et reste en contact. Il se pourrait que j'aie d'autres travaux pour toi bientôt.${prompt}
+  10616: 'Tu te souviens de ce ${keyitem-singular: 7[2]} que tu nous as apporté ? Eh bien, il s'est avéré que c'était une contrefaçon, fabriquée assez récemment.${prompt}'
+  10617: Mais cela ressemble encore beaucoup au travail du plus grand inventeur pirate qui ait jamais vécu--Mitsunari le Griffed'Poison.${prompt}
+  10618: Mais il a quitté Norg il y a plus de vingt ans et est supposé mort et disparu. Il y a eu des histoires d'un de ses élèves, mais...${prompt}
+  10619: Argh ! Mais que sais-je !? La seule personne qui a quelque chose qui ressemble à une piste est ce fourbe, Ensetsu. Va chez lui à Bastok et fais-lui dire tout ce qu'il sait.${prompt}
+  10620: Tu es justement la personne que je cherchais. Nous avons des nouvelles informations concernant le trésor de Mitsunari.${prompt}
+  10621: 'Il semble qu'un groupe de ces dégoûtants Sahagins ait volé le ${keyitem-singular: 7[2]} de Poisonclaw lorsque nos hommes le transportaient.${prompt}'
+  10622: Depuis quelques jours, nous fouillons la Grotte des Serpents de Mer, mais il commence à sembler que les bêtes ne cachent pas le trésor près de Norg.${prompt}
+  10623: Mais les fiends au visage de poisson ne sont que des hommes-bêtes, donc on ne penserait pas qu'ils pourraient le prendre hors de l'île d'Elshimo. Il doit être quelque part près.${prompt}
+  10624: 'Je commencerais par la jungle si j'étais toi. J'ai un pressentiment que le ${keyitem-singular: 7[2]} se trouve quelque part là-dedans.${prompt}'
+  10625: 'Eh bien, je n'en crois pas mes yeux... Tu as trouvé le ${keyitem-singular: 7[2]} !${prompt}'
   10626: |-
-    Now all we have to do is open it!
-    Hmm...but knowing that Mitsunari, there's bound to be some terrible trap on this. We'll have to check it before we open it.${prompt}
-  10627: Take this to that Leodarion fellow in Rabao. If anyone could open one of the Poisonclaw's traps, it would be him.${prompt}
-  10628: Ah, ${name-player}. Many moons have passed since I made you your first katana. I can see you have grown much in that time.${prompt}
-  10629: This may seem sudden, but I wish to ask of your assistance.${prompt}
+    Maintenant, il ne nous reste plus qu'à l'ouvrir !
+    Hmm... mais connaissant Mitsunari, il doit sûrement y avoir un piège terrible. Nous devons vérifier avant de l'ouvrir.${prompt}
+  10627: Apporte ceci à ce type de Leodarion à Rabao. Si quelqu'un peut ouvrir un des pièges de Poisonclaw, ce serait lui.${prompt}
+  10628: Ah, ${name-player}. Il y a bien longtemps que je t'ai fabriqué ton premier katana. Je vois que tu as beaucoup grandi depuis.${prompt}
+  10629: Cela peut sembler soudain, mais je souhaite te demander ton aide.${prompt}
   10630: |-
-    Spoken like a true samurai. Now let me fill you in on the details.
-    In the coming weeks, an extremely important ritual will be held. To complete this ritual, a “sacred katana” is needed. I require your assistance in gathering the materials to forge this new blade.${prompt}
-  10631: 'The first is ${article} ${item-article: 0[2]}. This is to become the base of the sacred katana. I assume the ${item-singular: 0[2]} you used in your training still rests somewhere in your Mog Safe.${prompt}'
-  10632: 'The second item I require is ${keyitem-article: 1[2]}. You can only find these scales on the beast that lives deep within a crystal pond in the Sanctuary of Zi''Tah.${prompt}'
-  10633: 'However, this fish cannot be caught using traditional methods. You must lure it out of hiding using ${article} ${item-article: 2[2]}, made by the Goblins of that forest.${prompt}'
-  10634: 'Take care when battling this violent beast, as it is no ordinary fish. After you defeat it, recover ${keyitem-article: 1[2]} and bring them back to me.${prompt}'
-  10635: A long journey awaits you. I pray for your safe return.${prompt}
-  10636: 'Listen carefully. To forge a new sacred katana, I require two items, the first being the ${item-singular: 0[2]} you used in your training.${prompt}'
-  10637: Return here when you have obtained the materials.${prompt}
-  10638: I see you have successfully obtained the materials necessary for the forging of the sacred katana. Thanks to your hard work, the blade should be finished by the start of the ritual.${prompt}
-  10639: 'Ah yes, your reward. Let me give you this ${item-singular: 2[2]} in exchange for your ${item-singular: 0[2]}. It is one of my finest works. May it guide you on your journey.${prompt}'
-  10640: As I told you before, the materials you brought me will be used to forge a sacred katana to be used in an important ritual being held in a matter of days.${prompt}
-  10641: However, there is still much preparation to be done. Your assistance may be required again.${prompt}
-  10642: What is wrong? You do not look too well...${prompt}
-  10643: I think I know what may be troubling you. You remember my pupil Ranemaud, do you not? Talk with him, and he may be able to help you with your predicament.${prompt}
-  10644: 'This is all I will tell you. After you have obtained ${keyitem-article: 1[2]}, bring them and your ${item-singular: 0[2]} to me. I will be waiting.${prompt}'
-  10645: Well, if it isn't my favorite adventurer. How is your training coming along? I can see that you have become quite the samurai.${prompt}
-  10646: 'But small talk is not why you have come to me, is it? It is a shame that your ${item-singular: 0[2]} has met such a regrettable fate.${prompt}'
-  10647: 'However, you need not worry. The one place where you can obtain ${article} ${item-article: 0[2]} is here in Norg.${prompt}'
-  10648: 'Like a salmon returns to its birthplace to die, all ${item-plural: 0[2]} that are disposed of by their owners make their way back here to Norg. The blade you disposed of is not an exception.${prompt}'
-  10649: 'I do not know what reasons you had when disposing of your ${item-singular: 0[2]}, but the moment that blade left your possession, it became ours once again.${prompt}'
-  10650: 'I can return it to you if you wish, but it will cost you. Pay me ${number: 7} gil, and I will give back to you what you once let slip through your hands.${prompt}'
-  10651: 'The destiny that lies ahead of that ${item-singular: 0[2]} is much more important than you could ever imagine. Take care of it this time.${prompt}'
-  10652: It looks like you are still a little short on gil.${prompt}
-  10653: Ah, you're back! And just in time, I might say. The date of the ritual is approaching fast.${prompt}
-  10654: 'For this next assignment, Gilgamesh specifically requested the assistance of the previous owner of the ${item-singular: 0[2]}.${prompt}'
-  10655: That is unfortunate, but there still is time. Please reconsider your decision.${prompt}
+    Parlé comme un véritable samouraï. Laisse-moi te donner les détails.
+    Dans les semaines à venir, un rituel extrêmement important sera célébré. Pour compléter ce rituel, un « katana sacré » est nécessaire. J'ai besoin de ton aide pour rassembler les matériaux nécessaires à la fabrication de cette nouvelle lame.${prompt}
+  10631: 'Le premier est ${article} ${item-article: 0[2]}. Cela servira de base au katana sacré. Je suppose que le ${item-singular: 0[2]} que tu as utilisé dans ton entraînement repose encore quelque part dans ton Mog Safe.${prompt}'
+  10632: 'Le deuxième objet dont j'ai besoin est ${keyitem-article: 1[2]}. On ne trouve ces écailles que sur la bête qui vit au fond d'un étang cristallin dans le Sanctuaire de Zi'Tah.${prompt}'
+  10633: 'Cependant, ce poisson ne peut pas être attrapé avec des méthodes traditionnelles. Tu dois l'attirer hors de sa cachette en utilisant ${article} ${item-article: 2[2]}, fabriqué par les Gobelins de cette forêt.${prompt}'
+  10634: 'Fais attention lorsque tu combattras cette bête violente, car ce n'est pas un poisson ordinaire. Après l'avoir vaincu, récupère ${keyitem-article: 1[2]} et rapporte-les-moi.${prompt}'
+  10635: Un long voyage t'attend. Je prie pour ton retour en toute sécurité.${prompt}
+  10636: 'Écoute attentivement. Pour forger un nouveau katana sacré, j'ai besoin de deux objets, le premier étant le ${item-singular: 0[2]} que tu as utilisé dans ton entraînement.${prompt}'
+  10637: Reviens ici lorsque tu auras obtenu les matériaux.${prompt}
+  10638: Je vois que tu as réussi à obtenir les matériaux nécessaires à la forge du katana sacré. Grâce à ton travail acharné, la lame devrait être terminée pour le début du rituel.${prompt}
+  10639: 'Ah oui, ta récompense. Laisse-moi te donner ce ${item-singular: 2[2]} en échange de ton ${item-singular: 0[2]}. C'est l'une de mes meilleures œuvres. Qu'il te guide dans ton voyage.${prompt}'
+  10640: Comme je te l'ai dit précédemment, les matériaux que tu m'as apportés seront utilisés pour forger un katana sacré devant être utilisé dans un rituel important qui aura lieu dans quelques jours.${prompt}
+  10641: Cependant, il reste encore beaucoup de préparatifs à faire. Ton aide pourrait de nouveau être requise.${prompt}
+  10642: Que se passe-t-il ? Tu n'as pas l'air très bien...${prompt}
+  10643: Je pense savoir ce qui te trouble. Tu te souviens de mon élève Ranemaud, n'est-ce pas ? Parle-lui, et il pourrait t'aider avec ton problème.${prompt}
+  10644: 'C'est tout ce que je vais te dire. Après avoir obtenu ${keyitem-article: 1[2]}, apporte-les-moi avec ton ${item-singular: 0[2]}. Je t'attendrai.${prompt}'
+  10645: Eh bien, si ce n'est pas mon aventurier préféré. Comment se passe ton entraînement ? Je vois que tu es devenu un véritable samouraï.${prompt}
+  10646: 'Mais la conversation n'est pas la raison pour laquelle tu es venu me voir, n'est-ce pas ? C'est dommage que ton ${item-singular: 0[2]} ait connu un sort si regrettable.${prompt}'
+  10647: 'Cependant, ne t'inquiète pas. Le seul endroit où tu peux obtenir ${article} ${item-article: 0[2]} est ici à Norg.${prompt}'
+  10648: 'Comme un saumon revient à son lieu de naissance pour mourir, tous les ${item-plural: 0[2]} qui sont éliminés par leurs propriétaires reviennent ici à Norg. La lame que tu as éliminée n'est pas une exception.${prompt}'
+  10649: 'Je ne sais pas quelles raisons tu avais en éliminant ton ${item-singular: 0[2]}, mais au moment où cette lame a quitté ta possession, elle est redevenue nôtre.${prompt}'
+  10650: 'Je peux te la rendre si tu le souhaites, mais cela te coûtera. Paye-moi ${number: 7} gil, et je te rendrai ce que tu as laissé échapper.${prompt}'
+  10651: 'Le destin qui attend ce ${item-singular: 0[2]} est beaucoup plus important que tu ne pourrais jamais l'imaginer. Prends-en soin cette fois-ci.${prompt}'
+  10652: Il semble que tu sois encore un peu à court de gil.${prompt}
+  10653: Ah, te revoilà ! Et juste à temps, je pourrais dire. La date du rituel approche à grands pas.${prompt}
+  10654: 'Pour cette prochaine mission, Gilgamesh a spécifiquement demandé l'aide du précédent propriétaire du ${item-singular: 0[2]}.${prompt}'
+  10655: C'est regrettable, mais il reste encore du temps. Veuillez reconsidérer votre décision.${prompt}
   10656: |-
     Excellent.
-    Now let me show you into Gilgamesh's quarters.${prompt}
-  10657: Arrrg, if it isn't me matey, ${name-player}. We be mighty grateful fer yer help 'n this one.${prompt}
-  10658: I'm sure Jauc's already told ya 'bout the upcomin' ritual we be holdin'. We call it “Yomi Okuri.” In Far Eastern legend, Yomi is the name of the place where the spirits of the dead roam.${prompt}
-  10659: Let me explain...${prompt}
-  10660: Twenty years ago, before the fall of Castle Zvahl and the Shadow Lord, a small country was wiped off the face of Vana'diel by those bloodthirsty beastmen.${prompt}
-  10661: That country was known as the Marquisate of Tavnazia. The flag we raise here in Norg be the flag of that lost nation.${prompt}
-  10662: It was a gruesome battle. Citizens of Tavnazia, soldiers from the three nations... Nearly all were slaughtered in a matter of hours.${prompt}
+    Maintenant, laisse-moi te montrer les quartiers de Gilgamesh.${prompt}
+  10657: Arrrg, si ce n'est pas mon camarade, ${name-player}. Nous te sommes très reconnaissants pour ton aide sur ce coup-là.${prompt}
+  10658: Je suis sûr que Jauc t'a déjà parlé du rituel à venir que nous allons célébrer. Nous l'appelons « Yomi Okuri ». Dans la légende orientale, Yomi est le nom du lieu où errent les esprits des morts.${prompt}
+  10659: Laisse-moi expliquer...${prompt}
+  10660: Il y a vingt ans, avant la chute du Château Zvahl et du Seigneur des Ombres, un petit pays a été effacé de la surface de Vana'diel par ces bêtes sanguinaires.${prompt}
+  10661: Ce pays était connu sous le nom de Marquisat de Tavnazia. Le drapeau que nous levons ici à Norg est celui de cette nation disparue.${prompt}
+  10662: Ce fut une bataille épouvantable. Les citoyens de Tavnazia, les soldats des trois nations... Presque tous ont été massacrés en quelques heures.${prompt}
   10663: |-
-    I, too, saw the apocalypse that happened the day Tavnazia fell.
-    When 'twas all over, the handful of us that remained escaped on a tiny ship.${prompt}
-  10664: But most of me mateys were already in bad shape and didn't survive the long journey home. Only a few of us made it back to Valkurm alive.${prompt}
-  10665: When we arrived at the dunes, we found that there were others that had tried escapin', but failed...the wreckage of their ships scattered 'bout the beaches.${prompt}
-  10666: Those who could still move used what remained of their energy to dig simple graves for those that had passed. But this would not be enough to appease the troubled souls that lingered in those sands.${prompt}
-  10667: Without a guidin' hand, the souls remain in this world, gettin' angrier an' angrier. The Yomi Okuri ritual is held to show these lost spirits the way t'their proper place of restin'.${prompt}
-  10668: Jauc, you take it from here.${prompt}
-  10669: Yes, sir.${prompt}
-  10670: 'For the Yomi Okuri to be properly carried out, a sacred katana must be made. Your ${item-singular: 0[2]} has already been used to forge the blade of the katana. However, we are still one step away from completion.${prompt}'
-  10671: 'Somewhere on the mainlands is a place called the Labyrinth of Onzozo. In those caves lurks a mammoth bird. To complete the sacred katana, I require ${keyitem-article: 1[2]} from that beast.${prompt}'
-  10672: However, this bird rarely ever sets forth from its nest. It must be lured out with a special kind of bait.${prompt}
-  10673: An' the only one of me mates that can brew a bait fine enough to make that pecker show its beak would be our head cook, Washu. Get some from her before ya leave.${prompt}
-  10674: 'Oh, an'' watch yer back in those caves. They be crawlin'' with all sorts of terrible beasts. Get it, grab the ${keyitem-singular: 1[2]}, and be outta there quick, if ya know what''s good fer ya.${prompt}'
-  10675: 'Do not forget to obtain some of ${color: 5}Washu''s tasty wurst${color: 1} before you set off for the Labyrinth of Onzozo. You will need it to lure the giant bird out of its lair.${prompt}'
-  10676: 'Yes, this ${keyitem-singular: 0[2]} is exactly what I need to complete the sacred katana. Now all I require is time...${prompt}'
-  10677: Do not rush me! This job requires extreme concentration. Think of the consequences if I were to hurry through my work!${prompt}
+    Moi aussi, j'ai vu l'apocalypse le jour où Tavnazia est tombé.
+    Quand tout fut terminé, les quelques-uns d'entre nous qui restaient ont échappé sur un petit bateau.${prompt}
+  10664: Mais la plupart de mes camarades étaient déjà en très mauvais état et n'ont pas survécu au long voyage de retour. Seuls quelques-uns d'entre nous ont atteint Valkurm vivants.${prompt}
+  10665: À notre arrivée dans les dunes, nous avons trouvé d'autres personnes qui avaient essayé de fuir, mais avaient échoué... les épaves de leurs navires éparpillées sur les plages.${prompt}
+  10666: Ceux qui pouvaient encore bouger ont utilisé ce qu'il restait de leur énergie pour creuser des tombes simples pour ceux qui étaient décédés. Mais cela ne suffisait pas à apaiser les âmes troublées qui erraient dans ces sables.${prompt}
+  10667: Sans une main guide, les âmes restent dans ce monde, devenant de plus en plus en colère. Le rituel Yomi Okuri est tenu pour montrer à ces esprits perdus le chemin vers leur lieu de repos approprié.${prompt}
+  10668: Jauc, prends le relais.${prompt}
+  10669: Oui, monsieur.${prompt}
+  10670: 'Pour que le Yomi Okuri soit correctement effectué, un katana sacré doit être fabriqué. Ton ${item-singular: 0[2]} a déjà été utilisé pour forger la lame du katana. Cependant, nous sommes encore à un pas de l'achèvement.${prompt}'
+  10671: 'Quelque part sur le continent se trouve un endroit appelé le Labyrinthe d'Onzozo. Dans ces cavernes rôde un oiseau mammouth. Pour compléter le katana sacré, j'ai besoin de ${keyitem-article: 1[2]} provenant de cette bête.${prompt}'
+  10672: Cependant, cet oiseau rare ne quitte presque jamais son nid. Il doit être attiré avec un appât spécial.${prompt}
+  10673: Et le seul de mes camarades qui peut préparer un appât assez fin pour faire sortir ce volatile est notre chef cuisinier, Washu. Va lui en chercher avant de partir.${prompt}
+  10674: 'Oh, et fais attention dans ces cavernes. Elles grouillent de toutes sortes de bêtes terribles. Obtiens-le, prends le ${keyitem-singular: 1[2]}, et sors de là rapidement, si tu tiens à toi.${prompt}'
+  10675: 'N'oublie pas de te procurer un peu de ${color: 5}wurst savoureux de Washu${color: 1} avant de partir pour le Labyrinthe d'Onzozo. Tu en auras besoin pour attirer le grand oiseau hors de son repaire.${prompt}'
+  10676: 'Oui, ce ${keyitem-singular: 0[2]} est exactement ce dont j'ai besoin pour compléter le katana sacré. Maintenant, il ne me reste plus qu'à travailler un peu plus...${prompt}'
+  10677: Ne me presse pas ! Ce travail nécessite une concentration extrême. Imagine les conséquences si je devais me dépêcher dans mon travail !${prompt}
   10678: |-
-    ${lettercase: 1}${keyitem-singular: 0[2]}... That is the name I bestow upon this sacred katana.
-    Now, all that remains is for you to take the blade to Valkurm and complete the ritual.${prompt}
-  10679: 'It is during this time beyond dusk that you must thrust ${keyitem-singular: 0[2]} into the secluded beach that lies on the other side of the far western caves in the Valkurm Dunes. Only then will the spirits be set free.${prompt}'
-  10680: From the hour in which the sands are ruled by darkness until they once again are graced by light...${prompt}
+    ${lettercase: 1}${keyitem-singular: 0[2]}... C'est le nom que je donne à ce katana sacré.
+    Maintenant, il ne te reste plus qu'à emporter la lame à Valkurm et compléter le rituel.${prompt}
+  10679: 'C'est durant cette période au-delà du crépuscule que tu dois enfoncer ${keyitem-singular: 0[2]} dans la plage isolée située de l'autre côté des cavernes occidentales dans les Dunes de Valkurm. Ce n'est qu'ainsi que les esprits seront libérés.${prompt}'
+  10680: Depuis l'heure où les sables sont dominés par l'obscurité jusqu'à ce qu'ils soient à nouveau baignés de lumière...${prompt}
   10681: |-
-    Welcome back, ${name-player}.
-    The new form that blade has taken is the proof that you were successful in your mission. I applaud you on your bravery.${prompt}
-  10682: Gilgamesh has asked me to present you with this as a token of our appreciation. Wear it with pride and let it guide you on your path in life.${prompt}
+    Bienvenue à nouveau, ${name-player}.
+    La nouvelle forme que cette lame a prise est la preuve que tu as réussi ta mission. Je t'applaudis pour ton courage.${prompt}
+  10682: Gilgamesh m'a demandé de te remettre ceci en signe de notre reconnaissance. Porte-le avec fierté et qu'il te guide sur ton chemin de vie.${prompt}
   10683: |-
-    Norg has many ties with the lost nation of Tavnazia, and many people here still think of it as their homeland.
-    The battle fought twenty years ago took the lives of many of our brothers, but the sacrifices that they made have not been in vain.${prompt}
-  10684: That day, something in Gilgamesh changed. He transformed from a simple soldier to a great leader who would bring us together and create the Norg of today.${prompt}
-  10685: So you're the adventurer that Gilgamesh sent, eh? Get out a piece of paper and a pencil. You're going to have to go fetch me the following four items.${prompt}
+    Norg a de nombreux liens avec la nation disparue de Tavnazia, et beaucoup de personnes ici la considèrent encore comme leur terre d'origine.
+    La bataille qui a eu lieu il y a vingt ans a coûté la vie à de nombreux frères, mais les sacrifices qu'ils ont faits n'ont pas été vains.${prompt}
+  10684: Ce jour-là, quelque chose a changé en Gilgamesh. Il est passé d'un simple soldat à un grand leader qui allait nous rassembler et créer le Norg d'aujourd'hui.${prompt}
+  10685: Alors tu es l'aventurier que Gilgamesh a envoyé, hein ? Sors une feuille de papier et un crayon. Tu vas devoir aller chercher les quatre objets suivants.${prompt}
   10686: |-
-    What? You thought I'd have everything you need here? With the way these hooligans eat, I barely have enough grub to feed the dogs!
-    Oh, don't worry. The way you adventurers put everything up on auction, you should be able to get your hands on these items easy enough.${prompt}
-  10687: 'All I need is ${article} ${item-article: 0[2]}, ${article} ${item-article: 1[2]}, ${article} ${item-article: 2[2]}, and ${article} ${item-article: 3[2]}.${prompt}'
-  10688: When you've got all four, bring them to me. I'll whip you up your bait in no time.${prompt}
-  10689: What, did you forget what I need you to bring already? And you call yourself an adventurer!${prompt}
-  10690: Well, that was quick. Pretty good for an adventurer. There may be some hope for you yet! Ha ha ha!${prompt}
-  10691: Now, let me whip up your bird bait, just like I promised.${prompt}
+    Quoi ? Tu pensais que j'aurais tout ce dont tu as besoin ici ? Avec la façon dont ces voyous mangent, j'ai à peine assez de nourriture pour les chiens !
+    Oh, ne t'inquiète pas. Avec la manière dont vous aventuriers mettez tout en vente aux enchères, tu devrais pouvoir obtenir ces objets assez facilement.${prompt}
+  10687: 'Tout ce dont j'ai besoin est ${article} ${item-article: 0[2]}, ${article} ${item-article: 1[2]}, ${article} ${item-article: 2[2]}, et ${article} ${item-article: 3[2]}.${prompt}'
+  10688: Quand tu auras les quatre, apporte-les-moi. Je te préparerai ton appât en un rien de temps.${prompt}
+  10689: Quoi, tu as déjà oublié ce que je t'ai demandé ? Et tu t'appelles aventurier !${prompt}
+  10690: Eh bien, c'était rapide. Plutôt bien pour un aventurier. Il y a peut-être encore de l'espoir pour toi ! Ha ha ha !${prompt}
+  10691: Maintenant, laisse-moi préparer ton appât pour les oiseaux, comme promis.${prompt}
   10692: |-
-    Here you go.
-    Be careful, though. From what I hear, that Onzozo place is a lot rougher than our jungles.${prompt}
-  10693: Why are you still here? You've got to get my bait to the birdy before it goes bad. If you were a monster, would you settle for a spoiled meal?${prompt}
-  10694: ${name-player}! Once again, trouble is brewing in Norg, and we require your services.${prompt}
+    Voilà.
+    Fais attention, cependant. D'après ce que j'entends, cet endroit d'Onzozo est beaucoup plus rude que nos jungles.${prompt}
+  10693: Pourquoi es-tu encore là ? Tu dois livrer mon appât à l'oiseau avant qu'il ne se gâte. Si tu étais un monstre, te contenterais-tu d'un repas avarié ?${prompt}
+  10694: ${name-player} ! Encore une fois, des problèmes se préparent à Norg, et nous avons besoin de tes services.${prompt}
   10695: |-
-    I see. So you are busy...
-    However, there is still time. I pray that you will return to us quickly.${prompt}
-  10696: Your gratitude is appreciated by all of us here in Norg. Now let us proceed to Gilgamesh's chambers.${prompt}
+    Je vois. Donc tu es occupé...
+    Cependant, il y a encore du temps. Je prie pour que tu reviennes rapidement.${prompt}
+  10696: Ta gratitude est appréciée par nous tous ici à Norg. Passons maintenant aux appartements de Gilgamesh.${prompt}
   10697: |-
-    Arrrg, welcome back, ${name-player}.
-    Let me fill ya in on the predicament we've got ourselves into.${prompt}
+    Arrrg, bienvenue à nouveau, ${name-player}.
+    Laisse-moi te mettre au courant de la situation dans laquelle nous nous trouvons.${prompt}
   10698: |-
-    A thief's robbed us of one of our treasures.
-    Me thinks it be another band o'pirates. I've got me men out on the trail of 'em now.${prompt}
-  10699: Ya may think that problems between pirates should be solved by pirates--and yer right. But this time, the situation's a wee bit more complicated.${prompt}
-  10700: 'The item the thief stole was an ancient helmet left by me ancestors called ${article} ${item-article: 0[2]}. But this ain''t no ordinary helmet.${prompt}'
-  10701: It's said that me father trapped the spirit of an evil demon in that helmet after a grueling battle in the Northlands. He put numerous magical seals on it t'keep the beast at bay.${prompt}
-  10702: This probably be the reason that our rival pirates decided t'lay their grimy hands on it.${prompt}
-  10703: T'make a long story short, I need ya t'find the man that had the nerve t'rob me, and get that helmet back. Not too difficult fer an adventurer like you, eh?${prompt}
-  10704: And if fer some reason, the magic seal on the helmet were to be broken, we'll need ya t'...well, ya know what we'll need ya t'do then.${prompt}
-  10705: Because of the sensitive nature of this problem, not many here in Norg have been informed of what has happened. However, the men I have sent to track down the thieves should have some good information fer ya, but first ya have t'search them out.${prompt}
-  10706: Currently, Gilgamesh has men combing Vana'diel for clues on the whereabouts of the thieves. Search them out and learn what new information they have gathered.${prompt}
-  10707: The situation has grown graver than I had imagined. It is only a matter of time before the seal on the helmet breaks, if it has not already.${prompt}
-  10708: Take this. It can be used to extinguish the evil spirit's power for a short period of time.${prompt}
-  10709: 'Throw that ${item-singular: 0[2]} into the magic portal. After that, you should then be able to enter. But beware of what lurks on the other side!${prompt}'
-  10710: You fool! How could you just dispose of such an important item? Without it, how are you supposed to break the cursed seal on the portal!?${prompt}
-  10711: 'By the looks of this ${keyitem-singular: 0[2]}, I can guess that seal was already broken when you arrived at the shrine. It is amazing that the seal held for so many decades.${prompt}'
-  10712: You have done well, ${name-player}. Without your strength and perseverance, we would not have been able to silence that evil spirit. We are all in your debt.${prompt}
+    Un voleur nous a dérobé un de nos trésors.
+    Je pense que c'est un autre groupe de pirates. J'ai envoyé mes hommes sur leurs traces.${prompt}
+  10699: Tu pourrais penser que les problèmes entre pirates devraient être réglés par les pirates eux-mêmes – et tu as raison. Mais cette fois, la situation est un peu plus compliquée.${prompt}
+  10700: 'L'objet que le voleur a volé est un ancien casque laissé par mes ancêtres, appelé ${article} ${item-article: 0[2]}. Mais ce n'est pas un casque ordinaire.${prompt}'
+  10701: On dit que mon père a piégé l'esprit d'un démon maléfique dans ce casque après une bataille épuisante dans les terres du Nord. Il y a mis de nombreux sceaux magiques pour garder la bête à distance.${prompt}
+  10702: C'est probablement la raison pour laquelle nos pirates rivaux ont décidé de mettre leurs sales mains dessus.${prompt}
+  10703: Pour faire court, j'ai besoin que tu trouves l'homme qui a eu le culot de me voler, et que tu récupères ce casque. Pas trop difficile pour un aventurier comme toi, hein ?${prompt}
+  10704: Et si, pour une raison quelconque, le sceau magique sur le casque venait à être brisé, nous aurions besoin que tu... eh bien, tu sais ce qu'il te faudra faire alors.${prompt}
+  10705: En raison de la nature délicate de ce problème, peu de personnes ici à Norg sont informées de ce qui s'est passé. Cependant, les hommes que j'ai envoyés pour traquer les voleurs devraient avoir de bonnes informations pour toi, mais d'abord tu dois les retrouver.${prompt}
+  10706: Actuellement, Gilgamesh a envoyé des hommes fouiller Vana'diel pour obtenir des indices sur l'emplacement des voleurs. Recherche-les et découvre quelles nouvelles informations ils ont recueillies.${prompt}
+  10707: La situation est devenue plus grave que je ne l'avais imaginé. Il est seulement question de temps avant que le sceau sur le casque ne se brise, s'il ne l'a pas déjà fait.${prompt}
+  10708: Prends ceci. Il peut être utilisé pour éteindre le pouvoir de l'esprit maléfique pendant une courte période.${prompt}
+  10709: 'Jette ce ${item-singular: 0[2]} dans le portail magique. Après cela, tu devrais pouvoir entrer. Mais méfie-toi de ce qui se cache de l'autre côté !${prompt}'
+  10710: Espèce d'imbécile ! Comment as-tu pu te débarrasser d'un objet aussi important ? Sans lui, comment es-tu censé briser le sceau maudit sur le portail ?${prompt}
+  10711: 'À en juger par ce ${keyitem-singular: 0[2]}, je peux deviner que le sceau était déjà brisé lorsque tu es arrivé au sanctuaire. Il est étonnant que le sceau ait tenu pendant toutes ces décennies.${prompt}'
+  10712: Tu as bien travaillé, ${name-player}. Sans ta force et ta persévérance, nous n'aurions pas pu faire taire cet esprit maléfique. Nous sommes tous en ta dette.${prompt}
   10713: |-
-    However, before I give you your reward, there is one more small task that I wish of you.
-    It would be an abomination to leave the helmet in this damaged state. We must do something to repair it.${prompt}
-  10714: 'Hmmm... We have most of the material required to repair it here in Norg, but I fear we may not have enough ${item-plural: 1[2]}.${prompt}'
-  10715: 'Bring me one ${item-singular: 1[2]}. I am sure you know of a craftsman who can provide you with this material. I will proceed in repairing the helmet when you have brought it to me.${prompt}'
-  10716: 'The helmet is in terrible condition. However, I think that with ${article} ${item-article: 1[2]}, I may be able to repair it.${prompt}'
-  10717: Yes, this is what I require to repair the damaged helmet. I will get to work immediately. However, this may take a great deal of time. Its condition is far worse than I had imagined.${prompt}
-  10718: Why must you rush me in my work!? As I told you, the helmet was in terrible condition when you brought it to me. My work must be precise if I am to return it to its former glory!${prompt}
-  10719: 'Ah, ${name-player}. I have just finished the repairs to the ${item-singular: 0[2]}. I had to replace a large part of the helmet, but I feel I have helped it retain its former luster.${prompt}'
+    Cependant, avant de te donner ta récompense, il y a une dernière petite tâche que je souhaite te confier.
+    Ce serait une abomination de laisser le casque dans cet état endommagé. Nous devons faire quelque chose pour le réparer.${prompt}
+  10714: 'Hmmm... Nous avons la plupart des matériaux nécessaires pour le réparer ici à Norg, mais j'ai peur que nous n'ayons pas assez de ${item-plural: 1[2]}.${prompt}'
+  10715: 'Apporte-moi un ${item-singular: 1[2]}. Je suis sûr que tu connais un artisan qui peut te fournir ce matériau. Je commencerai à réparer le casque quand tu me l'auras apporté.${prompt}'
+  10716: 'Le casque est dans un état terrible. Cependant, je pense qu'avec ${article} ${item-article: 1[2]}, je pourrais le réparer.${prompt}'
+  10717: Oui, c'est ce dont j'ai besoin pour réparer le casque endommagé. Je vais commencer tout de suite. Cependant, cela pourrait prendre beaucoup de temps. Son état est bien pire que ce que j'avais imaginé.${prompt}
+  10718: Pourquoi me pressent-tu dans mon travail ? Comme je te l'ai dit, le casque était dans un état terrible lorsque tu me l'as apporté. Mon travail doit être précis si je veux le ramener à sa gloire d'antan !${prompt}
+  10719: 'Ah, ${name-player}. Je viens de terminer les réparations du ${item-singular: 0[2]}. J'ai dû remplacer une grande partie du casque, mais je pense avoir réussi à lui redonner son éclat d'antan.${prompt}'
   10720: |-
-    Yes, your reward. I have not forgotten.
-    Let us discuss these matters in Gilgamesh's quarters.${prompt}
-  10721: Arrrg, I'm sorry fer gettin' ya caught up in our pirate affairs, but I be mighty glad t'see ya back here safe in Norrrg.${prompt}
-  10722: You have me thanks fer all ya done for us.${prompt}
-  10723: If it weren't fer ya, we'd still be fearin' the day that demon would rear its ugly head 'n eat us all. But now that the demon's gone, that just leaves a pretty helmet t'sit on me wall.${prompt}
-  10724: 'But what good is a helmet without a head t''wear it!? This ${item-singular: 0[2]} would do you more good than it would collectin'' dust in me chambers. Take it! You''ve earned it!${prompt}'
-  10725: 'I am still taken back by how much you''ve matured much since I forged your ${item-singular: 0[2]} many moons ago. I can only imagine what great things lie before such a skilled warrior.${prompt}'
-  10726: So, you've decided to help!${prompt}
-  10727: So, you've finally decided to help.${prompt}
-  10728: ★★★ Calm down buddy! Try a zone change! ★★★${prompt}
+    Oui, ta récompense. Je ne l'ai pas oubliée.
+    Discutons de tout cela dans les quartiers de Gilgamesh.${prompt}
+  10721: Arrrg, je suis désolé de t'avoir mêlé à nos affaires de pirates, mais je suis très heureux de te voir de retour sain et sauf à Norrrg.${prompt}
+  10722: Tu as toute ma reconnaissance pour tout ce que tu as fait pour nous.${prompt}
+  10723: Si ce n'était pas pour toi, nous aurions encore peur du jour où ce démon réapparaîtrait et nous dévorerait tous. Mais maintenant que le démon est parti, il ne reste plus qu'un joli casque à trôner sur mon mur.${prompt}
+  10724: 'Mais quel est l'intérêt d'un casque sans tête pour le porter ? Ce ${item-singular: 0[2]} te serait plus utile qu'il ne serait à ramasser la poussière dans mes quartiers. Prends-le ! Tu l'as bien mérité !${prompt}'
+  10725: 'Je suis encore étonné de voir combien tu as mûri depuis que j'ai forgé ton ${item-singular: 0[2]} il y a de nombreuses lunes. Je ne peux qu'imaginer les grandes choses qui attendent un guerrier aussi talentueux.${prompt}'
+  10726: Alors, tu as décidé d'aider !${prompt}
+  10727: Alors, tu as enfin décidé d'aider.${prompt}
+  10728: ★★★ Calme-toi, mon pote ! Essaie de changer de zone ! ★★★${prompt}
   10729: |-
-    Samurai Artifact 1 flowchart
-    1: Get ${keyitem-article: 0[2]} from Washu.
-    2: Get ${keyitem-article: 1[2]} from Onzozo.${prompt}
+    Schéma de la quête des Artefacts du Samouraï 1
+    1: Obtiens ${keyitem-article: 0[2]} de Washu.
+    2: Obtiens ${keyitem-article: 1[2]} à Onzozo.${prompt}
   10730: |-
-    3: Give those two things to Jaucribaix.
-    4: Do some "Sending" in the dunes (z103).
-    5: Bring back ${keyitem-article: 3[2]} and you're done!${prompt}
+    3: Donne ces deux objets à Jaucribaix.
+    4: Fais quelques "Envois" dans les dunes (z103).
+    5: Ramène ${keyitem-article: 3[2]} et c'est terminé !${prompt}
   10731: |-
-    Samurai Artifact 2 flowchart
-    1: Get ${article} ${item-article: 0[2]}.
-    2: Fight the boss in zone 144 and get ${keyitem-article: 1[2]}.${prompt}
+    Schéma de la quête des Artefacts du Samouraï 2
+    1: Obtiens ${article} ${item-article: 0[2]}.
+    2: Combat le boss dans la zone 144 et obtiens ${keyitem-article: 1[2]}.${prompt}
   10732: |-
-    3: Get ${article} ${item-article: 2[2]} to repair the ${keyitem-singular: 1[2]}.
-    4: Hand over ${article} ${item-article: 2[2]}, wait one day (Earth time) and you're done!${prompt}
-  10733: '侍AF: Ren was spanked in zone 144, baby.${prompt}'
-  10734: Arrrg, so ya say ya couldn't journey deeper into the temple because a grate was blockin' yer way?${prompt}
-  10735: What? Ya saw a stairway on the other side of that bloomin' grate? Ha! Leave it t'the Zilart t'build somethin' crazy like that.${prompt}
-  10736: But this ain't no time fer complainin'. We've got t'figger out a way t'get t'that stairway.${prompt}
-  10737: There's got t'be some way t'open that wall. Some kind of key...${prompt}
-  10738: |-
-    Arrrg! I've got it!
-    Ya say the Zilarrrt used crystals t'power their strange machines, right? Then maybe...${prompt}
-  10739: I think me may know the way t'get through that grate.${prompt}
-  10740: Listen up, ${name-player}. I want ya t'find a Mithra named Mary or Maroo or somethin' like that. She was in Norg a while back, but now she could be anywhere on the mainlands.${prompt}
-  10741: Why all this trouble over a cat? Well, when that lady was here, she tried sellin' us a strange crystal she said she found in the Sanctuary of Zi'Tah.${prompt}
-  10742: I don't think she was tryin' t'pull a fast one, but no one was interested in her booty, so she packed up and left fer somewhere else.${prompt}
-  10743: But now that me thinks of it, that crystal she found in Zi'Tah may be jus' what we're lookin' fer.${prompt}
-  10744: A thief like her won't be easy t'find. I'll have me mateys around Vana'diel spread the word that yer lookin' fer a crystal like the one she has.${prompt}
-  10745: If she gets wind of that info, that Maree's likely t'settle down until ya find her. We can only pray that what she has is what we need.${prompt}
-  10746: 'Arrrg, so that be the ${keyitem-singular: 0[2]} that we''ve been searchin'' fer. It looks like you had a hell of a time tryin'' t''get yer hands on it.${prompt}'
-  10747: But the real hell is yet t'come, ${name-player}. Crystal Warriors...floating islands... It may all seem crazy, but don't let that get in yer way. Yer Vana'diel's only hope.${prompt}
-  10748: Arrrg, so were ya able t'make it t'Tu'Lia?${prompt}
-  10749: Oh, so ya made them Crystal Warriors walk the plank now, did ya? Then that jus' leaves us with that wee prince. But first, we've got t'find a way into the darn shrine.${prompt}
-  10750: Is it Eald'narrrche that's keepin' us out, or is it somethin' else?${prompt}
-  10751: Listen close, ${name-player}.${prompt}
-  10752: If the prince had already opened the Gate of the Gods, Vana'diel wouldn't be here anymore. But as you can see, nothin's changed so far.${prompt}
-  10753: Which means all we can do is wait. When Eald'narche makes his move...that's when we attack!${prompt}
-  10754: You'n me both hate the Zilarrrt makin' fools out of us, but there's nothing much we can do right now.${prompt}
-  10755: We can't know when Eald'narche will attempt t'open the gate. It could be t'morrow, fer all I know. If ya have any preparations, I'd suggest makin' 'em now.${prompt}
-  10756: Hey, ${choice-player-gender}[mister/lady]. You look like you could use some extra cash, and what easier way to get gil than by making a date with Lady Luck?${prompt}
-  10757: |-
-    Give “Lucky Roll” a try?
+    3: Obtiens ${article} ${item-article: 2[2]} pour réparer le ${keyitem-singular: 1[2]}.
+    4: Remets ${article} ${item-article: 2[2]}, attends un jour (temps terrestre) et c'est terminé !${prompt}
+  10733: '侍AF: Ren a été fessé dans la zone 144, bébé.${prompt}
+  10734: Arrrg, alors tu dis que tu n'as pas pu aller plus loin dans le temple parce qu'une grille bloquait ton chemin ?${prompt}
+  10735: Quoi ? Tu as vu un escalier de l'autre côté de cette maudite grille ? Ha ! Laisse ça aux Zilart pour construire des trucs aussi fous.${prompt}
+  10736: Mais ce n'est pas le moment de se plaindre. Nous devons trouver un moyen d'atteindre cet escalier.${prompt}
+  10737: Il doit y avoir un moyen d'ouvrir ce mur. Une sorte de clé...${prompt}
+  10738: Arrrg ! J'ai trouvé !
+    Tu dis que les Zilart utilisaient des cristaux pour alimenter leurs machines étranges, non ? Alors peut-être...${prompt}
+  10739: Je pense que je sais comment passer cette grille.${prompt}
+  10740: Écoute bien, ${name-player}. Je veux que tu trouves une Mithra nommée Mary ou Maroo ou quelque chose dans ce genre. Elle était à Norg il y a un certain temps, mais maintenant elle pourrait être n'importe où sur les continents.${prompt}
+  10741: Pourquoi tout ce tracas à cause d'un chat ? Eh bien, quand cette femme était ici, elle a essayé de nous vendre un cristal étrange qu'elle a dit avoir trouvé dans le Sanctuaire de Zi'Tah.${prompt}
+  10742: Je ne pense pas qu'elle essayait de nous arnaquer, mais personne n'était intéressé par sa trouvaille, alors elle a fait ses valises et est partie ailleurs.${prompt}
+  10743: Mais maintenant que j'y pense, ce cristal qu'elle a trouvé à Zi'Tah pourrait bien être ce que nous cherchons.${prompt}
+  10744: Une voleuse comme elle ne sera pas facile à trouver. Je vais faire en sorte que mes hommes à travers Vana'diel répandent la nouvelle que tu cherches un cristal comme celui qu'elle possède.${prompt}
+  10745: Si elle entend parler de cette info, il est probable que Maroo se calmera jusqu'à ce que tu la trouves. Nous pouvons seulement espérer que ce qu'elle a est ce dont nous avons besoin.${prompt}
+  10746: Arrrg, donc c'est le ${keyitem-singular: 0[2]} que nous cherchions. On dirait que tu as eu du mal à mettre la main dessus.${prompt}
+  10747: Mais l'enfer véritable reste à venir, ${name-player}. Guerriers de cristal...îles flottantes... Cela peut sembler fou, mais ne te laisse pas décourager. Tu es le seul espoir de Vana'diel.${prompt}
+  10748: Arrrg, as-tu réussi à atteindre Tu'Lia ?${prompt}
+  10749: Oh, donc tu as fait marcher les Guerriers de cristal ? Il ne nous reste plus qu'à nous occuper de ce petit prince. Mais d'abord, nous devons trouver un moyen d'entrer dans ce maudit sanctuaire.${prompt}
+  10750: Est-ce Eald'narche qui nous empêche d'entrer, ou est-ce autre chose ?${prompt}
+  10751: Écoute bien, ${name-player}.${prompt}
+  10752: Si le prince avait déjà ouvert la Porte des Dieux, Vana'diel ne serait plus là. Mais comme tu peux le voir, rien n'a changé jusqu'à présent.${prompt}
+  10753: Ce qui signifie que tout ce que nous pouvons faire, c'est attendre. Quand Eald'narche fera son mouvement... c'est là que nous attaquerons !${prompt}
+  10754: Toi et moi détestons que les Zilart se moquent de nous, mais pour l'instant, nous ne pouvons rien faire.${prompt}
+  10755: Nous ne pouvons pas savoir quand Eald'narche tentera d'ouvrir la porte. Ça pourrait être demain, pour tout ce que je sais. Si tu as des préparations à faire, je te conseille de les faire maintenant.${prompt}
+  10756: Hé, ${choice-player-gender}[monsieur/madame]. Tu sembles avoir besoin d'argent, et quoi de plus facile pour obtenir des gil que de tenter ta chance avec Dame Chance ?${prompt}
+  10757: Essaie de faire un “Lancer Chanceux” ?
     ${selection-lines}
-    Luck be a lady tonight!
-    I'm not throwing my money away!
-    Fill me in on the details.${prompt}
-  10758: Let me explain to you how it works. One game of Lucky Roll is played each Vana'diel day.${prompt}
-  10759: One play is 100 gil, but as long as you keep paying, you can keep playing.${prompt}
-  10760: For each 100 gil, you get one roll of our six-sided die. The number that appears is added to the running total for that day.${prompt}
-  10761: The lucky adventurer who rolls the die that gets the running total over 400 wins...get this...a whopping 10000 gil!${prompt}
-  10762: And that's not all! You'll receive extra prizes if the total comes to 401 or 402, and a super bonus prize if your roll brings the total to exactly 400!${prompt}
-  10763: But be careful; the only time you can find out the running total is after you have rolled.${prompt}
-  10764: |-
-    And that's it! Pretty simple, huh?
-    You can attack from the get go, or you can sit back while other people roll, and then come in for the final kill. We provide you with the die, you choose the strategy.${prompt}
-  10765: Alright, enough talk, let's get rolling!${prompt}
-  10766: |-
-    You rolled a...${number: 1}!
-    The running total is now ${number: 3}!${prompt}
-  10767: Congratulations! Lady Luck has smiled on you today! Here's your 10000 gil!${prompt}
-  10768: And because your roll put the running total at exactly 400, you receive a bonus prize!${prompt}
-  10769: And for bringing the total so close to 400, here is your extra prize!${prompt}
-  10770: I'm sorry, but that's it for today's game of Lucky Roll. Come by tomorrow, and maybe Lady Luck will be waiting for you!${prompt}
+    Que la chance soit avec moi ce soir !
+    Je ne vais pas jeter mon argent par les fenêtres !
+    Explique-moi les détails.${prompt}
+  10758: Laisse-moi t'expliquer comment ça fonctionne. Un jeu de Lancer Chanceux se joue chaque jour de Vana'diel.${prompt}
+  10759: Un tour coûte 100 gil, mais tant que tu continues à payer, tu peux continuer à jouer.${prompt}
+  10760: Pour chaque 100 gil, tu obtiens un lancer de notre dé à six faces. Le nombre qui apparaît est ajouté au total courant pour ce jour.${prompt}
+  10761: L'aventurier chanceux qui lance le dé et fait passer le total courant au-dessus de 400 gagne... accroche-toi... un incroyable 10000 gil !${prompt}
+  10762: Et ce n'est pas tout ! Tu recevras des prix supplémentaires si le total atteint 401 ou 402, et un super bonus si ton lancer fait exactement 400 !${prompt}
+  10763: Mais fais attention ; la seule fois où tu peux connaître le total courant, c'est après avoir lancé le dé.${prompt}
+  10764: Et voilà ! Assez simple, non ?
+    Tu peux attaquer dès le début, ou tu peux attendre que d'autres personnes lancent le dé, puis intervenir pour le coup final. Nous te fournissons le dé, tu choisis ta stratégie.${prompt}
+  10765: D'accord, assez parlé, lançons les dés !${prompt}
+  10766: Vous avez lancé un... ${number: 1} !
+    Le total courant est maintenant de ${number: 3} !${prompt}
+  10767: Félicitations ! Dame Chance a souri sur vous aujourd'hui ! Voici vos 10000 gil !${prompt}
+  10768: Et comme votre lancer a fait atteindre exactement 400 au total, vous recevez un prix bonus !${prompt}
+  10769: Et pour avoir rapproché le total de 400, voici votre prix supplémentaire !${prompt}
+  10770: Je suis désolé, mais c'est tout pour le jeu de Lancer Chanceux d'aujourd'hui. Revenez demain, et peut-être que Dame Chance vous attendra !${prompt}
   10771: |-
     The minstrel of melodies is my name,
     For a mere ${number: 6} gil I'll recall your past.
@@ -23112,64 +23108,64 @@ entries:
     Which memory will you have recalled?
     ${selection-lines}
     Nothing.${prompt}
-  10781: Arrrg, I see you made it back safe 'n sound.${prompt}
-  10782: Yer story won't be goin' down in the annals of history, but there are some things that best go unknown.${prompt}
-  10783: Though if it wasn't fer you, we'd all be sleepin' down in Davy Jones's locker. Ya have me thanks, matey.${prompt}
-  10784: As fer Lion... Aldo came and gave me all the details on what she did.${prompt}
-  10785: What was she thinkin', goin' off and gettin' herself killed before her own father...${prompt}
-  10786: She washed up on shore here when she was still just a wee lass. Nobody knew where she came from...${prompt}
-  10787: But that wasn't uncommon during the Great War. Many a life was torn apart back then.${prompt}
-  10788: And when me father told me I was t'take care of her...well, I can tell ya, I wasn't ready fer that.${prompt}
-  10789: But raisin' Lion taught me a lot about the world. If it wasn't fer her, I wouldn't be the man I be today.${prompt}
-  10790: I never knew what she thought about her father bein' a pirate...${prompt}
-  10791: But I can tell you one thing--I be mighty damn proud to have her as a daughter.${prompt}
-  10792: Arrrg, the Zilarrrt's dream of Paradise may be over, but that doesn't change the fact that them beastmen still be crawlin' over the face of Vana'diel.${prompt}
-  10793: When ya think about it, this little charade with the princes may've just been the tip of the blimey iceberg.${prompt}
-  10794: And Lion... I haven't told the other scallywags what really happened t'her. They all think she's off on some adventure...${prompt}
-  10795: It's always easier t'forget about the things that trouble ya. That be why people always forget those who pass away. I don't want that happenin' t'me daughter. That's why she'll always be alive here in Norg.${prompt}
-  10796: '${name-player}, I can sense your skills have improved much since you first wielded the ${color: 5}mumeito${color: 1} I forged for you many moons ago. However, you still have many malms to travel on the road to mastery of the great katana. Do you feel you have what it takes to complete your journey?${prompt}'
-  10797: I understand your reluctance. One need not be hasty in such important decisions. I know that you will return here when you sense that you are ready.${prompt}
-  10798: I detect no hesitation in your mind and spirit. That is good.${prompt}
-  10799: 'Here, take this ${item-singular: 0[2]} and wield it as if it were part of your own body. When you have proven your strength and ability, the blade will lose its power. Then you will know that it has accepted you.${prompt}'
-  10800: When you feel that this time has come, return here with the katana.${prompt}
-  10801: This test will try you in many ways, physically and mentally. However, I am certain that you will be able to clear the mountain that looms before you.${prompt}
-  10802: 'When you have proven your strength and ability, the ${item-singular: 0[2]} will lose its power. Then you will know that it has accepted you.${prompt}'
-  10803: What brings you here today?${prompt}
-  10804: I still sense much potential inside you. This trial is designed to bring forth that potential so you may further refine it and utilize it to its fullest.${prompt}
-  10805: Wait. You need say no more. I realize that I failed to emphasize the rarity of that blade, but I did not imagine that you would lose such an important item.${prompt}
+  10781: Arrrg, je vois que tu es revenu sain et sauf.${prompt}
+  10782: Ton histoire ne fera pas les annales de l'histoire, mais il y a certaines choses qui sont mieux laissées dans l'ombre.${prompt}
+  10783: Si ce n'était pas pour toi, nous serions tous endormis au fond du coffre de Davy Jones. Tu as ma reconnaissance, camarade.${prompt}
+  10784: Quant à Lion... Aldo est venu me donner tous les détails sur ce qu'elle a fait.${prompt}
+  10785: Que pensait-elle, partir et se faire tuer avant son propre père...${prompt}
+  10786: Elle a échoué sur la rive ici quand elle n'était encore qu'une gamine. Personne ne savait d'où elle venait...${prompt}
+  10787: Mais ce n'était pas rare pendant la Grande Guerre. Beaucoup de vies ont été déchirées à l'époque.${prompt}
+  10788: Et quand mon père m'a dit de m'occuper d'elle... eh bien, je peux te dire que je n'étais pas prêt pour ça.${prompt}
+  10789: Mais élever Lion m'a appris beaucoup sur le monde. Si ce n'était pas pour elle, je ne serais pas l'homme que je suis aujourd'hui.${prompt}
+  10790: Je n'ai jamais su ce qu'elle pensait de son père étant pirate...${prompt}
+  10791: Mais je peux te dire une chose : je suis sacrément fier de l'avoir comme fille.${prompt}
+  10792: Arrrg, le rêve des Zilart pour le Paradis peut être terminé, mais cela ne change pas le fait que ces bêtes continuent de grouiller sur le visage de Vana'diel.${prompt}
+  10793: Quand on y pense, ce petit jeu avec les princes n'était peut-être que la partie émergée de l'iceberg maudit.${prompt}
+  10794: Et Lion... Je n'ai pas dit aux autres pirates ce qui est réellement arrivé. Ils pensent tous qu'elle est partie pour une aventure...${prompt}
+  10795: Il est toujours plus facile d'oublier ce qui nous trouble. C'est pourquoi les gens oublient toujours ceux qui sont partis. Je ne veux pas que cela arrive à ma fille. C'est pourquoi elle vivra toujours ici à Norg.${prompt}
+  10796: '${name-player}, je sens que tes compétences se sont beaucoup améliorées depuis que tu as brandi le ${color: 5}mumeito${color: 1} que j'ai forgé pour toi il y a de nombreuses lunes. Cependant, il te reste encore beaucoup de malms à parcourir sur le chemin de la maîtrise du grand katana. Penses-tu avoir ce qu'il faut pour accomplir ton voyage ?${prompt}'
+  10797: Je comprends ton hésitation. Il n'est pas nécessaire d'être hâtif dans des décisions aussi importantes. Je sais que tu reviendras ici quand tu sentiras que tu es prêt.${prompt}
+  10798: Je ne détecte aucune hésitation dans ton esprit et ton esprit. C'est bon.${prompt}
+  10799: 'Tiens, prends ce ${item-singular: 0[2]} et manie-le comme s'il faisait partie de ton propre corps. Lorsque tu auras prouvé ta force et ta capacité, la lame perdra son pouvoir. Alors tu sauras qu'elle t'a accepté.${prompt}'
+  10800: Quand tu sentiras que le moment est venu, reviens ici avec le katana.${prompt}
+  10801: Cette épreuve te mettra à l'épreuve de nombreuses façons, physiquement et mentalement. Cependant, je suis certain que tu seras capable de franchir la montagne qui se dresse devant toi.${prompt}
+  10802: 'Lorsque tu auras prouvé ta force et ta capacité, le ${item-singular: 0[2]} perdra son pouvoir. Alors tu sauras qu'il t'a accepté.${prompt}'
+  10803: Qu'est-ce qui t'amène aujourd'hui ?${prompt}
+  10804: Je sens encore beaucoup de potentiel en toi. Cette épreuve est conçue pour faire ressortir ce potentiel afin que tu puisses le raffiner davantage et l'utiliser pleinement.${prompt}
+  10805: Attends. Tu n'as pas besoin d'en dire plus. Je me rends compte que j'ai échoué à souligner la rareté de cette lame, mais je ne pensais pas que tu pourrais perdre un objet aussi important.${prompt}
   10806: |-
-    However, there is no need to fear. I have another ${item-singular: 0[2]} that I can lend you, though you must start the trial once again from the beginning.
-    And this time, be more careful. I will not tolerate any more mistakes.${prompt}
-  10807: What is this I hear? You are not truly thinking of abandoning your journey, are you?${prompt}
+    Cependant, il n'y a pas lieu de craindre. J'ai un autre ${item-singular: 0[2]} que je peux te prêter, mais tu devras recommencer l'épreuve depuis le début.
+    Et cette fois, fais plus attention. Je ne tolérerai plus aucune erreur.${prompt}
+  10807: Que puis-je entendre ? Tu ne penses pas vraiment abandonner ton voyage, si ?${prompt}
   10808: |-
-    I see that you have made up your mind...
-    I was certain that you had the potential to face the hardships I presented you, but I guess even an experienced eye such as my own can sometimes be clouded.${prompt}
-  10809: 'I am sure that you have your reasons for this decision and I will not stop you from what you have decided in your heart. You may now return the ${keyitem-singular: 1[2]} that I entrusted to you.${prompt}'
-  10810: 'I will leave you with the disposal of the ${item-singular: 0[2]}. It has already lost its power and is no longer of any use to me.${prompt}'
-  10811: You accepted this quest with the intention of completing it, did you not? If you have the time to be playing tricks on a feeble, old man, you should be out on the battlefield improving your techniques!${prompt}
-  10812: I can still feel energy running through this blade. This can only mean one thing--it still has not accepted your ability. The road to mastery is long. One cannot expect to reach one's goal in such a short period of time.${prompt}
-  10813: 'Wonderful! You are now ready for the final portion of your journey. Travel to the place inscribed upon this ${keyitem-singular: 0[2]}--the Kuftal Tunnel. There you will meet your final test.${prompt}'
-  10814: 'Travel to the Kuftal Tunnel, as is instructed upon the ${keyitem-singular: 0[2]} I gave you. There you will realize what you are to do.${prompt}'
+    Je vois que tu as pris ta décision...
+    J'étais certain que tu avais le potentiel pour affronter les épreuves que je t'ai présentées, mais je suppose qu'un œil expérimenté comme le mien peut parfois être trompé.${prompt}
+  10809: 'Je suis sûr que tu as tes raisons pour cette décision et je ne t'arrêterai pas dans ce que tu as décidé dans ton cœur. Tu peux maintenant me rendre le ${keyitem-singular: 1[2]} que je t'avais confié.${prompt}'
+  10810: 'Je te laisse le soin de te débarrasser du ${item-singular: 0[2]}. Il a déjà perdu son pouvoir et n'est plus utile pour moi.${prompt}'
+  10811: Tu as accepté cette quête avec l'intention de la compléter, n'est-ce pas ? Si tu as le temps de jouer des tours à un vieux bonhomme fragile, tu devrais être sur le champ de bataille à améliorer tes techniques !${prompt}
+  10812: Je peux encore sentir l'énergie parcourir cette lame. Cela ne peut signifier qu'une chose : elle n'a pas encore accepté ta capacité. Le chemin de la maîtrise est long. On ne peut pas espérer atteindre son objectif en si peu de temps.${prompt}
+  10813: 'Merveilleux ! Tu es maintenant prêt pour la dernière étape de ton voyage. Voyage jusqu'à l'endroit inscrit sur ce ${keyitem-singular: 0[2]}--le Tunnel de Kuftal. Là, tu rencontreras ta dernière épreuve.${prompt}'
+  10814: 'Voyage jusqu'au Tunnel de Kuftal, comme indiqué sur le ${keyitem-singular: 0[2]} que je t'ai donné. Là, tu comprendras ce que tu dois faire.${prompt}'
   10815: |-
-    The ${keyitem-singular: 0[2]}! So, you have finally completed this leg of your journey...
-    You are now ready to begin anew with your new techniques.${prompt}
-  10816: 'You have learned the weapon skill “Tachi: Kasha”!${prompt}'
-  10817: Well, look at you. I'm glad to see you realize that being a ninja isn't all about casting spells and throwing stars. But there's still one technique that's left for only the best of the best.${prompt}
-  10818: You've learned to wield your katana by risking your life and limb out there on the battlefield.${prompt}
-  10819: Learning this final technique will be no different. You'll have to get out there in the jungle and bust your butt like you never have before. Do you think you've got what it takes?${prompt}
-  10820: Hah! You may be shaking your head now, but I know your type. You won't be satisfied until you reach the top. You'll be back...and I'll be waiting.${prompt}
-  10821: I knew that you couldn't resist the challenge, but saying you're going to do something is a helluva lot easier than actually going out and doing it. If you don't think you're going to succeed, then you shouldn't even bother trying in the first place!${prompt}
-  10822: 'Here, take this ${item-singular: 0[2]}.${prompt}'
-  10823: 'Use that katana to deal as much damage as possible. When you''ve acquired enough skill, the ${item-singular: 0[2]} will recognize your power and its power will fade.${prompt}'
-  10824: When that happens, bring her back here to me.${prompt}
-  10825: But don't think that's the end of your trial. Something much more exciting will be waiting for you when you get back, if you know what I mean. Heh heh heh.${prompt}
-  10826: 'When you''ve acquired enough skill, the ${item-singular: 0[2]} will recognize your might and then its power will fade.${prompt}'
-  10827: What the hell do you want? You're not done already, are you?${prompt}
-  10828: Well, if that's all, then get the hell out of this cave and back out there on the battlefield!${prompt}
-  10829: 'You lost the ${item-singular: 0[2]}!?${prompt}'
-  10830: Idiot! You had the perfect chance to learn a deadly new technique, and you've thrown it away! I've seen crabs with more brains than you. Get out of my face!${prompt}
-  10831: Ha ha ha. I had you going there, didn't I? While I won't commend you on your stupidity, I will give you one more chance. But you screw up again and I'll...${prompt}
-  10832: Quit? Did you whack your head on the grotto ceiling when you came in? You're not really thinking of giving up now, are you?${prompt}
+    Le ${keyitem-singular: 0[2]} ! Donc, tu as finalement complété cette étape de ton voyage...
+    Tu es maintenant prêt à recommencer avec tes nouvelles techniques.${prompt}
+  10816: 'Tu as appris la compétence d'arme “Tachi: Kasha” !${prompt}'
+  10817: Eh bien, regarde-toi. Je suis content de voir que tu réalises que devenir ninja ne se limite pas à lancer des sorts et à lancer des étoiles. Mais il reste encore une technique réservée aux meilleurs des meilleurs.${prompt}
+  10818: Tu as appris à manier ton katana en risquant ta vie et tes membres sur le champ de bataille.${prompt}
+  10819: Apprendre cette technique finale ne sera pas différent. Tu devras te rendre dans la jungle et te donner à fond comme jamais auparavant. Penses-tu avoir ce qu'il faut ?${prompt}
+  10820: Hah ! Tu secoues peut-être la tête maintenant, mais je connais ton genre. Tu ne seras pas satisfait tant que tu n'auras pas atteint le sommet. Tu reviendras... et je t'attendrai.${prompt}
+  10821: Je savais que tu ne pouvais pas résister au défi, mais dire que tu vas faire quelque chose est beaucoup plus facile que de le faire réellement. Si tu ne penses pas réussir, alors tu ne devrais même pas essayer en premier lieu !${prompt}
+  10822: 'Tiens, prends ce ${item-singular: 0[2]}.${prompt}'
+  10823: 'Utilise ce katana pour infliger autant de dégâts que possible. Lorsque tu auras acquis suffisamment de compétence, le ${item-singular: 0[2]} reconnaîtra ta puissance et son pouvoir s'estompera.${prompt}'
+  10824: Quand cela arrivera, ramène-le ici auprès de moi.${prompt}
+  10825: Mais ne pense pas que c'est la fin de ton épreuve. Quelque chose de beaucoup plus excitant t'attendra à ton retour, si tu vois ce que je veux dire. Heh heh heh.${prompt}
+  10826: 'Lorsque tu auras acquis suffisamment de compétence, le ${item-singular: 0[2]} reconnaîtra ta puissance et son pouvoir s'estompera.${prompt}'
+  10827: Qu'est-ce que tu veux ? Tu as déjà fini, n'est-ce pas ?${prompt}
+  10828: Eh bien, si c'est tout, alors sors de cette grotte et retourne sur le champ de bataille !${prompt}
+  10829: 'Tu as perdu le ${item-singular: 0[2]} !?${prompt}'
+  10830: Idiot ! Tu avais la chance parfaite d'apprendre une nouvelle technique mortelle, et tu l'as gâchée ! J'ai vu des crabes avec plus de cervelle que toi. Va-t-en de ma vue !${prompt}
+  10831: Ha ha ha. Je t'ai bien eu, n'est-ce pas ? Bien que je ne vais pas te féliciter pour ta stupidité, je vais te donner une dernière chance. Mais si tu refais une erreur, je...${prompt}
+  10832: Abandonner ? T'as frappé ta tête sur le plafond de la grotte en entrant ? Tu ne penses quand même pas à abandonner maintenant, si ?${prompt}
   10833: |-
     Unbelievable. I thought that you had more in you than that...
     Well, you can hand me back the ${keyitem-singular: 1[2]} I gave you.${prompt}
