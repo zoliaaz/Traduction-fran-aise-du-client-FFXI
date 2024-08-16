@@ -21564,170 +21564,170 @@ entries:
     A fitting end for a talentless crew
     that tried to bite off more than it could chew.
     O～hohohohoho!${prompt}
-  10000: Your body absorbs the power held within the ancient runes!${prompt}
-  10001: 'You cannot enter this battlefield with ${keyitem-article: 0[2]} in your possession.${prompt}'
-  10002: It appears you must wait longer to commence the battle.${prompt}
+  10000: Votre corps absorbe le pouvoir contenu dans les runes anciennes !${prompt}
+  10001: Vous ne pouvez pas entrer sur ce champ de bataille avec ${keyitem-article: 0[2]} en votre possession.${prompt}
+  10002: Il semble que vous devez attendre plus longtemps avant de commencer le combat.${prompt}
   10003: |-
-    You are not in possession of ${keyitem-article: 0[2]}.
-    Unable to enter the battlefield for “${choice: 1}${choice: 1}[Sugar-coated Directive/Battaru Royale/Project: Shantottofication].”${prompt}
-  10004: 'You cannot enter the battlefield for “${choice: 1}${choice: 1}[Sugar-coated Directive/Battaru Royale/Project: Shantottofication]” with ${keyitem-article: 0[2]} in your possession.${prompt}'
+    Vous n'êtes pas en possession de ${keyitem-article: 0[2]}.
+    Impossible d'entrer sur le champ de bataille pour « ${choice: 1}${choice: 1}[Directive enrobée de sucre/Battaru Royale/Projet : Shantottofication]. »${prompt}
+  10004: Vous ne pouvez pas entrer sur le champ de bataille pour « ${choice: 1}${choice: 1}[Directive enrobée de sucre/Battaru Royale/Projet : Shantottofication] » avec ${keyitem-article: 0[2]} en votre possession.${prompt}
   10005: |-
-    The ${keyitem-singular: 0[2]} has no effect.
-    It appears you should come back later.${prompt}
+    ${keyitem-singular: 0[2]} n'a aucun effet.
+    Il semble que vous devrez revenir plus tard.${prompt}
   10006: |-
-    You are not in possession of a sap crystal.
-    Unable to enter the battlefield for “Battaru Royale.”${prompt}
+    Vous n'êtes pas en possession d'un cristal de sève.
+    Impossible d'entrer sur le champ de bataille pour « Battaru Royale. »${prompt}
   10007: |-
-    The sap crystal has no effect.
-    More time must elapse before you can enter the battlefield for “Battaru Royale.”${prompt}
+    Le cristal de sève n'a aucun effet.
+    Il faut attendre plus longtemps avant de pouvoir entrer sur le champ de bataille pour « Battaru Royale. »${prompt}
   10008: |-
-    You are not in possession of a Tablet of Hexes.
-    Unable to enter the battlefield for “Project: Shantottofication.”${prompt}
+    Vous n'êtes pas en possession d'une Tablette des Hexes.
+    Impossible d'entrer sur le champ de bataille pour « Projet: Shantottofication. »${prompt}
   10009: |-
-    The Tablet of Hexes has no effect.
-    More time must elapse before you can enter the battlefield for “Project: Shantottofication.”${prompt}
-  10010: The door is sealed.${prompt}
-  10011: Your opponents deem you too weak to be worthwhile, disappearing whence they came.${prompt}
-  10012: For your own safety, it is recommended that you set this location as your home point after changing jobs.${prompt}
-  10013: Hold it right there, buddy. This ain't no café. What business do you have here?${prompt}
-  10014: You finally made it, ${name-player}.${prompt}
-  10015: Lion!${prompt}
+    La Tablette des Hexes n'a aucun effet.
+    Il faut attendre plus longtemps avant de pouvoir entrer sur le champ de bataille pour « Projet: Shantottofication. »${prompt}
+  10010: La porte est scellée.${prompt}
+  10011: Tes adversaires te jugent trop faible pour être intéressant, et disparaissent comme ils sont venus.${prompt}
+  10012: Pour ta propre sécurité, il est recommandé de définir cet endroit comme ton point de départ après avoir changé de travail.${prompt}
+  10013: Stop ! Ce n'est pas un café ici. Quel est ton objectif ?${prompt}
+  10014: Tu es enfin arrivé, ${name-player}.${prompt}
+  10015: Lion !${prompt}
   10016: |-
-    You don't have to worry about ${name-player}. ${choice-player-gender}[He's/She's] okay.
-    Anyway, I thought you guys welcomed adventurers.${prompt}
-  10017: Understood.${prompt}
-  10018: Well, for starters, I should welcome you to Norg.${prompt}
-  10019: However, as much as I'd like to sit down and talk about old times over a bottle of 813 Rolanberry, we must first face our new problem with Kam'lanaut.${prompt}
-  10020: You mean you don't remember what happened at Castle Zvahl?${prompt}
+    Tu n'as pas à t'inquiéter pour ${name-player}. ${choice-player-gender}[Il/Elle] va bien.
+    De toute façon, je pensais que vous accueilliez les aventuriers.${prompt}
+  10017: Compris.${prompt}
+  10018: Eh bien, pour commencer, je devrais t'accueillir à Norg.${prompt}
+  10019: Cependant, autant j'aimerais m'asseoir et discuter du bon vieux temps autour d'une bouteille de Rolanberry 813, nous devons d'abord faire face à notre nouveau problème avec Kam'lanaut.${prompt}
+  10020: Tu veux dire que tu ne te souviens pas de ce qui s'est passé au Château Zvahl ?${prompt}
   10021: |-
     .......${name-player}......
-    Are yo......lright......${name-player}......${wait-animation: 3}
-  10022: It all began with a stone, or so the legend says.${prompt}
-  10023: In ages past, a sentient jewel, enormous and beautiful, banished the darkness. Its many-colored light filled the world with life and brought forth mighty gods.${prompt}
-  10024: Bathed in that light, the world entered an age of bliss until, after a time, the gods fell into slumber. That world was called Vana'diel.${prompt}
+    Es-tu......bien......${name-player}......${wait-animation: 3}
+  10022: Tout a commencé avec une pierre, selon la légende.${prompt}
+  10023: Dans les temps anciens, un joyau sensible, énorme et magnifique, a chassé les ténèbres. Sa lumière multicolore a rempli le monde de vie et a engendré des dieux puissants.${prompt}
+  10024: Baignée dans cette lumière, le monde est entré dans une ère de bonheur jusqu'à ce qu'après un certain temps, les dieux tombent dans un profond sommeil. Ce monde s'appelait Vana'diel.${prompt}
   10025: |-
-    The legend goes on to say...
-    From the darkest depths of the earth the Warriors of the Crystal rose...${prompt}
-  10026: Do you remember?${prompt}
-  10027: Yes... I do now.${prompt}
-  10028: Raogrimm, it is good to have you back. How has all this come to be?${prompt}
-  10029: As you know, I was the Talekeeper of the Galka--the keeper of our race's memories. But there was so much pain, so much anger...${prompt}
-  10030: I let myself become trapped in a dark abyss of swirling rage and madness...${prompt}
+    La légende continue...
+    Des profondeurs les plus sombres de la terre, les Guerriers du Cristal se sont élevés...${prompt}
+  10026: Te souviens-tu ?${prompt}
+  10027: Oui... maintenant je me souviens.${prompt}
+  10028: Raogrimm, c'est bon de t'avoir de retour. Comment tout cela a-t-il pu arriver ?${prompt}
+  10029: Comme tu le sais, j'étais le Gardien des Paroles des Galka - le gardien des souvenirs de notre race. Mais il y avait tellement de douleur, tellement de colère...${prompt}
+  10030: Je me suis laissé piéger dans un abîme sombre de rage et de folie tourbillonnante...${prompt}
   10031: Raogrimm...${prompt}
-  10032: People are capable of kindness beyond angels, yet we also commit sins that would put a demon to shame...${prompt}
-  10033: We all stand precariously on the edge between darkness and light... And when we fall, we are greeted by only madness and chaos.${prompt}
-  10034: And so I have fallen...${prompt}
-  10035: Quite an interesting show you put on.${prompt}
-  10036: I don't know. It could have used a little more excitement.${prompt}
-  10037: The Galka can never do anything right.${prompt}
-  10038: The Archduke of Jeuno and... What are you two doing here!?${prompt}
-  10039: 'We come to reap the seeds that we have sown.${wait-animation: 2}'
-  10040: 'You''ve performed your duty well, as ignorant as you are.${wait-animation: 3}'
-  10041: I can see that we still have a little more cleaning up to do, but that won't be a problem.${prompt}
-  10042: What are you going on about? Give us some answers!${prompt}
-  10043: Listen carefully, you sorry excuses for sentient beings. The Crystal Line will soon be revived and the Gate of the Gods will open.${prompt}
-  10044: That is when the true Vana'diel of legend will be reborn.${prompt}
-  10045: Eternal paradise. The land of the gods. The dream we Zilart have held on to for ten thousand years is about to become a reality.${prompt}
-  10046: Zilart? You... You can't be! That civilization perished thousands of years ago!${prompt}
-  10047: The great bane will devour the fair land of Vana'diel.${prompt}
-  10048: The ancient seal will be broken, awakening nightmares of ages past.${prompt}
-  10049: The blood of innocents will soak the earth, and the world will fall into fear and despair.${prompt}
-  10050: Hah! Galka, Humes, beastmen--no life on this planet has any purpose or meaning.${prompt}
-  10051: Like I told you before, we will not be handing over Vana'diel to anyone. This is our world.${prompt}
-  10052: Yes, I am no longer sensing the impurities that were blocking the power that lies deep within Vana'diel. The “noise” has gone.${prompt}
-  10053: 'Simply defeating “him” twenty years ago did not silence the noise.${wait-animation: 1}'
-  10054: We ran into a snag. We were unable to release him from the crystal with our power alone.${prompt}
-  10055: However, with the Talekeeper, we had what we needed. But there is no need to go into the details of that here.${prompt}
+  10032: Les gens sont capables d'une gentillesse dépassant celle des anges, mais nous commettons aussi des péchés qui feraient honte à un démon...${prompt}
+  10033: Nous sommes tous précaires sur le fil entre l'obscurité et la lumière... Et quand nous tombons, nous ne rencontrons que la folie et le chaos.${prompt}
+  10034: Et donc je suis tombé...${prompt}
+  10035: Un spectacle plutôt intéressant que vous avez présenté.${prompt}
+  10036: Je ne sais pas. Ça aurait pu être un peu plus excitant.${prompt}
+  10037: Les Galka ne peuvent jamais rien faire correctement.${prompt}
+  10038: L'Archiduc de Jeuno et... Que faites-vous deux ici !?${prompt}
+  10039: 'Nous venons récolter les graines que nous avons semées.${wait-animation: 2}'
+  10040: 'Vous avez bien accompli votre devoir, aussi ignorant que vous soyez.${wait-animation: 3}'
+  10041: Je vois que nous avons encore un peu de nettoyage à faire, mais cela ne sera pas un problème.${prompt}
+  10042: De quoi parlez-vous ? Donnez-nous des réponses !${prompt}
+  10043: Écoutez attentivement, vous pauvres excuses d'êtres sentients. La Ligne du Cristal sera bientôt ravivée et la Porte des Dieux s'ouvrira.${prompt}
+  10044: C'est à ce moment-là que le véritable Vana'diel de la légende renaîtra.${prompt}
+  10045: Paradis éternel. La terre des dieux. Le rêve que nous, les Zilart, avons conservé pendant dix mille ans est sur le point de devenir réalité.${prompt}
+  10046: Zilart ? Vous... Vous ne pouvez pas être ! Cette civilisation a péri il y a des milliers d'années !${prompt}
+  10047: Le grand fléau dévorera la belle terre de Vana'diel.${prompt}
+  10048: Le sceau ancien sera brisé, éveillant des cauchemars des âges passés.${prompt}
+  10049: Le sang des innocents trempera la terre, et le monde sombrera dans la peur et le désespoir.${prompt}
+  10050: Hah ! Galka, Humes, hommes-bêtes - aucune vie sur cette planète n'a de but ou de signification.${prompt}
+  10051: Comme je vous l'ai dit précédemment, nous ne remettrons pas Vana'diel à qui que ce soit. C'est notre monde.${prompt}
+  10052: Oui, je ne perçois plus les impuretés qui bloquaient le pouvoir qui repose au plus profond de Vana'diel. Le « bruit » a disparu.${prompt}
+  10053: 'Défendre simplement « lui » il y a vingt ans n'a pas supprimé le bruit.${wait-animation: 1}'
+  10054: Nous avons rencontré un obstacle. Nous n'avons pas pu le libérer du cristal avec notre pouvoir seul.${prompt}
+  10055: Cependant, avec le Gardien des Paroles, nous avions ce qu'il nous fallait. Mais il n'est pas nécessaire d'entrer dans les détails ici.${prompt}
   10056: |-
-    Wait...
-    I can hear them...
-    I can hear the five lifeforces...${prompt}
+    Attendez...
+    Je peux les entendre...
+    Je peux entendre les cinq forces vitales...${prompt}
   10057: |-
-    I can hear them approaching...
-    Minions of the Crystal.${prompt}
-  10058: But as one bright star shines through the clouds at night...${prompt}
-  10059: And as one song rings clear above the roar of beasts...${prompt}
-  10060: We hold to one hope in these darkest of times.${prompt}
-  10061: This world is nothing but a grave, and you are the maggots that squirm through the rotting corpse.${prompt}
-  10062: It is time we put an end to Vana'diel as it is now.${prompt}
-  10063: 'Hear us! We sing the song of hope...and your requiem! ${wait-animation: 1}'
-  10064: That they will come, with the wisdom of ages and the strength of thousands, to deliver us from our plight.${prompt}
-  10065: We await the awakening of the Warriors of the Crystal.${prompt}
-  10066: Warriors of the Crystal!?${prompt}
-  10067: Come forth, Warriors of the Crystal, and cleanse this world of the filth that plagues it.${prompt}
-  10068: Farewell, lowly vermin. Your time is up.${prompt}
-  10069: This is the beginning of the end.${prompt}
-  10070: 'Finish them, Warriors of the Crystal!${wait-animation: 1}'
-  10071: 'Zeid! Are you alright?${wait-animation: 2}'
+    Je peux les entendre approcher...
+    Servants du Cristal.${prompt}
+  10058: Mais comme une étoile brillante perce à travers les nuages la nuit...${prompt}
+  10059: Et comme une chanson résonne claire au-dessus du rugissement des bêtes...${prompt}
+  10060: Nous tenons à un espoir en ces temps les plus sombres.${prompt}
+  10061: Ce monde n'est rien d'autre qu'une tombe, et vous êtes les vers qui se tortillent à travers le cadavre pourri.${prompt}
+  10062: Il est temps de mettre fin à Vana'diel tel qu'il est maintenant.${prompt}
+  10063: 'Entendez-nous ! Nous chantons la chanson de l'espoir... et votre requiem ! ${wait-animation: 1}'
+  10064: Qu'ils viendront, avec la sagesse des âges et la force de milliers, pour nous délivrer de notre détresse.${prompt}
+  10065: Nous attendons le réveil des Guerriers du Cristal.${prompt}
+  10066: Guerriers du Cristal !?${prompt}
+  10067: Venez, Guerriers du Cristal, et purifiez ce monde de la saleté qui le souille.${prompt}
+  10068: Adieu, vermine inférieure. Votre heure est venue.${prompt}
+  10069: C'est le début de la fin.${prompt}
+  10070: 'Terminez-les, Guerriers du Cristal ! ${wait-animation: 1}'
+  10071: 'Zeid ! Ça va ?${wait-animation: 2}'
   10072: |-
     Ughhh...
-    Don't underestimate them... Their power is immeasurable...${prompt}
-  10073: 'No! ${name-player}!${wait-animation: 1}'
-  10074: 'Stop!${wait-animation: 1}'
-  10075: You'd have to be crazy to stay any longer. We've got to get out of here!${prompt}
+    Ne les sous-estime pas... Leur puissance est incommensurable...${prompt}
+  10073: 'Non ! ${name-player} ! ${wait-animation: 1}'
+  10074: 'Arrêtez ! ${wait-animation: 1}'
+  10075: Vous devriez être fou de rester plus longtemps. Nous devons sortir d'ici !${prompt}
   10076: Lion!?${prompt}
-  10077: 'Oh, no you don''t!${wait-animation: 1}'
+  10077: 'Oh non, pas vous ! ${wait-animation: 1}'
   10078: Raogrimm!?${prompt}
-  10079: I can still draw energy from this land. If I can concentrate it for one last time, I may be able to slow them down.${prompt}
+  10079: Je peux encore puiser de l'énergie dans cette terre. Si je peux la concentrer une dernière fois, je pourrais peut-être ralentir leur progression.${prompt}
   10080: Raogrimm...${prompt}
-  10081: There is no salvation for me. The Raogrimm who you once knew is gone forever.${prompt}
-  10082: I expect no forgiveness for what I have done, but...${prompt}
+  10081: Il n'y a pas de salut pour moi. Le Raogrimm que vous connaissiez est parti pour toujours.${prompt}
+  10082: Je n'attends aucun pardon pour ce que j'ai fait, mais...${prompt}
   10083: |-
-    Don't let them have Vana'diel.
-    Now, go!${prompt}
-  10084: Come on! This way, hurry!${prompt}
-  10085: 'Farewell, brave warrior!${wait-animation: 1}'
-  10086: One does not need to be a prophet to foresee the outcome of this battle. However, I do not fear death.${prompt}
-  10087: My true self died thirty years ago... All that remains is an empty shell...${prompt}
-  10088: Cornelia... Finally, we may meet again...${prompt}
-  10089: Hey, ${name-player}. Are you alright?${prompt}
-  10090: You mean you had forgotten what had happened at Castle Zvahl?${prompt}
+    Ne les laissez pas prendre Vana'diel.
+    Maintenant, partez !${prompt}
+  10084: Allez ! Par ici, dépêchez-vous !${prompt}
+  10085: 'Adieu, brave guerrier ! ${wait-animation: 1}'
+  10086: On n'a pas besoin d'être prophète pour prévoir l'issue de cette bataille. Cependant, je n'ai pas peur de la mort.${prompt}
+  10087: Mon véritable moi est mort il y a trente ans... Il ne reste plus qu'une coquille vide...${prompt}
+  10088: Cornelia... Enfin, nous pourrions nous retrouver...${prompt}
+  10089: Hé, ${name-player}. Ça va ?${prompt}
+  10090: Vous voulez dire que vous aviez oublié ce qui s'est passé à Château Zvahl ?${prompt}
   10091: |-
     Hmm...
-    You must have lost your memory from the overwhelming shock of the whole experience.${prompt}
-  10092: But by the looks of you, everything else seems to be working.${prompt}
-  10093: See that staircase over there? When you're feeling a little better, walk up those stairs and come to the room at the end of the hallway.${prompt}
-  10094: There's someone I'd like you to meet. I'll go there first and tell him that you're coming.${prompt}
-  10095: 'Oh, and here, take this ${keyitem-singular: 6[2]}. Think of it as a present from a friend.${prompt}'
-  10096: See you again.${prompt}
+    Vous devez avoir perdu la mémoire à cause du choc écrasant de toute l'expérience.${prompt}
+  10092: Mais à vous voir, tout le reste semble fonctionner.${prompt}
+  10093: Vous voyez cet escalier là-bas ? Lorsque vous vous sentirez un peu mieux, montez ces escaliers et venez dans la pièce au bout du couloir.${prompt}
+  10094: Il y a quelqu'un que j'aimerais que vous rencontriez. J'irai d'abord là-bas et lui dirai que vous venez.${prompt}
+  10095: 'Oh, et voici, prenez ce ${keyitem-singular: 6[2]}. Considérez-le comme un cadeau d'un ami.${prompt}'
+  10096: À bientôt.${prompt}
   10097: '     ${wait-animation: 1}'
   10098: |-
-    Arrrg, welcome t'Norg.
-    I'm Gilgamesh, the leader of these scallywags. Me daughter's filled me in on your tale.${prompt}
-  10099: I've had me suspicions about Jeuno fer years. That's why I had Lion investigatin' these past months.${prompt}
-  10100: But blimey! I had no idear that the Archduke and his wee brother were Zilarrrt.${prompt}
-  10101: That ancient civilization perished so long ago, there be no record of it.${prompt}
-  10102: And who be these five Warriors of the Crystal?${prompt}
-  10103: If they really are the Warriors that legend speaks of...${prompt}
-  10104: Does this mean that the “bane” the song sings of...is us?${prompt}
-  10105: We will cause the blood of innocents to soak the earth? We will cause the world to fall into fear and despair?${prompt}
-  10106: So we are the plague that the Warriors of the Crystal have come to cure?${prompt}
-  10107: I don't know nothin' 'bout no Crystal Warriors or ancient legends, but I do know I'm not gonna sit around waitin' fer these Zilart to take over the world.${prompt}
-  10108: “Cleanse the world?” “Beginning of the end?” That be a lot of fancy talk.${prompt}
-  10109: But let's see them say that in front of yours truly! I'm not runnin' away from no fight!${prompt}
-  10110: But how can we stop Kam'lanaut's plan?${prompt}
-  10111: We're settin' out fer the Temple of Uggalepih.${prompt}
-  10112: The Temple of Uggalepih?${prompt}
-  10113: " \nWhile not as ancient as Fei'Yin, I do know of some old ruins in the Temple of Uggalepih, beyond the Yuhtunga Jungle.${prompt}"
-  10114: Years ago, I journeyed there, thinking some booty had to be hidden in a place so ancient. That is where I met up with this strange old woman.${prompt}
-  10115: " \n“Are the ancient spirits still in slumber? Come again when the minions awake.”${prompt}"
-  10116: Arrrg, and then she vanished into thin air.${prompt}
-  10117: I didn't know what to make of it then, but I never thought it would be somethin' big like this.${prompt}
-  10118: I'm sure that old lady must know what's goin' on. ${name-player}, I want ya t'travel to the Temple of Uggalepih and find her.${prompt}
-  10119: And before you go, stop by an' see the Chieftainness in Kazham. If you tell her I sent ya, she may be of some help.${prompt}
-  10120: No one's going to believe such a crazy story. We're going t'have t'work by ourselves on this one.${prompt}
-  10121: I believe...${prompt}
-  10122: Aldo! How long's it been? What brings you all the way out here?${prompt}
-  10123: Lion, Gilgamesh... It's Verena. She's disappeared.${prompt}
+    Arrrg, bienvenue à Norg.
+    Je suis Gilgamesh, le chef de ces coquins. Ma fille m'a raconté votre histoire.${prompt}
+  10099: J'ai eu des soupçons sur Jeuno depuis des années. C'est pourquoi j'avais demandé à Lion d'enquêter ces derniers mois.${prompt}
+  10100: Mais sacré bleu ! Je n'avais aucune idée que l'Archiduc et son petit frère étaient des Zilarts.${prompt}
+  10101: Cette civilisation ancienne a disparu il y a si longtemps, il n'y a aucun document à son sujet.${prompt}
+  10102: Et qui sont ces cinq Guerriers du Cristal ?${prompt}
+  10103: Si ce sont vraiment les Guerriers dont parle la légende...${prompt}
+  10104: Cela signifie-t-il que le “fléau” dont chante la chanson... c'est nous ?${prompt}
+  10105: Nous allons faire couler le sang des innocents ? Nous allons plonger le monde dans la peur et le désespoir ?${prompt}
+  10106: Donc nous sommes le fléau que les Guerriers du Cristal sont venus chasser ?${prompt}
+  10107: Je ne sais rien des Guerriers du Cristal ou des légendes anciennes, mais je sais que je ne vais pas rester là à attendre que ces Zilarts prennent le contrôle du monde.${prompt}
+  10108: “Purifier le monde ?” “Début de la fin ?” Ça fait beaucoup de belles paroles.${prompt}
+  10109: Mais voyons-les dire ça devant moi ! Je ne fuis aucun combat !${prompt}
+  10110: Mais comment pouvons-nous stopper le plan de Kam'lanaut ?${prompt}
+  10111: Nous nous dirigeons vers le Temple d'Uggalepih.${prompt}
+  10112: Le Temple d'Uggalepih ?${prompt}
+  10113: " \nBien que ce ne soit pas aussi ancien que Fei'Yin, je connais des ruines anciennes dans le Temple d'Uggalepih, au-delà de la Jungle de Yuhtunga.${prompt}"
+  10114: Il y a des années, je suis allé là-bas, pensant qu'il devait y avoir un trésor caché dans un endroit aussi ancien. C'est là que j'ai rencontré cette vieille femme étrange.${prompt}
+  10115: " \n“Les esprits anciens sont-ils encore en sommeil ? Revenez quand les sbires se réveilleront.”${prompt}"
+  10116: Arrrg, et puis elle a disparu dans les airs.${prompt}
+  10117: Je ne savais pas quoi en penser à l'époque, mais je n'aurais jamais cru que ce serait quelque chose d'aussi important.${prompt}
+  10118: Je suis sûr que cette vieille dame doit savoir ce qui se passe. ${name-player}, je veux que vous voyagiez jusqu'au Temple d'Uggalepih et que vous la trouviez.${prompt}
+  10119: Et avant de partir, passez voir la Chieftainness à Kazham. Si vous lui dites que je vous ai envoyé, elle pourrait vous être utile.${prompt}
+  10120: Personne ne croira une histoire aussi folle. Nous allons devoir travailler seuls sur ce coup.${prompt}
+  10121: Je crois...${prompt}
+  10122: Aldo ! Ça fait longtemps ! Qu'est-ce qui t'amène ici ?${prompt}
+  10123: Lion, Gilgamesh... C'est Verena. Elle a disparu.${prompt}
   10124: |-
-    But why would she go anywhere now?
-    I have a bad feeling about this...${prompt}
-  10125: It may have somethin' t'do with Kam'lanaut's plan.${prompt}
-  10126: I'll help you look for her, Aldo. If anything happened to Verena...${prompt}
-  10127: No, Lion. I have another job fer you.${prompt}
-  10128: What?${prompt}
-  10129: Lion, I appreciate your words, but let me gather some information around Jeuno first.${prompt}
-  10130: Just knowing that Kam'lanaut is up to no good is a start. If I find out anything new, you will be the first to know.${prompt}
+    Mais pourquoi partirait-elle maintenant ?
+    J'ai un mauvais pressentiment à ce sujet...${prompt}
+  10125: Cela pourrait avoir quelque chose à voir avec le plan de Kam'lanaut.${prompt}
+  10126: Je vais t'aider à la chercher, Aldo. Si quelque chose arrivait à Verena...${prompt}
+  10127: Non, Lion. J'ai un autre travail pour toi.${prompt}
+  10128: Quoi ?${prompt}
+  10129: Lion, j'apprécie tes paroles, mais laisse-moi d'abord recueillir des informations autour de Jeuno.${prompt}
+  10130: Savoir simplement que Kam'lanaut prépare quelque chose de mauvais est un bon début. Si j'apprends quelque chose de nouveau, tu seras le premier au courant.${prompt}
   10131: 最後に、一ついっておくことがある。${prompt}
   10132: |-
     こんな話、誰も信じちゃくれまい。
