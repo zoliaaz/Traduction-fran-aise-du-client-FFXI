@@ -17586,28 +17586,28 @@ entries:
   7140: 'ro:${number: 0} rs:${number: 1} ps:${number: 2} dt:${number: 3}${prompt}'
   7141: 'ra:${number: 0} ti:${number: 1}${prompt}'
   7142: |-
-    You spot some familiar footprints.
-    You are convinced that your moogle friend has been digging in the immediate vicinity.${prompt}
-  7143: You get the distinct sense that your moogle friend frequents this spot...${prompt}
-  7144: You have a feeling that your moogle friend has been through this way...${prompt}
-  7145: You suspect that the scenery around here would be to a moogle's liking...${prompt}
-  7146: You have a vague feeling that a moogle would enjoy traversing this terrain...${prompt}
-  7147: You have a hunch that this area would be favored by moogles...${prompt}
+    Tu aperçois des empreintes familières.
+    Tu es convaincu que ton ami moogle a creusé dans les environs immédiats.${prompt}
+  7143: Tu as le sentiment distinct que ton ami moogle fréquente cet endroit...${prompt}
+  7144: Tu as l'impression que ton ami moogle est passé par ici...${prompt}
+  7145: Tu soupçonnes que le paysage ici serait du goût d'un moogle...${prompt}
+  7146: Tu as un vague sentiment qu'un moogle apprécierait de parcourir ce terrain...${prompt}
+  7147: Tu as l'intuition que cette zone serait appréciée des moogles...${prompt}
   7148: |-
-    Your chocobo is pulling at the bit.
-    You sense that it is leading you to the ${choice: 0}[east/southeast/south/southwest/west/northwest/north/northeast].${prompt}
-  7149: '${entity: 0} catches ${number: 1} ${item-given-plurality: 1[2], 0[2]}!${prompt}'
-  7150: '${entity: 0} obtained ${keyitem-article: 0[2]}!${prompt}'
-  7151: It appears your chocobo found this item with ease.${prompt}
-  7152: Your chocobo appears to have gained valuable knowledge from this discovery.${prompt}
+    Ton chocobo tire sur la bride.
+    Tu sens qu'il te conduit vers le ${choice: 0}[est/sud-est/sud/sud-ouest/ouest/nord-ouest/nord/nord-est].${prompt}
+  7149: '${entity: 0} attrape ${number: 1} ${item-given-plurality: 1[2], 0[2]} !${prompt}'
+  7150: '${entity: 0} a obtenu ${keyitem-article: 0[2]} !${prompt}'
+  7151: Il semble que ton chocobo a trouvé cet objet avec facilité.${prompt}
+  7152: Ton chocobo semble avoir acquis des connaissances précieuses grâce à cette découverte.${prompt}
   7153: ' FPT ${number: 0} DPT ${number: 1} DoT${number: 2}'
   7154: ' FPT ${number: 0} TDPT ${number: 1} h${number: 2}'
-  7155: You cannot fish at this time.${prompt}
-  7156: 'You discover a cache of beastman resources and receive ${number: 0} conquest point${choice-plurality: 0}[/s]!${prompt}'
-  7157: 'You discover a cache of beastman resources and receive ${number: 0} Imperial Standing!${prompt}'
-  7158: 'You discover a cache of beastman confederate resources and receive ${number: 0} allied note${choice-plurality: 0}[/s]!${prompt}'
-  7159: 'You receive ${number: 0} bayld!${prompt}'
-  7160: 'Your chocobo refuses to partake of the ${item-singular: 0[2]}.${prompt}'
+  7155: Tu ne peux pas pêcher pour le moment.${prompt}
+  7156: 'Tu découvres une cache de ressources de bêtes et reçois ${number: 0} point${choice-plurality: 0}[/s] de conquête !${prompt}'
+  7157: 'Tu découvres une cache de ressources impériales et reçois ${number: 0} Standing impérial !${prompt}'
+  7158: 'Tu découvres une cache de ressources confédérées des bêtes et reçois ${number: 0} note${choice-plurality: 0}[/s] alliée !${prompt}'
+  7159: 'Tu reçois ${number: 0} bayld !${prompt}'
+  7160: 'Ton chocobo refuse de consommer le ${item-singular: 0[2]}.${prompt}'
   7161: Comptage des résultats de conquête...${prompt}
   7162: Résultats de la conquête comptabilisés.${prompt}
   7163: Cette région est actuellement sous contrôle de San d'Orian.${prompt}
@@ -17686,67 +17686,67 @@ entries:
     1er : San d'Oria et Windurst (égalité)
     3e : Bastok${prompt}
   7187: |-
-    Global balance of power:
-    1st: Windurst
-    2nd: San d'Oria and Bastok (tie)${prompt}
+    Équilibre global des pouvoirs :
+    1er : Windurst
+    2e : San d'Oria et Bastok (égalité)${prompt}
   7188: |-
-    Global balance of power:
-    1st: Windurst
-    2nd: Bastok
-    3rd: San d'Oria${prompt}
-  7189: All three nations are tied for first place.${prompt}
+    Équilibre global des pouvoirs :
+    1er : Windurst
+    2e : Bastok
+    3e : San d'Oria${prompt}
+  7189: Tous les trois nations sont à égalité en première place.${prompt}
   7190: |-
-    Global balance of power:
-    1st: Bastok and Windurst
-    2nd: San d'Oria${prompt}
+    Équilibre global des pouvoirs :
+    1er : Bastok et Windurst
+    2e : San d'Oria${prompt}
   7191: |-
-    Global balance of power:
-    1st: Windurst
-    2nd: San d'Oria and Bastok${prompt}
+    Équilibre global des pouvoirs :
+    1er : Windurst
+    2e : San d'Oria et Bastok${prompt}
   7192: |-
-    Conquest update:
-    This region is currently neutral.${prompt}
+    Mise à jour de la conquête :
+    Cette région est actuellement neutre.${prompt}
   7193: |-
-    Conquest update:
-    This region is currently under San d'Orian control.${prompt}
+    Mise à jour de la conquête :
+    Cette région est actuellement sous le contrôle de San d'Oria.${prompt}
   7194: |-
-    Conquest update:
-    This region is currently under Bastokan control.${prompt}
+    Mise à jour de la conquête :
+    Cette région est actuellement sous le contrôle de Bastok.${prompt}
   7195: |-
-    Conquest update:
-    This region is currently under Windurstian control.${prompt}
+    Mise à jour de la conquête :
+    Cette région est actuellement sous le contrôle de Windurst.${prompt}
   7196: |-
-    Conquest update:
-    This region is currently under beastman control.
-    You cannot obtain crystals in this region.${prompt}
-  7197: All three nations are at a deadlock.${prompt}
-  7198: The beastmen are on the rise.${prompt}
+    Mise à jour de la conquête :
+    Cette région est actuellement sous le contrôle des bêtes.
+    Vous ne pouvez pas obtenir de cristaux dans cette région.${prompt}
+  7197: Tous les trois nations sont en égalité parfaite.${prompt}
+  7198: Les bêtes sont en pleine ascension.${prompt}
   7199: |-
-    Regional influence:
+    Influence régionale :
     San d'Oria - Dominant${prompt}
   7200: |-
-    Regional influence:
-    San d'Oria - Major${prompt}
+    Influence régionale :
+    San d'Oria - Majeur${prompt}
   7201: |-
-    Regional influence:
-    San d'Oria - Minor${prompt}
+    Influence régionale :
+    San d'Oria - Mineur${prompt}
   7202: |-
-    Regional influence:
-    San d'Oria - Minimal${prompt}
+    Influence régionale :
+    San d'Oria - Minime${prompt}
   7203: Bastok - Dominant${prompt}
-  7204: Bastok - Major${prompt}
-  7205: Bastok - Minor${prompt}
-  7206: Bastok - Minimal${prompt}
+  7204: Bastok - Majeur${prompt}
+  7205: Bastok - Mineur${prompt}
+  7206: Bastok - Minime${prompt}
   7207: Windurst - Dominant${prompt}
-  7208: Windurst - Major${prompt}
-  7209: Windurst - Minor${prompt}
-  7210: Windurst - Minimal${prompt}
-  7211: Bastok and Windurst have formed an alliance.${prompt}
-  7212: San d'Oria and Windurst have formed an alliance.${prompt}
-  7213: San d'Oria and Bastok have formed an alliance.${prompt}
-  7214: Bastok and Windurst are currently allies.${prompt}
-  7215: San d'Oria and Windurst are currently allies.${prompt}
-  7216: San d'Oria and Bastok are currently allies.${prompt}
+  7208: Windurst - Majeur${prompt}
+  7209: Windurst - Mineur${prompt}
+  7210: Windurst - Minime${prompt}
+  7211: Bastok et Windurst ont formé une alliance.${prompt}
+  7212: San d'Oria et Windurst ont formé une alliance.${prompt}
+  7213: San d'Oria et Bastok ont formé une alliance.${prompt}
+  7214: Bastok et Windurst sont actuellement alliés.${prompt}
+  7215: San d'Oria et Windurst sont actuellement alliés.${prompt}
+  7216: San d'Oria et Bastok sont actuellement alliés.${prompt}
   7217: |-
     所属国：${number: 0}
     判定：${number: 1}${prompt}
@@ -17763,27 +17763,27 @@ entries:
   7221: |-
     ${choice: 0}[サンドリア/バストゥーク/ウィンダス]の状況:${choice: 0}[劣勢/やや劣勢/やや優勢/優勢/膠着]
     武器の値段:${number: 2}、入れるポイント:${number: 3}${prompt}
-  7222: The beastmen are gaining power.${prompt}
-  7223: San d'Oria's regional control is now 10% closer to the first place country's!${prompt}
-  7224: Bastok's regional control is now 10% closer to the first place country's!${prompt}
-  7225: Windurst's regional control are now 10% closer to the first place country's!${prompt}
-  7226: San d'Oria's region points have increased!${prompt}
-  7227: Bastok's region points have increased!${prompt}
-  7228: Windurst's region points have increased!${prompt}
-  7229: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.${prompt}
-  7230: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.${prompt}
-  7231: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.${prompt}
-  7232: A San d'Orian Expeditionary Force has been dispatched to this area.${prompt}
-  7233: A Bastokan Expeditionary Force has been dispatched to this area.${prompt}
-  7234: A Windurstian Expeditionary Force has been dispatched to this area.${prompt}
-  7235: 'E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.${prompt}'
-  7236: 'E.F. Influence: Fair...Region Status: Major...Maintain momentum.${prompt}'
-  7237: 'E.F. Influence: Poor...Region Status: Minor...Increase efforts.${prompt}'
-  7238: 'E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.${prompt}'
-  7239: 'E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.${prompt}'
-  7240: There was a curse on the beastmen's banner!${prompt}
-  7241: The curse of the beastmen's banner has been lifted!${prompt}
-  7242: There is a beastmen's banner.${prompt}
+  7222: Les bêtes gagnent en puissance.${prompt}
+  7223: Le contrôle régional de San d'Oria est maintenant à 10 % plus près du pays en première place !${prompt}
+  7224: Le contrôle régional de Bastok est maintenant à 10 % plus près du pays en première place !${prompt}
+  7225: Le contrôle régional de Windurst est maintenant à 10 % plus près du pays en première place !${prompt}
+  7226: Les points régionaux de San d'Oria ont augmenté !${prompt}
+  7227: Les points régionaux de Bastok ont augmenté !${prompt}
+  7228: Les points régionaux de Windurst ont augmenté !${prompt}
+  7229: L'E.F. de San d'Oria défait les hordes de bêtes... Maintenez le momentum actuel.${prompt}
+  7230: L'E.F. de Bastok défait les hordes de bêtes... Maintenez le momentum actuel.${prompt}
+  7231: L'E.F. de Windurst défait les hordes de bêtes... Maintenez le momentum actuel.${prompt}
+  7232: Une force expéditionnaire de San d'Oria a été envoyée dans cette région.${prompt}
+  7233: Une force expéditionnaire de Bastok a été envoyée dans cette région.${prompt}
+  7234: Une force expéditionnaire de Windurst a été envoyée dans cette région.${prompt}
+  7235: 'Influence de l'E.F. : Grande... État de la région : Dominant... Maintenez le niveau de combat actuel.${prompt}'
+  7236: 'Influence de l'E.F. : Bonne... État de la région : Majeur... Maintenez le momentum.${prompt}'
+  7237: 'Influence de l'E.F. : Faible... État de la région : Mineur... Augmentez les efforts.${prompt}'
+  7238: 'Influence de l'E.F. : Minimale... État de la région : Minimale... Augmentez les efforts de dix fois.${prompt}'
+  7239: 'Influence de l'E.F. : Aucune... État de la région : Sous le contrôle des bêtes... Gardez les pertes au minimum.${prompt}'
+  7240: Il y avait une malédiction sur la bannière des bêtes !${prompt}
+  7241: La malédiction sur la bannière des bêtes a été levée !${prompt}
+  7242: Il y a une bannière des bêtes.${prompt}
   7243: 　${prompt}
   7244: 　${prompt}
   7245: 　${prompt}
@@ -17865,265 +17865,264 @@ entries:
   7319: |-
     増えたポイント　${number: 0}
     増えたカウント　${number: 1}${prompt}
-  7320: 'DEBUG: Flag error.${prompt}'
-  7321: DEBUG:${name-player} is on the North island.${prompt}
-  7322: DEBUG:${name-player} is on the South island.${prompt}
+  7320: 'DEBUG : Erreur de drapeau.${prompt}'
+  7321: DEBUG : ${name-player} est sur l'île Nord.${prompt}
+  7322: DEBUG : ${name-player} est sur l'île Sud.${prompt}
   7323: |-
-    DEBUG:North Island
-    Moving to standard coordinates.${prompt}
+    DEBUG : Île Nord
+    Passage aux coordonnées standard.${prompt}
   7324: |-
-    DEBUG:South Island
-    Moving to standard coordinates.${prompt}
+    DEBUG : Île Sud
+    Passage aux coordonnées standard.${prompt}
   7325: |-
-    Teleport to ${choice: 0}[Upper Jeuno/Aht Urhgan Whitegate/Northern San d'Oria/3/Port Bastok/5/Windurst Waters]?
+    Téléportation vers ${choice: 0}[Jeuno Supérieur/Port d'Aht Urhgan/Nord de San d'Oria/3/Port de Bastok/5/Waters de Windurst] ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
+    Oui.
+    Non.${prompt}
   7326: |-
     ${color: 5}***Brenner***${color: 1}
-    Match Type: ${choice: 0}[Official/Private/LS-Liga] ${choice: 2}[/(Level: 10)/(Level: 20)/(Level: 30)/(Level: 40)/(Level: 50)/(Level: 60)/(Level: ∞)]
-    Status: ${choice: 1}[/Match Settings Underway/Accepting Entries/Briefing Period/Match in Progress/Match Cancelled/In-between Matches]${prompt}
+    Type de match : ${choice: 0}[Officiel/Privé/LS-Liga] ${choice: 2}[/(Niveau : 10)/(Niveau : 20)/(Niveau : 30)/(Niveau : 40)/(Niveau : 50)/(Niveau : 60)/(Niveau : ∞)]
+    Statut : ${choice: 1}[/Réglages en cours/Acceptation des candidatures/Période de briefing/Match en cours/Match annulé/Entre deux matchs]${prompt}
   7327: |-
-    The current Brenner match:
-    Match Type: ${choice: 0}[Official/Private/LS-Liga] ${choice: 2}[/(Level: 10)/(Level: 20)/(Level: 30)/(Level: 40)/(Level: 50)/(Level: 60)/(Level: ∞)]
-    Status: ${choice: 1}[/Match Settings Underway/Accepting Entries/Briefing Period/Match in Progress/Match Cancelled/In-between Matches]${prompt}
+    Le match Brenner actuel :
+    Type de match : ${choice: 0}[Officiel/Privé/LS-Liga] ${choice: 2}[/(Niveau : 10)/(Niveau : 20)/(Niveau : 30)/(Niveau : 40)/(Niveau : 50)/(Niveau : 60)/(Niveau : ∞)]
+    Statut : ${choice: 1}[/Réglages en cours/Acceptation des candidatures/Période de briefing/Match en cours/Match annulé/Entre deux matchs]${prompt}
   7328: |-
-    The ${choice: 1}[/temporary ]entry applications for this match stand as follows:
-    Wyverns: ${number: 3} ${choice-plurality: 3}[entry/entries]
-    Griffons: ${number: 4} ${choice-plurality: 4}[entry/entries]
-    You ${choice: 2}[have yet to submit/have submitted] ${choice: 1}[an /a temporary ]entry application for ${choice: 0}[the Wyverns./the Griffons./either side.]${prompt}
+    Les ${choice: 1}[/temporaires ]applications pour ce match sont les suivantes :
+    Wyverns : ${number: 3} ${choice-plurality: 3}[candidature/candidatures]
+    Griffons : ${number: 4} ${choice-plurality: 4}[candidature/candidatures]
+    Vous ${choice: 2}[n'avez pas encore soumis/avez soumis] ${choice: 1}[une / des temporaires ]application pour ${choice: 0}[les Wyverns./les Griffons./les deux côtés.]${prompt}
   7329: |-
-    The minimum level requirement for this match is ${choice: 0}[0/10/20/30/40/50/60/75].
-    Your entry application is denied.${prompt}
+    Le niveau minimum requis pour ce match est ${choice: 0}[0/10/20/30/40/50/60/75].
+    Votre candidature est refusée.${prompt}
   7330: |-
-    Set ${number: 2} of ${choice: 7}[1 set/2 sets/3 sets] is currently in progress.
-    The match is scheduled to end on ${earthtime: 1}.${prompt}
+    Le set ${number: 2} de ${choice: 7}[1 set/2 sets/3 sets] est actuellement en cours.
+    Le match est prévu pour se terminer le ${earthtime: 1}.${prompt}
   7331: |-
-    Set ${number: 2} of ${choice: 7}[1 set/2 sets/3 sets] is currently in progress.
-    Current Score:
+    Le set ${number: 2} de ${choice: 7}[1 set/2 sets/3 sets] est actuellement en cours.
+    Score actuel :
     Wyverns ${number: 5} vs ${number: 6} Griffons
-    The match is scheduled to end on ${earthtime: 1}.${prompt}
-  7332: 'Briefing will begin on ${earthtime: 0}.${prompt}'
+    Le match est prévu pour se terminer le ${earthtime: 1}.${prompt}
+  7332: 'Le briefing commencera le ${earthtime: 0}.${prompt}'
   7333: |-
-    The current match will end on ${earthtime: 1}.
-    The entry period will begin on ${earthtime: 2}, with the briefing to follow on ${earthtime: 3}.${prompt}
-  7334: 'The current match is scheduled to end on ${earthtime: 1}.${prompt}'
-  7335: 'The next entry period is scheduled to begin on ${earthtime: 0}, with the briefing to follow on ${earthtime: 1}.${prompt}'
-  7336: All official matches for this season have ended.${prompt}
+    Le match actuel se terminera le ${earthtime: 1}.
+    La période d'inscription commencera le ${earthtime: 2}, suivie du briefing le ${earthtime: 3}.${prompt}
+  7334: 'Le match actuel est prévu pour se terminer le ${earthtime: 1}.${prompt}'
+  7335: 'La prochaine période d'inscription est prévue pour commencer le ${earthtime: 0}, suivie du briefing le ${earthtime: 1}.${prompt}'
+  7336: Tous les matchs officiels pour cette saison sont terminés.${prompt}
   7337: |-
-    We are currently awaiting the arrival of the MC.
-    Please present your ${item-singular: 0[2]} or ${item-singular: 1[2]}.${prompt}
+    Nous attendons actuellement l'arrivée du MC.
+    Veuillez présenter votre ${item-singular: 0[2]} ou ${item-singular: 1[2]}.${prompt}
   7338: |-
-    The MC for today's event has failed to show. I am now accepting applications for a substitute.
-    Please present your ${item-singular: 0[2]} or ${item-singular: 1[2]}.${prompt}
+    Le MC pour l'événement d'aujourd'hui n'est pas encore arrivé. Je suis maintenant ouvert aux candidatures pour un remplaçant.
+    Veuillez présenter votre ${item-singular: 0[2]} ou ${item-singular: 1[2]}.${prompt}
   7339: |-
-    Today's MC, ${entity: 0}, has yet to arrive.
-    Let us wait a little longer.${prompt}
-  7340: 'The MC presiding over today''s event is ${entity: 0}.${prompt}'
+    Le MC de l'événement d'aujourd'hui, ${entity: 0}, n'est pas encore arrivé.
+    Attendons encore un peu.${prompt}
+  7340: 'Le MC présidant l'événement d'aujourd'hui est ${entity: 0}.${prompt}'
   7341: |-
-    You are the MC for today's match.
-    Please set the match rules and begin proceedings.${prompt}
+    Vous êtes le MC pour le match d'aujourd'hui.
+    Veuillez définir les règles du match et commencer les procédures.${prompt}
   7342: |-
-    You are now the MC for this match.
-    The area is reserved until ${earthtime: 1}, and the maximum level for this match is ${choice: 0}[/10/20/30/40/50/60/unrestricted].
-    Please set the match rules and begin proceedings.${prompt}
-  7343: Gallery members cannot submit an entry application.${prompt}
-  7344: You have been authorized as a gallery member only.${prompt}
+    Vous êtes maintenant le MC pour ce match.
+    La zone est réservée jusqu'à ${earthtime: 1}, et le niveau maximum pour ce match est ${choice: 0}[/10/20/30/40/50/60/non limité].
+    Veuillez définir les règles du match et commencer les procédures.${prompt}
+  7343: Les membres de la galerie ne peuvent pas soumettre de candidature.${prompt}
+  7344: Vous avez été autorisé uniquement en tant que membre de la galerie.${prompt}
   7345: |-
-    What would you like to do?
+    Que souhaitez-vous faire ?
     ${selection-lines}
-    Nothing.
-    Submit an entry.
-    Cancel an entry.
-    View settings.${prompt}
-  7346: |-
-    Entry by item is restricted to private matches.
-    In order to preserve referee impartiality, no items of any kind are accepted.${prompt}
-  7347: Please note that if you cancel an entry during an official match, you will be unable to resubmit your entry application.${prompt}
-  7348: The entry period has begun.${prompt}
-  7349: The match has been cancelled.${prompt}
-  7350: Submitted entries have been auto-balanced.${prompt}
-  7351: 'You pay the entry fee of ${number: 0} gil.${prompt}'
-  7352: 'You are refunded ${number: 0} gil.${prompt}'
+    Rien.
+    Soumettre une candidature.
+    Annuler une candidature.
+    Voir les réglages.${prompt}
+  7346: L'entrée par objet est réservée aux matchs privés.
+    Pour préserver l'impartialité des arbitres, aucun objet de quelque type que ce soit n'est accepté.${prompt}
+  7347: Veuillez noter que si vous annulez une candidature pendant un match officiel, vous ne pourrez pas soumettre à nouveau votre candidature.${prompt}
+  7348: La période d'inscription a commencé.${prompt}
+  7349: Le match a été annulé.${prompt}
+  7350: Les candidatures soumises ont été équilibrées automatiquement.${prompt}
+  7351: 'Vous payez les frais d'inscription de ${number: 0} gil.${prompt}'
+  7352: 'Vous êtes remboursé de ${number: 0} gil.${prompt}'
   7353: |-
-    Cancel your entry?
+    Annuler votre candidature ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  7354: You do not have enough gil.${prompt}
-  7355: 'Official match scheduled to end on ${earthtime: 0}.'
-  7356: 'Area reservation to end on ${earthtime: 0}.'
-  7357: Area reservation will end shortly.${prompt}
-  7358: Official match will end shortly.${prompt}
+    Oui.
+    Non.${prompt}
+  7354: Vous n'avez pas assez de gil.${prompt}
+  7355: 'Le match officiel est prévu pour se terminer le ${earthtime: 0}.'
+  7356: 'La réservation de la zone prendra fin le ${earthtime: 0}.'
+  7357: La réservation de la zone prendra fin sous peu.${prompt}
+  7358: Le match officiel prendra fin sous peu.${prompt}
   7359: |-
-    What would you like to do?
+    Que souhaitez-vous faire ?
     ${selection-lines}
-    Nothing.
-    Start the match.
-    Close entries & return to settings.
-    Cancel own entry.
-    Auto-balance temp. entries.
-    Shuffle temp. entries.
-    View setting menu.${prompt}
-  7360: With the current settings, the area reservation will end before the match is over.${prompt}
+    Rien.
+    Commencer le match.
+    Clore les inscriptions et revenir aux réglages.
+    Annuler sa propre inscription.
+    Équilibrer automatiquement les candidatures temporaires.
+    Mélanger les candidatures temporaires.
+    Voir le menu des réglages.${prompt}
+  7360: Avec les réglages actuels, la réservation de la zone prendra fin avant la fin du match.${prompt}
   7361: |-
-    Do you wish to start the match?
+    Souhaitez-vous commencer le match ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
+    Oui.
+    Non.${prompt}
   7362: |-
-    Close entries & return to settings?
+    Clore les inscriptions et revenir aux réglages ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  7363: Match settings are underway.${prompt}
+    Oui.
+    Non.${prompt}
+  7363: Les réglages du match sont en cours.${prompt}
   7364: |-
-    Auto-balance temporary entries?
+    Équilibrer automatiquement les candidatures temporaires ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  7365: Temporary entries have been auto-balanced.${prompt}
+    Oui.
+    Non.${prompt}
+  7365: Les candidatures temporaires ont été équilibrées automatiquement.${prompt}
   7366: |-
-    Shuffle temporary entries?
+    Mélanger les candidatures temporaires ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  7367: Temporary entries have been shuffled.${prompt}
-  7368: 'This official match requires ${number: 1} gil to enter.${prompt}'
+    Oui.
+    Non.${prompt}
+  7367: Les candidatures temporaires ont été mélangées.${prompt}
+  7368: 'Ce match officiel nécessite ${number: 1} gil pour y participer.${prompt}'
   7369: |-
-    Submit ${choice: 0}[a temporary entry/a temporary entry/an entry for your preferred side/an entry for your LS team/]?
+    Soumettre ${choice: 0}[une candidature temporaire/une candidature temporaire/une candidature pour votre côté préféré/une candidature pour votre équipe LS/] ?
     ${selection-lines}
-    Yes.
+    Oui.
     Wyverns.
     Griffons.
-    ${entity: 3} team.
-    Not right now.${prompt}
-  7370: 'Please confirm the time on your ${item-singular: 0[2]}.${prompt}'
-  7371: 'The ${choice: 0}[Wyverns/Griffons] cannot accept any more entries.${prompt}'
-  7372: Someone with the same main job as you has already joined that side. I'm sorry, but the current rules do not allow multiple players with the same job to serve on the same forces.${prompt}
-  7373: I am not accepting entries at this time.${prompt}
-  7374: You are unable to submit an entry. Please confirm the match settings.${prompt}
-  7375: 'You have submitted ${choice: 1}[a temporary entry/an entry] for the ${choice: 0}[Wyverns/Griffons].${prompt}'
-  7376: 'You cannot submit an entry with ${article} ${item-article: 0[2]} at this time.${prompt}'
+    Équipe ${entity: 3}.
+    Pas maintenant.${prompt}
+  7370: 'Veuillez confirmer l'heure sur votre ${item-singular: 0[2]}.${prompt}'
+  7371: 'Les ${choice: 0}[Wyverns/Griffons] ne peuvent plus accepter de candidatures.${prompt}'
+  7372: Quelqu'un avec le même métier principal que vous a déjà rejoint ce côté. Je suis désolé, mais les règles actuelles ne permettent pas à plusieurs joueurs ayant le même métier de servir dans les mêmes forces.${prompt}
+  7373: Je ne prends pas de candidatures pour le moment.${prompt}
+  7374: Vous ne pouvez pas soumettre de candidature. Veuillez vérifier les réglages du match.${prompt}
+  7375: 'Vous avez soumis ${choice: 1}[une candidature temporaire/une candidature] pour les ${choice: 0}[Wyverns/Griffons].${prompt}'
+  7376: 'Vous ne pouvez pas soumettre de candidature avec ${article} ${item-article: 0[2]} pour le moment.${prompt}'
   7377: |-
-    Your entry is denied.
-    Please confirm the time on your ${item-singular: 0[2]}.${prompt}
-  7378: 'You have submitted ${choice: 1}[a temporary entry/an entry] for the ${choice: 0}[Wyverns/Griffons].${prompt}'
-  7379: 'You have cancelled your ${choice: 0}[entry for the Wyverns/entry for the Griffons/temporary entry].${prompt}'
-  7380: You have already submitted an entry application.${prompt}
-  7381: The maximum number of participants for this match has been reached. Please wait for an entry to be cancelled and try again.${prompt}
-  7382: 'The ${choice: 0}[/Wyverns/Griffons] currently outnumber the opposing side. Please wait until the opposing side has more members before submitting an entry application.${prompt}'
+    Votre candidature est refusée.
+    Veuillez confirmer l'heure sur votre ${item-singular: 0[2]}.${prompt}
+  7378: 'Vous avez soumis ${choice: 1}[une candidature temporaire/une candidature] pour les ${choice: 0}[Wyverns/Griffons].${prompt}'
+  7379: 'Vous avez annulé votre ${choice: 0}[candidature pour les Wyverns/candidature pour les Griffons/candidature temporaire].${prompt}'
+  7380: Vous avez déjà soumis une candidature.${prompt}
+  7381: Le nombre maximum de participants pour ce match a été atteint. Veuillez attendre qu'une inscription soit annulée et réessayez.${prompt}
+  7382: 'Les ${choice: 0}[/Wyverns/Griffons] ont actuellement un nombre de membres supérieur à celui de l'autre côté. Veuillez attendre que l'autre côté ait plus de membres avant de soumettre une candidature.${prompt}'
   7383: |-
-    Entries are not currently being accepted.
-    Please confirm the match status.${prompt}
-  7384: You do not have enough gil to submit an entry application.${prompt}
-  7385: 'An entry for the ${choice: 0}[Wyverns/Griffons] has been cancelled.${prompt}'
-  7386: 'Please present ${article} ${item-article: 0[2]} or ${article} ${item-article: 1[2]} to be eligible for the entry process.${prompt}'
+    Les candidatures ne sont pas acceptées pour le moment.
+    Veuillez vérifier l'état du match.${prompt}
+  7384: Vous n'avez pas assez de gil pour soumettre une candidature.${prompt}
+  7385: 'Une candidature pour les ${choice: 0}[Wyverns/Griffons] a été annulée.${prompt}'
+  7386: 'Veuillez présenter ${article} ${item-article: 0[2]} ou ${article} ${item-article: 1[2]} pour être éligible au processus de candidature.${prompt}'
   7387: |-
-    As linkshell leader, you are eligible to enter your team into the LS Liga match.
-    Please present your ${item-singular: 0[2]} or ${item-singular: 1[2]} if you wish to participate under the current settings.${prompt}
+    En tant que leader de linkshell, vous êtes éligible pour inscrire votre équipe au match LS Liga.
+    Veuillez présenter votre ${item-singular: 0[2]} ou ${item-singular: 1[2]} si vous souhaitez participer avec les réglages actuels.${prompt}
   7388: |-
-    Enter the LS Liga match?
+    Inscrire le match LS Liga ?
     ${selection-lines}
-    Enter ${entity: 3}.
-    Not right now.${prompt}
+    Inscrire ${entity: 3}.
+    Pas maintenant.${prompt}
   7389: |-
-    The Wyverns will be represented by ${entity: 1}.
-    The Griffons will be represented by ${entity: 2}.${prompt}
+    Les Wyverns seront représentés par ${entity: 1}.
+    Les Griffons seront représentés par ${entity: 2}.${prompt}
   7390: |-
-    The Wyverns will be represented by ${entity: 1}.
-    The Griffons have no current representatives.${prompt}
+    Les Wyverns seront représentés par ${entity: 1}.
+    Les Griffons n'ont pas de représentants actuels.${prompt}
   7391: |-
-    The Wyverns have no current representatives.
-    The Griffons will be represented by ${entity: 2}.${prompt}
-  7392: Neither the Wyverns nor the Griffons are currently represented.${prompt}
-  7393: The linkshell to represent the Wyverns has been decided.${prompt}
-  7394: The linkshell to represent the Griffons has been decided.${prompt}
-  7395: As the difference in the number of wins for both sides is greater than 5, this will be considered a training match and results will not be recorded.${prompt}
-  7396: If the same teams play each other more than once during a single reservation period, successive matches will be considered training matches and results will not be recorded.${prompt}
-  7397: The linkshell representing the Wyverns is ready to start the match.${prompt}
-  7398: The linkshell representing the Griffons is ready to start the match.${prompt}
-  7399: 'Your linkshell has been entered into an LS Liga match. If you wish to participate, please present your ${item-singular: 0[2]}/${item-singular: 1[2]}.${prompt}'
-  7400: The linkshell leader must be entered into the match.${prompt}
-  7401: 'If all participating linkshell members have concluded entry procedures, please confirm the match settings and present your ${item-singular: 0[2]} or ${item-singular: 1[2]}.${prompt}'
-  7402: If all participating linkshell members have concluded entry procedures, please confirm the match settings and signal your agreement to start the match.${prompt}
-  7403: The match will commence once both linkshell leaders have shown their agreement. Furthermore, any changes made to the settings by the MC will void this agreement.${prompt}
+    Les Wyverns n'ont pas de représentants actuels.
+    Les Griffons seront représentés par ${entity: 2}.${prompt}
+  7392: Ni les Wyverns ni les Griffons ne sont actuellement représentés.${prompt}
+  7393: Le linkshell pour représenter les Wyverns a été décidé.${prompt}
+  7394: Le linkshell pour représenter les Griffons a été décidé.${prompt}
+  7395: Comme l'écart dans le nombre de victoires entre les deux côtés est supérieur à 5, cela sera considéré comme un match d'entraînement et les résultats ne seront pas enregistrés.${prompt}
+  7396: Si les mêmes équipes se rencontrent plus d'une fois pendant une même période de réservation, les matchs successifs seront considérés comme des matchs d'entraînement et les résultats ne seront pas enregistrés.${prompt}
+  7397: Le linkshell représentant les Wyverns est prêt à commencer le match.${prompt}
+  7398: Le linkshell représentant les Griffons est prêt à commencer le match.${prompt}
+  7399: 'Votre linkshell a été inscrite à un match LS Liga. Si vous souhaitez participer, veuillez présenter votre ${item-singular: 0[2]}/${item-singular: 1[2]}.${prompt}'
+  7400: Le leader du linkshell doit être inscrit au match.${prompt}
+  7401: 'Si tous les membres participants du linkshell ont terminé les procédures d'inscription, veuillez confirmer les réglages du match et présenter votre ${item-singular: 0[2]} ou ${item-singular: 1[2]}.${prompt}'
+  7402: Si tous les membres participants du linkshell ont terminé les procédures d'inscription, veuillez confirmer les réglages du match et signaler votre accord pour commencer le match.${prompt}
+  7403: Le match commencera une fois que les deux leaders de linkshell auront montré leur accord. De plus, tout changement effectué dans les réglages par le MC annulera cet accord.${prompt}
   7404: |-
-    Agree to start the match?
+    Acceptez-vous de commencer le match ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  7405: Both linkshell leaders have yet to signal their agreement to start the match.${prompt}
-  7406: LS Liga match entry information has been reset.${prompt}
-  7407: At least one member must be entered on both sides for the match to begin.${prompt}
-  7408: Temporarily unable to equip linkshell items.${prompt}
-  7409: Able to equip linkshell items.${prompt}
-  7410: LS Liga matches cannot be halted by the MC.${prompt}
+    Oui.
+    Non.${prompt}
+  7405: Les leaders des linkshell n'ont pas encore signalé leur accord pour commencer le match.${prompt}
+  7406: Les informations d'inscription au match LS Liga ont été réinitialisées.${prompt}
+  7407: Au moins un membre doit être inscrit des deux côtés pour que le match commence.${prompt}
+  7408: Impossible d'équiper les objets de linkshell pour le moment.${prompt}
+  7409: Vous pouvez équiper les objets de linkshell.${prompt}
+  7410: Les matchs LS Liga ne peuvent pas être arrêtés par le MC.${prompt}
   7411: |-
-    What do you wish to do?
+    Que souhaitez-vous faire ?
     ${selection-lines}
-    Nothing.
-    Stop match.
-    Cancel match & return to entry.
-    Cancel own entry.
-    View settings menu.${prompt}
+    Rien.
+    Arrêter le match.
+    Annuler le match et revenir aux inscriptions.
+    Annuler votre propre inscription.
+    Voir le menu des réglages.${prompt}
   7412: |-
-    Do you wish to halt the match?
+    Souhaitez-vous arrêter le match ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  7413: The match has been halted by the MC.${prompt}
+    Oui.
+    Non.${prompt}
+  7413: Le match a été arrêté par le MC.${prompt}
   7414: |-
-    Halt the match and return to entries?
+    Arrêter le match et revenir aux inscriptions ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  7415: The match has been halted by the MC and returned to accepting entries status.${prompt}
-  7416: Briefing has been started by the MC. The match will begin shortly.${prompt}
-  7417: Invisible has been cast on all participants. It will be removed when the match begins.${prompt}
-  7418: Sneak has been cast on all participants. It will be removed when the match begins.${prompt}
+    Oui.
+    Non.${prompt}
+  7415: Le match a été arrêté par le MC et est revenu au statut d'acceptation des inscriptions.${prompt}
+  7416: Le briefing a été commencé par le MC. Le match commencera bientôt.${prompt}
+  7417: Invisibilité a été lancé sur tous les participants. Il sera levé lorsque le match commencera.${prompt}
+  7418: Sneak a été lancé sur tous les participants. Il sera levé lorsque le match commencera.${prompt}
   7419: |-
-    Briefing has begun!
-    Level: ${choice: 1}[/10/20/30/40/50/60/Unrestricted]
-    Match Type: ${choice: 0}[Official/Private/LS Liga/Official Training/LS Liga Training]
-    Wyverns: ${number: 2} ${choice-plurality: 2}[member/members] Griffons: ${number: 3} ${choice-plurality: 3}[member/members]${prompt}
+    Le briefing a commencé !
+    Niveau : ${choice: 1}[/10/20/30/40/50/60/Non restreint]
+    Type de match : ${choice: 0}[Officiel/Privé/LS Liga/Entraînement Officiel/Entraînement LS Liga]
+    Wyverns : ${number: 2} ${choice-plurality: 2}[membre/membres] Griffons : ${number: 3} ${choice-plurality: 3}[membre/membres]${prompt}
   7420: |-
-    Sets: ${number: 1}
-    Match Length: ${number: 2} ${choice-plurality: 2}[minute/minutes]${prompt}
+    Sets : ${number: 1}
+    Durée du match : ${number: 2} ${choice-plurality: 2}[minute/minutes]${prompt}
   7421: |-
-    Set ${number: 0} of ${number: 1} ${choice-plurality: 1}[set/sets].
-    Match Length: ${number: 2} ${choice-plurality: 2}[minute/minutes]${prompt}
+    Set ${number: 0} sur ${number: 1} ${choice-plurality: 1}[set/sets].
+    Durée du match : ${number: 2} ${choice-plurality: 2}[minute/minutes]${prompt}
   7422: |-
-    Complete Duration: ${choice: 0}[1 minute/2 minutes/3 minutes/4 minutes/5 minutes]
-    Flamme Duration: ${choice: 1}[1 minute/2 minutes/3 minutes/4 minutes/5 minutes]
-    Normal Item Usage: ${choice: 2}[No/OK]
-    Layout: ${choice: 3}[Pattern A/Pattern B/Pattern C/Pattern D]${prompt}
-  7423: 'Match commencing in ${number: 0} ${choice-plurality: 0}[minute/minutes].${prompt}'
-  7424: 'Match commencing in ${number: 0} ${choice-plurality: 0}[second/seconds].${prompt}'
-  7425: 'Match ending in ${number: 0} ${choice-plurality: 0}[minute/minutes].${prompt}'
-  7426: 'Match ending in ${number: 0} ${choice-plurality: 0}[second/seconds].${prompt}'
-  7427: The match has begun! Capture the opposing team's Flamme!${prompt}
-  7428: 'Number of matches participated in: ${number: 0}${prompt}'
-  7429: 'DEBUG: ${choice: 0}[1/2/3/5/6.1/6.2/4/7/24]! You get ${number: 1} ${choice-plurality: 1}[point/points]!${prompt}'
-  7430: '${number: 0} ${choice-plurality: 0}[temporary item/temporary items] have been distributed!${prompt}'
-  7431: You are unable to quarry items at this time.${prompt}
+    Durée totale : ${choice: 0}[1 minute/2 minutes/3 minutes/4 minutes/5 minutes]
+    Durée de la Flamme : ${choice: 1}[1 minute/2 minutes/3 minutes/4 minutes/5 minutes]
+    Utilisation normale des objets : ${choice: 2}[Non/Oui]
+    Disposition : ${choice: 3}[Modèle A/Modèle B/Modèle C/Modèle D]${prompt}
+  7423: 'Le match commence dans ${number: 0} ${choice-plurality: 0}[minute/minutes].${prompt}'
+  7424: 'Le match commence dans ${number: 0} ${choice-plurality: 0}[seconde/secondes].${prompt}'
+  7425: 'Le match se termine dans ${number: 0} ${choice-plurality: 0}[minute/minutes].${prompt}'
+  7426: 'Le match se termine dans ${number: 0} ${choice-plurality: 0}[seconde/secondes].${prompt}'
+  7427: Le match a commencé ! Capturez la Flamme de l'équipe adverse !${prompt}
+  7428: 'Nombre de matchs auxquels vous avez participé : ${number: 0}${prompt}'
+  7429: 'DEBUG : ${choice: 0}[1/2/3/5/6.1/6.2/4/7/24] ! Vous obtenez ${number: 1} ${choice-plurality: 1}[point/points] !${prompt}'
+  7430: '${number: 0} ${choice-plurality: 0}[objet temporaire/objets temporaires] ont été distribués !${prompt}'
+  7431: Vous ne pouvez pas extraire des objets pour le moment.${prompt}
   7432: |-
-    You obtain 1 Petra.
-    You now possess ${number: 0} ${choice-plurality: 0}[Petra/Petras].${prompt}
-  7433: You find nothing.${prompt}
-  7434: 'You find and use ${article} ${item-article: 0[2]}.${prompt}'
-  7435: 'You find the ${color: 5}temporary item${color: 1}: ${article} ${item-article: 0[2]}!'
-  7436: 'You find ${article} ${item-article: 0[2]}, but you cannot carry any more ${color: 5}temporary items${color: 1}.'
-  7437: 'You find ${article} ${item-article: 0[2]}, but you cannot carry more than one of that ${color: 5}temporary item${color: 1}.'
+    Vous obtenez 1 Petra.
+    Vous possédez maintenant ${number: 0} ${choice-plurality: 0}[Petra/Petras].${prompt}
+  7433: Vous ne trouvez rien.${prompt}
+  7434: 'Vous trouvez et utilisez ${article} ${item-article: 0[2]}.${prompt}'
+  7435: 'Vous trouvez l'${color: 5}objet temporaire${color: 1} : ${article} ${item-article: 0[2]} !'
+  7436: 'Vous trouvez ${article} ${item-article: 0[2]}, mais vous ne pouvez pas porter plus d'un ${color: 5}objet temporaire${color: 1}.'
+  7437: 'Vous trouvez ${article} ${item-article: 0[2]}, mais vous ne pouvez pas porter plus d'un ${color: 5}objet temporaire${color: 1}.'
   7438: |-
-    What do you do?
+    Que faites-vous ?
     ${selection-lines}
-    Keep the item.
-    Exchange the item.
-    Use the item.
-    Throw the item away.${prompt}
+    Garder l'objet.
+    Échanger l'objet.
+    Utiliser l'objet.
+    Jeter l'objet.${prompt}
   7439: |-
-    Exchange with which item?
+    Échanger avec quel objet ?
     ${selection-lines}
     ${lettercase: 1}${article} ${item-article: 0[2]}.
     ${lettercase: 1}${article} ${item-article: 1[2]}.
@@ -18156,131 +18155,138 @@ entries:
     ${lettercase: 1}${article} ${item-article: 28[2]}.
     ${lettercase: 1}${article} ${item-article: 29[2]}.
     ${lettercase: 1}${article} ${item-article: 30[2]}.
-    Return.${prompt}
-  7440: 'You obtain the ${color: 5}temporary item${color: 1}: ${article} ${item-article: 0[2]}! ${choice: 1}[/(You cannot carry any more.)]${prompt}'
-  7441: 'You find ${article} ${item-article: 0[2]}, but ${choice: 1}[ /you cannot carry any more temporary items/you cannot carry more than one of each temporary item] so you throw it away.${prompt}'
-  7442: 'You throw away the ${item-singular: 0[2]}.${prompt}'
-  7443: 'You throw away ${article} ${item-article: 1[2]} and replace it with the ${item-singular: 0[2]}.${prompt}'
-  7444: 'DEBUG: ${number: 1}/${number: 3} －ITEM：${number: 0}－確率${number: 2}${prompt}'
+    7439: |-
+    Que souhaitez-vous faire ?
+    ${selection-lines}
+    Garder l'objet.
+    Échanger l'objet.
+    Utiliser l'objet.
+    Jeter l'objet.${prompt}
+  7440: 'Vous obtenez l'${color: 5}objet temporaire${color: 1} : ${article} ${item-article: 0[2]} ! ${choice: 1}[/(Vous ne pouvez plus en porter.)]${prompt}'
+  7441: 'Vous trouvez ${article} ${item-article: 0[2]}, mais ${choice: 1}[ /vous ne pouvez plus porter d'objets temporaires/ vous ne pouvez pas porter plus d'un objet temporaire de chaque] donc vous le jetez.${prompt}'
+  7442: 'Vous jetez ${article} ${item-article: 0[2]}.${prompt}'
+  7443: 'Vous jetez ${article} ${item-article: 1[2]} et le remplacez par ${article} ${item-article: 0[2]}.'${prompt}'
+  7444: 'DEBUG : ${number: 1}/${number: 3} －OBJET : ${number: 0}－Probabilité ${number: 2}${prompt}'
   7445: |-
-    You find a Petra!
+    Vous trouvez une Petra !
     ${selection-lines}
-    Keep it.
-    Throw it away.${prompt}
-  7446: You throw away the Petra.${prompt}
-  7447: I cannot aid members from the opposing side.${prompt}
-  7448: 'You must wait ${number: 0} ${choice-plurality: 0}[second/seconds] between Petra contributions.${prompt}'
-  7449: Back into the breach, ${name-player}!
-  7450: I will restore a certain amount of HP and MP in exchange for a contribution of Petras.${prompt}
+    Gardez-la.
+    Jetez-la.${prompt}
+  7446: Vous jetez la Petra.${prompt}
+  7447: Je ne peux pas aider les membres de l'équipe adverse.${prompt}
+  7448: 'Vous devez attendre ${number: 0} ${choice-plurality: 0}[seconde/secondes] entre les contributions de Petra.${prompt}'
+  7449: Retournez dans la mêlée, ${name-player} !${prompt}
+  7450: Je vais restaurer une certaine quantité de PV et de PM en échange d'une contribution de Petras.${prompt}
   7451: |-
-    You hand in ${number: 0} ${choice-plurality: 0}[Petra/Petras].
-    You recover ${number: 1} HP and ${number: 2} MP!${prompt}
-  7452: 'DEBUG: ITEM: ${item-singular: 0[2]} ${number: 3}+${number: 1} INFO ${number: 2}${prompt}'
-  7453: 'DEBUG: Your team''s status: ${choice: 0}[/losing]${choice: 1}[/winning]${prompt}'
-  7454: 'DEBUG: You''ve died ${number: 3} ${choice-plurality: 3}[time/times].${prompt}'
-  7455: The Flamme is not lit.${prompt}
-  7456: You cannot capture the Flamme.${prompt}
-  7457: '${choice: 0}[ / / / / /A Wyvern/A Griffon] Flammen-Brenner has been destroyed! The Flamme can now be captured.${prompt}'
-  7458: '${choice: 0}[ / / / / /A Wyvern/A Griffon] Flammen-Brenner has been restored!${prompt}'
-  7459: '${related-entity} has captured the Flamme from ${choice: 0}[ / / / / /a Wyvern/a Griffon] Flammen-Brenner! ${choice: 1}[ / / / / /The Wyverns/The Griffons] receive ${number: 2} ${choice-plurality: 2}[point/points].${prompt}'
-  7460: 'The Flamme you are holding will be returned in ${number: 0} ${choice-plurality: 0}[minute/minutes], ${number: 1} ${choice-plurality: 1}[second/seconds].${prompt}'
-  7461: 'The Flamme you are holding will be returned in ${number: 1} ${choice-plurality: 1}[second/seconds].${prompt}'
-  7462: 'The Flamme captured by ${related-entity} has returned to ${choice: 0}[ / / / / /the Wyverns/the Griffons]! ${choice: 0}[ / / / / /The Wyverns/The Griffons] receive ${number: 1} ${choice-plurality: 1}[point/points].${prompt}'
-  7463: '${related-entity} of ${choice: 0}[ / / / / /the Wyverns/the Griffons] lights the Flamme! ${choice: 0}[ / / / / /The Wyverns/The Griffons] receive ${number: 1} ${choice-plurality: 1}[point/points].${prompt}'
-  7464: '${choice: 0}[ / / / / /The Wyverns/The Griffons] receive ${number: 1} ${choice-plurality: 1}[point/points] for protecting their Flamme.${prompt}'
-  7465: You can only carry one Flamme at a time.${prompt}
-  7466: You have left the battle zone.${prompt}
-  7467: You have entered the battle zone.${prompt}
-  7468: '${choice: 0}[ / / / / /The Wyverns/The Griffons] receive 1 point for defending their Flammen-Brenner!${prompt}'
-  7469: 'Flamme have been lit in all ${choice: 0}[ / / / / /Wyvern/Griffon] Flammen-Brenner, giving them Complete status! ${choice: 0}[ / / / / /The Wyverns/The Griffons] will claim victory in ${number: 1} ${choice-plurality: 1}[minute/minutes], ${number: 2} ${choice-plurality: 2}[second/seconds].${prompt}'
-  7470: 'Flamme have been lit in all ${choice: 0}[ / / / / /Wyvern/Griffon] Flammen-Brenner, giving them Complete status! ${choice: 0}[ / / / / /The Wyverns/The Griffons] will claim victory in ${number: 1} ${choice-plurality: 1}[second/seconds].${prompt}'
-  7471: '${choice: 0}[ / / / / /The Wyverns/The Griffons] will claim victory in ${number: 1} ${choice-plurality: 1}[minute/minutes], ${number: 2} ${choice-plurality: 2}[second/seconds].${prompt}'
-  7472: '${choice: 0}[ / / / / /The Wyverns/The Griffons] will claim victory in ${number: 1} ${choice-plurality: 1}[second/seconds].${prompt}'
-  7473: '${choice: 1}[ / / / / /The Wyverns/The Griffons] have recaptured their Flamme! ${choice: 0}[ / / / / /The Wyverns/The Griffons] no longer have Complete status.${prompt}'
-  7474: '${choice: 0}[ / / / / /The Wyverns/The Griffons] have maintained their Complete status for the required time period, resulting in a called game!${prompt}'
+    Vous remettez ${number: 0} ${choice-plurality: 0}[Petra/Petras].
+    Vous récupérez ${number: 1} PV et ${number: 2} PM !${prompt}
+  7452: 'DEBUG : OBJET : ${item-singular: 0[2]} ${number: 3}+${number: 1} INFO ${number: 2}${prompt}'
+  7453: 'DEBUG : État de votre équipe : ${choice: 0}[/perdante]${choice: 1}[/gagnante]${prompt}'
+  7454: 'DEBUG : Vous êtes mort ${number: 3} ${choice-plurality: 3}[fois].${prompt}'
+  7455: La Flamme n'est pas allumée.${prompt}
+  7456: Vous ne pouvez pas capturer la Flamme.${prompt}
+  7457: '${choice: 0}[ / / / / /Un Wyvern/Un Griffon] Flammen-Brenner a été détruit ! La Flamme peut maintenant être capturée.${prompt}'
+  7458: '${choice: 0}[ / / / / /Un Wyvern/Un Griffon] Flammen-Brenner a été restauré !${prompt}'
+  7459: '${related-entity} a capturé la Flamme du ${choice: 0}[ / / / / /Flammen-Brenner d'un Wyvern/Flammen-Brenner d'un Griffon] ! ${choice: 1}[ / / / / /Les Wyverns/Les Griffons] reçoivent ${number: 2} ${choice-plurality: 2}[point/points].${prompt}'
+  7460: 'La Flamme que vous tenez sera restituée dans ${number: 0} ${choice-plurality: 0}[minute/minutes], ${number: 1} ${choice-plurality: 1}[seconde/secondes].${prompt}'
+  7461: 'La Flamme que vous tenez sera restituée dans ${number: 1} ${choice-plurality: 1}[seconde/secondes].${prompt}'
+  7462: 'La Flamme capturée par ${related-entity} est revenue au ${choice: 0}[ / / / / /Wyverns/Griffons] ! ${choice: 0}[ / / / / /Les Wyverns/Les Griffons] reçoivent ${number: 1} ${choice-plurality: 1}[point/points].${prompt}'
+  7463: '${related-entity} des ${choice: 0}[ / / / / /Wyverns/Griffons] allume la Flamme ! ${choice: 0}[ / / / / /Les Wyverns/Les Griffons] reçoivent ${number: 1} ${choice-plurality: 1}[point/points].${prompt}'
+  7464: '${choice: 0}[ / / / / /Les Wyverns/Les Griffons] reçoivent ${number: 1} ${choice-plurality: 1}[point/points] pour avoir protégé leur Flamme.${prompt}'
+  7465: Vous ne pouvez porter qu'une seule Flamme à la fois.${prompt}
+  7466: Vous avez quitté la zone de combat.${prompt}
+  7467: Vous êtes entré dans la zone de combat.${prompt}
+  7468: '${choice: 0}[ / / / / /Les Wyverns/Les Griffons] reçoivent 1 point pour avoir défendu leur Flammen-Brenner !${prompt}'
+  7469: 'Les Flammes ont été allumées dans tous les ${choice: 0}[ / / / / /Wyverns/Griffons] Flammen-Brenner, leur donnant le statut Complet ! ${choice: 0}[ / / / / /Les Wyverns/Les Griffons] seront victorieuses dans ${number: 1} ${choice-plurality: 1}[minute/minutes], ${number: 2} ${choice-plurality: 2}[seconde/secondes].${prompt}'
+  7470: 'Les Flammes ont été allumées dans tous les ${choice: 0}[ / / / / /Wyverns/Griffons] Flammen-Brenner, leur donnant le statut Complet ! ${choice: 0}[ / / / / /Les Wyverns/Les Griffons] seront victorieuses dans ${number: 1} ${choice-plurality: 1}[seconde/secondes].${prompt}'
+  7471: '${choice: 0}[ / / / / /Les Wyverns/Les Griffons] seront victorieuses dans ${number: 1} ${choice-plurality: 1}[minute/minutes], ${number: 2} ${choice-plurality: 2}[seconde/secondes].${prompt}'
+  7472: '${choice: 0}[ / / / / /Les Wyverns/Les Griffons] seront victorieuses dans ${number: 1} ${choice-plurality: 1}[seconde/secondes].${prompt}'
+  7473: '${choice: 1}[ / / / / /Les Wyverns/Les Griffons] ont récupéré leur Flamme ! ${choice: 0}[ / / / / /Les Wyverns/Les Griffons] n'ont plus le statut Complet.${prompt}'  
+  7474: '${choice: 0}[ / / / / /Les Wyverns/Les Griffons] ont maintenu leur statut Complet pendant la période requise, entraînant une fin de match !${prompt}'
   7475: |-
-    Match Over!
-    Final Score: ${number: 0} vs ${number: 1}
-    ${choice: 2}[It's a draw!/The Wyverns win!/The Griffons win!]${prompt}
+    Match terminé !
+    Score final : ${number: 0} contre ${number: 1}
+    ${choice: 2}[Match nul !/Les Wyverns gagnent !/Les Griffons gagnent !]${prompt}
   7476: |-
-    The ${choice: 3}[ /1st/ /2nd/ /3rd] set is over!
-    ${choice: 2}[It's a draw/The Wyverns win this set/The Griffons win this set] with a score of ${number: 0} vs ${number: 1}!${prompt}
-  7477: '${choice: 2}[It''s a draw/The Wyverns win/The Griffons win] with a total score of ${number: 0} vs ${number: 1}!${prompt}'
+    Le ${choice: 3}[ /1er/ /2ème/ /3ème] set est terminé !
+    ${choice: 2}[Match nul/Les Wyverns gagnent ce set/Les Griffons gagnent ce set] avec un score de ${number: 0} contre ${number: 1} !${prompt}
+  7477: '${choice: 2}[Match nul/Les Wyverns gagnent/Les Griffons gagnent] avec un score total de ${number: 0} contre ${number: 1} !${prompt}'
   7478: |-
-    Unfortunately, today's match has been cancelled.
-    We thank you for your interest and apologize for the inconvenience.${prompt}
-  7479: 'The entry application fee ${choice: 0}[/and the charge for changing settings ]will be reimbursed.${prompt}'
+    Malheureusement, le match d'aujourd'hui a été annulé.
+    Nous vous remercions pour votre intérêt et nous excusons pour le désagrément.${prompt}
+  7479: 'Les frais d'inscription ${choice: 0}[/et les frais pour modifier les réglages] seront remboursés.${prompt}'
   7480: |-
-    Previous ${choice: 4}[/Training ]match (${number: 3} ${choice-plurality: 3}[set/sets]) results:
-    Wyverns ${number: 0} vs ${number: 1} Griffons
-    ${choice: 2}[Draw/Wyverns win/Griffons win]${choice: 5}[/ (with bonus)]${prompt}
-  7481: 'Personal number of ${choice: 0}[wins: /draws: ]${number: 1}${prompt}'
-  7482: 'Your most recent LS Liga match was recorded as a ${choice: 0}[defeat/draw/victory/complete victory].${prompt}'
+    Résultats du match ${choice: 4}[/d'entraînement] précédent (${number: 3} ${choice-plurality: 3}[set/sets]) :
+    Wyverns ${number: 0} contre ${number: 1} Griffons
+    ${choice: 2}[Match nul/Les Wyverns gagnent/Les Griffons gagnent]${choice: 5}[/ (avec bonus)]${prompt}
+  7481: 'Nombre personnel de ${choice: 0}[victoires : /nuls : ]${number: 1}${prompt}'
+  7482: 'Votre dernier match LS Liga a été enregistré comme ${choice: 0}[une défaite/un nul/une victoire/une victoire complète].${prompt}'
   7483: |-
-    Liga points: ${number: 0}
-    (${number: 1} ${choice-plurality: 1}[victory/victories] - ${number: 2} ${choice-plurality: 2}[draw/draws] over a total of ${number: 3} ${choice-plurality: 3}[match/matches])${prompt}
-  7484: 'As your team was defeated within ${number: 0} ${choice-plurality: 0}[minute/minutes], you did not earn the full experience point reward.${prompt}'
-  7485: You did not earn experience points.${prompt}
-  7486: 'Points earned: ${number: 0}${prompt}'
+    Points Liga : ${number: 0}
+    (${number: 1} ${choice-plurality: 1}[victoire/victoires] - ${number: 2} ${choice-plurality: 2}[nul/nuls] sur un total de ${number: 3} ${choice-plurality: 3}[match/matches])${prompt}
+  7484: 'Comme votre équipe a été battue en ${number: 0} ${choice-plurality: 0}[minute/minutes], vous n'avez pas gagné la récompense complète en points d'expérience.${prompt}'
+  7485: Vous n'avez pas gagné de points d'expérience.${prompt}
+  7486: 'Points gagnés : ${number: 0}${prompt}'
   7487: |-
-    What would you like to do?
+    Que souhaitez-vous faire ?
     ${selection-lines}
-    Nothing.
-    Prepare for the next match.
-    Cancel own entry.
-    View settings menu.${prompt}
-  7488: 'Match statistics are currently being recorded. Please wait until ${earthtime: 0} before adjusting match settings.${prompt}'
+    Rien.
+    Préparer le prochain match.
+    Annuler votre propre inscription.
+    Voir le menu des réglages.${prompt}
+  7488: 'Les statistiques du match sont actuellement en cours d'enregistrement. Veuillez attendre jusqu'à ${earthtime: 0} avant de modifier les paramètres du match.${prompt}'
   7489: |-
-    Prepare for the next match?
+    Préparer le prochain match ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  7490: Match entry information has been reset.${prompt}
-  7491: Match settings are underway.${prompt}
-  7492: Unable to process selected settings.${prompt}
+    Oui.
+    Non.${prompt}
+  7490: Les informations d'inscription au match ont été réinitialisées.${prompt}
+  7491: Les réglages du match sont en cours.${prompt}
+  7492: Impossible de traiter les paramètres sélectionnés.${prompt}
   7493: |-
-    Participants who have completed the entry process can change the match settings by paying a fee of ${number: 0} gil.
-    Setting changes are limited to one change per person per match. Settings that have been changed once are fixed for that match.${prompt}
-  7494: You have already changed the settings for this match.${prompt}
-  7495: You cannot change match settings at this time.${prompt}
-  7496: This setting has already been fixed for this match.${prompt}
+    Les participants ayant complété le processus d'inscription peuvent modifier les paramètres du match en payant une taxe de ${number: 0} gil.
+    Les modifications des réglages sont limitées à un changement par personne par match. Les réglages qui ont été modifiés une fois sont fixés pour ce match.${prompt}
+  7494: Vous avez déjà modifié les réglages pour ce match.${prompt}
+  7495: Vous ne pouvez pas modifier les réglages du match pour le moment.${prompt}
+  7496: Ce réglage a déjà été fixé pour ce match.${prompt}
   7497: |-
-    Really change this setting?
+    Voulez-vous vraiment modifier ce réglage ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  7498: You can choose to fix this setting.${prompt}
-  7499: Support jobs have been allowed.${prompt}
-  7500: Support jobs have been disallowed.${prompt}
-  7501: The layout for the match has been set to Pattern A.${prompt}
-  7502: The layout for the match has been set to Pattern B.${prompt}
-  7503: The layout for the match has been set to Pattern C.${prompt}
-  7504: The match style has been set to 1 set of 20 minutes.${prompt}
-  7505: The match style has been set to 2 sets of 10 minutes.${prompt}
-  7506: The match style has been set to 1 set of 30 minutes.${prompt}
-  7507: The match style has been set to 2 sets of 15 minutes.${prompt}
-  7508: The match style has been set to 3 sets of 10 minutes.${prompt}
-  7509: Flammen-Brenner repair by Petra has been disallowed.${prompt}
-  7510: Flammen-Brenner repair by Petra has been allowed.${prompt}
-  7511: The KO penalty has been set to Level 1.${prompt}
-  7512: The KO penalty has been set to Level 2.${prompt}
+    Oui.
+    Non.${prompt}
+  7498: Vous pouvez choisir de fixer ce réglage.${prompt}
+  7499: Les emplois de soutien ont été autorisés.${prompt}
+  7500: Les emplois de soutien ont été interdits.${prompt}
+  7501: La disposition pour le match a été réglée sur le Modèle A.${prompt}
+  7502: La disposition pour le match a été réglée sur le Modèle B.${prompt}
+  7503: La disposition pour le match a été réglée sur le Modèle C.${prompt}
+  7504: Le style de match a été réglé sur 1 set de 20 minutes.${prompt}
+  7505: Le style de match a été réglé sur 2 sets de 10 minutes.${prompt}
+  7506: Le style de match a été réglé sur 1 set de 30 minutes.${prompt}
+  7507: Le style de match a été réglé sur 2 sets de 15 minutes.${prompt}
+  7508: Le style de match a été réglé sur 3 sets de 10 minutes.${prompt}
+  7509: La réparation du Flammen-Brenner par Petra a été interdite.${prompt}
+  7510: La réparation du Flammen-Brenner par Petra a été autorisée.${prompt}
+  7511: La pénalité de KO a été réglée sur Niveau 1.${prompt}
+  7512: La pénalité de KO a été réglée sur Niveau 2.${prompt}
   7513: |-
-    Current settings.
+    Réglages actuels.
     ${selection-lines}
-    Quit.
-    Entry type ${choice: 1}[/(fixed)]: ${choice: 11}[auto/shuffle/free/linkshell]
-    Re-entry ${choice: 2}[/(fixed)]: ${choice: 12}[none/OK]
-    Mid-match entry ${choice: 3}[/(fixed)]: ${choice: 13}[none/OK]
+    Quitter.
+    Type d'inscription ${choice: 1}[/(fixé)]: ${choice: 11}[auto/mélange/libre/linkshell]
+    Réinscription ${choice: 2}[/(fixé)]: ${choice: 12}[aucun/OK]
+    Inscription en cours de match ${choice: 3}[/(fixé)]: ${choice: 13}[aucun/OK]
     　
-    Allowable margin ${choice: 5}[/(fixed)]: ${choice: 15}[up to 1 member/none]
-    Main job ${choice: 6}[/(fixed)]: ${choice: 16}[duplicates OK/no duplicates]
-    Support job ${choice: 7}[/(fixed)]: ${choice: 17}[OK/none]
-    Min. level ${choice: 8}[/(fixed)]: ${choice: 18}[none/10/20/30/40/50/60/75] (Max. Level: ${choice: 28}[/10/20/30/40/50/60/none])
-    Layout ${choice: 9}[/(fixed)]: ${choice: 19}[pattern A/pattern B/pattern C/pattern D]
-    Next page.${prompt}
+    Marge autorisée ${choice: 5}[/(fixé)]: ${choice: 15}[jusqu'à 1 membre/aucun]
+    Emploi principal ${choice: 6}[/(fixé)]: ${choice: 16}[doublons OK/pas de doublons]
+    Emploi de soutien ${choice: 7}[/(fixé)]: ${choice: 17}[OK/aucun]
+    Niveau min. ${choice: 8}[/(fixé)]: ${choice: 18}[aucun/10/20/30/40/50/60/75] (Niveau max. : ${choice: 28}[/10/20/30/40/50/60/aucun])
+    Disposition ${choice: 9}[/(fixé)]: ${choice: 19}[modèle A/modèle B/modèle C/modèle D]
+    Page suivante.${prompt}
   7514: |-
-    Current settings.
+    Réglages actuels.
     ${selection-lines}
+
     　
     　
     　
@@ -18292,107 +18298,107 @@ entries:
     　
     　
     　
-    Previous page.
-    Briefing ${choice: 1}[/(fixed)]: ${choice: 11}[30 sec./1 min./3 min./5 min.]
-    Match length ${choice: 2}[/(fixed)]: ${choice: 12}[5/10/15/20/30] min.${choice: 0}[/ (1 set)]
-    No. of sets ${choice: 3}[/(fixed)]: ${number: 13} ${choice-plurality: 13}[set/sets]
-    Match style ${choice: 4}[/(fixed)]：${choice: 14}[1 set, 20 min./2 sets, 10 min. each/1 set, 30 min./2 sets, 15 min. each/3 sets, 10 min. each]
-    Other time settings.
+    7514: 'Page précédente.
+    Briefing ${choice: 1}[/(fixé)]: ${choice: 11}[30 sec./1 min./3 min./5 min.]
+    Durée du match ${choice: 2}[/(fixé)]: ${choice: 12}[5/10/15/20/30] min.${choice: 0}[/ (1 set)]
+    Nombre de sets ${choice: 3}[/(fixé)]: ${number: 13} ${choice-plurality: 13}[set/sets]
+    Style de match ${choice: 4}[/(fixé)]：${choice: 14}[1 set, 20 min./2 sets, 10 min. chacun/1 set, 30 min./2 sets, 15 min. chacun/3 sets, 10 min. chacun]
+    Autres paramètres de temps.
     　
     　
     　
-    Item use ${choice: 5}[/(fixed)]: ${choice: 15}[OK/none]
-    Temporary item settings.
+    Utilisation d'objets ${choice: 5}[/(fixé)]: ${choice: 15}[OK/aucun]
+    Paramètres des objets temporaires.
     　
     　
     　
-    Sleep effects removed ${choice: 6}[/(fixed)]: ${choice: 16}[none/OK]
-    Repair by Petra ${choice: 7}[/(fixed)]: ${choice: 17}[none/OK]
-    KO penalty ${choice: 8}[/(fixed)]: ${choice: 18}[Level 1/Level 2]
-    Clear entry data.
-    Reset to default settings.
-    Finish & commence entry period.
-    Quit.${prompt}
-  7515: Select settings for team member distribution.${prompt}
+    Effets de sommeil supprimés ${choice: 6}[/(fixé)]: ${choice: 16}[aucun/OK]
+    Réparation par Petra ${choice: 7}[/(fixé)]: ${choice: 17}[aucun/OK]
+    Pénalité de KO ${choice: 8}[/(fixé)]: ${choice: 18}[Niveau 1/Niveau 2]
+    Effacer les données d'inscription.
+    Réinitialiser aux paramètres par défaut.
+    Terminer & commencer la période d'inscription.
+    Quitter.${prompt}'
+  7515: Sélectionnez les paramètres pour la répartition des membres de l'équipe.${prompt}
   7516: |-
-    ${color: 5}Auto-Balance${color: 1}
-    After players have completed a temporary entry for one of the two sides, the players will be redistributed (by main job) evenly among the teams at the beginning of the briefing.${prompt}
+    ${color: 5}Équilibrage automatique${color: 1}
+    Après que les joueurs aient complété une inscription temporaire pour l'un des deux côtés, les joueurs seront redistribués (par emploi principal) de manière équitable parmi les équipes au début du briefing.${prompt}
   7517: |-
-    ${color: 5}Auto-Balance${color: 1}
-    After players have completed a temporary entry for one of the two sides, the MC can choose to redistribute the players (by main job) evenly among the teams.${prompt}
+    ${color: 5}Équilibrage automatique${color: 1}
+    Après que les joueurs aient complété une inscription temporaire pour l'un des deux côtés, le MC peut choisir de redistribuer les joueurs (par emploi principal) de manière équitable parmi les équipes.${prompt}
   7518: |-
-    ${color: 5}Random Shuffle${color: 1}
-    After players have completed a temporary entry for one of the two sides, the MC can choose to randomly shuffle all players between the teams.${prompt}
+    ${color: 5}Mélange aléatoire${color: 1}
+    Après que les joueurs aient complété une inscription temporaire pour l'un des deux côtés, le MC peut choisir de mélanger aléatoirement tous les joueurs entre les équipes.${prompt}
   7519: |-
-    ${color: 5}Free${color: 1}
-    Players are allowed to select the team in which they wish to participate. However, if one side grows too large, further applications may be denied until the number of members on the other side has increased.${prompt}
+    ${color: 5}Libre${color: 1}
+    Les joueurs peuvent choisir l'équipe dans laquelle ils souhaitent participer. Cependant, si un côté devient trop grand, d'autres inscriptions peuvent être refusées jusqu'à ce que le nombre de membres de l'autre côté ait augmenté.${prompt}
   7520: |-
     ${color: 5}Linkshell${color: 1}
-    This option can be chosen to conduct LS Liga matches and pits linkshell groups against one another. Once the linkshell leader has submitted an entry application, other linkshell members can then submit their own entries.${prompt}
-  7521: If both linkshell group leaders do not agree to the rules set by the MC, the match will not begin. Also, leaders must signal their agreement again if any changes are made to the decided settings.${prompt}
+    Cette option peut être choisie pour organiser des matchs de LS Liga et opposer des groupes de linkshell. Une fois que le leader du linkshell a soumis une demande d'inscription, d'autres membres du linkshell peuvent alors soumettre leurs propres inscriptions.${prompt}
+  7521: Si les leaders des groupes de linkshell ne sont pas d'accord avec les règles fixées par le MC, le match ne commencera pas. De plus, les leaders doivent signaler leur accord à nouveau si des modifications sont apportées aux réglages décidés.${prompt}
   7522: |-
-    Please select the entry type:
+    Veuillez sélectionner le type d'inscription :
     ${selection-lines}
-    Return.
-    Information.
-    Auto-balance.
-    Random shuffle.
-    Free.
+    Retour.
+    Informations.
+    Équilibrage automatique.
+    Mélange aléatoire.
+    Libre.
     Linkshell (LS Liga).${prompt}
-  7523: The MC has declared an LS Liga match.${prompt}
-  7524: The MC has declared a private match.${prompt}
-  7525: If re-entry is not allowed, a player will not be able to reapply for match participation in the event he or she requests a discharge before or during a match. Selecting this option may result in unbalanced sides when players cancel their entries.${prompt}
+  7523: Le MC a déclaré un match de LS Liga.${prompt}
+  7524: Le MC a déclaré un match privé.${prompt}
+  7525: Si la réinscription n'est pas autorisée, un joueur ne pourra pas se réinscrire pour participer au match s'il demande une décharge avant ou pendant un match. Sélectionner cette option peut entraîner des déséquilibres entre les côtés si des joueurs annulent leurs inscriptions.${prompt}
   7526: |-
-    Allow re-entry?
+    Autoriser la réinscription ?
     ${selection-lines}
-    Return.
-    Information.
-    No.
-    Yes.${prompt}
-  7527: Re-entry is not currently allowed.${prompt}
-  7528: If mid-match entry is allowed, players may join the team with fewer members while the match is in progress.${prompt}
+    Retour.
+    Informations.
+    Non.
+    Oui.${prompt}
+  7527: La réinscription n'est actuellement pas autorisée.${prompt}
+  7528: Si l'inscription en cours de match est autorisée, les joueurs peuvent rejoindre l'équipe ayant moins de membres pendant le match.${prompt}
   7529: |-
-    Allow mid-match entry?
+    Autoriser l'inscription en cours de match ?
     ${selection-lines}
-    Return.
-    Information.
-    No.
-    Yes.${prompt}
-  7530: This option selects the size of the allowable margin between team numbers. A margin of zero is suggested in the interests of conducting an equal match.${prompt}
-  7531: In the case where no margin is allowed, the match will not begin until both sides have an equal number of entries.${prompt}
+    Retour.
+    Informations.
+    Non.
+    Oui.${prompt}
+  7530: Cette option sélectionne la taille de la marge autorisée entre les nombres d'équipe. Une marge de zéro est suggérée dans l'intérêt de mener un match égal.${prompt}
+  7531: Dans le cas où aucune marge n'est autorisée, le match ne commencera pas tant que les deux côtés n'ont pas un nombre égal d'inscriptions.${prompt}
   7532: |-
-    Allow a margin?
+    Autoriser une marge ?
     ${selection-lines}
-    Return.
-    Information.
-    Up to 1 member.
-    No.${prompt}
-  7533: The match cannot begin until both sides have an equal number of entries.${prompt}
-  7534: This option decides whether or not multiples of the same main job are allowed on a single team. In the case where “no duplicates” has been chosen, all members of the same job except for one will have their entries cancelled.${prompt}
+    Retour.
+    Informations.
+    Jusqu'à 1 membre.
+    Aucun.${prompt}
+  7533: Le match ne peut commencer tant que les deux côtés n'ont pas un nombre égal d'inscriptions.${prompt}
+  7534: Cette option décide si les multiples emplois principaux sont autorisés sur une même équipe. Dans le cas où « pas de doublons » a été choisi, toutes les inscriptions de membres ayant le même emploi sauf un seront annulées.${prompt}
   7535: |-
-    Allow multiple main jobs?
+    Autoriser plusieurs emplois principaux ?
     ${selection-lines}
-    Return.
-    Information.
-    Duplicates OK.
-    No duplicates.${prompt}
-  7536: Multiple entries of the same main job have been detected in the Wyverns. Entries beyond the first will be invalidated.${prompt}
-  7537: Multiple entries of the same main job have been detected in the Griffons. Entries beyond the first will be invalidated.${prompt}
-  7538: This option selects whether or not support jobs will be allowed.${prompt}
+    Retour.
+    Informations.
+    Doublons OK.
+    Pas de doublons.${prompt}
+  7536: Des inscriptions multiples du même emploi principal ont été détectées chez les Wyverns. Les inscriptions au-delà de la première seront invalidées.${prompt}
+  7537: Des inscriptions multiples du même emploi principal ont été détectées chez les Griffons. Les inscriptions au-delà de la première seront invalidées.${prompt}
+  7538: Cette option sélectionne si les emplois de soutien seront autorisés.${prompt}
   7539: |-
-    Allow support jobs?
+    Autoriser les emplois de soutien ?
     ${selection-lines}
-    Return.
-    Information.
-    Yes.
-    No.${prompt}
-  7540: This option selects the minimum level for participation in the match. This value cannot be set higher than the maximum level setting.${prompt}
+    Retour.
+    Informations.
+    Oui.
+    Non.${prompt}
+  7540: Cette option sélectionne le niveau minimum pour participer au match. Cette valeur ne peut pas être réglée au-dessus du niveau maximum défini.${prompt}'
   7541: |-
-    Minimum level?
+    Niveau minimum ?
     ${selection-lines}
-    Return.
-    Information.
-    None.
+    Retour.
+    Informations.
+    Aucun.
     10.
     20.
     30.
@@ -18400,196 +18406,196 @@ entries:
     50.
     60.
     75.${prompt}
-  7542: '${choice: 0}[Pattern A/Pattern B/Pattern C/Pattern D] will use the layout as shown.${prompt}'
-  7543: The locations of each Flammen-Brenner and camp will be displayed. “W” represents the Wyverns, while “G” represents the Griffons.${prompt}
+  7542: '${choice: 0}[Modèle A/Modèle B/Modèle C/Modèle D] utilisera la disposition montrée.${prompt}'
+  7543: Les emplacements de chaque Flammen-Brenner et camp seront affichés. “W” représente les Wyverns, tandis que “G” représente les Griffons.${prompt}
   7544: |-
-    See the layout patterns?
+    Voir les modèles de disposition ?
     ${selection-lines}
-    Not right now.
-    See pattern A.
-    See pattern B.
-    See pattern C.
-    See pattern D.${prompt}
+    Pas maintenant.
+    Voir le modèle A.
+    Voir le modèle B.
+    Voir le modèle C.
+    Voir le modèle D.${prompt}
   7545: |-
-    Choose match layout.
+    Choisir la disposition du match.
     ${selection-lines}
-    Return.
-    Information.
-    Pattern A.
-    Pattern B.
-    Pattern C.
-    Pattern D.${prompt}
-  7546: “Briefing” refers to a period of time before the match where strategies can be hammered out. In matches with multiple sets, the briefing period between matches will be set to 60 seconds regardless of the time selected for this setting.${prompt}
+    Retour.
+    Informations.
+    Modèle A.
+    Modèle B.
+    Modèle C.
+    Modèle D.${prompt}
+  7546: « Briefing » fait référence à une période de temps avant le match où les stratégies peuvent être élaborées. Dans les matchs avec plusieurs sets, la période de briefing entre les matchs sera fixée à 60 secondes, quelle que soit la durée sélectionnée pour ce paramètre.${prompt}
   7547: |-
-    Briefing length.
+    Durée du briefing.
     ${selection-lines}
-    Return.
-    Information.
-    30 seconds.
+    Retour.
+    Informations.
+    30 secondes.
     1 minute.
     3 minutes.
     5 minutes.${prompt}
-  7548: This option selects the length of one match. Please be aware that in the case of multiple sets, the length of each match will be decided by this setting.${prompt}
+  7548: Cette option sélectionne la durée d'un match. Veuillez noter que dans le cas de plusieurs sets, la durée de chaque match sera déterminée par ce paramètre.${prompt}
   7549: |-
-    Match length.
+    Durée du match.
     ${selection-lines}
-    Return.
-    Information.
+    Retour.
+    Informations.
     5 minutes.
     10 minutes.
     15 minutes.
     20 minutes.
     30 minutes.${prompt}
-  7550: This option selects the number of sets to be played.${prompt}
+  7550: Cette option sélectionne le nombre de sets à jouer.${prompt}
   7551: |-
-    Number of sets.
+    Nombre de sets.
     ${selection-lines}
-    Return.
-    Information.
+    Retour.
+    Informations.
     1 set.
     2 sets.
     3 sets.${prompt}
-  7552: This option selects the match length and number of sets in official matches. The combinations available will vary depending on the amount of time remaining until the next scheduled match.${prompt}
+  7552: Cette option sélectionne le style de match et le nombre de sets dans les matchs officiels. Les combinaisons disponibles varieront en fonction du temps restant avant le prochain match prévu.${prompt}
   7553: |-
-    Match style.
+    Style de match.
     ${selection-lines}
-    Return.
-    Information.
-    1 set of 20 minutes.
-    2 sets of 10 minutes.
-    1 set of 30 minutes.
-    2 sets of 15 minutes.
-    3 sets of 10 minutes.${prompt}
+    Retour.
+    Informations.
+    1 set de 20 minutes.
+    2 sets de 10 minutes.
+    1 set de 30 minutes.
+    2 sets de 15 minutes.
+    3 sets de 10 minutes.${prompt}
   7554: |-
-    Other time settings.
+    Autres paramètres de temps.
     ${selection-lines}
-    Return.
-    Complete status ${choice: 0}[/(fixed)]: ${choice: 10}[1 min./2 min./3 min./4 min./5 min.]
-    Flamme duration ${choice: 1}[/(fixed)]: ${choice: 11}[1 min./2 min./3 min./4 min./5 min.]
-    Flammen-Brenner ${choice: 2}[/(fixed)]: ${choice: 12}[10 sec./20 sec./30 sec./45 sec./1 min.]${prompt}
-  7555: This option selects the amount of time one side must maintain Complete status (i.e. each Flammen-Brenner has been lit with a Flamme) until the match becomes a called game.${prompt}
-  7556: Also, points will be awarded for protecting the Flamme for the period of time set with this option.${prompt}
+    Retour.
+    Durée du statut complet ${choice: 0}[/(fixé)]: ${choice: 10}[1 min./2 min./3 min./4 min./5 min.]
+    Durée de la Flamme ${choice: 1}[/(fixé)]: ${choice: 11}[1 min./2 min./3 min./4 min./5 min.]
+    Flammen-Brenner ${choice: 2}[/(fixé)]: ${choice: 12}[10 sec./20 sec./30 sec./45 sec./1 min.]${prompt}
+  7555: Cette option sélectionne la durée pendant laquelle un côté doit maintenir le statut Complet (c'est-à-dire chaque Flammen-Brenner a été allumé avec une Flamme) avant que le match ne devienne un jeu appelé.${prompt}
+  7556: De plus, des points seront attribués pour la protection de la Flamme pendant la période définie avec cette option.${prompt}
   7557: |-
-    Complete status duration.
+    Durée du statut complet.
     ${selection-lines}
-    Return.
-    Information.
+    Retour.
+    Informations.
     1 minute.
     2 minutes.
     3 minutes.
     4 minutes.
     5 minutes.${prompt}
-  7558: This option selects the amount of time a player can hold on to a Flamme before it returns to a Flammen-Brenner on the opposing side.${prompt}
+  7558: Cette option sélectionne la durée pendant laquelle un joueur peut conserver une Flamme avant qu'elle ne retourne à un Flammen-Brenner du côté adverse.${prompt}
   7559: |-
-    Flamme duration.
+    Durée de la Flamme.
     ${selection-lines}
-    Return.
-    Information.
+    Retour.
+    Informations.
     1 minute.
     2 minutes.
     3 minutes.
     4 minutes.
     5 minutes.${prompt}
-  7560: This option selects the amount of time that will pass before a destroyed Flammen-Brenner will recover after a failed attempt to capture the Flamme.${prompt}
+  7560: Cette option sélectionne la durée avant qu'un Flammen-Brenner détruit ne se rétablisse après une tentative échouée de capturer la Flamme.${prompt}
   7561: |-
-    Flammen-Brenner recovery.
+    Récupération du Flammen-Brenner.
     ${selection-lines}
-    Return.
-    Information.
-    10 seconds.
-    20 seconds.
-    30 seconds.
-    45 seconds.
+    Retour.
+    Informations.
+    10 secondes.
+    20 secondes.
+    30 secondes.
+    45 secondes.
     1 minute.${prompt}
-  7562: This option selects whether or not normal items can be used during a match.${prompt}
+  7562: Cette option sélectionne si les objets normaux peuvent être utilisés pendant un match.${prompt}
   7563: |-
-    Allow normal item use?
+    Autoriser l'utilisation d'objets normaux ?
     ${selection-lines}
-    Return.
-    Information.
-    Yes.
-    No.${prompt}
+    Retour.
+    Informations.
+    Oui.
+    Non.${prompt}
   7564: |-
-    Temporary item settings.
+    Paramètres des objets temporaires.
     ${selection-lines}
-    Return.
-    Temp. item capacity ${choice: 0}[/(fixed)]: ${choice: 10}[10/15/20]
-    Temp. item distribution ${choice: 1}[/(fixed)]: ${choice: 11}[none/OK]
-    Quarry holes ${choice: 2}[/(fixed)]: ${choice: 12}[all full/some empty]${prompt}
-  7565: This option selects the maximum number of temporary items that a player can carry at one time.${prompt}
+    Retour.
+    Capacité des objets temporaires ${choice: 0}[/(fixé)]: ${choice: 10}[10/15/20]
+    Distribution des objets temporaires ${choice: 1}[/(fixé)]: ${choice: 11}[aucun/OK]
+    Trous de carrière ${choice: 2}[/(fixé)]: ${choice: 12}[tous pleins/quelques vides]${prompt}
+  7565: Cette option sélectionne le nombre maximum d'objets temporaires qu'un joueur peut porter en même temps.${prompt}
   7566: |-
-    Set temporary item capacity.
+    Définir la capacité des objets temporaires.
     ${selection-lines}
-    Return.
-    Information.
+    Retour.
+    Informations.
     10.
     15.
     20.${prompt}
-  7567: This option selects whether or not 5 temporary items will be distributed to each player at the start of the match.${prompt}
+  7567: Cette option sélectionne si 5 objets temporaires seront distribués à chaque joueur au début du match.${prompt}
   7568: |-
-    Distribute temporary items?
+    Distribuer des objets temporaires ?
     ${selection-lines}
-    Return.
-    Information.
-    No.
-    Yes.${prompt}
-  7569: This option selects whether or not some attempts to quarry will fail to produce an item.${prompt}
+    Retour.
+    Informations.
+    Non.
+    Oui.${prompt}
+  7569: Cette option sélectionne si certaines tentatives de carrière échoueront à produire un objet.${prompt}
   7570: |-
-    Fill all quarry holes?
+    Remplir tous les trous de carrière ?
     ${selection-lines}
-    Return.
-    Information.
-    No.
-    Yes.${prompt}
-  7571: This option selects whether or not Flammen-Brenner that are under attack will remove sleep status effects from nearby players of the same side.${prompt}
+    Retour.
+    Informations.
+    Non.
+    Oui.${prompt}
+  7571: Cette option sélectionne si les Flammen-Brenner attaqués retireront les effets de sommeil des joueurs proches du même côté.${prompt}
   7572: |-
-    Remove sleep effects?
+    Supprimer les effets de sommeil ?
     ${selection-lines}
-    Return.
-    Information.
-    No.
-    Yes.${prompt}
-  7573: This option selects whether or not Flammen-Brenner will consume Petras from nearby team members to restore HP after being damaged past a certain point.${prompt}
+    Retour.
+    Informations.
+    Non.
+    Oui.${prompt}
+  7573: Cette option sélectionne si les Flammen-Brenner consommeront des Petras des membres de l'équipe proches pour restaurer des PV après avoir été endommagés au-delà d'un certain point.${prompt}
   7574: |-
-    Repair by Petra?
+    Réparation par Petra ?
     ${selection-lines}
-    Return.
-    Information.
-    No.
-    Yes.${prompt}
-  7575: This option sets the penalty for being KO'd.${prompt}
-  7576: In the case of a Level 1 penalty, reviving from a KO will take longer depending on the length of time between KOs.${prompt}
-  7577: The Level 2 penalty has the same penalties as Level 1, as well as an additional penalty of less HP and MP being recovered upon revival.${prompt}
+    Retour.
+    Informations.
+    Non.
+    Oui.${prompt}
+  7575: Cette option fixe la pénalité pour être KO.${prompt}
+  7576: En cas de pénalité de Niveau 1, le temps de rétablissement après un KO sera plus long en fonction du temps écoulé entre les KOs.${prompt}
+  7577: La pénalité de Niveau 2 a les mêmes pénalités que le Niveau 1, ainsi qu'une pénalité supplémentaire de récupération réduite de PV et PM lors de la résurrection.${prompt}
   7578: |-
-    Set KO penalty.
+    Définir la pénalité de KO.
     ${selection-lines}
-    Return.
-    Information.
-    Level 1.
-    Level 2.${prompt}
-  7579: In accordance with the KO penalty, players will recover less HP and MP when reviving from KO status.${prompt}
+    Retour.
+    Informations.
+    Niveau 1.
+    Niveau 2.${prompt}
+  7579: Conformément à la pénalité de KO, les joueurs récupéreront moins de PV et de PM lors de la résurrection après un KO.${prompt}
   7580: |-
-    Clear all entry data?
+    Effacer toutes les données d'inscription ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  7581: All entry data has been cleared.${prompt}
+    Oui.
+    Non.${prompt}
+  7581: Toutes les données d'inscription ont été effacées.${prompt}
   7582: |-
-    Return all options to the default settings?
+    Réinitialiser toutes les options aux paramètres par défaut ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  7583: The MC has returned all rule options to their default settings.${prompt}
+    Oui.
+    Non.${prompt}
+  7583: Le MC a rétabli toutes les options de règles aux paramètres par défaut.${prompt}
   7584: |-
-    Fix settings and begin the entry period?
+    Fixer les paramètres et commencer la période d'inscription ?
     ${selection-lines}
-    Yes.
-    Not yet.${prompt}
-  7585: The entry period cannot begin until both leaders have agreed to the rule settings.${prompt}
-  7586: This game has become a private match.${prompt}
-  7587: The MC has begun the entry period.${prompt}
+    Oui.
+    Pas encore.${prompt}
+  7585: La période d'inscription ne peut pas commencer tant que les deux leaders n'ont pas accepté les paramètres des règles.${prompt}
+  7586: Ce jeu est devenu un match privé.${prompt}
+  7587: Le MC a commencé la période d'inscription.${prompt}
   7588: |-
-    A blast of warm air is expelled from the Flammen-Brenner.
-    The heat is enough to wake a person from sleep.${prompt}
-  7589: 'The Flammen-Brenner consumes ${number: 0} ${choice-plurality: 0}[Petra/Petras] from ${entity: 0} and recovers ${number: 1} HP!${prompt}'
-  7590: An error has occurred in the proceedings.${prompt}
+    Un souffle d'air chaud est expulsé du Flammen-Brenner.
+    La chaleur est suffisante pour réveiller une personne du sommeil.${prompt}
+  7589: 'Le Flammen-Brenner consomme ${number: 0} ${choice-plurality: 0}[Petra/Petras] de ${entity: 0} et récupère ${number: 1} PV !${prompt}'
+  7590: Une erreur est survenue dans le déroulement.${prompt}
