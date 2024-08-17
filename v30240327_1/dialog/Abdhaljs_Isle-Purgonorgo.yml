@@ -260,144 +260,144 @@ entries:
     ${icon: dark} fewell (${number: 7}).
     Cancel.${prompt}
   87: |-
-    You feed the furnace ${number: 1} ${choice-plurality: 1}[portion/portions] of ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fewell.
-    ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] elemental power climbs to ${number: 2}.
+    Vous nourrissez le four avec ${number: 1} ${choice-plurality: 1}[portion/portions] de ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] peu.
+    L'énergie élémentaire ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] grimpe à ${number: 2}.
   88: |-
     Une poussée élémentaire se produit !
-    The ${number: 1} ${choice-plurality: 1}[portion/portions] of ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fewell fed ${choice-plurality: 1}[causes/cause] ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] elemental power to rise to ${number: 2}!
-  89: 'Vous avez dépensé${number: 1}${choice-plurality: 1}[portion/portions] de${choice: 0}${icon: fire}${icon: ice}${icon: wind}${icon: earth}${icon: lightning}${icon: water}${icon: light}${icon: dark}] peu (${number: 2}${choice-plurality: 2}[portion/portions] restantes).'
+    Les ${number: 1} ${choice-plurality: 1}[portion/portions] de ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] peu nourris ${choice-plurality: 1}[causent/causent] l'énergie élémentaire ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] à monter à ${number: 2} !
+  89: 'Vous avez dépensé ${number: 1} ${choice-plurality: 1}[portion/portions] de ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] peu (${number: 2} ${choice-plurality: 2}[portion/portions] restantes).'
   90: Votre four a perdu un peu de durabilité.
-  91: Il n'y a eu aucun impact sur les réserves de Fewell ou sur la durabilité du four.
+  91: Il n'y a eu aucun impact sur les réserves de peu ou sur la durabilité du four.
   92: |-
     Appliquez un coup mesuré au four pour éviter une explosion.
-    Cost: Reduction in furnace durability.
+    Coût : Réduction de la durabilité du four.
   93: |-
-    Operate the pressure handle to lower internal pressure and reduce the likelihood of an explosion.
-    Cost: ${number: 1} ${choice-plurality: 1}[portion/portions] of ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fewell (${number: 2} ${choice-plurality: 2}[portion/portions] remaining).
+    Actionnez le levier de pression pour abaisser la pression interne et réduire la probabilité d'explosion.
+    Coût : ${number: 1} ${choice-plurality: 1}[portion/portions] de ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] peu (${number: 2} ${choice-plurality: 2}[portion/portions] restantes).
   94: |-
-    Actionnez le levier de sécurité pour purger les impuretés de l’intérieur du four et réduire le risque d’explosion.
-    Cost: ${number: 1} ${choice-plurality: 1}[portion/portions] of ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fewell (${number: 2} ${choice-plurality: 2}[portion/portions] remaining).
+    Actionnez le levier de sécurité pour purger les impuretés de l'intérieur du four et réduire le risque d'explosion.
+    Coût : ${number: 1} ${choice-plurality: 1}[portion/portions] de ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] peu (${number: 2} ${choice-plurality: 2}[portion/portions] restantes).
   95: |-
-    Restore the furnace's durability.
-    Cost: ${number: 1} ${choice-plurality: 1}[portion/portions] of ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fewell (${number: 2} ${choice-plurality: 2}[portion/portions] remaining).
+    Restaurez la durabilité du four.
+    Coût : ${number: 1} ${choice-plurality: 1}[portion/portions] de ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] peu (${number: 2} ${choice-plurality: 2}[portion/portions] restantes).
   96: |-
     Rassemblez et alimentez le four avec des fragments de cendres jonchés par l'explosion. Augmente la quantité de cendres obtenues comme sous-produit.
     Coût : Rien.
   97: |-
-    Augmente temporairement la probabilité d’une poussée élémentaire. Effect varies depending on the moon phase and day of the week.
-    Cost: ${number: 1} ${choice-plurality: 1}[portion/portions] of ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fewell (${number: 2} ${choice-plurality: 2}[portion/portions] remaining).
+    Augmente temporairement la probabilité d'une poussée élémentaire. L'effet varie en fonction de la phase de la lune et du jour de la semaine.
+    Coût : ${number: 1} ${choice-plurality: 1}[portion/portions] de ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] peu (${number: 2} ${choice-plurality: 2}[portion/portions] restantes).
   98: |-
-    Apply a precisely aimed blow to the furnace to prevent an explosion, with results superior to the standard thwack.
-    Cost: Slight reduction in furnace durability.
+    Appliquez un coup précisément ciblé au four pour éviter une explosion, avec des résultats supérieurs au coup standard.
+    Coût : Réduction légère de la durabilité du four.
   99: |-
-    Manipulez habilement l’équilibre élémentaire interne du four pour atténuer temporairement le taux d’usure.
-    Cost: ${number: 1} ${choice-plurality: 1}[portion/portions] of ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fewell (${number: 2} ${choice-plurality: 2}[portion/portions] remaining).
+    Manipulez habilement l'équilibre élémentaire interne du four pour atténuer temporairement le taux d'usure.
+    Coût : ${number: 1} ${choice-plurality: 1}[portion/portions] de ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] peu (${number: 2} ${choice-plurality: 2}[portion/portions] restantes).
   100: |-
-    Observez attentivement le flux des éléments pour éviter${icon: earth}-explosions à base de
-    Cost: ${number: 1} ${choice-plurality: 1}[portion/portions] of ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fewell (${number: 2} ${choice-plurality: 2}[portion/portions] remaining).
+    Observez attentivement le flux des éléments pour éviter des explosions à base de ${icon: earth}.
+    Coût : ${number: 1} ${choice-plurality: 1}[portion/portions] de ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] peu (${number: 2} ${choice-plurality: 2}[portion/portions] restantes).
   101: |-
     Améliore temporairement le taux de combustion de la farine.
-    Cost: ${number: 1} ${choice-plurality: 1}[portion/portions] of ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fewell (${number: 2} ${choice-plurality: 2}[portion/portions] remaining).
+    Coût : ${number: 1} ${choice-plurality: 1}[portion/portions] de ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] peu (${number: 2} ${choice-plurality: 2}[portion/portions] restantes).
   102: |-
-    Observez attentivement le flux des éléments pour éviter${icon: fire}-explosions à base de
-    Cost: ${number: 1} ${choice-plurality: 1}[portion/portions] of ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fewell (${number: 2} ${choice-plurality: 2}[portion/portions] remaining).
+    Observez attentivement le flux des éléments pour éviter des explosions à base de ${icon: fire}.
+    Coût : ${number: 1} ${choice-plurality: 1}[portion/portions] de ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] peu (${number: 2} ${choice-plurality: 2}[portion/portions] restantes).
   103: |-
     Répartissez uniformément la contrainte interne du four pour retarder une explosion imminente.
-    Cost: ${number: 1} ${choice-plurality: 1}[portion/portions] of ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fewell (${number: 2} ${choice-plurality: 2}[portion/portions] remaining).
+    Coût : ${number: 1} ${choice-plurality: 1}[portion/portions] de ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] peu (${number: 2} ${choice-plurality: 2}[portion/portions] restantes).
   104: |-
-    Observez attentivement le flux des éléments pour éviter${icon: wind}-explosions à base de
-    Cost: ${number: 1} ${choice-plurality: 1}[portion/portions] of ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fewell (${number: 2} ${choice-plurality: 2}[portion/portions] remaining).
+    Observez attentivement le flux des éléments pour éviter des explosions à base de ${icon: wind}.
+    Coût : ${number: 1} ${choice-plurality: 1}[portion/portions] de ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] peu (${number: 2} ${choice-plurality: 2}[portion/portions] restantes).
   105: |-
-    Supprime temporairement les fluctuations de la pression interne.
-    Cost: ${number: 1} ${choice-plurality: 1}[portion/portions] of ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fewell (${number: 2} ${choice-plurality: 2}[portion/portions] remaining).
+    Supprimez temporairement les fluctuations de la pression interne.
+    Coût : ${number: 1} ${choice-plurality: 1}[portion/portions] de ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] peu (${number: 2} ${choice-plurality: 2}[portion/portions] restantes).
   106: |-
-    Observez attentivement le flux des éléments pour éviter${icon: ice}-explosions à base de
-    Cost: ${number: 1} ${choice-plurality: 1}[portion/portions] of ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fewell (${number: 2} ${choice-plurality: 2}[portion/portions] remaining).
+    Observez attentivement le flux des éléments pour éviter des explosions à base de ${icon: ice}.
+    Coût : ${number: 1} ${choice-plurality: 1}[portion/portions] de ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] peu (${number: 2} ${choice-plurality: 2}[portion/portions] restantes).
   107: |-
-    Augmente temporairement la probabilité d’une poussée élémentaire.
-    Cost: ${number: 1} ${choice-plurality: 1}[portion/portions] of ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fewell (${number: 2} ${choice-plurality: 2}[portion/portions] remaining).
+    Augmente temporairement la probabilité d'une poussée élémentaire.
+    Coût : ${number: 1} ${choice-plurality: 1}[portion/portions] de ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] peu (${number: 2} ${choice-plurality: 2}[portion/portions] restantes).
   108: |-
-    Observez attentivement le flux des éléments pour éviter${icon: dark}-explosions à base de
-    Cost: ${number: 1} ${choice-plurality: 1}[portion/portions] of ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fewell (${number: 2} ${choice-plurality: 2}[portion/portions] remaining).
+    Observez attentivement le flux des éléments pour éviter des explosions à base de ${icon: dark}.
+    Coût : ${number: 1} ${choice-plurality: 1}[portion/portions] de ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] peu (${number: 2} ${choice-plurality: 2}[portion/portions] restantes).
   109: |-
     Restaurez considérablement la durabilité du four.
-    Cost: ${number: 1} ${choice-plurality: 1}[portion/portions] of ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fewell (${number: 2} ${choice-plurality: 2}[portion/portions] remaining).
+    Coût : ${number: 1} ${choice-plurality: 1}[portion/portions] de ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] peu (${number: 2} ${choice-plurality: 2}[portion/portions] restantes).
   110: |-
-    Observez attentivement le flux des éléments pour éviter${icon: lightning}-explosions à base de
-    Cost: ${number: 1} ${choice-plurality: 1}[portion/portions] of ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fewell (${number: 2} ${choice-plurality: 2}[portion/portions] remaining).
+    Observez attentivement le flux des éléments pour éviter des explosions à base de ${icon: lightning}.
+    Coût : ${number: 1} ${choice-plurality: 1}[portion/portions] de ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] peu (${number: 2} ${choice-plurality: 2}[portion/portions] restantes).
   111: |-
     Supprimez temporairement la force des explosions.
-    Cost: ${number: 1} ${choice-plurality: 1}[portion/portions] of ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fewell (${number: 2} ${choice-plurality: 2}[portion/portions] remaining).
+    Coût : ${number: 1} ${choice-plurality: 1}[portion/portions] de ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] peu (${number: 2} ${choice-plurality: 2}[portion/portions] restantes).
   112: |-
-    Observez attentivement le flux des éléments pour éviter${icon: light}-explosions à base de
-    Cost: ${number: 1} ${choice-plurality: 1}[portion/portions] of ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fewell (${number: 2} ${choice-plurality: 2}[portion/portions] remaining).
+    Observez attentivement le flux des éléments pour éviter des explosions à base de ${icon: light}.
+    Coût : ${number: 1} ${choice-plurality: 1}[portion/portions] de ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] peu (${number: 2} ${choice-plurality: 2}[portion/portions] restantes).
   113: |-
     Purger progressivement le four des impuretés.
-    Cost: ${number: 1} ${choice-plurality: 1}[portion/portions] of ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fewell (${number: 2} ${choice-plurality: 2}[portion/portions] remaining).
+    Coût : ${number: 1} ${choice-plurality: 1}[portion/portions] de ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] peu (${number: 2} ${choice-plurality: 2}[portion/portions] restantes).
   114: |-
-    Observez attentivement le flux des éléments pour éviter${icon: water}-explosions à base de
-    Cost: ${number: 1} ${choice-plurality: 1}[portion/portions] of ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fewell (${number: 2} ${choice-plurality: 2}[portion/portions] remaining).
+    Observez attentivement le flux des éléments pour éviter des explosions à base de ${icon: water}.
+    Coût : ${number: 1} ${choice-plurality: 1}[portion/portions] de ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] peu (${number: 2} ${choice-plurality: 2}[portion/portions] restantes).
   115: |-
     Effectuer une action ?
     ${selection-lines}
     Oui.
     Non.${prompt}
   116: Le four synergie semble avoir pris une silhouette plus droite !
-  117: You give the synergy furnace a measured thwack!
+  117: Vous donnez un coup mesuré au four synergie !
   118: '${color-alt: 141}Vous avez réussi à empêcher une explosion !'
   119: Rien ne se passe...
   120: '${color-alt: 141}Le four synergie retrouve sa durabilité !'
-  121: The attempt to repair the synergy furnace has failed.
-  122: 'La pression interne est tombée à${number: 0}Pz/Im.'
+  121: La tentative de réparation du four synergie a échoué.
+  122: 'La pression interne est tombée à ${number: 0} Pz/Im.'
   123: La pression interne reste inchangée.
   124: |-
     Vous avez réussi à purger les impuretés du four de synergie.
-    Current impurity ratio: ${number: 0}%.
+    Taux d'impuretés actuel : ${number: 0}%.
   125: |-
     Votre tentative de purger les impuretés du four de synergie a échoué.
     Un bruit inquiétant se fait entendre à l'intérieur...
   126: |-
     Vous réussissez à rassembler les fragments de peuplier éparpillés et à les introduire dans le four de synergie.
-    La quantité de cendres pouvant être obtenue augmente à${number: 0}
+    La quantité de cendres pouvant être obtenue augmente à ${number: 0}.
   127: Les quelques fragments éparpillés que vous avez introduits dans le four ne semblent pas avoir eu d'effet...
   128: Le sol autour du four est exempt de quelques fragments.
-  129: You observe no changes.
+  129: Vous n'observez aucun changement.
   130: '${color-alt: 141}Lunar Smarts est entré en vigueur !'
   131: '${color-alt: 141}Les Smarts de la Carbonisation ont pris effet !'
   132: '${color-alt: 141}La probabilité d’une poussée élémentaire a augmenté.'
-  133: '${color-alt: 141}The effect of Lunar Smarts wears off.'
-  134: '${color-alt: 141}The effect of Carbonization Smarts wears off.'
-  135: '${color-alt: 141}Cyclical Smarts have taken effect!'
+  133: '${color-alt: 141}L’effet de Lunar Smarts s’estompe.'
+  134: '${color-alt: 141}L’effet de Carbonization Smarts s’estompe.'
+  135: '${color-alt: 141}Cyclical Smarts ont pris effet !'
   136: '${color-alt: 141}Le four de synergie subit moins de dégâts au fil du temps.'
   137: '${color-alt: 141}L’effet de Cyclical Smarts s’estompe.'
-  138: '${color-alt: 141}Combustive Smarts have taken effect!'
-  139: '${color-alt: 141}The fewell combustion rate has improved.'
+  138: '${color-alt: 141}Combustive Smarts ont pris effet !'
+  139: '${color-alt: 141}Le taux de combustion de la peu a été amélioré.'
   140: '${color-alt: 141}L’effet de Combustive Smarts s’estompe.'
-  141: '${color-alt: 141}Engraver''s Touch has taken effect!'
+  141: '${color-alt: 141}L’effet de l’Engraver’s Touch s’est manifesté !'
   142: '${color-alt: 141}Le four synergique est devenu moins susceptible d’exploser.'
-  143: '${color-alt: 141}The effect of Engraver''s Touch wears off.'
+  143: '${color-alt: 141}L’effet de l’Engraver’s Touch s’estompe.'
   144: '${color-alt: 141}La pressurisation intelligente a pris effet !'
-  145: '${color-alt: 141}The fluctuation in internal pressure is being suppressed.'
-  146: '${color-alt: 141}L’effet de Pressurization Smarts s’estompe.'
-  147: '${color-alt: 141}Alchemical Smarts have taken effect!'
+  145: '${color-alt: 141}Les fluctuations de la pression interne sont réprimées.'
+  146: '${color-alt: 141}L’effet de la Pressurization Smarts s’estompe.'
+  147: '${color-alt: 141}Alchemical Smarts ont pris effet !'
   148: '${color-alt: 141}La force des explosions est réprimée.'
-  149: '${color-alt: 141}L'effet d'Alchemical Smarts s'estompe.'
+  149: '${color-alt: 141}L'effet des Alchemical Smarts s'estompe.'
   150: '${color-alt: 141}Les mesures de chauffage intelligentes ont pris effet.'
   151: '${color-alt: 141}La quantité d’impuretés à l’intérieur du four diminue progressivement.'
-  152: '${color-alt: 141}L’effet de Heating Smarts s’estompe.'
-  153: '${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fewell fed.'
+  152: '${color-alt: 141}L’effet des Heating Smarts s’estompe.'
+  153: '${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] peu alimenté.'
   154: '${choice: 0}${icon: fire}${icon: ice}${icon: wind}${icon: earth}${icon: lightning}${icon: water}${icon: light}${icon: dark}] La puissance élémentaire a commencé à fuir du four.'
   155: '${choice: 0}${icon: fire}${icon: ice}${icon: wind}${icon: earth}${icon: lightning}${icon: water}${icon: light}${icon: dark}] la puissance élémentaire ne fuit plus.'
   156: |-
-    Total fewell fed:
+    Total de peuplé alimenté :
     ${icon: fire}${number: 0} ${icon: ice}${number: 1} ${icon: wind}${number: 2} ${icon: earth}${number: 3} ${icon: lightning}${number: 4} ${icon: water}${number: 5} ${icon: light}${number: 6} ${icon: dark}${number: 7}
-  157: You do not have enough fewell.
+  157: Vous n'avez pas assez de peuplé.
   158: 'Le four ne peut plus être alimenté${choice: 0}${icon: fire}${icon: ice}${icon: wind}${icon: earth}${icon: lightning}${icon: water}${icon: light}${icon: dark}] peu nombreux en ce moment.'
-  159: 'The combustion rate for ${choice: 0}[ /${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] fewell has improved${choice: 1}[ very slightly/ slightly/ moderately// significantly/ greatly/ tremendously].'
-  160: 'Le taux de combustion pour${choice: 0}${icon: fire}${icon: ice}${icon: wind}${icon: earth}${icon: lightning}${icon: water}${icon: light}${icon: dark}] Fell est revenu à la normale.'
+  159: 'Le taux de combustion pour ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] a${choice: 1}[ très légèrement/ légèrement/ modérément/ significativement/ beaucoup/ énormément] amélioré.'
+  160: 'Le taux de combustion pour ${choice: 0}${icon: fire}${icon: ice}${icon: wind}${icon: earth}${icon: lightning}${icon: water}${icon: light}${icon: dark}] Fell est revenu à la normale.'
   161: Synergie complète !
   162: Vous n'avez pas réussi à produire l'article prévu...
-  163: '${color-alt: 121}${lettercase: 1}${article} ${item-article: 0[2]} has been successfully synergized!'
+  163: '${color-alt: 121}${lettercase: 1}${article} ${item-article: 0[2]} a été synergie avec succès !'
   164: |-
     ${color-alt: 121}Une synergie en douceur !
     ${lettercase: 1}${article} ${item-article: 0[2]} has been successfully synergized!
