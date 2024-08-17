@@ -61,13 +61,13 @@ ${lettercase: 1}${article} ${item-article: 8[2]} will be used to etch an apertur
 Select elemental alignment.;Sélectionnez l'alignement élémentaire.
 ${selection-lines};
 ${icon: fire};
-${icon: ice};
-${icon: wind};
-${icon: earth};
-${icon: lightning};
-${icon: water};
+${icon: ice};${icon: ice}
+${icon: wind};${icon: wind}
+${icon: earth};${icon: earth}
+${icon: lightning};${icon: lightning}
+${icon: water};${icon: water}
 ${icon: light};
-${icon: dark};
+${icon: dark};${icon: dark}
 Cancel.${prompt};
 ${selection-lines};
 Yes.;Oui.
@@ -463,7 +463,7 @@ I'm tired.;Je suis fatigué.
 I think we've done enough for today.${prompt};
 Phew!;Ouf !
 It's been a busy day!${prompt};Ça a été une journée chargée !${prompt}
-Hm.;
+Hm.;Hm.
 That should be enough for today.${prompt};
 A fruitful day.;
 I believe we reached our quota.${prompt};
@@ -482,7 +482,7 @@ Wow!;Ouah!
 I'm exhausted!${prompt};Je suis épuisé!${prompt}
 A fruitful day.;
 I believe we reached our quota.${prompt};
-Hm.;
+Hm.;Hm.
 I am satisfied with today's effort.${prompt};Je suis satisfait de l'effort d'aujourd'hui.${prompt}
 We did grrreat today, didn't we?${prompt};Nous avons fait du super travail aujourd'hui, n'est-ce pas ?${prompt}
 ${choice: 0}[/Time flies.../Whoa!/Hm./Well, well./Look at that./Whoa!/Well, now./Hey!/Well, well.];${choice: 0}[/Le temps passe vite.../Whoa !/Hm./Eh bien, eh bien./Regarde ça./Whoa !/Eh bien, maintenant./Hé !/Eh bien, eh bien.]
@@ -491,7 +491,7 @@ Time flies...;
 ...when you're having fun.${prompt};...quand tu t'amuses.${prompt}
 Whoa!;Ouah !
 Is that the time!${prompt};
-Hm.;
+Hm.;Hm.
 It's getting late.${prompt};
 Well, well.;Eh bien, eh bien.
 Quite some time has passed.${prompt};Un certain temps s'est écoulé.${prompt}
@@ -719,7 +719,7 @@ Alrrright! I'll see you later.${prompt};Très bien ! À plus tard.${prompt}
 ${color-alt: 123}You are unable to disband with your fellow at this time.${prompt};
 ${choice: 0}[/A parting gift!/Ha!/Back to the pit with you!/The tide of battle turns!/Your time is up!/Time for action!/This battle is ours!/Try this on for size!/The tide of battle turns!]${prompt};${choice: 0}[/Un cadeau d'adieu !/Ha !/De retour dans la fosse avec toi !/Le cours de la bataille tourne !/Ton temps est écoulé !/Il est temps d'agir !/Cette bataille est la nôtre !/Essayez ceci pour voir votre taille !/Le cours de la bataille tourne !]${prompt}
 A parting gift!${prompt};Un cadeau d'adieu !${prompt}
-Ha!${prompt};
+Ha!${prompt};Ha!${prompt}
 Back to the pit with you!${prompt};De retour au stand avec toi !${prompt}
 The tide of battle turns!${prompt};Le cours de la bataille tourne !${prompt}
 How do you like this!?${prompt};
@@ -875,7 +875,7 @@ I have more than enough magic.${prompt};
 I have a full tank of magic!${prompt};
 ${choice: 0}[/Hmm./Let's see now./My magic?/My magical reserves?/Are you relying on my magic?/I still have lots of magic left!/My magic?/Hmmm./My magical reserves?];${choice: 0}[/Hmm./Voyons voir maintenant./Ma magie ?/Mes réserves magiques ?/Comptez-vous sur ma magie ?/Il me reste encore beaucoup de magie !/Ma magie ?/Hmmm./Mes réserves magiques ?]
 ${choice: 0}[/Better keep an eye on my magic reserves./I think my magic is about half gone./It might be time to rest soon./Depleted to about the halfway mark./If so, we may need to rest soon./Well, maybe half.../It might be time to keep an eye on my reserves./I've used up half my magic already.../Depleted to about the halfway mark.]${prompt};
-Hmm.;
+Hmm.;Hmm.
 Better keep an eye on my magic reserves.${prompt};
 Let's see now.;Voyons voir maintenant.
 I think my magic is about half gone.${prompt};Je pense que ma magie a presque disparu à moitié.${prompt}
@@ -892,7 +892,7 @@ I still have lots of magic left!;Il me reste encore beaucoup de magie !
 Well, maybe half...${prompt};
 My magic?;
 It might be time to keep an eye on my reserves.${prompt};
-Hmmm.;
+Hmmm.;Hmmm.
 I've used up half my magic already...${prompt};J'ai déjà utilisé la moitié de ma magie...${prompt}
 My magical reserves?;
 Depleted to about the halfway mark.${prompt};Épuisé à peu près à mi-chemin.${prompt}
@@ -976,7 +976,7 @@ I've gained a fair amount of experience.;
 I must be close to halfway to my next level by now.${prompt};Je dois être presque à mi-chemin de mon prochain niveau maintenant.${prompt}
 I think I must be almost halfway to my next level.;Je pense que je dois être presque à mi-chemin de mon prochain niveau.
 Can't slow down now!${prompt};Je ne peux pas ralentir maintenant !${prompt}
-Hmm.;
+Hmm.;Hmm.
 I must be almost halfway to my next level by now.${prompt};Je dois être presque à mi-chemin de mon prochain niveau maintenant.${prompt}
 I believe I've almost reached the halfway point to my next level.;
 Let's not rest on our laurels, however!${prompt};
@@ -998,11 +998,11 @@ About double what I have now should be sufficient for the next level.${prompt};E
 I'm halfway there...maybe?${prompt};J'en suis à mi-chemin... peut-être ?${prompt}
 ${choice: 0}[/Hmm./This is a good pace!/Hmm./Well, well./Just a little more./Come on!/I'm past the halfway point./Just a little more!/Well, well.];
 ${choice: 0}[/Not too much further to my next level./Not much more to my next level!/Still need a little more experience for my next level./It appears my next level is not far off at all./My next level is not too far away./I need to gain a little more experience for my next level!/Not long now until I gain another level./My next level is almost within sight!/It appears my next level is not far off at all.]${prompt};
-Hmm.;
+Hmm.;Hmm.
 Not too much further to my next level.${prompt};Pas beaucoup plus loin que mon prochain niveau.${prompt}
 This is a good pace!;
 Not much more to my next level!${prompt};Il ne me reste plus grand chose à faire pour atteindre mon niveau supérieur !${prompt}
-Hmm.;
+Hmm.;Hmm.
 Still need a little more experience for my next level.${prompt};Il me faut encore un peu plus d'expérience pour mon prochain niveau.${prompt}
 Well, well.;Eh bien, eh bien.
 It appears my next level is not far off at all.${prompt};
@@ -1024,7 +1024,7 @@ But that doesn't mean you can slack off.${prompt};
 It can't be so far off, now...can it?${prompt};
 ${choice: 0}[/Hmm./I'm almost there./Not long now./Any time now./Well, what do you know?/Woohoo!/This is encouraging./I love this time!/Any time now.];${choice: 0}[/Hmm./J'y suis presque./Plus longtemps maintenant./N'importe quand maintenant./Eh bien, qu'est-ce que tu sais ?/Youpi !/C'est encourageant./J'adore ce moment !/N'importe quand maintenant.]
 ${choice: 0}[/I should be gaining a level soon./I can almost taste my next level!/My next level is just around the corner./My next level is very close, indeed./I think I'll be gaining a level soon./I'll be leveling up really soon!/I should be gaining a level any time now./I'm on the final stretch towards my next level!/My next level is very close, indeed.]${prompt};${choice: 0}[/Je devrais bientôt gagner un niveau./Je peux presque goûter mon prochain niveau !/Mon prochain niveau approche à grands pas./Mon prochain niveau est très proche, en effet./Je pense que je vais bientôt gagner un niveau./Je vais monter de niveau très bientôt !/Je devrais gagner un niveau d'un moment à l'autre./Je suis sur la dernière ligne droite vers mon prochain niveau !/Mon prochain niveau est très proche, en effet.]${prompt}
-Hmm.;
+Hmm.;Hmm.
 I should be gaining a level soon.${prompt};
 I'm almost there!;
 I can almost taste my next level!${prompt};Je peux presque goûter mon prochain niveau !${prompt}
@@ -1306,15 +1306,15 @@ You've got some stuck on your lips.${prompt};Tu en as collé sur les lèvres.${p
 Did you enjoy it? Of course, I'm not one to brag about a simple piece of bread...${prompt};Vous avez aimé ? Bien sûr, je ne suis pas du genre à me vanter d'un simple morceau de pain...${prompt}
 I think I overcooked it a little. What do you think of the taste?${prompt};Je crois que je l'ai un peu trop cuit. Que penses-tu du goût ?${prompt}
 Not bad is it? I bet you never thought me to be a cooking type!${prompt};Pas mal, n'est-ce pas ? Je parie que vous n'auriez jamais pensé que j'étais du genre à cuisiner !${prompt}
-${prompt};
+${prompt};${prompt}
 Are you chewing properly? I went through a lot of trouble to make that, so eat slowly and savor each bite, alright?${prompt};Est-ce que vous mâchez correctement ? J'ai eu beaucoup de mal à préparer ça, alors mange lentement et savoure chaque bouchée, d'accord ?${prompt}
 So...how was it? Did I make the texture too firm?${prompt};Alors... comment c'était ? Est-ce que j'ai rendu la texture trop ferme ?${prompt}
 What do you think? I tried picking an aroma I thought you'd like, you know.${prompt};Qu'en penses-tu ? J'ai essayé de choisir un arôme que je pensais que tu aimerais, tu sais.${prompt}
 That's a tasty-looking stew you've got there! Why, all my favorite ingredients are in it! Oh, wait, is that the one I made for you?${prompt};C'est un ragoût qui a l'air délicieux ! Eh bien, tous mes ingrédients préférés sont dedans ! Oh, attends, c'est celui que j'ai fait pour toi ?${prompt}
 I hope it's compatible with your taste buds...${prompt};J'espère que cela conviendra à vos papilles...${prompt}
 This isn't the time nor the place to be nonchalantly slurping up pasta!${prompt};
-${prompt};
-${number: 0}...${prompt};
+${prompt};${prompt}
+${number: 0}...${prompt};${number: 0}${prompt}
 The mine explodes!${prompt};La mine explose !${prompt}
 The mine misfires...${prompt};La mine a des ratés...${prompt}
 You retrieve the mine.${prompt};
@@ -1336,11 +1336,11 @@ You must wait another ${number: 0} ${choice-plurality: 0}[day/days] to perform t
 ${color-alt: 121}${name-player} gained ${number: 0} ${choice: 1}[points of experience/limit points].;${color-alt: 121}${name-player}gagné${number: 0}${choice: 1}[points d’expérience/points limites].
 You cannot carry any more ${keyitem-plural: 0[2]}.${prompt};Tu ne peux plus en porter${keyitem-plural: 0[2]}${prompt}
 ${color-alt: 121}You have carried over ${number: 1} login point${choice-plurality: 1}[/s].${prompt};
-${prompt};
+${prompt};${prompt}
 You currently have a total of ${number: 3} points.${prompt};Vous avez actuellement un total de${number: 3}points.${prompt}
-${prompt};
-${prompt};
-${prompt};
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
 You have obtained ${number: 0} bayld!${prompt};Vous avez obtenu${number: 0}enfant!${prompt}
 You have obtained ${number: 0} bayld!;Vous avez obtenu${number: 0}enfant!
 You do not have enough bayld!${prompt};
@@ -1428,7 +1428,7 @@ You lost your catch.;Tu as perdu ta prise.
 Whatever caught the hook was too small to catch with this rod.${prompt};Quel que soit l'objet qui a attrapé l'hameçon, il était trop petit pour être attrapé avec cette canne.${prompt}
 You lost your catch due to your lack of skill.${prompt};Vous avez perdu votre prise à cause de votre manque de compétence.${prompt}
 Result ：${number: 3} (0=caught);Résultat :${number: 3}(0=pris)
-${prompt};
+${prompt};${prompt}
 You didn't catch anything.${prompt};
 The paper on your ${item-singular: 0[2]} ripped.${prompt};Le papier sur votre${item-singular: 0[2]}déchiré.${prompt}
 A tiny goldfish approaches!${prompt};Un petit poisson rouge s’approche !${prompt}
@@ -1612,15 +1612,15 @@ The beastmen are on the rise.${prompt};Les hommes-bêtes sont en plein essor.${p
 Regional influence:;
 San d'Oria - Dominant${prompt};San d'Oria - Dominante${prompt}
 Regional influence:;
-San d'Oria - Major${prompt};
+San d'Oria - Major${prompt};San d'Oria - Major${prompt}
 Regional influence:;
 San d'Oria - Minor${prompt};
 Regional influence:;
 San d'Oria - Minimal${prompt};
-Bastok - Dominant${prompt};
+Bastok - Dominant${prompt};Bastok - Dominant${prompt}
 Bastok - Major${prompt};
 Bastok - Minor${prompt};
-Bastok - Minimal${prompt};
+Bastok - Minimal${prompt};Bastok - Minimal${prompt}
 Windurst - Dominant${prompt};Windurst – Dominante${prompt}
 Windurst - Major${prompt};Windurst - Majeur${prompt}
 Windurst - Minor${prompt};
@@ -1632,14 +1632,14 @@ Bastok and Windurst are currently allies.${prompt};
 San d'Oria and Windurst are currently allies.${prompt};
 San d'Oria and Bastok are currently allies.${prompt};
 所属国：${number: 0};
-判定：${number: 1}${prompt};
-装備チェック：${number: 0};
+判定：${number: 1}${prompt};判定：${number: 1}${prompt}
+装備チェック：${number: 0};装備チェック：${number: 0}
 アイテム：${item-singular: 2[2]};
-引くポイント：${number: 3}${prompt};
+引くポイント：${number: 3}${prompt};引くポイント：${number: 3}${prompt}
 ITEM_ID:${number: 2};ID_DE_L'ARTICLE :${number: 2}
 希望商品番号:${number: 3}${prompt};
-希望商品番号:${number: 0};
-引くポイント:${number: 1}${prompt};
+希望商品番号:${number: 0};希望商品番号:${number: 0}
+引くポイント:${number: 1}${prompt};引くポイント:${number: 1}${prompt}
 The beastmen are gaining power.${prompt};
 San d'Oria's regional control is now 10% closer to the first place country's!${prompt};
 Bastok's regional control is now 10% closer to the first place country's!${prompt};
@@ -1661,81 +1661,81 @@ E.F. Influence: None...Region Status: Under beastman control...Keep losses to mi
 There was a curse on the beastmen's banner!${prompt};
 The curse of the beastmen's banner has been lifted!${prompt};La malédiction de la bannière des hommes-bêtes a été levée !${prompt}
 There is a beastmen's banner.${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
 遠征先リージョンナンバー　${number: 0};遠征先リージョンナンバー${number: 0}
 現在のリージョンナンバー　${number: 1}${prompt};
 増えたポイント　${number: 0};
@@ -1846,7 +1846,7 @@ Is my assistance reaching you, Master? Your Mog House is currently aglow with ${
 Is my assistance reaching you, Master? Your Mog House is currently aglow with ${choice: 0}[the overwhelming/the powerful/the faint] energy of many different elements, kupo!${prompt};
 Each item of furniture you place using the “Layout” command corresponds to a different element, kupo! The type of energy that envelops your Mog House changes depending on those elements, kupo!${prompt};
 When that energy changes, my powers change as well, kupo! Master, you should try placing all sorts of furniture in your Mog House, kupo!${prompt};
-${prompt};
+${prompt};${prompt}
 mes7${prompt};
 mes8${prompt};
 mes9${prompt};
@@ -2573,7 +2573,7 @@ Ordelle's Caves.;
 Eldieme Necropolis.;
 Davoi.;
 Habitat Unknown.;
-${prompt};
+${prompt};${prompt}
 Which page?;
 ${selection-lines};
 I've changed my mind.;
@@ -2592,7 +2592,7 @@ Beadeaux.;
 Oldton Movalpolos.;
 Newton Movalpolos.;
 Habitat Unknown.;
-${prompt};
+${prompt};${prompt}
 Which page?;
 ${selection-lines};
 I've changed my mind.;
@@ -2613,7 +2613,7 @@ Labyrinth of Onzozo.;
 Garlaige Citadel.;
 Castle Oztroja.;
 Habitat Unknown.;
-${prompt};
+${prompt};${prompt}
 Which page?;
 ${selection-lines};
 I've changed my mind.;
@@ -2632,7 +2632,7 @@ Castle Zvahl Baileys.;
 Castle Zvahl Keep.;
 The Boyahda Tree.;
 Habitat Unknown.;
-${prompt};
+${prompt};${prompt}
 Which page?;
 ${selection-lines};
 I've changed my mind.;
@@ -2642,7 +2642,7 @@ Sea Serpent Grotto.;
 Temple of Uggalepih.;
 Den of Rancor.;
 Ifrit's Cauldron.;
-${prompt};
+${prompt};${prompt}
 Which page?;
 ${selection-lines};
 I've changed my mind.;
@@ -2652,13 +2652,13 @@ Western Altepa Desert.;
 Kuftal Tunnel.;
 Gustav Tunnel.;
 Quicksand Caves.;
-${prompt};
+${prompt};${prompt}
 Which page?;
 ${selection-lines};
 I've changed my mind.;
 Lufaise Meadows.;
 Misareaux Coast.;
-${prompt};
+${prompt};${prompt}
 Which page?;
 ${selection-lines};
 I've changed my mind.;
@@ -2668,14 +2668,14 @@ Mount Zhayolm.;
 Mamook.;
 Aydeewa Subterrane.;
 Halvung.;
-${prompt};
+${prompt};${prompt}
 Which page?;
 ${selection-lines};
 I've changed my mind.;
 Caedarva Mire.;
 Arrapago Reef.;
 Alzadaal Undersea Ruins.;
-${prompt};
+${prompt};${prompt}
 Which page?;
 ${selection-lines};
 I've changed my mind.;
@@ -2686,7 +2686,7 @@ Batallia Downs.;
 Eldieme Necropolis.;
 Beaucedine Glacier.;
 Xarcabard.;
-${prompt};
+${prompt};${prompt}
 Which page?;
 ${selection-lines};
 I've changed my mind.;
@@ -2697,7 +2697,7 @@ Rolanberry Fields.;
 Crawlers' Nest.;
 Beaucedine Glacier.;
 Xarcabard.;
-${prompt};
+${prompt};${prompt}
 Which page?;
 ${selection-lines};
 I've changed my mind.;
@@ -2708,7 +2708,7 @@ Sauromugue Champaign.;
 Garlaige Citadel.;
 Beaucedine Glacier.;
 Xarcabard.;
-${prompt};
+${prompt};${prompt}
 Which page?;
 ${selection-lines};
 I've changed my mind.;
@@ -2774,7 +2774,7 @@ Yes.;Oui.
 No.${prompt};Non.${prompt}
 Hunt canceled.${prompt};
 You currently possess ${number: 0} ${choice-plurality: 0}[scyld/scylds].${prompt};
-${prompt};
+${prompt};${prompt}
 ${number: 0} member${choice-plurality: 0}[/s] of the worm family.${prompt};
 ${number: 0} ${choice-plurality: 0}[Forest Hare/Forest Hares].${prompt};
 ${number: 0} ${choice-plurality: 0}[Grass Funguar/Grass Funguars].${prompt};
@@ -3286,211 +3286,211 @@ ${number: 0} member${choice-plurality: 0}[/s] of the golem family.${prompt};
 ${number: 0} member${choice-plurality: 0}[/s] of the Gigas family.${prompt};
 ${number: 0} member${choice-plurality: 0}[/s] of the Tonberry family.${prompt};
 ${number: 0} member${choice-plurality: 0}[/s] of the Antica family.${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
 ${number: 4}/${number: 0} member${choice-plurality: 4}[/s] of the worm family.${prompt};
 ${number: 4}/${number: 0} ${choice-plurality: 4}[Forest Hare/Forest Hares].${prompt};
 ${number: 4}/${number: 0} ${choice-plurality: 4}[Grass Funguar/Grass Funguars].${prompt};
@@ -4002,211 +4002,211 @@ ${number: 4}/${number: 0} member${choice-plurality: 4}[/s] of the golem family.$
 ${number: 4}/${number: 0} member${choice-plurality: 4}[/s] of the Gigas family.${prompt};
 ${number: 4}/${number: 0} member${choice-plurality: 4}[/s] of the Tonberry family.${prompt};
 ${number: 4}/${number: 0} member${choice-plurality: 4}[/s] of the Antica family.${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
 Training area: West Ronfaure.${prompt};
 Training area: West Ronfaure.${prompt};
 Training area: West Ronfaure.${prompt};
@@ -4750,22 +4750,22 @@ Training area: Xarcabard (S).${prompt};
 Training area: Xarcabard (S).${prompt};
 Training area: Xarcabard (S).${prompt};
 Training area: Xarcabard (S).${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
 Training area: Abyssea - Altepa.${prompt};
 Training area: Abyssea - Altepa.${prompt};
 Training area: Abyssea - Altepa.${prompt};
@@ -7305,14 +7305,14 @@ Recruitment: Lv.75, 1-6 mercenaries${prompt};
 Nyzul Isle Uncharted Area Survey;
 Objective: Complete on-site objectives;
 Recruitment: Lv.99, 1-6 mercenaries${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
 I'm sorry, but according to Imperial law, I am not authorized to disclose that information to a mercenary of your rank.${prompt};
 Sign up for this mission?;
 ${selection-lines};
@@ -15016,7 +15016,7 @@ Oh my, oh my, oh my!;
 If she doesn't need my guidance, then she might not need me to exist at all...${prompt};
 Doctor Shan--;
 Ah, Lady Karababa means to enter the Navukgo Execution Chamber!?${prompt};
-Hmmm.;
+Hmmm.;Hmmm.
 But at least I have been charged with finding an exemplary alchemist!${prompt};
 Lady Karababa needs me after all!;
 So much safer to be needed...${prompt};
@@ -15490,11 +15490,11 @@ You may leave us now.${prompt};
 Not you, too...${prompt};
 Well, I'm still not going back to the palace until I find Ovjang!${prompt};
 And that's final.${prompt};
-${prompt};
+${prompt};${prompt}
 Lord Nadeey?${prompt};
 The Immortal, Rishfee, is here to see you.${prompt};
 The Grand Vizier is on to us...${prompt};
-${prompt};
+${prompt};${prompt}
 Lady Aphmau, I am glad to see you unharmed.${prompt};
 Now it is time for you and Mnejing to accompany me back to the palace.${prompt};
 The earlier you return, the less Lord Razfahd will be angry when he learns--${prompt};
@@ -15517,7 +15517,7 @@ I...it is nothing...${prompt};
 You should return to the Imperial Ward and visit the infirmary.${prompt};
 You are very kind, my lady.;
 However--${prompt};
-${prompt};
+${prompt};${prompt}
 You'll just slow us down.${prompt};
 And where exactly do you intend to carry out this search of yours?${prompt};
 I...I...${prompt};
@@ -15531,7 +15531,7 @@ I don't believe you!${prompt};
 You think I don't know?${prompt};
 The Immortals are so busy watching the beastmen and searching for the Ashu Talif...${prompt};
 There isn't a single soldier to spare for poor Ovjang!${prompt};
-${prompt};
+${prompt};${prompt}
 I only thought to--${prompt};
 If I may?${prompt};
 Who is this?${prompt};
@@ -18880,11 +18880,11 @@ I don't know much about jobs, but can you recommend a combat style for me?${prom
 There are so many jobs to choose from.;
 Why don't you recommend a style of combat instead?${prompt};
 You presume to have knowledge on how I should approach combat?${prompt};
-Hmm.;
+Hmm.;Hmm.
 I'll give it a shot.${prompt};
 Right!;
 That's the style for me!${prompt};
-Hmm.;
+Hmm.;Hmm.
 I'll try it.${prompt};
 Okay.;D'accord.
 I'll try that next time I fight.${prompt};
@@ -19089,7 +19089,7 @@ A large building seems to have been embedded inside the Great Star Tree. I would
 When I travel to hot areas, my feet always sweat inside my boots. Then the sand gets in there and it drives me crazy...${prompt};
 I'm ashamed to admit it but...I'm hopeless at riding chocobos.;
 I have my license, though. Really.${prompt};
-Hmm.;
+Hmm.;Hmm.
 I can't think of anything to talk about.${prompt};
 It seems there is an ever-growing number of adventurers that have lost interest in the conquest.${prompt};
 Because the weather in town is usually either clear or cloudy, there's no need to carry a change of equipment. But since it can be quite unpredictable out in the wilderness, it's good to be prepared.${prompt};
@@ -19479,7 +19479,7 @@ I think you're right.;
 I'll stick with this for a while.${prompt};
 I like your taste!;
 I'll wear this for a while.${prompt};
-Hmm.;
+Hmm.;Hmm.
 Well, I guess this isn't too bad...${prompt};
 Well, then.;
 I'll see that I wear this from now on.${prompt};
@@ -19970,14 +19970,14 @@ ${name-player} obtains ${keyitem-article: 1[2]} in exchange for ${number: 0} ${c
 This ${keyitem-singular: 0[2]} will cost you ${number: 1} ${choice: 2}[Conquest Points/credits of Imperial Standing/Allied Notes].${prompt};
 You already have ${keyitem-article: 0[2]}, and I'm not authorized to furnish you with another.;
 Resources are in short supply. You'll have to make do with what you've already got.${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
-${prompt};
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
+${prompt};${prompt}
 How many? (${choice: 0} [Conquest Points/Imperial Standing/Allied Notes]: ${number: 1});
 You may purchase up to ${number: 2} at a time.;
 Hi there, ${choice-player-gender}[tomcat/pussycat].${prompt};
@@ -20129,7 +20129,7 @@ Dat's da spirit! So which dial ya be wantin'?${prompt};
 So, what dial ya gonna pick? (${number: 7} tally);
 ${selection-lines};
 I got cold feet, so none.;
-${prompt};
+${prompt};${prompt}
 Whatchu tryin' ta pull!? Yer daily tally's too low.${prompt};
 Yer goin' wit' dial ${number: 1}, huh? Lessee what myst'ries await!;
 Dis box is full o' myst'ries,♪;
