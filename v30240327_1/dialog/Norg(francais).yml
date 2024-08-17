@@ -28388,77 +28388,77 @@ entries:
     ${lettercase: 1}${item-singular: 16[2]}.
     Previous page.
     Next page.${prompt}
-  12562: 'Sure thing! any ${item-singular: 33[2]} can be augmented with my super-duper arcane glyptics!${prompt}'
-  12563: I just need the following ingredients and I'll have you covered in more glyptics than you can shake a fish at!${prompt}
+  12562: 'Bien sûr ! Tout ${item-singular: 33[2]} peut être augmenté avec mes glyptiques super-arcanes !${prompt}'
+  12563: 'Il me suffit des ingrédients suivants et je vous couvrirai de plus de glyptiques que vous ne pouvez en secouer !${prompt}'
   12564: |-
-    View which items?
+    Voir quels articles ?
     ${selection-lines}
-    None.
+    Aucun.
     ${number: 17} ${item-given-plurality: 17[2], 1[2]}.
     ${number: 18} ${item-given-plurality: 18[2], 2[2]}.
     ${number: 19} ${item-given-plurality: 19[2], 3[2]}.${prompt}
-  12565: 'Right now, I''ve got ${number: 34} ${item-given-plurality: 34[2], 33[2]} in storage. Great!${prompt}'
-  12566: 'For just ${number: 1} silt, I''ll take ${choice-plurality: 3}[that/those] ${number: 3} ${item-given-plurality: 3[2], 2[2]} off your hands. I currently have ${number: 0} in storage!${prompt}'
-  12567: 'Okie-dokie, friend! I''ll take your ${item-singular: 1[2]} and engrave it right away!${prompt}'
+  12565: 'En ce moment, j’ai ${number: 34} ${item-given-plurality: 34[2], 33[2]} en stock. Super !${prompt}'
+  12566: 'Pour seulement ${number: 1} silt, je prendrai ${choice-plurality: 3}[celui/celles] ${number: 3} ${item-given-plurality: 3[2], 2[2]} de vos mains. J’ai actuellement ${number: 0} en stock !${prompt}'
+  12567: 'D'accord, mon ami ! Je prendrai votre ${item-singular: 1[2]} et je l’engraverai immédiatement !${prompt}'
   12568: |-
-    Use which item? (Type: ${choice: 0}[Melee/Ranged/Magic/Familiar/Healing/Techniques])
+    Utiliser quel article ? (Type : ${choice: 0}[Mêlée/À distance/Magie/Familiar/Soins/Techniques])
     ${selection-lines}
-    None of these.
-    ${lettercase: 1}${item-singular: 1[2]} (${number: 17} time${choice-plurality: 17}[/s] remaining).
-    ${lettercase: 1}${item-singular: 2[2]} (${number: 18} time${choice-plurality: 18}[/s] remaining).
-    ${lettercase: 1}${item-singular: 3[2]} (${number: 19} time${choice-plurality: 19}[/s] remaining).
-    Techniques (${number: 20} time${choice-plurality: 19}[/s] remaining).${prompt}
+    Aucun de ceux-ci.
+    ${lettercase: 1}${item-singular: 1[2]} (${number: 17} fois${choice-plurality: 17}[/s] restantes).
+    ${lettercase: 1}${item-singular: 2[2]} (${number: 18} fois${choice-plurality: 18}[/s] restantes).
+    ${lettercase: 1}${item-singular: 3[2]} (${number: 19} fois${choice-plurality: 19}[/s] restantes).
+    Techniques (${number: 20} fois${choice-plurality: 19}[/s] restantes).${prompt}
   12569: |-
-    What type of glyptic will you choose?
+    Quel type de glyptique choisirez-vous ?
     ${selection-lines}
-    None of these.
-    Melee.
-    Ranged.
-    Magic.
+    Aucun de ceux-ci.
+    Mêlée.
+    À distance.
+    Magie.
     Familiar.
-    Healing.
+    Soins.
     Techniques.${prompt}
-  12570: 'Okie-dokie! Here goes! Your ${item-singular: 1[2]} will now be engraved with the ${choice: 2}[melee/ranged/magic/familiar/healing] arcane glyptic!${prompt}'
+  12570: 'D’accord ! C’est parti ! Votre ${item-singular: 1[2]} sera désormais gravé avec la glyptique ${choice: 2}[mêlée/à distance/magie/familiar/soins] !${prompt}'
   12571: |-
-    What will it be?
+    Que choisirez-vous ?
     ${selection-lines}
-    Keep the previous effects.
-    Keep the new glyptic's effects.${prompt}
+    Conserver les effets précédents.
+    Conserver les effets de la nouvelle glyptique.${prompt}
   12572: |-
-    Engrave another glyptic?
+    Graver une autre glyptique ?
     ${selection-lines}
-    No, we're done here.
-    Choose another glyptic.
-    The same glyptic (${number: 1} time${choice-plurality: 1}[/s] remaining).${prompt}
-  12573: 'You got it! I''ll just take this ${item-singular: 1[2]} and ${item-singular: 2[2]} and ready them for engraving! Isn''t life wonderful?${prompt}'
-  12574: 'Are you sure you want to keep this ${item-singular: 2[2]}''s ${choice: 1}[original/new] glyptic?'
+    Non, nous en avons terminé ici.
+    Choisir une autre glyptique.
+    La même glyptique (${number: 1} fois${choice-plurality: 1}[/s] restantes).${prompt}
+  12573: 'Vous avez raison ! Je vais juste prendre ce ${item-singular: 1[2]} et ${item-singular: 2[2]} et les préparer pour la gravure ! N’est-ce pas merveilleux ?${prompt}'
+  12574: 'Êtes-vous sûr de vouloir conserver la glyptique ${item-singular: 2[2]} ${choice: 1}[originale/nouvelle] ?'
   12575: |-
-    What will it be?
+    Que choisirez-vous ?
     ${selection-lines}
-    Yes, do it.
-    Let me reconsider.${prompt}
-  12576: 'Sorry, friend. I can''t store anymore ${item-plural: 1[2]}. There''s only so much I can fit into these crates. Try again after you''ve spent some on engravings. And remember to smile!${prompt}'
-  12577: 'Then let me imbue your ${item-singular: 1[2]} with some special techniques.${prompt}'
-  12578: Can't cha see I'm busy? Come back later.${prompt}
-  12579: Hey, you! I see ya got some Domain Points on ya.${prompt}
-  12580: Yep, dem's the ones.${prompt}
-  12581: Ya see, they're a type of viscous fluid that drops after defeatin' unusual monsters in a Domain Invasion. The amount in this here bottle's worth 10 points.${prompt}
-  12582: It's too hard fer the people of Escha to tell the difference between silt, beads, and the like. So that's why I came up with this name!${prompt}
-  12583: Hehehe! Pretty easy to remember, no?${prompt}
-  12584: Anyways, about these Domain Points... Much like the monsters that drop 'em, there's a limit to how much ya can handle per day.${prompt}
-  12585: That makes 'em a lot more difficult than silt or beads when it comes to conductin' one's research.${prompt}
-  12586: However, they gave me a glimpse of the future! I know they'll make it big eventually!${prompt}
-  12587: So that's why I started gatherin' what I could. Of course, I'm willin' to trade fer 'em. So bring me as many as ya can!${prompt}
-  12588: Heya! Got some domain points for me?${prompt}
+    Oui, faites-le.
+    Laissez-moi réfléchir.${prompt}
+  12576: 'Désolé, mon ami. Je ne peux plus stocker de ${item-plural: 1[2]}. Il y a une limite à ce que je peux mettre dans ces caisses. Réessayez après avoir dépensé certains pour les gravures. Et n’oubliez pas de sourire !${prompt}'
+  12577: 'Alors laissez-moi imprégner votre ${item-singular: 1[2]} de techniques spéciales.${prompt}'
+  12578: 'Vous ne voyez pas que je suis occupé ? Revenez plus tard.${prompt}'
+  12579: 'Hé, toi ! Je vois que tu as des Points de Domaine.${prompt}'
+  12580: 'Oui, ce sont bien ceux-là.${prompt}'
+  12581: 'Vous voyez, ce sont un type de liquide visqueux qui tombe après avoir vaincu des monstres inhabituels lors d’une Invasion de Domaine. La quantité dans cette bouteille vaut 10 points.${prompt}'
+  12582: 'C’est trop difficile pour les habitants d’Escha de faire la différence entre le silt, les perles et autres. C’est pourquoi j’ai inventé ce nom !${prompt}'
+  12583: 'Hehehe ! Assez facile à retenir, non ?${prompt}'
+  12584: 'En tout cas, concernant ces Points de Domaine… Tout comme les monstres qui les laissent tomber, il y a une limite à combien vous pouvez en gérer par jour.${prompt}'
+  12585: 'Cela les rend beaucoup plus difficiles que le silt ou les perles lorsqu’il s’agit de mener des recherches.${prompt}'
+  12586: 'Cependant, ils m’ont donné un aperçu de l’avenir ! Je sais qu’ils feront un grand succès un jour !${prompt}'
+  12587: 'C’est pourquoi j’ai commencé à les rassembler. Bien sûr, je suis prêt à les échanger. Alors apportez-moi autant que vous pouvez !${prompt}'
+  12588: 'Salut ! Tu as des points de domaine pour moi ?${prompt}'
   12589: |-
-    Whadda ya need? (${number: 0} domain point${choice-plurality: 0}[/s])
+    Que voulez-vous ? (${number: 0} point de domaine${choice-plurality: 0}[/s])
     ${selection-lines}
-    Check the rewards list.
-    Hear about Domain Points.
-    Tell me about yourself.
-    Never mind.${prompt}
+    Vérifier la liste des récompenses.
+    En savoir plus sur les Points de Domaine.
+    Parlez-moi de vous.
+    Jamais mind.${prompt}
   12590: |-
-    Which list do ya want? (${number: 0} point${choice-plurality: 0}[/s])
+    Quelle liste voulez-vous ? (${number: 0} point${choice-plurality: 0}[/s])
     ${selection-lines}
     10 points.
     40 points.
@@ -28470,9 +28470,9 @@ entries:
     800 points.
     1000 points.
     1200 points.
-    Back.${prompt}
+    Retour.${prompt}
   12591: |-
-    What'll it be? (${number: 0} Domain Points)
+    Que voulez-vous ? (${number: 0} Points de Domaine)
     ${selection-lines}
     ${lettercase: 1}${item-singular: 1[2]}.
     ${lettercase: 1}${item-singular: 2[2]}.
@@ -28490,306 +28490,306 @@ entries:
     ${lettercase: 1}${item-singular: 14[2]}.
     ${lettercase: 1}${item-singular: 15[2]}.
     ${lettercase: 1}${item-singular: 16[2]}.
-    Previous page.
-    Next page.
-    Back.${prompt}
-  12592: 'You wanna trade for ${article} ${item-article: 17[2]}?${prompt}'
+    Page précédente.
+    Page suivante.
+    Retour.${prompt}
+  12592: 'Vous voulez échanger contre ${article} ${item-article: 17[2]} ?${prompt}'
   12593: |-
-    　Trade for the ${item-singular: 17[2]}? (${number: 0} Domain Points)
+    Échanger contre ${item-singular: 17[2]} ? (${number: 0} Points de Domaine)
     ${selection-lines}
-    Yes. (Spend ${number: 1} pt.)
-    No.${prompt}
-  12594: Ya don't got enough Domain Points.
-  12595: Huh? Yer askin' about me?${prompt}
-  12596: I'm wi' the Tenshodo. Unlike them lot though, I'm only workin' on contract.${prompt}
-  12597: If I'd been handlin' silt and beads, I'd've been a proper member by now, ya see.${prompt}
-  12598: I tried applyin' but I was too late, so I got stuck dealin' in Domain Points.${prompt}
-  12599: But, if I can get this system up and runnin', it'll be my big break, ya know?${prompt}
-  12600: '${color-alt: 123}An error has occurred. Please try again.'
-  12601: Aye, I be hearin' all about ya. If yer done here in Norg, then take a ship t' wherever ya want.${prompt}
+    Oui. (Dépense ${number: 1} pt.)
+    Non.${prompt}
+  12594: Vous n’avez pas assez de Points de Domaine.
+  12595: Hein ? Vous voulez parler de moi ?${prompt}
+  12596: Je suis avec les Tenshodo. Contrairement à eux, je ne travaille que sur contrat.${prompt}
+  12597: Si j'avais traité du silt et des perles, je serais maintenant un membre à part entière, vous voyez.${prompt}
+  12598: J'ai essayé de postuler mais j'étais trop tard, donc je me suis retrouvé à gérer les Points de Domaine.${prompt}
+  12599: Mais, si je peux mettre ce système en marche, ce sera ma grande chance, vous savez ?${prompt}
+  12600: '${color-alt: 123}Une erreur est survenue. Veuillez réessayer.'
+  12601: Oui, j'entends parler de vous. Si vous avez terminé ici à Norg, prenez un bateau vers où vous le souhaitez.${prompt}
   12602: |-
-    Set sail for where?
+    Partir pour où ?
     ${selection-lines}
     Selbina.
     Mhaura.
-    Nowhere.${prompt}
-  12603: '''Twasn''t so long ago that I''d say ya were spewing brine if ya told me an adventurer wanted to use our ships. But the times, they be a-changin''.${prompt}'
-  12604: I'll be here if ya change yer mind.${prompt}
-  12605: Ol' sea dog, have ya heard anythin' 'bout where this stoic warrior guy “Tenzen” is?${prompt}
-  12606: '''Fraid I can''t let ya see our leader until he comes along, what with all this Escha hullabaloo goin'' on.${prompt}'
-  12607: Gilgamesh, I'm afraid the rumors are true. Another rift has split the ground in Misareaux Coast in twain.${prompt}
-  12608: Then it's th' same deal as with Qufim Island? This place the lot of ya keep referrin' to as “Escha”?${prompt}
-  12609: Damned ambassador of the void! He'd better not show his face 'round here in Norg, or it's right ta Davy Jones's locker with him!${prompt}
-  12610: Oho, if it isn't ${name-player}! Our friend from the Far East has stopped to pay his regards.${prompt}
-  12611: Ah, I recognize that visage...${prompt}
-  12612: Ah, ${choice-player-gender}[Lord/Lady] ${name-player}. Your presence here is a boon.${prompt}
-  12613: ${choice-player-gender}[Lord/Lady] ${name-player}, forgive me...would that I had been stronger...${prompt}
-  12614: I am Tenzen, a humble warrior with roots planted firmly in the Far East. May our meeting bear fruit.${prompt}
-  12615: I shall be brief. Word reached me that a priestess from Reisenjima Sanctorium had cause to step foot here in the Middle Lands, and I came to pay my respects.${prompt}
-  12616: Yet I arrive here only to find that she has gone missing.${prompt}
-  12617: ${name-player}, I suppose ya haven't bumped inta Iroha?${prompt}
-  12618: Iroha...a magnificent name, and I trust with a character to match.${prompt}
-  12619: Ya happen ta know anythin' 'bout her? 'Cause she sure threw th' lot of us for quite the loop.${prompt}
-  12620: I have extensively questioned those at Reisenjima Sanctorium, but to a man they shook their heads at each inquiry.${prompt}
-  12621: Of course, if your story is true and she has not yet been born, then such a conclusion is foregone.${prompt}
-  12622: ${choice-player-gender}[Lord/Lady] ${name-player}, permit me to examine the orb she bequeathed unto you.${prompt}
+    Nulle part.${prompt}
+  12603: 'Il n'y a pas si longtemps, je vous aurais traité de fou si vous m'aviez dit qu'un aventurier voulait utiliser nos navires. Mais les temps changent.'
+  12604: Je serai ici si vous changez d'avis.${prompt}
+  12605: Vieux loup de mer, avez-vous entendu parler de l’endroit où se trouve ce guerrier stoïque nommé “Tenzen” ?${prompt}
+  12606: 'Désolé, je ne peux pas vous laisser voir notre chef tant qu'il n'est pas arrivé, avec tout ce brouhaha d'Escha en cours.'
+  12607: Gilgamesh, j'ai bien peur que les rumeurs soient vraies. Une autre faille a divisé le sol dans la Côte de Misareaux en deux.${prompt}
+  12608: Alors, c’est le même problème qu’avec l'île de Qufim ? Ce lieu que vous appelez “Escha” ?${prompt}
+  12609: Maudit ambassadeur du vide ! Il ferait mieux de ne pas se montrer ici à Norg, ou c’est directement au coffre de Davy Jones pour lui !${prompt}
+  12610: Oho, si ce n'est pas ${name-player} ! Notre ami de l'Est lointain est venu présenter ses respects.${prompt}
+  12611: Ah, je reconnais ce visage...${prompt}
+  12612: Ah, ${choice-player-gender}[Seigneur/ Dame] ${name-player}. Votre présence ici est une bénédiction.${prompt}
+  12613: ${choice-player-gender}[Seigneur/Dame] ${name-player}, pardonnez-moi... si seulement j'avais été plus fort...${prompt}
+  12614: Je suis Tenzen, un humble guerrier aux racines profondément ancrées dans l'Est lointain. Puissent nos rencontres porter leurs fruits.${prompt}
+  12615: Je serai bref. La rumeur m’est parvenue qu'une prêtresse du Sanctorium de Reisenjima avait eu pour cause de mettre le pied ici dans les Terres du Milieu, et je suis venu lui rendre hommage.${prompt}
+  12616: Pourtant, j'arrive ici pour découvrir qu'elle a disparu.${prompt}
+  12617: ${name-player}, je suppose que vous n'avez pas croisé Iroha ?${prompt}
+  12618: Iroha... un nom magnifique, et je fais confiance à un caractère qui correspond.${prompt}
+  12619: Vous savez quelque chose à son sujet ? Car elle a vraiment dérouté tout le monde.${prompt}
+  12620: J'ai interrogé en profondeur les personnes du Sanctorium de Reisenjima, mais chacun a secoué la tête à chaque question.${prompt}
+  12621: Bien sûr, si votre histoire est vraie et qu'elle n'est pas encore née, alors une telle conclusion est prévisible.${prompt}
+  12622: ${choice-player-gender}[Seigneur/Dame] ${name-player}, permettez-moi d'examiner l'orbe qu'elle vous a confiée.${prompt}
   12623: |-
-    ...Intriguing.
-    Yes, it bears the mark of Reisenjima Sanctorium.${prompt}
-  12624: What in blazes--!?
-  12625: Calm yerself, Aldo. She's with our guest.${prompt}
-  12626: 'This orb connects the bearer with ${choice: 1}[the mothercrystal/a higher power].${prompt}'
-  12627: Mayhap it will display its true form only to those who open up their hearts to it.${prompt}
-  12628: Delkfutt's Tower...
-  12629: Ah, you look confused. My companion is intimately connected with the outlying isle that Reisenjima Sanctorium calls home.${prompt}
-  12630: Her assertion that the orb is authentic is proof enough.${prompt}
-  12631: As such, I am inclined to believe this “Iroha”'s story about being from the future.${prompt}
-  12632: I gotta admit, when I saw the little lady floppin' about on that rickety vessel, I wondered if the brine had clogged up that skull o' hers...but then we learned she wasn't the only one from th' future.${prompt}
-  12633: Then there were others?${prompt}
-  12634: None in the Far East bear any ill will toward the priests of Reisenjima Sanctorium...${prompt}
-  12635: And only the purest chosen by the emperor are allowed to alight on the isle housing Reisenjima Sanctorium, for it was created by the gods themselves.${prompt}
-  12636: Any who would lift a blade in anger against such souls are unworthy of being called human.${prompt}
-  12637: Then it should not surprise you to learn that our foe isn't human at all.${prompt}
-  12638: Darkness is at his beck and call, and he can create entire worlds devoid of all color.${prompt}
-  12639: I see...${prompt}
-  12640: Then I must meet with Lady Iroha and find this sinister force that came after her.${prompt}
-  12641: Where should I begin my search?${prompt}
+    ...Intriguant.
+    Oui, il porte la marque du Sanctorium de Reisenjima.${prompt}
+  12624: Que diable-- !?
+  12625: Calme-toi, Aldo. Elle est avec notre invité.${prompt}
+  12626: 'Cet orbe connecte le porteur à ${choice: 1}[la mère-cristal/une puissance supérieure].${prompt}'
+  12627: Peut-être qu'il révélera sa véritable forme uniquement à ceux qui ouvrent leur cœur.${prompt}
+  12628: La Tour de Delkfutt...
+  12629: Ah, vous avez l'air confus. Mon compagnon est intimement lié à l'île périphérique que le Sanctorium de Reisenjima appelle chez lui.${prompt}
+  12630: Son affirmation selon laquelle l'orbe est authentique est une preuve suffisante.${prompt}
+  12631: En tant que tel, je suis enclin à croire l'histoire de cette “Iroha” venant du futur.${prompt}
+  12632: Je dois admettre que, quand j'ai vu la petite dame se débattre sur ce vaisseau branlant, je me suis demandé si le sel avait obstrué ce crâne... mais ensuite nous avons appris qu'elle n'était pas la seule venue du futur.${prompt}
+  12633: Alors il y en avait d'autres ?${prompt}
+  12634: Personne en Extrême-Orient ne nourrit de malveillance envers les prêtres du Sanctorium de Reisenjima...${prompt}
+  12635: Et seuls les plus purs choisis par l'empereur sont autorisés à débarquer sur l'île abritant le Sanctorium de Reisenjima, car elle a été créée par les dieux eux-mêmes.${prompt}
+  12636: Quiconque lèverait une arme avec colère contre de telles âmes est indigne d'être appelé humain.${prompt}
+  12637: Il ne devrait donc pas vous surprendre d'apprendre que notre ennemi n'est pas du tout humain.${prompt}
+  12638: Les ténèbres lui obéissent, et il peut créer des mondes entiers dépourvus de toute couleur.${prompt}
+  12639: Je vois...${prompt}
+  12640: Alors je dois rencontrer Dame Iroha et trouver cette force sinistre qui l'a poursuivie.${prompt}
+  12641: Par où devrais-je commencer ma recherche ?${prompt}
   12642: |-
-    How do you respond?
+    Que répondez-vous ?
     ${selection-lines}
-    I saw ${choice: 1}[a woman/Prishe] just now...
-    I'm at a loss.${prompt}
-  12643: Ah, so the orb showed you a vision.${prompt}
-  12644: And it implored you to return to Delkfutt's Tower.${prompt}
-  12645: 'Perhaps it has something to do with what Kagero said...some relation with the ${choice: 1}[Mothercrystal/higher power].${prompt}'
-  12646: I must first make for Jeuno to collect what information I can...and handle some unfinished business.${prompt}
-  12647: Then we've got all th' clues we need.${prompt}
-  12648: I shall report back with anything I am able to find.${prompt}
-  12649: ${name-player}, I think it best if you cast your lot with Tenzen.${prompt}
-  12650: Maybe he'll be able to figure out how to save the future when he gets to meet with Iroha.${prompt}
-  12651: That's what my gut's tellin' me, anyway, and a pirate's intuition is never wrong.${prompt}
-  12652: Oi, ${name-player}! Ya really got a knack fer showin' up when people are thinking about ya.${prompt}
-  12653: '''Member how we were talkin'' ''bout a new vortex in Misareaux Coast?${prompt}'
-  12654: Iroha's been spotted around there every couple o' days.${prompt}
-  12655: '...And you didn''t know, did ya?${prompt}'
-  12656: The two of ya last parted ways o'er in Aht Urhgan, right?${prompt}
-  12657: Figured she'd've met up with ya once she was feelin' better, but for whatever reason she's decided to strike out on her own.${prompt}
-  12658: Ya ha!
-  12659: Ya musta had a big fallin'-out!${prompt}
+    J'ai vu ${choice: 1}[une femme/Prishe] tout à l'heure...
+    Je suis perplexe.${prompt}
+  12643: Ah, donc l'orbe vous a montré une vision.${prompt}
+  12644: Et il vous a imploré de retourner à la Tour de Delkfutt.${prompt}
+  12645: 'Peut-être que cela a quelque chose à voir avec ce que Kagero a dit... un lien avec la ${choice: 1}[Mère-Cristal/puissance supérieure].${prompt}'
+  12646: Je dois d'abord me rendre à Jeuno pour recueillir les informations dont je dispose... et m'occuper de quelques affaires en suspens.${prompt}
+  12647: Alors nous avons tous les indices dont nous avons besoin.${prompt}
+  12648: Je ferai un rapport sur tout ce que je pourrai trouver.${prompt}
+  12649: ${name-player}, je pense qu'il serait préférable que vous vous associiez à Tenzen.${prompt}
+  12650: Peut-être qu'il sera capable de trouver comment sauver le futur lorsqu'il rencontrera Iroha.${prompt}  
+  12651: C'est ce que mon instinct me dit, et l'intuition d'un pirate ne se trompe jamais.${prompt}
+  12652: Hé, ${name-player} ! Vous avez vraiment le don de vous montrer quand les gens pensent à vous.${prompt}
+  12653: 'Vous vous souvenez comment nous parlions d'un nouveau vortex dans la Côte de Misareaux ?${prompt}'
+  12654: Iroha a été aperçue par là-bas tous les deux jours.${prompt}
+  12655: '...Et vous ne le saviez pas, n'est-ce pas ?${prompt}'
+  12656: Vous vous êtes séparés la dernière fois à Aht Urhgan, n'est-ce pas ?${prompt}
+  12657: Je pensais qu'elle aurait dû vous retrouver une fois qu'elle se sentirait mieux, mais pour une raison ou une autre, elle a décidé de partir seule.${prompt}
+  12658: Ha ha !
+  12659: Vous avez dû avoir une grosse dispute !${prompt}
   12660: |-
-    Did you have a falling-out?
+    Vous vous êtes disputés ?
     ${selection-lines}
-    Yeah.
-    Nope.
-    What do you mean?${prompt}
-  12661: Then go crawlin' on yer hands and knees and beg fer her forgiveness!${prompt}
-  12662: Bah, it's probably nothin'. Kids her age can be that way.${prompt}
-  12663: '${choice: 0}[You have impure thoughts about her/You''re jealous of her]!${prompt}'
+    Oui.
+    Non.
+    Que voulez-vous dire ?${prompt}
+  12661: Alors va ramper à quatre pattes et supplie-la de te pardonner !${prompt}
+  12662: Bah, ce n'est probablement rien. Les jeunes de son âge peuvent être comme ça.${prompt}
+  12663: '${choice: 0}[Tu as des pensées impures à son sujet/Tu es jaloux d'elle] !${prompt}'
   12664: |-
-    Well, best for me not ta get in the middle.
-    Now that you know where she's been spotted, ya'd best head there too.${prompt}
-  12665: Knowin' Tenzen, he's probably in a tizzy and gone to Misareaux Coast already.${prompt}
-  12666: Truth be told, I can't imagine what it would be like ta die once, let alone over and over...${prompt}
-  12667: Youth is always so brash. Hopefully the three of ya can overcome the trials that are ta come.${prompt}
-  12668: Yar, Iroha's already given me the skinny.${prompt}
-  12669: So yer off ta meet the ancients, hmm?${prompt}
-  12670: 'Then what I''m ''bout ta tell ya is th'' same as before: ya gotta go to the Temple of Uggalepih.${prompt}'
-  12671: Ain't too far, and if ye've been there once then it shouldn't be a problem ta make th' trek again.${prompt}
-  12672: Best place ta get in contact with 'em would be over in the Temple of Uggalepih.${prompt}
-  12673: Ain't but a waddle away.${prompt}
-  12674: Best place to find whatcha seek would be in the Temple of Uggalepih.${prompt}
-  12675: But don't ya be needin' ta lay anchor in Kazham first?${prompt}
-  12676: Sir Gilgamesh, I fear we know little and less about this temple of which you speak.${prompt}
-  12677: It's a bit ta the east, beyond Yuhtunga Jungle, deep in th' innermost recesses of Yhoator Jungle.${prompt}
-  12678: Surely you'll want a few of my best men ta go with ya. Wouldn't do havin' ya get lost.${prompt}
-  12679: That would be a boon.${prompt}
-  12680: Master, let us rendezvous at the temple.${prompt}
-  12681: I relish the opportunity to meet with a Kuluu.${prompt}
-  12682: ${choice-player-gender}[Lord/Lady] ${name-player}, perhaps you have some unfinished business to take care of first. We shall scout on ahead.${prompt}
-  12683: I bid you finish your tasks without delay.${prompt}
-  12684: ${name-player}, why the dour look? Everyone's looking to you for guidance, so keep your chin up!${prompt}
-  12685: Yo, Zeid, ${choice-player-gender}[he/she] isn't th' only one. My head's been swimmin' with worry these past few days.${prompt}
-  12686: It's about Escha, isn't it?${prompt}
-  12687: I had one of my more trustworthy...friends see what he could find.${prompt}
-  12688: Th' mystery grows deeper by th' day. As he spent more days within Escha, he began ta speak in tongues and happen upon knowledge that no one should have.${prompt}
-  12689: It's spooked the lot of us.${prompt}
-  12690: Hmmm?${prompt}
-  12691: And speak of the devil. Atori-Tutori, how fares yer search?${prompt}
-  12692: You asked me to go to Escha - Ru'Aun, and that's exactly what I did.${prompt}
-  12693: Odd place, that one. The pastaru and the future are all garbled.${prompt}
-  12694: I think I get it. It's a place where time doesn't exist.${prompt}
-  12695: What do you mean, “doesn't exist”?${prompt}
-  12696: Our li'l friend Siren was goin' on about it.${prompt}
-  12697: We can only hope that no more o' those vortexes pop up. Hopefully Siren can figure out somethin'.${prompt}
-  12698: Have you sought her out?${prompt}
-  12699: Nay. But she's off ta fight the ambassador, so hopefully she'll give him his comeuppance.${prompt}
-  12700: This kooky samurai guy was ranting on and on about seeing Siren in Misareaux Coast.${prompt}
-  12701: That's more than just a passing oddity-woddity. Two of those biddies?${prompt}
-  12702: Two biddies?${prompt}
-  12703: Oho, perhaps “biddies” is too harsh of a term for one of such feminine wiles.${prompt}
-  12704: That's not quite what I was getting at.${prompt}
-  12705: But if there are two, wouldn't it stand to reason that it's another anomaly caused by the darkness?${prompt}
-  12706: Who knows? It's possible my eyes were playing tricks on me.${prompt}
-  12707: Anythin's possible given what we know of Escha so far.${prompt}
-  12708: And speaking of Escha, we can head there again from that new vortex.${prompt}
+    Eh bien, il vaut mieux que je ne me mêle pas de tout ça.
+    Maintenant que vous savez où elle a été aperçue, il vaudrait mieux y aller aussi.${prompt}
+  12665: Connaissant Tenzen, il est probablement en train de paniquer et d'être déjà allé à la Côte de Misareaux.${prompt}
+  12666: À vrai dire, je n'imagine pas ce que ce serait de mourir une fois, encore moins de mourir plusieurs fois...${prompt}
+  12667: La jeunesse est toujours si impertinente. J'espère que vous pourrez surmonter les épreuves à venir.${prompt}
+  12668: Yar, Iroha m'a déjà donné les infos.${prompt}
+  12669: Alors tu pars rencontrer les anciens, hein ?${prompt}
+  12670: 'Alors ce que je vais te dire est le même qu'auparavant : tu dois aller au Temple d'Uggalepih.${prompt}'
+  12671: Ce n'est pas trop loin, et si tu y es déjà allé une fois, ça ne devrait pas poser de problème de refaire le trajet.${prompt}
+  12672: Le meilleur endroit pour les contacter serait au Temple d'Uggalepih.${prompt}
+  12673: Ce n'est qu'à un petit pas.${prompt}
+  12674: Le meilleur endroit pour trouver ce que tu cherches serait au Temple d'Uggalepih.${prompt}
+  12675: Mais n'as-tu pas besoin de faire une escale à Kazham d'abord ?${prompt}
+  12676: Sir Gilgamesh, j'ai peur que nous en sachions peu sur ce temple dont vous parlez.${prompt}
+  12677: C'est un peu à l'est, au-delà de la Jungle de Yuhtunga, au plus profond des recoins de la Jungle de Yhoator.${prompt}
+  12678: Il est certain que vous voudrez quelques-uns de mes meilleurs hommes pour vous accompagner. Ce serait dommage de vous perdre.${prompt}
+  12679: Ce serait un atout.${prompt}
+  12680: Maître, retrouvons-nous au temple.${prompt}
+  12681: Je me réjouis de l'occasion de rencontrer un Kuluu.${prompt}
+  12682: ${choice-player-gender}[Seigneur/Seigneur] ${name-player}, peut-être avez-vous quelques affaires non terminées à régler d'abord. Nous allons explorer en avant.${prompt}
+  12683: Je vous en prie, terminez vos tâches sans délai.${prompt}
+  12684: ${name-player}, pourquoi ce regard sombre ? Tout le monde attend de vous des conseils, alors gardez le moral !${prompt}
+  12685: Hé, Zeid, ${choice-player-gender}[il/elle] n'est pas le seul. Ma tête tourne de souci ces derniers jours.${prompt}
+  12686: C'est à propos d'Escha, n'est-ce pas ?${prompt}
+  12687: J'ai demandé à l'un de mes amis les plus fiables de voir ce qu'il pouvait trouver.${prompt}
+  12688: Le mystère devient plus profond chaque jour. Plus il passait de temps dans Escha, plus il commençait à parler en langues et à découvrir des connaissances que personne ne devrait avoir.${prompt}
+  12689: Cela nous a tous effrayés.${prompt}
+  12690: Hmmm ?${prompt}
+  12691: Et parlant du loup. Atori-Tutori, comment se passe ta recherche ?${prompt}
+  12692: Vous m'avez demandé d'aller à Escha - Ru'Aun, et c'est exactement ce que j'ai fait.${prompt}
+  12693: Endroit étrange, celui-là. Le passé et le futur sont tout embrouillés.${prompt}
+  12694: Je crois que je comprends. C'est un endroit où le temps n'existe pas.${prompt}
+  12695: Que voulez-vous dire, « n'existe pas » ?${prompt}
+  12696: Notre petite amie Siren en parlait.${prompt}
+  12697: Nous ne pouvons qu'espérer que d'autres vortex ne surgissent pas. Espérons que Siren pourra comprendre quelque chose.${prompt}
+  12698: L'avez-vous cherchée ?${prompt}
+  12699: Non. Mais elle est partie affronter l'ambassadeur, alors espérons qu'elle lui donnera ce qu'il mérite.${prompt}
+  12700: Ce type de samouraï bizarre parlait sans fin de voir Siren dans la Côte de Misareaux.${prompt}
+  12701: Ce n'est pas juste une curiosité passagère. Deux de ces demoiselles ?${prompt}
+  12702: Deux demoiselles ?${prompt}
+  12703: Oho, peut-être que “demoiselles” est un terme un peu trop sévère pour une personne de telles manières féminines.${prompt}
+  12704: Ce n'est pas vraiment ce que je voulais dire.${prompt}
+  12705: Mais s'il y en a deux, ne serait-il pas raisonnable de penser qu'il s'agit d'une autre anomalie causée par les ténèbres ?${prompt}
+  12706: Qui sait ? Il est possible que mes yeux me jouent des tours.${prompt}
+  12707: Tout est possible étant donné ce que nous savons d'Escha jusqu'à présent.${prompt}
+  12708: Et en parlant d'Escha, nous pouvons y retourner depuis ce nouveau vortex.${prompt}
   12709: |-
     Escha - Ru'Aun...
-    I've heard tell that another masked individual has been coming and going from there.${prompt}
-  12710: You know how Tenzen and Iroha are--they hear about something remotely dangerous and run off to fight it faster than a chocobo chasing gysahl greens.${prompt}
-  12711: And knowing you, ${name-player}, you'll be right on their heels. Just promise you'll come back if things get out of hand.${prompt}
-  12712: I gotta agree with the man. Doesn't take a seer ta read the ill omens there.${prompt}
-  12713: Whole damn place is as silent as death itself.${prompt}
-  12714: All the more reason for heroes-weroes like me to save what needs saving!${prompt}
-  12715: Now that he's gone, Gilgamesh...just who is he?${prompt}
-  12716: Just a man with special connections to th' Tenshodo.${prompt}
-  12717: Might be a bit plump 'round the stomach, but ain't an adventurer in the world who hasn't--or isn't gonna--cross paths with him.${prompt}
-  12718: Even ol' Maat in Jeuno respects this guy.${prompt}
-  12719: Is that so?${prompt}
-  12720: And ${name-player}--if ya wanna get a bit stronger yerself, I recommend ya talk with Maat before goin' ta Escha - Ru'Aun.${prompt}
-  12721: If you say we can trust him, then I've no cause to doubt. Let's head for Escha - Ru'Aun.${prompt}
-  12722: I dun know if Prishe 'n Tenzen are out swabbin' the decks, but they sure ain't here.${prompt}
-  12723: The boss can't do a damned thing without th' two of 'em, so ya might wanna come back a bit later.${prompt}
-  12724: Yo, ${name-player}. Guess who made it?${prompt}
-  12725: Hehe! I decided to join in on the party.${prompt}
-  12726: I know you're all chomping at the bit about your doom-and-gloom future, but it's the present that's really lit a fire under my behind.${prompt}
-  12727: And c'mon. I'm not about to let the lot of you hog all the fun.${prompt}
-  12728: There's been so much happening of late that I can't help but wonder if we should be more concerned with the “now” than the “then.”${prompt}
-  12729: So I had been hoping that I could lend my aid to the cause.${prompt}
-  12730: Gilgamesh filled me in on what happened after the whole Iroha in Jeuno thing.${prompt}
-  12731: Gilgamesh was kind enough to give me an explanation on what happened after we left Jeuno.${prompt}
-  12732: Goin' over every last detail woulda killed my voice, but I made sure ta cover the important parts.${prompt}
-  12733: 'And I gotta admit--she ${choice: 1}[and Lion /]did a great job of watchin'' over Iroha.${prompt}'
-  12734: Iroha's a real trooper. You gotta admire her spunk!${prompt}
-  12735: I'm just glad Iroha has recovered nicely.${prompt}
-  12736: Ah, ${choice-player-gender}[Lord/Lady] ${name-player}. Good to see you looking well.${prompt}
-  12737: I trust that you successfully met with Selh'teus?${prompt}
-  12738: Pray forgive me for what happened earlier.${prompt}
-  12739: Let us put that behind us that we may discuss what you learned from him.${prompt}
-  12740: A new crystal to be born in Reisenjima!?${prompt}
-  12741: Finally, a light to pierce the clouds!${prompt}
-  12742: Now this might clear up your whole “Emptiness” bit, eh, Tenzen? Victory all around!${prompt}
-  12743: Sir Selh'teus's story about the crystal...it does not add up.${prompt}
-  12744: If I remember correctly, the crystal does not appear now, but rather several years hence.${prompt}
-  12745: So if history is to play out that way, then why...${prompt}
-  12746: '...Why would it be changed now? Its coming is supposed to be long after the Emptiness has been pushed back.${prompt}'
-  12747: I fear for how the future might change.${prompt}
-  12748: But if this is to be the method for saving the Far East, then we have a responsibility to see it out!${prompt}
-  12749: Do you mean for us to abandon hope!?${prompt}
-  12750: This geezer's got the right of it. If the Emptiness has got a chokehold on the future, then we've gotta do everything we can to chop its arms off!${prompt}
-  12751: So the crystal appears a few years earlier. What's the big deal?${prompt}
-  12752: It simply has me concerned.${prompt}
-  12753: Even though the crystal is there in my time, the all-encroaching darkness still claims victory.${prompt}
-  12754: The crystal alone is not enough to save us.${prompt}
-  12755: Then we need to come up with a solution that strikes at the root of the problem.${prompt}
-  12756: Well, old buddy, looks like your journey isn't quite done.${prompt}
-  12757: Well, Tenzen, you'll still be needing to pack a wallop, won't you?${prompt}
-  12758: Sure, you might've stopped the Emptiness, but there's still a bit more darkness to smack around.${prompt}
-  12759: The time for you to sheathe your blade hasn't arrived yet, Tenzen.${prompt}
-  12760: Though the Emptiness has been stopped, Vana'diel still has need of your service.${prompt}
-  12761: Long had I thought that it would be years before things returned to normal.${prompt}
-  12762: But Selh'teus's crystal is a grand step in a positive direction.${prompt}
-  12763: But, Sir Tenzen, something still vexes me.${prompt}
-  12764: If I remember correctly, the crystal does not appear now, but rather several years hence.${prompt}
-  12765: If the crystal were to manifest now, then the future will be irrevocably altered.${prompt}
-  12766: But is that not exactly what we desire?${prompt}
-  12767: So the crystal appears a few years earlier. What's the big deal?${prompt}
-  12768: Should we not be glad that the problem may be solved before it even starts?${prompt}
-  12769: Perhaps.${prompt}
-  12770: Yet even though the crystal is there in my time, the all-encroaching darkness still claims victory.${prompt}
-  12771: The crystal alone is not enough to save us.${prompt}
-  12772: No matter how much we bash our heads against the problem, we can't find a good solution.${prompt}
-  12773: I'll be damned if we aren't overlooking something... What is causing the Emptiness?${prompt}
-  12774: I don't understand what could be wrong.${prompt}
-  12775: We're clearly overlooking something. Do you think Bahamut might have the answers we seek?${prompt}
-  12776: Lady Prishe, please continue to hunt for clues.${prompt}
-  12777: '''Course I will!${prompt}'
-  12778: Of course.${prompt}
-  12779: '...Master.${prompt}'
-  12780: Please proffer your opinion on Selh'teus's crystal plan.${prompt}
+    J'ai entendu dire qu'un autre individu masqué venait et repartait de là-bas.${prompt}
+  12710: Vous savez comment sont Tenzen et Iroha : dès qu'ils entendent parler de quelque chose de vaguement dangereux, ils foncent pour se battre plus vite qu'un chocobo poursuivant des gysahl greens.${prompt}
+  12711: Et connaissant votre façon de faire, ${name-player}, vous serez juste derrière eux. Promettez simplement de revenir si les choses deviennent incontrôlables.${prompt}
+  12712: Je dois être d'accord avec lui. Il ne faut pas être voyant pour lire les mauvais présages là-bas.${prompt}
+  12713: Tout le maudit endroit est aussi silencieux que la mort elle-même.${prompt}
+  12714: D'autant plus raison pour des héros comme moi de sauver ce qui doit l'être !${prompt}
+  12715: Maintenant qu'il est parti, Gilgamesh... qui est-il vraiment ?${prompt}
+  12716: Juste un homme avec des connexions spéciales avec les Tenshodo.${prompt}
+  12717: Il est peut-être un peu dodu autour du ventre, mais il n'y a pas un aventurier dans le monde qui n'ait pas--ou ne le fera pas--croiser son chemin.${prompt}
+  12718: Même le vieux Maat à Jeuno respecte ce gars.${prompt}
+  12719: Est-ce vraiment le cas ?${prompt}
+  12720: Et ${name-player}--si vous voulez devenir un peu plus fort vous-même, je vous recommande de parler à Maat avant d'aller à Escha - Ru'Aun.${prompt}
+  12721: Si vous dites que nous pouvons lui faire confiance, alors je n'ai aucune raison de douter. Allons à Escha - Ru'Aun.${prompt}
+  12722: Je ne sais pas si Prishe et Tenzen sont en train de nettoyer les ponts, mais ils ne sont sûrement pas ici.${prompt}
+  12723: Le patron ne peut rien faire sans eux, alors il vaudrait mieux revenir un peu plus tard.${prompt}
+  12724: Hé, ${name-player}. Devine qui est arrivé ?${prompt}
+  12725: Hé hé ! J'ai décidé de me joindre à la fête.${prompt}
+  12726: Je sais que vous êtes tous impatients concernant votre futur sombre et désespéré, mais c'est le présent qui a vraiment mis le feu sous mon derrière.${prompt}
+  12727: Et allez. Je ne vais pas vous laisser monopoliser tout le plaisir.${prompt}
+  12728: Il se passe tellement de choses ces derniers temps que je ne peux m'empêcher de me demander si nous ne devrions pas nous préoccuper davantage du “maintenant” que du “plus tard”.${prompt}
+  12729: Alors j'espérais pouvoir apporter mon aide à la cause.${prompt}
+  12730: Gilgamesh m'a informé de ce qui s'est passé après l'histoire d'Iroha à Jeuno.${prompt}
+  12731: Gilgamesh a eu la gentillesse de m'expliquer ce qui s'est passé après notre départ de Jeuno.${prompt}
+  12732: Passer en revue chaque détail aurait tué ma voix, mais j'ai veillé à couvrir les parties importantes.${prompt}
+  12733: 'Et je dois admettre--elle ${choice: 1}[et Lion /]a bien fait son travail en veillant sur Iroha.${prompt}'
+  12734: Iroha est vraiment une battante. Il faut admirer son courage !${prompt}
+  12735: Je suis juste content qu'Iroha se soit bien rétablie.${prompt}
+  12736: Ah, ${choice-player-gender}[Seigneur/Seigneur] ${name-player}. Heureux de vous voir en bonne forme.${prompt}
+  12737: Je suppose que vous avez réussi à rencontrer Selh'teus ?${prompt}
+  12738: Pardonnez-moi pour ce qui s'est passé plus tôt.${prompt}
+  12739: Mettons cela derrière nous pour discuter de ce que vous avez appris de lui.${prompt}
+  12740: Un nouveau cristal va naître à Reisenjima !?${prompt}
+  12741: Enfin, une lumière pour percer les nuages !${prompt}
+  12742: Maintenant cela pourrait éclaircir toute votre histoire de “Vide”, hein, Tenzen ? Victoire tout autour !${prompt}
+  12743: L'histoire de Sir Selh'teus à propos du cristal... ça ne colle pas.${prompt}
+  12744: Si je me souviens bien, le cristal n'apparaît pas maintenant, mais plutôt plusieurs années plus tard.${prompt}
+  12745: Alors si l'histoire doit se dérouler ainsi, pourquoi...${prompt}
+  12746: '...Pourquoi cela serait-il changé maintenant ? Son arrivée est supposée être bien après que le Vide ait été repoussé.${prompt}'
+  12747: J'ai peur de comment l'avenir pourrait changer.${prompt}
+  12748: Mais si c'est la méthode pour sauver l'Extrême-Orient, alors nous avons une responsabilité de la mener à bien !${prompt}
+  12749: Voulez-vous dire que nous devons abandonner tout espoir !?${prompt}
+  12750: Ce vieux a raison. Si le Vide a une emprise sur l'avenir, alors nous devons tout faire pour lui couper les bras !${prompt}
+  12751: Donc le cristal apparaît quelques années plus tôt. Quelle est la grande affaire ?${prompt}
+  12752: Cela me préoccupe simplement.${prompt}
+  12753: Même si le cristal est là à mon époque, les ténèbres omniprésentes l'emportent encore.${prompt}
+  12754: Le cristal seul n'est pas suffisant pour nous sauver.${prompt}
+  12755: Alors nous devons trouver une solution qui attaque la racine du problème.${prompt}
+  12756: Eh bien, vieux compagnon, il semble que ton voyage n'est pas tout à fait terminé.${prompt}
+  12757: Eh bien, Tenzen, tu auras encore besoin de frapper fort, n'est-ce pas ?${prompt}
+  12758: Bien sûr, tu as peut-être arrêté le Vide, mais il reste encore un peu de ténèbres à repousser.${prompt}
+  12759: Le moment de ranger ton épée n'est pas encore arrivé, Tenzen.${prompt}
+  12760: Même si le Vide a été arrêté, Vana'diel a encore besoin de tes services.${prompt}
+  12761: J'avais longtemps pensé qu'il faudrait des années avant que les choses reviennent à la normale.${prompt}
+  12762: Mais le cristal de Selh'teus est un grand pas dans la bonne direction.${prompt}
+  12763: Mais, Sir Tenzen, quelque chose me dérange encore.${prompt}
+  12764: Si je me souviens bien, le cristal n'apparaît pas maintenant, mais plutôt plusieurs années plus tard.${prompt}
+  12765: Si le cristal devait se manifester maintenant, alors l'avenir serait irrévocablement modifié.${prompt}
+  12766: Mais n'est-ce pas exactement ce que nous désirons ?${prompt}
+  12767: Donc le cristal apparaît quelques années plus tôt. Quelle est la grande affaire ?${prompt}
+  12768: Ne devrions-nous pas être contents que le problème puisse être résolu avant même qu'il ne commence ?${prompt}
+  12769: Peut-être.${prompt}
+  12770: Pourtant, même si le cristal est là à mon époque, les ténèbres omniprésentes l'emportent encore.${prompt}
+  12771: Le cristal seul n'est pas suffisant pour nous sauver.${prompt}
+  12772: Peu importe combien nous nous cognerons la tête contre le problème, nous ne trouvons pas de bonne solution.${prompt}
+  12773: Je serais damné si nous ne passons pas à côté de quelque chose... Qu'est-ce qui cause le Vide ?${prompt}
+  12774: Je ne comprends pas ce qui pourrait être faux.${prompt}
+  12775: Nous passons clairement à côté de quelque chose. Pensez-vous que Bahamut pourrait avoir les réponses que nous cherchons ?${prompt}
+  12776: Dame Prishe, veuillez continuer à chercher des indices.${prompt}
+  12777: '''Bien sûr !${prompt}'
+  12778: Bien sûr.${prompt}
+  12779: '...Maître.${prompt}'
+  12780: Veuillez donner votre avis sur le plan du cristal de Selh'teus.${prompt}
   12781: |-
-    What do you think?
+    Que pensez-vous ?
     ${selection-lines}
-    I think earlier is fine.
-    We should be careful.
-    I'll do anything to meet Altana.${prompt}
-  12782: If it means solvin' the problems in the Far East, then I'm all fer it.${prompt}
-  12783: And it's good for business, too.${prompt}
-  12784: So let's summarize, hmm?${prompt}
-  12785: Iroha is opposed ta Selh'teus's plan, hmm?${prompt}
-  12786: You and Iroha are opposed to Selh'teus's plan, hmm?${prompt}
-  12787: “Opposed” may be too strong a word. I would simply implore us to proceed with utmost caution.${prompt}
-  12788: I believe we can trust Siren when she says that the crystal in the Far East was intimately connected with this problem.${prompt}
-  12789: We must banish the Emptiness surrounding Reisenjima to have any hope of meeting Altana...${prompt}
-  12790: 'That must be the reason why Siren gave us the ${keyitem-singular: 1[2]}.${prompt}'
-  12791: And the orb I entrusted to Master remains pivotal.${prompt}
-  12792: It is a priceless artifact of Reisenjima Sanctorium that ties the bearer with the mothercrystal.${prompt}
-  12793: None are lost when they follow its guidance.${prompt}
-  12794: We should not brashly rush into an uncertain decision, but instead wait for a sign.${prompt}
-  12795: Well, ${name-player}, if you agree, then we've gotta take a different approach.${prompt}
-  12796: Namely, finding out more about that beastie what's stealin' the crystals' power.${prompt}
-  12797: And if Selh'teus wants you to find someone with “an absolute dominion over magic”... ${prompt}
-  12798: Then there's only one person I can think of.${prompt}
-  12799: That old witch, Shantotto!${prompt}
-  12800: Of course, old la...er, Shantotto!${prompt}
-  12801: I'm loath to say this, but perhaps he meant Doctor Shantotto.${prompt}
-  12802: I'm...not sure if bringin' Iroha along's the best idea.${prompt}
-  12803: Why would that be?${prompt}
-  12804: If she found out you were from the future, she'd poke, prod, and quite possibly vivisect you.${prompt}
-  12805: '${choice-player-gender}[Lord/Lady] ${name-player}, we have our next destination: Windurst Walls.${prompt}'
-  12806: Bring me a present!${prompt}
-  12807: Best of luck!${prompt}
-  12808: Could it be that the one trying to steal the crystals' energy is not the ambassador, but...?${prompt}
-  12809: Master!${prompt}
-  12810: The butterflies in my stomach have calmed down knowing that you are all right.${prompt}
-  12811: What a horrifying tale...${prompt}
-  12812: So this Balamor was tryin' ta create a world for him, and him alone.${prompt}
-  12813: And he was usin' th' ambassador to do just that?${prompt}
-  12814: I can't decide if he's a master or a moron.${prompt}
-  12815: I can recall that Master told me stories of how ${choice-player-gender}[he/she] came across Balamor in ${choice-player-gender}[his/her] adventures throughout Eastern Ulbuka.${prompt}
-  12816: I have heard tales of such a specter in Eastern Ulbuka.${prompt}
-  12817: This may yet be another aspect of history I have changed by coming here.${prompt}
-  12818: And now th' important question. ${name-player}, what of th' ambassador?${prompt}
+    Je pense que plus tôt est mieux.
+    Nous devrions être prudents.
+    Je ferai tout pour rencontrer Altana.${prompt}
+  12782: Si cela signifie résoudre les problèmes en Extrême-Orient, alors je suis tout à fait pour.${prompt}
+  12783: Et c'est aussi bon pour les affaires.${prompt}
+  12784: Alors récapitulons, hmm ?${prompt}
+  12785: Iroha est-elle opposée au plan de Selh'teus, hmm ?${prompt}
+  12786: Vous et Iroha êtes opposés au plan de Selh'teus, hmm ?${prompt}
+  12787: “Opposé” est peut-être un mot trop fort. Je demanderais simplement que nous procédions avec la plus grande prudence.${prompt}
+  12788: Je crois que nous pouvons faire confiance à Siren quand elle dit que le cristal en Extrême-Orient est intimement lié à ce problème.${prompt}
+  12789: Nous devons bannir le Vide autour de Reisenjima pour avoir une chance de rencontrer Altana...${prompt}
+  12790: 'Cela doit être la raison pour laquelle Siren nous a donné le ${keyitem-singular: 1[2]}.${prompt}'
+  12791: Et l'orbe que j'ai confiée au Maître reste cruciale.${prompt}
+  12792: C'est un artefact inestimable du Sanctorium de Reisenjima qui lie le porteur avec le cristal-mère.${prompt}
+  12793: Personne ne se perd lorsqu'il suit ses directives.${prompt}
+  12794: Nous ne devrions pas nous précipiter dans une décision incertaine, mais plutôt attendre un signe.${prompt}
+  12795: Eh bien, ${name-player}, si vous êtes d'accord, alors nous devons adopter une autre approche.${prompt}
+  12796: À savoir, en savoir plus sur cette bête qui vole l'énergie des cristaux.${prompt}
+  12797: Et si Selh'teus veut que vous trouviez quelqu'un avec “un pouvoir absolu sur la magie”...${prompt}
+  12798: Alors il n'y a qu'une personne à laquelle je pense.${prompt}
+  12799: Cette vieille sorcière, Shantotto !${prompt}
+  12800: Bien sûr, la vieille... enfin, Shantotto !${prompt}
+  12801: Je suis réticent à le dire, mais peut-être parlait-il de Docteur Shantotto.${prompt}
+  12802: Je... ne suis pas sûr que amener Iroha soit la meilleure idée.${prompt}
+  12803: Pourquoi cela ?${prompt}
+  12804: Si elle découvrait que vous venez du futur, elle vous examinerait, vous disséquerait et pourrait même vous vivisecter.${prompt}
+  12805: '${choice-player-gender}[Seigneur/Seigneur] ${name-player}, nous avons notre prochaine destination : les Murs de Windurst.${prompt}'
+  12806: Apportez-moi un cadeau !${prompt}
+  12807: Bonne chance !${prompt}
+  12808: Pourrait-il être que celui qui essaie de voler l'énergie des cristaux ne soit pas l'ambassadeur, mais...?${prompt}
+  12809: Maître !${prompt}
+  12810: Les papillons dans mon ventre se sont calmés en sachant que vous allez bien.${prompt}
+  12811: Quelle histoire horrifiante...${prompt}
+  12812: Alors ce Balamor essayait de créer un monde pour lui, et lui seul.${prompt}
+  12813: Et il utilisait l'ambassadeur pour y parvenir ?${prompt}
+  12814: Je ne sais pas s'il est un maître ou un imbécile.${prompt}
+  12815: Je me souviens que le Maître m'a raconté des histoires sur la façon dont ${choice-player-gender}[il/elle] a rencontré Balamor dans ${choice-player-gender}[ses/ses] aventures à travers l'Ulbuka oriental.${prompt}
+  12816: J'ai entendu des contes de ce genre de spectre en Ulbuka oriental.${prompt}
+  12817: Cela pourrait encore être un autre aspect de l'histoire que j'ai changé en venant ici.${prompt}
+  12818: Et maintenant la question importante. ${name-player}, que faire de l'ambassadeur ?${prompt}
   12819: |-
-    What happened to the ambassador?
+    Que s'est-il passé avec l'ambassadeur ?
     ${selection-lines}
-    I don't know.
-    He may still be enchained.
-    He might have gotten away.${prompt}
-  12820: The question is whether he still resides in the vortex, or if he managed to escape...${prompt}
-  12821: Not knowing where he is poses quite the obstacle in proceeding.${prompt}
-  12822: Well, I'd say this--if that Balamor guy's vortex disappeared, then I'd bet gil ta grapes that th' ties binding him vanished, too.${prompt}
-  12823: On th' “bright” side, this may have bought us more time ta light up that orb of yers.${prompt}
-  12824: Well, I'd say this--if that Balamor guy's vortex disappeared, then I'd bet gil ta grapes that th' ties binding him vanished, too.${prompt}
-  12825: On th' “bright” side, this may have bought us more time ta light up that orb of yers.${prompt}
-  12826: Should that be the case, he may make another attempt on your life, Master.${prompt}
-  12827: I just hope we can get that orb filled with light in time!${prompt}
-  12828: In any event, there's no need for the two of ya ta be brash. If Selh'teus called you to Al'Taieu, then that's where ya should probably be going.${prompt}
-  12829: I concur.${prompt}
-  12830: Master, let us head for the mothercrystal.${prompt}
-  12831: I shall meet you there.${prompt}
+    Je ne sais pas.
+    Il est peut-être encore enchaîné.
+    Il pourrait s'être échappé.${prompt}
+  12820: La question est de savoir s'il réside toujours dans le vortex, ou s'il a réussi à s'échapper...${prompt}
+  12821: Ne pas savoir où il se trouve constitue un véritable obstacle pour avancer.${prompt}
+  12822: Eh bien, je dirais ceci : si le vortex de ce Balamor a disparu, je parie des gil aux raisins que les liens qui le retenaient se sont également évaporés.${prompt}
+  12823: D'un côté “positif”, cela nous a peut-être donné plus de temps pour illuminer cet orbe.${prompt}
+  12824: Eh bien, je dirais ceci : si le vortex de ce Balamor a disparu, je parie des gil aux raisins que les liens qui le retenaient se sont également évaporés.${prompt}
+  12825: D'un côté “positif”, cela nous a peut-être donné plus de temps pour illuminer cet orbe.${prompt}
+  12826: Si tel est le cas, il pourrait tenter une nouvelle attaque contre vous, Maître.${prompt}
+  12827: J'espère juste que nous pourrons illuminer cet orbe à temps !${prompt}
+  12828: De toute façon, il n'est pas nécessaire que vous soyez imprudents. Si Selh'teus vous a appelé à Al'Taieu, c'est là que vous devriez probablement vous rendre.${prompt}
+  12829: Je suis d'accord.${prompt}
+  12830: Maître, allons vers le cristal-mère.${prompt}
+  12831: Je vous y retrouverai.${prompt}
   12832: |-
-    ${name-player}!?
-    ${name-player}!${prompt}
-  12833: I knew it'd take more than that to keep my old pal down!${prompt}
-  12834: Oh, I'm so glad you made it back safely!${prompt}
-  12835: Figured it'd take more'n that ta keep ya down!${prompt}
-  12836: Ya do remember what happened, right?${prompt}
-  12837: O'er in Al'Taieu you crossed swords with th' ambassador, and he left ya nothin' but a corpse!${prompt}
-  12838: '...Or so I heard. Not like I was actually there ta see th'' whole thing.${prompt}'
-  12839: Iroha told us everything.${prompt}
-  12840: She attempted to call upon Phoenix's power so that you'd return to us.${prompt}
-  12841: But you started to vanish--your body disappearing into the void.${prompt}
-  12842: <Sigh> Iroha said her heart skipped a few thousand beats, and it was all we could do to calm her down.${prompt}
-  12843: Vana'diel is a strange place. Iroha came ta me in my dreams and told me what happened.${prompt}
-  12844: She tried ta call upon Phoenix's power so that ya'd return to us.${prompt}
-  12845: She said yer body started to disappear inta th' void.${prompt}
-  12846: At first I thought it was a bunch of malarkey, but holy mackerel if ya ain't standin' here before us right now.${prompt}
-  12847: I...I don't know whether to laugh or cry.${prompt}
-  12848: I don't know whether to laugh or cry!${prompt}
-  12849: I understand th' feelin'.${prompt}
+    ${name-player} !?
+    ${name-player} !${prompt}
+  12833: Je savais qu'il en faudrait plus pour abattre mon vieux pote !${prompt}
+  12834: Oh, je suis si content que vous soyez revenu sain et sauf !${prompt}
+  12835: Je pensais que ça prendrait plus que ça pour vous abattre !${prompt}
+  12836: Vous vous souvenez de ce qui s'est passé, n'est-ce pas ?${prompt}
+  12837: Là-bas à Al'Taieu, vous avez affronté l'ambassadeur, et il vous a laissé pour mort !${prompt}
+  12838: '...Ou du moins c'est ce que j'ai entendu. Pas comme si j'étais réellement là pour voir tout cela.${prompt}'
+  12839: Iroha nous a tout raconté.${prompt}
+  12840: Elle a tenté d'appeler le pouvoir de Phoenix pour que vous reveniez parmi nous.${prompt}
+  12841: Mais vous avez commencé à disparaître—votre corps disparaissant dans le vide.${prompt}
+  12842: <Soupir> Iroha a dit que son cœur a sauté quelques milliers de battements, et nous avons tout fait pour la calmer.${prompt}
+  12843: Vana'diel est un endroit étrange. Iroha est venue me voir en rêve et m'a raconté ce qui s'était passé.${prompt}
+  12844: Elle a tenté d'appeler le pouvoir de Phoenix pour que vous reveniez parmi nous.${prompt}
+  12845: Elle a dit que votre corps a commencé à disparaître dans le vide.${prompt}
+  12846: Au début, je pensais que c'était un tas de balivernes, mais par tous les saints si vous n'êtes pas là devant nous maintenant.${prompt}
+  12847: Je... je ne sais pas si je dois rire ou pleurer.${prompt}
+  12848: Je ne sais pas si je dois rire ou pleurer !${prompt}
+  12849: Je comprends ce sentiment.${prompt}
   12850: |-
-    But I says ta myself, “Gilgamesh, ain't no way ${choice-player-gender}[he/she] gonna kick th' bucket like that!”
-    So I went out and searched fer ya.${prompt}
+    Mais je me disais, “Gilgamesh, il n'est pas question que ${choice-player-gender}[il/elle] meure comme ça !”
+    Alors je suis parti à votre recherche.${prompt}
   12851: 'C'est pourquoi je t'ai envoyé cette lettre, ${choice: 3}[Aphmau/Nashmeira].${prompt}'
   12852: Je ne pouvais imaginer un choc plus grand... alors j'ai tiré quelques ficelles pour arriver ici.${prompt}
   12853: Et je suis tellement heureux de pouvoir te revoir !${prompt}
