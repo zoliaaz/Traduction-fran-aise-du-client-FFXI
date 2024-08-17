@@ -64,32 +64,32 @@ entries:
     Impossible de réclamer l'utilisation.
     Le fourneau de synergie est actuellement utilisé par ${player: 5}.
   35: |-
-    Vous avez perdu votre droit d'utiliser le fourneau de synergie.
-    Le membre du groupe détenant le droit a quitté le groupe ou la zone.${prompt}
-  36: Vous avez retrouvé votre droit d'utiliser le fourneau de synergie.${prompt}
+    Vous avez perdu votre éligibilité pour utiliser le fourneau de synergie. 
+    Le membre du groupe ayant la réclamation a quitté le groupe ou la zone.${prompt}
+  36: Vous avez retrouvé votre éligibilité pour utiliser le fourneau de synergie.${prompt}
   37: |-
-    Impossible de continuer.
+    Impossible de continuer. 
     La possession de ${keyitem-article: 0[2]} est requise pour commencer la synergie.${prompt}
   38: |-
-    Impossible de continuer.
-    ${lettercase: 1}${item-plural: 0[2]} ne sont pas adaptés comme ingrédients de synergie.${prompt}
+    Impossible de continuer. 
+    ${lettercase: 1}${item-plural: 0[2]} ne conviennent pas comme ingrédients de synergie.${prompt}
   39: Une recette de synergie n'existe pas pour cette combinaison de matériaux.${prompt}
-  40: Cette recette est impossible à réaliser à votre niveau de compétence en synergie.${prompt}
-  41: 'Cette recette est impossible à réaliser à votre niveau de compétence en ${choice: 0}[pêche/menuiserie/forge/orfèvrerie/tissage/travail du cuir/sculpture sur os/alchimie/cuisine].${prompt}'
+  40: Cette recette est impossible à votre niveau de compétence en synergie.${prompt}
+  41: 'Cette recette est impossible à votre niveau de compétence en ${choice: 0}[pêche/travail du bois/forgeron/joaillerie/tissage/travail du cuir/ossature/alchimie/cuisine] ${prompt}'
   42: |-
     Élément et valeur cible :
-    ${choice: 0}[${icon: feu}/${icon: glace}/${icon: vent}/${icon: terre}/${icon: foudre}/${icon: eau}/${icon: lumière}/${icon: ténèbres}]${number: 1}
+    ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 1}
   43: |-
     Éléments et valeurs cibles :
-    ${choice: 0}[${icon: feu}/${icon: glace}/${icon: vent}/${icon: terre}/${icon: foudre}/${icon: eau}/${icon: lumière}/${icon: ténèbres}]${number: 1}
-    ${choice: 2}[${icon: feu}/${icon: glace}/${icon: vent}/${icon: terre}/${icon: foudre}/${icon: eau}/${icon: lumière}/${icon: ténèbres}]${number: 3}
+    ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 1}
+    ${choice: 2}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 3}
   44: |-
     Éléments et valeurs cibles :
-    ${choice: 0}[${icon: feu}/${icon: glace}/${icon: vent}/${icon: terre}/${icon: foudre}/${icon: eau}/${icon: lumière}/${icon: ténèbres}]${number: 1}
-    ${choice: 2}[${icon: feu}/${icon: glace}/${icon: vent}/${icon: terre}/${icon: foudre}/${icon: eau}/${icon: lumière}/${icon: ténèbres}]${number: 3}
+    ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 1}
+    ${choice: 2}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 3}
   45: |-
-    ${choice: 0}[${icon: feu}/${icon: glace}/${icon: vent}/${icon: terre}/${icon: foudre}/${icon: eau}/${icon: lumière}/${icon: ténèbres}]${number: 1}
-    ${choice: 2}[${icon: feu}/${icon: glace}/${icon: vent}/${icon: terre}/${icon: foudre}/${icon: eau}/${icon: lumière}/${icon: ténèbres}]${number: 3}
+    ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 1}
+    ${choice: 2}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}]${number: 3}
   46: |-
     Rang de synergie : ${choice: 29}[Amateur/ Recrue/ Initié/ Novice/ Apprenti/ Compagnon/ Artisan/ Expert/ Adept/ Vétéran/ Maître/ Autorité/ Luminaire/ Grand Maître/ Légende]
     Objectif : ${number: 1} ${item-given-plurality: 1[2], 0[2]}
@@ -205,46 +205,46 @@ entries:
   83: |-
     Sélectionnez une action.
     ${selection-lines}
-    Nv.${number: 0} : Alimenter en pierres.
-    Utiliser le four.
-    Voir les relevés du four.
+    Nv.${number: 0} : Nourrir le fewell.
+    Faire fonctionner le four.
+    Consulter les relevés du four.
     Terminer la synergie.
-    Réviser l'objectif.
-    Basculer la confirmation des commandes ${choice: 1}[désactivée/activée].
+    Revoir l'objectif.
+    Activer/désactiver la confirmation des commandes ${choice: 1}[off/on].
     Fermer le menu.${prompt}
   84: |-
-    Examinez le four de synergie pour accéder au menu de fonctionnement.
-    Les pierres peuvent être alimentées en les échangeant directement avec le four.${prompt}
+    Examinez le four de synergie pour accéder au menu d'exploitation.
+    Le fewell peut être nourri en le transférant directement dans le four.${prompt}
   85: |-
     Sélectionnez une action/compétence.
     ${selection-lines}
-    Nv.${number: 0} : Frapper le fourneau.
-    Nv.${number: 1} : Manipuler la poignée de pression.
-    Nv.${number: 2} : Manipuler le levier de sécurité.
-    Nv.${number: 3} : Réparer le fourneau.
-    Nv.${number: 4} : Recycler les pierres éparses.
-    Pêche : Intelligence lunaire.
-    Pêche : Coup de précision.
-    Menuiserie : Intelligence cyclique.
-    Menuiserie : Affinité avec la terre.
-    Forge : Intelligence comburante.
-    Forge : Affinité avec le feu.
-    Orfèvrerie : Le toucher du graveur.
-    Orfèvrerie : Affinité avec le vent.
-    Couture : Le toucher du restaurateur.
-    Couture : Affinité avec la foudre.
-    Maroquinerie : Intelligence de la pressurisation.
-    Maroquinerie : Affinité avec la glace.
-    Travail des os : Intelligence de la carbonisation.
-    Travail des os : Affinité sombre.
-    Alchimie : Intelligence alchimique.
-    Alchimie : Affinité à la lumière.
-    Cuisine : Chauffer intelligemment.
-    Cuisine : Affinité avec l'eau.
+    Nv.${number: 0} : Frapper le four.
+    Nv.${number: 1} : Opérer le levier de pression.
+    Nv.${number: 2} : Opérer le levier de sécurité.
+    Nv.${number: 3} : Réparer le four.
+    Nv.${number: 4} : Recycler le fewell éparpillé.
+    Pêche : Compétences Lunaires.
+    Pêche : Frappe Précise.
+    Travail du bois : Compétences Cycliques.
+    Travail du bois : Affinité Terrestre.
+    Forge : Compétences Combustives.
+    Forge : Affinité Feu.
+    Orfèvrerie : Toucher de Graveur.
+    Orfèvrerie : Affinité Vent.
+    Tissage : Toucher de Restauration.
+    Tissage : Affinité Éclair.
+    Travail du cuir : Compétences de Pressurisation.
+    Travail du cuir : Affinité Glace.
+    Travail des os : Compétences de Carbonisation.
+    Travail des os : Affinité Ténèbres.
+    Alchimie : Compétences Alchimiques.
+    Alchimie : Affinité Lumière.
+    Cuisine : Compétences de Chauffage.
+    Cuisine : Affinité Eau.
     DEBUG : Perfection forcée.
-    DEBUG : Définir le niveau (nécessite${article}${item-article: 39[2]})
-    DEBUG : Définir la pression/les impuretés.
-    DEBUG : Quelque chose de bien.
+    DEBUG : Définir le niveau (Nécessite ${article} ${item-article: 39[2]}).
+    DEBUG : Définir pression/impuretés.
+    DEBUG : Quelque chose de bon.
     Annuler.${prompt}
   86: |-
     Nourrir quel fewell ? (stock actuel)
@@ -259,26 +259,26 @@ entries:
     ${icon: dark} fewell (${number: 7}).
     Annuler.${prompt}
   87: |-
-    Vous nourrissez le four avec ${number: 1} ${choice-plurality: 1}[portion/portions] de ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] peu.
-    L'énergie élémentaire ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] grimpe à ${number: 2}.
+    Vous nourrissez le four avec ${number: 1} ${choice-plurality: 1}[portion/portions] de fewell ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}].
+    La puissance élémentaire ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] grimpe à ${number: 2}.
   88: |-
-    Une poussée élémentaire se produit !
-    Les ${number: 1} ${choice-plurality: 1}[portion/portions] de ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] peu nourris ${choice-plurality: 1}[causent/causent] l'énergie élémentaire ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] à monter à ${number: 2} !
-  89: 'Vous avez dépensé ${number: 1} ${choice-plurality: 1}[portion/portions] de ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] peu (${number: 2} ${choice-plurality: 2}[portion/portions] restantes).'
+    Une vague élémentaire se produit !
+    Les ${number: 1} ${choice-plurality: 1}[portion/portions] de fewell ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] nourris ${choice-plurality: 1}[causent/causent] une augmentation de la puissance élémentaire ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] à ${number: 2} !
+  89: 'Vous avez dépensé ${number: 1} ${choice-plurality: 1}[portion/portions] de fewell ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] (${number: 2} ${choice-plurality: 2}[portion/portions] restantes).'
   90: Votre four a perdu un peu de durabilité.
-  91: Il n'y a eu aucun impact sur les réserves de peu ou sur la durabilité du four.
+  91: Il n'y a eu aucun impact sur les réserves de fewell ou la durabilité du four.
   92: |-
     Appliquez un coup mesuré au four pour éviter une explosion.
     Coût : Réduction de la durabilité du four.
   93: |-
-    Actionnez le levier de pression pour abaisser la pression interne et réduire la probabilité d'explosion.
-    Coût : ${number: 1} ${choice-plurality: 1}[portion/portions] de ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] peu (${number: 2} ${choice-plurality: 2}[portion/portions] restantes).
+    Faites fonctionner le levier de pression pour abaisser la pression interne et réduire la probabilité d'une explosion.
+    Coût : ${number: 1} ${choice-plurality: 1}[portion/portions] de fewell ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] (${number: 2} ${choice-plurality: 2}[portion/portions] restantes).
   94: |-
-    Actionnez le levier de sécurité pour purger les impuretés de l'intérieur du four et réduire le risque d'explosion.
-    Coût : ${number: 1} ${choice-plurality: 1}[portion/portions] de ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] peu (${number: 2} ${choice-plurality: 2}[portion/portions] restantes).
+    Faites fonctionner le levier de sécurité pour purger les impuretés à l'intérieur du four et réduire la probabilité d'une explosion.
+    Coût : ${number: 1} ${choice-plurality: 1}[portion/portions] de fewell ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] (${number: 2} ${choice-plurality: 2}[portion/portions] restantes).
   95: |-
     Restaurez la durabilité du four.
-    Coût : ${number: 1} ${choice-plurality: 1}[portion/portions] de ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] peu (${number: 2} ${choice-plurality: 2}[portion/portions] restantes).
+    Coût : ${number: 1} ${choice-plurality: 1}[portion/portions] de fewell ${choice: 0}[${icon: fire}/${icon: ice}/${icon: wind}/${icon: earth}/${icon: lightning}/${icon: water}/${icon: light}/${icon: dark}] (${number: 2} ${choice-plurality: 2}[portion/portions] restantes).
   96: |-
     Rassemblez et nourrissez les fragments de fewell éparpillés par l'explosion au four. Augmente la quantité de cendre obtenue en tant que sous-produit.
     Coût : Rien.
@@ -17937,7 +17937,8 @@ entries:
     Soumettre une candidature.
     Annuler une candidature.
     Voir les réglages.${prompt}
-  7346: L'entrée par objet est réservée aux matchs privés.
+  7346: |-
+    L'entrée par objet est réservée aux matchs privés.
     Pour préserver l'impartialité des arbitres, aucun objet de quelque type que ce soit n'est accepté.${prompt}
   7347: Veuillez noter que si vous annulez une candidature pendant un match officiel, vous ne pourrez pas soumettre à nouveau votre candidature.${prompt}
   7348: La période d'inscription a commencé.${prompt}
