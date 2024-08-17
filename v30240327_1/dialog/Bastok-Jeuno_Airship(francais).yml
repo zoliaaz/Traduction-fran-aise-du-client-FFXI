@@ -15938,1646 +15938,1562 @@ entries:
   6391: 'Obtenu ${number: 0} gil.${prompt}'
   6392: 'Obtenu ${number: 0} gil.'
   6393: 'Objet clé obtenu : ${lettercase: 1}${keyitem-singular: 0[2]}.${prompt}'
-6394: 'Objet clé perdu : ${lettercase: 1}${keyitem-singular: 0[2]}.${prompt}'
-6395: Vous n'avez pas assez de gil.${prompt}
-6396: 'Vous obtenez ${item-count: 1[2]} ${item-given-plurality: 1[2], 0[2]} !${prompt}'
-6397: Vous n'avez pas assez de gil.
-6398: |-
+  6394: 'Objet clé perdu : ${lettercase: 1}${keyitem-singular: 0[2]}.${prompt}'
+  6395: Vous n'avez pas assez de gil.${prompt}
+  6396: 'Vous obtenez ${item-count: 1[2]} ${item-given-plurality: 1[2], 0[2]} !${prompt}'
+  6397: Vous n'avez pas assez de gil.
+  6398: |-
     Un membre du groupe a appelé un PNJ.
     Vous ne pouvez pas participer à cet événement.${prompt}
-6399: 'Vous obtenez ${number: 1} ${item-given-plurality: 1[2], 0[2]} !${prompt}'
-6400: Vous trouvez l'empreinte de sabot d'un gigantesque destrier de guerre...${prompt}
-6401: 'Vous placez le ${keyitem-singular: 0[2]} dans l'empreinte de sabot du destrier.${prompt}'
-6402: 'Le ${item-singular: 0[2]} vous est retourné.${prompt}'
-6403: 'Les ${number: 1} ${item-plural: 0[2]} vous sont retournés.${prompt}'
-6404: Il n'y a rien d'inhabituel ici.${prompt}
-6405: Vous êtes soudainement envahi par un sentiment de pressentiment...${prompt}
-6406: Ce n'est pas le moment pour cela !${prompt}
-6407: Il semble que vous devrez attendre un peu plus longtemps...${prompt}
-6408: Une aura de puissance irrésistible menace de vous submerger...${prompt}
-6409: Vous ne ressentez plus la présence du monstre...${prompt}
-6410: |-
+  6399: 'Vous obtenez ${number: 1} ${item-given-plurality: 1[2], 0[2]} !${prompt}'
+  6400: Vous trouvez l'empreinte de sabot d'un gigantesque destrier de guerre...${prompt}
+  6401: 'Vous placez le ${keyitem-singular: 0[2]} dans l'empreinte de sabot du destrier.${prompt}'
+  6402: 'Le ${item-singular: 0[2]} vous est retourné.${prompt}'
+  6403: 'Les ${number: 1} ${item-plural: 0[2]} vous sont retournés.${prompt}'
+  6404: Il n'y a rien d'inhabituel ici.${prompt}
+  6405: Vous êtes soudainement envahi par un sentiment de pressentiment...${prompt}
+  6406: Ce n'est pas le moment pour cela !${prompt}
+  6407: Il semble que vous devrez attendre un peu plus longtemps...${prompt}
+  6408: Une aura de puissance irrésistible menace de vous submerger...${prompt}
+  6409: Vous ne ressentez plus la présence du monstre...${prompt}
+  6410: |-
     Aventurier !
     Régalez vos yeux de la puissance d'un champion orc !${prompt}
-6411: |-
+  6411: |-
     Aventurier !
     Entendez le cri d'un véritable guerrier orc !${prompt}
-6412: Soyez témoin de l'efficacité d'une tactique Quadav commune !${prompt}
-6413: |-
+  6412: Soyez témoin de l'efficacité d'une tactique Quadav commune !${prompt}
+  6413: |-
     Da'Vhu Deadeye obéit à votre commandement.
     Réjouissez-vous de l'esprit de combat des Quadav !${prompt}
-6414: |-
+  6414: |-
     Kwakwah !
     N'oublie jamais la miséricorde de la Manifestation, hérétique !
     Un jour, ces griffes s'enfonceront dans ta poitrine !${prompt}
-6415: |-
+  6415: |-
     Réfléchis bien aux paroles de la Manifestation, hérétique !
     Maintenant, écoute la voix puissante d'un Inspirateur Divin !${prompt}
   6416: |-
-    Advennteurerueraroo!
-    Sooosomeone 'n needs ofa amput...anmpyu...amputit...amptitationn?${prompt}
+    Aventurier !
+    Quelqu'un a besoin d'une amputation... d'amput... amputation ?${prompt}
   6417: |-
-    You lika gammmble?
-    Lessee if dice likes youse today. <Hic!>${prompt}
+    Tu aimes les jeux de hasard ?
+    Voyons si les dés t'aiment aujourd'hui. <Hic !>${prompt}
   6418: |-
-    ${choice: 0}[/I'm ready./Alright!/Okay.../Attention!/Okay, kiddo./Okay!/I'm ready./Okay!/Attention!]
-    ${choice: 0}[/I suppose./Here we go!/Ready when you are./Weapon skill ready!/I'm ready./Bring it on!/We can start any time./Ready when you are!/Weapon skill ready!]${prompt}
+    ${choice: 0}[/Je suis prêt./D'accord !/Ça va.../Attention !/D'accord, mon grand./D'accord !/Je suis prêt./D'accord !/Attention !]
+    ${choice: 0}[/Je suppose./C'est parti !/Prêt quand tu l'es./Compétence d'arme prête !/Je suis prêt./Vas-y !/On peut commencer quand tu veux./Prêt quand tu l'es !/Compétence d'arme prête !]${prompt}
   6419: |-
-    I'm ready.
-    I suppose.${prompt}
+    Je suis prêt.
+    Je suppose.${prompt}
   6420: |-
-    Alright!
-    Here we go!${prompt}
+    D'accord !
+    C'est parti !${prompt}
   6421: |-
-    Okay...
-    Ready when you are.${prompt}
+    Ça va...
+    Prêt quand tu l'es.${prompt}
   6422: |-
-    Attention!
-    Weapon skill ready!${prompt}
+    Attention !
+    Compétence d'arme prête !${prompt}
   6423: |-
-    I'm ready.
-    Just say when!${prompt}
+    Je suis prêt.
+    Il suffit de dire quand !${prompt}
   6424: |-
-    Good to go!
-    This is gonna be fun!${prompt}
+    Prêt à partir !
+    Ça va être amusant !${prompt}
   6425: |-
-    My preparations are complete.
-    Ready at your command.${prompt}
+    Mes préparatifs sont complets.
+    Prêt à ton commandement.${prompt}
   6426: |-
-    Okay, kiddo.
-    I'm ready.${prompt}
+    D'accord, mon grand.
+    Je suis prêt.${prompt}
   6427: |-
-    Okay!
-    Bring it on!${prompt}
+    D'accord !
+    Vas-y !${prompt}
   6428: |-
-    I'm ready.
-    We can start any time.${prompt}
+    Je suis prêt.
+    On peut commencer quand tu veux.${prompt}
   6429: |-
-    Okay!
-    Ready when you are!${prompt}
+    D'accord !
+    Prêt quand tu l'es !${prompt}
   6430: |-
-    Attention!
-    Weapon skill ready!${prompt}
+    Attention !
+    Compétence d'arme prête !${prompt}
   6431: |-
-    What is taking so long?
-    Aren't you ready yet?${prompt}
-  6432: I'm warmed up and rrready to go!${prompt}
+    Qu'est-ce qui prend autant de temps ?
+    Tu n'es pas encore prêt ?${prompt}
+  6432: Je suis échauffé et prêt à partir !${prompt}
   6433: |-
-    ${choice: 0}[/Ugh.../Dammit!/Ugh.../I'm too badly hurt./This is a little.../No!/Ugh.../Ouch!/I'm too badly hurt.]
-    ${choice: 0}[/This could be bad.../I'm not going down!/I'm not done yet!/I don't think I can make it.../...tougher than I expected./I won't give up!/This may be the end.../Hey, that hurts!/I don't think I can make it...]${prompt}
+    ${choice: 0}[/Argh.../Mince !/Argh.../Je suis trop gravement blessé./C'est un peu.../Non !/Argh.../Aïe !/Je suis trop gravement blessé.]
+    ${choice: 0}[/Ça pourrait être grave.../Je ne vais pas tomber !/Je n'ai pas encore fini !/Je ne pense pas pouvoir y arriver.../...plus difficile que je ne le pensais./Je ne vais pas abandonner !/Ça pourrait être la fin.../Eh, ça fait mal !/Je ne pense pas pouvoir y arriver...]${prompt}
   6434: |-
-    Ugh...
-    This could be bad...${prompt}
+    Argh...
+    Ça pourrait être grave...${prompt}
   6435: |-
-    Dammit!
-    I'm not going down!${prompt}
+    Mince !
+    Je ne vais pas tomber !${prompt}
   6436: |-
-    Ugh...
-    I'm not done yet!${prompt}
+    Argh...
+    Je n'ai pas encore fini !${prompt}
   6437: |-
-    I'm too badly hurt.
-    I don't think I can make it...${prompt}
-  6438: Uh-oh, I'm in trouble...${prompt}
+    Je suis trop gravement blessé.
+    Je ne pense pas pouvoir y arriver...${prompt}
+  6438: Oh-oh, je suis dans de mauvais draps...${prompt}
   6439: |-
-    This is getting rough.
-    I'm not sure how much longer I can hold up...${prompt}
-  6440: It pains me to inform you, but I'm in severe pain...${prompt}
+    Ça devient difficile.
+    Je ne suis pas sûr de pouvoir tenir encore longtemps...${prompt}
+  6440: Il me peine de vous informer que je suis en très grande douleur...${prompt}
   6441: |-
-    This is a little...
-    ...tougher than I expected.${prompt}
+    C'est un peu...
+    ...plus difficile que je ne le pensais.${prompt}
   6442: |-
-    No!
-    I won't give up!${prompt}
+    Non !
+    Je ne vais pas abandonner !${prompt}
   6443: |-
-    Ugh...
-    This may be the end...${prompt}
+    Argh...
+    Ça pourrait être la fin...${prompt}
   6444: |-
-    Ouch!
-    Hey, that hurts!${prompt}
+    Aïe !
+    Hé, ça fait mal !${prompt}
   6445: |-
-    I'm too badly hurt.
-    I don't think I can make it...${prompt}
+    Je suis trop gravement blessé.
+    Je ne pense pas pouvoir y arriver...${prompt}
   6446: |-
     Grrr...
-    I...will not...be bested!${prompt}
-  6447: This is looking rrreally bad...${prompt}
+    Je... ne serai pas... surpassé !${prompt}
+  6447: Ça semble vraiment mauvais...${prompt}
   6448: |-
-    ${choice: 0}[/My magic.../Uh-oh!/Heads up./Attention!/Be careful./Whoops!/Careful./Hey!?/Attention!]
-    ${choice: 0}[/...is running low./Running out of magic!/My magic is almost gone./Magical reserves running low!/I'm almost out of magic./Almost out of magic!/My magic is running low./Where'd all my magic go!?/Magical reserves running low!]${prompt}
+    ${choice: 0}[/Ma magie.../Oh-oh !/Attention./Attention !/Faites attention./Oups !/Prudence./Hé !?/Attention !]
+    ${choice: 0}[/...est basse./Magie presque épuisée !/Ma magie est presque terminée./Réserves magiques faibles !/Je suis presque à court de magie./Presque plus de magie !/Ma magie est basse./Où est passée ma magie ?!/Réserves magiques faibles !]${prompt}
   6449: |-
-    My magic...
-    ...is running low.${prompt}
+    Ma magie...
+    ...est basse.${prompt}
   6450: |-
-    Uh-oh!
-    Running out of magic!${prompt}
+    Oh-oh !
+    Magie presque épuisée !${prompt}
   6451: |-
-    Heads up.
-    My magic is almost gone.${prompt}
+    Attention.
+    Ma magie est presque terminée.${prompt}
   6452: |-
-    Attention!
-    Magical reserves running low!${prompt}
-  6453: Nooo... I'm almost out of magic...${prompt}
-  6454: Sorry, but I'm running low on magic.${prompt}
-  6455: Excuse me, but my magical reserves are nearing depletion.${prompt}
+    Attention !
+    Réserves magiques faibles !${prompt}
+  6453: Nonoo... Je suis presque à court de magie...${prompt}
+  6454: Désolé, mais je suis à court de magie.${prompt}
+  6455: Excusez-moi, mais mes réserves magiques sont presque épuisées.${prompt}
   6456: |-
-    Be careful.
-    I'm almost out of magic.${prompt}
+    Faites attention.
+    Je suis presque à court de magie.${prompt}
   6457: |-
-    Whoops!
-    Almost out of magic!${prompt}
+    Oups !
+    Presque plus de magie !${prompt}
   6458: |-
-    Careful.
-    My magic is running low.${prompt}
+    Prudence.
+    Ma magie est basse.${prompt}
   6459: |-
-    Hey!?
-    Where'd all my magic go!?${prompt}
+    Hé !?
+    Où est passée ma magie ?!${prompt}
   6460: |-
-    Attention!
-    Magical reserves running low!${prompt}
-  6461: Damn! Magical reserves critical!${prompt}
-  6462: Rrrunning low on magic here...${prompt}
+    Attention !
+    Réserves magiques faibles !${prompt}
+  6461: Zut ! Réserves magiques critiques !${prompt}
+  6462: Rrréserves magiques faibles ici...${prompt}
   6463: |-
-    ${choice: 0}[/My magic?/Okay!/My magic has recovered./My magical reserves have recovered./My magic is restored./My magic status?/Okay./Okay!/My magical reserves have recovered.]
-    ${choice: 0}[/Don't worry, I have plenty./My magic is restored!/I'm ready./I'm ready to continue./Any time you're ready./Ready to go!/My magical reserves are almost full again./My magic is ready to go!/I'm ready to continue.]${prompt}
+    ${choice: 0}[/Ma magie ?/D'accord !/Ma magie est rétablie./Mes réserves magiques sont rétablies./Ma magie est restaurée./Mon état magique ?/D'accord./D'accord !/Mes réserves magiques sont presque pleines à nouveau./Ma magie est prête à l'emploi !]
+    ${choice: 0}[/Ne t'inquiète pas, j'en ai plein./Ma magie est restaurée !/Je suis prêt./Je suis prêt à continuer./Quand tu es prêt./Prêt à partir !/Mes réserves magiques sont presque pleines./Ma magie est prête !/Je suis prêt à continuer.]${prompt}
   6464: |-
-    My magic?
-    Don't worry, I have plenty.${prompt}
+    Ma magie ?
+    Ne t'inquiète pas, j'en ai plein.${prompt}
   6465: |-
-    Okay!
-    My magic is restored!${prompt}
+    D'accord !
+    Ma magie est restaurée !${prompt}
   6466: |-
-    My magic has recovered.
-    I'm ready.${prompt}
+    Ma magie est rétablie.
+    Je suis prêt.${prompt}
   6467: |-
-    My magical reserves have recovered.
-    I'm ready to continue.${prompt}
-  6468: My magic's back to normal now.${prompt}
+    Mes réserves magiques sont rétablies.
+    Je suis prêt à continuer.${prompt}
+  6468: Ma magie est revenue à la normale maintenant.${prompt}
   6469: |-
-    Magic A-OK!
-    Let's keep moving!${prompt}
+    Magie OK !
+    Continuons !${prompt}
   6470: |-
-    Apologies for the delay.
-    My magic reserves are now in good order.${prompt}
+    Désolé pour le retard.
+    Mes réserves magiques sont maintenant en bon état.${prompt}
   6471: |-
-    My magic is restored.
-    Any time you're ready.${prompt}
+    Ma magie est restaurée.
+    Dès que tu es prêt.${prompt}
   6472: |-
-    My magic status?
-    Ready to go!${prompt}
+    Mon état magique ?
+    Prêt à partir !${prompt}
   6473: |-
-    Okay.
-    My magical reserves are almost full again.${prompt}
+    D'accord.
+    Mes réserves magiques sont presque pleines à nouveau.${prompt}
   6474: |-
-    Okay!
-    My magic is ready to go!${prompt}
+    D'accord !
+    Ma magie est prête à l'emploi !${prompt}
   6475: |-
-    My magical reserves have recovered.
-    I'm ready to continue.${prompt}
+    Mes réserves magiques sont rétablies.
+    Je suis prêt à continuer.${prompt}
   6476: |-
-    My magic has sufficiently recovered.
-    Let's not delay any further.${prompt}
-  6477: Magic is rrripe and rrready!${prompt}
+    Ma magie est suffisamment rétablie.
+    Ne perdons pas plus de temps.${prompt}
+  6477: La magie est prête et au top !${prompt}
   6478: |-
-    ${choice: 0}[/I'm tired./Phew!/Hm./A fruitful day./I'm exhausted./Phew!/We fought many battles today./Wow!/A fruitful day.]
-    ${choice: 0}[/I think we've done enough for today./It's been a busy day!/That should be enough for today./I believe we reached our quota./No more fighting for me./I guess we should call it quits for today!/Time to take a break./I'm exhausted!/I believe we reached our quota.]${prompt}
+    ${choice: 0}[/Je suis fatigué./Ouf !/Hm./Une journée productive./Je suis épuisé./Ouf !/Nous avons combattu beaucoup aujourd'hui./Wow !/Une journée productive.]
+    ${choice: 0}[/Je pense qu'on en a assez fait pour aujourd'hui./Ça a été une journée chargée !/Ça devrait suffire pour aujourd'hui./Je crois que nous avons atteint notre quota./Plus de combats pour moi./Je suppose qu'il est temps de s'arrêter pour aujourd'hui !/Il est temps de faire une pause./Je suis épuisé !/Je crois que nous avons atteint notre quota.]${prompt}
   6479: |-
-    I'm tired.
-    I think we've done enough for today.${prompt}
+    Je suis fatigué.
+    Je pense qu'on en a assez fait pour aujourd'hui.${prompt}
   6480: |-
-    Phew!
-    It's been a busy day!${prompt}
+    Ouf !
+    Ça a été une journée chargée !${prompt}
   6481: |-
     Hm.
-    That should be enough for today.${prompt}
+    Ça devrait suffire pour aujourd'hui.${prompt}
   6482: |-
-    A fruitful day.
-    I believe we reached our quota.${prompt}
-  6483: We've defeated quite a lot today.${prompt}
+    Une journée productive.
+    Je crois que nous avons atteint notre quota.${prompt}
+  6483: Nous avons vaincu pas mal de choses aujourd'hui.${prompt}
   6484: |-
-    We did great today!
-    I can sleep well tonight knowing I made a difference.${prompt}
+    Nous avons bien réussi aujourd'hui !
+    Je peux dormir tranquille ce soir en sachant que j'ai fait la différence.${prompt}
   6485: |-
-    Well done, ${choice-player-gender}[sir/milady].
-    We have accomplished much this day.${prompt}
+    Bien joué, ${choice-player-gender}[monsieur/madame].
+    Nous avons accompli beaucoup aujourd'hui.${prompt}
   6486: |-
-    I'm exhausted.
-    No more fighting for me.${prompt}
+    Je suis épuisé.
+    Plus de combats pour moi.${prompt}
   6487: |-
-    Phew!
-    I guess we should call it quits for today!${prompt}
+    Ouf !
+    Je suppose qu'il est temps de s'arrêter pour aujourd'hui !${prompt}
   6488: |-
-    We fought many battles today.
-    Time to take a break.${prompt}
+    Nous avons combattu beaucoup aujourd'hui.
+    Il est temps de faire une pause.${prompt}
   6489: |-
-    Wow!
-    I'm exhausted!${prompt}
+    Wow !
+    Je suis épuisé !${prompt}
   6490: |-
-    A fruitful day.
-    I believe we reached our quota.${prompt}
+    Une journée productive.
+    Je crois que nous avons atteint notre quota.${prompt}
   6491: |-
     Hm.
-    I am satisfied with today's effort.${prompt}
-  6492: We did grrreat today, didn't we?${prompt}
+    Je suis satisfait de l'effort fourni aujourd'hui.${prompt}
+  6492: Nous avons été excellents aujourd'hui, n'est-ce pas ?${prompt}
   6493: |-
-    ${choice: 0}[/Time flies.../Whoa!/Hm./Well, well./Look at that./Whoa!/Well, now./Hey!/Well, well.]
-    ${choice: 0}[/...when you're having fun./Is that the time!/It's getting late./Quite some time has passed./It's past my bedtime./I didn't realize it was so late!/Where does all the time go?/It's getting late!/Quite some time has passed.]${prompt}
+    ${choice: 0}[/Le temps passe vite.../Waouh !/Hm./Eh bien./Regarde ça./Waouh !/Eh bien, maintenant./Hé !/Eh bien.]
+    ${choice: 0}[/...quand on s'amuse./Déjà l'heure !/Ça devient tard./Il s'est écoulé pas mal de temps./C'est passé l'heure de ma sieste./Je n'avais pas réalisé qu'il était si tard !/Où passe tout le temps ?/Ça devient tard !/Il s'est écoulé pas mal de temps.]${prompt}
   6494: |-
-    Time flies...
-    ...when you're having fun.${prompt}
+    Le temps passe vite...
+    ...quand on s'amuse.${prompt}
   6495: |-
-    Whoa!
-    Is that the time!${prompt}
+    Waouh !
+    Déjà l'heure !${prompt}
   6496: |-
     Hm.
-    It's getting late.${prompt}
+    Ça devient tard.${prompt}
   6497: |-
-    Well, well.
-    Quite some time has passed.${prompt}
-  6498: Awww, it's way past my nap time...${prompt}
-  6499: Time sure does fly when you're having fun.${prompt}
-  6500: A thousand pardons, ${choice-player-gender}[sir/milady], but I must take my leave.${prompt}
+    Eh bien.
+    Il s'est écoulé pas mal de temps.${prompt}
+  6498: Awww, il est bien passé l'heure de ma sieste...${prompt}
+  6499: Le temps passe vraiment vite quand on s'amuse.${prompt}
+  6500: Mille excuses, ${choice-player-gender}[monsieur/madame], mais je dois partir.${prompt}
   6501: |-
-    Look at that.
-    It's past my bedtime.${prompt}
+    Regarde ça.
+    C'est bien passé l'heure de ma sieste.${prompt}
   6502: |-
-    Whoa!
-    I didn't realize it was so late!${prompt}
+    Waouh !
+    Je n'avais pas réalisé qu'il était si tard !${prompt}
   6503: |-
-    Well, now.
-    Where does all the time go?${prompt}
+    Eh bien.
+    Où passe tout le temps ?${prompt}
   6504: |-
-    Hey!
-    It's getting late!${prompt}
+    Hé !
+    Ça devient tard !${prompt}
   6505: |-
-    Oh my.
-    Quite some time has passed.${prompt}
-  6506: It's rather late.${prompt}
+    Oh mon dieu.
+    Il s'est écoulé pas mal de temps.${prompt}
+  6506: Il est plutôt tard.${prompt}
   6507: |-
-    <Yawn>
-    So...sleepy...${prompt}
+    <Bâillement>
+    Je suis...si fatigué...${prompt}
   6508: |-
-    ${choice: 0}[/I guess I'll be going./Well, I'm off then!/I'm headed off./I take my leave of you./Must be going./Well, I'm off then!/It's time for me to go./I gotta go now!/I take my leave of you.]
-    ${choice: 0}[/See you around./See you soon!/Later./Until we meet again./Take care of yourself./See you soon!/Farewell./Bye!/Until we meet again.]${prompt}
+    ${choice: 0}[/Je suppose que je vais y aller./Eh bien, je m'en vais alors !/Je m'en vais./Je prends congé./Je dois y aller./Eh bien, je m'en vais alors !/Il est temps pour moi de partir./Je dois y aller maintenant !/Je prends congé.]
+    ${choice: 0}[/À bientôt./À bientôt !/À plus tard./Jusqu'à notre prochaine rencontre./Prends soin de toi./À bientôt !/Adieu./Au revoir !/Jusqu'à notre prochaine rencontre.]${prompt}
   6509: |-
-    I guess I'll be going.
-    See you around.${prompt}
+    Je suppose que je vais y aller.
+    À bientôt.${prompt}
   6510: |-
-    Well, I'm off then!
-    See you soon!${prompt}
+    Eh bien, je m'en vais alors !
+    À bientôt !${prompt}
   6511: |-
-    I'm headed off.
-    Later.${prompt}
+    Je m'en vais.
+    À plus tard.${prompt}
   6512: |-
-    I take my leave of you.
-    Until we meet again.${prompt}
+    Je prends congé.
+    Jusqu'à notre prochaine rencontre.${prompt}
   6513: |-
-    I'm going now.
-    Call me again.${prompt}
+    Je m'en vais maintenant.
+    Appelle-moi de nouveau.${prompt}
   6514: |-
-    It's time I hit the road.
-    Don't go forgetting about me, you hear!${prompt}
+    Il est temps que je prenne la route.
+    N'oublie pas de penser à moi, tu entends !${prompt}
   6515: |-
-    Until next time, then.
-    I shall be prepared for for when you next call.${prompt}
+    Jusqu'à la prochaine fois, alors.
+    Je serai prêt pour lorsque tu me rappelleras.${prompt}
   6516: |-
-    Must be going.
-    Take care of yourself.${prompt}
+    Je dois y aller.
+    Prends soin de toi.${prompt}
   6517: |-
-    Well, I'm off then!
-    See you soon!${prompt}
+    Eh bien, je m'en vais alors !
+    À bientôt !${prompt}
   6518: |-
-    It's time for me to go.
-    Farewell.${prompt}
+    Il est temps pour moi de partir.
+    Adieu.${prompt}
   6519: |-
-    I gotta go now!
-    Bye!${prompt}
+    Je dois y aller maintenant !
+    Au revoir !${prompt}
   6520: |-
-    I take my leave of you.
-    Until we meet again.${prompt}
+    Je prends congé.
+    Jusqu'à notre prochaine rencontre.${prompt}
   6521: |-
-    I'm going now.
-    Don't do anything stupid in my absence.${prompt}
+    Je m'en vais maintenant.
+    Ne fais rien de stupide en mon absence.${prompt}
   6522: |-
-    See you laterrr!
-    Bye!${prompt}
-  6523: '${choice: 0}[/Getting rid of me already?/Are we done already!?/Are we done for the day?/Time to part ways?/Sending me on my way?/Are we done already!?/Time for goodbyes?/What? You want me to go?/Time to part ways?]${prompt}'
-  6524: Getting rid of me already?${prompt}
-  6525: Are we done already!?${prompt}
-  6526: Are we done for the day?${prompt}
-  6527: Time to part ways?${prompt}
-  6528: Are we finished already? Awww...${prompt}
-  6529: Huh? Party's over?${prompt}
+    À plus tardrrr !
+    Au revoir !${prompt}
+  6523: '${choice: 0}[/Vous voulez déjà vous débarrasser de moi ?/On a déjà fini !?/On en a fini pour aujourd'hui ?/Il est temps de se séparer ?/Vous me renvoyez déjà ?/On a déjà fini !?/Il est temps de dire adieu ?/Quoi ? Vous voulez que je parte ?/Il est temps de se séparer ?]${prompt}'
+  6524: Vous voulez déjà vous débarrasser de moi ?${prompt}
+  6525: On a déjà fini !?${prompt}
+  6526: On en a fini pour aujourd'hui ?${prompt}
+  6527: Il est temps de se séparer ?${prompt}
+  6528: On a déjà fini ? Awww...${prompt}
+  6529: Hein ? La fête est finie ?${prompt}
   6530: |-
-    Oh? Do you have engagements elsewhere?
-    As you wish, then.${prompt}
-  6531: Sending me on my way?${prompt}
-  6532: Are we done already!?${prompt}
-  6533: Time for goodbyes?${prompt}
-  6534: What? You want me to go?${prompt}
-  6535: Time to part ways?${prompt}
+    Oh ? Vous avez d'autres engagements ?
+    Comme vous le souhaitez, alors.${prompt}
+  6531: Vous me renvoyez déjà ?${prompt}
+  6532: On a déjà fini !?${prompt}
+  6533: Il est temps de dire adieu ?${prompt}
+  6534: Quoi ? Vous voulez que je parte ?${prompt}
+  6535: Il est temps de se séparer ?${prompt}
   6536: |-
-    I come all the way here, and now you want me to leave?
-    We'll have to do something about your impudence.${prompt}
+    Je viens jusqu'ici, et maintenant vous voulez que je parte ?
+    Nous allons devoir régler votre impudence.${prompt}
   6537: |-
-    You don't want me to stay?
-    Meow...${prompt}
+    Vous ne voulez pas que je reste ?
+    Miaou...${prompt}
   6538: |-
-    ${choice: 0}[/Well./We're not done yet, right?/Changed your mind?/You wish to continue?/We're not done, are we?/We're still good to go, right?/Still ready for action?/You changed your mind!?/You wish to continue?]
-    ${choice: 0}[/I suppose I could stick around./Let's go!/No problem./Very well, let us proceed./Then let's get back to it./Okay, off we go!/I can stay around a little more./Great, I'm ready for more!/Very well, let us proceed.]${prompt}
+    ${choice: 0}[/Eh bien./On n'a pas encore fini, n'est-ce pas ?/Vous avez changé d'avis ?/Vous souhaitez continuer ?/On n'a pas encore fini, si ?/On est toujours prêts à agir, non ?/Toujours prêt pour l'action ?/Vous avez changé d'avis !?/Vous souhaitez continuer ?]
+    ${choice: 0}[/Je suppose que je pourrais rester un peu./On y va !/Pas de problème./Très bien, continuons./Alors reprenons./D'accord, on y va !/Je peux rester encore un peu./Super, je suis prêt pour plus !/Très bien, continuons.]${prompt}
   6539: |-
-    Well.
-    I suppose I could stick around.${prompt}
+    Eh bien.
+    Je suppose que je pourrais rester un peu.${prompt}
   6540: |-
-    We're not done yet, right?
-    Let's go!${prompt}
+    On n'a pas encore fini, n'est-ce pas ?
+    On y va !${prompt}
   6541: |-
-    Changed your mind?
-    No problem.${prompt}
+    Vous avez changé d'avis ?
+    Pas de problème.${prompt}
   6542: |-
-    You wish to continue?
-    Very well, let us proceed.${prompt}
-  6543: 'Yay! let''s keep at it!${prompt} '
+    Vous souhaitez continuer ?
+    Très bien, continuons.${prompt}
+  6543: 'Youhou ! Continuons !${prompt}'
   6544: |-
-    That's music to my ears!
-    It's waaay too early for the party to end!${prompt}
+    C'est de la musique à mes oreilles !
+    Il est bien trop tôt pour que la fête se termine !${prompt}
   6545: |-
-    Very good, ${choice-player-gender}[sir/milady].
-    It will be my pleasure to accompany you further.${prompt}
+    Très bien, ${choice-player-gender}[monsieur/madame].
+    Ce sera un plaisir de vous accompagner davantage.${prompt}
   6546: |-
-    We're not done, are we?
-    Then let's get back to it.${prompt}
+    On n'a pas encore fini, si ?
+    Alors reprenons.${prompt}
   6547: |-
-    We're still good to go, right?
-    Okay, off we go!${prompt}
+    On est toujours prêts à agir, non ?
+    D'accord, on y va !${prompt}
   6548: |-
-    Still ready for action?
-    I can stay around a little more.${prompt}
+    Toujours prêt pour l'action ?
+    Je peux rester encore un peu.${prompt}
   6549: |-
-    You changed your mind!?
-    Great, I'm ready for more!${prompt}
+    Vous avez changé d'avis !?
+    Super, je suis prêt pour plus !${prompt}
   6550: |-
-    You wish to continue?
-    Very well, let us proceed.${prompt}
+    Vous souhaitez continuer ?
+    Très bien, continuons.${prompt}
   6551: |-
-    Changed your mind?
-    We'll have to do something about your indecisiveness.${prompt}
-  6552: Yay! Let's keep going!${prompt}
-  6553: '${choice: 0}[/Your fight is with me./Bring it on!/Over here./I will be your opponent this day!/I''ll take it from here./Over here!/Over here./Hey! Don''t ignore me!/I will be your opponent this day!]${prompt}'
-  6554: Your fight is with me.${prompt}
-  6555: Bring it on!${prompt}
-  6556: Over here.${prompt}
-  6557: I will be your opponent this day!${prompt}
-  6558: Over here, you big meanie!${prompt}
-  6559: You wanna fight? Fight me!${prompt}
-  6560: Ahem! Your attention, please!${prompt}
-  6561: I'll take it from here.${prompt}
-  6562: Over here!${prompt}
-  6563: Over here.${prompt}
-  6564: Hey! Don't ignore me!${prompt}
-  6565: I will be your opponent this day!${prompt}
-  6566: Look at me when I'm talking to you!${prompt}
-  6567: Hisss!!!${prompt}
-  6568: |-
-    ${choice: 0}[/You called?/Here I am!/You're here. I'm here./Greetings./Sure, I'll help./Hey there!/Good day./Hello!/Greetings.]
-    ${choice: 0}[/I'm ready to go./Ready for anything!/Let's get moving./A fine day for adventuring./Try not to slow me down./I'm ready to go!/Shall we get moving?/What are we up to today?/A fine day for adventuring.]${prompt}
-  6569: |-
-    You called?
-    I'm ready to go.${prompt}
-  6570: |-
-    Here I am!
-    Ready for anything!${prompt}
-  6571: |-
-    You're here. I'm here.
-    Let's get moving.${prompt}
-  6572: |-
-    Greetings.
-    A fine day for adventuring.${prompt}
-  6573: |-
-    Sorry to keep you waiting.
-    Let's go!${prompt}
-  6574: |-
-    Did you wait long?
-    Alright, let's go have some fun!${prompt}
-  6575: |-
-    Please forgive my tardiness.
-    I'm yours to command.${prompt}
-  6576: |-
-    Sure, I'll help.
-    Try not to slow me down.${prompt}
-  6577: |-
-    Hey there!
-    I'm ready to go!${prompt}
-  6578: |-
-    Good day.
-    Shall we get moving?${prompt}
-  6579: |-
-    Hello!
-    What are we up to today?${prompt}
-  6580: |-
-    Greetings.
-    A fine day for adventuring.${prompt}
-  6581: |-
-    Let's go.
-    Try not to get in the way.${prompt}
-  6582: Meow!${prompt}
-  6583: |-
-    ${choice: 0}[/It might be time to head back to town./I have to be heading back soon./My reflexes are starting to slow./I believe it's almost time for a rest./A nice soft bed is looking good about now./We've been at this for a while now./Sorry, but I have some other chores to take care of./I'm starting to get kinda tired./I believe it's almost time for a rest.]
-    ${choice: 0}[/I think I need a rest./Other duties call!/We should call it a day pretty soon./Shall we head back to town shortly?/Shall we call it quits soon?/I think I have enough energy for one last spurt!/Can we finish up here soon?/But I can keep going for a little while! <Yawn>.../Shall we head back to town shortly?]${prompt}
-  6584: |-
-    It might be time to head back to town.
-    I think I need a rest.${prompt}
-  6585: |-
-    I have to be heading back soon.
-    Other duties call!${prompt}
-  6586: |-
-    My reflexes are starting to slow.
-    We should call it a day pretty soon.${prompt}
-  6587: |-
-    I believe it's almost time for a rest.
-    Shall we head back to town shortly?${prompt}
-  6588: I've almost had enough for one day.${prompt}
-  6589: |-
-    Whoops!
-    Forgot to tell you, but I have to be somewhere soon.${prompt}
-  6590: |-
-    I regret to inform you that my presence will be required in town shortly.
-    I pray you do not think ill of me.${prompt}
-  6591: |-
-    A nice soft bed is looking good about now.
-    Shall we call it quits soon?${prompt}
-  6592: |-
-    We've been at this for a while now.
-    I think I have enough energy for one last spurt!${prompt}
-  6593: |-
-    Sorry, but I have some other chores to take care of.
-    Can we finish up here soon?${prompt}
-  6594: |-
-    I'm starting to get kinda tired.
-    But I can keep going for a little while! <Yawn...>${prompt}
-  6595: |-
-    I believe it's almost time for a rest.
-    Shall we head back to town shortly?${prompt}
-  6596: |-
-    I've babysitted you long enough for one day.
-    I will leave soon.${prompt}
-  6597: This is getting borrring...${prompt}
-  6598: |-
-    ${choice: 0}[/We've been through a good number of enemies./I think I'm finally getting tired./We've done enough today, I think./We've proved ourselves in battle this day./Phew, I'm beat./Maybe just one more battle./We should call it day./Phew! I'm beat!/We've proved ourselves in battle this day.]
-    ${choice: 0}[/One more ought to do it./Should we make the next battle our last?/Let's make the next battle our last./Let us make the next opponent our last./One more battle ought to do it./This time I mean it, honest!/Let's make the next battle our last./One more battle?/Let us make the next opponent our last.]${prompt}
-  6599: |-
-    We've been through a good number of enemies.
-    One more ought to do it.${prompt}
-  6600: |-
-    I think I'm finally getting tired.
-    Should we make the next battle our last?${prompt}
-  6601: |-
-    We've done enough today, I think.
-    Let's make the next battle our last.${prompt}
-  6602: |-
-    We've proved ourselves in battle this day.
-    Let us make the next opponent our last.${prompt}
-  6603: |-
-    <Puff, wheeze>
-    Just one more battle, okay?${prompt}
-  6604: |-
-    I'm starting to feel sorry for our opponents!
-    Think I'll call it a day after the next one.${prompt}
-  6605: |-
-    Would I be out of place to recommend recuperating?
-    Let us return to town upon the next battle's conclusion.${prompt}
-  6606: |-
-    Phew, I'm beat.
-    One more battle ought to do it.${prompt}
-  6607: |-
-    Maybe just one more battle.
-    This time I mean it, honest!${prompt}
-  6608: |-
-    We should call it day.
-    Let's make the next battle our last.${prompt}
-  6609: |-
-    Phew! I'm beat!
-    One more battle?${prompt}
-  6610: |-
-    We've proved ourselves in battle this day.
-    Let us make the next opponent our last.${prompt}
-  6611: One more victory should satisfy me for the day.${prompt}
-  6612: I'm sooo tirrred...${prompt}
-  6613: |-
-    ${choice: 0}[/Getting rid of me already?/Are we done already!?/Are we done for the day?/Time to part ways?/Sending me on my way?/Are we done already!?/Time for goodbyes?/What? You want me to go?/Time to part ways?]
-    ${choice: 0}[/Call if you need me./Call me again any time!/No problem. Until we meet again./Very well. Until we meet again./I'll be around if you need me./It's been fun!/Until next we meet./Make sure you keep in touch!/Very well. Until we meet again.]${prompt}
-  6614: |-
-    Getting rid of me already?
-    Call if you need me.${prompt}
-  6615: |-
-    Are we done already!?
-    Call me again any time!${prompt}
-  6616: |-
-    Are we done for the day?
-    No problem. Until we meet again.${prompt}
-  6617: |-
-    Time to part ways?
-    Very well. Until we meet again.${prompt}
-  6618: |-
-    Are we finished already? Awww...
-    Call me again, okay? ${prompt}
-  6619: |-
-    Huh? Party's over? That's a shame...
-    Let's do this again sometime!${prompt}
-  6620: |-
-    Oh? Do you have engagements elsewhere?
-    As you wish. I shall be prepared for when you next call.${prompt}
-  6621: |-
-    Sending me on my way?
-    I'll be around if you need me.${prompt}
-  6622: |-
-    Are we done already!?
-    It's been fun!${prompt}
-  6623: |-
-    Time for goodbyes?
-    Until next we meet.${prompt}
-  6624: |-
-    What? You want me to go?
-    Make sure you keep in touch!${prompt}
-  6625: |-
-    Time to part ways?
-    Very well. Until we meet again.${prompt}
-  6626: |-
-    I come all the way here, and now you want me to leave? Hmph.
-    Just don't let me catch you slacking off from your drills.${prompt}
-  6627: Alrrright! I'll see you later.${prompt}
-  6628: '${color-alt: 123}You are unable to disband with your fellow at this time.${prompt}'
-  6629: '${choice: 0}[/A parting gift!/Ha!/Back to the pit with you!/The tide of battle turns!/Your time is up!/Time for action!/This battle is ours!/Try this on for size!/The tide of battle turns!]${prompt}'
-  6630: A parting gift!${prompt}
-  6631: Ha!${prompt}
-  6632: Back to the pit with you!${prompt}
-  6633: The tide of battle turns!${prompt}
-  6634: How do you like this!?${prompt}
-  6635: I saved this just for you!${prompt}
-  6636: I believe it is my turn!${prompt}
-  6637: Your time is up!${prompt}
-  6638: Time for action!${prompt}
-  6639: This battle is ours!${prompt}
-  6640: Try this on for size!${prompt}
-  6641: The tide of battle turns!${prompt}
-  6642: Taste my wrath!${prompt}
-  6643: Hisss! Superrr...attack!${prompt}
-  6644: '${choice: 0}[/I''m ready to fight./I''m in top shape and ready to go!/We can start fighting any time./I''m prepared for battle./I''m ready to fight anytime./I''m good to go!/I''m ready when you are./I''m all healed up and ready to go!/I''m prepared for battle.]${prompt}'
-  6645: I'm ready to fight.${prompt}
-  6646: I'm in top shape and ready to go!${prompt}
-  6647: We can start fighting any time.${prompt}
-  6648: I'm prepared for battle.${prompt}
-  6649: I feel good!${prompt}
-  6650: I'm ready to rumble!${prompt}
-  6651: Fit as a fiddle, and at your command.${prompt}
-  6652: I'm ready to fight anytime.${prompt}
-  6653: I'm good to go!${prompt}
-  6654: I'm ready when you are.${prompt}
-  6655: I'm all healed up and ready to go!${prompt}
-  6656: I'm prepared for battle.${prompt}
-  6657: |-
-    You presume to be my guardian?
-    I suggest you worry about yourself.${prompt}
-  6658: I feel grrreat! Come on, let me at them!${prompt}
-  6659: |-
-    ${choice: 0}[/Don't worry about me./No problem!/Nothing to worry about./Don't hold back on my account./This little scratch?/This little scratch?/Nice of you to worry./No problem!/Don't hold back on my account.]
-    ${choice: 0}[/It's just a scratch./This is just a scratch!/Just a scratch./This is a mere scratch./Pay it no mind./I've had bigger paper cuts!/But I'm fine, it's just a scratch./This little scratch won't slow me down!/This is a mere scratch.]${prompt}
-  6660: |-
-    Don't worry about me.
-    It's just a scratch.${prompt}
-  6661: |-
-    No problem!
-    This is just a scratch!${prompt}
-  6662: |-
-    Nothing to worry about.
-    Just a scratch.${prompt}
-  6663: |-
-    Don't hold back on my account.
-    This is a mere scratch.${prompt}
-  6664: |-
-    I'm fine.
-    No need to worry, okay?${prompt}
-  6665: |-
-    This? An injury?
-    Psshaw!${prompt}
-  6666: Thank you for asking, but this is no cause for concern.${prompt}
-  6667: |-
-    This little scratch?
-    Pay it no mind.${prompt}
-  6668: |-
-    This little scratch?
-    I've had bigger paper cuts!${prompt}
-  6669: |-
-    Nice of you to worry.
-    But I'm fine, it's just a scratch.${prompt}
-  6670: |-
-    No problem!
-    This little scratch won't slow me down!${prompt}
-  6671: |-
-    Don't hold back on my account.
-    This is a mere scratch.${prompt}
-  6672: |-
-    I would hardly call this a scratch.
-    Don't mind me, mind yourself.${prompt}
-  6673: Around seven out of nine lives rrremaining!${prompt}
+    Vous avez changé d'avis ?
+    Nous allons devoir régler votre indécision.${prompt}
+  6552: Youhou ! Continuons !${prompt}
+  6553: '${choice: 0}[/Votre combat est avec moi./Venez donc !/Ici./Je serai votre adversaire aujourd'hui !/Je vais m'en charger./Ici !/Ici./Hé ! Ne m'ignorez pas !/Je serai votre adversaire aujourd'hui !]${prompt}'
+  6554: Votre combat est avec moi.${prompt}
+  6555: Venez donc !${prompt}
+  6556: Ici.${prompt}
+  6557: Je serai votre adversaire aujourd'hui !${prompt}
+  6558: Ici, grand méchant !${prompt}
+  6559: Vous voulez vous battre ? Battez-vous avec moi !${prompt}
+  6560: Ahem ! Votre attention, s'il vous plaît !${prompt}
+  6561: Je vais m'en charger.${prompt}
+  6562: Ici !${prompt}
+  6563: Ici.${prompt}
+  6564: Hé ! Ne m'ignorez pas !${prompt}
+  6565: Je serai votre adversaire aujourd'hui !${prompt}
+  6566: Regardez-moi quand je vous parle !${prompt}
+  6567: Hisss !!!${prompt}
+  6568: '${choice: 0}[/Vous m'avez appelé ?/Me voilà !/Vous êtes là. Je suis là./Salutations./Bien sûr, je vais aider./Salut !/Bonne journée./Bonjour !/Salutations.]${choice: 0}[/Je suis prêt à partir./Prêt pour tout !/Allons-y./Une belle journée pour l'aventure./Essayez de ne pas me ralentir./Je suis prêt à partir !/On commence ?/Que faisons-nous aujourd'hui ?/Une belle journée pour l'aventure.]${prompt}'
+  6569: Vous m'avez appelé ?
+    Je suis prêt à partir.${prompt}
+  6570: Me voilà !
+    Prêt pour tout !${prompt}
+  6571: Vous êtes là. Je suis là.
+    Allons-y.${prompt}
+  6572: Salutations.
+    Une belle journée pour l'aventure.${prompt}
+  6573: Désolé de vous avoir fait attendre.
+    Allons-y !${prompt}
+  6574: Vous avez attendu longtemps ?
+    Très bien, amusons-nous !${prompt}
+  6575: Veuillez excuser mon retard.
+    Je suis à votre service.${prompt}
+  6576: Bien sûr, je vais aider.
+    Essayez de ne pas me ralentir.${prompt}
+  6577: Salut !
+    Je suis prêt à partir !${prompt}
+  6578: Bonne journée.
+    On commence ?${prompt}
+  6579: Bonjour !
+    Que faisons-nous aujourd'hui ?${prompt}
+  6580: Salutations.
+    Une belle journée pour l'aventure.${prompt}
+  6581: Allons-y.
+    Essayez de ne pas vous mettre en travers.${prompt}
+  6582: Miaou !${prompt}
+  6583: '${choice: 0}[/Il est peut-être temps de retourner en ville./Je dois rentrer bientôt./Mes réflexes commencent à ralentir./Je crois qu'il est presque temps de faire une pause./Un bon lit doux semble tentant maintenant./Ça fait un moment qu'on est là./Désolé, mais j'ai d'autres tâches à accomplir./Je commence à être un peu fatigué./Je crois qu'il est presque temps de faire une pause.]${choice: 0}[/Je pense que j'ai besoin de repos./D'autres devoirs m'appellent !/Nous devrions terminer bientôt./Devons-nous retourner en ville bientôt ?/Devons-nous appeler ça une journée bientôt ?/Je pense que j'ai encore de l'énergie pour un dernier coup !/Pouvons-nous finir ici bientôt ?/Mais je peux encore continuer un peu ! <Bâillement>.../Devons-nous retourner en ville bientôt ?]${prompt}'
+  6584: Il est peut-être temps de retourner en ville.
+    Je pense que j'ai besoin de repos.${prompt}
+  6585: Je dois rentrer bientôt.
+    D'autres devoirs m'appellent !${prompt}
+  6586: Mes réflexes commencent à ralentir.
+    Nous devrions appeler ça une journée bientôt.${prompt}
+  6587: Je crois qu'il est presque temps de faire une pause.
+    Devons-nous retourner en ville bientôt ?${prompt}
+  6588: J'ai presque eu ma dose pour aujourd'hui.${prompt}
+  6589: Oups !
+    J'ai oublié de vous dire, mais je dois aller quelque part bientôt.${prompt}
+  6590: Je regrette de vous informer que ma présence sera requise en ville bientôt.
+    Je prie pour que vous ne pensiez pas du mal de moi.${prompt}
+  6591: Un bon lit doux semble tentant maintenant.
+    Devons-nous appeler ça une journée bientôt ?${prompt}
+  6592: Ça fait un moment qu'on est là.
+    Je pense que j'ai encore de l'énergie pour un dernier coup !${prompt}
+  6593: Désolé, mais j'ai d'autres tâches à accomplir.
+    Pouvons-nous finir ici bientôt ?${prompt}
+  6594: Je commence à être un peu fatigué.
+    Mais je peux encore continuer un peu ! <Bâillement...>${prompt}
+  6595: Je crois qu'il est presque temps de faire une pause.
+    Devons-nous retourner en ville bientôt ?${prompt}
+  6596: J'ai gardé un œil sur vous assez longtemps pour aujourd'hui.
+    Je vais partir bientôt.${prompt}
+  6597: Ça devient ennuyant...${prompt}
+  6598: '${choice: 0}[/Nous avons affronté un bon nombre d'ennemis./Je pense que je commence enfin à me fatiguer./Nous avons fait assez pour aujourd'hui, je crois./Nous avons prouvé notre valeur au combat aujourd'hui./Ouf, je suis épuisé./Peut-être juste un combat de plus./Nous devrions appeler ça une journée./Ouf ! Je suis épuisé !/Nous avons prouvé notre valeur au combat aujourd'hui.]${choice: 0}[/Un de plus devrait suffire./Devons-nous faire du prochain combat notre dernier ?/Faisons du prochain combat notre dernier./Faisons du prochain adversaire notre dernier./Un combat de plus devrait suffire./Cette fois, je le pense vraiment, honnêtement !/Faisons du prochain combat notre dernier./Un combat de plus ?/Faisons du prochain adversaire notre dernier.]${prompt}'
+  6599: Nous avons affronté un bon nombre d'ennemis.
+    Un de plus devrait suffire.${prompt}
+  6600: Je pense que je commence enfin à me fatiguer.
+    Devons-nous faire du prochain combat notre dernier ?${prompt}
+  6601: Nous avons fait assez pour aujourd'hui, je crois.
+    Faisons du prochain combat notre dernier.${prompt}
+  6602: Nous avons prouvé notre valeur au combat aujourd'hui.
+    Faisons du prochain adversaire notre dernier.${prompt}
+  6603: <Pfiou, halètement>
+    Juste un combat de plus, d'accord ?${prompt}
+  6604: Je commence à avoir de la peine pour nos adversaires !
+    Je pense que je vais appeler ça une journée après le prochain.${prompt}
+  6605: Serait-il déplacé de recommander une pause ?
+    Retournons en ville après le prochain combat.${prompt}
+  6606: Ouf, je suis épuisé.
+    Un dernier combat devrait suffire.${prompt}
+  6607: Peut-être juste un combat de plus.
+    Cette fois, je le pense vraiment, honnêtement !${prompt}
+  6608: Nous devrions appeler ça une journée.
+    Faisons du prochain combat notre dernier.${prompt}
+  6609: Ouf ! Je suis épuisé !
+    Un dernier combat ?${prompt}
+  6610: Nous avons prouvé notre valeur au combat aujourd'hui.
+    Faisons du prochain adversaire notre dernier.${prompt}
+  6611: Une victoire de plus devrait me satisfaire pour aujourd'hui.${prompt}
+  6612: Je suis tellement fatigué...${prompt}
+  6613: '${choice: 0}[/Vous voulez déjà vous débarrasser de moi ?/On a fini déjà !?/C'est la fin de la journée ?/Il est temps de se séparer ?/Vous voulez me renvoyer ?/On a fini déjà !?/Il est temps de dire au revoir ?/Quoi ? Vous voulez que je parte ?/Il est temps de se séparer ?]${choice: 0}[/Appelez-moi si vous avez besoin de moi./Appelez-moi à nouveau quand vous voulez !/Pas de problème. À la prochaine./Très bien. À la prochaine./Je serai là si vous avez besoin de moi./Ça a été amusant !/À la prochaine fois./Assurez-vous de garder le contact !/Très bien. À la prochaine.]${prompt}'
+  6614: Vous voulez déjà vous débarrasser de moi ?
+    Appelez-moi si vous avez besoin de moi.${prompt}
+  6615: On a fini déjà !?
+    Appelez-moi à nouveau quand vous voulez !${prompt}
+  6616: C'est la fin de la journée ?
+    Pas de problème. À la prochaine.${prompt}
+  6617: Il est temps de se séparer ?
+    Très bien. À la prochaine.${prompt}
+  6618: On a fini déjà ? Awww...
+    Appelez-moi à nouveau, d'accord ? ${prompt}
+  6619: Hein ? La fête est finie ? C'est dommage...
+    Faisons ça une autre fois !${prompt}
+  6620: Oh ? Avez-vous d'autres engagements ?
+    Comme vous le souhaitez. Je serai prêt pour quand vous me rappellerez.${prompt}
+  6621: Il est temps de me renvoyer ?
+    Je serai là si vous avez besoin de moi.${prompt}
+  6622: On a fini déjà !?
+    Ça a été amusant !${prompt}
+  6623: Il est temps de dire au revoir ?
+    À la prochaine.${prompt}
+  6624: Quoi ? Vous voulez que je parte ?
+    Assurez-vous de rester en contact !${prompt}
+  6625: Il est temps de se séparer ?
+    Très bien. À la prochaine.${prompt}
+  6626: Je suis venu jusque-là, et maintenant vous voulez que je parte ? Hmph.
+    Assurez-vous simplement de ne pas vous laisser aller à vos entraînements.${prompt}
+  6627: Très bien ! Je vous verrai plus tard.${prompt}
+  6628: Vous ne pouvez pas vous séparer de votre compagnon pour le moment.${prompt}
+  6629: ${choice: 0}[/Un cadeau de départ !/Ha !/Retour dans la fosse !/Le tournant de la bataille !/Votre temps est écoulé !/Il est temps d'agir !/Cette bataille est la nôtre !/Essaye ça !/Le tournant de la bataille !]${prompt}
+  6630: Un cadeau de départ !${prompt}
+  6631: Ha !${prompt}
+  6632: Retour dans la fosse !${prompt}
+  6633: Le tournant de la bataille !${prompt}
+  6634: Que pensez-vous de ça !?${prompt}
+  6635: Je l'ai réservé rien que pour vous !${prompt}
+  6636: Je crois que c'est mon tour !${prompt}
+  6637: Votre temps est écoulé !${prompt}
+  6638: Il est temps d'agir !${prompt}
+  6639: Cette bataille est la nôtre !${prompt}
+  6640: Essaye ça !${prompt}
+  6641: Le tournant de la bataille !${prompt}
+  6642: Goûtez à ma colère !${prompt}
+  6643: Hisss ! Superrr...attaque !${prompt}
+  6644: ${choice: 0}[/Je suis prêt à me battre./Je suis en pleine forme et prêt à y aller !/Nous pouvons commencer à combattre à tout moment./Je suis préparé pour la bataille./Je suis prêt à me battre à tout moment./Je suis prêt à partir !/Je suis prêt quand vous l'êtes./Je suis complètement rétabli et prêt à y aller !/Je suis préparé pour la bataille.]${prompt}
+  6645: Je suis prêt à me battre.${prompt}
+  6646: Je suis en pleine forme et prêt à y aller !${prompt}
+  6647: Nous pouvons commencer à combattre à tout moment.${prompt}
+  6648: Je suis préparé pour la bataille.${prompt}
+  6649: Je me sens bien !${prompt}
+  6650: Je suis prêt à me battre !${prompt}
+  6651: En pleine forme et à votre service.${prompt}
+  6652: Je suis prêt à me battre à tout moment.${prompt}
+  6653: Je suis prêt à partir !${prompt}
+  6654: Je suis prêt quand vous l'êtes.${prompt}
+  6655: Je suis complètement rétabli et prêt à y aller !${prompt}
+  6656: Je suis préparé pour la bataille.${prompt}
+  6657: Vous vous permettez d'être mon gardien ?
+    Je vous conseille de vous occuper de vous.${prompt}
+  6658: Je me sens super ! Allez, laissez-moi m'en occuper !${prompt}
+  6659: ${choice: 0}[/Ne vous inquiétez pas pour moi./Aucun problème !/Rien à craindre./Ne vous retenez pas à cause de moi./Cette petite égratignure ?/Cette petite égratignure ?/C'est gentil de vous inquiéter./Aucun problème !/Ne vous retenez pas à cause de moi.]
+    ${choice: 0}[/Ce n'est qu'une égratignure./C'est juste une égratignure !/Juste une égratignure./C'est une simple égratignure./Ne vous en préoccupez pas./J'ai eu des coupures de papier plus graves !/Mais ça va, ce n'est qu'une égratignure./Cette petite égratignure ne me ralentira pas !/C'est une simple égratignure.]${prompt}
+  6660: Ne vous inquiétez pas pour moi.
+    Ce n'est qu'une égratignure.${prompt}
+  6661: Aucun problème !
+    C'est juste une égratignure !${prompt}
+  6662: Rien à craindre.
+    Juste une égratignure.${prompt}
+  6663: Ne vous retenez pas à cause de moi.
+    C'est une simple égratignure.${prompt}
+  6664: Je vais bien.
+    Pas besoin de vous inquiéter, d'accord ?${prompt}
+  6665: Ça ? Une blessure ?
+    Pff !${prompt}
+  6666: Merci de demander, mais ce n'est pas une raison de s'inquiéter.${prompt}
+  6667: Cette petite égratignure ?
+    Ne vous en préoccupez pas.${prompt}
+  6668: Cette petite égratignure ?
+    J'ai eu des coupures de papier plus graves !${prompt}
+  6669: C'est gentil de vous inquiéter.
+    Mais je vais bien, ce n'est qu'une égratignure.${prompt}
+  6670: Aucun problème !
+    Cette petite égratignure ne me ralentira pas !${prompt}
+  6671: Ne vous retenez pas à cause de moi.
+    C'est une simple égratignure.${prompt}
+  6672: Je ne qualifierais même pas cela d’égratignure.
+    Ne vous occupez pas de moi, occupez-vous de vous.${prompt}
+  6673: Il me reste environ sept vies sur neuf !${prompt}
   6674: |-
-    ${choice: 0}[/I should probably rest a little more./I'm not gonna let a slight wound like this keep me down!/You might want to keep on eye on my health./Shouldn't we rest a little?/I'm a little tired./I'm still fairly fresh, but maybe we should rest a bit more./I'm a little tired./Can we take a break?/Shouldn't we rest a little?]
-    ${choice: 0}[/ Just in case./ I'm ready for more!/ Better to be ready for anything./I question my ability to survive another battle./Maybe we should rest a bit./Then I'll be ready for anything!/Shall we rest for a bit?/I don't think I can handle another fight just yet./I question my ability to survive another battle.]${prompt}
+    ${choice: 0}[/Je devrais probablement me reposer un peu plus./Je ne vais pas laisser une petite blessure me ralentir !/Tu devrais peut-être surveiller ma santé./On devrait peut-être se reposer un peu ?/Je suis un peu fatigué./Je suis encore assez frais, mais peut-être devrions-nous nous reposer un peu plus./Je suis un peu fatigué./On peut faire une pause ?/On devrait peut-être se reposer un peu ?]
+    ${choice: 0}[/ Au cas où./ Je suis prêt pour plus !/ Mieux vaut être prêt pour tout./Je doute de ma capacité à survivre à un autre combat./Peut-être devrions-nous nous reposer un peu./Alors je serai prêt pour tout !/On devrait se reposer un moment ?/Je ne pense pas pouvoir affronter un autre combat pour le moment./Je doute de ma capacité à survivre à un autre combat.]${prompt}
   6675: |-
-    I should probably rest a little more.
-    Just in case.${prompt}
+    Je devrais probablement me reposer un peu plus.
+    Au cas où.${prompt}
   6676: |-
-    I'm not gonna let a slight wound like this keep me down!
-    I'm ready for more!${prompt}
+    Je ne vais pas laisser une petite blessure me ralentir !
+    Je suis prêt pour plus !${prompt}
   6677: |-
-    You might want to keep on eye on my health.
-    Better to be ready for anything.${prompt}
+    Tu devrais peut-être surveiller ma santé.
+    Mieux vaut être prêt pour tout.${prompt}
   6678: |-
-    Shouldn't we rest a little?
-    I question my ability to survive another battle.${prompt}
-  6679: I'm fine...really.${prompt}
-  6680: I think I still can push on for a while.${prompt}
+    On devrait peut-être se reposer un peu ?
+    Je doute de ma capacité à survivre à un autre combat.${prompt}
+  6679: Je vais bien... vraiment.${prompt}
+  6680: Je pense que je peux encore continuer un moment.${prompt}
   6681: |-
-    I am not in immediate danger, but prevention is better than cure.
-    And cure is better than raise...${prompt}
+    Je ne suis pas en danger immédiat, mais mieux vaut prévenir que guérir.
+    Et guérir vaut mieux que ressusciter...${prompt}
   6682: |-
-    I'm a little tired.
-    Maybe we should rest a bit.${prompt}
+    Je suis un peu fatigué.
+    Peut-être devrions-nous nous reposer un peu.${prompt}
   6683: |-
-    I'm still fairly fresh, but maybe we should rest a bit more.
-    Then I'll be ready for anything!${prompt}
+    Je suis encore assez frais, mais peut-être devrions-nous nous reposer un peu plus.
+    Alors je serai prêt pour tout !${prompt}
   6684: |-
-    I'm a little tired.
-    Shall we rest for a bit?${prompt}
+    Je suis un peu fatigué.
+    On devrait faire une pause ?${prompt}
   6685: |-
-    Can we take a break?
-    I don't think I can handle another fight just yet.${prompt}
+    On peut faire une pause ?
+    Je ne pense pas pouvoir affronter un autre combat pour le moment.${prompt}
   6686: |-
-    Shouldn't we rest a little?
-    I question my ability to survive another battle.${prompt}
-  6687: Hm... Our opponents are quite determined to make us work.${prompt}
-  6688: Around five out of nine lives rrremaining!${prompt}
+    On devrait peut-être se reposer un peu ?
+    Je doute de ma capacité à survivre à un autre combat.${prompt}
+  6687: Hm... Nos adversaires semblent assez déterminés à nous faire travailler.${prompt}
+  6688: Il reste environ cinq vies sur neuf !${prompt}
   6689: |-
-    ${choice: 0}[/We should really take a break./I feel a little...lightheaded./That last fight took it out of me./Let's take a break, shall we?/I'm exhausted./Phew!/I'm exhausted./Phew.../Let's take a break, shall we?]
-    ${choice: 0}[/I'm not ready for another battle./Maybe we should take a break./Let me catch my breath./No sense rushing into battle in this condition./Can you give me a minute./I think I've earned a break, don't you?/Can we sit down...for a bit...?/I think I need to lie down.../No sense rushing into battle in this condition.]${prompt}
+    ${choice: 0}[/On devrait vraiment faire une pause./Je me sens un peu... étourdi./Ce dernier combat m'a épuisé./Faisons une pause, d'accord ?/Je suis épuisé./Ouf !/Je suis épuisé./Ouf.../Faisons une pause, d'accord ?]
+    ${choice: 0}[/Je ne suis pas prêt pour un autre combat./Peut-être devrions-nous faire une pause./Laisse-moi reprendre mon souffle./Pas la peine de se précipiter dans un combat dans cet état./Peux-tu me donner une minute ?/Je pense que j'ai mérité une pause, non ?/On peut s'asseoir un moment... ?/Je pense que j'ai besoin de m'allonger.../Pas la peine de se précipiter dans un combat dans cet état.]${prompt}
   6690: |-
-    We should really take a break.
-    I'm not ready for another battle.${prompt}
+    On devrait vraiment faire une pause.
+    Je ne suis pas prêt pour un autre combat.${prompt}
   6691: |-
-    I feel a little...lightheaded.
-    Maybe we should take a break.${prompt}
+    Je me sens un peu... étourdi.
+    Peut-être devrions-nous faire une pause.${prompt}
   6692: |-
-    That last fight took it out of me.
-    Let me catch my breath.${prompt}
+    Ce dernier combat m'a épuisé.
+    Laisse-moi reprendre mon souffle.${prompt}
   6693: |-
-    Let's take a break, shall we?
-    No sense rushing into battle in this condition.${prompt}
-  6694: I need to take a break soon.${prompt}
-  6695: Hey, how about taking five?${prompt}
-  6696: Might I be so bold as to suggest we rest?${prompt}
+    Faisons une pause, d'accord ?
+    Pas la peine de se précipiter dans un combat dans cet état.${prompt}
+  6694: J'ai besoin de faire une pause bientôt.${prompt}
+  6695: Hé, que dirais-tu de faire une pause de cinq minutes ?${prompt}
+  6696: Puis-je me permettre de suggérer que nous nous reposions ?${prompt}
   6697: |-
-    I'm exhausted.
-    Can you give me a minute?${prompt}
+    Je suis épuisé.
+    Peux-tu me donner une minute ?${prompt}
   6698: |-
-    Phew!
-    I think I've earned a break, don't you?${prompt}
+    Ouf !
+    Je pense que j'ai mérité une pause, non ?${prompt}
   6699: |-
-    I'm exhausted.
-    Can we sit down...for a bit...?${prompt}
+    Je suis épuisé.
+    On peut s'asseoir un moment... ?${prompt}
   6700: |-
-    Phew...
-    I think I need to lie down...${prompt}
+    Ouf...
+    Je pense que j'ai besoin de m'allonger...${prompt}
   6701: |-
-    Let's take a break, shall we?
-    No sense rushing into battle in this condition.${prompt}
+    Faisons une pause, d'accord ?
+    Pas la peine de se précipiter dans un combat dans cet état.${prompt}
   6702: |-
-    <Puff> Tell me if you feel...you need rest...
-    <Pant> I mean it...${prompt}
-  6703: Around three out of nine lives rrremaining...${prompt}
+    <Puff> Dis-moi si tu sens... que tu as besoin de te reposer...
+    <Pant> Je le pense vraiment...${prompt}
+  6703: Il reste environ trois vies sur neuf...${prompt}
   6704: |-
-    ${choice: 0}[/We really should rest./No...no more.../Hold on.../I'm at my limit./Enough!/Whoa.../Please.../Can't...fight...any...longer.../I'm at my limit.]
-    ${choice: 0}[/I don't think I can survive another fight./I gotta sit down.../I need to get my strength back.../Please let me recover my strength./Let me rest already!/I think I'm gonna fall over.../I need to sit down.../Must...rest.../Please let me recover my strength.]${prompt}
+    ${choice: 0}[/On devrait vraiment se reposer./Non... plus rien.../Tiens bon.../Je suis à bout./Assez !/Whoa.../S'il te plaît.../Je ne peux...plus...combattre.../Je suis à bout.]
+    ${choice: 0}[/Je ne pense pas que je peux survivre à un autre combat./Je dois m'asseoir.../J'ai besoin de reprendre des forces.../S'il te plaît, laisse-moi reprendre des forces./Laisse-moi me reposer déjà !/Je pense que je vais tomber.../Je dois m'asseoir.../Je dois... me reposer.../S'il te plaît, laisse-moi reprendre des forces.]${prompt}
   6705: |-
-    We really should rest.
-    I don't think I can survive another fight.${prompt}
+    On devrait vraiment se reposer.
+    Je ne pense pas que je peux survivre à un autre combat.${prompt}
   6706: |-
-    No...no more...
-    I gotta sit down...${prompt}
+    Non... plus rien...
+    Je dois m'asseoir...${prompt}
   6707: |-
-    Hold on...
-    I need to get my strength back...${prompt}
+    Tiens bon...
+    J'ai besoin de reprendre des forces...${prompt}
   6708: |-
-    I'm at my limit.
-    Please let me recover my strength.${prompt}
+    Je suis à bout.
+    S'il te plaît, laisse-moi reprendre des forces.${prompt}
   6709: |-
-    I can't...go on.
-    You have to let me rest...${prompt}
+    Je ne peux... plus continuer.
+    Tu dois me laisser me reposer...${prompt}
   6710: |-
-    Ugh...
-    If you hadn't noticed, I seriously need rest.${prompt}
+    Argh...
+    Si tu ne l'as pas remarqué, j'ai vraiment besoin de me reposer.${prompt}
   6711: |-
-    I fear the next battle may be my last.
-    I beseech you, please permit me to rest.${prompt}
+    Je crains que le prochain combat ne soit mon dernier.
+    Je t'en prie, laisse-moi me reposer.${prompt}
   6712: |-
-    Enough!
-    Let me rest already!${prompt}
+    Assez !
+    Laisse-moi me reposer déjà !${prompt}
   6713: |-
     Whoa...
-    I think I'm gonna fall over...${prompt}
+    Je pense que je vais tomber...${prompt}
   6714: |-
-    Please...
-    I need to sit down...${prompt}
+    S'il te plaît...
+    J'ai besoin de m'asseoir...${prompt}
   6715: |-
-    Can't...fight...any...longer...
-    Must...rest...${prompt}
+    Je ne peux...plus...combattre...
+    Je dois...me reposer...${prompt}
   6716: |-
-    I'm at my limit.
-    Please let me recover my strength.${prompt}
+    Je suis à bout.
+    S'il te plaît, laisse-moi reprendre des forces.${prompt}
   6717: |-
-    The enemy isn't going anywhere.
-    Withdraw and regroup!${prompt}
+    L'ennemi ne va nulle part.
+    Retraite et regroupons-nous !${prompt}
   6718: |-
-    I'm almost out of lives.
-    Meow...${prompt}
-  6719: '${choice: 0}[/No need to worry about my magic, I have plenty./My magic reserves are full!/My magic has recovered./My magical reserves have recovered./My magic is restored./My magic status is A-OK!/My magical reserves are full./Magic-wise, I''m good to go!/My magical reserves have recovered.]${prompt}'
-  6720: No need to worry about my magic, I have plenty.${prompt}
-  6721: My magic reserves are full!${prompt}
-  6722: My magic has recovered.${prompt}
-  6723: My magical reserves have recovered.${prompt}
-  6724: My magic? Full to the brim!${prompt}
-  6725: I've got magic to burn!${prompt}
-  6726: I am overflowing with magic.${prompt}
-  6727: My magic is restored.${prompt}
-  6728: My magic status is A-OK!${prompt}
-  6729: My magical reserves are full.${prompt}
-  6730: Magic-wise, I'm good to go!${prompt}
-  6731: My magical reserves have recovered.${prompt}
-  6732: I have more than enough magic.${prompt}
-  6733: I have a full tank of magic!${prompt}
+    Je suis presque à court de vies.
+    Miaou...${prompt}
+  6719: '${choice: 0}[/Pas besoin de t'inquiéter pour ma magie, j'en ai plein./Mes réserves de magie sont pleines !/Ma magie a récupéré./Mes réserves de magie ont récupéré./Ma magie est restaurée./Mon statut magique est parfait !/Mes réserves de magie sont pleines./Côté magie, je suis prêt à repartir !/Mes réserves de magie ont récupéré.]${prompt}'
+  6720: Pas besoin de t'inquiéter pour ma magie, j'en ai plein.${prompt}
+  6721: Mes réserves de magie sont pleines !${prompt}
+  6722: Ma magie a récupéré.${prompt}
+  6723: Mes réserves de magie ont récupéré.${prompt}
+  6724: Ma magie ? Pleine à ras bord !${prompt}
+  6725: J'ai de la magie à revendre !${prompt}
+  6726: Je déborde de magie.${prompt}
+  6727: Ma magie est restaurée.${prompt}
+  6728: Mon statut magique est parfait !${prompt}
+  6729: Mes réserves de magie sont pleines.${prompt}
+  6730: Côté magie, je suis prêt à repartir !${prompt}
+  6731: Mes réserves de magie ont récupéré.${prompt}
+  6732: J'ai plus qu'assez de magie.${prompt}
+  6733: Mon réservoir de magie est plein !${prompt}
   6734: |-
-    ${choice: 0}[/Hmm./Let's see now./My magic?/My magical reserves?/Are you relying on my magic?/I still have lots of magic left!/My magic?/Hmmm./My magical reserves?]
-    ${choice: 0}[/Better keep an eye on my magic reserves./I think my magic is about half gone./It might be time to rest soon./Depleted to about the halfway mark./If so, we may need to rest soon./Well, maybe half.../It might be time to keep an eye on my reserves./I've used up half my magic already.../Depleted to about the halfway mark.]${prompt}
+    ${choice: 0}[/Hmm./Voyons voir./Ma magie ?/Mes réserves de magie ?/Tu comptes sur ma magie ?/Il me reste encore beaucoup de magie !/Ma magie ?/Hmmm./Mes réserves de magie ?]
+    ${choice: 0}[/Il vaut mieux garder un œil sur mes réserves de magie./Je pense que ma magie est à moitié épuisée./Il pourrait être temps de faire une pause./Épuisé à environ la moitié./Si c'est le cas, nous devrions peut-être nous reposer bientôt./Eh bien, peut-être moitié.../Il pourrait être temps de surveiller mes réserves./J'ai déjà utilisé la moitié de ma magie.../Épuisé à environ la moitié.]${prompt}
   6735: |-
     Hmm.
-    Better keep an eye on my magic reserves.${prompt}
+    Il vaut mieux garder un œil sur mes réserves de magie.${prompt}
   6736: |-
-    Let's see now.
-    I think my magic is about half gone.${prompt}
+    Voyons voir.
+    Je pense que ma magie est à moitié épuisée.${prompt}
   6737: |-
-    My magic?
-    It might be time to rest soon.${prompt}
+    Ma magie ?
+    Il pourrait être temps de faire une pause.${prompt}
   6738: |-
-    My magical reserves?
-    Depleted to about the halfway mark.${prompt}
-  6739: I have around half of my magic left.${prompt}
-  6740: My magic is good for a while yet.${prompt}
-  6741: My magical reserves should suffice for now, but we best avoid taking unnecessary risks.${prompt}
+    Mes réserves de magie ?
+    Épuisé à environ la moitié.${prompt}
+  6739: Il me reste environ la moitié de ma magie.${prompt}
+  6740: Ma magie est bonne pour un moment encore.${prompt}
+  6741: Mes réserves de magie devraient suffire pour l'instant, mais mieux vaut éviter les risques inutiles.${prompt}
   6742: |-
-    Are you relying on my magic?
-    If so, we may need to rest soon.${prompt}
+    Tu comptes sur ma magie ?
+    Si c'est le cas, nous devrions peut-être nous reposer bientôt.${prompt}
   6743: |-
-    I still have lots of magic left!
-    Well, maybe half...${prompt}
+    Il me reste encore beaucoup de magie !
+    Eh bien, peut-être moitié...${prompt}
   6744: |-
-    My magic?
-    It might be time to keep an eye on my reserves.${prompt}
+    Ma magie ?
+    Il pourrait être temps de garder un œil sur mes réserves.${prompt}
   6745: |-
     Hmmm.
-    I've used up half my magic already...${prompt}
+    J'ai déjà utilisé la moitié de ma magie...${prompt}
   6746: |-
-    My magical reserves?
-    Depleted to about the halfway mark.${prompt}
-  6747: My magical reserves don't require your sympathy just yet.${prompt}
-  6748: I've used up arrround half my magic.${prompt}
-  6749: '${choice: 0}[/My magic is running low.../I''ve almost run out of magic!/My magic is almost gone./My magical reserves are running low./I''m almost out of magic./Almost out of magic!/My magic is running low./Where''d all my magic go!?/My magical reserves are running low.]${prompt}'
-  6750: My magic is running low...${prompt}
-  6751: I've almost run out of magic!${prompt}
-  6752: My magic is almost gone.${prompt}
-  6753: My magical reserves are running low.${prompt}
-  6754: Nooo... I'm almost out of magic...${prompt}
+    Mes réserves de magie ?
+    Épuisé à environ la moitié.${prompt}
+  6747: Mes réserves de magie n'ont pas encore besoin de ta sympathie.${prompt}
+  6748: J'ai utilisé environ la moitié de ma magie.${prompt}
+  6749: '${choice: 0}[/Ma magie est en baisse.../J'ai presque épuisé ma magie !/Ma magie est presque épuisée./Mes réserves de magie sont faibles./Je suis presque à court de magie./Presque à court de magie !/Ma magie est en baisse./Où est passée toute ma magie !?/Mes réserves de magie sont faibles.]${prompt}'
+  6750: Ma magie est en baisse...${prompt}
+  6751: J'ai presque épuisé ma magie !${prompt}
+  6752: Ma magie est presque épuisée.${prompt}
+  6753: Mes réserves de magie sont faibles.${prompt}
+  6754: Nooo... Je suis presque à court de magie...${prompt}
   6755: |-
-    Magic?
-    I'm scraping the bottom of the barrel here...${prompt}
-  6756: My magical reserves are nearing depletion.${prompt}
-  6757: I'm almost out of magic.${prompt}
-  6758: Almost out of magic!${prompt}
-  6759: My magic is running low.${prompt}
-  6760: Where'd all my magic go!?${prompt}
-  6761: My magical reserves are running low.${prompt}
+    Magie ?
+    Je suis en train d'atteindre le fond du baril ici...${prompt}
+  6756: Mes réserves de magie sont presque épuisées.${prompt}
+  6757: Je suis presque à court de magie.${prompt}
+  6758: Presque à court de magie !${prompt}
+  6759: Ma magie est en baisse.${prompt}
+  6760: Où est passée toute ma magie !?${prompt}
+  6761: Mes réserves de magie sont faibles.${prompt}
   6762: |-
-    My magic will no longer be of much aid.
-    Stay sharp!${prompt}
-  6763: My magic...it's all gone!${prompt}
-  6764: |-
-    ${choice: 0}[/I've just recently gained a level./I've just gained a level./Take it easy./I have recently risen in level./I've just gained a level./I just gained a level!/Little time has passed since I last gained a level./I've just gained a level, I know./I have recently risen in level.]
-    ${choice: 0}[/There's still a lot of work to be done until the next one./I'm itching to get out and test my newfound strength!/I've just gained a level./The next level is still quite some distance away./The next level is still quite a way off./You can't expect me to level again any time soon!/The next level is still some distance away./But I still can't wait until I go up again!/The next level is still quite some distance away.]${prompt}
+    Ma magie ne sera plus d'une grande aide.
+    Reste sur tes gardes !${prompt}
+  6763: Ma magie... elle est complètement épuisée !${prompt}
+  6764: '${choice: 0}[/Je viens de monter de niveau./Je viens de gagner un niveau./Prends-le calmement./Je viens récemment de monter de niveau./Je viens de gagner un niveau./Je viens de monter de niveau !/Il a peu de temps depuis que j'ai gagné un niveau./Je viens de monter de niveau, je sais./Je viens récemment de monter de niveau.]${prompt}'
   6765: |-
-    I've just recently gained a level.
-    There's still a lot of work to be done until the next one.${prompt}
+    Je viens de monter de niveau.
+    Il reste encore beaucoup de travail avant le prochain.${prompt}
   6766: |-
-    I've just gained a level.
-    I'm itching to get out and test my newfound strength!${prompt}
+    Je viens de gagner un niveau.
+    J'ai hâte de mettre à l'épreuve ma nouvelle force !${prompt}
   6767: |-
-    Take it easy.
-    I've just gained a level.${prompt}
+    Prends-le calmement.
+    Je viens de gagner un niveau.${prompt}
   6768: |-
-    I have recently risen in level.
-    The next level is still quite some distance away.${prompt}
-  6769: I've just leveled up, but with your help, it'll take no time at all to get to the next level!${prompt}
+    Je viens récemment de monter de niveau.
+    Le niveau suivant est encore assez éloigné.${prompt}
+  6769: Je viens de monter de niveau, mais avec ton aide, il ne faudra pas longtemps pour atteindre le prochain !${prompt}
   6770: |-
-    Hey, I just leveled up, didn't I?
-    Easy on the expectations there, partner.${prompt}
+    Hé, je viens de monter de niveau, non ?
+    Doucement avec les attentes, partenaire.${prompt}
   6771: |-
-    Since I have just gained a level, it will be quite some time until I reach the next.
-    Sorry to disappoint you, ${choice-player-gender}[sir/milady].${prompt}
+    Comme je viens de gagner un niveau, il faudra un certain temps avant d'atteindre le suivant.
+    Désolé de te décevoir, ${choice-player-gender}[monsieur/madame].${prompt}
   6772: |-
-    I've just gained a level.
-    The next level is still quite a way off.${prompt}
+    Je viens de gagner un niveau.
+    Le niveau suivant est encore assez loin.${prompt}
   6773: |-
-    I just gained a level!
-    You can't expect me to level again any time soon!${prompt}
+    Je viens de monter de niveau !
+    Tu ne peux pas t'attendre à ce que je monte de niveau à nouveau de sitôt !${prompt}
   6774: |-
-    Little time has passed since I last gained a level.
-    The next level is still some distance away.${prompt}
+    Il a peu de temps depuis que j'ai gagné un niveau.
+    Le niveau suivant est encore assez éloigné.${prompt}
   6775: |-
-    I've just gained a level, I know.
-    But I still can't wait until I go up again!${prompt}
+    Je viens de monter de niveau, je sais.
+    Mais j'ai encore hâte de monter de niveau à nouveau !${prompt}
   6776: |-
-    I have recently risen in level.
-    The next level is still quite some distance away.${prompt}
+    Je viens récemment de monter de niveau.
+    Le niveau suivant est encore assez éloigné.${prompt}
   6777: |-
-    I just leveled up!
-    We'll have to do something about your memory problem.${prompt}
-  6778: It's so farrr away...${prompt}
+    Je viens de monter de niveau !
+    Nous devrons faire quelque chose pour ton problème de mémoire.${prompt}
+  6778: C'est tellement loin...${prompt}
   6779: |-
-    ${choice: 0}[/My experience is still shallow./I have lots of work to do!/Not even close.../There is still much work to be done./Not even close.../I have lots of work to do!/I still have much to do./Ho-hum./There is still much work to be done.]
-    ${choice: 0}[/I have much work to do./I need more experience if I'm gonna get stronger!/I still have much experience to gain./I must gain more experience if I am to become stronger./I still have much experience to gain./I need more experience if I'm gonna get stronger!/I must gain more experience in order to grow stronger./Still lots of work to do until my next level!/I must gain more experience if I am to become stronger.]${prompt}
+    Mon expérience est encore limitée.
+    J'ai beaucoup de travail à faire.${prompt}
   6780: |-
-    My experience is still shallow.
-    I have much work to do.${prompt}
+    J'ai beaucoup de travail à faire !
+    J'ai besoin de plus d'expérience pour devenir plus fort !${prompt}
   6781: |-
-    I have lots of work to do!
-    I need more experience if I'm gonna get stronger!${prompt}
+    Pas encore...
+    J'ai encore beaucoup d'expérience à acquérir.${prompt}
   6782: |-
-    Not even close...
-    I still have much experience to gain.${prompt}
-  6783: |-
-    There is still much work to be done.
-    I must gain more experience if I am to become stronger.${prompt}
-  6784: I still have to gain lots more experience, but I'll do my best!${prompt}
+    Il reste encore beaucoup de travail à faire.
+    Je dois acquérir plus d'expérience pour devenir plus fort.${prompt}
+  6784: J'ai encore beaucoup d'expérience à gagner, mais je vais faire de mon mieux !${prompt}
   6785: |-
-    My next level is still ages away.
-    Why hurry? Don't worry, be happy!${prompt}
-  6786: I have made some progress, but the next level still eludes me.${prompt}
+    Mon prochain niveau est encore loin.
+    Pourquoi se presser ? Ne t'inquiète pas, sois heureux !${prompt}
+  6786: J'ai fait des progrès, mais le niveau suivant reste hors de portée.${prompt}
   6787: |-
-    Not even close...
-    I still have much experience to gain.${prompt}
+    Pas encore...
+    J'ai encore beaucoup d'expérience à acquérir.${prompt}
   6788: |-
-    I have lots of work to do!
-    I need more experience if I'm gonna get stronger!${prompt}
+    J'ai beaucoup de travail à faire !
+    J'ai besoin de plus d'expérience pour devenir plus fort !${prompt}
   6789: |-
-    I still have much to do.
-    I must gain more experience in order to grow stronger.${prompt}
+    J'ai encore beaucoup de choses à faire.
+    Je dois acquérir plus d'expérience pour devenir plus fort.${prompt}
   6790: |-
     Ho-hum.
-    Still lots of work to do until my next level!${prompt}
+    Il reste encore beaucoup de travail avant le prochain niveau !${prompt}
   6791: |-
-    There is still much work to be done.
-    I must gain more experience if I am to become stronger.${prompt}
-  6792: My level won't rise if we stand around talking like this!${prompt}
-  6793: "No, don't rrremind me! \nSuch a long way to go...${prompt}"
-  6794: |-
-    ${choice: 0}[/I've gained a fair amount of experience./I think I must be almost halfway to my next level./Hmm./I believe I've almost reached the halfway point to my next level./I do believe I'm coming up on halfway to my next level./I think I must be almost halfway to my next level./I've come a long way towards my next level./We've been busy, huh?/I believe I've almost reached the halfway point to my next level.]
-    ${choice: 0}[/I must be close to halfway to my next level by now./Can't slow down now!/I must be almost halfway to my next level by now./Let's not rest on our laurels, however!/That was much faster than I expected./No time to be slacking off!/Must be close to halfway by now./I think I'm almost halfway to my next level./Let's not rest on our laurels, however!]${prompt}
+    Il reste encore beaucoup de travail à faire.
+    Je dois acquérir plus d'expérience pour devenir plus fort.${prompt}
+  6792: Mon niveau ne montera pas si nous restons là à discuter comme ça !${prompt}
+  6793: "Non, ne me rappelle pas ! \nQuel chemin à parcourir..."${prompt}
+  6794: '${choice: 0}[/J'ai gagné une quantité considérable d'expérience./Je pense que je dois être presque à mi-chemin de mon niveau suivant./Hmm./Je crois que j'ai presque atteint le point médian de mon niveau suivant./Je crois que j'arrive bientôt à mi-chemin de mon niveau suivant./Je pense que je dois être presque à mi-chemin de mon niveau suivant./J'ai fait un long chemin vers mon niveau suivant./On a été occupés, hein ?/Je crois que j'ai presque atteint le point médian de mon niveau suivant.]${prompt}'
   6795: |-
-    I've gained a fair amount of experience.
-    I must be close to halfway to my next level by now.${prompt}
+    J'ai gagné une quantité considérable d'expérience.
+    Je pense que je dois être presque à mi-chemin de mon niveau suivant.${prompt}
   6796: |-
-    I think I must be almost halfway to my next level.
-    Can't slow down now!${prompt}
+    Je pense que je dois être presque à mi-chemin de mon niveau suivant.
+    On ne peut pas ralentir maintenant !${prompt}
   6797: |-
     Hmm.
-    I must be almost halfway to my next level by now.${prompt}
+    Je dois être presque à mi-chemin de mon niveau suivant.${prompt}
   6798: |-
-    I believe I've almost reached the halfway point to my next level.
-    Let's not rest on our laurels, however!${prompt}
-  6799: I think I'm about half way there...${prompt}
-  6800: I'm half way there, so let's keep up the pace!${prompt}
-  6801: Through sustained effort and your invaluable assistance, I believe I now stand at the halfway point.${prompt}
+    Je crois que j'ai presque atteint le point médian de mon niveau suivant.
+    Ne nous reposons pas sur nos lauriers !${prompt}
+  6799: Je pense que je suis à peu près à mi-chemin...${prompt}
+  6800: Je suis à mi-chemin, alors continuons à ce rythme !${prompt}
+  6801: Grâce à un effort soutenu et à ton aide précieuse, je crois que je suis maintenant au point médian.${prompt}
   6802: |-
-    I do believe I'm coming up on halfway to my next level.
-    That was much faster than I expected.${prompt}
+    Je crois que j'arrive bientôt à mi-chemin de mon niveau suivant.
+    C'était bien plus rapide que ce que je pensais.${prompt}
   6803: |-
-    I think I must be almost halfway to my next level.
-    No time to be slacking off!${prompt}
+    Je pense que je dois être presque à mi-chemin de mon niveau suivant.
+    Pas question de traîner !${prompt}
   6804: |-
-    I've come a long way towards my next level.
-    Must be close to halfway by now.${prompt}
+    J'ai fait un long chemin vers mon niveau suivant.
+    Je dois être proche de la moitié maintenant.${prompt}
   6805: |-
-    We've been busy, huh?
-    I think I'm almost halfway to my next level.${prompt}
+    On a été occupés, hein ?
+    Je pense que je suis presque à mi-chemin de mon niveau suivant.${prompt}
   6806: |-
-    I believe I've almost reached the halfway point to my next level.
-    Let's not rest on our laurels, however!${prompt}
+    Je crois que j'ai presque atteint le point médian de mon niveau suivant.
+    Ne nous reposons pas sur nos lauriers !${prompt}
   6807: |-
-    I still haven't acquired enough experience.
-    About double what I have now should be sufficient for the next level.${prompt}
-  6808: I'm halfway there...maybe?${prompt}
+    Je n'ai pas encore acquis suffisamment d'expérience.
+    Environ le double de ce que j'ai maintenant devrait suffire pour le niveau suivant.${prompt}
+  6808: Je suis à mi-chemin... peut-être ?${prompt}
   6809: |-
-    ${choice: 0}[/Hmm./This is a good pace!/Hmm./Well, well./Just a little more./Come on!/I'm past the halfway point./Just a little more!/Well, well.]
-    ${choice: 0}[/Not too much further to my next level./Not much more to my next level!/Still need a little more experience for my next level./It appears my next level is not far off at all./My next level is not too far away./I need to gain a little more experience for my next level!/Not long now until I gain another level./My next level is almost within sight!/It appears my next level is not far off at all.]${prompt}
+    Hmm.
+    Plus très loin avant mon prochain niveau.${prompt}
   6810: |-
-    Hmm.
-    Not too much further to my next level.${prompt}
+    C'est un bon rythme !
+    Plus beaucoup avant mon prochain niveau !${prompt}
   6811: |-
-    This is a good pace!
-    Not much more to my next level!${prompt}
-  6812: |-
     Hmm.
-    Still need a little more experience for my next level.${prompt}
-  6813: |-
-    Well, well.
-    It appears my next level is not far off at all.${prompt}
-  6814: I'm slowly getting closer to the next level.${prompt}
-  6815: I reckon I'm fairly close to the next level.${prompt}
-  6816: My next level is now visible on the horizon.${prompt}
+    Il me faut encore un peu plus d'expérience pour mon prochain niveau.${prompt}
+  6812: |-
+    Eh bien.
+    Il semble que mon prochain niveau ne soit pas loin du tout.${prompt}
+  6814: Je me rapproche lentement du niveau suivant.${prompt}
+  6815: Je pense que je suis assez près du prochain niveau.${prompt}
+  6816: Mon prochain niveau est maintenant visible à l'horizon.${prompt}
   6817: |-
-    Just a little more.
-    My next level is not too far away.${prompt}
+    Encore un petit effort.
+    Mon prochain niveau n'est pas trop loin.${prompt}
   6818: |-
-    Come on!
-    I need to gain a little more experience for my next level!${prompt}
+    Allez !
+    Il me faut encore un peu plus d'expérience pour mon prochain niveau !${prompt}
   6819: |-
-    I'm past the halfway point.
-    Not long now until I gain another level.${prompt}
+    Je suis passé le point médian.
+    Plus longtemps avant de gagner un autre niveau.${prompt}
   6820: |-
-    Just a little more!
-    My next level is almost within sight!${prompt}
+    Encore un petit effort !
+    Mon prochain niveau est presque en vue !${prompt}
   6821: |-
-    Well, well.
-    It appears my next level is not far off at all.${prompt}
+    Eh bien.
+    Il semble que mon prochain niveau ne soit pas loin du tout.${prompt}
   6822: |-
-    My next level draws ever nearer.
-    But that doesn't mean you can slack off.${prompt}
-  6823: It can't be so far off, now...can it?${prompt}
-  6824: |-
-    ${choice: 0}[/Hmm./I'm almost there./Not long now./Any time now./Well, what do you know?/Woohoo!/This is encouraging./I love this time!/Any time now.]
-    ${choice: 0}[/I should be gaining a level soon./I can almost taste my next level!/My next level is just around the corner./My next level is very close, indeed./I think I'll be gaining a level soon./I'll be leveling up really soon!/I should be gaining a level any time now./I'm on the final stretch towards my next level!/My next level is very close, indeed.]${prompt}
+    Mon prochain niveau se rapproche de plus en plus.
+    Mais cela ne signifie pas que tu peux te relâcher.${prompt}
+  6823: Ce ne peut pas être si loin maintenant... n'est-ce pas ?${prompt}
+  6824: '${choice: 0}[/Hmm./Je suis presque là./Plus longtemps maintenant./Bientôt./Eh bien, que vois-je ?/Hourra !/C'est encourageant./J'adore ce moment !/Bientôt.]${prompt}'
   6825: |-
     Hmm.
-    I should be gaining a level soon.${prompt}
+    Je devrais bientôt atteindre le niveau.${prompt}
   6826: |-
-    I'm almost there!
-    I can almost taste my next level!${prompt}
+    Je suis presque là !
+    Je peux presque goûter mon prochain niveau !${prompt}
   6827: |-
-    Not long now.
-    My next level is just around the corner.${prompt}
+    Plus longtemps maintenant.
+    Mon prochain niveau est juste au coin de la rue.${prompt}
   6828: |-
-    Any time now.
-    My next level is very close, indeed.${prompt}
-  6829: I think I'll level up any time now! Yay!${prompt}
+    Bientôt.
+    Mon prochain niveau est vraiment très proche.${prompt}
+  6829: Je pense que je vais monter de niveau dans peu de temps ! Hourra !${prompt}
   6830: |-
-    Ooh, the next level's close...really close.
-    We should prepare to celebrate!${prompt}
+    Ooh, le prochain niveau est proche... vraiment proche.
+    Nous devrions nous préparer à fêter ça !${prompt}
   6831: |-
-    Why, I would not be surprised if my level were to rise...now!
-    Er...perhaps not quite yet.${prompt}
+    Eh bien, je ne serais pas surpris que mon niveau augmente... maintenant !
+    Euh... peut-être pas tout à fait encore.${prompt}
   6832: |-
-    Well, what do you know?
-    I think I'll be gaining a level soon.${prompt}
+    Eh bien, que vois-je ?
+    Je pense que je devrais bientôt atteindre le niveau.${prompt}
   6833: |-
-    Woohoo!
-    I'll be leveling up really soon!${prompt}
+    Hourra !
+    Je vais monter de niveau très bientôt !${prompt}
   6834: |-
-    This is encouraging.
-    I should be gaining a level any time now.${prompt}
+    C'est encourageant.
+    Je devrais bientôt atteindre le niveau.${prompt}
   6835: |-
-    I love this time!
-    I'm on the final stretch towards my next level!${prompt}
+    J'adore ce moment !
+    Je suis sur la dernière ligne droite vers mon prochain niveau !${prompt}
   6836: |-
-    Any time now.
-    My next level is very close, indeed.${prompt}
+    Bientôt.
+    Mon prochain niveau est vraiment très proche.${prompt}
   6837: |-
-    My next level is within reaching distance!
-    From now it's a charge to the finish line!${prompt}
+    Mon prochain niveau est à portée de main !
+    À partir de maintenant, c'est une charge vers la ligne d'arrivée !${prompt}
   6838: |-
-    <Sniff, sniff>
-    I think I can smell my next level!
-    Come out, come out, whereverrr you are!${prompt}
+    <Snif, snif>
+    Je crois que je peux sentir mon prochain niveau !
+    Sortez, sortez, où que vous soyez !${prompt}
   6839: |-
-    I tell you what.
-    Changing your weapon is fun.
-    Seriously.${prompt}
+    Je vais te dire.
+    Changer d'arme, c'est amusant.
+    Sérieusement.${prompt}
   6840: |-
-    It's always nice to come outside and move around!
-    Those Mog Houses can get so stuffy!
-    Wanna race?${prompt}
+    C'est toujours agréable de sortir et de bouger !
+    Ces Mog Houses peuvent devenir tellement étouffantes !
+    On fait une course ?${prompt}
   6841: |-
     ...
-    We should keep the chat down.
-    The sound could give our position away to some beastman...${prompt}
+    Nous devrions rester discrets.
+    Le bruit pourrait trahir notre position à un bête homme...${prompt}
   6842: |-
-    It's all very well and good to be heroic.
-    But it's best not to overstretch yourself during battle.
-    Overcautious? Perhaps.${prompt}
+    C'est très bien d'être héroïque.
+    Mais il vaut mieux ne pas trop se pousser pendant le combat.
+    Trop prudent ? Peut-être.${prompt}
   6843: |-
-    Wh-what? Y...you say you want to have a conversation?
-    Um, here goes... Er...nice weather, isn't it...?${prompt}
-  6844: You know, we've been adventuring together for a while now, but we still have lots to learn about each other.${prompt}
+    Qu-quoi ? V-vous voulez discuter ?
+    Euh, allons-y... Euh... beau temps, n'est-ce pas ?${prompt}
+  6844: Tu sais, cela fait un moment que nous aventurons ensemble, mais nous avons encore beaucoup à apprendre l'un sur l'autre.${prompt}
   6845: |-
-    You called? How may I be of service?
-    You need but ask, and it shall be done!${prompt}
+    Vous m'avez appelé ? Comment puis-je vous servir ?
+    Il vous suffit de demander, et ce sera fait !${prompt}
   6846: |-
-    I love to chat.
-    But we should keep an eye out for wandering monsters.
-    Just in case.${prompt}
+    J'adore discuter.
+    Mais nous devrions rester vigilants pour les monstres errants.
+    Juste au cas où.${prompt}
   6847: |-
-    Treasure?
-    I'm not really interested.
-    You go ahead and keep it all.${prompt}
+    Trésor ?
+    Je ne suis pas vraiment intéressé.
+    Gardez-le tout.${prompt}
   6848: |-
-    I just realized something.
-    I've never once had Signet cast on me.
-    Oh well, never mind...${prompt}
+    Je viens de réaliser quelque chose.
+    Je n'ai jamais eu le Signet jeté sur moi.
+    Tant pis, peu importe...${prompt}
   6849: |-
-    Communication is really important.
-    We should always let each other know what we're thinking, right?
-    No secrets!${prompt}
+    La communication est vraiment importante.
+    Nous devrions toujours nous dire ce que nous pensons, non ?
+    Pas de secrets !${prompt}
   6850: |-
-    It's all very well and good to be heroic.
-    But it's best not to overstretch yourself during battle.
-    Overcautious? Perhaps.${prompt}
+    C'est très bien d'être héroïque.
+    Mais il vaut mieux ne pas trop se pousser pendant le combat.
+    Trop prudent ? Peut-être.${prompt}
   6851: |-
-    There is a time and place for idle chatter.
-    No, I stand corrected: There is no time nor place for idle chatter.${prompt}
+    Il y a un temps et un lieu pour les bavardages.
+    Non, je me corrige : il n'y a ni temps ni lieu pour les bavardages.${prompt}
   6852: |-
-    She floats like a butterfly and stings like a bee.♪
-    The grrreatest Mithra in the world--that's me!♪${prompt}
+    Elle flotte comme un papillon et pique comme une abeille.♪
+    La plus grande Mithra du monde--c'est moi !♪${prompt}
   6853: |-
-    Fight or evade?
-    I'll leave those decisions up to you.
-    Either is fine with me.${prompt}
+    Combattre ou éviter ?
+    Je laisse ces décisions entre tes mains.
+    Les deux me vont.${prompt}
   6854: |-
-    Battle strategy!
-    We should work together, you know.
-    I know some great weapon skills!${prompt}
+    Stratégie de bataille !
+    Nous devrions travailler ensemble, tu sais.
+    Je connais des compétences en armes formidables !${prompt}
   6855: |-
-    No need to worry.
-    I've had training in all sorts of weapons.
-    Try me.${prompt}
+    Pas besoin de s'inquiéter.
+    J'ai été formé dans toutes sortes d'armes.
+    Essaie-moi.${prompt}
   6856: |-
-    Look at the time.
-    We could spend all day chatting like this.
-    Not that we have to be fighting...${prompt}
+    Regardons l'heure.
+    Nous pourrions passer toute la journée à discuter comme ça.
+    Pas que nous devions combattre...${prompt}
   6857: |-
     ......
-    S-sorry, but I couldn't think of anything to say.
-    I'm not very good at conversation and stuff...${prompt}
+    D-désolé, mais je ne pouvais pas penser à quelque chose à dire.
+    Je ne suis pas très bon en conversation et tout ça...${prompt}
   6858: |-
-    Seems to me all we do is fight, fight, and fight.
-    Next time we should do something different--something fun!${prompt}
-  6859: While your battle prowess is beyond criticism, the ability to gracefully wield knife and fork at the dining table must not be underestimated. Might I be so bold as to suggest spending more time mastering table manners?${prompt}
+    Il me semble que nous ne faisons que combattre, combattre et combattre.
+    La prochaine fois, nous devrions faire quelque chose de différent--quelque chose d'amusant !${prompt}
+  6859: Votre maîtrise du combat est irréprochable, mais l'art de manier le couteau et la fourchette à table ne doit pas être sous-estimé. Puis-je me permettre de suggérer de passer plus de temps à maîtriser les bonnes manières à table ?${prompt}
   6860: |-
-    It's surprising.
-    There's so much beauty to be found outside the city walls.
-    I spend too much time in clothes stores.${prompt}
+    C'est surprenant.
+    Il y a tant de beauté à découvrir hors des murs de la ville.
+    Je passe trop de temps dans les magasins de vêtements.${prompt}
   6861: |-
-    Listen.
-    Let me know if you want me to take the heat.
-    I can take it!${prompt}
+    Écoute.
+    Fais-moi savoir si tu veux que je prenne la chaleur.
+    Je peux le supporter !${prompt}
   6862: |-
-    I like the outdoors.
-    Away from the hustle and bustle of the towns.
-    So relaxing...${prompt}
+    J'aime le plein air.
+    Loin de l'agitation des villes.
+    Si relaxant...${prompt}
   6863: |-
-    Hey!
-    It's really a lot of fun adventuring with you.
-    We get to see all kinds of things!${prompt}
+    Hé !
+    C'est vraiment très amusant d'aventurer avec toi.
+    Nous voyons toutes sortes de choses !${prompt}
   6864: |-
-    Look at the time.
-    We could spend all day chatting like this.
-    Not that we have to be fighting...${prompt}
-  6865: If I wanted to engage in petty conversation, I'd ask for it!${prompt}
+    Regardons l'heure.
+    Nous pourrions passer toute la journée à discuter comme ça.
+    Pas que nous devions combattre...${prompt}
+  6865: Si je voulais participer à une conversation futile, je le demanderais !${prompt}
   6866: |-
-    Heal the worrrld.♪
-    Make it a better place.♪
-    For you and for me, and the entire Mithran rrrace.♪${prompt}
+    Guéris le mmmmonde.♪
+    Rends-le meilleur.♪
+    Pour toi et pour moi, et pour toute la race Mithran.♪${prompt}
   6867: |-
-    Is that a yawn?
-    Be careful to get enough sleep.
-    It could affect your performance in battle.${prompt}
+    Est-ce un bâillement ?
+    Fais attention à bien dormir.
+    Cela pourrait affecter ta performance en combat.${prompt}
   6868: |-
-    You know me!
-    I can take the hits.
-    Just bring it on!${prompt}
+    Tu me connais !
+    Je peux encaisser les coups.
+    Lance-les !${prompt}
   6869: |-
     ...
-    Sometimes...
-    I just like to be quiet...${prompt}
+    Parfois...
+    J'aime juste rester silencieuse...${prompt}
   6870: |-
-    A small reminder:
-    We should be extra careful out here.
-    You never know when an enemy may be near...${prompt}
+    Un petit rappel :
+    Nous devrions être particulièrement prudents ici.
+    On ne sait jamais quand un ennemi peut être proche...${prompt}
   6871: |-
-    Um... I've been meaning to ask, I mean...
-    I hope you don't mind me asking, but...uh...
-    Nevermind... <Sigh>${prompt}
-  6872: You know, it's kind of embarrassing we have exactly the same pearl, don't you think?${prompt}
-  6873: Nothing grants me greater happiness than being able to stand at your side, come what may.${prompt}
+    Euh... J'avais l'intention de demander, je veux dire...
+    J'espère que ça ne te dérange pas que je demande, mais... euh...
+    Laisse tomber... <Soupir>${prompt}
+  6872: Tu sais, c'est un peu embarrassant que nous ayons exactement la même perle, tu ne trouves pas ?${prompt}
+  6873: Rien ne me rend plus heureux que de pouvoir être à tes côtés, quoi qu'il arrive.${prompt}
   6874: |-
-    By the way.
-    You don't have to handle everything yourself.
-    I can take the frontline sometimes, too.${prompt}
+    Au fait.
+    Tu n'as pas à tout faire toi-même.
+    Je peux aussi prendre le devant parfois.${prompt}
   6875: |-
-    Ah, this is fun!
-    I love visiting different places.
-    Don't you?${prompt}
+    Ah, c'est amusant !
+    J'adore visiter différents endroits.
+    N'est-ce pas ?${prompt}
   6876: |-
-    By the way.
-    I'll be there for you, no matter what.
-    Even if your opponent seems too weak to be worthwhile.${prompt}
+    Au fait.
+    Je serai là pour toi, quoi qu'il arrive.
+    Même si ton adversaire semble trop faible pour en valoir la peine.${prompt}
   6877: |-
-    You never know when something bad is going to happen.
-    What's that over there!?
-    Kidding!${prompt}
+    On ne sait jamais quand quelque chose de mauvais va se produire.
+    Qu'est-ce que c'est là-bas !?
+    Je rigole !${prompt}
   6878: |-
-    A small reminder:
-    We should be extra careful out here.
-    You never know when an enemy may be near...${prompt}
+    Un petit rappel :
+    Nous devrions être particulièrement prudents ici.
+    On ne sait jamais quand un ennemi peut être proche...${prompt}
   6879: |-
-    Your curiosity and persistence will take you a long way.
-    But it can be irritating, so don't overdo it.${prompt}
+    Ta curiosité et ta persévérance te mèneront loin.
+    Mais cela peut être irritant, alors ne pousse pas trop loin.${prompt}
   6880: |-
-    Huh...?
-    What is this place? Why am I here?
-    I was supposed to be--ow! My head hurrrts...${prompt}
+    Hein... ?
+    Quel est cet endroit ? Pourquoi suis-je ici ?
+    Je devais être--aïe ! Ma tête me fait mal...${prompt}
   6881: |-
-    ${choice: 0}[/Ready?/Keep your eyes open!/I see an opening./Are you ready?/I'm warmed up now./Don't blink now!/Are you ready?/Alrighty!/Are you ready?]
-    ${choice: 0}[/I'm taking my shot!/You don't wanna miss this!/Get ready to follow up./I'm beginning my attack!/Time for a real attack!/Follow my lead!/I'm taking my shot!/Here goes nothing!/I'm beginning my attack!]${prompt}
+    ${choice: 0}[/Prêt ?/Garde les yeux ouverts !/Je vois une ouverture./Es-tu prêt ?/Je suis échauffé maintenant./Ne cligne pas des yeux !/Es-tu prêt ?/Très bien !/Es-tu prêt ?]
+    ${choice: 0}[/Je fais mon coup !/Tu ne veux pas manquer ça !/Prépare-toi à suivre./Je commence mon attaque !/Il est temps pour une vraie attaque !/Suis mon exemple !/Je fais mon coup !/C'est parti !/Je commence mon attaque !]${prompt}
   6882: |-
-    Ready?
-    I'm taking my shot!${prompt}
+    Prêt ?
+    Je fais mon coup !${prompt}
   6883: |-
-    Keep your eyes open!
-    You don't wanna miss this!${prompt}
+    Garde les yeux ouverts !
+    Tu ne veux pas manquer ça !${prompt}
   6884: |-
-    I see an opening.
-    Get ready to follow up.${prompt}
+    Je vois une ouverture.
+    Prépare-toi à suivre.${prompt}
   6885: |-
-    Are you ready?
-    I'm beginning my attack!${prompt}
+    Es-tu prêt ?
+    Je commence mon attaque !${prompt}
   6886: |-
-    I'm going to attack!
-    Are you ready?${prompt}
+    Je vais attaquer !
+    Es-tu prêt ?${prompt}
   6887: |-
-    Keep your eyes peeled!
-    I'm going in for the big one!${prompt}
+    Garde les yeux bien ouverts !
+    Je me lance pour le gros coup !${prompt}
   6888: |-
-    Are preparations in order, ${choice-player-gender}[sir/milady]?
-    Then, I shall proceed with my offensive.${prompt}
+    Les préparatifs sont-ils en ordre, ${choice-player-gender}[monsieur/madame] ?
+    Alors, je vais procéder à mon offensive.${prompt}
   6889: |-
-    I'm warmed up now.
-    Time for a real attack!${prompt}
+    Je suis échauffé maintenant.
+    Il est temps pour une vraie attaque !${prompt}
   6890: |-
-    Don't blink now!
-    Follow my lead!${prompt}
+    Ne cligne pas des yeux maintenant !
+    Suis mon exemple !${prompt}
   6891: |-
-    Are you ready?
-    I'm taking my shot!${prompt}
+    Es-tu prêt ?
+    Je fais mon coup !${prompt}
   6892: |-
-    Alrighty!
-    Here goes nothing!${prompt}
+    Très bien !
+    C'est parti !${prompt}
   6893: |-
-    Are you ready?
-    I'm beginning my attack!${prompt}
+    Es-tu prêt ?
+    Je commence mon attaque !${prompt}
   6894: |-
-    I'm going in, so get ready!
-    No slipping up!${prompt}
+    Je me lance, alors prépare-toi !
+    Pas de faux pas !${prompt}
   6895: |-
-    It's my turrrn!
-    Get ready to pounce after me!${prompt}
+    C'est mon tour !
+    Prépare-toi à bondir après moi !${prompt}
   6896: |-
-    Blessed radiance!
-    Purge this evil with your purifying light!${prompt}
+    Radiance bénie !
+    Purifie ce mal avec ta lumière purificatrice !${prompt}
   6897: |-
-    Blessed radiance!
-    Grant me your power!${prompt}
+    Radiance bénie !
+    Accorde-moi ta puissance !${prompt}
   6898: |-
-    Blessed radiance!
-    Strike down this evil with blades of cleansing incandescence!${prompt}
+    Radiance bénie !
+    Frappe ce mal avec des lames de lumière purificatrice !${prompt}
   6899: |-
-    Blessed radiance!
-    Lend me the strength to defeat this evil!${prompt}
+    Radiance bénie !
+    Accorde-moi la force de vaincre ce mal !${prompt}
   6900: |-
-    Blessed radiance!
-    Lend me your power!${prompt}
+    Radiance bénie !
+    Accorde-moi ton pouvoir !${prompt}
   6901: |-
-    Blessed radiance!
-    Smite this evil with your purifying light!${prompt}
+    Radiance bénie !
+    Frappe ce mal avec ta lumière purificatrice !${prompt}
   6902: |-
-    Blessed radiance!
-    I humbly call upon thee! Protect us with your divine light!${prompt}
+    Radiance bénie !
+    Je t'appelle humblement ! Protège-nous avec ta lumière divine !${prompt}
   6903: |-
-    Blessed radiance!
-    Purge this evil with your purifying light!${prompt}
+    Radiance bénie !
+    Purifie ce mal avec ta lumière purificatrice !${prompt}
   6904: |-
-    Blessed radiance!
-    Grant me your power!${prompt}
+    Radiance bénie !
+    Accorde-moi ton pouvoir !${prompt}
   6905: |-
-    Blessed radiance!
-    Strike down this evil with blades of cleansing incandescence!${prompt}
+    Radiance bénie !
+    Frappe ce mal avec des lames de lumière purificatrice !${prompt}
   6906: |-
-    Blessed radiance!
-    Grant me your power!${prompt}
+    Radiance bénie !
+    Accorde-moi ton pouvoir !${prompt}
   6907: |-
-    Blessed radiance!
-    Lend me the strength to defeat this evil!${prompt}
+    Radiance bénie !
+    Accorde-moi la force de vaincre ce mal !${prompt}
   6908: |-
-    Blessed radiance!
-    Strike down this evil with your divine beam of judgment!${prompt}
+    Radiance bénie !
+    Frappe ce mal avec ton rayon divin de jugement !${prompt}
   6909: |-
-    Blessed rrradiance!
-    Go forth and...zap that evil thing...over there! Meow!${prompt}
+    Radiance bénie !
+    Va donc et... zappe ce mal là-bas... Miaou !${prompt}
   6910: |-
-    Defeated enemies?
-    That was number ${number: 0}.${prompt}
-  6911: 'So far, we''ve only taken down ${number: 0} ${choice-plurality: 0}[enemy/enemies] today!${prompt}'
+    Ennemis vaincus ?
+    C'était le numéro ${number: 0}.${prompt}
+  6911: 'Jusqu'à présent, nous avons seulement éliminé ${number: 0} ${choice-plurality: 0}[ennemi/ennemis] aujourd'hui !${prompt}'
   6912: |-
-    How many enemies have we defeated?
-    Only ${number: 0}. You can count that high, right...?${prompt}
+    Combien d'ennemis avons-nous vaincus ?
+    Seulement ${number: 0}. Tu sais compter jusque-là, n'est-ce pas...?${prompt}
   6913: |-
-    You wish to know the tally of defeated enemies?
-    Why, we have only vanquished ${number: 0} ${choice-plurality: 0}[foe/foes] so far.${prompt}
-  6914: 'We haven''t defeated many enemies yet. Only ${number: 0} so far.${prompt}'
+    Tu veux connaître le nombre d'ennemis vaincus ?
+    Eh bien, nous n'avons que vaincu ${number: 0} ${choice-plurality: 0}[adversaire/adversaires] jusqu'à présent.${prompt}
+  6914: 'Nous n'avons pas encore vaincu beaucoup d'ennemis. Seulement ${number: 0} jusqu'à présent.${prompt}'
   6915: |-
-    We've only defeated ${number: 0} ${choice-plurality: 0}[enemy/enemies] so far.
-    Nothing to write home about.${prompt}
+    Nous n'avons jusqu'à présent vaincu que ${number: 0} ${choice-plurality: 0}[ennemi/ennemis].
+    Rien de bien exceptionnel.${prompt}
   6916: |-
-    Our progress, ${choice-player-gender}[sir/milady]?
-    The last foe bested brings today's tally to ${number: 0} ${choice-plurality: 0}[enemy/enemies].${prompt}
+    Notre progression, ${choice-player-gender}[monsieur/madame] ?
+    Le dernier ennemi vaincu porte le total d'aujourd'hui à ${number: 0} ${choice-plurality: 0}[ennemi/enemies].${prompt}
   6917: |-
-    We've only beaten ${number: 0} ${choice-plurality: 0}[enemy/enemies] so far.
-    Don't tell me you're tired already!?${prompt}
+    Nous avons seulement battu ${number: 0} ${choice-plurality: 0}[ennemi/ennemis] jusqu'à présent.
+    Ne me dis pas que tu es déjà fatigué !${prompt}
   6918: |-
-    Only ${number: 0} ${choice-plurality: 0}[enemy has/enemies have] fallen to us today!
-    We're just getting started!${prompt}
-  6919: 'The last enemy we defeated was number ${number: 0}.${prompt}'
-  6920: 'The last enemy we took down was number ${number: 0}.${prompt}'
+    Seulement ${number: 0} ${choice-plurality: 0}[ennemi/ennemis] ont été vaincus aujourd'hui !
+    Nous venons juste de commencer !${prompt}
+  6919: 'Le dernier ennemi que nous avons vaincu était le numéro ${number: 0}.${prompt}'
+  6920: 'Le dernier ennemi que nous avons abattu était le numéro ${number: 0}.${prompt}'
   6921: |-
-    You wish to know the tally of defeated enemies?
-    Why, we have only vanquished ${number: 0} ${choice-plurality: 0}[foe/foes] so far.${prompt}
+    Tu souhaites connaître le nombre d'ennemis vaincus ?
+    Eh bien, nous n'en avons vaincu que ${number: 0} ${choice-plurality: 0}[adversaire/adversaires] jusqu'à présent.${prompt}
   6922: |-
-    Only ${number: 0} ${choice-plurality: 0}[enemy/enemies] defeated so far.
-    This doesn't even amount to a warm-up.${prompt}
-  6923: We've beaten at least two...right?${prompt}
+    Seulement ${number: 0} ${choice-plurality: 0}[ennemi/ennemis] vaincus jusqu'à présent.
+    Cela ne représente même pas un échauffement.${prompt}
+  6923: Nous avons battu au moins deux ennemis... n'est-ce pas ?${prompt}
   6924: |-
-    Defeated enemies?
-    That was number ${number: 0}.${prompt}
-  6925: 'I''d say we''ve blasted through around ${number: 0} ${choice-plurality: 0}[enemy/enemies] by now!${prompt}'
+    Ennemis vaincus ?
+    C'était le numéro ${number: 0}.${prompt}
+  6925: 'Je dirais que nous avons éliminé environ ${number: 0} ${choice-plurality: 0}[ennemi/ennemis] jusqu'à présent !${prompt}'
   6926: |-
-    How many enemies have we defeated?
-    Hmm, around ${number: 0}...${prompt}
+    Combien d'ennemis avons-nous vaincus ?
+    Hmm, environ ${number: 0}...${prompt}
   6927: |-
-    You wish to know the tally of defeated enemies?
-    The last villain we defeated brings us to number ${number: 0}.${prompt}
+    Tu souhaites connaître le nombre d'ennemis vaincus ?
+    Le dernier vilain que nous avons vaincu nous porte à ${number: 0}.${prompt}
   6928: |-
-    You want to know how many enemies we've beaten so far?
-    Let me check... It's ${number: 0}.${prompt}
+    Tu veux savoir combien d'ennemis nous avons battus jusqu'à présent ?
+    Laisse-moi vérifier... C'est ${number: 0}.${prompt}
   6929: |-
-    The last one we took care of makes number ${number: 0}, right?
-    Not too shabby, if I do say so myself.${prompt}
+    Le dernier que nous avons éliminé fait le numéro ${number: 0}, non ?
+    Pas mal, si je puis dire.${prompt}
   6930: |-
-    Our progress, ${choice-player-gender}[sir/milady]?
-    The last foe bested brings today's tally to ${number: 0} ${choice-plurality: 0}[enemy/enemies].${prompt}
+    Notre progression, ${choice-player-gender}[monsieur/madame] ?
+    Le dernier ennemi vaincu porte le total d'aujourd'hui à ${number: 0} ${choice-plurality: 0}[ennemi/enemies].${prompt}
   6931: |-
-    We've defeated about ${number: 0} ${choice-plurality: 0}[enemy/enemies] now.
-    That should quieten things down around here!${prompt}
+    Nous avons maintenant vaincu environ ${number: 0} ${choice-plurality: 0}[ennemi/ennemis].
+    Cela devrait calmer les choses ici !${prompt}
   6932: |-
-    I would say we've taken out around ${number: 0} ${choice-plurality: 0}[enemy/enemies] by now.
-    Still more work to be done!${prompt}
+    Je dirais que nous avons éliminé environ ${number: 0} ${choice-plurality: 0}[ennemi/ennemis] jusqu'à présent.
+    Il reste encore du travail à faire !${prompt}
   6933: |-
-    The last enemy we defeated was number ${number: 0}.
-    As far as I remember.${prompt}
+    Le dernier ennemi que nous avons vaincu était le numéro ${number: 0}.
+    Autant que je me souvienne.${prompt}
   6934: |-
-    How many enemies have we downed?
-    Umm...around ${number: 0}.
-    I think.${prompt}
+    Combien d'ennemis avons-nous abattus ?
+    Euh... environ ${number: 0}.
+    Je pense.${prompt}
   6935: |-
-    You wish to know the tally of defeated enemies?
-    The last villain we defeated brings us to number ${number: 0}.${prompt}
+    Tu souhaites connaître le nombre d'ennemis vaincus ?
+    Je crois que notre total est de ${number: 0}.${prompt}
   6936: |-
-    Our tally stands at a meager ${number: 0} enemies.
-    This is unacceptable. We're picking up the pace!${prompt}
-  6937: We've beaten a lot more than three now...prrrobably.${prompt}
+    Notre total est à un maigre ${number: 0} ennemis.
+    C'est inacceptable. Nous devons accélérer le rythme !${prompt}
+  6937: Nous avons battu bien plus que trois maintenant... probablement.${prompt}
   6938: |-
-    Defeated enemies?
-    That was number ${number: 0}, I believe.${prompt}
-  6939: 'I''m just guessing here, but I''d say we''ve destroyed about ${number: 0} ${choice-plurality: 0}[enemy/enemies] today!${prompt}'
+    Ennemis vaincus ?
+    C'était le numéro ${number: 0}, je crois.${prompt}
+  6939: 'Je devine, mais je dirais que nous avons détruit environ ${number: 0} ${choice-plurality: 0}[ennemi/ennemis] aujourd'hui !${prompt}'
   6940: |-
-    Enemies defeated?
-    I wasn't really keeping track.
-    Around ${number: 0}, I suppose...${prompt}
+    Ennemis vaincus ?
+    Je ne tenais pas vraiment le compte.
+    Autour de ${number: 0}, je suppose...${prompt}
   6941: |-
-    You wish to know the tally of defeated enemies?
-    I believe our total comes to ${number: 0}.${prompt}
+    Tu souhaites connaître le nombre d'ennemis vaincus ?
+    Je crois que notre total est de ${number: 0}.${prompt}
   6942: |-
-    How many enemies we've defeated?
-    Isn't it something like ${number: 0}?${prompt}
+    Combien d'ennemis avons-nous vaincus ?
+    N'est-ce pas quelque chose comme ${number: 0} ?${prompt}
   6943: |-
-    Let's see...
-    So far we've wiped the floor with ${number: 0} enemies. Good job!${prompt}
+    Voyons voir...
+    Jusqu'à présent, nous avons écrasé ${number: 0} ennemis. Bon travail !${prompt}
   6944: |-
-    The last foe bested brings today's tally to ${number: 0} ${choice-plurality: 0}[enemy/enemies]--a most impressive figure.
-    Shall I prepare tea and biscuits?${prompt}
+    Le dernier ennemi vaincu porte le total d'aujourd'hui à ${number: 0} ${choice-plurality: 0}[ennemi/enemies]--un chiffre très impressionnant.
+    Dois-je préparer du thé et des biscuits ?${prompt}
   6945: |-
-    We just beat enemy number ${number: 0}.
-    They just keep coming, don't they?${prompt}
-  6946: 'The last enemy we took down was number ${number: 0}...I think.${prompt}'
+    Nous venons de battre l'ennemi numéro ${number: 0}.
+    Ils continuent d'arriver, n'est-ce pas ?${prompt}
+  6946: 'Le dernier ennemi que nous avons abattu était le numéro ${number: 0}... je pense.${prompt}'
   6947: |-
-    That last enemy brings us to a total of ${number: 0} ${choice-plurality: 0}[enemy/enemies] defeated.
-    We've been busy.${prompt}
+    Le dernier ennemi que nous avons éliminé nous amène à un total de ${number: 0} ${choice-plurality: 0}[ennemi/ennemis] vaincus.
+    Nous avons été occupés.${prompt}
   6948: |-
-    Umm, let's see here...
-    We've beaten ${number: 0} ${choice-plurality: 0}[enemy/enemies] today, right?
-    I've totally lost count...${prompt}
+    Euh, voyons voir...
+    Nous avons battu ${number: 0} ${choice-plurality: 0}[ennemi/ennemis] aujourd'hui, non ?
+    J'ai totalement perdu le compte...${prompt}
   6949: |-
-    You wish to know the tally of defeated enemies?
-    I believe our total comes to ${number: 0}.${prompt}
-  6950: 'We''ve already rid the land of ${number: 0} enemies today, but it doesn''t seem to make even the slightest dint in their numbers.${prompt}'
+    Tu souhaites connaître le nombre d'ennemis vaincus ?
+    Je crois que notre total est de ${number: 0}.${prompt}
+  6950: 'Nous avons déjà débarrassé le pays de ${number: 0} ennemis aujourd'hui, mais cela ne semble même pas faire une égratignure dans leurs rangs.${prompt}'
   6951: |-
-    How many enemies we've beaten?
-    Why, that would be heaps and heaps!${prompt}
-  6952: '${color-alt: 15}${choice: 0}[Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] appears frightened by the ${item-singular: 1[2]}.${prompt}'
-  6953: '${color-alt: 15}${choice: 0}[Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] appears frightened by the ${item-singular: 1[2]}.${prompt}'
-  6954: '${color-alt: 15}${choice: 0}[Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] appears frightened by the ${item-singular: 1[2]}.${prompt}'
-  6955: '${color-alt: 15}${choice: 0}[Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] appears frightened by the ${item-singular: 1[2]}.${prompt}'
-  6956: '${color-alt: 15}${choice: 0}[Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] appears frightened by the ${item-singular: 1[2]}.${prompt}'
-  6957: '${color-alt: 15}${choice: 0}[Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] appears frightened by the ${item-singular: 1[2]}.${prompt}'
-  6958: '${color-alt: 15}${choice: 0}[Fhig/Khuma/Pimy/Raka/Sahyu/Sufhi/Tsuim/Yoli] appears frightened by the ${item-singular: 1[2]}.${prompt}'
-  6959: '${color-alt: 15}${choice: 0}[Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] appears frightened by the ${item-singular: 1[2]}.${prompt}'
-  6960: '${choice: 0}[Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji]''s personality changes!${prompt}'
-  6961: '${choice: 0}[Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde]''s personality changed!${prompt}'
-  6962: '${choice: 0}[Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant]''s personality changes!${prompt}'
-  6963: '${choice: 0}[Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue]''s personality changes!${prompt}'
-  6964: '${choice: 0}[Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga]''s personality changes!${prompt}'
-  6965: '${choice: 0}[Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa]''s personality changes!${prompt}'
-  6966: '${choice: 0}[Fhig/Khuma/Pimy/Raka/Sahyu/Sufhi/Tsuim/Yoli]''s personality changes!${prompt}'
-  6967: '${choice: 0}[Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof]''s personality changes!${prompt}'
-  6968: What do you think? It might be somewhat of an acquired taste...${prompt}
-  6969: Well? Tastes great, doesn't it!?${prompt}
-  6970: You've got some stuck on your lips.${prompt}
-  6971: Did you enjoy it? Of course, I'm not one to brag about a simple piece of bread...${prompt}
-  6972: I think I overcooked it a little. What do you think of the taste?${prompt}
-  6973: Not bad is it? I bet you never thought me to be a cooking type!${prompt}
+    Combien d'ennemis avons-nous battus ?
+    Eh bien, ce serait des tas et des tas !${prompt}
+  6952: '${color-alt: 15}${choice: 0}[Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] semble effrayé par le ${item-singular: 1[2]}.${prompt}'
+  6953: '${color-alt: 15}${choice: 0}[Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] semble effrayé par le ${item-singular: 1[2]}.${prompt}'
+  6954: '${color-alt: 15}${choice: 0}[Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] semble effrayé par le ${item-singular: 1[2]}.${prompt}'
+  6955: '${color-alt: 15}${choice: 0}[Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] semble effrayé par le ${item-singular: 1[2]}.${prompt}'
+  6956: '${color-alt: 15}${choice: 0}[Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] semble effrayé par le ${item-singular: 1[2]}.${prompt}'
+  6957: '${color-alt: 15}${choice: 0}[Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] semble effrayé par le ${item-singular: 1[2]}.${prompt}'
+  6958: '${color-alt: 15}${choice: 0}[Fhig/Khuma/Pimy/Raka/Sahyu/Sufhi/Tsuim/Yoli] semble effrayé par le ${item-singular: 1[2]}.${prompt}'
+  6959: '${color-alt: 15}${choice: 0}[Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] semble effrayé par le ${item-singular: 1[2]}.${prompt}'
+  6960: '${choice: 0}[Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] voit sa personnalité changer !${prompt}'
+  6961: '${choice: 0}[Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] voit sa personnalité changer !${prompt}'
+  6962: '${choice: 0}[Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] voit sa personnalité changer !${prompt}'
+  6963: '${choice: 0}[Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] voit sa personnalité changer !${prompt}'
+  6964: '${choice: 0}[Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] voit sa personnalité changer !${prompt}'
+  6965: '${choice: 0}[Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] voit sa personnalité changer !${prompt}'
+  6966: '${choice: 0}[Fhig/Khuma/Pimy/Raka/Sahyu/Sufhi/Tsuim/Yoli] voit sa personnalité changer !${prompt}'
+  6967: '${choice: 0}[Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] voit sa personnalité changer !${prompt}'
+  6968: Que penses-tu ? C'est peut-être un goût qu'on acquiert avec le temps...${prompt}
+  6969: Alors ? C'est délicieux, non !?${prompt}
+  6970: Tu en as un peu sur les lèvres.${prompt}
+  6971: As-tu apprécié ? Bien sûr, je ne vais pas me vanter pour un simple morceau de pain...${prompt}
+  6972: Je pense que je l'ai un peu trop cuit. Que penses-tu du goût ?${prompt}
+  6973: Pas mal, non ? Je parie que tu ne pensais pas que je serais du genre à cuisiner !${prompt}
   6974: ${prompt}
-  6975: Are you chewing properly? I went through a lot of trouble to make that, so eat slowly and savor each bite, alright?${prompt}
-  6976: So...how was it? Did I make the texture too firm?${prompt}
-  6977: What do you think? I tried picking an aroma I thought you'd like, you know.${prompt}
-  6978: That's a tasty-looking stew you've got there! Why, all my favorite ingredients are in it! Oh, wait, is that the one I made for you?${prompt}
-  6979: I hope it's compatible with your taste buds...${prompt}
-  6980: This isn't the time nor the place to be nonchalantly slurping up pasta!${prompt}
+  6975: Tu mâches bien ? J'ai beaucoup travaillé pour le préparer, alors mange lentement et savoure chaque bouchée, d'accord ?${prompt}
+  6976: Alors... comment était-ce ? Ai-je trop durci la texture ?${prompt}
+  6977: Que penses-tu ? J'ai essayé de choisir un arôme que je pensais que tu aimerais.${prompt}
+  6978: C'est un ragoût appétissant que tu as là ! Oh, attends, est-ce celui que j'ai préparé pour toi ?${prompt}
+  6979: J'espère qu'il convient à tes papilles...${prompt}
+  6980: Ce n'est ni le moment ni l'endroit pour slurper des pâtes sans souci !${prompt}
   6981: ${prompt}
   6982: '${number: 0}...${prompt}'
-  6983: The mine explodes!${prompt}
-  6984: The mine misfires...${prompt}
-  6985: You retrieve the mine.${prompt}
-  6986: You successfully deactivate the mine!${prompt}
-  6987: You failed to deactivate the mine...${prompt}
-  6988: 'Obtained ${number: 0} cruor. (Total: ${number: 1})${prompt}'
-  6989: 'Obtained ${number: 0} cruor. (Total: ${number: 1})'
-  6990: You do not have enough cruor.${prompt}
-  6991: You do not have enough cruor.
+  6983: La mine explose !${prompt}
+  6984: La mine a mal fonctionné...${prompt}
+  6985: Tu récupères la mine.${prompt}
+  6986: Tu désactives avec succès la mine !${prompt}
+  6987: Tu as échoué à désactiver la mine...${prompt}
+  6988: 'Obtenu ${number: 0} cruor. (Total : ${number: 1})${prompt}'
+  6989: 'Obtenu ${number: 0} cruor. (Total : ${number: 1})'
+  6990: Tu n'as pas assez de cruor.${prompt}
+  6991: Tu n'as pas assez de cruor.
   6992: |-
-    You have obtained all of Lilisette's memory fragments.
-    Make haste and report to Cait Sith.${prompt}
+    Vous avez obtenu tous les fragments de mémoire de Lilisette.
+    Dépêchez-vous de faire rapport à Cait Sith.${prompt}
   6993: |-
-    You cannot perform that action.
-    Come back after you have obtained visitant status.
-  6994: You cannot perform that action while participating in Bastion.
-  6995: '${color-alt: 121}Target out of range.${prompt}'
-  6996: You cannot view this event while holding claim over a synergy furnace.${prompt}
-  6997: '${color-alt: 123}You cannot perform that action with a free trial account.${prompt}'
-  6998: 'You must wait another ${number: 0} ${choice-plurality: 0}[day/days] to perform that action.${prompt}'
-  6999: '${color-alt: 121}${name-player} gained ${number: 0} ${choice: 1}[points of experience/limit points].'
-  7000: 'You cannot carry any more ${keyitem-plural: 0[2]}.${prompt}'
-  7001: '${color-alt: 121}You have carried over ${number: 1} login point${choice-plurality: 1}[/s].${prompt}'
+    Vous ne pouvez pas effectuer cette action.
+    Revenez après avoir obtenu le statut de visiteur.
+  6994: Vous ne pouvez pas effectuer cette action tout en participant au Bastion.
+  6995: '${color-alt: 121}Cible hors de portée.${prompt}'
+  6996: Vous ne pouvez pas voir cet événement tout en revendiquant une forge de synergie.${prompt}
+  6997: '${color-alt: 123}Vous ne pouvez pas effectuer cette action avec un compte d'essai gratuit.${prompt}'
+  6998: 'Vous devez attendre encore ${number: 0} ${choice-plurality: 0}[jour/jours] pour effectuer cette action.${prompt}'
+  6999: '${color-alt: 121}${name-player} a gagné ${number: 0} ${choice: 1}[points d'expérience/points de limite].'
+  7000: 'Vous ne pouvez plus porter ${keyitem-plural: 0[2]}.${prompt}'
+  7001: '${color-alt: 121}Vous avez reporté ${number: 1} point${choice-plurality: 1}[/s].${prompt}'
   7002: |-
-    The ${choice: 1}[/January/February/March/April/May/June/July/August/September/October/November/December] ${number: 0} Login Campaign is currently underway!
+    La campagne de connexion ${choice: 1}[/Janvier/Février/Mars/Avril/Mai/Juin/Juillet/Août/Septembre/Octobre/Novembre/Décembre] ${number: 0} est actuellement en cours !
     ${prompt}
   7003: |-
-    In celebration of your most recent login (login no. ${number: 1}), we have provided you with ${number: 2} points!
-    You currently have a total of ${number: 3} points.${prompt}
-  7004: ${prompt}
-  7005: ${prompt}
-  7006: ${prompt}
-  7007: 'You have obtained ${number: 0} bayld!${prompt}'
-  7008: 'You have obtained ${number: 0} bayld!'
-  7009: You do not have enough bayld!${prompt}
-  7010: You do not have enough bayld!
-  7011: 'You can now become a ${choice: 0}[geomancer/rune fencer]!${prompt}'
-  7012: 'Your ${keyitem-singular: 1[2]} has been attuned to a geomagnetic fount in the corresponding locale.${prompt}'
-  7013: A faint energy wafts up from the ground.${prompt}
-  7014: Your device has already been attuned to a geomagnetic fount in the corresponding locale.${prompt}
-  7015: 'You have learned ${keyitem-singular: 0[2]}!${prompt}'
-  7016: I eat, breathe, and sleep delivery services! Even if the heavens come tumbling down, the seas engulf all of Adoulin, or eternal darkness descends upon the world, you needn't worry about your package!${prompt}
-  7017: '${color-alt: 123}The level of difficulty for this content is ${number: 0}.${prompt}'
-  7018: 'Your maximum level has been raised to ${choice: 0}[50/55/60/65/70/75/80/85/90/95/99]!${prompt}'
-  7019: '${color-alt: 123}You have entered belligerency.${prompt}'
-  7020: '${color-alt: 123}You have entered belligerency and your level has been restricted to ${number: 0}.${prompt}'
-  7021: '${color-alt: 123}You have entered belligerency. Your level has been restricted to ${number: 0} and the attributes of applicable equipment you may be wearing have been appropriately reduced.${prompt}'
-  7022: You have learned a new instinct!${prompt}
-  7023: '${color-alt: 123}Your party is unable to participate because certain members'' levels are restricted.${prompt}'
-  7024: Please remove your level restriction before endeavoring to participate.${prompt}
-  7025: 'You learned Trust: ${spell: 1}!'
-  7026: You are now able to call multiple alter egos.
-  7027: |-
-    Enter?
+    En célébration de votre dernière connexion (connexion n° ${number: 1}), nous vous avons attribué ${number: 2} points !
+    Vous avez actuellement un total de ${number: 3} points.${prompt}
+7004: ${prompt}
+7005: ${prompt}
+7006: ${prompt}
+7007: 'Vous avez obtenu ${number: 0} bayld !${prompt}'
+7008: 'Vous avez obtenu ${number: 0} bayld !'
+7009: Vous n'avez pas assez de bayld !${prompt}
+7010: Vous n'avez pas assez de bayld !
+7011: 'Vous pouvez maintenant devenir ${choice: 0}[un géomancien/un épéiste runique] !${prompt}'
+7012: 'Votre ${keyitem-singular: 1[2]} a été accordé à une source géomagnétique dans le lieu correspondant.${prompt}'
+7013: Une énergie faible s'élève du sol.${prompt}
+7014: Votre dispositif a déjà été accordé à une source géomagnétique dans le lieu correspondant.${prompt}
+7015: 'Vous avez appris ${keyitem-singular: 0[2]} !${prompt}'
+7016: Je mange, respire et dors pour les services de livraison ! Même si les cieux s'effondrent, les mers engloutissent tout Adoulin ou que les ténèbres éternelles descendent sur le monde, ne vous inquiétez pas pour votre colis !${prompt}
+7017: '${color-alt: 123}Le niveau de difficulté de ce contenu est ${number: 0}.${prompt}'
+7018: 'Votre niveau maximum a été élevé à ${choice: 0}[50/55/60/65/70/75/80/85/90/95/99] !${prompt}'
+7019: '${color-alt: 123}Vous êtes entré en état de belligérance.${prompt}'
+7020: '${color-alt: 123}Vous êtes entré en état de belligérance et votre niveau a été restreint à ${number: 0}.${prompt}'
+7021: '${color-alt: 123}Vous êtes entré en état de belligérance. Votre niveau a été restreint à ${number: 0} et les attributs de l'équipement applicable que vous portez ont été réduits en conséquence.${prompt}'
+7022: Vous avez appris un nouvel instinct !${prompt}
+7023: '${color-alt: 123}Votre groupe est incapable de participer car certains membres ont des niveaux restreints.${prompt}'
+7024: Veuillez retirer votre restriction de niveau avant de tenter de participer.${prompt}
+7025: 'Vous avez appris le Trust : ${spell: 1} !'
+7026: Vous pouvez maintenant invoquer plusieurs alter egos.
+7027: |-
+    Entrer ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
+    Oui.
+    Non.${prompt}
   7028: |-
-    Leave?
+    Quitter ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  7029: The cutscene has unexpectedly terminated. Examine the Resume Point to continue.
+    Oui.
+    Non.${prompt}
+  7029: La scène cinématique a été interrompue de manière inattendue. Examinez le Point de Reprise pour continuer.
   7030: |-
-    What do you wish to do?
+    Que souhaitez-vous faire ?
     ${selection-lines}
-    Show me the cutscene again.
-    Skip the cutscene and continue.${prompt}
-  7031: Displaying the next scene.
-  7032: Alter egos may be used here without any effect on enmity.
-  7033: '${color-alt: 123}The maximum level of the content you are currently attempting is ${number: 0}.${prompt}'
+    Montrez-moi à nouveau la scène cinématique.
+    Passez la scène cinématique et continuez.${prompt}
+  7031: Affichage de la scène suivante.
+  7032: Les alter egos peuvent être utilisés ici sans effet sur l'ennemi.
+  7033: '${color-alt: 123}Le niveau maximum du contenu que vous tentez actuellement est ${number: 0}.${prompt}'
   7034: '${number: 0} ${number: 1} ${number: 2} ${number: 3}'
   7035: '${number: 4} ${number: 5} ${number: 6} ${number: 7}'
-  7036: The Unity ranking tabulation period has begun.
-  7037: The Unity ranking tabulation period has ended.
-  7038: '${choice: 0}[Unranked/First place/Second place/Third place/Fourth place/Fifth place]: ${choice: 1}[Pieuje/Ayame/Invincible Shield/Apururu/Maat/Aldo/Jakoh Wahcondalo/Naja Salaheem/Flaviria/Yoran-Oran/Sylvie].'
+  7036: La période de tabulation du classement Unity a commencé.
+  7037: La période de tabulation du classement Unity est terminée.
+  7038: '${choice: 0}[Non classé/Première place/Deuxième place/Troisième place/Quatrième place/Cinquième place] : ${choice: 1}[Pieuje/Ayame/Invincible Shield/Apururu/Maat/Aldo/Jakoh Wahcondalo/Naja Salaheem/Flaviria/Yoran-Oran/Sylvie].'
   7039: |-
-    Jump into the vortex?
+    Sautez dans le vortex ?
     ${selection-lines}
-    Off we go!
-    Not just yet.${prompt}
-  7040: Nothing out of the ordinary happens.${prompt}
-  7041: '${color-alt: 123}You are unable to proceed to the next area because ${choice: 0}[Rise of the Zilart/Chains of Promathia/Treasures of Aht Urhgan/Wings of the Goddess/Seekers of Adoulin] is not registered to your account.${prompt}'
-  7042: 'You are now able to call forth alter egos here because you have obtained the ${keyitem-singular: 0[2]} key item.'
-  7043: 'You cannot carry any more ${keyitem-plural: 0[2]}.${prompt}'
-  7044: '${color-alt: 138}You have been promoted to ${choice: 0}[/Private First Class/Superior Private/Lance Corporal/Corporal/Sergeant/Sergeant Major/Chief Sergeant/Second Lieutenant/First Lieutenant/Captain]!${prompt}'
-  7045: Your bags mysteriously feel a little bit heavier...${prompt}
-  7046: 'The bonds tying you to Altana have strengthened, enabling you to experience all the memories of ${choice: 0}[Rise of the Zilart/Chains of Promathia/Treasures of Aht Urhgan/Wings of the Goddess/Seekers of Adoulin]!${prompt}'
-  7047: '${color-alt: 138}You are unable to make further progress in Rhapsodies of Vana''diel due to an event occurring in the ${choice: 1}[Chains of Promathia/Treasures of Aht Urhgan/Wings of the Goddess/Seekers of Adoulin/Rise of the Zilart] missions.'
-  7048: '${color-alt: 138}You are unable to make further progress in Rhapsodies of Vana''diel due to an event occurring in the quest ${choice: 1}[Champion of the Dawn/A Forbidden Reunion].'
-  7049: The crystal glistens with a divine radiance.${prompt}
-  7050: '${color-alt: 138}You must visit Aht Urhgan Whitegate in order to progress in the Rhapsodies of Vana''diel missions.'
-  7051: '${color-alt: 123}You have been awarded the temporary item ${item-singular: 0[2]} as compensation.${prompt}'
-  7052: '${color-alt: 123}You already posses the temporary item ${item-singular: 0[2]} and cannot receive another one as compensation.${prompt}'
-  7053: '${color-alt: 123}Please claim your item before maintenance for the February 2022 version update begins.${prompt}'
-  7054: 'You have been rewarded ${article} ${item-article: 0[2]} as compensation.${prompt}'
-  7055: 'You are unable to accept the compensatory ${item-singular: 0[2]}. Free up some space in your inventory and try again.${prompt}'
-  7056: '${color-alt: 123}Please claim your item before maintenance for the October 2022 version update begins.${prompt}'
-  7057: 'You receive ${number: 0} deeds for a total of ${number: 1}!${prompt}'
-  7058: '${color-alt: 161}Word has been received of a Mamool Ja threat in Wajaom Woodlands.${prompt}'
-  7059: '${color-alt: 161}Word has been received of a Troll threat in Wajaom Woodlands.${prompt}'
-  7060: '${color-alt: 161}Word has been received of an undead threat in Bhaflau Thickets.${prompt}'
-  7061: Tallying conquest results...${prompt}
-  7062: Conquest results tallied.${prompt}
-  7063: This region is currently under San d'Orian control.${prompt}
-  7064: This region is currently under Bastokan control.${prompt}
-  7065: This region is currently under Windurstian control.${prompt}
+    C'est parti !
+    Pas tout de suite.${prompt}
+  7040: Rien d'extraordinaire ne se passe.${prompt}
+  7041: '${color-alt: 123}Vous ne pouvez pas accéder à la zone suivante car ${choice: 0}[Rise of the Zilart/Chains of Promathia/Treasures of Aht Urhgan/Wings of the Goddess/Seekers of Adoulin] n'est pas enregistré sur votre compte.${prompt}'
+  7042: 'Vous pouvez maintenant invoquer des alter egos ici car vous avez obtenu l'objet clé ${keyitem-singular: 0[2]}.'
+  7043: 'Vous ne pouvez plus transporter d'${keyitem-plural: 0[2]}.${prompt}'
+  7044: '${color-alt: 138}Vous avez été promu ${choice: 0}[/Soldat de Première Classe/Soldat Supérieur/Caporal/Sergent/Sergeant Major/Chief Sergeant/Second Lieutenant/First Lieutenant/Captain] !${prompt}'
+  7045: Vos sacs semblent mystérieusement un peu plus lourds...${prompt}
+  7046: 'Les liens vous unissant à Altana se sont renforcés, vous permettant de vivre tous les souvenirs de ${choice: 0}[Rise of the Zilart/Chains of Promathia/Treasures of Aht Urhgan/Wings of the Goddess/Seekers of Adoulin] !${prompt}'
+  7047: '${color-alt: 138}Vous ne pouvez pas progresser davantage dans Rhapsodies of Vana''diel en raison d'un événement se produisant dans les missions ${choice: 1}[Chains of Promathia/Treasures of Aht Urhgan/Wings of the Goddess/Seekers of Adoulin/Rise of the Zilart].'
+  7048: '${color-alt: 138}Vous ne pouvez pas progresser davantage dans Rhapsodies of Vana''diel en raison d'un événement se produisant dans la quête ${choice: 1}[Champion of the Dawn/A Forbidden Reunion].'
+  7049: Le cristal scintille d'une radiance divine.${prompt}
+  7050: '${color-alt: 138}Vous devez visiter Aht Urhgan Whitegate pour progresser dans les missions Rhapsodies of Vana''diel.'
+  7051: '${color-alt: 123}Vous avez reçu l'objet temporaire ${item-singular: 0[2]} en compensation.${prompt}'
+  7052: '${color-alt: 123}Vous possédez déjà l'objet temporaire ${item-singular: 0[2]} et ne pouvez pas en recevoir un autre en compensation.${prompt}'
+  7053: '${color-alt: 123}Veuillez réclamer votre objet avant le début de la maintenance pour la mise à jour de février 2022.${prompt}'
+  7054: 'Vous avez reçu ${article} ${item-article: 0[2]} en compensation.${prompt}'
+  7055: 'Vous ne pouvez pas accepter l'${item-singular: 0[2]} compensatoire. Libérez de l'espace dans votre inventaire et réessayez.${prompt}'
+  7056: '${color-alt: 123}Veuillez réclamer votre objet avant le début de la maintenance pour la mise à jour d'octobre 2022.${prompt}'
+  7057: 'Vous recevez ${number: 0} actes pour un total de ${number: 1} !${prompt}'
+  7058: '${color-alt: 161}Des nouvelles ont été reçues d'une menace Mamool Ja dans Wajaom Woodlands.${prompt}'
+  7059: '${color-alt: 161}Des nouvelles ont été reçues d'une menace Troll dans Wajaom Woodlands.${prompt}'
+  7060: '${color-alt: 161}Des nouvelles ont été reçues d'une menace de morts-vivants dans Bhaflau Thickets.${prompt}'
+  7061: Calcul des résultats de conquête...${prompt}
+  7062: Résultats de conquête calculés.${prompt}
+  7063: Cette région est actuellement sous le contrôle de San d'Oria.${prompt}
+  7064: Cette région est actuellement sous le contrôle de Bastok.${prompt}
+  7065: Cette région est actuellement sous le contrôle de Windurst.${prompt}
   7066: |-
-    This region is currently under beastman control.
-    You cannot obtain crystals in this region.${prompt}
-  7067: This region is currently neutral.${prompt}
+    Cette région est actuellement sous le contrôle des bêtes.
+    Vous ne pouvez pas obtenir de cristaux dans cette région.${prompt}
+  7067: Cette région est actuellement neutre.${prompt}
   7068: |-
-    Global balance of power:
-    1st: San d'Oria
-    2nd: Windurst
-    3rd: Bastok${prompt}
-  7069: All three nations are tied for first place.${prompt}
+    Équilibre global des pouvoirs :
+    1er : San d'Oria
+    2e : Windurst
+    3e : Bastok${prompt}
+  7069: Les trois nations sont à égalité pour la première place.${prompt}
   7070: |-
-    Global balance of power:
-    1st: San d'Oria and Windurst (tie)
-    3rd: Bastok${prompt}
+    Équilibre global des pouvoirs :
+    1er : San d'Oria et Windurst (égalité)
+    3e : Bastok${prompt}
   7071: |-
-    Global balance of power:
-    1st: San d'Oria
-    2nd: Bastok and Windurst (tie)${prompt}
+    Équilibre global des pouvoirs :
+    1er : San d'Oria
+    2e : Bastok et Windurst (égalité)${prompt}
   7072: |-
-    Global balance of power:
-    1st: San d'Oria
-    2nd: Bastok
-    3rd: Windurst${prompt}
-  7073: All three nations are tied for first place.${prompt}
+    Équilibre global des pouvoirs :
+    1er : San d'Oria
+    2e : Bastok
+    3e : Windurst${prompt}
+  7073: Les trois nations sont à égalité pour la première place.${prompt}
   7074: |-
-    Global balance of power:
-    1st: San d'Oria and Bastok (tie)
-    3rd: Windurst${prompt}
+    Équilibre global des pouvoirs :
+    1er : San d'Oria et Bastok (égalité)
+    3e : Windurst${prompt}
   7075: |-
-    Global balance of power:
-    1st: San d'Oria
-    2nd: Bastok and Windurst (tie)${prompt}
+    Équilibre global des pouvoirs :
+    1er : San d'Oria
+    2e : Bastok et Windurst (égalité)${prompt}
   7076: |-
-    Global balance of power:
-    1st: Bastok
-    2nd: San d'Oria
-    3rd: Windurst${prompt}
-  7077: All three nations are tied for first place.${prompt}
+    Équilibre global des pouvoirs :
+    1er : Bastok
+    2e : San d'Oria
+    3e : Windurst${prompt}
+  7077: Les trois nations sont à égalité pour la première place.${prompt}
   7078: |-
-    Global balance of power:
-    1st: San d'Oria and Bastok (tie)
-    3rd: Windurst${prompt}
+    Équilibre global des pouvoirs :
+    1er : Bastok et San d'Oria (égalité)
+    3e : Windurst${prompt}
   7079: |-
-    Global balance of power:
-    1st: Bastok
-    2nd: San d'Oria and Windurst (tie)${prompt}
+    Équilibre global des pouvoirs :
+    1er : Bastok
+    2e : San d'Oria et Windurst (égalité)${prompt}
   7080: |-
-    Global balance of power:
-    1st: Bastok
-    2nd: Windurst
-    3rd: San d'Oria${prompt}
-  7081: All three nations are tied for first place.${prompt}
+    Équilibre global des pouvoirs :
+    1er : Bastok
+    2e : Windurst
+    3e : San d'Oria${prompt}
+  7081: Les trois nations sont à égalité pour la première place.${prompt}
   7082: |-
-    Global balance of power:
-    1st: Bastok and Windurst (tie)
-    3rd: San d'Oria${prompt}
+    Équilibre global des pouvoirs :
+    1er : Bastok et Windurst (égalité)
+    3e : San d'Oria${prompt}
   7083: |-
-    Global balance of power:
-    1st: Bastok
-    2nd: San d'Oria and Windurst (tie)${prompt}
+    Équilibre global des pouvoirs :
+    1er : Bastok
+    2e : San d'Oria et Windurst (égalité)${prompt}
   7084: |-
-    Global balance of power:
-    1st: Windurst
-    2nd: San d'Oria
-    3rd: Bastok${prompt}
+    Équilibre global des pouvoirs :
+    1er : Windurst
+    2e : San d'Oria
+    3e : Bastok${prompt}
   7085: |-
-    Global balance of power:
-    All three nations are tied for first place.${prompt}
+    Équilibre global des pouvoirs :
+    Les trois nations sont à égalité pour la première place.${prompt}
   7086: |-
-    Global balance of power:
-    1st: San d'Oria and Windurst (tie)
-    3rd: Bastok${prompt}
+    Équilibre global des pouvoirs :
+    1er : San d'Oria et Windurst (égalité)
+    3e : Bastok${prompt}
   7087: |-
-    Global balance of power:
-    1st: Windurst
-    2nd: San d'Oria and Bastok (tie)${prompt}
+    Équilibre global des pouvoirs :
+    1er : Windurst
+    2e : San d'Oria et Bastok (égalité)${prompt}
   7088: |-
-    Global balance of power:
-    1st: Windurst
-    2nd: Bastok
-    3rd: San d'Oria${prompt}
-  7089: All three nations are tied for first place.${prompt}
+    Équilibre global des pouvoirs :
+    1er : Windurst
+    2e : Bastok
+    3e : San d'Oria${prompt}
+  7089: Les trois nations sont à égalité pour la première place.${prompt}
   7090: |-
-    Global balance of power:
-    1st: Bastok and Windurst
-    2nd: San d'Oria${prompt}
+    Équilibre global des pouvoirs :
+    1er : Bastok et Windurst
+    2e : San d'Oria${prompt}
   7091: |-
-    Global balance of power:
-    1st: Windurst
-    2nd: San d'Oria and Bastok${prompt}
+    Équilibre global des pouvoirs :
+    1er : Windurst
+    2e : San d'Oria et Bastok${prompt}
   7092: |-
-    Conquest update:
-    This region is currently neutral.${prompt}
+    Mise à jour de la conquête :
+    Cette région est actuellement neutre.${prompt}
   7093: |-
-    Conquest update:
-    This region is currently under San d'Orian control.${prompt}
+    Mise à jour de la conquête :
+    Cette région est actuellement sous le contrôle de San d'Oria.${prompt}
   7094: |-
-    Conquest update:
-    This region is currently under Bastokan control.${prompt}
+    Mise à jour de la conquête :
+    Cette région est actuellement sous le contrôle de Bastok.${prompt}
   7095: |-
-    Conquest update:
-    This region is currently under Windurstian control.${prompt}
+    Mise à jour de la conquête :
+    Cette région est actuellement sous le contrôle de Windurst.${prompt}
   7096: |-
-    Conquest update:
-    This region is currently under beastman control.
-    You cannot obtain crystals in this region.${prompt}
-  7097: All three nations are at a deadlock.${prompt}
-  7098: The beastmen are on the rise.${prompt}
+    Mise à jour de la conquête :
+    Cette région est actuellement sous le contrôle des bêtes.
+    Vous ne pouvez pas obtenir de cristaux dans cette région.${prompt}
+  7097: Les trois nations sont dans une impasse.${prompt}
+  7098: Les bêtes sont en train de monter.${prompt}
   7099: |-
-    Regional influence:
+    Influence régionale :
     San d'Oria - Dominant${prompt}
   7100: |-
-    Regional influence:
-    San d'Oria - Major${prompt}
+    Influence régionale :
+    San d'Oria - Majeur${prompt}
   7101: |-
-    Regional influence:
-    San d'Oria - Minor${prompt}
+    Influence régionale :
+    San d'Oria - Mineur${prompt}
   7102: |-
-    Regional influence:
-    San d'Oria - Minimal${prompt}
+    Influence régionale :
+    San d'Oria - Minime${prompt}
   7103: Bastok - Dominant${prompt}
-  7104: Bastok - Major${prompt}
-  7105: Bastok - Minor${prompt}
-  7106: Bastok - Minimal${prompt}
+  7104: Bastok - Majeur${prompt}
+  7105: Bastok - Mineur${prompt}
+  7106: Bastok - Minime${prompt}
   7107: Windurst - Dominant${prompt}
-  7108: Windurst - Major${prompt}
-  7109: Windurst - Minor${prompt}
-  7110: Windurst - Minimal${prompt}
-  7111: Bastok and Windurst have formed an alliance.${prompt}
-  7112: San d'Oria and Windurst have formed an alliance.${prompt}
-  7113: San d'Oria and Bastok have formed an alliance.${prompt}
-  7114: Bastok and Windurst are currently allies.${prompt}
-  7115: San d'Oria and Windurst are currently allies.${prompt}
-  7116: San d'Oria and Bastok are currently allies.${prompt}
+  7108: Windurst - Majeur${prompt}
+  7109: Windurst - Mineur${prompt}
+  7110: Windurst - Minime${prompt}
+  7111: Bastok et Windurst ont formé une alliance.${prompt}
+  7112: San d'Oria et Windurst ont formé une alliance.${prompt}
+  7113: San d'Oria et Bastok ont formé une alliance.${prompt}
+  7114: Bastok et Windurst sont actuellement alliés.${prompt}
+  7115: San d'Oria et Windurst sont actuellement alliés.${prompt}
+  7116: San d'Oria et Bastok sont actuellement alliés.${prompt}
   7117: |-
     所属国：${number: 0}
     判定：${number: 1}${prompt}
@@ -17594,27 +17510,27 @@ entries:
   7121: |-
     ${choice: 0}[サンドリア/バストゥーク/ウィンダス]の状況:${choice: 0}[劣勢/やや劣勢/やや優勢/優勢/膠着]
     武器の値段:${number: 2}、入れるポイント:${number: 3}${prompt}
-  7122: The beastmen are gaining power.${prompt}
-  7123: San d'Oria's regional control is now 10% closer to the first place country's!${prompt}
-  7124: Bastok's regional control is now 10% closer to the first place country's!${prompt}
-  7125: Windurst's regional control are now 10% closer to the first place country's!${prompt}
-  7126: San d'Oria's region points have increased!${prompt}
-  7127: Bastok's region points have increased!${prompt}
-  7128: Windurst's region points have increased!${prompt}
-  7129: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.${prompt}
-  7130: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.${prompt}
-  7131: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.${prompt}
-  7132: A San d'Orian Expeditionary Force has been dispatched to this area.${prompt}
-  7133: A Bastokan Expeditionary Force has been dispatched to this area.${prompt}
-  7134: A Windurstian Expeditionary Force has been dispatched to this area.${prompt}
-  7135: 'E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.${prompt}'
-  7136: 'E.F. Influence: Fair...Region Status: Major...Maintain momentum.${prompt}'
-  7137: 'E.F. Influence: Poor...Region Status: Minor...Increase efforts.${prompt}'
-  7138: 'E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.${prompt}'
-  7139: 'E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.${prompt}'
-  7140: There was a curse on the beastmen's banner!${prompt}
-  7141: The curse of the beastmen's banner has been lifted!${prompt}
-  7142: There is a beastmen's banner.${prompt}
+  7122: Les bêtes gagnent en puissance.${prompt}
+  7123: Le contrôle régional de San d'Oria est désormais 10 % plus proche de celui du pays en première place !${prompt}
+  7124: Le contrôle régional de Bastok est désormais 10 % plus proche de celui du pays en première place !${prompt}
+  7125: Le contrôle régional de Windurst est désormais 10 % plus proche de celui du pays en première place !${prompt}
+  7126: Les points régionaux de San d'Oria ont augmenté !${prompt}
+  7127: Les points régionaux de Bastok ont augmenté !${prompt}
+  7128: Les points régionaux de Windurst ont augmenté !${prompt}
+  7129: Les forces expéditionnaires de San d'Oria ont vaincu les hordes de bêtes... Maintenez l'élan actuel.${prompt}
+  7130: Les forces expéditionnaires de Bastok ont vaincu les hordes de bêtes... Maintenez l'élan actuel.${prompt}
+  7131: Les forces expéditionnaires de Windurst ont vaincu les hordes de bêtes... Maintenez l'élan actuel.${prompt}
+  7132: Une force expéditionnaire de San d'Oria a été envoyée dans cette zone.${prompt}
+  7133: Une force expéditionnaire de Bastok a été envoyée dans cette zone.${prompt}
+  7134: Une force expéditionnaire de Windurst a été envoyée dans cette zone.${prompt}
+  7135: 'Influence de la F.E. : Grande... État de la région : Dominant... Maintenez le niveau actuel de combat.${prompt}'
+  7136: 'Influence de la F.E. : Bonne... État de la région : Majeur... Maintenez l'élan.${prompt}'
+  7137: 'Influence de la F.E. : Faible... État de la région : Mineur... Augmentez les efforts.${prompt}'
+  7138: 'Influence de la F.E. : Minimale... État de la région : Minimale... Augmentez les efforts dix fois.${prompt}'
+  7139: 'Influence de la F.E. : Aucune... État de la région : Sous contrôle des bêtes... Gardez les pertes au minimum.${prompt}'
+  7140: Il y avait une malédiction sur la bannière des bêtes !${prompt}
+  7141: La malédiction sur la bannière des bêtes a été levée !${prompt}
+  7142: Il y a une bannière des bêtes.${prompt}
   7143: 　${prompt}
   7144: 　${prompt}
   7145: 　${prompt}
@@ -17696,31 +17612,31 @@ entries:
   7219: |-
     増えたポイント　${number: 0}
     増えたカウント　${number: 1}${prompt}
-  7220: 'The airship will reach Jeuno in ${choice: 1}[less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours] (${number: 0} ${choice-plurality: 0}[minute/minutes] in Earth time).${prompt}'
-  7221: 'The airship will reach Bastok in ${choice: 1}[less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours] (${number: 0} ${choice-plurality: 0}[minute/minutes] in Earth time).${prompt}'
-  7222: We will be arriving in Jeuno momentarily.${prompt}
-  7223: We will be arriving in Bastok momentarily.${prompt}
+  7220: 'Le vaisseau atteindra Jeuno dans ${choice: 1}[moins d'une heure/environ 1 heure/environ 2 heures/environ 3 heures/environ 4 heures/environ 5 heures/environ 6 heures/environ 7 heures] (${number: 0} ${choice-plurality: 0}[minute/minutes] en temps terrestre).${prompt}'
+  7221: 'Le vaisseau atteindra Bastok dans ${choice: 1}[moins d'une heure/environ 1 heure/environ 2 heures/environ 3 heures/environ 4 heures/environ 5 heures/environ 6 heures/environ 7 heures] (${number: 0} ${choice-plurality: 0}[minute/minutes] en temps terrestre).${prompt}'
+  7222: Nous arriverons à Jeuno sous peu.${prompt}
+  7223: Nous arriverons à Bastok sous peu.${prompt}
   7224: OK${prompt}
   7225: NG${prompt}
-  7226: 'Number ${number: 2} is the answer.${prompt}'
+  7226: 'Le numéro ${number: 2} est la réponse.${prompt}'
   7227: |-
-    Return the dropped item?
+    Retourner l'objet tombé ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  7228: Can I help you?${prompt}
+    Oui.
+    Non.${prompt}
+  7228: Puis-je vous aider ?${prompt}
   7229: |-
-    Oh, thanks...
-    I'm not sure that this belongs to me, though...${prompt}
+    Oh, merci...
+    Je ne suis pas sûr que cela me appartienne, cependant...${prompt}
   7230: |-
-    Wow, thanks...
-    I don't really remember dropping anything, though...${prompt}
-  7231: Thank you! I've been looking all over the place for this!${prompt}
-  7232: Thank you! I don't know what I would've done if I had lost this!${prompt}
-  7233: Please take this as a token of my gratitude.${prompt}
-  7234: I wonder if I could see my house from up here...${prompt}
-  7235: There seem to be a lot of disreputable characters riding the airships these days...${prompt}
+    Waouh, merci...
+    Je ne me souviens pas vraiment d'avoir perdu quelque chose...${prompt}
+  7231: Merci ! Je cherchais ça partout !${prompt}
+  7232: Merci ! Je ne sais pas ce que j'aurais fait si j'avais perdu ça !${prompt}
+  7233: Veuillez accepter ceci comme un signe de ma gratitude.${prompt}
+  7234: Je me demande si je pourrais voir ma maison d'ici-haut...${prompt}
+  7235: Il semble qu'il y ait beaucoup de personnages peu recommandables dans les vaisseaux aériens ces jours-ci...${prompt}
   7236: |-
-    It's hard to tell people apart these days, don't you agree?
-    For some reason, that thought occurs to me whenever I ride an airship...${prompt}
-  7237: These flights to Jeuno are always so crowded, aren't they?${prompt}
+    C'est difficile de différencier les gens de nos jours, n'est-ce pas ?
+    Pour une raison quelconque, cette pensée me vient à l'esprit chaque fois que je monte à bord d'un vaisseau aérien...${prompt}
+  7237: Ces vols pour Jeuno sont toujours si bondés, n'est-ce pas ?${prompt}
