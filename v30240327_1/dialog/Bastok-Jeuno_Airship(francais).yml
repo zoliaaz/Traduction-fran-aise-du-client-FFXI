@@ -16362,93 +16362,137 @@ entries:
     Que faisons-nous aujourd'hui ?${prompt}
   6580: Salutations.
     Une belle journée pour l'aventure.${prompt}
-  6581: Allons-y.
-    Essayez de ne pas vous mettre en travers.${prompt}
+  6581: |-
+    Allons-y.
+    Essayez de ne pas vous mettre en travers.${prompt}                                       
   6582: Miaou !${prompt}
-  6583: '${choice: 0}[/Il est peut-être temps de retourner en ville./Je dois rentrer bientôt./Mes réflexes commencent à ralentir./Je crois qu'il est presque temps de faire une pause./Un bon lit doux semble tentant maintenant./Ça fait un moment qu'on est là./Désolé, mais j'ai d'autres tâches à accomplir./Je commence à être un peu fatigué./Je crois qu'il est presque temps de faire une pause.]${choice: 0}[/Je pense que j'ai besoin de repos./D'autres devoirs m'appellent !/Nous devrions terminer bientôt./Devons-nous retourner en ville bientôt ?/Devons-nous appeler ça une journée bientôt ?/Je pense que j'ai encore de l'énergie pour un dernier coup !/Pouvons-nous finir ici bientôt ?/Mais je peux encore continuer un peu ! <Bâillement>.../Devons-nous retourner en ville bientôt ?]${prompt}'
-  6584: Il est peut-être temps de retourner en ville.
+  6583: |-
+    ${choice: 0}[/Il est peut-être temps de retourner en ville./Je dois rentrer bientôt./Mes réflexes commencent à ralentir./Je crois qu'il est presque temps de faire une pause./Un bon lit doux semble tentant maintenant./Ça fait un moment qu'on est là./Désolé, mais j'ai d'autres tâches à accomplir./Je commence à être un peu fatigué./Je crois qu'il est presque temps de faire une pause.]
+    ${choice: 0}[/Je pense que j'ai besoin de repos./D'autres devoirs m'appellent !/Nous devrions terminer bientôt./Devons-nous retourner en ville bientôt ?/Devons-nous appeler ça une journée bientôt ?/Je pense que j'ai encore de l'énergie pour un dernier coup !/Pouvons-nous finir ici bientôt ?/Mais je peux encore continuer un peu ! <Bâillement>.../Devons-nous retourner en ville bientôt ?]${prompt}'
+  6584: |-
+    Il est peut-être temps de retourner en ville.
     Je pense que j'ai besoin de repos.${prompt}
-  6585: Je dois rentrer bientôt.
+  6585: |-
+    Je dois rentrer bientôt.
     D'autres devoirs m'appellent !${prompt}
-  6586: Mes réflexes commencent à ralentir.
+  6586: |-
+    Mes réflexes commencent à ralentir.
     Nous devrions appeler ça une journée bientôt.${prompt}
-  6587: Je crois qu'il est presque temps de faire une pause.
+  6587: |-
+    Je crois qu'il est presque temps de faire une pause.
     Devons-nous retourner en ville bientôt ?${prompt}
-  6588: J'ai presque eu ma dose pour aujourd'hui.${prompt}
-  6589: Oups !
+  6588: J'ai presque eu ma dose pour aujourd'hui.${prompt}                                                    
+  6589: |-
+    Oups!
     J'ai oublié de vous dire, mais je dois aller quelque part bientôt.${prompt}
-  6590: Je regrette de vous informer que ma présence sera requise en ville bientôt.
+  6590: |-
+    Je regrette de vous informer que ma présence sera requise en ville bientôt.
     Je prie pour que vous ne pensiez pas du mal de moi.${prompt}
-  6591: Un bon lit doux semble tentant maintenant.
+  6591: |-
+    Un bon lit doux semble tentant maintenant.
     Devons-nous appeler ça une journée bientôt ?${prompt}
-  6592: Ça fait un moment qu'on est là.
+  6592: |-
+    Ça fait un moment qu'on est là.
     Je pense que j'ai encore de l'énergie pour un dernier coup !${prompt}
-  6593: Désolé, mais j'ai d'autres tâches à accomplir.
+  6593: |-
+    Désolé, mais j'ai d'autres tâches à accomplir.
     Pouvons-nous finir ici bientôt ?${prompt}
-  6594: Je commence à être un peu fatigué.
+  6594: |-
+    Je commence à être un peu fatigué.
     Mais je peux encore continuer un peu ! <Bâillement...>${prompt}
-  6595: Je crois qu'il est presque temps de faire une pause.
+  6595: |-
+    Je crois qu'il est presque temps de faire une pause.
     Devons-nous retourner en ville bientôt ?${prompt}
-  6596: J'ai gardé un œil sur vous assez longtemps pour aujourd'hui.
-    Je vais partir bientôt.${prompt}
+  6596: |-
+    J'ai gardé un œil sur vous assez longtemps pour aujourd'hui.
+    Je vais partir bientôt.${prompt}                               
   6597: Ça devient ennuyant...${prompt}
-  6598: '${choice: 0}[/Nous avons affronté un bon nombre d'ennemis./Je pense que je commence enfin à me fatiguer./Nous avons fait assez pour aujourd'hui, je crois./Nous avons prouvé notre valeur au combat aujourd'hui./Ouf, je suis épuisé./Peut-être juste un combat de plus./Nous devrions appeler ça une journée./Ouf ! Je suis épuisé !/Nous avons prouvé notre valeur au combat aujourd'hui.]${choice: 0}[/Un de plus devrait suffire./Devons-nous faire du prochain combat notre dernier ?/Faisons du prochain combat notre dernier./Faisons du prochain adversaire notre dernier./Un combat de plus devrait suffire./Cette fois, je le pense vraiment, honnêtement !/Faisons du prochain combat notre dernier./Un combat de plus ?/Faisons du prochain adversaire notre dernier.]${prompt}'
-  6599: Nous avons affronté un bon nombre d'ennemis.
+  6598: |-
+    ${choice: 0}[/Nous avons affronté un bon nombre d'ennemis./Je pense que je commence enfin à me fatiguer./Nous avons fait assez pour aujourd'hui, je crois./Nous avons prouvé notre valeur au combat aujourd'hui./Ouf, je suis épuisé./Peut-être juste un combat de plus./Nous devrions appeler ça une journée./Ouf ! Je suis épuisé !/Nous avons prouvé notre valeur au combat aujourd'hui.]
+    ${choice: 0}[/Un de plus devrait suffire./Devons-nous faire du prochain combat notre dernier ?/Faisons du prochain combat notre dernier./Faisons du prochain adversaire notre dernier./Un combat de plus devrait suffire./Cette fois, je le pense vraiment, honnêtement !/Faisons du prochain combat notre dernier./Un combat de plus ?/Faisons du prochain adversaire notre dernier.]${prompt}
+  6599: |-
+    Nous avons affronté un bon nombre d'ennemis.
     Un de plus devrait suffire.${prompt}
-  6600: Je pense que je commence enfin à me fatiguer.
+  6600: |-
+    Je pense que je commence enfin à me fatiguer.
     Devons-nous faire du prochain combat notre dernier ?${prompt}
-  6601: Nous avons fait assez pour aujourd'hui, je crois.
+  6601: |-
+    Nous avons fait assez pour aujourd'hui, je crois.
     Faisons du prochain combat notre dernier.${prompt}
-  6602: Nous avons prouvé notre valeur au combat aujourd'hui.
+  6602: |-
+    Nous avons prouvé notre valeur au combat aujourd'hui.
     Faisons du prochain adversaire notre dernier.${prompt}
-  6603: <Pfiou, halètement>
+  6603: |-
+    <Pfiou, halètement>
     Juste un combat de plus, d'accord ?${prompt}
-  6604: Je commence à avoir de la peine pour nos adversaires !
+  6604: |-
+    Je commence à avoir de la peine pour nos adversaires !
     Je pense que je vais appeler ça une journée après le prochain.${prompt}
-  6605: Serait-il déplacé de recommander une pause ?
+  6605: |-
+    Serait-il déplacé de recommander une pause ?
     Retournons en ville après le prochain combat.${prompt}
-  6606: Ouf, je suis épuisé.
+  6606: |-
+    Ouf, je suis épuisé.
     Un dernier combat devrait suffire.${prompt}
-  6607: Peut-être juste un combat de plus.
+  6607: |-
+    Peut-être juste un combat de plus.
     Cette fois, je le pense vraiment, honnêtement !${prompt}
-  6608: Nous devrions appeler ça une journée.
+  6608: |-
+    Nous devrions appeler ça une journée.
     Faisons du prochain combat notre dernier.${prompt}
-  6609: Ouf ! Je suis épuisé !
+  6609: |-
+    Ouf ! Je suis épuisé !      
     Un dernier combat ?${prompt}
-  6610: Nous avons prouvé notre valeur au combat aujourd'hui.
+  6610: |-
+    Nous avons prouvé notre valeur au combat aujourd'hui.
     Faisons du prochain adversaire notre dernier.${prompt}
   6611: Une victoire de plus devrait me satisfaire pour aujourd'hui.${prompt}
   6612: Je suis tellement fatigué...${prompt}
-  6613: '${choice: 0}[/Vous voulez déjà vous débarrasser de moi ?/On a fini déjà !?/C'est la fin de la journée ?/Il est temps de se séparer ?/Vous voulez me renvoyer ?/On a fini déjà !?/Il est temps de dire au revoir ?/Quoi ? Vous voulez que je parte ?/Il est temps de se séparer ?]${choice: 0}[/Appelez-moi si vous avez besoin de moi./Appelez-moi à nouveau quand vous voulez !/Pas de problème. À la prochaine./Très bien. À la prochaine./Je serai là si vous avez besoin de moi./Ça a été amusant !/À la prochaine fois./Assurez-vous de garder le contact !/Très bien. À la prochaine.]${prompt}'
-  6614: Vous voulez déjà vous débarrasser de moi ?
+  6613: |-
+    ${choice: 0}[/Vous voulez déjà vous débarrasser de moi ?/On a fini déjà !?/C'est la fin de la journée ?/Il est temps de se séparer ?/Vous voulez me renvoyer ?/On a fini déjà !?/Il est temps de dire au revoir ?/Quoi ? Vous voulez que je parte ?/Il est temps de se séparer ?]
+    ${choice: 0}[/Appelez-moi si vous avez besoin de moi./Appelez-moi à nouveau quand vous voulez !/Pas de problème. À la prochaine./Très bien. À la prochaine./Je serai là si vous avez besoin de moi./Ça a été amusant !/À la prochaine fois./Assurez-vous de garder le contact !/Très bien. À la prochaine.]${prompt}
+  6614: |-
+    Vous voulez déjà vous débarrasser de moi ?
     Appelez-moi si vous avez besoin de moi.${prompt}
-  6615: On a fini déjà !?
+  6615: |-
+    On a fini déjà !?
     Appelez-moi à nouveau quand vous voulez !${prompt}
-  6616: C'est la fin de la journée ?
+  6616: |-
+    C'est la fin de la journée ?
     Pas de problème. À la prochaine.${prompt}
-  6617: Il est temps de se séparer ?
+  6617: |- 
+    Il est temps de se séparer ?
     Très bien. À la prochaine.${prompt}
-  6618: On a fini déjà ? Awww...
+  6618: |-
+    On a fini déjà ? Awww...
     Appelez-moi à nouveau, d'accord ? ${prompt}
-  6619: Hein ? La fête est finie ? C'est dommage...
-    Faisons ça une autre fois !${prompt}
-  6620: Oh ? Avez-vous d'autres engagements ?
+  6619: |-
+    Hein ? La fête est finie ? C'est dommage...
+    Faisons ça une autre fois !${prompt}                                                                     
+  6620: |-
+    Oh ? Avez-vous d'autres engagements ?
     Comme vous le souhaitez. Je serai prêt pour quand vous me rappellerez.${prompt}
-  6621: Il est temps de me renvoyer ?
+  6621: |-
+    Il est temps de me renvoyer ?
     Je serai là si vous avez besoin de moi.${prompt}
-  6622: On a fini déjà !?
+  6622: |-
+    On a fini déjà !?
     Ça a été amusant !${prompt}
-  6623: Il est temps de dire au revoir ?
+  6623: |-
+    Il est temps de dire au revoir ?      
     À la prochaine.${prompt}
-  6624: Quoi ? Vous voulez que je parte ?
+  6624: |-
+    Quoi ? Vous voulez que je parte ?
     Assurez-vous de rester en contact !${prompt}
-  6625: Il est temps de se séparer ?
+  6625: |-
+    Il est temps de se séparer ?
     Très bien. À la prochaine.${prompt}
-  6626: Je suis venu jusque-là, et maintenant vous voulez que je parte ? Hmph.
-    Assurez-vous simplement de ne pas vous laisser aller à vos entraînements.${prompt}
+  6626: |-
+    Je suis venu jusque-là, et maintenant vous voulez que je parte ? Hmph.
+    Assurez-vous simplement de ne pas vous laisser aller à vos entraînements.${prompt}                                                                                        
   6627: Très bien ! Je vous verrai plus tard.${prompt}
   6628: Vous ne pouvez pas vous séparer de votre compagnon pour le moment.${prompt}
-  6629: ${choice: 0}[/Un cadeau de départ !/Ha !/Retour dans la fosse !/Le tournant de la bataille !/Votre temps est écoulé !/Il est temps d'agir !/Cette bataille est la nôtre !/Essaye ça !/Le tournant de la bataille !]${prompt}
+  6629: '${choice: 0}[/Un cadeau de départ !/Ha !/Retour dans la fosse !/Le tournant de la bataille !/Votre temps est écoulé !/Il est temps d'agir !/Cette bataille est la nôtre !/Essaye ça !/Le tournant de la bataille !]${prompt}'
   6630: Un cadeau de départ !${prompt}
   6631: Ha !${prompt}
   6632: Retour dans la fosse !${prompt}
@@ -16476,37 +16520,51 @@ entries:
   6654: Je suis prêt quand vous l'êtes.${prompt}
   6655: Je suis complètement rétabli et prêt à y aller !${prompt}
   6656: Je suis préparé pour la bataille.${prompt}
-  6657: Vous vous permettez d'être mon gardien ?
+  6657: |-
+    Vous vous permettez d'être mon gardien ?
     Je vous conseille de vous occuper de vous.${prompt}
   6658: Je me sens super ! Allez, laissez-moi m'en occuper !${prompt}
-  6659: ${choice: 0}[/Ne vous inquiétez pas pour moi./Aucun problème !/Rien à craindre./Ne vous retenez pas à cause de moi./Cette petite égratignure ?/Cette petite égratignure ?/C'est gentil de vous inquiéter./Aucun problème !/Ne vous retenez pas à cause de moi.]
+  6659: |-
+    ${choice: 0}[/Ne vous inquiétez pas pour moi./Aucun problème !/Rien à craindre./Ne vous retenez pas à cause de moi./Cette petite égratignure ?/Cette petite égratignure ?/C'est gentil de vous inquiéter./Aucun problème !/Ne vous retenez pas à cause de moi.]
     ${choice: 0}[/Ce n'est qu'une égratignure./C'est juste une égratignure !/Juste une égratignure./C'est une simple égratignure./Ne vous en préoccupez pas./J'ai eu des coupures de papier plus graves !/Mais ça va, ce n'est qu'une égratignure./Cette petite égratignure ne me ralentira pas !/C'est une simple égratignure.]${prompt}
-  6660: Ne vous inquiétez pas pour moi.
+  6660: |-
+    Ne vous inquiétez pas pour moi.
     Ce n'est qu'une égratignure.${prompt}
-  6661: Aucun problème !
+  6661: |-
+    Aucun problème !
     C'est juste une égratignure !${prompt}
-  6662: Rien à craindre.
+  6662: |-
+    Rien à craindre.
     Juste une égratignure.${prompt}
-  6663: Ne vous retenez pas à cause de moi.
+  6663: |-
+    Ne vous retenez pas à cause de moi.
     C'est une simple égratignure.${prompt}
-  6664: Je vais bien.
+  6664: |-
+    Je vais bien.
     Pas besoin de vous inquiéter, d'accord ?${prompt}
-  6665: Ça ? Une blessure ?
+  6665: |-
+    Ça ? Une blessure ?
     Pff !${prompt}
   6666: Merci de demander, mais ce n'est pas une raison de s'inquiéter.${prompt}
-  6667: Cette petite égratignure ?
+  6667: |-
+    Cette petite égratignure ?
     Ne vous en préoccupez pas.${prompt}
-  6668: Cette petite égratignure ?
+  6668: |-
+    Cette petite égratignure ?
     J'ai eu des coupures de papier plus graves !${prompt}
-  6669: C'est gentil de vous inquiéter.
+  6669: |-
+    C'est gentil de vous inquiéter.
     Mais je vais bien, ce n'est qu'une égratignure.${prompt}
-  6670: Aucun problème !
+  6670: |-
+    Aucun problème !
     Cette petite égratignure ne me ralentira pas !${prompt}
-  6671: Ne vous retenez pas à cause de moi.
+  6671: |-
+    Ne vous retenez pas à cause de moi.
     C'est une simple égratignure.${prompt}
-  6672: Je ne qualifierais même pas cela d’égratignure.
+  6672: |-
+    Je ne qualifierais même pas cela d’égratignure.
     Ne vous occupez pas de moi, occupez-vous de vous.${prompt}
-  6673: Il me reste environ sept vies sur neuf !${prompt}
+  6673: Il me reste environ sept vies sur neuf !${prompt}                                                                                                                                                                                                                                                                                                                                             
   6674: |-
     ${choice: 0}[/Je devrais probablement me reposer un peu plus./Je ne vais pas laisser une petite blessure me ralentir !/Tu devrais peut-être surveiller ma santé./On devrait peut-être se reposer un peu ?/Je suis un peu fatigué./Je suis encore assez frais, mais peut-être devrions-nous nous reposer un peu plus./Je suis un peu fatigué./On peut faire une pause ?/On devrait peut-être se reposer un peu ?]
     ${choice: 0}[/ Au cas où./ Je suis prêt pour plus !/ Mieux vaut être prêt pour tout./Je doute de ma capacité à survivre à un autre combat./Peut-être devrions-nous nous reposer un peu./Alors je serai prêt pour tout !/On devrait se reposer un moment ?/Je ne pense pas pouvoir affronter un autre combat pour le moment./Je doute de ma capacité à survivre à un autre combat.]${prompt}
@@ -16735,18 +16793,21 @@ entries:
     Nous devrons faire quelque chose pour ton problème de mémoire.${prompt}
   6778: C'est tellement loin...${prompt}
   6779: |-
-    Mon expérience est encore limitée.
-    J'ai beaucoup de travail à faire.${prompt}
+    ${choice: 0}[/Mon expérience est encore limitée./J'ai encore beaucoup de travail à faire !/Pas même proche.../Il reste encore beaucoup de travail à faire./Pas même proche.../J'ai encore beaucoup de travail à faire !/J'ai encore beaucoup à faire./Bof./Il reste encore beaucoup de travail à faire.]
+    ${choice: 0}[/J'ai encore beaucoup de travail à faire./J'ai besoin de plus d'expérience pour devenir plus fort !/J'ai encore beaucoup d'expérience à acquérir./Je dois acquérir plus d'expérience pour devenir plus fort./J'ai encore beaucoup d'expérience à acquérir./J'ai besoin de plus d'expérience pour devenir plus fort !/Je dois acquérir plus d'expérience pour devenir plus fort./Encore beaucoup de travail avant d'atteindre mon prochain niveau !/Je dois acquérir plus d'expérience pour devenir plus fort.]${prompt}
   6780: |-
-    J'ai beaucoup de travail à faire !
-    J'ai besoin de plus d'expérience pour devenir plus fort !${prompt}
+    Mon expérience est encore limitée.
+    J'ai encore beaucoup de travail à faire.${prompt}
   6781: |-
-    Pas encore...
-    J'ai encore beaucoup d'expérience à acquérir.${prompt}
+    J'ai encore beaucoup de travail à faire !
+    J'ai besoin de plus d'expérience pour devenir plus fort !${prompt}
   6782: |-
+    Pas même proche...
+    J'ai encore beaucoup d'expérience à acquérir.${prompt}
+  6783: |-
     Il reste encore beaucoup de travail à faire.
     Je dois acquérir plus d'expérience pour devenir plus fort.${prompt}
-  6784: J'ai encore beaucoup d'expérience à gagner, mais je vais faire de mon mieux !${prompt}
+  6784: J'ai encore beaucoup d'expérience à acquérir, mais je ferai de mon mieux !${prompt}
   6785: |-
     Mon prochain niveau est encore loin.
     Pourquoi se presser ? Ne t'inquiète pas, sois heureux !${prompt}
@@ -16768,7 +16829,9 @@ entries:
     Je dois acquérir plus d'expérience pour devenir plus fort.${prompt}
   6792: Mon niveau ne montera pas si nous restons là à discuter comme ça !${prompt}
   6793: "Non, ne me rappelle pas ! \nQuel chemin à parcourir..."${prompt}
-  6794: '${choice: 0}[/J'ai gagné une quantité considérable d'expérience./Je pense que je dois être presque à mi-chemin de mon niveau suivant./Hmm./Je crois que j'ai presque atteint le point médian de mon niveau suivant./Je crois que j'arrive bientôt à mi-chemin de mon niveau suivant./Je pense que je dois être presque à mi-chemin de mon niveau suivant./J'ai fait un long chemin vers mon niveau suivant./On a été occupés, hein ?/Je crois que j'ai presque atteint le point médian de mon niveau suivant.]${prompt}'
+  6794: |-
+    ${choice: 0}[/J'ai acquis une bonne quantité d'expérience./Je pense que je dois être presque à mi-chemin de mon prochain niveau./Hmm./Je crois que je suis presque à mi-chemin de mon prochain niveau./Je pense que je m'approche de la moitié de mon prochain niveau./Je pense que je dois être presque à mi-chemin de mon prochain niveau./J'ai fait beaucoup de progrès vers mon prochain niveau./Nous avons été occupés, hein ?/Je crois que je suis presque à mi-chemin de mon prochain niveau.]
+    ${choice: 0}[/Je dois être proche de la moitié de mon prochain niveau maintenant./Impossible de ralentir maintenant !/Je dois être presque à mi-chemin de mon prochain niveau maintenant./Ne nous reposons pas sur nos lauriers, cependant !/Cela a été beaucoup plus rapide que ce que je pensais./Pas le temps de flâner !/Je dois être proche de la moitié maintenant./Je pense que je suis presque à mi-chemin de mon prochain niveau./Ne nous reposons pas sur nos lauriers, cependant !]${prompt}                                                                                                                                                                                                                                                                                                                                                                                     
   6795: |-
     J'ai gagné une quantité considérable d'expérience.
     Je pense que je dois être presque à mi-chemin de mon niveau suivant.${prompt}
