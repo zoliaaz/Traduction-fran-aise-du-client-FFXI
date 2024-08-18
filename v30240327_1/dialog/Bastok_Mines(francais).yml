@@ -17873,407 +17873,407 @@ entries:
     Avez-vous besoin de ${article} ${item-article: 1[2]} et ${item-plural: 2[2]} ?
     Je peux vous fournir les deux pour un modique prix de 800 gil.${prompt}'
   7215: |-
-    Buy for 800 gil? (You have ${number: 3})
+    Acheter pour 800 gil ? (Vous avez ${number: 3})
     ${selection-lines}
-    Yes, please.
-    No, thank you.${prompt}
+    Oui, s'il vous plaît.
+    Non, merci.${prompt}
   7216: |-
-    Should you not possess ${article} ${item-article: 0[2]} and ${item-plural: 1[2]}, I can furnish you with both for a nominal fee.
-    I've recently depleted my stores, however, so you will have to wait until the next shipment arrives.${prompt}
-  7217: It appears you haven't enough gil.${prompt}
+    Si vous ne possédez pas ${article} ${item-article: 0[2]} et ${item-plural: 1[2]}, je peux vous fournir les deux pour une somme modique.
+    Cependant, mes stocks sont récemment épuisés, donc vous devrez attendre la prochaine livraison.${prompt}
+  7217: Il semble que vous n'avez pas assez de gil.${prompt}
   7218: |-
-    Ah, a positively imposing image of the ${entity: 0}!
-    All that remains, then, is one of the ${entity: 1}.${prompt}
+    Ah, une image vraiment imposante du ${entity: 0} !
+    Il ne reste plus qu'un ${entity: 1}.${prompt}
   7219: |-
-    I've eagerly awaited your return.
-    With this image of the ${entity: 0}, I hold your task fulfilled.${prompt}
+    J'attendais avec impatience votre retour.
+    Avec cette image du ${entity: 0}, je considère votre tâche accomplie.${prompt}
   7220: |-
-    As promised, I relinquish this to you.
-    Should another be required, you shall find me here.${prompt}
-  7221: 'I need images of the ${entity: 0}, the ${entity: 1}, and the ${entity: 2}.${prompt}'
-  7222: 'You''ve yet to bring me images of the ${entity: 0} and the ${entity: 1}.${prompt}'
-  7223: 'You''ve yet to bring me an image of the ${entity: 0}.${prompt}'
-  7224: A fine image this is, but this creature isn't one of my investigation subjects.${prompt}
-  7225: I fear I haven't the time to trade pleasantries with random strangers. Please leave me be.${prompt}
+    Comme promis, je vous remets ceci.
+    Si vous en avez besoin d'un autre, vous me trouverez ici.${prompt}
+  7221: 'J'ai besoin d'images du ${entity: 0}, du ${entity: 1} et du ${entity: 2}.${prompt}'
+  7222: 'Vous n'avez pas encore apporté les images du ${entity: 0} et du ${entity: 1}.${prompt}'
+  7223: 'Vous n'avez pas encore apporté une image du ${entity: 0}.${prompt}'
+  7224: C'est une belle image, mais cette créature n'est pas l'un des sujets de mon enquête.${prompt}
+  7225: Je crains de ne pas avoir le temps de discuter avec des étrangers. Veuillez me laisser tranquille.${prompt}
   7226: |-
-    Is there something else you wish of me?
-    You already have what you came for, no?${prompt}
-  7227: We don't know what you're doing here, but truth be told, we're not really interested.${prompt}
+    Y a-t-il autre chose que vous souhaitez de ma part ?
+    Vous avez déjà ce que vous êtes venu chercher, non ?${prompt}
+  7227: Nous ne savons pas ce que vous faites ici, mais pour être honnêtes, cela ne nous intéresse pas vraiment.${prompt}
   7228: |-
-    Putting up a fight, eh?
-    Gorattz! Bompupu! Show ${choice-player-gender}[him/her] what the Tenshodo thinks of meddlesome adventurers!${prompt}
-  7229: D-damn... I'm in way over my head...${prompt}
-  7230: Ugh... ${choice-player-gender}[He/She]'s tougher than ${choice-player-gender}[he/she] looks...${prompt}
-  7231: Waaah! I didn't signy-wign up for this...${prompt}
+    Vous voulez vous battre, hein ?
+    Gorattz ! Bompupu ! Montrez à ${choice-player-gender}[lui/elle] ce que le Tenshodo pense des aventuriers qui se mêlent de tout !${prompt}
+  7229: D-damn... Je suis complètement dépassé...${prompt}
+  7230: Ugh... ${choice-player-gender}[Il/Elle] est plus coriace que ${choice-player-gender}[il/elle] n'en a l'air...${prompt}
+  7231: Waaah ! Je ne me suis pas inscrit pour ça...${prompt}
   7232: '${choice: 0}[Renfred/Gorattz/Bompupu]''s shadow image disappears...${prompt}'
-  7233: 'The ${choice: 0}[Skeleton Scuffler/Blest Bones/Holey Horror/Steely Weapon/Lode Golem/Fired Urn] fades away into nothingness...${prompt}'
-  7234: The power of the Great Star Tree has been released!${prompt}
-  7235: We warmly welcome you to the place of your unmaking.${prompt}
-  7236: From your ground bones, a loaf of bread we shall be baking.${prompt}
+  7233: 'Le ${choice: 0}[Skeleton Scuffler/Blest Bones/Holey Horror/Steely Weapon/Lode Golem/Fired Urn] disparaît dans le néant...${prompt}'
+  7234: Le pouvoir du Grand Arbre Étoile a été libéré !${prompt}
+  7235: Nous vous accueillons chaleureusement dans le lieu de votre destruction.${prompt}
+  7236: De vos os broyés, nous allons préparer un pain.${prompt}
   7237: |-
-    We shall curse you unto death!
-    Prepare to breathe your final breath!${prompt}
+    Nous te maudirons jusqu'à la mort !
+    Prépare-toi à respirer ton dernier souffle !${prompt}
   7238: |-
-    We will make you beg to die!
-    Six fulms under you will lie!${prompt}
+    Nous te ferons supplier la mort !
+    Six pieds sous terre tu reposeras !${prompt}
   7239: |-
-    Naughty children shall receive no quarter!
-    Curl up and die, this is your empress's order!${prompt}
+    Les enfants indisciplinés ne recevront aucune clémence !
+    Rampe et meurs, c'est l'ordre de ton impératrice !${prompt}
   7240: |-
-    You've long overstayed your welcome!
-    The punishment will be brutal and gruesome!${prompt}
+    Tu as depuis longtemps dépassé ton accueil !
+    La punition sera brutale et atroce !${prompt}
   7241: |-
-    Which way do you like it--slow or fast?
-    Should you lose a limb, be not aghast!${prompt}
+    Quelle méthode préfères-tu -- lente ou rapide ?
+    Si tu perds un membre, ne sois pas choqué !${prompt}
   7242: |-
-    You'll wish you were never born!
-    From your torso limbs will be torn!${prompt}
-  7243: Steel yourself for a wicked fright!${prompt}
-  7244: We shall set your pants alight!${prompt}
-  7245: The world shall bow before our might!${prompt}
+    Tu regretteras d'être né !
+    De ton torse, les membres seront arrachés !${prompt}
+  7243: Prépare-toi à une frayeur maléfique !${prompt}
+  7244: Nous allons mettre le feu à tes pantalons !${prompt}
+  7245: Le monde s'inclinera devant notre puissance !${prompt}
   7246: |-
-    H-how could this be?
-    This outcome, we did not foresee...${prompt}
+    H-comment cela peut-il être ?
+    Ce résultat, nous ne l'avions pas prévu...${prompt}
   7247: |-
-    Be this a dream? Or is it real?
-    This ending falls sorely short of ideal...${prompt}
+    Est-ce un rêve ? Ou est-ce réel ?
+    Cette fin est bien loin d'être idéale...${prompt}
   7248: |-
-    'Twas high time you were made to know
-    that your abilities are purely for show.
-    O～hohohohoho!${prompt}
+    Il était grand temps que tu comprennes
+    que tes capacités ne sont que pour le spectacle.
+    O～hohohohoho !${prompt}
   7249: |-
-    A fitting end for a talentless crew
-    that tried to bite off more than it could chew.
-    O～hohohohoho!${prompt}
-  7250: Your body absorbs the power held within the ancient runes!${prompt}
-  7251: 'You cannot enter this battlefield with ${keyitem-article: 0[2]} in your possession.${prompt}'
-  7252: It appears you must wait longer to commence the battle.${prompt}
+    Une fin appropriée pour une bande sans talent
+    qui a essayé de mordre plus qu'elle ne pouvait mâcher.
+    O～hohohohoho !${prompt}
+  7250: Ton corps absorbe la puissance contenue dans les runes anciennes !${prompt}
+  7251: 'Tu ne peux pas entrer sur ce champ de bataille avec ${keyitem-article: 0[2]} en ta possession.${prompt}'
+  7252: Il semble que tu doives attendre plus longtemps pour commencer la bataille.${prompt}
   7253: |-
-    You are not in possession of ${keyitem-article: 0[2]}.
-    Unable to enter the battlefield for “${choice: 1}${choice: 1}[Sugar-coated Directive/Battaru Royale/Project: Shantottofication].”${prompt}
-  7254: 'You cannot enter the battlefield for “${choice: 1}${choice: 1}[Sugar-coated Directive/Battaru Royale/Project: Shantottofication]” with ${keyitem-article: 0[2]} in your possession.${prompt}'
+    Vous n'êtes pas en possession de ${keyitem-article: 0[2]}.
+    Impossible d'entrer sur le champ de bataille pour “${choice: 1}${choice: 1}[Directive Sucrée/Battaru Royale/Projet : Shantottofication].”${prompt}
+  7254: 'Vous ne pouvez pas entrer sur le champ de bataille pour “${choice: 1}${choice: 1}[Directive Sucrée/Battaru Royale/Projet : Shantottofication]” avec ${keyitem-article: 0[2]} en votre possession.${prompt}'
   7255: |-
-    The ${keyitem-singular: 0[2]} has no effect.
-    It appears you should come back later.${prompt}
+    Le ${keyitem-singular: 0[2]} n'a aucun effet.
+    Il semble que vous deviez revenir plus tard.${prompt}
   7256: |-
-    You are not in possession of a sap crystal.
-    Unable to enter the battlefield for “Battaru Royale.”${prompt}
+    Vous n'êtes pas en possession d'un cristal de sève.
+    Impossible d'entrer sur le champ de bataille pour “Battaru Royale.”${prompt}
   7257: |-
-    The sap crystal has no effect.
-    More time must elapse before you can enter the battlefield for “Battaru Royale.”${prompt}
+    Le cristal de sève n'a aucun effet.
+    Il faut attendre encore un peu avant de pouvoir entrer sur le champ de bataille pour “Battaru Royale.”${prompt}
   7258: |-
-    You are not in possession of a Tablet of Hexes.
-    Unable to enter the battlefield for “Project: Shantottofication.”${prompt}
+    Vous n'êtes pas en possession d'un Tablet of Hexes.
+    Impossible d'entrer sur le champ de bataille pour “Projet : Shantottofication.”${prompt}
   7259: |-
-    The Tablet of Hexes has no effect.
-    More time must elapse before you can enter the battlefield for “Project: Shantottofication.”${prompt}
-  7260: The door is sealed.${prompt}
-  7261: Your opponents deem you too weak to be worthwhile, disappearing whence they came.${prompt}
+    Le Tablet of Hexes n'a aucun effet.
+    Il faut attendre encore un peu avant de pouvoir entrer sur le champ de bataille pour “Projet : Shantottofication.”${prompt}
+  7260: La porte est scellée.${prompt}
+  7261: Vos adversaires vous jugent trop faible pour être intéressant, disparaissant d'où ils venaient.${prompt}
   7262: |-
-    The time has come, ${name-player}.
-    The time to move beyond your limits as ${choice: 0}[a veteran/an expert/an authority/a luminary/a master] and seek the answers to yet deeper questions of our universe. I trust you are up to the task?${prompt}
+    Le moment est venu, ${name-player}.
+    Le moment de dépasser vos limites en tant que ${choice: 0}[vétéran/expert/autorité/éminence/maître] et de chercher les réponses à des questions encore plus profondes sur notre univers. Je crois que vous êtes à la hauteur de la tâche ?${prompt}
   7263: |-
-    Up to the task?
+    À la hauteur de la tâche ?
     ${selection-lines}
-    I am!
-    I am not...${prompt}
+    Je le suis !
+    Je ne le suis pas...${prompt}
   7264: |-
-    Yes, of course you are. Your answer was known to me long before I posed the question.
-    Acquire yourself a copy of ${keyitem-article: 1[2]} from Hemewmew, and we shall proceed from there.${prompt}
-  7265: An alchemist of your caliber need not be told that nothing in our universe comes without a price, and that a nominal fee in guild points must be paid to obtain the tome.${prompt}
+    Oui, bien sûr que vous l'êtes. Votre réponse m'était connue bien avant que je pose la question.
+    Procurez-vous un exemplaire de ${keyitem-article: 1[2]} auprès de Hemewmew, et nous poursuivrons à partir de là.${prompt}
+  7265: Un alchimiste de votre calibre sait que rien dans notre univers ne vient sans prix, et qu'une modeste somme en points de guilde doit être payée pour obtenir le tome.${prompt}
   7266: |-
-    All for the better. Pursuing alchemy with imperfect focus has been known to lead to madness, disaster...or worse.
-    When you are prepared to devote the entirety of your soul to our practice, you may return. And not a day before.${prompt}
-  7267: 'Acquire yourself a copy of ${keyitem-article: 1[2]} from Hemewmew, and we shall proceed from there.${prompt}'
+    Tout est pour le mieux. Poursuivre l'alchimie avec une concentration imparfaite est connu pour mener à la folie, au désastre... ou pire.
+    Lorsque vous serez prêt à consacrer entièrement votre âme à notre pratique, vous pourrez revenir. Et pas un jour avant.${prompt}
+  7267: 'Procurez-vous un exemplaire de ${keyitem-article: 1[2]} auprès de Hemewmew, et nous poursuivrons à partir de là.${prompt}'
   7268: |-
-    Say not a word, ${name-player}. It is as plain as day to me.
-    You have familiarized yourself with the contents of ${keyitem-article: 1[2]}.${prompt}
+    Ne dites pas un mot, ${name-player}. Il est aussi clair que le jour pour moi.
+    Vous vous êtes familiarisé avec le contenu de ${keyitem-article: 1[2]}.${prompt}
   7269: |-
-    Very well. Create for me ${article} ${item-article: 2[2]}.
-    This is what you will need. Listen well--the prospect of repeating myself does not amuse me.${prompt}
+    Très bien. Créez pour moi ${article} ${item-article: 2[2]}.
+    C'est ce dont vous aurez besoin. Écoutez bien--la perspective de devoir me répéter ne m'amuse pas.${prompt}
   7270: |-
-    And be sure to leave your name upon your work.
-    Why, you say? I would think it obvious, but will leave the question for you to ponder.${prompt}
+    Et assurez-vous de laisser votre nom sur votre travail.
+    Pourquoi, dites-vous ? Je pensais que c'était évident, mais je laisserai la question pour vous à méditer.${prompt}
   7271: |-
-    Have the fumes gotten to your head?
-    I've already told you that making ${article} ${item-article: 2[2]} requires...${prompt}
+    Les vapeurs vous ont-elles monté à la tête ?
+    Je vous ai déjà dit que la fabrication de ${article} ${item-article: 2[2]} nécessite...${prompt}
   7272: |-
-    Yes, this shall do. You have taken one step closer to true knowledge, ${name-player}.
-    I bestow upon you the rank of expert. From this day on, let us unravel the mysteries of this universe together.${prompt}
+    Oui, cela fera l'affaire. Vous avez fait un pas de plus vers la véritable connaissance, ${name-player}.
+    Je vous confère le rang d'expert. À partir de ce jour, dénouons ensemble les mystères de cet univers.${prompt}
   7273: |-
-    Is this some poor attempt at humor, ${name-player}?
-    No self-respecting alchemist would be so ignorant as to submit for review a work that did not bear their name.${prompt}
+    Est-ce une tentative malheureuse d'humour, ${name-player} ?
+    Aucun alchimiste digne de ce nom ne serait si ignorant pour soumettre à l'examen un travail qui ne porte pas son nom.${prompt}
   7274: |-
-    Let it suffice to say that I am not entertained.
-    Return to your laboratory and do not return without that which I asked you for.${prompt}
+    Disons simplement que je ne suis pas diverti.
+    Retournez à votre laboratoire et ne revenez pas sans ce que je vous ai demandé.${prompt}
   7275: |-
-    People have begun talking of your work. Their words have even wafted all the way to the halls of this guild.
-    You are ready for your next trial. Create for me ${article} ${item-article: 0[2]}.${prompt}
-  7276: 'Pass, and you will be accepted as ${choice: 5}[an artisan/an adept/a veteran]...and then I will show you the true power that the universe hides.${prompt}'
-  7277: 'However, you must take care. Bearing the name of ${choice: 5}[artisan/adept/veteran] means you must clear your mind of all stray thoughts, and focus on the task before you. Why, you ask?${prompt}'
-  7278: 'In alchemy, losing your focus could result in a tragedy of universal proportions. This is why we advise against becoming ${choice: 5}[an artisan/an adept/a veteran] in more than one guild.${prompt}'
+    Les gens ont commencé à parler de votre travail. Leurs paroles ont même atteint les couloirs de cette guilde.
+    Vous êtes prêt pour votre prochaine épreuve. Créez pour moi ${article} ${item-article: 0[2]}.${prompt}
+  7276: 'Réussissez, et vous serez accepté en tant que ${choice: 5}[artisan/adepte/vétéran]... et ensuite, je vous montrerai la véritable puissance que l'univers cache.${prompt}'
+  7277: 'Cependant, vous devez faire attention. Porter le titre de ${choice: 5}[artisan/adepte/vétéran] signifie que vous devez vider votre esprit de toutes pensées parasites et vous concentrer sur la tâche qui vous attend. Pourquoi, demandez-vous ?${prompt}'
+  7278: 'En alchimie, perdre votre concentration pourrait entraîner une tragédie de proportions universelles. C'est pourquoi nous déconseillons de devenir ${choice: 5}[artisan/adepte/vétéran] dans plus d'une guilde.${prompt}'
   7279: |-
-    Of all the disciplines, alchemy demands the highest degree of focus from its practitioners.
-    Entertain even a moment's thought of striving for ${choice: 3}[artisan/adept/veteran] status in another guild, and true knowledge of the mysteries of the universe will forever elude you.${prompt}
+    Parmi toutes les disciplines, l'alchimie exige le plus haut degré de concentration de ses praticiens.
+    Si vous même l'idée de viser le statut de ${choice: 3}[artisan/adepte/vétéran] dans une autre guilde, la véritable connaissance des mystères de l'univers vous échappera à jamais.${prompt}
   7280: |-
-    I have received word that you have accepted the title of ${choice: 5}[artisan/adept/veteran] from another guild.
-    Tell me, ${name-player}, did I not advise against this course of action?${prompt}
-  7281: Your blatant disregard of my warning does not please me...${prompt}
-  7282: 'However, I offer you the opportunity to redeem yourself of your errant past. Revoke your ${choice: 5}[artisan/adept/veteran] status from any lesser guild and you will be forgiven.${prompt}'
+    J'ai reçu des nouvelles indiquant que vous avez accepté le titre de ${choice: 5}[artisan/adepte/vétéran] dans une autre guilde.
+    Dites-moi, ${name-player}, ne vous avais-je pas déconseillé cette voie ?${prompt}
+  7281: Votre mépris flagrant de mon avertissement ne me plaît pas...${prompt}
+  7282: 'Cependant, je vous offre l'opportunité de vous racheter de votre passé erroné. Révoquez votre statut de ${choice: 5}[artisan/adepte/vétéran] dans toute guilde inférieure et vous serez pardonné.${prompt}'
   7283: |-
-    I will inform the other guildmasters of your decision, so that you may return immediately to your research.
-    Do we have an agreement?${prompt}
+    J'informerai les autres maîtres de guilde de votre décision, afin que vous puissiez retourner immédiatement à vos recherches.
+    Avons-nous un accord ?${prompt}
   7284: |-
-    Perhaps I was wrong...
-    Perhaps there are things in this world more important than the study of alchemy...${prompt}
+    Peut-être ai-je eu tort...
+    Peut-être y a-t-il des choses dans ce monde plus importantes que l'étude de l'alchimie...${prompt}
   7285: |-
-    Could it be that it is not you who strays from the true path, but I?
-    No! Such thoughts are madness! I must...not...waver...!${prompt}
+    Pourrait-il que ce ne soit pas vous qui vous écartez du vrai chemin, mais moi ?
+    Non ! De telles pensées sont de la folie ! Je ne dois... pas... faiblir... !${prompt}
   7286: |-
-    Greetings adventurer! I'm so glad you've come, kupo!
-    To celebrate the safe recovery of all eleven of King Kupofried's mog tablets, we're offering a limited-time teleportation service for the low, low price of ${number: 0} gil! What do you say?${prompt}
+    Salutations aventurier ! Je suis si heureux que vous soyez venu, kupo !
+    Pour célébrer la récupération en toute sécurité des onze tablettes mog du Roi Kupofried, nous offrons un service de téléportation limité au prix exceptionnel de ${number: 0} gil ! Qu'en dites-vous ?${prompt}
   7287: |-
-    Teleport to where? (Cost: ${number: 0} gil.)
+    Téléporter où ? (Coût : ${number: 0} gil.)
     ${selection-lines}
-    Nowhere.
+    Nulle part.
     San d'Oria.
     Bastok.
     Windurst.
     Selbina.
     Mhaura.${prompt}
   7288: |-
-    Your wish is my command, kupo!
-    For a small fee of ${number: 0} gil, that is...${prompt}
-  7289: Safe travels, kupo!
-  7290: Looks like you're light on funds, kupo... Sorry!${prompt}
+    Votre souhait est mon ordre, kupo !
+    Pour une petite somme de ${number: 0} gil, bien sûr...${prompt}
+  7289: Voyagez prudemment, kupo !
+  7290: On dirait que vous manquez de fonds, kupo... Désolé !${prompt}
   7291: |-
-    What's this? You're still new to this land?
-    I'm afraid you're not yet strong enough to handle our potent moogle magic!
-    Just forget I said anything, kupo!${prompt}
+    Qu'est-ce que c'est ? Vous êtes encore nouveau dans cette région ?
+    Je crains que vous ne soyez pas encore assez fort pour gérer notre puissante magie de mog !
+    Oubliez ce que j'ai dit, kupo !${prompt}
   7292: |-
-    Oh, what a shame! The mog tablets have been scattered to the winds once more!
-    Without their power, I'm afraid we can't help you, kupo.${prompt}
-  7293: A hunt registry has been placed here by the Adventurers' Mutual Aid Network (A.M.A.N.). Its pages are laden with the names of spine-chilling monsters.${prompt}
-  7294: A hunt registry has been placed here by the Servicemen's Mutual Aid Network (S.M.A.N.). Its pages are laden with the names of spine-chilling monsters.${prompt}
+    Oh, quel dommage ! Les tablettes mog ont de nouveau été dispersées au vent !
+    Sans leur pouvoir, je crains que nous ne puissions pas vous aider, kupo.${prompt}
+  7293: Un registre de chasse a été placé ici par le Réseau d'Aide Mutuelle des Aventuriers (R.A.M.A.). Ses pages sont chargées des noms de monstres glaçants.${prompt}
+  7294: Un registre de chasse a été placé ici par le Réseau d'Aide Mutuelle des Servants (R.A.M.S.). Ses pages sont chargées des noms de monstres glaçants.${prompt}
   7295: |-
-    What will you do?
+    Que ferez-vous ?
     ${selection-lines}
-    Nothing.
-    Undertake a hunt.
-    Read explanation.
-    Record completion of hunt.
-    View current hunt.
-    Cancel current hunt.
-    View scyld balance.${prompt}
-  7296: You must cancel your current hunt if you wish to undertake another.${prompt}
-  7297: Little time has passed since your last hunt. It is recommended that you take some time to recuperate before undertaking another.${prompt}
-  7298: You cannot undertake a hunt while a training regime is active.${prompt}
+    Rien.
+    Entreprendre une chasse.
+    Lire l'explication.
+    Enregistrer l'achèvement de la chasse.
+    Voir la chasse actuelle.
+    Annuler la chasse actuelle.
+    Voir le solde de scylds.${prompt}
+  7296: Vous devez annuler votre chasse actuelle si vous souhaitez en entreprendre une autre.${prompt}
+  7297: Peu de temps s'est écoulé depuis votre dernière chasse. Il est recommandé de prendre du temps pour vous remettre avant d'en entreprendre une autre.${prompt}
+  7298: Vous ne pouvez pas entreprendre une chasse tant qu'un régime d'entraînement est actif.${prompt}
   7299: |-
-    Cancel your training regime?
+    Annuler votre régime d'entraînement ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  7300: Current training regime canceled.${prompt}
-  7301: You must either notify the completion of, or cancel your current hunt in order to undertake another.${prompt}
-  7302: "Which page?\n${selection-lines}\nI've changed my mind.\nWest Ronfaure.\nEast Ronfaure.\nLa Theine Plateau.\nValkurm Dunes.\nJugner Forest.\nBatallia Downs.\nCarpenters' Landing.\nGhelsba Outpost.\nFort Ghelsba.\nKing Ranperre's Tomb.\nBostaunieux Oubliette.\nOrdelle's Caves.\nEldieme Necropolis.\nDavoi.\nHabitat Unknown.\n \n \n \n \n ${prompt}"
-  7303: "Which page?\n${selection-lines}\nI've changed my mind.\nNorth Gustaberg.\nSouth Gustaberg.\nKonschtat Highlands.\nValkurm Dunes.\nPashhow Marshlands.\nRolanberry Fields.\nPalborough Mines.\nDangruf Wadi.\nKorroloka Tunnel.\nGusgen Mines.\nCrawlers' Nest.\nBeadeaux.\nOldton Movalpolos.\nNewton Movalpolos.\nHabitat Unknown.\n \n \n \n \n ${prompt}"
-  7304: "Which page?\n${selection-lines}\nI've changed my mind.\nWest Sarutabaruta.\nEast Sarutabaruta.\nTahrongi Canyon.\nBuburimu Peninsula.\nBibiki Bay.\nMeriphataud Mountains.\nSauromugue Champaign.\nAttohwa Chasm.\nGiddeus.\nToraimarai Canal.\nInner Horutoto Ruins.\nOuter Horutoto Ruins.\nMaze of Shakhrami.\nLabyrinth of Onzozo.\nGarlaige Citadel.\nCastle Oztroja.\nHabitat Unknown.\n \n \n ${prompt}"
-  7305: "Which page?\n${selection-lines}\nI've changed my mind.\nQufim Island.\nBeaucedine Glacier.\nXarcabard.\nUleguerand Range.\nThe Sanctuary of Zi'Tah.\nRo'Maeve.\nUpper Delkfutt's Tower.\nMiddle Delkfutt's Tower.\nLower Delkfutt's Tower.\nRanguemont Pass.\nFei'Yin.\nCastle Zvahl Baileys.\nCastle Zvahl Keep.\nThe Boyahda Tree.\nHabitat Unknown.\n \n \n \n \n ${prompt}"
-  7306: "Which page?\n${selection-lines}\nI've changed my mind.\nYuhtunga Jungle.\nYhoator Jungle.\nSea Serpent Grotto.\nTemple of Uggalepih.\nDen of Rancor.\nIfrit's Cauldron.\n \n \n \n \n \n \n \n \n \n \n \n \n \n ${prompt}"
-  7307: "Which page?\n${selection-lines}\nI've changed my mind.\nCape Teriggan.\nEastern Altepa Desert.\nWestern Altepa Desert.\nKuftal Tunnel.\nGustav Tunnel.\nQuicksand Caves.\n \n \n \n \n \n \n \n \n \n \n \n \n \n ${prompt}"
-  7308: "Which page?\n${selection-lines}\nI've changed my mind.\nLufaise Meadows.\nMisareaux Coast.\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n ${prompt}"
-  7309: "Which page?\n${selection-lines}\nI've changed my mind.\nWajaom Woodlands.\nBhaflau Thickets.\nMount Zhayolm.\nMamook.\nAydeewa Subterrane.\nHalvung.\n \n \n \n \n \n \n \n \n \n \n \n \n \n ${prompt}"
-  7310: "Which page?\n${selection-lines}\nI've changed my mind.\nCaedarva Mire.\nArrapago Reef.\nAlzadaal Undersea Ruins.\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n ${prompt}"
-  7311: "Which page?\n${selection-lines}\nI've changed my mind.\nEast Ronfaure.\nJugner Forest.\nVunkerl Inlet.\nBatallia Downs.\nEldieme Necropolis.\nBeaucedine Glacier.\nXarcabard.\n \n \n \n \n \n \n \n \n \n \n \n \n ${prompt}"
-  7312: "Which page?\n${selection-lines}\nI've changed my mind.\nNorth Gustaberg.\nGrauberg.\nPashhow Marshlands.\nRolanberry Fields.\nCrawlers' Nest.\nBeaucedine Glacier.\nXarcabard.\n \n \n \n \n \n \n \n \n \n \n \n \n ${prompt}"
-  7313: "Which page?\n${selection-lines}\nI've changed my mind.\nWest Sarutabaruta.\nFort Karugo-Narugo.\nMeriphataud Mountains.\nSauromugue Champaign.\nGarlaige Citadel.\nBeaucedine Glacier.\nXarcabard.\n \n \n \n \n \n \n \n \n \n \n \n \n ${prompt}"
+    Oui.
+    Non.${prompt}
+  7300: Régime d'entraînement actuel annulé.${prompt}
+  7301: Vous devez soit notifier l'achèvement de, soit annuler votre chasse actuelle afin d'en entreprendre une autre.${prompt}
+  7302: "Quelle page ?\n${selection-lines}\nJ'ai changé d'avis.\nOuest Ronfaure.\nEst Ronfaure.\nPlateau de La Theine.\nDunes de Valkurm.\nForêt de Jugner.\nChamps de Batallia.\nDébarcadère des Charpentiers.\nAvant-poste de Ghelsba.\nFort de Ghelsba.\nTombeau de King Ranperre.\nOubliette de Bostaunieux.\nCavernes d'Ordelle.\nNécropole d'Eldieme.\nDavoi.\nHabitat Inconnu.\n \n \n \n \n ${prompt}"
+  7303: "Quelle page ?\n${selection-lines}\nJ'ai changé d'avis.\nNord Gustaberg.\nSud Gustaberg.\nHautes Terres de Konschtat.\nDunes de Valkurm.\nMarais de Pashhow.\nChamps de Rolanberry.\nMines de Palborough.\nWadi de Dangruf.\nTunnel de Korroloka.\nMines de Gusgen.\nNid des Crawlers.\nBeadeaux.\nMovalpolos d'Oldton.\nMovalpolos de Newton.\nHabitat Inconnu.\n \n \n \n \n ${prompt}"
+  7304: "Quelle page ?\n${selection-lines}\nJ'ai changé d'avis.\nOuest Sarutabaruta.\nEst Sarutabaruta.\nCanyon de Tahrongi.\nPéninsule de Buburimu.\nBaie de Bibiki.\nMontagnes de Meriphataud.\nChampagne de Sauromugue.\nChasm d'Attohwa.\nGiddeus.\nCanal de Toraimarai.\nRuines Intérieures de Horutoto.\nRuines Extérieures de Horutoto.\nLabyrinthe de Shakhrami.\nLabyrinthe d'Onzozo.\nCitadelle de Garlaige.\nChâteau d'Oztroja.\nHabitat Inconnu.\n \n \n ${prompt}"
+  7305: "Quelle page ?\n${selection-lines}\nJ'ai changé d'avis.\nÎle de Qufim.\nGlacier de Beaucedine.\nXarcabard.\nChaîne de Uleguerand.\nSanctuaire de Zi'Tah.\nRo'Maeve.\nTour Supérieure de Delkfutt.\nTour Moyenne de Delkfutt.\nTour Inférieure de Delkfutt.\nPassage de Ranguemont.\nFei'Yin.\nBaileys du Château Zvahl.\nDonjon du Château Zvahl.\nArbre de Boyahda.\nHabitat Inconnu.\n \n \n \n \n ${prompt}"
+  7306: "Quelle page ?\n${selection-lines}\nJ'ai changé d'avis.\nJungle de Yuhtunga.\nJungle de Yhoator.\nGrotte du Serpent Marin.\nTemple d'Uggalepih.\nAntre de la Colère.\nCaldeira d'Ifrit.\n \n \n \n \n \n \n \n \n \n \n \n \n \n ${prompt}"
+  7307: "Quelle page ?\n${selection-lines}\nJ'ai changé d'avis.\nCap Teriggan.\nDésert d'Altepa Oriental.\nDésert d'Altepa Occidental.\nTunnel de Kuftal.\nTunnel de Gustav.\nGrottes du Sable.\n \n \n \n \n \n \n \n \n \n \n \n \n \n ${prompt}"
+  7308: "Quelle page ?\n${selection-lines}\nJ'ai changé d'avis.\nPrairies de Lufaise.\nCôte de Misareaux.\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n ${prompt}"
+  7309: "Quelle page ?\n${selection-lines}\nJ'ai changé d'avis.\nBois de Wajaom.\nTaillis de Bhaflau.\nMont Zhayolm.\nMamook.\nSous-terrain d'Aydeewa.\nHalvung.\n \n \n \n \n \n \n \n \n \n \n \n \n \n ${prompt}"
+  7310: "Quelle page ?\n${selection-lines}\nJ'ai changé d'avis.\nMarais de Caedarva.\nReef d'Arrapago.\nRuines Sous-marines d'Alzadaal.\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n ${prompt}"
+  7311: "Quelle page ?\n${selection-lines}\nJ'ai changé d'avis.\nEst Ronfaure.\nForêt de Jugner.\nInlet de Vunkerl.\nChamps de Batallia.\nNécropole d'Eldieme.\nGlacier de Beaucedine.\nXarcabard.\n \n \n \n \n \n \n \n \n \n \n \n \n ${prompt}"
+  7312: "Quelle page ?\n${selection-lines}\nJ'ai changé d'avis.\nNord Gustaberg.\nGrauberg.\nMarais de Pashhow.\nChamps de Rolanberry.\nNid des Crawlers.\nGlacier de Beaucedine.\nXarcabard.\n \n \n \n \n \n \n \n \n \n \n \n \n ${prompt}"
+  7313: "Quelle page ?\n${selection-lines}\nJ'ai changé d'avis.\nOuest Sarutabaruta.\nFort Karugo-Narugo.\nMontagnes de Meriphataud.\nChampagne de Sauromugue.\nCitadelle de Garlaige.\nGlacier de Beaucedine.\nXarcabard.\n \n \n \n \n \n \n \n \n \n \n \n \n ${prompt}"
   7314: |-
-    Which page?
+    Quelle page ?
     ${selection-lines}
-    I've changed my mind.
-    Hunt #1.
-    Hunt #2.
-    Hunt #3.
-    Hunt #4.
-    Hunt #5.
-    Hunt #6.
-    Hunt #7.
-    Hunt #8.
-    Hunt #9.
-    Hunt #10.
-    Hunt #11.
-    Hunt #12.
-    Hunt #13.
-    Hunt #14.
-    Hunt #15.
-    Hunt #16.
-    Hunt #17.
-    Hunt #18.
-    Hunt #19.
-    Hunt #20.
-    Hunt #21.
-    Hunt #22.
-    Hunt #23.
-    Hunt #24.
-    Hunt #25.
-    Hunt #26.
-    Hunt #27.
-    Hunt #28.
-    Hunt #29.
-    Hunt #30.${prompt}
-  7315: The information on this page instructs you to defeat the following:${prompt}
+    J'ai changé d'avis.
+    Chasse #1.
+    Chasse #2.
+    Chasse #3.
+    Chasse #4.
+    Chasse #5.
+    Chasse #6.
+    Chasse #7.
+    Chasse #8.
+    Chasse #9.
+    Chasse #10.
+    Chasse #11.
+    Chasse #12.
+    Chasse #13.
+    Chasse #14.
+    Chasse #15.
+    Chasse #16.
+    Chasse #17.
+    Chasse #18.
+    Chasse #19.
+    Chasse #20.
+    Chasse #21.
+    Chasse #22.
+    Chasse #23.
+    Chasse #24.
+    Chasse #25.
+    Chasse #26.
+    Chasse #27.
+    Chasse #28.
+    Chasse #29.
+    Chasse #30.${prompt}
+  7315: Les informations sur cette page vous indiquent de vaincre les suivants :${prompt}
   7316: |-
-    Scylds required: ${number: 0} (Balance: ${number: 1})
-    Elusiveness: ${choice: 2}[☆☆☆☆☆☆☆☆☆☆/★☆☆☆☆☆☆☆☆☆/★★☆☆☆☆☆☆☆☆/★★★☆☆☆☆☆☆☆/★★★★☆☆☆☆☆☆/★★★★★☆☆☆☆☆/★★★★★★☆☆☆☆/★★★★★★★☆☆☆/★★★★★★★★☆☆/★★★★★★★★★☆/★★★★★★★★★★]
-    Ferocity: ${choice: 3}[☆☆☆☆☆☆☆☆☆☆/★☆☆☆☆☆☆☆☆☆/★★☆☆☆☆☆☆☆☆/★★★☆☆☆☆☆☆☆/★★★★☆☆☆☆☆☆/★★★★★☆☆☆☆☆/★★★★★★☆☆☆☆/★★★★★★★☆☆☆/★★★★★★★★☆☆/★★★★★★★★★☆/★★★★★★★★★★]
-    Reward: ${number: 4} ${choice-plurality: 4}[scyld/scylds]${prompt}
+    Scylds requis : ${number: 0} (Solde : ${number: 1})
+    Élusive : ${choice: 2}[☆☆☆☆☆☆☆☆☆☆/★☆☆☆☆☆☆☆☆☆/★★☆☆☆☆☆☆☆☆/★★★☆☆☆☆☆☆☆/★★★★☆☆☆☆☆☆/★★★★★☆☆☆☆☆/★★★★★★☆☆☆☆/★★★★★★★☆☆☆/★★★★★★★★☆☆/★★★★★★★★★☆/★★★★★★★★★★]
+    Féroce : ${choice: 3}[☆☆☆☆☆☆☆☆☆☆/★☆☆☆☆☆☆☆☆☆/★★☆☆☆☆☆☆☆☆/★★★☆☆☆☆☆☆☆/★★★★☆☆☆☆☆☆/★★★★★☆☆☆☆☆/★★★★★★☆☆☆☆/★★★★★★★☆☆☆/★★★★★★★★☆☆/★★★★★★★★★☆/★★★★★★★★★★]
+    Récompense : ${number: 4} ${choice-plurality: 4}[scyld/scylds]${prompt}
   7317: |-
-    Accept hunt? (Current scylds: ${number: 0})
+    Accepter la chasse ? (Scylds actuels : ${number: 0})
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  7318: Hunt accepted!${prompt}
+    Oui.
+    Non.${prompt}
+  7318: Chasse acceptée !${prompt}
   7319: |-
-    You use ${number: 0} ${choice-plurality: 0}[scyld/scylds].
-    Scyld balance: ${number: 1}.${prompt}
-  7320: You do not have enough scylds.${prompt}
-  7321: The hunt registry is a tome through which seasoned adventurers can undertake assignments to eliminate monsters deemed to be impediments to A.M.A.N. activities.${prompt}
-  7322: The hunt registry is a tome through which veteran soldiers can undertake assignments to eliminate monsters deemed to be impediments to S.M.A.N. activities.${prompt}
-  7323: Assignments, or “hunts,” can be undertaken simply by selecting the name of a monster listed in the registry.${prompt}
+    Vous utilisez ${number: 0} ${choice-plurality: 0}[scyld/scylds].
+    Solde des scylds : ${number: 1}.${prompt}
+  7320: Vous n'avez pas assez de scylds.${prompt}
+  7321: Le registre de chasse est un tome à travers lequel les aventuriers expérimentés peuvent entreprendre des missions pour éliminer les monstres jugés comme des obstacles aux activités de l'A.M.A.N.${prompt}
+  7322: Le registre de chasse est un tome à travers lequel les soldats vétérans peuvent entreprendre des missions pour éliminer les monstres jugés comme des obstacles aux activités du S.M.A.N.${prompt}
+  7323: Les missions, ou "chasses", peuvent être entreprises simplement en sélectionnant le nom d'un monstre répertorié dans le registre.${prompt}
   7324: |-
-    Pertinent information such as monster elusiveness and ferocity has been recorded for your reference.
-    As safety cannot be guaranteed, we ask that you hunt within your ability.${prompt}
+    Les informations pertinentes telles que l'élusivité et la férocité des monstres ont été enregistrées pour votre référence.
+    Comme la sécurité ne peut être garantie, nous vous demandons de chasser selon vos capacités.${prompt}
   7325: |-
-    Hunts pit you against creatures of extreme ferocity, and are not intended for training.
-    For this reason, you cannot undertake a hunt while a training regime is active.${prompt}
-  7326: Should party members undertaking a common hunt defeat the objective, the kill will be considered valid for all.${prompt}
+    Les chasses vous opposent à des créatures d'une férocité extrême et ne sont pas destinées à l'entraînement.
+    Pour cette raison, vous ne pouvez pas entreprendre une chasse tant qu'un régime d'entraînement est actif.${prompt}
+  7326: Lorsque des membres d'un groupe entreprennent une chasse commune et réussissent à vaincre l'objectif, le meurtre sera considéré comme valide pour tous.${prompt}
   7327: |-
-    Upon the completion of a hunt, record your success in a hunt registry.
-    Doing so will earn you rewards corresponding to difficulty as well as “scylds”--tokens of your valor.${prompt}
+    Après avoir terminé une chasse, enregistrez votre succès dans un registre de chasse.
+    Ce faisant, vous recevrez des récompenses correspondant à la difficulté ainsi que des “scylds”--les témoins de votre bravoure.${prompt}
   7328: |-
-    More scylds will grant you access to increasingly difficult and rewarding assignments.
-    Be warned, however, that once expended, scylds will not be refunded for any reason.${prompt}
-  7329: Lastly, please note that a mandatory cool-down period will be imposed upon all hunters following the completion of a hunt. Until this time has elapsed, you will not be permitted to undertake another hunt.${prompt}
-  7330: You record your hunt.
-  7331: '${color-alt: 121}You obtain ${article} ${item-article: 0[2]}!'
+    Plus de scylds vous donneront accès à des missions de plus en plus difficiles et gratifiantes.
+    Soyez averti, cependant, que les scylds, une fois dépensés, ne seront pas remboursés pour quelque raison que ce soit.${prompt}
+  7329: Enfin, veuillez noter qu'une période de repos obligatoire sera imposée à tous les chasseurs après l'achèvement d'une chasse. Jusqu'à ce que ce temps soit écoulé, vous ne serez pas autorisé à entreprendre une autre chasse.${prompt}
+  7330: Vous enregistrez votre chasse.
+  7331: '${color-alt: 121}Vous obtenez ${article} ${item-article: 0[2]}!'
   7332: |-
-    You obtain ${number: 0} ${choice-plurality: 0}[scyld/scylds]!
-    Current balance: ${number: 1} ${choice-plurality: 1}[scyld/scylds].
-  7333: The status of your current hunt is as follows.${prompt}
+    Vous obtenez ${number: 0} ${choice-plurality: 0}[scyld/scylds] !
+    Solde actuel : ${number: 1} ${choice-plurality: 1}[scyld/scylds].
+  7333: L'état de votre chasse actuelle est le suivant.${prompt}
   7334: |-
-    Cancel hunt?
+    Annuler la chasse ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
+    Oui.
+    Non.${prompt}
   7335: |-
-    Are you certain?
+    Êtes-vous certain ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  7336: Hunt canceled.${prompt}
-  7337: 'You currently possess ${number: 0} ${choice-plurality: 0}[scyld/scylds].${prompt}'
+    Oui.
+    Non.${prompt}
+  7336: Chasse annulée.${prompt}
+  7337: 'Vous possédez actuellement ${number: 0} ${choice-plurality: 0}[scyld/scylds].${prompt}'
   7338: ${prompt}
-  7339: '${number: 0} member${choice-plurality: 0}[/s] of the worm family.${prompt}'
-  7340: '${number: 0} ${choice-plurality: 0}[Forest Hare/Forest Hares].${prompt}'
+  7339: '${number: 0} membre${choice-plurality: 0}[/s] de la famille des vers.${prompt}'
+  7340: '${number: 0} ${choice-plurality: 0}[Lièvre des forêts/Lièvres des forêts].${prompt}'
   7341: |-
-    ${number: 0} ${choice-plurality: 0}[Scarab Beetle/Scarab Beetles].
-    ${number: 1} ${choice-plurality: 1}[Forest Funguar/Forest Funguars].${prompt}
+    ${number: 0} ${choice-plurality: 0}[Scarabée Scarabée/Scarabées Scarabées].
+    ${number: 1} ${choice-plurality: 1}[Funguar des forêts/Funguars des forêts].${prompt}
   7342: |-
-    ${number: 0} member${choice-plurality: 0}[/s] of the Orc family.
-    ${number: 1} ${choice-plurality: 1}[Scarab Beetle/Scarab Beetles].${prompt}
+    ${number: 0} membre${choice-plurality: 0}[/s] de la famille des Orcs.
+    ${number: 1} ${choice-plurality: 1}[Scarabée Scarabée/Scarabées Scarabées].${prompt}
   7343: |-
-    ${number: 0} ${choice-plurality: 0}[Strolling Sapling/Strolling Saplings].
-    ${number: 1} ${choice-plurality: 1}[Huge Wasp/Huge Wasps].${prompt}
-  7344: '${number: 0} ${choice-plurality: 0}[Grass Funguar/Grass Funguars].${prompt}'
+    ${number: 0} ${choice-plurality: 0}[Bourgeon des promenades/Bourgeons des promenades].
+    ${number: 1} ${choice-plurality: 1}[Grosse guêpe/Grosses guêpes].${prompt}
+  7344: '${number: 0} ${choice-plurality: 0}[Funguar des prés/Funguars des prés].${prompt}'
   7345: |-
-    ${number: 0} ${choice-plurality: 0}[Hill Lizard/Hill Lizards].
-    ${number: 1} ${choice-plurality: 1}[Sand Hare/Sand Hares].${prompt}
+    ${number: 0} ${choice-plurality: 0}[Lézard des collines/Lézards des collines].
+    ${number: 1} ${choice-plurality: 1}[Lièvre des sables/Lièvres des sables].${prompt}
   7346: |-
-    ${number: 0} member${choice-plurality: 0}[/s] of the crab family.
-    ${number: 1} ${choice-plurality: 1}[Hill Lizard/Hill Lizards].${prompt}
+    ${number: 0} membre${choice-plurality: 0}[/s] de la famille des crabes.
+    ${number: 1} ${choice-plurality: 1}[Lézard des collines/Lézards des collines].${prompt}
   7347: |-
-    ${number: 0} ${choice-plurality: 0}[Damselfly/Damselflies].
-    ${number: 1} member${choice-plurality: 1}[/s] of the crab family.${prompt}
+    ${number: 0} ${choice-plurality: 0}[Libellule/Libellules].
+    ${number: 1} membre${choice-plurality: 1}[/s] de la famille des crabes.${prompt}
   7348: |-
-    ${number: 0} ${choice-plurality: 0}[Brutal Sheep/Brutal Sheep].
-    ${number: 1} ${choice-plurality: 1}[Damselfly/Damselflies].${prompt}
-  7349: '${number: 0} ${choice-plurality: 0}[Forest Leech/Forest Leeches].${prompt}'
+    ${number: 0} ${choice-plurality: 0}[Mouton brutal/Moutons brutaux].
+    ${number: 1} ${choice-plurality: 1}[Libellule/Libellules].${prompt}
+  7349: '${number: 0} ${choice-plurality: 0}[Sangsue des forêts/Sangsues des forêts].${prompt}'
   7350: |-
-    ${number: 0} ${choice-plurality: 0}[Stag Beetle/Stag Beetles].
-    ${number: 1} ${choice-plurality: 1}[Forest Leech/Forest Leeches].${prompt}
+    ${number: 0} ${choice-plurality: 0}[Scarabée cerf/Scarabées cerf].
+    ${number: 1} ${choice-plurality: 1}[Sangsue des forêts/Sangsues des forêts].${prompt}
   7351: |-
-    ${number: 0} ${choice-plurality: 0}[Jugner Funguar/Jugner Funguars].
-    ${number: 1} ${choice-plurality: 1}[Stag Beetle/Stag Beetles].${prompt}
+    ${number: 0} ${choice-plurality: 0}[Funguar de Jugner/Funguars de Jugner].
+    ${number: 1} ${choice-plurality: 1}[Scarabée cerf/Scarabées cerf].${prompt}
   7352: |-
-    ${number: 0} ${choice-plurality: 0}[Jugner Funguar/Jugner Funguars].
-    ${number: 1} ${choice-plurality: 1}[Forest Tiger/Forest Tigers].${prompt}
+    ${number: 0} ${choice-plurality: 0}[Funguar de Jugner/Funguars de Jugner].
+    ${number: 1} ${choice-plurality: 1}[Tigre des forêts/Tigres des forêts].${prompt}
   7353: |-
-    ${number: 0} ${choice-plurality: 0}[May Fly/May Flies].
+    ${number: 0} ${choice-plurality: 0}[Mouche de mai/Mouches de mai].
     ${number: 1} ${choice-plurality: 1}[Ba/Bas].${prompt}
-  7354: '${number: 0} member${choice-plurality: 0}[/s] of the worm family.${prompt}'
-  7355: '${number: 0} ${choice-plurality: 0}[Maneating Hornet/Maneating Hornets].${prompt}'
+  7354: '${number: 0} membre${choice-plurality: 0}[/s] de la famille des vers.${prompt}'
+  7355: '${number: 0} ${choice-plurality: 0}[Guêpe mangeuse d'hommes/Guêpes mangeuses d'hommes].${prompt}'
   7356: |-
-    ${number: 0} ${choice-plurality: 0}[Vulture/Vultures].
-    ${number: 1} ${choice-plurality: 1}[Walking Sapling/Walking Saplings].${prompt}
+    ${number: 0} ${choice-plurality: 0}[Vautour/Vautours].
+    ${number: 1} ${choice-plurality: 1}[Bourgeon marchant/Bourgeons marchants].${prompt}
   7357: |-
-    ${number: 0} member${choice-plurality: 0}[/s] of the Quadav family.
-    ${number: 1} ${choice-plurality: 1}[Rock Lizard/Rock Lizards].${prompt}
+    ${number: 0} membre${choice-plurality: 0}[/s] de la famille des Quadav.
+    ${number: 1} ${choice-plurality: 1}[Lézard rocheux/Lézards rocheux].${prompt}
   7358: |-
-    ${number: 0} ${choice-plurality: 0}[Rock Eater/Rock Eaters].
-    ${number: 1} ${choice-plurality: 1}[Mist Lizard/Mist Lizards].${prompt}
-  7359: '${number: 0} ${choice-plurality: 0}[Gadfly/Gadflys].${prompt}'
+    ${number: 0} ${choice-plurality: 0}[Mangeur de roches/Mangeurs de roches].
+    ${number: 1} ${choice-plurality: 1}[Lézard de brume/Lézards de brume].${prompt}
+  7359: '${number: 0} ${choice-plurality: 0}[Moucheron/Moucherons].${prompt}'
   7360: |-
-    ${number: 0} member${choice-plurality: 0}[/s] of the leech family.
-    ${number: 1} ${choice-plurality: 1}[Gadfly/Gadflys].${prompt}
+    ${number: 0} membre${choice-plurality: 0}[/s] de la famille des sangsues.
+    ${number: 1} ${choice-plurality: 1}[Moucheron/Moucherons].${prompt}
   7361: |-
-    ${number: 0} ${choice-plurality: 0}[Carnivorous Crawler/Carnivorous Crawlers].
-    ${number: 1} member${choice-plurality: 1}[/s] of the leech family.${prompt}
+    ${number: 0} ${choice-plurality: 0}[Rampant carnivore/Rampants carnivores].
+    ${number: 1} membre${choice-plurality: 1}[/s] de la famille des sangsues.${prompt}
   7362: |-
-    ${number: 0} ${choice-plurality: 0}[Marsh Funguar/Marsh Funguars].
-    ${number: 1} ${choice-plurality: 1}[Carnivorous Crawler/Carnivorous Crawlers].${prompt}
+    ${number: 0} ${choice-plurality: 0}[Funguar des marais/Funguars des marais].
+    ${number: 1} ${choice-plurality: 1}[Rampant carnivore/Rampants carnivores].${prompt}
   7363: |-
-    ${number: 0} ${choice-plurality: 0}[Death Wasp/Death Wasps].
-    ${number: 1} ${choice-plurality: 1}[Berry Grub/Berry Grubs].${prompt}
-  7364: '${number: 0} member${choice-plurality: 0}[/s] of the mandragora family.${prompt}'
-  7365: '${number: 0} ${choice-plurality: 0}[Savanna Rarab/Savanna Rarabs].${prompt}'
+    ${number: 0} ${choice-plurality: 0}[Guêpe mortelle/Guêpes mortelles].
+    ${number: 1} ${choice-plurality: 1}[Grub des baies/Grubs des baies].${prompt}
+  7364: '${number: 0} membre${choice-plurality: 0}[/s] de la famille des mandragores.${prompt}'
+  7365: '${number: 0} ${choice-plurality: 0}[Rarab des savanes/Rarabs des savanes].${prompt}'
   7366: |-
-    ${number: 0} member${choice-plurality: 0}[/s] of the crawler family.
-    ${number: 1} ${choice-plurality: 1}[Carrion Crow/Carrion Crows].${prompt}
+    ${number: 0} membre${choice-plurality: 0}[/s] de la famille des rampants.
+    ${number: 1} ${choice-plurality: 1}[Corbeau charognard/Corbeaux charognards].${prompt}
   7367: |-
-    ${number: 0} member${choice-plurality: 0}[/s] of the Yagudo family.
-    ${number: 1} member${choice-plurality: 1}[/s] of the crawler family.${prompt}
+    ${number: 0} membre${choice-plurality: 0}[/s] de la famille des Yagudo.
+    ${number: 1} membre${choice-plurality: 1}[/s] de la famille des rampants.${prompt}
   7368: |-
-    ${number: 0} ${choice-plurality: 0}[Strolling Sapling/Strolling Saplings].
-    ${number: 1} ${choice-plurality: 1}[Killer Bee/Killer Bees].${prompt}
+    ${number: 0} ${choice-plurality: 0}[Bourgeon des promenades/Bourgeons des promenades].
+    ${number: 1} ${choice-plurality: 1}[Abeille tueuse/Abeilles tueuses].${prompt}
   7369: '${number: 0} ${choice-plurality: 0}[Akbaba/Akbabas].${prompt}'
   7370: |-
     ${number: 0} ${choice-plurality: 0}[Sylvestre/Sylvestres].
-    ${number: 1} ${choice-plurality: 1}[Mighty Rarab/Mighty Rarabs].${prompt}
+    ${number: 1} ${choice-plurality: 1}[Rarab puissant/Rarabs puissants].${prompt}
   7371: |-
-    ${number: 0} ${choice-plurality: 0}[Carnivorous Crawler/Carnivorous Crawlers].
+    ${number: 0} ${choice-plurality: 0}[Rampant carnivore/Rampants carnivores].
     ${number: 1} ${choice-plurality: 1}[Sylvestre/Sylvestres].${prompt}
   7372: |-
-    ${number: 0} ${choice-plurality: 0}[Bull Dhalmel/Bull Dhalmels].
-    ${number: 1} ${choice-plurality: 1}[Carnivorous Crawler/Carnivorous Crawlers].${prompt}
+    ${number: 0} ${choice-plurality: 0}[Dhalmel mâle/Dhalmels mâles].
+    ${number: 1} ${choice-plurality: 1}[Rampant carnivore/Rampants carnivores].${prompt}
   7373: |-
-    ${number: 0} ${choice-plurality: 0}[Poison Leech/Poison Leeches].
-    ${number: 1} ${choice-plurality: 1}[Bull Dhalmel/Bull Dhalmels].${prompt}
-  7374: '${number: 0} ${choice-plurality: 0}[Crane Fly/Crane Flies].${prompt}'
+    ${number: 0} ${choice-plurality: 0}[Sangsue venimeuse/Sangsues venimeuses].
+    ${number: 1} ${choice-plurality: 1}[Dhalmel mâle/Dhalmels mâles].${prompt}
+  7374: '${number: 0} ${choice-plurality: 0}[Mouche crane/Mouches crane].${prompt}'
   7375: |-
-    ${number: 0} ${choice-plurality: 0}[Hill Lizard/Hill Lizards].
-    ${number: 1} ${choice-plurality: 1}[Crane Fly/Crane Flies].${prompt}
+    ${number: 0} ${choice-plurality: 0}[Lézard des collines/Lézards des collines].
+    ${number: 1} ${choice-plurality: 1}[Mouche crane/Mouches crane].${prompt}
   7376: |-
-    ${number: 0} ${choice-plurality: 0}[Stag Beetle/Stag Beetles].
-    ${number: 1} ${choice-plurality: 1}[Hill Lizard/Hill Lizards].${prompt}
+    ${number: 0} ${choice-plurality: 0}[Scarabée cerf/Scarabées cerf].
+    ${number: 1} ${choice-plurality: 1}[Lézard des collines/Lézards des collines].${prompt}
   7377: |-
     ${number: 0} ${choice-plurality: 0}[Raptor/Raptors].
-    ${number: 1} ${choice-plurality: 1}[Stag Beetle/Stag Beetles].${prompt}
+    ${number: 1} ${choice-plurality: 1}[Scarabée cerf/Scarabées cerf].${prompt}
   7378: |-
-    ${number: 0} ${choice-plurality: 0}[Hill Lizard/Hill Lizards].
-    ${number: 1} ${choice-plurality: 1}[Diving Beetle/Diving Beetles].${prompt}
+    ${number: 0} ${choice-plurality: 0}[Lézard des collines/Lézards des collines].
+    ${number: 1} ${choice-plurality: 1}[Scarabée plongeur/Scarabées plongeur].${prompt}
   7379: |-
-    ${number: 0} ${choice-plurality: 0}[Clipper/Clippers].
-    ${number: 1} ${choice-plurality: 1}[Land Worm/Land Worms].${prompt}
+    ${number: 0} ${choice-plurality: 0}[Coupeur/Coupeurs].
+    ${number: 1} ${choice-plurality: 1}[Ver de terre/Vers de terre].${prompt}
   7380: |-
     ${number: 0} ${choice-plurality: 0}[Clipper/Clippers].
     ${number: 1} ${choice-plurality: 1}[Seeker Bats/Seeker Bats].${prompt}
@@ -22567,115 +22567,115 @@ entries:
   10408: 'Training area: West Ronfaure.${prompt}'
   10409: 'Training area: West Ronfaure.${prompt}'
   10410: |-
-    No, that won't work either. Confound it!
-    If only there were a skilled synergist around here to help me out...${prompt}
+    Non, cela non plus ne fonctionnera pas. Bon sang !
+    Si seulement il y avait un synergiste compétent dans les environs pour m'aider...${prompt}
   10411: |-
-    No, that won't work either. Confound it!
-    If only I could find a--${prompt}
+    Non, cela non plus ne fonctionnera pas. Bon sang !
+    Si seulement je pouvais trouver un--${prompt}
   10412: |-
-    Wait a minute...you there! Yes, you!
-    That faint yet distinctive scent of fewell and ash...${prompt}
-  10413: Yes, there's no mistaking it. You're a synergist, aren't you?${prompt}
+    Attendez une minute...vous là ! Oui, vous !
+    Cette légère mais distinctive odeur de feu et de cendres...${prompt}
+  10413: Oui, il n'y a pas de doute. Vous êtes un synergiste, n'est-ce pas ?${prompt}
   10414: |-
-    Oh, lucky day! What say you assist me with the project I'm working on?
-    I guarantee that it'll be worth your while.${prompt}
+    Oh, quel jour de chance ! Que diriez-vous de m'aider avec le projet sur lequel je travaille ?
+    Je vous garantis que cela en vaudra la peine.${prompt}
   10415: |-
-    Help Selliste?
+    Aider Selliste ?
     ${selection-lines}
-    Not interested.
-    My pleasure!${prompt}
+    Pas intéressé.
+    Avec plaisir !${prompt}
   10416: |-
-    Hmph! Another synergist too preoccupied with ${choice-player-gender}[his/her] own oh-so-important research to share ${choice-player-gender}[his/her] knowledge with the common folk.
-    But hey, I'm a patient woman. If you ever have a change of heart, I'll be here!${prompt}
+    Hmph ! Un autre synergiste trop préoccupé par ${choice-player-gender}[ses/ses propres] recherches tellement importantes pour partager ${choice-player-gender}[son/son] savoir avec les gens ordinaires.
+    Mais bon, je suis une femme patiente. Si jamais vous changez d'avis, je serai là !${prompt}
   10417: |-
-    Wonderful! Who said that all synergists were snooty, good-for-nothing snobs?
-    Not me, that's for sure!${prompt}
+    Formidable ! Qui a dit que tous les synergistes étaient des snobs prétentieux et bons à rien ?
+    Pas moi, c'est sûr !${prompt}
   10418: |-
-    Anyhow, allow me to explain.
-    You may have noticed that these synergy furnaces are a tad unwieldy, to say the least.${prompt}
+    Quoi qu'il en soit, laissez-moi expliquer.
+    Vous avez peut-être remarqué que ces foyers de synergie sont un peu encombrants, pour ne pas dire plus.${prompt}
   10419: |-
-    Not much of a concern when you're synergizing here in the city, but hardly suited to the peripatetic life of an adventurer.
-    That's when it hit me!${prompt}
+    Ce n'est pas un grand souci quand on synergise ici en ville, mais c'est loin d'être adapté à la vie itinérante d'un aventurier.
+    C'est alors que ça m'a frappée !${prompt}
   10420: |-
-    Surely you've read the histories.
-    In the days of the Crystal War, there were those studious types who could make massive tomes appear and disappear out of thin air.
-    What were they called again...? Bookheads? Eggworms?${prompt}
+    Vous avez sûrement lu les histoires.
+    À l'époque de la Guerre des Cristaux, il y avait des érudits capables de faire apparaître et disparaître des tomes massifs en un clin d'œil.
+    Comment s'appelaient-ils déjà...? Tête-de-livre ? Vers-œuf ?${prompt}
   10421: |-
-    But it's not their name that's important. No, it's the technique they used to store and summon their libraries!
-    "Arcane snap" or something like that? Anyway!${prompt}
-  10422: So I figure, if only I could get my hands on some of the astral whatchamacallit that the egghead-types used to whip out their grim-whatsits, I could toss together a nifty gizmo that could work the same magic for these synergy thingamajigs!${prompt}
-  10423: I tell you, sometimes I amaze even myself with the clarity of my ideas!${prompt}
+    Mais ce n'est pas leur nom qui est important. Non, c'est la technique qu'ils utilisaient pour stocker et invoquer leurs bibliothèques !
+    "Éclair mystique" ou quelque chose comme ça ? Bref !${prompt}
+  10422: Alors, je me suis dit, si seulement je pouvais mettre la main sur un peu de ce machin astral que les types érudits utilisaient pour faire apparaître leurs trucs bizarres, je pourrais concocter un gadget génial qui pourrait faire la même magie pour ces machins de synergie !${prompt}
+  10423: Je vous le dis, parfois je m'épate moi-même avec la clarté de mes idées !${prompt}
   10424: |-
-    But you look puzzled.
-    Sorry, let's try that again in layman's terms.${prompt}
-  10425: I'm working on a totally amazing invention, and you're going to help me complete it!${prompt}
+    Mais vous avez l'air perplexe.
+    Désolée, essayons de nouveau avec des termes plus simples.${prompt}
+  10425: Je travaille sur une invention totalement incroyable, et vous allez m'aider à la compléter !${prompt}
   10426: |-
-    All you need to do is use your synergy skills to whip up ${article} ${item-article: 0[2]}, and I'll take care of the rest.
-    Nothing could be easier! So, what do you say?${prompt}
+    Tout ce que vous avez à faire est d'utiliser vos compétences en synergie pour créer ${article} ${item-article: 0[2]}, et je m'occuperai du reste.
+    Rien de plus facile ! Alors, qu'en dites-vous ?${prompt}
   10427: |-
-    Help Selliste?
+    Aider Selliste ?
     ${selection-lines}
-    Not interested.
-    My pleasure!${prompt}
+    Pas intéressé.
+    Avec plaisir !${prompt}
   10428: |-
-    Splendid! You'll be wanting to know the recipe then, won't you?
-    Why, it's simple enough.${prompt}
-  10429: 'It''s just ${article} ${item-article: 0[2]}, ${article} ${item-article: 1[2]}, ${article} ${item-article: 2[2]}, ${article} ${item-article: 3[2]}, ${article} ${item-article: 4[2]}...${prompt}'
+    Splendide ! Vous allez vouloir connaître la recette, n'est-ce pas ?
+    Eh bien, c'est assez simple.${prompt}
+  10429: 'Il vous faut juste ${article} ${item-article: 0[2]}, ${article} ${item-article: 1[2]}, ${article} ${item-article: 2[2]}, ${article} ${item-article: 3[2]}, ${article} ${item-article: 4[2]}...${prompt}'
   10430: |-
-    ...And finally, ${article} ${item-article: 0[2]}.
-    Toss them all into one of those furnace doodads, work your synergy magic on it, trade the product back here to me, and we're in business!${prompt}
+    ...Et enfin, ${article} ${item-article: 0[2]}.
+    Mettez tout cela dans un de ces foyers à synergie, faites votre magie de synergie dessus, échangez le produit ici avec moi, et nous serons prêts !${prompt}
   10431: |-
-    I suspect you can find the ingredients somewhere strong in elemental energy.
-    Maybe a place with some of those big crystal doohickeys lying around?${prompt}
+    Je suppose que vous pouvez trouver les ingrédients quelque part où l'énergie élémentaire est forte.
+    Peut-être un endroit avec quelques-uns de ces gros cristaux ?${prompt}
   10432: |-
-    But you're the adventurer. I have bigger flasques to fulminate!
-    Good luck out there!${prompt}
+    Mais vous êtes l'aventurier. J'ai des flasques plus importantes à fulminer !
+    Bonne chance là-bas !${prompt}
   10433: |-
-    I knew you'd be back!
-    How about it? Ready to do the world a favor and help me complete my most marvelous invention?${prompt}
+    Je savais que vous reviendriez !
+    Alors, prêt à rendre service au monde et à m'aider à terminer mon invention la plus merveilleuse ?${prompt}
   10434: |-
-    What? Don't tell me you've already forgotten the recipe for astral matter.
-    Oh well, not everyone can be as organized as yours truly! Anyway...${prompt}
+    Quoi ? Ne me dites pas que vous avez déjà oublié la recette de la matière astrale.
+    Oh eh bien, tout le monde ne peut pas être aussi organisé que moi ! Bref...${prompt}
   10435: |-
-    Why, yes! Yes, I'd recognize it anywhere!
-    One hundred percent pure, unadulterated astral whatchama-thingama-doodad-jiggity-callit!!!
-    Now just sit tight for a moment, okay?${prompt}
+    Pourquoi, oui ! Oui, je le reconnais n'importe où !
+    Cent pour cent pur, non dilué machin-astral-truc-machin-doodad-jiggity-callit !!!
+    Maintenant, restez tranquille un moment, d'accord ?${prompt}
   10436: |-
-    Yes, this is it!
-    The gizmo that will have synergists all over Vana'diel saying, “Boy, how did I ever live without that nifty thingamadoo-diggity?”${prompt}
+    Oui, c'est bien ça !
+    Le gadget qui fera dire aux synergistes de tout Vana'diel : « Boy, comment ai-je pu vivre sans ce truc génial ? »${prompt}
   10437: |-
-    I dub it the “portafurnace”!
-    And as a reward for making this day possible, I present you with one of your very own!${prompt}
+    Je l'appelle le « portafourneau » !
+    Et en récompense d'avoir rendu ce jour possible, je vous en offre un pour vous-même !${prompt}
   10438: |-
-    You're impressed, aren't you? Go on and admit it!
-    With this ${item-singular: 0[2]}, you can summon a synergy furnace to your side anytime, anywhere!${prompt}
+    Vous êtes impressionné, n'est-ce pas ? Allez, avouez-le !
+    Avec ce ${item-singular: 0[2]}, vous pouvez invoquer un foyer de synergie à vos côtés, partout et à tout moment !${prompt}
   10439: |-
-    Anywhere, that is, except for busy cities and towns. And dungeons.
-    And inside buildings? And maybe some other places too.
-    Mind you, that's not a defect--it's a feature! Safety first, I always say.${prompt}
+    Partout, sauf dans les villes et les villages bondés. Et les donjons.
+    Et à l'intérieur des bâtiments ? Et peut-être dans certains autres endroits aussi.
+    Cela dit, ce n'est pas un défaut--c'est une fonctionnalité ! La sécurité d'abord, comme on dit.${prompt}
   10440: |-
-    No, no, you don't have to tell me--I know I'm brilliant!
-    Good day, and may my ingenious invention serve you well!${prompt}
+    Non, non, vous n'avez pas à me le dire--je sais que je suis géniale !
+    Bonne journée, et que mon invention ingénieuse vous soit utile !${prompt}
   10441: |-
-    Well, if it isn't my favorite adventurer!
-    Synergizing up a storm with the help of my miraculous portafurnace?${prompt}
+    Eh bien, si ce n'est pas mon aventurier préféré !
+    En train de faire des synergies à gogo avec l'aide de mon miraculous portafourneau ?${prompt}
   10442: |-
-    You'll be happy to know that I'm already hard at work on my next invention: a doodad that can take that stuff from one of those whatsits, and convert it to pure whatchamacallit to use with the thingamajigs!
-    Sounds amazing, doesn't it?${prompt}
+    Vous serez ravi d'apprendre que je travaille déjà sur ma prochaine invention : un machin qui peut prendre ce truc d'un de ces machins, et le convertir en pur machin-truc à utiliser avec les trucs !
+    Ça a l'air génial, non ?${prompt}
   10443: |-
-    What? Don't tell me you lost the ${item-singular: 0[2]} I made for you.
-    I'm heartbroken! A lot of blood, sweat, and whatchamacallits go into making each and every one of those beauties!${prompt}
+    Quoi ? Ne me dites pas que vous avez perdu le ${item-singular: 0[2]} que j'ai fabriqué pour vous.
+    Je suis déçue ! Il y a beaucoup de sang, de sueur et de machins dans la fabrication de chacune de ces merveilles !${prompt}
   10444: |-
-    But hey, I've got a soft spot for discombobulated types like you.
-    Here's a brand-spankin' new one. Just promise me you'll hold onto it this time, okay?${prompt}
+    Mais bon, j'ai un faible pour les types déconcertés comme vous.
+    Voici un tout neuf. Promettez-moi juste que vous allez le garder cette fois, d'accord ?${prompt}
   10445: |-
-    I can make you another, but it'll be a while before the doojigs are ready to toss into the thingamacallit.
-    Why don't you come back a little later?${prompt}
+    Je peux vous en faire un autre, mais il faudra un moment avant que les machins soient prêts à être mis dans le truc.
+    Pourquoi ne revenez-vous pas un peu plus tard ?${prompt}
   10446: ${prompt}
-  10447: You receive nothing from the moon rabbit...${prompt}
-  10448: The moon rabbit has brought along a monster!${prompt}
-  10449: You have to do something about those crazy trees, kupo!${prompt}
-  10450: You're done fighting trees, kupo?${prompt}
+  10447: Vous ne recevez rien du lapin de lune...${prompt}
+  10448: Le lapin de lune a amené un monstre !${prompt}
+  10449: Vous devez vous occuper de ces arbres fous, kupo !${prompt}
+  10450: Vous avez fini de combattre les arbres, kupo ?${prompt}
   10451: ${prompt}
   10452: ${prompt}
   10453: ${prompt}
@@ -22684,20 +22684,20 @@ entries:
   10456: ${prompt}
   10457: ${prompt}
   10458: |-
-    Hey, you!
-    I'll have you know that only the rightful leader of the Star Onion Brigade can sit there! Get down right now before I charge you with trees-on and disturbing the peas!${prompt}
-  10459: I don't know how you got inside, but that area is off limits. Vacate the premises immediately!${prompt}
-  10460: He...he...here's your delivery...<wheeze>...!${prompt}
+    Hé, toi !
+    Je te signale que seul le véritable leader de la Brigade des Oignons Étoilés a le droit de s'asseoir ici ! Descends tout de suite avant que je ne te fasse une plainte pour perturbation des arbres et des pois !${prompt}
+  10459: Je ne sais pas comment tu es entré, mais cette zone est interdite. Libère les lieux immédiatement !${prompt}
+  10460: H...h...voici ta livraison...<halètement>... !${prompt}
   10461: |-
-    Thanks once again.
-    Light on your feet today, I see!${prompt}
+    Merci encore une fois.
+    Tu sembles bien vif aujourd'hui !${prompt}
   10462: |-
-    Walking trees!? How positively...peculiar.
-    Are these also creations conjured up with Tarutaru magic?${prompt}
-  10463: Welcome!${prompt}
-  10464: What can I do for you?${prompt}
-  10465: Go bother someone else. I'm busy!${prompt}
-  10466: Need something sent to a friend's house? Sending items to your own house? You've come to the right place!${prompt}
+    Des arbres qui marchent ! Comme c'est... particulier.
+    Sont-ce aussi des créations invoquées par la magie Tarutaru ?${prompt}
+  10463: Bienvenue !${prompt}
+  10464: Que puis-je faire pour vous ?${prompt}
+  10465: Allez embêter quelqu'un d'autre. Je suis occupé !${prompt}
+  10466: Besoin d'envoyer quelque chose chez un ami ? Envoyer des objets à votre propre maison ? Vous êtes au bon endroit !${prompt}
   10467: |-
     evtpara選択
     ${selection-lines}
@@ -22714,458 +22714,458 @@ entries:
     パラゴDEF
     エコーホークDEF${prompt}
   10468: |-
-    In the Gustaberg Mountains of
-    Southern Quon lies the industrial
-    nation known as the Republic of Bastok.${wait-animation: 5}
+    Dans les montagnes de Gustaberg, 
+    au sud de Quon, se trouve la nation industrielle 
+    connue sous le nom de République de Bastok.${wait-animation: 5}
   10469: |-
-    Compared to San d'Oria, with its legendary
-    orders of knights, or Windurst, with its
-    ancient institutes of magic, Bastok is still
-    but a newborn nation.${wait-animation: 7}
+    Comparée à San d'Oria, avec ses légendaires 
+    ordres de chevaliers, ou à Windurst, avec ses 
+    anciens instituts de magie, Bastok est encore 
+    une nation naissante.${wait-animation: 7}
   10470: |-
-    But advanced technology and near limitless
-    underground resources have allowed Bastok
-    to rival the other two nations in power.${wait-animation: 7}
+    Mais la technologie avancée et des ressources 
+    souterraines quasi illimitées ont permis à Bastok 
+    de rivaliser avec les deux autres nations en puissance.${wait-animation: 7}
   10471: |-
-    Innovative and adaptable Humes make up
-    more than half the population of Bastok.${wait-animation: 5}
+    Les Humes innovants et adaptables composent 
+    plus de la moitié de la population de Bastok.${wait-animation: 5}
   10472: |-
-    With their flair for industry, economy,
-    and politics, they were the driving force
-    behind Bastok's rapid growth. Even now,
-    Humes hold key positions in those areas.${wait-animation: 7}
+    Avec leur flair pour l'industrie, l'économie
+    et la politique, ils ont été la force motrice 
+    derrière la croissance rapide de Bastok. Même maintenant, 
+    les Humes occupent des postes clés dans ces domaines.${wait-animation: 7}
   10473: |-
-    The Galka, a race of hulking humanoids,
-    comprise a third of Bastok's population.
-    Originally hailing from Zepwell, they came
-    to this land over six hundred years ago.${wait-animation: 7}
+    Les Galka, une race de humanoïdes imposants,
+    représentent un tiers de la population de Bastok.
+    Originaires de Zepwell, ils sont arrivés dans cette terre
+    il y a plus de six cents ans.${wait-animation: 7}
   10474: |-
-    Without their incomparable strength,
-    the countless ore mines that drive Bastok's
-    economy would never have been dug.${wait-animation: 6}
+    Sans leur force incomparable,
+    les innombrables mines de minerai qui soutiennent l'économie de Bastok
+    n'auraient jamais été creusées.${wait-animation: 6}
   10475: |-
-    Adventurers seeking fame and fortune
-    flock to rising nations like Bastok.
-    You are one of them.${wait-animation: 5}
+    Les aventuriers en quête de gloire et de fortune
+    affluent vers des nations émergentes comme Bastok.
+    Vous en faites partie.${wait-animation: 5}
   10476: |-
-    Your story begins here, amid the smoke
-    and bustle of the industrial city of Bastok.${wait-animation: 5}
-  10477: Excuse me...${prompt}
-  10478: How do I get to the residential area?${prompt}
+    Votre histoire commence ici, au milieu de la fumée
+    et de l'agitation de la ville industrielle de Bastok.${wait-animation: 5}
+  10477: Excusez-moi...${prompt}
+  10478: Comment puis-je me rendre au quartier résidentiel ?${prompt}
   10479: '...${prompt}'
   10480: |-
-    Uh, hello. I'm new in Bastok.
-    Can you tell me where the residential area is?${prompt}
-  10481: Oh! I'm sorry, I didn't realize you were new here, too.${prompt}
+    Euh, bonjour. Je suis nouveau à Bastok.
+    Pouvez-vous me dire où se trouve le quartier résidentiel ?${prompt}
+  10481: Oh ! Je suis désolé, je n'avais pas réalisé que vous étiez nouveau ici aussi.${prompt}
   10482: |-
-    I guess I'll have to find my way there myself.
-    People aren't too friendly around here, are they?${prompt}
-  10483: Anyways, good luck to the both of us!${prompt}
+    Je suppose que je vais devoir trouver le chemin moi-même.
+    Les gens ne sont pas très amicaux par ici, n'est-ce pas ?${prompt}
+  10483: De toute façon, bonne chance à nous deux !${prompt}
   10484: |-
-    Pesky Hume... Where does he think he is, Windurst?
-    Some day this is turning out to be.${prompt}
-  10485: You're not from around here either, huh? No use denying it... I can smell it.${prompt}
-  10486: If you don't want to get hurt, turn around and go back where you came from.${prompt}
-  10487: Hey, hey! There's no need to be rude.${prompt}
-  10488: Besides, picking on this poor ${choice-player-gender}[guy/girl] isn't worth it.${prompt}
-  10489: Oh? Since when do you care what happens to outsiders, Gumbah?${prompt}
-  10490: I'm just saying that one such as you shouldn't bother with their like, O Great Warrior Deidogg.${prompt}
-  10491: Hrmph. Whatever.${prompt}
-  10492: You just remember, outsider, I won't go so easy on you next time.${prompt}
+    Sacré Hume... Où croit-il être, Windurst ?
+    Quelle journée décidément.${prompt}
+  10485: Vous n'êtes pas d'ici non plus, hein ? Inutile de nier... Je le sens.${prompt}
+  10486: Si vous ne voulez pas avoir de problèmes, tournez les talons et rentrez chez vous.${prompt}
+  10487: Hé, hé ! Pas besoin d'être aussi impoli.${prompt}
+  10488: De plus, s'en prendre à ce pauvre ${choice-player-gender}[gars/fille] n'en vaut pas la peine.${prompt}
+  10489: Oh ? Depuis quand vous souciez-vous de ce qui arrive aux étrangers, Gumbah ?${prompt}
+  10490: Je dis juste qu'un tel que vous ne devrait pas se mêler de leurs affaires, Ô Grand Guerrier Deidogg.${prompt}
+  10491: Hrmph. Peu importe.${prompt}
+  10492: Vous vous souvenez, étranger, je ne serai pas aussi accommodant la prochaine fois.${prompt}
   10493: |-
-    Sorry about that.
-    People can be so hard-headed around here sometimes.${prompt}
-  10494: Hey, why the glum look? Don't like being talked to like some new recruit? But it is your first time here, isn't it?${prompt}
+    Désolé pour ça.
+    Les gens peuvent être si têtus ici parfois.${prompt}
+  10494: Hé, pourquoi cette mine sombre ? Tu n’aimes pas qu’on te parle comme à un nouveau recrue ? Mais c’est bien ta première fois ici, non ?${prompt}
   10495: |-
-    First time in Bastok?
+    Première fois à Bastok ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
+    Oui.
+    Non.${prompt}
   10496: |-
-    Really?
-    Well, you still look like you haven't been around much.${prompt}
+    Vraiment ?
+    Eh bien, on dirait que tu n’as pas encore beaucoup exploré.${prompt}
   10497: |-
-    Is there anything you want to know? Anything you want to do?
-    Maybe I can point you in the right direction.${prompt}
+    Y a-t-il quelque chose que tu voudrais savoir ? Quelque chose que tu veux faire ?
+    Peut-être que je peux t’indiquer la bonne direction.${prompt}
   10498: |-
-    What do you want to do?
+    Que veux-tu faire ?
     ${selection-lines}
-    Fight monsters!
-    Go shopping.
-    Find some work.${prompt}
-  10499: Then you shouldn't have to come into the city in the first place.${prompt}
-  10500: Go back the way you came and pass through the South Gate. That'll take you outside.${prompt}
-  10501: Oh, and make sure to always “check” monsters out before fighting them. You don't want to pick fights with things you can't beat.${prompt}
-  10502: There are some small shops through that arch over there, but...${prompt}
-  10503: If you want better stuff, you should go to the Markets.${prompt}
+    Combattre des monstres !
+    Faire du shopping.
+    Trouver du travail.${prompt}
+  10499: Alors tu ne devrais pas avoir à entrer dans la ville pour commencer.${prompt}
+  10500: Retourne par où tu es venu et passe par la Porte Sud. Cela te mènera à l'extérieur.${prompt}
+  10501: Oh, et assure-toi toujours de « vérifier » les monstres avant de les affronter. Tu ne veux pas te battre contre des choses que tu ne peux pas vaincre.${prompt}
+  10502: Il y a quelques petites boutiques à travers cet arc là-bas, mais...${prompt}
+  10503: Si tu veux des choses de meilleure qualité, tu devrais aller aux Marchés.${prompt}
   10504: |-
-    Good call. You should start with a short-term goal to get yourself on track.
-    What kind of work are you looking for?${prompt}
+    Bon choix. Tu devrais commencer par un objectif à court terme pour te mettre sur la bonne voie.
+    Quel type de travail recherches-tu ?${prompt}
   10505: |-
-    What do you want to do?
+    Que veux-tu faire ?
     ${selection-lines}
-    Serve Bastok.
-    Help people.
-    Get rich, quick.${prompt}
+    Servir Bastok.
+    Aider les gens.
+    Devenir riche rapidement.${prompt}
   10506: |-
-    You should go talk to a gate guard.
-    Try one of the town gates, like the one you just came through.${prompt}
+    Tu devrais aller parler à un garde de porte.
+    Essaie l’une des portes de la ville, comme celle par laquelle tu es venu.${prompt}
   10507: |-
-    That's the spirit!
-    Could you do me a favor then, and help a friend of mine?${prompt}
-  10508: It's the first house down the road through that big arch.${prompt}
-  10509: Well, if I knew anything about that, I wouldn't be here, would I?${prompt}
-  10510: Anyway, maybe Echo Hawk can help you. He's got ears all over the place.${prompt}
-  10511: Take a right and go straight through that entrance. He's usually lurking around there.${prompt}
+    C’est l’esprit !
+    Pourrais-tu me rendre un service et aider un ami à moi ?${prompt}
+  10508: C’est la première maison au bout de la route à travers ce grand arc.${prompt}
+  10509: Eh bien, si je savais quelque chose à ce sujet, je ne serais pas ici, n’est-ce pas ?${prompt}
+  10510: De toute façon, peut-être qu’Echo Hawk peut t’aider. Il a des oreilles partout.${prompt}
+  10511: Prends à droite et passe directement par cette entrée. Il traîne généralement par là.${prompt}
   10512: |-
-    Oh, and take this. It's ${article} ${item-article: 7[2]}.
-    Arva should give you money for it. She's standing around the rear of the general goods store.${prompt}
+    Oh, et prends ceci. C’est ${article} ${item-article: 7[2]}.
+    Arva devrait te donner de l’argent pour cela. Elle se trouve autour de l’arrière du magasin d’articles de première nécessité.${prompt}
   10513: |-
-    Don't worry, it's not mine. I just found it.
-    Arva should be somewhere around...${prompt}
+    Ne t’inquiète pas, ce n’est pas à moi. Je l’ai juste trouvé.
+    Arva devrait être quelque part dans le coin...${prompt}
   10514: |-
-    Here.
-    You can check your map again by selecting “Map” from the main menu on the right.${prompt}
-  10515: Oh, I'm sure you know this already, but if you want to give items to people in town, use “Trade” from the main menu.${prompt}
-  10516: I guess that's it. I have to run now, but I'm sure we'll meet again!${prompt}
+    Voici.
+    Tu peux vérifier ta carte à nouveau en sélectionnant “Carte” dans le menu principal à droite.${prompt}
+  10515: Oh, je suis sûr que tu sais déjà cela, mais si tu veux donner des objets aux gens en ville, utilise “Échanger” dans le menu principal.${prompt}
+  10516: Je crois que c'est tout. Je dois y aller maintenant, mais je suis sûr que nous nous reverrons !${prompt}
   10517: |-
-    I have nothing for you today.
-    Sometimes, even I run out of information.${prompt}
+    Je n'ai rien pour toi aujourd'hui.
+    Parfois, même moi, je manque d'informations.${prompt}
   10518: |-
-    What's this?
-    Haven't seen you around here before.${prompt}
-  10519: For a newcomer, you're off to a good start... You've come to talk to me.${prompt}
+    Qu'est-ce que c'est ?
+    Je ne t'ai pas vu ici avant.${prompt}
+  10519: Pour un nouveau venu, tu commences bien... Tu es venu me parler.${prompt}
   10520: |-
-    I'm Echo Hawk.
-    I trade in information.${prompt}
-  10521: Don't bother asking the hard-headed Galka around here--they're too busy contemplating their navels. But not me. I've got info on stuff most people have never even heard of.${prompt}
-  10522: Don't worry about money. I make it my policy not to take gil from rookies like you.${prompt}
-  10523: My sources even pay me in special cases, you know.${prompt}
+    Je suis Echo Hawk.
+    Je fais commerce d'informations.${prompt}
+  10521: Ne te donne pas la peine de demander aux Galka têtus autour d'ici--ils sont trop occupés à contempler leur nombril. Mais pas moi. J'ai des infos sur des choses que la plupart des gens n'ont même jamais entendues.${prompt}
+  10522: Ne t'inquiète pas pour l'argent. C'est ma politique de ne pas prendre de gil des novices comme toi.${prompt}
+  10523: Mes sources me paient même dans certains cas, tu sais.${prompt}
   10524: |-
-    Anyway, I've heard that this old Hume, Wahid, is looking for a rare gem.
-    You can find him at the auction house on the other side of this neighborhood.${prompt}
+    De toute façon, j'ai entendu dire que cet ancien Hume, Wahid, recherche une gemme rare.
+    Tu peux le trouver à la maison de vente aux enchères de l'autre côté de ce quartier.${prompt}
   10525: |-
-    Apparently, it's supposed to be part of some legend, but I don't deal with that kind of nonsense.
-    Go talk to the bard at the tavern. Fairy tales are his specialty.${prompt}
+    Apparemment, cela devrait faire partie d'une légende, mais je ne m'occupe pas de ce genre de balivernes.
+    Va parler au barde à la taverne. Les contes de fées sont sa spécialité.${prompt}
   10526: |-
-    You can probably find him in the Port District.
-    He's not the type to hang around this kind of seedy neighborhood.${prompt}
+    Tu peux probablement le trouver dans le Quartier du Port.
+    Ce n'est pas le genre à traîner dans ce quartier louche.${prompt}
   10527: |-
-    Good hunting, then.
-    Come back whenever you need more info.${prompt}
+    Bonne chasse alors.
+    Reviens quand tu auras besoin de plus d'infos.${prompt}
   10528: |-
-    You are at the South Gate, in the Bastok Mines District.
-    The West Gate is in the Markets, while the North Gate in the port.${prompt}
-  10529: Ever since the new president came into office, all manner of public works are falling behind schedule.${prompt}
-  10530: He shouldn't meddle with things that don't concern him, and let Chief Cid do his job. Doesn't he realize he's just a figurehead anyway?${prompt}
+    Tu es à la Porte Sud, dans le quartier des Mines de Bastok.
+    La Porte Ouest se trouve dans les Marchés, tandis que la Porte Nord est au port.${prompt}
+  10529: Depuis l'arrivée du nouveau président, tous les travaux publics sont en retard.${prompt}
+  10530: Il ne devrait pas se mêler de ce qui ne le concerne pas et laisser le Chef Cid faire son travail. Ne réalise-t-il pas qu'il est juste une figure de proue de toute façon ?${prompt}
   10531: |-
-    What? The stamp hunt?
-    You came all this way for that, huh?
-    Here you go.${prompt}
-  10532: You received a stamp!${prompt}
+    Quoi ? La chasse aux timbres ?
+    Tu es venu jusqu'ici pour ça, hein ?
+    Voilà.${prompt}
+  10532: Tu as reçu un timbre !${prompt}
   10533: |-
-    There are two dungeons outside the city of Bastok:
-    The Palborough Mines in North Gustaberg, and the Dangruf Wadi in South Gustaberg.${prompt}
+    Il y a deux donjons à l'extérieur de la ville de Bastok :
+    Les Mines de Palborough au Nord de Gustaberg, et le Wadi Dangruf au Sud de Gustaberg.${prompt}
   10534: |-
-    This neighborhood's pretty rough.
-    Be careful.${prompt}
+    Ce quartier est assez rude.
+    Fais attention.${prompt}
   10535: |-
-    Hmm? You the new miner?
-    Nah, you look like an adventurer. Here to pound some monsters into pudding, are you?${prompt}
+    Hmm ? Tu es le nouveau mineur ?
+    Non, tu as l'air d'un aventurier. Tu es là pour réduire des monstres en bouillie, n'est-ce pas ?${prompt}
   10536: |-
-    Just don't cause any trouble, all right?
-    We've got enough to worry about with these Galka. Only thing their long lives have given them are hard heads. Eesh.${prompt}
+    Ne cause pas de problèmes, d'accord ?
+    Nous avons assez à faire avec ces Galka. La seule chose que leur longue vie leur a donnée est une tête dure. Ouf.${prompt}
   10537: |-
-    Bastok's foundations were built with the ore taken from this mine.
-    It took the Galka a lot of sweat and toil to dig this mine. We made Bastok what it is today.${prompt}
+    Les fondations de Bastok ont été construites avec le minerai extrait de cette mine.
+    Il a fallu beaucoup de sueur et de labeur aux Galka pour creuser cette mine. Nous avons fait de Bastok ce qu'elle est aujourd'hui.${prompt}
   10538: |-
-    ${lettercase: 1}${item-singular: 7[2]}? Yeah, used to have some of that, a long time ago.
-    Don't have any anymore, though.${prompt}
-  10539: You should be able to find some near the coast of the Valkurm Dunes...but only during dust storms.${prompt}
-  10540: Those Humes are full of talk about how they dug the mythril mines with their great technology, but it didn't do them much good when the Quadav came, did it?${prompt}
+    ${lettercase: 1}${item-singular: 7[2]} ? Oui, j'en avais autrefois, il y a longtemps.
+    Je n'en ai plus maintenant.${prompt}
+  10539: Tu devrais pouvoir en trouver près de la côte des Dunes de Valkurm... mais seulement pendant les tempêtes de poussière.${prompt}
+  10540: Ces Humes sont pleins de bavardages sur comment ils ont creusé les mines de mythril avec leur grande technologie, mais cela ne leur a pas beaucoup servi quand les Quadav sont arrivés, n'est-ce pas ?${prompt}
   10541: |-
-    “Welcome to the Palborough Mines--made by Humes, full of Quadav.”
-    Good catch phrase for their mythril mines, don't you think?${prompt}
+    “Bienvenue aux Mines de Palborough--faites par les Humes, pleines de Quadav.”
+    Une bonne phrase accrocheuse pour leurs mines de mythril, tu ne trouves pas ?${prompt}
   10542: |-
-    Bastok sure has changed over the years.
-    About the only things that don't change are us Galka, working in the mines.${prompt}
-  10543: There's an inn and the Alchemists' Guild through here, but other than that, you'll only find the homes of Bastok's poor. I don't think there's anything you'd want in there.${prompt}
-  10544: What's the matter? Are you lost?${prompt}
+    Bastok a bien changé au fil des années.
+    À peu près les seules choses qui ne changent pas sont nous, les Galka, travaillant dans les mines.${prompt}
+  10543: Il y a une auberge et la Guilde des Alchimistes par ici, mais à part cela, tu ne trouveras que les maisons des pauvres de Bastok. Je ne pense pas qu'il y ait quoi que ce soit d'intéressant là-dedans.${prompt}
+  10544: Quel est le problème ? Es-tu perdu ?${prompt}
   10545: |-
-    Ask for directions?
+    Demander son chemin ?
     ${selection-lines}
-    Ask.
-    Don't ask.${prompt}
-  10546: Where do you want to go?${prompt}
+    Demander.
+    Ne pas demander.${prompt}
+  10546: Où veux-tu aller ?${prompt}
   10547: |-
-    Which area would you like to ask about?
+    Quelle zone aimerais-tu demander ?
     ${selection-lines}
-    The South Gate and the residential area.
-    The Markets and the Mines.
-    The mining town and Alchemists' Guild.
-    Uh, never mind.${prompt}
+    La Porte Sud et la zone résidentielle.
+    Les Marchés et les Mines.
+    La ville minière et la Guilde des Alchimistes.
+    Euh, oublie.${prompt}
   10548: |-
-    Hmm. Well, just don't wander into places you don't know.
-    It could be dangerous.${prompt}
-  10549: See that big building south from here, on the left?${prompt}
+    Hmm. Eh bien, ne t'aventure pas dans des endroits que tu ne connais pas.
+    Ça pourrait être dangereux.${prompt}
+  10549: Vois-tu ce grand bâtiment au sud d'ici, sur la gauche ?${prompt}
   10550: |-
-    That's the auction house.
-    You can buy other people's items or sell items yourself there.${prompt}
+    C'est la maison de vente aux enchères.
+    Tu peux acheter des objets d'autres personnes ou vendre des objets toi-même là-bas.${prompt}
   10551: |-
-    You can send items to your friends there as well.
-    Just talk to the Galkan deliveryman on post.${prompt}
-  10552: If you keep going south, you'll find the South Gate.${prompt}
+    Tu peux aussi y envoyer des objets à tes amis.
+    Il suffit de parler au livreur Galka en poste.${prompt}
+  10552: Si tu continues vers le sud, tu trouveras la Porte Sud.${prompt}
   10553: |-
-    Go through it to go to South Gustaberg.
-    If you are a Bastoker, you can also receive missions from the guard at the gatehouse.${prompt}
-  10554: If you go left from the South Gate toward the east, you'll come across another building.${prompt}
+    Passe à travers pour aller au Sud de Gustaberg.
+    Si tu es un Bastokien, tu peux également recevoir des missions de la part du garde à la maison de garde.${prompt}
+  10554: Si tu vas à gauche depuis la Porte Sud vers l'est, tu trouveras un autre bâtiment.${prompt}
   10555: |-
-    That's where you'll find the Chocobo Stables.
-    You can rent chocobos there to help you on those long trips.${prompt}
+    C'est là que tu trouveras les Écuries de Chocobos.
+    Tu peux y louer des chocobos pour t'aider lors de tes longs trajets.${prompt}
   10556: |-
-    If you go further east, you'll come to the entrance to the residential area.
-    Go on inside if you want to drop off items in your room.${prompt}
-  10557: If you are not from Bastok, however, you'll need to get a Rent-a-Room first.${prompt}
-  10558: Go through the arch west of here.${prompt}
+    Si tu continues plus à l'est, tu arriveras à l'entrée de la zone résidentielle.
+    Entre si tu veux déposer des objets dans ta chambre.${prompt}
+  10557: Cependant, si tu n'es pas de Bastok, tu devras d'abord obtenir une Chambre à Louer.${prompt}
+  10558: Passe à travers l'arc ouest d'ici.${prompt}
   10559: |-
-    You will see a road sloping down on your right.
-    Walk down that road to go to the Markets district.${prompt}
-  10560: If you go straight west, you'll be able to see the entrance to the mines.${prompt}
+    Tu verras une route descendant sur ta droite.
+    Descends cette route pour aller dans le quartier des Marchés.${prompt}
+  10560: Si tu continues tout droit vers l'ouest, tu pourras voir l'entrée des mines.${prompt}
   10561: |-
-    Inside the mines you will find miners, of course--but also monsters.
-    You should be careful.${prompt}
-  10562: To the north of this fork there are two arches, one big and one small.${prompt}
-  10563: The big arch leads to the lower level of the mining town, while the small one leads to its surface level.${prompt}
-  10564: If you walk through the small arch to the surface level, you'll find an inn to your left.${prompt}
-  10565: Across from the inn is the armory.${prompt}
-  10566: If you go further down the road, you'll come across a goods shop and the back exit of the mining town.${prompt}
-  10567: Go through the exit and you'll be behind the auction house.${prompt}
-  10568: You'll also find stairs off to the side, midway down the mining town street. Those connect the surface and lower levels.${prompt}
-  10569: At the far end of the lower level, to the east, is where you'll find the Alchemists' Guild.${prompt}
+    À l'intérieur des mines, tu trouveras bien sûr des mineurs--mais aussi des monstres.
+    Tu devrais faire attention.${prompt}
+  10562: Au nord de cette bifurcation, il y a deux arcs, un grand et un petit.${prompt}
+  10563: Le grand arc mène au niveau inférieur de la ville minière, tandis que le petit mène à son niveau supérieur.${prompt}
+  10564: Si tu passes par le petit arc vers le niveau supérieur, tu trouveras une auberge sur ta gauche.${prompt}
+  10565: En face de l'auberge se trouve l'armurerie.${prompt}
+  10566: Si tu continues plus loin sur la route, tu trouveras un magasin de biens et la sortie arrière de la ville minière.${prompt}
+  10567: Passe par la sortie et tu te retrouveras derrière la maison de vente aux enchères.${prompt}
+  10568: Tu trouveras aussi des escaliers sur le côté, à mi-chemin de la rue de la ville minière. Ceux-ci relient les niveaux supérieur et inférieur.${prompt}
+  10569: À l'extrémité du niveau inférieur, à l'est, c'est là que tu trouveras la Guilde des Alchimistes.${prompt}
   10570: |-
-    That's about it.
-    I can explain it to you again, but it might be better for you to just go to those places yourself and talk to the people there.${prompt}
+    C'est à peu près tout.
+    Je peux te l'expliquer à nouveau, mais il vaudrait peut-être mieux que tu te rendes toi-même à ces endroits et que tu parles aux gens là-bas.${prompt}
   10571: |-
-    What do you want?
-    This is no place for the likes of you.
-    Get out.${prompt}
+    Que veux-tu ?
+    Ce n'est pas un endroit pour des gens comme toi.
+    Pars.${prompt}
   10572: |-
-    What?
-    Gumbah sent you, you say?${prompt}
-  10573: That he would ask a newborn pup like you... Are his eyes failing him, at such a young age?${prompt}
+    Quoi ?
+    Gumbah t'a envoyé, dis-tu ?${prompt}
+  10573: Il aurait demandé à un nouveau-né comme toi... Ses yeux lui font-ils défaut, à un âge aussi jeune ?${prompt}
   10574: |-
-    Well, I suppose you'll just have to do.
-    He put his trust in you, so I must do the same.${prompt}
-  10575: 'I am currently employed by the Tenshodo, and my task is to collect five ${item-plural: 7[2]} for them.${prompt}'
+    Eh bien, je suppose que tu devras faire l'affaire.
+    Il a mis sa confiance en toi, donc je dois faire de même.${prompt}
+  10575: 'Je suis actuellement employé par le Tenshodo, et ma tâche est de collecter cinq ${item-plural: 7[2]} pour eux.${prompt}'
   10576: |-
-    Alas, I was injured when I obtained the fourth.
-    It will be some time before I can go out to find the fifth.${prompt}
-  10577: The Tenshodo took the first four, but they refuse to hand me my reward until the last one is in their hands.${prompt}
-  10578: I am sure they would not have told me that had I not been injured.${prompt}
-  10579: 'If you would, could you give Talib of the Tenshodo the last ${item-singular: 7[2]}, in my name?${prompt}'
-  10580: He should then hand you a certain item as reward. I would be very grateful if you could bring it to me.${prompt}
+    Hélas, j'ai été blessé lorsque j'ai obtenu le quatrième.
+    Il me faudra un certain temps avant de pouvoir sortir chercher le cinquième.${prompt}
+  10577: Les Tenshodo ont pris les quatre premiers, mais ils refusent de me remettre ma récompense tant que le dernier n'est pas en leur possession.${prompt}
+  10578: Je suis sûr qu'ils ne m'auraient pas dit cela si je n'avais pas été blessé.${prompt}
+  10579: 'Si tu le veux bien, pourrais-tu remettre le dernier ${item-singular: 7[2]} à Talib du Tenshodo, en mon nom ?${prompt}'
+  10580: Il devrait alors te remettre un certain objet en récompense. Je te serais très reconnaissant si tu pouvais me l'apporter.${prompt}
   10581: |-
-    Take on this task?
+    Acceptes-tu cette tâche ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  10582: That is...unfortunate.${prompt}
+    Oui.
+    Non.${prompt}
+  10582: C'est...malheureux.${prompt}
   10583: |-
-    Thank you.
-    Oh, before you go, I should tell you that a Hume is also undertaking the same task.${prompt}
+    Merci.
+    Oh, avant que tu ne partes, je devrais te dire qu'une Hume entreprend également la même tâche.${prompt}
   10584: |-
-    She is not an adventurer, and hardly more than a child.
-    Believe me, I did not ask her to do this for me, yet she has run off to do it.${prompt}
+    Ce n'est pas une aventurière, et à peine plus qu'une enfant.
+    Crois-moi, je ne lui ai pas demandé de faire cela pour moi, et pourtant elle est partie faire le travail.${prompt}
   10585: |-
-    Her name?
-    I believe she called herself “Cornelia.”${prompt}
+    Son nom ?
+    Je crois qu'elle s'appelle « Cornelia ».${prompt}
   10586: |-
-    Would you keep an eye out for her and keep her out of trouble, especially at the Tenshodo?
-    I could not bear it if anything happened to her.${prompt}
+    Pourrais-tu garder un œil sur elle et la protéger, surtout au Tenshodo ?
+    Je ne pourrais pas supporter s'il lui arrivait quelque chose.${prompt}
   10587: |-
-    Hmm? Yes, I am Parraggoh.
-    Ah, Cornelia told you of my predicament.${prompt}
+    Hmm ? Oui, je suis Parraggoh.
+    Ah, Cornelia t'a parlé de ma situation.${prompt}
   10588: |-
-    Well, then.
-    She put her trust in you, so I will do the same.${prompt}
+    Eh bien.
+    Elle t'a fait confiance, alors je vais en faire autant.${prompt}
   10589: |-
-    Thank you.
-    It pains me to have to rely on people's kindness like this, but you have my gratitude.${prompt}
-  10590: It pains me to have to rely on people's kindness like this, but you have my gratitude.${prompt}
-  10591: I must thank Cornelia for her kindness as well...${prompt}
+    Merci.
+    Cela me peine de devoir compter sur la gentillesse des gens comme ça, mais tu as ma gratitude.${prompt}
+  10590: Cela me peine de devoir compter sur la gentillesse des gens comme ça, mais tu as ma gratitude.${prompt}
+  10591: Je dois aussi remercier Cornelia pour sa gentillesse...${prompt}
   10592: |-
-    Ah!
-    You have brought me ${keyitem-article: 7[2]}!${prompt}
+    Ah !
+    Tu m'as apporté ${keyitem-article: 7[2]} !${prompt}
   10593: |-
-    Hmm?
-    Yes, I am Parraggoh.${prompt}
-  10594: 'What? Cornelia asked you...and you''ve brought me ${keyitem-article: 7[2]}?${prompt}'
+    Hmm ?
+    Oui, je suis Parraggoh.${prompt}
+  10594: 'Quoi ? Cornelia t'a demandé... et tu m'as apporté ${keyitem-article: 7[2]} ?${prompt}'
   10595: |-
-    Thank you!
-    I really needed these!${prompt}
-  10596: It may not be much of a reward, but I want you to have this.${prompt}
-  10597: If you see Cornelia, send her my gratitude.${prompt}
+    Merci !
+    J'en avais vraiment besoin !${prompt}
+  10596: Ce n'est peut-être pas grand-chose comme récompense, mais je veux que tu prennes ceci.${prompt}
+  10597: Si tu vois Cornelia, transmets-lui ma gratitude.${prompt}
   10598: |-
-    No, wait--
-    Instead, tell her she should not be seen around us Galka too much.${prompt}
-  10599: For her own sake.${prompt}
+    Non, attends--
+    Dis-lui plutôt qu'elle ne devrait pas trop se montrer parmi nous, les Galka.${prompt}
+  10599: Pour son propre bien.${prompt}
   10600: |-
-    Ah! It's good to see you again.
-    How have you been?${prompt}
+    Ah ! C'est bon de te revoir.
+    Comment vas-tu ?${prompt}
   10601: |-
-    This is no place for you to be wandering around.
-    Get out of my sight, outsider.${prompt}
+    Ce n'est pas un endroit où tu devrais traîner.
+    Va-t'en de ma vue, étranger.${prompt}
   10602: |-
-    Have you seen Gumbah?
+    As-tu vu Gumbah ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  10603: Okay. If you see him again, tell him not to run away next time!${prompt}
-  10604: What? He ran away again?${prompt}
+    Oui.
+    Non.${prompt}
+  10603: D'accord. Si tu le vois à nouveau, dis-lui de ne pas fuir la prochaine fois !${prompt}
+  10604: Quoi ? Il s'est encore enfui ?${prompt}
   10605: |-
-    He never stands his ground!
-    But I'll get him next time!${prompt}
-  10606: Hey, you! Did you see a small Galka called “Gumbah”?${prompt}
-  10607: I'm here. What do you want?${prompt}
-  10608: Ah! Finally, we meet again! Prepare to face your doom!${prompt}
+    Il ne tient jamais sa position !
+    Mais je m'en occuperai la prochaine fois !${prompt}
+  10606: Hé, toi ! As-tu vu un petit Galka appelé « Gumbah » ?${prompt}
+  10607: Je suis là. Que veux-tu ?${prompt}
+  10608: Ah ! Enfin, nous nous rencontrons à nouveau ! Prépare-toi à affronter ton destin !${prompt}
   10609: |-
-    Oh, not again. Didn't I beat you last time?
-    You've always been such a pestering child...${prompt}
+    Oh, pas encore. Je t'ai déjà battu la dernière fois ?
+    Tu as toujours été un enfant agaçant...${prompt}
   10610: |-
-    Hey, you're not much older than I am!
-    Don't talk to me like you're some old man!${prompt}
-  10611: And you cheated last time! You brought one of Werei's old swords!${prompt}
+    Hé, tu n'es pas beaucoup plus âgé que moi !
+    Ne me parle pas comme si tu étais un vieux !${prompt}
+  10611: Et tu as triché la dernière fois ! Tu as apporté une des vieilles épées de Werei !${prompt}
   10612: |-
-    You didn't say I couldn't.
-    Besides, you cheated first. I saw you borrow Deidogg's sword.${prompt}
+    Tu n'as pas dit que je ne pouvais pas le faire.
+    De plus, tu as triché en premier. Je t'ai vu emprunter l'épée de Deidogg.${prompt}
   10613: |-
-    Urk... Well, uh...forget swords! This time, it's helms!
-    Whoever brings the best helm wins!
-    And don't bring any of Werei's, Gumbah!${prompt}
+    Urk... Eh bien, euh... oublions les épées ! Cette fois, ce sont des casques !
+    Celui qui apporte le meilleur casque gagne !
+    Et ne prends aucun casque de Werei, Gumbah !${prompt}
   10614: |-
-    Oh, please...
-    Fine, I forfeit. You win. Can I go now?${prompt}
-  10615: No, no, no! You're not running away again!${prompt}
+    Oh, s'il te plaît...
+    Très bien, je me rends. Tu gagnes. Puis-je partir maintenant ?${prompt}
+  10615: Non, non, non ! Tu ne vas pas encore t'enfuir !${prompt}
   10616: |-
-    Anyway, I'm thinking of bringing ${article} ${item-article: 7[2]}.
-    Hey, you're an adventurer, right? You have one, don't you?${prompt}
+    En tout cas, je pense apporter ${article} ${item-article: 7[2]}.
+    Hé, tu es un aventurier, non ? Tu en as un, n'est-ce pas ?${prompt}
   10617: |-
-    Can I borrow it for just a few seconds?
-    I'll give it back, promise! I'll even give you a reward!${prompt}
+    Puis-je l'emprunter juste quelques secondes ?
+    Je te le rendrai, je promets ! Je te donnerai même une récompense !${prompt}
   10618: |-
-    Ooh! ${lettercase: 1}${article} ${item-article: 7[2]}! Thanks!
-    Now I'll show that Gumbah...${prompt}
-  10619: You're borrowing again...${prompt}
+    Ooh ! ${lettercase: 1}${article} ${item-article: 7[2]} ! Merci !
+    Maintenant je vais montrer à ce Gumbah...${prompt}
+  10619: Tu empruntes encore...${prompt}
   10620: |-
-    There you are! Ha-ha! Look, I have ${article} ${item-article: 7[2]}!
-    Victory is mine!${prompt}
-  10621: Uh-huh, good for you. My helm should be here soon.${prompt}
-  10622: 'There you are! Here, I brought the ${item-singular: 6[2]} you asked for!${prompt}'
+    Te voilà ! Ha-ha ! Regarde, j'ai ${article} ${item-article: 7[2]} !
+    La victoire est à moi !${prompt}
+  10621: Uh-huh, bien pour toi. Mon casque devrait arriver bientôt.${prompt}
+  10622: 'Te voilà ! Tiens, j'ai apporté le ${item-singular: 6[2]} que tu as demandé !${prompt}'
   10623: |-
-    How's this?
-    Do I win?${prompt}
+    Qu'en penses-tu ?
+    Je gagne ?${prompt}
   10624: |-
-    Hey! That's not fair!
-    You tricked her into bringing you that helm!${prompt}
+    Hé ! Ce n'est pas juste !
+    Tu as trompé quelqu'un pour qu'elle t'apporte ce casque !${prompt}
   10625: |-
-    Huh? Tricked? What's going on?
-    Where's the Galka adventurer who needed a helm?${prompt}
+    Hein ? Trompé ? Que se passe-t-il ?
+    Où est l'aventurier Galka qui avait besoin d'un casque ?${prompt}
   10626: |-
-    Gumbah! Were you lying to me?
-    Explain yourself!${prompt}
-  10627: Well, uh... I gotta go!${prompt}
+    Gumbah ! Mentais-tu à propos de moi ?
+    Explique-toi !${prompt}
+  10627: Eh bien, euh... Je dois y aller !${prompt}
   10628: |-
-    Hey! If you run, I win!
-    Ha! What do you say to that!?${prompt}
-  10629: Fine by me! See you!${prompt}
-  10630: Gumbah! Come back here this instant!${prompt}
+    Hé ! Si tu cours, je gagne !
+    Ha ! Que dis-tu de cela ?${prompt}
+  10629: Ça me va ! À bientôt !${prompt}
+  10630: Gumbah ! Reviens ici sur-le-champ !${prompt}
   10631: |-
-    Why do I feel like I've lost?
-    Anyway, thanks. Here's the reward I promised you.${prompt}
-  10632: I'm here in Bastok to investigate a few things about the Palborough Mines.${prompt}
+    Pourquoi ai-je l'impression d'avoir perdu ?
+    Quoi qu'il en soit, merci. Voici la récompense que je t'avais promise.${prompt}
+  10632: Je suis ici à Bastok pour enquêter sur quelques choses concernant les Mines de Palborough.${prompt}
   10633: |-
-    You're an adventurer, aren't you?
-    Could you do me a favor?${prompt}
-  10634: There is a monument at the top of Zegham Hill in North Gustaberg, erected in honor of the pioneers who dug the Palborough Mines.${prompt}
+    Tu es un aventurier, n'est-ce pas ?
+    Pourrais-tu me rendre un service ?${prompt}
+  10634: Il y a un monument au sommet de Zegham Hill dans North Gustaberg, érigé en l'honneur des pionniers qui ont creusé les Mines de Palborough.${prompt}
   10635: |-
-    My great-grandfather was one of them.
-    I wanted to go visit his grave there, but I couldn't get past all the monsters.${prompt}
-  10636: 'If it''s not too much trouble, I was wondering if you could place this ${keyitem-singular: 7[2]} at the monument for me.${prompt}'
+    Mon arrière-grand-père était l'un d'eux.
+    Je voulais aller visiter sa tombe là-bas, mais je n'ai pas pu passer à cause des monstres.${prompt}
+  10636: 'Si ce n'est pas trop de problème, j'aimerais que tu places ce ${keyitem-singular: 7[2]} au monument pour moi.${prompt}'
   10637: |-
-    Visit the monument in Elki's stead?
+    Visiter le monument à la place d'Elki ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
+    Oui.
+    Non.${prompt}
   10638: |-
-    Thank you.
-    There are ten names engraved on the monument.
-    Look for an “Omran.” He was my great-grandfather.${prompt}
+    Merci.
+    Il y a dix noms gravés sur le monument.
+    Cherche un “Omran”. C'était mon arrière-grand-père.${prompt}
   10639: |-
-    Of course... I'm sorry.
-    Asking a total stranger to risk his life for me... I was being presumptuous.${prompt}
+    Bien sûr... Je suis désolé.
+    Demander à un parfait étranger de risquer sa vie pour moi... J'ai été présomptueux.${prompt}
   10640: |-
-    Thank you for your kindness.
-    It's good to hear that Omran's name is still there, after all these years.${prompt}
+    Merci pour ta gentillesse.
+    C'est bon d'entendre que le nom d'Omran est toujours là, après toutes ces années.${prompt}
   10641: |-
-    There was an eleventh name?
-    “Vig****t O**”?
-    No, I'm sorry, I don't know who that is.
-    Wait, unless...${prompt}
+    Il y avait un onzième nom ?
+    “Vig****t O**” ?
+    Non, je suis désolé, je ne sais pas qui c'est.
+    Attends, à moins que...${prompt}
   10642: |-
-    No, never mind. Thank you again.
-    Here, this is for your trouble.${prompt}
+    Non, laisse tomber. Merci encore.
+    Tiens, c'est pour ta peine.${prompt}
   10643: |-
-    Ah, it's you. Thank you for the other day.
-    As you might have guessed, visiting my great-grandfather's grave was not the only thing I came here to do.${prompt}
-  10644: Upon further examination of my great-grandfather's diary, I've come to believe that there were eleven pioneers who dug the Palborough Mines, not ten.${prompt}
-  10645: My great-grandfather seemed to truly regret the fact that this last pioneer's name was never recorded in the annals alongside theirs.${prompt}
-  10646: I believe the name you found, this “Vig****t O**,” is the name of that last pioneer...${prompt}
+    Ah, c'est toi. Merci pour l'autre jour.
+    Comme tu peux le deviner, visiter la tombe de mon arrière-grand-père n'était pas la seule chose que je suis venu faire ici.${prompt}
+  10644: Après avoir examiné le journal de mon arrière-grand-père, je crois qu'il y avait onze pionniers qui ont creusé les Mines de Palborough, et non dix.${prompt}
+  10645: Mon arrière-grand-père semblait vraiment regretter que le nom du dernier pionnier n'ait jamais été enregistré avec les leurs.${prompt}
+  10646: Je crois que le nom que tu as trouvé, ce “Vig****t O**”, est celui de ce dernier pionnier...${prompt}
   10647: |-
-    But I can't seem to find a name to fit those letters.
-    It has been more than a hundred fifty years, so I don't think he'd still be alive, but...${prompt}
-  10648: If you can find any information on this person, I'd be truly grateful.${prompt}
+    Mais je ne trouve pas de nom qui corresponde à ces lettres.
+    Cela fait plus de cent cinquante ans, donc je ne pense pas qu'il soit encore en vie, mais...${prompt}
+  10648: Si tu peux trouver des informations sur cette personne, je te serais vraiment reconnaissant.${prompt}
   10649: |-
-    Help investigate?
+    Aider à enquêter ?
     ${selection-lines}
-    Ask for more information.
-    Help.
-    Don't help.${prompt}
-  10650: The Palborough Mines were the first mines to be dug using “explosives,” a Hume invention.${prompt}
-  10651: Before then, Bastok had to rely on the strength of the Galka to dig its mines. When the ten Hume pioneers dug one using only their wits and technology, it was a major turning point in Bastok's history.${prompt}
-  10652: Any other clue that might shed light on the Palborough Mines' past would be in the mines themselves.${prompt}
+    Demander plus d'informations.
+    Aider.
+    Ne pas aider.${prompt}
+  10650: Les Mines de Palborough furent les premières à être creusées en utilisant des “explosifs”, une invention des Humes.${prompt}
+  10651: Avant cela, Bastok devait compter sur la force des Galka pour creuser ses mines. Lorsque les dix pionniers Humes en creusèrent une en utilisant uniquement leur intelligence et leur technologie, cela marqua un tournant majeur dans l'histoire de Bastok.${prompt}
+  10652: Tout autre indice qui pourrait éclairer le passé des Mines de Palborough se trouve probablement dans les mines elles-mêmes.${prompt}
   10653: |-
-    Thank you.
-    If you find anything out, please tell me right away.${prompt}
-  10654: I see... Thanks anyway.${prompt}
+    Merci.
+    Si tu découvres quoi que ce soit, s'il te plaît, dis-le-moi immédiatement.${prompt}
+  10654: Je vois... Merci quand même.${prompt}
   10655: |-
-    Eleven sets of tools?
-    The names of the pioneers are written on them...${prompt}
+    Onze ensembles d'outils ?
+    Les noms des pionniers sont écrits dessus...${prompt}
   10656: |-
-    The eleventh pioneer's name was...“Vigilant Owl”?
-    It sounds like a Galka name.${prompt}
-  10657: And they say the Palborough Mines were dug only by Humes...${prompt}
+    Le nom du onzième pionnier était... “Vigilant Owl” ?
+    Cela ressemble à un nom de Galka.${prompt}
+  10657: Et on dit que les Mines de Palborough ont été creusées uniquement par des Humes...${prompt}
   10658: |-
-    Wait, there's another inscription on this tool...
-    “Babenn”? Is that another name?${prompt}
+    Attends, il y a une autre inscription sur cet outil...
+    “Babenn” ? Est-ce un autre nom ?${prompt}
   10659: |-
-    I wonder what this means...
-    I'll try to find out more on my side, but let me know if you come across any more information.${prompt}
+    Je me demande ce que cela signifie...
+    Je vais essayer d'en savoir plus de mon côté, mais fais-moi savoir si tu trouves d'autres informations.${prompt}
   10660: |-
-    An eleventh Palborough Mines Pioneer?
-    Then it is as I thought!${prompt}
-  10661: '${lettercase: 1}${keyitem-article: 7[2]} you brought me--the more I read them, the more I am convinced someone has tampered with them!${prompt}'
-  10662: It must be Humes! Only they would go so far as erasing our history to protect their over-swollen pride!${prompt}
+    Un onzième pionnier des Mines de Palborough ?
+    Alors c'est comme je le pensais !${prompt}
+  10661: '${lettercase: 1}${keyitem-article: 7[2]} que tu m'as apporté -- plus je les lis, plus je suis convaincu que quelqu'un a altéré ces documents !${prompt}'
+  10662: Cela doit être les Humes ! Seuls eux pourraient aller aussi loin que d'effacer notre histoire pour protéger leur fierté démesurée !${prompt}
   10663: |-
-    I... My apologies.
-    I should not let my emotions get the better of me.${prompt}
-  10664: The pioneers? Well, yes, I worked in the mines until fifteen years ago, but you're talking about things that happened more than a hundred and fifty years back!${prompt}
+    Je... Je suis désolé.
+    Je ne devrais pas laisser mes émotions prendre le dessus.${prompt}
+  10664: Les pionniers ? Eh bien, oui, j'ai travaillé dans les mines jusqu'à il y a quinze ans, mais tu parles de choses qui se sont passées il y a plus de cent cinquante ans !${prompt}
   10665: |-
-    I may be old, but I'm not that old.
-    Go talk to Babenn. Now that Werei's gone, he's the only Galka left who was around back then.${prompt}
+    Je suis peut-être vieux, mais je ne suis pas si vieux.
+    Va parler à Babenn. Maintenant que Werei est parti, il est le seul Galka qui était encore là à l'époque.${prompt}
   10666: |-
-    The Palborough Pioneers?
-    Yes, I was alive back then, but I recall I was away adventuring in those days.
-    I'm afraid I can't help you with what you seek.${prompt}
+    Les Pionniers de Palborough ?
+    Oui, j'étais en vie à l'époque, mais je me souviens que j'étais en aventure ces jours-là.
+    Je crains de ne pas pouvoir t'aider avec ce que tu cherches.${prompt}
   10667: |-
     Hmm?
     What is it you want with an old Galka like me?${prompt}
