@@ -21570,7 +21570,7 @@ entries:
   10003: |-
     Vous n'êtes pas en possession de ${keyitem-article: 0[2]}.
     Impossible d'entrer sur le champ de bataille pour « ${choice: 1}${choice: 1}[Directive enrobée de sucre/Battaru Royale/Projet : Shantottofication]. »${prompt}
-  10004: Vous ne pouvez pas entrer sur le champ de bataille pour « ${choice: 1}${choice: 1}[Directive enrobée de sucre/Battaru Royale/Projet : Shantottofication] » avec ${keyitem-article: 0[2]} en votre possession.${prompt}
+  10004: 'Vous ne pouvez pas entrer sur le champ de bataille pour « ${choice: 1}${choice: 1}[Directive enrobée de sucre/Battaru Royale/Projet : Shantottofication] » avec ${keyitem-article: 0[2]} en votre possession.${prompt}'
   10005: |-
     ${keyitem-singular: 0[2]} n'a aucun effet.
     Il semble que vous devrez revenir plus tard.${prompt}
@@ -21635,7 +21635,7 @@ entries:
   10050: Hah ! Galka, Humes, hommes-bêtes - aucune vie sur cette planète n'a de but ou de signification.${prompt}
   10051: Comme je vous l'ai dit précédemment, nous ne remettrons pas Vana'diel à qui que ce soit. C'est notre monde.${prompt}
   10052: Oui, je ne perçois plus les impuretés qui bloquaient le pouvoir qui repose au plus profond de Vana'diel. Le « bruit » a disparu.${prompt}
-  10053: 'Défendre simplement « lui » il y a vingt ans n'a pas supprimé le bruit.${wait-animation: 1}'
+  10053: 'Défendre simplement « lui » il y a vingt ans n’a pas supprimé le bruit.${wait-animation: 1}'
   10054: Nous avons rencontré un obstacle. Nous n'avons pas pu le libérer du cristal avec notre pouvoir seul.${prompt}
   10055: Cependant, avec le Gardien des Paroles, nous avions ce qu'il nous fallait. Mais il n'est pas nécessaire d'entrer dans les détails ici.${prompt}
   10056: |-
@@ -21650,7 +21650,7 @@ entries:
   10060: Nous tenons à un espoir en ces temps les plus sombres.${prompt}
   10061: Ce monde n'est rien d'autre qu'une tombe, et vous êtes les vers qui se tortillent à travers le cadavre pourri.${prompt}
   10062: Il est temps de mettre fin à Vana'diel tel qu'il est maintenant.${prompt}
-  10063: 'Entendez-nous ! Nous chantons la chanson de l'espoir... et votre requiem ! ${wait-animation: 1}'
+  10063: 'Entendez-nous ! Nous chantons la chanson de l’espoir... et votre requiem ! ${wait-animation: 1}'
   10064: Qu'ils viendront, avec la sagesse des âges et la force de milliers, pour nous délivrer de notre détresse.${prompt}
   10065: Nous attendons le réveil des Guerriers du Cristal.${prompt}
   10066: Guerriers du Cristal !?${prompt}
@@ -21688,7 +21688,7 @@ entries:
   10092: Mais à vous voir, tout le reste semble fonctionner.${prompt}
   10093: Vous voyez cet escalier là-bas ? Lorsque vous vous sentirez un peu mieux, montez ces escaliers et venez dans la pièce au bout du couloir.${prompt}
   10094: Il y a quelqu'un que j'aimerais que vous rencontriez. J'irai d'abord là-bas et lui dirai que vous venez.${prompt}
-  10095: 'Oh, et voici, prenez ce ${keyitem-singular: 6[2]}. Considérez-le comme un cadeau d'un ami.${prompt}'
+  10095: 'Oh, et voici, prenez ce ${keyitem-singular: 6[2]}. Considérez-le comme un cadeau d’un ami.${prompt}'
   10096: À bientôt.${prompt}
   10097: '     ${wait-animation: 1}'
   10098: |-
@@ -21747,7 +21747,7 @@ entries:
   10142: Cependant, ces ruines, également connues sous le nom de Temple de la Désolation, ont longtemps été redoutées par beaucoup.${prompt}
   10143: Arrrg, un endroit effrayant que soit Zi'Tah. On ne sait jamais ce qui va surgir derrière toi.${prompt}
   10144: ${name-player}, fais attention lorsque tu voyage là-haut, à moins que tu ne veuilles te retrouver dans le casier de Davy Jones.${prompt}
-  10145: 'D'accord, je ferai attention.${wait-animation: 1}'
+  10145: 'D’accord, je ferai attention.${wait-animation: 1}'
   10146: Attends une minute, ma jolie. Tu ne vas pas avec ${name-player} cette fois. J'ai besoin que tu te rendes à Jeuno et surveilles ces bêtes.${prompt}
   10147: Mais... mais !${prompt}
   10148: Ne me parle pas comme ça. Tu sais ce que tu as à faire, alors va le faire ! Je resterai ici et veillerai sur mon repaire.${prompt}
@@ -21765,12 +21765,12 @@ entries:
     Comme tu le sais, nous vendons ici des articles interdits à l'importation et à l'exportation sur le continent.${prompt}
   10155: Mais dernièrement, il y a une demande bien plus grande que notre offre ne peut satisfaire. Nous n'avons tout simplement pas assez de personnes pour suivre. C'est là que tu entres en jeu.${prompt}
   10156: Si tu peux arriver ici, tu peux atteindre l'endroit où tous ces articles interdits se trouvent. Apporte-m'en quelques-uns et je te paierai bien. Oh, et je ne te conseille pas de les vendre dans d'autres boutiques. Tu n'en obtiendras pas dix gil.${prompt}
-  10157: 'Voici ce dont j'ai besoin : ${item-plural: 1[2]}, ${item-plural: 2[2]}, et ${item-plural: 3[2]}.${prompt}'
+  10157: 'Voici ce dont j’ai besoin : ${item-plural: 1[2]}, ${item-plural: 2[2]}, et ${item-plural: 3[2]}.${prompt}'
   10158: Apporte-les-moi en sets. Quatre articles font un set. Je te paierai pour un set à la fois.${prompt}
   10159: Tu as déjà oublié ce que je veux que tu apportes ? Pas très malin pour un aventurier, n'est-ce pas ? Maintenant écoute bien, je ne veux pas avoir à te le répéter.${prompt}
-  10160: 'Gnyah-hoh-hoh ! Si ce n'est pas un set de ${item-plural: 1[2]} ! Voici le paiement que je t'avais promis.${prompt}'
+  10160: 'Gnyah-hoh-hoh ! Si ce n’est pas un set de ${item-plural: 1[2]} ! Voici le paiement que je t’avais promis.${prompt}'
   10161: Si jamais tu trouves d'autres articles, apporte-les-moi, je serai ravi de les prendre. Comme on dit, “Tu me gratouilles le dos, je te gratouille le tien.”${prompt}
-  10162: 'Si tu trouves d'autres ${item-plural: 1[2]}, ${item-plural: 2[2]}, ou ${item-plural: 3[2]}, viens voir Muzaffar. Je serai heureux de les prendre de tes mains.${prompt}'
+  10162: 'Si tu trouves d’autres ${item-plural: 1[2]}, ${item-plural: 2[2]}, ou ${item-plural: 3[2]}, viens voir Muzaffar. Je serai heureux de les prendre de tes mains.${prompt}'
   10163: |-
     <Soupir>
     Que dois-je faire...?${prompt}
@@ -21784,11 +21784,11 @@ entries:
     ${selection-lines}
     Bien sûr.
     Peut-être une autre fois.${prompt}
-  10170: 'Je ne peux pas te remercier assez ! Maintenant prends ce ${keyitem-singular: 6[2]} et remplis-le à ras bord avec cette boisson Opo-Opo. Je t'attendrai !${prompt}'
+  10170: 'Je ne peux pas te remercier assez ! Maintenant prends ce ${keyitem-singular: 6[2]} et remplis-le à ras bord avec cette boisson Opo-Opo. Je t’attendrai !${prompt}'
   10171: Eh bien, je suppose que vous aventuriers devez être occupés avec vos aventures. Je vais essayer de trouver quelqu'un d'autre pour y aller.${prompt}
   10172: Oh, as-tu changé d'avis ?${prompt}
   10173: D'accord, écoute maintenant. Les Opo-opos ne cachent pas leur boisson dans la Jungle de Yuhtunga, seulement dans la Jungle de Yhoator.${prompt}
-  10174: 'Lorsque tu trouves un des arbres où ces petites bestioles fabriquent leur boisson, remplis ce ${keyitem-singular: 6[2]} jusqu'au bord, et rapporte-le-moi.${prompt}'
+  10174: 'Lorsque tu trouves un des arbres où ces petites bestioles fabriquent leur boisson, remplis ce ${keyitem-singular: 6[2]} jusqu’au bord, et rapporte-le-moi.${prompt}'
   10175: Mmm-mmm ! La couleur ! Le parfum ! Seule la nature peut faire une telle magie !${prompt}
   10176: Si seulement ces malandrins pouvaient l'apprécier ! Je les connais, ce lot sera terminé d'ici la fin de la nuit...${prompt}
   10177: |-
@@ -21818,7 +21818,7 @@ entries:
   10193: Merveilleux. Voici les matériaux dont j'ai besoin. Je suis désolé, mais je dois me dépêcher ou Gilgamesh me coûtera la tête. Je te récompenserai pour tes services lorsque j'aurai terminé le katana.${prompt}
   10194: Combien de temps cela prendra, demandes-tu ? Une bonne lame nécessite au moins trois jours complets pour être terminée. Reviens alors. Ne t'inquiète pas. Je serai ici.${prompt}
   10195: Encore une fois, je m'excuse de ne pas avoir pu te donner ta récompense plus tôt.${prompt}
-  10196: 'Mon travail n'est pas encore terminé. J'ai encore besoin de ${number: 0} ${choice-plurality: 0}[heure/heure(s) supplémentaire(s)]. Il n'est pas sage de perdre ton temps à essayer de devancer le temps dans ce jeu que nous appelons la vie.${prompt}'
+  10196: 'Mon travail n’est pas encore terminé. J’ai encore besoin de ${number: 0} ${choice-plurality: 0}[heure/heure(s) supplémentaire(s)]. Il n’est pas sage de perdre ton temps à essayer de devancer le temps dans ce jeu que nous appelons la vie.${prompt}'
   10197: Le temps est comme une rivière qui coule—il ne peut être accéléré ou ralenti. Nous devons flotter au rythme qu'il a choisi.${prompt}
   10198: Ah, ${name-player}, tu es enfin revenu. Je commençais à m'inquiéter que tu aies oublié ta récompense.${prompt}
   10199: Maintenant, où ai-je mis cela...${prompt}
@@ -21839,28 +21839,28 @@ entries:
   10212: La technologie des cristaux a aidé Vana'diel à prospérer, mais au prix des méthodes traditionnelles, désormais perdues à jamais.${prompt}
   10213: Tout comme le vieux est remplacé par le nouveau, le monde est en constante évolution. Un jour, on pourrait ne plus pouvoir vivre uniquement avec une épée.${prompt}
   10214: 'Donc, tu as besoin de ${article} ${item-article: 0[2]}. Je vois que le Maître Jaucribaix commence un nouveau projet. Laisse-moi te dire où trouver cet objet.${prompt}'
-  10215: 'Tu ne trouveras pas juste un ${item-singular: 0[2]} traînant n'importe où. Forgé, un katana est quelque peu un rituel. Le forgeron concentre toute son énergie spirituelle dans la tâche. Ainsi, le ${item-singular: 0[2]} utilisé doit provenir d'un lieu spirituel également.${prompt}'
+  10215: 'Tu ne trouveras pas juste un ${item-singular: 0[2]} traînant n’importe où. Forgé, un katana est quelque peu un rituel. Le forgeron concentre toute son énergie spirituelle dans la tâche. Ainsi, le ${item-singular: 0[2]} utilisé doit provenir d’un lieu spirituel également.${prompt}'
   10216: Au-delà des Montagnes Meriphataud se trouve une ancienne forêt connue sous le nom de Sanctuaire de Zi'Tah. Là-bas, tu trouveras un arbre qui se dresse depuis plus de mille ans.${prompt}
   10217: Seule une branche de cet arbre est adaptée à la flamme qui brûle dans le four du Maître Jaucribaix. Cependant, fais attention lors de ton voyage dans Zi'Tah, car c'est une terre pleine de mystères et de dangers.${prompt}
-  10218: 'Tiens, prends ce ${item-singular: 1[2]}. Tu sauras quoi en faire quand tu arriveras à l'arbre. Fais attention à ne pas le perdre, car c'est un objet très rare.${prompt}'
-  10219: 'Quoi ? Tu as besoin d'un autre ${item-singular: 1[2]} ? Et après que je t'ai dit combien c'était important ! Si tu veux que je t'en donne un autre, apporte-moi un ${item-singular: 2[2]} et deux ${item-plural: 3[2]}, et je réfléchirai à la question.${prompt}'
+  10218: 'Tiens, prends ce ${item-singular: 1[2]}. Tu sauras quoi en faire quand tu arriveras à l’arbre. Fais attention à ne pas le perdre, car c’est un objet très rare.${prompt}'
+  10219: 'Quoi ? Tu as besoin d’un autre ${item-singular: 1[2]} ? Et après que je t’ai dit combien c’était important ! Si tu veux que je t’en donne un autre, apporte-moi un ${item-singular: 2[2]} et deux ${item-plural: 3[2]}, et je réfléchirai à la question.${prompt}'
   10220: 'Si tu veux que je te donne un autre ${item-singular: 1[2]}, apporte-moi un ${item-singular: 2[2]} et deux ${item-plural: 3[2]}, et je réfléchirai à la question.${prompt}'
   10221: Je ne veux pas paraître impoli, mais c'est un objet très important. Ne le perds pas encore une fois.${prompt}
-  10222: 'Bienvenue de ton voyage. S'il te plaît, livre ce ${item-singular: 0[2]} directement au Maître Jaucribaix.${prompt}'
-  10223: 'Que ferait un aventurier comme toi avec ${article} ${item-article: 0[2]} ? Oh, le Maître Jaucribaix t'a envoyé. Alors je suppose que je dois te donner ça.${prompt}'
-  10224: 'À l'œil non averti, ce ${item-singular: 1[2]} peut sembler comme un simple morceau de ferraille, mais c'est en réalité un minerai rare venant de l'Extrême-Orient.${prompt}'
+  10222: 'Bienvenue de ton voyage. S’il te plaît, livre ce ${item-singular: 0[2]} directement au Maître Jaucribaix.${prompt}'
+  10223: 'Que ferait un aventurier comme toi avec ${article} ${item-article: 0[2]} ? Oh, le Maître Jaucribaix t’a envoyé. Alors je suppose que je dois te donner ça.${prompt}'
+  10224: 'À l’œil non averti, ce ${item-singular: 1[2]} peut sembler comme un simple morceau de ferraille, mais c’est en réalité un minerai rare venant de l’Extrême-Orient.${prompt}'
   10225: Il contient des métaux non trouvés sur Mindartia ou Quon. En le traitant de manière spéciale, il deviendra le matériau parfait pour fondre le fer dans le four du Maître.${prompt}
   10226: 'Ton travail est de trouver une bombe pour consommer ce ${item-singular: 1[2]}. Lorsque la bombe le mangera, il se raffinerait en ${article} ${item-article: 0[2]}.${prompt}'
-  10227: 'Quelque part dans les Highlands de Konschtat se trouve une petite grotte avec un sol carbonisé. C'est là que tu trouveras une bombe qui consommera le ${item-singular: 1[2]}.${prompt}'
+  10227: 'Quelque part dans les Highlands de Konschtat se trouve une petite grotte avec un sol carbonisé. C’est là que tu trouveras une bombe qui consommera le ${item-singular: 1[2]}.${prompt}'
   10228: 'Place-le sur la zone carbonisée et récupère le ${item-singular: 0[2]} de la bombe qui apparaît.${prompt}'
   10229: 'Place le ${item-singular: 1[2]} sur la zone carbonisée dans une grotte des Highlands de Konschtat, et récupère le ${item-singular: 0[2]} de la bombe qui apparaît.${prompt}'
-  10230: 'Tu as besoin d'un autre ${item-singular: 1[2]} ? Très bien, mais ceux-ci ne sont pas bon marché. Je te donnerai un nouveau seulement en échange de ${article} ${item-article: 2[2]}.${prompt}'
+  10230: 'Tu as besoin d’un autre ${item-singular: 1[2]} ? Très bien, mais ceux-ci ne sont pas bon marché. Je te donnerai un nouveau seulement en échange de ${article} ${item-article: 2[2]}.${prompt}'
   10231: '${lettercase: 1}${item-plural: 1[2]} ne sont pas bon marché. Je te donnerai un nouveau seulement en échange de ${article} ${item-article: 2[2]}.${prompt}'
-  10232: 'Ah, ${article} ${item-article: 2[2]}. Voici le ${item-singular: 1[2]} que je t'avais promis, mais tu devrais vraiment essayer de mieux prendre soin de tes affaires...${prompt}'
-  10233: 'Je vois que tu es revenu sain et sauf. J'espère que tu n'as pas eu de problème avec la bombe. Le ${item-singular: 0[2]} ? Oh, tu peux le remettre directement au Maître Jaucribaix.${prompt}'
+  10232: 'Ah, ${article} ${item-article: 2[2]}. Voici le ${item-singular: 1[2]} que je t’avais promis, mais tu devrais vraiment essayer de mieux prendre soin de tes affaires...${prompt}'
+  10233: 'Je vois que tu es revenu sain et sauf. J’espère que tu n’as pas eu de problème avec la bombe. Le ${item-singular: 0[2]} ? Oh, tu peux le remettre directement au Maître Jaucribaix.${prompt}'
   10234: Tu n'as pas à t'inquiéter pour ta récompense. Le Maître Jaucribaix est un homme de parole. Il lui faut du temps pour terminer son travail.${prompt}
   10235: Tu dois être patient. Rien de bon ne peut être obtenu en précipitant les choses.${prompt}
-  10236: Tu ne dois pas te fixer de limites dans ta vie, car tes progrès s'arrêteront lorsque tu les atteindras. Fixe toujours des objectifs élevés, et tu continueras à grandir plus fort.${prompt}
+  10236: Tu ne dois pas te fixer de limites dans ta vie, car tes progrès s’arrêteront lorsque tu les atteindras. Fixe toujours des objectifs élevés, et tu continueras à grandir plus fort.${prompt}
   10237: |-
     Si tu as des problèmes avec ces petits Tonberries agaçants, viens simplement voir ton pote Magephaud.
     Il ne semble pas que tu sois en grande difficulté pour l'instant.${prompt}
@@ -21874,7 +21874,7 @@ entries:
   10243: |-
     Apporte-moi trois ${item-plural: 0[2]}. Ensuite, je te révélerai mon petit secret.
     Je ne te mettrai pas la pression si tu penses pouvoir gérer les démons tout seul...${prompt}
-  10244: 'Un...deux...trois. Trois ${item-plural: 0[2]}, exactement comme je l'ai demandé. Très bien. Laisse-moi t'expliquer comment apaiser ces sauvages visqueux.${prompt}'
+  10244: 'Un...deux...trois. Trois ${item-plural: 0[2]}, exactement comme je l’ai demandé. Très bien. Laisse-moi t’expliquer comment apaiser ces sauvages visqueux.${prompt}'
   10245: Autrefois, quand j'étais encore jeune et que je ne connaissais pas la haine—la rancœur—des Tonberries, j'en ai tué quelques-uns...comme toi.${prompt}
   10246: Puis, un jour, lorsque moi et mes compagnons pillions un ancien temple, j'ai rencontré un vieux Tonberry qui comprenait les mots des hommes.${prompt}
   10247: C'est lui qui m'a parlé de la haine des Tonberries, et que seul lui pouvait apaiser la rancœur qui m'était adressée.${prompt}
@@ -21884,13 +21884,13 @@ entries:
   10251: Tu as compris ? Maintenant tu sais quoi faire. Voici la clé pour cette pièce.${prompt}
   10252: Ne te fais pas de fausses idées maintenant. Je t'ai seulement dit comment te débarrasser de la rancœur, pas de l'éliminer vraiment.${prompt}
   10253: Tu as la clé. Ce que tu en fais dépend de toi, mais fais attention si tu voyages autour de cet ancien temple.${prompt}
-  10254: 'Eh bien, shivivi mes bois ! Ce ${item-singular: 0[2]} que tu portes ! Je l'ai déjà vu !${prompt}'
+  10254: 'Eh bien, shivivi mes bois ! Ce ${item-singular: 0[2]} que tu portes ! Je l’ai déjà vu !${prompt}'
   10255: Moi et mes compagnons ninjas ici à Norg avons travaillé jour et nuit, nuit et jour pour élaborer une nouvelle technique de ninjutsu. Mais nous l'avons rendue un peu trop compliquée...${prompt}
-  10256: '...et nous n'avons jamais pu l'utiliser. Alors nous l'avons jetée dans un des coffres de Norg et l'avons oubliée. Où l'as-tu trouvée d'ailleurs ?${prompt}'
+  10256: '...et nous n’avons jamais pu l’utiliser. Alors nous l’avons jetée dans un des coffres de Norg et l’avons oubliée. Où l’as-tu trouvée d’ailleurs ?${prompt}'
   10257: Tu l'as attrapée en pêchant ? Ça doit être l'œuvre des Sahagin poissonniers.${prompt}
   10258: Ils l'ont probablement jetée lorsqu'ils ont vu qu'elle était vierge. Ils ne savaient pas qu'il y avait un moyen spécial de rendre l'écriture visible.${prompt}
   10259: Que dit-elle ? Oh, j'ai oublié ça il y a des années. Mais je me souviens comment la lire.${prompt}
-  10260: 'Oui, c'était cette méthode qui nous empêchait d'utiliser le parchemin en premier lieu... Mais bon, prends ce ${item-singular: 0[2]} jusqu'à la source chaude sur le Mont Horlais.${prompt}'
+  10260: 'Oui, c’était cette méthode qui nous empêchait d’utiliser le parchemin en premier lieu... Mais bon, prends ce ${item-singular: 0[2]} jusqu’à la source chaude sur le Mont Horlais.${prompt}'
   10261: Lorsque tu mets le parchemin dans l'eau, les lettres apparaîtront, et voilà ! Tu as terminé !${prompt}
   10262: Pourquoi aller jusqu'au Mont Horlais ? Eh bien, si c'était facile d'y aller, ce ne serait pas un parchemin super-spécial, n'est-ce pas ?${prompt}
   10263: La seule raison pour laquelle nous avons cessé de les fabriquer était que personne ne voulait marcher jusqu'à ces sources chaudes...${prompt}
@@ -21915,9 +21915,9 @@ entries:
   10276: |-
     Oh oui, ta récompense. Tiens, prends ceci.
     Que vais-je en faire ? Ce n'est pas ton affaire !${prompt}
-  10277: '''Tiens bon. Tu es cet aventurier, ${name-player}, dont tout le monde parle. Tu tombes bien, mon ami. J'ai besoin d'un coup de main.${prompt}'
-  10278: 'Cette pièce de stockage dont je viens de parler—j'ai besoin que quelqu'un aille la chercher et me ramène ${keyitem-article: 0[2]}. À moins que les Sahagin ne l'aient jetée à la mer, elle devrait encore être là-bas.${prompt}'
-  10279: Ne pense pas que je te demande d'y aller pour rien, n'est-ce pas ? Il y a une jolie somme à la clé, si ça t'intéresse.${prompt}
+  10277: '''Tiens bon. Tu es cet aventurier, ${name-player}, dont tout le monde parle. Tu tombes bien, mon ami. J’ai besoin d’un coup de main.${prompt}'
+  10278: 'Cette pièce de stockage dont je viens de parler—j’ai besoin que quelqu’un aille la chercher et me ramène ${keyitem-article: 0[2]}. À moins que les Sahagin ne l’aient jetée à la mer, elle devrait encore être là-bas.${prompt}'
+  10279: Ne pense pas que je te demande d’y aller pour rien, n’est-ce pas ? Il y a une jolie somme à la clé, si ça t’intéresse.${prompt}
   10280: |-
     Que dis-tu, mon ami ?
     ${selection-lines}
@@ -21927,7 +21927,7 @@ entries:
   10282: Alors, es-tu prêt à partir à la chasse au trésor ?${prompt}
   10283: Parlé comme un vrai pirate ! Descends simplement à la pièce de stockage et ramène le trésor. C'est aussi simple que de voler un bonbon à un bébé.${prompt}
   10284: Je t'attendrai ici.${prompt}
-  10285: 'Où est la pièce de stockage ? Tu te souviens être passé devant une porte cachée sur le chemin vers Norg ? Il y a une porte cachée à l'ouest de celle-là, mais si tu n'as pas ${keyitem-article: 0[2]}, tu pourrais avoir quelques difficultés.${prompt}'
+  10285: 'Où est la pièce de stockage ? Tu te souviens être passé devant une porte cachée sur le chemin vers Norg ? Il y a une porte cachée à l’ouest de celle-là, mais si tu n’as pas ${keyitem-article: 0[2]}, tu pourrais avoir quelques difficultés.${prompt}'
   10286: Reste le long des murs et tu devrais trouver un passage caché. Tu es arrivé jusqu'à Norg, donc le trouver ne devrait pas être un problème. Fais juste attention aux monstres qui rôdent là-bas.${prompt}
   10287: C'est ce que je cherchais ! Maintenant, lorsque tu ouvres ces choses, il faut faire attention aux pièges. Fais ceci... puis tourne ceci... puis fais bouger ceci... puis...${prompt}
   10288: Arrrg ! Son contenu est toujours intact après toutes ces années. Oh oui, ta récompense. Prends ceci. Cela te sera utile pour tes aventures terrestres.${prompt}
@@ -21992,7 +21992,7 @@ entries:
   10337: Pour des gens comme nous qui vivent sur la mer, vous aventuriers êtes vraiment pratiques. Vous êtes notre seule source d'informations du continent.${prompt}
   10338: Mais une fois que tu te retrouves en mer ouverte... là, c'est notre territoire. Si nous repérons ton navire, il n'y a pas d'échappatoire. Nous pouvons être amis aujourd'hui, mais qui sait pour demain ?${prompt}
   10339: Bonjour, ${choice-player-gender}[monsieur/madame]. Je m'appelle Rafid, mais c'est tout ce dont je me souviens de mon passé. Je suis arrivé ici il y a un an lorsque mon navire a été attaqué et que j'ai été sauvé par les pirates.${prompt}
-  10340: La jungle qui couvre cette île est tellement grande, qu'elle a été divisée en deux : la Jungle de Yhoator et la Jungle de Yuhtunga.${prompt}
+  10340: La jungle qui couvre cette île est tellement grande, qu’elle a été divisée en deux--la Jungle de Yhoator et la Jungle de Yuhtunga.${prompt}
   10341: |-
     Je ne te recommande pas de voyager sans une carte, car tu pourrais te perdre, ou... être mangé. Souviens-toi, c'est une jungle là-dehors.
     Har har ! Tu comprends ?${prompt}
@@ -22009,7 +22009,7 @@ entries:
   10350: Contrairement aux armures, la force d'une arme dépend uniquement de l'habileté de son propriétaire. Ce n'est pas parce qu'une lame est tranchante qu'on peut l'utiliser à son plein potentiel.${prompt}
   10351: Mais un aventurier comme toi aurait déjà su ça...${prompt}
   10352: Tu as déjà entendu parler de ces Tonberries qui agitent des lanternes et manient des couteaux ? Voyage jusqu'à l'ancien temple dans la Jungle de Yhoator et tu pourras en rencontrer de ces petites bêtes.${prompt}
-  10353: 'Au plus profond de la Grotte du Serpent de Mer, les Sahagin ont construit une porte spéciale qui ne peut être ouverte qu'avec ${article} ${item-article: 1[2]}.${prompt}'
+  10353: 'Au plus profond de la Grotte du Serpent de Mer, les Sahagin ont construit une porte spéciale qui ne peut être ouverte qu’avec ${article} ${item-article: 1[2]}.${prompt}'
   10354: 'Tu dis que tu veux ${article} ${item-article: 1[2]} ? Ha ! Pourquoi ne pas essayer de demander à un des petits démons ?${prompt}'
   10355: Bienvenue à Norg. N'hésite pas à faire un tour de notre quartier général.${prompt}
   10356: Attends un peu, ${choice-player-gender}[pote/dame]. Personne, pas même les aventuriers, n'est autorisé à passer par ici.${prompt}
@@ -22079,7 +22079,7 @@ entries:
     エルドナーシュ倒した${prompt}
   10374: ' 　　　　　　　＜＜　Ver1.0の続き　＞＞${prompt}'
   10375: Dégage de ma vue...${prompt}
-  10376: 'Quoi ? Ensetsu t'a demandé de m'apporter ce ${keyitem-singular: 7[2]} ?${prompt}'
+  10376: 'Quoi ? Ensetsu t’a demandé de m’apporter ce ${keyitem-singular: 7[2]} ?${prompt}'
   10377: Il n'a pas changé d'un pouce, n'est-ce pas ? Il a toujours été un petit ver faible. Si je voyais sa tête, je lui mettrais une raclée...${prompt}
   10378: Eh bien, au moins, il a enfin compris la valeur de cette lame. Yomi peut maintenant reposer en paix...${prompt}
   10379: Oh, et laisse-moi te dire. Je ne fais pas cela pour Ensetsu. Je ne me soucie que des filles de Yomi...${prompt}
@@ -22270,7 +22270,7 @@ entries:
   10450: |-
     Super !
     Tiens, prends ce ${keyitem-singular: 1[2]}. Mais sois averti -- seul celui qui en possède un peut entrer dans le cristal.${prompt}
-  10451: 'Ce ${keyitem-singular: 1[2]} réveillera le cristal géant que l'on trouve ${choice: 2}[dans l’Évier d'Ifrit/dans les Grottes de Quicksand/dans le Den de la Colère/à Cape Teriggan/à Fei'Yin/à l'Arbre Boyahda].${prompt}'
+  10451: 'Ce ${keyitem-singular: 1[2]} réveillera le cristal géant que l’on trouve ${choice: 2}[dans l’Évier d’Ifrit/dans les Grottes de Quicksand/dans le Den de la Colère/à Cape Teriggan/à Fei’Yin/à l’Arbre Boyahda].${prompt}'
   10452: |-
     Sans cela, tu ne pourras pas entrer peu importe combien tu es discret !
     Oh, et si tu veux emmener des amis, ils devront également obtenir ${keyitem-article: 1[2]} de ma part. D'accord ?${prompt}
@@ -22313,7 +22313,7 @@ entries:
     ${lettercase: 1}${article} ${item-article: 2[2]}.
     Gil.
     Rien (un pacte avec l'avatar).${prompt}
-  10468: '...C'est ce que tu désires...?${prompt}'
+  10468: '...C’est ce que tu désires...?${prompt}'
   10469: |-
     Tu veux ${article} ${item-article: 5[2]} ?
     ${selection-lines}
@@ -22412,7 +22412,7 @@ entries:
     Nous nous rencontrons... à nouveau...
     Je dois... remplir... ma mission.${prompt}
   10502: Tu dois... chercher le pouvoir...${prompt}
-  10503: '...Et moi... je réclamerai... ce qui m'est dû...${prompt}'
+  10503: '...Et moi... je réclamerai... ce qui m’est dû...${prompt}'
   10504: 'Quoi ? Tu veux un autre ${keyitem-singular: 1[2]} ?${prompt}'
   10505: Oh, d'accord... Mais fais attention avec celui-ci ! Ces choses ne poussent pas sur les arbres étoilés, tu sais.${prompt}
   10506: |-
@@ -22424,7 +22424,7 @@ entries:
     Tu es un aventurier, n'est-ce pas ?
     Peut-être que tu peux nous aider.${prompt}
   10508: Permets-moi de me présenter, ainsi que mon compagnon. Nous venons du Rhinostery de Windurst.${prompt}
-  10509: 'J'ai été engagé par le ministère pour accompagner ce chercheur à ${choice: 2}[l'Évier d'Ifrit/les Grottes de Quicksand/le Den de la Colère/Cape Teriggan/Fei'Yin/l'Arbre Boyahda] et l'aider dans ses recherches sur une série de cristaux géants.${prompt}'
+  10509: 'J’ai été engagé par le ministère pour accompagner ce chercheur à ${choice: 2}[l’Évier d’Ifrit/les Grottes de Quicksand/le Den de la Colère/Cape Teriggan/Fei’Yin/l’Arbre Boyahda] et l’aider dans ses recherches sur une série de cristaux géants.${prompt}'
   10510: Mais ce qui nous attendait à l'intérieur de ces cristaux était plus que ce que je pouvais gérer...${prompt}
   10511: |-
     Nous avons essayé maintes fois, mais je n'ai pas pu vaincre cette bête.
@@ -22465,13 +22465,13 @@ entries:
   10524: |-
     Eh bien, tu l'as demandé !
     Prends ce ${item-singular: 1[2]} et fais-le sonner près d'un de ces cristaux géants. L'avatar primordial ne sera pas content d'être réveillé, et tu devras affronter sa colère.${prompt}
-  10525: 'Je suppose qu'étant donné que tu nous aides à tester ce nouveau fork, je peux utiliser ma magie pour te téléporter près du cristal géant à ${choice: 2}[l'Écu d'Ifrit/les Cavernes de Quicksand/le Repaire de la Colère/le Cap Teriggan/Fei'Yin/l'Arbre de Boyahda]. Quand tu es prêt, montre simplement le ${item-singular: 1[2]} à mon compagnon.${prompt}'
-  10526: 'Le chercheur qui a créé le ${item-singular: 1[2]} a averti que “la porte du retour ne s'ouvrirait qu'à ceux qui avaient vaincu l'avatar primordial.”${prompt}'
+  10525: 'Je suppose qu’étant donné que tu nous aides à tester ce nouveau fourreau, je peux utiliser ma magie pour te téléporter près du cristal géant à ${choice: 2}[l’Écu d’Ifrit/les Cavernes de Quicksand/le Repaire de la Colère/le Cap Teriggan/Fei’Yin/l’Arbre de Boyahda]. Quand tu es prêt, montre simplement le ${item-singular: 1[2]} à mon compagnon.${prompt}'
+  10526: 'Le chercheur qui a créé le ${item-singular: 1[2]} a averti que “la porte du retour ne s’ouvrirait qu’à ceux qui avaient vaincu l’avatar primordial.”${prompt}'
   10527: |-
     Je ne suis pas tout à fait sûr de ce que cela signifie, mais je te conseille de bien te préparer avant de te lancer dans ce voyage.
     N'oublie pas, tu dois être au moins un summoner de niveau ${number: 3}.${prompt}
-  10528: 'Es-tu prêt à affronter l'avatar primordial en tant que summoner de niveau ${number: 3} avec Carbuncle ?${prompt}'
-  10529: De plus, peu importe si tu vaincs l'avatar ou non, tu ne pourras pas entrer de nouveau dans le protocrystal pendant plusieurs jours.${prompt}
+  10528: 'Es-tu prêt à affronter l’avatar primordial en tant que invocateur de niveau ${number: 3} avec Carbuncle ?${prompt}'
+  10529: De plus, peu importe si tu vaincs l’avatar ou non, tu ne pourras pas entrer de nouveau dans le protocrystal pendant plusieurs jours.${prompt}
   10530: |-
     Es-tu sûr d'être prêt ?
     ${selection-lines}
@@ -22487,7 +22487,7 @@ entries:
   10534: |-
     Ne me fais pas ce genre d'excuse, ${choice-player-gender}[jeune homme/jeune femme].
     Si tu veux un autre ${item-singular: 1[2]}, il te suffit de demander.${prompt}
-  10535: 'Si tu n'apportes pas le ${item-singular: 1[2]} que nous t'avons donné, mon compagnon ne pourra pas te téléporter à ${choice: 2}[l'Écu d'Ifrit/les Cavernes de Quicksand/le Repaire de la Colère/le Cap Teriggan/Fei'Yin/l'Arbre de Boyahda].${prompt}'
+  10535: 'Si tu n’apportes pas le ${item-singular: 1[2]} que nous t’avons donné, mon compagnon ne pourra pas te téléporter à ${choice: 2}[l’Écu d’Ifrit/les Cavernes de Quicksand/le Repaire de la Colère/le Cap Teriggan/Fei’Yin/l’Arbre de Boyahda].${prompt}'
   10536: 'As-tu bien pensé à apporter le ${item-singular: 1[2]} ?${prompt}'
   10537: |-
     Quoi !?
@@ -22502,8 +22502,8 @@ entries:
   10541: |-
     ...${wait-36: 1}
     (Si seulement je pouvais trouver un vrai travail pour faire de la vraie aventure...)${prompt}
-  10542: 'Je ne pense pas que vous en tirerez grand-chose, mais si vous voulez encore vous faire botter les fesses par l'avatar primordial, il vous suffit de faire sonner un autre ${item-singular: 1[2]} près d'un cristal géant.${prompt}'
-  10543: 'N'oubliez pas que vous devez affronter l'avatar primordial en tant que summoner de niveau ${number: 3}. Comme vous le savez déjà, ce ne sera pas une tâche facile. Préparez-vous bien pour le combat.${prompt}'
+  10542: 'Je ne pense pas que vous en tirerez grand-chose, mais si vous voulez encore vous faire botter les fesses par l’avatar primordial, il vous suffit de faire sonner un autre ${item-singular: 1[2]} près d’un cristal géant.${prompt}'
+  10543: 'N’oubliez pas que vous devez affronter l’avatar primordial en tant que invocateur de niveau ${number: 3}. Comme vous le savez déjà, ce ne sera pas une tâche facile. Préparez-vous bien pour le combat.${prompt}'
   10544: |-
     Voulez-vous un autre ${color: 5}mini-tuning fork${color: 1} ?
     ${selection-lines}
@@ -22536,14 +22536,14 @@ entries:
   10563: Je suis Heiji. J'enseigne aux jeunes élèves les voies du ninja.${prompt}
   10564: Les fondamentaux du ninjutsu ne résident pas dans les bras et les mains, mais dans le bas du corps.${prompt}
   10565: Mes élèves doivent apprendre à utiliser rapidement, précisément et efficacement leur bas du corps, même sous les contraintes d'équipements restrictifs.${prompt}
-  10566: 'Cependant, pour un entraînement tel que celui-ci, j'ai besoin de dix ${item-plural: 7[2]}. Si porter autant d'un coup est un fardeau pour vous, n'hésitez pas à me les apporter un par un.${prompt}'
-  10567: 'Vous m'avez apporté ${number: 0} ${item-given-plurality: 0[2], 7[2]} jusqu'à présent. Lorsque vous m'aurez apporté le dixième, je vous récompenserai généreusement.${prompt}'
-  10568: 'Oui, dix ${item-plural: 7[2]} enfin. Je peux maintenant poursuivre l'entraînement de mes élèves. Voici la récompense que je vous avais promise.${prompt}'
+  10566: 'Cependant, pour un entraînement tel que celui-ci, j’ai besoin de dix ${item-plural: 7[2]}. Si porter autant d’un coup est un fardeau pour vous, n’hésitez pas à me les apporter un par un.${prompt}'
+  10567: 'Vous m’avez apporté ${number: 0} ${item-given-plurality: 0[2], 7[2]} jusqu’à présent. Lorsque vous m’aurez apporté le dixième, je vous récompenserai généreusement.${prompt}'
+  10568: 'Oui, dix ${item-plural: 7[2]} enfin. Je peux maintenant poursuivre l’entraînement de mes élèves. Voici la récompense que je vous avais promise.${prompt}'
   10569: Je suis Heizo. Comme le Maître Heiji, j'enseigne aux jeunes élèves les voies du ninja.${prompt}
   10570: Les fondamentaux du ninjutsu ne résident pas dans les bras et les mains, mais dans le bas du corps.${prompt}
   10571: Mes élèves doivent apprendre à utiliser leurs jambes rapidement, précisément et efficacement, même sous les contraintes d'équipements restrictifs.${prompt}
-  10572: 'Cependant, pour un entraînement aussi exigeant, j'ai besoin de dix ${item-plural: 7[2]}. Je comprends que porter autant d'un coup peut être un fardeau pour vous, alors n'hésitez pas à me les apporter un par un.${prompt}'
-  10573: 'Vous m'avez apporté ${item-count: 0[2]} ${item-given-plurality: 0[2], 7[2]} jusqu'à présent. Lorsque vous m'aurez apporté dix, je vous récompenserai généreusement.${prompt}'
+  10572: 'Cependant, pour un entraînement aussi exigeant, j’ai besoin de dix ${item-plural: 7[2]}. Je comprends que porter autant d’un coup peut être un fardeau pour vous, alors n’hésitez pas à me les apporter un par un.${prompt}'
+  10573: 'Vous m’avez apporté ${item-count: 0[2]} ${item-given-plurality: 0[2], 7[2]} jusqu’à présent. Lorsque vous m’aurez apporté dix, je vous récompenserai généreusement.${prompt}'
   10574: 'Oui, dix ${item-plural: 7[2]} enfin. Mes élèves peuvent maintenant poursuivre leur entraînement. Voici la récompense que je vous avais promise.${prompt}'
   10575: |-
     Sélectionnez un nom pour votre wyverne.
@@ -22756,7 +22756,7 @@ entries:
   10600: |-
     Tu ne peux pas obtenir ${item-singular: 0[2]}.
     Reviens après avoir organisé ton inventaire.${prompt}
-  10601: 'Serait-il possible de la déposer à ${choice: 3}[l'entrée du Tunnel de Gustav (B-8)/la Baie Bibiki (G-10)/l'entrée du Temple d'Uggalepih (J-11)] ?${prompt}'
+  10601: 'Serait-il possible de la déposer à ${choice: 3}[l’entrée du Tunnel de Gustav (B-8)/la Baie Bibiki (G-10)/l’entrée du Temple d’Uggalepih (J-11)] ?${prompt}'
   10602: |-
     Seules les personnes remplissant les deux conditions fixées par l'alliance peuvent monter un chocobo.
     Tout d'abord, tu dois être un soldat d'un niveau respectable dans les Forces Alliées. Ensuite, tu dois posséder ${keyitem-article: 7[2]}.${prompt}
@@ -22767,7 +22767,7 @@ entries:
   10604: |-
     Hmmm... Il semble que tu n'aies pas assez de Notes Alliées.
     Désolé, mais ces oiseaux ne vont pas se nourrir et se toiletter tout seuls.${prompt}
-  10605: 'Je suis désolé, mais nous ne confions pas nos chocobos à des personnes possédant ${keyitem-article: 0[2]}. Nous ne voudrions pas que nos amis à plumes meurent de peur, n'est-ce pas ?${prompt}'
+  10605: 'Je suis désolé, mais nous ne confions pas nos chocobos à des personnes possédant ${keyitem-article: 0[2]}. Nous ne voudrions pas que nos amis à plumes meurent de peur, n’est-ce pas ?${prompt}'
   10606: Nos chocobos n'aiment pas voyager dans la Grotte des Serpents de Mer, alors nous avons creusé un tunnel de sortie spécial menant d'ici à la Jungle de Yuhtunga.${prompt}
   10607: Cependant, fais attention, car tu ne pourras pas utiliser ce tunnel si tu souhaites revenir à Norg.${prompt}
   10608: Dépêche-toi de partir... Hé attends, tu es le ${choice-player-gender}[mec/la nana] qui a aidé Ensetsu il y a quelque temps. Dis-moi, comment vont Ayaya et la petite Kaede ces jours-ci ? ${prompt}
@@ -22784,15 +22784,15 @@ entries:
   10615: |-
     Mais ne t'inquiète pas pour ça.
     Merci encore. Voici un petit quelque chose pour ton trouble. Oh, et reste en contact. Il se pourrait que j'aie d'autres travaux pour toi bientôt.${prompt}
-  10616: 'Tu te souviens de ce ${keyitem-singular: 7[2]} que tu nous as apporté ? Eh bien, il s'est avéré que c'était une contrefaçon, fabriquée assez récemment.${prompt}'
+  10616: 'Tu te souviens de ce ${keyitem-singular: 7[2]} que tu nous as apporté ? Eh bien, il s’est avéré que c’était une contrefaçon, fabriquée assez récemment.${prompt}'
   10617: Mais cela ressemble encore beaucoup au travail du plus grand inventeur pirate qui ait jamais vécu--Mitsunari le Griffed'Poison.${prompt}
   10618: Mais il a quitté Norg il y a plus de vingt ans et est supposé mort et disparu. Il y a eu des histoires d'un de ses élèves, mais...${prompt}
   10619: Argh ! Mais que sais-je !? La seule personne qui a quelque chose qui ressemble à une piste est ce fourbe, Ensetsu. Va chez lui à Bastok et fais-lui dire tout ce qu'il sait.${prompt}
   10620: Tu es justement la personne que je cherchais. Nous avons des nouvelles informations concernant le trésor de Mitsunari.${prompt}
-  10621: 'Il semble qu'un groupe de ces dégoûtants Sahagins ait volé le ${keyitem-singular: 7[2]} de Poisonclaw lorsque nos hommes le transportaient.${prompt}'
+  10621: 'Il semble qu’un groupe de ces dégoûtants Sahagins ait volé le ${keyitem-singular: 7[2]} de Poisonclaw lorsque nos hommes le transportaient.${prompt}'
   10622: Depuis quelques jours, nous fouillons la Grotte des Serpents de Mer, mais il commence à sembler que les bêtes ne cachent pas le trésor près de Norg.${prompt}
   10623: Mais les fiends au visage de poisson ne sont que des hommes-bêtes, donc on ne penserait pas qu'ils pourraient le prendre hors de l'île d'Elshimo. Il doit être quelque part près.${prompt}
-  10624: 'Je commencerais par la jungle si j'étais toi. J'ai un pressentiment que le ${keyitem-singular: 7[2]} se trouve quelque part là-dedans.${prompt}'
+  10624: 'Je commencerais par la jungle si j’étais toi. J’ai un pressentiment que le ${keyitem-singular: 7[2]} se trouve quelque part là-dedans.${prompt}'
   10625: 'Eh bien, je n'en crois pas mes yeux... Tu as trouvé le ${keyitem-singular: 7[2]} !${prompt}'
   10626: |-
     Maintenant, il ne nous reste plus qu'à l'ouvrir !
