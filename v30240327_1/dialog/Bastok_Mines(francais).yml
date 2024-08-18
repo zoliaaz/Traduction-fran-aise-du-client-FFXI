@@ -16833,9 +16833,41 @@ entries:
   6818: Si vous tapez “/ae Bonjour !”, alors votre message sera entendu par de nombreuses personnes.${prompt}
   6819: Si vous tapez “/ae” suivi de votre problème ou question, d'autres aventuriers vous aideront !${prompt}
   6820: N'oubliez pas que vous ne pouvez faire cela que lorsque vous êtes en ville, kupo !${prompt}
-  6821: |-
+  6821: |-                                                                                                                                                                        
     D'accord, kupo !
-    Bonne chance dans vos aventures,
+    Bonne chance dans vos aventures, kupo!${prompt}
+  6822: Voulez-vous que je vous apprenne à nouveau à propos de votre Maison Mog, kupo ?${prompt}
+  6823: |-
+    Demander à nouveau des informations sur votre Maison Mog ?
+    ${selection-lines}
+    Ne pas demander.
+    Demander.${prompt}
+  6824: |-
+    Par-delà les montagnes et les collines ondulantes,
+    J'irai où que mon maître veuille. ♪${prompt}
+  6825: |-
+    Maître !
+    J'ai voyagé jusqu'ici à votre demande, kupo ! Même un Loue-Moi a besoin d'un mog, kupo !${prompt}
+  6826: Mais il y a quelques choses que vous ne pouvez pas faire dans un Loue-Moi, kupo. Sélectionnez « Maison Mog » dans le menu principal et vérifiez, kupo !${prompt}
+  6827: Lorsque vous rentrez chez vous, parlez au garde devant la zone résidentielle pour me rappeler à la Maison Mog, kupo !${prompt} 
+  6828: |-
+    Maître !
+    J'ai quelque chose à vous dire, kupo !${prompt}
+  6829: 'J'ai trouvé cet objet précieux sous le ${item-singular: 3[2]} coussin, kupo !${prompt}'
+  6830: C'est tout à vous, kupo !${prompt}
+  6831: 'J'ai utilisé le ${item-singular: 3[2]} pour écrire une chanson pour vous, kupo !${prompt}'
+  6832: Tenez, kupo ! Pensez au mog solitaire qui vous attend à la maison lorsque vous écouterez cette chanson, kupo !${prompt}
+  6833: 'J'ai trouvé cet objet au fond de l'un des tiroirs du ${item-singular: 3[2]}, kupo !${prompt}'
+  6834: C'est tout à vous, kupo !${prompt}
+  6835: 'J'ai trouvé cela au fond du ${item-singular: 3[2]}, kupo !${prompt}'
+  6836: |-
+    Cela doit être un cadeau des cieux, kupo !
+    Tenez, prenez-le, kupo !${prompt}
+  6837: 'J'ai trouvé cet objet à l'intérieur du ${item-singular: 3[2]}, kupo !${prompt}'
+  6838: |-
+    La chance est de votre côté, kupo !
+    Prenez-le, kupo !${prompt}
+  6839: 'J'ai pêché cet objet du ${item-singular: 3[2]}, kupo !${prompt}'                                                                       
   6840: |-
     C'était un travail très difficile, kupo...
     Je suis très fatigué, kupo...${prompt}
@@ -16968,7 +17000,7 @@ entries:
     Se téléporter vers des lieux clés.
     Se téléporter au point de départ.
     Recevoir des objets.
-    Obtenir 100 000 000 gil.
+    Obtenir 100,000,000 gil.
     Ne rien faire.${prompt}
   6903: |-
     Salutations, aventurier !
@@ -17153,7 +17185,8 @@ entries:
     Piste : ${choice: 13}[???/Les Pionniers/Les Griffons Ne Mourront Jamais/Dash de Chocobo/#61].
     Piste : ${choice: 14}[???/Kazham/Orage de la Marche/Circuit de Chocobo/#62].
     Piste : ${choice: 15}[???/Le Sanctuaire de Zi'Tah/Observation des Étoiles/Cours Chocobo !/#63].
-    Page précédente.
+    Piste : ${choice: 16}[???/Tu'Lia/Automne/Rêve de Chocobo/#64].
+    Page précédente.              
     Page suivante.${prompt}
   6940: |-
     Changer de musique ?
@@ -17421,81 +17454,81 @@ entries:
   7025: Laissez-moi marquer leur position sur votre carte.${prompt}
   7026: EnFIn, un peu d'InFOrmAtiOn pOUr vOus AIdEr dAnS vOtre vOYAGe.${prompt}
   7027: Une chose de plus.${prompt}
-  7028: I have saved a rather paramount detail for last. Allow me to explain.${prompt}
-  7029: There's still one other thing remaining to share with you.${prompt}
-  7030: YoU CAn wArP BetWEen PlACes KnOwn aS “HoME pOinTs.” TheY ARe moST CoNveNieNT, sO maKe SuRE to ReGIsTer ThEM bY TouCHing ThE SurFaCE.${prompt}
-  7031: “Home points” will probably turn out to be among your best companions. Make sure to examine one if you find it, so you can warp between them and cover large distances fast.${prompt}
-  7032: You may teleport between these crystalline nodes called “home points” for efficient travel. Be sure to examine any you stumble upon.${prompt}
-  7033: There's some special crystal nodes known as “home points” that'll undoubtedly serve you well. Don't forget to interact with all that you find, as they can help you get to far away places.${prompt}
-  7034: If yOU fINd yOurSeLF iN A fARaWay pLaCe, maKe sURe tO FinD a StoRE to BuY a Map fROm! wIth a MaP, yoU CaN ChEck WheRe yOu ArE!${prompt}
-  7035: Should you find yourself lost in the middle of nowhere, try to make it back to town to buy a map. That way, you can get your bearings.${prompt}
-  7036: Remember to purchase a map from the appropriate vendor before going to a faraway land. If you do, you can check your location within that place.${prompt}
-  7037: Did you know that some vendors will sell you maps of specific areas? It sure beats stumbling around like a dullard!${prompt}
-  7038: DoN'T WaSTe pRecIOus iTemS By sEllINg tHeM tO a StoRe. MaKE eVen MoRe MonEy By PuTTing tHeM uP At tHe AucTIon HouSe!${prompt}
-  7039: I hate to say it, but the merchants around here are pretty stingy. You'd have more luck listing any unwanted goods at the auction house.${prompt}
-  7040: I advise you to put any unwanted goods up for sale at the auction house rather than be taken advantage of by the vendors here.${prompt}
-  7041: If there's something you've got that you don't need, try putting it up at the auction house rather than selling it to some unscrupulous vendor.${prompt}
-  7042: MaNY uNdEaD MOnsTeRS cAn SenSe WhEn yOU Are LoW oN HP, aNd wIll TAke tHaT opPOrtUnItY tO ComE AfTEr yOu!${prompt}
-  7043: Undead enemies tend to come out of the woodwork when your HP is low. Be careful.${prompt}
-  7044: The undead often assault adventurers with low HP, which is all the more reason to never let your guard down in the wilderness.${prompt}
-  7045: Undead are always out for blood and brains, so watch out if you're low on health! They'll make a beeline right for you.${prompt}
-  7046: LeT'S tALk aBouT AttRIButeS. InCReaSing yoUr StrenGTh (STR) wiLL iNcrEase YouR pHYsiCal, bUt NOt MaGiCal, AttACk.${prompt}
-  7047: Increasing your strength (STR) raises your attack power, but--sadly--not your magic attack.${prompt}
-  7048: Increasing your strength (STR) enhances your attack power, but--regrettably--does nothing for your magic attack.${prompt}
-  7049: Increasing your strength (STR) enhances your attack power, but unfortunately does nothing for the efficacy of your magic.${prompt}
-  7050: LeT'S tALk aBouT AttRIButeS. InCReaSinG yoUr DeXteRIty (DEX) wiLl IncReaSe yOuR AccURacY aNd cRiTIcaL HIt rAtE.${prompt}
-  7051: Increasing your dexterity (DEX) increases things like your accuracy and critical hit rate.${prompt}
-  7052: Increasing your dexterity (DEX) improves such faculties as accuracy and critical hit rate.${prompt}
-  7053: Increasing your dexterity (DEX) enhances attributes such as accuracy and critical hit rate.${prompt}
-  7054: LeT'S tALk aBouT AttRIButeS. InCreAsinG YoUR VitALiTy (VIT) WiLL iNcReaSE yOuR PhYsiCAl DefENsE anD HP reStoREd bY CuRe aNd oTheR HP-HeaLInG aBilItieS.${prompt}
-  7055: Increasing your vitality (VIT) increases things like your physical defense and the potency of restorative abilities such as Cure.${prompt}
-  7056: Increasing your vitality (VIT) improves such faculties as physical defense and the potency of restorative abilities like Cure.${prompt}
-  7057: Increasing your vitality (VIT) enhances attributes such as physical defense and restorative abilities such as cure.${prompt}
-  7058: LeT'S tALk aBouT AttRIButeS. AgIlITy (AGI) hAs a VarIetY Of EffECtS, sUch aS IncReaSing pHYsIcaL EvaSioN And aCCurAcy oF RangEd aTTacKs, as WelL aS DecReasINg eNEmiES' CRitIcAL HiT EvaSioN.${prompt}
-  7059: Increasing your agility (AGI) increases things like your physical evasion and ranged accuracy. It also decreases enemies' critical hit evasion.${prompt}
-  7060: Increasing your agility (AGI) improves such faculties as physical evasion and ranged accuracy. It also reduces enemies' critical hit evasion.${prompt}
-  7061: Increasing your agility (AGI) enhances attributes such as physical evasion and ranged accuracy. It also decreases enemies' critical hit evasion.${prompt}
-  7062: LeT'S tALk aBouT AttRIButeS. InTElLiGEncE (INT) iNcReaSEs tHe MagIC aCCuraCy and DaMAge Of ElEmenTAL MaGiC sPeLLs.${prompt}
-  7063: Increasing your intelligence (INT) increases things like the accuracy and damage of your elemental magic spells.${prompt}
-  7064: Increasing your intelligence (INT) improves such faculties as the accuracy and damage of your elemental magic spells.${prompt}
-  7065: Increasing your intelligence (INT) enhances attributes such as the accuracy and damage of your elemental magic spells.${prompt}
-  7066: LeT'S tALk aBouT AttRIButeS. MiND (MND) iNCreAsEs thE aMouNT oF HP ReStoREd bY HeaLinG MaGiC and tHE ACcuraCy oF WhItE MAgiC SpELls.${prompt}
-  7067: Mind (MND) increases things like the potency of healing spells and the accuracy of white magic spells.${prompt}
-  7068: Mind (MND) improves such faculties as the potency of healing spells and the accuracy of white magic spells.${prompt}
-  7069: Increasing your mind (MND) enhances attributes such as the potency of healing spells and the accuracy of white magic spells.${prompt}
-  7070: LeT'S tALk aBouT AttRIButeS. cHaRIsmA (CHR) inCreASes tHe eFFecTivENesS oF a bEaSTmaSTeR's “cHaRm” aNd thE AccURaCy Of A BarD's sONgs.${prompt}
-  7071: Charisma (CHR) increases things like the effectiveness of the beastmaster ability “charm” and the accuracy of bards' songs.${prompt}
-  7072: Charisma (CHR) improves such faculties as the effectiveness of the beastmaster ability “charm” and the accuracy of bards' songs.${prompt}
-  7073: Increasing your charisma (CHR) enhances attributes such as the effectiveness of the beastmaster ability “charm” and the accuracy of bards' songs.${prompt}
-  7074: Then here you go.${prompt}
-  7075: I'm not the only one who knows her way around a map. You can always talk to Gwinar, too, if that's more convenient.${prompt}
-  7076: If you want to know where Arva is, open the “Map” menu, choose “Markers,” and press the right arrow key. She should be somewhere in that list.${prompt}
-  7077: Selecting “Map” from the main menu opens the map of the area in which you currently reside. Select “Markers” and press the right arrow key to see all the markers placed on your map.${prompt}
-  7078: You should be able to find out where Reet is by checking your markers. Open “Map” from the main menu, select “Markers,” press the right arrow key, and all should be well.${prompt}
-  7079: How? After opening “Map” from the main menu, select “Markers,” and press the right arrow key.${prompt}
+  7028: J'ai réservé un détail plutôt primordial pour la fin. Permettez-moi de vous l'expliquer.${prompt}
+  7029: Il y a encore une autre chose à partager avec vous.${prompt}
+  7030: VOUS POUVEZ VOYAGER ENTRE DES ENDROITS CONNUS SOUS LE NOM DE « POINTS D'ACCUEIL ». ILS SONT TRÈS PRATIQUES, ALORS ASSUREZ-VOUS DE LES ENREGISTRER EN TOUCHANT LA SURFACE.${prompt}
+  7031: Les « points d'accueil » seront probablement parmi vos meilleurs compagnons. Assurez-vous d'en examiner un si vous en trouvez, afin de pouvoir voyager entre eux et couvrir de grandes distances rapidement.${prompt}
+  7032: Vous pouvez vous téléporter entre ces nœuds cristallins appelés « points d'accueil » pour des voyages efficaces. Assurez-vous d'examiner tous ceux que vous rencontrez.${prompt}
+  7033: Il y a des nœuds cristallins spéciaux connus sous le nom de « points d'accueil » qui vous seront indéniablement utiles. N'oubliez pas d'interagir avec tous ceux que vous trouvez, car ils peuvent vous aider à atteindre des lieux éloignés.${prompt}
+  7034: Si vous vous trouvez dans un endroit éloigné, assurez-vous de trouver un magasin pour acheter une carte ! Avec une carte, vous pourrez vérifier où vous êtes !${prompt}
+  7035: Si vous vous perdez en pleine campagne, essayez de retourner en ville pour acheter une carte. Ainsi, vous pourrez vous orienter.${prompt}
+  7036: N'oubliez pas d'acheter une carte auprès du vendeur approprié avant de vous rendre dans un endroit éloigné. Si vous le faites, vous pourrez vérifier votre emplacement dans cet endroit.${prompt}
+  7037: Saviez-vous que certains vendeurs vous vendent des cartes de zones spécifiques ? C'est bien mieux que de tourner en rond comme un idiot !${prompt}
+  7038: NE GASPILLEZ PAS DES OBJETS PRÉCIEUX EN LES VENDANT À UN MAGASIN. GAGNEZ ENCORE PLUS D'ARGENT EN LES METTANT EN VENTE À LA MAISON DE ENCHÈRES !${prompt}
+  7039: Je déteste le dire, mais les marchands ici sont plutôt avares. Vous auriez plus de chance de mettre en vente vos objets indésirables à la maison des enchères.${prompt}
+  7040: Je vous conseille de mettre en vente vos objets indésirables à la maison des enchères plutôt que de vous faire avoir par les vendeurs ici.${prompt}
+  7041: Si vous avez quelque chose dont vous n'avez pas besoin, essayez de le mettre en vente à la maison des enchères plutôt que de le vendre à un vendeur peu scrupuleux.${prompt}
+  7042: BEAUCOUP DE MONSTRES MORT-VIVANTS PEUVENT SENTIR QUAND VOUS ÊTES FAIBLE EN HP, ET PROFITERONT DE CETTE OPPORTUNITÉ POUR VOUS ATTAQUER !${prompt}
+  7043: Les ennemis morts-vivants ont tendance à surgir lorsque votre HP est bas. Soyez prudent.${prompt}
+  7044: Les morts-vivants attaquent souvent les aventuriers ayant peu de HP, ce qui est d'autant plus une raison de ne jamais baisser votre garde en pleine nature.${prompt}
+  7045: Les morts-vivants sont toujours à la recherche de sang et de cervelle, alors faites attention si vous avez peu de points de vie ! Ils se dirigeront directement vers vous.${prompt}
+  7046: PARLONS DES ATTRIBUTS. AUGMENTER VOTRE FORCE (FOR) AUGMENTERA VOTRE ATTAQUE PHYSIQUE, MAIS PAS MAGIQUE.${prompt}
+  7047: Augmenter votre force (FOR) augmentera votre puissance d'attaque, mais--malheureusement--pas votre attaque magique.${prompt}
+  7048: Augmenter votre force (FOR) améliore votre puissance d'attaque, mais--hélas--ne fait rien pour votre attaque magique.${prompt}
+  7049: Augmenter votre force (FOR) améliore votre puissance d'attaque, mais malheureusement ne contribue pas à l'efficacité de votre magie.${prompt}
+  7050: PARLONS DES ATTRIBUTS. AUGMENTER VOTRE DEXTÉRITÉ (DEX) AUGMENTERA VOTRE PRÉCISION ET VOTRE TAUX DE CRITIQUE.${prompt}
+  7051: Augmenter votre dextérité (DEX) améliore votre précision et votre taux de critique.${prompt}
+  7052: Augmenter votre dextérité (DEX) améliore des aspects tels que la précision et le taux de critique.${prompt}
+  7053: Augmenter votre dextérité (DEX) améliore des attributs comme la précision et le taux de critique.${prompt}
+  7054: PARLONS DES ATTRIBUTS. AUGMENTER VOTRE VITALITÉ (VIT) AUGMENTERA VOTRE DÉFENSE PHYSIQUE ET LA POTENCE DES CAPACITÉS DE SOIN TELS QUE GUÉRISON.${prompt}
+  7055: Augmenter votre vitalité (VIT) améliore des aspects tels que votre défense physique et la puissance des capacités de restauration telles que Guérison.${prompt}
+  7056: Augmenter votre vitalité (VIT) améliore des aspects tels que la défense physique et la puissance des capacités de restauration comme Guérison.${prompt}
+  7057: Augmenter votre vitalité (VIT) améliore des attributs tels que la défense physique et les capacités de restauration comme Guérison.${prompt}
+  7058: PARLONS DES ATTRIBUTS. L'AGILITÉ (AGI) A UNE VARIÉTÉ D'EFFETS, TELS QUE L'AUGMENTATION DE L'ÉVASION PHYSIQUE ET DE LA PRÉCISION DES ATTAQUES À DISTANCE, AINSI QUE LA RÉDUCTION DE L'ÉVASION AUX COUPS CRITIQUES DES ENNEMIS.${prompt}
+  7059: Augmenter votre agilité (AGI) améliore des aspects tels que l'évasion physique et la précision des attaques à distance. Cela réduit également l'évasion aux coups critiques des ennemis.${prompt}
+  7060: Augmenter votre agilité (AGI) améliore des aspects comme l'évasion physique et la précision des attaques à distance. Cela réduit également l'évasion aux coups critiques des ennemis.${prompt}
+  7061: Augmenter votre agilité (AGI) améliore des attributs tels que l'évasion physique et la précision des attaques à distance. Cela diminue aussi l'évasion aux coups critiques des ennemis.${prompt}
+  7062: PARLONS DES ATTRIBUTS. L'INTELLIGENCE (INT) AUGMENTE LA PRÉCISION MAGIQUE ET LES DÉGÂTS DES SORTS MAGIQUES ELEMENTAIRES.${prompt}
+  7063: Augmenter votre intelligence (INT) améliore des aspects tels que la précision et les dégâts de vos sorts de magie élémentaire.${prompt}
+  7064: Augmenter votre intelligence (INT) améliore des aspects comme la précision et les dégâts des sorts de magie élémentaire.${prompt}
+  7065: Augmenter votre intelligence (INT) améliore des attributs tels que la précision et les dégâts des sorts de magie élémentaire.${prompt}
+  7066: PARLONS DES ATTRIBUTS. L'ESPRIT (ESPR) AUGMENTE LA QUANTITÉ DE HP RESTAURÉE PAR LA MAGIE DE SOIN ET LA PRÉCISION DES SORTS DE MAGIE BLANCHE.${prompt}
+  7067: L'esprit (ESPR) améliore des aspects tels que la puissance des sorts de soin et la précision des sorts de magie blanche.${prompt}
+  7068: L'esprit (ESPR) améliore des aspects comme la puissance des sorts de soin et la précision des sorts de magie blanche.${prompt}
+  7069: Augmenter votre esprit (ESPR) améliore des attributs tels que la puissance des sorts de soin et la précision des sorts de magie blanche.${prompt}
+  7070: PARLONS DES ATTRIBUTS. LA CHARISME (CHA) AUGMENTE L'EFFICACITÉ DE LA CAPACITÉ DE « CHARME » DU MAÎTRE DES BÊTES ET LA PRÉCISION DES CHANSONS DU BARD.${prompt}
+  7071: La charisme (CHA) améliore des aspects tels que l'efficacité de la capacité de « charme » du maître des bêtes et la précision des chansons des bards.${prompt}
+  7072: La charisme (CHA) améliore des aspects comme l'efficacité de la capacité de « charme » du maître des bêtes et la précision des chansons des bards.${prompt}
+  7073: Augmenter votre charisme (CHA) améliore des attributs tels que l'efficacité de la capacité de « charme » du maître des bêtes et la précision des chansons des bards.${prompt}
+  7074: Alors voilà.${prompt}
+  7075: Je ne suis pas le seul à connaître les cartes. Vous pouvez toujours parler à Gwinar également, si cela vous convient mieux.${prompt}
+  7076: Si vous voulez savoir où se trouve Arva, ouvrez le menu « Carte », choisissez « Marqueurs » et appuyez sur la touche fléchée droite. Elle devrait être quelque part dans cette liste.${prompt}
+  7077: Sélectionner « Carte » dans le menu principal ouvre la carte de la zone où vous vous trouvez actuellement. Sélectionnez « Marqueurs » et appuyez sur la touche fléchée droite pour voir tous les marqueurs placés sur votre carte.${prompt}
+  7078: Vous devriez pouvoir découvrir où se trouve Reet en vérifiant vos marqueurs. Ouvrez « Carte » depuis le menu principal, sélectionnez « Marqueurs », appuyez sur la touche fléchée droite, et tout devrait être clair.${prompt}
+  7079: Comment ? Après avoir ouvert « Carte » depuis le menu principal, sélectionnez « Marqueurs » et appuyez sur la touche fléchée droite.${prompt}
   7080: |-
-    Join the ${choice: 6}[Fishermen's/Carpenters'/Blacksmiths'/Goldsmiths'/Weavers'/Tanners'/Boneworkers'/Alchemists'/Culinarians'] Guild?
+    Rejoindre la ${choice: 6}[Gu guild des Pêcheurs/Charpentiers/Ferronniers/Orfèvres/Tisserands/Maréchaux-Botteurs/Travailleurs des os/Alchimistes/Cuisiniers] ?
     ${selection-lines}
-    Sign up.
-    That's not why you're here.${prompt}
+    S'inscrire.
+    Ce n'est pas pour ça que vous êtes ici.${prompt}
   7081: |-
-    Request...?
+    Demande... ?
     ${selection-lines}
-    ${choice: 2}[Advanced synthesis/Synthesis/Synthesis] image support.
-    Information on synthesis materials.
-    Nothing.${prompt}
+    ${choice: 2}[Support d'image pour la synthèse avancée/Synthèse/Synthèse] .
+    Informations sur les matériaux de synthèse.
+    Rien.${prompt}
   7082: |-
-    Image support: ${number: 0} gil.
+    Support d'image : ${number: 0} gil.
     ${selection-lines}
-    Accept.
-    Decline.${prompt}
-  7083: 'You are now recognized as ${choice: 4}[an amateur/a recruit/an initiate/a novice/an apprentice/a journeyman/a craftsman/an artisan/an adept/a veteran/an expert/an authority/a luminary/a master/a grandmaster/a legend] of the ${choice: 6}[Fishermen''s/Carpenters''/Blacksmiths''/Goldsmiths''/Weavers''/Tanners''/Boneworkers''/Alchemists''/Culinarians''] Guild.'
-  7084: 'Your ${choice: 1}[fishing/woodworking/smithing/goldsmithing/clothcraft/leatherworking/bonecraft/alchemy/cooking] skills went up ${choice: 2}[a little/ever so slightly/ever so slightly].${prompt}'
+    Accepter.
+    Refuser.${prompt}
+  7083: 'Vous êtes maintenant reconnu comme ${choice: 4}[un amateur/un recrue/un initié/un novice/un apprenti/un compagnon/un artisan/un maître/un expert/un autorité/un luminaire/un maître/un grand maître/une légende] de la ${choice: 6}[Gu guild des Pêcheurs/Charpentiers/Ferronniers/Orfèvres/Tisserands/Maréchaux-Botteurs/Travailleurs des os/Alchimistes/Cuisiniers] .'
+  7084: 'Vos compétences en ${choice: 1}[pêche/ébénisterie/ferronnerie/orfèvrerie/tissage/travail du cuir/travail des os/alchimie/cuisine] ont augmenté ${choice: 2}[un peu/tout juste/à peine].${prompt}'
   7085: Test.${prompt}
   7086: |-
-    Necessary skills: ${choice: 6}[Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking]${choice: 1}[ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking]${choice: 2}[ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking]${choice: 3}[ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking]
-    Necessary crystal: ${lettercase: 1}${item-singular: 4[2]}
-    Necessary items: ${prompt}
+    Compétences nécessaires : ${choice: 6}[Pêche/Ébénisterie/Ferronnerie/Orfèvrerie/Tissage/Travail du cuir/Travail des os/Alchimie/Cuisine]${choice: 1}[ /, Ébénisterie/, Ferronnerie/, Orfèvrerie/, Tissage/, Travail du cuir/, Travail des os/, Alchimie/, Cuisine]${choice: 2}[ /, Ébénisterie/, Ferronnerie/, Orfèvrerie/, Tissage/, Travail du cuir/, Travail des os/, Alchimie/, Cuisine]${choice: 3}[ /, & Ébénisterie/, & Ferronnerie/, & Orfèvrerie/, & Tissage/, & Travail du cuir/, & Travail des os/, & Alchimie/, & Cuisine]
+    Cristal nécessaire : ${lettercase: 1}${item-singular: 4[2]}
+    Objets nécessaires : ${prompt}
   7087: |-
     ${number: 4} x ${item-given-plurality: 4[2], 0[2]}
     ${number: 5} x ${item-given-plurality: 5[2], 1[2]}
@@ -17510,54 +17543,52 @@ entries:
     ${number: 5} x ${item-given-plurality: 5[2], 1[2]}${prompt}
   7090: '${number: 4} x ${item-given-plurality: 4[2], 0[2]}${prompt}'
   7091: |-
-    Hello, ${choice-player-gender}[sir/ma'am].
-    I have been appointed by the Guildworkers' Union to manage the trading of manufactured crafts and the exchange of guild points.${prompt}
-  7092: However, to assure product quality, I cannot carry out any business with those who rank lower than novice.${prompt}
-  7093: 'I see that you currently have a trading contract with the ${choice: 1}[Fishermen''s/Carpenters''/Blacksmiths''/Goldsmiths''/Weavers''/Tanners''/Boneworkers''/Alchemists''/Culinarians''] Guild. I''m sorry, but I cannot do any business with you.${prompt}'
-  7094: 'You do have the option to terminate your contract with the ${choice: 1}[Fishermen''s/Carpenters''/Blacksmiths''/Goldsmiths''/Weavers''/Tanners''/Boneworkers''/Alchemists''/Culinarians''] Guild and form one with us.${prompt}'
-  7095: '${color-alt: 121}After signing a new contract, you will have to wait until the next delivery phase to trade Guildworkers'' Union requested items.'
+    Bonjour, ${choice-player-gender}[monsieur/madame].
+    J'ai été désigné par l'Union des Travailleurs des Guildes pour gérer le commerce des objets fabriqués et l'échange de points de guilde.${prompt}
+  7092: Cependant, pour garantir la qualité des produits, je ne peux pas faire affaire avec ceux qui sont classés en dessous du niveau novice.${prompt}
+  7093: 'Je vois que vous avez actuellement un contrat de trading avec la ${choice: 1}[Gu guild des Pêcheurs/Charpentiers/Ferronniers/Orfèvres/Tisserands/Maréchaux-Botteurs/Travailleurs des os/Alchimistes/Cuisiniers]. Je suis désolé, mais je ne peux pas faire affaire avec vous.${prompt}'
+  7094: 'Vous avez la possibilité de mettre fin à votre contrat avec la ${choice: 1}[Gu guild des Pêcheurs/Charpentiers/Ferronniers/Orfèvres/Tisserands/Maréchaux-Botteurs/Travailleurs des os/Alchimistes/Cuisiniers] et d'en établir un avec nous.${prompt}'
+  7095: '${color-alt: 121}Après avoir signé un nouveau contrat, vous devrez attendre la prochaine phase de livraison pour échanger les objets demandés par l'Union des Travailleurs des Guildes.'
   7096: |-
-    Create a new contract with us?
+    Créer un nouveau contrat avec nous ?
     ${selection-lines}
-    Immediately.
-    Not today.${prompt}
+    Immédiatement.
+    Pas aujourd'hui.${prompt}
   7097: |-
-    Are you certain?
+    Êtes-vous sûr ?
     ${selection-lines}
-    I said, “Immediately.”
-    On second thought...${prompt}
-  7098: 'You have terminated your trading contract with the ${choice: 1}[Fishermen''s/Carpenters''/Blacksmiths''/Goldsmiths''/Weavers''/Tanners''/Boneworkers''/Alchemists''/Culinarians''] Guild and formed a new one with the ${choice: 0}[Fishermen''s/Carpenters''/Blacksmiths''/Goldsmiths''/Weavers''/Tanners''/Boneworkers''/Alchemists''/Culinarians''] Guild.${prompt}'
-  7099: Our system works like this. We will ask you to provide us with a certain item depending on your craft skill rank. There is a set time limit (one day, Earth time) in which you may bring as many of the item as you can synthesize.${prompt}
-  7100: 'If you happen to create a ${color: 5}high quality${color: 1} version of the requested item, we will be more than delighted to accept that as well.${prompt}'
-  7101: Trading us these items will earn you “guild points” which can be later exchanged for other specialty goods--some of which are found exclusively at this guild.${prompt}
-  7102: The amount of guild points you will receive varies with the item requested, and there is a limit to how many points you can accumulate during the designated time frame. Trading items after you have reached the limit will result in no points gained.${prompt}
-  7103: When the time limit has expired, the item requested by the guild will change. It will also change in the event your craft skill rises.${prompt}
-  7104: I see that you have not formed a trading contract with any of the other guilds.${prompt}
-  7105: If you wish, you may form a new contract with us. However, if you wish to trade items with another guild, you must first terminate your existing contract and forfeit all the guild points you have accumulated.${prompt}
-  7106: 'You have formed a new trading contract with the ${choice: 0}[Fishermen''s/Carpenters''/Blacksmiths''/Goldsmiths''/Weavers''/Tanners''/Boneworkers''/Alchemists''/Culinarians''] Guild.${prompt}'
+    J'ai dit « Immédiatement. »
+    En y réfléchissant...${prompt}
+  7098: 'Vous avez résilié votre contrat de trading avec la ${choice: 1}[Gu guild des Pêcheurs/Charpentiers/Ferronniers/Orfèvres/Tisserands/Maréchaux-Botteurs/Travailleurs des os/Alchimistes/Cuisiniers] et en avez formé un nouveau avec la ${choice: 0}[Gu guild des Pêcheurs/Charpentiers/Ferronniers/Orfèvres/Tisserands/Maréchaux-Botteurs/Travailleurs des os/Alchimistes/Cuisiniers] .${prompt}'
+  7099: Notre système fonctionne comme suit. Nous vous demanderons de nous fournir un certain objet en fonction de votre rang de compétence dans l'artisanat. Il y a un délai fixe (un jour, heure de la Terre) pendant lequel vous pouvez apporter autant d'objets que vous pouvez synthétiser.${prompt}
+  7100: 'Si vous créez une version ${color: 5}de haute qualité${color: 1} de l'objet demandé, nous serons ravis de l'accepter également.${prompt}'
+  7101: Échanger ces objets nous permettra de vous attribuer des “points de guilde” qui peuvent être échangés plus tard contre d'autres biens spécialisés, dont certains se trouvent exclusivement dans cette guilde.${prompt}
+  7102: Le nombre de points de guilde que vous recevrez varie en fonction de l'objet demandé, et il y a une limite au nombre de points que vous pouvez accumuler pendant la période désignée. Échanger des objets après avoir atteint la limite ne vous rapportera aucun point.${prompt}
+  7103: Lorsque le délai est écoulé, l'objet demandé par la guilde changera. Il changera également si votre compétence en artisanat augmente.${prompt}
+  7104: Je vois que vous n'avez pas formé de contrat de trading avec les autres guildes.${prompt}
+  7105: Si vous le souhaitez, vous pouvez former un nouveau contrat avec nous. Cependant, si vous souhaitez échanger des objets avec une autre guilde, vous devez d'abord résilier votre contrat actuel et renoncer à tous les points de guilde que vous avez accumulés.${prompt}
+  7106: 'Vous avez formé un nouveau contrat de trading avec la ${choice: 0}[Gu guild des Pêcheurs/Charpentiers/Ferronniers/Orfèvres/Tisserands/Maréchaux-Botteurs/Travailleurs des os/Alchimistes/Cuisiniers] .${prompt}'
   7107: |-
-    The current requested item is ${article} ${item-article: 2[2]}.
-    You have ${number: 0} guild points accumulated.${prompt}
+    L'objet actuellement demandé est ${article} ${item-article: 2[2]}.
+    Vous avez ${number: 0} points de guilde accumulés.${prompt}
   7108: |-
-    Currently, no items are being requested by the guild.
-    You have ${number: 0} guild points accumulated.${prompt}
+    Actuellement, aucun objet n'est demandé par la guilde.
+    Vous avez ${number: 0} points de guilde accumulés.${prompt}
   7109: |-
-    Is there something you need?
+    Avez-vous besoin de quelque chose ?
     ${selection-lines}
-    I'm just passing through.
-    I would like to use my points.
-    What are the current limits?
-    How does the trade system work?${prompt}
-  7110: 'You have ${number: 0} more days (Vana''diel time) to provide us with the requested item.${prompt}'
-  7111: Today (Vana'diel time) is the final day we will accept the requested item.${prompt}
-  7112: 'You can still receive up to ${number: 3} guild points by trading us the item before the time limit is up.${prompt}'
-  7113: You are not eligible to receive guild points at this time.${prompt}
+    Je passe juste.
+    Je voudrais utiliser mes points.
+    Quels sont les limites actuelles ?
+    Comment fonctionne le système de commerce ?${prompt}
+  7110: 'Il vous reste ${number: 0} jours (heure de Vana'diel) pour nous fournir l'objet demandé.${prompt}'
+  7111: Aujourd'hui (heure de Vana'diel) est le dernier jour où nous accepterons l'objet demandé.${prompt}
+  7112: 'Vous pouvez encore recevoir jusqu'à ${number: 3} points de guilde en nous échangeant l'objet avant l'expiration du délai.${prompt}'
+  7113: Vous n'êtes pas éligible pour recevoir des points de guilde pour le moment.${prompt}
   7114: |-
-    Exchange points for...
+    Échanger des points contre...
     ${selection-lines}
-    Nothing.
-    A high-quality crystal.
-    Analysis crystals.
+    Rien de tout cela.
     ${lettercase: 1}${article} ${item-article: 0[2]} (1500).
     ${lettercase: 1}${article} ${item-article: 8[2]} (${number: 9}).
     ${lettercase: 1}${article} ${item-article: 1[2]} (70000).
@@ -17567,11 +17598,11 @@ entries:
     ${lettercase: 1}${article} ${item-article: 12[2]} (${number: 13}).
     ${lettercase: 1}${article} ${item-article: 14[2]} (${number: 15}).
     ${lettercase: 1}${article} ${item-article: 16[2]} (${number: 17}).
-    A key item.${prompt}
+    Un objet clé.${prompt}
   7115: |-
-    Exchange points for...
+    Échanger des points contre...
     ${selection-lines}
-    None of these.
+    Aucun de ceux-ci.
     ${lettercase: 1}${article} ${item-article: 0[2]} (200).
     ${lettercase: 1}${article} ${item-article: 1[2]} (200).
     ${lettercase: 1}${article} ${item-article: 2[2]} (200).
@@ -17581,9 +17612,9 @@ entries:
     ${lettercase: 1}${article} ${item-article: 6[2]} (200).
     ${lettercase: 1}${article} ${item-article: 7[2]} (200).${prompt}
   7116: |-
-    Exchange points for...
+    Échanger des points contre...
     ${selection-lines}
-    None of these.
+    Aucun de ceux-ci.
     ${lettercase: 1}${article} ${item-article: 0[2]} (450).
     ${lettercase: 1}${article} ${item-article: 1[2]} (450).
     ${lettercase: 1}${article} ${item-article: 2[2]} (450).
@@ -17592,26 +17623,26 @@ entries:
     ${lettercase: 1}${article} ${item-article: 5[2]} (450).
     ${lettercase: 1}${article} ${item-article: 6[2]} (450).
     ${lettercase: 1}${article} ${item-article: 7[2]} (450).${prompt}
-  7117: Yes, this is what we are asking for. Good work, ${name-player}!${prompt}
-  7118: 'Obtained: ${number: 0} guild points.${prompt}'
-  7119: You do not have enough guild points.${prompt}
-  7120: 'Trade ${number: 1} guild points for ${item-plural: 0[2]}?${prompt}'
-  7121: How many do you wish to trade for?${prompt}
-  7122: 'Trade ${number: 1} guild points for ${number: 2} ${item-given-plurality: 2[2], 0[2]}?${prompt}'
+  7117: Oui, c'est ce que nous demandons. Bon travail, ${name-player} !${prompt}
+  7118: 'Obtenu : ${number: 0} points de guilde.${prompt}'
+  7119: Vous n'avez pas assez de points de guilde.${prompt}
+  7120: 'Échanger ${number: 1} point(s) de guilde contre ${item-plural: 0[2]} ?${prompt}'
+  7121: Combien souhaitez-vous échanger ?${prompt}
+  7122: 'Échanger ${number: 1} point(s) de guilde contre ${number: 2} ${item-given-plurality: 2[2], 0[2]} ?${prompt}'
   7123: |-
-    Proceed with the transaction? (GP: ${number: 32})
+    Procéder à la transaction ? (PG : ${number: 32})
     ${selection-lines}
-    Yes.
-    No.${prompt}
+    Oui.
+    Non.${prompt}
   7124: |-
-    Necessary skills: ${choice: 6}[Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking]${choice: 1}[ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking]${choice: 2}[ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking]${choice: 3}[ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking]
-    Necessary crystal: ${lettercase: 1}${item-singular: 4[2]}
-    Necessary key item: ${lettercase: 1}${keyitem-singular: 5[2]}
-    Necessary items: ${prompt}
+    Compétences nécessaires : ${choice: 6}[Pêche/Ébénisterie/Ferronnerie/Orfèvrerie/Tissage/Travail du cuir/Travail des os/Alchimie/Cuisine]${choice: 1}[ /, Ébénisterie/, Ferronnerie/, Orfèvrerie/, Tissage/, Travail du cuir/, Travail des os/, Alchimie/, Cuisine]${choice: 2}[ /, Ébénisterie/, Ferronnerie/, Orfèvrerie/, Tissage/, Travail du cuir/, Travail des os/, Alchimie/, Cuisine]${choice: 3}[ /, & Ébénisterie/, & Ferronnerie/, & Orfèvrerie/, & Tissage/, & Travail du cuir/, & Travail des os/, & Alchimie/, & Cuisine]
+    Cristal nécessaire : ${lettercase: 1}${item-singular: 4[2]}
+    Objet clé nécessaire : ${lettercase: 1}${keyitem-singular: 5[2]}
+    Objets nécessaires : ${prompt}
   7125: |-
-    Exchange points for...
+    Échanger des points contre...
     ${selection-lines}
-    None of these.
+    Aucun de ceux-ci.
     ${lettercase: 1}${keyitem-singular: 0[2]}(${number: 1}).
     ${lettercase: 1}${keyitem-singular: 2[2]}(${number: 3}).
     ${lettercase: 1}${keyitem-singular: 4[2]}(${number: 5}).
@@ -17619,40 +17650,39 @@ entries:
     ${lettercase: 1}${keyitem-singular: 8[2]}(${number: 9}).
     ${lettercase: 1}${keyitem-singular: 10[2]}(${number: 11}).
     ${lettercase: 1}${keyitem-singular: 12[2]}(${number: 13}).${prompt}
-  7126: 'Trade ${number: 1} guild points for ${keyitem-singular: 0[2]}?${prompt}'
+  7126: 'Échanger ${number: 1} point(s) de guilde contre ${keyitem-singular: 0[2]} ?${prompt}'
   7127: |-
-    You are a registered craftsman at the following guild(s):
-    ${choice: 0}[/Carpenters' ]${choice: 1}[/Blacksmiths' ]${choice: 2}[/Goldsmiths' ]${choice: 3}[/Weavers' ]${choice: 4}[/Tanners' ]${choice: 5}[/Boneworkers' ]${choice: 6}[/Alchemists' ]${choice: 7}[/Culinarians' ]
-    By revoking your status, you will be reduced to “journeyman” and your synthesis skills will be adjusted accordingly.${prompt}
+    Vous êtes un artisan enregistré dans les guildes suivantes :
+    ${choice: 0}[/Charpentiers' ]${choice: 1}[/Ferronniers' ]${choice: 2}[/Orfèvres' ]${choice: 3}[/Tisserands' ]${choice: 4}[/Maréchaux-Botteurs' ]${choice: 5}[/Travailleurs des os' ]${choice: 6}[/Alchimistes' ]${choice: 7}[/Cuisiniers' ]
+    En révoquant votre statut, vous serez réduit à “apprenti” et vos compétences en synthèse seront ajustées en conséquence.${prompt}
   7128: |-
-    Proceed?
+    Procéder ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  7129: 'Your craftsman status at the ${choice: 0}[Carpenters''/Blacksmiths''/Goldsmiths''/Weavers''/Tanners''/Boneworkers''/Alchemists''/Culinarians''] Guild has been revoked.${prompt}'
+    Oui.
+    Non.${prompt}
+  7129: 'Votre statut d'artisan au sein de la ${choice: 0}[Guilde des Charpentiers/Ferronniers/Orfèvres/Tisserands/Maréchaux-Botteurs/Travailleurs des os/Alchimistes/Cuisiniers] a été révoqué.${prompt}'
   7130: |-
-    Which rank of synthesis do you ask about?
+    De quel rang de synthèse vous renseignez-vous ?
     ${selection-lines}
-    Never mind.
+    Rien.
     Amateur.
-    Recruit.
-    Initiate.
+    Recrue.
+    Initié.
     Novice.
-    Apprentice.
-    Journeyman.
-    Craftsman.
+    Apprenti.
+    Compagnon.
     Artisan.
+    Maître Artisan.
     Adept.
-    Veteran.
+    Vétéran.
     Expert.
-    Authority.
-    Luminary.
-    Master.
-    Grandmaster.${prompt}
+    Autorité.
+    Luminaire.
+    Grand Maître.${prompt}
   7131: |-
-    Which synthesis recipe do you ask about?
+    Quelle recette de synthèse vous intéresse ?
     ${selection-lines}
-    None.
+    Aucune.
     ${lettercase: 1}${item-plural: 0[2]}.
     ${lettercase: 1}${item-plural: 1[2]}.
     ${lettercase: 1}${item-plural: 2[2]}.
@@ -17669,61 +17699,61 @@ entries:
     ${lettercase: 1}${item-plural: 13[2]}.
     ${lettercase: 1}${item-plural: 14[2]}.
     ${lettercase: 1}${item-plural: 15[2]}.
-    View more recipes.${prompt}
+    Voir plus de recettes.${prompt}
   7132: |-
-    Renounce your rank at which guild?
+    Renoncer à votre rang dans quelle guilde ?
     ${selection-lines}
-    None.
-    Carpenters'.
-    Blacksmiths'.
-    Goldsmiths'.
-    Weavers'.
-    Tanners'.
-    Boneworkers'.
-    Alchemists'.
-    Culinarians'.${prompt}
+    Aucune.
+    Charpentiers'.
+    Ferronniers'.
+    Orfèvres'.
+    Tisserands'.
+    Maréchaux-Botteurs'.
+    Travailleurs des os'.
+    Alchimistes'.
+    Cuisiniers'.${prompt}
   7133: |-
-    If you proceed, your rank in the ${choice: 1}[Carpenters'/Blacksmiths'/Goldsmiths'/Weavers'/Tanners'/Boneworkers'/Alchemists'/Culinarians'] Guild will return to that of ${choice: 5}[craftsman/artisan/adept], and your skill value will revert to the maximum for that level.
-    This procedure cannot be undone, so please consider your decision carefully.${prompt}
+    Si vous continuez, votre rang dans la ${choice: 1}[Guilde des Charpentiers/Ferronniers/Orfèvres/Tisserands/Maréchaux-Botteurs/Travailleurs des os/Alchimistes/Cuisiniers] sera ramené à celui de ${choice: 5}[compagnon/artisan/adept], et votre valeur de compétence reviendra au maximum pour ce niveau.
+    Cette procédure est irréversible, alors veuillez réfléchir soigneusement à votre décision.${prompt}
   7134: |-
-    Renounce your rank as a ${choice: 1}[Carpenter/Blacksmith/Goldsmith/Weaver/Tanner/Boneworker/Alchemist/Culinarian]?
+    Renoncer à votre rang de ${choice: 1}[Charpentier/Ferronnier/Orfèvre/Tisserand/Maréchal-Bottier/Travailleur des os/Alchimiste/Cuisinier] ?
     ${selection-lines}
-    No, retain.
-    Yes, renounce.${prompt}
-  7135: 'You have successfully renounced your status as a ${choice: 5}[craftsman/artisan/adept] of the ${choice: 1}[Carpenters''/Blacksmiths''/Goldsmiths''/Weavers''/Tanners''/Boneworkers''/Alchemists''/Culinarians''] Guild.${prompt}'
+    Non, conserver.
+    Oui, renoncer.${prompt}
+  7135: 'Vous avez réussi à renoncer à votre statut de ${choice: 5}[compagnon/artisan/adept] de la ${choice: 1}[Guilde des Charpentiers/Ferronniers/Orfèvres/Tisserands/Maréchaux-Botteurs/Travailleurs des os/Alchimistes/Cuisiniers] .${prompt}'
   7136: |-
-    And you are?
-    This is the Alchemists' Guild. In other words, an organization that researches the origins of the universe, and puts that knowledge to use in the development of new medicines and items.${prompt}
+    Et vous êtes ?
+    C'est la Guilde des Alchimistes. En d'autres termes, une organisation qui recherche les origines de l'univers et utilise ces connaissances pour développer de nouveaux médicaments et objets.${prompt}
   7137: |-
-    Oh, you must be looking for the shop.
-    It's down the stairs, on your right.${prompt}
+    Oh, vous cherchez la boutique.
+    C'est en bas des escaliers, sur votre droite.${prompt}
   7138: |-
-    Well, well, well. An adventurer.
-    Then we shall start you with crystal synthesis.${prompt}
-  7139: You must already know, but crystals house different forms of energy. Crystal synthesis taps that energy and utilizes it to transform matter.${prompt}
-  7140: The success of crystal synthesis depends on the images of the product made by the user. In other words, the better the user, the better the image, the better the final product.${prompt}
-  7141: Obviously, the more experience you accumulate over the years, the more skilled you will become.${prompt}
-  7142: If there is anything you don't understand, ask the alchemists here in this guild. You are now one of their companions!${prompt}
-  7143: To master alchemy is to know the universe. And to know the universe requires time.${prompt}
+    Eh bien, eh bien, eh bien. Un aventurier.
+    Nous allons commencer par la synthèse de cristaux.${prompt}
+  7139: Vous devez déjà le savoir, mais les cristaux renferment différentes formes d'énergie. La synthèse de cristaux exploite cette énergie pour transformer la matière.${prompt}
+  7140: Le succès de la synthèse de cristaux dépend des images du produit réalisées par l'utilisateur. Autrement dit, plus l'utilisateur est expérimenté, meilleure est l'image, et meilleur est le produit final.${prompt}
+  7141: Évidemment, plus vous accumulez d'expérience au fil des ans, plus vous deviendrez habile.${prompt}
+  7142: Si vous ne comprenez pas quelque chose, demandez aux alchimistes de cette guilde. Vous êtes maintenant l'un de leurs compagnons !${prompt}
+  7143: Maîtriser l'alchimie, c'est connaître l'univers. Et connaître l'univers demande du temps.${prompt}
   7144: |-
-    Along with the mastery of alchemy, you have obtained the knowledge of the universe.
-    However, knowing the universe means having the power to destroy it. Such power is not to be trifled with.${prompt}
-  7145: I sense that you have attained enough knowledge to move on to the next plane of alchemy.${prompt}
-  7146: 'Make ${article} ${item-article: 0[2]} and I will further entrust you with the secrets of the universe.${prompt}'
+    Avec la maîtrise de l'alchimie, vous avez obtenu la connaissance de l'univers.
+    Cependant, connaître l'univers signifie avoir le pouvoir de le détruire. Un tel pouvoir ne doit pas être pris à la légère.${prompt}
+  7145: Je sens que vous avez acquis suffisamment de connaissances pour passer au plan suivant de l'alchimie.${prompt}
+  7146: 'Fabriquez ${article} ${item-article: 0[2]} et je vous confierai davantage les secrets de l'univers.${prompt}'
   7147: |-
     ...
-    This work seems to be flawless. I hereby entrust you with the title of ${choice: 7}[amateur/recruit/initiate/novice/apprentice]. I look forward to you seeing your future work.${prompt}
+    Ce travail semble parfait. Je vous confie donc le titre de ${choice: 7}[amateur/recrue/initié/novice/apprenti]. J'attends avec impatience de voir vos futurs travaux.${prompt}
   7148: |-
     ...
-    Fine work, ${name-player}. I hereby entrust you with the title of journeyman. Do not squander your skills.${prompt}
-  7149: Wonderful! I am proud to have you stand by my side as an artisan.${prompt}
-  7150: The day has finally come. You are now worthy to be called an adept alchemist. Let us, together, reap the benefits of the vast knowledge of the universe.${prompt}
-  7151: Would ya speak up, ${choice-player-gender}[sonny/missy]? I can't hear ya with all that racket.${prompt}
-  7152: I've already helped ya. Try learning some respect for your elders, ${choice-player-gender}[sonny/missy].${prompt}
-  7153: Me cataracts may be acting up, but I can see you're trying to pull a fast one, ${choice-player-gender}[sonny/missy].${prompt}
+    Bon travail, ${name-player}. Je vous confie donc le titre de compagnon. Ne gaspillez pas vos compétences.${prompt}
+  7149: Merveilleux ! Je suis fier de vous avoir à mes côtés en tant qu'artisan.${prompt}
+  7150: Le jour est enfin venu. Vous êtes maintenant digne d'être appelé alchimiste accompli. Récoltons ensemble les fruits de l'immense connaissance de l'univers.${prompt}
+  7151: Vous pourriez parler plus fort, ${choice-player-gender}[mon garçon/ma fille] ? Je n'entends rien avec tout ce bruit.${prompt}
+  7152: Je vous ai déjà aidé. Essayez d'apprendre un peu de respect pour vos aînés, ${choice-player-gender}[mon garçon/ma fille].${prompt}
+  7153: Mes cataractes peuvent me jouer des tours, mais je vois que vous essayez de me duper, ${choice-player-gender}[mon garçon/ma fille].${prompt}
   7154: |-
-    <Cough!> Oh, now maybe I can pay for me operation!
-    Close your eyes and don't peek...${prompt}
+    <Tousse !> Oh, maintenant je pourrais peut-être payer pour mon opération !
+    Fermez les yeux et ne regardez pas...${prompt}
   7155: |-
     Hmm. A young ${choice-player-gender}[lad/lass] like you might want to try ${article} ${item-article: 0[2]}.
     You'll need...${prompt}
