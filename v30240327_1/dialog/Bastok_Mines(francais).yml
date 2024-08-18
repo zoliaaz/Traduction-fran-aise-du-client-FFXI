@@ -15933,157 +15933,157 @@ entries:
   6388: |-
     You cannot obtain the ${item-singular: 0[2]}.
     Try trading again after sorting your inventory.${prompt}
-  6389: 'You must free at least ${number: 0} space${choice-plurality: 0}[/s] before trading any items.${prompt}'
-  6390: 'Obtained: ${lettercase: 1}${item-singular: 0[2]}.${prompt}'
-  6391: 'Obtained ${number: 0} gil.${prompt}'
-  6392: 'Obtained ${number: 0} gil.'
-  6393: 'Obtained key item: ${lettercase: 1}${keyitem-singular: 0[2]}.${prompt}'
-  6394: 'Lost key item: ${lettercase: 1}${keyitem-singular: 0[2]}.${prompt}'
-  6395: You do not have enough gil.${prompt}
-  6396: 'You obtain ${item-count: 1[2]} ${item-given-plurality: 1[2], 0[2]}!${prompt}'
-  6397: You do not have enough gil.
+  6389: 'Vous devez libérer au moins ${number: 0} espace${choice-plurality: 0}[/s] avant de pouvoir échanger des objets.${prompt}'
+  6390: 'Obtenu : ${lettercase: 1}${item-singular: 0[2]}.${prompt}'
+  6391: 'Vous avez obtenu ${number: 0} gil.${prompt}'
+  6392: 'Vous avez obtenu ${number: 0} gil.'
+  6393: 'Objet clé obtenu : ${lettercase: 1}${keyitem-singular: 0[2]}.${prompt}'
+  6394: 'Objet clé perdu : ${lettercase: 1}${keyitem-singular: 0[2]}.${prompt}'
+  6395: Vous n'avez pas assez de gil.${prompt}
+  6396: 'Vous obtenez ${item-count: 1[2]} ${item-given-plurality: 1[2], 0[2]}!${prompt}'
+  6397: Vous n'avez pas assez de gil.
   6398: |-
-    A party member has an NPC called up.
-    You cannot take part in this event.${prompt}
-  6399: 'You obtain ${number: 1} ${item-given-plurality: 1[2], 0[2]}!${prompt}'
-  6400: You find the hoofprint of a gigantic warhorse...${prompt}
-  6401: 'You set the ${keyitem-singular: 0[2]} in the warhorse hoofprint.${prompt}'
-  6402: 'The ${item-singular: 0[2]} is returned to you.${prompt}'
-  6403: 'The ${number: 1} ${item-plural: 0[2]} are returned to you.${prompt}'
-  6404: There is nothing out of the ordinary here.${prompt}
-  6405: You are suddenly overcome with a sense of foreboding...${prompt}
-  6406: Now is not the time for that!${prompt}
-  6407: It seems that you will have to wait a bit longer...${prompt}
-  6408: An aura of irrepressible might threatens to overwhelm you...${prompt}
-  6409: You no longer sense the monster's presence...${prompt}
+    Un membre du groupe a appelé un PNJ.
+    Vous ne pouvez pas participer à cet événement.${prompt}
+  6399: 'Vous obtenez ${number: 1} ${item-given-plurality: 1[2], 0[2]}!${prompt}'
+  6400: Vous trouvez l'empreinte d'un gigantesque cheval de guerre...${prompt}
+  6401: 'Vous placez le ${keyitem-singular: 0[2]} dans l'empreinte du cheval de guerre.${prompt}'
+  6402: 'Le ${item-singular: 0[2]} vous est rendu.${prompt}'
+  6403: 'Les ${number: 1} ${item-plural: 0[2]} vous sont rendus.${prompt}'
+  6404: Il n'y a rien d'anormal ici.${prompt}
+  6405: Vous êtes soudainement pris d'un sentiment de mauvais pressentiment...${prompt}
+  6406: Ce n'est pas le moment pour ça!${prompt}
+  6407: Il semble que vous devrez attendre un peu plus longtemps...${prompt}
+  6408: Une aura de puissance irrépressible menace de vous submerger...${prompt}
+  6409: Vous ne sentez plus la présence du monstre...${prompt}
   6410: '${number: 0}...${prompt}'
-  6411: The mine explodes!${prompt}
-  6412: The mine misfires...${prompt}
-  6413: You retrieve the mine.${prompt}
-  6414: You successfully deactivate the mine!${prompt}
-  6415: You failed to deactivate the mine...${prompt}
-  6416: 'Obtained ${number: 0} cruor. (Total: ${number: 1})${prompt}'
-  6417: 'Obtained ${number: 0} cruor. (Total: ${number: 1})'
-  6418: You do not have enough cruor.${prompt}
-  6419: You do not have enough cruor.
+  6411: La mine explose!${prompt}
+  6412: La mine rate...${prompt}
+  6413: Vous récupérez la mine.${prompt}
+  6414: Vous désactivez la mine avec succès!${prompt}
+  6415: Vous n'avez pas réussi à désactiver la mine...${prompt}
+  6416: 'Vous avez obtenu ${number: 0} cruor. (Total : ${number: 1})${prompt}'
+  6417: 'Vous avez obtenu ${number: 0} cruor. (Total : ${number: 1})'
+  6418: Vous n'avez pas assez de cruor.${prompt}
+  6419: Vous n'avez pas assez de cruor.
   6420: |-
-    You have obtained all of Lilisette's memory fragments.
-    Make haste and report to Cait Sith.${prompt}
+    Vous avez obtenu tous les fragments de mémoire de Lilisette.
+    Dépêchez-vous et rendez-vous auprès de Cait Sith.${prompt}
   6421: |-
-    You cannot perform that action.
-    Come back after you have obtained visitant status.
-  6422: You cannot perform that action while participating in Bastion.
-  6423: '${color-alt: 121}Target out of range.${prompt}'
-  6424: You cannot view this event while holding claim over a synergy furnace.${prompt}
-  6425: '${color-alt: 123}You cannot perform that action with a free trial account.${prompt}'
-  6426: 'You must wait another ${number: 0} ${choice-plurality: 0}[day/days] to perform that action.${prompt}'
-  6427: '${color-alt: 121}${name-player} gained ${number: 0} ${choice: 1}[points of experience/limit points].'
-  6428: 'You cannot carry any more ${keyitem-plural: 0[2]}.${prompt}'
-  6429: '${color-alt: 121}You have carried over ${number: 1} login point${choice-plurality: 1}[/s].${prompt}'
+    Vous ne pouvez pas effectuer cette action.
+    Revenez après avoir obtenu le statut de visiteur.
+  6422: Vous ne pouvez pas effectuer cette action pendant que vous participez à Bastion.
+  6423: '${color-alt: 121}Cible hors de portée.${prompt}'
+  6424: Vous ne pouvez pas voir cet événement tout en ayant la possession d'une fournaise de synergie.${prompt}
+  6425: '${color-alt: 123}Vous ne pouvez pas effectuer cette action avec un compte d'essai gratuit.${prompt}'
+  6426: 'Vous devez attendre encore ${number: 0} ${choice-plurality: 0}[jour/jours] avant de pouvoir effectuer cette action.${prompt}'
+  6427: '${color-alt: 121}${name-player} a gagné ${number: 0} ${choice: 1}[points d'expérience/points de limite].'
+  6428: 'Vous ne pouvez plus porter d'autres ${keyitem-plural: 0[2]}.${prompt}'
+  6429: '${color-alt: 121}Vous avez reporté ${number: 1} point de connexion${choice-plurality: 1}[/s].${prompt}'
   6430: |-
-    The ${choice: 1}[/January/February/March/April/May/June/July/August/September/October/November/December] ${number: 0} Login Campaign is currently underway!
+    La campagne de connexion de ${choice: 1}[/Janvier/Février/Mars/Avril/Mai/Juin/Juillet/Août/Septembre/Octobre/Novembre/Décembre] ${number: 0} est actuellement en cours!
     ${prompt}
   6431: |-
-    In celebration of your most recent login (login no. ${number: 1}), we have provided you with ${number: 2} points!
-    You currently have a total of ${number: 3} points.${prompt}
+    En célébration de votre dernière connexion (connexion n° ${number: 1}), nous vous avons attribué ${number: 2} points !
+    Vous avez actuellement un total de ${number: 3} points.${prompt}
   6432: ${prompt}
   6433: ${prompt}
   6434: ${prompt}
-  6435: 'You have obtained ${number: 0} bayld!${prompt}'
-  6436: 'You have obtained ${number: 0} bayld!'
-  6437: You do not have enough bayld!${prompt}
-  6438: You do not have enough bayld!
-  6439: 'You can now become a ${choice: 0}[geomancer/rune fencer]!${prompt}'
-  6440: 'Your ${keyitem-singular: 1[2]} has been attuned to a geomagnetic fount in the corresponding locale.${prompt}'
-  6441: A faint energy wafts up from the ground.${prompt}
-  6442: Your device has already been attuned to a geomagnetic fount in the corresponding locale.${prompt}
-  6443: 'You have learned ${keyitem-singular: 0[2]}!${prompt}'
-  6444: I eat, breathe, and sleep delivery services! Even if the heavens come tumbling down, the seas engulf all of Adoulin, or eternal darkness descends upon the world, you needn't worry about your package!${prompt}
-  6445: '${color-alt: 123}The level of difficulty for this content is ${number: 0}.${prompt}'
-  6446: 'Your maximum level has been raised to ${choice: 0}[50/55/60/65/70/75/80/85/90/95/99]!${prompt}'
-  6447: '${color-alt: 123}You have entered belligerency.${prompt}'
-  6448: '${color-alt: 123}You have entered belligerency and your level has been restricted to ${number: 0}.${prompt}'
-  6449: '${color-alt: 123}You have entered belligerency. Your level has been restricted to ${number: 0} and the attributes of applicable equipment you may be wearing have been appropriately reduced.${prompt}'
-  6450: You have learned a new instinct!${prompt}
-  6451: '${color-alt: 123}Your party is unable to participate because certain members'' levels are restricted.${prompt}'
-  6452: Please remove your level restriction before endeavoring to participate.${prompt}
-  6453: 'You learned Trust: ${spell: 1}!'
-  6454: You are now able to call multiple alter egos.
+  6435: 'Vous avez obtenu ${number: 0} bayld !${prompt}'
+  6436: 'Vous avez obtenu ${number: 0} bayld !'
+  6437: Vous n'avez pas assez de bayld !${prompt}
+  6438: Vous n'avez pas assez de bayld !
+  6439: 'Vous pouvez désormais devenir un ${choice: 0}[géomancien/fencer runique]!${prompt}'
+  6440: 'Votre ${keyitem-singular: 1[2]} a été accordé à une source géomagnétique dans le lieu correspondant.${prompt}' 
+  6441: Une faible énergie monte du sol.${prompt}
+  6442: Votre appareil a déjà été accordé à une source géomagnétique dans le lieu correspondant.${prompt}
+  6443: 'Vous avez appris ${keyitem-singular: 0[2]} !${prompt}'
+  6444: Je mange, respire et dors services de livraison ! Même si les cieux s'effondrent, les mers engloutissent tout Adoulin, ou que l'obscurité éternelle descende sur le monde, vous n'avez pas à vous inquiéter pour votre colis !${prompt}
+  6445: '${color-alt: 123}Le niveau de difficulté pour ce contenu est ${number: 0}.${prompt}'
+  6446: 'Votre niveau maximum a été élevé à ${choice: 0}[50/55/60/65/70/75/80/85/90/95/99]!${prompt}'
+  6447: '${color-alt: 123}Vous avez entré en belligérance.${prompt}'
+  6448: '${color-alt: 123}Vous avez entré en belligérance et votre niveau a été restreint à ${number: 0}.${prompt}'
+  6449: '${color-alt: 123}Vous avez entré en belligérance. Votre niveau a été restreint à ${number: 0} et les attributs de l'équipement applicable que vous portez peuvent avoir été réduits en conséquence.${prompt}'
+  6450: Vous avez appris un nouvel instinct !${prompt}
+  6451: '${color-alt: 123}Votre groupe ne peut pas participer car certains membres ont des niveaux restreints.${prompt}'
+  6452: Veuillez retirer votre restriction de niveau avant d'essayer de participer.${prompt}
+  6453: 'Vous avez appris la Confiance : ${spell: 1}!'
+  6454: Vous pouvez désormais invoquer plusieurs égos alternés.
   6455: |-
-    Enter?
+    Entrer ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
+    Oui.
+    Non.${prompt}
   6456: |-
-    Leave?
+    Quitter ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  6457: The cutscene has unexpectedly terminated. Examine the Resume Point to continue.
+    Oui.
+    Non.${prompt}
+  6457: La scène cinématique s'est terminée de manière inattendue. Examinez le point de reprise pour continuer.
   6458: |-
-    What do you wish to do?
+    Que souhaitez-vous faire ?
     ${selection-lines}
-    Show me the cutscene again.
-    Skip the cutscene and continue.${prompt}
-  6459: Displaying the next scene.
-  6460: Alter egos may be used here without any effect on enmity.
-  6461: '${color-alt: 123}The maximum level of the content you are currently attempting is ${number: 0}.${prompt}'
+    Montrez-moi à nouveau la scène cinématique.
+    Passez la scène cinématique et continuez.${prompt}
+  6459: Affichage de la scène suivante.
+  6460: Les alter egos peuvent être utilisés ici sans effet sur l'hostilité.
+  6461: '${color-alt: 123}Le niveau maximum du contenu que vous essayez actuellement est ${number: 0}.${prompt}'
   6462: '${number: 0} ${number: 1} ${number: 2} ${number: 3}'
   6463: '${number: 4} ${number: 5} ${number: 6} ${number: 7}'
-  6464: The Unity ranking tabulation period has begun.
-  6465: The Unity ranking tabulation period has ended.
-  6466: '${choice: 0}[Unranked/First place/Second place/Third place/Fourth place/Fifth place]: ${choice: 1}[Pieuje/Ayame/Invincible Shield/Apururu/Maat/Aldo/Jakoh Wahcondalo/Naja Salaheem/Flaviria/Yoran-Oran/Sylvie].'
+  6464: La période de tabulation du classement Unity a commencé.
+  6465: La période de tabulation du classement Unity est terminée.
+  6466: '${choice: 0}[Non classé/Première place/Deuxième place/Troisième place/Quatrième place/Cinquième place]: ${choice: 1}[Pieuje/Ayame/Invincible Shield/Apururu/Maat/Aldo/Jakoh Wahcondalo/Naja Salaheem/Flaviria/Yoran-Oran/Sylvie].'
   6467: |-
-    Jump into the vortex?
+    Sauter dans le vortex ?
     ${selection-lines}
-    Off we go!
-    Not just yet.${prompt}
-  6468: Nothing out of the ordinary happens.${prompt}
-  6469: '${color-alt: 123}You are unable to proceed to the next area because ${choice: 0}[Rise of the Zilart/Chains of Promathia/Treasures of Aht Urhgan/Wings of the Goddess/Seekers of Adoulin] is not registered to your account.${prompt}'
-  6470: 'You are now able to call forth alter egos here because you have obtained the ${keyitem-singular: 0[2]} key item.'
-  6471: 'You cannot carry any more ${keyitem-plural: 0[2]}.${prompt}'
-  6472: '${color-alt: 138}You have been promoted to ${choice: 0}[/Private First Class/Superior Private/Lance Corporal/Corporal/Sergeant/Sergeant Major/Chief Sergeant/Second Lieutenant/First Lieutenant/Captain]!${prompt}'
-  6473: Your bags mysteriously feel a little bit heavier...${prompt}
-  6474: 'The bonds tying you to Altana have strengthened, enabling you to experience all the memories of ${choice: 0}[Rise of the Zilart/Chains of Promathia/Treasures of Aht Urhgan/Wings of the Goddess/Seekers of Adoulin]!${prompt}'
-  6475: '${color-alt: 138}You are unable to make further progress in Rhapsodies of Vana''diel due to an event occurring in the ${choice: 1}[Chains of Promathia/Treasures of Aht Urhgan/Wings of the Goddess/Seekers of Adoulin/Rise of the Zilart] missions.'
-  6476: '${color-alt: 138}You are unable to make further progress in Rhapsodies of Vana''diel due to an event occurring in the quest ${choice: 1}[Champion of the Dawn/A Forbidden Reunion].'
-  6477: The crystal glistens with a divine radiance.${prompt}
-  6478: '${color-alt: 138}You must visit Aht Urhgan Whitegate in order to progress in the Rhapsodies of Vana''diel missions.'
-  6479: '${color-alt: 123}You have been awarded the temporary item ${item-singular: 0[2]} as compensation.${prompt}'
-  6480: '${color-alt: 123}You already posses the temporary item ${item-singular: 0[2]} and cannot receive another one as compensation.${prompt}'
-  6481: '${color-alt: 123}Please claim your item before maintenance for the February 2022 version update begins.${prompt}'
-  6482: 'You have been rewarded ${article} ${item-article: 0[2]} as compensation.${prompt}'
-  6483: 'You are unable to accept the compensatory ${item-singular: 0[2]}. Free up some space in your inventory and try again.${prompt}'
-  6484: '${color-alt: 123}Please claim your item before maintenance for the October 2022 version update begins.${prompt}'
-  6485: 'You receive ${number: 0} deeds for a total of ${number: 1}!${prompt}'
-  6486: '${color-alt: 161}Word has been received of a Mamool Ja threat in Wajaom Woodlands.${prompt}'
-  6487: '${color-alt: 161}Word has been received of a Troll threat in Wajaom Woodlands.${prompt}'
-  6488: '${color-alt: 161}Word has been received of an undead threat in Bhaflau Thickets.${prompt}'
+    C'est parti !
+    Pas encore.${prompt}
+  6468: Rien d'inhabituel ne se produit.${prompt}
+  6469: '${color-alt: 123}Vous ne pouvez pas accéder à la zone suivante car ${choice: 0}[Rise of the Zilart/Chains of Promathia/Treasures of Aht Urhgan/Wings of the Goddess/Seekers of Adoulin] n'est pas enregistré sur votre compte.${prompt}'
+  6470: 'Vous pouvez maintenant invoquer des alter egos ici car vous avez obtenu l'objet clé ${keyitem-singular: 0[2]}.'
+  6471: 'Vous ne pouvez plus transporter d'objets ${keyitem-plural: 0[2]}.${prompt}'
+  6472: '${color-alt: 138}Vous avez été promu au rang de ${choice: 0}[/Soldat de première classe/Soldat supérieur/Caporal/Chef de section/Sergent/Adjudant-chef/Adjudant/Deuxième lieutenant/First lieutenant/Capitaine]!${prompt}'
+  6473: Vos sacs semblent mystérieusement un peu plus lourds...${prompt}
+  6474: 'Les liens qui vous unissent à Altana se sont renforcés, vous permettant de vivre tous les souvenirs de ${choice: 0}[Rise of the Zilart/Chains of Promathia/Treasures of Aht Urhgan/Wings of the Goddess/Seekers of Adoulin]!${prompt}'
+  6475: '${color-alt: 138}Vous ne pouvez pas progresser davantage dans Rhapsodies of Vana''diel en raison d'un événement se produisant dans les missions ${choice: 1}[Chains of Promathia/Treasures of Aht Urhgan/Wings of the Goddess/Seekers of Adoulin/Rise of the Zilart].'
+  6476: '${color-alt: 138}Vous ne pouvez pas progresser davantage dans Rhapsodies of Vana''diel en raison d'un événement se produisant dans la quête ${choice: 1}[Champion of the Dawn/A Forbidden Reunion].'
+  6477: Le cristal brille d'une radiance divine.${prompt}
+  6478: '${color-alt: 138}Vous devez visiter Aht Urhgan Whitegate pour progresser dans les missions Rhapsodies of Vana''diel.'
+  6479: '${color-alt: 123}Vous avez reçu l'objet temporaire ${item-singular: 0[2]} en compensation.${prompt}'
+  6480: '${color-alt: 123}Vous possédez déjà l'objet temporaire ${item-singular: 0[2]} et ne pouvez pas en recevoir un autre en compensation.${prompt}'
+  6481: '${color-alt: 123}Veuillez réclamer votre objet avant que la maintenance pour la mise à jour de février 2022 ne commence.${prompt}'
+  6482: 'Vous avez reçu ${article} ${item-article: 0[2]} en compensation.${prompt}'
+  6483: 'Vous ne pouvez pas accepter l'objet compensatoire ${item-singular: 0[2]}. Libérez de l'espace dans votre inventaire et réessayez.${prompt}'
+  6484: '${color-alt: 123}Veuillez réclamer votre objet avant que la maintenance pour la mise à jour d'octobre 2022 ne commence.${prompt}'
+  6485: 'Vous recevez ${number: 0} actes pour un total de ${number: 1}!${prompt}'
+  6486: '${color-alt: 161}On a reçu des nouvelles d'une menace Mamool Ja dans les Bois de Wajaom.${prompt}'
+  6487: '${color-alt: 161}On a reçu des nouvelles d'une menace Troll dans les Bois de Wajaom.${prompt}'
+  6488: '${color-alt: 161}On a reçu des nouvelles d'une menace de morts-vivants dans les Taillis de Bhaflau.${prompt}'
   6489: |-
-    You can set this as your current home point.
-    Once you set a home point, you will return there whenever you are incapacitated.
+    Vous pouvez définir cela comme votre point de retour actuel.
+    Une fois que vous définissez un point de retour, vous y retournerez chaque fois que vous serez incapé.
   6490: |-
-    Set this as current home point?
+    Définir cela comme point de retour actuel ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  6491: Home point set!${prompt}
-  6492: A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.
+    Oui.
+    Non.${prompt}
+  6491: Point de retour défini !${prompt}
+  6492: Un point de retour peut être défini comme un endroit où vous revenir à Vana'diel lorsque vous avez été éliminé. Vous pouvez également utiliser un point de retour pour vous téléporter vers d'autres points de retour.
   6493: |-
-    What will you do?
+    Que ferez-vous ?
     ${selection-lines}
-    Travel to another home point.
-    Set this as your home point.
-    Other settings.
-    On second thought, never mind.${prompt}
+    Voyager vers un autre point de retour.
+    Définir ceci comme votre point de retour.
+    Autres réglages.
+    Après réflexion, laissez tomber.${prompt}
   6494: |-
-    You have registered a new home point!
-    You are now able to teleport here from any other home point.${prompt}
-  6495: You may teleport from here to any other home point you have registered.
+    Vous avez enregistré un nouveau point de retour !
+    Vous pouvez désormais vous téléporter ici depuis tout autre point de retour.${prompt}
+  6495: Vous pouvez vous téléporter d'ici vers tout autre point de retour que vous avez enregistré.
   6496: |-
-    Teleport where?
+    Se téléporter où ?
     ${selection-lines}
-    Never mind.
+    Laisser tomber.
     ${zone: 1[2]}.
     ${zone: 2[2]}.
     ${zone: 3[2]}.
@@ -16100,81 +16100,81 @@ entries:
     ${zone: 14[2]}.
     ${zone: 15[2]}.
     ${zone: 16[2]}.
-    Previous page.
-    Next page.${prompt}
+    Page précédente.
+    Page suivante.${prompt}
   6497: |-
-    Teleport where?（${zone: 33[2]}）
+    Se téléporter où ? (${zone: 33[2]})
     ${selection-lines}
-    Nowhere.
-    Home Point #1${choice: 1}[/ (M)/ (A)/ (E)].
-    Home Point #2${choice: 2}[/ (M)/ (A)/ (E)].
-    Home Point #3${choice: 3}[/ (M)/ (A)/ (E)].
-    Home Point #4${choice: 4}[/ (M)/ (A)/ (E)].
-    Home Point #5${choice: 5}[/ (M)/ (A)/ (E)].${prompt}
-  6498: You have not yet registered any other home points, and thus are unable to teleport.${prompt}
-  6499: 'It costs ${number: 3} gil to teleport to Home Point #${number: 2} in ${zone: 1[2]}.'
-  6500: 'There is no fee for teleporting to Home Point #${number: 2} in ${zone: 1[2]}.'
+    Nulle part.
+    Point de retour #1${choice: 1}[/ (M)/ (A)/ (E)].
+    Point de retour #2${choice: 2}[/ (M)/ (A)/ (E)].
+    Point de retour #3${choice: 3}[/ (M)/ (A)/ (E)].
+    Point de retour #4${choice: 4}[/ (M)/ (A)/ (E)].
+    Point de retour #5${choice: 5}[/ (M)/ (A)/ (E)].${prompt}
+  6498: Vous n'avez pas encore enregistré d'autres points de retour, et vous ne pouvez donc pas vous téléporter.${prompt}
+  6499: 'Il en coûte ${number: 3} gil pour se téléporter au Point de retour #${number: 2} dans ${zone: 1[2]}.'
+  6500: 'Il n'y a pas de frais pour se téléporter au Point de retour #${number: 2} dans ${zone: 1[2]}.'
   6501: |-
-    Teleport? (Current gil: ${number: 0})
+    Se téléporter ? (Gil actuel : ${number: 0})
     ${selection-lines}
-    ${choice: 33}[Add to favorites/Remove from favorites].
-    Yes, please.
-    No, thank you.${prompt}
+    ${choice: 33}[Ajouter aux favoris/Retirer des favoris].
+    Oui, s'il vous plaît.
+    Non, merci.${prompt}
   6502: |-
-    Teleport to which region?
+    Se téléporter dans quelle région ?
     ${selection-lines}
-    On second thought, none.
-    Select from favorites.
-    Current region.
+    Après réflexion, aucune.
+    Sélectionner parmi les favoris.
+    Région actuelle.
     ${choice: 1}[San d'Oria/Movalpolos].
-    ${choice: 1}[Bastok/Tavnazian Arch].
+    ${choice: 1}[Bastok/Archipel Tavnazien].
     ${choice: 1}[Windurst/Lumoria].
-    ${choice: 1}[Jeuno/Mamool Ja Savage].
+    ${choice: 1}[Jeuno/Savage Mamool Ja].
     ${choice: 1}[Tavnazia/Halvung].
-    ${choice: 1}[West. Aht Urhgan/Arrapago Is].
-    ${choice: 1}[Adoulin Isles/Ruins of Alzadaal].
-    ${choice: 1}[Ronfaure/Ronfaure Front].
-    ${choice: 1}[Zulkheim/Norvallen Front].
-    ${choice: 1}[Norvallen/Gustaberg Front].
-    ${choice: 1}[Gustaberg/Derfland Front].
-    ${choice: 1}[Derfland/Sarutabaruta Front].
-    ${choice: 1}[Sarutabaruta/Aragoneu Front].
-    ${choice: 1}[Kolshushu/Fauregandi Front].
-    ${choice: 1}[Aragoneu/Valdeaunia Front].
-    ${choice: 1}[Fauregandi/East. Ulbuka].
+    ${choice: 1}[Ouest Aht Urhgan/Arrapago Is].
+    ${choice: 1}[Îles Adoulin/Ruines d'Alzadaal].
+    ${choice: 1}[Ronfaure/Front de Ronfaure].
+    ${choice: 1}[Zulkheim/Front de Norvallen].
+    ${choice: 1}[Norvallen/Front de Gustaberg].
+    ${choice: 1}[Gustaberg/Front de Derfland].
+    ${choice: 1}[Derfland/Front de Sarutabaruta].
+    ${choice: 1}[Sarutabaruta/Front d'Aragoneu].
+    ${choice: 1}[Kolshushu/Front de Fauregandi].
+    ${choice: 1}[Aragoneu/Front de Valdeaunia].
+    ${choice: 1}[Fauregandi/Est. Ulbuka].
     ${choice: 1}[Valdeaunia/Ra'Kaznar].
     ${choice: 1}[Qufim/].
     ${choice: 1}[Li'Telor/].
     ${choice: 1}[Kuzotz/].
     ${choice: 1}[Vollbow/].
-    ${choice: 1}[Elshimo Low/].
-    ${choice: 1}[Elshimo Up/].
+    ${choice: 1}[Elshimo Bas/].
+    ${choice: 1}[Elshimo Haut/].
     ${choice: 1}[Tu'Lia/].
-    Previous page.
-    Next page.${prompt}
+    Page précédente.
+    Page suivante.${prompt}
   6503: |-
-    Teleport where?
+    Se téléporter où ?
     ${selection-lines}
-    None of these.
-    A favorited location.
-    An original area.
-    A Rise of the Zilart area.
-    A Chains of Promathia area.
-    A Treasures of Aht Urhgan area.
-    A Wings of the Goddess area.
-    A Seekers of Adoulin area.${prompt}
-  6504: You may change the method of selecting the area of your desired home point to teleport to.
+    Aucun de ces endroits.
+    Un lieu favori.
+    Une zone originale.
+    Une zone de Rise of the Zilart.
+    Une zone de Chains of Promathia.
+    Une zone de Treasures of Aht Urhgan.
+    Une zone de Wings of the Goddess.
+    Une zone de Seekers of Adoulin.${prompt}
+  6504: Vous pouvez changer la méthode de sélection de la zone de votre point de retour souhaité pour la téléportation.
   6505: |-
-    Which setting would you like?
+    Quel réglage souhaitez-vous ?
     ${selection-lines}
-    My current setting.
-    Select by region.
-    Select by expansion.${prompt}
-  6506: 'You are now selecting by ${choice: 1}[region/expansion].'
+    Mon réglage actuel.
+    Sélectionner par région.
+    Sélectionner par extension.${prompt}
+  6506: 'Vous sélectionnez maintenant par ${choice: 1}[région/extension].'
   6507: |-
-    Teleport where?
+    Se téléporter où ?
     ${selection-lines}
-    None of these.
+    Aucun de ces endroits.
     ${zone: 1[2]} #${number: 17}.
     ${zone: 2[2]} #${number: 18}.
     ${zone: 3[2]} #${number: 19}.
@@ -16184,13 +16184,13 @@ entries:
     ${zone: 7[2]} #${number: 23}.
     ${zone: 8[2]} #${number: 24}.
     ${zone: 9[2]} #${number: 25}.
-    ${choice: 33}[Add to favorites/Remove from favorites].${prompt}
-  6508: 'Home Point #${number: 2} in ${zone: 1[2]} has been ${choice: 33}[registered to/removed from] your list of favorite locations.'
-  6509: Your list of favorite locations is full. You must delete an existing entry in order to register a new one.
+    ${choice: 33}[Ajouter aux favoris/Retirer des favoris].${prompt}
+  6508: 'Le Point de retour #${number: 2} dans ${zone: 1[2]} a été ${choice: 33}[ajouté à/retiré de] votre liste de lieux favoris.'
+  6509: Votre liste de lieux favoris est pleine. Vous devez supprimer une entrée existante pour en enregistrer une nouvelle.
   6510: |-
-    Delete which?
+    Supprimer quel ?
     ${selection-lines}
-    None of these.
+    Aucun de ces endroits.
     ${zone: 1[2]} #${number: 17}.
     ${zone: 2[2]} #${number: 18}.
     ${zone: 3[2]} #${number: 19}.
@@ -16200,40 +16200,40 @@ entries:
     ${zone: 7[2]} #${number: 23}.
     ${zone: 8[2]} #${number: 24}.
     ${zone: 9[2]} #${number: 25}.${prompt}
-  6511: The client sent an invalid value to the server!${prompt}
-  6512: You cannot receive mission assignments at this time.${prompt}
-  6513: I am in charge of assigning missions, but I am only allowed to do so to those whose allegiance is to Bastok.${prompt}
+  6511: Le client a envoyé une valeur invalide au serveur !${prompt}
+  6512: Vous ne pouvez pas recevoir de missions pour le moment.${prompt}
+  6513: Je suis responsable de l'attribution des missions, mais je ne suis autorisé à le faire qu'aux personnes dont l'allégeance est à Bastok.${prompt}
   6514: |-
-    You cannot undertake two missions at the same time.
-    Finish the one you are on now before asking for a new one.${prompt}
-  6515: Missions currently available are as follows:${prompt}
+    Vous ne pouvez pas entreprendre deux missions en même temps.
+    Terminez celle en cours avant de demander une nouvelle.${prompt}
+  6515: Les missions actuellement disponibles sont les suivantes :${prompt}
   6516: |-
-    Which mission will you undertake?
+    Quelle mission allez-vous entreprendre ?
     ${selection-lines}
-    The Zeruhn Report.
-    A Geological Survey.
-    Fetichism.
-    The Crystal Line.
-    Wading Beasts.
-    The Emissary.
+    Le Rapport Zeruhn.
+    Une Enquête Géologique.
+    Fétichisme.
+    La Ligne de Cristaux.
+    Les Bêtes des Marais.
+    L'Émissaire.
     2-3-1A.
     2-3-1B.
     2-3-2A.
     2-3-2B.
-    The Four Musketeers.
-    To the Forsaken Mines.
+    Les Quatre Mousquetaires.
+    Vers les Mines Abandonnées.
     Jeuno.
     ダミー.
-    Darkness Rising.
-    Xarcabard, Land of Truths.
-    Return of the Talekeeper.
-    The Pirates' Cove.
-    The Final Image.
-    On My Way.
-    The Chains That Bind Us.
-    Enter the Talekeeper.
-    The Salt of the Earth.
-    Where Two Paths Converge.
+    L'Ascension des Ténèbres.
+    Xarcabard, Terre des Vérités.
+    Le Retour du Gardien des Récits.
+    La Cachette des Pirates.
+    La Dernière Image.
+    En Route.
+    Les Chaînes qui Nous Lient.
+    Entrez dans le Gardien des Récits.
+    Le Sel de la Terre.
+    Où Deux Chemins se Rejoignent.
     ダミー１０.
     ダミー１１.
     ダミー１２.
@@ -16241,167 +16241,167 @@ entries:
     ダミー１４.
     ダミー１５.
     ダミー１６.
-    None.${prompt}
-  6517: I am in charge of assigning missions to Bastokers who wish to serve their country. Are you one of them?${prompt}
+    Aucun.${prompt}
+  6517: Je suis chargé de l'attribution des missions aux Bastokers qui souhaitent servir leur pays. En faites-vous partie ?${prompt}
   6518: |-
-    Have you come to undertake a mission?
+    Êtes-vous venu pour entreprendre une mission ?
     ${selection-lines}
-    Yes, I have.
-    No, maybe later.${prompt}
+    Oui, c'est bien cela.
+    Non, peut-être plus tard.${prompt}
   6519: |-
-    Will you accept this mission?
+    Accepterez-vous cette mission ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  6520: You have accepted the mission.${prompt}
-  6521: Then move along.${prompt}
+    Oui.
+    Non.${prompt}
+  6520: Vous avez accepté la mission.${prompt}
+  6521: Alors, passez votre chemin.${prompt}
   6522: |-
-    Good.
-    This is your first time going on a mission, is it not?${prompt}
+    Bien.
+    C'est votre première mission, n'est-ce pas ?${prompt}
   6523: |-
-    Your first assignment is not a difficult one.
-    The details are as follows:${prompt}
+    Votre première tâche n'est pas difficile.
+    Voici les détails :${prompt}
   6524: |-
-    You must go to the Zeruhn Mines in the western section of the Mines District.
-    Once there, you are to collect a report from the overseer.${prompt}
+    Vous devez vous rendre aux Mines de Zeruhn dans la section ouest du Quartier des Mines.
+    Une fois sur place, vous devrez recueillir un rapport auprès du superviseur.${prompt}
   6525: |-
-    You can consult the “Mission” section of the main menu to review your objectives.
-    Speed and efficiency are your priorities. Dismissed.${prompt}
+    Vous pouvez consulter la section « Mission » du menu principal pour revoir vos objectifs.
+    La rapidité et l'efficacité sont vos priorités. Repartissez.${prompt}
   6526: |-
-    The Chief Engineer is conducting new research, and has asked for someone to assist him.
-    He can be found in the Metalworks, to the east of the administrative section.${prompt}
+    Le Chef Ingénieur mène de nouvelles recherches et a demandé de l'aide.
+    Il se trouve dans les Ateliers, à l'est de la section administrative.${prompt}
   6527: |-
-    The Chief Engineer's laboratory is on the second floor of the Metalworks.
-    You don't know his name!? And you call yourself a Bastoker!${prompt}
+    Le laboratoire du Chef Ingénieur est au deuxième étage des Ateliers.
+    Vous ne connaissez pas son nom !? Et vous vous dites Bastoker !${prompt}
   6528: |-
-    The Chief Engineer's name is Cid. Any Bastoker would know that!
-    Now go and see him. He will give you the details of your mission.${prompt}
-  6529: The Palborough Mines, once our main source of mythril, have been under beastman control for some time.${prompt}
-  6530: 'We want you to hunt these beastmen, the Quadav, and bring back ${article} ${item-article: 4[2]}, ${article} ${item-article: 5[2]}, ${article} ${item-article: 6[2]}, and ${article} ${item-article: 7[2]} as proof of your accomplishments.${prompt}'
-  6531: You must present all four items to me or one of my colleagues in order to complete this mission.${prompt}
-  6532: Good, you've brought all four parts of the doll.${prompt}
+    Le nom du Chef Ingénieur est Cid. Tout Bastoker devrait le savoir !
+    Maintenant allez le voir. Il vous donnera les détails de votre mission.${prompt}
+  6529: Les Mines de Palborough, autrefois notre principale source de mythril, sont sous le contrôle des bêtes depuis un certain temps.${prompt}
+  6530: 'Nous souhaitons que vous chassiez ces bêtes, les Quadav, et rapportiez ${article} ${item-article: 4[2]}, ${article} ${item-article: 5[2]}, ${article} ${item-article: 6[2]}, et ${article} ${item-article: 7[2]} comme preuve de vos accomplissements.${prompt}'
+  6531: Vous devez présenter les quatre objets à moi ou à l'un de mes collègues pour compléter cette mission.${prompt}
+  6532: Bien, vous avez apporté toutes les quatre parties de la poupée.${prompt}
   6533: |-
-    I am raising your rank to 2 for completing this mission.
-    Congratulations.${prompt}
-  6534: If you've been to the Palborough Mines, you must know now the serious nature of the threat these beastmen pose to our civilization.${prompt}
-  6535: As a Bastoker, you are expected to take on more missions and go on conquests to preserve Bastok's brilliant future!${prompt}
-  6536: But I cannot give you a new mission at this time.${prompt}
-  6537: You need to collect rank points before taking on new missions.${prompt}
-  6538: You can receive rank points by participating in conquests and donating the crystals you acquire to guards, or by undertaking missions you've previously completed.${prompt}
-  6539: Ask the High Guard near the gatehouse if you wish to hear more about conquests.${prompt}
-  6540: Have you heard of a strange structure called the Crag of Dem? It is on the Konschtat Highlands, north of the Gustaberg Mountains.${prompt}
-  6541: They say that crystals are drained of their power if you take them to a certain section of that structure.${prompt}
-  6542: Chief Cid is currently investigating this strange phenomenon, and is asking for someone to bring back a faded crystal.${prompt}
-  6543: Go see him for a more detailed explanation of your objectives.${prompt}
-  6544: You want a crystal to use for this experiment? Are you not an adventurer? It should be easy for you to procure one.${prompt}
-  6545: 'You are to collect ${article} ${item-article: 7[2]} from beasts in the Dangruf Wadi.${prompt}'
+    Je vous élève au rang 2 pour avoir complété cette mission.
+    Félicitations.${prompt}
+  6534: Si vous êtes allé aux Mines de Palborough, vous devez maintenant comprendre la gravité de la menace que ces bêtes représentent pour notre civilisation.${prompt}
+  6535: En tant que Bastoker, vous êtes censé entreprendre davantage de missions et participer à des conquêtes pour préserver l'avenir brillant de Bastok !${prompt}
+  6536: Mais je ne peux pas vous donner une nouvelle mission pour le moment.${prompt}
+  6537: Vous devez collecter des points de rang avant de prendre de nouvelles missions.${prompt}
+  6538: Vous pouvez recevoir des points de rang en participant à des conquêtes et en faisant don des cristaux que vous acquérez aux gardes, ou en entreprenant des missions que vous avez déjà complètes.${prompt}
+  6539: Demandez au Haut-Garde près du poste de garde si vous souhaitez en savoir plus sur les conquêtes.${prompt}
+  6540: Avez-vous entendu parler d'une structure étrange appelée le Crag of Dem ? Elle se trouve dans les Highlands Konschtat, au nord des Montagnes de Gustaberg.${prompt}
+  6541: On dit que les cristaux perdent leur pouvoir si vous les apportez à une certaine section de cette structure.${prompt}
+  6542: Le Chef Cid enquête actuellement sur ce phénomène étrange et demande à quelqu'un de rapporter un cristal fané.${prompt}
+  6543: Allez le voir pour obtenir une explication plus détaillée de vos objectifs.${prompt}
+  6544: Vous voulez un cristal pour cette expérience ? N'êtes-vous pas un aventurier ? Il devrait être facile pour vous d'en obtenir un.${prompt}
+  6545: 'Vous devez collecter ${article} ${item-article: 7[2]} auprès des bêtes dans le Dangruf Wadi.${prompt}'
   6546: |-
-    Senator Alois is in need of some. Do not ask me why.
-    He can be found in the President's Office.${prompt}
+    Le Sénateur Alois en a besoin. Ne me demandez pas pourquoi.
+    Il se trouve au Bureau du Président.${prompt}
   6547: |-
-    You've acquired quite a reputation.
-    There is a new mission for you to tackle.${prompt}
+    Vous avez acquis une grande réputation.
+    Il y a une nouvelle mission pour vous.${prompt}
   6548: |-
-    First, speak to Sir Naji of the Mythril Musketeers at the President's Office.
-    This mission is of great import to the welfare of our nation.${prompt}
+    D'abord, parlez à Sir Naji des Mousquetaires de Mythril au Bureau du Président.
+    Cette mission est de grande importance pour le bien-être de notre nation.${prompt}
   6549: |-
-    I see you've made it back safely from your journey to Windurst and San d'Oria.
-    This new mission should not be hard for an experienced adventurer like you.${prompt}
-  6550: The Mythril Musketeers are planning an offensive on the Quadav stronghold.${prompt}
-  6551: Adventurers, including yourself, have been asked to join them on this operation.${prompt}
-  6552: You are to go meet Iron Eater, one of the Mythril Musketeers, to receive a full briefing.${prompt}
-  6553: The Gusgen Mines in the Konschtat Highlands have been dug to the bare rock and abandoned for some time...${prompt}
+    Je vois que vous êtes de retour sain et sauf de votre voyage à Windurst et San d'Oria.
+    Cette nouvelle mission ne devrait pas être difficile pour un aventurier expérimenté comme vous.${prompt}
+  6550: Les Mousquetaires de Mythril prévoient une offensive contre la forteresse des Quadav.${prompt}
+  6551: Les aventuriers, y compris vous-même, ont été invités à les rejoindre pour cette opération.${prompt}
+  6552: Vous devez rencontrer Iron Eater, l'un des Mousquetaires de Mythril, pour recevoir un briefing complet.${prompt}
+  6553: Les Mines de Gusgen dans les Highlands Konschtat ont été creusées jusqu'à la roche nue et abandonnées depuis un certain temps...${prompt}
   6554: |-
-    But lately, there have been reports that a rare ore can be found in them.
-    No one has claimed this new vein yet.${prompt}
-  6555: You are to bring back a sample of the ore to confirm these reports. A Galka adventurer named Davyad should be able to help you. He is said to have acquired a chunk of the ore when he was there last.${prompt}
+    Mais récemment, il y a eu des rapports indiquant qu'un minerai rare peut y être trouvé.
+    Personne n'a encore revendiqué ce nouveau gisement.${prompt}
+  6555: Vous devez rapporter un échantillon du minerai pour confirmer ces rapports. Un aventurier Galka nommé Davyad devrait être en mesure de vous aider. Il aurait acquis un morceau du minerai lorsqu'il était là-bas.${prompt}
   6556: |-
-    The item that Davyad brought back was ${article} ${item-article: 7[2]}. That is what you should seek as well.
-    Once you have the ore, hand them over to me or one of my colleagues.${prompt}
+    L'objet que Davyad a rapporté était ${article} ${item-article: 7[2]}. C'est ce que vous devez chercher également.
+    Une fois que vous avez le minerai, remettez-le moi ou à l'un de mes collègues.${prompt}
   6557: |-
-    You have succeeded in bringing back ${article} ${item-article: 7[2]}.
-    Good work, adventurer. This discovery may help rejuvenate Bastok's economy!${prompt}
-  6558: You have heard of Jeuno, have you not? The Bastokan government is currently looking for someone to send there, and your name is on the list of candidates.${prompt}
-  6559: The presidential aide, Sir Lucius himself, recommended you. It is a great honor--you should be proud!${prompt}
-  6560: Sir Lucius wishes to see you as soon as possible. Go meet him in his office in the administrative section at the top of the Metalworks.${prompt}
+    Vous avez réussi à rapporter ${article} ${item-article: 7[2]}.
+    Bon travail, aventurier. Cette découverte pourrait aider à revitaliser l'économie de Bastok !${prompt}
+  6558: Vous avez entendu parler de Jeuno, n'est-ce pas ? Le gouvernement bastoker recherche actuellement quelqu'un pour y être envoyé, et votre nom est sur la liste des candidats.${prompt}
+  6559: L'aide de camp présidentiel, Sir Lucius lui-même, vous a recommandé. C'est un grand honneur—vous devez être fier !${prompt}
+  6560: Sir Lucius souhaite vous voir dès que possible. Allez le rencontrer dans son bureau dans la section administrative en haut des Ateliers.${prompt}
   6561: |-
-    I have orders for you from the president himself.
-    You must have heard already, but he wants you to go to Fei'Yin.${prompt}
+    J'ai des ordres pour vous du président lui-même.
+    Vous avez dû entendre parler, mais il veut que vous alliez à Fei'Yin.${prompt}
   6562: |-
-    Go speak to Sir Naji at the President's Office.
-    He will show you in.${prompt}
-  6563: So, it has finally come to this... You are to infiltrate the Kindred's main stronghold of Zvahl.${prompt}
+    Allez parler à Sir Naji au Bureau du Président.
+    Il vous introduira.${prompt}
+  6563: Alors, il en est finalement arrivé là... Vous devez infiltrer le bastion principal des Kindred à Zvahl.${prompt}
   6564: |-
-    The president will brief you himself in his office.
-    Good luck, adventurer!${prompt}
+    Le président vous informera lui-même dans son bureau.
+    Bonne chance, aventurier !${prompt}
   6565: |-
-    Ah, you have returned from Jeuno.
-    Go to the President's Office right away.
-    Sir Naji will show you in.${prompt}
+    Ah, vous êtes de retour de Jeuno.
+    Allez immédiatement au Bureau du Président.
+    Sir Naji vous introduira.${prompt}
   6566: |-
-    The residential area is up ahead.
-    You will find your Mog House there.${prompt}
-  6567: I'm sure you already know by now, but would you like me to tell you about Mog Houses?${prompt}
+    La zone résidentielle est devant vous.
+    Vous trouverez votre Maison Mog là-bas.${prompt}
+  6567: Je suis sûr que vous savez déjà, mais souhaitez-vous que je vous parle des Maisons Mog ?${prompt}
   6568: |-
-    I haven't told you about Mog Houses, have I?
-    Do you have time now?${prompt}
+    Je ne vous ai pas encore parlé des Maisons Mog, n'est-ce pas ?
+    Avez-vous le temps maintenant ?${prompt}
   6569: |-
-    Listen to Mog House explanation?
+    Écouter l'explication de la Maison Mog ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
-  6570: A Mog House is your very own room in the residential area. You can do such things as store items and recover HP and MP there.${prompt}
-  6571: Your Mog House is also the only place where you can change jobs.${prompt}
-  6572: Since you are a citizen of Bastok, you already have a Mog House assigned to you in the residential area ahead. Feel free to use it at anytime.${prompt}
+    Oui.
+    Non.${prompt}
+  6570: Une Maison Mog est votre propre chambre dans la zone résidentielle. Vous pouvez y stocker des objets et récupérer HP et MP.${prompt}
+  6571: Votre Maison Mog est également le seul endroit où vous pouvez changer de métier.${prompt}
+  6572: Étant citoyen de Bastok, vous avez déjà une Maison Mog assignée dans la zone résidentielle devant vous. N'hésitez pas à l'utiliser à tout moment.${prompt}
   6573: |-
-    You have a Rent-a-Room in ${choice: 1}[San d'Oria/Bastok/Windurst/Jeuno/Kazham/Rabao/Norg/Al Zahbi].
-    You must check out if you wish to return the items stored there to your room in Bastok.${prompt}
+    Vous avez une Chambre à Louer à ${choice: 1}[San d'Oria/Bastok/Windurst/Jeuno/Kazham/Rabao/Norg/Al Zahbi].
+    Vous devez vérifier si vous souhaitez retourner les objets stockés là-bas à votre chambre à Bastok.${prompt}
   6574: |-
-    Check out of Rent-a-Room?
+    Vérifier la sortie de la Chambre à Louer ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
+    Oui.
+    Non.${prompt}
   6575: |-
-    ...Done.
-    The items you had stored in the room in ${choice: 1}[San d'Oria/Bastok/Windurst/Jeuno/Kazham/Rabao/Norg/Al Zahbi] have been moved to your Mog House in Bastok.${prompt}
+    ...Fait.
+    Les objets que vous aviez stockés dans la chambre à ${choice: 1}[San d'Oria/Bastok/Windurst/Jeuno/Kazham/Rabao/Norg/Al Zahbi] ont été déplacés dans votre Maison Mog à Bastok.${prompt}
   6576: |-
-    This is the residential area of Bastok.
-    Since you have a Rent-a-Room here, you are allowed to pass.${prompt}
+    Voici la zone résidentielle de Bastok.
+    Puisque vous avez une Chambre à Louer ici, vous êtes autorisé à passer.${prompt}
   6577: |-
-    This is the residential area of Bastok.
-    Non-citizens are required to rent a Rent-a-Room in order to enter this area.${prompt}
-  6578: If you get a Rent-a-Room, your stored items will be moved to Bastok and you will be able to use your new room like the Mog House in your home country.${prompt}
+    Voici la zone résidentielle de Bastok.
+    Les non-citoyens doivent louer une Chambre à Louer pour entrer dans cette zone.${prompt}
+  6578: Si vous obtenez une Chambre à Louer, vos objets stockés seront déplacés à Bastok et vous pourrez utiliser votre nouvelle chambre comme la Maison Mog dans votre pays d'origine.${prompt}
   6579: |-
-    Lease a Rent-a-Room?
+    Louer une Chambre à Louer ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
+    Oui.
+    Non.${prompt}
   6580: |-
-    ...Done.
-    You now have a room in Bastok's residential area.${prompt}
+    ...Fait.
+    Vous avez maintenant une chambre dans la zone résidentielle de Bastok.${prompt}
   6581: |-
-    The residential area is up ahead.
-    You will find your Mog House there.${prompt}
+    La zone résidentielle est devant vous.
+    Vous trouverez votre Maison Mog là-bas.${prompt}
   6582: |-
-    The residential area is up ahead.
-    You will find your Rent-a-Room there.${prompt}
-  6583: A Mog House is your very own room in the residential area. You can do such things as store items and recover HP and MP there.${prompt}
-  6584: Your Mog House is also the only place where you can change jobs.${prompt}
-  6585: You have a Mog House assigned to you in the residential area ahead. Feel free to use it at anytime.${prompt}
-  6586: Please don't hesitate to ask if you require my assistance.${prompt}
-  6587: How may I help you?${prompt}
-  6588: The Mog Houses of the following party members are open to visitation.${prompt}
-  6589: This way, ${choice-player-gender}[sir/madame].${prompt}
+    La zone résidentielle est devant vous.
+    Vous trouverez votre Chambre à Louer là-bas.${prompt}
+  6583: Une Maison Mog est votre propre chambre dans la zone résidentielle. Vous pouvez y stocker des objets et récupérer HP et MP.${prompt}
+  6584: Votre Maison Mog est également le seul endroit où vous pouvez changer de métier.${prompt}
+  6585: Vous avez une Maison Mog assignée dans la zone résidentielle devant vous. N'hésitez pas à l'utiliser à tout moment.${prompt}
+  6586: N'hésitez pas à demander si vous avez besoin de mon aide.${prompt}
+  6587: Comment puis-je vous aider ?${prompt}
+  6588: Les Maisons Mog des membres du groupe suivants sont ouvertes à la visite.${prompt}
+  6589: Par ici, ${choice-player-gender}[monsieur/madame].${prompt}
   6590: |-
-    What do you wish to do?
+    Que souhaitez-vous faire ?
     ${selection-lines}
-    Nothing in particular.
-    Ask for an explanation of Mog Houses.
-    Visit the Mog House of a party member.${prompt}
+    Rien de particulier.
+    Demander une explication des Maisons Mog.
+    Visiter la Maison Mog d'un membre du groupe.${prompt}
   6591: |-
-    Whose Mog House will you visit?
+    Quelle Maison Mog souhaitez-vous visiter ?
     ${selection-lines}
-    Never mind.
+    Laissez tomber.
     ${item: 1}
     ${item: 2}
     ${item: 3}
@@ -16419,146 +16419,146 @@ entries:
     ${item: 15}
     ${item: 16}
     ${item: 17}${prompt}
-  6592: That Mog House is not currently open for visits.${prompt}
-  6593: Tallying conquest results...${prompt}
-  6594: Conquest results tallied.${prompt}
-  6595: This region is currently under San d'Orian control.${prompt}
-  6596: This region is currently under Bastokan control.${prompt}
-  6597: This region is currently under Windurstian control.${prompt}
+  6592: Cette Maison Mog n'est pas actuellement ouverte aux visites.${prompt}
+  6593: Comptage des résultats de conquête...${prompt}
+  6594: Résultats de conquête comptabilisés.${prompt}
+  6595: Cette région est actuellement sous le contrôle de San d'Oria.${prompt}
+  6596: Cette région est actuellement sous le contrôle de Bastok.${prompt}
+  6597: Cette région est actuellement sous le contrôle de Windurst.${prompt}
   6598: |-
-    This region is currently under beastman control.
-    You cannot obtain crystals in this region.${prompt}
-  6599: This region is currently neutral.${prompt}
+    Cette région est actuellement sous le contrôle des bêtes.
+    Vous ne pouvez pas obtenir de cristaux dans cette région.${prompt}
+  6599: Cette région est actuellement neutre.${prompt}
   6600: |-
-    Global balance of power:
-    1st: San d'Oria
-    2nd: Windurst
-    3rd: Bastok${prompt}
-  6601: All three nations are tied for first place.${prompt}
+    Équilibre global des pouvoirs :
+    1er : San d'Oria
+    2e : Windurst
+    3e : Bastok${prompt}
+  6601: Les trois nations sont à égalité à la première place.${prompt}
   6602: |-
-    Global balance of power:
-    1st: San d'Oria and Windurst (tie)
-    3rd: Bastok${prompt}
+    Équilibre global des pouvoirs :
+    1er : San d'Oria et Windurst (égalité)
+    3e : Bastok${prompt}
   6603: |-
-    Global balance of power:
-    1st: San d'Oria
-    2nd: Bastok and Windurst (tie)${prompt}
+    Équilibre global des pouvoirs :
+    1er : San d'Oria
+    2e : Bastok et Windurst (égalité)${prompt}
   6604: |-
-    Global balance of power:
-    1st: San d'Oria
-    2nd: Bastok
-    3rd: Windurst${prompt}
-  6605: All three nations are tied for first place.${prompt}
+    Équilibre global des pouvoirs :
+    1er : San d'Oria
+    2e : Bastok
+    3e : Windurst${prompt}
+  6605: Les trois nations sont à égalité à la première place.${prompt}
   6606: |-
-    Global balance of power:
-    1st: San d'Oria and Bastok (tie)
-    3rd: Windurst${prompt}
+    Équilibre global des pouvoirs :
+    1er : San d'Oria et Bastok (égalité)
+    3e : Windurst${prompt}
   6607: |-
-    Global balance of power:
-    1st: San d'Oria
-    2nd: Bastok and Windurst (tie)${prompt}
+    Équilibre global des pouvoirs :
+    1er : San d'Oria
+    2e : Bastok et Windurst (égalité)${prompt}
   6608: |-
-    Global balance of power:
-    1st: Bastok
-    2nd: San d'Oria
-    3rd: Windurst${prompt}
-  6609: All three nations are tied for first place.${prompt}
+    Équilibre global des pouvoirs :
+    1er : Bastok
+    2e : San d'Oria
+    3e : Windurst${prompt}
+  6609: Les trois nations sont à égalité à la première place.${prompt}
   6610: |-
-    Global balance of power:
-    1st: San d'Oria and Bastok (tie)
-    3rd: Windurst${prompt}
+    Équilibre global des pouvoirs :
+    1er : Bastok et Windurst (égalité)
+    3e : San d'Oria${prompt}
   6611: |-
-    Global balance of power:
-    1st: Bastok
-    2nd: San d'Oria and Windurst (tie)${prompt}
+    Équilibre global des pouvoirs :
+    1er : Bastok
+    2e : San d'Oria et Windurst (égalité)${prompt}
   6612: |-
-    Global balance of power:
-    1st: Bastok
-    2nd: Windurst
-    3rd: San d'Oria${prompt}
-  6613: All three nations are tied for first place.${prompt}
+    Équilibre global des pouvoirs :
+    1er : Bastok
+    2e : Windurst
+    3e : San d'Oria${prompt}
+  6613: Les trois nations sont à égalité à la première place.${prompt}
   6614: |-
-    Global balance of power:
-    1st: Bastok and Windurst (tie)
-    3rd: San d'Oria${prompt}
+    Équilibre global des pouvoirs :
+    1er : Bastok et Windurst (égalité)
+    3e : San d'Oria${prompt}
   6615: |-
-    Global balance of power:
-    1st: Bastok
-    2nd: San d'Oria and Windurst (tie)${prompt}
+    Équilibre global des pouvoirs :
+    1er : Bastok
+    2e : San d'Oria et Windurst (égalité)${prompt}
   6616: |-
-    Global balance of power:
-    1st: Windurst
-    2nd: San d'Oria
-    3rd: Bastok${prompt}
+    Équilibre global des pouvoirs :
+    1er : Windurst
+    2e : San d'Oria
+    3e : Bastok${prompt}
   6617: |-
-    Global balance of power:
-    All three nations are tied for first place.${prompt}
+    Équilibre global des pouvoirs :
+    Les trois nations sont à égalité à la première place.${prompt}
   6618: |-
-    Global balance of power:
-    1st: San d'Oria and Windurst (tie)
-    3rd: Bastok${prompt}
+    Équilibre global des pouvoirs :
+    1er : San d'Oria et Windurst (égalité)
+    3e : Bastok${prompt}
   6619: |-
-    Global balance of power:
-    1st: Windurst
-    2nd: San d'Oria and Bastok (tie)${prompt}
+    Équilibre global des pouvoirs :
+    1er : Windurst
+    2e : San d'Oria et Bastok (égalité)${prompt}
   6620: |-
-    Global balance of power:
-    1st: Windurst
-    2nd: Bastok
-    3rd: San d'Oria${prompt}
-  6621: All three nations are tied for first place.${prompt}
+    Équilibre global des pouvoirs :
+    1er : Windurst
+    2e : Bastok
+    3e : San d'Oria${prompt}
+  6621: Les trois nations sont à égalité à la première place.${prompt}
   6622: |-
-    Global balance of power:
-    1st: Bastok and Windurst
-    2nd: San d'Oria${prompt}
+    Équilibre global des pouvoirs :
+    1er : Bastok et Windurst
+    2e : San d'Oria${prompt}
   6623: |-
-    Global balance of power:
-    1st: Windurst
-    2nd: San d'Oria and Bastok${prompt}
+    Équilibre global des pouvoirs :
+    1er : Windurst
+    2e : San d'Oria et Bastok${prompt}
   6624: |-
-    Conquest update:
-    This region is currently neutral.${prompt}
+    Mise à jour de la conquête :
+    Cette région est actuellement neutre.${prompt}
   6625: |-
-    Conquest update:
-    This region is currently under San d'Orian control.${prompt}
+    Mise à jour de la conquête :
+    Cette région est actuellement sous le contrôle de San d'Oria.${prompt}
   6626: |-
-    Conquest update:
-    This region is currently under Bastokan control.${prompt}
+    Mise à jour de la conquête :
+    Cette région est actuellement sous le contrôle de Bastok.${prompt}
   6627: |-
-    Conquest update:
-    This region is currently under Windurstian control.${prompt}
+    Mise à jour de la conquête :
+    Cette région est actuellement sous le contrôle de Windurst.${prompt}
   6628: |-
-    Conquest update:
-    This region is currently under beastman control.
-    You cannot obtain crystals in this region.${prompt}
-  6629: All three nations are at a deadlock.${prompt}
-  6630: The beastmen are on the rise.${prompt}
+    Mise à jour de la conquête :
+    Cette région est actuellement sous le contrôle des bêtes.
+    Vous ne pouvez pas obtenir de cristaux dans cette région.${prompt}
+  6629: Les trois nations sont en stagnation.${prompt}
+  6630: Les bêtes sont en hausse.${prompt}
   6631: |-
-    Regional influence:
+    Influence régionale :
     San d'Oria - Dominant${prompt}
   6632: |-
-    Regional influence:
-    San d'Oria - Major${prompt}
+    Influence régionale :
+    San d'Oria - Majeur${prompt}
   6633: |-
-    Regional influence:
-    San d'Oria - Minor${prompt}
+    Influence régionale :
+    San d'Oria - Mineur${prompt}
   6634: |-
-    Regional influence:
+    Influence régionale :
     San d'Oria - Minimal${prompt}
   6635: Bastok - Dominant${prompt}
-  6636: Bastok - Major${prompt}
-  6637: Bastok - Minor${prompt}
+  6636: Bastok - Majeur${prompt}
+  6637: Bastok - Mineur${prompt}
   6638: Bastok - Minimal${prompt}
   6639: Windurst - Dominant${prompt}
-  6640: Windurst - Major${prompt}
-  6641: Windurst - Minor${prompt}
+  6640: Windurst - Majeur${prompt}
+  6641: Windurst - Mineur${prompt}
   6642: Windurst - Minimal${prompt}
-  6643: Bastok and Windurst have formed an alliance.${prompt}
-  6644: San d'Oria and Windurst have formed an alliance.${prompt}
-  6645: San d'Oria and Bastok have formed an alliance.${prompt}
-  6646: Bastok and Windurst are currently allies.${prompt}
-  6647: San d'Oria and Windurst are currently allies.${prompt}
-  6648: San d'Oria and Bastok are currently allies.${prompt}
+  6643: Bastok et Windurst ont formé une alliance.${prompt}
+  6644: San d'Oria et Windurst ont formé une alliance.${prompt}
+  6645: San d'Oria et Bastok ont formé une alliance.${prompt}
+  6646: Bastok et Windurst sont actuellement alliés.${prompt}
+  6647: San d'Oria et Windurst sont actuellement alliés.${prompt}
+  6648: San d'Oria et Bastok sont actuellement alliés.${prompt}
   6649: |-
     所属国：${number: 0}
     判定：${number: 1}${prompt}
@@ -16575,27 +16575,27 @@ entries:
   6653: |-
     ${choice: 0}[サンドリア/バストゥーク/ウィンダス]の状況:${choice: 0}[劣勢/やや劣勢/やや優勢/優勢/膠着]
     武器の値段:${number: 2}、入れるポイント:${number: 3}${prompt}
-  6654: The beastmen are gaining power.${prompt}
-  6655: San d'Oria's regional control is now 10% closer to the first place country's!${prompt}
-  6656: Bastok's regional control is now 10% closer to the first place country's!${prompt}
-  6657: Windurst's regional control are now 10% closer to the first place country's!${prompt}
-  6658: San d'Oria's region points have increased!${prompt}
-  6659: Bastok's region points have increased!${prompt}
-  6660: Windurst's region points have increased!${prompt}
-  6661: San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.${prompt}
-  6662: Bastokan E.F. defeats beastmen hordes...Maintain current momentum.${prompt}
-  6663: Windurstian E.F. defeats beastmen hordes...Maintain current momentum.${prompt}
-  6664: A San d'Orian Expeditionary Force has been dispatched to this area.${prompt}
-  6665: A Bastokan Expeditionary Force has been dispatched to this area.${prompt}
-  6666: A Windurstian Expeditionary Force has been dispatched to this area.${prompt}
-  6667: 'E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.${prompt}'
-  6668: 'E.F. Influence: Fair...Region Status: Major...Maintain momentum.${prompt}'
-  6669: 'E.F. Influence: Poor...Region Status: Minor...Increase efforts.${prompt}'
-  6670: 'E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.${prompt}'
-  6671: 'E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.${prompt}'
-  6672: There was a curse on the beastmen's banner!${prompt}
-  6673: The curse of the beastmen's banner has been lifted!${prompt}
-  6674: There is a beastmen's banner.${prompt}
+  6654: Les bêtes gagnent en puissance.${prompt}
+  6655: Le contrôle régional de San d'Oria est maintenant à 10% plus proche du pays en première place !${prompt}
+  6656: Le contrôle régional de Bastok est maintenant à 10% plus proche du pays en première place !${prompt}
+  6657: Le contrôle régional de Windurst est maintenant à 10% plus proche du pays en première place !${prompt}
+  6658: Les points régionaux de San d'Oria ont augmenté !${prompt}
+  6659: Les points régionaux de Bastok ont augmenté !${prompt}
+  6660: Les points régionaux de Windurst ont augmenté !${prompt}
+  6661: L'E.F. san d'orien a vaincu les hordes de bêtes... Maintenez l'élan actuel.${prompt}
+  6662: L'E.F. bastokan a vaincu les hordes de bêtes... Maintenez l'élan actuel.${prompt}
+  6663: L'E.F. windurstien a vaincu les hordes de bêtes... Maintenez l'élan actuel.${prompt}
+  6664: Une force expéditionnaire san d'orienne a été envoyée dans cette zone.${prompt}
+  6665: Une force expéditionnaire bastokienne a été envoyée dans cette zone.${prompt}
+  6666: Une force expéditionnaire windurstienne a été envoyée dans cette zone.${prompt}
+  6667: 'Influence de l'E.F. : Grande... État de la région : Dominant... Maintenez le niveau actuel de combat.${prompt}'
+  6668: 'Influence de l'E.F. : Moyenne... État de la région : Majeur... Maintenez l'élan.${prompt}'
+  6669: 'Influence de l'E.F. : Faible... État de la région : Mineur... Augmentez les efforts.${prompt}'
+  6670: 'Influence de l'E.F. : Minimale... État de la région : Minimale... Augmentez les efforts de dix fois.${prompt}'
+  6671: 'Influence de l'E.F. : Aucune... État de la région : Sous contrôle des bêtes... Gardez les pertes au minimum.${prompt}'
+  6672: Il y avait une malédiction sur la bannière des bêtes !${prompt}
+  6673: La malédiction sur la bannière des bêtes a été levée !${prompt}
+  6674: Il y a une bannière des bêtes.${prompt}
   6675: 　${prompt}
   6676: 　${prompt}
   6677: 　${prompt}
@@ -16678,441 +16678,409 @@ entries:
     増えたポイント　${number: 0}
     増えたカウント　${number: 1}${prompt}
   6752: |-
-    Your fate rides on the changing winds of Vana'diel.
-    I can give you insight on the local weather.${prompt}
+    Votre destin dépend des vents changeants de Vana'diel.
+    Je peux vous donner des informations sur la météo locale.${prompt}
   6753: |-
-    What area's weather do you wish to know?
+    Quelle région souhaitez-vous connaître ?
     ${selection-lines}
-    Nowhere.
+    Nulle part.
     Ronfaure.
-    La Theine Plateau.
-    Valkurm Dunes.
-    Jugner Forest.
-    Batallia Downs.
+    Plateau de La Theine.
+    Dunes de Valkurm.
+    Forêt de Jugner.
+    Downs de Batallia.
     Gustaberg.
-    Konschtat Highlands.
-    Pashhow Marshlands.
-    Rolanberry Fields.
-    Beaucedine Glacier.
+    Highlands de Konschtat.
+    Marais de Pashhow.
+    Champs de Rolanberry.
+    Glacier de Beaucedine.
     Xarcabard.
-    Cape Teriggan.
-    Altepa Desert.
+    Cap Teriggan.
+    Désert d'Altepa.
     Sarutabaruta.
-    Tahrongi Canyon.
-    Buburimu Peninsula.
-    Meriphataud Mountains.
-    Sauromugue Champaign.
-    The Sanctuary of Zi'Tah.
-    Yuhtunga & Yhoator Jungles.
-    Qufim Island.
+    Canyon de Tahrongi.
+    Péninsule de Buburimu.
+    Montagnes de Meriphataud.
+    Champagne de Sauromugue.
+    Sanctuaire de Zi'Tah.
+    Jungles de Yuhtunga & Yhoator.
+    Île de Qufim.
     Tu'Lia.
     Ferry.
-    Airship.
+    Aéropage.
     Jeuno.
     Uleguerand Range.
-    Tavnazian Archipelago.
+    Archipel de Tavnazia.
     Riverne - Sites #A01 & #B01.${prompt}
-  6754: 'That area''s forecast for today is for ${weather-noun: 0[2]} with occasional ${weather-noun: 1[2]}. There is also a slight chance of ${weather-noun: 2[2]}, so caution is advised.${prompt}'
-  6755: 'The forecast for tomorrow is for ${weather-noun: 0[2]} with occasional ${weather-noun: 1[2]}. There is also a slight chance of ${weather-noun: 2[2]}, so caution is advised.${prompt}'
-  6756: 'And, the forecast for the day after tomorrow is for ${weather-noun: 0[2]} with occasional ${weather-noun: 1[2]}. There is also a slight chance of ${weather-noun: 2[2]}, so caution is advised.${prompt}'
-  6757: 'Today, that area''s weather will be ${weather-adjective: 0[2]} with a chance of ${weather-noun: 1[2]}.${prompt}'
-  6758: 'Tomorrow, the weather will be ${weather-adjective: 0[2]} with a chance of ${weather-noun: 1[2]}.${prompt}'
-  6759: 'And, the day after tomorrow, the weather will be ${weather-adjective: 0[2]} with a chance of ${weather-noun: 1[2]}.${prompt}'
-  6760: 'Today, the weather in that area will be ${weather-adjective: 0[2]}. There is also the possibility of ${weather-noun: 2[2]}, so caution is advised.${prompt}'
-  6761: 'Tomorrow, the weather will be ${weather-adjective: 0[2]}. There is also the possibility of ${weather-noun: 2[2]}, so caution is advised.${prompt}'
-  6762: 'And, the day after tomorrow, the weather will be ${weather-adjective: 0[2]}. There is also the possibility of ${weather-noun: 2[2]}, so caution is advised.${prompt}'
-  6763: 'The weather in that area today will be ${weather-adjective: 0[2]}.${prompt}'
-  6764: 'The weather tomorrow will be ${weather-adjective: 0[2]}.${prompt}'
-  6765: 'The weather the day after tomorrow will be ${weather-adjective: 0[2]}.${prompt}'
-  6766: And that's the report, straight from Vana'diel's official weather linkshell.${prompt}
+  6754: 'La prévision pour aujourd’hui est ${weather-noun: 0[2]} avec des ${weather-noun: 1[2]} occasionnels. Il y a également une légère chance de ${weather-noun: 2[2]}, donc soyez prudent.${prompt}'
+  6755: 'La prévision pour demain est ${weather-noun: 0[2]} avec des ${weather-noun: 1[2]} occasionnels. Il y a également une légère chance de ${weather-noun: 2[2]}, donc soyez prudent.${prompt}'
+  6756: 'Et, la prévision pour après-demain est ${weather-noun: 0[2]} avec des ${weather-noun: 1[2]} occasionnels. Il y a également une légère chance de ${weather-noun: 2[2]}, donc soyez prudent.${prompt}'
+  6757: 'Aujourd’hui, la météo dans cette zone sera ${weather-adjective: 0[2]} avec une chance de ${weather-noun: 1[2]}.${prompt}'
+  6758: 'Demain, la météo sera ${weather-adjective: 0[2]} avec une chance de ${weather-noun: 1[2]}.${prompt}'
+  6759: 'Et, après-demain, la météo sera ${weather-adjective: 0[2]} avec une chance de ${weather-noun: 1[2]}.${prompt}'
+  6760: 'Aujourd’hui, la météo dans cette zone sera ${weather-adjective: 0[2]}. Il y a également la possibilité de ${weather-noun: 2[2]}, donc soyez prudent.${prompt}'
+  6761: 'Demain, la météo sera ${weather-adjective: 0[2]}. Il y a également la possibilité de ${weather-noun: 2[2]}, donc soyez prudent.${prompt}'
+  6762: 'Et, après-demain, la météo sera ${weather-adjective: 0[2]}. Il y a également la possibilité de ${weather-noun: 2[2]}, donc soyez prudent.${prompt}'
+  6763: 'La météo dans cette zone aujourd’hui sera ${weather-adjective: 0[2]}.${prompt}'
+  6764: 'La météo demain sera ${weather-adjective: 0[2]}.${prompt}'
+  6765: 'La météo après-demain sera ${weather-adjective: 0[2]}.${prompt}'
+  6766: Et voilà le rapport, directement depuis le lienshell officiel de la météo de Vana'diel.${prompt}
   6767: |-
-    What area's weather do you wish to know?
+    Quelle région souhaitez-vous connaître ?
     ${selection-lines}
-    Nowhere.
-    Wajaom Woodlands.
-    Bhaflau Thickets.
-    Mount Zhayolm.
-    Caedarva Mire.${prompt}
+    Nulle part.
+    Bois de Wajaom.
+    Taillis de Bhaflau.
+    Mont Zhayolm.
+    Mire de Caedarva.${prompt}
   6768: |-
-    What area's weather do you wish to know?
+    Quelle région souhaitez-vous connaître ?
     ${selection-lines}
-    Nowhere.
-    Ceizak Battlegrounds.
-    Yahse Hunting Grounds.
+    Nulle part.
+    Champs de bataille de Ceizak.
+    Terres de chasse de Yahse.
     Foret de Hennetiel.
-    Morimar Basalt Fields.
-    Yorcia Weald.
-    Marjami Ravine.
-    Kamihr Drifts.${prompt}
-  6769: 'If you wish to ride a chocobo, you must possess ${keyitem-article: 7[2]} and have a high enough job level.${prompt}'
-  6770: 'You can rent a chocobo for ${number: 0} gil. I see you currently have ${number: 1} gil.${prompt}'
-  6771: You can rent a chocobo, but because your level is so low, you won't be able to ride for very long. Also, equipment that extends your riding time will have no effect.${prompt}
-  6772: 'If you still want one, it will cost you ${number: 0} gil. I see you currently have ${number: 1} gil.${prompt}'
+    Champs de basalte de Morimar.
+    Bois de Yorcia.
+    Ravine de Marjami.
+    Drifts de Kamihr.${prompt}
+  6769: 'Si vous souhaitez monter un chocobo, vous devez posséder ${keyitem-article: 7[2]} et avoir un niveau de job suffisamment élevé.${prompt}'
+  6770: 'Vous pouvez louer un chocobo pour ${number: 0} gil. Je vois que vous avez actuellement ${number: 1} gil.${prompt}'
+  6771: Vous pouvez louer un chocobo, mais étant donné que votre niveau est trop bas, vous ne pourrez pas monter très longtemps. De plus, l'équipement qui prolonge votre temps de monture n'aura aucun effet.${prompt}
+  6772: 'Si vous souhaitez toujours en louer un, cela vous coûtera ${number: 0} gil. Je vois que vous avez actuellement ${number: 1} gil.${prompt}'
   6773: |-
-    Do you wish to rent a chocobo?
+    Voulez-vous louer un chocobo ?
     ${selection-lines}
-    Yes, I do.
-    No, thank you.${prompt}
-  6774: You don't have enough gil.${prompt}
-  6775: I realize that you are in a hurry, ${choice-player-gender}[sir/ma'am]. However, might I make a simple request? One of our associate's chocobos has lost her way and cannot return home.${prompt}
-  6776: 'Would you be so kind as to deliver her to ${choice: 3}[the Kingdom/the Republic/the Federation/the Duchy/the Duchy/the Duchy/the hidden] stables in ${choice: 3}[Southern San d''Oria/the Bastok Mines/Windurst Woods/Upper Jeuno/Lower Jeuno/Port Jeuno/Norg]? ${prompt}'
+    Oui, je le souhaite.
+    Non, merci.${prompt}
+  6774: Vous n'avez pas assez de gil.${prompt}
+  6775: Je comprends que vous soyez pressé, ${choice-player-gender}[monsieur/madame]. Cependant, puis-je faire une simple demande ? L'un des chocobos de notre associé s'est égaré et ne peut rentrer chez lui.${prompt}
+  6776: 'Seriez-vous si aimable de le ramener aux écuries ${choice: 3}[du Royaume/de la République/de la Fédération/du Duché/du Duché/du Duché/du secret] à ${choice: 3}[Sud San d'Oria/les Mines de Bastok/les Bois de Windurst/Jeuno Supérieur/Jeuno Inférieur/Port Jeuno/Norg] ? ${prompt}'
   6777: |-
-    Lend a helping hand?
+    Prêt à donner un coup de main ?
     ${selection-lines}
-    I have better things to do.
-    Of course!${prompt}
+    J'ai mieux à faire.
+    Bien sûr !${prompt}
   6778: |-
-    Oh, thank you so very much!
-    You shall be rewarded by our associates upon delivery of the chocobo.${prompt}
+    Oh, merci beaucoup !
+    Vous serez récompensé par nos associés après la livraison du chocobo.${prompt}
   6779: |-
-    You cannot obtain the ${item-singular: 0[2]}.
-    Come back after sorting your inventory.${prompt}
-  6780: 'Would you be so kind as to deliver her to ${choice: 3}[the entrance to the Gustav Tunnel (B-8)/Bibiki Bay (G-10)/the entrance of Uggalepih Temple (J-11)]?${prompt}'
+    Vous ne pouvez pas obtenir ${item-singular: 0[2]}.
+    Revenez après avoir trié votre inventaire.${prompt}
+  6780: 'Seriez-vous si aimable de le livrer à ${choice: 3}[l'entrée du Tunnel de Gustav (B-8)/la Baie de Bibiki (G-10)/l'entrée du Temple d'Uggalepih (J-11)] ?${prompt}'
   6781: |-
-    Only those fulfilling both requirements set forth by the alliance may ride a chocobo.
-    First, you must be a soldier of a respectable level in the Allied Forces. Secondly, you must be in possession of ${keyitem-article: 7[2]}.${prompt}
+    Seules les personnes remplissant les deux conditions fixées par l'alliance peuvent monter un chocobo.
+    D'abord, vous devez être un soldat de niveau respectable dans les Forces Alliées. Deuxièmement, vous devez posséder ${keyitem-article: 7[2]}.${prompt}
   6782: |-
-    Any of our fine birds here will bear you directly to the frontlines of battle.
-    We charge a service fee of ${number: 0} Allied Notes, which goes towards seeing that the chocobos are well taken care of.
-    My records indicate that you currently have ${number: 1} Allied Notes.${prompt}
+    Chacun de nos magnifiques oiseaux peut vous mener directement sur les champs de bataille.
+    Nous facturons des frais de service de ${number: 0} Notes Alliées, qui servent à veiller au bon soin des chocobos.
+    Mes dossiers indiquent que vous avez actuellement ${number: 1} Notes Alliées.${prompt}
   6783: |-
-    Hmmm... It looks like you don't have enough Allied Notes.
-    Sorry, but these birds aren't going to feed and groom themselves.${prompt}
-  6784: 'I''m sorry, but we don''t put our chocobos in the hands of people with ${keyitem-article: 0[2]}. We wouldn''t want our feathered friends dying from fright now, would we?${prompt}'
-  6785: (DEBUG) Flag raised, kupo!${prompt}
-  6786: Welcome, Master! This is your home, the “Mog House,” kupo!${prompt}
-  6787: I'm a moogle! We moogles like taking care of houses and items! Nice to meet you, kupo!${prompt}
-  6788: I'll tell you all about your Mog House, kupo!${prompt}
+    Hmm... Il semble que vous n'ayez pas assez de Notes Alliées.
+    Désolé, mais ces oiseaux ne vont pas se nourrir et se faire dorloter tout seuls.${prompt}
+  6784: 'Je suis désolé, mais nous ne confions pas nos chocobos à ceux qui possèdent ${keyitem-article: 0[2]}. Nous ne voudrions pas que nos amis à plumes meurent de peur, n'est-ce pas ?${prompt}'
+  6785: (DEBUG) Drapeau levé, kupo !${prompt}
+  6786: Bienvenue, Maître ! Voici votre maison, la “Maison du Mog”, kupo !${prompt}
+  6787: Je suis un mog ! Nous, les mogs, aimons nous occuper des maisons et des objets ! Enchanté de vous rencontrer, kupo !${prompt}
+  6788: Je vais tout vous expliquer sur votre Maison du Mog, kupo !${prompt}
   6789: |-
-    First, the basics, kupo!
-    Open your main menu, Master. The button at the very bottom changes to “Mog House” when you're in your Mog House, kupo!${prompt}
-  6790: Press it and the “Mog House” menu will appear! Everything you can do in your Mog House is there, kupo!${prompt}
-  6791: There are lots of things you can do in your Mog House, kupo! It can be too much for some masters, kupo...${prompt}
-  6792: So I'll teach you about each one of them! Ask me what you want to know about, kupo!${prompt}
-  6793: Choose the Mog House command you want to know about, kupo!${prompt}
+    D'abord, les bases, kupo !
+    Ouvrez votre menu principal, Maître. Le bouton tout en bas devient “Maison du Mog” lorsque vous êtes dans votre Maison du Mog, kupo !${prompt}
+  6790: Appuyez dessus et le menu “Maison du Mog” apparaîtra ! Tout ce que vous pouvez faire dans votre Maison du Mog y est répertorié, kupo !${prompt}
+  6791: Il y a beaucoup de choses à faire dans votre Maison du Mog, kupo ! Ça peut être trop pour certains maîtres, kupo...${prompt}
+  6792: Alors je vais vous expliquer chacune d'entre elles ! Demandez-moi ce que vous souhaitez savoir, kupo !${prompt}
+  6793: Choisissez la commande de la Maison du Mog dont vous voulez connaître le fonctionnement, kupo !${prompt}
   6794: |-
-    What do you want to know about?
+    Que souhaitez-vous savoir ?
     ${selection-lines}
-    The Mog Safe.
-    Storage.
-    The Delivery Box.
-    Changing jobs.
-    Gardening.
-    Changing the layout.
-    Mog House invitations.
-    I got it, thanks, kupo!${prompt}
-  6795: The Mog Safe is where I keep items that you can't carry! It's an especially secure and solid safe, kupo!${prompt}
-  6796: You can only put so many items in it, kupo... But I'll guard them even if it means my life, kupo!${prompt}
-  6797: The Delivery Box is where you can send letters to friends and receive items from various places, kupo!${prompt}
-  6798: You should take the items from your Delivery Box and put them in your inventory when they arrive, kupo!${prompt}
-  6799: If your Delivery Box is full, no more deliveries can be made, and you can't send any mail either, kupo!${prompt}
-  6800: You can send items and gil to your friends with the “Send” command, kupo!${prompt}
-  6801: (Sometimes, if a special force takes hold, you can even deliver items with the "Exclusive" attribute, kupo...!)${prompt}
-  6802: Changing people's jobs is a secret ability only we moogles can use, kupo!${prompt}
-  6803: I take off all your equipment and take you to a mysterious place, kupo!${prompt}
-  6804: And...the rest is a secret, kupo!${prompt}
-  6805: All moogles like taking care of plants, kupo!${prompt}
-  6806: As long as you have a flowerpot and seeds, I'll make it my personal responsibility to look after the plants you raise, kupo!${prompt}
-  6807: This Mog House is your very own room, kupo! But it's still a little bare, kupo...${prompt}
-  6808: It needs some furniture and maybe some paintings to make it more cozy, kupo!${prompt}
-  6809: If you find any during your travels, I'll help you lay them out, kupo! I can't wait, kupo!${prompt}
-  6810: Storage space becomes available when you place furniture in your Mog House using the “Layout” command, kupo!${prompt}
+    La Mog Safe.
+    Stockage.
+    La Boîte de Livraison.
+    Changer de job.
+    Jardinage.
+    Changer la disposition.
+    Invitations à la Maison du Mog.
+    J'ai compris, merci, kupo !${prompt}
+  6795: La Mog Safe est l'endroit où je garde les objets que vous ne pouvez pas transporter ! C'est un coffre particulièrement sécurisé et solide, kupo !${prompt}
+  6796: Vous ne pouvez y placer qu'un nombre limité d'objets, kupo... Mais je les protégerai même si cela devait me coûter la vie, kupo !${prompt}
+  6797: La Boîte de Livraison est l'endroit où vous pouvez envoyer des lettres à vos amis et recevoir des objets de divers endroits, kupo !${prompt}
+  6798: Vous devriez retirer les objets de votre Boîte de Livraison et les mettre dans votre inventaire lorsqu'ils arrivent, kupo !${prompt}
+  6799: Si votre Boîte de Livraison est pleine, aucune autre livraison ne peut être effectuée et vous ne pouvez pas non plus envoyer de courrier, kupo !${prompt}
+  6800: Vous pouvez envoyer des objets et du gil à vos amis avec la commande “Envoyer”, kupo !${prompt}
+  6801: (Parfois, si une force spéciale prend le relais, vous pouvez même livrer des objets avec l'attribut "Exclusif", kupo... !)${prompt}
+  6802: Changer de job est une capacité secrète que seuls nous, les mogs, pouvons utiliser, kupo !${prompt}
+  6803: J'enlève tout votre équipement et vous emmène dans un endroit mystérieux, kupo !${prompt}
+  6804: Et... le reste est un secret, kupo !${prompt}
+  6805: Tous les mogs aiment s'occuper des plantes, kupo !${prompt}
+  6806: Tant que vous avez un pot de fleurs et des graines, je prendrai la responsabilité personnelle de m'occuper des plantes que vous cultivez, kupo !${prompt}
+  6807: Cette Maison du Mog est votre propre pièce, kupo ! Mais elle est encore un peu vide, kupo...${prompt}
+  6808: Il lui faut des meubles et peut-être des tableaux pour la rendre plus accueillante, kupo !${prompt}
+  6809: Si vous en trouvez pendant vos voyages, je vous aiderai à les disposer, kupo ! J'ai hâte, kupo !${prompt}
+  6810: L'espace de stockage devient disponible lorsque vous placez des meubles dans votre Maison du Mog en utilisant la commande “Disposition”, kupo !${prompt}
   6811: |-
-    It's almost exactly the same as using your Mog Safe, kupo!
-    Leave your items here for me to look after, kupo!${prompt}
-  6812: You can invite party and alliance members into your Mog House, kupo!${prompt}
-  6813: You can show off your expensive furniture, have tea parties, plan your next great adventure--the possibilities are endless, kupo!${prompt}
-  6814: Are you sure, kupo? You know everything about your Mog House, kupo?${prompt}
+    C'est presque exactement comme utiliser votre Mog Safe, kupo !
+    Laissez vos objets ici pour que je m'en occupe, kupo !${prompt}
+  6812: Vous pouvez inviter des membres de votre groupe et de votre alliance dans votre Maison du Mog, kupo !${prompt}
+  6813: Vous pouvez montrer vos meubles chers, organiser des goûters, planifier votre prochaine grande aventure -- les possibilités sont infinies, kupo !${prompt}
+  6814: Êtes-vous sûr, kupo ? Vous savez tout sur votre Maison du Mog, kupo ?${prompt}
   6815: |-
-    Are you sure?
+    Êtes-vous sûr ?
     ${selection-lines}
-    I'm sure!
-    Maybe I'm not so sure...${prompt}
-  6816: And finally, a little bit of advice!${prompt}
-  6817: If you ever run into any problems, just ask your fellow adventurers for help!${prompt}
-  6818: If you type “/ae Hello!”, then your message will be heard by many people.${prompt}
-  6819: If you type “/ae” followed by your issue or question, other adventurers will help you!${prompt}
-  6820: Remember that you can only do this while in town, kupo!${prompt}
+    Je suis sûr !
+    Peut-être que je ne suis pas si sûr...${prompt}
+  6816: Et enfin, un petit conseil !${prompt}
+  6817: Si vous rencontrez des problèmes, demandez simplement de l'aide à vos compagnons aventuriers !${prompt}
+  6818: Si vous tapez “/ae Bonjour !”, alors votre message sera entendu par de nombreuses personnes.${prompt}
+  6819: Si vous tapez “/ae” suivi de votre problème ou question, d'autres aventuriers vous aideront !${prompt}
+  6820: N'oubliez pas que vous ne pouvez faire cela que lorsque vous êtes en ville, kupo !${prompt}
   6821: |-
-    Okay, kupo!
-    Good luck on your adventuring, kupo!${prompt}
-  6822: Do you want me to teach you about your Mog House again, kupo?${prompt}
-  6823: |-
-    Ask about your Mog House again?
-    ${selection-lines}
-    Don't ask.
-    Ask.${prompt}
-  6824: |-
-    Over the mountains and the rolling hills,
-    I'll go wherever my master wills.♪${prompt}
-  6825: |-
-    Master!
-    I traveled all the way here at your bidding, kupo! Even a Rent-a-Room needs a moogle, kupo!${prompt}
-  6826: But there are a few things you can't do in a Rent-a-Room, kupo. Select “Mog House” from the main menu and check, kupo!${prompt}
-  6827: When you go back home, talk to the guard in front of the residential area to call me back to the Mog House, kupo!${prompt}
-  6828: |-
-    Master!
-    I have something to tell you, kupo!${prompt}
-  6829: 'I found this precious item under the ${item-singular: 3[2]} pillow, kupo!${prompt}'
-  6830: It's all yours, kupo!${prompt}
-  6831: 'I used the ${item-singular: 3[2]} to write a song for you, kupo!${prompt}'
-  6832: Here, kupo! Please think of the lonely moogle waiting for you back home when you hear this song, kupo!${prompt}
-  6833: 'I found this item in the back of one of the ${item-singular: 3[2]}''s drawers, kupo!${prompt}'
-  6834: It's all yours, kupo!${prompt}
-  6835: 'I found this in the back of the ${item-singular: 3[2]}, kupo!${prompt}'
-  6836: |-
-    It must be a gift from the heavens, kupo!
-    Here, take it, kupo!${prompt}
-  6837: 'I found this item inside the ${item-singular: 3[2]}, kupo!${prompt}'
-  6838: |-
-    Luck is on your side, kupo!
-    Take it, kupo!${prompt}
-  6839: 'I fished this item out of the ${item-singular: 3[2]}, kupo!${prompt}'
+    D'accord, kupo !
+    Bonne chance dans vos aventures,
   6840: |-
-    It was very hard work, kupo...
-    I'm very tired, kupo...${prompt}
-  6841: 'I found this behind the ${item-singular: 3[2]} painting, kupo!${prompt}'
+    C'était un travail très difficile, kupo...
+    Je suis très fatigué, kupo...${prompt}
+  6841: 'J'ai trouvé ceci derrière le ${item-singular: 3[2]} tableau, kupo !${prompt}'
   6842: |-
-    This must be what they mean when they say, there are many mysteries behind works of art, kupo!
-    It's all yours, kupo!${prompt}
-  6843: 'Something clattered inside the ${item-singular: 3[2]} when I shook it! Look what fell out when I turned it upside down, kupo!${prompt}'
-  6844: It's all yours, kupo!${prompt}
-  6845: 'I felt there was something strange about the ${item-singular: 3[2]}, and when I looked into it, I found this, kupo!${prompt}'
+    C'est ce qu'on entend quand on dit qu'il y a beaucoup de mystères derrière les œuvres d'art, kupo !
+    C'est tout à vous, kupo !${prompt}
+  6843: 'Quelque chose a tinter à l'intérieur du ${item-singular: 3[2]} quand je l'ai secoué ! Regardez ce qui est tombé quand je l'ai retourné, kupo !${prompt}'
+  6844: C'est tout à vous, kupo !${prompt}
+  6845: 'J'ai senti qu'il y avait quelque chose de bizarre avec le ${item-singular: 3[2]}, et quand j'ai regardé à l'intérieur, j'ai trouvé ceci, kupo !${prompt}'
   6846: |-
-    We moogles have very good intuition, kupo!
-    It's all yours, kupo!${prompt}
-  6847: Oh, Master! You won't believe what I found out on the doorstep this morning, kupo!${prompt}
+    Nous, les mogs, avons une très bonne intuition, kupo !
+    C'est tout à vous, kupo !${prompt}
+  6847: Oh, Maître ! Vous ne croirez pas ce que j'ai trouvé sur le pas de la porte ce matin, kupo !${prompt}
   6848: |-
-    At once so glorious and so ghastly, and just for you!
-    Think of it as a holiday gift from a humble moogle to his favorite (and only) master, kupo!${prompt}
-  6849: For your own safety, it is recommended you set the Mog House exit as your home point after changing jobs.${prompt}
-  6850: 'Is my assistance reaching you, Master? Your Mog House is currently aglow with ${choice: 0}[overwhelming/powerful/faint] ${choice: 1}[fire/ice/wind/earth/lightning/water/light/dark] energy, kupo!${prompt}'
-  6851: 'Is my assistance reaching you, Master? Your Mog House is currently aglow with ${choice: 0}[the overwhelming/the powerful/the faint] energy of many different elements, kupo!${prompt}'
-  6852: Each item of furniture you place using the “Layout” command corresponds to a different element, kupo! The type of energy that envelops your Mog House changes depending on those elements, kupo!${prompt}
-  6853: When that energy changes, my powers change as well, kupo! Master, you should try placing all sorts of furniture in your Mog House, kupo!${prompt}
+    À la fois si glorieux et si horrible, et juste pour vous !
+    Considérez-le comme un cadeau de vacances d'un humble mog à son maître préféré (et unique), kupo !${prompt}
+  6849: Pour votre propre sécurité, il est recommandé de définir la sortie de la Maison du Mog comme votre point de départ après avoir changé de job.${prompt}
+  6850: 'Mon assistance vous parvient-elle, Maître ? Votre Maison du Mog est actuellement illuminée par ${choice: 0}[une ${choice: 1}[intense/puissante/faible] ${choice: 1}[flamme/glace/vent/terre/foudre/eau/lumière/obscurité] énergie, kupo !${prompt}'
+  6851: 'Mon assistance vous parvient-elle, Maître ? Votre Maison du Mog est actuellement illuminée par ${choice: 0}[l'intense/la puissante/la faible] énergie de nombreux éléments différents, kupo !${prompt}'
+  6852: Chaque meuble que vous placez en utilisant la commande “Disposition” correspond à un élément différent, kupo ! Le type d'énergie qui enveloppe votre Maison du Mog change en fonction de ces éléments, kupo !${prompt}
+  6853: Lorsque cette énergie change, mes pouvoirs changent aussi, kupo ! Maître, vous devriez essayer de placer toutes sortes de meubles dans votre Maison du Mog, kupo !${prompt}
   6854: ${prompt}
   6855: mes7${prompt}
   6856: mes8${prompt}
   6857: mes9${prompt}
   6858: 'TEST-No.${number: 1}${prompt}'
-  6859: 'I found ${keyitem-article: 4[2]} inside the ${item-singular: 3[2]}, kupo!${prompt}'
+  6859: 'J'ai trouvé ${keyitem-article: 4[2]} à l'intérieur du ${item-singular: 3[2]}, kupo !${prompt}'
   6860: |-
-    Kupo...?
-    I sense that this ${item-singular: 3[2]} is very, very special! You should go to the store where you bought it and ask about it, kupo!${prompt}
+    Kupo... ?
+    Je sens que ce ${item-singular: 3[2]} est très, très spécial ! Vous devriez aller au magasin où vous l'avez acheté et demander des informations à ce sujet, kupo !${prompt}
   6861: |-
-    Master! Master!
-    Look what I found underneath the ${item-singular: 3[2]} this morning, kupo!${prompt}
+    Maître ! Maître !
+    Regardez ce que j'ai trouvé sous le ${item-singular: 3[2]} ce matin, kupo !${prompt}
   6862: |-
-    It has been wrapped and everything!
-    I wonder who it could be from, kupo!${prompt}
-  6863: 'Look what I found in your ${item-singular: 3[2]}!${prompt}'
+    C'est tout emballé et tout !
+    Je me demande de qui cela pourrait venir, kupo !${prompt}
+  6863: 'Regardez ce que j'ai trouvé dans votre ${item-singular: 3[2]} !${prompt}'
   6864: |-
-    You seem quite dehydrated lately, so maybe you should have it.
-    I'll try putting some more grapes in the barrel and see if I can make any more, kupo!${prompt}
-  6865: 'Your Mog Locker lease is valid until ${ts-year: 0}/${ts-month: 0}/${ts-day: 0} ${ts-hour: 0}:${ts-minute: 0}:${ts-second: 0}, kupo.${prompt}'
+    Vous semblez assez déshydraté ces derniers temps, alors peut-être devriez-vous le prendre.
+    Je vais essayer d'ajouter encore plus de raisins dans le fût et voir si je peux en faire d'autres, kupo !${prompt}
+  6865: 'Votre bail pour la Mog Locker est valide jusqu'au ${ts-year: 0}/${ts-month: 0}/${ts-day: 0} ${ts-hour: 0}:${ts-minute: 0}:${ts-second: 0}, kupo.${prompt}'
   6866: |-
-    The lease on your Mog Locker has expired, kupo.
-    Please trade ${article} ${item-article: 0[2]} to me or to Fubruhn in Aht Urhgan Whitegate.${prompt}
-  6867: 'Your Mog Locker lease has been extended until ${ts-year: 0}/${ts-month: 0}/${ts-day: 0} ${ts-hour: 0}:${ts-minute: 0}:${ts-second: 0}, kupo!${prompt}'
+    Le bail de votre Mog Locker a expiré, kupo.
+    Veuillez échanger ${article} ${item-article: 0[2]} avec moi ou avec Fubruhn à la Porte Blanche d'Aht Urhgan.${prompt}
+  6867: 'Votre bail pour la Mog Locker a été prolongé jusqu'au ${ts-year: 0}/${ts-month: 0}/${ts-day: 0} ${ts-hour: 0}:${ts-minute: 0}:${ts-second: 0}, kupo !${prompt}'
   6868: |-
-    Master, Master!
-    I found this in the ${item-singular: 3[2]}, kupo!${prompt}
+    Maître, Maître !
+    J'ai trouvé ceci dans le ${item-singular: 3[2]}, kupo !${prompt}
   6869: |-
-    It must be a present from the smilebringers.
-    Here, you should have it, kupo!${prompt}
-  6870: If you haven't already done so, you should go and speak with a woman named Alaune. She's at the Westgate in Southern San d'Oria, kupo.${prompt}
-  6871: If you haven't already done so, you should go and speak with a man named Gulldago. He's at the West Gate in Bastok Markets, kupo.${prompt}
-  6872: If you haven't already done so, you should go and speak with a woman named Selele. She's at Leviathan's Gate in Windurst Woods, kupo.${prompt}
+    Cela doit être un cadeau des souriants.
+    Tenez, vous devriez l'avoir, kupo !${prompt}
+  6870: Si vous ne l'avez pas encore fait, vous devriez aller parler à une femme nommée Alaune. Elle est à la Porte Ouest à Sud San d'Oria, kupo.${prompt}
+  6871: Si vous ne l'avez pas encore fait, vous devriez aller parler à un homme nommé Gulldago. Il est à la Porte Ouest dans les Marchés de Bastok, kupo.${prompt}
+  6872: Si vous ne l'avez pas encore fait, vous devriez aller parler à une femme nommée Selele. Elle est à la Porte de Léviathan dans les Bois de Windurst, kupo.${prompt}
   6873: |-
-    Master! What ${choice: 7}[an egg-ceptional specimen/egg-ceptional specimens] you have there!
-    Now, if you'll just let me have a look-see, kupo...${prompt}
-  6874: We egg-tach this thingamajig to that thingamabob, just like so, kupo...${prompt}
-  6875: Now for the coup d'egg-grace...!${prompt}
+    Maître ! Quel ${choice: 7}[exemplaire d'œuf/exemplaires d'œufs] vous avez là !
+    Maintenant, si vous me laissez jeter un œil, kupo...${prompt}
+  6874: Nous attachons cet objet à ce machin, comme ceci, kupo...${prompt}
+  6875: Maintenant, pour le coup d'œuf-grâce... !${prompt}
   6876: |-
-    Voila! Isn't she a beauty, kupo?
-    Utterly egg-squisite workmanship, I do degg-clare!${prompt}
-  6877: We egg-stract this doodad from that doohickey, just like so, kupo...${prompt}
+    Voilà ! N'est-elle pas magnifique, kupo ?
+    Un travail complètement egg-squis, je le déclare !${prompt}
+  6877: Nous extrayons ce bidule de ce truc, comme ceci, kupo...${prompt}
   6878: |-
-    Voila! Your original egg-redients, entirely egg-tact, kupo!
-    If you change your mind, just trade them back to me or one of my moogle egg-sociates!${prompt}
+    Voilà ! Vos ingrédients d'origine, entièrement egg-tacts !
+    Si vous changez d'avis, échangez-les simplement avec moi ou avec l'un de mes collègues mogs !${prompt}
   6879: |-
-    Oh, Master, look at this! I was poking around in the drawers of your ${item-singular: 3[2]}, when this ${item-singular: 4[2]} just popped out!
-    I guess you never know what you're going to find until you look for it, kupo!${prompt}
+    Oh, Maître, regardez ceci ! Je fouillais dans les tiroirs de votre ${item-singular: 3[2]}, quand ce ${item-singular: 4[2]} est simplement sorti !
+    Je suppose qu'on ne sait jamais ce que l'on va trouver jusqu'à ce qu'on cherche, kupo !${prompt}
   6880: |-
-    Isn't the aroma positively scrumptious?
-    It's all yours, kupo! Consider it a present for being the magnificent master that you are!${prompt}
+    N'est-ce pas l'arôme absolument délicieux ?
+    C'est tout à vous, kupo ! Considérez-le comme un cadeau pour être le maître magnifique que vous êtes !${prompt}
   6881: |-
-    Here, I want you to have it. In fact, I insist, kupo!
-    Consider it a present for being the magnificent master that you are!${prompt}
-  6882: 'Look at what I found while cleaning out the ${item-singular: 3[2]}: ${article} ${item-article: 4[2]}!${prompt}'
+    Tenez, je veux que vous l'ayez. En fait, j'insiste, kupo !
+    Considérez-le comme un cadeau pour être le maître magnifique que vous êtes !${prompt}
+  6882: 'Regardez ce que j'ai trouvé en nettoyant le ${item-singular: 3[2]} : ${article} ${item-article: 4[2]} !${prompt}'
   6883: |-
-    Here, I want you to have it. In fact, I insist, kupo!
-    Consider it a present for being the magnificent master that you are!${prompt}
+    Tenez, je veux que vous l'ayez. En fait, j'insiste, kupo !
+    Considérez-le comme un cadeau pour être le maître magnifique que vous êtes !${prompt}
   6884: ボタン押すと次へ進みます${prompt}
-  6885: "     \n     It all began with a raindrop,\n     or so the legend says...${prompt}"
+  6885: "     \n     Tout a commencé avec une goutte de pluie,\n     ou du moins, c'est ce que dit la légende...${prompt}"
   6886: |-
-    Master! Oh, master, look!
-    We've sprung a leak, kupo!
-    Just look at it drip, drip, dripping away!${prompt}
+    Maître ! Oh, maître, regardez !
+    Nous avons une fuite, kupo !
+    Regardez comment ça goutte, goutte, goutte !${prompt}
   6887: |-
-    What a terribly troubling turn of events, kupo!
-    But have no fear! Sit tight and you'll see why I'm the most renowned handymoogle in the three nations!${prompt}
+    Quelle tournure des événements tellement troublante, kupo !
+    Mais n'ayez crainte ! Restez tranquille et vous verrez pourquoi je suis le plus renommé des mogs réparateurs des trois nations !${prompt}
   6888: |-
-    Goddess have mercy on my moogle soul. Look at this mess!
-    Rotting roof boards! Rusted nails, kupo!${prompt}
-  6889: Why, it's a miracle this tottering, tumble-down shanty--I mean, this beautiful abode of yours--is still standing, master!${prompt}
+    Déesse aie pitié de mon âme de mog. Regardez ce désastre !
+    Planches de toit pourries ! Clous rouillés, kupo !${prompt}
+  6889: Pourquoi, c'est un miracle que ce tas de débris instable -- je veux dire, ce magnifique chez-vous -- soit encore debout, maître !${prompt}
   6890: |-
-    Anyhow, this simply won't do, kupo.
-    We must make repairs before we have water up to my little wings!${prompt}
-  6891: 'I figure all I''ll need is a good ${item-singular: 0[2]}, ${article} ${item-article: 1[2]}, and ${article} ${item-article: 2[2]} to have this fixed up good as new, kupo!${prompt}'
+    Quoi qu'il en soit, cela ne peut pas continuer, kupo.
+    Nous devons faire les réparations avant d'avoir de l'eau jusqu'à mes petites ailes !${prompt}
+  6891: 'Je pense qu'il me faut juste un bon ${item-singular: 0[2]}, ${article} ${item-article: 1[2]}, et ${article} ${item-article: 2[2]} pour réparer tout ça comme neuf, kupo !${prompt}'
   6892: |-
-    Could I trouble you to track them down?
-    While you're out, I'll patch up the other problem spots.${prompt}
+    Pourriez-vous vous charger de les retrouver ?
+    Pendant que vous êtes dehors, je vais réparer les autres endroits problématiques.${prompt}
   6893: |-
-    And do hurry, Master!
-    Lest you return to find your poor moogle friend lying prostrate in a pernicious puddle of rainwater, kupo...${prompt}
+    Et dépêchez-vous, Maître !
+    Au risque de revenir et de trouver votre pauvre ami mog étendu dans une mare de pluie, kupo...${prompt}
   6894: |-
-    Thank you, Master, but our leak is in another Mog House!
-    Bring this to me when we're back home in ${choice: 0}[San d'Oria/Bastok/Windurst], won't you, kupo?${prompt}
+    Merci, Maître, mais notre fuite est dans une autre Maison du Mog !
+    Apportez-moi cela quand nous serons de retour chez nous à ${choice: 0}[San d'Oria/Bastok/Windurst], d'accord, kupo ?${prompt}
   6895: |-
-    You've found them, kupo! I knew I could count on you.
-    That's what I tell all my moogle buddies. “Why, my master is the boldest, brightest, bestest master of them all!”
-    Now we just take these, and...${prompt}
+    Vous les avez trouvés, kupo ! Je savais que je pouvais compter sur vous.
+    C'est ce que je dis à tous mes amis mogs. “Pourquoi, mon maître est le plus audacieux, brillant, et le meilleur des maîtres !”
+    Maintenant, prenons ces éléments, et...${prompt}
   6896: |-
-    Kupoooooo～there you have it! Better than new!
-    Why, a bevy of wild buffalo could barge in here this second and it wouldn't budge an ilm, I say!${prompt}
-  6897: Which reminds me, I went ahead and relayed the requisite reports to my manager at the MHMU.${prompt}
+    Kupoooooo～voilà ! Mieux que neuf !
+    Pourquoi, un troupeau de buffles sauvages pourrait entrer ici maintenant et cela ne bougerait pas d'un pouce, je le dis !${prompt}
+  6897: Cela me rappelle, j'ai relayé les rapports requis à mon responsable du MHMU.${prompt}
   6898: |-
-    But wouldn't you know it, kupo?
-    It seems there's been a trifling bit of trouble at one of our Rent-a-Rooms in Jeuno as well!${prompt}
+    Mais croyez-le ou non, kupo ?
+    Il semble qu'il y ait eu un petit problème dans l'un de nos Locaux à Jeuno également !${prompt}
   6899: |-
-    You know the one, right across from Durable Shields.
-    Whatever could have gone wrong, kupo?${prompt}
+    Vous savez lequel, juste en face de Durable Shields.
+    Que pourrait-il bien s'être passé, kupo ?${prompt}
   6900: |-
-    Well, there's nothing to be learned lollygagging around here.
-    Come, Master, we're off to Jeuno!${prompt}
-  6901: "     \n     Little did anyone suspect that this\n     would prove to be only the beginning\n     of a harrowing nightmare unheard of\n     in the annals of mooglekind...${prompt}"
+    Eh bien, il n'y a rien à apprendre en traînant ici.
+    Allons, Maître, direction Jeuno !${prompt}
+  6901: "     \n     Peu de gens se doutaient que cela\n     ne serait que le début\n     d'un cauchemar terrifiant jamais entendu\n     dans les annales de la mogitude...${prompt}"
   6902: |-
-    Do something?
+    Faire quelque chose ?
     ${selection-lines}
-    Read instructions.
-    Change parameters.
-    Teleport to key locations.
-    Warp to home point.
-    Receive items.
-    Obtain 100,000,000 gil.
-    Do nothing.${prompt}
+    Lire les instructions.
+    Changer les paramètres.
+    Se téléporter vers des lieux clés.
+    Se téléporter au point de départ.
+    Recevoir des objets.
+    Obtenir 100 000 000 gil.
+    Ne rien faire.${prompt}
   6903: |-
-    Hail, adventurer!
-    I am the most mighty of moogles, my miraculous magicks able to alter all manner of arcane attributes!${prompt}
+    Salutations, aventurier !
+    Je suis le plus puissant des mogs, ma magie miraculeuse capable de modifier toutes sortes d'attributs arcaniques !${prompt}
   6904: |-
-    But be forewarned, kupo!
-    Once modified by moogle magick, your parameters cannot be restored to their prior state!${prompt}
+    Mais soyez averti, kupo !
+    Une fois modifiés par la magie mog, vos paramètres ne peuvent pas être restaurés à leur état précédent !${prompt}
   6905: |-
-    Furthermore, you may trade a moogle storage slip to me to wipe it clean, or mystically entrust its entire contents to me.
-    Quite convenient, wouldn't you say?${prompt}
+    De plus, vous pouvez échanger un bon de stockage mog contre une remise à zéro, ou me confier mystiquement son contenu entier.
+    Plutôt pratique, n'est-ce pas ?${prompt}
   6906: |-
-    Adjust parameters?
+    Ajuster les paramètres ?
     ${selection-lines}
-    Edit main job level.
-    Reset ability recast timer.
-    Obtain merit points.
-    Receive all spells/rolls/attachments.
-    Unlock all jobs and support jobs.
-    Cancel.${prompt}
+    Modifier le niveau de job principal.
+    Réinitialiser le temps de recast des capacités.
+    Obtenir des points de mérite.
+    Recevoir tous les sorts/rouleaux/accessoires.
+    Déverrouiller tous les jobs et jobs de soutien.
+    Annuler.${prompt}
   6907: |-
-    Choose a level between ${number: 0} and ${number: 1}.
-    All combat skills will be set to the maximum values for that level.
-    (Entering an invalid figure will abort the process.)
-  6908: 'Your job level has been set to ${number: 0}!${prompt}'
-  6909: Recast timers will be reset, allowing you to use all abilities.${prompt}
-  6910: '${color-alt: 121}Recast timers for all abilities reset!'
-  6911: All merit point categories will be increased to their maximum values.${prompt}
-  6912: '${color-alt: 121}Maximum available merit points obtained!'
-  6913: You will obtain all magic spells, attachments, and rolls.${prompt}
-  6914: '${color-alt: 121}All magic spells, attachments, and rolls obtained!'
+    Choisissez un niveau entre ${number: 0} et ${number: 1}.
+    Toutes les compétences de combat seront réglées aux valeurs maximales pour ce niveau.
+    (Entrer une valeur invalide annulera le processus.)
+  6908: 'Votre niveau de job a été réglé à ${number: 0} !${prompt}'
+  6909: Les temps de recast seront réinitialisés, vous permettant d'utiliser toutes les capacités.${prompt}
+  6910: '${color-alt: 121}Temps de recast de toutes les capacités réinitialisés !'
+  6911: Toutes les catégories de points de mérite seront augmentées à leurs valeurs maximales.${prompt}
+  6912: '${color-alt: 121}Points de mérite disponibles au maximum obtenus !'
+  6913: Vous obtiendrez tous les sorts, accessoires et rouleaux.${prompt}
+  6914: '${color-alt: 121}Tous les sorts, accessoires et rouleaux obtenus !'
   6915: |-
-    You will gain access to all jobs.
-    All support jobs will also be unlocked.${prompt}
-  6916: '${color-alt: 121}Unlocked all jobs and support jobs!'
-  6917: Choose your destination.
+    Vous aurez accès à tous les jobs.
+    Tous les jobs de soutien seront également déverrouillés.${prompt}
+  6916: '${color-alt: 121}Tous les jobs et jobs de soutien déverrouillés !'
+  6917: Choisissez votre destination.
   6918: |-
-    Select a category:
+    Sélectionnez une catégorie :
     ${selection-lines}
-    Towns.
-    Outposts.
-    Staging Points.
-    Cancel.${prompt}
+    Villes.
+    Avant-postes.
+    Points de rassemblement.
+    Annuler.${prompt}
   6919: |-
-    Where would you like to teleport to?
+    Où souhaitez-vous vous téléporter ?
     ${selection-lines}
-    Northern San d'Oria.
-    Bastok Mines.
-    Port Windurst.
-    Port Jeuno.
+    San d'Oria Nord.
+    Mines de Bastok.
+    Port de Windurst.
+    Port de Jeuno.
     Selbina.
     Mhaura.
     Kazham.
     Norg.
     Rabao.
-    Tavnazian Safehold.
-    Aht Urhgan Whitegate.
+    Refuge de Tavnazia.
+    Porte Blanche d'Aht Urhgan.
     Nashmau.
-    Chocobo Circuit.
-    Past Southern San d'Oria.
-    Past Bastok Markets.
-    Past Windurst Waters.
-    Cancel.${prompt}
-  6920: 'Teleporting to ${choice: 0}[Northern San d''Oria/Bastok Mines/Port Windurst/Port Jeuno/Selbina/Mhaura/Kazham/Norg/Rabao/the Tavnazian Safehold/Aht Urhgan Whitegate/Nashmau/the Chocobo Circuit/Past Southern San d''Oria/Past Bastok Markets/Past Windurst Waters]!${prompt}'
+    Circuit Chocobo.
+    Passé Sud San d'Oria.
+    Passé Marchés de Bastok.
+    Passé Eaux de Windurst.
+    Annuler.${prompt}
+  6920: 'Téléportation vers ${choice: 0}[San d''Oria Nord/Mines de Bastok/Port de Windurst/Port de Jeuno/Selbina/Mhaura/Kazham/Norg/Rabao/le Refuge de Tavnazia/Porte Blanche d''Aht Urhgan/Nashmau/le Circuit Chocobo/Passé Sud San d''Oria/Passé Marchés de Bastok/Passé Eaux de Windurst] !${prompt}'
   6921: |-
-    Where would you like to teleport to?
+    Où souhaitez-vous vous téléporter ?
     ${selection-lines}
-    The Ronfaure Region.
-    The Zulkheim Region.
-    The Norvallen Region.
-    The Gustaberg Region.
-    The Derfland Region.
-    The Sarutabaruta Region.
-    The Kolshushu Region.
-    The Aragoneu Region.
-    The Fauregandi Region.
-    The Valdeaunia Region.
-    Qufim Island.
-    The Li'Telor Region.
-    The Kuzotz Region.
-    The Vollbow Region.
-    The Elshimo Lowlands Region.
-    The Elshimo Uplands Region.
+    La région de Ronfaure.
+    La région de Zulkheim.
+    La région de Norvallen.
+    La région de Gustaberg.
+    La région de Derfland.
+    La région de Sarutabaruta.
+    La région de Kolshushu.
+    La région d'Aragoneu.
+    La région de Fauregandi.
+    La région de Valdeaunia.
+    L'île de Qufim.
+    La région de Li'Telor.
+    La région de Kuzotz.
+    La région de Vollbow.
+    Les basses terres d'Elshimo.
+    Les hauteurs d'Elshimo.
     Tu'Lia.
-    The Tavnazian Archipelago.
-    Cancel.${prompt}
-  6922: 'Teleporting to ${choice: 0}[Ronfaure/Zulkheim/Norvallen/Gustaberg/Derfland/Sarutabaruta/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li''Telor/Kuzotz/Vollbow/the Elshimo Lowlands/the Elshimo Uplands/Tu''Lia/the Tavnazian Archipelago]!${prompt}'
+    L'archipel de Tavnazia.
+    Annuler.${prompt}
+  6922: 'Téléportation vers ${choice: 0}[Ronfaure/Zulkheim/Norvallen/Gustaberg/Derfland/Sarutabaruta/Kolshushu/Aragoneu/Fauregandi/Valdeaunia/Qufim/Li''Telor/Kuzotz/Vollbow/les basses terres d''Elshimo/les hauteurs d''Elshimo/Tu''Lia/l''archipel de Tavnazia] !${prompt}'
   6923: |-
-    Teleport to which staging point?
+    Téléportez-vous vers quel point de rassemblement ?
     ${selection-lines}
-    Azouph Isle.
+    Île d'Azouph.
     Mamool Ja.
     Halvung.
-    Dvucca Isle.
-    Ilrusi Atoll.
-    Nyzul Isle.
-    Cancel.${prompt}
-  6924: 'Teleporting to the ${choice: 0}[Azouph Isle/Mamool Ja/Halvung/Dvucca Isle/Ilrusi Atoll/Nyzul Isle] staging point!${prompt}'
-  6925: '${color-alt: 121}Congratulations, you are now a gillionaire!'
+    Île de Dvucca.
+    Atoll d'Ilrusi.
+    Île de Nyzul.
+    Annuler.${prompt}
+  6924: 'Téléportation vers le ${choice: 0}[Île d'Azouph/Mamool Ja/Halvung/Île de Dvucca/Atoll d'Ilrusi/Île de Nyzul] point de rassemblement !${prompt}'
+  6925: '${color-alt: 121}Félicitations, vous êtes maintenant un milliardaire !${prompt}'
   6926: |-
-    Select an item category.
+    Sélectionnez une catégorie d'objet.
     ${selection-lines}
-    Weapons.
-    Armor.
-    Expendable items.
-    Medicine or food.
-    Instant magic scrolls.
-    Storage slips.
-    Cancel.${prompt}
+    Armes.
+    Armure.
+    Objets consommables.
+    Médecine ou nourriture.
+    Parchemins de magie instantanée.
+    Bons de stockage.
+    Annuler.${prompt}
   6927: |-
-    Which item do you wish to obtain?
+    Quel objet souhaitez-vous obtenir ?
     ${selection-lines}
-    Previous page.
+    Page précédente.
     ${lettercase: 1}${article} ${item-article: 0[2]}.
     ${lettercase: 1}${article} ${item-article: 1[2]}.
     ${lettercase: 1}${article} ${item-article: 2[2]}.
@@ -17133,222 +17101,221 @@ entries:
     ${lettercase: 1}${article} ${item-article: 17[2]}.
     ${lettercase: 1}${article} ${item-article: 18[2]}.
     ${lettercase: 1}${article} ${item-article: 19[2]}.
-    Next page.
-    Cancel.${prompt}
-  6928: You selected the item displayed.${prompt}
+    Page suivante.
+    Annuler.${prompt}
+  6928: Vous avez sélectionné l'objet affiché.${prompt}
   6929: |-
-    Obtain ${article} ${item-article: 0[2]}?
+    Obtenir ${article} ${item-article: 0[2]} ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
+    Oui.
+    Non.${prompt}
   6930: |-
-    Enter the quantity you wish to obtain.
-    (Entering an invalid figure will abort the process.)
-  6931: 'Adjust the properties of this ${item-singular: 0[2]}?${prompt}'
+    Entrez la quantité que vous souhaitez obtenir.
+    (Entrer une valeur invalide annulera le processus.)
+  6931: 'Ajuster les propriétés de ${item-singular: 0[2]} ?${prompt}'
   6932: |-
-    Adjust the storage slip?
+    Ajuster le bon de stockage ?
     ${selection-lines}
-    Cancel.
-    Entrust all items.
-    Clear contents.${prompt}
-  6933: '${color-alt: 121}All items on the ${item-singular: 0[2]} have been entrusted!'
-  6934: '${color-alt: 121}The contents of the ${item-singular: 0[2]} have been wiped clean!'
+    Annuler.
+    Confier tous les objets.
+    Effacer le contenu.${prompt}
+  6933: '${color-alt: 121}Tous les objets sur ${item-singular: 0[2]} ont été confiés !${prompt}'
+  6934: '${color-alt: 121}Le contenu de ${item-singular: 0[2]} a été complètement effacé !${prompt}'
   6935: |-
-    ${color-alt: 141}*Note:*
-    Unlocked jobs will be reflected upon leaving the Mog House.
-  6936: You may use one of the instruments in your Mog House to play a different tune.${prompt}
-  6937: Play music from which instrument?
+    ${color-alt: 141}*Note :*
+    Les emplois déverrouillés seront reflétés après avoir quitté la Maison Mog.
+  6936: Vous pouvez utiliser un des instruments dans votre Maison Mog pour jouer une autre mélodie.${prompt}
+  6937: Jouer de la musique avec quel instrument ?
   6938: |-
-    Select an instrument.
+    Sélectionnez un instrument.
     ${selection-lines}
-    None for now.
+    Aucun pour l'instant.
     ${lettercase: 1}${item-singular: 0[2]}.
     ${lettercase: 1}${item-singular: 1[2]}.
     ${lettercase: 1}${item-singular: 2[2]}.
     ${lettercase: 1}${item-singular: 3[2]}.${prompt}
   6939: |-
-    Change to what song?
+    Changer de chanson ?
     ${selection-lines}
-    Don't change at all.
-    Track: ${choice: 1}[???/Mog House/Awakening/Echoes of a Zephyr/Bustle of the Capital].
-    Track: ${choice: 2}[???/Vana'diel March/Belief/The Cosmic Wheel/Jeweled Boughs].
-    Track: ${choice: 3}[???/The Kingdom of San d'Oria/A Realm of Emptiness/The Destiny Destroyers/Bandits' Market].
-    Track: ${choice: 4}[???/Chateau d'Oraguille/Distant Worlds/Hume Male/Illusions in the Mist].
-    Track: ${choice: 5}[???/Ronfaure/Forever Today/Hume Female/#53].
-    Track: ${choice: 6}[???/The Republic of Bastok/Rhapsodies of Vana'diel/Elvaan Male/#54].
-    Track: ${choice: 7}[???/Metalworks/Awakening (FFRK Ver.)/Elvaan Female/#55].
-    Track: ${choice: 8}[???/Gustaberg/Full Speed Ahead!/Tarutaru Male/#56].
-    Track: ${choice: 9}[???/The Federation of Windurst/The Celestial Capital - Al'Taieu/Tarutaru Female/#57].
-    Track: ${choice: 10}[???/Heavens Tower/The Grand Duchy of Jeuno/Mithra/#58].
-    Track: ${choice: 11}[???/Sarutabaruta/Ru'Lude Gardens/Galka/#59].
-    Track: ${choice: 12}[???/The Sacred City of Adoulin/Devils' Delight/Jeuno - Starlight Celebration -/#60].
-    Track: ${choice: 13}[???/The Pioneers/Griffons Never Die/Dash de Chocobo/#61].
-    Track: ${choice: 14}[???/Kazham/Thunder of the March/Circuit de Chocobo/#62].
-    Track: ${choice: 15}[???/The Sanctuary of Zi'Tah/Stargazing/Run Chocobo Run!/#63].
-    Track: ${choice: 16}[???/Tu'Lia/Autumn Footfalls/Choc-a-bye Baby/#64].
-    Previous page.
-    Next page.${prompt}
+    Ne rien changer.
+    Piste : ${choice: 1}[???/Maison Mog/Éveil/Échos d'une Brise/Foules de la Capitale].
+    Piste : ${choice: 2}[???/Marche de Vana'diel/Croyance/La Roue Cosmique/Branches Joaillées].
+    Piste : ${choice: 3}[???/Le Royaume de San d'Oria/Un Royaume de Néant/Les Destructeurs du Destin/Marché des Bandits].
+    Piste : ${choice: 4}[???/Château d'Oraguille/Mondes Distants/Hume Masculin/Illusions dans la Brume].
+    Piste : ${choice: 5}[???/Ronfaure/Pour Toujours Aujourd'hui/Hume Féminin/#53].
+    Piste : ${choice: 6}[???/La République de Bastok/Rhapsodies de Vana'diel/Elvaan Masculin/#54].
+    Piste : ${choice: 7}[???/Ateliers/Mélodie (Version FFRK)/Elvaan Féminin/#55].
+    Piste : ${choice: 8}[???/Gustaberg/À Plein Régime !/Tarutaru Masculin/#56].
+    Piste : ${choice: 9}[???/La Fédération de Windurst/La Capitale Céleste - Al'Taieu/Tarutaru Féminin/#57].
+    Piste : ${choice: 10}[???/Tour des Cieux/Le Grand Duché de Jeuno/Mithra/#58].
+    Piste : ${choice: 11}[???/Sarutabaruta/Jardins Ru'Lude/Galka/#59].
+    Piste : ${choice: 12}[???/La Ville Sacrée d'Adoulin/Joie des Démoniaques/Jeuno - Célébration de la Lumière -/#60].
+    Piste : ${choice: 13}[???/Les Pionniers/Les Griffons Ne Mourront Jamais/Dash de Chocobo/#61].
+    Piste : ${choice: 14}[???/Kazham/Orage de la Marche/Circuit de Chocobo/#62].
+    Piste : ${choice: 15}[???/Le Sanctuaire de Zi'Tah/Observation des Étoiles/Cours Chocobo !/#63].
+    Page précédente.
+    Page suivante.${prompt}
   6940: |-
-    Change music?
+    Changer de musique ?
     ${selection-lines}
-    Not now.
-    Track: Selbina.
-    Track: Fighters of the Crystal.
-    Track: A New Horizon.
-    Track: Ragnarok.
-    Track: Clash of Standards.
-    Track: Echoes of Creation.
-    Track: Luck of the Mog.
-    Track: Feast of the Ladies.
-    Track: Abyssea.
-    Track: Melodies Errant.
-    Track: Ronfaure.
-    Track: Autumn Footfalls.
-    Track: Main Theme.
-    Track: Mog House.${prompt}
+    Pas maintenant.
+    Piste : Selbina.
+    Piste : Les Combattants du Cristal.
+    Piste : Un Nouveau Horizon.
+    Piste : Ragnarok.
+    Piste : Confrontation des Standards.
+    Piste : Échos de la Création.
+    Piste : Chance du Mog.
+    Piste : Festin des Dames.
+    Piste : Abysse.
+    Piste : Mélodies Errantes.
+    Piste : Ronfaure.
+    Piste : Pas d'Automne.
+    Piste : Thème Principal.
+    Piste : Maison Mog.${prompt}
   6941: |-
-    Change music?
+    Changer de musique ?
     ${selection-lines}
-    Not now.
-    Mog House.
-    Distant Worlds.${prompt}
+    Pas maintenant.
+    Maison Mog.
+    Mondes Distants.${prompt}
   6942: |-
-    Change music?
+    Changer de musique ?
     ${selection-lines}
-    Not now.
-    Mog House.
-    The Pioneers.${prompt}
+    Pas maintenant.
+    Maison Mog.
+    Les Pionniers.${prompt}
   6943: |-
-    Select this song?
+    Sélectionner cette chanson ?
     ${selection-lines}
-    Yes, this sounds splendid!
-    No, I've changed my tune.${prompt}
-  6944: This song cannot yet be played.
-  6945: Hang on! I have an amazing announcement!${prompt}
+    Oui, cela semble splendide !
+    Non, j'ai changé d'avis.${prompt}
+  6944: Cette chanson ne peut pas encore être jouée.
+  6945: Attendez ! J'ai une annonce incroyable à faire !${prompt}
   6946: |-
-    The hallowed halls of your house are even more exciting!
-    Why? Because now there's a second floor, kupo!${prompt}
-  6947: But before you bash your way in, I've got a trifling task for you to tackle.${prompt}
-  6948: Capricious Mithra cubs have cajoled critical information out of the M.H.M.U., and I want you to wrest it from them!${prompt}
-  6949: Visit the three nations and question them, kupo!${prompt}
-  6950: Now you know the nitty-gritty, so enjoy your new floor, kupo!${prompt}
-  6951: Kupopo? You mean you already know?${prompt}
-  6952: Magnificent and marvelous! Then proceed without delay!${prompt}
-  6953: Enjoy extra space to store your sundries!${prompt}
-  6954: Remodel your room to fit your finicky tastes!${prompt}
-  6955: Incorporate ostentatious overseas objects! All this and more!${prompt}
-  6956: But only on the second floor, kupo. I like the first floor as it is.${prompt}
-  6957: And as for your potted plants--they only persevere on the ground, kupo.${prompt}
-  6958: And moghancement effects only activate for furnishings fitted to the first floor.${prompt}
-  6959: Wish we could help more, but we spend enormous amounts of energy on one floor already!${prompt}
-  6960: Go forth and frolic in your new abode, kupo!${prompt}
-  6961: You can access the antechambers from the front door. Enjoy!${prompt}
-  6962: '${lettercase: 1}${item-plural: 3[2]} might bring a certain je ne sais quoi to your Mog House, kupo!${prompt}'
-  6963: Ah, I never thought that this day would come, kupo...${prompt}
-  6964: Indeed, it seems like just yesterday that we first met here.${prompt}
-  6965: I have watched with wonder as you grew before my very eyes, kupo.${prompt}
-  6966: In fact, I heard many tales of your boundless bravery from my friends across the world.${prompt}
-  6967: Every time, it made me feel much like a proud parent would.${prompt}
-  6968: It was like I was right there with you, kupo.${prompt}
-  6969: That is why I ceaselessly cleaned your Mog House, merrily managed your belongings, and watered your plants.${prompt}
-  6970: I couldn't really think of any other ways to help you, kupo.${prompt}
-  6971: However, I heard about the trials and tribulations that you've been through.${prompt}
-  6972: Valhalla, the Maelstrom Mage, Chaos...${prompt}
+    Les salles sacrées de votre maison sont encore plus excitantes !
+    Pourquoi ? Parce qu'il y a maintenant un deuxième étage, kupo !${prompt}
+  6947: Mais avant de vous précipiter, j'ai une petite tâche pour vous.${prompt}
+  6948: Les petits Mithras capricieux ont extorqué des informations cruciales au M.H.M.U., et je veux que vous les leur repreniez !${prompt}
+  6949: Visitez les trois nations et interrogez-les, kupo !${prompt}
+  6950: Maintenant que vous savez tout, profitez bien de votre nouvel étage, kupo !${prompt}
+  6951: Kupopo ? Vous savez déjà ?${prompt}
+  6952: Magnifique et merveilleux ! Alors procédez sans délai !${prompt}
+  6953: Profitez de l'espace supplémentaire pour stocker vos affaires !${prompt}
+  6954: Réaménagez votre pièce selon vos goûts !${prompt}
+  6955: Intégrez des objets exubérants venus de l'étranger ! Tout cela et plus encore !${prompt}
+  6956: Mais seulement au deuxième étage, kupo. J'aime le premier étage tel qu'il est.${prompt}
+  6957: Quant à vos plantes en pot--elles ne prospèrent que sur le sol, kupo.${prompt}
+  6958: Et les effets de moghancement ne s'activent que pour les meubles installés au premier étage.${prompt}
+  6959: Nous aimerions pouvoir vous aider davantage, mais nous dépensons déjà une énergie énorme pour un seul étage !${prompt}
+  6960: Allez vous amuser dans votre nouvelle demeure, kupo !${prompt}
+  6961: Vous pouvez accéder aux antichambres depuis la porte d'entrée. Profitez-en !${prompt}
+  6962: '${lettercase: 1}${item-plural: 3[2]} pourraient ajouter un certain je ne sais quoi à votre Maison Mog, kupo !${prompt}'
+  6963: Ah, je n'aurais jamais pensé que ce jour arriverait, kupo...${prompt}
+  6964: En effet, il semble que c'était hier que nous nous sommes rencontrés pour la première fois.${prompt}
+  6965: J'ai regardé avec émerveillement comme vous grandissiez devant mes yeux, kupo.${prompt}
+  6966: En fait, j'ai entendu beaucoup de récits sur votre bravoure sans bornes de la part de mes amis à travers le monde.${prompt}
+  6967: Chaque fois, cela me rendait fier comme un parent le serait.${prompt}
+  6968: C'était comme si j'étais là avec vous, kupo.${prompt}
+  6969: C'est pourquoi j'ai continuellement nettoyé votre Maison Mog, géré joyeusement vos affaires et arrosé vos plantes.${prompt}
+  6970: Je ne pouvais vraiment pas penser à d'autres façons de vous aider, kupo.${prompt}
+  6971: Cependant, j'ai entendu parler des épreuves et tribulations que vous avez traversées.${prompt}
+  6972: Valhalla, le Mage du Maelström, Chaos...${prompt}
   6973: |-
-    Kupopopo!
-    Now I can actually assist you!${prompt}
-  6974: It is time for us to joyfully join forces, kupo!${prompt}
+    Kupopopo !
+    Maintenant je peux réellement vous aider !${prompt}
+  6974: Il est temps pour nous de joindre nos forces avec joie, kupo !${prompt}
   6975: |-
-    We can discuss details at the stone circle in the La Theine Plateau!
-    I'll be waiting for you there, kupo!${prompt}
-  6976: You go on ahead, and we'll see each other soon!${prompt}
+    Nous pouvons discuter des détails au cercle de pierre dans le Plateau de La Theine !
+    Je vous y attendrai, kupo !${prompt}
+  6976: Vous pouvez y aller, et nous nous verrons bientôt !${prompt}
   6977: |-
-    I am charged with the task of assisting novice adventurers.
-    What would you like to know?${prompt}
+    Je suis chargé d'aider les aventuriers novices.
+    Que souhaitez-vous savoir ?${prompt}
   6978: |-
-    What would you like to know?
+    Que souhaitez-vous savoir ?
     ${selection-lines}
-    How do I give items to people?
-    Where can I fight monsters?
-    What are quests and missions?
-    I want to see a map of the city.
-    Nothing for now.${prompt}
+    Comment donner des objets aux gens ?
+    Où puis-je combattre des monstres ?
+    Qu'est-ce que les quêtes et les missions ?
+    Je veux voir une carte de la ville.
+    Rien pour l'instant.${prompt}
   6979: |-
-    Giving items to other people is called “trading.”
-    It is done by selecting “Trade” from the main menu on the right.${prompt}
+    Donner des objets aux autres s'appelle “échanger.”
+    Cela se fait en sélectionnant “Échanger” dans le menu principal à droite.${prompt}
   6980: |-
-    You must target the person either before or after selecting “Trade.”
-    Then just choose the items you wish to give the person when your inventory window appears.${prompt}
+    Vous devez cibler la personne avant ou après avoir sélectionné “Échanger.”
+    Ensuite, il vous suffit de choisir les objets que vous souhaitez donner à la personne lorsque la fenêtre de votre inventaire apparaît.${prompt}
   6981: |-
-    “Trading” is crucial to completing quests and missions, and also during conquests.
-    Remember it well.${prompt}
-  6982: 'If you have ${article} ${item-article: 7[2]} in your possession, use “Trade” now to give it to me. I will hand you some starting gil in return.${prompt}'
-  6983: Before you take on any fiends, there are a few things you should remember. First, always have weapons and armor equipped, and spells memorized from scrolls.${prompt}
-  6984: Second, always “check” your target before engaging it. Never take on a foe that seems too strong for you to defeat alone.${prompt}
-  6985: Third, when you are in a party, make it a habit to cast lots for your share of the party “spoils” after successfully defeating a monster.${prompt}
-  6986: Some people in town will ask you to do certain tasks for them. These are called “quests.” Complete them, and they should reward you for your efforts.${prompt}
-  6987: There are also tasks you can do for your country, known as “missions.” There is a guard at each gate charged with assigning them. Speak to the guards for more details.${prompt}
-  6988: Come to me if there is anything more you would like to know.${prompt}
+    “Échanger” est crucial pour accomplir des quêtes et des missions, ainsi que pendant les conquêtes.
+    Souvenez-vous-en bien.${prompt}
+  6982: 'Si vous avez ${article} ${item-article: 7[2]} en votre possession, utilisez “Échanger” maintenant pour me le donner. Je vous remettrai un peu de gil de départ en échange.${prompt}'
+  6983: Avant d'affronter des démons, il y a quelques choses dont vous devez vous souvenir. Tout d'abord, ayez toujours des armes et des armures équipées, et des sorts mémorisés à partir de rouleaux.${prompt}
+  6984: Deuxièmement, “vérifiez” toujours votre cible avant de l'engager. Ne prenez jamais un ennemi qui semble trop fort pour vous vaincre seul.${prompt}
+  6985: Troisièmement, lorsque vous êtes en groupe, habituez-vous à tirer au sort votre part des “butins” du groupe après avoir vaincu un monstre.${prompt}
+  6986: Certaines personnes en ville vous demanderont de faire certaines tâches pour elles. Ce sont des “quêtes.” Complétez-les, et elles devraient vous récompenser pour vos efforts.${prompt}
+  6987: Il y a aussi des tâches que vous pouvez faire pour votre pays, appelées “missions.” Il y a un garde à chaque porte chargé de les attribuer. Parlez aux gardes pour plus de détails.${prompt}
+  6988: Venez me voir s'il y a quelque chose de plus que vous aimeriez savoir.${prompt}
   6989: |-
-    ${lettercase: 1}${article} ${item-article: 7[2]}, good.
-    Here is your starting gil.${prompt}
+    ${lettercase: 1}${article} ${item-article: 7[2]}, bien.
+    Voici votre gil de départ.${prompt}
   6990: |-
-    Here is a map of the entire city.
-    You are currently in ${choice: 1}[the Mines District/the Markets District/Port Bastok/the Metalworks].${prompt}
-  6991: Use the “Map” in the main menu for a more detailed view of your surroundings.${prompt}
-  6992: You would do well to speak with a man named Gulldago. You can find him by the West Gate in Bastok Markets.${prompt}
+    Voici une carte de toute la ville.
+    Vous êtes actuellement dans ${choice: 1}[le Quartier des Mines/le Quartier des Marchés/Port Bastok/les Ateliers].${prompt}
+  6991: Utilisez le “Carte” dans le menu principal pour une vue plus détaillée de vos environs.${prompt}
+  6992: Vous feriez bien de parler à un homme nommé Gulldago. Vous pouvez le trouver près de la Porte Ouest dans les Marchés de Bastok.${prompt}
   6993: |-
-    Inquire about what?
+    Renseignez-vous sur quoi ?
     ${selection-lines}
-    I want to find some quests!
-    I want to try the tutorial event!
-    Teach me about Records of Eminence!
-    Teach me about the Trust initiative!
-    I want a map of my current area!
-    I want maps of Bastok!
-    How do I give items to people?
-    How do I fight outside town?
-    What are quests and missions?
-    I have other questions.
-    Nothing for now.${prompt}
-  6994: I can bestow some magical markings on your map of the Bastok area if you want to know some helpful spots.${prompt}
-  6995: There are vendors that sell maps in both Bastok Markets and Port Bastok, but the former is closer.${prompt}
-  6996: The map vendor's in one of the tents up that stairway to the north.${prompt}
-  6997: If you're looking for someone selling maps, head down those stairs to the south and keep going until you reach an open area. The vendor's tent should be there.${prompt}
-  6998: We've prepared a variety of instructional tasks for Bastokers new to the whole adventuring thing.${prompt}
-  6999: If you're interested, talk to Gulldago near the gate to South Gustaberg in Bastok Markets.${prompt}
-  7000: First, head west of here, then turn north towards a tunnel. Pass through it and you should arrive at the markets.${prompt}
-  7001: Head west of here until you can't go any further, then turn south and cross over Rye Bridge. That should get you to the markets.${prompt}
-  7002: Once you're there, go find Gulldago. I'll mark him on your map for you.${prompt}
-  7003: To confirm what you've marked, select “Markers” under “Map” in the main menu, then press the right arrow key.${prompt}
-  7004: You can also select “Wide Scan” under the “Map” submenu to search for people in your vicinity.${prompt}
-  7005: Whether you're new to Vana'diel or a veteran chomping at the bit, Records of Eminence is a great way to easily participate in a variety of content and earn dazzling rewards.${prompt}
-  7006: Open up the main menu, go to the right, and select “Objective List” under the “Quests” submenu.${prompt}
-  7007: From there, open up the “Tutorial” menu and select “Basics”, and get started with “First Step Forward.”${prompt}
-  7008: I'll even give you a little hint for completing “First Step Forward.”${prompt}
-  7009: Go forth in Bastok Markets and speak with the designated individual. Here, let me place a marker on your map.${prompt}
-  7010: Records of Eminence has a little bit of something for everyone, so be sure to give it a go!${prompt}
-  7011: The Trust initiative consists of a new type of magic developed by one of Vana'diel's most prestigious magical organizations.${prompt}
-  7012: Those who pass the initiation rites and form special bonds will be rewarded with allies to join them on their journeys.${prompt}
-  7013: You must be level five or greater to participate in the Trust initiative. I'll be glad to guide you once you are.${prompt}
-  7014: Clarion Star in Port Bastok is in charge of the Trust initiative here in our fair city. Let me mark his location on your map.${prompt}
-  7015: Opening the main menu and pressing the right arrow key will bring you to the second page of the menu, where the “Help Desk” option is.${prompt}
-  7016: Select that, then click the “Help Desk” option again in the menu that pops up. After that, one of the categories will be “I need help with the game controls.”${prompt}
-  7017: If you ever have a problem, a quick look there might help you figure things out.${prompt}
-  7018: Citizens all over the republic need your help. Do you want to search my records to find some of them?${prompt}
+    Je veux trouver des quêtes !
+    Je veux essayer l'événement tutoriel !
+    Enseignez-moi sur les Records d'Éminence !
+    Enseignez-moi sur l'initiative Trust !
+    Je veux une carte de ma zone actuelle !
+    Je veux des cartes de Bastok !
+    Comment donner des objets aux gens ?
+    Comment combattre en dehors de la ville ?
+    Qu'est-ce que les quêtes et les missions ?
+    J'ai d'autres questions.
+    Rien pour l'instant.${prompt}
+  6994: Je peux ajouter des marques magiques sur votre carte de la zone de Bastok si vous souhaitez connaître certains endroits utiles.${prompt}
+  6995: Il y a des vendeurs de cartes à la fois dans les Marchés de Bastok et au Port Bastok, mais le premier est plus proche.${prompt}
+  6996: Le vendeur de cartes se trouve dans une des tentes en haut de l'escalier au nord.${prompt}
+  6997: Si vous cherchez quelqu'un vendant des cartes, descendez ces escaliers au sud et continuez jusqu'à ce que vous arriviez dans une zone dégagée. La tente du vendeur devrait être là.${prompt}
+  6998: Nous avons préparé une variété de tâches instructives pour les nouveaux Bastokiens dans le domaine de l'aventure.${prompt}
+  6999: Si vous êtes intéressé, parlez à Gulldago près de la porte vers South Gustaberg dans les Marchés de Bastok.${prompt}
+  7000: D'abord, dirigez-vous vers l'ouest d'ici, puis tournez au nord vers un tunnel. Passez à travers et vous devriez arriver aux marchés.${prompt}
+  7001: Dirigez-vous vers l'ouest d'ici jusqu'à ce que vous ne puissiez plus aller plus loin, puis tournez au sud et traversez le Pont Rye. Cela devrait vous mener aux marchés.${prompt}
+  7002: Une fois arrivé là-bas, trouvez Gulldago. Je vais le marquer sur votre carte pour vous.${prompt}
+  7003: Pour confirmer ce que vous avez marqué, sélectionnez “Marqueurs” sous “Carte” dans le menu principal, puis appuyez sur la touche fléchée droite.${prompt}
+  7004: Vous pouvez également sélectionner “Scan Large” sous le sous-menu “Carte” pour rechercher des personnes dans votre proximité.${prompt}
+  7005: Que vous soyez nouveau dans Vana'diel ou un vétéran impatient, les Records d'Éminence sont un excellent moyen de participer facilement à une variété de contenus et de gagner des récompenses éblouissantes.${prompt}
+  7006: Ouvrez le menu principal, allez à droite, et sélectionnez “Liste d'Objectifs” sous le sous-menu “Quêtes”.${prompt}
+  7007: Ensuite, ouvrez le menu “Tutoriel” et sélectionnez “Bases”, puis commencez avec “Premier Pas en Avant.”${prompt}
+  7008: Je vais même vous donner un petit indice pour compléter “Premier Pas en Avant.”${prompt}
+  7009: Allez dans les Marchés de Bastok et parlez avec la personne désignée. Laissez-moi placer un marqueur sur votre carte.${prompt}
+  7010: Les Records d'Éminence ont un peu de quelque chose pour tout le monde, alors n'hésitez pas à les essayer !${prompt}
+  7011: L'initiative Trust consiste en un nouveau type de magie développé par l'une des organisations magiques les plus prestigieuses de Vana'diel.${prompt}
+  7012: Ceux qui réussissent les rites d'initiation et forment des liens spéciaux seront récompensés par des alliés pour les accompagner dans leurs aventures.${prompt}
+  7013: Vous devez être de niveau cinq ou plus pour participer à l'initiative Trust. Je serai heureux de vous guider une fois que vous le serez.${prompt}
+  7014: Clarion Star au Port Bastok est chargé de l'initiative Trust dans notre belle ville. Laissez-moi marquer son emplacement sur votre carte.${prompt}
+  7015: Ouvrir le menu principal et appuyer sur la touche fléchée droite vous amènera à la deuxième page du menu, où se trouve l'option “Service d'Aide”.${prompt}
+  7016: Sélectionnez cela, puis cliquez à nouveau sur l'option “Service d'Aide” dans le menu qui apparaît. Ensuite, une des catégories sera “J'ai besoin d'aide avec les commandes du jeu.”${prompt}
+  7017: Si vous avez un problème, un coup d'œil rapide là-bas pourrait vous aider à résoudre les choses.${prompt}
+  7018: Les citoyens de toute la république ont besoin de votre aide. Voulez-vous rechercher dans mes archives pour en trouver certains ?${prompt}
   7019: |-
-    Inquire about which locale?
+    Renseignez-vous sur quelle localité ?
     ${selection-lines}
-    None.
-    Bastok Mines: ${number: 1} individual${choice-plurality: 1}[/s].
-    Bastok Markets: ${number: 2} individual${choice-plurality: 2}[/s].
-    Port Bastok: ${number: 3} individual${choice-plurality: 3}[/s].
-    Metalworks: ${number: 4} individual${choice-plurality: 4}[/s].${prompt}
-  7020: 'Talk to the following people in ${choice: 0}[the mines/the markets/the port/the Metalworks], who should be more than happy to entrust you with some tasks.${prompt}'
+    Aucun.
+    Mines de Bastok : ${number: 1} individu${choice-plurality: 1}[/s].
+    Marchés de Bastok : ${number: 2} individu${choice-plurality: 2}[/s].
+    Port Bastok : ${number: 3} individu${choice-plurality: 3}[/s].
+    Ateliers : ${number: 4} individu${choice-plurality: 4}[/s].${prompt}
+  7020: 'Parlez aux personnes suivantes dans ${choice: 0}[les mines/les marchés/le port/les Ateliers], qui devraient être plus qu'heureuses de vous confier des tâches.${prompt}'
   7021: |-
-    Who will you go see in Bastok Mines?
+    Qui allez-vous voir dans les Mines de Bastok ?
     ${selection-lines}
-    No one.
+    Personne.
     Wahid.
     Elki.
     Tami.
@@ -17368,9 +17335,9 @@ entries:
     Gumbah.
     Selliste.${prompt}
   7022: |-
-    Who will you go see in Bastok Markets?
+    Qui allez-vous voir dans les Marchés de Bastok ?
     ${selection-lines}
-    No one.
+    Personne.
     Malene.
     Salimah.
     Michea.
@@ -17391,9 +17358,9 @@ entries:
     Brygid.
     Shamarhaan.${prompt}
   7023: |-
-    Who will you go see in Port Bastok?
+    Qui allez-vous voir au Port Bastok ?
     ${selection-lines}
-    No one.
+    Personne.
     Powhatan.
     Corann.
     Talib.
@@ -17426,9 +17393,9 @@ entries:
     Grin.${prompt}
   7024: |-
     ヒルドルフ(Hildolf)
-    Who will you go see in the Metalworks?
+    Qui allez-vous voir aux Ateliers ?
     ${selection-lines}
-    No one.
+    Personne.
     Hungry Wolf.
     Izabele.
     Ferghus.
@@ -17451,9 +17418,9 @@ entries:
     Ayame.
     Iron Eater.
     Cid.${prompt}
-  7025: Let me mark their position on your map.${prompt}
-  7026: FiNAllY, sOmE InFOrmAtiOn tO hELp yOu In yoUr TrAVelS.${prompt}
-  7027: One more thing.${prompt}
+  7025: Laissez-moi marquer leur position sur votre carte.${prompt}
+  7026: EnFIn, un peu d'InFOrmAtiOn pOUr vOus AIdEr dAnS vOtre vOYAGe.${prompt}
+  7027: Une chose de plus.${prompt}
   7028: I have saved a rather paramount detail for last. Allow me to explain.${prompt}
   7029: There's still one other thing remaining to share with you.${prompt}
   7030: YoU CAn wArP BetWEen PlACes KnOwn aS “HoME pOinTs.” TheY ARe moST CoNveNieNT, sO maKe SuRE to ReGIsTer ThEM bY TouCHing ThE SurFaCE.${prompt}
