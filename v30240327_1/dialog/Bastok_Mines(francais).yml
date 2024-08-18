@@ -17589,6 +17589,8 @@ entries:
     Échanger des points contre...
     ${selection-lines}
     Rien de tout cela.
+    Un cristal de haute qualité.
+    Cristaux d'analyse.
     ${lettercase: 1}${article} ${item-article: 0[2]} (1500).
     ${lettercase: 1}${article} ${item-article: 8[2]} (${number: 9}).
     ${lettercase: 1}${article} ${item-article: 1[2]} (70000).
@@ -17755,120 +17757,120 @@ entries:
     <Tousse !> Oh, maintenant je pourrais peut-être payer pour mon opération !
     Fermez les yeux et ne regardez pas...${prompt}
   7155: |-
-    Hmm. A young ${choice-player-gender}[lad/lass] like you might want to try ${article} ${item-article: 0[2]}.
-    You'll need...${prompt}
+    Hmm. Un jeune ${choice-player-gender}[garçon/fille] comme vous pourrait vouloir essayer ${article} ${item-article: 0[2]}.
+    Vous aurez besoin de...${prompt}
   7156: |-
-    If ya ever need me, I'll be right here, ${choice-player-gender}[sonny/missy].
-    Unless I'm on me death bed. Heh-heh-heh <Cough!> <Cough!> heh...${prompt}
+    Si jamais vous avez besoin de moi, je serai juste ici, ${choice-player-gender}[mon garçon/ma fille].
+    À moins que je ne sois sur mon lit de mort. Heh-heh-heh <Tousse !> <Tousse !> heh...${prompt}
   7157: |-
-    Off, off, off with you!
-    I'm on the verge of transforming an Elshimo frog into gold!${prompt}
-  7158: If you have not yet realized, we have our own work as well.${prompt}
-  7159: This is not enough, and I am not in the mood for bargaining.${prompt}
-  7160: Hopefully this will not take too long. Are you ready?${prompt}
-  7161: 'If it means I can get back to my work, jot down this data on ${article} ${item-article: 0[2]} and leave me be.${prompt}'
-  7162: There. Now be off with you. I must be getting back to my experiments.${prompt}
-  7163: Are you still here, darling? This is a sanctuary of wisdom. I have no time to sit around and eat crumpets with the ignorant, unwashed masses.${prompt}
-  7164: I can fully understand why you'd want to bask in the iridescent glow of my unfathomably astounding intelligence, but as you know, there is only so much I can do for those like...you.${prompt}
-  7165: A, ha ha. Darling, I have no time to be performing good deeds for mere peasants.${prompt}
-  7166: Take a deep breath and relax. Close your eyes and let Sieglinde do the rest...${prompt}
-  7167: 'Well, I suppose even someone like you could manage ${article} ${item-article: 0[2]}. You will need...${prompt}'
-  7168: Come back and visit Sieglinde if you ever need anything!${prompt}
+    Allez, allez, allez, partez !
+    Je suis sur le point de transformer une grenouille d'Elshimo en or !${prompt}
+  7158: Si vous ne l'avez pas encore réalisé, nous avons notre propre travail également.${prompt}
+  7159: Cela ne suffit pas, et je ne suis pas d'humeur à négocier.${prompt}
+  7160: Espérons que cela ne prendra pas trop de temps. Êtes-vous prêt ?${prompt}
+  7161: 'Si cela me permet de retourner à mon travail, notez ces données sur ${article} ${item-article: 0[2]} et laissez-moi tranquille.${prompt}'
+  7162: Voilà. Maintenant, partez. Je dois retourner à mes expériences.${prompt}
+  7163: Êtes-vous encore ici, mon chéri ? C'est un sanctuaire de sagesse. Je n'ai pas le temps de m'asseoir et de manger des petits gâteaux avec les masses ignorantes et malodorantes.${prompt}
+  7164: Je comprends parfaitement pourquoi vous voudriez vous délecter de la lueur iridescente de mon intelligence incompréhensible, mais comme vous le savez, il y a seulement tant que je peux faire pour des personnes comme...vous.${prompt}
+  7165: Ah, ha ha. Mon chéri, je n'ai pas le temps de faire des œuvres de charité pour de simples paysans.${prompt}
+  7166: Respirez profondément et détendez-vous. Fermez les yeux et laissez Sieglinde faire le reste...${prompt}
+  7167: 'Eh bien, je suppose qu'une personne comme vous pourrait réussir ${article} ${item-article: 0[2]}. Vous aurez besoin de...${prompt}'
+  7168: Revenez voir Sieglinde si jamais vous avez besoin de quelque chose !${prompt}
   7169: |-
-    People have begun talking of your work. Their words have even made it all the way to the halls of this guild.
-    You are ready for your next test. Create ${article} ${item-article: 0[2]}.${prompt}
-  7170: Pass, and you will be accepted as a craftsman...and then I will show you the true power that the universe hides.${prompt}
-  7171: However, you must take care. Bearing the name of craftsman means you must clear your mind of all stray thoughts, and focus on the task before you. Why you ask?${prompt}
-  7172: In alchemy, losing your focus could result in a tragedy of universal proportions. This is why we advise against becoming a craftsman in more than one guild.${prompt}
-  7173: A perfect job...as always, I might add. I hereby bestow you with the honorary title of veteran. I would not be suprised if you have attained the skills to turn mere lead into gold!${prompt}
-  7174: Excellent work. I have no difficulty in bestowing upon you...the title of craftsman.${prompt}
-  7175: I apologize for being redundant, but remember, you must focus. Clear your mind of needless rubble, and open your eyes to the secrets the universe holds.${prompt}
-  7176: '${lettercase: 1}${keyitem-singular: 0[2]} is a forbidden type of alchemy that is used to drain elemental energy from remnants of lost memories, and transform it into a partially materialized “quasispirit” known as anima.${prompt}'
+    Les gens commencent à parler de votre travail. Leurs mots ont même atteint les couloirs de cette guilde.
+    Vous êtes prêt pour votre prochain test. Créez ${article} ${item-article: 0[2]}.${prompt}
+  7170: Réussissez, et vous serez accepté en tant qu'artisan... et ensuite je vous montrerai le véritable pouvoir que l'univers cache.${prompt}
+  7171: Cependant, vous devez faire attention. Porter le nom d'artisan signifie que vous devez vider votre esprit de toutes pensées vagabondes et vous concentrer sur la tâche devant vous. Pourquoi demandez-vous ?${prompt}
+  7172: En alchimie, perdre sa concentration pourrait entraîner une tragédie de proportions universelles. C'est pourquoi nous déconseillons de devenir artisan dans plus d'une guilde.${prompt}
+  7173: Un travail parfait... comme toujours, je pourrais ajouter. Je vous confère donc le titre d'ancien. Je ne serais pas surpris que vous ayez acquis les compétences pour transformer le plomb en or !${prompt}
+  7174: Excellent travail. Je n'ai aucun mal à vous attribuer... le titre d'artisan.${prompt}
+  7175: Je m'excuse d'être redondant, mais rappelez-vous, vous devez vous concentrer. Évacuez les débris inutiles de votre esprit et ouvrez les yeux sur les secrets que l'univers détient.${prompt}
+  7176: '${lettercase: 1}${keyitem-singular: 0[2]} est un type d'alchimie interdit utilisé pour extraire l'énergie élémentaire des souvenirs perdus, et la transformer en un “quasispirit” partiellement matérialisé appelé anima.${prompt}'
   7177: |-
-    I have received word that you have accepted the title of craftsman from another guild.
-    Tell me, ${name-player}, did I not advise against this course of action?${prompt}
-  7178: Your blatant disregard of my warning does not please me...${prompt}
-  7179: However, I offer you the opportunity to redeem yourself of your errant past. Revoke your craftsman status from all other guilds and you will be forgiven.${prompt}
+    J'ai reçu des nouvelles selon lesquelles vous avez accepté le titre d'artisan d'une autre guilde.
+    Dites-moi, ${name-player}, ne vous ai-je pas conseillé contre cette démarche ?${prompt}
+  7178: Votre mépris flagrant de mon avertissement ne me plaît pas...${prompt}
+  7179: Cependant, je vous offre l'opportunité de vous racheter de votre passé erroné. Révoquez votre statut d'artisan de toutes les autres guildes et vous serez pardonné.${prompt}
   7180: |-
-    Revoke all other craftsman statuses?
+    Révoquer tous les autres statuts d'artisan ?
     ${selection-lines}
-    Yes. I apologize for my behavior.
-    No. I have made up my mind.${prompt}
+    Oui. Je m'excuse pour mon comportement.
+    Non. J'ai pris ma décision.${prompt}
   7181: |-
-    Spoken like a true alchemist. I see a bright future for you, ${name-player}.
-    I will inform the other guildmasters of your decision later. You may return to your research now.${prompt}
+    Parlé comme un véritable alchimiste. Je vois un avenir radieux pour vous, ${name-player}.
+    Je vais informer les autres maîtres de guilde de votre décision plus tard. Vous pouvez maintenant retourner à vos recherches.${prompt}
   7182: |-
-    Perhaps I was wrong...
-    Perhaps there are things in this world more important than the study of alchemy...
-    Perhaps...${prompt}
-  7183: '${lettercase: 1}${keyitem-singular: 0[2]} is a wonderful new method of alchemy that allows you to enchant various items and catalysts with the mysterious energy of black magic and anima.${prompt}'
-  7184: '${lettercase: 1}${keyitem-singular: 0[2]} is a wonderful new method of alchemy that allows you to enchant various items and catalysts with the mysterious energy of white magic and anima.${prompt}'
-  7185: I am sorry, darling, but the items from that rank are simply beyond you at this point.${prompt}
-  7186: '${lettercase: 1}${keyitem-singular: 0[2]} is a wonderful new method of alchemy that allows you to place ingredients in a triturator, making it easier to process more medicines with one crystal.${prompt}'
-  7187: '${lettercase: 1}${keyitem-singular: 0[2]} is a wonderful new method of alchemy that allows you to concentrate ingredients to create medicines in the form of a solid drop. These drops have the same effect as their liquid equivalents.${prompt}'
+    Peut-être avais-je tort...
+    Peut-être y a-t-il des choses dans ce monde plus importantes que l'étude de l'alchimie...
+    Peut-être...${prompt}
+  7183: '${lettercase: 1}${keyitem-singular: 0[2]} est une merveilleuse nouvelle méthode d'alchimie qui vous permet d'enchanter divers objets et catalyseurs avec l'énergie mystérieuse de la magie noire et de l'anima.${prompt}'
+  7184: '${lettercase: 1}${keyitem-singular: 0[2]} est une merveilleuse nouvelle méthode d'alchimie qui vous permet d'enchanter divers objets et catalyseurs avec l'énergie mystérieuse de la magie blanche et de l'anima.${prompt}'
+  7185: Je suis désolée, mon chéri, mais les objets de ce rang sont tout simplement au-delà de vos capacités pour le moment.${prompt}
+  7186: '${lettercase: 1}${keyitem-singular: 0[2]} est une merveilleuse nouvelle méthode d'alchimie qui vous permet de placer les ingrédients dans un tritureur, facilitant ainsi le traitement de plusieurs médicaments avec un seul cristal.${prompt}'
+  7187: '${lettercase: 1}${keyitem-singular: 0[2]} est une merveilleuse nouvelle méthode d'alchimie qui vous permet de concentrer les ingrédients pour créer des médicaments sous forme de gouttes solides. Ces gouttes ont le même effet que leurs équivalents liquides.${prompt}'
   7188: |-
-    Our young Abd-al-Raziq has ordered in a pile of research journals from his homeland.
-    There're alchemical processes in there that even I've never seen.${prompt}
+    Notre jeune Abd-al-Raziq a commandé un tas de journaux de recherche de sa patrie.
+    Il y a des processus alchimiques là-dedans que je n'ai même jamais vus.${prompt}
   7189: |-
-    Maybe you can teach an old bird new tricks!
-    Heh-heh-heh <Cough!> <Cough!> heh...${prompt}
-  7190: '${lettercase: 1}${keyitem-singular: 0[2]} is a wonderful new method of alchemy that allows you to utilize the techniques of chemical medicine.${prompt}'
+    Peut-être qu'on peut enseigner de nouveaux tours à un vieux perroquet !
+    Heh-heh-heh <Tousse !> <Tousse !> heh...${prompt}
+  7190: '${lettercase: 1}${keyitem-singular: 0[2]} est une merveilleuse nouvelle méthode d'alchimie qui vous permet d'utiliser les techniques de la médecine chimique.${prompt}'
   7191: |-
-    You want to make ${article} ${item-article: 0[2]}?
-    In case you didn't already know, a volatile objectaru like that needs to be kept in a special container.${prompt}
+    Vous voulez fabriquer ${article} ${item-article: 0[2]} ?
+    Au cas où vous ne le sauriez pas déjà, un objet volatil comme celui-là doit être conservé dans un conteneur spécial.${prompt}
   7192: |-
-    Such a container can be synthesized if you have two ${item-plural: 0[2]} and ${article} ${item-article: 1[2]}.
-    And if my memory serves me true, ${article} ${item-article: 2[2]} serves as the bonding agentaru.${prompt}
+    Un tel conteneur peut être synthétisé si vous avez deux ${item-plural: 0[2]} et ${article} ${item-article: 1[2]}.
+    Et si ma mémoire est bonne, ${article} ${item-article: 2[2]} sert d'agent de liaison.${prompt}
   7193: |-
-    ${lettercase: 1}${item-plural: 0[2]}, I hear, can be had within the Maze of Shakhrami. Not lying scattered about the floors, obviously.
-    One of the crawlers there might be willing to partaru with one, but if not...well, you adventuring types know what to do.${prompt}
+    ${lettercase: 1}${item-plural: 0[2]}, je crois, peuvent se trouver dans le Labyrinthe de Shakhrami. Évidemment, ils ne sont pas éparpillés sur les sols.
+    L'un des rampants là-bas pourrait être disposé à en échanger un, mais sinon...eh bien, vous, les aventuriers, savez ce qu'il faut faire.${prompt}
   7194: |-
-    Oh, did I mention ${item-plural: 1[2]}?
-    Naturally, to synthesize ${article} ${item-article: 0[2]}, you'll be needing one of those, too.${prompt}
+    Oh, ai-je mentionné ${item-plural: 1[2]} ?
+    Naturellement, pour synthétiser ${article} ${item-article: 0[2]}, vous aurez également besoin de l'un d'eux.${prompt}
   7195: |-
-    You wish to synthesize ${article} ${item-article: 0[2]}? Ah, yes. Well do I know that recipe!
-    Its creation requires a few ${item-plural: 1[2]}.${prompt}
+    Vous souhaitez synthétiser ${article} ${item-article: 0[2]} ? Ah, oui. Je connais bien cette recette !
+    Sa création nécessite quelques ${item-plural: 1[2]}.${prompt}
   7196: |-
-    In turn, making ${article} ${item-article: 0[2]} requires ${article} ${item-article: 1[2]} and ${article} ${item-article: 2[2]}.
-    Toss ${article} ${item-article: 3[2]} into the mix, and what you seek shall be yours.${prompt}
-  7197: 'I fear we haven''t ${item-plural: 0[2]} here. But it should please you to know that skeletons dwelling within the Gusgen Mines are known to drop one on occasion.${prompt}'
+    En retour, faire ${article} ${item-article: 0[2]} nécessite ${article} ${item-article: 1[2]} et ${article} ${item-article: 2[2]}.
+    Ajoutez ${article} ${item-article: 3[2]} à la préparation, et ce que vous cherchez sera à vous.${prompt}
+  7197: 'Je crains que nous n'ayons pas de ${item-plural: 0[2]} ici. Mais il devrait vous réjouir de savoir que les squelettes résidant dans les Mines de Gusgen sont connus pour en lâcher un de temps en temps.${prompt}'
   7198: |-
-    What brings you here? Well, ${article} ${item-article: 0[2]}, of all things...
-    You couldn't hope to make one without some ${item-plural: 1[2]}, but I fear they aren't often stocked by vendors.${prompt}
+    Que venez-vous faire ici ? Eh bien, ${article} ${item-article: 0[2]}, parmi d'autres choses...
+    Vous ne pourriez espérer en fabriquer un sans ${item-plural: 1[2]}, mais je crains qu'ils ne soient pas souvent stockés par les vendeurs.${prompt}
   7199: |-
-    But you strike me as an intrepid type, so I'll share with you some knowledge to help you on your way.
-    Head over to Ordelle's Caves. Hunt enough bats there, and you might just come into some ${item-plural: 0[2]}. That's the main ingredient required to make ${article} ${item-article: 1[2]}.${prompt}
-  7200: 'All that remains, then, is to bind it with ${article} ${item-article: 0[2]} using ${article} ${item-article: 2[2]}. Good luck!${prompt}'
+    Mais vous me semblez être un type intrépide, alors je vais vous partager des connaissances pour vous aider dans votre quête.
+    Rendez-vous aux Cavernes d'Ordelle. Chasser suffisamment de chauves-souris là-bas, et vous pourriez bien trouver des ${item-plural: 0[2]}. C'est l'ingrédient principal nécessaire pour fabriquer ${article} ${item-article: 1[2]}.${prompt}
+  7200: 'Tout ce qui reste, alors, est de le lier avec ${article} ${item-article: 0[2]} en utilisant ${article} ${item-article: 2[2]}. Bonne chance !${prompt}'
   7201: |-
-    You... Yes, the description fits.
-    I daresay, you're the one “she” sent, yes?${prompt}
-  7202: Can I count on you to aid my investigation once more?${prompt}
-  7203: At my client's behest, I have procured the item you require. But alas, doing so drained far more of my time and resources than had been reckoned. As recompense for having exerted undue effort, I would ask a favor of you. Do as I say, and you may consider the item yours.${prompt}
+    Vous... Oui, la description correspond.
+    Je dirais que c'est vous que “elle” a envoyé, n'est-ce pas ?${prompt}
+  7202: Puis-je compter sur vous pour aider mon enquête une fois de plus ?${prompt}
+  7203: À la demande de mon client, j'ai procuré l'objet dont vous avez besoin. Mais hélas, cela a épuisé beaucoup plus de mon temps et de mes ressources que prévu. En compensation pour cet effort supplémentaire, je vous demanderais une faveur. Faites ce que je dis, et vous pourrez considérer l'objet comme étant à vous.${prompt}
   7204: |-
-    Do as he says?
+    Faire ce qu'il dit ?
     ${selection-lines}
-    Yes.
-    No.${prompt}
+    Oui.
+    Non.${prompt}
   7205: |2-
-     Very good. I knew I could count on us being on the same page.
-     Now then, without further ado, I shall explain the task to you. It truly is simple.${prompt}
-  7206: You are to investigate a number of creatures dwelling within the Sea Serpent Grotto in my stead.${prompt}
-  7207: 'Should you not possess ${article} ${item-article: 0[2]} and ${item-plural: 1[2]}, I can furnish you with both for a nominal fee of 800 gil.${prompt}'
-  7208: 'Using the ${item-singular: 0[2]} will turn ${article} ${item-article: 1[2]} into ${article} ${item-article: 2[2]}--a visual record of the subject''s physical characteristics.${prompt}'
-  7209: 'I''m currently investigating the ${entity: 0}, the ${entity: 1}, and the ${entity: 2}.${prompt}'
+     Très bien. Je savais que je pouvais compter sur nous pour être sur la même longueur d'onde.
+     Maintenant, sans plus tarder, je vais vous expliquer la tâche. C'est vraiment simple.${prompt}
+  7206: Vous devez enquêter sur un certain nombre de créatures vivant dans la Grotte du Serpent de Mer à ma place.${prompt}
+  7207: 'Si vous ne possédez pas ${article} ${item-article: 0[2]} et ${item-plural: 1[2]}, je peux vous fournir les deux pour un modique prix de 800 gil.${prompt}'
+  7208: 'Utiliser le ${item-singular: 0[2]} transformera ${article} ${item-article: 1[2]} en ${article} ${item-article: 2[2]}--un enregistrement visuel des caractéristiques physiques du sujet.${prompt}'
+  7209: 'Je suis actuellement en train d'enquêter sur le ${entity: 0}, le ${entity: 1}, et le ${entity: 2}.${prompt}'
   7210: |-
-    Hm? It appears you are overburdened.
-    Speak with me again after you've reorganized your belongings.${prompt}
+    Hm ? Il semble que vous soyez surchargé.
+    Parlez-moi de nouveau après avoir réorganisé vos affaires.${prompt}
   7211: |-
-    That is most disappointing...
-    “She” would not be pleased to hear of this.${prompt}
-  7212: Ah, yes...${prompt}
+    C'est très décevant...
+    “Elle” ne serait pas contente d'entendre cela.${prompt}
+  7212: Ah, oui...${prompt}
   7213: |-
-    A truly menacing image of the ${entity: 0}!
-    All that remains, then, is one each of the ${entity: 1} and the ${entity: 2}.${prompt}
+    Une image vraiment menaçante du ${entity: 0} !
+    Tout ce qui reste, alors, est un de chacun des ${entity: 1} et ${entity: 2}.${prompt}
   7214: |-
-    Do you require ${article} ${item-article: 1[2]} and ${item-plural: 2[2]}?
-    I can provide you with both for a nominal fee of 800 gil.${prompt}
+    Avez-vous besoin de ${article} ${item-article: 1[2]} et ${item-plural: 2[2]} ?
+    Je peux vous fournir les deux pour un modique prix de 800 gil.${prompt}'
   7215: |-
     Buy for 800 gil? (You have ${number: 3})
     ${selection-lines}
