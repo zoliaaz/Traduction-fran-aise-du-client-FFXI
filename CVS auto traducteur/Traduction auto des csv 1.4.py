@@ -2,7 +2,8 @@ import os
 import pandas as pd
 import sqlite3
 from deep_translator import GoogleTranslator
-from tkinter import Tk, Button, messagebox, IntVar, Checkbutton
+from tkinter import Tk, Button, Entry, Label, StringVar, IntVar, Checkbutton, messagebox
+
 from tkinter.filedialog import askdirectory, askopenfilename
 import re
 import threading
@@ -18,6 +19,8 @@ stop_translation = False
 resume_info = {}
 processed_files = set()
 translate_from_db_only = False
+save_interval = 10 * 60  # 10 minutes en secondes
+save_timer = None
 
 def get_db_path():
     if getattr(sys, 'frozen', False):  # Si l'application est exécutée à partir d'un fichier .exe
@@ -170,10 +173,10 @@ def process_csv_file(filepath, delimiter=';'):
 
     if not os.path.exists(output_filepath):
         print(f'File does not exist, starting translation from the beginning: {output_filepath}')
-        start_row = 0
+        start_row = 1  # Ignore the first line
         df_translated = None
     else:
-        start_row = resume_info.get(filepath, 0)
+        start_row = resume_info.get(filepath, 1)  # Start from 1 to skip the header row
         df_translated = pd.read_csv(output_filepath, delimiter=delimiter)
         print(f'Resuming translation from row {start_row}')
 
@@ -188,11 +191,15 @@ def process_csv_file(filepath, delimiter=';'):
 
     print(f'Columns found: {df.columns.tolist()}')
 
-    if 'Phrase en Anglais' not in df.columns or 'Phrase en Français' not in df.columns:
-        print('Columns not found. Skipping file.')
+    # Trouver les colonnes
+    english_col = next((col for col in df.columns if 'anglais' in col.lower()), None)
+    french_col = next((col for col in df.columns if 'français' in col.lower()), None)
+
+    if not english_col or not french_col:
+        print('Required columns not found. Skipping file.')
         return
 
-    df['Phrase en Français'] = df['Phrase en Français'].astype(str)
+    df[french_col] = df[french_col].astype(str)
 
     if df_translated is not None:
         df.update(df_translated)
@@ -210,8 +217,8 @@ def process_csv_file(filepath, delimiter=';'):
                 return
 
             row = df.iloc[index]
-            phrase_en = row['Phrase en Anglais']
-            phrase_fr = row['Phrase en Français']
+            phrase_en = row[english_col]
+            phrase_fr = row[french_col]
 
             # Traduire uniquement si la case contient "nan"
             if pd.isna(phrase_fr) or phrase_fr.strip().lower() == "nan":
@@ -223,7 +230,7 @@ def process_csv_file(filepath, delimiter=';'):
 
                 print(f"Translating row {index + 1}/{total_rows} ({progress_percentage:.2f}%) - Estimated time remaining: {remaining_time // 60:.0f}m {remaining_time % 60:.0f}s")
                 
-                df.at[index, 'Phrase en Français'] = translate_text(phrase_en, row_num=index + 1)
+                df.at[index, french_col] = translate_text(phrase_en, row_num=index + 1)
             else:
                 print(f"Row {index + 1}: Phrase already translated or marked.")
 
@@ -238,6 +245,7 @@ def process_csv_file(filepath, delimiter=';'):
     except Exception as e:
         print(f"Error applying translation: {e}")
         return
+
 
 def save_partial_csv(df, output_filepath, delimiter=';'):
     try:
