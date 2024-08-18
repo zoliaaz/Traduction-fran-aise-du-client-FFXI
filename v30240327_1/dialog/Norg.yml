@@ -22962,39 +22962,39 @@ entries:
   10751: Écoute bien, ${name-player}.${prompt}
   10752: Si le prince avait déjà ouvert la Porte des Dieux, Vana’diel ne serait plus là. Mais comme tu peux le voir, rien n’a changé jusqu’à présent.${prompt}
   10753: Ce qui signifie que tout ce que nous pouvons faire, c’est attendre. Quand Eald’narche fera son mouvement... c’est là que nous attaquerons !${prompt}
-  10754: Toi et moi détestons que les Zilart se moquent de nous, mais pour l'instant, nous ne pouvons rien faire.${prompt}
-  10755: Nous ne pouvons pas savoir quand Eald'narche tentera d'ouvrir la porte. Ça pourrait être demain, pour tout ce que je sais. Si tu as des préparations à faire, je te conseille de les faire maintenant.${prompt}
-  10756: Hé, ${choice-player-gender}[monsieur/madame]. Tu sembles avoir besoin d'argent, et quoi de plus facile pour obtenir des gil que de tenter ta chance avec Dame Chance ?${prompt}
+  10754: Toi et moi détestons que les Zilart se moquent de nous, mais pour l’instant, nous ne pouvons rien faire.${prompt}
+  10755: Nous ne pouvons pas savoir quand Eald’narche tentera d’ouvrir la porte. Ça pourrait être demain, pour tout ce que je sais. Si tu as des préparations à faire, je te conseille de les faire maintenant.${prompt}
+  10756: Hé, ${choice-player-gender}[monsieur/madame]. Tu sembles avoir besoin d’argent, et quoi de plus facile pour obtenir des gil que de tenter ta chance avec Dame Chance ?${prompt}
   10757: Essaie de faire un “Lancer Chanceux” ?
     ${selection-lines}
     Que la chance soit avec moi ce soir !
     Je ne vais pas jeter mon argent par les fenêtres !
     Explique-moi les détails.${prompt}
-  10758: Laisse-moi t'expliquer comment ça fonctionne. Un jeu de Lancer Chanceux se joue chaque jour de Vana'diel.${prompt}
+  10758: Laisse-moi t’expliquer comment ça fonctionne. Un jeu de Lancer Chanceux se joue chaque jour de Vana’diel.${prompt}
   10759: Un tour coûte 100 gil, mais tant que tu continues à payer, tu peux continuer à jouer.${prompt}
   10760: Pour chaque 100 gil, tu obtiens un lancer de notre dé à six faces. Le nombre qui apparaît est ajouté au total courant pour ce jour.${prompt}
-  10761: L'aventurier chanceux qui lance le dé et fait passer le total courant au-dessus de 400 gagne... accroche-toi... un incroyable 10000 gil !${prompt}
-  10762: Et ce n'est pas tout ! Tu recevras des prix supplémentaires si le total atteint 401 ou 402, et un super bonus si ton lancer fait exactement 400 !${prompt}
-  10763: Mais fais attention ; la seule fois où tu peux connaître le total courant, c'est après avoir lancé le dé.${prompt}
+  10761: L’aventurier chanceux qui lance le dé et fait passer le total courant au-dessus de 400 gagne... accroche-toi... un incroyable 10000 gil !${prompt}
+  10762: Et ce n’est pas tout ! Tu recevras des prix supplémentaires si le total atteint 401 ou 402, et un super bonus si ton lancer fait exactement 400 !${prompt}
+  10763: Mais fais attention ; la seule fois où tu peux connaître le total courant, c’est après avoir lancé le dé.${prompt}
   10764: Et voilà ! Assez simple, non ?
-    Tu peux attaquer dès le début, ou tu peux attendre que d'autres personnes lancent le dé, puis intervenir pour le coup final. Nous te fournissons le dé, tu choisis ta stratégie.${prompt}
-  10765: D'accord, assez parlé, lançons les dés !${prompt}
+    Tu peux attaquer dès le début, ou tu peux attendre que d’autres personnes lancent le dé, puis intervenir pour le coup final. Nous te fournissons le dé, tu choisis ta stratégie.${prompt}
+  10765: D’accord, assez parlé, lançons les dés !${prompt}
   10766: Vous avez lancé un... ${number: 1} !
     Le total courant est maintenant de ${number: 3} !${prompt}
-  10767: Félicitations ! Dame Chance a souri sur vous aujourd'hui ! Voici vos 10000 gil !${prompt}
+  10767: Félicitations ! Dame Chance a souri sur vous aujourd’hui ! Voici vos 10000 gil !${prompt}
   10768: Et comme votre lancer a fait atteindre exactement 400 au total, vous recevez un prix bonus !${prompt}
   10769: Et pour avoir rapproché le total de 400, voici votre prix supplémentaire !${prompt}
-  10770: Je suis désolé, mais c'est tout pour le jeu de Lancer Chanceux d'aujourd'hui. Revenez demain, et peut-être que Dame Chance vous attendra !${prompt}
+  10770: Je suis désolé, mais c’est tout pour le jeu de Lancer Chanceux d’aujourd’hui. Revenez demain, et peut-être que Dame Chance vous attendra !${prompt}
   10771: |-
     Le ménestrel des mélodies est mon nom,
     Pour seulement ${number: 6} gil, je rappellerai ton passé.
-    Tes histoires d'amour, de colère, de triomphe et de honte,
+    Tes histoires d’amour, de colère, de triomphe et de honte,
     La rivière des souvenirs est profonde et vaste.${prompt}
   10772: |-
     Le ménestrel des mélodies est mon nom,
     Pour seulement ${number: 6} gil, je rappellerai ton passé.
-    Mais je constate que tu manques d'argent ou de renommée,
-    Alors jusqu'à ce moment-là, mon offre généreuse restera.${prompt}
+    Mais je constate que tu manques d’argent ou de renommée,
+    Alors jusqu’à ce moment-là, mon offre généreuse restera.${prompt}
   10773: Ferme les yeux maintenant...${prompt}
   10774: |-
     Quel souvenir veux-tu te remémorer ?
@@ -23011,7 +23011,7 @@ entries:
     Aucun.
     Total Recall.
     Bienvenue à Norg.
-    Ro'Maeve.
+    Ro’Maeve.
     La Salle des Dieux.
     Le Sanctuaire Scellé.
     Éveil.${prompt}
@@ -23032,7 +23032,7 @@ entries:
     Je Prends la Grande Boîte.
     Volonté Véritable (pt.1).
     Volonté Véritable (pt.2).
-    Épreuve par l'Eau.
+    Épreuve par l’Eau.
     Le Potentiel Intérieur (pt.1).
     Le Potentiel Intérieur (pt.2).
     Le Potentiel Intérieur (pt.3).
@@ -23068,7 +23068,7 @@ entries:
     Opérations Veille du Vide : Traversée de la Frontière (pt.2).
     Opérations Veille du Vide : Traversée de la Frontière (pt.3).
     Opérations Veille du Vide : Traversée de la Frontière (pt.4).
-    Op. VV #115 : Variante de Li'Telor.
+    Op. VV #115 : Variante de Li’Telor.
     Cap sur le Ciel, Veilleur du Vide ! (pt.1).
     Cap sur le Ciel, Veilleur du Vide ! (pt.2).
     Cap sur le Ciel, Veilleur du Vide ! (pt.3).${prompt}
@@ -23088,15 +23088,15 @@ entries:
     Le Temple Maudit (pt.1).
     Le Temple Maudit (pt.2).
     Le Temple Maudit (pt.3).
-    Escha - Ru'Aun (pt.1).
-    Escha - Ru'Aun (pt.2).
-    Au-Delà de l'Arc-en-Ciel (pt.1).
-    Au-Delà de l'Arc-en-Ciel (pt.2).
-    Au-Delà de l'Arc-en-Ciel (pt.3).
-    Au-Delà de l'Arc-en-Ciel (pt.4).
-    Au-Delà de l'Arc-en-Ciel (pt.5).
-    L'Appel du Vide (pt.1).
-    L'Appel du Vide (pt.2).
+    Escha - Ru’Aun (pt.1).
+    Escha - Ru’Aun (pt.2).
+    Au-Delà de l’Arc-en-Ciel (pt.1).
+    Au-Delà de l’Arc-en-Ciel (pt.2).
+    Au-Delà de l’Arc-en-Ciel (pt.3).
+    Au-Delà de l’Arc-en-Ciel (pt.4).
+    Au-Delà de l’Arc-en-Ciel (pt.5).
+    L’Appel du Vide (pt.1).
+    L’Appel du Vide (pt.2).
     Futurs Incertains (pt.1).
     Futurs Incertains (pt.2).
     Futurs Incertains (pt.3).
@@ -23109,66 +23109,66 @@ entries:
     ${selection-lines}
     Aucun.${prompt}
   10781: Arrrg, je vois que tu es revenu sain et sauf.${prompt}
-  10782: Ton histoire ne fera pas les annales de l'histoire, mais il y a certaines choses qui sont mieux laissées dans l'ombre.${prompt}
-  10783: Si ce n'était pas pour toi, nous serions tous endormis au fond du coffre de Davy Jones. Tu as ma reconnaissance, camarade.${prompt}
-  10784: Quant à Lion... Aldo est venu me donner tous les détails sur ce qu'elle a fait.${prompt}
+  10782: Ton histoire ne fera pas les annales de l’histoire, mais il y a certaines choses qui sont mieux laissées dans l’ombre.${prompt}
+  10783: Si ce n’était pas pour toi, nous serions tous endormis au fond du coffre de Davy Jones. Tu as ma reconnaissance, camarade.${prompt}
+  10784: Quant à Lion... Aldo est venu me donner tous les détails sur ce qu’elle a fait.${prompt}
   10785: Que pensait-elle, partir et se faire tuer avant son propre père...${prompt}
-  10786: Elle a échoué sur la rive ici quand elle n'était encore qu'une gamine. Personne ne savait d'où elle venait...${prompt}
-  10787: Mais ce n'était pas rare pendant la Grande Guerre. Beaucoup de vies ont été déchirées à l'époque.${prompt}
-  10788: Et quand mon père m'a dit de m'occuper d'elle... eh bien, je peux te dire que je n'étais pas prêt pour ça.${prompt}
-  10789: Mais élever Lion m'a appris beaucoup sur le monde. Si ce n'était pas pour elle, je ne serais pas l'homme que je suis aujourd'hui.${prompt}
-  10790: Je n'ai jamais su ce qu'elle pensait de son père étant pirate...${prompt}
-  10791: Mais je peux te dire une chose : je suis sacrément fier de l'avoir comme fille.${prompt}
-  10792: Arrrg, le rêve des Zilart pour le Paradis peut être terminé, mais cela ne change pas le fait que ces bêtes continuent de grouiller sur le visage de Vana'diel.${prompt}
-  10793: Quand on y pense, ce petit jeu avec les princes n'était peut-être que la partie émergée de l'iceberg maudit.${prompt}
-  10794: Et Lion... Je n'ai pas dit aux autres pirates ce qui est réellement arrivé. Ils pensent tous qu'elle est partie pour une aventure...${prompt}
-  10795: Il est toujours plus facile d'oublier ce qui nous trouble. C'est pourquoi les gens oublient toujours ceux qui sont partis. Je ne veux pas que cela arrive à ma fille. C'est pourquoi elle vivra toujours ici à Norg.${prompt}
-  10796: '${name-player}, je sens que tes compétences se sont beaucoup améliorées depuis que tu as brandi le ${color: 5}mumeito${color: 1} que j'ai forgé pour toi il y a de nombreuses lunes. Cependant, il te reste encore beaucoup de malms à parcourir sur le chemin de la maîtrise du grand katana. Penses-tu avoir ce qu'il faut pour accomplir ton voyage ?${prompt}'
-  10797: Je comprends ton hésitation. Il n'est pas nécessaire d'être hâtif dans des décisions aussi importantes. Je sais que tu reviendras ici quand tu sentiras que tu es prêt.${prompt}
-  10798: Je ne détecte aucune hésitation dans ton esprit et ton esprit. C'est bon.${prompt}
-  10799: 'Tiens, prends ce ${item-singular: 0[2]} et manie-le comme s'il faisait partie de ton propre corps. Lorsque tu auras prouvé ta force et ta capacité, la lame perdra son pouvoir. Alors tu sauras qu'elle t'a accepté.${prompt}'
+  10786: Elle a échoué sur la rive ici quand elle n’était encore qu’une gamine. Personne ne savait d’où elle venait...${prompt}
+  10787: Mais ce n’était pas rare pendant la Grande Guerre. Beaucoup de vies ont été déchirées à l’époque.${prompt}
+  10788: Et quand mon père m’a dit de m’occuper d’elle... eh bien, je peux te dire que je n’étais pas prêt pour ça.${prompt}
+  10789: Mais élever Lion m’a appris beaucoup sur le monde. Si ce n’était pas pour elle, je ne serais pas l’homme que je suis aujourd’hui.${prompt}
+  10790: Je n’ai jamais su ce qu’elle pensait de son père étant pirate...${prompt}
+  10791: Mais je peux te dire une chose : je suis sacrément fier de l’avoir comme fille.${prompt}
+  10792: Arrrg, le rêve des Zilart pour le Paradis peut être terminé, mais cela ne change pas le fait que ces bêtes continuent de grouiller sur le visage de Vana’diel.${prompt}
+  10793: Quand on y pense, ce petit jeu avec les princes n’était peut-être que la partie émergée de l’iceberg maudit.${prompt}
+  10794: Et Lion... Je n’ai pas dit aux autres pirates ce qui est réellement arrivé. Ils pensent tous qu’elle est partie pour une aventure...${prompt}
+  10795: Il est toujours plus facile d’oublier ce qui nous trouble. C’est pourquoi les gens oublient toujours ceux qui sont partis. Je ne veux pas que cela arrive à ma fille. C’est pourquoi elle vivra toujours ici à Norg.${prompt}
+  10796: "${name-player}, je sens que tes compétences se sont beaucoup améliorées depuis que tu as brandi le ${color: 5}mumeito${color: 1} que j’ai forgé pour toi il y a de nombreuses lunes. Cependant, tu as encore beaucoup de distance à parcourir sur le chemin de la maîtrise du grand katana. Penses-tu avoir ce qu’il faut pour mener à bien ton voyage ?${prompt}"
+  10797: Je comprends ton hésitation. Il n’est pas nécessaire d’être hâtif dans des décisions aussi importantes. Je sais que tu reviendras ici quand tu sentiras que tu es prêt.${prompt}
+  10798: Je ne détecte aucune hésitation dans ton esprit et ton esprit. C’est bon.${prompt}
+  10799: "Tiens, prends ce ${item-singular: 0[2]} et manie-le comme s’il faisait partie de ton propre corps. Lorsque tu auras prouvé ta force et ta capacité, la lame perdra son pouvoir. Alors tu sauras qu’elle t’a accepté.${prompt}"
   10800: Quand tu sentiras que le moment est venu, reviens ici avec le katana.${prompt}
-  10801: Cette épreuve te mettra à l'épreuve de nombreuses façons, physiquement et mentalement. Cependant, je suis certain que tu seras capable de franchir la montagne qui se dresse devant toi.${prompt}
-  10802: 'Lorsque tu auras prouvé ta force et ta capacité, le ${item-singular: 0[2]} perdra son pouvoir. Alors tu sauras qu'il t'a accepté.${prompt}'
-  10803: Qu'est-ce qui t'amène aujourd'hui ?${prompt}
-  10804: Je sens encore beaucoup de potentiel en toi. Cette épreuve est conçue pour faire ressortir ce potentiel afin que tu puisses le raffiner davantage et l'utiliser pleinement.${prompt}
-  10805: Attends. Tu n'as pas besoin d'en dire plus. Je me rends compte que j'ai échoué à souligner la rareté de cette lame, mais je ne pensais pas que tu pourrais perdre un objet aussi important.${prompt}
+  10801: Cette épreuve te mettra à l’épreuve de nombreuses façons, physiquement et mentalement. Cependant, je suis certain que tu seras capable de franchir la montagne qui se dresse devant toi.${prompt}
+  10802: "Lorsque tu auras prouvé ta force et ta capacité, le ${item-singular: 0[2]} perdra son pouvoir. Alors tu sauras qu’il t’a accepté.${prompt}"
+  10803: Qu’est-ce qui t’amène aujourd’hui ?${prompt}
+  10804: Je sens encore beaucoup de potentiel en toi. Cette épreuve est conçue pour faire ressortir ce potentiel afin que tu puisses le raffiner davantage et l’utiliser pleinement.${prompt}
+  10805: Attends. Tu n’as pas besoin d’en dire plus. Je me rends compte que j’ai échoué à souligner la rareté de cette lame, mais je ne pensais pas que tu pourrais perdre un objet aussi important.${prompt}
   10806: |-
-    Cependant, il n'y a pas lieu de craindre. J'ai un autre ${item-singular: 0[2]} que je peux te prêter, mais tu devras recommencer l'épreuve depuis le début.
+    Cependant, il n’y a pas lieu de craindre. J’ai un autre ${item-singular: 0[2]} que je peux te prêter, mais tu devras recommencer l’épreuve depuis le début.
     Et cette fois, fais plus attention. Je ne tolérerai plus aucune erreur.${prompt}
   10807: Que puis-je entendre ? Tu ne penses pas vraiment abandonner ton voyage, si ?${prompt}
   10808: |-
     Je vois que tu as pris ta décision...
-    J'étais certain que tu avais le potentiel pour affronter les épreuves que je t'ai présentées, mais je suppose qu'un œil expérimenté comme le mien peut parfois être trompé.${prompt}
-  10809: 'Je suis sûr que tu as tes raisons pour cette décision et je ne t'arrêterai pas dans ce que tu as décidé dans ton cœur. Tu peux maintenant me rendre le ${keyitem-singular: 1[2]} que je t'avais confié.${prompt}'
-  10810: 'Je te laisse le soin de te débarrasser du ${item-singular: 0[2]}. Il a déjà perdu son pouvoir et n'est plus utile pour moi.${prompt}'
-  10811: Tu as accepté cette quête avec l'intention de la compléter, n'est-ce pas ? Si tu as le temps de jouer des tours à un vieux bonhomme fragile, tu devrais être sur le champ de bataille à améliorer tes techniques !${prompt}
-  10812: Je peux encore sentir l'énergie parcourir cette lame. Cela ne peut signifier qu'une chose : elle n'a pas encore accepté ta capacité. Le chemin de la maîtrise est long. On ne peut pas espérer atteindre son objectif en si peu de temps.${prompt}
-  10813: 'Merveilleux ! Tu es maintenant prêt pour la dernière étape de ton voyage. Voyage jusqu'à l'endroit inscrit sur ce ${keyitem-singular: 0[2]}--le Tunnel de Kuftal. Là, tu rencontreras ta dernière épreuve.${prompt}'
-  10814: 'Voyage jusqu'au Tunnel de Kuftal, comme indiqué sur le ${keyitem-singular: 0[2]} que je t'ai donné. Là, tu comprendras ce que tu dois faire.${prompt}'
+    J’étais certain que tu avais le potentiel pour affronter les épreuves que je t’ai présentées, mais je suppose qu’un œil expérimenté comme le mien peut parfois être trompé.${prompt}
+  10809: "Je suis sûr que tu as tes raisons pour cette décision et je ne t’arrêterai pas dans ce que tu as décidé dans ton cœur. Tu peux maintenant me rendre le ${keyitem-singular: 1[2]} que je t’avais confié.${prompt}"
+  10810: "Je te laisse le soin de te débarrasser du ${item-singular: 0[2]}. Il a déjà perdu son pouvoir et n’est plus utile pour moi.${prompt}"
+  10811: Tu as accepté cette quête avec l’intention de la compléter, n’est-ce pas ? Si tu as le temps de jouer des tours à un vieux bonhomme fragile, tu devrais être sur le champ de bataille à améliorer tes techniques !${prompt}
+  10812: Je peux encore sentir l’énergie parcourir cette lame. Cela ne peut signifier qu’une chose : elle n’a pas encore accepté ta capacité. Le chemin de la maîtrise est long. On ne peut pas espérer atteindre son objectif en si peu de temps.${prompt}
+  10813: "Merveilleux ! Tu es maintenant prêt pour la dernière étape de ton voyage. Voyage jusqu’à l’endroit inscrit sur ce ${keyitem-singular: 0[2]}--le Tunnel de Kuftal. Là, tu rencontreras ta dernière épreuve.${prompt}"
+  10814: "Voyage jusqu’au Tunnel de Kuftal, comme indiqué sur le ${keyitem-singular: 0[2]} que je t’ai donné. Là, tu comprendras ce que tu dois faire.${prompt}"
   10815: |-
     Le ${keyitem-singular: 0[2]} ! Donc, tu as finalement complété cette étape de ton voyage...
     Tu es maintenant prêt à recommencer avec tes nouvelles techniques.${prompt}
-  10816: 'Tu as appris la compétence d'arme “Tachi: Kasha” !${prompt}'
+  10816: "Tu as appris la compétence d’arme “Tachi: Kasha” !${prompt}"
   10817: Eh bien, regarde-toi. Je suis content de voir que tu réalises que devenir ninja ne se limite pas à lancer des sorts et à lancer des étoiles. Mais il reste encore une technique réservée aux meilleurs des meilleurs.${prompt}
   10818: Tu as appris à manier ton katana en risquant ta vie et tes membres sur le champ de bataille.${prompt}
-  10819: Apprendre cette technique finale ne sera pas différent. Tu devras te rendre dans la jungle et te donner à fond comme jamais auparavant. Penses-tu avoir ce qu'il faut ?${prompt}
-  10820: Hah ! Tu secoues peut-être la tête maintenant, mais je connais ton genre. Tu ne seras pas satisfait tant que tu n'auras pas atteint le sommet. Tu reviendras... et je t'attendrai.${prompt}
+  10819: Apprendre cette technique finale ne sera pas différent. Tu devras te rendre dans la jungle et te donner à fond comme jamais auparavant. Penses-tu avoir ce qu’il faut ?${prompt}
+  10820: Hah ! Tu secoues peut-être la tête maintenant, mais je connais ton genre. Tu ne seras pas satisfait tant que tu n’auras pas atteint le sommet. Tu reviendras... et je t’attendrai.${prompt}
   10821: Je savais que tu ne pouvais pas résister au défi, mais dire que tu vas faire quelque chose est beaucoup plus facile que de le faire réellement. Si tu ne penses pas réussir, alors tu ne devrais même pas essayer en premier lieu !${prompt}
-  10822: 'Tiens, prends ce ${item-singular: 0[2]}.${prompt}'
-  10823: 'Utilise ce katana pour infliger autant de dégâts que possible. Lorsque tu auras acquis suffisamment de compétence, le ${item-singular: 0[2]} reconnaîtra ta puissance et son pouvoir s'estompera.${prompt}'
+  10822: "Tiens, prends ce ${item-singular: 0[2]}.${prompt}"
+  10823: "Utilise ce katana pour infliger autant de dégâts que possible. Lorsque tu auras acquis suffisamment de compétence, le ${item-singular: 0[2]} reconnaîtra ta puissance et son pouvoir s’estompera.${prompt}"
   10824: Quand cela arrivera, ramène-le ici auprès de moi.${prompt}
-  10825: Mais ne pense pas que c'est la fin de ton épreuve. Quelque chose de beaucoup plus excitant t'attendra à ton retour, si tu vois ce que je veux dire. Heh heh heh.${prompt}
-  10826: 'Lorsque tu auras acquis suffisamment de compétence, le ${item-singular: 0[2]} reconnaîtra ta puissance et son pouvoir s'estompera.${prompt}'
-  10827: Qu'est-ce que tu veux ? Tu as déjà fini, n'est-ce pas ?${prompt}
-  10828: Eh bien, si c'est tout, alors sors de cette grotte et retourne sur le champ de bataille !${prompt}
-  10829: 'Tu as perdu le ${item-singular: 0[2]} !?${prompt}'
-  10830: Idiot ! Tu avais la chance parfaite d'apprendre une nouvelle technique mortelle, et tu l'as gâchée ! J'ai vu des crabes avec plus de cervelle que toi. Va-t-en de ma vue !${prompt}
-  10831: Ha ha ha. Je t'ai bien eu, n'est-ce pas ? Bien que je ne vais pas te féliciter pour ta stupidité, je vais te donner une dernière chance. Mais si tu refais une erreur, je...${prompt}
-  10832: Abandonner ? T'as frappé ta tête sur le plafond de la grotte en entrant ? Tu ne penses quand même pas à abandonner maintenant, si ?${prompt}
+  10825: Mais ne pense pas que c’est la fin de ton épreuve. Quelque chose de beaucoup plus excitant t’attendra à ton retour, si tu vois ce que je veux dire. Heh heh heh.${prompt}
+  10826: "Lorsque tu auras acquis suffisamment de compétence, le ${item-singular: 0[2]} reconnaîtra ta puissance et son pouvoir s’estompera.${prompt}"
+  10827: Qu’est-ce que tu veux ? Tu as déjà fini, n’est-ce pas ?${prompt}
+  10828: Eh bien, si c’est tout, alors sors de cette grotte et retourne sur le champ de bataille !${prompt}
+  10829: "Tu as perdu le ${item-singular: 0[2]} !?${prompt}"
+  10830: Idiot ! Tu avais la chance parfaite d’apprendre une nouvelle technique mortelle, et tu l’as gâchée ! J’ai vu des crabes avec plus de cervelle que toi. Va-t-en de ma vue !${prompt}
+  10831: Ha ha ha. Je t’ai bien eu, n’est-ce pas ? Bien que je ne vais pas te féliciter pour ta stupidité, je vais te donner une dernière chance. Mais si tu refais une erreur, je...${prompt}
+  10832: Abandonner ? T’as frappé ta tête sur le plafond de la grotte en entrant ? Tu ne penses quand même pas à abandonner maintenant, si ?${prompt}
   10833: |-
     Incroyable. Je pensais que tu avais plus de potentiel que cela...
-    Eh bien, rends-moi ${keyitem-singular: 1[2]} que je t'ai donné.${prompt}
+    Eh bien, rends-moi ${keyitem-singular: 1[2]} que je t’ai donné.${prompt}
   10834: 'Quant à ${item-singular: 0[2]}, ce n'est plus qu'un morceau de ferraille maintenant. Vends-le, jette-le, je me fiche de ce que tu en fais.${prompt}'
   10835: |-
     Si c'était censé être drôle, alors ne pense pas à quitter ton travail de sitôt.
