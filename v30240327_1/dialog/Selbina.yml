@@ -15893,23 +15893,23 @@ entries:
   6360: |-
     ${number: 0} ${number: 1} ${number: 2} ${number: 3}
     ${number: 4} ${number: 5} ${number: 6} ${number: 7}${prompt}
-  6361: You open the tome to the “Moogle's Almanack” chapter and peruse its weather prognostication pages.${prompt}
-  6362: 'Close observation of the sky reveals that the weather in this area today will be ${weather-adjective: 0[2]} with occasional ${weather-noun: 1[2]}. There is also a slight chance of ${weather-noun: 2[2]}, so caution is in order.${prompt}'
-  6363: 'Predicting ahead, tomorrow''s weather looks to be ${weather-adjective: 0[2]} with occasional ${weather-noun: 1[2]}. There is also a slight chance of ${weather-noun: 2[2]}, so caution is in order.${prompt}'
-  6364: 'Finally, the forecast for the day after tomorrow calls for ${weather-noun: 0[2]} with occasional ${weather-noun: 1[2]}. There is also a slight chance of ${weather-noun: 2[2]}, so caution is in order.${prompt}'
-  6365: 'Close observation of the sky reveals that the weather in this area today will be ${weather-adjective: 0[2]} with a chance of ${weather-noun: 1[2]}.${prompt}'
-  6366: 'Predicting ahead, tomorrow''s weather looks to be ${weather-adjective: 0[2]} with a chance of ${weather-noun: 1[2]}.${prompt}'
-  6367: 'Finally, the forecast for the day after tomorrow calls for ${weather-noun: 0[2]} with a chance of ${weather-noun: 1[2]}.${prompt}'
-  6368: 'Close observation of the sky reveals that the weather in this area today will be ${weather-adjective: 0[2]}. There is also the possibility of ${weather-noun: 2[2]}, so caution is in order.${prompt}'
-  6369: 'Predicting ahead, tomorrow''s weather looks to be ${weather-adjective: 0[2]}. There is also the possibility of ${weather-noun: 2[2]}, so caution is in order.${prompt}'
-  6370: 'Finally, the forecast for the day after tomorrow calls for ${weather-noun: 0[2]}. There is also the possibility of ${weather-noun: 2[2]}, so caution is advised.${prompt}'
-  6371: 'Close observation of the sky reveals that the weather in this area today will be ${weather-adjective: 0[2]}.${prompt}'
-  6372: 'Predicting ahead, tomorrow''s weather looks to be ${weather-adjective: 0[2]}.${prompt}'
-  6373: 'Finally, the forecast for the day after tomorrow calls for ${weather-noun: 0[2]}.${prompt}'
-  6374: '${color-alt: 121}==== WARNING：addr.(${unknown: 0x7F9500})=${number: 1} ===='
-  6375: We hope you enjoy this complimentary little gift, courtesy of the citizens of Vana'diel!
-  6376: Make some room in your inventory to claim your prize!
-  6377: Have a gander at this special collaboration with Pictlogica Final Fantasy!
+  6361: Vous ouvrez le tome au chapitre « Almanach du Moogle » et parcourez ses pages de prévisions météorologiques.${prompt}
+  6362: 'Une observation attentive du ciel révèle que le temps dans cette région aujourd’hui sera ${weather-adjective: 0[2]} avec des ${weather-noun: 1[2]} occasionnels. Il y a aussi une légère chance de ${weather-noun: 2[2]}, donc la prudence est de mise.${prompt}'
+  6363: 'En prévoyant à l’avance, la météo de demain semble ${weather-adjective: 0[2]} avec des ${weather-noun: 1[2]} occasionnels. Il y a aussi une légère chance de ${weather-noun: 2[2]}, donc la prudence est de mise.${prompt}'
+  6364: 'Enfin, les prévisions pour après-demain annoncent ${weather-noun: 0[2]} avec des ${weather-noun: 1[2]} occasionnels. Il y a aussi une légère chance de ${weather-noun: 2[2]}, donc la prudence est de mise.${prompt}'
+  6365: 'Une observation attentive du ciel révèle que le temps dans cette région aujourd’hui sera ${weather-adjective: 0[2]} avec une chance de ${weather-noun: 1[2]}.${prompt}'
+  6366: 'En prévoyant à l’avance, la météo de demain semble ${weather-adjective: 0[2]} avec une chance de ${weather-noun: 1[2]}.${prompt}'
+  6367: 'Enfin, les prévisions pour après-demain annoncent ${weather-noun: 0[2]} avec une chance de ${weather-noun: 1[2]}.${prompt}'
+  6368: 'Une observation attentive du ciel révèle que le temps dans cette région aujourd’hui sera ${weather-adjective: 0[2]}. Il y a aussi la possibilité de ${weather-noun: 2[2]}, donc la prudence est de mise.${prompt}' 
+  6369: 'En prévoyant à l’avance, la météo de demain semble ${weather-adjective: 0[2]}. Il y a aussi la possibilité de ${weather-noun: 2[2]}, donc la prudence est de mise.${prompt}'
+  6370: 'Enfin, les prévisions pour après-demain annoncent ${weather-noun: 0[2]}. Il y a aussi la possibilité de ${weather-noun: 2[2]}, donc la prudence est conseillée.${prompt}'
+  6371: 'Une observation attentive du ciel révèle que le temps dans cette région aujourd’hui sera ${weather-adjective: 0[2]}.${prompt}'
+  6372: 'En prévoyant à l’avance, la météo de demain semble ${weather-adjective: 0[2]}.${prompt}'
+  6373: 'Enfin, les prévisions pour après-demain annoncent ${weather-noun: 0[2]}.${prompt}'
+  6374: '${color-alt: 121}==== Avertissement：addr.(${unknown: 0x7F9500})=${number: 1} ===='
+  6375: Nous espérons que vous apprécierez ce petit cadeau gratuit, offert par les citoyens de Vana'diel !
+  6376: Faites de la place dans votre inventaire pour réclamer votre prix !
+  6377: Jetez un coup d'œil à cette collaboration spéciale avec Pictlogica Final Fantasy !
   6378: |-
     The Adventurer Gratitude Campaign is currently underway!
     Enjoy this special gift courtesy of the FINAL FANTASY XI team!
